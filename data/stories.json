@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-04-02T12:34:56.425Z",
-    "story_count": 32,
+    "generated_at": "2026-04-02T13:15:54.931Z",
+    "story_count": 38,
     "oldest_story": "2026-04-01T20:15:00Z",
     "newest_story": "2026-04-02T18:22:00Z",
     "window_hours": 24
@@ -518,6 +518,102 @@
       "category": "politics",
       "significance": 3,
       "section": "news"
+    },
+    {
+      "id": "sport/2026/apr/02/leicester-bordeaux-champions-cup-rugby-union",
+      "headline": "Weakened Leicester show why away sides need Champions Cup miracles",
+      "summary": "Leicester struggles in Champions Cup away tie; visiting teams rarely win last-16 matches.",
+      "url": "https://www.theguardian.com/p/x4ymap",
+      "thumbnail": "https://media.guim.co.uk/72d0263ec5aa42bbbe141d1980b636759b8542e5/956_0_4874_3901/500.jpg",
+      "published": "2026-04-02T13:00:25Z",
+      "location": {
+        "name": "Bordeaux",
+        "lat": 44.8378,
+        "lng": -0.5792
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "us-news/2026/apr/02/civil-rights-groups-mail-in-voting-trump-lawsuit",
+      "headline": "Civil rights groups sue Trump administration over order to limit mail-in voting",
+      "summary": "Civil rights groups sue Trump over executive order restricting mail-in voting access.",
+      "url": "https://www.theguardian.com/p/x4mx2y",
+      "thumbnail": "https://media.guim.co.uk/71e4f941867e7f9631bbe225218aed11d34605f1/444_0_4421_3539/500.jpg",
+      "published": "2026-04-02T13:00:24Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/apr/02/21-games-later-iraq-back-at-the-world-cup-after-epic-qualifying-campaign",
+      "headline": "21 games later: Iraq back at the World Cup after epic qualifying campaign",
+      "summary": "Iraq qualifies for World Cup after 40 years, defeating Bolivia in epic playoff campaign.",
+      "url": "https://www.theguardian.com/p/x4mv5d",
+      "thumbnail": "https://media.guim.co.uk/1e092eb44f76c8a4a8c26246df8a1257fab5e20f/253_0_1561_1249/500.jpg",
+      "published": "2026-04-02T13:00:24Z",
+      "location": {
+        "name": "Iraq",
+        "lat": 33.2232,
+        "lng": 43.6793
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "technology/2026/apr/02/google-allows-users-alter-quirky-gmail-addresses",
+      "headline": "Goodbye mrbrightside416: Google allows users to alter quirky Gmail addresses",
+      "summary": "Google allows US Gmail users to change usernames for more professional email addresses.",
+      "url": "https://www.theguardian.com/p/x4mvtv",
+      "thumbnail": "https://media.guim.co.uk/c885f9e4dd4f517604064a0fd91f7595efa3df8a/392_0_3557_2848/500.jpg",
+      "published": "2026-04-02T12:41:34Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "tech",
+      "significance": 1,
+      "section": "technology"
+    },
+    {
+      "id": "politics/2026/apr/02/reform-donor-nick-candy-sells-chelsea-mansion-providence-house",
+      "headline": "Reform donor Nick Candy sells Chelsea mansion for reported £275m",
+      "summary": "Reform UK donor Nick Candy sells Chelsea mansion for record £275m in London.",
+      "url": "https://www.theguardian.com/p/x4mxve",
+      "thumbnail": "https://media.guim.co.uk/079fa281f5e93d70bf0b2e51bf029c73b6f53146/384_82_2230_1783/500.jpg",
+      "published": "2026-04-02T12:37:52Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "business/2026/apr/02/oil-price-rises-markets-slide-following-trump-iran-war-address",
+      "headline": "Oil price jumps and markets slide after Trump warning to Iran",
+      "summary": "Oil surges 8% past $109 after Trump threatens Iran 'extremely hard' in Middle East.",
+      "url": "https://www.theguardian.com/p/x4mvv6",
+      "thumbnail": "https://media.guim.co.uk/b968ef1fd8af75bce00dc7852cf58351dfeb4346/928_95_5573_4462/500.jpg",
+      "published": "2026-04-02T12:35:07Z",
+      "location": {
+        "name": "Iran",
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "category": "economy",
+      "significance": 4,
+      "section": "business"
     }
   ]
 }
