@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-04-02T17:27:55.451Z",
-    "story_count": 38,
+    "generated_at": "2026-04-02T19:59:20.572Z",
+    "story_count": 47,
     "oldest_story": "2026-04-02T11:29:14Z",
-    "newest_story": "2026-04-02T17:24:45Z",
+    "newest_story": "2026-04-02T19:46:42Z",
     "window_hours": 24
   },
   "stories": [
@@ -614,6 +614,150 @@
       "category": "culture",
       "significance": 2,
       "section": "stage"
+    },
+    {
+      "id": "us-news/2026/apr/02/trump-pam-bondi-attorney-general",
+      "headline": "Trump fires Pam Bondi, a loyalist and ally, as attorney general",
+      "summary": "Trump fires attorney general Pam Bondi over Epstein files handling and failure to prosecute political enemies.",
+      "url": "https://www.theguardian.com/p/x4ypbp",
+      "thumbnail": "https://media.guim.co.uk/d4177f15b6589845e10c1d1c7abde27a0d5b06f5/175_0_4279_3422/500.jpg",
+      "published": "2026-04-02T19:46:42Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 4,
+      "section": "us-news"
+    },
+    {
+      "id": "tv-and-radio/2026/apr/02/louis-ck-netflix-festival",
+      "headline": "Louis CK to headline Hollywood Bowl for Netflix festival",
+      "summary": "Louis CK to headline Hollywood Bowl for Netflix Is a Joke festival, first major streamer outing since 2017.",
+      "url": "https://www.theguardian.com/p/x4m2yk",
+      "thumbnail": "https://media.guim.co.uk/3d02df86f3f2f7d79cdcd443c341ea912e226ab7/69_0_1861_1489/500.jpg",
+      "published": "2026-04-02T19:43:14Z",
+      "location": {
+        "name": "Los Angeles",
+        "lat": 34.0522,
+        "lng": -118.2437
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "tv-and-radio"
+    },
+    {
+      "id": "us-news/2026/apr/02/trump-pam-bondi-reaction",
+      "headline": "Democrats cheer Trump’s firing of Pam Bondi and attack Epstein files ‘cover-up’",
+      "summary": "Democrats celebrate Bondi's firing, criticize Epstein files cover-up and alleged damage by attorney general.",
+      "url": "https://www.theguardian.com/p/x4m2fg",
+      "thumbnail": "https://media.guim.co.uk/c915b0ec96f7e8a1f3676c0c9c81fcc7009b243c/424_0_4240_3392/500.jpg",
+      "published": "2026-04-02T19:28:54Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "society/2026/apr/02/uk-drug-exports-to-us-spared-tariffs-under-deal-critics-say-will-cost-nhs-billions",
+      "headline": "UK drug exports to US spared tariffs under deal critics say will cost NHS billions",
+      "summary": "UK-US drug pricing deal spares British exports from tariffs but critics warn NHS will lose billions.",
+      "url": "https://www.theguardian.com/p/x4m2ya",
+      "thumbnail": "https://media.guim.co.uk/872c73121e2da21bffa7825af3b532f4d6bfbc0a/667_0_4080_3264/500.jpg",
+      "published": "2026-04-02T19:27:18Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 3,
+      "section": "society"
+    },
+    {
+      "id": "world/2026/apr/02/trump-warns-tehran-more-to-follow-after-strike-destroys-irans-largest-bridge",
+      "headline": "Trump warns Tehran ‘more to follow’ after strike destroys Iran’s largest bridge",
+      "summary": "Trump claims responsibility for destroying Iran's largest bridge; warns 'more to follow' in escalating conflict.",
+      "url": "https://www.theguardian.com/p/x4m2b9",
+      "thumbnail": "https://media.guim.co.uk/dea420d315c126046f3a27553e9a0695fd4c88e4/227_130_1651_1320/500.jpg",
+      "published": "2026-04-02T19:23:26Z",
+      "location": {
+        "name": "Tehran",
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "category": "conflict",
+      "significance": 5,
+      "section": "world"
+    },
+    {
+      "id": "football/2026/apr/02/barcelona-hit-six-past-real-madrid-again-to-set-up-wcl-semi-final-with-bayern-munich",
+      "headline": "Barcelona hit six past Real Madrid again to set up WCL semi-final with Bayern Munich",
+      "summary": "Barcelona thrashes Real Madrid 6-0 to reach Women's Champions League semi-finals with dominant display.",
+      "url": "https://www.theguardian.com/p/x4m2n3",
+      "thumbnail": "https://media.guim.co.uk/f360fcb02e73f8ebc1e9d198d86465eea7bed875/390_0_3901_3121/500.jpg",
+      "published": "2026-04-02T19:14:57Z",
+      "location": {
+        "name": "Barcelona",
+        "lat": 41.3851,
+        "lng": 2.1734
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "world/2026/apr/02/maple-syrup-scam-quebec-canada",
+      "headline": "Alleged maple syrup scam in Quebec uncovered by Canadian broadcaster",
+      "summary": "Canadian broadcaster uncovers major Quebec maple syrup scam: producer diluting product with cane sugar.",
+      "url": "https://www.theguardian.com/p/x4m2ez",
+      "thumbnail": "https://media.guim.co.uk/399f1c632340639ee4ad79698b89a55f0a53beab/175_0_3227_2583/500.jpg",
+      "published": "2026-04-02T19:07:20Z",
+      "location": {
+        "name": "Quebec City",
+        "lat": 46.8139,
+        "lng": -71.208
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "technology/2026/apr/02/google-ai-datacenter",
+      "headline": "Google to tap into gas plant for AI datacenter in sharp turn from climate goals",
+      "summary": "Google partners with Texas gas plant for AI datacenter, emitting 4.5M tons CO2 yearly despite climate pledges.",
+      "url": "https://www.theguardian.com/p/x4m2j2",
+      "thumbnail": "https://media.guim.co.uk/857170bbd43526d1645ea24a7bde2a160bdefc5c/683_0_6827_5464/500.jpg",
+      "published": "2026-04-02T18:55:08Z",
+      "location": {
+        "name": "Austin",
+        "lat": 30.2672,
+        "lng": -97.7431
+      },
+      "category": "climate",
+      "significance": 3,
+      "section": "technology"
+    },
+    {
+      "id": "uk-news/2026/apr/02/children-as-young-as-12-buying-and-selling-knives-and-weapons-via-the-internet",
+      "headline": "Children as young as 12 buying and selling knives and weapons via the internet",
+      "summary": "Children as young as 12 buying and selling knives online; government vows crackdown on illegal weapons trade.",
+      "url": "https://www.theguardian.com/p/x4m2jm",
+      "thumbnail": "https://media.guim.co.uk/48880c13d91c605507b0bf36af7a4c5bc6d62fdd/684_0_2669_2137/500.jpg",
+      "published": "2026-04-02T18:53:31Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "uk-news"
     }
   ]
 }
