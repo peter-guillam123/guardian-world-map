@@ -174,14 +174,13 @@ function validateStory(extracted, articlesById) {
   const { id, location_name, lat, lng, category, significance, summary } =
     extracted;
 
-  if (!location_name) return null; // No geographic location — skip
-  if (!articlesById.has(id)) return null;
-  if (typeof lat !== "number" || lat < -90 || lat > 90) return null;
-  if (typeof lng !== "number" || lng < -180 || lng > 180) return null;
-  if (!VALID_CATEGORIES.has(category)) return null;
-  if (!Number.isInteger(significance) || significance < 1 || significance > 5)
-    return null;
-  if (!summary || typeof summary !== "string") return null;
+  if (!location_name) { console.log(`    Skip ${id}: no location`); return null; }
+  if (!articlesById.has(id)) { console.log(`    Skip ${id}: id not in articles map`); return null; }
+  if (typeof lat !== "number" || lat < -90 || lat > 90) { console.log(`    Skip ${id}: bad lat ${lat}`); return null; }
+  if (typeof lng !== "number" || lng < -180 || lng > 180) { console.log(`    Skip ${id}: bad lng ${lng}`); return null; }
+  if (!VALID_CATEGORIES.has(category)) { console.log(`    Skip ${id}: bad category ${category}`); return null; }
+  if (!Number.isInteger(significance) || significance < 1 || significance > 5) { console.log(`    Skip ${id}: bad significance ${significance}`); return null; }
+  if (!summary || typeof summary !== "string") { console.log(`    Skip ${id}: bad summary`); return null; }
 
   const article = articlesById.get(id);
   return {
