@@ -147,7 +147,7 @@ async function extractLocations(articles) {
     const input = buildBatchInput(batch);
     try {
       const msg = await client.messages.create({
-        model: "claude-haiku-4-5-20241022",
+        model: "claude-haiku-4-5-20251001",
         max_tokens: 4096,
         system: SYSTEM_PROMPT,
         messages: [{ role: "user", content: JSON.stringify(input) }],
