@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-04-02T21:56:11.156Z",
-    "story_count": 50,
+    "generated_at": "2026-04-02T23:05:51.227Z",
+    "story_count": 54,
     "oldest_story": "2026-04-02T11:29:14Z",
-    "newest_story": "2026-04-02T21:41:47Z",
+    "newest_story": "2026-04-02T23:03:12Z",
     "window_hours": 24
   },
   "stories": [
@@ -798,6 +798,70 @@
       "url": "https://www.theguardian.com/p/x4m3vh",
       "thumbnail": "https://media.guim.co.uk/1f3673aa139c094e6cafb16a742dc1053d51700c/1237_0_12371_9900/500.jpg",
       "published": "2026-04-02T21:05:08Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/apr/03/matildas-captain-sam-kerr-chelsea-exit-denver-summit",
+      "headline": "Sam Kerr set for Chelsea exit after reportedly signing with US club Denver Summit",
+      "summary": "Australian striker Sam Kerr set to leave Chelsea for NWSL expansion club Denver Summit.",
+      "url": "https://www.theguardian.com/p/x4m3ch",
+      "thumbnail": "https://media.guim.co.uk/2f8a7f48b87d4a75a7540025d54019b68ac290b2/373_0_3500_2800/500.jpg",
+      "published": "2026-04-02T23:03:12Z",
+      "location": {
+        "name": "Denver",
+        "lat": 39.7392,
+        "lng": -104.9903
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/apr/03/fa-cup-quarter-finals-things-to-look-out-for-this-weekend",
+      "headline": "FA Cup quarter-finals: things to look out for this weekend",
+      "summary": "FA Cup quarter-finals feature Chelsea, West Ham, Leeds and Manchester City this weekend.",
+      "url": "https://www.theguardian.com/p/x4yyk6",
+      "thumbnail": "https://media.guim.co.uk/7ffa275752df7096cd7537a8f55a3d557f52fc5d/0_0_5000_4000/500.jpg",
+      "published": "2026-04-02T23:01:36Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "tv-and-radio/2026/apr/02/harry-clark-goes-to-rome-review-so-lovely-youll-be-weeping-buckets",
+      "headline": "Harry Clark Goes to Rome review – so lovely you’ll be weeping buckets ",
+      "summary": "Harry Clark's Vatican documentary offers deeply moving exploration of faith and maternal relationships.",
+      "url": "https://www.theguardian.com/p/x4ym6z",
+      "thumbnail": "https://media.guim.co.uk/2ff3016caa36df065c8b95ae696cefde773b4f73/714_300_2647_2117/500.jpg",
+      "published": "2026-04-02T22:40:35Z",
+      "location": {
+        "name": "Rome",
+        "lat": 41.9028,
+        "lng": 12.4964
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "tv-and-radio"
+    },
+    {
+      "id": "us-news/2026/apr/02/randy-george-pete-hegseth-us-army",
+      "headline": "Top US army officer steps down after Hegseth reportedly demanded removal",
+      "summary": "US Army chief of staff Randy George steps down after Defense Secretary Hegseth's reported demand.",
+      "url": "https://www.theguardian.com/p/x4m3fg",
+      "thumbnail": "https://media.guim.co.uk/64a8ab069b122740cb3ebf9b43a08dd0adc59d12/94_0_2813_2250/500.jpg",
+      "published": "2026-04-02T22:37:40Z",
       "location": {
         "name": "Washington DC",
         "lat": 38.9072,
