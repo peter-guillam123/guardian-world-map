@@ -67,33 +67,45 @@ function pruneOld(stories) {
 // ---------------------------------------------------------------------------
 
 async function fetchGuardianArticles() {
-  const now = new Date();
-  const fromDate = now.toISOString().slice(0, 10); // YYYY-MM-DD
+  const cutoff = new Date(Date.now() - LOOKBACK_MINUTES * 60 * 1000);
+  const fromDate = cutoff.toISOString();
 
-  const params = new URLSearchParams({
-    "from-date": fromDate,
-    "order-by": "newest",
-    "page-size": "50",
-    "show-fields":
-      "headline,standfirst,trailText,bodyText,thumbnail,shortUrl,wordcount",
-    "show-tags": "keyword",
-    "api-key": GUARDIAN_API_KEY,
-  });
+  const allResults = [];
+  let page = 1;
+  const maxPages = 5; // Safety limit: 5 pages * 200 = 1000 articles max
 
-  const url = `https://content.guardianapis.com/search?${params}`;
-  const res = await fetch(url);
+  while (page <= maxPages) {
+    const params = new URLSearchParams({
+      "from-date": fromDate,
+      "order-by": "newest",
+      "page-size": "200",
+      "page": String(page),
+      "show-fields":
+        "headline,standfirst,trailText,bodyText,thumbnail,shortUrl,wordcount",
+      "show-tags": "keyword",
+      "api-key": GUARDIAN_API_KEY,
+    });
 
-  if (!res.ok) {
-    console.error(`Guardian API error: ${res.status} ${res.statusText}`);
-    return [];
+    const url = `https://content.guardianapis.com/search?${params}`;
+    const res = await fetch(url);
+
+    if (!res.ok) {
+      console.error(`Guardian API error: ${res.status} ${res.statusText}`);
+      break;
+    }
+
+    const json = await res.json();
+    const results = json.response?.results ?? [];
+    allResults.push(...results);
+
+    // Stop if we got everything or this was the last page
+    const totalPages = json.response?.pages ?? 1;
+    if (page >= totalPages || results.length === 0) break;
+    page++;
   }
 
-  const json = await res.json();
-  const results = json.response?.results ?? [];
-
-  // Filter to articles within the lookback window
-  const cutoff = Date.now() - LOOKBACK_MINUTES * 60 * 1000;
-  return results.filter((r) => Date.parse(r.webPublicationDate) > cutoff);
+  console.log(`  Guardian fetched ${allResults.length} articles across ${page} page(s)`);
+  return allResults;
 }
 
 // ---------------------------------------------------------------------------
