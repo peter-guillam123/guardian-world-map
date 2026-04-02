@@ -1,0 +1,15 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "guardian-map",
+      "runtimeExecutable": "/Users/cjmoran/.local/nodejs/bin/npx",
+      "runtimeArgs": ["serve", "."],
+      "port": 3000,
+      "autoPort": true,
+      "env": {
+        "PATH": "/Users/cjmoran/.local/nodejs/bin:/usr/bin:/bin"
+      }
+    }
+  ]
+}

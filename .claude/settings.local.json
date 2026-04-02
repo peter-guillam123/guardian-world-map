@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install:*)",
+      "Read(//usr/local/bin/**)",
+      "Read(//usr/local/lib/**)",
+      "Bash(mdfind -name npm -onlyin /usr/local)",
+      "Bash(mdfind -name node -onlyin /opt)",
+      "Bash(brew install:*)",
+      "Bash(/opt/homebrew/bin/brew install:*)",
+      "Bash(/usr/local/bin/brew install:*)",
+      "Bash(curl -fsSL https://nodejs.org/dist/v22.14.0/node-v22.14.0-darwin-arm64.tar.xz -o /tmp/node.tar.xz)",
+      "Bash(sudo mkdir:*)",
+      "Bash(sudo tar:*)",
+      "Bash(rm /tmp/node.tar.xz)",
+      "Bash(mkdir -p \"$HOME/.local/nodejs\")",
+      "Bash(tar -xJf /tmp/node.tar.xz -C \"$HOME/.local/nodejs\" --strip-components=1)",
+      "Bash(export PATH=\"$HOME/.local/nodejs/bin:$PATH\")",
+      "Bash(npm --version)",
+      "mcp__Claude_Preview__preview_start",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:3000)"
+    ]
+  }
+}

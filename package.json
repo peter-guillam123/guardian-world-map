@@ -1,0 +1,14 @@
+{
+  "name": "guardian-world-map",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A live world map plotting Guardian news articles as geographic nodes",
+  "scripts": {
+    "fetch": "node scripts/fetch-stories.js",
+    "serve": "npx serve . -l 3000"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0"
+  }
+}
