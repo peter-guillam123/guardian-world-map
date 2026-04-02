@@ -66,9 +66,13 @@ export async function fetchStories() {
   return { stories, meta, newStories };
 }
 
-export function filterByHours(stories, hours) {
+export function filterByHours(stories, hours, hiddenCategories) {
   const cutoff = Date.now() - hours * 60 * 60 * 1000;
-  return stories.filter((s) => Date.parse(s.published) > cutoff);
+  return stories.filter((s) => {
+    if (Date.parse(s.published) <= cutoff) return false;
+    if (hiddenCategories && hiddenCategories.size && hiddenCategories.has(s.category)) return false;
+    return true;
+  });
 }
 
 export function getStoryById(stories, id) {

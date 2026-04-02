@@ -196,6 +196,20 @@ html, body {
   border-radius: 50%;
   display: inline-block;
   flex-shrink: 0;
+  transition: opacity 0.2s;
+}
+
+.legend-item {
+  transition: opacity 0.2s;
+  user-select: none;
+}
+
+.legend-item-off {
+  opacity: 0.3;
+}
+
+.legend-item-off .legend-dot {
+  opacity: 0.4;
 }
 
 /* ---------------------------------------------------------------------------

@@ -4,7 +4,7 @@
 
 import { initMap, updateSource, onStoryClick, flyTo, tickHaloAnimation } from "./map.js";
 import { fetchStories, filterByHours, storiesToGeoJSON } from "./stories.js";
-import { initFilters, getActiveHours } from "./filters.js";
+import { initFilters, getActiveHours, getHiddenCategories } from "./filters.js";
 import { open as openPanel, openList as openPanelList, setOnStorySelect } from "./panel.js";
 import { setMapInstance, animateNewStories, ambientPing } from "./animations.js";
 import { initToasts, showNewStoryToasts } from "./toasts.js";
@@ -56,7 +56,7 @@ async function refresh() {
 
 function applyFilter() {
   const hours = getActiveHours();
-  const filtered = filterByHours(allStories, hours);
+  const filtered = filterByHours(allStories, hours, getHiddenCategories());
   const geojson = storiesToGeoJSON(filtered);
   updateSource(geojson);
   updateStoryCount(filtered.length);
