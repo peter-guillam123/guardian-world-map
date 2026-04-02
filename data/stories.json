@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-04-02T19:59:20.572Z",
-    "story_count": 47,
+    "generated_at": "2026-04-02T21:56:11.156Z",
+    "story_count": 50,
     "oldest_story": "2026-04-02T11:29:14Z",
-    "newest_story": "2026-04-02T19:46:42Z",
+    "newest_story": "2026-04-02T21:41:47Z",
     "window_hours": 24
   },
   "stories": [
@@ -758,6 +758,54 @@
       "category": "health",
       "significance": 2,
       "section": "uk-news"
+    },
+    {
+      "id": "us-news/2026/apr/02/pam-bondi-attorney-general-trump-timeline",
+      "headline": "Epstein accusations and pressure from the boss: Bondi’s time as Trump’s chief enforcer",
+      "summary": "Trump fires Attorney General Pam Bondi over Epstein files handling and failed prosecutions of political enemies.",
+      "url": "https://www.theguardian.com/p/x4m2f9",
+      "thumbnail": "https://media.guim.co.uk/0227b902514ac9a55bc76d48dde6ef41288f5724/333_0_3333_2667/500.jpg",
+      "published": "2026-04-02T21:41:47Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 4,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/apr/02/trump-100-tariff-us-pharmaceutical-drug-makers",
+      "headline": "Trump threatens 100% tariff on US drug makers that don’t strike deals to lower prices",
+      "summary": "Trump threatens 100% tariffs on US pharmaceutical companies refusing to lower drug prices.",
+      "url": "https://www.theguardian.com/p/x4m394",
+      "thumbnail": "https://media.guim.co.uk/106a3dbcec4bcb395bf27bbf8c08973e554e3d1f/413_0_4109_3289/500.jpg",
+      "published": "2026-04-02T21:33:24Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "economy",
+      "significance": 4,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/apr/02/why-pam-bondi-fired",
+      "headline": "Bondi firing a reminder that even ultra-loyalists get dumped by Trump",
+      "summary": "Pam Bondi's firing demonstrates Trump's pattern of dismissing even ultra-loyal administration officials.",
+      "url": "https://www.theguardian.com/p/x4m3vh",
+      "thumbnail": "https://media.guim.co.uk/1f3673aa139c094e6cafb16a742dc1053d51700c/1237_0_12371_9900/500.jpg",
+      "published": "2026-04-02T21:05:08Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
     }
   ]
 }
