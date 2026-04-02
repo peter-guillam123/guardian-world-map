@@ -157,7 +157,17 @@ async function extractLocations(articles) {
       // Strip markdown fences if present
       text = text.replace(/^```(?:json)?\s*\n?/i, "").replace(/\n?```\s*$/i, "").trim();
       const parsed = JSON.parse(text);
-      if (Array.isArray(parsed)) allResults.push(...parsed);
+      if (Array.isArray(parsed)) {
+        // Match results back to input articles by index or by id
+        for (let i = 0; i < parsed.length; i++) {
+          const result = parsed[i];
+          // If Claude didn't return the id, match by array position
+          if (!result.id && i < batch.length) {
+            result.id = batch[i].id;
+          }
+          allResults.push(result);
+        }
+      }
     } catch (err) {
       console.error("Claude API error for batch:", err.message);
     }
