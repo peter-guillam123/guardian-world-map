@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-04-02T13:25:24.295Z",
-    "story_count": 20,
+    "generated_at": "2026-04-02T13:49:35.799Z",
+    "story_count": 25,
     "oldest_story": "2026-04-02T11:29:14Z",
-    "newest_story": "2026-04-02T13:00:25Z",
+    "newest_story": "2026-04-02T13:47:14Z",
     "window_hours": 24
   },
   "stories": [
@@ -326,6 +326,86 @@
       "category": "economy",
       "significance": 4,
       "section": "business"
+    },
+    {
+      "id": "business/2026/apr/02/stellantis-recall-44000-uk-vehicles-fault-fires",
+      "headline": "Stellantis recalls 44,000 UK vehicles over fault that could cause fires",
+      "summary": "Stellantis recalls 44,000 UK vehicles across multiple brands due to fire fault risk.",
+      "url": "https://www.theguardian.com/p/x4mx67",
+      "thumbnail": "https://media.guim.co.uk/c63d2dbfecfcee76a2be8c9710b44d9c6223b3f0/255_0_4702_3761/500.jpg",
+      "published": "2026-04-02T13:47:14Z",
+      "location": {
+        "name": "United Kingdom",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "science/2026/apr/02/artemis-ii-nasa-moon-launch-american-moment",
+      "headline": "Artemis II marks Nasa’s new moon age, wrapped in patriotism and global promise",
+      "summary": "Artemis II moon mission launches with diverse crew, marking NASA's return to lunar exploration.",
+      "url": "https://www.theguardian.com/p/x4ypmh",
+      "thumbnail": "https://media.guim.co.uk/3820f7b795bb285f68da386bc26eb92f22740a37/378_0_4574_3662/500.jpg",
+      "published": "2026-04-02T13:39:12Z",
+      "location": {
+        "name": "Kennedy Space Center, Florida",
+        "lat": 28.3922,
+        "lng": -80.6077
+      },
+      "category": "tech",
+      "significance": 4,
+      "section": "science"
+    },
+    {
+      "id": "science/2026/apr/02/artemis-ii-astronauts-earth-orbit-moon-nasa",
+      "headline": "Artemis II astronauts prepare to leave Earth’s orbit and head towards the moon",
+      "summary": "Artemis II astronauts prepare to leave Earth orbit and head toward the moon on 10-day voyage.",
+      "url": "https://www.theguardian.com/p/x4mvqb",
+      "thumbnail": "https://media.guim.co.uk/494f730921d54eb8f7ac905e7070c6750924229e/310_0_5675_4543/500.jpg",
+      "published": "2026-04-02T13:24:47Z",
+      "location": {
+        "name": "Kennedy Space Center, Florida",
+        "lat": 28.3922,
+        "lng": -80.6077
+      },
+      "category": "tech",
+      "significance": 4,
+      "section": "science"
+    },
+    {
+      "id": "uk-news/2026/apr/02/uk-flag-raising-group-leader-arrested-alarm-distress-raise-the-colours",
+      "headline": "UK flag-raising group leader arrested on suspicion of causing ‘alarm and distress’",
+      "summary": "Flag-raising group leader arrested on suspicion of causing religiously aggravated harassment.",
+      "url": "https://www.theguardian.com/p/x4yndk",
+      "thumbnail": "https://media.guim.co.uk/1a4798d0e6255eb3c3e88859f674b34ac470739f/0_0_5000_4000/500.jpg",
+      "published": "2026-04-02T13:18:37Z",
+      "location": {
+        "name": "United Kingdom",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "football/2026/apr/02/stadium-quiz-fans-going-to-match",
+      "headline": "Going to the match: can you guess the grounds these fans are walking to?",
+      "summary": "Quiz challenges readers to identify British football stadiums from matchday fan photographs.",
+      "url": "https://www.theguardian.com/p/x4ye2x",
+      "thumbnail": "https://media.guim.co.uk/2ee7b027cdc1f627c8d57cc762d57116e61f987f/229_0_4715_3773/500.jpg",
+      "published": "2026-04-02T13:00:25Z",
+      "location": {
+        "name": "United Kingdom",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 1,
+      "section": "football"
     }
   ]
 }
