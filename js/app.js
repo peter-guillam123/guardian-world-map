@@ -10,7 +10,7 @@ import { setMapInstance, animateNewStories, ambientPing } from "./animations.js"
 import { initToasts, showNewStoryToasts } from "./toasts.js";
 
 const POLL_INTERVAL = 60_000; // 60 seconds
-const STALE_THRESHOLD = 15 * 60_000; // 15 minutes
+const STALE_THRESHOLD = 10 * 60_000; // 10 minutes
 const AMBIENT_PING_INTERVAL = 25_000; // 25 seconds
 const HALO_TICK_INTERVAL = 80; // ~12fps for breathing glow
 
