@@ -153,7 +153,9 @@ async function extractLocations(articles) {
         messages: [{ role: "user", content: JSON.stringify(input) }],
       });
 
-      const text = msg.content[0]?.text ?? "[]";
+      let text = msg.content[0]?.text ?? "[]";
+      // Strip markdown fences if present
+      text = text.replace(/^```(?:json)?\s*\n?/i, "").replace(/\n?```\s*$/i, "").trim();
       const parsed = JSON.parse(text);
       if (Array.isArray(parsed)) allResults.push(...parsed);
     } catch (err) {
