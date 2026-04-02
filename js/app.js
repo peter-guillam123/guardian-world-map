@@ -2,17 +2,21 @@
 // App module — main entry point, wiring, polling
 // ---------------------------------------------------------------------------
 
-import { initMap, updateSource, onStoryClick, getMap } from "./map.js";
+import { initMap, updateSource, onStoryClick, flyTo, tickHaloAnimation } from "./map.js";
 import { fetchStories, filterByHours, storiesToGeoJSON } from "./stories.js";
 import { initFilters, getActiveHours } from "./filters.js";
-import { open as openPanel } from "./panel.js";
-import { setMapInstance, animateNewStories } from "./animations.js";
+import { open as openPanel, openList as openPanelList, setOnStorySelect } from "./panel.js";
+import { setMapInstance, animateNewStories, ambientPing } from "./animations.js";
+import { initToasts, showNewStoryToasts } from "./toasts.js";
 
 const POLL_INTERVAL = 60_000; // 60 seconds
 const STALE_THRESHOLD = 15 * 60_000; // 15 minutes
+const AMBIENT_PING_INTERVAL = 25_000; // 25 seconds
+const HALO_TICK_INTERVAL = 80; // ~12fps for breathing glow
 
 let allStories = [];
 let isFirstLoad = true;
+let lastGeneratedAt = null;
 
 // ---------------------------------------------------------------------------
 // Refresh cycle
@@ -26,14 +30,16 @@ async function refresh() {
     // Update map with filtered stories
     applyFilter();
 
-    // Animate new arrivals (skip on first load to avoid animating everything)
+    // Animate new arrivals (skip on first load)
     if (!isFirstLoad && newStories.length > 0) {
       animateNewStories(newStories);
+      showNewStoryToasts(newStories);
     }
 
     // Update UI chrome
+    lastGeneratedAt = meta.generated_at;
     updateStoryCount();
-    updateTimestamp(meta.generated_at);
+    tickTimestamp();
     checkStaleness(meta.generated_at);
 
     // Hide loading overlay on first successful load
@@ -67,17 +73,26 @@ function updateStoryCount(count) {
   }
 }
 
-function updateTimestamp(isoDate) {
+/** Live-ticking timestamp — called every second */
+function tickTimestamp() {
   const el = document.getElementById("updated-at");
-  if (!isoDate) return;
-  const diff = Date.now() - Date.parse(isoDate);
-  const mins = Math.floor(diff / 60000);
-  if (mins < 1) {
+  if (!lastGeneratedAt) return;
+
+  const diff = Date.now() - Date.parse(lastGeneratedAt);
+  const secs = Math.floor(diff / 1000);
+
+  if (secs < 5) {
     el.textContent = "Updated just now";
-  } else if (mins < 60) {
-    el.textContent = `Updated ${mins}m ago`;
+  } else if (secs < 60) {
+    el.textContent = `Updated ${secs}s ago`;
   } else {
-    el.textContent = `Updated ${Math.floor(mins / 60)}h ago`;
+    const mins = Math.floor(secs / 60);
+    const remSecs = secs % 60;
+    if (mins < 60) {
+      el.textContent = `Updated ${mins}m ${remSecs.toString().padStart(2, "0")}s ago`;
+    } else {
+      el.textContent = `Updated ${Math.floor(mins / 60)}h ${mins % 60}m ago`;
+    }
   }
 }
 
@@ -105,11 +120,36 @@ const map = initMap();
 map.on("load", () => {
   setMapInstance(map);
 
-  // Wire story click → panel
-  onStoryClick((props) => openPanel(props));
+  // Wire individual story click → panel
+  // Wire cluster click → panel list view
+  onStoryClick(
+    (props) => openPanel(props),
+    (stories, coords) => openPanelList(stories, coords)
+  );
+
+  // When a story is selected from the list, fly to it
+  setOnStorySelect((story) => {
+    if (story.location_lng && story.location_lat) {
+      flyTo([parseFloat(story.location_lng), parseFloat(story.location_lat)]);
+    }
+  });
 
   // Wire filter changes
   initFilters((hours) => applyFilter());
+
+  // Wire toast clicks → fly to story + open panel
+  initToasts((story) => {
+    const { lng, lat } = story.location;
+    flyTo([lng, lat], 6);
+    // Small delay to let fly animation start before opening panel
+    setTimeout(() => {
+      openPanel({
+        ...story,
+        location_name: story.location.name,
+        thumbnail: story.thumbnail || "",
+      });
+    }, 300);
+  });
 
   // Initial fetch
   refresh();
@@ -117,6 +157,12 @@ map.on("load", () => {
   // Start polling
   setInterval(refresh, POLL_INTERVAL);
 
-  // Refresh opacity values every 60s (stories fade as they age)
-  setInterval(() => applyFilter(), POLL_INTERVAL);
+  // Live timestamp tick — every second
+  setInterval(tickTimestamp, 1000);
+
+  // Ambient ping — random story pulse every ~25s
+  setInterval(ambientPing, AMBIENT_PING_INTERVAL);
+
+  // Halo breathing animation tick
+  setInterval(tickHaloAnimation, HALO_TICK_INTERVAL);
 });

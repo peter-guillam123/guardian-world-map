@@ -1,5 +1,5 @@
 // ---------------------------------------------------------------------------
-// Animations module — pulse-in for new stories, opacity refresh
+// Animations module — pulse-in, ambient periodic pings
 // ---------------------------------------------------------------------------
 
 import { CATEGORY_COLORS } from "./map.js";
@@ -12,8 +12,6 @@ export function setMapInstance(map) {
 
 /**
  * Animate new story arrivals with a pulse marker.
- * Creates a temporary DOM element at the story's coordinates,
- * plays the CSS animation, then removes it.
  */
 export function animateNewStories(newStories) {
   if (!mapInstance || !newStories.length) return;
@@ -28,13 +26,38 @@ export function animateNewStories(newStories) {
     el.style.width = size + "px";
     el.style.height = size + "px";
     el.style.background = color;
-    el.style.color = color; // Used by ripple box-shadow via currentColor
+    el.style.color = color;
 
     const marker = new maplibregl.Marker({ element: el, anchor: "center" })
       .setLngLat([lng, lat])
       .addTo(mapInstance);
 
-    // Remove after animation completes (pulse-in 0.6s + ripple 1.5s + buffer)
     setTimeout(() => marker.remove(), 2500);
   }
+}
+
+/**
+ * Ambient ping — pick a random visible story and play a subtle ping animation.
+ * Called periodically to create a sense of liveness.
+ */
+export function ambientPing() {
+  if (!mapInstance) return;
+
+  const features = mapInstance.queryRenderedFeatures({ layers: ["unclustered-point"] });
+  if (!features.length) return;
+
+  // Pick a random visible feature
+  const feature = features[Math.floor(Math.random() * features.length)];
+  const coords = feature.geometry.coordinates;
+  const color = CATEGORY_COLORS[feature.properties.category] || CATEGORY_COLORS.other;
+
+  const el = document.createElement("div");
+  el.className = "ambient-ping";
+  el.style.borderColor = color;
+
+  const marker = new maplibregl.Marker({ element: el, anchor: "center" })
+    .setLngLat(coords)
+    .addTo(mapInstance);
+
+  setTimeout(() => marker.remove(), 2000);
 }

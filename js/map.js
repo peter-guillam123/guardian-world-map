@@ -53,6 +53,27 @@ export function initMap() {
       },
     });
 
+    // Layer: halo glow for high-significance stories (breathing animation via paint)
+    map.addLayer({
+      id: "story-halo",
+      type: "circle",
+      source: "stories",
+      filter: ["all",
+        ["!", ["has", "point_count"]],
+        [">=", ["get", "significance"], 4],
+      ],
+      paint: {
+        "circle-color": categoryColorExpr(),
+        "circle-radius": [
+          "interpolate", ["linear"], ["get", "significance"],
+          4, 18,
+          5, 24,
+        ],
+        "circle-opacity": 0.15,
+        "circle-blur": 1,
+      },
+    });
+
     // Layer: cluster circles
     map.addLayer({
       id: "clusters",
@@ -134,29 +155,39 @@ export function setTimeFilter(cutoffTimestamp) {
     : true;
 
   map.setFilter("unclustered-point", ["all", ["!", ["has", "point_count"]], filter]);
-  // Clusters re-filter automatically when underlying data is filtered at source level,
-  // but setFilter on cluster layers doesn't filter individual points within clusters.
-  // We handle this by filtering the GeoJSON data itself in stories.js before updating source.
 }
 
-export function onStoryClick(callback) {
+export function onStoryClick(callback, clusterCallback) {
   // Click on individual story
   map.on("click", "unclustered-point", (e) => {
     const props = e.features[0].properties;
     callback(props);
   });
 
-  // Click on cluster → zoom in
-  map.on("click", "clusters", (e) => {
-    const clusterId = e.features[0].properties.cluster_id;
-    map.getSource("stories").getClusterExpansionZoom(clusterId, (err, zoom) => {
-      if (err) return;
-      map.flyTo({
-        center: e.features[0].geometry.coordinates,
-        zoom: zoom + 1,
-        duration: 500,
-      });
-    });
+  // Click on cluster → get leaves and show in panel
+  map.on("click", "clusters", async (e) => {
+    const feature = e.features[0];
+    const clusterId = feature.properties.cluster_id;
+    const pointCount = feature.properties.point_count;
+    const source = map.getSource("stories");
+
+    try {
+      const leaves = await source.getClusterLeaves(clusterId, pointCount, 0);
+      if (leaves && leaves.length) {
+        const stories = leaves.map((l) => l.properties);
+        clusterCallback(stories, feature.geometry.coordinates);
+      }
+    } catch (err) {
+      // Fallback: zoom into the cluster
+      try {
+        const zoom = await source.getClusterExpansionZoom(clusterId);
+        map.flyTo({
+          center: feature.geometry.coordinates,
+          zoom: zoom + 1,
+          duration: 500,
+        });
+      } catch {}
+    }
   });
 
   // Cursor pointer on hover
@@ -168,6 +199,19 @@ export function onStoryClick(callback) {
       map.getCanvas().style.cursor = "";
     });
   }
+}
+
+export function flyTo(lngLat, zoom) {
+  map.flyTo({ center: lngLat, zoom: zoom || 6, duration: 800 });
+}
+
+// Animate the halo layer opacity for breathing effect
+let haloPhase = 0;
+export function tickHaloAnimation() {
+  if (!map || !map.getLayer("story-halo")) return;
+  haloPhase += 0.05;
+  const opacity = 0.1 + Math.sin(haloPhase) * 0.08;
+  map.setPaintProperty("story-halo", "circle-opacity", opacity);
 }
 
 export { CATEGORY_COLORS };
