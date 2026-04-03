@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-04-02T23:05:51.227Z",
-    "story_count": 54,
+    "generated_at": "2026-04-03T05:26:19.566Z",
+    "story_count": 59,
     "oldest_story": "2026-04-02T11:29:14Z",
-    "newest_story": "2026-04-02T23:03:12Z",
+    "newest_story": "2026-04-03T05:20:43Z",
     "window_hours": 24
   },
   "stories": [
@@ -870,6 +870,86 @@
       "category": "politics",
       "significance": 3,
       "section": "us-news"
+    },
+    {
+      "id": "tv-and-radio/2026/apr/03/tv-tonight-riotous-irish-comedy-the-young-offenders-return",
+      "headline": "TV tonight: riotous Irish comedy The Young Offenders return ",
+      "summary": "The Young Offenders returns for fifth season on BBC One with new prison escape storyline.",
+      "url": "https://www.theguardian.com/p/x4kh6q",
+      "thumbnail": "https://media.guim.co.uk/aff27000e98cf02f115a42c07e86dbdcf585b879/235_0_1295_1036/500.jpg",
+      "published": "2026-04-03T05:20:43Z",
+      "location": {
+        "name": "Cork",
+        "lat": 51.8985,
+        "lng": -8.4761
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "tv-and-radio"
+    },
+    {
+      "id": "world/live/2026/apr/03/middle-east-crisis-live-trump-urges-iran-to-make-deal-after-bridge-strike",
+      "headline": "Middle East crisis live: Trump urges Iran to make deal after bridge strike",
+      "summary": "Trump warns Iran after bridge strike; UN votes on defending Hormuz shipping amid Middle East tensions.",
+      "url": "https://www.theguardian.com/p/x4m3q6",
+      "thumbnail": "https://media.guim.co.uk/dea420d315c126046f3a27553e9a0695fd4c88e4/227_130_1651_1320/500.jpg",
+      "published": "2026-04-03T05:14:06Z",
+      "location": {
+        "name": "Iran",
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "world/2026/apr/03/pope-leos-first-easter-one-year-in-what-do-catholics-think-of-the-new-pontiff",
+      "headline": "Pope Leo’s first Easter: one year in, what do Catholics think of the new pontiff?",
+      "summary": "Pope Leo marks first Easter as pontiff amid debate over his stance on global conflicts.",
+      "url": "https://www.theguardian.com/p/x4mv53",
+      "thumbnail": "https://media.guim.co.uk/0324a23a3ede3f86bf32c43e311674a6a95fd87d/174_0_1703_1362/500.jpg",
+      "published": "2026-04-03T05:00:43Z",
+      "location": {
+        "name": "Vatican City",
+        "lat": 41.9029,
+        "lng": 12.4534
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "uk-news/2026/apr/03/birmingham-city-council-doubles-agency-spending-during-bin-strikes",
+      "headline": "Birmingham city council doubles agency spending during bin strikes",
+      "summary": "Birmingham council doubles agency spending to counter bin workers' strike entering second year.",
+      "url": "https://www.theguardian.com/p/x4mxz3",
+      "thumbnail": "https://media.guim.co.uk/99a775ab37382565917900750aaf9b5610f2acd9/369_0_2500_2000/500.jpg",
+      "published": "2026-04-03T05:00:43Z",
+      "location": {
+        "name": "Birmingham",
+        "lat": 52.5086,
+        "lng": -1.8853
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "environment/2026/apr/03/country-diary-the-rise-of-the-rare-pasqueflower-is-my-easter-miracle",
+      "headline": "Country diary: The rise of the rare pasqueflower is my Easter miracle",
+      "summary": "Rare pasqueflower thrives at Therfield Heath in Hertfordshire, creating Easter season botanical miracle.",
+      "url": "https://www.theguardian.com/p/x4kzhj",
+      "thumbnail": "https://media.guim.co.uk/3f5b5509189f3241a9fdbe3a684d31e9b30400e7/0_0_2880_2304/500.jpg",
+      "published": "2026-04-03T04:30:42Z",
+      "location": {
+        "name": "Therfield Heath",
+        "lat": 52.0267,
+        "lng": -0.1578
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "environment"
     }
   ]
 }
