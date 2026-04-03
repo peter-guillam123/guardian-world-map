@@ -1,60 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-03T19:56:34.807Z",
-    "story_count": 59,
-    "oldest_story": "2026-04-02T21:05:08Z",
-    "newest_story": "2026-04-03T19:53:59Z",
+    "generated_at": "2026-04-03T21:51:23.138Z",
+    "story_count": 61,
+    "oldest_story": "2026-04-02T22:37:40Z",
+    "newest_story": "2026-04-03T21:44:51Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "us-news/2026/apr/02/pam-bondi-attorney-general-trump-timeline",
-      "headline": "Epstein accusations and pressure from the boss: Bondi’s time as Trump’s chief enforcer",
-      "summary": "Trump fires Attorney General Pam Bondi over Epstein files handling and failed prosecutions of political enemies.",
-      "url": "https://www.theguardian.com/p/x4m2f9",
-      "thumbnail": "https://media.guim.co.uk/0227b902514ac9a55bc76d48dde6ef41288f5724/333_0_3333_2667/500.jpg",
-      "published": "2026-04-02T21:41:47Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 4,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/apr/02/trump-100-tariff-us-pharmaceutical-drug-makers",
-      "headline": "Trump threatens 100% tariff on US drug makers that don’t strike deals to lower prices",
-      "summary": "Trump threatens 100% tariffs on US pharmaceutical companies refusing to lower drug prices.",
-      "url": "https://www.theguardian.com/p/x4m394",
-      "thumbnail": "https://media.guim.co.uk/106a3dbcec4bcb395bf27bbf8c08973e554e3d1f/413_0_4109_3289/500.jpg",
-      "published": "2026-04-02T21:33:24Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "economy",
-      "significance": 4,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/apr/02/why-pam-bondi-fired",
-      "headline": "Bondi firing a reminder that even ultra-loyalists get dumped by Trump",
-      "summary": "Pam Bondi's firing demonstrates Trump's pattern of dismissing even ultra-loyal administration officials.",
-      "url": "https://www.theguardian.com/p/x4m3vh",
-      "thumbnail": "https://media.guim.co.uk/1f3673aa139c094e6cafb16a742dc1053d51700c/1237_0_12371_9900/500.jpg",
-      "published": "2026-04-02T21:05:08Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
     {
       "id": "football/2026/apr/03/matildas-captain-sam-kerr-chelsea-exit-denver-summit",
       "headline": "Sam Kerr set for Chelsea exit after reportedly signing with US club Denver Summit",
@@ -946,6 +898,86 @@
         "name": "Manchester",
         "lat": 53.4808,
         "lng": -2.2426
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "politics/2026/apr/03/sadiq-khan-protection-officers-leave-bag-with-guns-and-taser-on-south-london-street",
+      "headline": "Sadiq Khan protection officers ‘leave bag with guns and Taser on south London street’",
+      "summary": "Met police investigate Sadiq Khan protection officers leaving bag with guns and Taser on street.",
+      "url": "https://www.theguardian.com/p/x4m8ja",
+      "thumbnail": "https://media.guim.co.uk/38727be839bde30f5b099eb8ada6f1591b180ebb/434_207_3160_2526/500.jpg",
+      "published": "2026-04-03T21:44:51Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "us-news/2026/apr/03/attorneys-general-trump-mail-in-voting-lawsuit",
+      "headline": "Democratic attorneys general sue Trump over order to restrict mail voting",
+      "summary": "Over 20 Democratic attorneys general sue Trump over executive order restricting mail-in voting.",
+      "url": "https://www.theguardian.com/p/x4m8y3",
+      "thumbnail": "https://media.guim.co.uk/1a895cb746f80a9153c63f7ef740e45e0a5c4cce/26_0_2381_1906/500.jpg",
+      "published": "2026-04-03T21:40:18Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/apr/03/pep-guardiola-rodri-join-real-madrid-manchester-city",
+      "headline": "Pep Guardiola will not stand in Rodri’s way if he wants to join Real Madrid",
+      "summary": "Pep Guardiola says Rodri can leave Manchester City for Real Madrid if he wishes to depart.",
+      "url": "https://www.theguardian.com/p/x4m6pf",
+      "thumbnail": "https://media.guim.co.uk/29b861bd5d23e6b58fcb307ebdbdaf59766b1b25/0_19_2452_1962/500.jpg",
+      "published": "2026-04-03T21:30:03Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/apr/03/mohamed-salah-arne-slot-liverpool-football",
+      "headline": "Slot has no regrets over treatment of Salah and insists forward solely decided Liverpool exit",
+      "summary": "Arne Slot insists Mohamed Salah's Liverpool exit was solely the forward's personal decision.",
+      "url": "https://www.theguardian.com/p/x4m76d",
+      "thumbnail": "https://media.guim.co.uk/66c2130b36be630c5870ff0614986619b90526a6/86_0_1200_960/500.jpg",
+      "published": "2026-04-03T21:30:03Z",
+      "location": {
+        "name": "Liverpool",
+        "lat": 53.4308,
+        "lng": -2.9605
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/apr/03/like-a-ball-of-poison-mikel-arteta-admits-to-pain-from-arsenals-carabao-cup-final-loss",
+      "headline": "‘Like a ball of poison’: Mikel Arteta admits to pain from Arsenal’s Carabao Cup final loss",
+      "summary": "Mikel Arteta admits Arsenal's Carabao Cup loss feels like 'ball of poison' but vows silverware.",
+      "url": "https://www.theguardian.com/p/x4m7dm",
+      "thumbnail": "https://media.guim.co.uk/a3830ee2a87e043f8fd814415d82eadfb85cf3b7/292_0_2917_2333/500.jpg",
+      "published": "2026-04-03T21:30:03Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
       },
       "category": "sport",
       "significance": 2,
