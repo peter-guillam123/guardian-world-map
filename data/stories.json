@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-04-03T10:31:05.963Z",
-    "story_count": 71,
-    "oldest_story": "2026-04-02T11:29:14Z",
-    "newest_story": "2026-04-03T10:27:30Z",
+    "generated_at": "2026-04-03T12:04:34.432Z",
+    "story_count": 76,
+    "oldest_story": "2026-04-02T12:06:54Z",
+    "newest_story": "2026-04-03T12:02:09Z",
     "window_hours": 24
   },
   "stories": [
@@ -134,102 +134,6 @@
       "category": "other",
       "significance": 2,
       "section": "uk-news"
-    },
-    {
-      "id": "money/2026/apr/02/us-student-loan-debt-forgiveness",
-      "headline": "Lucky few Americans whose student debt was forgiven: ‘I hit the lottery’",
-      "summary": "Small fraction of 43M Americans with student debt have had balances forgiven under programs.",
-      "url": "https://www.theguardian.com/p/x4ynmb",
-      "thumbnail": "https://media.guim.co.uk/4a6f45d1e93dd5e8b40ea141eb05655473b4ea4e/581_0_6211_4971/500.jpg",
-      "published": "2026-04-02T12:00:23Z",
-      "location": {
-        "name": "United States",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "money"
-    },
-    {
-      "id": "sport/2026/apr/02/rams-star-puka-nacua-in-rehab-amid-claims-of-antisemitic-remark-and-biting-incident",
-      "headline": "Rams star Puka Nacua in rehab amid claims of antisemitic remark and biting incident",
-      "summary": "Rams star Puka Nacua in rehab amid antisemitic remark and biting incident allegations.",
-      "url": "https://www.theguardian.com/p/x4mx4h",
-      "thumbnail": "https://media.guim.co.uk/e7faba2188030f353452f6ac9e1b5744467e0a88/662_0_3333_2667/500.jpg",
-      "published": "2026-04-02T11:58:29Z",
-      "location": {
-        "name": "Los Angeles",
-        "lat": 34.0522,
-        "lng": -118.2437
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "business/2026/apr/02/uk-firms-expect-to-raise-prices-more-quickly-as-iran-war-pushes-up-costs",
-      "headline": "UK firms expect to raise prices more quickly as Iran war pushes up costs",
-      "summary": "UK firms expect rapid price increases as Iran war drives up business costs significantly.",
-      "url": "https://www.theguardian.com/p/x4mvdj",
-      "thumbnail": "https://media.guim.co.uk/855b0ce2c21fa17d261f9466031cea8e9a44ab04/1290_39_3683_2948/500.jpg",
-      "published": "2026-04-02T11:41:13Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "business"
-    },
-    {
-      "id": "uk-news/2026/apr/02/drivers-told-to-hunt-for-cheapest-fuel-as-easter-set-to-be-busiest-on-uk-roads-since-2022",
-      "headline": "Drivers told to look for cheapest fuel ahead of ‘busiest Easter on UK roads since 2022’",
-      "summary": "UK Easter travel forecast busiest since 2022; fuel prices surge from Iran war fallout.",
-      "url": "https://www.theguardian.com/p/x4mvaj",
-      "thumbnail": "https://media.guim.co.uk/eae845f9b90483a0541cc49bf4505930df48657f/682_0_6821_5457/500.jpg",
-      "published": "2026-04-02T11:37:15Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "business/2026/apr/02/eco-shoe-brand-allbirds-sold-american-exchange-group",
-      "headline": "‘From high flyer to dead parrot’: former billion-dollar eco-shoe brand Allbirds sold for $39m",
-      "summary": "Allbirds eco-shoe brand sold for $39M, down from $4B valuation as demand collapsed.",
-      "url": "https://www.theguardian.com/p/x4mvda",
-      "thumbnail": "https://media.guim.co.uk/8793e35afbfbb20ddd8f2ddc2832cae4ebbb54e9/375_0_2500_2000/500.jpg",
-      "published": "2026-04-02T11:35:29Z",
-      "location": {
-        "name": "San Francisco",
-        "lat": 37.7749,
-        "lng": -122.4194
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "news/2026/apr/02/rowntrees-joseph-rowntree-charitable-trust-keon-west-head-of-reparations",
-      "headline": "Rowntree’s trust appoints Keon West to tackle brand’s colonial history",
-      "summary": "Rowntree's chocolate trust appoints academic to address colonial history and enslavement links in supply chains.",
-      "url": "https://www.theguardian.com/p/x4yn2v",
-      "thumbnail": "https://media.guim.co.uk/556a70ad5cf2c23f44ed83105a4c45cb6c529505/462_0_4617_3693/500.jpg",
-      "published": "2026-04-02T11:29:14Z",
-      "location": {
-        "name": "United Kingdom",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "news"
     },
     {
       "id": "sport/2026/apr/02/leicester-bordeaux-champions-cup-rugby-union",
@@ -1142,6 +1046,182 @@
       "category": "culture",
       "significance": 1,
       "section": "food"
+    },
+    {
+      "id": "us-news/live/2026/apr/03/trump-justice-department-bondi-blanche-epstein-latest-updates",
+      "headline": "Todd Blanche takes over justice department after Pam Bondi sacking – US politics live ",
+      "summary": "Todd Blanche assumes acting attorney general role after Pam Bondi's dismissal.",
+      "url": "https://www.theguardian.com/p/x4m6dq",
+      "thumbnail": "https://media.guim.co.uk/1257bbb79e3c34e2002dfd97e9b2b6526970be53/255_0_2546_2037/500.jpg",
+      "published": "2026-04-03T12:02:09Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 4,
+      "section": "us-news"
+    },
+    {
+      "id": "stage/2026/apr/03/resistible-rise-arturo-ui-mark-gatiss-placebo-interview-brecht-swan-theatre-stratford",
+      "headline": "‘It was a warning from history – now it’s the bloody muse!’ Mark Gatiss and Placebo on reviving Brecht’s brutal Hitler satire",
+      "summary": "Brecht's Hitler satire Arturo Ui revived at Swan Theatre with Mark Gatiss and Placebo.",
+      "url": "https://www.theguardian.com/p/x4kx6j",
+      "thumbnail": "https://media.guim.co.uk/6dc6b999d117c6d3ce54921cf1a529ffae0ae810/0_1472_7256_5802/500.jpg",
+      "published": "2026-04-03T12:00:52Z",
+      "location": {
+        "name": "Stratford-upon-Avon",
+        "lat": 52.1916,
+        "lng": -1.7138
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "stage"
+    },
+    {
+      "id": "environment/2026/apr/03/hard-work-how-to-grow-a-meadow-in-the-sea",
+      "headline": "‘Hard work’: how to grow a meadow in the sea",
+      "summary": "UK communities restore seagrass meadows in coastal waters to combat environmental damage.",
+      "url": "https://www.theguardian.com/p/x4ybhc",
+      "thumbnail": "https://media.guim.co.uk/f1ecd0aeb490b6201d1f23f7e36afd0f4afb61a0/278_169_1455_1164/500.jpg",
+      "published": "2026-04-03T12:00:52Z",
+      "location": {
+        "name": "Anglesey",
+        "lat": 53.2411,
+        "lng": -4.2881
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "environment"
+    },
+    {
+      "id": "education/2026/apr/03/ted-read-obituary",
+      "headline": "Ted Read obituary",
+      "summary": "Ted Read, inspirational classics teacher at Southend High School, dies aged 94.",
+      "url": "https://www.theguardian.com/p/x4j26h",
+      "thumbnail": "https://media.guim.co.uk/432a13d7a67786838475632fe506a281bc0a0667/0_130_1200_960/500.jpg",
+      "published": "2026-04-03T11:45:26Z",
+      "location": {
+        "name": "Southend-on-Sea",
+        "lat": 51.5453,
+        "lng": 0.7084
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "education"
+    },
+    {
+      "id": "education/2026/apr/03/oxford-brookes-f1-formula-student-competition-fastest-race-car",
+      "headline": "Oxford Brookes’ student racing team target Silverstone win ",
+      "summary": "Oxford Brookes Racing targets Silverstone Formula Student competition victory.",
+      "url": "https://www.theguardian.com/p/x4m2he",
+      "thumbnail": "https://media.guim.co.uk/1660b24a9522256b2baa46629013dae08146b0e6/1100_0_6830_5464/500.jpg",
+      "published": "2026-04-03T11:45:01Z",
+      "location": {
+        "name": "Oxford",
+        "lat": 51.752,
+        "lng": -1.2577
+      },
+      "category": "tech",
+      "significance": 2,
+      "section": "education"
+    },
+    {
+      "id": "artanddesign/2026/apr/03/clare-gittings-obituary",
+      "headline": "Clare Gittings obituary",
+      "summary": "Clare Gittings, National Portrait Gallery learning manager, dies aged 71.",
+      "url": "https://www.theguardian.com/p/x4ycdq",
+      "thumbnail": "https://media.guim.co.uk/34fe76f7644a12927b13ed90861d83c87f28f487/121_291_362_289/master/362.jpg",
+      "published": "2026-04-03T11:36:40Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "artanddesign"
+    },
+    {
+      "id": "football/2026/apr/03/chelsea-axe-enzo-fernandez-for-two-games-after-crossing-a-line-with-madrid-comments",
+      "headline": "Chelsea axe Enzo Fernández for two games after ‘crossing a line’ with Madrid comments",
+      "summary": "Chelsea drops Enzo Fernández for two games over Real Madrid comments.",
+      "url": "https://www.theguardian.com/p/x4m678",
+      "thumbnail": "https://media.guim.co.uk/9c491c738834260ff306383f0aaf4caa9af83d18/401_0_4792_3834/500.jpg",
+      "published": "2026-04-03T11:11:16Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "world/2026/apr/03/iraq-deep-rifts-balancing-act-iran-war",
+      "headline": "Iraqi leaders face balancing act as Iran conflict exposes deep rifts",
+      "summary": "Iraq faces deep divisions over Iran's influence amid regional conflict escalation.",
+      "url": "https://www.theguardian.com/p/x4hd93",
+      "thumbnail": "https://media.guim.co.uk/13df66a43e771c069cf63114101732e43308e3cf/440_0_3985_3188/500.jpg",
+      "published": "2026-04-03T11:00:51Z",
+      "location": {
+        "name": "Baghdad",
+        "lat": 33.3128,
+        "lng": 44.3615
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "uk-news/2026/apr/03/it-has-been-traumatic-the-cornwall-landmark-left-battered-by-storm-goretti",
+      "headline": "‘It has been traumatic’: the Cornwall landmark left battered by Storm Goretti ",
+      "summary": "St Michael's Mount still recovering from Storm Goretti's devastating 100mph winds.",
+      "url": "https://www.theguardian.com/p/x4mxf8",
+      "thumbnail": "https://media.guim.co.uk/1881bdffbe0ea4f69666cc9e8d2306d8df0c8814/0_0_4944_3957/500.jpg",
+      "published": "2026-04-03T11:00:50Z",
+      "location": {
+        "name": "Cornwall",
+        "lat": 50.1122,
+        "lng": -5.3519
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "us-news/2026/apr/03/trump-pam-bondi-administration",
+      "headline": "Trump accused of running ‘misogynistic administration’ after Bondi dismissal",
+      "summary": "Trump fires attorney general Pam Bondi, accused of running misogynistic administration.",
+      "url": "https://www.theguardian.com/p/x4m2zd",
+      "thumbnail": "https://media.guim.co.uk/55f01850f2627e4807493001886b34e8d1824c60/417_0_4186_3348/500.jpg",
+      "published": "2026-04-03T11:00:50Z",
+      "location": {
+        "name": "Washington, DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "music/2026/apr/03/indie-rock-chicago-friko-and-the-weeks-best-new-tracks",
+      "headline": "Add to playlist: the endlessly inventive, radiant indie rock of Friko and the week’s best new tracks",
+      "summary": "Chicago indie rock band Friko releases inventive new album celebrating hope and friendship.",
+      "url": "https://www.theguardian.com/p/x4ygg9",
+      "thumbnail": "https://media.guim.co.uk/7625c933dab758e36899824830f428528e96108f/0_1066_3046_2437/500.jpg",
+      "published": "2026-04-03T11:00:33Z",
+      "location": {
+        "name": "Chicago",
+        "lat": 41.8781,
+        "lng": -87.6298
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "music"
     }
   ]
 }
