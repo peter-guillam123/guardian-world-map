@@ -1,76 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-03T21:51:23.138Z",
-    "story_count": 61,
-    "oldest_story": "2026-04-02T22:37:40Z",
-    "newest_story": "2026-04-03T21:44:51Z",
+    "generated_at": "2026-04-03T23:50:38.763Z",
+    "story_count": 63,
+    "oldest_story": "2026-04-03T04:30:42Z",
+    "newest_story": "2026-04-03T23:01:05Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/2026/apr/03/matildas-captain-sam-kerr-chelsea-exit-denver-summit",
-      "headline": "Sam Kerr set for Chelsea exit after reportedly signing with US club Denver Summit",
-      "summary": "Australian striker Sam Kerr set to leave Chelsea for NWSL expansion club Denver Summit.",
-      "url": "https://www.theguardian.com/p/x4m3ch",
-      "thumbnail": "https://media.guim.co.uk/2f8a7f48b87d4a75a7540025d54019b68ac290b2/373_0_3500_2800/500.jpg",
-      "published": "2026-04-02T23:03:12Z",
-      "location": {
-        "name": "Denver",
-        "lat": 39.7392,
-        "lng": -104.9903
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/apr/03/fa-cup-quarter-finals-things-to-look-out-for-this-weekend",
-      "headline": "FA Cup quarter-finals: things to look out for this weekend",
-      "summary": "FA Cup quarter-finals feature Chelsea, West Ham, Leeds and Manchester City this weekend.",
-      "url": "https://www.theguardian.com/p/x4yyk6",
-      "thumbnail": "https://media.guim.co.uk/7ffa275752df7096cd7537a8f55a3d557f52fc5d/0_0_5000_4000/500.jpg",
-      "published": "2026-04-02T23:01:36Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "tv-and-radio/2026/apr/02/harry-clark-goes-to-rome-review-so-lovely-youll-be-weeping-buckets",
-      "headline": "Harry Clark Goes to Rome review – so lovely you’ll be weeping buckets ",
-      "summary": "Harry Clark's Vatican documentary offers deeply moving exploration of faith and maternal relationships.",
-      "url": "https://www.theguardian.com/p/x4ym6z",
-      "thumbnail": "https://media.guim.co.uk/2ff3016caa36df065c8b95ae696cefde773b4f73/714_300_2647_2117/500.jpg",
-      "published": "2026-04-02T22:40:35Z",
-      "location": {
-        "name": "Rome",
-        "lat": 41.9028,
-        "lng": 12.4964
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "tv-and-radio"
-    },
-    {
-      "id": "us-news/2026/apr/02/randy-george-pete-hegseth-us-army",
-      "headline": "Top US army officer steps down after Hegseth reportedly demanded removal",
-      "summary": "US Army chief of staff Randy George steps down after Defense Secretary Hegseth's reported demand.",
-      "url": "https://www.theguardian.com/p/x4m3fg",
-      "thumbnail": "https://media.guim.co.uk/64a8ab069b122740cb3ebf9b43a08dd0adc59d12/94_0_2813_2250/500.jpg",
-      "published": "2026-04-02T22:37:40Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
     {
       "id": "tv-and-radio/2026/apr/03/tv-tonight-riotous-irish-comedy-the-young-offenders-return",
       "headline": "TV tonight: riotous Irish comedy The Young Offenders return ",
@@ -982,6 +918,102 @@
       "category": "sport",
       "significance": 2,
       "section": "football"
+    },
+    {
+      "id": "education/2026/apr/04/masculinity-crisis-brewing-uk-schools-teachers-union",
+      "headline": "A ‘masculinity crisis’ is brewing in UK schools, union says ",
+      "summary": "UK teachers' union warns of 'masculinity crisis' as misogynistic abuse of female staff increases in schools.",
+      "url": "https://www.theguardian.com/p/x4m6ct",
+      "thumbnail": "https://media.guim.co.uk/aa2cd8d638e6874f4376b3a24789d6014ebdb899/541_0_2917_2333/500.jpg",
+      "published": "2026-04-03T23:01:05Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "education"
+    },
+    {
+      "id": "australia-news/2026/apr/04/sustainable-eco-friendly-wedding-australia",
+      "headline": "Sustainably ever after: how to plan an environmentally conscious wedding",
+      "summary": "Average Australian wedding emits 21.5 tonnes of carbon; guide offers sustainable alternatives.",
+      "url": "https://www.theguardian.com/p/x4k545",
+      "thumbnail": "https://media.guim.co.uk/34503b30a2efa41498d3a175dc25cf47e1cf72f0/0_450_2000_1600/500.jpg",
+      "published": "2026-04-03T23:00:07Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "travel/2026/apr/04/new-zealand-south-island-nelson-tasman-coast",
+      "headline": "The most beautiful coast in the world? Exploring New Zealand’s overlooked Nelson Tasman by sand and sea",
+      "summary": "New Zealand's Nelson Tasman coast emerges as overlooked travel destination with stunning natural beauty.",
+      "url": "https://www.theguardian.com/p/x4yp4h",
+      "thumbnail": "https://media.guim.co.uk/dcf9cca2fb1abf7068ba90aa44599c64bf495b90/139_0_1221_977/500.jpg",
+      "published": "2026-04-03T23:00:07Z",
+      "location": {
+        "name": "Nelson",
+        "lat": -41.2865,
+        "lng": 172.1835
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "travel"
+    },
+    {
+      "id": "world/2026/apr/04/india-fuel-crisis-fertiliser-shortage-farming",
+      "headline": "‘India is going to face a food crisis’: Farmers panic over fertiliser shortages amid Iran war ",
+      "summary": "Iran conflict triggers fertiliser shortage panic among Indian farmers, threatening food security.",
+      "url": "https://www.theguardian.com/p/x4yynf",
+      "thumbnail": "https://media.guim.co.uk/6db4554af30a594aadd6b155dc9e353f698d9f38/207_0_3833_3066/500.jpg",
+      "published": "2026-04-03T23:00:06Z",
+      "location": {
+        "name": "Punjab",
+        "lat": 31.5204,
+        "lng": 74.3587
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "commentisfree/2026/apr/04/older-australians-are-healthier-than-ever-but-this-hasnt-changed-the-way-we-talk-or-think-about-over-70s",
+      "headline": "Older Australians are healthier than ever, but this hasn’t changed the way we talk or think about over-70s",
+      "summary": "Older Australians are healthier than ever but ageist terminology persists in social discourse.",
+      "url": "https://www.theguardian.com/p/x4kfaj",
+      "thumbnail": "https://media.guim.co.uk/951bf967dab855f4a450a275b7277e26c9e3034b/0_0_4118_3293/500.jpg",
+      "published": "2026-04-03T23:00:06Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "commentisfree"
+    },
+    {
+      "id": "us-news/2026/apr/03/trump-executive-order-dhs-pay-partial-shutdown",
+      "headline": "Trump issues order declaring all DHS staff get paid amid partial shutdown",
+      "summary": "Trump issues executive order ensuring DHS staff receives pay during longest partial government shutdown.",
+      "url": "https://www.theguardian.com/p/x4m9vy",
+      "thumbnail": "https://media.guim.co.uk/050a0828a6d8747399e62b0a726b7671efcc7dd5/672_0_5478_4383/500.jpg",
+      "published": "2026-04-03T22:57:10Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
     }
   ]
 }
