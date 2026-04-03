@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-04-03T05:26:19.566Z",
-    "story_count": 59,
+    "generated_at": "2026-04-03T08:10:34.949Z",
+    "story_count": 64,
     "oldest_story": "2026-04-02T11:29:14Z",
-    "newest_story": "2026-04-03T05:20:43Z",
+    "newest_story": "2026-04-03T07:58:55Z",
     "window_hours": 24
   },
   "stories": [
@@ -950,6 +950,86 @@
       "category": "culture",
       "significance": 1,
       "section": "environment"
+    },
+    {
+      "id": "football/live/2026/apr/03/fa-cup-buildup-championship-action-and-latest-on-italian-turmoil-football-news-live",
+      "headline": "FA Cup buildup, Championship action and latest on Italian turmoil: football news – live",
+      "summary": "FA Cup and Championship football fixtures this weekend with Manchester City vs Liverpool headline match.",
+      "url": "https://www.theguardian.com/p/x4ymnp",
+      "thumbnail": "https://media.guim.co.uk/e397d9457b020245090343f6d6f7b66ebf6489ec/0_0_6881_5504/500.jpg",
+      "published": "2026-04-03T07:58:55Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "world/2026/apr/03/iran-turkey-kapikoy-border-crossing-war",
+      "headline": "‘Every night they are bombarding’: at border crossing, some Iranians are fleeing war and some are heading home",
+      "summary": "Iranians flee war via Turkey border crossing as bombing and internet blackouts intensify conflict.",
+      "url": "https://www.theguardian.com/p/x4ynf2",
+      "thumbnail": "https://media.guim.co.uk/14813578e5d95a1a56fa57c231e3ee2efecc22b2/626_109_4631_3705/500.jpg",
+      "published": "2026-04-03T07:00:46Z",
+      "location": {
+        "name": "Kapıköy",
+        "lat": 39.4897,
+        "lng": 44.0367
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "film/2026/apr/03/interview-marcio-reolon-filip-matzembacher-night-stage-gay-brazilian",
+      "headline": "‘It’s the year of gay Brazilian cruising!’ The makers of Night Stage on public sex and their ‘deranged erotic thriller’",
+      "summary": "Brazilian filmmakers discuss queer cruising thriller Night Stage and LGBTQ+ cinema landscape.",
+      "url": "https://www.theguardian.com/p/x4ygfy",
+      "thumbnail": "https://media.guim.co.uk/95777bb9b0f4eb7554bcf63347d08f3189cb7740/498_0_1072_858/500.jpg",
+      "published": "2026-04-03T07:00:46Z",
+      "location": {
+        "name": "Recife",
+        "lat": -8.0476,
+        "lng": -34.877
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "film"
+    },
+    {
+      "id": "tv-and-radio/2026/apr/03/your-friends-and-neighbours-season-two-review-jon-hamm-brilliant-moreish-caper",
+      "headline": "Your Friends & Neighbours season two review – Jon Hamm was made for this moreish crime caper ",
+      "summary": "Jon Hamm returns as wealthy thief in season two of crime caper Your Friends & Neighbours.",
+      "url": "https://www.theguardian.com/p/x4ygzv",
+      "thumbnail": "https://media.guim.co.uk/80239c3cf44310ba4e8a350cdc12d7ad742a03d2/647_0_2097_1678/500.jpg",
+      "published": "2026-04-03T07:00:46Z",
+      "location": {
+        "name": "Westport",
+        "lat": 41.1413,
+        "lng": -73.326
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "tv-and-radio"
+    },
+    {
+      "id": "sport/2026/apr/03/chess-sindarov-21-takes-early-1-point-lead-as-uzbek-star-stuns-candidates-field",
+      "headline": "Chess: Sindarov, 21, takes early 1-point lead as Uzbek star stuns Candidates field",
+      "summary": "Uzbek grandmaster Sindarov, 21, leads Chess Candidates tournament with 3.5/4 in Cyprus.",
+      "url": "https://www.theguardian.com/p/x4m286",
+      "thumbnail": "https://media.guim.co.uk/7e2de74ee5917044be90342e3b49c76c51455486/655_0_6546_5237/500.jpg",
+      "published": "2026-04-03T07:00:45Z",
+      "location": {
+        "name": "Nicosia",
+        "lat": 35.1264,
+        "lng": 33.3823
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
     }
   ]
 }
