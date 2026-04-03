@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-04-03T14:33:04.703Z",
-    "story_count": 62,
+    "generated_at": "2026-04-03T16:06:43.229Z",
+    "story_count": 71,
     "oldest_story": "2026-04-02T16:22:20Z",
-    "newest_story": "2026-04-03T14:28:40Z",
+    "newest_story": "2026-04-03T16:05:15Z",
     "window_hours": 24
   },
   "stories": [
@@ -998,6 +998,150 @@
       "category": "culture",
       "significance": 1,
       "section": "thefilter-us"
+    },
+    {
+      "id": "uk-news/2026/apr/03/three-teenagers-arrested-after-14-year-old-boy-shot-dead-in-south-east-london",
+      "headline": "Three teenagers arrested after 14-year-old boy shot dead in south-east London",
+      "summary": "14-year-old boy shot dead in south-east London; three teenagers arrested on suspicion of murder.",
+      "url": "https://www.theguardian.com/p/x4m6kb",
+      "thumbnail": "https://media.guim.co.uk/8487b578cd85472d773b645a37e44e5090b0723a/388_498_344_275/master/344.jpg",
+      "published": "2026-04-03T16:05:15Z",
+      "location": {
+        "name": "Woolwich, London",
+        "lat": 51.4865,
+        "lng": 0.0547
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "uk-news"
+    },
+    {
+      "id": "artanddesign/2026/apr/03/wilhelm-sasnal-review-wilhelm-sasnal-family-history-sadie-coles",
+      "headline": "Wilhelm Sasnal review – his wild juxtapositions are almost obscene",
+      "summary": "Wilhelm Sasnal exhibition at Sadie Coles HQ showcases Polish painter's wild juxtapositions and social media-era perspective.",
+      "url": "https://www.theguardian.com/p/x4mvn4",
+      "thumbnail": "https://media.guim.co.uk/9deeeb37cb616c6fa9f55ec32aad3f3a4889592f/568_256_3195_2556/500.jpg",
+      "published": "2026-04-03T16:04:07Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "artanddesign"
+    },
+    {
+      "id": "football/2026/apr/03/jon-brady-port-vale-fa-cup-quarter-final-chelsea",
+      "headline": "Burslem Globetrotters: Port Vale’s travelling stars plot Chelsea shock",
+      "summary": "Port Vale manager Jon Brady and striker Ben Waine lead League One side toward FA Cup quarter-final against Chelsea.",
+      "url": "https://www.theguardian.com/p/x4m6vy",
+      "thumbnail": "https://media.guim.co.uk/72cc81aac2852a8ce9f4ebea77148bf42fb0b11b/126_492_3967_3172/500.jpg",
+      "published": "2026-04-03T16:00:56Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "film/2026/apr/03/justin-baldoni-blake-lively-lawsuit-lawyers",
+      "headline": "Justin Baldoni’s lawyer says defendants are ‘very good people’ as Blake Lively lawsuit narrows",
+      "summary": "Judge dismisses 10 of Blake Lively's 13 claims against Justin Baldoni in It Ends With Us lawsuit.",
+      "url": "https://www.theguardian.com/p/x4m7v5",
+      "thumbnail": "https://media.guim.co.uk/a565ad32a4afdc2e01713aef56517387833c1109/0_0_1500_1200/500.jpg",
+      "published": "2026-04-03T15:59:44Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "film"
+    },
+    {
+      "id": "commentisfree/2026/apr/03/donald-trump-silver-lining-uk-eu-closer",
+      "headline": "It’s the silver lining from this terrible age of Donald Trump: he is pushing Britain closer to the EU",
+      "summary": "Trump's stance pushes UK closer to EU as Brexit's ten-year anniversary approaches, says columnist.",
+      "url": "https://www.theguardian.com/p/x4m73c",
+      "thumbnail": "https://media.guim.co.uk/5b4a8f85063d2d74828cd206b9719fcb9d73a8b5/9_0_2393_1914/500.jpg",
+      "published": "2026-04-03T15:49:34Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "commentisfree"
+    },
+    {
+      "id": "stage/2026/apr/03/the-high-life-the-musical-still-living-it-review-dundee-rep-alan-cumming",
+      "headline": "The High Life: The Musical, Still Living It! review – the Alan Cumming creation flies into deliriously silly panto territory",
+      "summary": "Alan Cumming and Forbes Masson revive cult 1994 sitcom as musical with panto-style humor at Dundee Rep.",
+      "url": "https://www.theguardian.com/p/x4m5m6",
+      "thumbnail": "https://media.guim.co.uk/5925b6c2549185bf301925a6ba4a0dd5fd7b707d/37_0_6880_5504/500.jpg",
+      "published": "2026-04-03T15:44:55Z",
+      "location": {
+        "name": "Dundee",
+        "lat": 56.4627,
+        "lng": -2.9707
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "stage"
+    },
+    {
+      "id": "sport/2026/apr/03/different-strokes-channel-4-steps-up-for-debut-as-boat-races-get-makeover",
+      "headline": "Different strokes: Channel 4 steps up for debut as Boat Races get makeover",
+      "summary": "Channel 4 debuts Boat Races coverage; Oxford women's crew led by Olympic medallist Heidi Long seeks victory.",
+      "url": "https://www.theguardian.com/p/x4mxk4",
+      "thumbnail": "https://media.guim.co.uk/883fbcbda76e167d0982a189a476915757043e35/307_0_4588_3670/500.jpg",
+      "published": "2026-04-03T15:39:44Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "education/2026/apr/03/harvard-faculty-grade-inflation-vote-a-grades",
+      "headline": "Harvard faculty to vote on proposal to limit number of A grades in each course",
+      "summary": "Harvard faculty to vote on proposal limiting A grades to 20% of students per course to combat inflation.",
+      "url": "https://www.theguardian.com/p/x4m6je",
+      "thumbnail": "https://media.guim.co.uk/6f560204bd39866594ed0f747355e852258769a5/586_0_2372_1899/500.jpg",
+      "published": "2026-04-03T15:07:06Z",
+      "location": {
+        "name": "Cambridge, Massachusetts",
+        "lat": 42.3601,
+        "lng": -71.0589
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "education"
+    },
+    {
+      "id": "fashion/2026/apr/03/linen-belfast-fabric-revival-weaving-new-identity",
+      "headline": "‘Linen is meaningful in Belfast’: how an old industry is weaving the city a new identity",
+      "summary": "Historic linen industry fuels Belfast's stylish revival, embraced by designers and heritage farmers.",
+      "url": "https://www.theguardian.com/p/x4ymkh",
+      "thumbnail": "https://media.guim.co.uk/6f1b8ebbbc35c84ba68d605cf0624c46ab11f113/0_2204_4775_3820/500.jpg",
+      "published": "2026-04-03T15:00:55Z",
+      "location": {
+        "name": "Belfast",
+        "lat": 54.5973,
+        "lng": -5.9301
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "fashion"
     }
   ]
 }
