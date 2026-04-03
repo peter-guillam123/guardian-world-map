@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-04-03T08:10:34.949Z",
-    "story_count": 64,
+    "generated_at": "2026-04-03T10:31:05.963Z",
+    "story_count": 71,
     "oldest_story": "2026-04-02T11:29:14Z",
-    "newest_story": "2026-04-03T07:58:55Z",
+    "newest_story": "2026-04-03T10:27:30Z",
     "window_hours": 24
   },
   "stories": [
@@ -1030,6 +1030,118 @@
       "category": "sport",
       "significance": 2,
       "section": "sport"
+    },
+    {
+      "id": "sport/live/2026/apr/03/county-cricket-season-begins-somerset-v-notts-leicestershire-v-sussex-and-more-day-one-live",
+      "headline": "County cricket season begins: Somerset v Notts, Leicestershire v Sussex and more, day one – live",
+      "summary": "County Championship cricket season begins with Somerset v Notts and other matches.",
+      "url": "https://www.theguardian.com/p/x4ymp2",
+      "thumbnail": "https://media.guim.co.uk/2a42572bea9bc2009a85ec341edba37c90f6f82c/776_0_4959_3967/500.jpg",
+      "published": "2026-04-03T10:27:30Z",
+      "location": {
+        "name": "Somerset",
+        "lat": 51.1436,
+        "lng": -2.6396
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "politics/2026/apr/03/starmer-urged-extend-fuel-duty-cut-iran-war-petrol-prices-cost-of-living",
+      "headline": "Cost of living tsar urges Starmer to extend fuel duty cut in light of Iran war",
+      "summary": "Cost of living tsar urges PM to extend fuel duty cut amid Iran conflict.",
+      "url": "https://www.theguardian.com/p/x4m5zt",
+      "thumbnail": "https://media.guim.co.uk/cbc462f18529408d08b4a7731fa18a32f542c989/867_0_6830_5464/500.jpg",
+      "published": "2026-04-03T10:17:41Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "us-news/2026/apr/03/trump-claims-starmer-weak-mocks-pm-uk-aircraft-carriers-iran-war",
+      "headline": "Trump claims Starmer is weak as he mocks PM and UK aircraft carriers",
+      "summary": "Trump mocks UK PM Starmer over aircraft carrier deployment hesitation.",
+      "url": "https://www.theguardian.com/p/x4m5my",
+      "thumbnail": "https://media.guim.co.uk/ad38a2e83b0cafba46b7f37fd7ff7f1f42b8a8e7/268_0_2665_2133/500.jpg",
+      "published": "2026-04-03T10:09:21Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "artanddesign/2026/apr/03/glen-baxter-obituary",
+      "headline": "Glen Baxter obituary",
+      "summary": "Obituary of absurdist cartoonist Glen Baxter, New Yorker contributor.",
+      "url": "https://www.theguardian.com/p/x4m2b5",
+      "thumbnail": "https://media.guim.co.uk/b1c0410577610ca245a2e9a1c6553d3898e49cbc/567_860_3361_2689/500.jpg",
+      "published": "2026-04-03T10:01:20Z",
+      "location": {
+        "name": "Leeds",
+        "lat": 53.8008,
+        "lng": -1.5491
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "artanddesign"
+    },
+    {
+      "id": "world/2026/apr/03/flavio-is-surname-dropping-son-downplaying-bolsonaro-connection",
+      "headline": "‘It’s not just Flávio’: is surname-dropping son downplaying Bolsonaro connection? ",
+      "summary": "Brazilian senator Flávio downplays Bolsonaro name amid political comeback speculation.",
+      "url": "https://www.theguardian.com/p/x4ybhh",
+      "thumbnail": "https://media.guim.co.uk/f4aece1bc91a97e54696afe612fbdadb4aadc801/451_0_3250_2600/500.jpg",
+      "published": "2026-04-03T10:00:50Z",
+      "location": {
+        "name": "Brasília",
+        "lat": -15.7942,
+        "lng": -47.8822
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "tv-and-radio/2026/apr/03/doctor-who-the-daleks-master-plan-recap",
+      "headline": "Doctor Who: The Daleks’ Master Plan recap",
+      "summary": "Doctor Who classic 'The Daleks' Master Plan' episodes rediscovered from 1960s.",
+      "url": "https://www.theguardian.com/p/x4mxd2",
+      "thumbnail": "https://media.guim.co.uk/0c74a40fa50663d17d6ea9fd0c9d54d56d48afef/684_31_1348_1079/500.jpg",
+      "published": "2026-04-03T09:54:25Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "tv-and-radio"
+    },
+    {
+      "id": "food/2026/apr/03/put-away-the-aperol-and-raise-a-glass-to-hugo-spritz-the-drink-of-the-summer",
+      "headline": "Put away the Aperol and raise a glass to Hugo spritz, the drink of the summer",
+      "summary": "Hugo spritz cocktail expected to replace Aperol spritz as UK's summer drink.",
+      "url": "https://www.theguardian.com/p/x4ygjf",
+      "thumbnail": "https://media.guim.co.uk/d06c3c0790e3ba543ff7c44c7b181f0fc99ef5ef/1000_0_5000_4000/500.jpg",
+      "published": "2026-04-03T09:54:21Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "food"
     }
   ]
 }
