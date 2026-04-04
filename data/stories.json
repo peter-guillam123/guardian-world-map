@@ -1,28 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-04T07:54:56.783Z",
-    "story_count": 67,
-    "oldest_story": "2026-04-03T07:58:55Z",
-    "newest_story": "2026-04-04T07:43:31Z",
+    "generated_at": "2026-04-04T09:58:06.189Z",
+    "story_count": 68,
+    "oldest_story": "2026-04-03T10:00:50Z",
+    "newest_story": "2026-04-04T09:00:18Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/live/2026/apr/03/fa-cup-buildup-championship-action-and-latest-on-italian-turmoil-football-news-live",
-      "headline": "FA Cup buildup, Championship action and latest on Italian turmoil: football news – live",
-      "summary": "FA Cup and Championship football fixtures this weekend with Manchester City vs Liverpool headline match.",
-      "url": "https://www.theguardian.com/p/x4ymnp",
-      "thumbnail": "https://media.guim.co.uk/e397d9457b020245090343f6d6f7b66ebf6489ec/0_0_6881_5504/500.jpg",
-      "published": "2026-04-03T07:58:55Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
     {
       "id": "sport/live/2026/apr/03/county-cricket-season-begins-somerset-v-notts-leicestershire-v-sussex-and-more-day-one-live",
       "headline": "County cricket season begins: Somerset v Notts, Leicestershire v Sussex and more, day one – live",
@@ -102,38 +86,6 @@
       "category": "politics",
       "significance": 2,
       "section": "world"
-    },
-    {
-      "id": "tv-and-radio/2026/apr/03/doctor-who-the-daleks-master-plan-recap",
-      "headline": "Doctor Who: The Daleks’ Master Plan recap",
-      "summary": "Doctor Who classic 'The Daleks' Master Plan' episodes rediscovered from 1960s.",
-      "url": "https://www.theguardian.com/p/x4mxd2",
-      "thumbnail": "https://media.guim.co.uk/0c74a40fa50663d17d6ea9fd0c9d54d56d48afef/684_31_1348_1079/500.jpg",
-      "published": "2026-04-03T09:54:25Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "tv-and-radio"
-    },
-    {
-      "id": "food/2026/apr/03/put-away-the-aperol-and-raise-a-glass-to-hugo-spritz-the-drink-of-the-summer",
-      "headline": "Put away the Aperol and raise a glass to Hugo spritz, the drink of the summer",
-      "summary": "Hugo spritz cocktail expected to replace Aperol spritz as UK's summer drink.",
-      "url": "https://www.theguardian.com/p/x4ygjf",
-      "thumbnail": "https://media.guim.co.uk/d06c3c0790e3ba543ff7c44c7b181f0fc99ef5ef/1000_0_5000_4000/500.jpg",
-      "published": "2026-04-03T09:54:21Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "food"
     },
     {
       "id": "us-news/live/2026/apr/03/trump-justice-department-bondi-blanche-epstein-latest-updates",
@@ -1078,6 +1030,70 @@
       "category": "sport",
       "significance": 1,
       "section": "football"
+    },
+    {
+      "id": "environment/2026/apr/04/new-north-sea-drilling-jackdaw-rosebank-uk-gas-imports",
+      "headline": "New North Sea drilling would barely reduce UK gas imports at all, data shows",
+      "summary": "New North Sea oil fields would supply only 1-2% of UK gas demand, research shows.",
+      "url": "https://www.theguardian.com/p/x4m78a",
+      "thumbnail": "https://media.guim.co.uk/ee76721a4511007e28193dad1bec1a4ca40024bd/269_0_3327_2662/500.jpg",
+      "published": "2026-04-04T09:00:18Z",
+      "location": {
+        "name": "North Sea",
+        "lat": 56.5,
+        "lng": 2
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "environment"
+    },
+    {
+      "id": "football/2026/apr/04/survival-or-glory-daniel-farke-leeds-fa-cup-premier-league",
+      "headline": "Survival or glory? Farke weighs up options as Leeds’ season nears climax",
+      "summary": "Manager Farke balances Leeds' FA Cup ambitions against Premier League survival priority.",
+      "url": "https://www.theguardian.com/p/x4mxy9",
+      "thumbnail": "https://media.guim.co.uk/b6f066f85145c74c489fc64789fc426f130b9c3d/250_0_2500_2000/500.jpg",
+      "published": "2026-04-04T09:00:17Z",
+      "location": {
+        "name": "Leeds",
+        "lat": 53.8008,
+        "lng": -1.5491
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "business/2026/apr/04/uk-food-halls-buck-downbeat-hospitality-trend",
+      "headline": "UK food halls buck downbeat hospitality trend: ‘In this impossible climate, they shine hope’",
+      "summary": "UK food halls boom as cheaper alternative to traditional restaurants amid hospitality downturn.",
+      "url": "https://www.theguardian.com/p/x4yn38",
+      "thumbnail": "https://media.guim.co.uk/9a6fa515e210341b0378ba9de990016ed8c7198b/720_0_7200_5760/500.jpg",
+      "published": "2026-04-04T09:00:17Z",
+      "location": {
+        "name": "Sheffield",
+        "lat": 53.3811,
+        "lng": -1.4701
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "us-news/2026/apr/04/trump-using-dysphemism-language-against-iran",
+      "headline": "Forget euphemism, Trump is using unabashed viciousness in his language against Iran",
+      "summary": "Trump administration uses harsh language and threats against Iran, rejecting diplomatic euphemism.",
+      "url": "https://www.theguardian.com/p/x4yyt8",
+      "thumbnail": "https://media.guim.co.uk/cc6f4d099c4479abe8dda447993a6f852d6cfbc9/308_0_2316_1853/500.jpg",
+      "published": "2026-04-04T09:00:17Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 4,
+      "section": "us-news"
     }
   ]
 }
