@@ -1,92 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-04T11:43:32.697Z",
-    "story_count": 68,
-    "oldest_story": "2026-04-03T11:45:01Z",
-    "newest_story": "2026-04-04T11:42:48Z",
+    "generated_at": "2026-04-04T14:03:24.905Z",
+    "story_count": 65,
+    "oldest_story": "2026-04-03T14:19:19Z",
+    "newest_story": "2026-04-04T13:59:28Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "us-news/live/2026/apr/03/trump-justice-department-bondi-blanche-epstein-latest-updates",
-      "headline": "Todd Blanche takes over justice department after Pam Bondi sacking – US politics live ",
-      "summary": "Todd Blanche assumes acting attorney general role after Pam Bondi's dismissal.",
-      "url": "https://www.theguardian.com/p/x4m6dq",
-      "thumbnail": "https://media.guim.co.uk/1257bbb79e3c34e2002dfd97e9b2b6526970be53/255_0_2546_2037/500.jpg",
-      "published": "2026-04-03T12:02:09Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 4,
-      "section": "us-news"
-    },
-    {
-      "id": "stage/2026/apr/03/resistible-rise-arturo-ui-mark-gatiss-placebo-interview-brecht-swan-theatre-stratford",
-      "headline": "‘It was a warning from history – now it’s the bloody muse!’ Mark Gatiss and Placebo on reviving Brecht’s brutal Hitler satire",
-      "summary": "Brecht's Hitler satire Arturo Ui revived at Swan Theatre with Mark Gatiss and Placebo.",
-      "url": "https://www.theguardian.com/p/x4kx6j",
-      "thumbnail": "https://media.guim.co.uk/6dc6b999d117c6d3ce54921cf1a529ffae0ae810/0_1472_7256_5802/500.jpg",
-      "published": "2026-04-03T12:00:52Z",
-      "location": {
-        "name": "Stratford-upon-Avon",
-        "lat": 52.1916,
-        "lng": -1.7138
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "stage"
-    },
-    {
-      "id": "environment/2026/apr/03/hard-work-how-to-grow-a-meadow-in-the-sea",
-      "headline": "‘Hard work’: how to grow a meadow in the sea",
-      "summary": "UK communities restore seagrass meadows in coastal waters to combat environmental damage.",
-      "url": "https://www.theguardian.com/p/x4ybhc",
-      "thumbnail": "https://media.guim.co.uk/f1ecd0aeb490b6201d1f23f7e36afd0f4afb61a0/278_169_1455_1164/500.jpg",
-      "published": "2026-04-03T12:00:52Z",
-      "location": {
-        "name": "Anglesey",
-        "lat": 53.2411,
-        "lng": -4.2881
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "environment"
-    },
-    {
-      "id": "education/2026/apr/03/ted-read-obituary",
-      "headline": "Ted Read obituary",
-      "summary": "Ted Read, inspirational classics teacher at Southend High School, dies aged 94.",
-      "url": "https://www.theguardian.com/p/x4j26h",
-      "thumbnail": "https://media.guim.co.uk/432a13d7a67786838475632fe506a281bc0a0667/0_130_1200_960/500.jpg",
-      "published": "2026-04-03T11:45:26Z",
-      "location": {
-        "name": "Southend-on-Sea",
-        "lat": 51.5453,
-        "lng": 0.7084
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "education"
-    },
-    {
-      "id": "education/2026/apr/03/oxford-brookes-f1-formula-student-competition-fastest-race-car",
-      "headline": "Oxford Brookes’ student racing team target Silverstone win ",
-      "summary": "Oxford Brookes Racing targets Silverstone Formula Student competition victory.",
-      "url": "https://www.theguardian.com/p/x4m2he",
-      "thumbnail": "https://media.guim.co.uk/1660b24a9522256b2baa46629013dae08146b0e6/1100_0_6830_5464/500.jpg",
-      "published": "2026-04-03T11:45:01Z",
-      "location": {
-        "name": "Oxford",
-        "lat": 51.752,
-        "lng": -1.2577
-      },
-      "category": "tech",
-      "significance": 2,
-      "section": "education"
-    },
     {
       "id": "world/2026/apr/03/us-fighter-jet-confirmed-shot-down-over-iran",
       "headline": "US F-15E jet confirmed shot down over Iran as Tehran releases wreckage images",
@@ -118,54 +38,6 @@
       "category": "conflict",
       "significance": 3,
       "section": "world"
-    },
-    {
-      "id": "football/2026/apr/03/middlesbrough-millwall-championship-match-report",
-      "headline": "Millwall leapfrog Middlesbrough in Championship promotion race after Coburn double",
-      "summary": "Millwall defeats Middlesbrough 2-1 in Championship, moves into promotion contention.",
-      "url": "https://www.theguardian.com/p/x4m6my",
-      "thumbnail": "https://media.guim.co.uk/92e5957885d4836ece1a12ae1ac3dd2176fe9949/285_467_3538_2830/500.jpg",
-      "published": "2026-04-03T13:53:22Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "money/2026/apr/03/extend-fully-paid-maternity-leave-for-uk-teachers-to-stem-exodus-union-says",
-      "headline": "Extend fully paid maternity leave for UK teachers to stem exodus, union says",
-      "summary": "Teachers' union calls for extended paid maternity leave to combat workforce exodus.",
-      "url": "https://www.theguardian.com/p/x4m62e",
-      "thumbnail": "https://media.guim.co.uk/335e96ea6ec4ab90993eee3463fb4d9ded6e6c06/410_0_2926_2341/500.jpg",
-      "published": "2026-04-03T13:39:01Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "education"
-    },
-    {
-      "id": "thefilter-us/2026/apr/03/padma-lakshmi-kitchen-cooking",
-      "headline": "Padma Lakshmi loves her onion goggles – and these other kitchen upgrades",
-      "summary": "Top Chef host Padma Lakshmi shares favorite kitchen tools and cooking tips.",
-      "url": "https://www.theguardian.com/p/x4mxkb",
-      "thumbnail": "https://media.guim.co.uk/24a9849622fd7354c022ffeea45819243325d7f0/1_0_4998_4000/500.jpg",
-      "published": "2026-04-03T13:30:53Z",
-      "location": {
-        "name": "New York City",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "thefilter-us"
     },
     {
       "id": "uk-news/2026/apr/03/three-teenagers-arrested-after-14-year-old-boy-shot-dead-in-south-east-london",
@@ -1094,6 +966,86 @@
       "category": "sport",
       "significance": 2,
       "section": "football"
+    },
+    {
+      "id": "sport/live/2026/apr/04/the-boat-races-2026-oxford-cambridge-latest-news-updates",
+      "headline": "The Boat Races 2026 – Oxford dominate Cambridge in women’s race to end losing streak",
+      "summary": "Oxford wins women's Boat Race for first time since 2016, dominating Cambridge.",
+      "url": "https://www.theguardian.com/p/x4yn27",
+      "thumbnail": "https://media.guim.co.uk/4d14dbc3923a4be382f68767cacc0cf65e8ec3da/260_0_3563_2850/500.jpg",
+      "published": "2026-04-04T13:59:28Z",
+      "location": {
+        "name": "River Thames, London",
+        "lat": 51.4769,
+        "lng": -0.2965
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "uk-news/2026/apr/04/uk-weather-storm-dave-travel-easter-england-scotland-wales",
+      "headline": "Parts of UK braced for heavy snow and gale-force winds as Storm Dave arrives",
+      "summary": "Storm Dave brings heavy snow and gale-force winds across UK this Easter weekend.",
+      "url": "https://www.theguardian.com/p/x4mc4d",
+      "thumbnail": "https://media.guim.co.uk/e40f65cb8a5bcc57a606b579728d6e17a51152f9/456_0_4560_3648/500.jpg",
+      "published": "2026-04-04T13:52:05Z",
+      "location": {
+        "name": "United Kingdom",
+        "lat": 55.3781,
+        "lng": -3.436
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "football/2026/apr/04/manchester-city-liverpool-fa-cup-quarter-final-report",
+      "headline": "Erling Haaland hits hat-trick as Manchester City thrash Liverpool to reach FA Cup semis",
+      "summary": "Erling Haaland scores hat-trick as Manchester City thrash Liverpool 4-0 in FA Cup.",
+      "url": "https://www.theguardian.com/p/x4m7a3",
+      "thumbnail": "https://media.guim.co.uk/1539988785e01ed328ae0eb02a433351fecda396/108_0_2427_1941/500.jpg",
+      "published": "2026-04-04T13:50:48Z",
+      "location": {
+        "name": "Manchester, England",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/apr/05/prices-iran-war-gas-flights-economy",
+      "headline": "‘The good old days are gone’: how will US prices stand as war in Iran surges on?",
+      "summary": "Iran war drives up US gas and airline prices as global economic volatility continues.",
+      "url": "https://www.theguardian.com/p/x4m7zz",
+      "thumbnail": "https://media.guim.co.uk/8a05ca8beec264136762b4d90e95b45212eac2fc/433_0_5107_4085/500.jpg",
+      "published": "2026-04-04T13:00:22Z",
+      "location": {
+        "name": "United States",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "world/2026/apr/04/breakfast-reset-will-marmalade-really-be-renamed-in-post-brexit-food-deal",
+      "headline": "Keir Starmalade, anyone? Will marmalade really have to be rebranded in UK?",
+      "summary": "UK considers EU food rules alignment, potentially rebranding marmalade in trade deal.",
+      "url": "https://www.theguardian.com/p/x4mb52",
+      "thumbnail": "https://media.guim.co.uk/f86133764da645fa27ae6053a5cf8d1c513bf949/833_0_4641_3712/500.jpg",
+      "published": "2026-04-04T12:58:25Z",
+      "location": {
+        "name": "London, United Kingdom",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "world"
     }
   ]
 }
