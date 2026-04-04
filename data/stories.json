@@ -1,44 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-04T14:03:24.905Z",
+    "generated_at": "2026-04-04T15:49:20.600Z",
     "story_count": 65,
-    "oldest_story": "2026-04-03T14:19:19Z",
-    "newest_story": "2026-04-04T13:59:28Z",
+    "oldest_story": "2026-04-03T15:49:34Z",
+    "newest_story": "2026-04-04T15:47:09Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "world/2026/apr/03/us-fighter-jet-confirmed-shot-down-over-iran",
-      "headline": "US F-15E jet confirmed shot down over Iran as Tehran releases wreckage images",
-      "summary": "US F-15E fighter jet shot down over Iran, first incident since war began, crew rescue underway.",
-      "url": "https://www.theguardian.com/p/x4m6mh",
-      "thumbnail": "https://media.guim.co.uk/61ea943c1b0dc46b42c4003f8ca9af4b28cd1569/2161_470_5842_4673/500.jpg",
-      "published": "2026-04-03T14:28:40Z",
-      "location": {
-        "name": "Iran",
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "world/2026/apr/03/french-owned-ship-japanese-tanker-pass-through-strait-of-hormuz-iran-war",
-      "headline": "French-owned ship and Japanese tanker pass through strait of Hormuz",
-      "summary": "French and Japanese vessels navigate Strait of Hormuz amid ongoing Iran conflict disruptions.",
-      "url": "https://www.theguardian.com/p/x4m6j6",
-      "thumbnail": "https://media.guim.co.uk/f695ad1988aeef438f9cd8f954b1c87fe31c1562/126_984_3043_2436/500.jpg",
-      "published": "2026-04-03T14:19:19Z",
-      "location": {
-        "name": "Strait of Hormuz",
-        "lat": 26.5597,
-        "lng": 56.2456
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "world"
-    },
     {
       "id": "uk-news/2026/apr/03/three-teenagers-arrested-after-14-year-old-boy-shot-dead-in-south-east-london",
       "headline": "Three teenagers arrested after 14-year-old boy shot dead in south-east London",
@@ -118,70 +86,6 @@
       "category": "politics",
       "significance": 2,
       "section": "commentisfree"
-    },
-    {
-      "id": "stage/2026/apr/03/the-high-life-the-musical-still-living-it-review-dundee-rep-alan-cumming",
-      "headline": "The High Life: The Musical, Still Living It! review – the Alan Cumming creation flies into deliriously silly panto territory",
-      "summary": "Alan Cumming and Forbes Masson revive cult 1994 sitcom as musical with panto-style humor at Dundee Rep.",
-      "url": "https://www.theguardian.com/p/x4m5m6",
-      "thumbnail": "https://media.guim.co.uk/5925b6c2549185bf301925a6ba4a0dd5fd7b707d/37_0_6880_5504/500.jpg",
-      "published": "2026-04-03T15:44:55Z",
-      "location": {
-        "name": "Dundee",
-        "lat": 56.4627,
-        "lng": -2.9707
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "stage"
-    },
-    {
-      "id": "sport/2026/apr/03/different-strokes-channel-4-steps-up-for-debut-as-boat-races-get-makeover",
-      "headline": "Different strokes: Channel 4 steps up for debut as Boat Races get makeover",
-      "summary": "Channel 4 debuts Boat Races coverage; Oxford women's crew led by Olympic medallist Heidi Long seeks victory.",
-      "url": "https://www.theguardian.com/p/x4mxk4",
-      "thumbnail": "https://media.guim.co.uk/883fbcbda76e167d0982a189a476915757043e35/307_0_4588_3670/500.jpg",
-      "published": "2026-04-03T15:39:44Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "education/2026/apr/03/harvard-faculty-grade-inflation-vote-a-grades",
-      "headline": "Harvard faculty to vote on proposal to limit number of A grades in each course",
-      "summary": "Harvard faculty to vote on proposal limiting A grades to 20% of students per course to combat inflation.",
-      "url": "https://www.theguardian.com/p/x4m6je",
-      "thumbnail": "https://media.guim.co.uk/6f560204bd39866594ed0f747355e852258769a5/586_0_2372_1899/500.jpg",
-      "published": "2026-04-03T15:07:06Z",
-      "location": {
-        "name": "Cambridge, Massachusetts",
-        "lat": 42.3601,
-        "lng": -71.0589
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "education"
-    },
-    {
-      "id": "fashion/2026/apr/03/linen-belfast-fabric-revival-weaving-new-identity",
-      "headline": "‘Linen is meaningful in Belfast’: how an old industry is weaving the city a new identity",
-      "summary": "Historic linen industry fuels Belfast's stylish revival, embraced by designers and heritage farmers.",
-      "url": "https://www.theguardian.com/p/x4ymkh",
-      "thumbnail": "https://media.guim.co.uk/6f1b8ebbbc35c84ba68d605cf0624c46ab11f113/0_2204_4775_3820/500.jpg",
-      "published": "2026-04-03T15:00:55Z",
-      "location": {
-        "name": "Belfast",
-        "lat": 54.5973,
-        "lng": -5.9301
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "fashion"
     },
     {
       "id": "football/2026/apr/03/roy-hodgson-rolls-back-years-on-bristol-city-managerial-return-with-victory-at-charlton",
@@ -1046,6 +950,102 @@
       "category": "politics",
       "significance": 2,
       "section": "world"
+    },
+    {
+      "id": "football/live/2026/apr/04/chelsea-v-port-vale-fa-cup-quarter-final-live",
+      "headline": "Chelsea v Port Vale: FA Cup quarter-final – live",
+      "summary": "Chelsea face Port Vale in FA Cup quarter-final at Stamford Bridge.",
+      "url": "https://www.theguardian.com/p/x4yn4h",
+      "thumbnail": "https://media.guim.co.uk/e2abf49d44adff790012dd3da9b666dcf247b551/190_0_4490_3592/500.jpg",
+      "published": "2026-04-04T15:47:09Z",
+      "location": {
+        "name": "London",
+        "lat": 51.4819,
+        "lng": -0.1928
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/apr/04/arne-slot-liverpool-fighting-spirit-fa-cup-exit-manchester-city",
+      "headline": "Slot rues Liverpool’s ‘missing fighting spirit’ after embarrassing FA Cup exit",
+      "summary": "Manchester City thrash Liverpool 4-0 in FA Cup quarter-final, Slot criticizes team mentality.",
+      "url": "https://www.theguardian.com/p/x4m7an",
+      "thumbnail": "https://media.guim.co.uk/f014c68f48f801a25653620e6f51df9de4bdf618/653_0_4095_3277/500.jpg",
+      "published": "2026-04-04T15:33:14Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "sport/2026/apr/04/oxford-women-and-cambridge-men-savour-boat-race-triumphs",
+      "headline": "Oxford women and Cambridge men seal Boat Race triumphs in choppy waters",
+      "summary": "Oxford women end eight-year Cambridge dominance; Cambridge men win their Boat Race.",
+      "url": "https://www.theguardian.com/p/x4m794",
+      "thumbnail": "https://media.guim.co.uk/18b7ccaa77259450ca50643d0538c2835414e7f6/337_0_3139_2511/500.jpg",
+      "published": "2026-04-04T15:25:39Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "business/2026/apr/04/trussonomics-still-haunts-parties-economic-promises-in-run-up-to-uk-local-elections",
+      "headline": "Trussonomics still haunts parties’ economic promises in run-up to UK local elections",
+      "summary": "Political parties make extravagant spending pledges ahead of UK local elections.",
+      "url": "https://www.theguardian.com/p/x4ynp6",
+      "thumbnail": "https://media.guim.co.uk/b24fba661576c38637e82b4e5b757027bec5847f/494_0_6827_5464/500.jpg",
+      "published": "2026-04-04T15:00:25Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "world/2026/apr/04/hungary-election-why-orban-is-a-common-cause-for-us-and-russia",
+      "headline": "Why US and Russia are backing Viktor Orbán in Hungary election",
+      "summary": "US and Russia backing Viktor Orbán in Hungary election raises questions about foreign influence.",
+      "url": "https://www.theguardian.com/p/x4kz3f",
+      "thumbnail": "https://media.guim.co.uk/7ceceed7d8cdc943e9ffc2fbccb3471d2adeabb4/354_0_2668_2134/500.jpg",
+      "published": "2026-04-04T14:58:24Z",
+      "location": {
+        "name": "Budapest",
+        "lat": 47.4979,
+        "lng": 19.0402
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "us-news/2026/apr/04/air-force-master-sergeant-pleads-guilty-defrauding-military",
+      "headline": "Former US air force master sergeant pleads guilty to defrauding military out of $37m",
+      "summary": "Former US Air Force master sergeant pleads guilty to $37m Pentagon IT contract fraud scheme.",
+      "url": "https://www.theguardian.com/p/x4mc8y",
+      "thumbnail": "https://media.guim.co.uk/934755303f5380d328b0d1d9140a6be39d349d04/317_0_2500_2000/500.jpg",
+      "published": "2026-04-04T14:43:02Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
     }
   ]
 }
