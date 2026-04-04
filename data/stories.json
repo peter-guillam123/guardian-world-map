@@ -1,92 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-04T15:49:20.600Z",
-    "story_count": 65,
-    "oldest_story": "2026-04-03T15:49:34Z",
-    "newest_story": "2026-04-04T15:47:09Z",
+    "generated_at": "2026-04-04T17:06:30.003Z",
+    "story_count": 66,
+    "oldest_story": "2026-04-03T17:06:46Z",
+    "newest_story": "2026-04-04T17:00:26Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "uk-news/2026/apr/03/three-teenagers-arrested-after-14-year-old-boy-shot-dead-in-south-east-london",
-      "headline": "Three teenagers arrested after 14-year-old boy shot dead in south-east London",
-      "summary": "14-year-old boy shot dead in south-east London; three teenagers arrested on suspicion of murder.",
-      "url": "https://www.theguardian.com/p/x4m6kb",
-      "thumbnail": "https://media.guim.co.uk/8487b578cd85472d773b645a37e44e5090b0723a/388_498_344_275/master/344.jpg",
-      "published": "2026-04-03T16:05:15Z",
-      "location": {
-        "name": "Woolwich, London",
-        "lat": 51.4865,
-        "lng": 0.0547
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "uk-news"
-    },
-    {
-      "id": "artanddesign/2026/apr/03/wilhelm-sasnal-review-wilhelm-sasnal-family-history-sadie-coles",
-      "headline": "Wilhelm Sasnal review – his wild juxtapositions are almost obscene",
-      "summary": "Wilhelm Sasnal exhibition at Sadie Coles HQ showcases Polish painter's wild juxtapositions and social media-era perspective.",
-      "url": "https://www.theguardian.com/p/x4mvn4",
-      "thumbnail": "https://media.guim.co.uk/9deeeb37cb616c6fa9f55ec32aad3f3a4889592f/568_256_3195_2556/500.jpg",
-      "published": "2026-04-03T16:04:07Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "artanddesign"
-    },
-    {
-      "id": "football/2026/apr/03/jon-brady-port-vale-fa-cup-quarter-final-chelsea",
-      "headline": "Burslem Globetrotters: Port Vale’s travelling stars plot Chelsea shock",
-      "summary": "Port Vale manager Jon Brady and striker Ben Waine lead League One side toward FA Cup quarter-final against Chelsea.",
-      "url": "https://www.theguardian.com/p/x4m6vy",
-      "thumbnail": "https://media.guim.co.uk/72cc81aac2852a8ce9f4ebea77148bf42fb0b11b/126_492_3967_3172/500.jpg",
-      "published": "2026-04-03T16:00:56Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "film/2026/apr/03/justin-baldoni-blake-lively-lawsuit-lawyers",
-      "headline": "Justin Baldoni’s lawyer says defendants are ‘very good people’ as Blake Lively lawsuit narrows",
-      "summary": "Judge dismisses 10 of Blake Lively's 13 claims against Justin Baldoni in It Ends With Us lawsuit.",
-      "url": "https://www.theguardian.com/p/x4m7v5",
-      "thumbnail": "https://media.guim.co.uk/a565ad32a4afdc2e01713aef56517387833c1109/0_0_1500_1200/500.jpg",
-      "published": "2026-04-03T15:59:44Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "film"
-    },
-    {
-      "id": "commentisfree/2026/apr/03/donald-trump-silver-lining-uk-eu-closer",
-      "headline": "It’s the silver lining from this terrible age of Donald Trump: he is pushing Britain closer to the EU",
-      "summary": "Trump's stance pushes UK closer to EU as Brexit's ten-year anniversary approaches, says columnist.",
-      "url": "https://www.theguardian.com/p/x4m73c",
-      "thumbnail": "https://media.guim.co.uk/5b4a8f85063d2d74828cd206b9719fcb9d73a8b5/9_0_2393_1914/500.jpg",
-      "published": "2026-04-03T15:49:34Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "commentisfree"
-    },
     {
       "id": "football/2026/apr/03/roy-hodgson-rolls-back-years-on-bristol-city-managerial-return-with-victory-at-charlton",
       "headline": "Roy Hodgson rolls back years on Bristol City managerial return with victory at Charlton",
@@ -182,22 +102,6 @@
       "category": "politics",
       "significance": 2,
       "section": "us-news"
-    },
-    {
-      "id": "food/2026/apr/03/reeses-chocolate-hershey-feud-candy-recipe",
-      "headline": "Reese’s chocolate heir accuses Hershey of altering recipes: ‘It wasn’t real peanut butter’",
-      "summary": "Reese's heir accuses Hershey of faking pledge to restore original chocolate recipes.",
-      "url": "https://www.theguardian.com/p/x4m773",
-      "thumbnail": "https://media.guim.co.uk/07f741f3cd093a16c278307de93a77e4f423e675/510_386_2515_2011/500.jpg",
-      "published": "2026-04-03T16:53:17Z",
-      "location": {
-        "name": "Pennsylvania",
-        "lat": 40.5908,
-        "lng": -77.2098
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "food"
     },
     {
       "id": "football/live/2026/apr/03/coventry-city-v-derby-county-championship-live",
@@ -1046,6 +950,118 @@
       "category": "politics",
       "significance": 2,
       "section": "us-news"
+    },
+    {
+      "id": "football/2026/apr/04/newcastle-eddie-howe-join-exodus",
+      "headline": "If Newcastle really want to be taken seriously, then Eddie Howe must join the exodus",
+      "summary": "Eddie Howe faces pressure to leave Newcastle amid poor recruitment and performance issues.",
+      "url": "https://www.theguardian.com/p/x4m5q2",
+      "thumbnail": "https://media.guim.co.uk/300dbeaed8d67bfe3a92ee6f07e618b5e00cff5f/595_0_5948_4758/500.jpg",
+      "published": "2026-04-04T17:00:26Z",
+      "location": {
+        "name": "Newcastle",
+        "lat": 54.9783,
+        "lng": -1.6178
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/apr/04/dead-canines-washington-state",
+      "headline": "‘Horror movie’: officials investigate after 21 dead dogs wash up on Washington state shore",
+      "summary": "21 dead dogs wash ashore on Washington state island in mysterious incident under investigation.",
+      "url": "https://www.theguardian.com/p/x4mckk",
+      "thumbnail": "https://media.guim.co.uk/57fc713734513e9ba0c06d5d899e33d9141ba7a9/616_0_4320_3456/500.jpg",
+      "published": "2026-04-04T16:59:36Z",
+      "location": {
+        "name": "Guemes Island",
+        "lat": 48.55,
+        "lng": -122.6333
+      },
+      "category": "other",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "sport/2026/apr/04/bath-saracens-champions-cup-rugby-union-match-report",
+      "headline": "Henry Arundell inspires Bath to come-from-behind win over Saracens",
+      "summary": "Bath defeats Saracens 31-22 in Champions Cup comeback to advance to quarter-finals.",
+      "url": "https://www.theguardian.com/p/x4m3xp",
+      "thumbnail": "https://media.guim.co.uk/247a7ac539327abd31159afd69b75f0ef21ac6df/0_0_4590_3672/500.jpg",
+      "published": "2026-04-04T16:32:39Z",
+      "location": {
+        "name": "Bath",
+        "lat": 51.3796,
+        "lng": -2.3599
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "us-news/2026/apr/04/soleimani-family-arrested-us-federal-authorities",
+      "headline": "US authorities arrest relatives of late Iranian military commander who were living in Los Angeles",
+      "summary": "US arrests niece and grandniece of Iranian commander Qassem Soleimani living in Los Angeles.",
+      "url": "https://www.theguardian.com/p/x4mckv",
+      "thumbnail": "https://media.guim.co.uk/b841bed28f6c3a1a8d5178a7aaaed1c9112e80f6/137_0_2138_1710/500.jpg",
+      "published": "2026-04-04T16:25:25Z",
+      "location": {
+        "name": "Los Angeles",
+        "lat": 34.0522,
+        "lng": -118.2437
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "world/2026/apr/04/fugitive-mafia-boss-wanted-arrested-roberto-mazzarella",
+      "headline": "Fugitive mafia boss wanted for murder arrested at Amalfi coast luxury villa",
+      "summary": "Fugitive mafia boss Roberto Mazzarella arrested at Amalfi coast villa after year on run.",
+      "url": "https://www.theguardian.com/p/x4mcd9",
+      "thumbnail": "https://media.guim.co.uk/ba2941a543f0ff0ef756ecff91a5c3c11d9d0a00/0_0_2986_2387/500.jpg",
+      "published": "2026-04-04T16:10:50Z",
+      "location": {
+        "name": "Naples",
+        "lat": 40.8518,
+        "lng": 14.2681
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "football/2026/apr/04/arne-slots-shot-at-redemption-fades-away-after-showreel-of-embarrassments",
+      "headline": "Arne Slot’s shot at redemption fades away after showreel of embarrassments",
+      "summary": "Arne Slot's Liverpool eliminated from FA Cup by Manchester City in disappointing performance.",
+      "url": "https://www.theguardian.com/p/x4m7aj",
+      "thumbnail": "https://media.guim.co.uk/f344a0d7624a72403551992b7d0400dfba7f3265/4_0_2881_2305/500.jpg",
+      "published": "2026-04-04T16:03:53Z",
+      "location": {
+        "name": "Liverpool",
+        "lat": 53.4084,
+        "lng": -2.9916
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "world/2026/apr/04/iran-search-missing-us-crew-member-downed-fighter-jet-second-day",
+      "headline": "Search for missing US crew member of downed fighter jet enters second day",
+      "summary": "Search continues for missing US F-15E crew member as Iran faces heavy bombing campaign.",
+      "url": "https://www.theguardian.com/p/x4mbtm",
+      "thumbnail": "https://media.guim.co.uk/f25ff0881cf8104e60c5476df96b96139c8b8527/588_0_3967_3176/500.jpg",
+      "published": "2026-04-04T15:58:50Z",
+      "location": {
+        "name": "Iran",
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
     }
   ]
 }
