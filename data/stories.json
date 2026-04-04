@@ -1,92 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-04T21:02:28.221Z",
-    "story_count": 67,
-    "oldest_story": "2026-04-03T21:30:03Z",
-    "newest_story": "2026-04-04T20:13:49Z",
+    "generated_at": "2026-04-04T21:59:06.964Z",
+    "story_count": 66,
+    "oldest_story": "2026-04-03T22:57:10Z",
+    "newest_story": "2026-04-04T21:30:32Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "politics/2026/apr/03/sadiq-khan-protection-officers-leave-bag-with-guns-and-taser-on-south-london-street",
-      "headline": "Sadiq Khan protection officers ‘leave bag with guns and Taser on south London street’",
-      "summary": "Met police investigate Sadiq Khan protection officers leaving bag with guns and Taser on street.",
-      "url": "https://www.theguardian.com/p/x4m8ja",
-      "thumbnail": "https://media.guim.co.uk/38727be839bde30f5b099eb8ada6f1591b180ebb/434_207_3160_2526/500.jpg",
-      "published": "2026-04-03T21:44:51Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "us-news/2026/apr/03/attorneys-general-trump-mail-in-voting-lawsuit",
-      "headline": "Democratic attorneys general sue Trump over order to restrict mail voting",
-      "summary": "Over 20 Democratic attorneys general sue Trump over executive order restricting mail-in voting.",
-      "url": "https://www.theguardian.com/p/x4m8y3",
-      "thumbnail": "https://media.guim.co.uk/1a895cb746f80a9153c63f7ef740e45e0a5c4cce/26_0_2381_1906/500.jpg",
-      "published": "2026-04-03T21:40:18Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "football/2026/apr/03/pep-guardiola-rodri-join-real-madrid-manchester-city",
-      "headline": "Pep Guardiola will not stand in Rodri’s way if he wants to join Real Madrid",
-      "summary": "Pep Guardiola says Rodri can leave Manchester City for Real Madrid if he wishes to depart.",
-      "url": "https://www.theguardian.com/p/x4m6pf",
-      "thumbnail": "https://media.guim.co.uk/29b861bd5d23e6b58fcb307ebdbdaf59766b1b25/0_19_2452_1962/500.jpg",
-      "published": "2026-04-03T21:30:03Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4808,
-        "lng": -2.2426
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/apr/03/mohamed-salah-arne-slot-liverpool-football",
-      "headline": "Slot has no regrets over treatment of Salah and insists forward solely decided Liverpool exit",
-      "summary": "Arne Slot insists Mohamed Salah's Liverpool exit was solely the forward's personal decision.",
-      "url": "https://www.theguardian.com/p/x4m76d",
-      "thumbnail": "https://media.guim.co.uk/66c2130b36be630c5870ff0614986619b90526a6/86_0_1200_960/500.jpg",
-      "published": "2026-04-03T21:30:03Z",
-      "location": {
-        "name": "Liverpool",
-        "lat": 53.4308,
-        "lng": -2.9605
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/apr/03/like-a-ball-of-poison-mikel-arteta-admits-to-pain-from-arsenals-carabao-cup-final-loss",
-      "headline": "‘Like a ball of poison’: Mikel Arteta admits to pain from Arsenal’s Carabao Cup final loss",
-      "summary": "Mikel Arteta admits Arsenal's Carabao Cup loss feels like 'ball of poison' but vows silverware.",
-      "url": "https://www.theguardian.com/p/x4m7dm",
-      "thumbnail": "https://media.guim.co.uk/a3830ee2a87e043f8fd814415d82eadfb85cf3b7/292_0_2917_2333/500.jpg",
-      "published": "2026-04-03T21:30:03Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
     {
       "id": "education/2026/apr/04/masculinity-crisis-brewing-uk-schools-teachers-union",
       "headline": "A ‘masculinity crisis’ is brewing in UK schools, union says ",
@@ -1078,6 +998,70 @@
       "category": "conflict",
       "significance": 2,
       "section": "uk-news"
+    },
+    {
+      "id": "world/2026/apr/04/iran-conflict-uk-easter-messages-archbishop-canterbury-keir-starmer",
+      "headline": "Iran conflict to forefront of UK religious and political leaders’ Easter messages",
+      "summary": "UK religious leaders call for peace in Middle East during Easter messages.",
+      "url": "https://www.theguardian.com/p/x4mccv",
+      "thumbnail": "https://media.guim.co.uk/87a3d2a3a3890534c71d226ca5b20ee2d3ce393b/0_0_5956_4767/500.jpg",
+      "published": "2026-04-04T21:30:32Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "uk-news/2026/apr/04/county-lines-drugs-girls-exploitation-data",
+      "headline": "Rise in number of girls being identified as victims in county lines exploitation, data shows",
+      "summary": "Girls now 22% of county lines drug exploitation victims, up from 15% in 2024.",
+      "url": "https://www.theguardian.com/p/x4mbp6",
+      "thumbnail": "https://media.guim.co.uk/1f529a5568953d8606148ca1e462ddfda85f7334/232_0_1812_1451/500.jpg",
+      "published": "2026-04-04T21:30:32Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "us-news/2026/apr/04/mountain-lion-cub-crimson-california",
+      "headline": "Three-week-old mountain lion cub rescued by California biologists",
+      "summary": "Three-week-old mountain lion cub rescued in California mountains, relocated to Oakland zoo.",
+      "url": "https://www.theguardian.com/p/x4mdpx",
+      "thumbnail": "https://media.guim.co.uk/7ae371dd978877feb6af2dc363910616eb3a15f4/52_0_3780_3024/500.jpg",
+      "published": "2026-04-04T21:10:05Z",
+      "location": {
+        "name": "Santa Monica",
+        "lat": 34.0195,
+        "lng": -118.4912
+      },
+      "category": "other",
+      "significance": 1,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/apr/04/southampton-arsenal-fa-cup-match-report",
+      "headline": "Shea Charles stuns Arsenal to send Southampton into FA Cup semis",
+      "summary": "Southampton defeats Arsenal 2-1 in FA Cup quarter-final with late Shea Charles goal.",
+      "url": "https://www.theguardian.com/p/x4m7ba",
+      "thumbnail": "https://media.guim.co.uk/639dcdf490be1c798e180dd798afcb8983f90d82/424_120_3460_2768/500.jpg",
+      "published": "2026-04-04T21:06:06Z",
+      "location": {
+        "name": "Southampton",
+        "lat": 50.9061,
+        "lng": -1.3909
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
     }
   ]
 }
