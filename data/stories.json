@@ -1,108 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-04T21:59:06.964Z",
-    "story_count": 66,
-    "oldest_story": "2026-04-03T22:57:10Z",
-    "newest_story": "2026-04-04T21:30:32Z",
+    "generated_at": "2026-04-04T23:03:20.609Z",
+    "story_count": 62,
+    "oldest_story": "2026-04-04T04:06:57Z",
+    "newest_story": "2026-04-04T22:41:10Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "education/2026/apr/04/masculinity-crisis-brewing-uk-schools-teachers-union",
-      "headline": "A ‘masculinity crisis’ is brewing in UK schools, union says ",
-      "summary": "UK teachers' union warns of 'masculinity crisis' as misogynistic abuse of female staff increases in schools.",
-      "url": "https://www.theguardian.com/p/x4m6ct",
-      "thumbnail": "https://media.guim.co.uk/aa2cd8d638e6874f4376b3a24789d6014ebdb899/541_0_2917_2333/500.jpg",
-      "published": "2026-04-03T23:01:05Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "education"
-    },
-    {
-      "id": "australia-news/2026/apr/04/sustainable-eco-friendly-wedding-australia",
-      "headline": "Sustainably ever after: how to plan an environmentally conscious wedding",
-      "summary": "Average Australian wedding emits 21.5 tonnes of carbon; guide offers sustainable alternatives.",
-      "url": "https://www.theguardian.com/p/x4k545",
-      "thumbnail": "https://media.guim.co.uk/34503b30a2efa41498d3a175dc25cf47e1cf72f0/0_450_2000_1600/500.jpg",
-      "published": "2026-04-03T23:00:07Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "travel/2026/apr/04/new-zealand-south-island-nelson-tasman-coast",
-      "headline": "The most beautiful coast in the world? Exploring New Zealand’s overlooked Nelson Tasman by sand and sea",
-      "summary": "New Zealand's Nelson Tasman coast emerges as overlooked travel destination with stunning natural beauty.",
-      "url": "https://www.theguardian.com/p/x4yp4h",
-      "thumbnail": "https://media.guim.co.uk/dcf9cca2fb1abf7068ba90aa44599c64bf495b90/139_0_1221_977/500.jpg",
-      "published": "2026-04-03T23:00:07Z",
-      "location": {
-        "name": "Nelson",
-        "lat": -41.2865,
-        "lng": 172.1835
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "travel"
-    },
-    {
-      "id": "world/2026/apr/04/india-fuel-crisis-fertiliser-shortage-farming",
-      "headline": "‘India is going to face a food crisis’: Farmers panic over fertiliser shortages amid Iran war ",
-      "summary": "Iran conflict triggers fertiliser shortage panic among Indian farmers, threatening food security.",
-      "url": "https://www.theguardian.com/p/x4yynf",
-      "thumbnail": "https://media.guim.co.uk/6db4554af30a594aadd6b155dc9e353f698d9f38/207_0_3833_3066/500.jpg",
-      "published": "2026-04-03T23:00:06Z",
-      "location": {
-        "name": "Punjab",
-        "lat": 31.5204,
-        "lng": 74.3587
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "commentisfree/2026/apr/04/older-australians-are-healthier-than-ever-but-this-hasnt-changed-the-way-we-talk-or-think-about-over-70s",
-      "headline": "Older Australians are healthier than ever, but this hasn’t changed the way we talk or think about over-70s",
-      "summary": "Older Australians are healthier than ever but ageist terminology persists in social discourse.",
-      "url": "https://www.theguardian.com/p/x4kfaj",
-      "thumbnail": "https://media.guim.co.uk/951bf967dab855f4a450a275b7277e26c9e3034b/0_0_4118_3293/500.jpg",
-      "published": "2026-04-03T23:00:06Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "commentisfree"
-    },
-    {
-      "id": "us-news/2026/apr/03/trump-executive-order-dhs-pay-partial-shutdown",
-      "headline": "Trump issues order declaring all DHS staff get paid amid partial shutdown",
-      "summary": "Trump issues executive order ensuring DHS staff receives pay during longest partial government shutdown.",
-      "url": "https://www.theguardian.com/p/x4m9vy",
-      "thumbnail": "https://media.guim.co.uk/050a0828a6d8747399e62b0a726b7671efcc7dd5/672_0_5478_4383/500.jpg",
-      "published": "2026-04-03T22:57:10Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
     {
       "id": "business/2026/apr/04/tgi-fridays-boss-revival-fun-uk-ray-blanchette",
       "headline": "‘Over the top and fun:’ TGI Fridays boss insists time is right for a UK revival",
@@ -1062,6 +966,38 @@
       "category": "sport",
       "significance": 2,
       "section": "football"
+    },
+    {
+      "id": "football/2026/apr/04/arteta-says-arsenal-must-look-in-the-mirror-after-southampton-defeat",
+      "headline": "Arteta says Arsenal must ‘look in the mirror’ after Southampton defeat",
+      "summary": "Arsenal loses FA Cup quarter-final to Southampton; Arteta urges team reflection.",
+      "url": "https://www.theguardian.com/p/x4mevk",
+      "thumbnail": "https://media.guim.co.uk/af542096422651b9b1c42af773251f1116a1a804/1059_0_4767_3813/500.jpg",
+      "published": "2026-04-04T22:41:10Z",
+      "location": {
+        "name": "Southampton",
+        "lat": 50.906,
+        "lng": -1.3909
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/apr/04/louisiana-parade-car-crash",
+      "headline": "More than 20 people injured after driver crashes into crowd at Louisiana parade",
+      "summary": "Drunk driver crashes into crowd at Louisiana Lao New Year parade, injuring 20+.",
+      "url": "https://www.theguardian.com/p/x4me6x",
+      "thumbnail": "https://media.guim.co.uk/81271d6279c799cf1291c37b5a6bb0d827e567ee/501_0_4268_3416/500.jpg",
+      "published": "2026-04-04T22:20:45Z",
+      "location": {
+        "name": "Louisiana",
+        "lat": 30.25,
+        "lng": -91.875
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "us-news"
     }
   ]
 }
