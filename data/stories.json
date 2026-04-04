@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-04-03T23:50:38.763Z",
-    "story_count": 63,
-    "oldest_story": "2026-04-03T04:30:42Z",
-    "newest_story": "2026-04-03T23:01:05Z",
+    "generated_at": "2026-04-04T05:15:27.736Z",
+    "story_count": 68,
+    "oldest_story": "2026-04-03T05:20:43Z",
+    "newest_story": "2026-04-04T05:01:12Z",
     "window_hours": 24
   },
   "stories": [
@@ -22,70 +22,6 @@
       "category": "culture",
       "significance": 2,
       "section": "tv-and-radio"
-    },
-    {
-      "id": "world/live/2026/apr/03/middle-east-crisis-live-trump-urges-iran-to-make-deal-after-bridge-strike",
-      "headline": "Middle East crisis live: Trump urges Iran to make deal after bridge strike",
-      "summary": "Trump warns Iran after bridge strike; UN votes on defending Hormuz shipping amid Middle East tensions.",
-      "url": "https://www.theguardian.com/p/x4m3q6",
-      "thumbnail": "https://media.guim.co.uk/dea420d315c126046f3a27553e9a0695fd4c88e4/227_130_1651_1320/500.jpg",
-      "published": "2026-04-03T05:14:06Z",
-      "location": {
-        "name": "Iran",
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "world/2026/apr/03/pope-leos-first-easter-one-year-in-what-do-catholics-think-of-the-new-pontiff",
-      "headline": "Pope Leo’s first Easter: one year in, what do Catholics think of the new pontiff?",
-      "summary": "Pope Leo marks first Easter as pontiff amid debate over his stance on global conflicts.",
-      "url": "https://www.theguardian.com/p/x4mv53",
-      "thumbnail": "https://media.guim.co.uk/0324a23a3ede3f86bf32c43e311674a6a95fd87d/174_0_1703_1362/500.jpg",
-      "published": "2026-04-03T05:00:43Z",
-      "location": {
-        "name": "Vatican City",
-        "lat": 41.9029,
-        "lng": 12.4534
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "uk-news/2026/apr/03/birmingham-city-council-doubles-agency-spending-during-bin-strikes",
-      "headline": "Birmingham city council doubles agency spending during bin strikes",
-      "summary": "Birmingham council doubles agency spending to counter bin workers' strike entering second year.",
-      "url": "https://www.theguardian.com/p/x4mxz3",
-      "thumbnail": "https://media.guim.co.uk/99a775ab37382565917900750aaf9b5610f2acd9/369_0_2500_2000/500.jpg",
-      "published": "2026-04-03T05:00:43Z",
-      "location": {
-        "name": "Birmingham",
-        "lat": 52.5086,
-        "lng": -1.8853
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "environment/2026/apr/03/country-diary-the-rise-of-the-rare-pasqueflower-is-my-easter-miracle",
-      "headline": "Country diary: The rise of the rare pasqueflower is my Easter miracle",
-      "summary": "Rare pasqueflower thrives at Therfield Heath in Hertfordshire, creating Easter season botanical miracle.",
-      "url": "https://www.theguardian.com/p/x4kzhj",
-      "thumbnail": "https://media.guim.co.uk/3f5b5509189f3241a9fdbe3a684d31e9b30400e7/0_0_2880_2304/500.jpg",
-      "published": "2026-04-03T04:30:42Z",
-      "location": {
-        "name": "Therfield Heath",
-        "lat": 52.0267,
-        "lng": -0.1578
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "environment"
     },
     {
       "id": "football/live/2026/apr/03/fa-cup-buildup-championship-action-and-latest-on-italian-turmoil-football-news-live",
@@ -1014,6 +950,150 @@
       "category": "politics",
       "significance": 3,
       "section": "us-news"
+    },
+    {
+      "id": "business/2026/apr/04/tgi-fridays-boss-revival-fun-uk-ray-blanchette",
+      "headline": "‘Over the top and fun:’ TGI Fridays boss insists time is right for a UK revival",
+      "summary": "TGI Fridays boss plans UK revival with ambitions to build 1,000 outlets globally.",
+      "url": "https://www.theguardian.com/p/x4ynx2",
+      "thumbnail": "https://media.guim.co.uk/b04e5167e3692f8ca9cc3c2f3c1133c544d6d8e7/985_307_5239_4193/500.jpg",
+      "published": "2026-04-04T05:01:12Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "lifeandstyle/2026/apr/04/blind-date-rachel-josh",
+      "headline": " Blind date: ‘The restaurant shuffled our table around three times so we could keep chatting until they closed’ ",
+      "summary": "Blind date between consultant Rachel and accountant Josh in Bristol restaurant.",
+      "url": "https://www.theguardian.com/p/x4hd8f",
+      "thumbnail": "https://media.guim.co.uk/c1ed70a6b2941cd7e3d2bf5846784f8dfd33ad5b/0_0_5000_4000/500.png",
+      "published": "2026-04-04T05:00:14Z",
+      "location": {
+        "name": "Bristol",
+        "lat": 51.4545,
+        "lng": -2.5879
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "lifeandstyle"
+    },
+    {
+      "id": "news/ng-interactive/2026/apr/04/can-the-king-tame-trump-state-visit",
+      "headline": "As a state visit looms … can the king tame Trump? ",
+      "summary": "King Charles plans state visit to Washington to meet Trump and strengthen US-UK ties.",
+      "url": "https://www.theguardian.com/p/x4m5pf",
+      "thumbnail": "https://media.guim.co.uk/ab78c5043708ff7ab60eb0838476927897628ee2/65_197_3901_3121/500.jpg",
+      "published": "2026-04-04T05:00:13Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "news"
+    },
+    {
+      "id": "environment/2026/apr/04/birds-butterflies-britain-shows-signs-of-earliest-spring-on-record",
+      "headline": "From early birds to emerging butterflies: UK shows signs of earliest spring on record",
+      "summary": "UK records earliest spring on record with early flowering and nesting as global heating accelerates.",
+      "url": "https://www.theguardian.com/p/x4mvbk",
+      "thumbnail": "https://media.guim.co.uk/24472583d8194540ee888aed3ffea3735400798d/0_1279_3410_2725/500.jpg",
+      "published": "2026-04-04T05:00:13Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "environment"
+    },
+    {
+      "id": "commentisfree/2026/apr/04/donald-trump-iran-war-evangelical-nationalists-moral-world-order-pete-hegseth",
+      "headline": "As Team Trump wage unceasing war on Iran, evangelical nationalists are destroying any moral world order we once had ",
+      "summary": "Commentary on Trump administration's Iran policy and evangelical nationalism's impact on global norms.",
+      "url": "https://www.theguardian.com/p/x4m5p5",
+      "thumbnail": "https://media.guim.co.uk/c8659f9ec7d509f5f9c1f80450fd5c56541bb2a6/0_390_2138_1709/500.jpg",
+      "published": "2026-04-04T05:00:13Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "commentisfree"
+    },
+    {
+      "id": "global/2026/apr/04/dezi-freeman-investigation-arrests-victoria-police-porepunkah-ntwnfb",
+      "headline": "Victoria police arrest two people as part of Dezi Freeman investigation ",
+      "summary": "Victoria police arrest two people investigating fugitive Dezi Freeman's seven-month escape.",
+      "url": "https://www.theguardian.com/p/x4maa9",
+      "thumbnail": "https://media.guim.co.uk/9f46f7f467ea9d17ccc65dfa86c1f655fbb74e24/410_0_2109_1688/500.jpg",
+      "published": "2026-04-04T04:58:20Z",
+      "location": {
+        "name": "Porepunkah",
+        "lat": -37.0282,
+        "lng": 147.0863
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "world/live/2026/apr/04/middle-east-crisis-live-us-iran-war-missing-pilot-downed-jet-israel-bombards-beirut",
+      "headline": "Middle East crisis live: US and Iranian forces race to recover missing pilot from downed jet; Israel bombards Beirut",
+      "summary": "US fighter jet downed over Iran as tensions escalate; Israel bombards Beirut with strikes.",
+      "url": "https://www.theguardian.com/p/x4m99m",
+      "thumbnail": "https://media.guim.co.uk/09baf837d92d3156cae7d14531a91b9067d17924/500_0_5000_4000/500.jpg",
+      "published": "2026-04-04T04:54:11Z",
+      "location": {
+        "name": "Tehran",
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "environment/2026/apr/04/country-diary-our-first-sunny-day-in-a-month-time-to-scale-a-summit",
+      "headline": "Country diary: Our first sunny day in a month – time to scale a summit",
+      "summary": "Country diary recounts sunny hiking day on Sgòr Gaoith in Scottish Cairngorms mountains.",
+      "url": "https://www.theguardian.com/p/x4km4z",
+      "thumbnail": "https://media.guim.co.uk/5bc0d6e583670c361fdb6f4c653ac0b3a6c2d69a/90_0_2835_2268/500.jpg",
+      "published": "2026-04-04T04:30:11Z",
+      "location": {
+        "name": "Cairngorms",
+        "lat": 57.1825,
+        "lng": -3.6725
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "environment"
+    },
+    {
+      "id": "sport/live/2026/apr/03/uconn-south-carolina-ucla-texas-final-four-live-updates",
+      "headline": "NCAA women’s Final Four: UCLA 51-44 Texas; South Carolina 62-48 UConn – as it happened",
+      "summary": "UCLA and South Carolina advance to NCAA women's basketball championship after Final Four victories.",
+      "url": "https://www.theguardian.com/p/x4m2nk",
+      "thumbnail": "https://media.guim.co.uk/cd6d468f10b9f5b0558f133892dc1bbdbfd8c576/362_0_3618_2894/500.jpg",
+      "published": "2026-04-04T04:06:57Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
     }
   ]
 }
