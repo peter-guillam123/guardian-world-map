@@ -1,108 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-04T17:06:30.003Z",
-    "story_count": 66,
-    "oldest_story": "2026-04-03T17:06:46Z",
-    "newest_story": "2026-04-04T17:00:26Z",
+    "generated_at": "2026-04-04T18:02:31.490Z",
+    "story_count": 61,
+    "oldest_story": "2026-04-03T19:00:00Z",
+    "newest_story": "2026-04-04T17:30:27Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/2026/apr/03/roy-hodgson-rolls-back-years-on-bristol-city-managerial-return-with-victory-at-charlton",
-      "headline": "Roy Hodgson rolls back years on Bristol City managerial return with victory at Charlton",
-      "summary": "Roy Hodgson guides Bristol City to 2-1 victory at Charlton on management return.",
-      "url": "https://www.theguardian.com/p/x4m6n3",
-      "thumbnail": "https://media.guim.co.uk/38264aa273f3e005bbc9c52d2fe0290a366d0a0d/341_0_3440_2753/500.jpg",
-      "published": "2026-04-03T17:49:29Z",
-      "location": {
-        "name": "Charlton, London",
-        "lat": 51.4885,
-        "lng": 0.0188
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "sport/2026/apr/03/timeforshowcasing-classic-contention-burradon-stakes-horse-racing",
-      "headline": "Timeforshowcasing into Classic contention after Burradon success",
-      "summary": "Timeforshowcasing wins Burradon Stakes at Newcastle, moves toward Classic contention.",
-      "url": "https://www.theguardian.com/p/x4m7c7",
-      "thumbnail": "https://media.guim.co.uk/a2225c4c4ead32d6536c0bbf642a107084c92e22/427_261_3145_2516/500.jpg",
-      "published": "2026-04-03T17:43:04Z",
-      "location": {
-        "name": "Newcastle",
-        "lat": 54.9783,
-        "lng": -1.6178
-      },
-      "category": "sport",
-      "significance": 1,
-      "section": "sport"
-    },
-    {
-      "id": "us-news/2026/apr/03/trump-vance-fraud-arrest-crackdown-california",
-      "headline": "Trump announces ‘fraud’ crackdown in Democratic states as arrests begin in California",
-      "summary": "Trump announces fraud crackdown in Democratic states, appoints JD Vance as 'fraud czar'.",
-      "url": "https://www.theguardian.com/p/x4m7t3",
-      "thumbnail": "https://media.guim.co.uk/356b8d9bbc0eb011fb0f6043102ac2d158229c31/310_0_2441_1953/500.jpg",
-      "published": "2026-04-03T17:29:04Z",
-      "location": {
-        "name": "California",
-        "lat": 36.1162,
-        "lng": -119.6816
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "sport/2026/apr/03/st-helens-wigan-super-league-match-report",
-      "headline": "Bill Leyland completes unlikely St Helens comeback to stun leaders Wigan",
-      "summary": "St Helens stun leaders Wigan 34-24 with late tries from Bill Leyland in Super League derby.",
-      "url": "https://www.theguardian.com/p/x4m29c",
-      "thumbnail": "https://media.guim.co.uk/685a3ace6612e2a49589e3a45e06adb340ea86dd/24_0_4551_3641/500.jpg",
-      "published": "2026-04-03T17:23:46Z",
-      "location": {
-        "name": "St Helens, England",
-        "lat": 53.4431,
-        "lng": -2.7356
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "politics/2026/apr/03/relationship-with-trump-may-be-beyond-repair-keir-starmer-told",
-      "headline": "Relationship with Trump may be beyond repair, Keir Starmer told",
-      "summary": "UK-US relations hit new low as Trump mocks PM Starmer over military consultation practices.",
-      "url": "https://www.theguardian.com/p/x4m7ta",
-      "thumbnail": "https://media.guim.co.uk/b88524a4eb892efe72e057e0a7d04a062c73bb40/314_0_2941_2352/500.jpg",
-      "published": "2026-04-03T17:11:50Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "politics"
-    },
-    {
-      "id": "us-news/2026/apr/03/washington-college-professor-fired-iran-war-criticism",
-      "headline": "University of Washington professor fired from director job after sending email criticizing Iran war",
-      "summary": "University of Washington professor fired after criticizing US-Israel war on Iran in emails.",
-      "url": "https://www.theguardian.com/p/x4m7ae",
-      "thumbnail": "https://media.guim.co.uk/317293b389b669647f92858041757f1976f9d2b9/300_0_3000_2400/500.jpg",
-      "published": "2026-04-03T17:06:46Z",
-      "location": {
-        "name": "Seattle, Washington",
-        "lat": 47.6062,
-        "lng": -122.3321
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
     {
       "id": "football/live/2026/apr/03/coventry-city-v-derby-county-championship-live",
       "headline": "Coventry City v Derby County: Championship – live",
@@ -1062,6 +966,22 @@
       "category": "conflict",
       "significance": 4,
       "section": "world"
+    },
+    {
+      "id": "football/live/2026/apr/04/southampton-v-arsenal-fa-cup-quarter-final-live",
+      "headline": "Southampton v Arsenal: FA Cup quarter-final – live",
+      "summary": "Arsenal face Southampton in FA Cup quarter-final at St Mary's seeking to keep treble dream alive.",
+      "url": "https://www.theguardian.com/p/x4yn2z",
+      "thumbnail": "https://media.guim.co.uk/93490bb1b75e621f77d20491735ef9eda24b95ef/735_0_5800_4640/500.jpg",
+      "published": "2026-04-04T17:30:27Z",
+      "location": {
+        "name": "Southampton",
+        "lat": 50.9061,
+        "lng": -1.3911
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
     }
   ]
 }
