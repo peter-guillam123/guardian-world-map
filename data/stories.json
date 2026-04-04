@@ -1,28 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-04T19:47:36.079Z",
-    "story_count": 59,
-    "oldest_story": "2026-04-03T19:53:59Z",
-    "newest_story": "2026-04-04T17:30:27Z",
+    "generated_at": "2026-04-04T21:02:28.221Z",
+    "story_count": 67,
+    "oldest_story": "2026-04-03T21:30:03Z",
+    "newest_story": "2026-04-04T20:13:49Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/live/2026/apr/03/coventry-city-v-derby-county-championship-live",
-      "headline": "Coventry City v Derby County: Championship – live",
-      "summary": "Coventry City faces Derby County in Championship match at CBS Arena.",
-      "url": "https://www.theguardian.com/p/x4ymzc",
-      "thumbnail": "https://media.guim.co.uk/5d07fa33f707bd5fc2d42b3e6296e36548876b53/376_0_4301_3443/500.jpg",
-      "published": "2026-04-03T19:53:59Z",
-      "location": {
-        "name": "Coventry",
-        "lat": 52.4089,
-        "lng": -1.505
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
     {
       "id": "politics/2026/apr/03/sadiq-khan-protection-officers-leave-bag-with-guns-and-taser-on-south-london-street",
       "headline": "Sadiq Khan protection officers ‘leave bag with guns and Taser on south London street’",
@@ -950,6 +934,150 @@
       "category": "sport",
       "significance": 2,
       "section": "football"
+    },
+    {
+      "id": "football/2026/apr/04/liam-rosenior-enzo-fernandez-chelsea-port-vale",
+      "headline": "‘Things aren’t what people think they are’: Rosenior attempts to calm Fernández storm",
+      "summary": "Chelsea manager Rosenior addresses Enzo Fernández controversy after suspension for Port Vale FA Cup match.",
+      "url": "https://www.theguardian.com/p/x4mdt5",
+      "thumbnail": "https://media.guim.co.uk/f2bcca7c1a9fa14dba139286a00415d8c149d9dc/500_0_5000_4000/500.jpg",
+      "published": "2026-04-04T20:13:49Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "australia-news/2026/apr/05/victoria-first-nations-treaty-first-elections-ntwnfb",
+      "headline": "‘We’re the experts in our own lives’: Victoria’s First Nations treaty body is holding its first elections",
+      "summary": "Victoria's First Nations Assembly holds inaugural elections with diverse candidates seeking representation.",
+      "url": "https://www.theguardian.com/p/x4yf62",
+      "thumbnail": "https://media.guim.co.uk/bd60bb374bf18049f85f4c2ce5705fec5173bf52/118_64_874_700/500.jpg",
+      "published": "2026-04-04T20:00:32Z",
+      "location": {
+        "name": "Melbourne",
+        "lat": -37.8136,
+        "lng": 144.9631
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "australia-news/2026/apr/04/gaza-flotilla-global-sumud-activists-return-war-ntwnfb",
+      "headline": "‘Will I be punished for daring to return’: Australian flotilla activists to head back to Gaza as wider war rages",
+      "summary": "Australian activists prepare aid flotilla return to Gaza amid ongoing regional conflict.",
+      "url": "https://www.theguardian.com/p/x4eq2v",
+      "thumbnail": "https://media.guim.co.uk/2b4ef47c0ab58d57c233445945830d38ee358322/0_860_3024_2419/500.jpg",
+      "published": "2026-04-04T20:00:32Z",
+      "location": {
+        "name": "Gaza",
+        "lat": 31.9254,
+        "lng": 35.2
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "australia-news"
+    },
+    {
+      "id": "australia-news/2026/apr/05/bilby-breeding-trial-nsw-australia-easter-",
+      "headline": "Bilby boom: breeding trial to reintroduce species to Mallee Cliffs national park shows signs of success",
+      "summary": "Bilby breeding program at Mallee Cliffs shows success with population reaching nearly 2,000.",
+      "url": "https://www.theguardian.com/p/x4yk7g",
+      "thumbnail": "https://media.guim.co.uk/6fd69153f57bd31f81975c3eaf2cce7d0678ac96/212_0_2065_1652/500.jpg",
+      "published": "2026-04-04T20:00:32Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "australia-news/2026/apr/05/dogs-helping-australian-children-read",
+      "headline": "Dog-eared page-turners: how Tashi and 388 other canines are helping Australian children to read",
+      "summary": "Dogs help Australian children build reading confidence and pleasure through library reading programs.",
+      "url": "https://www.theguardian.com/p/x4kkmx",
+      "thumbnail": "https://media.guim.co.uk/6d23fd5a09e9253103c3abf5b5dce97039dafbca/683_0_6827_5464/500.jpg",
+      "published": "2026-04-04T20:00:32Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "australia-news"
+    },
+    {
+      "id": "commentisfree/2026/apr/04/fuel-crisis-clean-energy-renewable-alternatives",
+      "headline": "In the middle of a fossil fuel crisis, it’s time to shout the clean energy message loud and clear",
+      "summary": "Australian commentator advocates for renewable energy and clean alternatives amid fuel crisis.",
+      "url": "https://www.theguardian.com/p/x4yp7p",
+      "thumbnail": "https://media.guim.co.uk/b903c6533b712c291bf8c6fcd7ce55d478fb0330/188_0_3661_2929/500.jpg",
+      "published": "2026-04-04T20:00:31Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "commentisfree"
+    },
+    {
+      "id": "world/2026/apr/04/lebanon-australians-watch-despair-israeli-bombardment-families-flee",
+      "headline": "‘You feel utterly helpless’: Lebanese Australians watch in despair as Israeli bombardment forces families to flee ",
+      "summary": "Lebanese Australians mourn families displaced by Israeli bombardment intensifying in Lebanon.",
+      "url": "https://www.theguardian.com/p/x4yf7j",
+      "thumbnail": "https://media.guim.co.uk/679f2a91b5bc93b9ae82ef382de1c6bd0669a3dc/0_618_2657_2126/500.jpg",
+      "published": "2026-04-04T20:00:30Z",
+      "location": {
+        "name": "Beirut",
+        "lat": 33.3157,
+        "lng": 35.4955
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "commentisfree/2026/apr/05/gambling-reform-australia-david-pocock",
+      "headline": "We cannot celebrate tinkering when it comes to gambling reform. Labor’s response falls tragically short",
+      "summary": "Labor's gambling reform response criticized as inadequate by crossbench advocate David Pocock.",
+      "url": "https://www.theguardian.com/p/x4ma42",
+      "thumbnail": "https://media.guim.co.uk/c38e5a981452cc30e4b34df22d04b0ce27ea4eef/569_0_2609_2087/500.jpg",
+      "published": "2026-04-04T20:00:30Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "commentisfree"
+    },
+    {
+      "id": "uk-news/2026/apr/04/fourth-person-arrested-over-arson-attack-on-jewish-ambulances-in-london",
+      "headline": "Man arrested at court while attending hearing of Jewish ambulance arson suspects",
+      "summary": "Fourth arrest made in Jewish ambulance arson attack investigation in north-west London.",
+      "url": "https://www.theguardian.com/p/x4mdee",
+      "thumbnail": "https://media.guim.co.uk/d6d7d5e6bff0a5e7aa36a2c4bca93ee2013fb7d2/137_0_3366_2693/500.jpg",
+      "published": "2026-04-04T19:58:38Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "uk-news"
     }
   ]
 }
