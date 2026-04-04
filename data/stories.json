@@ -1,92 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-04T09:58:06.189Z",
+    "generated_at": "2026-04-04T11:43:32.697Z",
     "story_count": 68,
-    "oldest_story": "2026-04-03T10:00:50Z",
-    "newest_story": "2026-04-04T09:00:18Z",
+    "oldest_story": "2026-04-03T11:45:01Z",
+    "newest_story": "2026-04-04T11:42:48Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "sport/live/2026/apr/03/county-cricket-season-begins-somerset-v-notts-leicestershire-v-sussex-and-more-day-one-live",
-      "headline": "County cricket season begins: Somerset v Notts, Leicestershire v Sussex and more, day one – live",
-      "summary": "County Championship cricket season begins with Somerset v Notts and other matches.",
-      "url": "https://www.theguardian.com/p/x4ymp2",
-      "thumbnail": "https://media.guim.co.uk/2a42572bea9bc2009a85ec341edba37c90f6f82c/776_0_4959_3967/500.jpg",
-      "published": "2026-04-03T10:27:30Z",
-      "location": {
-        "name": "Somerset",
-        "lat": 51.1436,
-        "lng": -2.6396
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "politics/2026/apr/03/starmer-urged-extend-fuel-duty-cut-iran-war-petrol-prices-cost-of-living",
-      "headline": "Cost of living tsar urges Starmer to extend fuel duty cut in light of Iran war",
-      "summary": "Cost of living tsar urges PM to extend fuel duty cut amid Iran conflict.",
-      "url": "https://www.theguardian.com/p/x4m5zt",
-      "thumbnail": "https://media.guim.co.uk/cbc462f18529408d08b4a7731fa18a32f542c989/867_0_6830_5464/500.jpg",
-      "published": "2026-04-03T10:17:41Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "us-news/2026/apr/03/trump-claims-starmer-weak-mocks-pm-uk-aircraft-carriers-iran-war",
-      "headline": "Trump claims Starmer is weak as he mocks PM and UK aircraft carriers",
-      "summary": "Trump mocks UK PM Starmer over aircraft carrier deployment hesitation.",
-      "url": "https://www.theguardian.com/p/x4m5my",
-      "thumbnail": "https://media.guim.co.uk/ad38a2e83b0cafba46b7f37fd7ff7f1f42b8a8e7/268_0_2665_2133/500.jpg",
-      "published": "2026-04-03T10:09:21Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "artanddesign/2026/apr/03/glen-baxter-obituary",
-      "headline": "Glen Baxter obituary",
-      "summary": "Obituary of absurdist cartoonist Glen Baxter, New Yorker contributor.",
-      "url": "https://www.theguardian.com/p/x4m2b5",
-      "thumbnail": "https://media.guim.co.uk/b1c0410577610ca245a2e9a1c6553d3898e49cbc/567_860_3361_2689/500.jpg",
-      "published": "2026-04-03T10:01:20Z",
-      "location": {
-        "name": "Leeds",
-        "lat": 53.8008,
-        "lng": -1.5491
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "artanddesign"
-    },
-    {
-      "id": "world/2026/apr/03/flavio-is-surname-dropping-son-downplaying-bolsonaro-connection",
-      "headline": "‘It’s not just Flávio’: is surname-dropping son downplaying Bolsonaro connection? ",
-      "summary": "Brazilian senator Flávio downplays Bolsonaro name amid political comeback speculation.",
-      "url": "https://www.theguardian.com/p/x4ybhh",
-      "thumbnail": "https://media.guim.co.uk/f4aece1bc91a97e54696afe612fbdadb4aadc801/451_0_3250_2600/500.jpg",
-      "published": "2026-04-03T10:00:50Z",
-      "location": {
-        "name": "Brasília",
-        "lat": -15.7942,
-        "lng": -47.8822
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "world"
-    },
     {
       "id": "us-news/live/2026/apr/03/trump-justice-department-bondi-blanche-epstein-latest-updates",
       "headline": "Todd Blanche takes over justice department after Pam Bondi sacking – US politics live ",
@@ -166,102 +86,6 @@
       "category": "tech",
       "significance": 2,
       "section": "education"
-    },
-    {
-      "id": "artanddesign/2026/apr/03/clare-gittings-obituary",
-      "headline": "Clare Gittings obituary",
-      "summary": "Clare Gittings, National Portrait Gallery learning manager, dies aged 71.",
-      "url": "https://www.theguardian.com/p/x4ycdq",
-      "thumbnail": "https://media.guim.co.uk/34fe76f7644a12927b13ed90861d83c87f28f487/121_291_362_289/master/362.jpg",
-      "published": "2026-04-03T11:36:40Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "artanddesign"
-    },
-    {
-      "id": "football/2026/apr/03/chelsea-axe-enzo-fernandez-for-two-games-after-crossing-a-line-with-madrid-comments",
-      "headline": "Chelsea axe Enzo Fernández for two games after ‘crossing a line’ with Madrid comments",
-      "summary": "Chelsea drops Enzo Fernández for two games over Real Madrid comments.",
-      "url": "https://www.theguardian.com/p/x4m678",
-      "thumbnail": "https://media.guim.co.uk/9c491c738834260ff306383f0aaf4caa9af83d18/401_0_4792_3834/500.jpg",
-      "published": "2026-04-03T11:11:16Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "world/2026/apr/03/iraq-deep-rifts-balancing-act-iran-war",
-      "headline": "Iraqi leaders face balancing act as Iran conflict exposes deep rifts",
-      "summary": "Iraq faces deep divisions over Iran's influence amid regional conflict escalation.",
-      "url": "https://www.theguardian.com/p/x4hd93",
-      "thumbnail": "https://media.guim.co.uk/13df66a43e771c069cf63114101732e43308e3cf/440_0_3985_3188/500.jpg",
-      "published": "2026-04-03T11:00:51Z",
-      "location": {
-        "name": "Baghdad",
-        "lat": 33.3128,
-        "lng": 44.3615
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "uk-news/2026/apr/03/it-has-been-traumatic-the-cornwall-landmark-left-battered-by-storm-goretti",
-      "headline": "‘It has been traumatic’: the Cornwall landmark left battered by Storm Goretti ",
-      "summary": "St Michael's Mount still recovering from Storm Goretti's devastating 100mph winds.",
-      "url": "https://www.theguardian.com/p/x4mxf8",
-      "thumbnail": "https://media.guim.co.uk/1881bdffbe0ea4f69666cc9e8d2306d8df0c8814/0_0_4944_3957/500.jpg",
-      "published": "2026-04-03T11:00:50Z",
-      "location": {
-        "name": "Cornwall",
-        "lat": 50.1122,
-        "lng": -5.3519
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "us-news/2026/apr/03/trump-pam-bondi-administration",
-      "headline": "Trump accused of running ‘misogynistic administration’ after Bondi dismissal",
-      "summary": "Trump fires attorney general Pam Bondi, accused of running misogynistic administration.",
-      "url": "https://www.theguardian.com/p/x4m2zd",
-      "thumbnail": "https://media.guim.co.uk/55f01850f2627e4807493001886b34e8d1824c60/417_0_4186_3348/500.jpg",
-      "published": "2026-04-03T11:00:50Z",
-      "location": {
-        "name": "Washington, DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "music/2026/apr/03/indie-rock-chicago-friko-and-the-weeks-best-new-tracks",
-      "headline": "Add to playlist: the endlessly inventive, radiant indie rock of Friko and the week’s best new tracks",
-      "summary": "Chicago indie rock band Friko releases inventive new album celebrating hope and friendship.",
-      "url": "https://www.theguardian.com/p/x4ygg9",
-      "thumbnail": "https://media.guim.co.uk/7625c933dab758e36899824830f428528e96108f/0_1066_3046_2437/500.jpg",
-      "published": "2026-04-03T11:00:33Z",
-      "location": {
-        "name": "Chicago",
-        "lat": 41.8781,
-        "lng": -87.6298
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "music"
     },
     {
       "id": "world/2026/apr/03/us-fighter-jet-confirmed-shot-down-over-iran",
@@ -1094,6 +918,182 @@
       "category": "politics",
       "significance": 4,
       "section": "us-news"
+    },
+    {
+      "id": "football/live/2026/apr/04/manchester-city-v-liverpool-fa-cup-quarter-final-live",
+      "headline": "Manchester City v Liverpool: FA Cup quarter-final – live",
+      "summary": "Manchester City face Liverpool in FA Cup quarter-final at Etihad Stadium.",
+      "url": "https://www.theguardian.com/p/x4ynx7",
+      "thumbnail": "https://media.guim.co.uk/295a7ef5544901f5cd5fe56ca086e8b01e64f78f/899_0_4495_3596/500.jpg",
+      "published": "2026-04-04T11:42:48Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4831,
+        "lng": -2.2006
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "sport/live/2026/apr/04/county-cricket-day-two-somerset-v-notts-leicestershire-v-sussex-and-more-live",
+      "headline": "County cricket day two: Somerset v Notts, Leicestershire v Sussex and more – live",
+      "summary": "County Championship cricket continues across England with multiple matches.",
+      "url": "https://www.theguardian.com/p/x4m65p",
+      "thumbnail": "https://media.guim.co.uk/f6b813226695f97a5c48f3b5d3340ba5a1634812/299_0_2520_2017/500.jpg",
+      "published": "2026-04-04T11:40:17Z",
+      "location": {
+        "name": "England",
+        "lat": 52.3555,
+        "lng": -1.1743
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "business/2026/apr/04/house-swaps-exchanging-home-dream-holiday-saving-money",
+      "headline": "House swaps: why exchanging home could be a ticket to a dream holiday",
+      "summary": "House swapping offers cost-effective holiday alternatives for families.",
+      "url": "https://www.theguardian.com/p/x4kx5v",
+      "thumbnail": "https://media.guim.co.uk/d68d9619a2442dfb138b18bc382ab2ac1bac2e1d/547_0_6880_5504/500.jpg",
+      "published": "2026-04-04T11:00:21Z",
+      "location": {
+        "name": "Reims",
+        "lat": 49.2628,
+        "lng": 4.0347
+      },
+      "category": "economy",
+      "significance": 1,
+      "section": "business"
+    },
+    {
+      "id": "world/2026/apr/04/young-people-hungary-general-election-polls-viktor-orban",
+      "headline": "‘Feels like history is being made’: will young Hungarian voters oust Orbán?",
+      "summary": "Young Hungarian voters may oust Viktor Orbán after 16 years in power.",
+      "url": "https://www.theguardian.com/p/x4mx48",
+      "thumbnail": "https://media.guim.co.uk/85d9e4131b0bd96bbcda2c124f7602e0f756167d/1_0_4998_4000/500.jpg",
+      "published": "2026-04-04T11:00:21Z",
+      "location": {
+        "name": "Budapest",
+        "lat": 47.4979,
+        "lng": 19.0402
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "us-news/2026/apr/04/covid-19-variant-ba32",
+      "headline": "New Covid variant BA.3.2 detected across US, but experts urge vigilance over alarm",
+      "summary": "New Covid variant BA.3.2 detected in 29 US states but shows no increased severity.",
+      "url": "https://www.theguardian.com/p/x4yz78",
+      "thumbnail": "https://media.guim.co.uk/651a97bf935ae9a38124b452c0580df8b5140ed9/291_0_4192_3353/500.jpg",
+      "published": "2026-04-04T11:00:21Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "commentisfree/2026/apr/04/jared-kushner-middle-east-peace-deal",
+      "headline": "Jared Kushner is seeking peace deals in the Middle East. He’s also raising money for his own firm",
+      "summary": "Jared Kushner pursues Middle East peace deals while raising billions for firm.",
+      "url": "https://www.theguardian.com/p/x4m35q",
+      "thumbnail": "https://media.guim.co.uk/e816a1e1d921acd16335ae2e3aa705cee3e0f63b/323_0_3289_2632/500.jpg",
+      "published": "2026-04-04T11:00:20Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "commentisfree"
+    },
+    {
+      "id": "us-news/2026/apr/04/alaska-native-birth-workers-maternal-health-gap",
+      "headline": "Native birth workers are guiding Alaskan mothers through pregnancy once again: ‘I felt really supported and honored’",
+      "summary": "Alaska Native doulas support mothers facing highest pregnancy-related death risks.",
+      "url": "https://www.theguardian.com/p/x4m7d4",
+      "thumbnail": "https://media.guim.co.uk/69bf1b29de145c655155a367a27e6b0eca64fa51/0_0_3000_2400/500.jpg",
+      "published": "2026-04-04T11:00:20Z",
+      "location": {
+        "name": "Anchorage",
+        "lat": 61.2181,
+        "lng": -149.9003
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "world/2026/apr/04/lebanese-forced-to-bury-their-dead-twice-as-war-robs-them-of-final-goodbyes",
+      "headline": "Lebanese forced to bury their dead twice as war robs them of final goodbyes",
+      "summary": "Lebanese forced into temporary burials as Israeli invasion expands in south.",
+      "url": "https://www.theguardian.com/p/x4kj82",
+      "thumbnail": "https://media.guim.co.uk/16ccc2bd22ec18816eb1cc28fb3c7190541c9823/479_59_4853_3883/500.jpg",
+      "published": "2026-04-04T11:00:20Z",
+      "location": {
+        "name": "Beirut",
+        "lat": 33.3157,
+        "lng": 35.496
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "world/2026/apr/04/cuba-oil-tankers-trump-talks",
+      "headline": "Cubans study oil tanker diplomacy for signs of progress in secret talks with US",
+      "summary": "Russian tanker breaks Trump's Cuba blockade amid secret US-Cuba talks.",
+      "url": "https://www.theguardian.com/p/x4m7yc",
+      "thumbnail": "https://media.guim.co.uk/5a703640b64504d5b217494ef1f5e42d81b2e1e7/285_0_2853_2283/500.jpg",
+      "published": "2026-04-04T11:00:19Z",
+      "location": {
+        "name": "Havana",
+        "lat": 23.1136,
+        "lng": -82.3666
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "uk-news/2026/apr/04/urban-trail-race-halifax-historic-buildings-piece-hall",
+      "headline": "Running the town: the urban trail race taking entrants inside Halifax’s historic buildings",
+      "summary": "Halifax launches first urban trail race through historic buildings this Easter.",
+      "url": "https://www.theguardian.com/p/x4ygf5",
+      "thumbnail": "https://media.guim.co.uk/3eeb8651c6ab0de8b8f688b331a0f733f5d6a816/740_2_6660_5328/500.jpg",
+      "published": "2026-04-04T11:00:19Z",
+      "location": {
+        "name": "Halifax",
+        "lat": 53.7176,
+        "lng": -2.3479
+      },
+      "category": "sport",
+      "significance": 1,
+      "section": "uk-news"
+    },
+    {
+      "id": "football/2026/apr/04/kieran-trippier-leaving-newcastle-united-this-summer",
+      "headline": "‘Emotional’ Trippier to leave Newcastle this summer when contract ends",
+      "summary": "Kieran Trippier leaving Newcastle United this summer when contract expires.",
+      "url": "https://www.theguardian.com/p/x4mbfn",
+      "thumbnail": "https://media.guim.co.uk/e5cac49feca2e143b900de2f66d94c0996e185ac/0_59_3484_2787/500.jpg",
+      "published": "2026-04-04T10:41:58Z",
+      "location": {
+        "name": "Newcastle",
+        "lat": 54.9783,
+        "lng": -1.6178
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
     }
   ]
 }
