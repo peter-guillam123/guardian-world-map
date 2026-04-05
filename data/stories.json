@@ -1,76 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-05T21:00:53.556Z",
-    "story_count": 76,
-    "oldest_story": "2026-04-04T21:06:06Z",
-    "newest_story": "2026-04-05T20:56:38Z",
+    "generated_at": "2026-04-05T21:59:35.012Z",
+    "story_count": 74,
+    "oldest_story": "2026-04-04T22:20:45Z",
+    "newest_story": "2026-04-05T21:57:34Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "world/2026/apr/04/iran-conflict-uk-easter-messages-archbishop-canterbury-keir-starmer",
-      "headline": "Iran conflict to forefront of UK religious and political leaders’ Easter messages",
-      "summary": "UK religious leaders call for peace in Middle East during Easter messages.",
-      "url": "https://www.theguardian.com/p/x4mccv",
-      "thumbnail": "https://media.guim.co.uk/87a3d2a3a3890534c71d226ca5b20ee2d3ce393b/0_0_5956_4767/500.jpg",
-      "published": "2026-04-04T21:30:32Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "uk-news/2026/apr/04/county-lines-drugs-girls-exploitation-data",
-      "headline": "Rise in number of girls being identified as victims in county lines exploitation, data shows",
-      "summary": "Girls now 22% of county lines drug exploitation victims, up from 15% in 2024.",
-      "url": "https://www.theguardian.com/p/x4mbp6",
-      "thumbnail": "https://media.guim.co.uk/1f529a5568953d8606148ca1e462ddfda85f7334/232_0_1812_1451/500.jpg",
-      "published": "2026-04-04T21:30:32Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "us-news/2026/apr/04/mountain-lion-cub-crimson-california",
-      "headline": "Three-week-old mountain lion cub rescued by California biologists",
-      "summary": "Three-week-old mountain lion cub rescued in California mountains, relocated to Oakland zoo.",
-      "url": "https://www.theguardian.com/p/x4mdpx",
-      "thumbnail": "https://media.guim.co.uk/7ae371dd978877feb6af2dc363910616eb3a15f4/52_0_3780_3024/500.jpg",
-      "published": "2026-04-04T21:10:05Z",
-      "location": {
-        "name": "Santa Monica",
-        "lat": 34.0195,
-        "lng": -118.4912
-      },
-      "category": "other",
-      "significance": 1,
-      "section": "us-news"
-    },
-    {
-      "id": "football/2026/apr/04/southampton-arsenal-fa-cup-match-report",
-      "headline": "Shea Charles stuns Arsenal to send Southampton into FA Cup semis",
-      "summary": "Southampton defeats Arsenal 2-1 in FA Cup quarter-final with late Shea Charles goal.",
-      "url": "https://www.theguardian.com/p/x4m7ba",
-      "thumbnail": "https://media.guim.co.uk/639dcdf490be1c798e180dd798afcb8983f90d82/424_120_3460_2768/500.jpg",
-      "published": "2026-04-04T21:06:06Z",
-      "location": {
-        "name": "Southampton",
-        "lat": 50.9061,
-        "lng": -1.3909
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
     {
       "id": "football/2026/apr/04/arteta-says-arsenal-must-look-in-the-mirror-after-southampton-defeat",
       "headline": "Arteta says Arsenal must ‘look in the mirror’ after Southampton defeat",
@@ -1222,6 +1158,38 @@
       "category": "politics",
       "significance": 2,
       "section": "australia-news"
+    },
+    {
+      "id": "australia-news/live/2026/apr/06/anthony-albanese-fuel-crisis-angus-taylor-middle-east-labor-liberals-moira-deeming-ntwnfb",
+      "headline": "Australia news live: Moira Deeming secures top spot on Victorian Liberal ticket; Chris Bowen calls for Hormuz reopening",
+      "summary": "Moira Deeming secures top Victorian Liberal spot; Chris Bowen calls for Strait of Hormuz reopening.",
+      "url": "https://www.theguardian.com/p/x4mja8",
+      "thumbnail": "https://media.guim.co.uk/c21955ca14b3ed091d60a39014824c4d735a624d/688_0_6880_5504/500.jpg",
+      "published": "2026-04-05T21:57:34Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "football/2026/apr/05/bernardo-silva-pep-lijnders-manchester-city-captain-leaving-summer",
+      "headline": "Bernardo Silva will leave Manchester City this summer, reveals Pep Lijnders",
+      "summary": "Bernardo Silva to leave Manchester City this summer as captain nears contract end.",
+      "url": "https://www.theguardian.com/p/x4mgmh",
+      "thumbnail": "https://media.guim.co.uk/cdd083a8ff343655c929bc9c5c04721904e3bd89/354_0_3536_2829/500.jpg",
+      "published": "2026-04-05T21:30:01Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4831,
+        "lng": -2.2
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
     }
   ]
 }
