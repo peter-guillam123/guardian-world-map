@@ -1,188 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-05T10:03:51.153Z",
-    "story_count": 68,
-    "oldest_story": "2026-04-04T10:41:58Z",
-    "newest_story": "2026-04-05T10:00:47Z",
+    "generated_at": "2026-04-05T11:46:42.294Z",
+    "story_count": 70,
+    "oldest_story": "2026-04-04T12:58:25Z",
+    "newest_story": "2026-04-05T11:37:36Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/live/2026/apr/04/manchester-city-v-liverpool-fa-cup-quarter-final-live",
-      "headline": "Manchester City v Liverpool: FA Cup quarter-final – live",
-      "summary": "Manchester City face Liverpool in FA Cup quarter-final at Etihad Stadium.",
-      "url": "https://www.theguardian.com/p/x4ynx7",
-      "thumbnail": "https://media.guim.co.uk/295a7ef5544901f5cd5fe56ca086e8b01e64f78f/899_0_4495_3596/500.jpg",
-      "published": "2026-04-04T11:42:48Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4831,
-        "lng": -2.2006
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "sport/live/2026/apr/04/county-cricket-day-two-somerset-v-notts-leicestershire-v-sussex-and-more-live",
-      "headline": "County cricket day two: Somerset v Notts, Leicestershire v Sussex and more – live",
-      "summary": "County Championship cricket continues across England with multiple matches.",
-      "url": "https://www.theguardian.com/p/x4m65p",
-      "thumbnail": "https://media.guim.co.uk/f6b813226695f97a5c48f3b5d3340ba5a1634812/299_0_2520_2017/500.jpg",
-      "published": "2026-04-04T11:40:17Z",
-      "location": {
-        "name": "England",
-        "lat": 52.3555,
-        "lng": -1.1743
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "business/2026/apr/04/house-swaps-exchanging-home-dream-holiday-saving-money",
-      "headline": "House swaps: why exchanging home could be a ticket to a dream holiday",
-      "summary": "House swapping offers cost-effective holiday alternatives for families.",
-      "url": "https://www.theguardian.com/p/x4kx5v",
-      "thumbnail": "https://media.guim.co.uk/d68d9619a2442dfb138b18bc382ab2ac1bac2e1d/547_0_6880_5504/500.jpg",
-      "published": "2026-04-04T11:00:21Z",
-      "location": {
-        "name": "Reims",
-        "lat": 49.2628,
-        "lng": 4.0347
-      },
-      "category": "economy",
-      "significance": 1,
-      "section": "business"
-    },
-    {
-      "id": "world/2026/apr/04/young-people-hungary-general-election-polls-viktor-orban",
-      "headline": "‘Feels like history is being made’: will young Hungarian voters oust Orbán?",
-      "summary": "Young Hungarian voters may oust Viktor Orbán after 16 years in power.",
-      "url": "https://www.theguardian.com/p/x4mx48",
-      "thumbnail": "https://media.guim.co.uk/85d9e4131b0bd96bbcda2c124f7602e0f756167d/1_0_4998_4000/500.jpg",
-      "published": "2026-04-04T11:00:21Z",
-      "location": {
-        "name": "Budapest",
-        "lat": 47.4979,
-        "lng": 19.0402
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "us-news/2026/apr/04/covid-19-variant-ba32",
-      "headline": "New Covid variant BA.3.2 detected across US, but experts urge vigilance over alarm",
-      "summary": "New Covid variant BA.3.2 detected in 29 US states but shows no increased severity.",
-      "url": "https://www.theguardian.com/p/x4yz78",
-      "thumbnail": "https://media.guim.co.uk/651a97bf935ae9a38124b452c0580df8b5140ed9/291_0_4192_3353/500.jpg",
-      "published": "2026-04-04T11:00:21Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "commentisfree/2026/apr/04/jared-kushner-middle-east-peace-deal",
-      "headline": "Jared Kushner is seeking peace deals in the Middle East. He’s also raising money for his own firm",
-      "summary": "Jared Kushner pursues Middle East peace deals while raising billions for firm.",
-      "url": "https://www.theguardian.com/p/x4m35q",
-      "thumbnail": "https://media.guim.co.uk/e816a1e1d921acd16335ae2e3aa705cee3e0f63b/323_0_3289_2632/500.jpg",
-      "published": "2026-04-04T11:00:20Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "commentisfree"
-    },
-    {
-      "id": "us-news/2026/apr/04/alaska-native-birth-workers-maternal-health-gap",
-      "headline": "Native birth workers are guiding Alaskan mothers through pregnancy once again: ‘I felt really supported and honored’",
-      "summary": "Alaska Native doulas support mothers facing highest pregnancy-related death risks.",
-      "url": "https://www.theguardian.com/p/x4m7d4",
-      "thumbnail": "https://media.guim.co.uk/69bf1b29de145c655155a367a27e6b0eca64fa51/0_0_3000_2400/500.jpg",
-      "published": "2026-04-04T11:00:20Z",
-      "location": {
-        "name": "Anchorage",
-        "lat": 61.2181,
-        "lng": -149.9003
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "world/2026/apr/04/lebanese-forced-to-bury-their-dead-twice-as-war-robs-them-of-final-goodbyes",
-      "headline": "Lebanese forced to bury their dead twice as war robs them of final goodbyes",
-      "summary": "Lebanese forced into temporary burials as Israeli invasion expands in south.",
-      "url": "https://www.theguardian.com/p/x4kj82",
-      "thumbnail": "https://media.guim.co.uk/16ccc2bd22ec18816eb1cc28fb3c7190541c9823/479_59_4853_3883/500.jpg",
-      "published": "2026-04-04T11:00:20Z",
-      "location": {
-        "name": "Beirut",
-        "lat": 33.3157,
-        "lng": 35.496
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "world/2026/apr/04/cuba-oil-tankers-trump-talks",
-      "headline": "Cubans study oil tanker diplomacy for signs of progress in secret talks with US",
-      "summary": "Russian tanker breaks Trump's Cuba blockade amid secret US-Cuba talks.",
-      "url": "https://www.theguardian.com/p/x4m7yc",
-      "thumbnail": "https://media.guim.co.uk/5a703640b64504d5b217494ef1f5e42d81b2e1e7/285_0_2853_2283/500.jpg",
-      "published": "2026-04-04T11:00:19Z",
-      "location": {
-        "name": "Havana",
-        "lat": 23.1136,
-        "lng": -82.3666
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "uk-news/2026/apr/04/urban-trail-race-halifax-historic-buildings-piece-hall",
-      "headline": "Running the town: the urban trail race taking entrants inside Halifax’s historic buildings",
-      "summary": "Halifax launches first urban trail race through historic buildings this Easter.",
-      "url": "https://www.theguardian.com/p/x4ygf5",
-      "thumbnail": "https://media.guim.co.uk/3eeb8651c6ab0de8b8f688b331a0f733f5d6a816/740_2_6660_5328/500.jpg",
-      "published": "2026-04-04T11:00:19Z",
-      "location": {
-        "name": "Halifax",
-        "lat": 53.7176,
-        "lng": -2.3479
-      },
-      "category": "sport",
-      "significance": 1,
-      "section": "uk-news"
-    },
-    {
-      "id": "football/2026/apr/04/kieran-trippier-leaving-newcastle-united-this-summer",
-      "headline": "‘Emotional’ Trippier to leave Newcastle this summer when contract ends",
-      "summary": "Kieran Trippier leaving Newcastle United this summer when contract expires.",
-      "url": "https://www.theguardian.com/p/x4mbfn",
-      "thumbnail": "https://media.guim.co.uk/e5cac49feca2e143b900de2f66d94c0996e185ac/0_59_3484_2787/500.jpg",
-      "published": "2026-04-04T10:41:58Z",
-      "location": {
-        "name": "Newcastle",
-        "lat": 54.9783,
-        "lng": -1.6178
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
     {
       "id": "sport/live/2026/apr/04/the-boat-races-2026-oxford-cambridge-latest-news-updates",
       "headline": "The Boat Races 2026 – Oxford dominate Cambridge in women’s race to end losing streak",
@@ -1094,6 +918,214 @@
       "category": "economy",
       "significance": 2,
       "section": "football"
+    },
+    {
+      "id": "music/2026/apr/05/kanye-west-wireless-festival-deeply-concerning-keir-starmer",
+      "headline": "Pepsi drops Wireless sponsorship amid criticism of Kanye West booking ",
+      "summary": "Pepsi withdraws Wireless Festival sponsorship over Kanye West booking controversy.",
+      "url": "https://www.theguardian.com/p/x4mg9t",
+      "thumbnail": "https://media.guim.co.uk/a7ee7021eead0225a6ee2f38579b38fb7b7b067a/270_0_3000_2400/500.jpg",
+      "published": "2026-04-05T11:37:36Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "music"
+    },
+    {
+      "id": "stage/2026/apr/05/victoria-a-queen-unbound-review-watermill-theatre-newbury",
+      "headline": "Victoria: A Queen Unbound review – darkness lurks beneath the myth of a model royal marriage",
+      "summary": "Theatre review of Victoria: A Queen Unbound exploring control in royal marriage.",
+      "url": "https://www.theguardian.com/p/x4mgfj",
+      "thumbnail": "https://media.guim.co.uk/f355ea9022a045347d0ed9e5742be3619f60f797/93_0_936_749/500.jpg",
+      "published": "2026-04-05T11:33:55Z",
+      "location": {
+        "name": "Newbury",
+        "lat": 51.4006,
+        "lng": -1.3236
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "stage"
+    },
+    {
+      "id": "us-news/ng-interactive/2026/apr/05/trump-deportation-rural-towns-wisconsin",
+      "headline": "Trump’s mass deportation plan breaks the quiet of small US towns: ‘We have to take care of each other’",
+      "summary": "Trump's mass deportation agents spread into rural western Wisconsin communities.",
+      "url": "https://www.theguardian.com/p/x4m33q",
+      "thumbnail": "https://media.guim.co.uk/00d471edb97df51fe39f5faba8180a91ae3c2271/978_863_3288_2632/500.jpg",
+      "published": "2026-04-05T11:00:51Z",
+      "location": {
+        "name": "Wisconsin",
+        "lat": 44.2685,
+        "lng": -89.6165
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/apr/05/priest-anthony-odiong-trial-sex-offenses",
+      "headline": "Priest accused of coercing congregants for sex in Texas could have single trial for charges from three separate accusers",
+      "summary": "Priest accused of coercing congregants for sex could face consolidated trial.",
+      "url": "https://www.theguardian.com/p/x4m8tq",
+      "thumbnail": "https://media.guim.co.uk/1bdea9f752f7cf4c449f60f39075d2b0956a9b8b/354_0_1187_950/500.jpg",
+      "published": "2026-04-05T11:00:51Z",
+      "location": {
+        "name": "Texas",
+        "lat": 31.9686,
+        "lng": -99.9018
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "lifeandstyle/2026/apr/05/dining-across-the-divide-julian-lawal-reform-uk-labour-green",
+      "headline": "Dining across the divide: ‘I knew he was a Reform voter and I had this Nigel-Farage-angry-face image’ ",
+      "summary": "Dining across divide: Reform voter and Labour supporter debate politics.",
+      "url": "https://www.theguardian.com/p/x4j2eh",
+      "thumbnail": "https://media.guim.co.uk/db468793216942fc9f24b9da45381e1f66000f99/1196_0_6880_5504/500.jpg",
+      "published": "2026-04-05T11:00:50Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 1,
+      "section": "lifeandstyle"
+    },
+    {
+      "id": "environment/2026/apr/05/rice-whales-extinction-trump-gulf-mexico",
+      "headline": "Rice’s whales predate modern humans. Now Trump could make them extinct",
+      "summary": "Trump administration removes protections for endangered Rice's whales with only 50 left.",
+      "url": "https://www.theguardian.com/p/x4m2nn",
+      "thumbnail": "https://media.guim.co.uk/7a5d436bc2da6909746712b87e8e986840e55b12/0_0_1500_1200/500.jpg",
+      "published": "2026-04-05T11:00:49Z",
+      "location": {
+        "name": "Gulf of Mexico",
+        "lat": 27.5,
+        "lng": -90
+      },
+      "category": "climate",
+      "significance": 3,
+      "section": "environment"
+    },
+    {
+      "id": "us-news/2026/apr/05/us-defense-contractor-v2x-worker-killed-iraq",
+      "headline": "Worker for US defense contractor killed in Iraq as colleagues say they are pressured to stay",
+      "summary": "US defense contractor worker killed in Erbil airbase attack amid safety concerns.",
+      "url": "https://www.theguardian.com/p/x4m78j",
+      "thumbnail": "https://media.guim.co.uk/88e8398991de2a02fa39aa8a263b095c1f8f51d6/398_0_5001_4002/500.jpg",
+      "published": "2026-04-05T11:00:49Z",
+      "location": {
+        "name": "Iraq",
+        "lat": 33.3128,
+        "lng": 44.3615
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/apr/05/all-the-presidents-men-watergate-50-anniversary",
+      "headline": "‘I still think it’s one of the great films of all time’: All the President’s Men turns 50",
+      "summary": "All the President's Men celebrates 50th anniversary of iconic Watergate film.",
+      "url": "https://www.theguardian.com/p/x4yd7y",
+      "thumbnail": "https://media.guim.co.uk/1fd61b4b9d74766f551dd42848755dbda8b6ad0f/50_0_2186_1749/500.jpg",
+      "published": "2026-04-05T11:00:49Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "business/2026/apr/05/coal-reliance-iran-war-fossil-fuels",
+      "headline": "How Trump’s Iran war could make the world more reliant on coal",
+      "summary": "Trump's Iran war could increase global coal reliance amid energy crisis.",
+      "url": "https://www.theguardian.com/p/x4m32g",
+      "thumbnail": "https://media.guim.co.uk/ea969e36fc856b714ce84540aaac3614e227dc75/519_291_3140_2512/500.jpg",
+      "published": "2026-04-05T11:00:49Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "business"
+    },
+    {
+      "id": "football/2026/apr/05/virgil-van-dijk-liverpool-gave-up-manchester-city-defeat-psg",
+      "headline": "Van Dijk claims Liverpool ‘gave up’ in Manchester City defeat as PSG trip looms",
+      "summary": "Van Dijk apologizes after Liverpool loses heavily to Manchester City in FA Cup.",
+      "url": "https://www.theguardian.com/p/x4mgkj",
+      "thumbnail": "https://media.guim.co.uk/4ea3e826a0c78b65c2cce1562251bb0bbb213355/417_0_3468_2774/500.jpg",
+      "published": "2026-04-05T11:00:48Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "global/commentisfree/2026/apr/05/anti-trump-solidarity-no-kings",
+      "headline": "Here are three ways we can turn anti-Trump solidarity into political power",
+      "summary": "Commentary on converting No Kings anti-Trump protests into political power for midterms.",
+      "url": "https://www.theguardian.com/p/x4ye52",
+      "thumbnail": "https://media.guim.co.uk/d126888056dabb564b23a435d9f99aa5694463aa/370_0_3703_2962/500.jpg",
+      "published": "2026-04-05T11:00:48Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "global"
+    },
+    {
+      "id": "money/2026/apr/05/funeral-costs-uk-iran-war",
+      "headline": "Iran war driving up funeral costs in the UK ",
+      "summary": "Iran war pushes UK funeral costs up 1.3% to average £4,623 as energy prices rise.",
+      "url": "https://www.theguardian.com/p/x4mx47",
+      "thumbnail": "https://media.guim.co.uk/e3fbb6a10d4cac619a7d5f4c1e34b10437c9a51b/503_0_4651_3720/500.jpg",
+      "published": "2026-04-05T10:53:19Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "money"
+    },
+    {
+      "id": "business/2026/apr/05/higher-energy-costs-iran-war-oil-economics-ai-boom",
+      "headline": "Higher energy costs from Iran war could threaten fragile economics of AI boom",
+      "summary": "Iran conflict threatens AI industry economics through higher energy costs and supply chain disruption.",
+      "url": "https://www.theguardian.com/p/x4mvkq",
+      "thumbnail": "https://media.guim.co.uk/365a51e9206cd0b02a8120f88bfcab7f66784f6a/284_244_4352_3484/500.jpg",
+      "published": "2026-04-05T10:38:42Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "business"
     }
   ]
 }
