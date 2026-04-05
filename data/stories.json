@@ -1,44 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-05T21:59:35.012Z",
-    "story_count": 74,
-    "oldest_story": "2026-04-04T22:20:45Z",
-    "newest_story": "2026-04-05T21:57:34Z",
+    "generated_at": "2026-04-05T23:51:32.559Z",
+    "story_count": 76,
+    "oldest_story": "2026-04-05T05:00:41Z",
+    "newest_story": "2026-04-05T23:02:03Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/2026/apr/04/arteta-says-arsenal-must-look-in-the-mirror-after-southampton-defeat",
-      "headline": "Arteta says Arsenal must ‘look in the mirror’ after Southampton defeat",
-      "summary": "Arsenal loses FA Cup quarter-final to Southampton; Arteta urges team reflection.",
-      "url": "https://www.theguardian.com/p/x4mevk",
-      "thumbnail": "https://media.guim.co.uk/af542096422651b9b1c42af773251f1116a1a804/1059_0_4767_3813/500.jpg",
-      "published": "2026-04-04T22:41:10Z",
-      "location": {
-        "name": "Southampton",
-        "lat": 50.906,
-        "lng": -1.3909
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "us-news/2026/apr/04/louisiana-parade-car-crash",
-      "headline": "More than 20 people injured after driver crashes into crowd at Louisiana parade",
-      "summary": "Drunk driver crashes into crowd at Louisiana Lao New Year parade, injuring 20+.",
-      "url": "https://www.theguardian.com/p/x4me6x",
-      "thumbnail": "https://media.guim.co.uk/81271d6279c799cf1291c37b5a6bb0d827e567ee/501_0_4268_3416/500.jpg",
-      "published": "2026-04-04T22:20:45Z",
-      "location": {
-        "name": "Louisiana",
-        "lat": 30.25,
-        "lng": -91.875
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "us-news"
-    },
     {
       "id": "world/live/2026/apr/05/middle-east-crisis-live-iran-israel-us-war-trump-strait-hormuz-missing-pilot-downed",
       "headline": "Middle East crisis live: Trump says F-15 crew member missing in Iran is ‘safe’ after ‘dozens of aircraft’ sent to recover him",
@@ -1190,6 +1158,70 @@
       "category": "sport",
       "significance": 2,
       "section": "football"
+    },
+    {
+      "id": "money/2026/apr/06/blue-badge-permits-record-1-20-people-in-england",
+      "headline": "Blue badge permits now held by 1 in 15 adults in England",
+      "summary": "Blue badge permits in England reach 1 in 15 adults amid concerns over misuse.",
+      "url": "https://www.theguardian.com/p/x4mt5z",
+      "thumbnail": "https://media.guim.co.uk/294720650ca64336fcfc08ecb43ee9ade2f64d8a/737_230_3719_2976/500.jpg",
+      "published": "2026-04-05T23:02:03Z",
+      "location": {
+        "name": "England",
+        "lat": 52.3555,
+        "lng": -1.1743
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "money"
+    },
+    {
+      "id": "society/2026/apr/06/nhs-patients-care-doctors-england-strike-bma-pay",
+      "headline": "NHS urges patients not to put off care as doctors in England prepare for strike",
+      "summary": "NHS urges patients to seek care as English resident doctors begin six-day strike.",
+      "url": "https://www.theguardian.com/p/x4mtc8",
+      "thumbnail": "https://media.guim.co.uk/ae61691bcdd61caab2a279110d61bce5bf9aa107/340_0_2500_2000/500.jpg",
+      "published": "2026-04-05T23:02:03Z",
+      "location": {
+        "name": "England",
+        "lat": 52.3555,
+        "lng": -1.1743
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "society"
+    },
+    {
+      "id": "money/2026/apr/06/new-uk-farm-inheritance-tax-rule-will-cause-significant-challenges-say-accountants",
+      "headline": "New UK farm inheritance tax rule will cause ‘significant challenges’, say accountants",
+      "summary": "New UK inheritance tax on farms worth £2.5m+ comes into force amid accountant concerns.",
+      "url": "https://www.theguardian.com/p/x4mhpx",
+      "thumbnail": "https://media.guim.co.uk/a37c998b9c86b2d263fff09682eef7f2c9ed187b/50_0_4078_3263/500.jpg",
+      "published": "2026-04-05T23:01:03Z",
+      "location": {
+        "name": "United Kingdom",
+        "lat": 55.3781,
+        "lng": -3.436
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "money"
+    },
+    {
+      "id": "uk-news/2026/apr/06/hubs-to-help-young-people-away-from-and-into-work-to-open-in-england",
+      "headline": "Hubs to help young people away from crime and into work to open in England",
+      "summary": "Eight youth futures hubs open across England to support young people and combat crime.",
+      "url": "https://www.theguardian.com/p/x4mhkp",
+      "thumbnail": "https://media.guim.co.uk/5fa96f096fb5c92ad1a7959c5eae669470c935cb/684_0_3380_2704/500.jpg",
+      "published": "2026-04-05T23:01:03Z",
+      "location": {
+        "name": "England",
+        "lat": 52.3555,
+        "lng": -1.1743
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "uk-news"
     }
   ]
 }
