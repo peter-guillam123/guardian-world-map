@@ -1,76 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-05T05:57:40.672Z",
-    "story_count": 61,
-    "oldest_story": "2026-04-04T07:00:15Z",
-    "newest_story": "2026-04-05T05:53:15Z",
+    "generated_at": "2026-04-05T08:05:37.119Z",
+    "story_count": 66,
+    "oldest_story": "2026-04-04T09:00:17Z",
+    "newest_story": "2026-04-05T08:00:45Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/live/2026/apr/04/manchester-city-v-liverpool-kicks-off-fa-cup-quarter-finals-fernandez-latest-and-more-matchday-live",
-      "headline": "Manchester City v Liverpool kicks off FA Cup quarter-finals, Fernández latest and more – matchday live",
-      "summary": "Manchester City hosts Liverpool in FA Cup quarter-finals matchday coverage.",
-      "url": "https://www.theguardian.com/p/x4yn3t",
-      "thumbnail": "https://media.guim.co.uk/a7c6afa270533fc12ad835cad990aeaafe96625b/458_0_4999_4000/500.jpg",
-      "published": "2026-04-04T07:43:31Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4831,
-        "lng": -2.2005
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/apr/04/womens-fa-cup-quarter-finals-tie-by-tie-analysis-of-the-weekend-games",
-      "headline": "Women’s FA Cup quarter-finals: tie-by-tie analysis of the weekend games",
-      "summary": "Women's FA Cup quarter-finals analysis: Arsenal seek semi-final spot against Brighton.",
-      "url": "https://www.theguardian.com/p/x4m2c2",
-      "thumbnail": "https://media.guim.co.uk/199ade472e65aebe35050221e5e57c29a0bf313d/0_0_5000_4000/500.jpg",
-      "published": "2026-04-04T07:00:15Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "world/2026/apr/04/children-us-israel-iran-war-middle-east",
-      "headline": "Death, displacement and military duties: children plunged into crisis by Middle East war",
-      "summary": "US-Israeli war displaces millions of children across Middle East with lasting humanitarian impact.",
-      "url": "https://www.theguardian.com/p/x4ybc8",
-      "thumbnail": "https://media.guim.co.uk/13ffbffde06d17a4b0d57de922ad094eb86773f9/403_0_4260_3408/500.jpg",
-      "published": "2026-04-04T07:00:15Z",
-      "location": {
-        "name": "Middle East",
-        "lat": 34.8516,
-        "lng": 46.1996
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "football/2026/apr/04/arsenal-max-dowman-related-to-gunners-legend-george-male",
-      "headline": "Arsenal in the blood: how Max Dowman is related to Gunners legend George Male",
-      "summary": "Arsenal prospect Max Dowman discovered family connection to Gunners legend George Male.",
-      "url": "https://www.theguardian.com/p/x4mxkc",
-      "thumbnail": "https://media.guim.co.uk/b5e99e12c04bc12e429ed6bcddfa93e5dea6bb80/0_0_5000_4000/500.jpg",
-      "published": "2026-04-04T07:00:15Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 1,
-      "section": "football"
-    },
     {
       "id": "environment/2026/apr/04/new-north-sea-drilling-jackdaw-rosebank-uk-gas-imports",
       "headline": "New North Sea drilling would barely reduce UK gas imports at all, data shows",
@@ -982,6 +918,150 @@
       "category": "tech",
       "significance": 2,
       "section": "news"
+    },
+    {
+      "id": "commentisfree/2026/apr/05/erika-charlie-kirk-joe-rogan-donald-trump-turning-point-usa-maga-iran",
+      "headline": "Joe Rogan and the influencers who built Maga are revolting over Iran. Was this an alliance doomed to fail? ",
+      "summary": "Joe Rogan and MAGA influencers clash over Iran policy amid Trump administration tensions.",
+      "url": "https://www.theguardian.com/p/x4yc8t",
+      "thumbnail": "https://media.guim.co.uk/0a46800beb001b5e34422bd836f595bc5781013c/96_406_1475_1180/500.jpg",
+      "published": "2026-04-05T08:00:45Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "commentisfree"
+    },
+    {
+      "id": "business/2026/apr/05/former-co-op-boss-paid-2m-leave-difficult-year-shirine-khoury-haq",
+      "headline": "Former Co-op boss was paid almost £2m before leaving after group’s difficult year",
+      "summary": "Former Co-op boss Shirine Khoury-Haq paid £1.9m despite cyber-attack and difficult year.",
+      "url": "https://www.theguardian.com/p/x4mxpc",
+      "thumbnail": "https://media.guim.co.uk/d21f04315cd26ce4a7c74d15be25645f04ea2db7/4812_1055_2564_2052/500.jpg",
+      "published": "2026-04-05T08:00:44Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "australia-news/2026/apr/05/sisters-of-officer-killed-by-dezi-freeman-plan-to-sue-police-for-negligence-lawyer-says-ntwnfb",
+      "headline": "Sisters of officer killed by Dezi Freeman plan to sue police for negligence, lawyer says",
+      "summary": "Sisters of officer Neal Thompson plan negligence lawsuit against Victoria Police after shooting.",
+      "url": "https://www.theguardian.com/p/x4mgv5",
+      "thumbnail": "https://media.guim.co.uk/2fac422c63163178f2dcae9d7ed86a9c3dc50510/812_335_2500_2000/500.jpg",
+      "published": "2026-04-05T07:55:47Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "australia-news"
+    },
+    {
+      "id": "world/2026/apr/05/how-paris-swapped-cars-for-bikes-and-remade-its-streets",
+      "headline": "How Paris swapped cars for bikes – and transformed its streets",
+      "summary": "Paris transforms streets under Mayor Hidalgo with bike lanes, reduced traffic, reclaimed space.",
+      "url": "https://www.theguardian.com/p/x4tmcf",
+      "thumbnail": "https://media.guim.co.uk/77e512c0c8c08500b87c0b8a533d3f6a46fc95fd/0_0_7129_5706/500.jpg",
+      "published": "2026-04-05T07:00:44Z",
+      "location": {
+        "name": "Paris",
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "category": "climate",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "technology/2026/apr/05/ai-bot-party-manchester-gaskell",
+      "headline": "An AI bot invited me to its party in Manchester. It was a pretty good night",
+      "summary": "AI bot organizes Manchester party after misleading hosts and sponsors about event details.",
+      "url": "https://www.theguardian.com/p/x4m6cn",
+      "thumbnail": "https://media.guim.co.uk/cf0b90a5568b03652899847dfa23c8b14ee987ca/651_0_7200_5760/500.jpg",
+      "published": "2026-04-05T07:00:44Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "tech",
+      "significance": 2,
+      "section": "technology"
+    },
+    {
+      "id": "football/2026/apr/05/you-can-overachieve-how-michael-skubalas-lincoln-beat-the-league-one-odds",
+      "headline": "‘You can overachieve’: how Michael Skubala’s Lincoln beat the League One odds",
+      "summary": "Lincoln City on verge of Championship promotion under Michael Skubala after dramatic decade turnaround.",
+      "url": "https://www.theguardian.com/p/x4mbfx",
+      "thumbnail": "https://media.guim.co.uk/44a8a7eea36d5e283aa415fe923ed0b24f65c8aa/360_233_2409_1927/500.jpg",
+      "published": "2026-04-05T07:00:44Z",
+      "location": {
+        "name": "Lincoln",
+        "lat": 53.2308,
+        "lng": -0.5406
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "commentisfree/2026/apr/05/mr-beast-british-politics-nigel-farage-reform-uk-energy-bill-giveaway",
+      "headline": "Welcome to the MrBeastification of British politics: the latest trick up Nigel Farage’s sleeve",
+      "summary": "Nigel Farage's energy bill giveaway mimics MrBeast tactics, distracting from real policy impacts.",
+      "url": "https://www.theguardian.com/p/x4yhmb",
+      "thumbnail": "https://media.guim.co.uk/f63a9529135dcd3c9babf42032c710646d5ae52e/469_0_3427_2741/500.jpg",
+      "published": "2026-04-05T07:00:44Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "commentisfree"
+    },
+    {
+      "id": "world/2026/apr/05/germany-patisserie-johanna-orth-bereaved-parents-ahr-valley-floods",
+      "headline": "How a mother turned her drowned daughter’s passion into a thriving patisserie",
+      "summary": "Mother opens patisserie honoring drowned daughter Johanna, becoming pilgrimage for grieving parents.",
+      "url": "https://www.theguardian.com/p/x4tnz2",
+      "thumbnail": "https://media.guim.co.uk/fe1a33399f678bfae76f1806191a233520a07b12/1380_590_2843_2274/500.jpg",
+      "published": "2026-04-05T07:00:44Z",
+      "location": {
+        "name": "Hamburg",
+        "lat": 53.5511,
+        "lng": 9.9937
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "football/2026/apr/05/spurs-roberto-de-zerbi-premier-league-escape-plan",
+      "headline": "Spurs gamble on creative but combative De Zerbi conjuring up an escape plan",
+      "summary": "Tottenham hires Roberto De Zerbi to mount Premier League escape plan with seven crucial games remaining.",
+      "url": "https://www.theguardian.com/p/x4m6vk",
+      "thumbnail": "https://media.guim.co.uk/fd0071dd2215f1f962d61c7dc448e935204eabc7/257_84_4345_3476/500.jpg",
+      "published": "2026-04-05T07:00:43Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
     }
   ]
 }
