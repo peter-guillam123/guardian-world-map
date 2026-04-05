@@ -1,156 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-05T00:02:47.557Z",
-    "story_count": 62,
-    "oldest_story": "2026-04-04T04:06:57Z",
-    "newest_story": "2026-04-04T22:41:10Z",
+    "generated_at": "2026-04-05T05:57:40.672Z",
+    "story_count": 61,
+    "oldest_story": "2026-04-04T07:00:15Z",
+    "newest_story": "2026-04-05T05:53:15Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "business/2026/apr/04/tgi-fridays-boss-revival-fun-uk-ray-blanchette",
-      "headline": "‘Over the top and fun:’ TGI Fridays boss insists time is right for a UK revival",
-      "summary": "TGI Fridays boss plans UK revival with ambitions to build 1,000 outlets globally.",
-      "url": "https://www.theguardian.com/p/x4ynx2",
-      "thumbnail": "https://media.guim.co.uk/b04e5167e3692f8ca9cc3c2f3c1133c544d6d8e7/985_307_5239_4193/500.jpg",
-      "published": "2026-04-04T05:01:12Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "lifeandstyle/2026/apr/04/blind-date-rachel-josh",
-      "headline": " Blind date: ‘The restaurant shuffled our table around three times so we could keep chatting until they closed’ ",
-      "summary": "Blind date between consultant Rachel and accountant Josh in Bristol restaurant.",
-      "url": "https://www.theguardian.com/p/x4hd8f",
-      "thumbnail": "https://media.guim.co.uk/c1ed70a6b2941cd7e3d2bf5846784f8dfd33ad5b/0_0_5000_4000/500.png",
-      "published": "2026-04-04T05:00:14Z",
-      "location": {
-        "name": "Bristol",
-        "lat": 51.4545,
-        "lng": -2.5879
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "lifeandstyle"
-    },
-    {
-      "id": "news/ng-interactive/2026/apr/04/can-the-king-tame-trump-state-visit",
-      "headline": "As a state visit looms … can the king tame Trump? ",
-      "summary": "King Charles plans state visit to Washington to meet Trump and strengthen US-UK ties.",
-      "url": "https://www.theguardian.com/p/x4m5pf",
-      "thumbnail": "https://media.guim.co.uk/ab78c5043708ff7ab60eb0838476927897628ee2/65_197_3901_3121/500.jpg",
-      "published": "2026-04-04T05:00:13Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "news"
-    },
-    {
-      "id": "environment/2026/apr/04/birds-butterflies-britain-shows-signs-of-earliest-spring-on-record",
-      "headline": "From early birds to emerging butterflies: UK shows signs of earliest spring on record",
-      "summary": "UK records earliest spring on record with early flowering and nesting as global heating accelerates.",
-      "url": "https://www.theguardian.com/p/x4mvbk",
-      "thumbnail": "https://media.guim.co.uk/24472583d8194540ee888aed3ffea3735400798d/0_1279_3410_2725/500.jpg",
-      "published": "2026-04-04T05:00:13Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "environment"
-    },
-    {
-      "id": "commentisfree/2026/apr/04/donald-trump-iran-war-evangelical-nationalists-moral-world-order-pete-hegseth",
-      "headline": "As Team Trump wage unceasing war on Iran, evangelical nationalists are destroying any moral world order we once had ",
-      "summary": "Commentary on Trump administration's Iran policy and evangelical nationalism's impact on global norms.",
-      "url": "https://www.theguardian.com/p/x4m5p5",
-      "thumbnail": "https://media.guim.co.uk/c8659f9ec7d509f5f9c1f80450fd5c56541bb2a6/0_390_2138_1709/500.jpg",
-      "published": "2026-04-04T05:00:13Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "commentisfree"
-    },
-    {
-      "id": "global/2026/apr/04/dezi-freeman-investigation-arrests-victoria-police-porepunkah-ntwnfb",
-      "headline": "Victoria police arrest two people as part of Dezi Freeman investigation ",
-      "summary": "Victoria police arrest two people investigating fugitive Dezi Freeman's seven-month escape.",
-      "url": "https://www.theguardian.com/p/x4maa9",
-      "thumbnail": "https://media.guim.co.uk/9f46f7f467ea9d17ccc65dfa86c1f655fbb74e24/410_0_2109_1688/500.jpg",
-      "published": "2026-04-04T04:58:20Z",
-      "location": {
-        "name": "Porepunkah",
-        "lat": -37.0282,
-        "lng": 147.0863
-      },
-      "category": "conflict",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "world/live/2026/apr/04/middle-east-crisis-live-us-iran-war-missing-pilot-downed-jet-israel-bombards-beirut",
-      "headline": "Middle East crisis live: US and Iranian forces race to recover missing pilot from downed jet; Israel bombards Beirut",
-      "summary": "US fighter jet downed over Iran as tensions escalate; Israel bombards Beirut with strikes.",
-      "url": "https://www.theguardian.com/p/x4m99m",
-      "thumbnail": "https://media.guim.co.uk/09baf837d92d3156cae7d14531a91b9067d17924/500_0_5000_4000/500.jpg",
-      "published": "2026-04-04T04:54:11Z",
-      "location": {
-        "name": "Tehran",
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "environment/2026/apr/04/country-diary-our-first-sunny-day-in-a-month-time-to-scale-a-summit",
-      "headline": "Country diary: Our first sunny day in a month – time to scale a summit",
-      "summary": "Country diary recounts sunny hiking day on Sgòr Gaoith in Scottish Cairngorms mountains.",
-      "url": "https://www.theguardian.com/p/x4km4z",
-      "thumbnail": "https://media.guim.co.uk/5bc0d6e583670c361fdb6f4c653ac0b3a6c2d69a/90_0_2835_2268/500.jpg",
-      "published": "2026-04-04T04:30:11Z",
-      "location": {
-        "name": "Cairngorms",
-        "lat": 57.1825,
-        "lng": -3.6725
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "environment"
-    },
-    {
-      "id": "sport/live/2026/apr/03/uconn-south-carolina-ucla-texas-final-four-live-updates",
-      "headline": "NCAA women’s Final Four: UCLA 51-44 Texas; South Carolina 62-48 UConn – as it happened",
-      "summary": "UCLA and South Carolina advance to NCAA women's basketball championship after Final Four victories.",
-      "url": "https://www.theguardian.com/p/x4m2nk",
-      "thumbnail": "https://media.guim.co.uk/cd6d468f10b9f5b0558f133892dc1bbdbfd8c576/362_0_3618_2894/500.jpg",
-      "published": "2026-04-04T04:06:57Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
     {
       "id": "football/live/2026/apr/04/manchester-city-v-liverpool-kicks-off-fa-cup-quarter-finals-fernandez-latest-and-more-matchday-live",
       "headline": "Manchester City v Liverpool kicks off FA Cup quarter-finals, Fernández latest and more – matchday live",
@@ -998,6 +854,134 @@
       "category": "health",
       "significance": 2,
       "section": "us-news"
+    },
+    {
+      "id": "world/live/2026/apr/05/middle-east-crisis-live-iran-israel-us-war-trump-strait-hormuz-missing-pilot-downed",
+      "headline": "Middle East crisis live: Trump says F-15 crew member missing in Iran is ‘safe’ after ‘dozens of aircraft’ sent to recover him",
+      "summary": "US crew member missing after F-15 downed over Iran; Trump says pilot safe after rescue operation.",
+      "url": "https://www.theguardian.com/p/x4meq2",
+      "thumbnail": "https://media.guim.co.uk/792c3c06a4d4314e83ddd43623d53a67ad965f31/121_0_3162_2531/500.jpg",
+      "published": "2026-04-05T05:53:15Z",
+      "location": {
+        "name": "Iran",
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "australia-news/2026/apr/05/nearly-100-nsw-service-stations-face-fines-over-misleading-petrol-prices-amid-fuel-shortage-crackdown",
+      "headline": "Nearly 100 NSW service stations fined $1,100 each over misleading petrol prices amid fuel shortage crackdown",
+      "summary": "Nearly 100 NSW service stations fined for misleading petrol prices amid fuel shortage crackdown.",
+      "url": "https://www.theguardian.com/p/x4mf22",
+      "thumbnail": "https://media.guim.co.uk/58dd92d6c0ca3ceae07489520d9833605e415eb7/33_0_1748_1399/500.jpg",
+      "published": "2026-04-05T05:23:01Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "business/2026/apr/05/waitrose-employee-sacked-after-stopping-shoplifter-from-taking-easter-eggs",
+      "headline": "Waitrose employee sacked after stopping shoplifter from taking Easter eggs",
+      "summary": "Waitrose employee fired after stopping shoplifter from stealing Easter eggs in Clapham Junction.",
+      "url": "https://www.theguardian.com/p/x4mchf",
+      "thumbnail": "https://media.guim.co.uk/dfc8024a5bf218fca4886cd0cdc4e9392dfc723f/398_0_10496_8397/500.jpg",
+      "published": "2026-04-05T05:00:43Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "business/2026/apr/05/its-all-fear-and-headlines-energy-traders-race-to-keep-pace-with-volatile-oil-markets",
+      "headline": "‘It’s all fear and headlines’: energy traders race to keep pace with volatile oil markets",
+      "summary": "Middle East conflict volatility exposes energy traders to heavy losses amid oil market swings.",
+      "url": "https://www.theguardian.com/p/x4ynka",
+      "thumbnail": "https://media.guim.co.uk/bc8df30b7bf86876f38069370ee4cd2f880fc5e0/318_0_3275_2620/500.jpg",
+      "published": "2026-04-05T05:00:43Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "business"
+    },
+    {
+      "id": "world/2026/apr/05/israeli-settlers-driving-christians-out-west-bank",
+      "headline": "A strategy ‘to make life intolerable’: Israeli settlers are driving Christians out of West Bank",
+      "summary": "Israeli settlers driving Christian community of Taybeh out of West Bank through sustained attacks.",
+      "url": "https://www.theguardian.com/p/x4m6fz",
+      "thumbnail": "https://media.guim.co.uk/0542a40a3e0862558e7184c9e070277575e9e397/453_0_5000_4000/500.jpg",
+      "published": "2026-04-05T05:00:43Z",
+      "location": {
+        "name": "West Bank",
+        "lat": 31.9454,
+        "lng": 35.2028
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "world/2026/apr/05/british-father-son-dubai-fortune-wanted-men-prison-beaten-tortured",
+      "headline": "‘I was beaten and tortured’: how a British father and son made a fortune in Dubai then became wanted men",
+      "summary": "British father and son became wanted men in Dubai after making fortune; face prison and torture.",
+      "url": "https://www.theguardian.com/p/x4kve9",
+      "thumbnail": "https://media.guim.co.uk/5a567048e364487fdb7de5fbf38f7c1fb578c94c/970_0_6637_5310/500.jpg",
+      "published": "2026-04-05T05:00:42Z",
+      "location": {
+        "name": "Dubai",
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "food/2026/apr/05/burro-wc2-grace-dent-restaurant-review",
+      "headline": "Burro, WC2: ‘Big but the opposite of brash’ – restaurant review",
+      "summary": "Burro, new Italian restaurant in Covent Garden, brings old-school charm to touristy London area.",
+      "url": "https://www.theguardian.com/p/x4khkq",
+      "thumbnail": "https://media.guim.co.uk/c182c727076aaa6af4580490848666f75b224444/634_0_3297_2638/500.jpg",
+      "published": "2026-04-05T05:00:41Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "food"
+    },
+    {
+      "id": "news/ng-interactive/2026/apr/05/uk-social-media-apps-share",
+      "headline": "Is the UK falling out of love with social media?",
+      "summary": "Ofcom data shows Britons shifting to passive social media consumption amid mental health concerns.",
+      "url": "https://www.theguardian.com/p/x4m242",
+      "thumbnail": "https://media.guim.co.uk/d813d3e5a7b3b2cf8c07db8942c560117ace1c0c/0_0_6249_5000/500.jpg",
+      "published": "2026-04-05T05:00:41Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "tech",
+      "significance": 2,
+      "section": "news"
     }
   ]
 }
