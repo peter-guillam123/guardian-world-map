@@ -1,28 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-05T17:19:06.778Z",
-    "story_count": 80,
-    "oldest_story": "2026-04-04T17:30:27Z",
-    "newest_story": "2026-04-05T17:13:07Z",
+    "generated_at": "2026-04-05T19:24:43.237Z",
+    "story_count": 83,
+    "oldest_story": "2026-04-04T19:58:38Z",
+    "newest_story": "2026-04-05T19:24:08Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/live/2026/apr/04/southampton-v-arsenal-fa-cup-quarter-final-live",
-      "headline": "Southampton v Arsenal: FA Cup quarter-final – live",
-      "summary": "Arsenal face Southampton in FA Cup quarter-final at St Mary's seeking to keep treble dream alive.",
-      "url": "https://www.theguardian.com/p/x4yn2z",
-      "thumbnail": "https://media.guim.co.uk/93490bb1b75e621f77d20491735ef9eda24b95ef/735_0_5800_4640/500.jpg",
-      "published": "2026-04-04T17:30:27Z",
-      "location": {
-        "name": "Southampton",
-        "lat": 50.9061,
-        "lng": -1.3911
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
     {
       "id": "football/2026/apr/04/liam-rosenior-enzo-fernandez-chelsea-port-vale",
       "headline": "‘Things aren’t what people think they are’: Rosenior attempts to calm Fernández storm",
@@ -1286,6 +1270,70 @@
       "category": "conflict",
       "significance": 2,
       "section": "uk-news"
+    },
+    {
+      "id": "sport/live/2026/apr/05/ncaa-womens-national-championship-south-carolina-ucla-live-score",
+      "headline": "NCAA women’s national championship: South Carolina v UCLA – live updates",
+      "summary": "South Carolina faces UCLA in NCAA women's basketball national championship game in Phoenix.",
+      "url": "https://www.theguardian.com/p/x4m3xg",
+      "thumbnail": "https://media.guim.co.uk/2a5d016f6db90ba1f66ed9bb9324b68b0a8d6d8c/379_0_3791_3033/500.jpg",
+      "published": "2026-04-05T19:24:08Z",
+      "location": {
+        "name": "Phoenix",
+        "lat": 33.4484,
+        "lng": -112.0742
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "sport"
+    },
+    {
+      "id": "football/2026/apr/05/west-ham-leeds-fa-cup-quarter-final-match-report",
+      "headline": "Leeds hold nerve to win shootout after West Ham’s dramatic fightback",
+      "summary": "Leeds beats West Ham 4-2 on penalties after 2-2 draw to reach FA Cup semi-final.",
+      "url": "https://www.theguardian.com/p/x4m7gv",
+      "thumbnail": "https://media.guim.co.uk/8ccf1c056e6426585263406257e70f56060bbf78/491_95_3351_2681/500.jpg",
+      "published": "2026-04-05T19:01:41Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/apr/05/mikel-arteta-arsenal-pep-guardiola-manchester-city-quadruple",
+      "headline": "Arteta’s ChatGPT Guardiola-ism is down but history beckons for Gunners",
+      "summary": "Arsenal advances toward unprecedented tournament success after Carabao Cup exit.",
+      "url": "https://www.theguardian.com/p/x4mhzm",
+      "thumbnail": "https://media.guim.co.uk/61b5c3dca990f1c142c84d3f9befed3b616817c4/995_183_2612_2089/500.jpg",
+      "published": "2026-04-05T19:00:00Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "world/2026/apr/05/trump-warns-iran-to-reopen-strait-of-hormuz-by-tuesday-or-face-hell",
+      "headline": "Trump warns Iran to reopen strait of Hormuz by Tuesday or face ‘hell’",
+      "summary": "Trump threatens military strikes on Iran unless Strait of Hormuz reopens by Tuesday.",
+      "url": "https://www.theguardian.com/p/x4mt3e",
+      "thumbnail": "https://media.guim.co.uk/c7ef0f4237692d2b54aed94e57b56cf74ce0638a/968_508_2528_2022/500.jpg",
+      "published": "2026-04-05T18:20:10Z",
+      "location": {
+        "name": "Iran",
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
     }
   ]
 }
