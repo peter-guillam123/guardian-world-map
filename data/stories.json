@@ -1,108 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-05T14:04:17.517Z",
-    "story_count": 74,
-    "oldest_story": "2026-04-04T14:43:02Z",
-    "newest_story": "2026-04-05T14:00:17Z",
+    "generated_at": "2026-04-05T15:50:20.284Z",
+    "story_count": 76,
+    "oldest_story": "2026-04-04T15:58:50Z",
+    "newest_story": "2026-04-05T15:46:07Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/live/2026/apr/04/chelsea-v-port-vale-fa-cup-quarter-final-live",
-      "headline": "Chelsea v Port Vale: FA Cup quarter-final – live",
-      "summary": "Chelsea face Port Vale in FA Cup quarter-final at Stamford Bridge.",
-      "url": "https://www.theguardian.com/p/x4yn4h",
-      "thumbnail": "https://media.guim.co.uk/e2abf49d44adff790012dd3da9b666dcf247b551/190_0_4490_3592/500.jpg",
-      "published": "2026-04-04T15:47:09Z",
-      "location": {
-        "name": "London",
-        "lat": 51.4819,
-        "lng": -0.1928
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/apr/04/arne-slot-liverpool-fighting-spirit-fa-cup-exit-manchester-city",
-      "headline": "Slot rues Liverpool’s ‘missing fighting spirit’ after embarrassing FA Cup exit",
-      "summary": "Manchester City thrash Liverpool 4-0 in FA Cup quarter-final, Slot criticizes team mentality.",
-      "url": "https://www.theguardian.com/p/x4m7an",
-      "thumbnail": "https://media.guim.co.uk/f014c68f48f801a25653620e6f51df9de4bdf618/653_0_4095_3277/500.jpg",
-      "published": "2026-04-04T15:33:14Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4808,
-        "lng": -2.2426
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "sport/2026/apr/04/oxford-women-and-cambridge-men-savour-boat-race-triumphs",
-      "headline": "Oxford women and Cambridge men seal Boat Race triumphs in choppy waters",
-      "summary": "Oxford women end eight-year Cambridge dominance; Cambridge men win their Boat Race.",
-      "url": "https://www.theguardian.com/p/x4m794",
-      "thumbnail": "https://media.guim.co.uk/18b7ccaa77259450ca50643d0538c2835414e7f6/337_0_3139_2511/500.jpg",
-      "published": "2026-04-04T15:25:39Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "business/2026/apr/04/trussonomics-still-haunts-parties-economic-promises-in-run-up-to-uk-local-elections",
-      "headline": "Trussonomics still haunts parties’ economic promises in run-up to UK local elections",
-      "summary": "Political parties make extravagant spending pledges ahead of UK local elections.",
-      "url": "https://www.theguardian.com/p/x4ynp6",
-      "thumbnail": "https://media.guim.co.uk/b24fba661576c38637e82b4e5b757027bec5847f/494_0_6827_5464/500.jpg",
-      "published": "2026-04-04T15:00:25Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "world/2026/apr/04/hungary-election-why-orban-is-a-common-cause-for-us-and-russia",
-      "headline": "Why US and Russia are backing Viktor Orbán in Hungary election",
-      "summary": "US and Russia backing Viktor Orbán in Hungary election raises questions about foreign influence.",
-      "url": "https://www.theguardian.com/p/x4kz3f",
-      "thumbnail": "https://media.guim.co.uk/7ceceed7d8cdc943e9ffc2fbccb3471d2adeabb4/354_0_2668_2134/500.jpg",
-      "published": "2026-04-04T14:58:24Z",
-      "location": {
-        "name": "Budapest",
-        "lat": 47.4979,
-        "lng": 19.0402
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "us-news/2026/apr/04/air-force-master-sergeant-pleads-guilty-defrauding-military",
-      "headline": "Former US air force master sergeant pleads guilty to defrauding military out of $37m",
-      "summary": "Former US Air Force master sergeant pleads guilty to $37m Pentagon IT contract fraud scheme.",
-      "url": "https://www.theguardian.com/p/x4mc8y",
-      "thumbnail": "https://media.guim.co.uk/934755303f5380d328b0d1d9140a6be39d349d04/317_0_2500_2000/500.jpg",
-      "published": "2026-04-04T14:43:02Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
     {
       "id": "football/2026/apr/04/newcastle-eddie-howe-join-exodus",
       "headline": "If Newcastle really want to be taken seriously, then Eddie Howe must join the exodus",
@@ -1190,6 +1094,134 @@
       "category": "culture",
       "significance": 1,
       "section": "music"
+    },
+    {
+      "id": "football/live/2026/apr/05/west-ham-leeds-united-fa-cup-live-semi-final-draw",
+      "headline": "West Ham United v Leeds United: FA Cup – live",
+      "summary": "West Ham United v Leeds United FA Cup semi-final live coverage from London Stadium.",
+      "url": "https://www.theguardian.com/p/x4mvkb",
+      "thumbnail": "https://media.guim.co.uk/64529dd224ca6991a2245b1a67c861aba52cbd36/754_97_1690_1352/500.jpg",
+      "published": "2026-04-05T15:46:07Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "world/2026/apr/05/propaganda-f-15-crew-rescue-downing-reminder-iran-fight-back-donald-trump",
+      "headline": "Despite propaganda coup of F-15 crew rescue, downing is reminder to US that Iran can fight back",
+      "summary": "F-15 crew rescue highlights Iran's capability to strike back against US military forces.",
+      "url": "https://www.theguardian.com/p/x4mh4m",
+      "thumbnail": "https://media.guim.co.uk/bf9ae2aa4ff4d5db83bc8dd106e156e7062a7fa5/61_0_1200_960/500.jpg",
+      "published": "2026-04-05T15:32:58Z",
+      "location": {
+        "name": "Iran",
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "environment/2026/apr/06/the-swift-parrots-distinctive-call-was-recorded-dozens-of-times-in-a-patch-of-tasmanian-forest-then-the-forest-was-logged",
+      "headline": "The swift parrot’s distinctive call was recorded dozens of times in a patch of Tasmanian forest. Then the forest was logged",
+      "summary": "Swift parrot habitat logged despite documented presence of endangered species in Tasmanian forest.",
+      "url": "https://www.theguardian.com/p/x4m6ja",
+      "thumbnail": "https://media.guim.co.uk/d01fe889db83b484c26b7922c5616fe17c57d4e2/709_140_3041_2433/500.jpg",
+      "published": "2026-04-05T15:00:55Z",
+      "location": {
+        "name": "Tasmania",
+        "lat": -42.8821,
+        "lng": 147.3272
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "environment"
+    },
+    {
+      "id": "australia-news/2026/apr/06/aboriginal-child-moved-1700km-from-remote-nt-community-should-be-returned-family-court-rules-ntwnfb",
+      "headline": "Aboriginal child moved 1,700km from remote NT community should be returned, family court rules ",
+      "summary": "Family court orders Aboriginal child's return to remote NT community to learn cultural traditions.",
+      "url": "https://www.theguardian.com/p/x4m4pa",
+      "thumbnail": "https://media.guim.co.uk/06d81f6ff600c39273c7a6f5a90221c5f322a7c7/141_0_1828_1463/500.jpg",
+      "published": "2026-04-05T15:00:55Z",
+      "location": {
+        "name": "Northern Territory",
+        "lat": -20.7154,
+        "lng": 134.1832
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "environment/2026/apr/06/secondhand-ev-prices-rise-fuel-crisis-australia",
+      "headline": "‘Doesn’t make sense to hold onto a combustion engine’: used EV prices rise as Australia’s fuel crisis hits",
+      "summary": "Used EV prices rise as Australia's fuel crisis increases demand for electric vehicles.",
+      "url": "https://www.theguardian.com/p/x4yy7k",
+      "thumbnail": "https://media.guim.co.uk/ade50d12eeb664044dbc5ec1249e1fafc78416b7/0_0_5416_4333/500.jpg",
+      "published": "2026-04-05T15:00:55Z",
+      "location": {
+        "name": "Australia",
+        "lat": -25.2744,
+        "lng": 133.7751
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "environment"
+    },
+    {
+      "id": "sport/2026/apr/06/talia-gibson-australia-tennis-wta-rankings-rise-interview",
+      "headline": "‘It can be overwhelming’: Talia Gibson on her rapid rise and going toe-to-toe with the big hitters",
+      "summary": "Australian tennis sensation Talia Gibson rises rapidly after beating five top 20-ranked players.",
+      "url": "https://www.theguardian.com/p/x4mvx9",
+      "thumbnail": "https://media.guim.co.uk/cce1ca47993c9b3ebe06dfeeba60119c513157fc/1528_635_3340_2672/500.jpg",
+      "published": "2026-04-05T15:00:54Z",
+      "location": {
+        "name": "Australia",
+        "lat": -25.2744,
+        "lng": 133.7751
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "football/2026/apr/05/arsenal-brighton-charlton-liverpool-womens-fa-cup-quarter-finals",
+      "headline": "Haley and Hayes fire Brighton to shock FA Cup quarter-final win at Arsenal ",
+      "summary": "Brighton shocks Arsenal 2-0 in Women's FA Cup quarter-final at Borehamwood.",
+      "url": "https://www.theguardian.com/p/x4m7g8",
+      "thumbnail": "https://media.guim.co.uk/ac6808d423183c1fefce63ec82047202b21368ec/281_0_2867_2294/500.jpg",
+      "published": "2026-04-05T14:48:39Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "world/2026/apr/05/lorna-richmond-obituary",
+      "headline": "Lorna Richmond obituary",
+      "summary": "Lorna Richmond, Africa Bureau administrator supporting independence movements, died aged 96.",
+      "url": "https://www.theguardian.com/p/x4g2zg",
+      "thumbnail": "https://media.guim.co.uk/31f0ed32e188217679563a8e0a58044a8e691d9a/50_130_372_297/master/372.jpg",
+      "published": "2026-04-05T14:46:40Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "world"
     }
   ]
 }
