@@ -1,92 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-05T11:46:42.294Z",
-    "story_count": 70,
-    "oldest_story": "2026-04-04T12:58:25Z",
-    "newest_story": "2026-04-05T11:37:36Z",
+    "generated_at": "2026-04-05T14:04:17.517Z",
+    "story_count": 74,
+    "oldest_story": "2026-04-04T14:43:02Z",
+    "newest_story": "2026-04-05T14:00:17Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "sport/live/2026/apr/04/the-boat-races-2026-oxford-cambridge-latest-news-updates",
-      "headline": "The Boat Races 2026 – Oxford dominate Cambridge in women’s race to end losing streak",
-      "summary": "Oxford wins women's Boat Race for first time since 2016, dominating Cambridge.",
-      "url": "https://www.theguardian.com/p/x4yn27",
-      "thumbnail": "https://media.guim.co.uk/4d14dbc3923a4be382f68767cacc0cf65e8ec3da/260_0_3563_2850/500.jpg",
-      "published": "2026-04-04T13:59:28Z",
-      "location": {
-        "name": "River Thames, London",
-        "lat": 51.4769,
-        "lng": -0.2965
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "uk-news/2026/apr/04/uk-weather-storm-dave-travel-easter-england-scotland-wales",
-      "headline": "Parts of UK braced for heavy snow and gale-force winds as Storm Dave arrives",
-      "summary": "Storm Dave brings heavy snow and gale-force winds across UK this Easter weekend.",
-      "url": "https://www.theguardian.com/p/x4mc4d",
-      "thumbnail": "https://media.guim.co.uk/e40f65cb8a5bcc57a606b579728d6e17a51152f9/456_0_4560_3648/500.jpg",
-      "published": "2026-04-04T13:52:05Z",
-      "location": {
-        "name": "United Kingdom",
-        "lat": 55.3781,
-        "lng": -3.436
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "football/2026/apr/04/manchester-city-liverpool-fa-cup-quarter-final-report",
-      "headline": "Erling Haaland hits hat-trick as Manchester City thrash Liverpool to reach FA Cup semis",
-      "summary": "Erling Haaland scores hat-trick as Manchester City thrash Liverpool 4-0 in FA Cup.",
-      "url": "https://www.theguardian.com/p/x4m7a3",
-      "thumbnail": "https://media.guim.co.uk/1539988785e01ed328ae0eb02a433351fecda396/108_0_2427_1941/500.jpg",
-      "published": "2026-04-04T13:50:48Z",
-      "location": {
-        "name": "Manchester, England",
-        "lat": 53.4808,
-        "lng": -2.2426
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "us-news/2026/apr/05/prices-iran-war-gas-flights-economy",
-      "headline": "‘The good old days are gone’: how will US prices stand as war in Iran surges on?",
-      "summary": "Iran war drives up US gas and airline prices as global economic volatility continues.",
-      "url": "https://www.theguardian.com/p/x4m7zz",
-      "thumbnail": "https://media.guim.co.uk/8a05ca8beec264136762b4d90e95b45212eac2fc/433_0_5107_4085/500.jpg",
-      "published": "2026-04-04T13:00:22Z",
-      "location": {
-        "name": "United States",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "world/2026/apr/04/breakfast-reset-will-marmalade-really-be-renamed-in-post-brexit-food-deal",
-      "headline": "Keir Starmalade, anyone? Will marmalade really have to be rebranded in UK?",
-      "summary": "UK considers EU food rules alignment, potentially rebranding marmalade in trade deal.",
-      "url": "https://www.theguardian.com/p/x4mb52",
-      "thumbnail": "https://media.guim.co.uk/f86133764da645fa27ae6053a5cf8d1c513bf949/833_0_4641_3712/500.jpg",
-      "published": "2026-04-04T12:58:25Z",
-      "location": {
-        "name": "London, United Kingdom",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "world"
-    },
     {
       "id": "football/live/2026/apr/04/chelsea-v-port-vale-fa-cup-quarter-final-live",
       "headline": "Chelsea v Port Vale: FA Cup quarter-final – live",
@@ -1126,6 +1046,150 @@
       "category": "economy",
       "significance": 3,
       "section": "business"
+    },
+    {
+      "id": "football/live/2026/apr/05/west-ham-v-leeds-buildup-plus-scottish-premiership-and-womens-fa-cup-matchday-live",
+      "headline": "West Ham v Leeds buildup plus Scottish Premiership and Women’s FA Cup – matchday live",
+      "summary": "West Ham v Leeds buildup plus Scottish Premiership and Women's FA Cup matchday live coverage.",
+      "url": "https://www.theguardian.com/p/x4mvje",
+      "thumbnail": "https://media.guim.co.uk/ac7ffe05692232a0c33d37eb1379ba7164870740/50_0_1736_1389/500.jpg",
+      "published": "2026-04-05T14:00:17Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "us-news/ng-interactive/2026/apr/05/american-soft-power-iran-war",
+      "headline": "I was the US soft power czar. Our reputation may never recover from this",
+      "summary": "Former US soft power official warns Trump's Iran war will damage America's global reputation.",
+      "url": "https://www.theguardian.com/p/x4m2ka",
+      "thumbnail": "https://media.guim.co.uk/53be5689bdb2e738ff2c52f4bc485f0391511cd3/106_17_2894_2315/500.jpg",
+      "published": "2026-04-05T13:00:53Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "commentisfree/2026/apr/05/back-in-london-after-decade-in-us-miss-friendly-new-yorkers",
+      "headline": "I’m back in London after a decade in the US – and I miss those friendly New Yorkers",
+      "summary": "Columnist reflects on cultural differences between New York and London after decade-long move.",
+      "url": "https://www.theguardian.com/p/x4m6ve",
+      "thumbnail": "https://media.guim.co.uk/ba4b603be479f069b63c1c05302b37e1686998f9/0_584_4072_3257/500.jpg",
+      "published": "2026-04-05T13:00:53Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "commentisfree"
+    },
+    {
+      "id": "lifeandstyle/2026/apr/05/gladiator-fury-jodie-ounsley-looks-back",
+      "headline": "Gladiator Jodie Ounsley looks back: ‘There weren’t many girls like me at school. I always liked bashing into people’",
+      "summary": "Former rugby star Jodie Ounsley reflects on her journey from deaf athlete to Gladiators TV star.",
+      "url": "https://www.theguardian.com/p/x4tnxg",
+      "thumbnail": "https://media.guim.co.uk/4c10817c0892e44758161b9aa914d30225ecea54/0_400_3985_3186/500.jpg",
+      "published": "2026-04-05T13:00:52Z",
+      "location": {
+        "name": "Dewsbury",
+        "lat": 53.6949,
+        "lng": -1.6757
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "lifeandstyle"
+    },
+    {
+      "id": "uk-news/2026/apr/05/cornwall-says-goodbye-scillonian-iii-ship",
+      "headline": "‘She’s been a brilliant ship’: Cornwall says goodbye to Scillonian III after 50 years",
+      "summary": "Cornwall bids farewell to ferry Scillonian III after 50 years linking mainland to Isles of Scilly.",
+      "url": "https://www.theguardian.com/p/x4mxqh",
+      "thumbnail": "https://media.guim.co.uk/53a2a7a90257102fa9172285a65d54472367a619/74_0_4816_3855/500.jpg",
+      "published": "2026-04-05T13:00:52Z",
+      "location": {
+        "name": "Penzance",
+        "lat": 50.1189,
+        "lng": -5.5383
+      },
+      "category": "other",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "us-news/2026/apr/05/health-officials-anti-vaccine-views-midterms",
+      "headline": "US health officials appear to shy away from anti-vaccine talk ahead of midterms",
+      "summary": "US health officials downplay anti-vaccine rhetoric ahead of midterm elections amid polling concerns.",
+      "url": "https://www.theguardian.com/p/x4m73h",
+      "thumbnail": "https://media.guim.co.uk/4cebe8de5b703e29d1239f3d14d925baf1248f0f/338_0_4731_3787/500.jpg",
+      "published": "2026-04-05T13:00:51Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "world/2026/apr/05/labour-back-down-foie-gras-fur-bans-eu-trade-deal",
+      "headline": "Labour to back down on foie gras and fur bans to ease EU trade deal",
+      "summary": "Labour backs down on foie gras and fur import bans to facilitate EU trade deal negotiations.",
+      "url": "https://www.theguardian.com/p/x4ycvp",
+      "thumbnail": "https://media.guim.co.uk/522192855dfd6c39b488de36463c911c5fa074e3/364_0_3640_2912/500.jpg",
+      "published": "2026-04-05T13:00:51Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "commentisfree/2026/apr/05/trump-working-class-support",
+      "headline": "Trump’s working-class support is waning",
+      "summary": "Survey reveals 20% of 2024 Trump voters considering abandoning Republicans in 2028 elections.",
+      "url": "https://www.theguardian.com/p/x4kk6c",
+      "thumbnail": "https://media.guim.co.uk/4cd62a17826799bbb487014f3133ca91f3f13ce8/692_0_6880_5504/500.jpg",
+      "published": "2026-04-05T13:00:51Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "commentisfree"
+    },
+    {
+      "id": "music/2026/apr/05/james-review-special-band-still-filling-arenas-with-anthems-of-warmth-and-humanity",
+      "headline": "James review – special band still filling arenas with anthems of warmth and humanity",
+      "summary": "James band fills Leeds arena with decades of anthems as Tim Booth leads pied-piper performance.",
+      "url": "https://www.theguardian.com/p/x4mhv7",
+      "thumbnail": "https://media.guim.co.uk/17d7dab089416f891ada5c152d03ccb902ff8590/1098_166_3729_2985/500.jpg",
+      "published": "2026-04-05T12:57:55Z",
+      "location": {
+        "name": "Leeds",
+        "lat": 53.8008,
+        "lng": -1.5491
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "music"
     }
   ]
 }
