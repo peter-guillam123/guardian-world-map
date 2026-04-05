@@ -1,124 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-05T15:50:20.284Z",
-    "story_count": 76,
-    "oldest_story": "2026-04-04T15:58:50Z",
-    "newest_story": "2026-04-05T15:46:07Z",
+    "generated_at": "2026-04-05T17:19:06.778Z",
+    "story_count": 80,
+    "oldest_story": "2026-04-04T17:30:27Z",
+    "newest_story": "2026-04-05T17:13:07Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/2026/apr/04/newcastle-eddie-howe-join-exodus",
-      "headline": "If Newcastle really want to be taken seriously, then Eddie Howe must join the exodus",
-      "summary": "Eddie Howe faces pressure to leave Newcastle amid poor recruitment and performance issues.",
-      "url": "https://www.theguardian.com/p/x4m5q2",
-      "thumbnail": "https://media.guim.co.uk/300dbeaed8d67bfe3a92ee6f07e618b5e00cff5f/595_0_5948_4758/500.jpg",
-      "published": "2026-04-04T17:00:26Z",
-      "location": {
-        "name": "Newcastle",
-        "lat": 54.9783,
-        "lng": -1.6178
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "us-news/2026/apr/04/dead-canines-washington-state",
-      "headline": "‘Horror movie’: officials investigate after 21 dead dogs wash up on Washington state shore",
-      "summary": "21 dead dogs wash ashore on Washington state island in mysterious incident under investigation.",
-      "url": "https://www.theguardian.com/p/x4mckk",
-      "thumbnail": "https://media.guim.co.uk/57fc713734513e9ba0c06d5d899e33d9141ba7a9/616_0_4320_3456/500.jpg",
-      "published": "2026-04-04T16:59:36Z",
-      "location": {
-        "name": "Guemes Island",
-        "lat": 48.55,
-        "lng": -122.6333
-      },
-      "category": "other",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "sport/2026/apr/04/bath-saracens-champions-cup-rugby-union-match-report",
-      "headline": "Henry Arundell inspires Bath to come-from-behind win over Saracens",
-      "summary": "Bath defeats Saracens 31-22 in Champions Cup comeback to advance to quarter-finals.",
-      "url": "https://www.theguardian.com/p/x4m3xp",
-      "thumbnail": "https://media.guim.co.uk/247a7ac539327abd31159afd69b75f0ef21ac6df/0_0_4590_3672/500.jpg",
-      "published": "2026-04-04T16:32:39Z",
-      "location": {
-        "name": "Bath",
-        "lat": 51.3796,
-        "lng": -2.3599
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "us-news/2026/apr/04/soleimani-family-arrested-us-federal-authorities",
-      "headline": "US authorities arrest relatives of late Iranian military commander who were living in Los Angeles",
-      "summary": "US arrests niece and grandniece of Iranian commander Qassem Soleimani living in Los Angeles.",
-      "url": "https://www.theguardian.com/p/x4mckv",
-      "thumbnail": "https://media.guim.co.uk/b841bed28f6c3a1a8d5178a7aaaed1c9112e80f6/137_0_2138_1710/500.jpg",
-      "published": "2026-04-04T16:25:25Z",
-      "location": {
-        "name": "Los Angeles",
-        "lat": 34.0522,
-        "lng": -118.2437
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "world/2026/apr/04/fugitive-mafia-boss-wanted-arrested-roberto-mazzarella",
-      "headline": "Fugitive mafia boss wanted for murder arrested at Amalfi coast luxury villa",
-      "summary": "Fugitive mafia boss Roberto Mazzarella arrested at Amalfi coast villa after year on run.",
-      "url": "https://www.theguardian.com/p/x4mcd9",
-      "thumbnail": "https://media.guim.co.uk/ba2941a543f0ff0ef756ecff91a5c3c11d9d0a00/0_0_2986_2387/500.jpg",
-      "published": "2026-04-04T16:10:50Z",
-      "location": {
-        "name": "Naples",
-        "lat": 40.8518,
-        "lng": 14.2681
-      },
-      "category": "conflict",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "football/2026/apr/04/arne-slots-shot-at-redemption-fades-away-after-showreel-of-embarrassments",
-      "headline": "Arne Slot’s shot at redemption fades away after showreel of embarrassments",
-      "summary": "Arne Slot's Liverpool eliminated from FA Cup by Manchester City in disappointing performance.",
-      "url": "https://www.theguardian.com/p/x4m7aj",
-      "thumbnail": "https://media.guim.co.uk/f344a0d7624a72403551992b7d0400dfba7f3265/4_0_2881_2305/500.jpg",
-      "published": "2026-04-04T16:03:53Z",
-      "location": {
-        "name": "Liverpool",
-        "lat": 53.4084,
-        "lng": -2.9916
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "world/2026/apr/04/iran-search-missing-us-crew-member-downed-fighter-jet-second-day",
-      "headline": "Search for missing US crew member of downed fighter jet enters second day",
-      "summary": "Search continues for missing US F-15E crew member as Iran faces heavy bombing campaign.",
-      "url": "https://www.theguardian.com/p/x4mbtm",
-      "thumbnail": "https://media.guim.co.uk/f25ff0881cf8104e60c5476df96b96139c8b8527/588_0_3967_3176/500.jpg",
-      "published": "2026-04-04T15:58:50Z",
-      "location": {
-        "name": "Iran",
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
     {
       "id": "football/live/2026/apr/04/southampton-v-arsenal-fa-cup-quarter-final-live",
       "headline": "Southampton v Arsenal: FA Cup quarter-final – live",
@@ -1222,6 +1110,182 @@
       "category": "culture",
       "significance": 1,
       "section": "world"
+    },
+    {
+      "id": "world/2026/apr/05/viktor-orban-hungary-election-serbia-explosives-gas-pipeline",
+      "headline": "Hungarian PM faces ‘false flag’ claims after Serbia says explosives found near pipeline",
+      "summary": "Serbian pipeline explosives found ahead of Hungarian election amid 'false flag' claims against Orbán.",
+      "url": "https://www.theguardian.com/p/x4mhf7",
+      "thumbnail": "https://media.guim.co.uk/4ae390d0267a06418551c72e85af1feb6d2ff1c3/140_0_2083_1667/500.jpg",
+      "published": "2026-04-05T17:13:07Z",
+      "location": {
+        "name": "Budapest",
+        "lat": 47.4979,
+        "lng": 19.0402
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "us-news/2026/apr/05/trump-iran-threats-politician-reactions",
+      "headline": "‘Unhinged madman’: US politicians react to Trump’s expletive-laden threat to Iran",
+      "summary": "Trump issues expletive-laden threat to Iran over Strait of Hormuz, drawing bipartisan political criticism.",
+      "url": "https://www.theguardian.com/p/x4mtvn",
+      "thumbnail": "https://media.guim.co.uk/f40878bd56fe68cde5097cb3d6ff7af109235b99/613_0_5600_4480/500.jpg",
+      "published": "2026-04-05T17:01:12Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "politics/2026/apr/05/starmer-attacks-greens-saying-vote-for-labour-rivals-puts-new-workers-rights-at-risk",
+      "headline": "Starmer attacks Greens, saying vote for Labour rivals puts new workers’ rights at risk",
+      "summary": "Starmer attacks Greens over new workers' rights legislation taking effect in UK on Monday.",
+      "url": "https://www.theguardian.com/p/x4mhxq",
+      "thumbnail": "https://media.guim.co.uk/5356758dc2c6bddf3e7a6a9fd380b17547da4743/726_338_3586_2869/500.jpg",
+      "published": "2026-04-05T17:00:56Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "business/2026/apr/05/iranian-drone-strikes-hit-kuwait-oil-infrastructure-before-opec-supply-talks",
+      "headline": "Iranian drone strikes hit Kuwait’s oil infrastructure before Opec+ supply talks",
+      "summary": "Iranian drone strikes damage Kuwait oil infrastructure as Opec+ meets amid Middle East tensions.",
+      "url": "https://www.theguardian.com/p/x4mghe",
+      "thumbnail": "https://media.guim.co.uk/c7c1b06900e3e8646276379b3f02d9ebf3078b42/96_14_1916_1533/500.jpg",
+      "published": "2026-04-05T16:59:39Z",
+      "location": {
+        "name": "Kuwait City",
+        "lat": 29.3759,
+        "lng": 47.9774
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "business"
+    },
+    {
+      "id": "environment/2026/apr/05/paul-marshall-and-the-truth-about-net-zero",
+      "headline": "Paul Marshall and the truth about net zero",
+      "summary": "Christian leaders challenge GB News owner Paul Marshall over climate misinformation on net zero.",
+      "url": "https://www.theguardian.com/p/x4yhpx",
+      "thumbnail": "https://media.guim.co.uk/6d9b194a1d3508ed27103631bb86ccea08b8b7c0/0_0_5350_4281/500.jpg",
+      "published": "2026-04-05T16:50:12Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "environment"
+    },
+    {
+      "id": "world/2026/apr/05/there-is-no-revival-of-christianity-in-britain",
+      "headline": "There is no revival of Christianity in Britain",
+      "summary": "Humanists UK director argues non-religious people deserve equal standing in public square discussion.",
+      "url": "https://www.theguardian.com/p/x4mgef",
+      "thumbnail": "https://media.guim.co.uk/7d27cb5ae5d214ead0c3857bf05fa182d0ad5553/394_0_3972_3178/500.jpg",
+      "published": "2026-04-05T16:50:05Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "world"
+    },
+    {
+      "id": "society/2026/apr/05/a-striking-exchange-between-nurse-and-doctor",
+      "headline": "A striking exchange between nurse and doctor",
+      "summary": "Brief letters on industrial action, NHS history, and workplace relations between staff.",
+      "url": "https://www.theguardian.com/p/x4mgpe",
+      "thumbnail": "https://media.guim.co.uk/351d437d6aad4ac8af7f2a01b29dfac0dafbfccd/793_83_3071_2457/500.jpg",
+      "published": "2026-04-05T16:49:50Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 1,
+      "section": "society"
+    },
+    {
+      "id": "sport/2026/apr/05/bordeaux-leicester-champions-cup-rugby-union-match-report",
+      "headline": "Rayasi hat-trick inspires nine-try Bordeaux in crushing win against Leicester",
+      "summary": "Bordeaux defeats Leicester 64-14 in rugby Champions Cup with Rayasi hat-trick performance.",
+      "url": "https://www.theguardian.com/p/x4m7y7",
+      "thumbnail": "https://media.guim.co.uk/e783275078b77fe0c80b1025a5af489a18a1c2a4/125_0_2803_2242/500.jpg",
+      "published": "2026-04-05T16:34:21Z",
+      "location": {
+        "name": "Bordeaux",
+        "lat": 44.8378,
+        "lng": -0.5792
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "commentisfree/2026/apr/05/the-guardian-view-on-britains-religious-right-using-and-abusing-faith-in-the-pursuit-of-power",
+      "headline": "The Guardian view on Britain’s religious right: using and abusing faith in the pursuit of power",
+      "summary": "Guardian editorial condemns Reform UK's Christian identity politics as divisive and un-gospel.",
+      "url": "https://www.theguardian.com/p/x4m67a",
+      "thumbnail": "https://media.guim.co.uk/124db06160c4712bd27bea60c026d906b99d139c/165_0_2739_2190/500.jpg",
+      "published": "2026-04-05T16:30:55Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "commentisfree"
+    },
+    {
+      "id": "commentisfree/2026/apr/05/the-guardian-view-on-japans-hidden-century-cheap-money-global-risk",
+      "headline": "The Guardian view on Japan’s hidden century: cheap money, global risk",
+      "summary": "Guardian editorial examines Japan's yen carry trade binds global markets to Tokyo monetary policy.",
+      "url": "https://www.theguardian.com/p/x4ynzq",
+      "thumbnail": "https://media.guim.co.uk/c1710d039dc75fb12ad7375d4e2bd9d8030eaa13/0_0_3750_3000/500.jpg",
+      "published": "2026-04-05T16:29:55Z",
+      "location": {
+        "name": "Tokyo",
+        "lat": 35.6762,
+        "lng": 139.6503
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "commentisfree"
+    },
+    {
+      "id": "global/2026/apr/05/seven-arrested-over-alleged-support-for-palestine-action-at-raf-lakenheath-protest",
+      "headline": "Seven arrested over alleged support for Palestine Action at RAF Lakenheath protest",
+      "summary": "Seven arrested at RAF Lakenheath peace encampment on suspicion of supporting Palestine Action.",
+      "url": "https://www.theguardian.com/p/x4mhq8",
+      "thumbnail": "https://media.guim.co.uk/b831fcbab17a180552c2d2015cbc0be39582a0ee/317_0_4808_3846/500.jpg",
+      "published": "2026-04-05T16:08:59Z",
+      "location": {
+        "name": "Suffolk",
+        "lat": 52.2797,
+        "lng": 1.3087
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "uk-news"
     }
   ]
 }
