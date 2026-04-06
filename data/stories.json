@@ -1,92 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-06T17:10:11.675Z",
-    "story_count": 52,
-    "oldest_story": "2026-04-05T17:13:07Z",
-    "newest_story": "2026-04-06T17:05:35Z",
+    "generated_at": "2026-04-06T19:57:42.193Z",
+    "story_count": 51,
+    "oldest_story": "2026-04-05T20:00:02Z",
+    "newest_story": "2026-04-06T19:55:18Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "world/2026/apr/05/viktor-orban-hungary-election-serbia-explosives-gas-pipeline",
-      "headline": "Hungarian PM faces ‘false flag’ claims after Serbia says explosives found near pipeline",
-      "summary": "Serbian pipeline explosives found ahead of Hungarian election amid 'false flag' claims against Orbán.",
-      "url": "https://www.theguardian.com/p/x4mhf7",
-      "thumbnail": "https://media.guim.co.uk/4ae390d0267a06418551c72e85af1feb6d2ff1c3/140_0_2083_1667/500.jpg",
-      "published": "2026-04-05T17:13:07Z",
-      "location": {
-        "name": "Budapest",
-        "lat": 47.4979,
-        "lng": 19.0402
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "sport/live/2026/apr/05/ncaa-womens-national-championship-south-carolina-ucla-live-score",
-      "headline": "NCAA women’s national championship: South Carolina v UCLA – live updates",
-      "summary": "South Carolina faces UCLA in NCAA women's basketball national championship game in Phoenix.",
-      "url": "https://www.theguardian.com/p/x4m3xg",
-      "thumbnail": "https://media.guim.co.uk/2a5d016f6db90ba1f66ed9bb9324b68b0a8d6d8c/379_0_3791_3033/500.jpg",
-      "published": "2026-04-05T19:24:08Z",
-      "location": {
-        "name": "Phoenix",
-        "lat": 33.4484,
-        "lng": -112.0742
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "sport"
-    },
-    {
-      "id": "football/2026/apr/05/west-ham-leeds-fa-cup-quarter-final-match-report",
-      "headline": "Leeds hold nerve to win shootout after West Ham’s dramatic fightback",
-      "summary": "Leeds beats West Ham 4-2 on penalties after 2-2 draw to reach FA Cup semi-final.",
-      "url": "https://www.theguardian.com/p/x4m7gv",
-      "thumbnail": "https://media.guim.co.uk/8ccf1c056e6426585263406257e70f56060bbf78/491_95_3351_2681/500.jpg",
-      "published": "2026-04-05T19:01:41Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/apr/05/mikel-arteta-arsenal-pep-guardiola-manchester-city-quadruple",
-      "headline": "Arteta’s ChatGPT Guardiola-ism is down but history beckons for Gunners",
-      "summary": "Arsenal advances toward unprecedented tournament success after Carabao Cup exit.",
-      "url": "https://www.theguardian.com/p/x4mhzm",
-      "thumbnail": "https://media.guim.co.uk/61b5c3dca990f1c142c84d3f9befed3b616817c4/995_183_2612_2089/500.jpg",
-      "published": "2026-04-05T19:00:00Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "world/2026/apr/05/trump-warns-iran-to-reopen-strait-of-hormuz-by-tuesday-or-face-hell",
-      "headline": "Trump warns Iran to reopen strait of Hormuz by Tuesday or face ‘hell’",
-      "summary": "Trump threatens military strikes on Iran unless Strait of Hormuz reopens by Tuesday.",
-      "url": "https://www.theguardian.com/p/x4mt3e",
-      "thumbnail": "https://media.guim.co.uk/c7ef0f4237692d2b54aed94e57b56cf74ce0638a/968_508_2528_2022/500.jpg",
-      "published": "2026-04-05T18:20:10Z",
-      "location": {
-        "name": "Iran",
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
     {
       "id": "football/2026/apr/05/leeds-fans-london-fa-cup-semi-final-daniel-farke-chelsea-wembley",
       "headline": "Leeds fans will take over London for FA Cup semi-final, Daniel Farke promises",
@@ -838,6 +758,70 @@
       "category": "sport",
       "significance": 2,
       "section": "football"
+    },
+    {
+      "id": "football/2026/apr/06/use-that-fuel-mikel-arteta-and-david-raya-urge-arsenal-to-feed-off-cup-losses",
+      "headline": "‘Use that fuel’: Mikel Arteta and David Raya urge Arsenal to feed off cup losses",
+      "summary": "Arsenal faces Sporting in Champions League quarter-final first leg after recent cup losses.",
+      "url": "https://www.theguardian.com/p/x4mzaa",
+      "thumbnail": "https://media.guim.co.uk/876b3df3244fe35b84bff3fa9f2532f74d8466b6/78_0_4302_3442/500.jpg",
+      "published": "2026-04-06T19:55:18Z",
+      "location": {
+        "name": "Lisbon",
+        "lat": 38.7223,
+        "lng": -9.1393
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/apr/06/indianapolis-city-council-home-shot-at-data-centers",
+      "headline": "Home of Indianapolis city councilor shot at over his support of datacenters",
+      "summary": "Indianapolis city councilor's home shot at over support for $500m datacenter project.",
+      "url": "https://www.theguardian.com/p/x4mzxt",
+      "thumbnail": "https://media.guim.co.uk/e40d6ec7a2ecb75786fef4b6e7b1bf47cf25be8e/697_0_6973_5584/500.jpg",
+      "published": "2026-04-06T19:14:58Z",
+      "location": {
+        "name": "Indianapolis",
+        "lat": 39.7684,
+        "lng": -86.1581
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/apr/06/trump-iranians-strikes-on-infrastructure",
+      "headline": "Trump claims, without proof, Iranians welcome US strikes on infrastructure",
+      "summary": "Trump claims Iranians welcome US infrastructure strikes, dismissing war crime concerns.",
+      "url": "https://www.theguardian.com/p/x4mz4y",
+      "thumbnail": "https://media.guim.co.uk/edc953de0749a0e76b9eb7ea88ef18d67ad3d531/560_0_5600_4480/500.jpg",
+      "published": "2026-04-06T19:11:05Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/apr/06/trump-threats-journalist-missing-airman-iran",
+      "headline": "Trump threatens to jail journalist to find source of second missing airman report",
+      "summary": "Trump threatens to jail journalist for reporting missing airman shot down by Iran.",
+      "url": "https://www.theguardian.com/p/x4mzvv",
+      "thumbnail": "https://media.guim.co.uk/fa45a3c8a63facf7d1db476b3d24f393f485dbc2/457_0_4571_3657/500.jpg",
+      "published": "2026-04-06T19:05:33Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
     }
   ]
 }
