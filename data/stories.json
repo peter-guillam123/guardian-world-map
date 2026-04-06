@@ -1,140 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-05T23:51:32.559Z",
-    "story_count": 76,
-    "oldest_story": "2026-04-05T05:00:41Z",
-    "newest_story": "2026-04-05T23:02:03Z",
+    "generated_at": "2026-04-06T06:19:18.490Z",
+    "story_count": 75,
+    "oldest_story": "2026-04-05T07:00:43Z",
+    "newest_story": "2026-04-06T06:00:13Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "world/live/2026/apr/05/middle-east-crisis-live-iran-israel-us-war-trump-strait-hormuz-missing-pilot-downed",
-      "headline": "Middle East crisis live: Trump says F-15 crew member missing in Iran is ‘safe’ after ‘dozens of aircraft’ sent to recover him",
-      "summary": "US crew member missing after F-15 downed over Iran; Trump says pilot safe after rescue operation.",
-      "url": "https://www.theguardian.com/p/x4meq2",
-      "thumbnail": "https://media.guim.co.uk/792c3c06a4d4314e83ddd43623d53a67ad965f31/121_0_3162_2531/500.jpg",
-      "published": "2026-04-05T05:53:15Z",
-      "location": {
-        "name": "Iran",
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "australia-news/2026/apr/05/nearly-100-nsw-service-stations-face-fines-over-misleading-petrol-prices-amid-fuel-shortage-crackdown",
-      "headline": "Nearly 100 NSW service stations fined $1,100 each over misleading petrol prices amid fuel shortage crackdown",
-      "summary": "Nearly 100 NSW service stations fined for misleading petrol prices amid fuel shortage crackdown.",
-      "url": "https://www.theguardian.com/p/x4mf22",
-      "thumbnail": "https://media.guim.co.uk/58dd92d6c0ca3ceae07489520d9833605e415eb7/33_0_1748_1399/500.jpg",
-      "published": "2026-04-05T05:23:01Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "business/2026/apr/05/waitrose-employee-sacked-after-stopping-shoplifter-from-taking-easter-eggs",
-      "headline": "Waitrose employee sacked after stopping shoplifter from taking Easter eggs",
-      "summary": "Waitrose employee fired after stopping shoplifter from stealing Easter eggs in Clapham Junction.",
-      "url": "https://www.theguardian.com/p/x4mchf",
-      "thumbnail": "https://media.guim.co.uk/dfc8024a5bf218fca4886cd0cdc4e9392dfc723f/398_0_10496_8397/500.jpg",
-      "published": "2026-04-05T05:00:43Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "business/2026/apr/05/its-all-fear-and-headlines-energy-traders-race-to-keep-pace-with-volatile-oil-markets",
-      "headline": "‘It’s all fear and headlines’: energy traders race to keep pace with volatile oil markets",
-      "summary": "Middle East conflict volatility exposes energy traders to heavy losses amid oil market swings.",
-      "url": "https://www.theguardian.com/p/x4ynka",
-      "thumbnail": "https://media.guim.co.uk/bc8df30b7bf86876f38069370ee4cd2f880fc5e0/318_0_3275_2620/500.jpg",
-      "published": "2026-04-05T05:00:43Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "business"
-    },
-    {
-      "id": "world/2026/apr/05/israeli-settlers-driving-christians-out-west-bank",
-      "headline": "A strategy ‘to make life intolerable’: Israeli settlers are driving Christians out of West Bank",
-      "summary": "Israeli settlers driving Christian community of Taybeh out of West Bank through sustained attacks.",
-      "url": "https://www.theguardian.com/p/x4m6fz",
-      "thumbnail": "https://media.guim.co.uk/0542a40a3e0862558e7184c9e070277575e9e397/453_0_5000_4000/500.jpg",
-      "published": "2026-04-05T05:00:43Z",
-      "location": {
-        "name": "West Bank",
-        "lat": 31.9454,
-        "lng": 35.2028
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "world/2026/apr/05/british-father-son-dubai-fortune-wanted-men-prison-beaten-tortured",
-      "headline": "‘I was beaten and tortured’: how a British father and son made a fortune in Dubai then became wanted men",
-      "summary": "British father and son became wanted men in Dubai after making fortune; face prison and torture.",
-      "url": "https://www.theguardian.com/p/x4kve9",
-      "thumbnail": "https://media.guim.co.uk/5a567048e364487fdb7de5fbf38f7c1fb578c94c/970_0_6637_5310/500.jpg",
-      "published": "2026-04-05T05:00:42Z",
-      "location": {
-        "name": "Dubai",
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "food/2026/apr/05/burro-wc2-grace-dent-restaurant-review",
-      "headline": "Burro, WC2: ‘Big but the opposite of brash’ – restaurant review",
-      "summary": "Burro, new Italian restaurant in Covent Garden, brings old-school charm to touristy London area.",
-      "url": "https://www.theguardian.com/p/x4khkq",
-      "thumbnail": "https://media.guim.co.uk/c182c727076aaa6af4580490848666f75b224444/634_0_3297_2638/500.jpg",
-      "published": "2026-04-05T05:00:41Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "food"
-    },
-    {
-      "id": "news/ng-interactive/2026/apr/05/uk-social-media-apps-share",
-      "headline": "Is the UK falling out of love with social media?",
-      "summary": "Ofcom data shows Britons shifting to passive social media consumption amid mental health concerns.",
-      "url": "https://www.theguardian.com/p/x4m242",
-      "thumbnail": "https://media.guim.co.uk/d813d3e5a7b3b2cf8c07db8942c560117ace1c0c/0_0_6249_5000/500.jpg",
-      "published": "2026-04-05T05:00:41Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "tech",
-      "significance": 2,
-      "section": "news"
-    },
     {
       "id": "commentisfree/2026/apr/05/erika-charlie-kirk-joe-rogan-donald-trump-turning-point-usa-maga-iran",
       "headline": "Joe Rogan and the influencers who built Maga are revolting over Iran. Was this an alliance doomed to fail? ",
@@ -1222,6 +1094,118 @@
       "category": "politics",
       "significance": 2,
       "section": "uk-news"
+    },
+    {
+      "id": "money/2026/apr/06/valid-euro-car-parks-ticket-holders-chased-by-debt-collectors",
+      "headline": "Valid Euro Car Parks ticket holders chased by debt collectors",
+      "summary": "Euro Car Parks issues false fines to valid ticket holders, pursuing debt collection.",
+      "url": "https://www.theguardian.com/p/x4h7cj",
+      "thumbnail": "https://media.guim.co.uk/26d13834d5f28e043af955cbc956b9535fbf741e/561_0_5600_4480/500.jpg",
+      "published": "2026-04-06T06:00:13Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "money"
+    },
+    {
+      "id": "film/2026/apr/06/house-of-gloss-review-tender-portrait-of-a-young-trans-couple-finding-refuge-in-new-kind-of-famil7",
+      "headline": "House of Gloss review – tender portrait of a young trans couple finding refuge in new kind of family",
+      "summary": "Documentary portrait of young trans couple in Dundee finding refuge and love together.",
+      "url": "https://www.theguardian.com/p/x4m5cd",
+      "thumbnail": "https://media.guim.co.uk/4978ecf4fa509fc8196dd94b6b3b82c431710101/99_0_2700_2160/500.jpg",
+      "published": "2026-04-06T06:00:12Z",
+      "location": {
+        "name": "Dundee",
+        "lat": 56.4627,
+        "lng": -3.5236
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "film"
+    },
+    {
+      "id": "global-development/2026/apr/06/investigation-exposed-child-sex-trafficking-on-facebook-and-instagram-meta",
+      "headline": "‘It started with a tip-off’: how a Guardian investigation exposed child sex trafficking on Facebook and Instagram",
+      "summary": "Guardian investigation exposed child sex trafficking on Meta platforms in legal battle.",
+      "url": "https://www.theguardian.com/p/x4yhpj",
+      "thumbnail": "https://media.guim.co.uk/2148c9a203939e2843ffeb03397ee7f60d853f40/1141_0_4002_3203/500.jpg",
+      "published": "2026-04-06T06:00:12Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "tech",
+      "significance": 3,
+      "section": "global-development"
+    },
+    {
+      "id": "society/2026/apr/06/people-living-with-incontinence-face-shortage-of-sanitary-pads-as-nhs-limits-supplies",
+      "headline": "People living with incontinence face shortage of sanitary pads as NHS limits supplies",
+      "summary": "NHS trusts ration incontinence pads, forcing patients to pay for products themselves.",
+      "url": "https://www.theguardian.com/p/x4mv6x",
+      "thumbnail": "https://media.guim.co.uk/ddcbd9bdeed5968d853123a38e078da0ee9a5c64/566_138_1550_1240/500.png",
+      "published": "2026-04-06T06:00:12Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "society"
+    },
+    {
+      "id": "world/live/2026/apr/06/iran-war-live-updates-trump-hormuz-oil-netanyahu-israel",
+      "headline": "Middle East crisis live: Tehran warns Trump over strait of Hormuz threat; Netanyahu suggests Israel helped rescue downed US crew member",
+      "summary": "Iran warns Trump over Strait of Hormuz threat amid escalating Middle East tensions.",
+      "url": "https://www.theguardian.com/p/x4mkxg",
+      "thumbnail": "https://media.guim.co.uk/18351417600e32447cb86b1901fd03f2f4e7032d/432_0_4320_3456/500.jpg",
+      "published": "2026-04-06T05:53:56Z",
+      "location": {
+        "name": "Tehran",
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "travel/2026/apr/06/10-fun-and-fabulous-reasons-to-visit-france-in-2026",
+      "headline": "From volcanic wilds to world-class art: 10 fun and fabulous reasons to visit France in 2026",
+      "summary": "France offers attractions including Dragon de Calais mechanical beast and impressionist art.",
+      "url": "https://www.theguardian.com/p/x4txn3",
+      "thumbnail": "https://media.guim.co.uk/cb0c461425553b0453a9215dff2bc7299f3045b2/425_0_4250_3400/500.jpg",
+      "published": "2026-04-06T05:45:11Z",
+      "location": {
+        "name": "Calais",
+        "lat": 50.9581,
+        "lng": 1.8625
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "travel"
+    },
+    {
+      "id": "sport/2026/apr/06/shacarri-richardson-wins-2026-stawell-gift-sprint",
+      "headline": "US sprint star Sha’Carri Richardson wins 2026 Stawell Gift off scratch in thrilling finish",
+      "summary": "Sha'Carri Richardson wins 2026 Stawell Gift sprint in thrilling finish off scratch.",
+      "url": "https://www.theguardian.com/p/x4mjzn",
+      "thumbnail": "https://media.guim.co.uk/776f05338ce8a67e32e24d7f963b765cc18528bf/941_0_2889_2312/500.jpg",
+      "published": "2026-04-06T05:31:51Z",
+      "location": {
+        "name": "Stawell",
+        "lat": -37.3555,
+        "lng": 142.7765
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
     }
   ]
 }
