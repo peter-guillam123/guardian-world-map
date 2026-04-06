@@ -1,92 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-06T21:54:25.319Z",
-    "story_count": 53,
-    "oldest_story": "2026-04-05T21:57:34Z",
-    "newest_story": "2026-04-06T21:30:30Z",
+    "generated_at": "2026-04-06T23:54:01.055Z",
+    "story_count": 52,
+    "oldest_story": "2026-04-06T05:31:51Z",
+    "newest_story": "2026-04-06T23:50:33Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "australia-news/live/2026/apr/06/anthony-albanese-fuel-crisis-angus-taylor-middle-east-labor-liberals-moira-deeming-ntwnfb",
-      "headline": "Australia news live: Moira Deeming secures top spot on Victorian Liberal ticket; Chris Bowen calls for Hormuz reopening",
-      "summary": "Moira Deeming secures top Victorian Liberal spot; Chris Bowen calls for Strait of Hormuz reopening.",
-      "url": "https://www.theguardian.com/p/x4mja8",
-      "thumbnail": "https://media.guim.co.uk/c21955ca14b3ed091d60a39014824c4d735a624d/688_0_6880_5504/500.jpg",
-      "published": "2026-04-05T21:57:34Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "money/2026/apr/06/blue-badge-permits-record-1-20-people-in-england",
-      "headline": "Blue badge permits now held by 1 in 15 adults in England",
-      "summary": "Blue badge permits in England reach 1 in 15 adults amid concerns over misuse.",
-      "url": "https://www.theguardian.com/p/x4mt5z",
-      "thumbnail": "https://media.guim.co.uk/294720650ca64336fcfc08ecb43ee9ade2f64d8a/737_230_3719_2976/500.jpg",
-      "published": "2026-04-05T23:02:03Z",
-      "location": {
-        "name": "England",
-        "lat": 52.3555,
-        "lng": -1.1743
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "money"
-    },
-    {
-      "id": "society/2026/apr/06/nhs-patients-care-doctors-england-strike-bma-pay",
-      "headline": "NHS urges patients not to put off care as doctors in England prepare for strike",
-      "summary": "NHS urges patients to seek care as English resident doctors begin six-day strike.",
-      "url": "https://www.theguardian.com/p/x4mtc8",
-      "thumbnail": "https://media.guim.co.uk/ae61691bcdd61caab2a279110d61bce5bf9aa107/340_0_2500_2000/500.jpg",
-      "published": "2026-04-05T23:02:03Z",
-      "location": {
-        "name": "England",
-        "lat": 52.3555,
-        "lng": -1.1743
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "society"
-    },
-    {
-      "id": "money/2026/apr/06/new-uk-farm-inheritance-tax-rule-will-cause-significant-challenges-say-accountants",
-      "headline": "New UK farm inheritance tax rule will cause ‘significant challenges’, say accountants",
-      "summary": "New UK inheritance tax on farms worth £2.5m+ comes into force amid accountant concerns.",
-      "url": "https://www.theguardian.com/p/x4mhpx",
-      "thumbnail": "https://media.guim.co.uk/a37c998b9c86b2d263fff09682eef7f2c9ed187b/50_0_4078_3263/500.jpg",
-      "published": "2026-04-05T23:01:03Z",
-      "location": {
-        "name": "United Kingdom",
-        "lat": 55.3781,
-        "lng": -3.436
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "money"
-    },
-    {
-      "id": "uk-news/2026/apr/06/hubs-to-help-young-people-away-from-and-into-work-to-open-in-england",
-      "headline": "Hubs to help young people away from crime and into work to open in England",
-      "summary": "Eight youth futures hubs open across England to support young people and combat crime.",
-      "url": "https://www.theguardian.com/p/x4mhkp",
-      "thumbnail": "https://media.guim.co.uk/5fa96f096fb5c92ad1a7959c5eae669470c935cb/684_0_3380_2704/500.jpg",
-      "published": "2026-04-05T23:01:03Z",
-      "location": {
-        "name": "England",
-        "lat": 52.3555,
-        "lng": -1.1743
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "uk-news"
-    },
     {
       "id": "money/2026/apr/06/valid-euro-car-parks-ticket-holders-chased-by-debt-collectors",
       "headline": "Valid Euro Car Parks ticket holders chased by debt collectors",
@@ -853,6 +773,70 @@
       },
       "category": "culture",
       "significance": 1,
+      "section": "us-news"
+    },
+    {
+      "id": "sport/live/2026/apr/06/ncaa-mens-national-championship-uconn-michigan-live-score",
+      "headline": "NCAA men’s national championship: UConn v Michigan – live updates",
+      "summary": "UConn and Michigan compete for NCAA men's basketball national championship in Indianapolis.",
+      "url": "https://www.theguardian.com/p/x4m334",
+      "thumbnail": "https://media.guim.co.uk/e5d235bdec06472ea0ca151a3db9d2c2116a68b9/240_0_2403_1923/500.jpg",
+      "published": "2026-04-06T23:50:33Z",
+      "location": {
+        "name": "Indianapolis",
+        "lat": 39.7684,
+        "lng": -86.1581
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "sport"
+    },
+    {
+      "id": "us-news/2026/apr/06/tony-gonzales-texas-staffers-accusations",
+      "headline": "Second ex-staffer accuses Texas lawmaker of sending sexually explicit messages",
+      "summary": "Second former staffer accuses Republican congressman Tony Gonzales of sending sexually explicit messages.",
+      "url": "https://www.theguardian.com/p/x4mznt",
+      "thumbnail": "https://media.guim.co.uk/8857890b4ada00ea4aeeaef6a7b8b13e414394ec/656_0_6534_5231/500.jpg",
+      "published": "2026-04-06T23:00:29Z",
+      "location": {
+        "name": "San Antonio",
+        "lat": 29.4241,
+        "lng": -98.4936
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "science/2026/apr/06/artemis-ii-astronauts-record-moon-earth-distance",
+      "headline": "Artemis II sets new record as astronauts travel farther from Earth than ever before",
+      "summary": "Artemis II astronauts break Apollo 13 distance record, traveling farthest from Earth in history.",
+      "url": "https://www.theguardian.com/p/x4mhap",
+      "thumbnail": "https://media.guim.co.uk/6daa6af77bd16895c94e4e0dc7701d179d92bfa4/464_0_4640_3712/500.jpg",
+      "published": "2026-04-06T22:59:51Z",
+      "location": {
+        "name": "Washington, D.C.",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "tech",
+      "significance": 3,
+      "section": "science"
+    },
+    {
+      "id": "us-news/2026/apr/06/trump-iran-easter-press-conference",
+      "headline": "Down the rabbit hole: Trump offers dark Iran warnings after Easter bunny act",
+      "summary": "Trump makes dark Iran warnings during White House Easter egg roll press conference.",
+      "url": "https://www.theguardian.com/p/x4mzbx",
+      "thumbnail": "https://media.guim.co.uk/f47e2684d7e9cca3de36f2bd2bf97f0e1be0f8c2/46_0_1764_1411/500.jpg",
+      "published": "2026-04-06T22:55:59Z",
+      "location": {
+        "name": "Washington, D.C.",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
       "section": "us-news"
     }
   ]
