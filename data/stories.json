@@ -1,44 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-06T19:57:42.193Z",
-    "story_count": 51,
-    "oldest_story": "2026-04-05T20:00:02Z",
-    "newest_story": "2026-04-06T19:55:18Z",
+    "generated_at": "2026-04-06T21:54:25.319Z",
+    "story_count": 53,
+    "oldest_story": "2026-04-05T21:57:34Z",
+    "newest_story": "2026-04-06T21:30:30Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/2026/apr/05/leeds-fans-london-fa-cup-semi-final-daniel-farke-chelsea-wembley",
-      "headline": "Leeds fans will take over London for FA Cup semi-final, Daniel Farke promises",
-      "summary": "Leeds secure FA Cup semi-final vs Chelsea after penalty shootout win at West Ham.",
-      "url": "https://www.theguardian.com/p/x4mtpm",
-      "thumbnail": "https://media.guim.co.uk/687863d9a6b77d8a9805652c6b41ca399a5791d0/382_0_2500_2000/500.jpg",
-      "published": "2026-04-05T20:56:38Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "australia-news/2026/apr/05/alleged-racial-discrimination-by-nsw-government-investigated-by-human-rights-commission",
-      "headline": "Australian Human Rights Commission investigates alleged racial discrimination by NSW government",
-      "summary": "Human Rights Commission investigates NSW government over alleged racial discrimination claims.",
-      "url": "https://www.theguardian.com/p/x4yk2t",
-      "thumbnail": "https://media.guim.co.uk/4e25d7cf9dd46f7ee817c2c3a0b6fbcef1564003/504_0_5040_4032/500.jpg",
-      "published": "2026-04-05T20:00:02Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
     {
       "id": "australia-news/live/2026/apr/06/anthony-albanese-fuel-crisis-angus-taylor-middle-east-labor-liberals-moira-deeming-ntwnfb",
       "headline": "Australia news live: Moira Deeming secures top spot on Victorian Liberal ticket; Chris Bowen calls for Hormuz reopening",
@@ -54,22 +22,6 @@
       "category": "politics",
       "significance": 2,
       "section": "australia-news"
-    },
-    {
-      "id": "football/2026/apr/05/bernardo-silva-pep-lijnders-manchester-city-captain-leaving-summer",
-      "headline": "Bernardo Silva will leave Manchester City this summer, reveals Pep Lijnders",
-      "summary": "Bernardo Silva to leave Manchester City this summer as captain nears contract end.",
-      "url": "https://www.theguardian.com/p/x4mgmh",
-      "thumbnail": "https://media.guim.co.uk/cdd083a8ff343655c929bc9c5c04721904e3bd89/354_0_3536_2829/500.jpg",
-      "published": "2026-04-05T21:30:01Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4831,
-        "lng": -2.2
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
     },
     {
       "id": "money/2026/apr/06/blue-badge-permits-record-1-20-people-in-england",
@@ -821,6 +773,86 @@
       },
       "category": "politics",
       "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "uk-news/2026/apr/06/schools-england-hyper-targeted-help-knife-crime",
+      "headline": "Hyper-targeted scheme to help at-risk schools in England tackle knife crime",
+      "summary": "Home Office launches £1.2m scheme using mapping tech to help 250 schools tackle knife crime.",
+      "url": "https://www.theguardian.com/p/x4mn56",
+      "thumbnail": "https://media.guim.co.uk/ae45e4e34ea7abf1467618bcc27162de03c3b70e/571_0_4521_3617/500.jpg",
+      "published": "2026-04-06T21:30:30Z",
+      "location": {
+        "name": "England",
+        "lat": 52.3555,
+        "lng": -1.1743
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "us-news/2026/apr/06/california-sixth-person-bitten-rattlesnake",
+      "headline": "California county records sixth person bitten by rattlesnake in under a month",
+      "summary": "Sixth rattlesnake bite reported in Ventura County in under a month; two fatalities this year.",
+      "url": "https://www.theguardian.com/p/x4mz6j",
+      "thumbnail": "https://media.guim.co.uk/24401e0325c91a7b4bae8505a0d9bb009d6c9958/292_0_4415_3533/500.jpg",
+      "published": "2026-04-06T21:24:02Z",
+      "location": {
+        "name": "Ventura County",
+        "lat": 34.2805,
+        "lng": -119.2945
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "music/2026/apr/06/wireless-festival-says-kayne-west-still-due-to-perform-despite-calls-for-ban",
+      "headline": "Wireless festival promoter stands by decision to have Kanye West perform",
+      "summary": "Wireless festival promoter confirms Kanye West will perform despite antisemitism controversy.",
+      "url": "https://www.theguardian.com/p/x4mzeb",
+      "thumbnail": "https://media.guim.co.uk/f94a522540a864865f864238c1790c6f39b9d852/43_0_1746_1397/500.jpg",
+      "published": "2026-04-06T21:13:46Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "music"
+    },
+    {
+      "id": "australia-news/2026/apr/07/morning-mail-tuesday-ntwnfb",
+      "headline": "Morning Mail: ‘scam’ empire links alleged in Timor-Leste, Trump says Iran could be ‘taken out tomorrow night’",
+      "summary": "Guardian investigation reveals links between alleged scam empire and Timor-Leste resort development.",
+      "url": "https://www.theguardian.com/p/x4myqf",
+      "thumbnail": "https://media.guim.co.uk/b9b74a1eb1b79534e648c3de41015ec3a50b7da3/0_739_4000_3200/500.jpg",
+      "published": "2026-04-06T21:06:11Z",
+      "location": {
+        "name": "Timor-Leste",
+        "lat": -8.8383,
+        "lng": 125.9181
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "us-news/2026/apr/06/bald-eagle-chicks-hatching-california-livestream",
+      "headline": "Hatchings of two California bald eagle chicks delight vast livestream audience",
+      "summary": "Two bald eagle chicks hatch in San Bernardino National Forest, watched by thousands online.",
+      "url": "https://www.theguardian.com/p/x4mnpx",
+      "thumbnail": "https://media.guim.co.uk/83f02045449e3036406eedb80e3e5916a6de7fcb/570_0_2700_2160/500.jpg",
+      "published": "2026-04-06T20:53:00Z",
+      "location": {
+        "name": "Big Bear Valley",
+        "lat": 34.2472,
+        "lng": -116.8975
+      },
+      "category": "culture",
+      "significance": 1,
       "section": "us-news"
     }
   ]
