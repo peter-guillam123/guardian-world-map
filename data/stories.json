@@ -1,364 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-06T10:36:51.338Z",
-    "story_count": 69,
-    "oldest_story": "2026-04-05T10:38:42Z",
-    "newest_story": "2026-04-06T10:35:36Z",
+    "generated_at": "2026-04-06T14:16:04.892Z",
+    "story_count": 56,
+    "oldest_story": "2026-04-05T14:46:40Z",
+    "newest_story": "2026-04-06T14:15:32Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "music/2026/apr/05/kanye-west-wireless-festival-deeply-concerning-keir-starmer",
-      "headline": "Pepsi drops Wireless sponsorship amid criticism of Kanye West booking ",
-      "summary": "Pepsi withdraws Wireless Festival sponsorship over Kanye West booking controversy.",
-      "url": "https://www.theguardian.com/p/x4mg9t",
-      "thumbnail": "https://media.guim.co.uk/a7ee7021eead0225a6ee2f38579b38fb7b7b067a/270_0_3000_2400/500.jpg",
-      "published": "2026-04-05T11:37:36Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "music"
-    },
-    {
-      "id": "stage/2026/apr/05/victoria-a-queen-unbound-review-watermill-theatre-newbury",
-      "headline": "Victoria: A Queen Unbound review – darkness lurks beneath the myth of a model royal marriage",
-      "summary": "Theatre review of Victoria: A Queen Unbound exploring control in royal marriage.",
-      "url": "https://www.theguardian.com/p/x4mgfj",
-      "thumbnail": "https://media.guim.co.uk/f355ea9022a045347d0ed9e5742be3619f60f797/93_0_936_749/500.jpg",
-      "published": "2026-04-05T11:33:55Z",
-      "location": {
-        "name": "Newbury",
-        "lat": 51.4006,
-        "lng": -1.3236
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "stage"
-    },
-    {
-      "id": "us-news/ng-interactive/2026/apr/05/trump-deportation-rural-towns-wisconsin",
-      "headline": "Trump’s mass deportation plan breaks the quiet of small US towns: ‘We have to take care of each other’",
-      "summary": "Trump's mass deportation agents spread into rural western Wisconsin communities.",
-      "url": "https://www.theguardian.com/p/x4m33q",
-      "thumbnail": "https://media.guim.co.uk/00d471edb97df51fe39f5faba8180a91ae3c2271/978_863_3288_2632/500.jpg",
-      "published": "2026-04-05T11:00:51Z",
-      "location": {
-        "name": "Wisconsin",
-        "lat": 44.2685,
-        "lng": -89.6165
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/apr/05/priest-anthony-odiong-trial-sex-offenses",
-      "headline": "Priest accused of coercing congregants for sex in Texas could have single trial for charges from three separate accusers",
-      "summary": "Priest accused of coercing congregants for sex could face consolidated trial.",
-      "url": "https://www.theguardian.com/p/x4m8tq",
-      "thumbnail": "https://media.guim.co.uk/1bdea9f752f7cf4c449f60f39075d2b0956a9b8b/354_0_1187_950/500.jpg",
-      "published": "2026-04-05T11:00:51Z",
-      "location": {
-        "name": "Texas",
-        "lat": 31.9686,
-        "lng": -99.9018
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "lifeandstyle/2026/apr/05/dining-across-the-divide-julian-lawal-reform-uk-labour-green",
-      "headline": "Dining across the divide: ‘I knew he was a Reform voter and I had this Nigel-Farage-angry-face image’ ",
-      "summary": "Dining across divide: Reform voter and Labour supporter debate politics.",
-      "url": "https://www.theguardian.com/p/x4j2eh",
-      "thumbnail": "https://media.guim.co.uk/db468793216942fc9f24b9da45381e1f66000f99/1196_0_6880_5504/500.jpg",
-      "published": "2026-04-05T11:00:50Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 1,
-      "section": "lifeandstyle"
-    },
-    {
-      "id": "environment/2026/apr/05/rice-whales-extinction-trump-gulf-mexico",
-      "headline": "Rice’s whales predate modern humans. Now Trump could make them extinct",
-      "summary": "Trump administration removes protections for endangered Rice's whales with only 50 left.",
-      "url": "https://www.theguardian.com/p/x4m2nn",
-      "thumbnail": "https://media.guim.co.uk/7a5d436bc2da6909746712b87e8e986840e55b12/0_0_1500_1200/500.jpg",
-      "published": "2026-04-05T11:00:49Z",
-      "location": {
-        "name": "Gulf of Mexico",
-        "lat": 27.5,
-        "lng": -90
-      },
-      "category": "climate",
-      "significance": 3,
-      "section": "environment"
-    },
-    {
-      "id": "us-news/2026/apr/05/us-defense-contractor-v2x-worker-killed-iraq",
-      "headline": "Worker for US defense contractor killed in Iraq as colleagues say they are pressured to stay",
-      "summary": "US defense contractor worker killed in Erbil airbase attack amid safety concerns.",
-      "url": "https://www.theguardian.com/p/x4m78j",
-      "thumbnail": "https://media.guim.co.uk/88e8398991de2a02fa39aa8a263b095c1f8f51d6/398_0_5001_4002/500.jpg",
-      "published": "2026-04-05T11:00:49Z",
-      "location": {
-        "name": "Iraq",
-        "lat": 33.3128,
-        "lng": 44.3615
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/apr/05/all-the-presidents-men-watergate-50-anniversary",
-      "headline": "‘I still think it’s one of the great films of all time’: All the President’s Men turns 50",
-      "summary": "All the President's Men celebrates 50th anniversary of iconic Watergate film.",
-      "url": "https://www.theguardian.com/p/x4yd7y",
-      "thumbnail": "https://media.guim.co.uk/1fd61b4b9d74766f551dd42848755dbda8b6ad0f/50_0_2186_1749/500.jpg",
-      "published": "2026-04-05T11:00:49Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "business/2026/apr/05/coal-reliance-iran-war-fossil-fuels",
-      "headline": "How Trump’s Iran war could make the world more reliant on coal",
-      "summary": "Trump's Iran war could increase global coal reliance amid energy crisis.",
-      "url": "https://www.theguardian.com/p/x4m32g",
-      "thumbnail": "https://media.guim.co.uk/ea969e36fc856b714ce84540aaac3614e227dc75/519_291_3140_2512/500.jpg",
-      "published": "2026-04-05T11:00:49Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "business"
-    },
-    {
-      "id": "football/2026/apr/05/virgil-van-dijk-liverpool-gave-up-manchester-city-defeat-psg",
-      "headline": "Van Dijk claims Liverpool ‘gave up’ in Manchester City defeat as PSG trip looms",
-      "summary": "Van Dijk apologizes after Liverpool loses heavily to Manchester City in FA Cup.",
-      "url": "https://www.theguardian.com/p/x4mgkj",
-      "thumbnail": "https://media.guim.co.uk/4ea3e826a0c78b65c2cce1562251bb0bbb213355/417_0_3468_2774/500.jpg",
-      "published": "2026-04-05T11:00:48Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4808,
-        "lng": -2.2426
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "global/commentisfree/2026/apr/05/anti-trump-solidarity-no-kings",
-      "headline": "Here are three ways we can turn anti-Trump solidarity into political power",
-      "summary": "Commentary on converting No Kings anti-Trump protests into political power for midterms.",
-      "url": "https://www.theguardian.com/p/x4ye52",
-      "thumbnail": "https://media.guim.co.uk/d126888056dabb564b23a435d9f99aa5694463aa/370_0_3703_2962/500.jpg",
-      "published": "2026-04-05T11:00:48Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "global"
-    },
-    {
-      "id": "money/2026/apr/05/funeral-costs-uk-iran-war",
-      "headline": "Iran war driving up funeral costs in the UK ",
-      "summary": "Iran war pushes UK funeral costs up 1.3% to average £4,623 as energy prices rise.",
-      "url": "https://www.theguardian.com/p/x4mx47",
-      "thumbnail": "https://media.guim.co.uk/e3fbb6a10d4cac619a7d5f4c1e34b10437c9a51b/503_0_4651_3720/500.jpg",
-      "published": "2026-04-05T10:53:19Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "money"
-    },
-    {
-      "id": "business/2026/apr/05/higher-energy-costs-iran-war-oil-economics-ai-boom",
-      "headline": "Higher energy costs from Iran war could threaten fragile economics of AI boom",
-      "summary": "Iran conflict threatens AI industry economics through higher energy costs and supply chain disruption.",
-      "url": "https://www.theguardian.com/p/x4mvkq",
-      "thumbnail": "https://media.guim.co.uk/365a51e9206cd0b02a8120f88bfcab7f66784f6a/284_244_4352_3484/500.jpg",
-      "published": "2026-04-05T10:38:42Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "business"
-    },
-    {
-      "id": "football/live/2026/apr/05/west-ham-v-leeds-buildup-plus-scottish-premiership-and-womens-fa-cup-matchday-live",
-      "headline": "West Ham v Leeds buildup plus Scottish Premiership and Women’s FA Cup – matchday live",
-      "summary": "West Ham v Leeds buildup plus Scottish Premiership and Women's FA Cup matchday live coverage.",
-      "url": "https://www.theguardian.com/p/x4mvje",
-      "thumbnail": "https://media.guim.co.uk/ac7ffe05692232a0c33d37eb1379ba7164870740/50_0_1736_1389/500.jpg",
-      "published": "2026-04-05T14:00:17Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "us-news/ng-interactive/2026/apr/05/american-soft-power-iran-war",
-      "headline": "I was the US soft power czar. Our reputation may never recover from this",
-      "summary": "Former US soft power official warns Trump's Iran war will damage America's global reputation.",
-      "url": "https://www.theguardian.com/p/x4m2ka",
-      "thumbnail": "https://media.guim.co.uk/53be5689bdb2e738ff2c52f4bc485f0391511cd3/106_17_2894_2315/500.jpg",
-      "published": "2026-04-05T13:00:53Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "commentisfree/2026/apr/05/back-in-london-after-decade-in-us-miss-friendly-new-yorkers",
-      "headline": "I’m back in London after a decade in the US – and I miss those friendly New Yorkers",
-      "summary": "Columnist reflects on cultural differences between New York and London after decade-long move.",
-      "url": "https://www.theguardian.com/p/x4m6ve",
-      "thumbnail": "https://media.guim.co.uk/ba4b603be479f069b63c1c05302b37e1686998f9/0_584_4072_3257/500.jpg",
-      "published": "2026-04-05T13:00:53Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "commentisfree"
-    },
-    {
-      "id": "lifeandstyle/2026/apr/05/gladiator-fury-jodie-ounsley-looks-back",
-      "headline": "Gladiator Jodie Ounsley looks back: ‘There weren’t many girls like me at school. I always liked bashing into people’",
-      "summary": "Former rugby star Jodie Ounsley reflects on her journey from deaf athlete to Gladiators TV star.",
-      "url": "https://www.theguardian.com/p/x4tnxg",
-      "thumbnail": "https://media.guim.co.uk/4c10817c0892e44758161b9aa914d30225ecea54/0_400_3985_3186/500.jpg",
-      "published": "2026-04-05T13:00:52Z",
-      "location": {
-        "name": "Dewsbury",
-        "lat": 53.6949,
-        "lng": -1.6757
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "lifeandstyle"
-    },
-    {
-      "id": "uk-news/2026/apr/05/cornwall-says-goodbye-scillonian-iii-ship",
-      "headline": "‘She’s been a brilliant ship’: Cornwall says goodbye to Scillonian III after 50 years",
-      "summary": "Cornwall bids farewell to ferry Scillonian III after 50 years linking mainland to Isles of Scilly.",
-      "url": "https://www.theguardian.com/p/x4mxqh",
-      "thumbnail": "https://media.guim.co.uk/53a2a7a90257102fa9172285a65d54472367a619/74_0_4816_3855/500.jpg",
-      "published": "2026-04-05T13:00:52Z",
-      "location": {
-        "name": "Penzance",
-        "lat": 50.1189,
-        "lng": -5.5383
-      },
-      "category": "other",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "us-news/2026/apr/05/health-officials-anti-vaccine-views-midterms",
-      "headline": "US health officials appear to shy away from anti-vaccine talk ahead of midterms",
-      "summary": "US health officials downplay anti-vaccine rhetoric ahead of midterm elections amid polling concerns.",
-      "url": "https://www.theguardian.com/p/x4m73h",
-      "thumbnail": "https://media.guim.co.uk/4cebe8de5b703e29d1239f3d14d925baf1248f0f/338_0_4731_3787/500.jpg",
-      "published": "2026-04-05T13:00:51Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "world/2026/apr/05/labour-back-down-foie-gras-fur-bans-eu-trade-deal",
-      "headline": "Labour to back down on foie gras and fur bans to ease EU trade deal",
-      "summary": "Labour backs down on foie gras and fur import bans to facilitate EU trade deal negotiations.",
-      "url": "https://www.theguardian.com/p/x4ycvp",
-      "thumbnail": "https://media.guim.co.uk/522192855dfd6c39b488de36463c911c5fa074e3/364_0_3640_2912/500.jpg",
-      "published": "2026-04-05T13:00:51Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "commentisfree/2026/apr/05/trump-working-class-support",
-      "headline": "Trump’s working-class support is waning",
-      "summary": "Survey reveals 20% of 2024 Trump voters considering abandoning Republicans in 2028 elections.",
-      "url": "https://www.theguardian.com/p/x4kk6c",
-      "thumbnail": "https://media.guim.co.uk/4cd62a17826799bbb487014f3133ca91f3f13ce8/692_0_6880_5504/500.jpg",
-      "published": "2026-04-05T13:00:51Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "commentisfree"
-    },
-    {
-      "id": "music/2026/apr/05/james-review-special-band-still-filling-arenas-with-anthems-of-warmth-and-humanity",
-      "headline": "James review – special band still filling arenas with anthems of warmth and humanity",
-      "summary": "James band fills Leeds arena with decades of anthems as Tim Booth leads pied-piper performance.",
-      "url": "https://www.theguardian.com/p/x4mhv7",
-      "thumbnail": "https://media.guim.co.uk/17d7dab089416f891ada5c152d03ccb902ff8590/1098_166_3729_2985/500.jpg",
-      "published": "2026-04-05T12:57:55Z",
-      "location": {
-        "name": "Leeds",
-        "lat": 53.8008,
-        "lng": -1.5491
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "music"
-    },
     {
       "id": "football/live/2026/apr/05/west-ham-leeds-united-fa-cup-live-semi-final-draw",
       "headline": "West Ham United v Leeds United: FA Cup – live",
@@ -1110,6 +758,150 @@
       "category": "politics",
       "significance": 4,
       "section": "commentisfree"
+    },
+    {
+      "id": "world/2026/apr/06/proposals-for-immediate-ceasefire-us-israel-iran-war",
+      "headline": "Proposals for immediate ceasefire to halt war circulated to US and Iran",
+      "summary": "Mediators circulate ceasefire proposals to US and Iran to halt five-week-old war.",
+      "url": "https://www.theguardian.com/p/x4mmdh",
+      "thumbnail": "https://media.guim.co.uk/a4ce1ed4367472d81df4fa6324df3ee16e0cdac3/500_0_5000_4000/500.jpg",
+      "published": "2026-04-06T14:15:32Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "us-news/2026/apr/06/republicans-ai-image-us-plane-member-rescue-iran",
+      "headline": "Republicans fooled by AI-generated image of US crew member rescued in Iran",
+      "summary": "Republican politicians duped by AI-generated image of US crew rescued in Iran.",
+      "url": "https://www.theguardian.com/p/x4mmt7",
+      "thumbnail": "https://media.guim.co.uk/00b92c69c441a2d1e799e39b14dcbdeb830ed260/0_0_1500_1200/500.jpg",
+      "published": "2026-04-06T14:03:43Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "science/2026/apr/06/labs-testing-thousands-of-unregulated-substances-amid-peptide-craze",
+      "headline": "‘Traceability is vital’: labs test thousands of unregulated substances amid peptide craze",
+      "summary": "UK labs test thousands of unregulated peptides as weight-loss drug craze explodes.",
+      "url": "https://www.theguardian.com/p/x4j6ck",
+      "thumbnail": "https://media.guim.co.uk/54634c0e58256b179028a5ddb0397324ca725bba/46_0_6632_5304/500.jpg",
+      "published": "2026-04-06T13:59:33Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "science"
+    },
+    {
+      "id": "us-news/2026/apr/06/polymarket-criticized-bets-us-jet-shot-by-iran",
+      "headline": "Polymarket criticized over ‘disgusting’ bets on fate of pilots on US jet shot by Iran",
+      "summary": "Polymarket stops accepting bets on fate of US pilots shot down by Iran.",
+      "url": "https://www.theguardian.com/p/x4mmm7",
+      "thumbnail": "https://media.guim.co.uk/ce270d27341cd4286aaad1c26af16e1b99eaf892/307_0_3154_2524/500.jpg",
+      "published": "2026-04-06T13:39:59Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "commentisfree/2026/apr/06/do-we-really-need-truncheons-and-pepper-spray-to-fight-off-londons-feral-teenage-shoplifters",
+      "headline": "Do we really need truncheons and pepper spray to fight off London’s ‘feral’ teenage shoplifters?",
+      "summary": "Opinion on London shoplifting incidents raises questions about response tactics.",
+      "url": "https://www.theguardian.com/p/x4mmcg",
+      "thumbnail": "https://media.guim.co.uk/2004b0f038280c0b29107c997023da98bdde90c8/0_40_1145_916/500.jpg",
+      "published": "2026-04-06T13:34:39Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 1,
+      "section": "commentisfree"
+    },
+    {
+      "id": "us-news/live/2026/apr/06/trump-iran-war-congress-us-politics-live",
+      "headline": "Trump to hold press conference on Iran war after profanity-laden threats on social media – US politics live",
+      "summary": "Trump holds press conference on Iran war after threats over Strait of Hormuz closure.",
+      "url": "https://www.theguardian.com/p/x4mmc7",
+      "thumbnail": "https://media.guim.co.uk/cb884df24d69c2badcd414d247000442c6097d28/616_0_4386_3509/500.jpg",
+      "published": "2026-04-06T13:30:37Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "us-news"
+    },
+    {
+      "id": "sport/2026/apr/06/retirement-gnome-masters-miniatures-rumoured-to-have-short-future-at-augusta-golf",
+      "headline": "Retirement gnome? Masters miniatures rumoured to have short future at Augusta",
+      "summary": "Masters gnomes rumored to end production after decade as Augusta National collectibles.",
+      "url": "https://www.theguardian.com/p/x4mmtg",
+      "thumbnail": "https://media.guim.co.uk/f9cf05c97e501d79a8f3dca4be0e447b9f98ccf6/564_0_5000_4000/500.jpg",
+      "published": "2026-04-06T13:28:42Z",
+      "location": {
+        "name": "Augusta",
+        "lat": 33.3735,
+        "lng": -82.0105
+      },
+      "category": "sport",
+      "significance": 1,
+      "section": "sport"
+    },
+    {
+      "id": "business/2026/apr/06/b-corp-status-standards-overhaul-certification-companies",
+      "headline": "Dozens of firms risk losing B Corp status after standards overhaul",
+      "summary": "B Lab tightens B Corp certification standards, risking dozens of companies.",
+      "url": "https://www.theguardian.com/p/x4k67q",
+      "thumbnail": "https://media.guim.co.uk/88d8c0092cbb8ac22d7b5506aa921ecdcb11d809/828_0_4326_3463/500.jpg",
+      "published": "2026-04-06T13:12:08Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "football/2026/apr/06/mallorcas-pirate-puts-world-cup-playoff-heartbreak-aside-to-stun-real-madrid",
+      "headline": "Mallorca’s Pirate puts Kosovo playoff pain aside to stun Real Madrid ",
+      "summary": "Mallorca's Muriqi scores dramatic late winner against Real Madrid after playoff heartbreak.",
+      "url": "https://www.theguardian.com/p/x4mmep",
+      "thumbnail": "https://media.guim.co.uk/5d6f949c417e433be0463aad0cedfb65f9cc977e/364_0_2500_2000/500.jpg",
+      "published": "2026-04-06T13:06:31Z",
+      "location": {
+        "name": "Palma",
+        "lat": 39.5696,
+        "lng": 2.6502
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
     }
   ]
 }
