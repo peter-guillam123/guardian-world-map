@@ -1,220 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-07T16:18:28.573Z",
-    "story_count": 75,
-    "oldest_story": "2026-04-06T16:29:05Z",
-    "newest_story": "2026-04-07T16:13:30Z",
+    "generated_at": "2026-04-07T19:50:15.884Z",
+    "story_count": 66,
+    "oldest_story": "2026-04-06T19:55:18Z",
+    "newest_story": "2026-04-07T19:49:59Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "us-news/2026/apr/04/buffalo-rohingya-refugee-death-homicide-border-agents",
-      "headline": "‘It broke our home’: family demands answers after death of man abandoned by US border agents",
-      "summary": "Rohingya refugee died after being abandoned by US border agents; death ruled homicide.",
-      "url": "https://www.theguardian.com/p/x4m7py",
-      "thumbnail": "https://media.guim.co.uk/25c54cdad3393b45f3345a0f42d017b6186cfdb4/0_0_1500_1200/500.jpg",
-      "published": "2026-04-06T17:05:35Z",
-      "location": {
-        "name": "Buffalo",
-        "lat": 42.8864,
-        "lng": -78.8784
-      },
-      "category": "health",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/apr/06/ice-agents-detain-wife-of-us-soldier",
-      "headline": "ICE agents reportedly detain wife of US soldier just days after their marriage ",
-      "summary": "ICE agents detain wife of US soldier days after marriage at military base.",
-      "url": "https://www.theguardian.com/p/x4mndx",
-      "thumbnail": "https://media.guim.co.uk/41edeaa292ffbca021a2e5b76901431d039393f2/124_0_1745_1396/500.jpg",
-      "published": "2026-04-06T16:59:23Z",
-      "location": {
-        "name": "Louisiana",
-        "lat": 31.1695,
-        "lng": -91.8749
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "world/2026/apr/06/greek-pm-vows-to-tackle-deep-state-in-wake-of-farm-scandal",
-      "headline": "Greek PM vows to tackle ‘deep state’ in wake of farm fraud scandal",
-      "summary": "Greek PM vows to tackle 'deep state' following farm fraud scandal and minister resignations.",
-      "url": "https://www.theguardian.com/p/x4mndc",
-      "thumbnail": "https://media.guim.co.uk/a15e2d509e7f538a251202435eb70617555906a5/1934_130_2951_2362/500.jpg",
-      "published": "2026-04-06T16:59:10Z",
-      "location": {
-        "name": "Athens",
-        "lat": 37.9838,
-        "lng": 23.7275
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "world/2026/apr/06/the-dream-truck-stop-was-nearly-a-reality",
-      "headline": "The dream truck stop was nearly a reality",
-      "summary": "Letter recalls 1970s proposals for secure truck stop facilities in UK.",
-      "url": "https://www.theguardian.com/p/x4m24x",
-      "thumbnail": "https://media.guim.co.uk/6984779a0df43bf0ecf71ae0a5596cd480fdabfd/850_0_3150_2522/500.jpg",
-      "published": "2026-04-06T16:46:26Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "other",
-      "significance": 1,
-      "section": "world"
-    },
-    {
-      "id": "politics/2026/apr/06/labour-should-hold-a-referendum-on-whether-britain-should-rejoin-the-eu",
-      "headline": "Labour should hold a referendum on whether Britain should rejoin the EU",
-      "summary": "Letter advocates Labour hold EU rejoin referendum for closer UK-EU relations.",
-      "url": "https://www.theguardian.com/p/x4m22y",
-      "thumbnail": "https://media.guim.co.uk/fa4dea6ad0a9e303d08729a8c38ddd875c7e66e0/0_211_3544_2836/500.jpg",
-      "published": "2026-04-06T16:46:21Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "football/2026/apr/06/efl-roundup-lincoln-promoted-to-championship-with-win-at-reading",
-      "headline": "EFL roundup: Lincoln promoted to Championship with win at Reading",
-      "summary": "Lincoln promoted to Championship after 65-year absence with 2-1 win at Reading.",
-      "url": "https://www.theguardian.com/p/x4mnep",
-      "thumbnail": "https://media.guim.co.uk/03caa75fda684e494653493a5da8a781acf9437d/492_0_4891_3913/500.jpg",
-      "published": "2026-04-06T16:46:19Z",
-      "location": {
-        "name": "Lincoln",
-        "lat": 53.2281,
-        "lng": -0.5406
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "world/2026/apr/06/we-need-to-talk-about-population-overshoot",
-      "headline": "We need to talk about population overshoot",
-      "summary": "Opinion letter on population overshoot and eco-aware family planning.",
-      "url": "https://www.theguardian.com/p/x4mxjc",
-      "thumbnail": "https://media.guim.co.uk/df45dfc90c41bced591b2847ae678d14766c495b/342_0_3411_2730/500.jpg",
-      "published": "2026-04-06T16:46:16Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "other",
-      "significance": 1,
-      "section": "world"
-    },
-    {
-      "id": "world/2026/apr/06/is-there-any-need-for-amputee-octopuses",
-      "headline": "Is there any need for amputee octopuses?",
-      "summary": "Brief letters on octopus research, advertising, and social issues.",
-      "url": "https://www.theguardian.com/p/x4mmh7",
-      "thumbnail": "https://media.guim.co.uk/5bea1a816c77963126c4294488b86a884a1deb9e/0_0_3901_3121/500.jpg",
-      "published": "2026-04-06T16:46:12Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "other",
-      "significance": 1,
-      "section": "world"
-    },
-    {
-      "id": "football/2026/apr/06/patrick-agyemang-injury-usmnt-derby-county",
-      "headline": "USMNT striker Patrick Agyemang leaves Derby County game on stretcher",
-      "summary": "USMNT striker Patrick Agyemang injured with ankle problem at Derby County match.",
-      "url": "https://www.theguardian.com/p/x4mnh2",
-      "thumbnail": "https://media.guim.co.uk/5501db09faf673739b6cc1d100cbd4f7d267db08/241_0_1956_1566/500.jpg",
-      "published": "2026-04-06T16:42:44Z",
-      "location": {
-        "name": "Derby",
-        "lat": 52.9199,
-        "lng": -1.4773
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "sport/2026/apr/06/angel-reese-trade-sky-dream-wnba-offseason-free-agency",
-      "headline": "Chicago Sky trade Angel Reese to Atlanta Dream in first major move of WNBA offseason",
-      "summary": "Chicago Sky trade All-Star Angel Reese to Atlanta Dream in WNBA offseason.",
-      "url": "https://www.theguardian.com/p/x4mnf8",
-      "thumbnail": "https://media.guim.co.uk/64602678a809c365c4820626ce275fedb270bc08/174_0_1741_1393/500.jpg",
-      "published": "2026-04-06T16:37:22Z",
-      "location": {
-        "name": "Chicago",
-        "lat": 41.8781,
-        "lng": -87.6298
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "sport/2026/apr/06/horse-welfare-debate-grand-national-unrivalled-status-racing-aintree",
-      "headline": "Horse welfare debate helps highlight Grand National’s unrivalled status",
-      "summary": "Grand National horse welfare debate highlights race's unrivalled cultural status.",
-      "url": "https://www.theguardian.com/p/x4mnc8",
-      "thumbnail": "https://media.guim.co.uk/66f453c013c903b02ba34f7a995d20884794fc79/27_0_4053_3242/500.jpg",
-      "published": "2026-04-06T16:36:36Z",
-      "location": {
-        "name": "Liverpool",
-        "lat": 53.4084,
-        "lng": -2.9916
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "uk-news/2026/apr/06/four-men-arrested-stabbing-peckham-south-east-london",
-      "headline": "Four men arrested on suspicion of murder after stabbing in south London",
-      "summary": "Four men arrested on suspicion of murder after stabbing outside nightclub in Peckham.",
-      "url": "https://www.theguardian.com/p/x4mng9",
-      "thumbnail": "https://media.guim.co.uk/5d2f8d90dbb46d381714b4312ee5de7bbd2eff1c/412_0_4116_3293/500.jpg",
-      "published": "2026-04-06T16:29:25Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "conflict",
-      "significance": 1,
-      "section": "uk-news"
-    },
-    {
-      "id": "us-news/2026/apr/06/arizona-bees-sting-hiker-phoenix",
-      "headline": "Arizona hiker stung more than 100 times by bees left in critical condition",
-      "summary": "Hiker stung over 100 times by bees on Arizona mountain; airlifted in critical condition.",
-      "url": "https://www.theguardian.com/p/x4mn83",
-      "thumbnail": "https://media.guim.co.uk/3a3b942b58687bb3e664586d4d2d0d18439449cb/54_0_2174_1740/500.jpg",
-      "published": "2026-04-06T16:29:05Z",
-      "location": {
-        "name": "Phoenix",
-        "lat": 33.4484,
-        "lng": -112.0742
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "us-news"
-    },
     {
       "id": "football/2026/apr/06/use-that-fuel-mikel-arteta-and-david-raya-urge-arsenal-to-feed-off-cup-losses",
       "headline": "‘Use that fuel’: Mikel Arteta and David Raya urge Arsenal to feed off cup losses",
@@ -230,54 +22,6 @@
       "category": "sport",
       "significance": 2,
       "section": "football"
-    },
-    {
-      "id": "us-news/2026/apr/06/indianapolis-city-council-home-shot-at-data-centers",
-      "headline": "Home of Indianapolis city councilor shot at over his support of datacenters",
-      "summary": "Indianapolis city councilor's home shot at over support for $500m datacenter project.",
-      "url": "https://www.theguardian.com/p/x4mzxt",
-      "thumbnail": "https://media.guim.co.uk/e40d6ec7a2ecb75786fef4b6e7b1bf47cf25be8e/697_0_6973_5584/500.jpg",
-      "published": "2026-04-06T19:14:58Z",
-      "location": {
-        "name": "Indianapolis",
-        "lat": 39.7684,
-        "lng": -86.1581
-      },
-      "category": "conflict",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/apr/06/trump-iranians-strikes-on-infrastructure",
-      "headline": "Trump claims, without proof, Iranians welcome US strikes on infrastructure",
-      "summary": "Trump claims Iranians welcome US infrastructure strikes, dismissing war crime concerns.",
-      "url": "https://www.theguardian.com/p/x4mz4y",
-      "thumbnail": "https://media.guim.co.uk/edc953de0749a0e76b9eb7ea88ef18d67ad3d531/560_0_5600_4480/500.jpg",
-      "published": "2026-04-06T19:11:05Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/apr/06/trump-threats-journalist-missing-airman-iran",
-      "headline": "Trump threatens to jail journalist to find source of second missing airman report",
-      "summary": "Trump threatens to jail journalist for reporting missing airman shot down by Iran.",
-      "url": "https://www.theguardian.com/p/x4mzvv",
-      "thumbnail": "https://media.guim.co.uk/fa45a3c8a63facf7d1db476b3d24f393f485dbc2/457_0_4571_3657/500.jpg",
-      "published": "2026-04-06T19:05:33Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
     },
     {
       "id": "uk-news/2026/apr/06/schools-england-hyper-targeted-help-knife-crime",
@@ -1206,6 +950,118 @@
       "category": "culture",
       "significance": 2,
       "section": "stage"
+    },
+    {
+      "id": "football/live/2026/apr/07/sporting-v-arsenal-champions-league-quarter-final-first-leg-live",
+      "headline": "Sporting v Arsenal: Champions League quarter-final first leg – live",
+      "summary": "Arsenal face Sporting in Champions League quarter-final first leg in Lisbon.",
+      "url": "https://www.theguardian.com/p/x4nv6x",
+      "thumbnail": "https://media.guim.co.uk/e6e13601f99e8de3bec6a8131fcf892d232a14af/825_42_3412_2729/500.jpg",
+      "published": "2026-04-07T19:49:59Z",
+      "location": {
+        "name": "Lisbon",
+        "lat": 38.7223,
+        "lng": -9.1393
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "football/live/2026/apr/07/real-madrid-v-bayern-munich-champions-league-quarter-final-first-leg-live",
+      "headline": "Real Madrid v Bayern Munich: Champions League quarter-final first leg – live",
+      "summary": "Real Madrid host Bayern Munich in Champions League quarter-final at Bernabéu.",
+      "url": "https://www.theguardian.com/p/x4nv74",
+      "thumbnail": "https://media.guim.co.uk/679960c572c134070aa3d30b505cbce05cd715ba/162_79_2764_2211/500.jpg",
+      "published": "2026-04-07T19:45:55Z",
+      "location": {
+        "name": "Madrid",
+        "lat": 40.4168,
+        "lng": -3.7038
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/apr/07/arne-slot-liverpool-champions-league-psg-alexander-isak",
+      "headline": "Slot warns Liverpool cannot afford to switch off in Champions League test at PSG",
+      "summary": "Liverpool manager Slot warns team must avoid switching off in PSG Champions League tie.",
+      "url": "https://www.theguardian.com/p/x4n2jj",
+      "thumbnail": "https://media.guim.co.uk/7bbb561319aedcb21201ccb4fbfce8596bed6fa4/260_0_2932_2346/500.jpg",
+      "published": "2026-04-07T19:36:35Z",
+      "location": {
+        "name": "Paris",
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "world/2026/apr/07/jd-vance-hungary-viktor-orban-election",
+      "headline": "Vance’s whirlwind visit may not help Orbán to the election victory he craves",
+      "summary": "JD Vance visits Hungary amid heated election campaign with Orbán facing possible defeat.",
+      "url": "https://www.theguardian.com/p/x4n2fd",
+      "thumbnail": "https://media.guim.co.uk/111b097351cc9b191bdb4da525570ba23b0e0ff5/549_0_5229_4183/500.jpg",
+      "published": "2026-04-07T19:28:54Z",
+      "location": {
+        "name": "Budapest",
+        "lat": 47.4979,
+        "lng": 19.0402
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "uk-news/2026/apr/07/commonwealth-leaders-vow-to-keep-seeking-reparations-after-reform-uk-plan-to-halt-visas",
+      "headline": "Commonwealth leaders vow to keep seeking reparations after Reform UK plan to halt visas",
+      "summary": "Commonwealth leaders vow to pursue reparations despite Reform UK's threat to halt visas.",
+      "url": "https://www.theguardian.com/p/x4nxnm",
+      "thumbnail": "https://media.guim.co.uk/1c9493448496ff0cad11992751789ec29d215de6/417_0_4167_3334/500.jpg",
+      "published": "2026-04-07T19:26:05Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "politics/2026/apr/07/antonia-romeo-handed-powerful-mandate-to-deliver-no-10s-priorities",
+      "headline": "Antonia Romeo handed powerful mandate to deliver No 10’s priorities",
+      "summary": "Antonia Romeo given mandate to deliver PM's civil service reform priorities.",
+      "url": "https://www.theguardian.com/p/x4nxtq",
+      "thumbnail": "https://media.guim.co.uk/381f5b016eabf59928e51e4cbadea3a60ecabadc/976_186_1525_1221/500.jpg",
+      "published": "2026-04-07T19:15:58Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "uk-news/2026/apr/07/hms-dragon-docks-in-eastern-mediterranean-after-issues-with-water-systems",
+      "headline": "HMS Dragon docks in eastern Mediterranean after problems with water systems",
+      "summary": "HMS Dragon docks in eastern Mediterranean after water system problems near RAF Akrotiri.",
+      "url": "https://www.theguardian.com/p/x4n2hb",
+      "thumbnail": "https://media.guim.co.uk/ef37288bc2eff062940eb0100979d131ca6a0b6e/358_0_3970_3175/500.jpg",
+      "published": "2026-04-07T19:04:03Z",
+      "location": {
+        "name": "Cyprus",
+        "lat": 35.1264,
+        "lng": 33.4299
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "uk-news"
     }
   ]
 }
