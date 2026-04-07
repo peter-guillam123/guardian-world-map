@@ -1,108 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-07T19:50:15.884Z",
-    "story_count": 66,
-    "oldest_story": "2026-04-06T19:55:18Z",
-    "newest_story": "2026-04-07T19:49:59Z",
+    "generated_at": "2026-04-07T22:01:40.805Z",
+    "story_count": 67,
+    "oldest_story": "2026-04-06T22:55:59Z",
+    "newest_story": "2026-04-07T21:58:30Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/2026/apr/06/use-that-fuel-mikel-arteta-and-david-raya-urge-arsenal-to-feed-off-cup-losses",
-      "headline": "‘Use that fuel’: Mikel Arteta and David Raya urge Arsenal to feed off cup losses",
-      "summary": "Arsenal faces Sporting in Champions League quarter-final first leg after recent cup losses.",
-      "url": "https://www.theguardian.com/p/x4mzaa",
-      "thumbnail": "https://media.guim.co.uk/876b3df3244fe35b84bff3fa9f2532f74d8466b6/78_0_4302_3442/500.jpg",
-      "published": "2026-04-06T19:55:18Z",
-      "location": {
-        "name": "Lisbon",
-        "lat": 38.7223,
-        "lng": -9.1393
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "uk-news/2026/apr/06/schools-england-hyper-targeted-help-knife-crime",
-      "headline": "Hyper-targeted scheme to help at-risk schools in England tackle knife crime",
-      "summary": "Home Office launches £1.2m scheme using mapping tech to help 250 schools tackle knife crime.",
-      "url": "https://www.theguardian.com/p/x4mn56",
-      "thumbnail": "https://media.guim.co.uk/ae45e4e34ea7abf1467618bcc27162de03c3b70e/571_0_4521_3617/500.jpg",
-      "published": "2026-04-06T21:30:30Z",
-      "location": {
-        "name": "England",
-        "lat": 52.3555,
-        "lng": -1.1743
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "us-news/2026/apr/06/california-sixth-person-bitten-rattlesnake",
-      "headline": "California county records sixth person bitten by rattlesnake in under a month",
-      "summary": "Sixth rattlesnake bite reported in Ventura County in under a month; two fatalities this year.",
-      "url": "https://www.theguardian.com/p/x4mz6j",
-      "thumbnail": "https://media.guim.co.uk/24401e0325c91a7b4bae8505a0d9bb009d6c9958/292_0_4415_3533/500.jpg",
-      "published": "2026-04-06T21:24:02Z",
-      "location": {
-        "name": "Ventura County",
-        "lat": 34.2805,
-        "lng": -119.2945
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "music/2026/apr/06/wireless-festival-says-kayne-west-still-due-to-perform-despite-calls-for-ban",
-      "headline": "Wireless festival promoter stands by decision to have Kanye West perform",
-      "summary": "Wireless festival promoter confirms Kanye West will perform despite antisemitism controversy.",
-      "url": "https://www.theguardian.com/p/x4mzeb",
-      "thumbnail": "https://media.guim.co.uk/f94a522540a864865f864238c1790c6f39b9d852/43_0_1746_1397/500.jpg",
-      "published": "2026-04-06T21:13:46Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "music"
-    },
-    {
-      "id": "australia-news/2026/apr/07/morning-mail-tuesday-ntwnfb",
-      "headline": "Morning Mail: ‘scam’ empire links alleged in Timor-Leste, Trump says Iran could be ‘taken out tomorrow night’",
-      "summary": "Guardian investigation reveals links between alleged scam empire and Timor-Leste resort development.",
-      "url": "https://www.theguardian.com/p/x4myqf",
-      "thumbnail": "https://media.guim.co.uk/b9b74a1eb1b79534e648c3de41015ec3a50b7da3/0_739_4000_3200/500.jpg",
-      "published": "2026-04-06T21:06:11Z",
-      "location": {
-        "name": "Timor-Leste",
-        "lat": -8.8383,
-        "lng": 125.9181
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "us-news/2026/apr/06/bald-eagle-chicks-hatching-california-livestream",
-      "headline": "Hatchings of two California bald eagle chicks delight vast livestream audience",
-      "summary": "Two bald eagle chicks hatch in San Bernardino National Forest, watched by thousands online.",
-      "url": "https://www.theguardian.com/p/x4mnpx",
-      "thumbnail": "https://media.guim.co.uk/83f02045449e3036406eedb80e3e5916a6de7fcb/570_0_2700_2160/500.jpg",
-      "published": "2026-04-06T20:53:00Z",
-      "location": {
-        "name": "Big Bear Valley",
-        "lat": 34.2472,
-        "lng": -116.8975
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "us-news"
-    },
     {
       "id": "sport/live/2026/apr/06/ncaa-mens-national-championship-uconn-michigan-live-score",
       "headline": "NCAA men’s national championship: UConn v Michigan – live updates",
@@ -1062,6 +966,118 @@
       "category": "politics",
       "significance": 2,
       "section": "uk-news"
+    },
+    {
+      "id": "australia-news/live/2026/apr/08/ben-roberts-smith-court-anthony-albanese-labor-angus-taylor-matt-canavan-liberal-national-coalition-fuel-prices-oil-crisis-iran-war-ntwnfb",
+      "headline": "Australia news live: Canavan says Trump’s threats have ‘gotten out of hand’; Ben Roberts-Smith to front court",
+      "summary": "Australian PM brings forward Singapore trip amid fuel crisis; former soldier faces war crime charges.",
+      "url": "https://www.theguardian.com/p/x4nvjn",
+      "thumbnail": "https://media.guim.co.uk/9933852909df35ac8d7057818aedc13140c4e6e3/203_0_6880_5504/500.jpg",
+      "published": "2026-04-07T21:58:30Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "us-news/2026/apr/07/trump-iran-threat-truth-social",
+      "headline": "Democrats outraged at Trump’s Iran post: ‘A threat to commit a war crime’",
+      "summary": "Trump threatens to annihilate Iran if strait of Hormuz not reopened by deadline.",
+      "url": "https://www.theguardian.com/p/x4nxfy",
+      "thumbnail": "https://media.guim.co.uk/a768c826b799cb44eb93462d9fc62d1192a4f63e/835_0_4165_3333/500.jpg",
+      "published": "2026-04-07T21:56:56Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/apr/07/us-soldier-wife-ice-arrest",
+      "headline": "US soldier’s wife released after arrest by ICE agents at military base",
+      "summary": "US soldier's Honduran wife released after ICE arrest at military base.",
+      "url": "https://www.theguardian.com/p/x4n382",
+      "thumbnail": "https://media.guim.co.uk/b9e318adb4a100e9279100210707b6dd4c73dd82/192_0_1916_1533/500.jpg",
+      "published": "2026-04-07T21:30:47Z",
+      "location": {
+        "name": "Louisiana",
+        "lat": 31.1695,
+        "lng": -91.8749
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/apr/07/real-madrid-bayern-munich-champions-league-quarter-final-first-leg-match-report",
+      "headline": "Harry Kane gives Bayern Munich edge despite Real Madrid fightback in thriller",
+      "summary": "Bayern Munich defeats Real Madrid 2-1 in Champions League quarter-final first leg.",
+      "url": "https://www.theguardian.com/p/x4nx7k",
+      "thumbnail": "https://media.guim.co.uk/fc9153cd43a993aa3ec5ab6f7b543f3c994d1407/371_0_3744_2995/500.jpg",
+      "published": "2026-04-07T21:12:18Z",
+      "location": {
+        "name": "Madrid",
+        "lat": 40.4168,
+        "lng": -3.7038
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/apr/07/sporting-arsenal-champions-league-quarter-final-first-leg-match-report",
+      "headline": "Kai Havertz snatches late victory for Arsenal to take control against Sporting",
+      "summary": "Arsenal wins 1-0 at Sporting with Havertz 91st-minute goal in Champions League quarter-final.",
+      "url": "https://www.theguardian.com/p/x4nx85",
+      "thumbnail": "https://media.guim.co.uk/62c0a605e1efe9c6a54fad7c5d2fd82d399d1ec6/186_0_3371_2696/500.jpg",
+      "published": "2026-04-07T21:06:43Z",
+      "location": {
+        "name": "Lisbon",
+        "lat": 38.7223,
+        "lng": -9.1393
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/apr/07/chad-bianco-sheriff-california-ballot-seizure-prop-50",
+      "headline": "‘A blatant political ploy’: California sheriff’s seizure of referendum ballots sets off alarm bells",
+      "summary": "California sheriff seizes 650,000 referendum ballots, raising electoral integrity concerns.",
+      "url": "https://www.theguardian.com/p/x4n2j4",
+      "thumbnail": "https://media.guim.co.uk/22e35f7575e672e9f6a6f716aeabacbd1dc65cb2/333_0_3333_2667/500.jpg",
+      "published": "2026-04-07T21:05:06Z",
+      "location": {
+        "name": "Riverside",
+        "lat": 33.9826,
+        "lng": -117.2964
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "australia-news/2026/apr/08/morning-mail-wednesday-ntwnfb",
+      "headline": "Morning Mail: Trump’s countdown to destruction, Greens champion ‘progressive populism’, Kanye West banned from UK",
+      "summary": "Trump's Iran ultimatum deadline looms as world awaits response to annihilation threat.",
+      "url": "https://www.theguardian.com/p/x4nvf5",
+      "thumbnail": "https://media.guim.co.uk/93ce467678b868cc678cce928ff76bffa3160116/12_0_2124_1700/500.jpg",
+      "published": "2026-04-07T20:57:43Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "australia-news"
     }
   ]
 }
