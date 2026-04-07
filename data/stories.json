@@ -1,156 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-07T12:09:49.247Z",
-    "story_count": 72,
-    "oldest_story": "2026-04-06T13:06:31Z",
-    "newest_story": "2026-04-07T12:09:10Z",
+    "generated_at": "2026-04-07T16:18:28.573Z",
+    "story_count": 75,
+    "oldest_story": "2026-04-06T16:29:05Z",
+    "newest_story": "2026-04-07T16:13:30Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "world/2026/apr/06/proposals-for-immediate-ceasefire-us-israel-iran-war",
-      "headline": "Proposals for immediate ceasefire to halt war circulated to US and Iran",
-      "summary": "Mediators circulate ceasefire proposals to US and Iran to halt five-week-old war.",
-      "url": "https://www.theguardian.com/p/x4mmdh",
-      "thumbnail": "https://media.guim.co.uk/a4ce1ed4367472d81df4fa6324df3ee16e0cdac3/500_0_5000_4000/500.jpg",
-      "published": "2026-04-06T14:15:32Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "us-news/2026/apr/06/republicans-ai-image-us-plane-member-rescue-iran",
-      "headline": "Republicans fooled by AI-generated image of US crew member rescued in Iran",
-      "summary": "Republican politicians duped by AI-generated image of US crew rescued in Iran.",
-      "url": "https://www.theguardian.com/p/x4mmt7",
-      "thumbnail": "https://media.guim.co.uk/00b92c69c441a2d1e799e39b14dcbdeb830ed260/0_0_1500_1200/500.jpg",
-      "published": "2026-04-06T14:03:43Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "science/2026/apr/06/labs-testing-thousands-of-unregulated-substances-amid-peptide-craze",
-      "headline": "‘Traceability is vital’: labs test thousands of unregulated substances amid peptide craze",
-      "summary": "UK labs test thousands of unregulated peptides as weight-loss drug craze explodes.",
-      "url": "https://www.theguardian.com/p/x4j6ck",
-      "thumbnail": "https://media.guim.co.uk/54634c0e58256b179028a5ddb0397324ca725bba/46_0_6632_5304/500.jpg",
-      "published": "2026-04-06T13:59:33Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "science"
-    },
-    {
-      "id": "us-news/2026/apr/06/polymarket-criticized-bets-us-jet-shot-by-iran",
-      "headline": "Polymarket criticized over ‘disgusting’ bets on fate of pilots on US jet shot by Iran",
-      "summary": "Polymarket stops accepting bets on fate of US pilots shot down by Iran.",
-      "url": "https://www.theguardian.com/p/x4mmm7",
-      "thumbnail": "https://media.guim.co.uk/ce270d27341cd4286aaad1c26af16e1b99eaf892/307_0_3154_2524/500.jpg",
-      "published": "2026-04-06T13:39:59Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "commentisfree/2026/apr/06/do-we-really-need-truncheons-and-pepper-spray-to-fight-off-londons-feral-teenage-shoplifters",
-      "headline": "Do we really need truncheons and pepper spray to fight off London’s ‘feral’ teenage shoplifters?",
-      "summary": "Opinion on London shoplifting incidents raises questions about response tactics.",
-      "url": "https://www.theguardian.com/p/x4mmcg",
-      "thumbnail": "https://media.guim.co.uk/2004b0f038280c0b29107c997023da98bdde90c8/0_40_1145_916/500.jpg",
-      "published": "2026-04-06T13:34:39Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 1,
-      "section": "commentisfree"
-    },
-    {
-      "id": "us-news/live/2026/apr/06/trump-iran-war-congress-us-politics-live",
-      "headline": "Trump to hold press conference on Iran war after profanity-laden threats on social media – US politics live",
-      "summary": "Trump holds press conference on Iran war after threats over Strait of Hormuz closure.",
-      "url": "https://www.theguardian.com/p/x4mmc7",
-      "thumbnail": "https://media.guim.co.uk/cb884df24d69c2badcd414d247000442c6097d28/616_0_4386_3509/500.jpg",
-      "published": "2026-04-06T13:30:37Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "us-news"
-    },
-    {
-      "id": "sport/2026/apr/06/retirement-gnome-masters-miniatures-rumoured-to-have-short-future-at-augusta-golf",
-      "headline": "Retirement gnome? Masters miniatures rumoured to have short future at Augusta",
-      "summary": "Masters gnomes rumored to end production after decade as Augusta National collectibles.",
-      "url": "https://www.theguardian.com/p/x4mmtg",
-      "thumbnail": "https://media.guim.co.uk/f9cf05c97e501d79a8f3dca4be0e447b9f98ccf6/564_0_5000_4000/500.jpg",
-      "published": "2026-04-06T13:28:42Z",
-      "location": {
-        "name": "Augusta",
-        "lat": 33.3735,
-        "lng": -82.0105
-      },
-      "category": "sport",
-      "significance": 1,
-      "section": "sport"
-    },
-    {
-      "id": "business/2026/apr/06/b-corp-status-standards-overhaul-certification-companies",
-      "headline": "Dozens of firms risk losing B Corp status after standards overhaul",
-      "summary": "B Lab tightens B Corp certification standards, risking dozens of companies.",
-      "url": "https://www.theguardian.com/p/x4k67q",
-      "thumbnail": "https://media.guim.co.uk/88d8c0092cbb8ac22d7b5506aa921ecdcb11d809/828_0_4326_3463/500.jpg",
-      "published": "2026-04-06T13:12:08Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "football/2026/apr/06/mallorcas-pirate-puts-world-cup-playoff-heartbreak-aside-to-stun-real-madrid",
-      "headline": "Mallorca’s Pirate puts Kosovo playoff pain aside to stun Real Madrid ",
-      "summary": "Mallorca's Muriqi scores dramatic late winner against Real Madrid after playoff heartbreak.",
-      "url": "https://www.theguardian.com/p/x4mmep",
-      "thumbnail": "https://media.guim.co.uk/5d6f949c417e433be0463aad0cedfb65f9cc977e/364_0_2500_2000/500.jpg",
-      "published": "2026-04-06T13:06:31Z",
-      "location": {
-        "name": "Palma",
-        "lat": 39.5696,
-        "lng": 2.6502
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
     {
       "id": "us-news/2026/apr/04/buffalo-rohingya-refugee-death-homicide-border-agents",
       "headline": "‘It broke our home’: family demands answers after death of man abandoned by US border agents",
@@ -358,22 +214,6 @@
       "category": "health",
       "significance": 2,
       "section": "us-news"
-    },
-    {
-      "id": "football/2026/apr/06/ipswich-birmingham-chanpionship-match-report",
-      "headline": "Kasey McAteer seals controversial win over Birmingham to lift Ipswich up to second",
-      "summary": "Ipswich beats Birmingham 2-1 in Championship match, moves to second place.",
-      "url": "https://www.theguardian.com/p/x4mmem",
-      "thumbnail": "https://media.guim.co.uk/5184ed61aeda2383890097f7a75071e0bad43c76/458_607_2466_1973/500.jpg",
-      "published": "2026-04-06T16:12:43Z",
-      "location": {
-        "name": "Ipswich",
-        "lat": 52.0534,
-        "lng": 1.1442
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
     },
     {
       "id": "football/2026/apr/06/use-that-fuel-mikel-arteta-and-david-raya-urge-arsenal-to-feed-off-cup-losses",
@@ -1158,6 +998,214 @@
       "category": "conflict",
       "significance": 4,
       "section": "sport"
+    },
+    {
+      "id": "football/2026/apr/07/arne-slot-liverpool-psg-football-daily-newsletter",
+      "headline": "The curious case of Arne Slot’s Paris romance and Liverpool’s slump",
+      "summary": "Arne Slot reflects on Liverpool's emotional penalty loss to PSG in March 2025.",
+      "url": "https://www.theguardian.com/p/x4mn28",
+      "thumbnail": "https://media.guim.co.uk/b0bba136e8233e8484a5ef7c12138818f511265c/568_0_4126_3301/500.jpg",
+      "published": "2026-04-07T16:13:30Z",
+      "location": {
+        "name": "Liverpool",
+        "lat": 53.4084,
+        "lng": -2.9916
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "world/2026/apr/07/cambodian-man-pheap-rom-deported-us-eswatini",
+      "headline": "‘We still deserve due process,’ says Cambodian man deported by US to Eswatini ",
+      "summary": "Cambodian deportee Pheap Rom imprisoned in Eswatini after US deportation despite completing sentence.",
+      "url": "https://www.theguardian.com/p/x4nxbm",
+      "thumbnail": "https://media.guim.co.uk/f95b855cb843df04c2fac27818b991f2b57e5ac4/578_118_4851_3881/500.jpg",
+      "published": "2026-04-07T16:13:07Z",
+      "location": {
+        "name": "Eswatini",
+        "lat": -26.5225,
+        "lng": 31.4659
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "business/2026/apr/07/universal-music-group-takeover-offer-bill-ackman-pershing-square",
+      "headline": "Universal Music, home to Taylor Swift and Drake, receives €55bn takeover offer",
+      "summary": "Bill Ackman's Pershing Square offers €55bn to acquire Universal Music Group.",
+      "url": "https://www.theguardian.com/p/x4mqy9",
+      "thumbnail": "https://media.guim.co.uk/8b79eda14305b5f09d4e78de5a39dc7fcf61432c/408_0_2656_2126/500.jpg",
+      "published": "2026-04-07T16:07:58Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "business"
+    },
+    {
+      "id": "music/2026/apr/07/rapper-offset-hospitalised-shot-outside-florida-casino",
+      "headline": "Rapper Offset hospitalised after being shot outside Florida casino",
+      "summary": "Rapper Offset hospitalized in stable condition after shooting outside Florida casino.",
+      "url": "https://www.theguardian.com/p/x4mq8a",
+      "thumbnail": "https://media.guim.co.uk/a21994c21ba74aa83c127e5b13b184e9346f8d92/316_0_3280_2624/500.jpg",
+      "published": "2026-04-07T16:04:38Z",
+      "location": {
+        "name": "Miami",
+        "lat": 25.7617,
+        "lng": -80.1918
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "music"
+    },
+    {
+      "id": "stage/2026/apr/07/letter-jane-lapotaire-obituary",
+      "headline": "Letter: Jane Lapotaire obituary",
+      "summary": "Letter recalls actress Jane Lapotaire's collapse at Paris school in 2000.",
+      "url": "https://www.theguardian.com/p/x4n229",
+      "thumbnail": "https://media.guim.co.uk/c50c0fe6662af23161479fbf2807b2b7f2581046/0_115_1960_1568/500.jpg",
+      "published": "2026-04-07T15:52:10Z",
+      "location": {
+        "name": "Paris",
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "stage"
+    },
+    {
+      "id": "us-news/2026/apr/07/human-skull-found-near-los-angeles-easter",
+      "headline": "Human skull discovered during Easter egg hunt near Los Angeles",
+      "summary": "Human skull discovered during Easter egg hunt at Long Beach park.",
+      "url": "https://www.theguardian.com/p/x4nxnq",
+      "thumbnail": "https://media.guim.co.uk/dacbc656f02b7ec794f065fa02b2dbf834e7e5d1/672_519_3452_2761/500.jpg",
+      "published": "2026-04-07T15:49:04Z",
+      "location": {
+        "name": "Long Beach",
+        "lat": 33.7701,
+        "lng": -118.1937
+      },
+      "category": "other",
+      "significance": 1,
+      "section": "us-news"
+    },
+    {
+      "id": "world/2026/apr/07/jd-vance-eu-interference-hungary-election-viktor-orban",
+      "headline": "JD Vance accuses EU of ‘interference’ as he visits Hungary to help Orbán win election",
+      "summary": "JD Vance visits Hungary to support Orbán's election, accuses EU of interference.",
+      "url": "https://www.theguardian.com/p/x4nxme",
+      "thumbnail": "https://media.guim.co.uk/cdc2702fb6e6cc0dc24e97371d5fdbeea5014910/320_0_2792_2233/500.jpg",
+      "published": "2026-04-07T15:43:19Z",
+      "location": {
+        "name": "Budapest",
+        "lat": 47.4979,
+        "lng": 19.0402
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "politics/2026/apr/07/reform-farage-cold-calling-public-paper-candidates-local-elections",
+      "headline": "Reform cold calling public in bid to find ‘paper’ candidates for local elections",
+      "summary": "Reform UK cold-calls public seeking 'paper' candidates for local elections.",
+      "url": "https://www.theguardian.com/p/x4nx6v",
+      "thumbnail": "https://media.guim.co.uk/3b741e225adef1cc747f2cfc4ffd3b58dade14b1/0_0_4440_3553/500.jpg",
+      "published": "2026-04-07T15:41:28Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "money/2026/apr/07/what-interest-rate-cap-uk-student-loans-means-graduates",
+      "headline": "What the interest rate cap on student loans means for graduates ",
+      "summary": "UK government caps student loan interest rates at 6% from September.",
+      "url": "https://www.theguardian.com/p/x4nx5c",
+      "thumbnail": "https://media.guim.co.uk/dd26decf5a026dc5c1c5514cba6cd44fdd74344f/941_394_4298_3439/500.jpg",
+      "published": "2026-04-07T15:39:58Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "money"
+    },
+    {
+      "id": "music/2026/apr/07/home-office-bans-kanye-west-from-entering-uk-wireless-festival",
+      "headline": "Wireless festival cancelled after Kanye West banned from entering UK",
+      "summary": "Wireless festival cancelled after Home Office bans Kanye West from UK.",
+      "url": "https://www.theguardian.com/p/x4nv65",
+      "thumbnail": "https://media.guim.co.uk/9b8ce9e85a40333fea6370447815e73b4e3550b2/505_143_2548_2038/500.jpg",
+      "published": "2026-04-07T15:37:11Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "music"
+    },
+    {
+      "id": "artanddesign/2026/apr/07/destroyed-aircraft-helicopter-plane-us-mission-iran-picture-essay",
+      "headline": "Aftermath of a rescue: wreckage of aircraft at site of US mission in Iran",
+      "summary": "US aircraft destroyed at Isfahan airstrip during ongoing US-Israeli operations in Iran.",
+      "url": "https://www.theguardian.com/p/x4nxxa",
+      "thumbnail": "https://media.guim.co.uk/cacfb20a01e5807ccbc46a1063fa4e22923debd9/158_0_2132_1706/500.jpg",
+      "published": "2026-04-07T15:36:43Z",
+      "location": {
+        "name": "Isfahan",
+        "lat": 32.6672,
+        "lng": 51.6693
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "artanddesign"
+    },
+    {
+      "id": "culture/2026/apr/07/jimmy-kimmel-trump-iran-posts",
+      "headline": "Jimmy Kimmel on Trump’s posts: ‘The only president who teases a bombing the same way ABC promotes episodes’",
+      "summary": "Late-night hosts mock Trump's Iran posts and controversial White House Easter egg roll.",
+      "url": "https://www.theguardian.com/p/x4nxdc",
+      "thumbnail": "https://media.guim.co.uk/fef13e2d1a1e1f2da82af17803b48cb1ff48b458/353_104_1992_1594/500.jpg",
+      "published": "2026-04-07T15:30:59Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "culture"
+    },
+    {
+      "id": "stage/2026/apr/07/circus-the-greatest-showman-stage-spectacular-pt-barnum",
+      "headline": "Oh what a circus! The Greatest Showman hits the stage as a high-flying, hammer-juggling, banger-filled spectacular",
+      "summary": "Disney's Greatest Showman stage musical launches in Bristol with high-flying spectacle.",
+      "url": "https://www.theguardian.com/p/x4hthp",
+      "thumbnail": "https://media.guim.co.uk/6737667a098504176c7ea8afdd964f8d16b9614a/433_0_4070_3255/500.jpg",
+      "published": "2026-04-07T15:11:45Z",
+      "location": {
+        "name": "Bristol",
+        "lat": 51.4545,
+        "lng": -2.5879
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "stage"
     }
   ]
 }
