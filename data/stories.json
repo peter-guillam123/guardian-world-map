@@ -1,124 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-06T23:54:01.055Z",
-    "story_count": 52,
-    "oldest_story": "2026-04-06T05:31:51Z",
-    "newest_story": "2026-04-06T23:50:33Z",
+    "generated_at": "2026-04-07T06:00:33.823Z",
+    "story_count": 55,
+    "oldest_story": "2026-04-06T10:00:16Z",
+    "newest_story": "2026-04-07T05:59:04Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "money/2026/apr/06/valid-euro-car-parks-ticket-holders-chased-by-debt-collectors",
-      "headline": "Valid Euro Car Parks ticket holders chased by debt collectors",
-      "summary": "Euro Car Parks issues false fines to valid ticket holders, pursuing debt collection.",
-      "url": "https://www.theguardian.com/p/x4h7cj",
-      "thumbnail": "https://media.guim.co.uk/26d13834d5f28e043af955cbc956b9535fbf741e/561_0_5600_4480/500.jpg",
-      "published": "2026-04-06T06:00:13Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "money"
-    },
-    {
-      "id": "film/2026/apr/06/house-of-gloss-review-tender-portrait-of-a-young-trans-couple-finding-refuge-in-new-kind-of-famil7",
-      "headline": "House of Gloss review – tender portrait of a young trans couple finding refuge in new kind of family",
-      "summary": "Documentary portrait of young trans couple in Dundee finding refuge and love together.",
-      "url": "https://www.theguardian.com/p/x4m5cd",
-      "thumbnail": "https://media.guim.co.uk/4978ecf4fa509fc8196dd94b6b3b82c431710101/99_0_2700_2160/500.jpg",
-      "published": "2026-04-06T06:00:12Z",
-      "location": {
-        "name": "Dundee",
-        "lat": 56.4627,
-        "lng": -3.5236
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "film"
-    },
-    {
-      "id": "global-development/2026/apr/06/investigation-exposed-child-sex-trafficking-on-facebook-and-instagram-meta",
-      "headline": "‘It started with a tip-off’: how a Guardian investigation exposed child sex trafficking on Facebook and Instagram",
-      "summary": "Guardian investigation exposed child sex trafficking on Meta platforms in legal battle.",
-      "url": "https://www.theguardian.com/p/x4yhpj",
-      "thumbnail": "https://media.guim.co.uk/2148c9a203939e2843ffeb03397ee7f60d853f40/1141_0_4002_3203/500.jpg",
-      "published": "2026-04-06T06:00:12Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "tech",
-      "significance": 3,
-      "section": "global-development"
-    },
-    {
-      "id": "society/2026/apr/06/people-living-with-incontinence-face-shortage-of-sanitary-pads-as-nhs-limits-supplies",
-      "headline": "People living with incontinence face shortage of sanitary pads as NHS limits supplies",
-      "summary": "NHS trusts ration incontinence pads, forcing patients to pay for products themselves.",
-      "url": "https://www.theguardian.com/p/x4mv6x",
-      "thumbnail": "https://media.guim.co.uk/ddcbd9bdeed5968d853123a38e078da0ee9a5c64/566_138_1550_1240/500.png",
-      "published": "2026-04-06T06:00:12Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "society"
-    },
-    {
-      "id": "world/live/2026/apr/06/iran-war-live-updates-trump-hormuz-oil-netanyahu-israel",
-      "headline": "Middle East crisis live: Tehran warns Trump over strait of Hormuz threat; Netanyahu suggests Israel helped rescue downed US crew member",
-      "summary": "Iran warns Trump over Strait of Hormuz threat amid escalating Middle East tensions.",
-      "url": "https://www.theguardian.com/p/x4mkxg",
-      "thumbnail": "https://media.guim.co.uk/18351417600e32447cb86b1901fd03f2f4e7032d/432_0_4320_3456/500.jpg",
-      "published": "2026-04-06T05:53:56Z",
-      "location": {
-        "name": "Tehran",
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "travel/2026/apr/06/10-fun-and-fabulous-reasons-to-visit-france-in-2026",
-      "headline": "From volcanic wilds to world-class art: 10 fun and fabulous reasons to visit France in 2026",
-      "summary": "France offers attractions including Dragon de Calais mechanical beast and impressionist art.",
-      "url": "https://www.theguardian.com/p/x4txn3",
-      "thumbnail": "https://media.guim.co.uk/cb0c461425553b0453a9215dff2bc7299f3045b2/425_0_4250_3400/500.jpg",
-      "published": "2026-04-06T05:45:11Z",
-      "location": {
-        "name": "Calais",
-        "lat": 50.9581,
-        "lng": 1.8625
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "travel"
-    },
-    {
-      "id": "sport/2026/apr/06/shacarri-richardson-wins-2026-stawell-gift-sprint",
-      "headline": "US sprint star Sha’Carri Richardson wins 2026 Stawell Gift off scratch in thrilling finish",
-      "summary": "Sha'Carri Richardson wins 2026 Stawell Gift sprint in thrilling finish off scratch.",
-      "url": "https://www.theguardian.com/p/x4mjzn",
-      "thumbnail": "https://media.guim.co.uk/776f05338ce8a67e32e24d7f963b765cc18528bf/941_0_2889_2312/500.jpg",
-      "published": "2026-04-06T05:31:51Z",
-      "location": {
-        "name": "Stawell",
-        "lat": -37.3555,
-        "lng": 142.7765
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
     {
       "id": "football/live/2026/apr/06/championship-womens-fa-cup-efl-updates-and-more-football-live",
       "headline": "Championship, Chelsea v Tottenham in Women’s FA Cup, and more: football – live",
@@ -838,6 +726,166 @@
       "category": "politics",
       "significance": 2,
       "section": "us-news"
+    },
+    {
+      "id": "australia-news/live/2026/apr/07/australia-news-live-cyclone-maila-threat-queensland-road-toll-trump-iran-ntwnfb",
+      "headline": "News live: Albanese to visit Singapore to shore up fuel supply; Australians buy record number of new EVs in March",
+      "summary": "Albanese visits Singapore on fuel supply; record EV sales in March Australia.",
+      "url": "https://www.theguardian.com/p/x4mn2j",
+      "thumbnail": "https://media.guim.co.uk/6baa597d8c2571de378a6bd92e77aa0ccc920b48/614_0_6143_4915/500.jpg",
+      "published": "2026-04-07T05:59:04Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "world/live/2026/apr/07/iran-war-live-updates-trump-hormuz-threats-deadline-strikes-middle-east-conflict",
+      "headline": "Middle East crisis live: Israel threatens entire Iran train network; Trump says he is ‘not at all’ worried about possible war crimes",
+      "summary": "Israel threatens Iran's entire train network; war ceasefire talks falter before Trump deadline.",
+      "url": "https://www.theguardian.com/p/x4mp9k",
+      "thumbnail": "https://media.guim.co.uk/91689b55661317adc2f4f5e700794ab80a339c41/686_0_5600_4480/500.jpg",
+      "published": "2026-04-07T05:57:33Z",
+      "location": {
+        "name": "Tehran",
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "uk-news/2026/apr/07/children-uk-report-online-sextortion-attempts-record-numbers",
+      "headline": "Children in UK report online sextortion attempts in record numbers ",
+      "summary": "UK children report record sextortion attempts; calls for nudity-detection tech on phones.",
+      "url": "https://www.theguardian.com/p/x4yhvv",
+      "thumbnail": "https://media.guim.co.uk/3ce8fab540ec44e498e0123db92129f03a407d11/910_704_2960_2368/500.jpg",
+      "published": "2026-04-07T05:00:41Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "society/2026/apr/07/resident-doctors-england-speciality-training-posts-strike-bma",
+      "headline": "‘It’s heartbreaking’: resident doctors in England face halt on new training posts",
+      "summary": "Resident doctors in England face halt on training posts amid strike deadlock.",
+      "url": "https://www.theguardian.com/p/x4m6cm",
+      "thumbnail": "https://media.guim.co.uk/ad72171725822c2ac391fd1809e06ed291b4bb4c/1003_728_4760_3808/500.jpg",
+      "published": "2026-04-07T05:00:41Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "society"
+    },
+    {
+      "id": "music/2026/apr/07/some-might-pay-noel-gallagher-guitar-used-to-write-oasiss-second-album-to-be-auctioned",
+      "headline": "Some might pay: Noel Gallagher guitar used to write Oasis’s second album to be auctioned",
+      "summary": "Noel Gallagher's Oasis guitar expected to fetch £60,000 at Sotheby's auction.",
+      "url": "https://www.theguardian.com/p/x4m7x4",
+      "thumbnail": "https://media.guim.co.uk/8f2de02bc57b3a99d1974ce10f22f0fb3792b088/243_0_5098_4080/500.jpg",
+      "published": "2026-04-07T05:00:40Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "music"
+    },
+    {
+      "id": "money/2026/apr/07/calls-grow-for-government-to-automatically-release-child-trust-funds-at-21",
+      "headline": "Calls grow for government to automatically release child trust funds at 21",
+      "summary": "Government urged to auto-release child trust funds at 21; £1.5bn unclaimed.",
+      "url": "https://www.theguardian.com/p/x4h8xf",
+      "thumbnail": "https://media.guim.co.uk/3f39dbfb906a76c5b5c842f649096ca8419e1a86/807_0_6827_5464/500.jpg",
+      "published": "2026-04-07T05:00:40Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "money"
+    },
+    {
+      "id": "politics/2026/apr/07/nationalist-wins-uk-celtic-nations-may-elections",
+      "headline": "‘Seismic change’: how election wins for nationalists in Celtic nations could reshape UK",
+      "summary": "Nationalist parties expected to control Scotland, Wales, Northern Ireland after May elections.",
+      "url": "https://www.theguardian.com/p/x4m7d3",
+      "thumbnail": "https://media.guim.co.uk/fd0cc7d0429c247f77dc67aac698546fe0b289cd/687_0_6840_5475/500.jpg",
+      "published": "2026-04-07T05:00:40Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "politics"
+    },
+    {
+      "id": "environment/2026/apr/07/iran-war-global-dependence-fossil-fuels-biggest-emitters-reaping-rewards",
+      "headline": "As Iran war exposes global dependence on fossil fuels, the biggest emitters are reaping the rewards",
+      "summary": "Iran war exposes global fossil fuel dependence; largest polluters benefit from higher prices.",
+      "url": "https://www.theguardian.com/p/x4ky86",
+      "thumbnail": "https://media.guim.co.uk/f10532385d5090e1d63da92c6944986321b2172c/500_0_5000_4000/500.jpg",
+      "published": "2026-04-07T05:00:40Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "climate",
+      "significance": 3,
+      "section": "environment"
+    },
+    {
+      "id": "business/2026/apr/07/uk-manufacturers-business-rates-rachel-reeves-makeuk",
+      "headline": "UK manufacturers ‘will pay £940m a year more in business rates due to Reeves changes’",
+      "summary": "UK manufacturers face £940m annual increase in business rates under Reeves changes.",
+      "url": "https://www.theguardian.com/p/x4mmv5",
+      "thumbnail": "https://media.guim.co.uk/90ef21cd246b861ee64ceae1abd19fa55fe914f2/287_0_4160_3328/500.jpg",
+      "published": "2026-04-07T05:00:39Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "uk-news/2026/apr/07/ashamed-scared-how-online-friendship-became-sextortion-nightmare",
+      "headline": "‘I felt ashamed and scared’: how an online friendship became a sextortion nightmare",
+      "summary": "Teen sextortion victim describes online friendship turned into blackmail nightmare.",
+      "url": "https://www.theguardian.com/p/x4m4g9",
+      "thumbnail": "https://media.guim.co.uk/d2c5fffe29663cf414d827d644e365bf22c5e664/0_0_6827_5464/500.jpg",
+      "published": "2026-04-07T05:00:39Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "uk-news"
     }
   ]
 }
