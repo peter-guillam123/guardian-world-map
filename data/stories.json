@@ -1,172 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-08T00:00:26.052Z",
-    "story_count": 65,
-    "oldest_story": "2026-04-07T05:00:39Z",
-    "newest_story": "2026-04-07T23:42:52Z",
+    "generated_at": "2026-04-08T06:08:09.704Z",
+    "story_count": 68,
+    "oldest_story": "2026-04-07T09:00:54Z",
+    "newest_story": "2026-04-08T06:05:20Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "australia-news/live/2026/apr/07/australia-news-live-cyclone-maila-threat-queensland-road-toll-trump-iran-ntwnfb",
-      "headline": "News live: Albanese to visit Singapore to shore up fuel supply; Australians buy record number of new EVs in March",
-      "summary": "Albanese visits Singapore on fuel supply; record EV sales in March Australia.",
-      "url": "https://www.theguardian.com/p/x4mn2j",
-      "thumbnail": "https://media.guim.co.uk/6baa597d8c2571de378a6bd92e77aa0ccc920b48/614_0_6143_4915/500.jpg",
-      "published": "2026-04-07T05:59:04Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "world/live/2026/apr/07/iran-war-live-updates-trump-hormuz-threats-deadline-strikes-middle-east-conflict",
-      "headline": "Middle East crisis live: Israel threatens entire Iran train network; Trump says he is ‘not at all’ worried about possible war crimes",
-      "summary": "Israel threatens Iran's entire train network; war ceasefire talks falter before Trump deadline.",
-      "url": "https://www.theguardian.com/p/x4mp9k",
-      "thumbnail": "https://media.guim.co.uk/91689b55661317adc2f4f5e700794ab80a339c41/686_0_5600_4480/500.jpg",
-      "published": "2026-04-07T05:57:33Z",
-      "location": {
-        "name": "Tehran",
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "uk-news/2026/apr/07/children-uk-report-online-sextortion-attempts-record-numbers",
-      "headline": "Children in UK report online sextortion attempts in record numbers ",
-      "summary": "UK children report record sextortion attempts; calls for nudity-detection tech on phones.",
-      "url": "https://www.theguardian.com/p/x4yhvv",
-      "thumbnail": "https://media.guim.co.uk/3ce8fab540ec44e498e0123db92129f03a407d11/910_704_2960_2368/500.jpg",
-      "published": "2026-04-07T05:00:41Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "society/2026/apr/07/resident-doctors-england-speciality-training-posts-strike-bma",
-      "headline": "‘It’s heartbreaking’: resident doctors in England face halt on new training posts",
-      "summary": "Resident doctors in England face halt on training posts amid strike deadlock.",
-      "url": "https://www.theguardian.com/p/x4m6cm",
-      "thumbnail": "https://media.guim.co.uk/ad72171725822c2ac391fd1809e06ed291b4bb4c/1003_728_4760_3808/500.jpg",
-      "published": "2026-04-07T05:00:41Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "society"
-    },
-    {
-      "id": "music/2026/apr/07/some-might-pay-noel-gallagher-guitar-used-to-write-oasiss-second-album-to-be-auctioned",
-      "headline": "Some might pay: Noel Gallagher guitar used to write Oasis’s second album to be auctioned",
-      "summary": "Noel Gallagher's Oasis guitar expected to fetch £60,000 at Sotheby's auction.",
-      "url": "https://www.theguardian.com/p/x4m7x4",
-      "thumbnail": "https://media.guim.co.uk/8f2de02bc57b3a99d1974ce10f22f0fb3792b088/243_0_5098_4080/500.jpg",
-      "published": "2026-04-07T05:00:40Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "music"
-    },
-    {
-      "id": "money/2026/apr/07/calls-grow-for-government-to-automatically-release-child-trust-funds-at-21",
-      "headline": "Calls grow for government to automatically release child trust funds at 21",
-      "summary": "Government urged to auto-release child trust funds at 21; £1.5bn unclaimed.",
-      "url": "https://www.theguardian.com/p/x4h8xf",
-      "thumbnail": "https://media.guim.co.uk/3f39dbfb906a76c5b5c842f649096ca8419e1a86/807_0_6827_5464/500.jpg",
-      "published": "2026-04-07T05:00:40Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "money"
-    },
-    {
-      "id": "politics/2026/apr/07/nationalist-wins-uk-celtic-nations-may-elections",
-      "headline": "‘Seismic change’: how election wins for nationalists in Celtic nations could reshape UK",
-      "summary": "Nationalist parties expected to control Scotland, Wales, Northern Ireland after May elections.",
-      "url": "https://www.theguardian.com/p/x4m7d3",
-      "thumbnail": "https://media.guim.co.uk/fd0cc7d0429c247f77dc67aac698546fe0b289cd/687_0_6840_5475/500.jpg",
-      "published": "2026-04-07T05:00:40Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "politics"
-    },
-    {
-      "id": "environment/2026/apr/07/iran-war-global-dependence-fossil-fuels-biggest-emitters-reaping-rewards",
-      "headline": "As Iran war exposes global dependence on fossil fuels, the biggest emitters are reaping the rewards",
-      "summary": "Iran war exposes global fossil fuel dependence; largest polluters benefit from higher prices.",
-      "url": "https://www.theguardian.com/p/x4ky86",
-      "thumbnail": "https://media.guim.co.uk/f10532385d5090e1d63da92c6944986321b2172c/500_0_5000_4000/500.jpg",
-      "published": "2026-04-07T05:00:40Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "climate",
-      "significance": 3,
-      "section": "environment"
-    },
-    {
-      "id": "business/2026/apr/07/uk-manufacturers-business-rates-rachel-reeves-makeuk",
-      "headline": "UK manufacturers ‘will pay £940m a year more in business rates due to Reeves changes’",
-      "summary": "UK manufacturers face £940m annual increase in business rates under Reeves changes.",
-      "url": "https://www.theguardian.com/p/x4mmv5",
-      "thumbnail": "https://media.guim.co.uk/90ef21cd246b861ee64ceae1abd19fa55fe914f2/287_0_4160_3328/500.jpg",
-      "published": "2026-04-07T05:00:39Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "uk-news/2026/apr/07/ashamed-scared-how-online-friendship-became-sextortion-nightmare",
-      "headline": "‘I felt ashamed and scared’: how an online friendship became a sextortion nightmare",
-      "summary": "Teen sextortion victim describes online friendship turned into blackmail nightmare.",
-      "url": "https://www.theguardian.com/p/x4m4g9",
-      "thumbnail": "https://media.guim.co.uk/d2c5fffe29663cf414d827d644e365bf22c5e664/0_0_6827_5464/500.jpg",
-      "published": "2026-04-07T05:00:39Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "uk-news"
-    },
     {
       "id": "books/2026/apr/07/upward-bound-by-woody-brown-review-extraordinary-debut-from-a-non-speaking-autistic-author",
       "headline": "Upward Bound by Woody Brown review – extraordinary debut from a non-speaking autistic author",
@@ -1046,6 +886,214 @@
       "category": "conflict",
       "significance": 3,
       "section": "world"
+    },
+    {
+      "id": "world/live/2026/apr/08/iran-war-ceasefire-live-updates-trump-deadline-middle-east-crisis-latest-news",
+      "headline": "Middle East crisis live: Iran war ceasefire doesn’t include Lebanon, says Israel; Trump says uranium will be ‘taken care of’",
+      "summary": "US and Iran agree to two-week ceasefire with Iran reopening Strait of Hormuz passage.",
+      "url": "https://www.theguardian.com/p/x4n3dk",
+      "thumbnail": "https://media.guim.co.uk/d39b5cb7a742bd6808faa52e5e0025ec9d318f76/0_0_4560_3648/500.jpg",
+      "published": "2026-04-08T06:05:20Z",
+      "location": {
+        "name": "Iran",
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "society/2026/apr/08/landlords-no-fault-evictions-tenants-renters-rights-bill-law",
+      "headline": "Landlords evicting tenants before law to prevent practice comes into force in England",
+      "summary": "Landlords evicting tenants before no-fault eviction law comes into force in England.",
+      "url": "https://www.theguardian.com/p/x4kjnt",
+      "thumbnail": "https://media.guim.co.uk/109e7f562a26eb80228b1bf07984aa3f5187ccc0/183_0_4254_3405/500.jpg",
+      "published": "2026-04-08T06:00:18Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "society"
+    },
+    {
+      "id": "travel/2026/apr/08/kielder-forest-northumberland-england-dark-sky",
+      "headline": "‘The vast wooded wilderness doesn’t look like England’: exploring Northumberland’s Kielder Forest",
+      "summary": "England's largest forest celebrates centenary with new trails and dark sky events.",
+      "url": "https://www.theguardian.com/p/x4yhx7",
+      "thumbnail": "https://media.guim.co.uk/37b157d20cbe4035938477e3463af13931e730c7/1328_0_3865_3092/500.jpg",
+      "published": "2026-04-08T06:00:17Z",
+      "location": {
+        "name": "Kielder Forest, Northumberland",
+        "lat": 54.8474,
+        "lng": -2.4159
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "travel"
+    },
+    {
+      "id": "world/2026/apr/08/wednesday-briefing-has-the-sacking-of-a-shop-worker-highlighted-our-unease-around-how-is-tackled",
+      "headline": "Wednesday briefing: ​Has the sacking of a shop worker highlighted our unease around how crime is tackled?",
+      "summary": "Waitrose worker dismissal highlights debate over rising retail crime in UK.",
+      "url": "https://www.theguardian.com/p/x4nv7e",
+      "thumbnail": "https://media.guim.co.uk/d6a50a568b77a73ba0747b7d67a4f232c7ada671/841_203_8564_6850/500.jpg",
+      "published": "2026-04-08T05:40:07Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "australia-news/2026/apr/08/ben-roberts-smith-court-news-war-crimes-charges-silverwater-jail-ntwnfb",
+      "headline": "Ben Roberts-Smith to remain in jail after bail hearing over war crimes charges",
+      "summary": "Ben Roberts-Smith remains jailed after war crimes charges, declines bail application.",
+      "url": "https://www.theguardian.com/p/x4n3yf",
+      "thumbnail": "https://media.guim.co.uk/fc9dbdd9f55fb120195487de98dcb72e777db7b6/582_94_1615_1293/500.jpg",
+      "published": "2026-04-08T05:21:50Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "australia-news"
+    },
+    {
+      "id": "australia-news/2026/apr/08/matt-canavans-economic-revolution-is-little-more-than-a-populist-mirage-and-australians-would-pay-the-price",
+      "headline": "Matt Canavan’s ‘economic revolution’ is little more than a populist mirage – and Australians would pay the price",
+      "summary": "Matt Canavan's economic plan to force locally-made goods criticized as populist.",
+      "url": "https://www.theguardian.com/p/x4n4tj",
+      "thumbnail": "https://media.guim.co.uk/a32400a5f9b98a6617cc9ec16d0028a22edaf5f7/600_0_5470_4379/500.jpg",
+      "published": "2026-04-08T05:14:29Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "australia-news/2026/apr/08/ben-roberts-smith-brs-gina-rinehart-alleged-war-crimes-arrest-ntwnfb",
+      "headline": "Billionaire Gina Rinehart says ‘I don’t understand’ arrest of Ben Roberts-Smith over alleged war crimes",
+      "summary": "Billionaire Gina Rinehart questions Ben Roberts-Smith war crimes investigation.",
+      "url": "https://www.theguardian.com/p/x4n3qh",
+      "thumbnail": "https://media.guim.co.uk/7365c5b4aab964e318ed2ad3d7dd18547fd9c788/880_234_3289_2630/500.jpg",
+      "published": "2026-04-08T05:08:13Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "world/2026/apr/08/oil-prices-stock-today-futures-crude-donald-trump-iran-ceasefire",
+      "headline": "Oil prices plunge and stocks jump after Trump announces conditional ceasefire with Iran",
+      "summary": "Oil prices plunge 15% after Trump-Iran ceasefire, stocks surge on relief.",
+      "url": "https://www.theguardian.com/p/x4n4xt",
+      "thumbnail": "https://media.guim.co.uk/9246f2cbf75d5a6d40305efc4305a65224544aa6/417_0_5256_4204/500.jpg",
+      "published": "2026-04-08T05:03:09Z",
+      "location": {
+        "name": "Iran",
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "environment/2026/apr/08/birdwatch-rufous-bellied-seedsnipe-andes-mountains-ecuador",
+      "headline": "Birdwatch: Climbing to 4,400 metres to spot a rare rufous-bellied seedsnipe",
+      "summary": "Birdwatcher climbs 4,400 metres in Andes to spot rare rufous-bellied seedsnipe.",
+      "url": "https://www.theguardian.com/p/x4kxxf",
+      "thumbnail": "https://media.guim.co.uk/9b81a05c85712b707c920aaf786fefb5b9f157f4/569_0_3393_2715/500.jpg",
+      "published": "2026-04-08T05:00:17Z",
+      "location": {
+        "name": "Ecuador",
+        "lat": -1.8312,
+        "lng": -78.1834
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "environment"
+    },
+    {
+      "id": "society/2026/apr/08/isolate-jailed-drug-dealers-charlie-taylor-inspector-prisons",
+      "headline": "Treat jailed drug dealers like radical extremists, says prisons watchdog",
+      "summary": "Prisons watchdog recommends isolating jailed drug dealers like extremists.",
+      "url": "https://www.theguardian.com/p/x4mzf2",
+      "thumbnail": "https://media.guim.co.uk/354126aee6a1fefef3086a85f4749c7af7724cf0/665_0_6667_5334/500.jpg",
+      "published": "2026-04-08T05:00:16Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "society"
+    },
+    {
+      "id": "world/2026/apr/08/palestinian-girl-who-lost-arm-in-israeli-missile-attack-on-gaza-arrives-in-uk",
+      "headline": "Palestinian girl who lost arm in Israeli missile attack on Gaza arrives in UK",
+      "summary": "Palestinian girl who lost arm in Israeli attack arrives in UK for specialist treatment.",
+      "url": "https://www.theguardian.com/p/x4n237",
+      "thumbnail": "https://media.guim.co.uk/f4f8fa2c8993dcd4406f6e1adb86e0ee6d5017de/1415_548_5999_4799/500.jpg",
+      "published": "2026-04-08T05:00:16Z",
+      "location": {
+        "name": "Gaza",
+        "lat": 31.9454,
+        "lng": 35.2338
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "environment/2026/apr/08/uk-new-oil-gas-fields-north-sea-global-climate-goals",
+      "headline": "UK opening new oil and gas fields would imperil global climate goals, experts say",
+      "summary": "UK oil and gas expansion in North Sea would undermine climate goals, experts warn.",
+      "url": "https://www.theguardian.com/p/x4nxag",
+      "thumbnail": "https://media.guim.co.uk/d52ed2da493b2b8c9a816d07a9aa5e120ca7a1e3/364_0_3333_2667/500.jpg",
+      "published": "2026-04-08T05:00:16Z",
+      "location": {
+        "name": "North Sea",
+        "lat": 56.5,
+        "lng": 3
+      },
+      "category": "climate",
+      "significance": 3,
+      "section": "environment"
+    },
+    {
+      "id": "sport/2026/apr/08/music-afl-2026-from-the-pocket-newsletter",
+      "headline": "From the Pocket: Music works for a showman like Charlie Cameron but fans need space between the notes",
+      "summary": "AFL commentary on stadium music use during games and importance of silence.",
+      "url": "https://www.theguardian.com/p/x4mjpv",
+      "thumbnail": "https://media.guim.co.uk/9c2e13c9339ba3ed78f1355d9fd3e3878ed5f9e8/230_0_2397_1917/500.jpg",
+      "published": "2026-04-08T04:59:51Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "sport",
+      "significance": 1,
+      "section": "sport"
     }
   ]
 }
