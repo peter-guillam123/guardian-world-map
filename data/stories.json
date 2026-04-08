@@ -1,76 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-07T22:01:40.805Z",
-    "story_count": 67,
-    "oldest_story": "2026-04-06T22:55:59Z",
-    "newest_story": "2026-04-07T21:58:30Z",
+    "generated_at": "2026-04-08T00:00:26.052Z",
+    "story_count": 65,
+    "oldest_story": "2026-04-07T05:00:39Z",
+    "newest_story": "2026-04-07T23:42:52Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "sport/live/2026/apr/06/ncaa-mens-national-championship-uconn-michigan-live-score",
-      "headline": "NCAA men’s national championship: UConn v Michigan – live updates",
-      "summary": "UConn and Michigan compete for NCAA men's basketball national championship in Indianapolis.",
-      "url": "https://www.theguardian.com/p/x4m334",
-      "thumbnail": "https://media.guim.co.uk/e5d235bdec06472ea0ca151a3db9d2c2116a68b9/240_0_2403_1923/500.jpg",
-      "published": "2026-04-06T23:50:33Z",
-      "location": {
-        "name": "Indianapolis",
-        "lat": 39.7684,
-        "lng": -86.1581
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "sport"
-    },
-    {
-      "id": "us-news/2026/apr/06/tony-gonzales-texas-staffers-accusations",
-      "headline": "Second ex-staffer accuses Texas lawmaker of sending sexually explicit messages",
-      "summary": "Second former staffer accuses Republican congressman Tony Gonzales of sending sexually explicit messages.",
-      "url": "https://www.theguardian.com/p/x4mznt",
-      "thumbnail": "https://media.guim.co.uk/8857890b4ada00ea4aeeaef6a7b8b13e414394ec/656_0_6534_5231/500.jpg",
-      "published": "2026-04-06T23:00:29Z",
-      "location": {
-        "name": "San Antonio",
-        "lat": 29.4241,
-        "lng": -98.4936
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "science/2026/apr/06/artemis-ii-astronauts-record-moon-earth-distance",
-      "headline": "Artemis II sets new record as astronauts travel farther from Earth than ever before",
-      "summary": "Artemis II astronauts break Apollo 13 distance record, traveling farthest from Earth in history.",
-      "url": "https://www.theguardian.com/p/x4mhap",
-      "thumbnail": "https://media.guim.co.uk/6daa6af77bd16895c94e4e0dc7701d179d92bfa4/464_0_4640_3712/500.jpg",
-      "published": "2026-04-06T22:59:51Z",
-      "location": {
-        "name": "Washington, D.C.",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "tech",
-      "significance": 3,
-      "section": "science"
-    },
-    {
-      "id": "us-news/2026/apr/06/trump-iran-easter-press-conference",
-      "headline": "Down the rabbit hole: Trump offers dark Iran warnings after Easter bunny act",
-      "summary": "Trump makes dark Iran warnings during White House Easter egg roll press conference.",
-      "url": "https://www.theguardian.com/p/x4mzbx",
-      "thumbnail": "https://media.guim.co.uk/f47e2684d7e9cca3de36f2bd2bf97f0e1be0f8c2/46_0_1764_1411/500.jpg",
-      "published": "2026-04-06T22:55:59Z",
-      "location": {
-        "name": "Washington, D.C.",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
     {
       "id": "australia-news/live/2026/apr/07/australia-news-live-cyclone-maila-threat-queensland-road-toll-trump-iran-ntwnfb",
       "headline": "News live: Albanese to visit Singapore to shore up fuel supply; Australians buy record number of new EVs in March",
@@ -1078,6 +1014,38 @@
       "category": "conflict",
       "significance": 4,
       "section": "australia-news"
+    },
+    {
+      "id": "us-news/2026/apr/07/trump-iran-war-ceasefire",
+      "headline": "US and Iran agree to two-week ceasefire, with strait of Hormuz to open",
+      "summary": "US and Iran agree to two-week ceasefire after Pakistan-led diplomatic intervention, Strait of Hormuz to reopen.",
+      "url": "https://www.theguardian.com/p/x4n3h4",
+      "thumbnail": "https://media.guim.co.uk/7cde4a66207fd4d8c625b447df29716f6e1a7235/576_0_4582_3666/500.jpg",
+      "published": "2026-04-07T23:42:52Z",
+      "location": {
+        "name": "Iran",
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "us-news"
+    },
+    {
+      "id": "world/2026/apr/07/iran-cyberattacks-infrastructure",
+      "headline": "US warns of Iran-affiliated cyber-attacks on critical infrastructure across country",
+      "summary": "US warns of Iran-affiliated cyber-attacks on critical infrastructure, especially water and energy sectors.",
+      "url": "https://www.theguardian.com/p/x4n3ht",
+      "thumbnail": "https://media.guim.co.uk/cdaa25066ee9534ff2f83c44d9d41076be4ef9ab/320_0_4641_3711/500.jpg",
+      "published": "2026-04-07T23:21:42Z",
+      "location": {
+        "name": "United States",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "world"
     }
   ]
 }
