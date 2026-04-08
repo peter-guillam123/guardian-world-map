@@ -1,236 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-08T10:16:53.641Z",
-    "story_count": 67,
-    "oldest_story": "2026-04-07T11:00:45Z",
-    "newest_story": "2026-04-08T10:06:20Z",
+    "generated_at": "2026-04-08T14:58:22.318Z",
+    "story_count": 66,
+    "oldest_story": "2026-04-07T15:11:45Z",
+    "newest_story": "2026-04-08T14:58:05Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "us-news/live/2026/apr/07/government-shutdown-congress-house-of-representatives-donald-trump-republicans-democrats-ice-us-politics-latest-updates-news",
-      "headline": "Government shutdown enters eighth week as Johnson faces GOP revolt over DHS funding deal – US politics live",
-      "summary": "Eighth-week government shutdown continues as Johnson faces GOP revolt over DHS funding.",
-      "url": "https://www.theguardian.com/p/x4nvc6",
-      "thumbnail": "https://media.guim.co.uk/050a0828a6d8747399e62b0a726b7671efcc7dd5/672_0_5478_4383/500.jpg",
-      "published": "2026-04-07T12:09:10Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 4,
-      "section": "us-news"
-    },
-    {
-      "id": "politics/live/2026/apr/07/doctors-strike-wes-streeting-snp-fuel-prices-nigel-farage-reform-uk-keir-starmer-labour-strait-hormuz-uk-politics-latest-updates",
-      "headline": "Greens urge Streeting to ‘get serious’ about concerns of resident doctors – UK politics live",
-      "summary": "Greens urge Health Secretary Streeting to address concerns of resident doctors amid NHS workforce crisis.",
-      "url": "https://www.theguardian.com/p/x4mqzv",
-      "thumbnail": "https://media.guim.co.uk/ae136c924e10e58a4716b032857ef246a499894d/0_0_4913_3933/500.jpg",
-      "published": "2026-04-07T12:07:29Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "business/live/2026/apr/07/oil-price-rises-trump-deadline-iran-reopen-strait-of-hormuz-imf-business-live-news",
-      "headline": "Oil dips below $110 in volatile markets as Trump deadline looms for Iran to reopen strait – business live",
-      "summary": "Oil dips below $110 as Trump deadline looms for Iran to reopen strait of Hormuz.",
-      "url": "https://www.theguardian.com/p/x4mqj3",
-      "thumbnail": "https://media.guim.co.uk/44c9cf441247aa8383ef3f18f89e7970c3a97fff/458_0_4583_3667/500.jpg",
-      "published": "2026-04-07T12:05:53Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "economy",
-      "significance": 4,
-      "section": "business"
-    },
-    {
-      "id": "technology/2026/apr/07/meta-scale-ai-social-media-technology",
-      "headline": "Porn, dog poo and social media snaps: the ‘taskers’ scraping the internet for Meta-owned AI firm",
-      "summary": "Scale AI gig workers describe using personal data and copyrighted content to train Meta-owned AI systems.",
-      "url": "https://www.theguardian.com/p/x4kx9h",
-      "thumbnail": "https://media.guim.co.uk/6a0de58951f90a4849c44f56c26057b1dc349ddb/520_0_5200_4160/500.jpg",
-      "published": "2026-04-07T12:00:47Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "tech",
-      "significance": 3,
-      "section": "technology"
-    },
-    {
-      "id": "technology/ng-interactive/2026/apr/07/ai-training-work-jobs",
-      "headline": "‘There’s a lot of desperation’: skilled older workers turn to AI training to stay afloat",
-      "summary": "Older skilled workers turn to AI training jobs as last resort in brutal job market.",
-      "url": "https://www.theguardian.com/p/x4m7qc",
-      "thumbnail": "https://media.guim.co.uk/c86732103befa771bc4f5f584f1fd247d6cabf4f/1312_244_5359_4288/500.jpg",
-      "published": "2026-04-07T12:00:46Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "technology"
-    },
-    {
-      "id": "commentisfree/2026/apr/07/trump-accountability-presidential-library-miami-records-act",
-      "headline": "Two Trump moves last week could kill off future accountability for his deeds",
-      "summary": "Trump administration challenges Presidential Records Act and plans presidential library.",
-      "url": "https://www.theguardian.com/p/x4mzvj",
-      "thumbnail": "https://media.guim.co.uk/a73c4b75f06d46305c8c4d5451a79f14bcaf809b/577_0_1555_1244/500.jpg",
-      "published": "2026-04-07T12:00:46Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "commentisfree"
-    },
-    {
-      "id": "commentisfree/2026/apr/07/nigel-farage-hard-right-reform-boundaries",
-      "headline": "As Farage sacks an acolyte for his ‘shameful’ words, how far is too far for the high priest of toxic politics?",
-      "summary": "Nigel Farage navigates boundaries of acceptable discourse while leading Reform UK.",
-      "url": "https://www.theguardian.com/p/x4mnbx",
-      "thumbnail": "https://media.guim.co.uk/557d285b1b28b48eb71f8d709a06caa33850e71c/446_0_4460_3568/500.jpg",
-      "published": "2026-04-07T11:51:09Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "commentisfree"
-    },
-    {
-      "id": "football/2026/apr/07/barcelonas-vicky-lopez-i-think-i-bring-a-lot-of-joy-youth-and-playfulness",
-      "headline": "Barcelona’s Vicky López: ‘I think I bring a lot of joy, youth and playfulness’",
-      "summary": "Barcelona winger Vicky López discusses journey from shy teen to record-breaking golden girl.",
-      "url": "https://www.theguardian.com/p/x4mqq6",
-      "thumbnail": "https://media.guim.co.uk/0020ceceb77bdbfc5c81415965f01466d0a7804c/742_0_3976_3181/500.jpg",
-      "published": "2026-04-07T11:41:42Z",
-      "location": {
-        "name": "Barcelona",
-        "lat": 41.3851,
-        "lng": 2.1734
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "world/2026/apr/07/viktor-orban-told-putin-i-am-at-your-service-in-october-phonecall",
-      "headline": "Viktor Orbán told Putin ‘I am at your service’ in October phone call",
-      "summary": "Transcript shows Viktor Orbán told Putin 'I am at your service' in October phone call.",
-      "url": "https://www.theguardian.com/p/x4nvft",
-      "thumbnail": "https://media.guim.co.uk/487e09d33ebaeb956e39b3903c7e6550fd3f7add/0_0_5000_4000/500.jpg",
-      "published": "2026-04-07T11:28:31Z",
-      "location": {
-        "name": "Budapest",
-        "lat": 47.4979,
-        "lng": 19.0402
-      },
-      "category": "politics",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "music/2026/apr/07/harry-styles-announces-artists-for-meltdown-festival",
-      "headline": "Harry Styles announces jazz, pop, indie and electronic artists for his Meltdown festival",
-      "summary": "Harry Styles announces Meltdown festival lineup featuring jazz, pop, indie and electronic artists.",
-      "url": "https://www.theguardian.com/p/x4nvgg",
-      "thumbnail": "https://media.guim.co.uk/861fd49d5f9c32c3ca34e850e4cf85b504e2a050/617_59_1889_1511/500.jpg",
-      "published": "2026-04-07T11:18:29Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "music"
-    },
-    {
-      "id": "business/2026/apr/07/oil-prices-donald-trump-iran-stock-market-imf-inflation",
-      "headline": "Oil and gas crisis from Iran war worse than 1973, ​1979 and 2022 together, says IEA",
-      "summary": "IEA warns current oil and gas crisis worse than 1973, 1979 and 2022 combined.",
-      "url": "https://www.theguardian.com/p/x4nvx6",
-      "thumbnail": "https://media.guim.co.uk/27b9c1c2e056813ff55bee671b5eeb0507397086/463_0_3334_2667/500.jpg",
-      "published": "2026-04-07T11:01:09Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "economy",
-      "significance": 4,
-      "section": "business"
-    },
-    {
-      "id": "us-news/ng-interactive/2026/apr/07/rachel-waters-mom-morphine-murder",
-      "headline": "‘Oh my God, did someone accuse me of killing my mom?’",
-      "summary": "Woman charged with murder after giving dying mother morphine to ease final hours.",
-      "url": "https://www.theguardian.com/p/x4k2p6",
-      "thumbnail": "https://media.guim.co.uk/b359cd82ccad05f3086b3de5af7839f96bc6c392/0_535_5120_4093/500.jpg",
-      "published": "2026-04-07T11:00:46Z",
-      "location": {
-        "name": "Atlanta",
-        "lat": 33.749,
-        "lng": -84.388
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "global-development/2026/apr/07/senegal-harsh-anti-gay-law-hiv-progress",
-      "headline": "‘We fear the epidemic will return’: Senegal’s harsh anti-gay law puts decades of HIV progress in jeopardy",
-      "summary": "Senegal's harsh anti-gay law threatens decades of HIV progress as arrests mount and people flee.",
-      "url": "https://www.theguardian.com/p/x4khzk",
-      "thumbnail": "https://media.guim.co.uk/9533a3b6d1a8692cfd54b0023b7deb56030e0cdc/445_0_3003_2403/500.jpg",
-      "published": "2026-04-07T11:00:46Z",
-      "location": {
-        "name": "Dakar",
-        "lat": 14.7167,
-        "lng": -17.4677
-      },
-      "category": "health",
-      "significance": 3,
-      "section": "global-development"
-    },
-    {
-      "id": "sport/2026/apr/07/us-war-iran-sport-content-drone-racing",
-      "headline": "Drone racing to drone strikes: have war and sport become indistinguishable?",
-      "summary": "Analysis of Trump administration's escalating war in Iran through lens of sporting culture and spectacle.",
-      "url": "https://www.theguardian.com/p/x4mz3a",
-      "thumbnail": "https://media.guim.co.uk/184763a3b8dc9743ee22e9ed7b8d5fa46e11892f/460_0_4598_3678/500.jpg",
-      "published": "2026-04-07T11:00:45Z",
-      "location": {
-        "name": "Iran",
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "sport"
-    },
     {
       "id": "football/2026/apr/07/arne-slot-liverpool-psg-football-daily-newsletter",
       "headline": "The curious case of Arne Slot’s Paris romance and Liverpool’s slump",
@@ -1077,6 +853,214 @@
       },
       "category": "economy",
       "significance": 3,
+      "section": "business"
+    },
+    {
+      "id": "world/2026/apr/08/hegseth-press-briefing-iran-ceasefire",
+      "headline": "Hegseth claims Iran ‘begged’ for ceasefire after US and Tehran agree to two-week pause",
+      "summary": "US Defense Secretary Hegseth claims Iran 'begged' for ceasefire after 40-day war.",
+      "url": "https://www.theguardian.com/p/x4n748",
+      "thumbnail": "https://media.guim.co.uk/dddb7ef7126a460a68c34d17dbeb24f10a403d59/570_0_4159_3326/500.jpg",
+      "published": "2026-04-08T14:58:05Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "football/2026/apr/08/real-madrid-bayern-munich-football-daily-newsletter",
+      "headline": "Madrid and Bayern burn rubber in fast and furious show at Bernabéu",
+      "summary": "Real Madrid and Bayern Munich play high-speed football match at Bernabéu.",
+      "url": "https://www.theguardian.com/p/x4n5zn",
+      "thumbnail": "https://media.guim.co.uk/dd6ae088866887802e6f10b984e6da8640de6013/504_0_2851_2281/500.jpg",
+      "published": "2026-04-08T14:52:02Z",
+      "location": {
+        "name": "Madrid",
+        "lat": 40.4168,
+        "lng": -3.7038
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "world/2026/apr/08/war-with-no-winners-netanyahu-israel-iran-us-ceasefire",
+      "headline": "In a war with no winners, Netanyahu looks like the biggest loser",
+      "summary": "Netanyahu faces criticism as Israel emerges as biggest loser in fragile Iran ceasefire.",
+      "url": "https://www.theguardian.com/p/x4n6yz",
+      "thumbnail": "https://media.guim.co.uk/f79d146460844bd368ab830a4d365439820e4916/577_0_2886_2309/500.jpg",
+      "published": "2026-04-08T14:48:24Z",
+      "location": {
+        "name": "Tehran",
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "business/live/2026/apr/08/oil-prices-drop-stocks-rise-dollar-down-us-iran-ceasefire-business-live",
+      "headline": "Oil prices plunge 15% to below $100, stocks surge and dollar slumps after Trump announces US-Iran ceasefire – as it happened",
+      "summary": "Oil prices plunge 15% to below $100 following Trump's announcement of US-Iran ceasefire.",
+      "url": "https://www.theguardian.com/p/x4n563",
+      "thumbnail": "https://media.guim.co.uk/804c681842c82d18fa57d281a36a55308c30bf5f/129_0_1320_1056/500.jpg",
+      "published": "2026-04-08T14:40:18Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "business"
+    },
+    {
+      "id": "uk-news/2026/apr/08/young-asylum-seekers-deaths-suicides-uk",
+      "headline": "More than 50 young asylum seekers have died in UK since 2015, data shows",
+      "summary": "Over 50 young asylum seekers died in UK since 2015, majority by suicide.",
+      "url": "https://www.theguardian.com/p/x4n6kh",
+      "thumbnail": "https://media.guim.co.uk/505240ed00be02da67d5864344c0eafb726f40d3/737_0_6880_5504/500.jpg",
+      "published": "2026-04-08T14:37:30Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "world/2026/apr/08/us-airlines-baggage-fees-oil-prices",
+      "headline": "Several US airlines raise baggage fees due to higher oil costs associated with Iran war",
+      "summary": "US airlines raise baggage fees citing higher oil costs from Iran war.",
+      "url": "https://www.theguardian.com/p/x4n74e",
+      "thumbnail": "https://media.guim.co.uk/0ec6c89f5b8851a79ce58dc13d9f302b0fc5a706/728_336_3842_3073/500.jpg",
+      "published": "2026-04-08T14:37:12Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "world/2026/apr/08/twin-corruption-trials-cast-a-shadow-over-spains-main-parties-ahead-of-key-elections",
+      "headline": "​Twin corruption trials cast a shadow over Spain’s main parties ahead of key elections",
+      "summary": "Corruption trials shadow Spain's main parties ahead of key elections.",
+      "url": "https://www.theguardian.com/p/x4mn86",
+      "thumbnail": "https://media.guim.co.uk/047d2c712d4bb6a338cb3f06bf4b1bdaebc99dea/394_0_2860_2288/500.jpg",
+      "published": "2026-04-08T14:30:43Z",
+      "location": {
+        "name": "Madrid",
+        "lat": 40.4168,
+        "lng": -3.7038
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "media/2026/apr/08/city-veteran-sir-ian-cheshire-chair-ofcom-media-regulator",
+      "headline": "City veteran Ian Cheshire chosen to be new chair of Ofcom",
+      "summary": "City veteran Ian Cheshire chosen as new chair of UK media regulator Ofcom.",
+      "url": "https://www.theguardian.com/p/x4n6yv",
+      "thumbnail": "https://media.guim.co.uk/7735b4591cec3989499d61da53a2f7942439a92d/0_0_3125_2500/500.jpg",
+      "published": "2026-04-08T14:15:13Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "tech",
+      "significance": 2,
+      "section": "media"
+    },
+    {
+      "id": "society/2026/apr/08/alarm-health-service-palantir-staff-nhs-email-accounts",
+      "headline": "Alarm in health service over Palantir staff being given NHS email accounts",
+      "summary": "NHS staff alarmed over Palantir AI engineers granted access to email accounts.",
+      "url": "https://www.theguardian.com/p/x4mx4f",
+      "thumbnail": "https://media.guim.co.uk/62f0bbd9e8f26d37d352c0d11035de4a93eb45d5/570_0_4300_3441/500.jpg",
+      "published": "2026-04-08T14:15:08Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "society"
+    },
+    {
+      "id": "society/2026/apr/08/oxford-scientists-develop-ai-tool-spot-heart-failure",
+      "headline": "Scientists develop AI tool to spot heart failure risk five years before it strikes",
+      "summary": "Oxford scientists develop AI tool predicting heart failure risk five years early.",
+      "url": "https://www.theguardian.com/p/x4n66k",
+      "thumbnail": "https://media.guim.co.uk/8c9e98790313367dcd983242e6cbde08df302cae/475_0_4750_3800/500.jpg",
+      "published": "2026-04-08T14:00:43Z",
+      "location": {
+        "name": "Oxford",
+        "lat": 51.752,
+        "lng": -1.2577
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "society"
+    },
+    {
+      "id": "thefilter/2026/apr/08/best-carry-on-luggage-cabin-bags-uk",
+      "headline": "The best carry-on luggage in the UK, tested on an assault course",
+      "summary": "Testing best carry-on luggage in UK with assault course evaluation.",
+      "url": "https://www.theguardian.com/p/x4bky5",
+      "thumbnail": "https://media.guim.co.uk/d2e91f98c7c22062bd25aee929b95ba79f363ee4/0_0_5000_4000/500.jpg",
+      "published": "2026-04-08T14:00:43Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "thefilter"
+    },
+    {
+      "id": "world/2026/apr/08/us-iran-ceasefire-mass-exodus-ships-strait-hormuz-analysts",
+      "headline": "Ceasefire changes little for shipping in strait of Hormuz, experts say",
+      "summary": "Shipping analysts expect limited increase through Strait of Hormuz post-ceasefire.",
+      "url": "https://www.theguardian.com/p/x4n6ap",
+      "thumbnail": "https://media.guim.co.uk/fe8021b474812f98da0f341d724347e6b1d9e642/0_0_1320_1056/500.jpg",
+      "published": "2026-04-08T13:53:55Z",
+      "location": {
+        "name": "Dubai",
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "business/2026/apr/08/john-lewis-jason-tarry-pay-increase-jobs-waitrose",
+      "headline": "John Lewis boss’s pay rises to £1.2m as retailer cuts 3,300 jobs",
+      "summary": "John Lewis boss Jason Tarry's pay rises 21% to £1.2m as retailer cuts 3,300 jobs.",
+      "url": "https://www.theguardian.com/p/x4n6y6",
+      "thumbnail": "https://media.guim.co.uk/ce729fe853b3039af00dcd3a548f58c5582ceaf7/710_0_5200_4160/500.jpg",
+      "published": "2026-04-08T13:48:58Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
       "section": "business"
     }
   ]
