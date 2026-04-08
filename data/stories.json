@@ -1,76 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-08T21:30:57.359Z",
-    "story_count": 61,
-    "oldest_story": "2026-04-07T21:56:56Z",
-    "newest_story": "2026-04-08T21:30:16Z",
+    "generated_at": "2026-04-08T23:53:20.877Z",
+    "story_count": 65,
+    "oldest_story": "2026-04-08T04:59:51Z",
+    "newest_story": "2026-04-08T23:52:56Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "australia-news/live/2026/apr/08/ben-roberts-smith-court-anthony-albanese-labor-angus-taylor-matt-canavan-liberal-national-coalition-fuel-prices-oil-crisis-iran-war-ntwnfb",
-      "headline": "Australia news live: Canavan says Trump’s threats have ‘gotten out of hand’; Ben Roberts-Smith to front court",
-      "summary": "Australian PM brings forward Singapore trip amid fuel crisis; former soldier faces war crime charges.",
-      "url": "https://www.theguardian.com/p/x4nvjn",
-      "thumbnail": "https://media.guim.co.uk/9933852909df35ac8d7057818aedc13140c4e6e3/203_0_6880_5504/500.jpg",
-      "published": "2026-04-07T21:58:30Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "us-news/2026/apr/07/trump-iran-threat-truth-social",
-      "headline": "Democrats outraged at Trump’s Iran post: ‘A threat to commit a war crime’",
-      "summary": "Trump threatens to annihilate Iran if strait of Hormuz not reopened by deadline.",
-      "url": "https://www.theguardian.com/p/x4nxfy",
-      "thumbnail": "https://media.guim.co.uk/a768c826b799cb44eb93462d9fc62d1192a4f63e/835_0_4165_3333/500.jpg",
-      "published": "2026-04-07T21:56:56Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/apr/07/trump-iran-war-ceasefire",
-      "headline": "US and Iran agree to two-week ceasefire, with strait of Hormuz to open",
-      "summary": "US and Iran agree to two-week ceasefire after Pakistan-led diplomatic intervention, Strait of Hormuz to reopen.",
-      "url": "https://www.theguardian.com/p/x4n3h4",
-      "thumbnail": "https://media.guim.co.uk/7cde4a66207fd4d8c625b447df29716f6e1a7235/576_0_4582_3666/500.jpg",
-      "published": "2026-04-07T23:42:52Z",
-      "location": {
-        "name": "Iran",
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "us-news"
-    },
-    {
-      "id": "world/2026/apr/07/iran-cyberattacks-infrastructure",
-      "headline": "US warns of Iran-affiliated cyber-attacks on critical infrastructure across country",
-      "summary": "US warns of Iran-affiliated cyber-attacks on critical infrastructure, especially water and energy sectors.",
-      "url": "https://www.theguardian.com/p/x4n3ht",
-      "thumbnail": "https://media.guim.co.uk/cdaa25066ee9534ff2f83c44d9d41076be4ef9ab/320_0_4641_3711/500.jpg",
-      "published": "2026-04-07T23:21:42Z",
-      "location": {
-        "name": "United States",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "world"
-    },
     {
       "id": "world/live/2026/apr/08/iran-war-ceasefire-live-updates-trump-deadline-middle-east-crisis-latest-news",
       "headline": "Middle East crisis live: Iran war ceasefire doesn’t include Lebanon, says Israel; Trump says uranium will be ‘taken care of’",
@@ -982,6 +918,134 @@
       "category": "politics",
       "significance": 3,
       "section": "thefilter-us"
+    },
+    {
+      "id": "world/2026/apr/08/israel-operations-in-lebanon-to-continue-despite-trump-ceasefire-iran-pakistan-hezbollah",
+      "headline": "At least 254 killed after Israel hits Lebanon with massive wave of airstrikes ",
+      "summary": "Israel launches largest coordinated strikes on Lebanon, killing 254, risking Iran ceasefire collapse.",
+      "url": "https://www.theguardian.com/p/x4n5ac",
+      "thumbnail": "https://media.guim.co.uk/a2cc2698b8f60d45f5dbd0fd758df35b5239cfe7/322_0_3218_2574/500.jpg",
+      "published": "2026-04-08T23:52:56Z",
+      "location": {
+        "name": "Lebanon",
+        "lat": 33.8547,
+        "lng": 35.8623
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "world/2026/apr/09/korean-fried-chicken",
+      "headline": "How KFC, AKA Korean fried chicken, took over the world",
+      "summary": "Korean fried chicken evolves from US-influenced roots into global culinary phenomenon leading K-food wave.",
+      "url": "https://www.theguardian.com/p/x4my6m",
+      "thumbnail": "https://media.guim.co.uk/caab4bec96e8e3e6d268bb47bb3bd6b64b143ac3/207_0_6484_5190/500.jpg",
+      "published": "2026-04-08T23:32:45Z",
+      "location": {
+        "name": "Seoul",
+        "lat": 37.5665,
+        "lng": 126.978
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "us-news/2026/apr/08/los-angeles-teen-eye-no-kings-march",
+      "headline": "LA teen loses eye after being shot by US agent at No Kings march, lawyer says",
+      "summary": "USC student loses eye after DHS agent fires less-lethal projectile at No Kings protest in LA.",
+      "url": "https://www.theguardian.com/p/x4n8pq",
+      "thumbnail": "https://media.guim.co.uk/db8ce6429e9da63a862532499478b262cf7c9cb3/0_28_4314_3450/500.jpg",
+      "published": "2026-04-08T23:21:04Z",
+      "location": {
+        "name": "Los Angeles",
+        "lat": 34.0522,
+        "lng": -118.2437
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/apr/09/psg-ramp-up-the-style-to-leave-slot-and-liverpool-looking-like-yesterdays-men",
+      "headline": "PSG ramp up the style to leave Slot and Liverpool looking like yesterday’s men",
+      "summary": "PSG defeats Liverpool 2-0 in Champions League quarter-final first leg at Parc des Princes.",
+      "url": "https://www.theguardian.com/p/x4n7xa",
+      "thumbnail": "https://media.guim.co.uk/f717d4fdb49436604fdda3c3b93d7defe4da00a9/189_80_2644_2117/500.jpg",
+      "published": "2026-04-08T23:05:37Z",
+      "location": {
+        "name": "Paris",
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "world/2026/apr/09/ministers-unveil-right-to-try-plan-to-help-disabled-people-find-work",
+      "headline": "Ministers unveil ‘right to try’ plan to help disabled people find work",
+      "summary": "UK government announces 'right to try' plan allowing disabled workers to test employment without losing benefits.",
+      "url": "https://www.theguardian.com/p/x4n7qb",
+      "thumbnail": "https://media.guim.co.uk/58c9b7a7d3b57e37e867b9a8517c46ad5dda1661/426_0_4269_3415/500.jpg",
+      "published": "2026-04-08T23:01:16Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "education/2026/apr/09/english-universities-excessive-financial-risks-survival-warns-thinktank",
+      "headline": "‘Excessive’ financial risks threaten survival of many English universities, report warns",
+      "summary": "Report warns English universities face excessive financial risks from high borrowing and rapid expansion.",
+      "url": "https://www.theguardian.com/p/x4n66c",
+      "thumbnail": "https://media.guim.co.uk/d284dc4eb836cbb1a0de4c54c92ce65f5da5d45f/0_105_3968_3175/500.jpg",
+      "published": "2026-04-08T23:01:15Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "education"
+    },
+    {
+      "id": "world/2026/apr/09/us-ignoring-evidence-russia-is-helping-iran-because-it-trusts-putin-says-zelenskyy",
+      "headline": "US ignoring evidence Russia is helping Iran because it trusts Putin, says Zelenskyy",
+      "summary": "Zelenskyy claims US ignores evidence Russia aids Iran targeting US bases due to trust in Putin.",
+      "url": "https://www.theguardian.com/p/x4n7hn",
+      "thumbnail": "https://media.guim.co.uk/4030dd387ee205a8d7171f138658ab0003474ced/905_127_2600_2080/500.jpg",
+      "published": "2026-04-08T23:00:16Z",
+      "location": {
+        "name": "Kyiv",
+        "lat": 50.4501,
+        "lng": 30.5234
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "football/2026/apr/08/arne-slot-hopes-power-of-anfield-can-help-liverpool-turn-psg-tie-around",
+      "headline": "Arne Slot says Liverpool ‘need our fans’ to help turn PSG tie around at Anfield",
+      "summary": "Liverpool manager Slot vows team will raise level at Anfield after PSG first-leg defeat in Champions League.",
+      "url": "https://www.theguardian.com/p/x4n9vc",
+      "thumbnail": "https://media.guim.co.uk/a645298041f18433e18d18c2651ed789c071667d/1185_0_6880_5504/500.jpg",
+      "published": "2026-04-08T22:51:33Z",
+      "location": {
+        "name": "Liverpool",
+        "lat": 53.4084,
+        "lng": -2.9916
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
     }
   ]
 }
