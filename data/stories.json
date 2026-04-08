@@ -1,124 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-08T18:57:52.218Z",
-    "story_count": 66,
-    "oldest_story": "2026-04-07T19:04:03Z",
-    "newest_story": "2026-04-08T18:57:29Z",
+    "generated_at": "2026-04-08T21:30:57.359Z",
+    "story_count": 61,
+    "oldest_story": "2026-04-07T21:56:56Z",
+    "newest_story": "2026-04-08T21:30:16Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/live/2026/apr/07/sporting-v-arsenal-champions-league-quarter-final-first-leg-live",
-      "headline": "Sporting v Arsenal: Champions League quarter-final first leg – live",
-      "summary": "Arsenal face Sporting in Champions League quarter-final first leg in Lisbon.",
-      "url": "https://www.theguardian.com/p/x4nv6x",
-      "thumbnail": "https://media.guim.co.uk/e6e13601f99e8de3bec6a8131fcf892d232a14af/825_42_3412_2729/500.jpg",
-      "published": "2026-04-07T19:49:59Z",
-      "location": {
-        "name": "Lisbon",
-        "lat": 38.7223,
-        "lng": -9.1393
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "football/live/2026/apr/07/real-madrid-v-bayern-munich-champions-league-quarter-final-first-leg-live",
-      "headline": "Real Madrid v Bayern Munich: Champions League quarter-final first leg – live",
-      "summary": "Real Madrid host Bayern Munich in Champions League quarter-final at Bernabéu.",
-      "url": "https://www.theguardian.com/p/x4nv74",
-      "thumbnail": "https://media.guim.co.uk/679960c572c134070aa3d30b505cbce05cd715ba/162_79_2764_2211/500.jpg",
-      "published": "2026-04-07T19:45:55Z",
-      "location": {
-        "name": "Madrid",
-        "lat": 40.4168,
-        "lng": -3.7038
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/apr/07/arne-slot-liverpool-champions-league-psg-alexander-isak",
-      "headline": "Slot warns Liverpool cannot afford to switch off in Champions League test at PSG",
-      "summary": "Liverpool manager Slot warns team must avoid switching off in PSG Champions League tie.",
-      "url": "https://www.theguardian.com/p/x4n2jj",
-      "thumbnail": "https://media.guim.co.uk/7bbb561319aedcb21201ccb4fbfce8596bed6fa4/260_0_2932_2346/500.jpg",
-      "published": "2026-04-07T19:36:35Z",
-      "location": {
-        "name": "Paris",
-        "lat": 48.8566,
-        "lng": 2.3522
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "world/2026/apr/07/jd-vance-hungary-viktor-orban-election",
-      "headline": "Vance’s whirlwind visit may not help Orbán to the election victory he craves",
-      "summary": "JD Vance visits Hungary amid heated election campaign with Orbán facing possible defeat.",
-      "url": "https://www.theguardian.com/p/x4n2fd",
-      "thumbnail": "https://media.guim.co.uk/111b097351cc9b191bdb4da525570ba23b0e0ff5/549_0_5229_4183/500.jpg",
-      "published": "2026-04-07T19:28:54Z",
-      "location": {
-        "name": "Budapest",
-        "lat": 47.4979,
-        "lng": 19.0402
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "uk-news/2026/apr/07/commonwealth-leaders-vow-to-keep-seeking-reparations-after-reform-uk-plan-to-halt-visas",
-      "headline": "Commonwealth leaders vow to keep seeking reparations after Reform UK plan to halt visas",
-      "summary": "Commonwealth leaders vow to pursue reparations despite Reform UK's threat to halt visas.",
-      "url": "https://www.theguardian.com/p/x4nxnm",
-      "thumbnail": "https://media.guim.co.uk/1c9493448496ff0cad11992751789ec29d215de6/417_0_4167_3334/500.jpg",
-      "published": "2026-04-07T19:26:05Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "politics/2026/apr/07/antonia-romeo-handed-powerful-mandate-to-deliver-no-10s-priorities",
-      "headline": "Antonia Romeo handed powerful mandate to deliver No 10’s priorities",
-      "summary": "Antonia Romeo given mandate to deliver PM's civil service reform priorities.",
-      "url": "https://www.theguardian.com/p/x4nxtq",
-      "thumbnail": "https://media.guim.co.uk/381f5b016eabf59928e51e4cbadea3a60ecabadc/976_186_1525_1221/500.jpg",
-      "published": "2026-04-07T19:15:58Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "uk-news/2026/apr/07/hms-dragon-docks-in-eastern-mediterranean-after-issues-with-water-systems",
-      "headline": "HMS Dragon docks in eastern Mediterranean after problems with water systems",
-      "summary": "HMS Dragon docks in eastern Mediterranean after water system problems near RAF Akrotiri.",
-      "url": "https://www.theguardian.com/p/x4n2hb",
-      "thumbnail": "https://media.guim.co.uk/ef37288bc2eff062940eb0100979d131ca6a0b6e/358_0_3970_3175/500.jpg",
-      "published": "2026-04-07T19:04:03Z",
-      "location": {
-        "name": "Cyprus",
-        "lat": 35.1264,
-        "lng": 33.4299
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "uk-news"
-    },
     {
       "id": "australia-news/live/2026/apr/08/ben-roberts-smith-court-anthony-albanese-labor-angus-taylor-matt-canavan-liberal-national-coalition-fuel-prices-oil-crisis-iran-war-ntwnfb",
       "headline": "Australia news live: Canavan says Trump’s threats have ‘gotten out of hand’; Ben Roberts-Smith to front court",
@@ -150,86 +38,6 @@
       "category": "conflict",
       "significance": 4,
       "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/apr/07/us-soldier-wife-ice-arrest",
-      "headline": "US soldier’s wife released after arrest by ICE agents at military base",
-      "summary": "US soldier's Honduran wife released after ICE arrest at military base.",
-      "url": "https://www.theguardian.com/p/x4n382",
-      "thumbnail": "https://media.guim.co.uk/b9e318adb4a100e9279100210707b6dd4c73dd82/192_0_1916_1533/500.jpg",
-      "published": "2026-04-07T21:30:47Z",
-      "location": {
-        "name": "Louisiana",
-        "lat": 31.1695,
-        "lng": -91.8749
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "football/2026/apr/07/real-madrid-bayern-munich-champions-league-quarter-final-first-leg-match-report",
-      "headline": "Harry Kane gives Bayern Munich edge despite Real Madrid fightback in thriller",
-      "summary": "Bayern Munich defeats Real Madrid 2-1 in Champions League quarter-final first leg.",
-      "url": "https://www.theguardian.com/p/x4nx7k",
-      "thumbnail": "https://media.guim.co.uk/fc9153cd43a993aa3ec5ab6f7b543f3c994d1407/371_0_3744_2995/500.jpg",
-      "published": "2026-04-07T21:12:18Z",
-      "location": {
-        "name": "Madrid",
-        "lat": 40.4168,
-        "lng": -3.7038
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/apr/07/sporting-arsenal-champions-league-quarter-final-first-leg-match-report",
-      "headline": "Kai Havertz snatches late victory for Arsenal to take control against Sporting",
-      "summary": "Arsenal wins 1-0 at Sporting with Havertz 91st-minute goal in Champions League quarter-final.",
-      "url": "https://www.theguardian.com/p/x4nx85",
-      "thumbnail": "https://media.guim.co.uk/62c0a605e1efe9c6a54fad7c5d2fd82d399d1ec6/186_0_3371_2696/500.jpg",
-      "published": "2026-04-07T21:06:43Z",
-      "location": {
-        "name": "Lisbon",
-        "lat": 38.7223,
-        "lng": -9.1393
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "us-news/2026/apr/07/chad-bianco-sheriff-california-ballot-seizure-prop-50",
-      "headline": "‘A blatant political ploy’: California sheriff’s seizure of referendum ballots sets off alarm bells",
-      "summary": "California sheriff seizes 650,000 referendum ballots, raising electoral integrity concerns.",
-      "url": "https://www.theguardian.com/p/x4n2j4",
-      "thumbnail": "https://media.guim.co.uk/22e35f7575e672e9f6a6f716aeabacbd1dc65cb2/333_0_3333_2667/500.jpg",
-      "published": "2026-04-07T21:05:06Z",
-      "location": {
-        "name": "Riverside",
-        "lat": 33.9826,
-        "lng": -117.2964
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "australia-news/2026/apr/08/morning-mail-wednesday-ntwnfb",
-      "headline": "Morning Mail: Trump’s countdown to destruction, Greens champion ‘progressive populism’, Kanye West banned from UK",
-      "summary": "Trump's Iran ultimatum deadline looms as world awaits response to annihilation threat.",
-      "url": "https://www.theguardian.com/p/x4nvf5",
-      "thumbnail": "https://media.guim.co.uk/93ce467678b868cc678cce928ff76bffa3160116/12_0_2124_1700/500.jpg",
-      "published": "2026-04-07T20:57:43Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "australia-news"
     },
     {
       "id": "us-news/2026/apr/07/trump-iran-war-ceasefire",
@@ -1062,6 +870,118 @@
       "category": "health",
       "significance": 2,
       "section": "uk-news"
+    },
+    {
+      "id": "football/2026/apr/08/barcelona-atletico-madrid-champions-league-quarter-final-first-leg",
+      "headline": "Barcelona on the brink after red card and Alvarez stunner sparks Atlético victory",
+      "summary": "Atlético Madrid defeats Barcelona 2-0 in Champions League quarter-final first leg at Camp Nou.",
+      "url": "https://www.theguardian.com/p/x4n7xg",
+      "thumbnail": "https://media.guim.co.uk/8f4a2dc23e1c43488026504c94d1140ffe18fc5c/452_0_2615_2093/500.jpg",
+      "published": "2026-04-08T21:30:16Z",
+      "location": {
+        "name": "Barcelona",
+        "lat": 41.3851,
+        "lng": 2.1734
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "tv-and-radio/2026/apr/08/twenty-twenty-six-review-hugh-bonneville-bbc",
+      "headline": "Twenty Twenty Six review – Hugh Bonneville’s World Cup comedy wields jokes as subtly as foam mallets",
+      "summary": "Hugh Bonneville stars in BBC mockumentary Twenty Twenty Six about 2026 World Cup preparations.",
+      "url": "https://www.theguardian.com/p/x4nvff",
+      "thumbnail": "https://media.guim.co.uk/c40649d697669facb42c6ada153eb4d45924eb07/240_0_3752_3002/500.jpg",
+      "published": "2026-04-08T21:30:14Z",
+      "location": {
+        "name": "Miami",
+        "lat": 25.7617,
+        "lng": -80.1918
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "tv-and-radio"
+    },
+    {
+      "id": "law/2026/apr/08/victims-and-bereaved-families-to-get-more-time-to-challenge-unduly-lenient-sentences",
+      "headline": "Victims and bereaved families to get more time to challenge ‘unduly lenient’ sentences",
+      "summary": "Justice Secretary David Lammy extends deadline for victims to challenge unduly lenient sentences to six months.",
+      "url": "https://www.theguardian.com/p/x4n72g",
+      "thumbnail": "https://media.guim.co.uk/f56b3425aa41764956ce7410e029d249774d9832/663_130_4635_3709/500.jpg",
+      "published": "2026-04-08T21:30:13Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "law"
+    },
+    {
+      "id": "australia-news/live/2026/apr/09/anthony-albanese-singapore-visit-fuel-crisis-middle-east-ceasefire-lebanon-strikes-politics-labor-coalition-reactions-ntwnfb",
+      "headline": "Australia news live: Australia news live: ‘Deeply concerned’ Penny Wong says Lebanon should be included in ceasefire and calls for aid workers to be protected",
+      "summary": "Foreign Minister Penny Wong calls for Lebanon inclusion in Middle East ceasefire amid Israeli strikes.",
+      "url": "https://www.theguardian.com/p/x4n63f",
+      "thumbnail": "https://media.guim.co.uk/22e44ced4b991ee7f051e40d7b98f85a97636cdc/693_297_6418_5134/500.jpg",
+      "published": "2026-04-08T21:25:24Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "australia-news"
+    },
+    {
+      "id": "australia-news/2026/apr/09/morning-mail-thursday-ntwnfb",
+      "headline": "Israeli strikes on Lebanon put Middle East ceasefire in doubt, razor gang targets NDIS, outback town for sale",
+      "summary": "Israeli strikes on Lebanon threaten fragile Middle East ceasefire as Iran blocks Hormuz strait.",
+      "url": "https://www.theguardian.com/p/x4n5qf",
+      "thumbnail": "https://media.guim.co.uk/e01f16c88c6d557a9a68702dcdf308a81acfb98a/0_0_6182_4948/500.jpg",
+      "published": "2026-04-08T21:13:45Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "australia-news"
+    },
+    {
+      "id": "football/2026/apr/08/psg-liverpool-champions-league-quarter-final-first-leg",
+      "headline": "Kvaratskhelia caps victory for dominant PSG as cautious Liverpool cling to hope",
+      "summary": "PSG dominates Liverpool 2-0 in Champions League quarter-final first leg at Parc des Princes.",
+      "url": "https://www.theguardian.com/p/x4n7vp",
+      "thumbnail": "https://media.guim.co.uk/cb9bc4a1148dc09edc87cf988cd0885f586af9c2/722_0_4386_3511/500.jpg",
+      "published": "2026-04-08T21:07:45Z",
+      "location": {
+        "name": "Paris",
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "thefilter-us/2026/apr/08/sweatpant-jeans-comfy-luxury",
+      "headline": "These $50 sweatpant jeans ‘tricked nearly everyone’ – and were as comfy as the luxury pair",
+      "summary": "Trump's Iran ceasefire deal exposes divisions within MAGA movement over foreign policy approach.",
+      "url": "https://www.theguardian.com/p/x4nxnh",
+      "thumbnail": "https://media.guim.co.uk/95e5b749577795779a510433de51d55e6b7a3556/1_0_4998_4000/500.jpg",
+      "published": "2026-04-08T20:39:23Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "thefilter-us"
     }
   ]
 }
