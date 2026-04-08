@@ -1,204 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-08T06:08:09.704Z",
-    "story_count": 68,
-    "oldest_story": "2026-04-07T09:00:54Z",
-    "newest_story": "2026-04-08T06:05:20Z",
+    "generated_at": "2026-04-08T10:16:53.641Z",
+    "story_count": 67,
+    "oldest_story": "2026-04-07T11:00:45Z",
+    "newest_story": "2026-04-08T10:06:20Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "books/2026/apr/07/upward-bound-by-woody-brown-review-extraordinary-debut-from-a-non-speaking-autistic-author",
-      "headline": "Upward Bound by Woody Brown review – extraordinary debut from a non-speaking autistic author",
-      "summary": "Debut novel by non-speaking autistic author set in LA daycare explores disabled community.",
-      "url": "https://www.theguardian.com/p/x4kxxt",
-      "thumbnail": "https://media.guim.co.uk/31df913781d70f205cb0474a74d45ad75d6fa92c/255_1605_2995_2396/500.jpg",
-      "published": "2026-04-07T09:53:49Z",
-      "location": {
-        "name": "Los Angeles",
-        "lat": 34.0522,
-        "lng": -118.2437
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "books"
-    },
-    {
-      "id": "politics/2026/apr/07/reform-uk-stop-visas-countries-seeking-reparations-slavery",
-      "headline": "Reform UK would stop visas for people from countries seeking slavery reparations",
-      "summary": "Reform UK would stop visas for countries seeking slavery reparations from Britain.",
-      "url": "https://www.theguardian.com/p/x4mqyt",
-      "thumbnail": "https://media.guim.co.uk/23ea6af0eb95a876cf969aa34f87a3a25b6d19ad/5889_840_3639_2911/500.jpg",
-      "published": "2026-04-07T09:49:26Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "world/live/2026/apr/07/jd-vance-budapest-viktor-orban-hungary-election-france-nicolas-sarkozy-denmark-coalition-russia-ukraine-europe-latest-updates-news",
-      "headline": "Hungary’s foreign minister says JD Vance’s visit signals ‘golden age’ of Hungarian-US relations – Europe live",
-      "summary": "JD Vance visits Hungary; Foreign Minister signals 'golden age' of US-Hungarian relations.",
-      "url": "https://www.theguardian.com/p/x4mqph",
-      "thumbnail": "https://media.guim.co.uk/a59c12261b448c2a80db892007c015c7e79aeddf/352_0_5000_4000/500.jpg",
-      "published": "2026-04-07T09:39:44Z",
-      "location": {
-        "name": "Budapest",
-        "lat": 47.4979,
-        "lng": 19.0402
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "world/2026/apr/07/israel-warns-iran-lives-at-risk-if-they-use-trains-trump-deadline",
-      "headline": "Israel warns Iranians their lives will be at risk if they use trains as Trump deadline looms",
-      "summary": "Israel warns Iranians of train travel risks as Trump deadline for Hormuz strait looms.",
-      "url": "https://www.theguardian.com/p/x4nvxp",
-      "thumbnail": "https://media.guim.co.uk/dd4c237aa4f1b1c4c5765208b52dd95327c90fcd/458_0_4583_3667/500.jpg",
-      "published": "2026-04-07T09:23:19Z",
-      "location": {
-        "name": "Tehran",
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "music/2026/apr/07/kanye-west-ye-statement-uk-jewish-community-wireless-festival-backlash",
-      "headline": "Kanye West offers to meet UK’s Jewish community after Wireless backlash",
-      "summary": "Kanye West offers to meet UK Jewish community after Wireless festival booking backlash.",
-      "url": "https://www.theguardian.com/p/x4mqpf",
-      "thumbnail": "https://media.guim.co.uk/e6e7ac83eea95cfc413af86c39dda617b3031c22/31_11_1028_822/500.jpg",
-      "published": "2026-04-07T09:19:58Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "music"
-    },
-    {
-      "id": "sport/2026/apr/06/courtney-lawes-return-prem-brive-rugby-union",
-      "headline": "Courtney Lawes ‘officially un-retiring’ for England after announcing Sale move",
-      "summary": "Harry Maguire signs Manchester United contract extension until 2027 with option for further year.",
-      "url": "https://www.theguardian.com/p/x4mn5j",
-      "thumbnail": "https://media.guim.co.uk/6ced0d80c6c6d285d1b0cda2cd2caf378bfd045c/469_0_4694_3755/500.jpg",
-      "published": "2026-04-07T09:18:40Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4831,
-        "lng": -2.2043
-      },
-      "category": "sport",
-      "significance": 1,
-      "section": "sport"
-    },
-    {
-      "id": "australia-news/2026/apr/07/abc-drops-lgbtq-diversity-inclusion-sponsorship-ntwnfb",
-      "headline": "ABC drops sponsorship of LGBTQ+, disability and diversity groups including Acon",
-      "summary": "ABC drops sponsorship of LGBTQ+, disability, and diversity groups over independence concerns.",
-      "url": "https://www.theguardian.com/p/x4mqzk",
-      "thumbnail": "https://media.guim.co.uk/931624f8ba0d37dae26cd9d923d731d817e2473e/403_0_5000_4000/500.jpg",
-      "published": "2026-04-07T09:18:38Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "australia-news"
-    },
-    {
-      "id": "australia-news/2026/apr/07/fuel-prices-petrol-australia-singapore-albanese-trip",
-      "headline": "Albanese brings forward Singapore trip and speaks with China in bid to shore up petrol shipments to Australia",
-      "summary": "Albanese brings forward Singapore trip to shore up petrol shipments amid rising fuel prices.",
-      "url": "https://www.theguardian.com/p/x4mqh9",
-      "thumbnail": "https://media.guim.co.uk/b9b94ec81b2742d885f2bed9b233a304f3f2be34/3599_1135_2357_1886/500.jpg",
-      "published": "2026-04-07T09:15:10Z",
-      "location": {
-        "name": "Singapore",
-        "lat": 1.3521,
-        "lng": 103.8198
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "football/2026/apr/07/harry-maguire-signs-manchester-united-contract-extension",
-      "headline": "‘Ultimate honour’: Harry Maguire signs contract extension at Manchester United",
-      "summary": "Ben Roberts-Smith, Australia's most decorated soldier, arrested and charged with five war crimes.",
-      "url": "https://www.theguardian.com/p/x4nvby",
-      "thumbnail": "https://media.guim.co.uk/f733c0c881b4ce5afeb12d7afcf42637367d6444/765_124_2148_1718/500.jpg",
-      "published": "2026-04-07T09:10:18Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "australia-news/2026/apr/07/ben-roberts-smith-arrested-brs-australian-soldier-sas-alleged-war-crimes-ntwnfb",
-      "headline": "Ben Roberts-Smith arrested: former Australian soldier charged with five war crime murders in Afghanistan",
-      "summary": "Bill Ackman's Pershing Square offers €55bn for Universal Music Group takeover.",
-      "url": "https://www.theguardian.com/p/x4mpke",
-      "thumbnail": "https://media.guim.co.uk/4cc55364b8e560905019c2005ad5c31cffb30f31/44_0_1924_1540/500.jpg",
-      "published": "2026-04-07T09:06:22Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "australia-news"
-    },
-    {
-      "id": "books/2026/apr/07/london-falling-by-patrick-radden-keefe-review-a-compulsive-tale-of-money-lies-and-avoidable-tragedy",
-      "headline": "London Falling by Patrick Radden Keefe review – a compulsive tale of money, lies and avoidable tragedy",
-      "summary": "Patrick Radden Keefe's book examines a teenager's violent death linked to deception and financial schemes.",
-      "url": "https://www.theguardian.com/p/x4kxhz",
-      "thumbnail": "https://media.guim.co.uk/0300a746bed62d0d08aaab9d297e18d0f6017d0e/656_0_3280_2624/500.jpg",
-      "published": "2026-04-07T09:00:55Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "books"
-    },
-    {
-      "id": "us-news/2026/apr/07/melissa-gilbert-abc-interview-timothy-busfield",
-      "headline": "Melissa Gilbert denies being ‘naive’ or ‘complicit’ in standing by Timothy Busfield despite sexual abuse claims",
-      "summary": "Melissa Gilbert defends standing by husband Timothy Busfield despite child sexual abuse allegations.",
-      "url": "https://www.theguardian.com/p/x4mncp",
-      "thumbnail": "https://media.guim.co.uk/7ea21fc526e75024fe44f691e74ce13ce205e529/421_0_4213_3371/500.jpg",
-      "published": "2026-04-07T09:00:54Z",
-      "location": {
-        "name": "New Mexico",
-        "lat": 34.8405,
-        "lng": -106.2371
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "us-news"
-    },
     {
       "id": "us-news/live/2026/apr/07/government-shutdown-congress-house-of-representatives-donald-trump-republicans-democrats-ice-us-politics-latest-updates-news",
       "headline": "Government shutdown enters eighth week as Johnson faces GOP revolt over DHS funding deal – US politics live",
@@ -1094,6 +902,182 @@
       "category": "sport",
       "significance": 1,
       "section": "sport"
+    },
+    {
+      "id": "politics/live/2026/apr/08/keir-starmer-iran-war-trump-ceasefire-gulf-strait-of-hormuz-labour-conservatives-liberal-democrats-reform-scotland-holyrood-uk-politics-latest-news-updates",
+      "headline": "Keir Starmer welcomes Iran war ceasefire as he heads to Gulf to meet regional leaders – UK politics live",
+      "summary": "Keir Starmer heads to Gulf to support US-Iran ceasefire and reopen Strait of Hormuz.",
+      "url": "https://www.theguardian.com/p/x4n5c9",
+      "thumbnail": "https://media.guim.co.uk/98557d4962e0fc14f4d3d195eee9fff0d0585ee5/243_0_3420_2736/500.jpg",
+      "published": "2026-04-08T10:06:20Z",
+      "location": {
+        "name": "Persian Gulf",
+        "lat": 26,
+        "lng": 54
+      },
+      "category": "politics",
+      "significance": 4,
+      "section": "politics"
+    },
+    {
+      "id": "us-news/live/2026/apr/08/liberal-judge-chris-taylor-wisconsin-supreme-court-donald-trump-pete-hegseth-us-politics-latest",
+      "headline": "Liberal judge Chris Taylor wins election to Wisconsin supreme court – US politics live",
+      "summary": "Liberal judge Chris Taylor wins Wisconsin Supreme Court election, giving liberals 5-2 majority.",
+      "url": "https://www.theguardian.com/p/x4n5q2",
+      "thumbnail": "https://media.guim.co.uk/c64990b4f7f3fb9ab00a73e6a5987fc7d3b63433/102_0_3261_2609/500.jpg",
+      "published": "2026-04-08T10:04:39Z",
+      "location": {
+        "name": "Madison, Wisconsin",
+        "lat": 43.0731,
+        "lng": -89.4012
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "world/live/2026/apr/08/jd-vance-hungary-viktor-orban-election-nato-europe-latest-news-updates",
+      "headline": "Vance praises Orbán on Ukraine during his ‘unprecedented’ Hungary visit – Europe live",
+      "summary": "VP Vance visits Hungary, praises Orbán on Ukraine and criticises EU energy policies.",
+      "url": "https://www.theguardian.com/p/x4n5fe",
+      "thumbnail": "https://media.guim.co.uk/16122ef59a096c4ae3efe09f72230824147f793f/0_0_4583_3667/500.jpg",
+      "published": "2026-04-08T10:04:33Z",
+      "location": {
+        "name": "Budapest, Hungary",
+        "lat": 47.4979,
+        "lng": 19.0402
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "us-news/2026/apr/08/father-dies-saves-drowning-children-florida-beach",
+      "headline": "‘His last gift’: father dies saving two of his children from drowning off Florida coast ",
+      "summary": "Maine father dies saving two children from drowning off Florida coast during vacation.",
+      "url": "https://www.theguardian.com/p/x4n27v",
+      "thumbnail": "https://media.guim.co.uk/8151cf58126791cb5a47fd5f11b857d3e23bf127/0_70_1284_1027/500.jpg",
+      "published": "2026-04-08T10:00:29Z",
+      "location": {
+        "name": "Juno Beach, Florida",
+        "lat": 26.8753,
+        "lng": -80.0586
+      },
+      "category": "other",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "books/2026/apr/08/evelyn-araluen-author-poetry-nominated-stella-prize",
+      "headline": "Two for two? Stella prize winner Evelyn Araluen nominated again for second poetry collection",
+      "summary": "European leaders welcome US-Iran ceasefire, call for Strait of Hormuz reopening and permanent peace.",
+      "url": "https://www.theguardian.com/p/x4mqpm",
+      "thumbnail": "https://media.guim.co.uk/7797f8c233628114169243eeb1c7ddfbbf2830fd/0_284_1600_1280/500.jpg",
+      "published": "2026-04-08T10:00:28Z",
+      "location": {
+        "name": "Brussels, Belgium",
+        "lat": 50.8503,
+        "lng": 4.3517
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "books"
+    },
+    {
+      "id": "world/2026/apr/08/european-leaders-welcome-us-iran-ceasefire",
+      "headline": "‘A step back from the brink’: European leaders welcome US-Iran ceasefire ",
+      "summary": "NHS chief claims doctors' strike deliberately timed to cause Easter holiday disruption.",
+      "url": "https://www.theguardian.com/p/x4n5zb",
+      "thumbnail": "https://media.guim.co.uk/ef8748ac365ea62d1fb45438bf83b41c51bdc874/333_0_4159_3329/500.jpg",
+      "published": "2026-04-08T09:50:39Z",
+      "location": {
+        "name": "London, United Kingdom",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "society/2026/apr/08/doctors-strike-easter-break-rota-havoc-nhs-england-chief-jim-mackey",
+      "headline": "Doctors’ strike timed to cause havoc over Easter break, says NHS England chief",
+      "summary": "Comedian Miles Jupp recalls how 2005 Ashes climax deepened cricket passion and career.",
+      "url": "https://www.theguardian.com/p/x4n6x4",
+      "thumbnail": "https://media.guim.co.uk/fff4b9ed33468376aa2ec4432cf0a8beb76d79b1/117_0_4728_3782/500.jpg",
+      "published": "2026-04-08T09:49:27Z",
+      "location": {
+        "name": "London, United Kingdom",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 1,
+      "section": "society"
+    },
+    {
+      "id": "sport/2026/apr/08/miles-jupp-on-how-ashes-climax-fuelled-incredible-blag-cricket-the-spin",
+      "headline": "‘That day was life-changing’: Miles Jupp on how Ashes climax fuelled incredible blag",
+      "summary": "Iran enters US peace talks with stronger position despite war losses after ceasefire.",
+      "url": "https://www.theguardian.com/p/x4n5kb",
+      "thumbnail": "https://media.guim.co.uk/c5e9302f9f0748a484a74bd805cd66cc0b0a9508/262_0_3540_2832/500.jpg",
+      "published": "2026-04-08T09:47:28Z",
+      "location": {
+        "name": "Tehran, Iran",
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "sport"
+    },
+    {
+      "id": "world/2026/apr/08/ceasefire-wins-trump-instant-gratification-but-iran-can-enter-talks-with-stronger-hand",
+      "headline": "Ceasefire wins Trump instant gratification but Iran can enter talks with stronger hand",
+      "summary": "Cardiff airport wins legal challenge over £205m Welsh government subsidy against Bristol rival.",
+      "url": "https://www.theguardian.com/p/x4n5zf",
+      "thumbnail": "https://media.guim.co.uk/9d72a0acc5bd46916d2162f8d963df32d2e14775/281_0_5000_4000/500.jpg",
+      "published": "2026-04-08T09:35:36Z",
+      "location": {
+        "name": "Cardiff, Wales",
+        "lat": 51.4816,
+        "lng": -3.1791
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "uk-news/2026/apr/08/bristol-airport-loses-legal-challenge-against-cardiff-rival-over-subsidy",
+      "headline": "Bristol airport loses legal challenge against Cardiff rival over £205m subsidy",
+      "summary": "British horse racing considers direct action protests against government affordability check plans.",
+      "url": "https://www.theguardian.com/p/x4n5qz",
+      "thumbnail": "https://media.guim.co.uk/eadc8cb08554ed43ac9257b446654b86a90002af/789_0_4640_3712/500.jpg",
+      "published": "2026-04-08T09:34:38Z",
+      "location": {
+        "name": "London, United Kingdom",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 1,
+      "section": "uk-news"
+    },
+    {
+      "id": "business/2026/apr/08/uk-interest-rate-predictions-us-iran-two-week-ceasefire",
+      "headline": "UK interest rate predictions fall as US and Iran agree two-week ceasefire",
+      "summary": "UK interest rate rise forecasts cut to one as US-Iran ceasefire eases market tensions.",
+      "url": "https://www.theguardian.com/p/x4n5yd",
+      "thumbnail": "https://media.guim.co.uk/b539ff8e5597f3088eacdb32cb8581f8ae62cdb3/61_0_2574_2060/500.jpg",
+      "published": "2026-04-08T09:09:07Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "business"
     }
   ]
 }
