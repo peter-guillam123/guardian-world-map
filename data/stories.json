@@ -1,140 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-09T22:02:52.842Z",
-    "story_count": 59,
-    "oldest_story": "2026-04-08T22:51:33Z",
-    "newest_story": "2026-04-09T21:57:00Z",
+    "generated_at": "2026-04-09T23:58:11.769Z",
+    "story_count": 55,
+    "oldest_story": "2026-04-09T04:59:23Z",
+    "newest_story": "2026-04-09T23:03:53Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "world/2026/apr/08/israel-operations-in-lebanon-to-continue-despite-trump-ceasefire-iran-pakistan-hezbollah",
-      "headline": "At least 254 killed after Israel hits Lebanon with massive wave of airstrikes ",
-      "summary": "Israel launches largest coordinated strikes on Lebanon, killing 254, risking Iran ceasefire collapse.",
-      "url": "https://www.theguardian.com/p/x4n5ac",
-      "thumbnail": "https://media.guim.co.uk/a2cc2698b8f60d45f5dbd0fd758df35b5239cfe7/322_0_3218_2574/500.jpg",
-      "published": "2026-04-08T23:52:56Z",
-      "location": {
-        "name": "Lebanon",
-        "lat": 33.8547,
-        "lng": 35.8623
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "world/2026/apr/09/korean-fried-chicken",
-      "headline": "How KFC, AKA Korean fried chicken, took over the world",
-      "summary": "Korean fried chicken evolves from US-influenced roots into global culinary phenomenon leading K-food wave.",
-      "url": "https://www.theguardian.com/p/x4my6m",
-      "thumbnail": "https://media.guim.co.uk/caab4bec96e8e3e6d268bb47bb3bd6b64b143ac3/207_0_6484_5190/500.jpg",
-      "published": "2026-04-08T23:32:45Z",
-      "location": {
-        "name": "Seoul",
-        "lat": 37.5665,
-        "lng": 126.978
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "us-news/2026/apr/08/los-angeles-teen-eye-no-kings-march",
-      "headline": "LA teen loses eye after being shot by US agent at No Kings march, lawyer says",
-      "summary": "USC student loses eye after DHS agent fires less-lethal projectile at No Kings protest in LA.",
-      "url": "https://www.theguardian.com/p/x4n8pq",
-      "thumbnail": "https://media.guim.co.uk/db8ce6429e9da63a862532499478b262cf7c9cb3/0_28_4314_3450/500.jpg",
-      "published": "2026-04-08T23:21:04Z",
-      "location": {
-        "name": "Los Angeles",
-        "lat": 34.0522,
-        "lng": -118.2437
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "football/2026/apr/09/psg-ramp-up-the-style-to-leave-slot-and-liverpool-looking-like-yesterdays-men",
-      "headline": "PSG ramp up the style to leave Slot and Liverpool looking like yesterday’s men",
-      "summary": "PSG defeats Liverpool 2-0 in Champions League quarter-final first leg at Parc des Princes.",
-      "url": "https://www.theguardian.com/p/x4n7xa",
-      "thumbnail": "https://media.guim.co.uk/f717d4fdb49436604fdda3c3b93d7defe4da00a9/189_80_2644_2117/500.jpg",
-      "published": "2026-04-08T23:05:37Z",
-      "location": {
-        "name": "Paris",
-        "lat": 48.8566,
-        "lng": 2.3522
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "world/2026/apr/09/ministers-unveil-right-to-try-plan-to-help-disabled-people-find-work",
-      "headline": "Ministers unveil ‘right to try’ plan to help disabled people find work",
-      "summary": "UK government announces 'right to try' plan allowing disabled workers to test employment without losing benefits.",
-      "url": "https://www.theguardian.com/p/x4n7qb",
-      "thumbnail": "https://media.guim.co.uk/58c9b7a7d3b57e37e867b9a8517c46ad5dda1661/426_0_4269_3415/500.jpg",
-      "published": "2026-04-08T23:01:16Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "education/2026/apr/09/english-universities-excessive-financial-risks-survival-warns-thinktank",
-      "headline": "‘Excessive’ financial risks threaten survival of many English universities, report warns",
-      "summary": "Report warns English universities face excessive financial risks from high borrowing and rapid expansion.",
-      "url": "https://www.theguardian.com/p/x4n66c",
-      "thumbnail": "https://media.guim.co.uk/d284dc4eb836cbb1a0de4c54c92ce65f5da5d45f/0_105_3968_3175/500.jpg",
-      "published": "2026-04-08T23:01:15Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "education"
-    },
-    {
-      "id": "world/2026/apr/09/us-ignoring-evidence-russia-is-helping-iran-because-it-trusts-putin-says-zelenskyy",
-      "headline": "US ignoring evidence Russia is helping Iran because it trusts Putin, says Zelenskyy",
-      "summary": "Zelenskyy claims US ignores evidence Russia aids Iran targeting US bases due to trust in Putin.",
-      "url": "https://www.theguardian.com/p/x4n7hn",
-      "thumbnail": "https://media.guim.co.uk/4030dd387ee205a8d7171f138658ab0003474ced/905_127_2600_2080/500.jpg",
-      "published": "2026-04-08T23:00:16Z",
-      "location": {
-        "name": "Kyiv",
-        "lat": 50.4501,
-        "lng": 30.5234
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "football/2026/apr/08/arne-slot-hopes-power-of-anfield-can-help-liverpool-turn-psg-tie-around",
-      "headline": "Arne Slot says Liverpool ‘need our fans’ to help turn PSG tie around at Anfield",
-      "summary": "Liverpool manager Slot vows team will raise level at Anfield after PSG first-leg defeat in Champions League.",
-      "url": "https://www.theguardian.com/p/x4n9vc",
-      "thumbnail": "https://media.guim.co.uk/a645298041f18433e18d18c2651ed789c071667d/1185_0_6880_5504/500.jpg",
-      "published": "2026-04-08T22:51:33Z",
-      "location": {
-        "name": "Liverpool",
-        "lat": 53.4084,
-        "lng": -2.9916
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
     {
       "id": "travel/2026/apr/09/gravel-biking-mountains-of-andalucia-southern-spain",
       "headline": "Terrain in Spain: gravel biking in the mountains of Andalucía",
@@ -950,6 +822,70 @@
       "category": "politics",
       "significance": 2,
       "section": "us-news"
+    },
+    {
+      "id": "sport/2026/apr/10/golf-masters-first-round-rory-mcilroy-sam-burns-augusta",
+      "headline": "Rory McIlroy holds share of Masters lead after flying start to his title defence",
+      "summary": "Rory McIlroy shares Masters lead with Sam Burns after opening 67 at Augusta National.",
+      "url": "https://www.theguardian.com/p/x4ncee",
+      "thumbnail": "https://media.guim.co.uk/b2308afe94aa898db571b058f0e18515b9f67538/705_0_4119_3294/500.jpg",
+      "published": "2026-04-09T23:03:53Z",
+      "location": {
+        "name": "Augusta",
+        "lat": 33.5007,
+        "lng": -82.0105
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "us-news/2026/apr/09/democrats-national-action-cetwork-convention-2026-midterms",
+      "headline": "‘We can’t lose’: all eyes on potential 2028 Democratic contenders at big party gathering for this year’s midterms",
+      "summary": "Democratic leaders gather at National Action Network convention in NYC to strategize for midterms.",
+      "url": "https://www.theguardian.com/p/x4neah",
+      "thumbnail": "https://media.guim.co.uk/3c4a0f5684d41d53186fa66134e31e137f29d869/333_0_3333_2667/500.jpg",
+      "published": "2026-04-09T23:02:20Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/apr/10/premier-league-10-things-to-look-out-for-this-weekend",
+      "headline": "Premier League: 10 things to look out for this weekend",
+      "summary": "Premier League weekend preview highlights De Zerbi's Tottenham debut and Anfield protests.",
+      "url": "https://www.theguardian.com/p/x4n62g",
+      "thumbnail": "https://media.guim.co.uk/bac198fc3d96e547f4000c0565ccfe64d6e7ac12/0_0_5000_4000/500.jpg",
+      "published": "2026-04-09T23:01:02Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "science/2026/apr/09/artemis-crew-nasa-return",
+      "headline": "Artemis II crew to return home as Nasa lays out steps for safe splashdown",
+      "summary": "Artemis II crew prepares for splashdown off southern California coast after lunar flyby mission.",
+      "url": "https://www.theguardian.com/p/x4nee5",
+      "thumbnail": "https://media.guim.co.uk/115ed6bc5a0e3817e454e44e1ec00524b410fbf1/338_0_3362_2691/500.jpg",
+      "published": "2026-04-09T22:58:28Z",
+      "location": {
+        "name": "Southern California",
+        "lat": 34.0522,
+        "lng": -118.2437
+      },
+      "category": "tech",
+      "significance": 3,
+      "section": "science"
     }
   ]
 }
