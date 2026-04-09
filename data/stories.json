@@ -1,220 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-09T16:06:48.879Z",
-    "story_count": 62,
-    "oldest_story": "2026-04-08T17:56:01Z",
-    "newest_story": "2026-04-09T16:05:05Z",
+    "generated_at": "2026-04-09T19:54:46.326Z",
+    "story_count": 55,
+    "oldest_story": "2026-04-08T20:39:23Z",
+    "newest_story": "2026-04-09T19:53:37Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/live/2026/apr/08/barcelona-v-atletico-madrid-champions-league-quarter-final-first-leg",
-      "headline": "Barcelona v Atlético Madrid: Champions League quarter-final, first leg",
-      "summary": "Barcelona face Atlético Madrid in Champions League quarter-final first leg at Camp Nou.",
-      "url": "https://www.theguardian.com/p/x4n2v4",
-      "thumbnail": "https://media.guim.co.uk/edc106d58c9df6eba2575fae263b5ecc19300055/216_0_1625_1300/500.jpg",
-      "published": "2026-04-08T18:57:29Z",
-      "location": {
-        "name": "Barcelona",
-        "lat": 41.3851,
-        "lng": 2.1734
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "football/live/2026/apr/08/paris-saint-germain-v-liverpool-champions-league-quarter-final-first-leg-live",
-      "headline": "Paris Saint-Germain v Liverpool: Champions League quarter-final, first leg – live",
-      "summary": "PSG host Liverpool in Champions League quarter-final first leg at Parc des Princes.",
-      "url": "https://www.theguardian.com/p/x4n223",
-      "thumbnail": "https://media.guim.co.uk/781386289955f986cbeb1ff51a134f3a0665b8c1/287_0_4351_3480/500.jpg",
-      "published": "2026-04-08T18:51:36Z",
-      "location": {
-        "name": "Paris",
-        "lat": 48.8566,
-        "lng": 2.3522
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "world/2026/apr/08/middle-east-ceasefire-doubt-israel-lebanon-iran-oil-tankers",
-      "headline": "Middle East ceasefire in serious doubt as Israel assaults Lebanon and Iran blocks oil tankers",
-      "summary": "Middle East ceasefire in doubt as Israel assaults Lebanon and Iran blocks oil tankers.",
-      "url": "https://www.theguardian.com/p/x4n7vt",
-      "thumbnail": "https://media.guim.co.uk/b00ad55575a70a9474aafbea637d212a927cc66b/437_0_4783_3827/500.jpg",
-      "published": "2026-04-08T18:50:11Z",
-      "location": {
-        "name": "Iran",
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "us-news/2026/apr/07/georgia-house-election-runoff",
-      "headline": "Republican to replace Marjorie Taylor Greene, but Democrats hail swing to left",
-      "summary": "Republican Clay Fuller wins Marjorie Taylor Greene's seat, but by smaller margin than past.",
-      "url": "https://www.theguardian.com/p/x4n33v",
-      "thumbnail": "https://media.guim.co.uk/7ae051a1012500d9729c28a9ef2775171919fd02/323_0_3761_3008/500.jpg",
-      "published": "2026-04-08T18:48:34Z",
-      "location": {
-        "name": "Georgia",
-        "lat": 33.749,
-        "lng": -83.388
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/apr/08/ketamine-queen-matthew-perry-sentencing",
-      "headline": " ‘Ketamine Queen’ sentenced to 15-year prison term for role in Matthew Perry’s death",
-      "summary": "'Ketamine Queen' Jasveen Sangha sentenced to 15 years for Matthew Perry's death.",
-      "url": "https://www.theguardian.com/p/x4n248",
-      "thumbnail": "https://media.guim.co.uk/b93e8d451984159bb07d49828d618d0b23d8e0e9/404_0_4038_3230/500.jpg",
-      "published": "2026-04-08T18:40:32Z",
-      "location": {
-        "name": "Los Angeles",
-        "lat": 34.0522,
-        "lng": -118.2437
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "world/2026/apr/08/relief-financial-markets-iran-ceasefire-far-from-absolute",
-      "headline": "Relief in financial markets after Iran ceasefire – but it is far from absolute",
-      "summary": "Relief in financial markets after Iran ceasefire, but situation remains volatile.",
-      "url": "https://www.theguardian.com/p/x4n7ax",
-      "thumbnail": "https://media.guim.co.uk/2d295876d94525903ce214cae7dbd0285bbdd9b0/224_42_2769_2215/500.jpg",
-      "published": "2026-04-08T18:38:50Z",
-      "location": {
-        "name": "Iran",
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "us-news/2026/apr/08/25th-amendment-democrats-trump-war-powers",
-      "headline": "Democrats renew push to curb Trump’s Iran war as calls to use 25th amendment mount",
-      "summary": "Democrats renew push to curb Trump's Iran war amid calls to invoke 25th amendment.",
-      "url": "https://www.theguardian.com/p/x4n7zz",
-      "thumbnail": "https://media.guim.co.uk/69b522eeff3a4fd09f0c3d035657d124774896b7/408_0_3970_3176/500.jpg",
-      "published": "2026-04-08T18:23:42Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/apr/08/gracie-mansion-bomb-attempt-mamdani",
-      "headline": "Teens accused of bombing attempt at Mamdani home openly discussed plans to kill",
-      "summary": "Teens accused of bombing attempt at NYC mayor's home discussed killing plans.",
-      "url": "https://www.theguardian.com/p/x4n7z2",
-      "thumbnail": "https://media.guim.co.uk/08587e3e4d55491be3cd366cd77b8bd8111fd5cb/0_0_4515_3613/500.jpg",
-      "published": "2026-04-08T18:20:11Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "conflict",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/apr/08/pam-bondi-house-hearing-epstein-files",
-      "headline": "Pam Bondi will not appear at scheduled House hearing on Epstein files, DoJ says",
-      "summary": "Pam Bondi will not appear at House hearing on Epstein files, DoJ says.",
-      "url": "https://www.theguardian.com/p/x4n7eb",
-      "thumbnail": "https://media.guim.co.uk/304a12cccd62e4b40d5b1c01dec6fc7d6d90947e/541_0_5418_4335/500.jpg",
-      "published": "2026-04-08T18:16:52Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 1,
-      "section": "us-news"
-    },
-    {
-      "id": "world/2026/apr/08/pakistan-us-israel-iran-ceasefire",
-      "headline": "How Pakistan secured ‘biggest diplomatic win in years’ with Iran ceasefire",
-      "summary": "Pakistan secures 'biggest diplomatic win in years' by brokering Iran ceasefire.",
-      "url": "https://www.theguardian.com/p/x4n67t",
-      "thumbnail": "https://media.guim.co.uk/e332473ebf95d974b511bba57a28aee3dedef767/624_0_4941_3952/500.jpg",
-      "published": "2026-04-08T18:09:54Z",
-      "location": {
-        "name": "Pakistan",
-        "lat": 30.3753,
-        "lng": 69.3451
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "commentisfree/2026/apr/08/the-guardian-view-on-london-and-antisocial-behaviour-a-real-problem-inflated-by-online-panic",
-      "headline": "The Guardian view on London and antisocial behaviour: a real problem inflated by online panic",
-      "summary": "Khan's approach to London antisocial behaviour criticized by online panic.",
-      "url": "https://www.theguardian.com/p/x4n7x4",
-      "thumbnail": "https://media.guim.co.uk/16693116e47d37540312c210f85a524d0a0d7cc6/485_0_6559_5247/500.jpg",
-      "published": "2026-04-08T18:00:46Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 1,
-      "section": "commentisfree"
-    },
-    {
-      "id": "world/2026/apr/08/keir-starmer-says-it-is-uks-job-to-help-reopen-strait-of-hormuz",
-      "headline": "Starmer says UK wants to help with opening of Hormuz strait on Gulf visit",
-      "summary": "Starmer says UK wants to help reopen Strait of Hormuz during Gulf visit.",
-      "url": "https://www.theguardian.com/p/x4n7f4",
-      "thumbnail": "https://media.guim.co.uk/c66eccdf02cb60ea6f86dbae3f200d70e7912313/807_61_5870_4696/500.jpg",
-      "published": "2026-04-08T17:58:27Z",
-      "location": {
-        "name": "Saudi Arabia",
-        "lat": 23.8859,
-        "lng": 45.0792
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "world/2026/apr/08/rspca-ai-images-dogs-property-uk",
-      "headline": "‘It’s not AI, it’s real’: shock as RSPCA releases images of 250 dogs found at property",
-      "summary": "RSPCA rescues 250+ dogs from overcrowded UK property, denies AI manipulation claims.",
-      "url": "https://www.theguardian.com/p/x4n7k6",
-      "thumbnail": "https://media.guim.co.uk/2177800becaf5638c8cd2e4ba05910517c58eda8/0_1455_3072_2457/500.jpg",
-      "published": "2026-04-08T17:56:01Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "uk-news"
-    },
     {
       "id": "football/2026/apr/08/barcelona-atletico-madrid-champions-league-quarter-final-first-leg",
       "headline": "Barcelona on the brink after red card and Alvarez stunner sparks Atlético victory",
@@ -998,6 +790,102 @@
       "category": "politics",
       "significance": 2,
       "section": "australia-news"
+    },
+    {
+      "id": "football/live/2026/apr/09/bologna-v-aston-villa-europa-league-quarter-final-first-leg-live",
+      "headline": "Bologna v Aston Villa: Europa League quarter-final, first leg – live",
+      "summary": "Bologna hosts Aston Villa in Europa League quarter-final first leg at Stadio Renato Dall'Ara.",
+      "url": "https://www.theguardian.com/p/x4n5hz",
+      "thumbnail": "https://media.guim.co.uk/17b1d0bc8b89bbb5b35a977ff58262e797ece68e/1325_0_6880_5504/500.jpg",
+      "published": "2026-04-09T19:53:37Z",
+      "location": {
+        "name": "Bologna",
+        "lat": 44.4949,
+        "lng": 11.3426
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/live/2026/apr/09/porto-v-nottingham-forest-europa-league-quarter-final-first-leg-live",
+      "headline": "Porto v Nottingham Forest: Europa League quarter-final, first leg – live",
+      "summary": "Porto faces Nottingham Forest in Europa League quarter-final first leg at Estádio do Dragão.",
+      "url": "https://www.theguardian.com/p/x4n5jc",
+      "thumbnail": "https://media.guim.co.uk/69c8506957783f7cd78b3adfa0c88d38ee11e109/362_0_5235_4188/500.jpg",
+      "published": "2026-04-09T19:51:35Z",
+      "location": {
+        "name": "Porto",
+        "lat": 41.1579,
+        "lng": -8.6291
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/apr/09/california-traffic-stop-homicide-victims",
+      "headline": "Traffic stop leads California law enforcement to two homicide victims ",
+      "summary": "Northern California traffic stop uncovers two homicide victims in vehicle on Easter Sunday.",
+      "url": "https://www.theguardian.com/p/x4ncqm",
+      "thumbnail": "https://media.guim.co.uk/8264c41ba6ab55b9a8800f3a4d7bfa2731c2e8f0/44_0_640_512/500.jpg",
+      "published": "2026-04-09T19:43:34Z",
+      "location": {
+        "name": "California",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "other",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/apr/09/melania-trump-jeffrey-epstein",
+      "headline": "Melania Trump says she not did not have relationship with Jeffrey Epstein",
+      "summary": "First lady Melania Trump denies relationship with Jeffrey Epstein and role in her meeting Trump.",
+      "url": "https://www.theguardian.com/p/x4ndza",
+      "thumbnail": "https://media.guim.co.uk/a5d524167d5e1e03ac118233f33a5215e68b1809/418_0_4164_3333/500.jpg",
+      "published": "2026-04-09T19:37:56Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/apr/09/pentagon-ai-xai-emil-michael",
+      "headline": "US defense official overseeing AI reaped millions selling xAI stock after Pentagon entered agreement with company",
+      "summary": "Pentagon official overseeing AI profited millions selling xAI stock after department agreement.",
+      "url": "https://www.theguardian.com/p/x4ndhc",
+      "thumbnail": "https://media.guim.co.uk/e8d114d7a2085d2a0f6b9cda817046887ee6deb0/426_267_3000_2400/500.jpg",
+      "published": "2026-04-09T19:35:29Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/apr/09/julian-alvarez-is-proving-that-hes-more-than-second-fiddle",
+      "headline": "Julián Alvarez is proving that he’s more than second fiddle",
+      "summary": "Julián Alvarez proves his quality with sensational free-kick for Atlético Madrid against Barcelona.",
+      "url": "https://www.theguardian.com/p/x4nd4b",
+      "thumbnail": "https://media.guim.co.uk/aa16b0273d872faf04749109fc87d895b08531da/400_0_3690_2952/500.jpg",
+      "published": "2026-04-09T18:47:55Z",
+      "location": {
+        "name": "Madrid",
+        "lat": 40.4168,
+        "lng": -3.7038
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
     }
   ]
 }
