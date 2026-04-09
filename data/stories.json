@@ -1,220 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-09T10:40:32.677Z",
+    "generated_at": "2026-04-09T16:06:48.879Z",
     "story_count": 62,
-    "oldest_story": "2026-04-08T13:48:58Z",
-    "newest_story": "2026-04-09T10:39:07Z",
+    "oldest_story": "2026-04-08T17:56:01Z",
+    "newest_story": "2026-04-09T16:05:05Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "world/2026/apr/08/hegseth-press-briefing-iran-ceasefire",
-      "headline": "Hegseth claims Iran ‘begged’ for ceasefire after US and Tehran agree to two-week pause",
-      "summary": "US Defense Secretary Hegseth claims Iran 'begged' for ceasefire after 40-day war.",
-      "url": "https://www.theguardian.com/p/x4n748",
-      "thumbnail": "https://media.guim.co.uk/dddb7ef7126a460a68c34d17dbeb24f10a403d59/570_0_4159_3326/500.jpg",
-      "published": "2026-04-08T14:58:05Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "football/2026/apr/08/real-madrid-bayern-munich-football-daily-newsletter",
-      "headline": "Madrid and Bayern burn rubber in fast and furious show at Bernabéu",
-      "summary": "Real Madrid and Bayern Munich play high-speed football match at Bernabéu.",
-      "url": "https://www.theguardian.com/p/x4n5zn",
-      "thumbnail": "https://media.guim.co.uk/dd6ae088866887802e6f10b984e6da8640de6013/504_0_2851_2281/500.jpg",
-      "published": "2026-04-08T14:52:02Z",
-      "location": {
-        "name": "Madrid",
-        "lat": 40.4168,
-        "lng": -3.7038
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "world/2026/apr/08/war-with-no-winners-netanyahu-israel-iran-us-ceasefire",
-      "headline": "In a war with no winners, Netanyahu looks like the biggest loser",
-      "summary": "Netanyahu faces criticism as Israel emerges as biggest loser in fragile Iran ceasefire.",
-      "url": "https://www.theguardian.com/p/x4n6yz",
-      "thumbnail": "https://media.guim.co.uk/f79d146460844bd368ab830a4d365439820e4916/577_0_2886_2309/500.jpg",
-      "published": "2026-04-08T14:48:24Z",
-      "location": {
-        "name": "Tehran",
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "business/live/2026/apr/08/oil-prices-drop-stocks-rise-dollar-down-us-iran-ceasefire-business-live",
-      "headline": "Oil prices plunge 15% to below $100, stocks surge and dollar slumps after Trump announces US-Iran ceasefire – as it happened",
-      "summary": "Oil prices plunge 15% to below $100 following Trump's announcement of US-Iran ceasefire.",
-      "url": "https://www.theguardian.com/p/x4n563",
-      "thumbnail": "https://media.guim.co.uk/804c681842c82d18fa57d281a36a55308c30bf5f/129_0_1320_1056/500.jpg",
-      "published": "2026-04-08T14:40:18Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "business"
-    },
-    {
-      "id": "uk-news/2026/apr/08/young-asylum-seekers-deaths-suicides-uk",
-      "headline": "More than 50 young asylum seekers have died in UK since 2015, data shows",
-      "summary": "Over 50 young asylum seekers died in UK since 2015, majority by suicide.",
-      "url": "https://www.theguardian.com/p/x4n6kh",
-      "thumbnail": "https://media.guim.co.uk/505240ed00be02da67d5864344c0eafb726f40d3/737_0_6880_5504/500.jpg",
-      "published": "2026-04-08T14:37:30Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "world/2026/apr/08/us-airlines-baggage-fees-oil-prices",
-      "headline": "Several US airlines raise baggage fees due to higher oil costs associated with Iran war",
-      "summary": "US airlines raise baggage fees citing higher oil costs from Iran war.",
-      "url": "https://www.theguardian.com/p/x4n74e",
-      "thumbnail": "https://media.guim.co.uk/0ec6c89f5b8851a79ce58dc13d9f302b0fc5a706/728_336_3842_3073/500.jpg",
-      "published": "2026-04-08T14:37:12Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "world/2026/apr/08/twin-corruption-trials-cast-a-shadow-over-spains-main-parties-ahead-of-key-elections",
-      "headline": "​Twin corruption trials cast a shadow over Spain’s main parties ahead of key elections",
-      "summary": "Corruption trials shadow Spain's main parties ahead of key elections.",
-      "url": "https://www.theguardian.com/p/x4mn86",
-      "thumbnail": "https://media.guim.co.uk/047d2c712d4bb6a338cb3f06bf4b1bdaebc99dea/394_0_2860_2288/500.jpg",
-      "published": "2026-04-08T14:30:43Z",
-      "location": {
-        "name": "Madrid",
-        "lat": 40.4168,
-        "lng": -3.7038
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "media/2026/apr/08/city-veteran-sir-ian-cheshire-chair-ofcom-media-regulator",
-      "headline": "City veteran Ian Cheshire chosen to be new chair of Ofcom",
-      "summary": "City veteran Ian Cheshire chosen as new chair of UK media regulator Ofcom.",
-      "url": "https://www.theguardian.com/p/x4n6yv",
-      "thumbnail": "https://media.guim.co.uk/7735b4591cec3989499d61da53a2f7942439a92d/0_0_3125_2500/500.jpg",
-      "published": "2026-04-08T14:15:13Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "tech",
-      "significance": 2,
-      "section": "media"
-    },
-    {
-      "id": "society/2026/apr/08/alarm-health-service-palantir-staff-nhs-email-accounts",
-      "headline": "Alarm in health service over Palantir staff being given NHS email accounts",
-      "summary": "NHS staff alarmed over Palantir AI engineers granted access to email accounts.",
-      "url": "https://www.theguardian.com/p/x4mx4f",
-      "thumbnail": "https://media.guim.co.uk/62f0bbd9e8f26d37d352c0d11035de4a93eb45d5/570_0_4300_3441/500.jpg",
-      "published": "2026-04-08T14:15:08Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "society"
-    },
-    {
-      "id": "society/2026/apr/08/oxford-scientists-develop-ai-tool-spot-heart-failure",
-      "headline": "Scientists develop AI tool to spot heart failure risk five years before it strikes",
-      "summary": "Oxford scientists develop AI tool predicting heart failure risk five years early.",
-      "url": "https://www.theguardian.com/p/x4n66k",
-      "thumbnail": "https://media.guim.co.uk/8c9e98790313367dcd983242e6cbde08df302cae/475_0_4750_3800/500.jpg",
-      "published": "2026-04-08T14:00:43Z",
-      "location": {
-        "name": "Oxford",
-        "lat": 51.752,
-        "lng": -1.2577
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "society"
-    },
-    {
-      "id": "thefilter/2026/apr/08/best-carry-on-luggage-cabin-bags-uk",
-      "headline": "The best carry-on luggage in the UK, tested on an assault course",
-      "summary": "Testing best carry-on luggage in UK with assault course evaluation.",
-      "url": "https://www.theguardian.com/p/x4bky5",
-      "thumbnail": "https://media.guim.co.uk/d2e91f98c7c22062bd25aee929b95ba79f363ee4/0_0_5000_4000/500.jpg",
-      "published": "2026-04-08T14:00:43Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "thefilter"
-    },
-    {
-      "id": "world/2026/apr/08/us-iran-ceasefire-mass-exodus-ships-strait-hormuz-analysts",
-      "headline": "Ceasefire changes little for shipping in strait of Hormuz, experts say",
-      "summary": "Shipping analysts expect limited increase through Strait of Hormuz post-ceasefire.",
-      "url": "https://www.theguardian.com/p/x4n6ap",
-      "thumbnail": "https://media.guim.co.uk/fe8021b474812f98da0f341d724347e6b1d9e642/0_0_1320_1056/500.jpg",
-      "published": "2026-04-08T13:53:55Z",
-      "location": {
-        "name": "Dubai",
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "business/2026/apr/08/john-lewis-jason-tarry-pay-increase-jobs-waitrose",
-      "headline": "John Lewis boss’s pay rises to £1.2m as retailer cuts 3,300 jobs",
-      "summary": "John Lewis boss Jason Tarry's pay rises 21% to £1.2m as retailer cuts 3,300 jobs.",
-      "url": "https://www.theguardian.com/p/x4n6y6",
-      "thumbnail": "https://media.guim.co.uk/ce729fe853b3039af00dcd3a548f58c5582ceaf7/710_0_5200_4160/500.jpg",
-      "published": "2026-04-08T13:48:58Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
     {
       "id": "football/live/2026/apr/08/barcelona-v-atletico-madrid-champions-league-quarter-final-first-leg",
       "headline": "Barcelona v Atlético Madrid: Champions League quarter-final, first leg",
@@ -998,6 +790,214 @@
       "category": "conflict",
       "significance": 2,
       "section": "world"
+    },
+    {
+      "id": "sport/live/2026/apr/09/the-masters-2026-day-one-golf-updates-from-augusta-national-live",
+      "headline": "The Masters 2026: McIlroy begins title defence, strong starts for Fleetwood and Reed – live",
+      "summary": "McIlroy defends Masters title as Fleetwood and Reed make strong starts in first round.",
+      "url": "https://www.theguardian.com/p/x4n275",
+      "thumbnail": "https://media.guim.co.uk/7afb76efddc5d18550a68cae1c5e283454998aef/200_0_2474_1979/500.jpg",
+      "published": "2026-04-09T16:05:05Z",
+      "location": {
+        "name": "Augusta",
+        "lat": 33.5007,
+        "lng": -82.0105
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "sport"
+    },
+    {
+      "id": "food/2026/apr/09/gentlemans-relish-london-restaurant-discontinued-maker-axes-anchovy-spread",
+      "headline": "Gentleman’s Relish is toast after its maker axes the pungent anchovy spread",
+      "summary": "Gentleman's Relish anchovy spread discontinued after falling sales since 1828 creation.",
+      "url": "https://www.theguardian.com/p/x4nc9t",
+      "thumbnail": "https://media.guim.co.uk/5df9b58ee180d6d96827afe8a614ab2e66899832/207_0_3612_2890/500.jpg",
+      "published": "2026-04-09T15:35:03Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "food"
+    },
+    {
+      "id": "us-news/2026/apr/09/jd-vance-claims-orban-eu-hungary-election-fact-checked",
+      "headline": "JD Vance’s claims about Orbán, the EU and Hungary fact-checked",
+      "summary": "JD Vance's claims about EU election interference and Hungary's economy fact-checked.",
+      "url": "https://www.theguardian.com/p/x4nchy",
+      "thumbnail": "https://media.guim.co.uk/9bda1ecb20709208fe05efdf7406d19e993e6089/392_23_3041_2433/500.jpg",
+      "published": "2026-04-09T15:15:12Z",
+      "location": {
+        "name": "Budapest",
+        "lat": 47.4979,
+        "lng": 19.0402
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "fashion/2026/apr/09/jo-malone-surprised-sad-sued-for-using-name-on-zara-fragrances",
+      "headline": "Jo Malone ‘surprised and sad’ after being sued for £200,000 for using her name on fragrances",
+      "summary": "Jo Malone sued for £200k by Estée Lauder over naming agreement breach on Zara fragrances.",
+      "url": "https://www.theguardian.com/p/x4ncd8",
+      "thumbnail": "https://media.guim.co.uk/22702a7498e59ad0303c3aa38ad2b130e3172d35/590_0_4344_3476/500.jpg",
+      "published": "2026-04-09T15:13:21Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "fashion"
+    },
+    {
+      "id": "film/2026/apr/09/cannes-festival-ditches-us-film-makers-for-world-cinema-directors",
+      "headline": "Cannes looks beyond Hollywood as US film-makers mostly fail to make the grade",
+      "summary": "Cannes Film Festival 79th edition shifts away from Hollywood toward world cinema directors.",
+      "url": "https://www.theguardian.com/p/x4nc4t",
+      "thumbnail": "https://media.guim.co.uk/f988f4a21734c15a6b9155182d1da3312a35e64e/207_153_1887_1510/500.jpg",
+      "published": "2026-04-09T15:05:09Z",
+      "location": {
+        "name": "Cannes",
+        "lat": 43.5528,
+        "lng": 7.0176
+      },
+      "category": "culture",
+      "significance": 3,
+      "section": "film"
+    },
+    {
+      "id": "sport/2026/apr/09/england-lose-hannah-botterman-womens-six-nations-rugby-opener",
+      "headline": "England absences mount for Six Nations opener after pregnancies and injuries",
+      "summary": "England loses prop Hannah Botterman to ankle injury ahead of Women's Six Nations.",
+      "url": "https://www.theguardian.com/p/x4nc7p",
+      "thumbnail": "https://media.guim.co.uk/23d204552842d7ccbfcb830aad11c94a716c92b2/266_0_4924_3940/500.jpg",
+      "published": "2026-04-09T15:01:44Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "australia-news/2026/apr/10/oil-prices-iran-war-ongoing-middle-east-conflict-fuel-australia",
+      "headline": "Oil prices could take a year to return to pre-Iran levels even if ceasefire holds, Australian experts warn",
+      "summary": "Australian experts warn oil prices may take a year to normalize even if Iran ceasefire holds.",
+      "url": "https://www.theguardian.com/p/x4naph",
+      "thumbnail": "https://media.guim.co.uk/8040ef02805612f6db74d42902081ed249e67ed5/156_0_3798_3038/500.jpg",
+      "published": "2026-04-09T15:00:53Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "australia-news"
+    },
+    {
+      "id": "australia-news/2026/apr/09/sydney-fatberg-door-beach-poo-balls",
+      "headline": "Behind this door is the huge fatberg that can’t stop depositing poo balls on Sydney’s beaches",
+      "summary": "Sydney's Malabar wastewater plant struggles with massive fatberg causing beach pollution.",
+      "url": "https://www.theguardian.com/p/x4mjbj",
+      "thumbnail": "https://media.guim.co.uk/acc7dd56486a097636c68bce3e83e078fa42d815/0_0_2461_1970/500.jpg",
+      "published": "2026-04-09T15:00:53Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "science/2026/apr/09/autoimmune-diseases-cell-therapy-immune-reset",
+      "headline": "Woman with three deadly diseases has ‘remarkable’ recovery after cell therapy",
+      "summary": "Woman with three autoimmune diseases achieves remarkable recovery via immune-reset cell therapy.",
+      "url": "https://www.theguardian.com/p/x4nc5n",
+      "thumbnail": "https://media.guim.co.uk/40fd346820a58f137458f1c17182b908c26abb88/2060_2205_1766_1413/500.jpg",
+      "published": "2026-04-09T15:00:53Z",
+      "location": {
+        "name": "Germany",
+        "lat": 51.1657,
+        "lng": 10.4515
+      },
+      "category": "health",
+      "significance": 3,
+      "section": "science"
+    },
+    {
+      "id": "sport/2026/apr/10/australian-athletics-sydney-national-championships-gout-jessica-hull-lachlan-kennedy",
+      "headline": " Gout and Kennedy renew rivalry, Hull eyes history as Australian athletics puts its best on show",
+      "summary": "Gout Gout and Jessica Hull headline Australian athletics national championships in Sydney.",
+      "url": "https://www.theguardian.com/p/x4n94p",
+      "thumbnail": "https://media.guim.co.uk/ae7dd946941a71d03e7ab228a2585fe0695b63dd/0_450_2000_1600/500.jpg",
+      "published": "2026-04-09T15:00:53Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "australia-news/2026/apr/09/traffic-sydney-melbourne-roads-fuel-crisis-petrol-prices-australia",
+      "headline": "Traffic falls on major Sydney and Melbourne roads as fuel crisis sees Australians cut back on driving",
+      "summary": "Traffic falls 20% on Sydney and Melbourne roads as fuel crisis reduces driving trips.",
+      "url": "https://www.theguardian.com/p/x4nafp",
+      "thumbnail": "https://media.guim.co.uk/88b4372f3e6089bc2ab51731d3510c2e1337f04c/250_0_2500_2000/500.jpg",
+      "published": "2026-04-09T15:00:53Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "australia-news/2026/apr/09/anthony-albanese-singapore-visit-australia-fuel-crisis-explainer",
+      "headline": "Why is Anthony Albanese visiting Singapore amid Australia’s fuel crisis – and what could come from it?",
+      "summary": "Albanese visits Singapore to address mutual fuel crisis concerns amid Middle East conflict.",
+      "url": "https://www.theguardian.com/p/x4nah5",
+      "thumbnail": "https://media.guim.co.uk/402b82ea267d2c95981c4ef854b1f351caf32d03/1156_1074_4314_3453/500.jpg",
+      "published": "2026-04-09T15:00:53Z",
+      "location": {
+        "name": "Singapore",
+        "lat": 1.3521,
+        "lng": 103.8198
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "australia-news/2026/apr/09/nt-darwin-buses-soon-patrolled-armed-police-officers-ntwnfb",
+      "headline": "‘Inherently dangerous and unnecessary’: NT buses will soon be patrolled by armed officers",
+      "summary": "NT buses to be patrolled by armed officers despite First Nations concerns of disproportionate impact.",
+      "url": "https://www.theguardian.com/p/x4natf",
+      "thumbnail": "https://media.guim.co.uk/f8bc1dbfa7132c0885c30f73cf6d90574b87b146/958_0_5600_4480/500.jpg",
+      "published": "2026-04-09T15:00:52Z",
+      "location": {
+        "name": "Darwin",
+        "lat": -12.4634,
+        "lng": 130.8456
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
     }
   ]
 }
