@@ -1,220 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-08T23:53:20.877Z",
-    "story_count": 65,
-    "oldest_story": "2026-04-08T04:59:51Z",
-    "newest_story": "2026-04-08T23:52:56Z",
+    "generated_at": "2026-04-09T06:07:24.933Z",
+    "story_count": 61,
+    "oldest_story": "2026-04-08T09:09:07Z",
+    "newest_story": "2026-04-09T06:00:24Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "world/live/2026/apr/08/iran-war-ceasefire-live-updates-trump-deadline-middle-east-crisis-latest-news",
-      "headline": "Middle East crisis live: Iran war ceasefire doesn’t include Lebanon, says Israel; Trump says uranium will be ‘taken care of’",
-      "summary": "US and Iran agree to two-week ceasefire with Iran reopening Strait of Hormuz passage.",
-      "url": "https://www.theguardian.com/p/x4n3dk",
-      "thumbnail": "https://media.guim.co.uk/d39b5cb7a742bd6808faa52e5e0025ec9d318f76/0_0_4560_3648/500.jpg",
-      "published": "2026-04-08T06:05:20Z",
-      "location": {
-        "name": "Iran",
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "society/2026/apr/08/landlords-no-fault-evictions-tenants-renters-rights-bill-law",
-      "headline": "Landlords evicting tenants before law to prevent practice comes into force in England",
-      "summary": "Landlords evicting tenants before no-fault eviction law comes into force in England.",
-      "url": "https://www.theguardian.com/p/x4kjnt",
-      "thumbnail": "https://media.guim.co.uk/109e7f562a26eb80228b1bf07984aa3f5187ccc0/183_0_4254_3405/500.jpg",
-      "published": "2026-04-08T06:00:18Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "society"
-    },
-    {
-      "id": "travel/2026/apr/08/kielder-forest-northumberland-england-dark-sky",
-      "headline": "‘The vast wooded wilderness doesn’t look like England’: exploring Northumberland’s Kielder Forest",
-      "summary": "England's largest forest celebrates centenary with new trails and dark sky events.",
-      "url": "https://www.theguardian.com/p/x4yhx7",
-      "thumbnail": "https://media.guim.co.uk/37b157d20cbe4035938477e3463af13931e730c7/1328_0_3865_3092/500.jpg",
-      "published": "2026-04-08T06:00:17Z",
-      "location": {
-        "name": "Kielder Forest, Northumberland",
-        "lat": 54.8474,
-        "lng": -2.4159
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "travel"
-    },
-    {
-      "id": "world/2026/apr/08/wednesday-briefing-has-the-sacking-of-a-shop-worker-highlighted-our-unease-around-how-is-tackled",
-      "headline": "Wednesday briefing: ​Has the sacking of a shop worker highlighted our unease around how crime is tackled?",
-      "summary": "Waitrose worker dismissal highlights debate over rising retail crime in UK.",
-      "url": "https://www.theguardian.com/p/x4nv7e",
-      "thumbnail": "https://media.guim.co.uk/d6a50a568b77a73ba0747b7d67a4f232c7ada671/841_203_8564_6850/500.jpg",
-      "published": "2026-04-08T05:40:07Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "australia-news/2026/apr/08/ben-roberts-smith-court-news-war-crimes-charges-silverwater-jail-ntwnfb",
-      "headline": "Ben Roberts-Smith to remain in jail after bail hearing over war crimes charges",
-      "summary": "Ben Roberts-Smith remains jailed after war crimes charges, declines bail application.",
-      "url": "https://www.theguardian.com/p/x4n3yf",
-      "thumbnail": "https://media.guim.co.uk/fc9dbdd9f55fb120195487de98dcb72e777db7b6/582_94_1615_1293/500.jpg",
-      "published": "2026-04-08T05:21:50Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "australia-news"
-    },
-    {
-      "id": "australia-news/2026/apr/08/matt-canavans-economic-revolution-is-little-more-than-a-populist-mirage-and-australians-would-pay-the-price",
-      "headline": "Matt Canavan’s ‘economic revolution’ is little more than a populist mirage – and Australians would pay the price",
-      "summary": "Matt Canavan's economic plan to force locally-made goods criticized as populist.",
-      "url": "https://www.theguardian.com/p/x4n4tj",
-      "thumbnail": "https://media.guim.co.uk/a32400a5f9b98a6617cc9ec16d0028a22edaf5f7/600_0_5470_4379/500.jpg",
-      "published": "2026-04-08T05:14:29Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "australia-news/2026/apr/08/ben-roberts-smith-brs-gina-rinehart-alleged-war-crimes-arrest-ntwnfb",
-      "headline": "Billionaire Gina Rinehart says ‘I don’t understand’ arrest of Ben Roberts-Smith over alleged war crimes",
-      "summary": "Billionaire Gina Rinehart questions Ben Roberts-Smith war crimes investigation.",
-      "url": "https://www.theguardian.com/p/x4n3qh",
-      "thumbnail": "https://media.guim.co.uk/7365c5b4aab964e318ed2ad3d7dd18547fd9c788/880_234_3289_2630/500.jpg",
-      "published": "2026-04-08T05:08:13Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "conflict",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "world/2026/apr/08/oil-prices-stock-today-futures-crude-donald-trump-iran-ceasefire",
-      "headline": "Oil prices plunge and stocks jump after Trump announces conditional ceasefire with Iran",
-      "summary": "Oil prices plunge 15% after Trump-Iran ceasefire, stocks surge on relief.",
-      "url": "https://www.theguardian.com/p/x4n4xt",
-      "thumbnail": "https://media.guim.co.uk/9246f2cbf75d5a6d40305efc4305a65224544aa6/417_0_5256_4204/500.jpg",
-      "published": "2026-04-08T05:03:09Z",
-      "location": {
-        "name": "Iran",
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "environment/2026/apr/08/birdwatch-rufous-bellied-seedsnipe-andes-mountains-ecuador",
-      "headline": "Birdwatch: Climbing to 4,400 metres to spot a rare rufous-bellied seedsnipe",
-      "summary": "Birdwatcher climbs 4,400 metres in Andes to spot rare rufous-bellied seedsnipe.",
-      "url": "https://www.theguardian.com/p/x4kxxf",
-      "thumbnail": "https://media.guim.co.uk/9b81a05c85712b707c920aaf786fefb5b9f157f4/569_0_3393_2715/500.jpg",
-      "published": "2026-04-08T05:00:17Z",
-      "location": {
-        "name": "Ecuador",
-        "lat": -1.8312,
-        "lng": -78.1834
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "environment"
-    },
-    {
-      "id": "society/2026/apr/08/isolate-jailed-drug-dealers-charlie-taylor-inspector-prisons",
-      "headline": "Treat jailed drug dealers like radical extremists, says prisons watchdog",
-      "summary": "Prisons watchdog recommends isolating jailed drug dealers like extremists.",
-      "url": "https://www.theguardian.com/p/x4mzf2",
-      "thumbnail": "https://media.guim.co.uk/354126aee6a1fefef3086a85f4749c7af7724cf0/665_0_6667_5334/500.jpg",
-      "published": "2026-04-08T05:00:16Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "society"
-    },
-    {
-      "id": "world/2026/apr/08/palestinian-girl-who-lost-arm-in-israeli-missile-attack-on-gaza-arrives-in-uk",
-      "headline": "Palestinian girl who lost arm in Israeli missile attack on Gaza arrives in UK",
-      "summary": "Palestinian girl who lost arm in Israeli attack arrives in UK for specialist treatment.",
-      "url": "https://www.theguardian.com/p/x4n237",
-      "thumbnail": "https://media.guim.co.uk/f4f8fa2c8993dcd4406f6e1adb86e0ee6d5017de/1415_548_5999_4799/500.jpg",
-      "published": "2026-04-08T05:00:16Z",
-      "location": {
-        "name": "Gaza",
-        "lat": 31.9454,
-        "lng": 35.2338
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "environment/2026/apr/08/uk-new-oil-gas-fields-north-sea-global-climate-goals",
-      "headline": "UK opening new oil and gas fields would imperil global climate goals, experts say",
-      "summary": "UK oil and gas expansion in North Sea would undermine climate goals, experts warn.",
-      "url": "https://www.theguardian.com/p/x4nxag",
-      "thumbnail": "https://media.guim.co.uk/d52ed2da493b2b8c9a816d07a9aa5e120ca7a1e3/364_0_3333_2667/500.jpg",
-      "published": "2026-04-08T05:00:16Z",
-      "location": {
-        "name": "North Sea",
-        "lat": 56.5,
-        "lng": 3
-      },
-      "category": "climate",
-      "significance": 3,
-      "section": "environment"
-    },
-    {
-      "id": "sport/2026/apr/08/music-afl-2026-from-the-pocket-newsletter",
-      "headline": "From the Pocket: Music works for a showman like Charlie Cameron but fans need space between the notes",
-      "summary": "AFL commentary on stadium music use during games and importance of silence.",
-      "url": "https://www.theguardian.com/p/x4mjpv",
-      "thumbnail": "https://media.guim.co.uk/9c2e13c9339ba3ed78f1355d9fd3e3878ed5f9e8/230_0_2397_1917/500.jpg",
-      "published": "2026-04-08T04:59:51Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "sport",
-      "significance": 1,
-      "section": "sport"
-    },
     {
       "id": "politics/live/2026/apr/08/keir-starmer-iran-war-trump-ceasefire-gulf-strait-of-hormuz-labour-conservatives-liberal-democrats-reform-scotland-holyrood-uk-politics-latest-news-updates",
       "headline": "Keir Starmer welcomes Iran war ceasefire as he heads to Gulf to meet regional leaders – UK politics live",
@@ -1046,6 +838,150 @@
       "category": "sport",
       "significance": 2,
       "section": "football"
+    },
+    {
+      "id": "travel/2026/apr/09/gravel-biking-mountains-of-andalucia-southern-spain",
+      "headline": "Terrain in Spain: gravel biking in the mountains of Andalucía",
+      "summary": "Gravel biking adventure through Sierra Nevada backcountry in southern Spain's scenic mountains.",
+      "url": "https://www.theguardian.com/p/x3zmcp",
+      "thumbnail": "https://media.guim.co.uk/3c58ae92c0720ac3b2e226fcb4aca9fa1c98c5d9/1226_879_1736_1389/500.jpg",
+      "published": "2026-04-09T06:00:24Z",
+      "location": {
+        "name": "Andalucía",
+        "lat": 37.1643,
+        "lng": -3.5979
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "travel"
+    },
+    {
+      "id": "world/live/2026/apr/09/iran-war-ceasefire-live-strait-of-hormuz-israel-strikes-middle-east-crisis-latest-news",
+      "headline": "Middle East crisis live: Red Cross ‘outraged’ as Israeli strikes on Lebanon kill 254 people; Trump says US military to remain in region",
+      "summary": "Israeli strikes kill 254 in Lebanon amid Middle East ceasefire collapse; Red Cross outraged.",
+      "url": "https://www.theguardian.com/p/x4n99b",
+      "thumbnail": "https://media.guim.co.uk/dde7752014fb9546901ea95a5f59347fc7391cf8/129_0_3806_3045/500.jpg",
+      "published": "2026-04-09T06:00:18Z",
+      "location": {
+        "name": "Lebanon",
+        "lat": 33.8547,
+        "lng": 35.8623
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "media/2026/apr/09/kyle-sandilands-humiliation-sacked-kiis-fm-jackie-o-ntwnfb",
+      "headline": "Kyle Sandilands claims he ‘suffered humiliation’ after he was sacked by Kiis FM over on-air spat with Jackie O ",
+      "summary": "Radio shock jock Kyle Sandilands claims humiliation after sacking from Kiis FM over on-air spat.",
+      "url": "https://www.theguardian.com/p/x4naxh",
+      "thumbnail": "https://media.guim.co.uk/b4babb43de9dbda7c1e88ef38f3564de81457f60/786_0_7857_6286/500.jpg",
+      "published": "2026-04-09T05:47:17Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "other",
+      "significance": 2,
+      "section": "media"
+    },
+    {
+      "id": "world/2026/apr/09/thursday-briefing-what-difference-will-the-ceasefire-in-the-middle-east-make-and-will-it-hold",
+      "headline": "Thursday briefing: ​What difference will the ceasefire in the Middle East make, and will it hold? ",
+      "summary": "Middle East ceasefire holds but unresolved disputes and competing interpretations threaten stability.",
+      "url": "https://www.theguardian.com/p/x4n5qj",
+      "thumbnail": "https://media.guim.co.uk/19e40090916b9308a9bad935e1568e96a1e21a93/525_0_6293_5034/500.jpg",
+      "published": "2026-04-09T05:45:23Z",
+      "location": {
+        "name": "Strait of Hormuz",
+        "lat": 26.5597,
+        "lng": 56.2406
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "australia-news/2026/apr/09/australia-eyes-new-fuel-supply-from-us-mexico-and-asia-as-diesel-prices-spike-to-record-high",
+      "headline": "Australia eyes new fuel supply from US, Mexico and Asia as diesel prices spike to record high",
+      "summary": "Australia secures new fuel supplies from US, Mexico, Asia as diesel prices spike to record highs.",
+      "url": "https://www.theguardian.com/p/x4naa6",
+      "thumbnail": "https://media.guim.co.uk/1b22bbfa0e5111939bbf286f82e99a9f28f7e7e6/0_0_5000_4000/500.jpg",
+      "published": "2026-04-09T05:44:20Z",
+      "location": {
+        "name": "Australia",
+        "lat": -25.2744,
+        "lng": 133.7751
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "australia-news"
+    },
+    {
+      "id": "uk-news/2026/apr/09/battle-of-britain-raf-control-new-forest-holiday-home-bats",
+      "headline": "Abandoned Battle of Britain control tower to become a home for holidaymakers … and six species of bat",
+      "summary": "Historic RAF control tower converted into holiday home for visitors and six bat species.",
+      "url": "https://www.theguardian.com/p/x4n6ej",
+      "thumbnail": "https://media.guim.co.uk/8727b7736baa844313a7ef92e1e7d329209079d0/226_0_2264_1811/500.jpg",
+      "published": "2026-04-09T05:00:23Z",
+      "location": {
+        "name": "New Forest",
+        "lat": 50.8503,
+        "lng": -1.5823
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "news/2026/apr/09/nasa-meteorologists-trialling-model-to-produce-ultra-local-short-term-forecasts",
+      "headline": "Nasa meteorologists trialling model to produce ultra local, short-term forecasts",
+      "summary": "NASA trials high-resolution weather model for ultra-local short-term forecasts.",
+      "url": "https://www.theguardian.com/p/x4mvkt",
+      "thumbnail": "https://media.guim.co.uk/494f730921d54eb8f7ac905e7070c6750924229e/0_0_5675_4543/500.jpg",
+      "published": "2026-04-09T05:00:23Z",
+      "location": {
+        "name": "Virginia",
+        "lat": 37.7693,
+        "lng": -78.6762
+      },
+      "category": "tech",
+      "significance": 2,
+      "section": "news"
+    },
+    {
+      "id": "commentisfree/2026/apr/09/ten-years-brexit-uk-divided-country",
+      "headline": "Ten years after Brexit, this is the UK: a divided nation frozen in time",
+      "summary": "Ten years after Brexit, UK remains deeply divided with increasingly polarized tribal politics.",
+      "url": "https://www.theguardian.com/p/x4n7bh",
+      "thumbnail": "https://media.guim.co.uk/5eb6fee13a9d664065a4d5fcb9ce7ad3f99a78f2/0_0_5000_4000/500.jpg",
+      "published": "2026-04-09T05:00:22Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "commentisfree"
+    },
+    {
+      "id": "australia-news/2026/apr/09/bruce-lehrmann-appeal-defamation-case-ntwnfb",
+      "headline": "Bruce Lehrmann loses last-ditch legal effort to appeal defamation case against Network Ten and Lisa Wilkinson",
+      "summary": "Bruce Lehrmann loses final court appeal in defamation case against Network Ten and Lisa Wilkinson.",
+      "url": "https://www.theguardian.com/p/x4na9t",
+      "thumbnail": "https://media.guim.co.uk/3c9feb188fd80a6130bad16f56cff262aa59e630/224_0_1572_1257/500.jpg",
+      "published": "2026-04-09T04:59:23Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "other",
+      "significance": 2,
+      "section": "australia-news"
     }
   ]
 }
