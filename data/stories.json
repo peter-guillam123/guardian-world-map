@@ -1,188 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-09T06:07:24.933Z",
-    "story_count": 61,
-    "oldest_story": "2026-04-08T09:09:07Z",
-    "newest_story": "2026-04-09T06:00:24Z",
+    "generated_at": "2026-04-09T10:40:32.677Z",
+    "story_count": 62,
+    "oldest_story": "2026-04-08T13:48:58Z",
+    "newest_story": "2026-04-09T10:39:07Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "politics/live/2026/apr/08/keir-starmer-iran-war-trump-ceasefire-gulf-strait-of-hormuz-labour-conservatives-liberal-democrats-reform-scotland-holyrood-uk-politics-latest-news-updates",
-      "headline": "Keir Starmer welcomes Iran war ceasefire as he heads to Gulf to meet regional leaders – UK politics live",
-      "summary": "Keir Starmer heads to Gulf to support US-Iran ceasefire and reopen Strait of Hormuz.",
-      "url": "https://www.theguardian.com/p/x4n5c9",
-      "thumbnail": "https://media.guim.co.uk/98557d4962e0fc14f4d3d195eee9fff0d0585ee5/243_0_3420_2736/500.jpg",
-      "published": "2026-04-08T10:06:20Z",
-      "location": {
-        "name": "Persian Gulf",
-        "lat": 26,
-        "lng": 54
-      },
-      "category": "politics",
-      "significance": 4,
-      "section": "politics"
-    },
-    {
-      "id": "us-news/live/2026/apr/08/liberal-judge-chris-taylor-wisconsin-supreme-court-donald-trump-pete-hegseth-us-politics-latest",
-      "headline": "Liberal judge Chris Taylor wins election to Wisconsin supreme court – US politics live",
-      "summary": "Liberal judge Chris Taylor wins Wisconsin Supreme Court election, giving liberals 5-2 majority.",
-      "url": "https://www.theguardian.com/p/x4n5q2",
-      "thumbnail": "https://media.guim.co.uk/c64990b4f7f3fb9ab00a73e6a5987fc7d3b63433/102_0_3261_2609/500.jpg",
-      "published": "2026-04-08T10:04:39Z",
-      "location": {
-        "name": "Madison, Wisconsin",
-        "lat": 43.0731,
-        "lng": -89.4012
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "world/live/2026/apr/08/jd-vance-hungary-viktor-orban-election-nato-europe-latest-news-updates",
-      "headline": "Vance praises Orbán on Ukraine during his ‘unprecedented’ Hungary visit – Europe live",
-      "summary": "VP Vance visits Hungary, praises Orbán on Ukraine and criticises EU energy policies.",
-      "url": "https://www.theguardian.com/p/x4n5fe",
-      "thumbnail": "https://media.guim.co.uk/16122ef59a096c4ae3efe09f72230824147f793f/0_0_4583_3667/500.jpg",
-      "published": "2026-04-08T10:04:33Z",
-      "location": {
-        "name": "Budapest, Hungary",
-        "lat": 47.4979,
-        "lng": 19.0402
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "us-news/2026/apr/08/father-dies-saves-drowning-children-florida-beach",
-      "headline": "‘His last gift’: father dies saving two of his children from drowning off Florida coast ",
-      "summary": "Maine father dies saving two children from drowning off Florida coast during vacation.",
-      "url": "https://www.theguardian.com/p/x4n27v",
-      "thumbnail": "https://media.guim.co.uk/8151cf58126791cb5a47fd5f11b857d3e23bf127/0_70_1284_1027/500.jpg",
-      "published": "2026-04-08T10:00:29Z",
-      "location": {
-        "name": "Juno Beach, Florida",
-        "lat": 26.8753,
-        "lng": -80.0586
-      },
-      "category": "other",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "books/2026/apr/08/evelyn-araluen-author-poetry-nominated-stella-prize",
-      "headline": "Two for two? Stella prize winner Evelyn Araluen nominated again for second poetry collection",
-      "summary": "European leaders welcome US-Iran ceasefire, call for Strait of Hormuz reopening and permanent peace.",
-      "url": "https://www.theguardian.com/p/x4mqpm",
-      "thumbnail": "https://media.guim.co.uk/7797f8c233628114169243eeb1c7ddfbbf2830fd/0_284_1600_1280/500.jpg",
-      "published": "2026-04-08T10:00:28Z",
-      "location": {
-        "name": "Brussels, Belgium",
-        "lat": 50.8503,
-        "lng": 4.3517
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "books"
-    },
-    {
-      "id": "world/2026/apr/08/european-leaders-welcome-us-iran-ceasefire",
-      "headline": "‘A step back from the brink’: European leaders welcome US-Iran ceasefire ",
-      "summary": "NHS chief claims doctors' strike deliberately timed to cause Easter holiday disruption.",
-      "url": "https://www.theguardian.com/p/x4n5zb",
-      "thumbnail": "https://media.guim.co.uk/ef8748ac365ea62d1fb45438bf83b41c51bdc874/333_0_4159_3329/500.jpg",
-      "published": "2026-04-08T09:50:39Z",
-      "location": {
-        "name": "London, United Kingdom",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "society/2026/apr/08/doctors-strike-easter-break-rota-havoc-nhs-england-chief-jim-mackey",
-      "headline": "Doctors’ strike timed to cause havoc over Easter break, says NHS England chief",
-      "summary": "Comedian Miles Jupp recalls how 2005 Ashes climax deepened cricket passion and career.",
-      "url": "https://www.theguardian.com/p/x4n6x4",
-      "thumbnail": "https://media.guim.co.uk/fff4b9ed33468376aa2ec4432cf0a8beb76d79b1/117_0_4728_3782/500.jpg",
-      "published": "2026-04-08T09:49:27Z",
-      "location": {
-        "name": "London, United Kingdom",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 1,
-      "section": "society"
-    },
-    {
-      "id": "sport/2026/apr/08/miles-jupp-on-how-ashes-climax-fuelled-incredible-blag-cricket-the-spin",
-      "headline": "‘That day was life-changing’: Miles Jupp on how Ashes climax fuelled incredible blag",
-      "summary": "Iran enters US peace talks with stronger position despite war losses after ceasefire.",
-      "url": "https://www.theguardian.com/p/x4n5kb",
-      "thumbnail": "https://media.guim.co.uk/c5e9302f9f0748a484a74bd805cd66cc0b0a9508/262_0_3540_2832/500.jpg",
-      "published": "2026-04-08T09:47:28Z",
-      "location": {
-        "name": "Tehran, Iran",
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "sport"
-    },
-    {
-      "id": "world/2026/apr/08/ceasefire-wins-trump-instant-gratification-but-iran-can-enter-talks-with-stronger-hand",
-      "headline": "Ceasefire wins Trump instant gratification but Iran can enter talks with stronger hand",
-      "summary": "Cardiff airport wins legal challenge over £205m Welsh government subsidy against Bristol rival.",
-      "url": "https://www.theguardian.com/p/x4n5zf",
-      "thumbnail": "https://media.guim.co.uk/9d72a0acc5bd46916d2162f8d963df32d2e14775/281_0_5000_4000/500.jpg",
-      "published": "2026-04-08T09:35:36Z",
-      "location": {
-        "name": "Cardiff, Wales",
-        "lat": 51.4816,
-        "lng": -3.1791
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "uk-news/2026/apr/08/bristol-airport-loses-legal-challenge-against-cardiff-rival-over-subsidy",
-      "headline": "Bristol airport loses legal challenge against Cardiff rival over £205m subsidy",
-      "summary": "British horse racing considers direct action protests against government affordability check plans.",
-      "url": "https://www.theguardian.com/p/x4n5qz",
-      "thumbnail": "https://media.guim.co.uk/eadc8cb08554ed43ac9257b446654b86a90002af/789_0_4640_3712/500.jpg",
-      "published": "2026-04-08T09:34:38Z",
-      "location": {
-        "name": "London, United Kingdom",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 1,
-      "section": "uk-news"
-    },
-    {
-      "id": "business/2026/apr/08/uk-interest-rate-predictions-us-iran-two-week-ceasefire",
-      "headline": "UK interest rate predictions fall as US and Iran agree two-week ceasefire",
-      "summary": "UK interest rate rise forecasts cut to one as US-Iran ceasefire eases market tensions.",
-      "url": "https://www.theguardian.com/p/x4n5yd",
-      "thumbnail": "https://media.guim.co.uk/b539ff8e5597f3088eacdb32cb8581f8ae62cdb3/61_0_2574_2060/500.jpg",
-      "published": "2026-04-08T09:09:07Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "business"
-    },
     {
       "id": "world/2026/apr/08/hegseth-press-briefing-iran-ceasefire",
       "headline": "Hegseth claims Iran ‘begged’ for ceasefire after US and Tehran agree to two-week pause",
@@ -982,6 +806,198 @@
       "category": "other",
       "significance": 2,
       "section": "australia-news"
+    },
+    {
+      "id": "politics/live/2026/apr/09/iran-yvette-cooper-starmer-gulf-green-polanski-elections-housing-latest-news-updates",
+      "headline": "Polanski claims Labour has offered just ‘toxic combination of chaos and cowardice’ – UK politics live",
+      "summary": "Green party launches local election campaign, attacking Labour government policies.",
+      "url": "https://www.theguardian.com/p/x4naze",
+      "thumbnail": "https://media.guim.co.uk/0b73c4c81e3df769c13f051c3964af78ffc417a0/1404_0_2573_2060/500.jpg",
+      "published": "2026-04-09T10:39:07Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "business/live/2026/apr/09/oil-stocks-fall-fragile-ceasefire-middle-east-business-news",
+      "headline": "Oil rises and global stocks wobble amid worries over ‘fragile’ ceasefire deal in Middle East – business live",
+      "summary": "Oil prices rise amid fragile Middle East ceasefire; UK fuel costs continue climbing.",
+      "url": "https://www.theguardian.com/p/x4naj6",
+      "thumbnail": "https://media.guim.co.uk/f695ad1988aeef438f9cd8f954b1c87fe31c1562/0_0_4343_3474/500.jpg",
+      "published": "2026-04-09T10:28:01Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "business"
+    },
+    {
+      "id": "media/2026/apr/09/doug-allan-wildlife-cameraman-dies",
+      "headline": "Doug Allan, cameraman on David Attenborough’s Planet series, dies trekking in Nepal",
+      "summary": "Wildlife cameraman Doug Allan, Planet series pioneer, dies aged 74 while trekking in Nepal.",
+      "url": "https://www.theguardian.com/p/x4nbfp",
+      "thumbnail": "https://media.guim.co.uk/77c385c1418816f1febc74b11978a9848c130db5/0_118_1596_1276/500.jpg",
+      "published": "2026-04-09T10:27:20Z",
+      "location": {
+        "name": "Kathmandu",
+        "lat": 27.7172,
+        "lng": 85.324
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "uk-news/2026/apr/09/uk-navy-russian-submarines-undersea-cables-north-atlantic",
+      "headline": "UK navy foiled Russian submarines surveying undersea cables, defence minister says",
+      "summary": "UK navy forces Russian submarines to abandon surveying undersea cables in North Atlantic.",
+      "url": "https://www.theguardian.com/p/x4nbhc",
+      "thumbnail": "https://media.guim.co.uk/c1acd425dacbdfa19d833532aeb03fcc7a63f241/583_0_2917_2333/500.jpg",
+      "published": "2026-04-09T10:23:29Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "uk-news"
+    },
+    {
+      "id": "stage/2026/apr/09/kiss-of-the-spider-woman-review-curve-leicester",
+      "headline": "Kiss of the Spider Woman review – Hollywood high kicks into a slick musical revival",
+      "summary": "Kiss of the Spider Woman musical revival delivers slick staging at Curve Leicester.",
+      "url": "https://www.theguardian.com/p/x4nb5e",
+      "thumbnail": "https://media.guim.co.uk/6e1a9fa76319d2e7b2884d4807b5bc75e4c3107a/461_0_4104_3285/500.jpg",
+      "published": "2026-04-09T10:22:21Z",
+      "location": {
+        "name": "Leicester",
+        "lat": 52.6369,
+        "lng": -1.1398
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "stage"
+    },
+    {
+      "id": "us-news/live/2026/apr/09/democrats-war-powers-resolution-iran-republicans-melania-donald-trump-latest-news-updates",
+      "headline": "Democrats push to pass Iran war powers resolution despite House recess, accusing Trump of ‘unhinged behavior’ – US politics live",
+      "summary": "Democrats push war powers resolution demanding Trump withdraw US forces from Middle East.",
+      "url": "https://www.theguardian.com/p/x4nb8z",
+      "thumbnail": "https://media.guim.co.uk/47c26483d84660f2872ded6bef0654236603c926/300_0_3000_2400/500.jpg",
+      "published": "2026-04-09T10:22:10Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "music/2026/apr/09/belle-and-sebastian-review-albert-hall-tigermilk-stuart-murdoch",
+      "headline": "Belle and Sebastian review – joyful anniversary tour makes debut album brighter than ever",
+      "summary": "Belle and Sebastian celebrate 30th anniversary with joyful Royal Albert Hall tour.",
+      "url": "https://www.theguardian.com/p/x4nb95",
+      "thumbnail": "https://media.guim.co.uk/290718df87b5fbd07bde9a5e84eb59aba7cc80bf/327_263_3738_2991/500.jpg",
+      "published": "2026-04-09T10:20:08Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "music"
+    },
+    {
+      "id": "world/live/2026/apr/09/nato-rutte-trump-iran-hungary-elections-vance-latest-news-updates",
+      "headline": "France accuses Hungary of ‘betrayal of solidarity’ over leaked call with Russian foreign minister – Europe live ",
+      "summary": "France condemns Hungary for alleged 'betrayal' in leaked call with Russian foreign minister.",
+      "url": "https://www.theguardian.com/p/x4nbxe",
+      "thumbnail": "https://media.guim.co.uk/e280af67796a644bc78ec3a2a2a05ad605c85d75/365_0_2917_2333/500.jpg",
+      "published": "2026-04-09T10:08:56Z",
+      "location": {
+        "name": "Budapest",
+        "lat": 47.4979,
+        "lng": 19.0402
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "commentisfree/2026/apr/09/uk-food-security-iran-war",
+      "headline": "It shouldn’t take a war for Britain to wake up to the need for food security",
+      "summary": "Commentary warns UK must prioritize food security beyond war-induced crisis responses.",
+      "url": "https://www.theguardian.com/p/x4nvq5",
+      "thumbnail": "https://media.guim.co.uk/2b3e7e52421ed1c613632f9320d7ef50db057bd8/30_0_4625_3700/500.jpg",
+      "published": "2026-04-09T10:00:47Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "commentisfree"
+    },
+    {
+      "id": "commentisfree/2026/apr/09/black-women-c-sections-florida",
+      "headline": "Why was a Florida woman forced to have a C-section?",
+      "summary": "Report exposes medical coercion forcing Black women into unwanted C-sections in Florida.",
+      "url": "https://www.theguardian.com/p/x4yz6b",
+      "thumbnail": "https://media.guim.co.uk/31c86aa6afe97d77bc47fce139a56c0331fae980/431_0_4265_3412/500.jpg",
+      "published": "2026-04-09T10:00:46Z",
+      "location": {
+        "name": "Tallahassee",
+        "lat": 30.4383,
+        "lng": -84.2807
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "commentisfree"
+    },
+    {
+      "id": "environment/2026/apr/09/intentional-snakebites-antivenom",
+      "headline": "Bitten by snakes 200 times – on purpose: US man’s quest to help deliver new antivenom",
+      "summary": "US man intentionally bitten 200 times by snakes to develop antivenom amid climate crisis.",
+      "url": "https://www.theguardian.com/p/x4n7nh",
+      "thumbnail": "https://media.guim.co.uk/8aba4a407a831807a96afc7f2afc6bb14acde3df/256_0_2560_2048/500.jpg",
+      "published": "2026-04-09T10:00:46Z",
+      "location": {
+        "name": "Wisconsin",
+        "lat": 44.2685,
+        "lng": -89.6165
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "environment"
+    },
+    {
+      "id": "uk-news/2026/apr/09/people-die-in-channel-small-boat-sinking",
+      "headline": "Four people die in Channel small-boat sinking",
+      "summary": "Four migrants die as small boat sinks in English Channel off Boulogne coast.",
+      "url": "https://www.theguardian.com/p/x4nb3g",
+      "thumbnail": "https://media.guim.co.uk/4ee1a22fed4a455b56e051d392bc2360f56cb620/165_0_4510_3608/500.jpg",
+      "published": "2026-04-09T09:59:03Z",
+      "location": {
+        "name": "Boulogne-sur-Mer",
+        "lat": 50.726,
+        "lng": 1.5883
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "world"
     }
   ]
 }
