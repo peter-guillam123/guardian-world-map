@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-04-10T06:21:18.700Z",
-    "story_count": 54,
-    "oldest_story": "2026-04-09T09:59:03Z",
-    "newest_story": "2026-04-10T06:06:35Z",
+    "generated_at": "2026-04-10T10:17:35.719Z",
+    "story_count": 64,
+    "oldest_story": "2026-04-09T10:20:08Z",
+    "newest_story": "2026-04-10T10:10:34Z",
     "window_hours": 24
   },
   "stories": [
@@ -118,86 +118,6 @@
       "category": "culture",
       "significance": 1,
       "section": "music"
-    },
-    {
-      "id": "world/live/2026/apr/09/nato-rutte-trump-iran-hungary-elections-vance-latest-news-updates",
-      "headline": "France accuses Hungary of ‘betrayal of solidarity’ over leaked call with Russian foreign minister – Europe live ",
-      "summary": "France condemns Hungary for alleged 'betrayal' in leaked call with Russian foreign minister.",
-      "url": "https://www.theguardian.com/p/x4nbxe",
-      "thumbnail": "https://media.guim.co.uk/e280af67796a644bc78ec3a2a2a05ad605c85d75/365_0_2917_2333/500.jpg",
-      "published": "2026-04-09T10:08:56Z",
-      "location": {
-        "name": "Budapest",
-        "lat": 47.4979,
-        "lng": 19.0402
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "commentisfree/2026/apr/09/uk-food-security-iran-war",
-      "headline": "It shouldn’t take a war for Britain to wake up to the need for food security",
-      "summary": "Commentary warns UK must prioritize food security beyond war-induced crisis responses.",
-      "url": "https://www.theguardian.com/p/x4nvq5",
-      "thumbnail": "https://media.guim.co.uk/2b3e7e52421ed1c613632f9320d7ef50db057bd8/30_0_4625_3700/500.jpg",
-      "published": "2026-04-09T10:00:47Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "commentisfree"
-    },
-    {
-      "id": "commentisfree/2026/apr/09/black-women-c-sections-florida",
-      "headline": "Why was a Florida woman forced to have a C-section?",
-      "summary": "Report exposes medical coercion forcing Black women into unwanted C-sections in Florida.",
-      "url": "https://www.theguardian.com/p/x4yz6b",
-      "thumbnail": "https://media.guim.co.uk/31c86aa6afe97d77bc47fce139a56c0331fae980/431_0_4265_3412/500.jpg",
-      "published": "2026-04-09T10:00:46Z",
-      "location": {
-        "name": "Tallahassee",
-        "lat": 30.4383,
-        "lng": -84.2807
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "commentisfree"
-    },
-    {
-      "id": "environment/2026/apr/09/intentional-snakebites-antivenom",
-      "headline": "Bitten by snakes 200 times – on purpose: US man’s quest to help deliver new antivenom",
-      "summary": "US man intentionally bitten 200 times by snakes to develop antivenom amid climate crisis.",
-      "url": "https://www.theguardian.com/p/x4n7nh",
-      "thumbnail": "https://media.guim.co.uk/8aba4a407a831807a96afc7f2afc6bb14acde3df/256_0_2560_2048/500.jpg",
-      "published": "2026-04-09T10:00:46Z",
-      "location": {
-        "name": "Wisconsin",
-        "lat": 44.2685,
-        "lng": -89.6165
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "environment"
-    },
-    {
-      "id": "uk-news/2026/apr/09/people-die-in-channel-small-boat-sinking",
-      "headline": "Four people die in Channel small-boat sinking",
-      "summary": "Four migrants die as small boat sinks in English Channel off Boulogne coast.",
-      "url": "https://www.theguardian.com/p/x4nb3g",
-      "thumbnail": "https://media.guim.co.uk/4ee1a22fed4a455b56e051d392bc2360f56cb620/165_0_4510_3608/500.jpg",
-      "published": "2026-04-09T09:59:03Z",
-      "location": {
-        "name": "Boulogne-sur-Mer",
-        "lat": 50.726,
-        "lng": 1.5883
-      },
-      "category": "conflict",
-      "significance": 2,
-      "section": "world"
     },
     {
       "id": "sport/live/2026/apr/09/the-masters-2026-day-one-golf-updates-from-augusta-national-live",
@@ -870,6 +790,246 @@
       "category": "culture",
       "significance": 2,
       "section": "tv-and-radio"
+    },
+    {
+      "id": "world/live/2026/apr/10/hungary-election-orban-europe-budapest-latest-news-updates",
+      "headline": "Hungary election campaigns enter final stretch as Orbán fights to remain in power – Europe live",
+      "summary": "Hungary election campaigns enter final stretch as Orbán fights to remain in power ahead of Sunday vote.",
+      "url": "https://www.theguardian.com/p/x4ngj3",
+      "thumbnail": "https://media.guim.co.uk/35c123c59fe262377d610c90a799a8c258c4952b/0_0_5354_4283/500.jpg",
+      "published": "2026-04-10T10:10:34Z",
+      "location": {
+        "name": "Budapest",
+        "lat": 47.4979,
+        "lng": 19.0402
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "sport/2026/apr/10/australian-athletics-sydney-national-championships-jessica-hull-lachlan-kennedy-report",
+      "headline": "Lachlan Kennedy becomes first Australian to run 100m in under 10 seconds on home soil",
+      "summary": "Lachlan Kennedy becomes first Australian to run 100m under 10 seconds on home soil in Sydney.",
+      "url": "https://www.theguardian.com/p/x4nfxh",
+      "thumbnail": "https://media.guim.co.uk/77bfe7a5b2485c4a57dcfd1e16d053be21fb6770/0_0_6327_5065/500.jpg",
+      "published": "2026-04-10T10:08:11Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "politics/live/2026/apr/10/starmer-trump-putin-iran-war-farage-reform-latest-news-updates",
+      "headline": "Starmer says he’s ‘fed up’ with Trump and Putin’s actions pushing up energy bills for Britons – UK politics live",
+      "summary": "Starmer blames Trump and Putin for pushing up energy bills for British consumers in Gulf tour conclusion.",
+      "url": "https://www.theguardian.com/p/x4ngdq",
+      "thumbnail": "https://media.guim.co.uk/a5783f2789cd5b1560f513c9550e222e5f66666e/24_0_3837_3069/500.jpg",
+      "published": "2026-04-10T10:07:33Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "global-development/2026/apr/10/argentina-just-ripped-up-its-pioneering-glacier-law-what-does-this-mean-for-millions-of-peoples-drinking-water",
+      "headline": "Argentina just ripped up its pioneering glacier law. What does this mean for millions of people’s drinking water?",
+      "summary": "Argentina repeals pioneering glacier law, opening high-altitude areas to mining and threatening water reserves.",
+      "url": "https://www.theguardian.com/p/x4nvkj",
+      "thumbnail": "https://media.guim.co.uk/c75770bce9830d1d7f644d713670be361d5cd7a2/217_0_2163_1731/500.jpg",
+      "published": "2026-04-10T10:00:17Z",
+      "location": {
+        "name": "Buenos Aires",
+        "lat": -34.6037,
+        "lng": -58.3816
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "global-development"
+    },
+    {
+      "id": "world/2026/apr/10/trump-iran-intervention-easy-as-venezuela-maduro-capture-john-feeley",
+      "headline": "Trump ‘reaping bitter fruit’ of thinking Iran intervention as easy as Venezuela, says former diplomat",
+      "summary": "Former diplomat warns Trump risks repeating Venezuela mistakes in Iran, now facing bitter consequences.",
+      "url": "https://www.theguardian.com/p/x4ncvz",
+      "thumbnail": "https://media.guim.co.uk/b633d8b61a8d77a2d91f465158b7658062c9f359/417_0_2083_1667/500.jpg",
+      "published": "2026-04-10T10:00:16Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "us-news/2026/apr/10/us-forest-service-restructure-union",
+      "headline": "‘Illegal’ forest service overhaul risks causing ‘chaos’ across US public lands, union claims",
+      "summary": "Forest Service union warns Trump's restructuring will close regional offices managing 193 million acres.",
+      "url": "https://www.theguardian.com/p/x4n7m2",
+      "thumbnail": "https://media.guim.co.uk/9000722cf797092b2ea8c57ac852e9280c6864d2/414_0_4101_3280/500.jpg",
+      "published": "2026-04-10T10:00:16Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/apr/10/trump-white-house-correspondents-dinner",
+      "headline": "Trump to break bread with journalists at annual dinner amid threats to jail them",
+      "summary": "Trump to attend White House Correspondents' dinner for first time as president amid journalist tensions.",
+      "url": "https://www.theguardian.com/p/x4n7j7",
+      "thumbnail": "https://media.guim.co.uk/e47c44480bdd694a306b670f7500dc3a3f4e7b77/180_0_2500_2000/500.jpg",
+      "published": "2026-04-10T10:00:16Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "world/2026/apr/10/yassamin-ansari-representative-congress-iran-trump",
+      "headline": " ’He’s mentally unstable’: Iranian American in Congress condemns Trump’s war and pushes for his removal",
+      "summary": "Iranian American congresswoman condemns Trump's Iran war as mentally unstable, calls for his removal.",
+      "url": "https://www.theguardian.com/p/x4n8hj",
+      "thumbnail": "https://media.guim.co.uk/b08f2733316c4e36124577a317708ee342e031e0/956_0_4851_3880/500.jpg",
+      "published": "2026-04-10T10:00:15Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "fashion/2026/apr/10/dolce-and-gabbana-says-co-founder-stefano-gabbana-quit-as-chair-at-start-of-year",
+      "headline": "Dolce & Gabbana says co-founder Stefano Gabbana quit as chair at start of year",
+      "summary": "Dolce & Gabbana co-founder Stefano Gabbana quit as chair in January amid stake negotiations with lenders.",
+      "url": "https://www.theguardian.com/p/x4nghx",
+      "thumbnail": "https://media.guim.co.uk/b803a8da1e3b9396bd56337b4198c90987985e45/0_622_3933_3147/500.jpg",
+      "published": "2026-04-10T09:58:20Z",
+      "location": {
+        "name": "Milan",
+        "lat": 45.4642,
+        "lng": 9.19
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "fashion"
+    },
+    {
+      "id": "uk-news/2026/apr/10/lee-milne-domestic-abuser-jailed-killing-wife-kimberly-scotland",
+      "headline": "Domestic abuser jailed for killing wife who took her own life in Scotland",
+      "summary": "Man jailed 8 years for culpable homicide after wife's suicide following domestic abuse.",
+      "url": "https://www.theguardian.com/p/x4ne8g",
+      "thumbnail": "https://media.guim.co.uk/80936cf2939bd38998d1685812492cfb1940a1d7/0_0_3158_2526/500.jpg",
+      "published": "2026-04-10T09:39:51Z",
+      "location": {
+        "name": "Glasgow",
+        "lat": 55.8642,
+        "lng": -4.2518
+      },
+      "category": "health",
+      "significance": 3,
+      "section": "uk-news"
+    },
+    {
+      "id": "australia-news/2026/apr/10/victim-paedophile-teacher-william-rob-gilfillan-child-sex-abuse-ntwnfb",
+      "headline": "Victim of ‘disgusting paedophile’ serving Australia’s longest sentence for child sex abuse tells of ‘lost decades’",
+      "summary": "Teacher serving Australia's longest child abuse sentence convicted of assaults in 1980s.",
+      "url": "https://www.theguardian.com/p/x4nfhp",
+      "thumbnail": "https://media.guim.co.uk/7e98e1d0afffc7273fb9a1ac294de557a4e6a42f/1234_0_6142_4917/500.jpg",
+      "published": "2026-04-10T09:34:08Z",
+      "location": {
+        "name": "Victoria",
+        "lat": -37.8136,
+        "lng": 144.9631
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "music/2026/apr/10/tori-amos-review-city-hall-sheffield",
+      "headline": "Tori Amos review – fans hang on every note of this dramatic deep dive into her back catalogue",
+      "summary": "Tori Amos performs new allegorical album at Sheffield City Hall.",
+      "url": "https://www.theguardian.com/p/x4nb8c",
+      "thumbnail": "https://media.guim.co.uk/cf538b68c8e1c8fb0de7e5935b2005e446090c60/992_2690_3467_2774/500.jpg",
+      "published": "2026-04-10T09:30:15Z",
+      "location": {
+        "name": "Sheffield",
+        "lat": 53.3811,
+        "lng": -1.4701
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "music"
+    },
+    {
+      "id": "football/2026/apr/10/roberto-de-zerbi-tottenham-mason-greenwood-male-violence-against-women",
+      "headline": "What De Zerbi’s comments about Mason Greenwood tell us about male violence ",
+      "summary": "Tottenham coach's apology for Greenwood comments raises accountability questions.",
+      "url": "https://www.theguardian.com/p/x4mnbn",
+      "thumbnail": "https://media.guim.co.uk/6d79dbe9c81966abcb983821b7018721c9575fdf/359_41_3282_2626/500.jpg",
+      "published": "2026-04-10T09:17:43Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "love-saturdays/2026/apr/10/family-saturday-routine-time-together-in-the-water",
+      "headline": "Our family’s Saturday: ‘I love it when we’re all in the water together’",
+      "summary": "Photographer shares family's springtime Saturday routines in Kent.",
+      "url": "https://www.theguardian.com/p/x4yhpm",
+      "thumbnail": "https://media.guim.co.uk/2022e9824338a338f6d9bcb810928098fea71aac/316_0_3760_3008/500.jpg",
+      "published": "2026-04-10T09:11:55Z",
+      "location": {
+        "name": "Whitstable",
+        "lat": 51.3437,
+        "lng": 1.0326
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "love-saturdays"
+    },
+    {
+      "id": "environment/2026/apr/10/weather-tracker-cyclone-maila-solomon-islands",
+      "headline": "Weather tracker: Cyclone Maila batters Solomon Islands with 115mph winds",
+      "summary": "Cyclone Maila batters Solomon Islands with 115mph winds, strongest storm this season.",
+      "url": "https://www.theguardian.com/p/x4ngm2",
+      "thumbnail": "https://media.guim.co.uk/2a26720ab76eaf235b26dd37233504116f2deb35/596_0_2880_2304/500.jpg",
+      "published": "2026-04-10T09:11:48Z",
+      "location": {
+        "name": "Solomon Islands",
+        "lat": -9.6412,
+        "lng": 160.1562
+      },
+      "category": "climate",
+      "significance": 3,
+      "section": "environment"
     }
   ]
 }
