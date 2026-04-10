@@ -1,188 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-10T19:56:20.718Z",
-    "story_count": 72,
-    "oldest_story": "2026-04-09T20:54:38Z",
-    "newest_story": "2026-04-10T19:53:41Z",
+    "generated_at": "2026-04-10T21:58:22.001Z",
+    "story_count": 70,
+    "oldest_story": "2026-04-09T22:58:28Z",
+    "newest_story": "2026-04-10T21:32:49Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "australia-news/live/2026/apr/10/anthony-albanese-singapore-visit-fuel-crisis-petrol-prices-labor-coalition-political-reactions-us-israel-war-iran-lebanon-ntwnfb",
-      "headline": "Australia news live: Marles says current flow of ships through strait of Hormuz ‘not what we want’; Queensland MP Jimmy Sullivan found dead",
-      "summary": "Queensland Labor MP Jimmy Sullivan found dead; Marles addresses Strait of Hormuz shipping concerns.",
-      "url": "https://www.theguardian.com/p/x4nc54",
-      "thumbnail": "https://media.guim.co.uk/d7403cf01037c80ef2b398cc8434f396049801e6/0_0_4005_3205/500.jpg",
-      "published": "2026-04-09T21:57:00Z",
-      "location": {
-        "name": "Queensland",
-        "lat": -27.4698,
-        "lng": 153.0251
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "us-news/2026/apr/09/california-felony-charges-hospice-scheme",
-      "headline": "California files felony charges against 21 people in alleged $267m hospice fraud scheme",
-      "summary": "California charges 21 people in $267m hospice fraud scheme involving 14 companies and stolen identities.",
-      "url": "https://www.theguardian.com/p/x4ne87",
-      "thumbnail": "https://media.guim.co.uk/4722f8dde42616e31b3b69c8e277a5c499b39701/471_0_4710_3769/500.jpg",
-      "published": "2026-04-09T21:51:23Z",
-      "location": {
-        "name": "California",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "sport/2026/apr/09/rory-mcilroy-augusta-masters-golf",
-      "headline": "McIlroy attacks Augusta as champion with big grin and hell of a swing",
-      "summary": "Rory McIlroy defends Masters title with aggressive play after winning in 2025.",
-      "url": "https://www.theguardian.com/p/x4nch7",
-      "thumbnail": "https://media.guim.co.uk/7833ec4500514e387c3966b42d15e4dbf7359765/760_0_4613_3690/500.jpg",
-      "published": "2026-04-09T21:32:22Z",
-      "location": {
-        "name": "Augusta",
-        "lat": 33.4734,
-        "lng": -82.0105
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "world/2026/apr/09/israel-bombing-lebanon-us-iran-ceasefire-condemnation",
-      "headline": "Netanyahu says there is no ceasefire in Lebanon as Israel launches fresh strikes",
-      "summary": "Netanyahu says no ceasefire in Lebanon; Israel continues strikes on Hezbollah as death toll exceeds 300.",
-      "url": "https://www.theguardian.com/p/x4ncbx",
-      "thumbnail": "https://media.guim.co.uk/98bad656c3fdac3ed52b348f9a952d03cba89268/315_0_4004_3203/500.jpg",
-      "published": "2026-04-09T21:29:16Z",
-      "location": {
-        "name": "Lebanon",
-        "lat": 33.8547,
-        "lng": 35.8623
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "music/2026/apr/09/afrika-bambaataa-hip-hop-pioneer-dies",
-      "headline": "Afrika Bambaataa, hip-hop pioneer, dies aged 67",
-      "summary": "Afrika Bambaataa, hip-hop pioneer from the Bronx, dies at 67 from cancer complications.",
-      "url": "https://www.theguardian.com/p/x4ne5t",
-      "thumbnail": "https://media.guim.co.uk/2c7431f23d8632a996ad24fa958d8a9aa883ba9c/98_7_2230_1784/500.jpg",
-      "published": "2026-04-09T21:27:44Z",
-      "location": {
-        "name": "Philadelphia",
-        "lat": 39.9526,
-        "lng": -75.1652
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "music"
-    },
-    {
-      "id": "sport/2026/apr/09/tyson-fury-arslanbek-makhmudov-boxing",
-      "headline": "‘For the first time I’m the hunter’: Fury relishes return to face Makhmudov",
-      "summary": "Tyson Fury makes comeback at Tottenham Hotspur Stadium against Arslanbek Makhmudov on Saturday.",
-      "url": "https://www.theguardian.com/p/x4nchd",
-      "thumbnail": "https://media.guim.co.uk/7a7ba8829f49ac7acaca1adf08f9dfecf16dfeb1/175_0_3835_3069/500.jpg",
-      "published": "2026-04-09T21:13:26Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "football/2026/apr/09/bologna-aston-villa-europa-league-quarter-final-first-leg-match-report",
-      "headline": "Watkins doubles up to punish Bologna and put Aston Villa in driving seat",
-      "summary": "Ollie Watkins scores twice as Aston Villa defeats Bologna 3-1 in Europa League quarter-final.",
-      "url": "https://www.theguardian.com/p/x4nd2c",
-      "thumbnail": "https://media.guim.co.uk/eec026c739d242f2dc37a50e8363c84c73f66241/502_83_2466_1972/500.jpg",
-      "published": "2026-04-09T21:10:02Z",
-      "location": {
-        "name": "Bologna",
-        "lat": 44.4949,
-        "lng": 11.3426
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/apr/09/porto-nottingham-forest-europa-league-quarter-final-first-leg-match-report",
-      "headline": "Comical own goal gives Nottingham Forest edge in hard-fought draw at Porto",
-      "summary": "Own goal secures 1-1 draw for Nottingham Forest at Porto in Europa League quarter-final.",
-      "url": "https://www.theguardian.com/p/x4nd6x",
-      "thumbnail": "https://media.guim.co.uk/f55ddb31957e6920046d0ae65e2b53b06aafbbb6/701_287_4099_3277/500.jpg",
-      "published": "2026-04-09T21:06:31Z",
-      "location": {
-        "name": "Porto",
-        "lat": 41.1579,
-        "lng": -8.6291
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/apr/09/crystal-palace-fiorentina-conference-league-quarter-final-first-leg-match-report",
-      "headline": "Mateta puts Crystal Palace on path to semis in rousing win over Fiorentina",
-      "summary": "Crystal Palace defeats Fiorentina 3-0 with Mateta penalty in Conference League quarter-final.",
-      "url": "https://www.theguardian.com/p/x4nd6g",
-      "thumbnail": "https://media.guim.co.uk/5bbb4799c72afb8046565b6d046f98c61cefd932/762_0_4253_3403/500.jpg",
-      "published": "2026-04-09T21:05:33Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "australia-news/2026/apr/10/morning-mail-friday-ntwnfb",
-      "headline": "Morning Mail: Israel calls for Lebanon talks, road traffic falls amid fuel crisis, how to solve a poo ball problem",
-      "summary": "Road traffic falls amid Australia's fuel crisis; Israel seeks Lebanon talks while bombardment continues.",
-      "url": "https://www.theguardian.com/p/x4nbb6",
-      "thumbnail": "https://media.guim.co.uk/3b17205ad079fab02693672a0795bdf903cab59d/24_0_1320_1056/500.jpg",
-      "published": "2026-04-09T20:55:29Z",
-      "location": {
-        "name": "Australia",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "us-news/2026/apr/09/california-ice-shooting-man-accusation",
-      "headline": "California man shot by ICE says officials falsely labeled him a gang member",
-      "summary": "California man shot by ICE claims officers falsely labeled him gang member without justification.",
-      "url": "https://www.theguardian.com/p/x4nex9",
-      "thumbnail": "https://media.guim.co.uk/5a909edd57aaeb1726f17776b8d5b02e1e4c925f/359_0_3591_2873/500.jpg",
-      "published": "2026-04-09T20:54:38Z",
-      "location": {
-        "name": "California",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
     {
       "id": "sport/2026/apr/10/golf-masters-first-round-rory-mcilroy-sam-burns-augusta",
       "headline": "Rory McIlroy holds share of Masters lead after flying start to his title defence",
@@ -1158,6 +982,150 @@
       "category": "culture",
       "significance": 1,
       "section": "stage"
+    },
+    {
+      "id": "sport/2026/apr/10/justin-rose-stays-in-touch-masters-augusta-spieth-koepka",
+      "headline": "Justin Rose struggles to keep his cool in the heat but Masters dream lives on",
+      "summary": "Justin Rose battles heat at Masters, still chasing long-held Augusta victory dream.",
+      "url": "https://www.theguardian.com/p/x4nj8n",
+      "thumbnail": "https://media.guim.co.uk/0777d8bd780594e4dcbd6954521c0ce3e4b89125/192_2_3268_2614/500.jpg",
+      "published": "2026-04-10T21:32:49Z",
+      "location": {
+        "name": "Augusta",
+        "lat": 33.4734,
+        "lng": -82.0105
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "sport"
+    },
+    {
+      "id": "football/2026/apr/10/roberto-de-zerbi-ange-postecoglou-tottenham-premier-league-relegation",
+      "headline": "Roberto De Zerbi targets ‘Ange-ball’ revival to save Spurs from relegation",
+      "summary": "De Zerbi targets 'Ange-ball' revival to save Tottenham from first relegation in 49 years.",
+      "url": "https://www.theguardian.com/p/x4ntjb",
+      "thumbnail": "https://media.guim.co.uk/e67608709e8d56e5d1a85aca94de6c1d08cd7da7/594_0_4045_3236/500.jpg",
+      "published": "2026-04-10T21:30:29Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/apr/10/arne-slot-insists-he-is-aligned-with-liverpool-board-and-fans-as-squad-is-rebuilt",
+      "headline": "Arne Slot insists he is ‘aligned’ with Liverpool board and fans as squad is rebuilt",
+      "summary": "Slot insists alignment with Liverpool board as squad rebuild begins post-Klopp era.",
+      "url": "https://www.theguardian.com/p/x4nhhf",
+      "thumbnail": "https://media.guim.co.uk/ce26dbd17a7b17736d741768b1608b74ee0e82ed/7_235_3602_2882/500.jpg",
+      "published": "2026-04-10T21:30:29Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/apr/10/kamala-harris-run-president-2028-election",
+      "headline": "Kamala Harris ‘thinking about’ running for president again in 2028",
+      "summary": "Kamala Harris hints she may run for president again in 2028.",
+      "url": "https://www.theguardian.com/p/x4nt72",
+      "thumbnail": "https://media.guim.co.uk/2787fa50046a960f6928a1015b504a53eb16fbee/329_0_3279_2625/500.jpg",
+      "published": "2026-04-10T21:27:11Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/apr/10/wyoming-man-wolf-killing-probation",
+      "headline": "Wyoming man who injured wolf, taped its mouth shut and then killed it receives probation",
+      "summary": "Wyoming hunter receives probation for injuring, taping mouth of wolf before killing it.",
+      "url": "https://www.theguardian.com/p/x4njjd",
+      "thumbnail": "https://media.guim.co.uk/5a649465ca84aa9e00f98970cf6440fc166d9e75/436_0_4341_3475/500.jpg",
+      "published": "2026-04-10T21:25:05Z",
+      "location": {
+        "name": "Pinedale",
+        "lat": 42.8596,
+        "lng": -109.7625
+      },
+      "category": "other",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/apr/10/bard-college-president-leon-botstein-jeffrey-epstein-ties",
+      "headline": "Bard College president tells staff he will soon be cleared in inquiry over Epstein ties",
+      "summary": "Bard College president Botstein predicts clearing in inquiry over Epstein ties.",
+      "url": "https://www.theguardian.com/p/x4njbf",
+      "thumbnail": "https://media.guim.co.uk/f158faf3c2c7a672b399b01934d52bc08fa35641/486_0_5306_4245/500.jpg",
+      "published": "2026-04-10T21:09:37Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "other",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "sport/2026/apr/10/bath-northampton-champions-cup-quarter-final-match-report",
+      "headline": "Bath hit back to reach semi-final after stunning Northampton in 11-try epic",
+      "summary": "Bath stuns Northampton 43-41 in 11-try epic to reach Champions Cup semi-final.",
+      "url": "https://www.theguardian.com/p/x4nj6g",
+      "thumbnail": "https://media.guim.co.uk/60314f8ad23f7ea4f5217cee520b30744f5889fb/506_103_3691_2952/500.jpg",
+      "published": "2026-04-10T21:08:06Z",
+      "location": {
+        "name": "Bath",
+        "lat": 51.3896,
+        "lng": -2.3599
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "football/2026/apr/10/west-ham-wolves-premier-league-match-report",
+      "headline": "West Ham double up twice to thrash Wolves and put Spurs in relegation zone",
+      "summary": "West Ham thrash Wolves 4-0 to escape bottom three; Spurs slip into relegation zone.",
+      "url": "https://www.theguardian.com/p/x4nj83",
+      "thumbnail": "https://media.guim.co.uk/918f2d67abee497bb897f2fcd7fa288268b9393d/250_121_3674_2940/500.jpg",
+      "published": "2026-04-10T21:07:43Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/2025/sep/15/premier-league-top-scorers-2025-26-who-is-leading-race-for-golden-boot",
+      "headline": "Premier League top scorers 2025-26: who is leading race for golden boot?",
+      "summary": "Erling Haaland leads Premier League Golden Boot race with 22 goals this season.",
+      "url": "https://www.theguardian.com/p/x386fa",
+      "thumbnail": "https://media.guim.co.uk/2a75d886f89c2a43eb9530b1e231b7c647e76c4f/0_119_2112_1690/500.jpg",
+      "published": "2026-04-10T20:59:15Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 1,
+      "section": "football"
     }
   ]
 }
