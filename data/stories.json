@@ -1,156 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-09T23:58:11.769Z",
-    "story_count": 55,
-    "oldest_story": "2026-04-09T04:59:23Z",
-    "newest_story": "2026-04-09T23:03:53Z",
+    "generated_at": "2026-04-10T06:21:18.700Z",
+    "story_count": 54,
+    "oldest_story": "2026-04-09T09:59:03Z",
+    "newest_story": "2026-04-10T06:06:35Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "travel/2026/apr/09/gravel-biking-mountains-of-andalucia-southern-spain",
-      "headline": "Terrain in Spain: gravel biking in the mountains of Andalucía",
-      "summary": "Gravel biking adventure through Sierra Nevada backcountry in southern Spain's scenic mountains.",
-      "url": "https://www.theguardian.com/p/x3zmcp",
-      "thumbnail": "https://media.guim.co.uk/3c58ae92c0720ac3b2e226fcb4aca9fa1c98c5d9/1226_879_1736_1389/500.jpg",
-      "published": "2026-04-09T06:00:24Z",
-      "location": {
-        "name": "Andalucía",
-        "lat": 37.1643,
-        "lng": -3.5979
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "travel"
-    },
-    {
-      "id": "world/live/2026/apr/09/iran-war-ceasefire-live-strait-of-hormuz-israel-strikes-middle-east-crisis-latest-news",
-      "headline": "Middle East crisis live: Red Cross ‘outraged’ as Israeli strikes on Lebanon kill 254 people; Trump says US military to remain in region",
-      "summary": "Israeli strikes kill 254 in Lebanon amid Middle East ceasefire collapse; Red Cross outraged.",
-      "url": "https://www.theguardian.com/p/x4n99b",
-      "thumbnail": "https://media.guim.co.uk/dde7752014fb9546901ea95a5f59347fc7391cf8/129_0_3806_3045/500.jpg",
-      "published": "2026-04-09T06:00:18Z",
-      "location": {
-        "name": "Lebanon",
-        "lat": 33.8547,
-        "lng": 35.8623
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "media/2026/apr/09/kyle-sandilands-humiliation-sacked-kiis-fm-jackie-o-ntwnfb",
-      "headline": "Kyle Sandilands claims he ‘suffered humiliation’ after he was sacked by Kiis FM over on-air spat with Jackie O ",
-      "summary": "Radio shock jock Kyle Sandilands claims humiliation after sacking from Kiis FM over on-air spat.",
-      "url": "https://www.theguardian.com/p/x4naxh",
-      "thumbnail": "https://media.guim.co.uk/b4babb43de9dbda7c1e88ef38f3564de81457f60/786_0_7857_6286/500.jpg",
-      "published": "2026-04-09T05:47:17Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "other",
-      "significance": 2,
-      "section": "media"
-    },
-    {
-      "id": "world/2026/apr/09/thursday-briefing-what-difference-will-the-ceasefire-in-the-middle-east-make-and-will-it-hold",
-      "headline": "Thursday briefing: ​What difference will the ceasefire in the Middle East make, and will it hold? ",
-      "summary": "Middle East ceasefire holds but unresolved disputes and competing interpretations threaten stability.",
-      "url": "https://www.theguardian.com/p/x4n5qj",
-      "thumbnail": "https://media.guim.co.uk/19e40090916b9308a9bad935e1568e96a1e21a93/525_0_6293_5034/500.jpg",
-      "published": "2026-04-09T05:45:23Z",
-      "location": {
-        "name": "Strait of Hormuz",
-        "lat": 26.5597,
-        "lng": 56.2406
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "australia-news/2026/apr/09/australia-eyes-new-fuel-supply-from-us-mexico-and-asia-as-diesel-prices-spike-to-record-high",
-      "headline": "Australia eyes new fuel supply from US, Mexico and Asia as diesel prices spike to record high",
-      "summary": "Australia secures new fuel supplies from US, Mexico, Asia as diesel prices spike to record highs.",
-      "url": "https://www.theguardian.com/p/x4naa6",
-      "thumbnail": "https://media.guim.co.uk/1b22bbfa0e5111939bbf286f82e99a9f28f7e7e6/0_0_5000_4000/500.jpg",
-      "published": "2026-04-09T05:44:20Z",
-      "location": {
-        "name": "Australia",
-        "lat": -25.2744,
-        "lng": 133.7751
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "australia-news"
-    },
-    {
-      "id": "uk-news/2026/apr/09/battle-of-britain-raf-control-new-forest-holiday-home-bats",
-      "headline": "Abandoned Battle of Britain control tower to become a home for holidaymakers … and six species of bat",
-      "summary": "Historic RAF control tower converted into holiday home for visitors and six bat species.",
-      "url": "https://www.theguardian.com/p/x4n6ej",
-      "thumbnail": "https://media.guim.co.uk/8727b7736baa844313a7ef92e1e7d329209079d0/226_0_2264_1811/500.jpg",
-      "published": "2026-04-09T05:00:23Z",
-      "location": {
-        "name": "New Forest",
-        "lat": 50.8503,
-        "lng": -1.5823
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "news/2026/apr/09/nasa-meteorologists-trialling-model-to-produce-ultra-local-short-term-forecasts",
-      "headline": "Nasa meteorologists trialling model to produce ultra local, short-term forecasts",
-      "summary": "NASA trials high-resolution weather model for ultra-local short-term forecasts.",
-      "url": "https://www.theguardian.com/p/x4mvkt",
-      "thumbnail": "https://media.guim.co.uk/494f730921d54eb8f7ac905e7070c6750924229e/0_0_5675_4543/500.jpg",
-      "published": "2026-04-09T05:00:23Z",
-      "location": {
-        "name": "Virginia",
-        "lat": 37.7693,
-        "lng": -78.6762
-      },
-      "category": "tech",
-      "significance": 2,
-      "section": "news"
-    },
-    {
-      "id": "commentisfree/2026/apr/09/ten-years-brexit-uk-divided-country",
-      "headline": "Ten years after Brexit, this is the UK: a divided nation frozen in time",
-      "summary": "Ten years after Brexit, UK remains deeply divided with increasingly polarized tribal politics.",
-      "url": "https://www.theguardian.com/p/x4n7bh",
-      "thumbnail": "https://media.guim.co.uk/5eb6fee13a9d664065a4d5fcb9ce7ad3f99a78f2/0_0_5000_4000/500.jpg",
-      "published": "2026-04-09T05:00:22Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "commentisfree"
-    },
-    {
-      "id": "australia-news/2026/apr/09/bruce-lehrmann-appeal-defamation-case-ntwnfb",
-      "headline": "Bruce Lehrmann loses last-ditch legal effort to appeal defamation case against Network Ten and Lisa Wilkinson",
-      "summary": "Bruce Lehrmann loses final court appeal in defamation case against Network Ten and Lisa Wilkinson.",
-      "url": "https://www.theguardian.com/p/x4na9t",
-      "thumbnail": "https://media.guim.co.uk/3c9feb188fd80a6130bad16f56cff262aa59e630/224_0_1572_1257/500.jpg",
-      "published": "2026-04-09T04:59:23Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "other",
-      "significance": 2,
-      "section": "australia-news"
-    },
     {
       "id": "politics/live/2026/apr/09/iran-yvette-cooper-starmer-gulf-green-polanski-elections-housing-latest-news-updates",
       "headline": "Polanski claims Labour has offered just ‘toxic combination of chaos and cowardice’ – UK politics live",
@@ -886,6 +742,134 @@
       "category": "tech",
       "significance": 3,
       "section": "science"
+    },
+    {
+      "id": "world/live/2026/apr/10/iran-war-live-updates-trump-ceasefire-strait-hormuz-israel-lebanon-hezbollah",
+      "headline": "Middle East crisis live: Trump casts doubt on Iran war ceasefire over continued closure of strait of Hormuz",
+      "summary": "Trump doubts Iran ceasefire as strait of Hormuz remains closed amid Israel-Hezbollah clashes.",
+      "url": "https://www.theguardian.com/p/x4nf7y",
+      "thumbnail": "https://media.guim.co.uk/303f09d83face881e45ad8f73382672c80397e16/890_0_6319_5058/500.jpg",
+      "published": "2026-04-10T06:06:35Z",
+      "location": {
+        "name": "Iran",
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "environment/2026/apr/09/a-rare-sign-of-hope-as-mountain-gorillas-welcome-two-sets-of-twins-in-central-africa",
+      "headline": "A rare sign of hope as mountain gorillas welcome two sets of twins in Africa",
+      "summary": "Mountain gorillas welcome twin births, marking conservation success in Virunga range.",
+      "url": "https://www.theguardian.com/p/x4mm8m",
+      "thumbnail": "https://media.guim.co.uk/67eeabf1b107c92fd7ab6cb4a5f61c9bd2f0694a/150_0_1500_1200/500.jpg",
+      "published": "2026-04-10T06:00:16Z",
+      "location": {
+        "name": "Uganda",
+        "lat": 0.3476,
+        "lng": 32.2903
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "environment"
+    },
+    {
+      "id": "business/2026/apr/10/dallas-new-york-business",
+      "headline": "Welcome to Y’all Street: bullish Dallas aims to steal New York’s financial crown",
+      "summary": "Dallas pursues financial hub status with tax incentives, challenging New York's dominance.",
+      "url": "https://www.theguardian.com/p/x4t4zn",
+      "thumbnail": "https://media.guim.co.uk/41a2c44c1dac67fe6128e6ae995ffc535b177829/1_0_2999_2400/500.jpg",
+      "published": "2026-04-10T06:00:12Z",
+      "location": {
+        "name": "Dallas",
+        "lat": 32.7767,
+        "lng": -96.797
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "technology/2026/apr/09/google-meta-snap-microsoft-eu-child-sexual-abuse",
+      "headline": "‘Irresponsible failure’: Google, Meta, Snap and Microsoft slam EU over child sexual abuse law lapse",
+      "summary": "EU legal lapse on child sexual abuse scanning creates safety gap, tech firms warn.",
+      "url": "https://www.theguardian.com/p/x4nde2",
+      "thumbnail": "https://media.guim.co.uk/c26e9c02fac62382c5e6a75c15356be34df5a02b/148_0_4389_3514/500.jpg",
+      "published": "2026-04-10T06:00:12Z",
+      "location": {
+        "name": "Brussels",
+        "lat": 50.8503,
+        "lng": 4.3517
+      },
+      "category": "tech",
+      "significance": 3,
+      "section": "technology"
+    },
+    {
+      "id": "travel/2026/apr/10/spain-hidden-gems-holidays",
+      "headline": "‘Tranquil, natural and barely a tourist in sight’: readers’ favourite hidden gems in Spain",
+      "summary": "Readers share hidden gem travel tips across Spain's lesser-known regions.",
+      "url": "https://www.theguardian.com/p/x4yb7v",
+      "thumbnail": "https://media.guim.co.uk/9c9066f30b3b00940a657e4ccb2b3ae108d218f6/433_0_3540_2832/500.jpg",
+      "published": "2026-04-10T06:00:11Z",
+      "location": {
+        "name": "Spain",
+        "lat": 40.4637,
+        "lng": -3.7492
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "travel"
+    },
+    {
+      "id": "world/2026/apr/09/friday-briefing-how-the-middle-east-conflict-is-hitting-households-in-the-uk",
+      "headline": "Friday briefing: How the Middle East conflict is hitting households in the UK",
+      "summary": "Middle East conflict's economic fallout raises UK energy, mortgage, and food costs.",
+      "url": "https://www.theguardian.com/p/x4nbbe",
+      "thumbnail": "https://media.guim.co.uk/dc076fa1569a4d6ee005c11968241b2f614da39d/1142_35_4250_3401/500.jpg",
+      "published": "2026-04-10T05:45:38Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "australia-news/2026/apr/01/australia-fuel-crisis-petrol-prices-graphs",
+      "headline": "Track Australia’s fuel prices, service station outages and shipments in charts",
+      "summary": "Australia faces fuel crisis as Iran's Strait of Hormuz closure drives supply shortages.",
+      "url": "https://www.theguardian.com/p/x4yfdz",
+      "thumbnail": "https://media.guim.co.uk/6b84acc213f0c5c2fdd876689894c356ee2ef32c/0_0_5000_4000/500.jpg",
+      "published": "2026-04-10T05:44:56Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "australia-news"
+    },
+    {
+      "id": "tv-and-radio/2026/apr/10/tv-tonight-riveting-documentary-about-nigerias-female-film-directors",
+      "headline": "TV tonight: riveting documentary about Nigeria’s female film directors",
+      "summary": "Documentary explores Nigeria's emerging female film directors and entertainment industry.",
+      "url": "https://www.theguardian.com/p/x4m76z",
+      "thumbnail": "https://media.guim.co.uk/384e31e74c747a3512c0254044f31242e84400b0/523_0_1350_1080/500.jpg",
+      "published": "2026-04-10T05:20:09Z",
+      "location": {
+        "name": "Lagos",
+        "lat": 6.5244,
+        "lng": 3.3792
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "tv-and-radio"
     }
   ]
 }
