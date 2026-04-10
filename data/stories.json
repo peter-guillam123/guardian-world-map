@@ -1,124 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-10T10:17:35.719Z",
-    "story_count": 64,
-    "oldest_story": "2026-04-09T10:20:08Z",
-    "newest_story": "2026-04-10T10:10:34Z",
+    "generated_at": "2026-04-10T14:32:54.344Z",
+    "story_count": 69,
+    "oldest_story": "2026-04-09T15:00:52Z",
+    "newest_story": "2026-04-10T14:29:01Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "politics/live/2026/apr/09/iran-yvette-cooper-starmer-gulf-green-polanski-elections-housing-latest-news-updates",
-      "headline": "Polanski claims Labour has offered just ‘toxic combination of chaos and cowardice’ – UK politics live",
-      "summary": "Green party launches local election campaign, attacking Labour government policies.",
-      "url": "https://www.theguardian.com/p/x4naze",
-      "thumbnail": "https://media.guim.co.uk/0b73c4c81e3df769c13f051c3964af78ffc417a0/1404_0_2573_2060/500.jpg",
-      "published": "2026-04-09T10:39:07Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "business/live/2026/apr/09/oil-stocks-fall-fragile-ceasefire-middle-east-business-news",
-      "headline": "Oil rises and global stocks wobble amid worries over ‘fragile’ ceasefire deal in Middle East – business live",
-      "summary": "Oil prices rise amid fragile Middle East ceasefire; UK fuel costs continue climbing.",
-      "url": "https://www.theguardian.com/p/x4naj6",
-      "thumbnail": "https://media.guim.co.uk/f695ad1988aeef438f9cd8f954b1c87fe31c1562/0_0_4343_3474/500.jpg",
-      "published": "2026-04-09T10:28:01Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "business"
-    },
-    {
-      "id": "media/2026/apr/09/doug-allan-wildlife-cameraman-dies",
-      "headline": "Doug Allan, cameraman on David Attenborough’s Planet series, dies trekking in Nepal",
-      "summary": "Wildlife cameraman Doug Allan, Planet series pioneer, dies aged 74 while trekking in Nepal.",
-      "url": "https://www.theguardian.com/p/x4nbfp",
-      "thumbnail": "https://media.guim.co.uk/77c385c1418816f1febc74b11978a9848c130db5/0_118_1596_1276/500.jpg",
-      "published": "2026-04-09T10:27:20Z",
-      "location": {
-        "name": "Kathmandu",
-        "lat": 27.7172,
-        "lng": 85.324
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "uk-news/2026/apr/09/uk-navy-russian-submarines-undersea-cables-north-atlantic",
-      "headline": "UK navy foiled Russian submarines surveying undersea cables, defence minister says",
-      "summary": "UK navy forces Russian submarines to abandon surveying undersea cables in North Atlantic.",
-      "url": "https://www.theguardian.com/p/x4nbhc",
-      "thumbnail": "https://media.guim.co.uk/c1acd425dacbdfa19d833532aeb03fcc7a63f241/583_0_2917_2333/500.jpg",
-      "published": "2026-04-09T10:23:29Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "uk-news"
-    },
-    {
-      "id": "stage/2026/apr/09/kiss-of-the-spider-woman-review-curve-leicester",
-      "headline": "Kiss of the Spider Woman review – Hollywood high kicks into a slick musical revival",
-      "summary": "Kiss of the Spider Woman musical revival delivers slick staging at Curve Leicester.",
-      "url": "https://www.theguardian.com/p/x4nb5e",
-      "thumbnail": "https://media.guim.co.uk/6e1a9fa76319d2e7b2884d4807b5bc75e4c3107a/461_0_4104_3285/500.jpg",
-      "published": "2026-04-09T10:22:21Z",
-      "location": {
-        "name": "Leicester",
-        "lat": 52.6369,
-        "lng": -1.1398
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "stage"
-    },
-    {
-      "id": "us-news/live/2026/apr/09/democrats-war-powers-resolution-iran-republicans-melania-donald-trump-latest-news-updates",
-      "headline": "Democrats push to pass Iran war powers resolution despite House recess, accusing Trump of ‘unhinged behavior’ – US politics live",
-      "summary": "Democrats push war powers resolution demanding Trump withdraw US forces from Middle East.",
-      "url": "https://www.theguardian.com/p/x4nb8z",
-      "thumbnail": "https://media.guim.co.uk/47c26483d84660f2872ded6bef0654236603c926/300_0_3000_2400/500.jpg",
-      "published": "2026-04-09T10:22:10Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "music/2026/apr/09/belle-and-sebastian-review-albert-hall-tigermilk-stuart-murdoch",
-      "headline": "Belle and Sebastian review – joyful anniversary tour makes debut album brighter than ever",
-      "summary": "Belle and Sebastian celebrate 30th anniversary with joyful Royal Albert Hall tour.",
-      "url": "https://www.theguardian.com/p/x4nb95",
-      "thumbnail": "https://media.guim.co.uk/290718df87b5fbd07bde9a5e84eb59aba7cc80bf/327_263_3738_2991/500.jpg",
-      "published": "2026-04-09T10:20:08Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "music"
-    },
     {
       "id": "sport/live/2026/apr/09/the-masters-2026-day-one-golf-updates-from-augusta-national-live",
       "headline": "The Masters 2026: McIlroy begins title defence, strong starts for Fleetwood and Reed – live",
@@ -1030,6 +918,198 @@
       "category": "climate",
       "significance": 3,
       "section": "environment"
+    },
+    {
+      "id": "sport/live/2026/apr/10/the-masters-2026-day-two-golf-updates-from-augusta-national-live",
+      "headline": "The Masters 2026: day two golf updates from Augusta National – live",
+      "summary": "The Masters 2026 second round underway at Augusta National Golf Club.",
+      "url": "https://www.theguardian.com/p/x4n64a",
+      "thumbnail": "https://media.guim.co.uk/f6c71b04a7f9c56a8a31ea18941df9b4bebec440/74_0_3667_2933/500.jpg",
+      "published": "2026-04-10T14:29:01Z",
+      "location": {
+        "name": "Augusta, Georgia",
+        "lat": 33.5007,
+        "lng": -82.011
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "sport"
+    },
+    {
+      "id": "uk-news/2026/apr/10/man-arrested-baby-killed-suspected-dog-attack-yorkshire",
+      "headline": "Man arrested after baby killed in suspected dog attack in Yorkshire",
+      "summary": "Baby killed in suspected dog attack in Redcar, Yorkshire; man arrested.",
+      "url": "https://www.theguardian.com/p/x4nhp7",
+      "thumbnail": "https://media.guim.co.uk/b5f216d96914a704593faf383d3ed192ee25b049/386_0_3328_2663/500.jpg",
+      "published": "2026-04-10T14:27:43Z",
+      "location": {
+        "name": "Redcar, England",
+        "lat": 54.619,
+        "lng": -1.0814
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "world/2026/apr/10/fuel-price-protests-chaos-ireland-norway",
+      "headline": "Fuel-price protests cause chaos in Ireland and spread to Norway",
+      "summary": "Fuel-price protests by hauliers and farmers paralyse Ireland and spread to Norway.",
+      "url": "https://www.theguardian.com/p/x4nhq8",
+      "thumbnail": "https://media.guim.co.uk/5f26827d8333a5384ef127f8aac083892b51d4a8/300_0_2740_2192/500.jpg",
+      "published": "2026-04-10T14:25:27Z",
+      "location": {
+        "name": "Dublin, Ireland",
+        "lat": 53.3498,
+        "lng": -6.2603
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "football/2026/apr/10/goodbye-to-the-rare-talent-aaron-ramsey-aka-the-biggest-what-if-in-history-of-wales-football",
+      "headline": "Goodbye to rare talent Aaron Ramsey, the biggest what-if in Welsh football history",
+      "summary": "Aaron Ramsey retires as Welsh football's biggest what-if success story.",
+      "url": "https://www.theguardian.com/p/x4nhy3",
+      "thumbnail": "https://media.guim.co.uk/1d7382582eb3f54035d8a8575d2e4b55746542fb/629_162_4984_3988/500.jpg",
+      "published": "2026-04-10T14:20:01Z",
+      "location": {
+        "name": "Wales",
+        "lat": 52.1305,
+        "lng": -3.7837
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "world/2026/apr/10/european-airports-jet-fuel-shortages-flights-iran",
+      "headline": "European airports could face jet fuel shortages within three weeks",
+      "summary": "European airports warn of jet fuel shortages within three weeks due to Middle East crisis.",
+      "url": "https://www.theguardian.com/p/x4nhh8",
+      "thumbnail": "https://media.guim.co.uk/da29bbad8c5f8cfc124296d0aa3e2d8547aec8b6/103_0_4414_3533/500.jpg",
+      "published": "2026-04-10T14:12:40Z",
+      "location": {
+        "name": "Brussels, Belgium",
+        "lat": 50.8503,
+        "lng": 4.3517
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "sport/live/2026/apr/10/essex-v-somerset-surrey-v-leicestershire-and-more-county-cricket-day-one-live",
+      "headline": "Essex v Somerset, Surrey v Leicestershire, and more: county cricket, day one – live",
+      "summary": "County cricket championship day one: Essex vs Somerset and other matches.",
+      "url": "https://www.theguardian.com/p/x4n632",
+      "thumbnail": "https://media.guim.co.uk/a1440f2de01a2956789eaa52e435e627997d2f73/0_232_1593_1274/500.jpg",
+      "published": "2026-04-10T14:11:50Z",
+      "location": {
+        "name": "England",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "us-news/live/2026/apr/10/donald-trump-melania-jeffrey-epstein-iran-inflation-latest-news-updates",
+      "headline": "Epstein survivors criticise Melania Trump after surprise statement – US politics live",
+      "summary": "Epstein survivors criticise Melania Trump's public hearing statement.",
+      "url": "https://www.theguardian.com/p/x4nh3y",
+      "thumbnail": "https://media.guim.co.uk/a307ee58804134593a8cfdcb3a2d47a17e89d5df/0_116_5982_4785/500.jpg",
+      "published": "2026-04-10T14:11:41Z",
+      "location": {
+        "name": "Washington, D.C.",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/apr/10/texas-death-row-sentence-overturned",
+      "headline": "Texas court overturns sentence for man on death row for nearly 50 years",
+      "summary": "Texas court overturns 50-year death row sentence for intellectually disabled man.",
+      "url": "https://www.theguardian.com/p/x4nhtn",
+      "thumbnail": "https://media.guim.co.uk/d0c4167e5ef6a06aed92fd32cb06e112108431b0/270_0_3854_3083/500.jpg",
+      "published": "2026-04-10T14:11:28Z",
+      "location": {
+        "name": "Texas, USA",
+        "lat": 31.9686,
+        "lng": -99.9018
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "thefilter/2026/apr/10/best-meal-delivery-service-food-recipe-kit-tested-uk",
+      "headline": "‘Fresher than anything in a shop’: the best recipe boxes and meal kits for time-poor foodies, tested",
+      "summary": "Human rights groups oppose Trump plan for Cuban migrant camp at Guantánamo.",
+      "url": "https://www.theguardian.com/p/x4f7ep",
+      "thumbnail": "https://media.guim.co.uk/61dafe951849ae5d73673f1ef203657e7eac03e1/0_0_5000_4000/500.jpg",
+      "published": "2026-04-10T14:02:08Z",
+      "location": {
+        "name": "Guantánamo Bay, Cuba",
+        "lat": 19.9047,
+        "lng": -75.1455
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "thefilter"
+    },
+    {
+      "id": "business/live/2026/apr/10/oil-rise-iran-war-ceasefire-china-factory-increase-business-latest-news-updates",
+      "headline": "European airports ‘face jet fuel shortages within three weeks’; Irish army called in over fuel protests - business live ",
+      "summary": "European airports warn of jet fuel shortages within three weeks if Strait of Hormuz remains closed due to Iran war.",
+      "url": "https://www.theguardian.com/p/x4ng9x",
+      "thumbnail": "https://media.guim.co.uk/88d4f6fbd7f1399508b33e7c20249de6851faedd/679_0_3411_2728/500.jpg",
+      "published": "2026-04-10T13:46:19Z",
+      "location": {
+        "name": "Strait of Hormuz",
+        "lat": 26.5667,
+        "lng": 56.25
+      },
+      "category": "economy",
+      "significance": 4,
+      "section": "business"
+    },
+    {
+      "id": "sport/2026/apr/10/two-horse-trainer-grand-national-fairytale-horse-racing",
+      "headline": "Two-horse trainer hopes to keep Grand National fairytale tradition alive",
+      "summary": "Two-horse trainer Connor King pursues Grand National fairytale with Oscars Brother at Aintree.",
+      "url": "https://www.theguardian.com/p/x4nhzy",
+      "thumbnail": "https://media.guim.co.uk/a4ad8671d51b26ac8c2a9d0497ec29077f37e015/637_268_4500_3600/500.jpg",
+      "published": "2026-04-10T13:45:01Z",
+      "location": {
+        "name": "Aintree",
+        "lat": 53.2011,
+        "lng": -2.8154
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "football/2026/apr/10/womens-world-cup-2031-host-cities-fifa-concerns",
+      "headline": "Potential US host cities for 2031 Women’s World Cup games mull withdrawal over Fifa concerns",
+      "summary": "US cities including Chicago and Pittsburgh consider withdrawing from 2031 Women's World Cup hosting bid over FIFA concerns.",
+      "url": "https://www.theguardian.com/p/x4nhdg",
+      "thumbnail": "https://media.guim.co.uk/477a4a79e769f8fdcfab258fc37a9627da870edd/625_0_6245_4996/500.jpg",
+      "published": "2026-04-10T13:43:06Z",
+      "location": {
+        "name": "United States",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
     }
   ]
 }
