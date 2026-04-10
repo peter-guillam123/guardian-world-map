@@ -1,76 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-10T21:58:22.001Z",
+    "generated_at": "2026-04-10T23:54:43.281Z",
     "story_count": 70,
-    "oldest_story": "2026-04-09T22:58:28Z",
-    "newest_story": "2026-04-10T21:32:49Z",
+    "oldest_story": "2026-04-10T05:20:09Z",
+    "newest_story": "2026-04-10T23:35:10Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "sport/2026/apr/10/golf-masters-first-round-rory-mcilroy-sam-burns-augusta",
-      "headline": "Rory McIlroy holds share of Masters lead after flying start to his title defence",
-      "summary": "Rory McIlroy shares Masters lead with Sam Burns after opening 67 at Augusta National.",
-      "url": "https://www.theguardian.com/p/x4ncee",
-      "thumbnail": "https://media.guim.co.uk/b2308afe94aa898db571b058f0e18515b9f67538/705_0_4119_3294/500.jpg",
-      "published": "2026-04-09T23:03:53Z",
-      "location": {
-        "name": "Augusta",
-        "lat": 33.5007,
-        "lng": -82.0105
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "us-news/2026/apr/09/democrats-national-action-cetwork-convention-2026-midterms",
-      "headline": "‘We can’t lose’: all eyes on potential 2028 Democratic contenders at big party gathering for this year’s midterms",
-      "summary": "Democratic leaders gather at National Action Network convention in NYC to strategize for midterms.",
-      "url": "https://www.theguardian.com/p/x4neah",
-      "thumbnail": "https://media.guim.co.uk/3c4a0f5684d41d53186fa66134e31e137f29d869/333_0_3333_2667/500.jpg",
-      "published": "2026-04-09T23:02:20Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "football/2026/apr/10/premier-league-10-things-to-look-out-for-this-weekend",
-      "headline": "Premier League: 10 things to look out for this weekend",
-      "summary": "Premier League weekend preview highlights De Zerbi's Tottenham debut and Anfield protests.",
-      "url": "https://www.theguardian.com/p/x4n62g",
-      "thumbnail": "https://media.guim.co.uk/bac198fc3d96e547f4000c0565ccfe64d6e7ac12/0_0_5000_4000/500.jpg",
-      "published": "2026-04-09T23:01:02Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "science/2026/apr/09/artemis-crew-nasa-return",
-      "headline": "Artemis II crew to return home as Nasa lays out steps for safe splashdown",
-      "summary": "Artemis II crew prepares for splashdown off southern California coast after lunar flyby mission.",
-      "url": "https://www.theguardian.com/p/x4nee5",
-      "thumbnail": "https://media.guim.co.uk/115ed6bc5a0e3817e454e44e1ec00524b410fbf1/338_0_3362_2691/500.jpg",
-      "published": "2026-04-09T22:58:28Z",
-      "location": {
-        "name": "Southern California",
-        "lat": 34.0522,
-        "lng": -118.2437
-      },
-      "category": "tech",
-      "significance": 3,
-      "section": "science"
-    },
     {
       "id": "world/live/2026/apr/10/iran-war-live-updates-trump-ceasefire-strait-hormuz-israel-lebanon-hezbollah",
       "headline": "Middle East crisis live: Trump casts doubt on Iran war ceasefire over continued closure of strait of Hormuz",
@@ -1126,6 +1062,70 @@
       "category": "sport",
       "significance": 1,
       "section": "football"
+    },
+    {
+      "id": "us-news/2026/apr/10/eric-swalwell-california-sexual-assault-allegations",
+      "headline": "California: Eric Swalwell staffers quit after new sexual assault allegations",
+      "summary": "Eric Swalwell's California gubernatorial campaign loses staffers and support over sexual assault allegations.",
+      "url": "https://www.theguardian.com/p/x4nk99",
+      "thumbnail": "https://media.guim.co.uk/81d87bfd1553930303e2503059aa3b2e5fe7c970/428_0_6599_5278/500.jpg",
+      "published": "2026-04-10T23:35:10Z",
+      "location": {
+        "name": "San Francisco",
+        "lat": 37.7749,
+        "lng": -122.4194
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "world/2026/apr/11/jd-vance-dispatched-to-negotiate-iran-peace-with-few-cards-to-play",
+      "headline": "JD Vance dispatched to negotiate Iran peace with few cards to play",
+      "summary": "VP JD Vance arrives in Pakistan to negotiate Iran peace deal amid Middle East tensions.",
+      "url": "https://www.theguardian.com/p/x4nt2g",
+      "thumbnail": "https://media.guim.co.uk/ae6a0ade74ae1beae0a6167d9778441cb761f3a1/213_0_4633_3709/500.jpg",
+      "published": "2026-04-10T23:05:31Z",
+      "location": {
+        "name": "Islamabad",
+        "lat": 33.6844,
+        "lng": 73.0479
+      },
+      "category": "politics",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "sport/2026/apr/11/rory-mcilroy-six-shot-masters-lead--stunning-second-round-golf",
+      "headline": "Rory McIlroy surges into six-shot Masters lead with stunning second-round flourish",
+      "summary": "Rory McIlroy takes commanding six-shot Masters lead after brilliant second-round performance.",
+      "url": "https://www.theguardian.com/p/x4ntyz",
+      "thumbnail": "https://media.guim.co.uk/8135707898307d14d66ab9b70b85f15e0c12b4d3/516_222_3608_2887/500.jpg",
+      "published": "2026-04-10T23:04:16Z",
+      "location": {
+        "name": "Augusta",
+        "lat": 33.4734,
+        "lng": -82.0105
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "us-news/2026/apr/10/epstein-survivors-melania-trump-reaction",
+      "headline": "Survivors of Epstein’s abuse accuse Melania Trump of ‘shifting burden’ on to victims",
+      "summary": "Epstein survivors criticize Melania Trump's call for Congressional hearings on abuse.",
+      "url": "https://www.theguardian.com/p/x4nt84",
+      "thumbnail": "https://media.guim.co.uk/e7db19473118c1e6a9e1d6fda112a58e060697e5/520_0_7402_5923/500.jpg",
+      "published": "2026-04-10T23:01:03Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
     }
   ]
 }
