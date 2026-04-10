@@ -1,220 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-10T14:32:54.344Z",
-    "story_count": 69,
-    "oldest_story": "2026-04-09T15:00:52Z",
-    "newest_story": "2026-04-10T14:29:01Z",
+    "generated_at": "2026-04-10T17:36:43.944Z",
+    "story_count": 68,
+    "oldest_story": "2026-04-09T18:47:55Z",
+    "newest_story": "2026-04-10T17:20:20Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "sport/live/2026/apr/09/the-masters-2026-day-one-golf-updates-from-augusta-national-live",
-      "headline": "The Masters 2026: McIlroy begins title defence, strong starts for Fleetwood and Reed – live",
-      "summary": "McIlroy defends Masters title as Fleetwood and Reed make strong starts in first round.",
-      "url": "https://www.theguardian.com/p/x4n275",
-      "thumbnail": "https://media.guim.co.uk/7afb76efddc5d18550a68cae1c5e283454998aef/200_0_2474_1979/500.jpg",
-      "published": "2026-04-09T16:05:05Z",
-      "location": {
-        "name": "Augusta",
-        "lat": 33.5007,
-        "lng": -82.0105
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "sport"
-    },
-    {
-      "id": "food/2026/apr/09/gentlemans-relish-london-restaurant-discontinued-maker-axes-anchovy-spread",
-      "headline": "Gentleman’s Relish is toast after its maker axes the pungent anchovy spread",
-      "summary": "Gentleman's Relish anchovy spread discontinued after falling sales since 1828 creation.",
-      "url": "https://www.theguardian.com/p/x4nc9t",
-      "thumbnail": "https://media.guim.co.uk/5df9b58ee180d6d96827afe8a614ab2e66899832/207_0_3612_2890/500.jpg",
-      "published": "2026-04-09T15:35:03Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "food"
-    },
-    {
-      "id": "us-news/2026/apr/09/jd-vance-claims-orban-eu-hungary-election-fact-checked",
-      "headline": "JD Vance’s claims about Orbán, the EU and Hungary fact-checked",
-      "summary": "JD Vance's claims about EU election interference and Hungary's economy fact-checked.",
-      "url": "https://www.theguardian.com/p/x4nchy",
-      "thumbnail": "https://media.guim.co.uk/9bda1ecb20709208fe05efdf7406d19e993e6089/392_23_3041_2433/500.jpg",
-      "published": "2026-04-09T15:15:12Z",
-      "location": {
-        "name": "Budapest",
-        "lat": 47.4979,
-        "lng": 19.0402
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "fashion/2026/apr/09/jo-malone-surprised-sad-sued-for-using-name-on-zara-fragrances",
-      "headline": "Jo Malone ‘surprised and sad’ after being sued for £200,000 for using her name on fragrances",
-      "summary": "Jo Malone sued for £200k by Estée Lauder over naming agreement breach on Zara fragrances.",
-      "url": "https://www.theguardian.com/p/x4ncd8",
-      "thumbnail": "https://media.guim.co.uk/22702a7498e59ad0303c3aa38ad2b130e3172d35/590_0_4344_3476/500.jpg",
-      "published": "2026-04-09T15:13:21Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "fashion"
-    },
-    {
-      "id": "film/2026/apr/09/cannes-festival-ditches-us-film-makers-for-world-cinema-directors",
-      "headline": "Cannes looks beyond Hollywood as US film-makers mostly fail to make the grade",
-      "summary": "Cannes Film Festival 79th edition shifts away from Hollywood toward world cinema directors.",
-      "url": "https://www.theguardian.com/p/x4nc4t",
-      "thumbnail": "https://media.guim.co.uk/f988f4a21734c15a6b9155182d1da3312a35e64e/207_153_1887_1510/500.jpg",
-      "published": "2026-04-09T15:05:09Z",
-      "location": {
-        "name": "Cannes",
-        "lat": 43.5528,
-        "lng": 7.0176
-      },
-      "category": "culture",
-      "significance": 3,
-      "section": "film"
-    },
-    {
-      "id": "sport/2026/apr/09/england-lose-hannah-botterman-womens-six-nations-rugby-opener",
-      "headline": "England absences mount for Six Nations opener after pregnancies and injuries",
-      "summary": "England loses prop Hannah Botterman to ankle injury ahead of Women's Six Nations.",
-      "url": "https://www.theguardian.com/p/x4nc7p",
-      "thumbnail": "https://media.guim.co.uk/23d204552842d7ccbfcb830aad11c94a716c92b2/266_0_4924_3940/500.jpg",
-      "published": "2026-04-09T15:01:44Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "australia-news/2026/apr/10/oil-prices-iran-war-ongoing-middle-east-conflict-fuel-australia",
-      "headline": "Oil prices could take a year to return to pre-Iran levels even if ceasefire holds, Australian experts warn",
-      "summary": "Australian experts warn oil prices may take a year to normalize even if Iran ceasefire holds.",
-      "url": "https://www.theguardian.com/p/x4naph",
-      "thumbnail": "https://media.guim.co.uk/8040ef02805612f6db74d42902081ed249e67ed5/156_0_3798_3038/500.jpg",
-      "published": "2026-04-09T15:00:53Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "australia-news"
-    },
-    {
-      "id": "australia-news/2026/apr/09/sydney-fatberg-door-beach-poo-balls",
-      "headline": "Behind this door is the huge fatberg that can’t stop depositing poo balls on Sydney’s beaches",
-      "summary": "Sydney's Malabar wastewater plant struggles with massive fatberg causing beach pollution.",
-      "url": "https://www.theguardian.com/p/x4mjbj",
-      "thumbnail": "https://media.guim.co.uk/acc7dd56486a097636c68bce3e83e078fa42d815/0_0_2461_1970/500.jpg",
-      "published": "2026-04-09T15:00:53Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "science/2026/apr/09/autoimmune-diseases-cell-therapy-immune-reset",
-      "headline": "Woman with three deadly diseases has ‘remarkable’ recovery after cell therapy",
-      "summary": "Woman with three autoimmune diseases achieves remarkable recovery via immune-reset cell therapy.",
-      "url": "https://www.theguardian.com/p/x4nc5n",
-      "thumbnail": "https://media.guim.co.uk/40fd346820a58f137458f1c17182b908c26abb88/2060_2205_1766_1413/500.jpg",
-      "published": "2026-04-09T15:00:53Z",
-      "location": {
-        "name": "Germany",
-        "lat": 51.1657,
-        "lng": 10.4515
-      },
-      "category": "health",
-      "significance": 3,
-      "section": "science"
-    },
-    {
-      "id": "sport/2026/apr/10/australian-athletics-sydney-national-championships-gout-jessica-hull-lachlan-kennedy",
-      "headline": " Gout and Kennedy renew rivalry, Hull eyes history as Australian athletics puts its best on show",
-      "summary": "Gout Gout and Jessica Hull headline Australian athletics national championships in Sydney.",
-      "url": "https://www.theguardian.com/p/x4n94p",
-      "thumbnail": "https://media.guim.co.uk/ae7dd946941a71d03e7ab228a2585fe0695b63dd/0_450_2000_1600/500.jpg",
-      "published": "2026-04-09T15:00:53Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "australia-news/2026/apr/09/traffic-sydney-melbourne-roads-fuel-crisis-petrol-prices-australia",
-      "headline": "Traffic falls on major Sydney and Melbourne roads as fuel crisis sees Australians cut back on driving",
-      "summary": "Traffic falls 20% on Sydney and Melbourne roads as fuel crisis reduces driving trips.",
-      "url": "https://www.theguardian.com/p/x4nafp",
-      "thumbnail": "https://media.guim.co.uk/88b4372f3e6089bc2ab51731d3510c2e1337f04c/250_0_2500_2000/500.jpg",
-      "published": "2026-04-09T15:00:53Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "australia-news/2026/apr/09/anthony-albanese-singapore-visit-australia-fuel-crisis-explainer",
-      "headline": "Why is Anthony Albanese visiting Singapore amid Australia’s fuel crisis – and what could come from it?",
-      "summary": "Albanese visits Singapore to address mutual fuel crisis concerns amid Middle East conflict.",
-      "url": "https://www.theguardian.com/p/x4nah5",
-      "thumbnail": "https://media.guim.co.uk/402b82ea267d2c95981c4ef854b1f351caf32d03/1156_1074_4314_3453/500.jpg",
-      "published": "2026-04-09T15:00:53Z",
-      "location": {
-        "name": "Singapore",
-        "lat": 1.3521,
-        "lng": 103.8198
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "australia-news/2026/apr/09/nt-darwin-buses-soon-patrolled-armed-police-officers-ntwnfb",
-      "headline": "‘Inherently dangerous and unnecessary’: NT buses will soon be patrolled by armed officers",
-      "summary": "NT buses to be patrolled by armed officers despite First Nations concerns of disproportionate impact.",
-      "url": "https://www.theguardian.com/p/x4natf",
-      "thumbnail": "https://media.guim.co.uk/f8bc1dbfa7132c0885c30f73cf6d90574b87b146/958_0_5600_4480/500.jpg",
-      "published": "2026-04-09T15:00:52Z",
-      "location": {
-        "name": "Darwin",
-        "lat": -12.4634,
-        "lng": 130.8456
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
     {
       "id": "football/live/2026/apr/09/bologna-v-aston-villa-europa-league-quarter-final-first-leg-live",
       "headline": "Bologna v Aston Villa: Europa League quarter-final, first leg – live",
@@ -1110,6 +902,198 @@
       "category": "sport",
       "significance": 3,
       "section": "football"
+    },
+    {
+      "id": "world/2026/apr/10/concerns-about-motorbike-tourist-trail-after-death-british-teenager-orla-wates-vietnam",
+      "headline": "Concerns raised about motorbike tourist trail after death of British teenager in Vietnam",
+      "summary": "British teenager dies on Ha Giang motorcycle loop in Vietnam, raising safety concerns.",
+      "url": "https://www.theguardian.com/p/x4nby8",
+      "thumbnail": "https://media.guim.co.uk/4ca61062ad6f8b49ba1f8ebd4af121d99485e1c3/0_210_1000_800/500.jpg",
+      "published": "2026-04-10T17:20:20Z",
+      "location": {
+        "name": "Ha Giang",
+        "lat": 22.8036,
+        "lng": 104.9822
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "world/2026/apr/10/jd-vance-warns-iran-against-trying-to-play-the-us-in-peace-talks",
+      "headline": "JD Vance warns Iran against trying to ‘play’ the US in peace talks",
+      "summary": "JD Vance warns Iran against deception in peace talks scheduled in Islamabad.",
+      "url": "https://www.theguardian.com/p/x4ntdq",
+      "thumbnail": "https://media.guim.co.uk/513d7dac2ccb7e9a6bb5b7818558403ecadfdbd0/667_0_5000_4000/500.jpg",
+      "published": "2026-04-10T17:20:15Z",
+      "location": {
+        "name": "Islamabad",
+        "lat": 33.6844,
+        "lng": 73.0479
+      },
+      "category": "politics",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "society/2026/apr/10/resident-doctors-leader-reduced-pay-offer-killed-chances-ending-strikes",
+      "headline": "Doctors’ leader claims new reduced pay offer killed chances of ending strikes in England",
+      "summary": "Resident doctors' leader claims government reduced pay offer killed strike settlement deal.",
+      "url": "https://www.theguardian.com/p/x4nttq",
+      "thumbnail": "https://media.guim.co.uk/24896ec270f4ad964f15ff90b2f5abc40c1465cc/647_0_4714_3773/500.jpg",
+      "published": "2026-04-10T17:07:34Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "society"
+    },
+    {
+      "id": "commentisfree/2026/apr/10/benjamin-netanyahu-israel-voting-public-total-victory",
+      "headline": "Netanyahu-ism has achieved nothing for Israelis – and come at a monstrously high price",
+      "summary": "Netanyahu's 'total victory' promises prove hollow amid ongoing Middle East conflict.",
+      "url": "https://www.theguardian.com/p/x4nt9z",
+      "thumbnail": "https://media.guim.co.uk/591f91a5b5ea545e21d01705a2e603e5af74b717/714_0_5000_4000/500.jpg",
+      "published": "2026-04-10T17:03:14Z",
+      "location": {
+        "name": "Jerusalem",
+        "lat": 31.7683,
+        "lng": 35.2137
+      },
+      "category": "politics",
+      "significance": 4,
+      "section": "commentisfree"
+    },
+    {
+      "id": "football/live/2026/apr/10/premier-league-weekend-football-countdown-live",
+      "headline": "Guardiola ‘grumpy’ with Silva; De Zerbi’s Spurs to ‘play and attack’: football news – as it happened",
+      "summary": "Premier League weekend preview with Guardiola, De Zerbi and West Ham vs Wolves fixture.",
+      "url": "https://www.theguardian.com/p/x4n6xq",
+      "thumbnail": "https://media.guim.co.uk/12ed2075c360bf8426c1af2792151222c5d636de/436_830_2079_1663/500.jpg",
+      "published": "2026-04-10T17:01:50Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 1,
+      "section": "football"
+    },
+    {
+      "id": "fashion/2026/apr/10/popcorn-plastic-bag-devil-wears-prada",
+      "headline": "‘Butter Birkin’: popcorn plastic It bag in demand by Devil Wears Prada fans ",
+      "summary": "Popcorn-shaped handbag from Devil Wears Prada sequel becomes high-demand collectible.",
+      "url": "https://www.theguardian.com/p/x4nhgg",
+      "thumbnail": "https://media.guim.co.uk/98437f5aa0c469cb9fd865b3213aeb72aeae85e7/0_242_3189_2551/500.png",
+      "published": "2026-04-10T16:55:38Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "fashion"
+    },
+    {
+      "id": "world/2026/apr/10/we-have-to-stop-killer-motorists-on-britains-roads",
+      "headline": "We have to stop killer motorists on Britain’s roads",
+      "summary": "Home Office begins removing EU citizens' post-Brexit residency rights over continuous residence.",
+      "url": "https://www.theguardian.com/p/x4nxb7",
+      "thumbnail": "https://media.guim.co.uk/10c19f21ed32991dd0ed9b6965b30452bd2335ce/1019_17_3388_2709/500.jpg",
+      "published": "2026-04-10T16:48:05Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "politics/2026/apr/10/home-office-starts-crackdown-on-eu-citizens-post-brexit-rights-to-live-in-uk",
+      "headline": "Home Office starts crackdown on EU citizens’ post-Brexit rights to live in UK",
+      "summary": "Linguist Giulio Lepschy, pioneering Italian studies scholar, dies aged 91.",
+      "url": "https://www.theguardian.com/p/x4nt4f",
+      "thumbnail": "https://media.guim.co.uk/983a017fa4d1ca7acb557974c47373b08a79aa03/735_54_3772_3018/500.jpg",
+      "published": "2026-04-10T16:47:03Z",
+      "location": {
+        "name": "Reading",
+        "lat": 51.4545,
+        "lng": -0.9465
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "politics"
+    },
+    {
+      "id": "music/2026/apr/10/james-gadson-obituary",
+      "headline": "James Gadson obituary",
+      "summary": "Londoners defend their friendliness and cultural identity against American comparisons.",
+      "url": "https://www.theguardian.com/p/x4ntky",
+      "thumbnail": "https://media.guim.co.uk/7be1fda586abf5817d9b351b853e06d2f76bb937/336_0_2144_1715/500.jpg",
+      "published": "2026-04-10T16:43:42Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "music"
+    },
+    {
+      "id": "society/2026/apr/10/this-old-lady-hand-is-giving-ageism-the-finger",
+      "headline": "This ‘old lady hand’ is giving ageism the finger",
+      "summary": "Reader critiques ageism in beauty industry coverage of aging women's hands.",
+      "url": "https://www.theguardian.com/p/x4nh5h",
+      "thumbnail": "https://media.guim.co.uk/ab8b959c4b94f316518dbe0fa41b48e591fa3bf9/464_0_6139_4912/500.jpg",
+      "published": "2026-04-10T16:38:00Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "society"
+    },
+    {
+      "id": "world/2026/apr/10/viktor-orban-peter-magyar-hungary-election-campaign",
+      "headline": "Orbán and Magyar trade accusations in last days of Hungary election campaign",
+      "summary": "Orbán and opposition rival Magyar trade allegations as Hungary's pivotal election approaches Sunday.",
+      "url": "https://www.theguardian.com/p/x4nhqe",
+      "thumbnail": "https://media.guim.co.uk/7c49727f51003cb85461cac4f30a737e11277bb7/513_107_3939_3153/500.jpg",
+      "published": "2026-04-10T16:33:00Z",
+      "location": {
+        "name": "Budapest",
+        "lat": 47.4979,
+        "lng": 19.0402
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "us-news/2026/apr/10/trump-administration-deport-men-eswatini-court-rule",
+      "headline": "Four men deported by US to Eswatini have right to see lawyer, court rules",
+      "summary": "Four deported men in Eswatini win court right to in-person legal counsel after nine months denial.",
+      "url": "https://www.theguardian.com/p/x4ntff",
+      "thumbnail": "https://media.guim.co.uk/e4e87d9fef2268b47af3a1870f996b1a307b667c/579_0_3093_2474/500.jpg",
+      "published": "2026-04-10T16:32:45Z",
+      "location": {
+        "name": "Mbabane",
+        "lat": -26.4954,
+        "lng": 31.1367
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
     }
   ]
 }
