@@ -1,108 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-10T17:36:43.944Z",
-    "story_count": 68,
-    "oldest_story": "2026-04-09T18:47:55Z",
-    "newest_story": "2026-04-10T17:20:20Z",
+    "generated_at": "2026-04-10T19:56:20.718Z",
+    "story_count": 72,
+    "oldest_story": "2026-04-09T20:54:38Z",
+    "newest_story": "2026-04-10T19:53:41Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/live/2026/apr/09/bologna-v-aston-villa-europa-league-quarter-final-first-leg-live",
-      "headline": "Bologna v Aston Villa: Europa League quarter-final, first leg – live",
-      "summary": "Bologna hosts Aston Villa in Europa League quarter-final first leg at Stadio Renato Dall'Ara.",
-      "url": "https://www.theguardian.com/p/x4n5hz",
-      "thumbnail": "https://media.guim.co.uk/17b1d0bc8b89bbb5b35a977ff58262e797ece68e/1325_0_6880_5504/500.jpg",
-      "published": "2026-04-09T19:53:37Z",
-      "location": {
-        "name": "Bologna",
-        "lat": 44.4949,
-        "lng": 11.3426
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "football/live/2026/apr/09/porto-v-nottingham-forest-europa-league-quarter-final-first-leg-live",
-      "headline": "Porto v Nottingham Forest: Europa League quarter-final, first leg – live",
-      "summary": "Porto faces Nottingham Forest in Europa League quarter-final first leg at Estádio do Dragão.",
-      "url": "https://www.theguardian.com/p/x4n5jc",
-      "thumbnail": "https://media.guim.co.uk/69c8506957783f7cd78b3adfa0c88d38ee11e109/362_0_5235_4188/500.jpg",
-      "published": "2026-04-09T19:51:35Z",
-      "location": {
-        "name": "Porto",
-        "lat": 41.1579,
-        "lng": -8.6291
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "us-news/2026/apr/09/california-traffic-stop-homicide-victims",
-      "headline": "Traffic stop leads California law enforcement to two homicide victims ",
-      "summary": "Northern California traffic stop uncovers two homicide victims in vehicle on Easter Sunday.",
-      "url": "https://www.theguardian.com/p/x4ncqm",
-      "thumbnail": "https://media.guim.co.uk/8264c41ba6ab55b9a8800f3a4d7bfa2731c2e8f0/44_0_640_512/500.jpg",
-      "published": "2026-04-09T19:43:34Z",
-      "location": {
-        "name": "California",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "other",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/apr/09/melania-trump-jeffrey-epstein",
-      "headline": "Melania Trump says she not did not have relationship with Jeffrey Epstein",
-      "summary": "First lady Melania Trump denies relationship with Jeffrey Epstein and role in her meeting Trump.",
-      "url": "https://www.theguardian.com/p/x4ndza",
-      "thumbnail": "https://media.guim.co.uk/a5d524167d5e1e03ac118233f33a5215e68b1809/418_0_4164_3333/500.jpg",
-      "published": "2026-04-09T19:37:56Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/apr/09/pentagon-ai-xai-emil-michael",
-      "headline": "US defense official overseeing AI reaped millions selling xAI stock after Pentagon entered agreement with company",
-      "summary": "Pentagon official overseeing AI profited millions selling xAI stock after department agreement.",
-      "url": "https://www.theguardian.com/p/x4ndhc",
-      "thumbnail": "https://media.guim.co.uk/e8d114d7a2085d2a0f6b9cda817046887ee6deb0/426_267_3000_2400/500.jpg",
-      "published": "2026-04-09T19:35:29Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "football/2026/apr/09/julian-alvarez-is-proving-that-hes-more-than-second-fiddle",
-      "headline": "Julián Alvarez is proving that he’s more than second fiddle",
-      "summary": "Julián Alvarez proves his quality with sensational free-kick for Atlético Madrid against Barcelona.",
-      "url": "https://www.theguardian.com/p/x4nd4b",
-      "thumbnail": "https://media.guim.co.uk/aa16b0273d872faf04749109fc87d895b08531da/400_0_3690_2952/500.jpg",
-      "published": "2026-04-09T18:47:55Z",
-      "location": {
-        "name": "Madrid",
-        "lat": 40.4168,
-        "lng": -3.7038
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
     {
       "id": "australia-news/live/2026/apr/10/anthony-albanese-singapore-visit-fuel-crisis-petrol-prices-labor-coalition-political-reactions-us-israel-war-iran-lebanon-ntwnfb",
       "headline": "Australia news live: Marles says current flow of ships through strait of Hormuz ‘not what we want’; Queensland MP Jimmy Sullivan found dead",
@@ -1094,6 +998,166 @@
       "category": "politics",
       "significance": 2,
       "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/apr/10/eric-adams-albanian-citizenship",
+      "headline": "Former New York City mayor Eric Adams obtains Albanian citizenship ",
+      "summary": "Former NYC mayor Eric Adams obtains Albanian citizenship by presidential decree.",
+      "url": "https://www.theguardian.com/p/x4njf9",
+      "thumbnail": "https://media.guim.co.uk/927bd4177e8fc95ebdb6868aa78a1fe023bdd4bb/350_0_3487_2791/500.jpg",
+      "published": "2026-04-10T19:53:41Z",
+      "location": {
+        "name": "Tirana",
+        "lat": 41.3275,
+        "lng": 19.8187
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "football/live/2026/apr/10/west-ham-united-v-wolves-premier-league-live",
+      "headline": "West Ham v Wolves: Premier League – live",
+      "summary": "West Ham faces Wolves in Premier League live coverage from London stadium.",
+      "url": "https://www.theguardian.com/p/x4n63j",
+      "thumbnail": "https://media.guim.co.uk/75230804e76217e952f3740dbda85b971503b6d8/528_0_3759_3008/500.jpg",
+      "published": "2026-04-10T19:51:04Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 1,
+      "section": "football"
+    },
+    {
+      "id": "science/live/2026/apr/10/artemis-ii-return-splashdown-nasa-orion-moon-live-updates",
+      "headline": "Artemis II splashdown: Orion capsule scheduled to land off California coast at just after 5pm local time – live updates",
+      "summary": "NASA Artemis II Orion capsule scheduled to splash down off California coast.",
+      "url": "https://www.theguardian.com/p/x4ncfg",
+      "thumbnail": "https://media.guim.co.uk/97a9a346a07c681ebd0c3dd7c835e880a88a491d/620_0_4640_3712/500.jpg",
+      "published": "2026-04-10T19:46:47Z",
+      "location": {
+        "name": "San Diego",
+        "lat": 32.7157,
+        "lng": -117.1611
+      },
+      "category": "tech",
+      "significance": 3,
+      "section": "science"
+    },
+    {
+      "id": "world/2026/apr/10/fatal-bus-crash-british-passengers-canary-islands-san-sebastian-de-la-gomera",
+      "headline": "One dead and 27 injured after bus with British passengers crashes in Canary Islands",
+      "summary": "Bus carrying British tourists crashes in Canary Islands ravine; one dead, 27 injured.",
+      "url": "https://www.theguardian.com/p/x4ntjq",
+      "thumbnail": "https://media.guim.co.uk/7b3f9e8e8b18768d620006b4d31dc576e1b7cc18/100_0_1500_1200/500.jpg",
+      "published": "2026-04-10T19:35:50Z",
+      "location": {
+        "name": "San Sebastián de La Gomera",
+        "lat": 28.0997,
+        "lng": -17.2539
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "world/2026/apr/10/pope-leo-criticism-iran-war",
+      "headline": "‘God does not bless any conflict’: pope issues new rebuke over Iran war",
+      "summary": "Pope Leo XIV condemns all conflict, implicitly criticizing US-Iran war glorification.",
+      "url": "https://www.theguardian.com/p/x4nj6j",
+      "thumbnail": "https://media.guim.co.uk/8357df2b7d0c0616c8680645da1cee583206b2a8/1131_3_6830_5464/500.jpg",
+      "published": "2026-04-10T19:28:55Z",
+      "location": {
+        "name": "Vatican City",
+        "lat": 41.9029,
+        "lng": 12.4534
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "us-news/2026/apr/10/trump-graphic-video-florida-woman-killing",
+      "headline": "Trump posts graphic video of woman’s killing in Florida ",
+      "summary": "Trump posts graphic video of Florida woman's killing to emphasize immigration crackdown.",
+      "url": "https://www.theguardian.com/p/x4nfay",
+      "thumbnail": "https://media.guim.co.uk/4edba8fbde5ca59e85c31ac3502e8f5dd432da9d/27_54_3883_3106/500.jpg",
+      "published": "2026-04-10T19:25:05Z",
+      "location": {
+        "name": "Miami",
+        "lat": 25.7617,
+        "lng": -80.1918
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "sport/2026/apr/10/ollie-pope-jamie-smith-surrey-oval-leicestershire-county-championship-cricket",
+      "headline": "Pope adds to Smith’s mass of Surrey runs with England woes a world away",
+      "summary": "Pope and Smith score centuries as Surrey dominates Leicestershire in County Championship.",
+      "url": "https://www.theguardian.com/p/x4nhc9",
+      "thumbnail": "https://media.guim.co.uk/19b80b12698a3375eb384a08ae2ca03c2d819081/4_11_2022_1618/500.jpg",
+      "published": "2026-04-10T19:12:24Z",
+      "location": {
+        "name": "London",
+        "lat": 51.4769,
+        "lng": -0.1136
+      },
+      "category": "sport",
+      "significance": 1,
+      "section": "sport"
+    },
+    {
+      "id": "technology/2026/apr/10/sam-altman-home-molotov-cocktail",
+      "headline": "OpenAI CEO Sam Altman’s home targeted with molotov cocktail",
+      "summary": "Suspect arrested after throwing molotov cocktail at OpenAI CEO Sam Altman's home.",
+      "url": "https://www.theguardian.com/p/x4ntpe",
+      "thumbnail": "https://media.guim.co.uk/db3fc23268b7c7a0612c488b901b5d6bdd0b4ae3/711_0_7113_5691/500.jpg",
+      "published": "2026-04-10T19:08:27Z",
+      "location": {
+        "name": "San Francisco",
+        "lat": 37.7749,
+        "lng": -122.4194
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "technology"
+    },
+    {
+      "id": "uk-news/2026/apr/10/romford-boy-charged-murder-eghosa-ogbebor-woolwich-london",
+      "headline": "Romford boy, 16, charged with murder of Eghosa Ogbebor, 14, in south London",
+      "summary": "16-year-old Romford boy charged with murdering 14-year-old in south-east London shooting.",
+      "url": "https://www.theguardian.com/p/x4nj9j",
+      "thumbnail": "https://media.guim.co.uk/60a7292dcc0838484e7a0d3893e0a179fce1f5c5/1473_1790_1007_806/500.jpg",
+      "published": "2026-04-10T19:00:53Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "conflict",
+      "significance": 1,
+      "section": "uk-news"
+    },
+    {
+      "id": "stage/2026/apr/10/good-golly-miss-molly-review-new-vic-bob-eaton",
+      "headline": "Good Golly Miss Molly! review – people power with a joyous rock’n’roll spin",
+      "summary": "Theatre production Good Golly Miss Molly celebrates social history with rock'n'roll flair.",
+      "url": "https://www.theguardian.com/p/x4ngty",
+      "thumbnail": "https://media.guim.co.uk/1dbcc28a9993103ad2332f8376b0baac4c8a2a88/589_0_2953_2362/500.jpg",
+      "published": "2026-04-10T19:00:26Z",
+      "location": {
+        "name": "Newcastle-under-Lyme",
+        "lat": 53.008,
+        "lng": -2.2247
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "stage"
     }
   ]
 }
