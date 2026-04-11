@@ -1,76 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-11T22:02:16.781Z",
+    "generated_at": "2026-04-11T23:54:56.300Z",
     "story_count": 60,
-    "oldest_story": "2026-04-10T23:01:03Z",
-    "newest_story": "2026-04-11T21:45:31Z",
+    "oldest_story": "2026-04-11T05:00:39Z",
+    "newest_story": "2026-04-11T23:52:16Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "us-news/2026/apr/10/eric-swalwell-california-sexual-assault-allegations",
-      "headline": "California: Eric Swalwell staffers quit after new sexual assault allegations",
-      "summary": "Eric Swalwell's California gubernatorial campaign loses staffers and support over sexual assault allegations.",
-      "url": "https://www.theguardian.com/p/x4nk99",
-      "thumbnail": "https://media.guim.co.uk/81d87bfd1553930303e2503059aa3b2e5fe7c970/428_0_6599_5278/500.jpg",
-      "published": "2026-04-10T23:35:10Z",
-      "location": {
-        "name": "San Francisco",
-        "lat": 37.7749,
-        "lng": -122.4194
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "world/2026/apr/11/jd-vance-dispatched-to-negotiate-iran-peace-with-few-cards-to-play",
-      "headline": "JD Vance dispatched to negotiate Iran peace with few cards to play",
-      "summary": "VP JD Vance arrives in Pakistan to negotiate Iran peace deal amid Middle East tensions.",
-      "url": "https://www.theguardian.com/p/x4nt2g",
-      "thumbnail": "https://media.guim.co.uk/ae6a0ade74ae1beae0a6167d9778441cb761f3a1/213_0_4633_3709/500.jpg",
-      "published": "2026-04-10T23:05:31Z",
-      "location": {
-        "name": "Islamabad",
-        "lat": 33.6844,
-        "lng": 73.0479
-      },
-      "category": "politics",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "sport/2026/apr/11/rory-mcilroy-six-shot-masters-lead--stunning-second-round-golf",
-      "headline": "Rory McIlroy surges into six-shot Masters lead with stunning second-round flourish",
-      "summary": "Rory McIlroy takes commanding six-shot Masters lead after brilliant second-round performance.",
-      "url": "https://www.theguardian.com/p/x4ntyz",
-      "thumbnail": "https://media.guim.co.uk/8135707898307d14d66ab9b70b85f15e0c12b4d3/516_222_3608_2887/500.jpg",
-      "published": "2026-04-10T23:04:16Z",
-      "location": {
-        "name": "Augusta",
-        "lat": 33.4734,
-        "lng": -82.0105
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "us-news/2026/apr/10/epstein-survivors-melania-trump-reaction",
-      "headline": "Survivors of Epstein’s abuse accuse Melania Trump of ‘shifting burden’ on to victims",
-      "summary": "Epstein survivors criticize Melania Trump's call for Congressional hearings on abuse.",
-      "url": "https://www.theguardian.com/p/x4nt84",
-      "thumbnail": "https://media.guim.co.uk/e7db19473118c1e6a9e1d6fda112a58e060697e5/520_0_7402_5923/500.jpg",
-      "published": "2026-04-10T23:01:03Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
     {
       "id": "world/live/2026/apr/11/middle-east-crisis-live-iranian-officials-arrive-in-islamabad-for-conditional-peace-talks-with-us",
       "headline": "Middle East crisis live: Iranian officials arrive in Islamabad for conditional peace talks with US",
@@ -966,6 +902,70 @@
       "category": "politics",
       "significance": 3,
       "section": "world"
+    },
+    {
+      "id": "australia-news/live/2026/apr/12/petrol-prices-save-fuel-government-ad-campaign-anthony-albanese-singapore-labor-coalition-ntwnfb",
+      "headline": "Australia news live: government ad campaign urges drivers to minimise fuel use as supply crisis persists",
+      "summary": "Australian government launches ad campaign urging fuel conservation amid ongoing supply crisis.",
+      "url": "https://www.theguardian.com/p/x4npcz",
+      "thumbnail": "https://media.guim.co.uk/a7f2a9a5f3bcc064eaa30e9d31f66b92060a5e78/1357_0_6232_4986/500.jpg",
+      "published": "2026-04-11T23:52:16Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "sport/2026/apr/12/cameron-young-reels-in-rory-mcilroy-with-pack-on-their-tails-for-masters-finale",
+      "headline": "Cameron Young reels in Rory McIlroy with pack on their tails for Masters finale",
+      "summary": "Cameron Young closes gap on leader Rory McIlroy at Masters with strong third-round performance.",
+      "url": "https://www.theguardian.com/p/x4nvtv",
+      "thumbnail": "https://media.guim.co.uk/208c4f7822d4c30e714785e63d68a30c2c603e8e/1348_48_2989_2391/500.jpg",
+      "published": "2026-04-11T23:27:57Z",
+      "location": {
+        "name": "Augusta",
+        "lat": 33.5007,
+        "lng": -82.0105
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "sport/2026/apr/12/scottie-scheffler-reminds-everyone-why-he-is-no-1-masters-golf-rory-mcilroy",
+      "headline": "Sensational Scheffler reminds everyone why he is still No 1 with Masters masterclass",
+      "summary": "Scottie Scheffler shoots 65 to position himself as contender for third Masters title.",
+      "url": "https://www.theguardian.com/p/x4nvt7",
+      "thumbnail": "https://media.guim.co.uk/73a8f1b572cd783c6e16d16966c68220a294a338/1523_414_3656_2925/500.jpg",
+      "published": "2026-04-11T23:05:16Z",
+      "location": {
+        "name": "Augusta",
+        "lat": 33.5007,
+        "lng": -82.0105
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "uk-news/2026/apr/11/man-arrested-for-allegedly-damaging-us-military-aircraft-in-shannon-airport",
+      "headline": "Man arrested for allegedly damaging US military aircraft in Shannon airport",
+      "summary": "Man arrested for allegedly damaging US military C130 aircraft at Shannon Airport in Ireland.",
+      "url": "https://www.theguardian.com/p/x4npcp",
+      "thumbnail": "https://media.guim.co.uk/505af9809de86ef15cd40dbadf03e8bfdfa2fc8f/0_0_915_732/500.jpg",
+      "published": "2026-04-11T22:51:48Z",
+      "location": {
+        "name": "Shannon",
+        "lat": 52.7022,
+        "lng": -8.9248
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "uk-news"
     }
   ]
 }
