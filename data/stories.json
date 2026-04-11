@@ -1,140 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-11T14:05:58.394Z",
-    "story_count": 80,
-    "oldest_story": "2026-04-10T14:11:28Z",
-    "newest_story": "2026-04-11T14:04:59Z",
+    "generated_at": "2026-04-11T15:50:11.387Z",
+    "story_count": 78,
+    "oldest_story": "2026-04-10T16:32:45Z",
+    "newest_story": "2026-04-11T15:43:02Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "sport/live/2026/apr/10/the-masters-2026-day-two-golf-updates-from-augusta-national-live",
-      "headline": "The Masters 2026: day two golf updates from Augusta National – live",
-      "summary": "The Masters 2026 second round underway at Augusta National Golf Club.",
-      "url": "https://www.theguardian.com/p/x4n64a",
-      "thumbnail": "https://media.guim.co.uk/f6c71b04a7f9c56a8a31ea18941df9b4bebec440/74_0_3667_2933/500.jpg",
-      "published": "2026-04-10T14:29:01Z",
-      "location": {
-        "name": "Augusta, Georgia",
-        "lat": 33.5007,
-        "lng": -82.011
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "sport"
-    },
-    {
-      "id": "uk-news/2026/apr/10/man-arrested-baby-killed-suspected-dog-attack-yorkshire",
-      "headline": "Man arrested after baby killed in suspected dog attack in Yorkshire",
-      "summary": "Baby killed in suspected dog attack in Redcar, Yorkshire; man arrested.",
-      "url": "https://www.theguardian.com/p/x4nhp7",
-      "thumbnail": "https://media.guim.co.uk/b5f216d96914a704593faf383d3ed192ee25b049/386_0_3328_2663/500.jpg",
-      "published": "2026-04-10T14:27:43Z",
-      "location": {
-        "name": "Redcar, England",
-        "lat": 54.619,
-        "lng": -1.0814
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "world/2026/apr/10/fuel-price-protests-chaos-ireland-norway",
-      "headline": "Fuel-price protests cause chaos in Ireland and spread to Norway",
-      "summary": "Fuel-price protests by hauliers and farmers paralyse Ireland and spread to Norway.",
-      "url": "https://www.theguardian.com/p/x4nhq8",
-      "thumbnail": "https://media.guim.co.uk/5f26827d8333a5384ef127f8aac083892b51d4a8/300_0_2740_2192/500.jpg",
-      "published": "2026-04-10T14:25:27Z",
-      "location": {
-        "name": "Dublin, Ireland",
-        "lat": 53.3498,
-        "lng": -6.2603
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "football/2026/apr/10/goodbye-to-the-rare-talent-aaron-ramsey-aka-the-biggest-what-if-in-history-of-wales-football",
-      "headline": "Goodbye to rare talent Aaron Ramsey, the biggest what-if in Welsh football history",
-      "summary": "Aaron Ramsey retires as Welsh football's biggest what-if success story.",
-      "url": "https://www.theguardian.com/p/x4nhy3",
-      "thumbnail": "https://media.guim.co.uk/1d7382582eb3f54035d8a8575d2e4b55746542fb/629_162_4984_3988/500.jpg",
-      "published": "2026-04-10T14:20:01Z",
-      "location": {
-        "name": "Wales",
-        "lat": 52.1305,
-        "lng": -3.7837
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "world/2026/apr/10/european-airports-jet-fuel-shortages-flights-iran",
-      "headline": "European airports could face jet fuel shortages within three weeks",
-      "summary": "European airports warn of jet fuel shortages within three weeks due to Middle East crisis.",
-      "url": "https://www.theguardian.com/p/x4nhh8",
-      "thumbnail": "https://media.guim.co.uk/da29bbad8c5f8cfc124296d0aa3e2d8547aec8b6/103_0_4414_3533/500.jpg",
-      "published": "2026-04-10T14:12:40Z",
-      "location": {
-        "name": "Brussels, Belgium",
-        "lat": 50.8503,
-        "lng": 4.3517
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "sport/live/2026/apr/10/essex-v-somerset-surrey-v-leicestershire-and-more-county-cricket-day-one-live",
-      "headline": "Essex v Somerset, Surrey v Leicestershire, and more: county cricket, day one – live",
-      "summary": "County cricket championship day one: Essex vs Somerset and other matches.",
-      "url": "https://www.theguardian.com/p/x4n632",
-      "thumbnail": "https://media.guim.co.uk/a1440f2de01a2956789eaa52e435e627997d2f73/0_232_1593_1274/500.jpg",
-      "published": "2026-04-10T14:11:50Z",
-      "location": {
-        "name": "England",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "us-news/live/2026/apr/10/donald-trump-melania-jeffrey-epstein-iran-inflation-latest-news-updates",
-      "headline": "Epstein survivors criticise Melania Trump after surprise statement – US politics live",
-      "summary": "Epstein survivors criticise Melania Trump's public hearing statement.",
-      "url": "https://www.theguardian.com/p/x4nh3y",
-      "thumbnail": "https://media.guim.co.uk/a307ee58804134593a8cfdcb3a2d47a17e89d5df/0_116_5982_4785/500.jpg",
-      "published": "2026-04-10T14:11:41Z",
-      "location": {
-        "name": "Washington, D.C.",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/apr/10/texas-death-row-sentence-overturned",
-      "headline": "Texas court overturns sentence for man on death row for nearly 50 years",
-      "summary": "Texas court overturns 50-year death row sentence for intellectually disabled man.",
-      "url": "https://www.theguardian.com/p/x4nhtn",
-      "thumbnail": "https://media.guim.co.uk/d0c4167e5ef6a06aed92fd32cb06e112108431b0/270_0_3854_3083/500.jpg",
-      "published": "2026-04-10T14:11:28Z",
-      "location": {
-        "name": "Texas, USA",
-        "lat": 31.9686,
-        "lng": -99.9018
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
     {
       "id": "world/2026/apr/10/concerns-about-motorbike-tourist-trail-after-death-british-teenager-orla-wates-vietnam",
       "headline": "Concerns raised about motorbike tourist trail after death of British teenager in Vietnam",
@@ -1286,6 +1158,102 @@
       "category": "politics",
       "significance": 2,
       "section": "world"
+    },
+    {
+      "id": "football/2026/apr/11/a-big-punch-in-the-face-mikel-arteta-downhearted-after-bournemouth-defeat",
+      "headline": "‘A big punch in the face’: Mikel Arteta apologises after defeat by Bournemouth",
+      "summary": "Arsenal loses 2-1 to Bournemouth at home; Arteta says team must show more character.",
+      "url": "https://www.theguardian.com/p/x4n6pg",
+      "thumbnail": "https://media.guim.co.uk/8106cfbcb07a958ab11fa8dfaa2f81a0c3ec20d1/405_119_1304_1043/500.jpg",
+      "published": "2026-04-11T15:43:02Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "world/2026/apr/11/uk-forced-to-shelve-legislation-to-return-chagos-islands-to-mauritius",
+      "headline": "UK forced to shelve Chagos Islands legislation after US dropped support",
+      "summary": "UK shelves Chagos Islands legislation after US withdraws support for transfer to Mauritius.",
+      "url": "https://www.theguardian.com/p/x4nm7g",
+      "thumbnail": "https://media.guim.co.uk/156523eec2f23040517498bcd70e8465f7a15210/0_17_4650_3720/500.jpg",
+      "published": "2026-04-11T15:43:02Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "sport/2026/apr/11/england-ireland-womens-six-nations-match-report",
+      "headline": "Amy Cokayne powers England to opening Six Nations win against Ireland",
+      "summary": "England defeats Ireland 33-12 in Women's Six Nations opener at Twickenham.",
+      "url": "https://www.theguardian.com/p/x4nvte",
+      "thumbnail": "https://media.guim.co.uk/856b27d7552781c8be45781f6a4a447f7c5812d9/155_0_3919_3136/500.jpg",
+      "published": "2026-04-11T15:38:43Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "sport/2026/apr/11/i-am-maximus-joins-grand-national-greats-by-regaining-crown-to-emulate-red-rum-horse-racing",
+      "headline": "I Am Maximus joins Grand National greats by regaining crown to emulate Red Rum",
+      "summary": "I Am Maximus wins Grand National for second time, matching Red Rum's historic achievement.",
+      "url": "https://www.theguardian.com/p/x4nvt9",
+      "thumbnail": "https://media.guim.co.uk/80283fe13329ca8687ddbe562c0e4b38b59b43ad/489_193_4195_3357/500.jpg",
+      "published": "2026-04-11T15:27:05Z",
+      "location": {
+        "name": "Liverpool",
+        "lat": 53.4084,
+        "lng": -2.9616
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "football/live/2026/apr/11/liverpool-v-fulham-premier-league-live",
+      "headline": "Liverpool v Fulham: Premier League – live",
+      "summary": "Liverpool hosts Fulham in Premier League match at Anfield with Salah returning to lineup.",
+      "url": "https://www.theguardian.com/p/x4n6bf",
+      "thumbnail": "https://media.guim.co.uk/64a6d2abb72e347fba5650f97f916bd7934b8771/126_0_6232_4986/500.jpg",
+      "published": "2026-04-11T15:26:12Z",
+      "location": {
+        "name": "Liverpool",
+        "lat": 53.4084,
+        "lng": -2.9616
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/apr/11/shooting-stabbing-new-york-grand-central-station",
+      "headline": "Shooting and stabbing at New York’s Grand Central station leave two people critically injured",
+      "summary": "Shooting and stabbing at Grand Central subway station leaves two critically injured.",
+      "url": "https://www.theguardian.com/p/x4nnyp",
+      "thumbnail": "https://media.guim.co.uk/e6cadab1b892d7bbe1263a7fb2edd03ce42ee3b3/447_0_2500_2000/500.jpg",
+      "published": "2026-04-11T15:17:39Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7528,
+        "lng": -73.9725
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "us-news"
     }
   ]
 }
