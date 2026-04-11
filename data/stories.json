@@ -1,60 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-11T10:03:40.918Z",
-    "story_count": 69,
-    "oldest_story": "2026-04-10T10:07:33Z",
-    "newest_story": "2026-04-11T10:01:20Z",
+    "generated_at": "2026-04-11T11:46:37.805Z",
+    "story_count": 77,
+    "oldest_story": "2026-04-10T13:43:06Z",
+    "newest_story": "2026-04-11T11:45:22Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "world/live/2026/apr/10/hungary-election-orban-europe-budapest-latest-news-updates",
-      "headline": "Hungary election campaigns enter final stretch as Orbán fights to remain in power – Europe live",
-      "summary": "Hungary election campaigns enter final stretch as Orbán fights to remain in power ahead of Sunday vote.",
-      "url": "https://www.theguardian.com/p/x4ngj3",
-      "thumbnail": "https://media.guim.co.uk/35c123c59fe262377d610c90a799a8c258c4952b/0_0_5354_4283/500.jpg",
-      "published": "2026-04-10T10:10:34Z",
-      "location": {
-        "name": "Budapest",
-        "lat": 47.4979,
-        "lng": 19.0402
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "sport/2026/apr/10/australian-athletics-sydney-national-championships-jessica-hull-lachlan-kennedy-report",
-      "headline": "Lachlan Kennedy becomes first Australian to run 100m in under 10 seconds on home soil",
-      "summary": "Lachlan Kennedy becomes first Australian to run 100m under 10 seconds on home soil in Sydney.",
-      "url": "https://www.theguardian.com/p/x4nfxh",
-      "thumbnail": "https://media.guim.co.uk/77bfe7a5b2485c4a57dcfd1e16d053be21fb6770/0_0_6327_5065/500.jpg",
-      "published": "2026-04-10T10:08:11Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "politics/live/2026/apr/10/starmer-trump-putin-iran-war-farage-reform-latest-news-updates",
-      "headline": "Starmer says he’s ‘fed up’ with Trump and Putin’s actions pushing up energy bills for Britons – UK politics live",
-      "summary": "Starmer blames Trump and Putin for pushing up energy bills for British consumers in Gulf tour conclusion.",
-      "url": "https://www.theguardian.com/p/x4ngdq",
-      "thumbnail": "https://media.guim.co.uk/a5783f2789cd5b1560f513c9550e222e5f66666e/24_0_3837_3069/500.jpg",
-      "published": "2026-04-10T10:07:33Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
     {
       "id": "sport/live/2026/apr/10/the-masters-2026-day-two-golf-updates-from-augusta-national-live",
       "headline": "The Masters 2026: day two golf updates from Augusta National – live",
@@ -1110,6 +1062,182 @@
       "category": "sport",
       "significance": 1,
       "section": "football"
+    },
+    {
+      "id": "football/live/2026/apr/11/australia-vs-malawi-live-updates-fifa-series-matildas-aus-v-mwi-womens-international-football-friendly",
+      "headline": "Australia v Malawi: Fifa Series women’s international football friendly – live",
+      "summary": "Australia Matildas face Malawi in women's football friendly in Kenya as 2027 World Cup qualification begins.",
+      "url": "https://www.theguardian.com/p/x4nez3",
+      "thumbnail": "https://media.guim.co.uk/4086957577869b1ad1564c0862da419acbb4cc10/870_0_5243_4196/500.jpg",
+      "published": "2026-04-11T11:45:22Z",
+      "location": {
+        "name": "Nairobi",
+        "lat": -1.2864,
+        "lng": 36.8172
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/live/2026/apr/11/football-clockwatch-live-coventry-ipswich-norwich-brentford-everton-burnley-brighton",
+      "headline": "Coventry chase promotion, Norwich v Ipswich, and more: football news – live",
+      "summary": "English Football League and Premier League live coverage with Coventry chasing promotion and multiple fixtures.",
+      "url": "https://www.theguardian.com/p/x4n69b",
+      "thumbnail": "https://media.guim.co.uk/722b5bc10ef18f2d608b0525353cd0ba64e2788d/0_0_6452_5162/500.jpg",
+      "published": "2026-04-11T11:42:09Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/apr/11/jimmys-corner-new-york-dive-bar-closure",
+      "headline": "‘It holds a lot of memories’: the push to save a beloved New York dive bar",
+      "summary": "Jimmy's Corner, iconic Times Square dive bar opened in 1971, faces closure as patrons fight to save it.",
+      "url": "https://www.theguardian.com/p/x4nj9k",
+      "thumbnail": "https://media.guim.co.uk/42005b1b4f2e02204b4b285a1ba90e0458fd6816/178_0_5355_4284/500.jpg",
+      "published": "2026-04-11T11:00:48Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "world/2026/apr/11/inside-israeli-kibbutz-lebanon-border",
+      "headline": "‘Endless war’: inside an Israeli kibbutz near Lebanon’s volatile border",
+      "summary": "Israeli kibbutz near Lebanon border endures constant attacks as residents debate whether military action should cease.",
+      "url": "https://www.theguardian.com/p/x4n73v",
+      "thumbnail": "https://media.guim.co.uk/7679b2d4d4fb1e57e8421b0ad9be5704db5b5e4f/354_0_5200_4160/500.jpg",
+      "published": "2026-04-11T11:00:48Z",
+      "location": {
+        "name": "Kibbutz Cabri",
+        "lat": 33.0867,
+        "lng": 35.4156
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "business/2026/apr/11/homes-great-britain-green-energy-fuel-prices",
+      "headline": "Record number of homes in Great Britain turn to green energy as fuel prices soar",
+      "summary": "Record UK household demand for solar panels, heat pumps and EVs as Iran crisis drives energy prices up 18%.",
+      "url": "https://www.theguardian.com/p/x4nd2v",
+      "thumbnail": "https://media.guim.co.uk/f856c708cbec61791a2fa2753cb2efffa92f2708/1128_0_2293_1836/500.jpg",
+      "published": "2026-04-11T11:00:47Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "business/2026/apr/11/polymarket-gamblers-betting-iran-war-ukraine-news-truth",
+      "headline": "‘Abhorrent’: the inside story of the Polymarket gamblers betting millions on war ",
+      "summary": "Guardian investigation reveals Polymarket gamblers betting millions on war outcomes and influencing news narratives.",
+      "url": "https://www.theguardian.com/p/x4n6jt",
+      "thumbnail": "https://media.guim.co.uk/b27de2f58de3e8b2463d2633f9accc372f8bfb4a/0_86_2593_2076/500.jpg",
+      "published": "2026-04-11T11:00:47Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "business"
+    },
+    {
+      "id": "science/2026/apr/11/dice-discovery-start-of-gambling-native-americans-archaeology",
+      "headline": "Native Americans were gambling with dice 6,000 years earlier than anyone else, study says",
+      "summary": "Native Americans used dice for gambling 6,000 years earlier than anywhere else, study of archaeological records shows.",
+      "url": "https://www.theguardian.com/p/x4nbvq",
+      "thumbnail": "https://media.guim.co.uk/8a9e793b98cf9b2f8cd27a7ef90a81e8f4615623/0_27_1446_1157/500.jpg",
+      "published": "2026-04-11T11:00:47Z",
+      "location": {
+        "name": "Wyoming",
+        "lat": 43.076,
+        "lng": -107.2903
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "science"
+    },
+    {
+      "id": "us-news/2026/apr/11/georgia-midwives-black-women-pregnancy-birth",
+      "headline": "Black women in Georgia turn to midwives for safer births – so why does the state criminalize many of them?",
+      "summary": "Georgia lawsuit seeks to decriminalize midwives helping Black women access safer births amid maternal health crisis.",
+      "url": "https://www.theguardian.com/p/x4ncdq",
+      "thumbnail": "https://media.guim.co.uk/44af8b32198a05064c7cbeb6f2342c64634af3e1/1316_362_3868_3094/500.jpg",
+      "published": "2026-04-11T11:00:47Z",
+      "location": {
+        "name": "Atlanta",
+        "lat": 33.749,
+        "lng": -84.388
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "world/2026/apr/11/from-isis-recruit-to-influencer-tareena-shakil",
+      "headline": "From Isis recruit to influencer: ‘People think: you’re that evil girl who ran away’",
+      "summary": "Former ISIS recruit Tareena Shakil, first British woman convicted of joining Islamic State, now works as TikTok influencer.",
+      "url": "https://www.theguardian.com/p/x4t292",
+      "thumbnail": "https://media.guim.co.uk/2ba6d5cf031062fb4a6d77a0b6bcfa60a5edaf27/0_77_4746_3797/500.jpg",
+      "published": "2026-04-11T11:00:46Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "us-news/2026/apr/11/ice-shooting-dhs-accountability-minneapolis",
+      "headline": "Video of an ICE shooting shattered the agency’s story. Will it usher in accountability?",
+      "summary": "Video evidence of ICE shooting dismantles agency's story; Venezuelan men's case collapses amid accountability questions.",
+      "url": "https://www.theguardian.com/p/x4nj7t",
+      "thumbnail": "https://media.guim.co.uk/e884ef98513a58f175adeb03997e9034e4327f64/106_0_1556_1246/500.jpg",
+      "published": "2026-04-11T11:00:46Z",
+      "location": {
+        "name": "Minneapolis",
+        "lat": 44.9778,
+        "lng": -93.265
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "business/2026/apr/11/federal-government-workers-trump-cuts",
+      "headline": "Federal workers struggle to find roles a year after Trump cuts: ‘I’ve applied to over 250 jobs’",
+      "summary": "Federal workers struggle in job market over year after Trump's sweeping government employment cuts took effect.",
+      "url": "https://www.theguardian.com/p/x4jxn8",
+      "thumbnail": "https://media.guim.co.uk/d7079e64d78cf1c86e77a8c2de23bf251a61ddc1/820_669_2498_1998/500.jpg",
+      "published": "2026-04-11T11:00:45Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
     }
   ]
 }
