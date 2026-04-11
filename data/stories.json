@@ -1,124 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-11T05:21:44.207Z",
-    "story_count": 78,
-    "oldest_story": "2026-04-10T05:44:56Z",
-    "newest_story": "2026-04-11T05:18:46Z",
+    "generated_at": "2026-04-11T07:56:51.058Z",
+    "story_count": 75,
+    "oldest_story": "2026-04-10T09:11:48Z",
+    "newest_story": "2026-04-11T07:55:53Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "world/live/2026/apr/10/iran-war-live-updates-trump-ceasefire-strait-hormuz-israel-lebanon-hezbollah",
-      "headline": "Middle East crisis live: Trump casts doubt on Iran war ceasefire over continued closure of strait of Hormuz",
-      "summary": "Trump doubts Iran ceasefire as strait of Hormuz remains closed amid Israel-Hezbollah clashes.",
-      "url": "https://www.theguardian.com/p/x4nf7y",
-      "thumbnail": "https://media.guim.co.uk/303f09d83face881e45ad8f73382672c80397e16/890_0_6319_5058/500.jpg",
-      "published": "2026-04-10T06:06:35Z",
-      "location": {
-        "name": "Iran",
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "environment/2026/apr/09/a-rare-sign-of-hope-as-mountain-gorillas-welcome-two-sets-of-twins-in-central-africa",
-      "headline": "A rare sign of hope as mountain gorillas welcome two sets of twins in Africa",
-      "summary": "Mountain gorillas welcome twin births, marking conservation success in Virunga range.",
-      "url": "https://www.theguardian.com/p/x4mm8m",
-      "thumbnail": "https://media.guim.co.uk/67eeabf1b107c92fd7ab6cb4a5f61c9bd2f0694a/150_0_1500_1200/500.jpg",
-      "published": "2026-04-10T06:00:16Z",
-      "location": {
-        "name": "Uganda",
-        "lat": 0.3476,
-        "lng": 32.2903
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "environment"
-    },
-    {
-      "id": "business/2026/apr/10/dallas-new-york-business",
-      "headline": "Welcome to Y’all Street: bullish Dallas aims to steal New York’s financial crown",
-      "summary": "Dallas pursues financial hub status with tax incentives, challenging New York's dominance.",
-      "url": "https://www.theguardian.com/p/x4t4zn",
-      "thumbnail": "https://media.guim.co.uk/41a2c44c1dac67fe6128e6ae995ffc535b177829/1_0_2999_2400/500.jpg",
-      "published": "2026-04-10T06:00:12Z",
-      "location": {
-        "name": "Dallas",
-        "lat": 32.7767,
-        "lng": -96.797
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "technology/2026/apr/09/google-meta-snap-microsoft-eu-child-sexual-abuse",
-      "headline": "‘Irresponsible failure’: Google, Meta, Snap and Microsoft slam EU over child sexual abuse law lapse",
-      "summary": "EU legal lapse on child sexual abuse scanning creates safety gap, tech firms warn.",
-      "url": "https://www.theguardian.com/p/x4nde2",
-      "thumbnail": "https://media.guim.co.uk/c26e9c02fac62382c5e6a75c15356be34df5a02b/148_0_4389_3514/500.jpg",
-      "published": "2026-04-10T06:00:12Z",
-      "location": {
-        "name": "Brussels",
-        "lat": 50.8503,
-        "lng": 4.3517
-      },
-      "category": "tech",
-      "significance": 3,
-      "section": "technology"
-    },
-    {
-      "id": "travel/2026/apr/10/spain-hidden-gems-holidays",
-      "headline": "‘Tranquil, natural and barely a tourist in sight’: readers’ favourite hidden gems in Spain",
-      "summary": "Readers share hidden gem travel tips across Spain's lesser-known regions.",
-      "url": "https://www.theguardian.com/p/x4yb7v",
-      "thumbnail": "https://media.guim.co.uk/9c9066f30b3b00940a657e4ccb2b3ae108d218f6/433_0_3540_2832/500.jpg",
-      "published": "2026-04-10T06:00:11Z",
-      "location": {
-        "name": "Spain",
-        "lat": 40.4637,
-        "lng": -3.7492
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "travel"
-    },
-    {
-      "id": "world/2026/apr/09/friday-briefing-how-the-middle-east-conflict-is-hitting-households-in-the-uk",
-      "headline": "Friday briefing: How the Middle East conflict is hitting households in the UK",
-      "summary": "Middle East conflict's economic fallout raises UK energy, mortgage, and food costs.",
-      "url": "https://www.theguardian.com/p/x4nbbe",
-      "thumbnail": "https://media.guim.co.uk/dc076fa1569a4d6ee005c11968241b2f614da39d/1142_35_4250_3401/500.jpg",
-      "published": "2026-04-10T05:45:38Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "australia-news/2026/apr/01/australia-fuel-crisis-petrol-prices-graphs",
-      "headline": "Track Australia’s fuel prices, service station outages and shipments in charts",
-      "summary": "Australia faces fuel crisis as Iran's Strait of Hormuz closure drives supply shortages.",
-      "url": "https://www.theguardian.com/p/x4yfdz",
-      "thumbnail": "https://media.guim.co.uk/6b84acc213f0c5c2fdd876689894c356ee2ef32c/0_0_5000_4000/500.jpg",
-      "published": "2026-04-10T05:44:56Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "australia-news"
-    },
     {
       "id": "world/live/2026/apr/10/hungary-election-orban-europe-budapest-latest-news-updates",
       "headline": "Hungary election campaigns enter final stretch as Orbán fights to remain in power – Europe live",
@@ -1254,6 +1142,70 @@
       "category": "culture",
       "significance": 2,
       "section": "culture"
+    },
+    {
+      "id": "football/live/2026/apr/11/premier-league-buildup-coventry-on-verge-of-promotion-and-more-matchday-live",
+      "headline": "Premier League buildup, Coventry on verge of promotion, and more – matchday live",
+      "summary": "Coventry nears promotion as Premier League matchday unfolds with Arsenal-Bournemouth fixture.",
+      "url": "https://www.theguardian.com/p/x4n6eb",
+      "thumbnail": "https://media.guim.co.uk/985c6c6d47867faf003a4ba097e96f9b2334f887/0_0_5000_4000/500.jpg",
+      "published": "2026-04-11T07:55:53Z",
+      "location": {
+        "name": "Coventry",
+        "lat": 52.4081,
+        "lng": -1.5105
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "world/2026/apr/11/sweden-gustav-badin-exhibition-18th-century-black-diarist",
+      "headline": "Swedish exhibition explores life of 18th-century Black diarist",
+      "summary": "Swedish exhibition explores life of 18th-century Black diarist Gustav Badin at royal court.",
+      "url": "https://www.theguardian.com/p/x4nbek",
+      "thumbnail": "https://media.guim.co.uk/9c488b77d85dc98e958b3b76761c72ddae4c4c9c/0_59_1212_969/500.jpg",
+      "published": "2026-04-11T07:30:21Z",
+      "location": {
+        "name": "Stockholm",
+        "lat": 59.3293,
+        "lng": 18.0686
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "football/2026/apr/11/elliot-anderson-nottingham-forest-england",
+      "headline": "‘His car stunk of fish for weeks’: Elliot Anderson on practical jokes and his World Cup dream",
+      "summary": "Nottingham Forest midfielder Elliot Anderson discusses pranks, survival hopes, and England ambitions.",
+      "url": "https://www.theguardian.com/p/x4ngg2",
+      "thumbnail": "https://media.guim.co.uk/f0846a6bc631747adecd920f7427538491201ebf/539_0_6831_5464/500.jpg",
+      "published": "2026-04-11T07:00:41Z",
+      "location": {
+        "name": "Nottingham",
+        "lat": 52.9401,
+        "lng": -1.1339
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "sport/2026/apr/11/gambling-betting-on-sport-designed-to-disturb-you-football",
+      "headline": "Gambling is easy, right? Wrong: it turns out betting on sport is designed to disturb you",
+      "summary": "Sports betting experiment reveals how gambling on football is deliberately designed to disadvantage bettors.",
+      "url": "https://www.theguardian.com/p/x4nt7h",
+      "thumbnail": "https://media.guim.co.uk/9edbf34743eba4319d36292a4eec86da2ebbca5e/0_0_3543_2835/500.jpg",
+      "published": "2026-04-11T07:00:41Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
     }
   ]
 }
