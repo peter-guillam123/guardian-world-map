@@ -1,44 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-11T19:51:05.725Z",
-    "story_count": 62,
-    "oldest_story": "2026-04-10T19:51:04Z",
-    "newest_story": "2026-04-11T19:00:01Z",
+    "generated_at": "2026-04-11T21:04:46.620Z",
+    "story_count": 66,
+    "oldest_story": "2026-04-10T21:07:43Z",
+    "newest_story": "2026-04-11T20:33:48Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "us-news/2026/apr/10/eric-adams-albanian-citizenship",
-      "headline": "Former New York City mayor Eric Adams obtains Albanian citizenship ",
-      "summary": "Former NYC mayor Eric Adams obtains Albanian citizenship by presidential decree.",
-      "url": "https://www.theguardian.com/p/x4njf9",
-      "thumbnail": "https://media.guim.co.uk/927bd4177e8fc95ebdb6868aa78a1fe023bdd4bb/350_0_3487_2791/500.jpg",
-      "published": "2026-04-10T19:53:41Z",
-      "location": {
-        "name": "Tirana",
-        "lat": 41.3275,
-        "lng": 19.8187
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "football/live/2026/apr/10/west-ham-united-v-wolves-premier-league-live",
-      "headline": "West Ham v Wolves: Premier League – live",
-      "summary": "West Ham faces Wolves in Premier League live coverage from London stadium.",
-      "url": "https://www.theguardian.com/p/x4n63j",
-      "thumbnail": "https://media.guim.co.uk/75230804e76217e952f3740dbda85b971503b6d8/528_0_3759_3008/500.jpg",
-      "published": "2026-04-10T19:51:04Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 1,
-      "section": "football"
-    },
     {
       "id": "sport/2026/apr/10/justin-rose-stays-in-touch-masters-augusta-spieth-koepka",
       "headline": "Justin Rose struggles to keep his cool in the heat but Masters dream lives on",
@@ -165,22 +133,6 @@
       },
       "category": "sport",
       "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "football/2025/sep/15/premier-league-top-scorers-2025-26-who-is-leading-race-for-golden-boot",
-      "headline": "Premier League top scorers 2025-26: who is leading race for golden boot?",
-      "summary": "Erling Haaland leads Premier League Golden Boot race with 22 goals this season.",
-      "url": "https://www.theguardian.com/p/x386fa",
-      "thumbnail": "https://media.guim.co.uk/2a75d886f89c2a43eb9530b1e231b7c647e76c4f/0_119_2112_1690/500.jpg",
-      "published": "2026-04-10T20:59:15Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 1,
       "section": "football"
     },
     {
@@ -998,6 +950,118 @@
       "category": "sport",
       "significance": 2,
       "section": "sport"
+    },
+    {
+      "id": "us-news/2026/apr/11/washington-dead-canines-foxes-found-washed-ashore",
+      "headline": "Washington officials say 21 dead canines that washed ashore were foxes, solving local mystery",
+      "summary": "Dead foxes washed ashore in Washington were legally used as fishing bait, sheriff confirms.",
+      "url": "https://www.theguardian.com/p/x4nznj",
+      "thumbnail": "https://media.guim.co.uk/eccc5e51fede252b817632e9d3e65f61c17ea40c/627_0_5000_4000/500.jpg",
+      "published": "2026-04-11T20:33:48Z",
+      "location": {
+        "name": "Guemes Island, Washington",
+        "lat": 48.5333,
+        "lng": -122.6167
+      },
+      "category": "other",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "australia-news/2026/apr/11/australias-demolition-derby-collides-with-safety-rules-as-fans-fight-to-save-the-oddball-motor-sport",
+      "headline": "Australia’s demolition derby collides with safety rules as fans fight to save the ‘oddball’ motor sport ",
+      "summary": "Australian demolition derby faces safety regulations after spectators injured in crash.",
+      "url": "https://www.theguardian.com/p/x4janh",
+      "thumbnail": "https://media.guim.co.uk/01d99f84153cd0ca27b260b8748fb9c9a13c4299/0_0_1920_1536/500.jpg",
+      "published": "2026-04-11T20:00:05Z",
+      "location": {
+        "name": "Sydney, Australia",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "australia-news/2026/apr/11/ndis-job-workers-whistleblower-protections-ntwnfb",
+      "headline": "Susan was forced out of a disability support job after speaking out. Are NDIS whistleblower laws still too weak? ",
+      "summary": "NDIS whistleblower protections questioned after disability worker forced out for speaking.",
+      "url": "https://www.theguardian.com/p/x4mqkb",
+      "thumbnail": "https://media.guim.co.uk/35662493a8a5032034b43b8af3f5ffc60048c148/0_0_6880_5504/500.jpg",
+      "published": "2026-04-11T20:00:05Z",
+      "location": {
+        "name": "Sydney, Australia",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "world/2026/apr/12/canada-migration-levels-housing-costs-australia-ntwnfb",
+      "headline": "Canada slashed migration and housing costs dropped. There may be lessons for Australia",
+      "summary": "Canada's migration cuts reduce housing costs; lessons offered for Australia's affordability crisis.",
+      "url": "https://www.theguardian.com/p/x4mq66",
+      "thumbnail": "https://media.guim.co.uk/3dcce935898c425806f30b35ce69230057cf0696/394_0_1968_1575/500.jpg",
+      "published": "2026-04-11T20:00:04Z",
+      "location": {
+        "name": "Toronto, Canada",
+        "lat": 43.6629,
+        "lng": -79.3957
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "commentisfree/2026/apr/12/the-carpark-at-oxleys-on-the-brisbane-river-it-was-a-different-time-and-our-brains-were-young",
+      "headline": "The carpark at Oxley’s on the Brisbane river: it was a different time and our brains were young",
+      "summary": "Personal essay recalls working at riverside Brisbane restaurant Oxley's in the 2000s.",
+      "url": "https://www.theguardian.com/p/x4yjjj",
+      "thumbnail": "https://media.guim.co.uk/6d0554b0e1889c74f79b7c3a1045544aea81f54b/0_0_3200_2560/500.jpg",
+      "published": "2026-04-11T20:00:04Z",
+      "location": {
+        "name": "Brisbane, Australia",
+        "lat": -27.4698,
+        "lng": 153.0251
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "commentisfree"
+    },
+    {
+      "id": "australia-news/2026/apr/12/australia-fuel-crisis-remote-indigenous-communities-ntwnfb",
+      "headline": "How Australia’s remote communities are experiencing the fuel crisis: ‘A knock-on effect for people already struggling’",
+      "summary": "Remote Indigenous communities face fuel crisis; rising diesel prices strain groceries and supplies.",
+      "url": "https://www.theguardian.com/p/x4n9kq",
+      "thumbnail": "https://media.guim.co.uk/aadc47561707b2ba40bf2110a56dc8d66cc68d1b/303_0_2560_2048/500.jpg",
+      "published": "2026-04-11T20:00:03Z",
+      "location": {
+        "name": "Alice Springs, Australia",
+        "lat": -23.7001,
+        "lng": 133.8807
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "fashion/ng-interactive/2026/apr/11/fashion-hot-pink-cheongsam-grandma-heirloom",
+      "headline": "‘It’s a test of courage wearing a hot-pink cheongsam’: How I learned to wear my grandma’s heirlooms",
+      "summary": "Zoe Wainer appointed inaugural head of Australian Centre for Disease Control.",
+      "url": "https://www.theguardian.com/p/x4jyaj",
+      "thumbnail": "https://media.guim.co.uk/5baf33242982ca55caa9ddce66649aaa994985b3/46_0_6248_4998/500.jpg",
+      "published": "2026-04-11T20:00:02Z",
+      "location": {
+        "name": "Sydney, Australia",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "fashion"
     }
   ]
 }
