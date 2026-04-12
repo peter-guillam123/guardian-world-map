@@ -1,108 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-12T14:05:18.098Z",
-    "story_count": 62,
-    "oldest_story": "2026-04-11T15:17:39Z",
-    "newest_story": "2026-04-12T14:03:17Z",
+    "generated_at": "2026-04-12T15:55:21.223Z",
+    "story_count": 68,
+    "oldest_story": "2026-04-11T16:59:23Z",
+    "newest_story": "2026-04-12T15:42:50Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/2026/apr/11/a-big-punch-in-the-face-mikel-arteta-downhearted-after-bournemouth-defeat",
-      "headline": "‘A big punch in the face’: Mikel Arteta apologises after defeat by Bournemouth",
-      "summary": "Arsenal loses 2-1 to Bournemouth at home; Arteta says team must show more character.",
-      "url": "https://www.theguardian.com/p/x4n6pg",
-      "thumbnail": "https://media.guim.co.uk/8106cfbcb07a958ab11fa8dfaa2f81a0c3ec20d1/405_119_1304_1043/500.jpg",
-      "published": "2026-04-11T15:43:02Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "world/2026/apr/11/uk-forced-to-shelve-legislation-to-return-chagos-islands-to-mauritius",
-      "headline": "UK forced to shelve Chagos Islands legislation after US dropped support",
-      "summary": "UK shelves Chagos Islands legislation after US withdraws support for transfer to Mauritius.",
-      "url": "https://www.theguardian.com/p/x4nm7g",
-      "thumbnail": "https://media.guim.co.uk/156523eec2f23040517498bcd70e8465f7a15210/0_17_4650_3720/500.jpg",
-      "published": "2026-04-11T15:43:02Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "sport/2026/apr/11/england-ireland-womens-six-nations-match-report",
-      "headline": "Amy Cokayne powers England to opening Six Nations win against Ireland",
-      "summary": "England defeats Ireland 33-12 in Women's Six Nations opener at Twickenham.",
-      "url": "https://www.theguardian.com/p/x4nvte",
-      "thumbnail": "https://media.guim.co.uk/856b27d7552781c8be45781f6a4a447f7c5812d9/155_0_3919_3136/500.jpg",
-      "published": "2026-04-11T15:38:43Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "sport/2026/apr/11/i-am-maximus-joins-grand-national-greats-by-regaining-crown-to-emulate-red-rum-horse-racing",
-      "headline": "I Am Maximus joins Grand National greats by regaining crown to emulate Red Rum",
-      "summary": "I Am Maximus wins Grand National for second time, matching Red Rum's historic achievement.",
-      "url": "https://www.theguardian.com/p/x4nvt9",
-      "thumbnail": "https://media.guim.co.uk/80283fe13329ca8687ddbe562c0e4b38b59b43ad/489_193_4195_3357/500.jpg",
-      "published": "2026-04-11T15:27:05Z",
-      "location": {
-        "name": "Liverpool",
-        "lat": 53.4084,
-        "lng": -2.9616
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "football/live/2026/apr/11/liverpool-v-fulham-premier-league-live",
-      "headline": "Liverpool v Fulham: Premier League – live",
-      "summary": "Liverpool hosts Fulham in Premier League match at Anfield with Salah returning to lineup.",
-      "url": "https://www.theguardian.com/p/x4n6bf",
-      "thumbnail": "https://media.guim.co.uk/64a6d2abb72e347fba5650f97f916bd7934b8771/126_0_6232_4986/500.jpg",
-      "published": "2026-04-11T15:26:12Z",
-      "location": {
-        "name": "Liverpool",
-        "lat": 53.4084,
-        "lng": -2.9616
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "us-news/2026/apr/11/shooting-stabbing-new-york-grand-central-station",
-      "headline": "Shooting and stabbing at New York’s Grand Central station leave two people critically injured",
-      "summary": "Shooting and stabbing at Grand Central subway station leaves two critically injured.",
-      "url": "https://www.theguardian.com/p/x4nnyp",
-      "thumbnail": "https://media.guim.co.uk/e6cadab1b892d7bbe1263a7fb2edd03ce42ee3b3/447_0_2500_2000/500.jpg",
-      "published": "2026-04-11T15:17:39Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7528,
-        "lng": -73.9725
-      },
-      "category": "conflict",
-      "significance": 2,
-      "section": "us-news"
-    },
     {
       "id": "sport/live/2026/apr/11/the-masters-2026-day-three-golf-updates-from-augusta-national-rory-mcilroy-live",
       "headline": "The Masters 2026: day three golf updates from Augusta National – live",
@@ -998,6 +902,198 @@
       "category": "culture",
       "significance": 2,
       "section": "stage"
+    },
+    {
+      "id": "world/live/2026/apr/12/hungary-election-latest-results-viktor-orban-peter-magyar-fidesz-tisza-russia-europe-live-news-updates",
+      "headline": "Hungary election live: voters head to the polls in contest that could see end of Viktor Orbán’s rule",
+      "summary": "Hungary holds election that could end Viktor Orbán's rule, with challenger Péter Magyar leading in polls.",
+      "url": "https://www.theguardian.com/p/x4zvfn",
+      "thumbnail": "https://media.guim.co.uk/9394dbda814de1c753e945c768f2361c8f7a42ad/500_0_5000_4000/500.jpg",
+      "published": "2026-04-12T15:42:50Z",
+      "location": {
+        "name": "Budapest",
+        "lat": 47.4979,
+        "lng": 19.0402
+      },
+      "category": "politics",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "football/2026/apr/12/cf-montreal-fires-marco-donadel",
+      "headline": "CF Montreal fire head coach Marco Donadel after terrible start to season",
+      "summary": "CF Montreal fires head coach Marco Donadel after poor season start in MLS.",
+      "url": "https://www.theguardian.com/p/x4z224",
+      "thumbnail": "https://media.guim.co.uk/542149524d50dab3a279b55a1a9f59f5adc7fd73/767_0_3836_3069/500.jpg",
+      "published": "2026-04-12T15:42:04Z",
+      "location": {
+        "name": "Montreal",
+        "lat": 45.5017,
+        "lng": -73.5673
+      },
+      "category": "sport",
+      "significance": 1,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/apr/12/sunderland-tottenham-premier-league-match-report",
+      "headline": "Tottenham and De Zerbi sink deeper into mire after Sunderland’s stroke of luck",
+      "summary": "Sunderland defeats Tottenham 1-0 as De Zerbi's side struggles with relegation fears.",
+      "url": "https://www.theguardian.com/p/x4nvk6",
+      "thumbnail": "https://media.guim.co.uk/af4a21d34a71a8ababa54a39007b7557578044f2/274_0_3464_2773/500.jpg",
+      "published": "2026-04-12T15:16:39Z",
+      "location": {
+        "name": "Sunderland",
+        "lat": 54.9139,
+        "lng": -1.3852
+      },
+      "category": "sport",
+      "significance": 1,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/apr/12/nottingham-forest-aston-villa-premier-league-match-report",
+      "headline": "Aston Villa frustrated as Neco Williams’s strike bolsters Forest’s survival hopes",
+      "summary": "Nottingham Forest draws with Aston Villa to improve survival chances in Premier League.",
+      "url": "https://www.theguardian.com/p/x4nvk5",
+      "thumbnail": "https://media.guim.co.uk/a821c2c6c261b812cfa75987a2e827c96e189c54/735_643_3727_2982/500.jpg",
+      "published": "2026-04-12T15:10:14Z",
+      "location": {
+        "name": "Nottingham",
+        "lat": 52.9399,
+        "lng": -1.1339
+      },
+      "category": "sport",
+      "significance": 1,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/apr/12/crystal-palace-newcastle-premier-league-match-report",
+      "headline": "Jean-Philippe Mateta spot-on to give Crystal Palace comeback win against Newcastle",
+      "summary": "Crystal Palace defeats Newcastle 2-1 with late Mateta penalty at Selhurst Park.",
+      "url": "https://www.theguardian.com/p/x4nvk2",
+      "thumbnail": "https://media.guim.co.uk/37d84c3d120a6b52d29b7c16acc4f0ac828ec21c/869_372_2322_1858/500.jpg",
+      "published": "2026-04-12T15:08:26Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 1,
+      "section": "football"
+    },
+    {
+      "id": "business/2026/apr/12/gsk-promising-early-results-ovarian-womb-cancer-drug-trial",
+      "headline": "GSK reports promising early results in ovarian and womb cancer drug trial",
+      "summary": "GSK reports Mo-Rez drug reduced or eliminated tumours in 62% of ovarian cancer patients.",
+      "url": "https://www.theguardian.com/p/x4zvy5",
+      "thumbnail": "https://media.guim.co.uk/48df1740bffb592cee7dbd3c19afbd8719c3124e/278_0_4680_3744/500.jpg",
+      "published": "2026-04-12T15:02:28Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "lifeandstyle/2026/apr/12/kindness-strangers-ashes-heat-offered-shady-seats",
+      "headline": "The kindness of strangers: The Ashes heat was unbearable. Then a Barmy Army member offered his seats in the shade",
+      "summary": "Barmy Army member's kindness to Australian fan during Ashes cricket test in Adelaide.",
+      "url": "https://www.theguardian.com/p/x4mqdy",
+      "thumbnail": "https://media.guim.co.uk/6c46a28f802e90f25a73d525bda5fffe696e208f/171_0_2657_2126/500.jpg",
+      "published": "2026-04-12T15:00:21Z",
+      "location": {
+        "name": "Adelaide",
+        "lat": -34.9285,
+        "lng": 138.6007
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "lifeandstyle"
+    },
+    {
+      "id": "australia-news/2026/apr/13/economic-stress-scares-off-australian-homebuyers-as-auction-clearances-fall",
+      "headline": " Economic stress scares off Australian homebuyers as auction clearances fall ",
+      "summary": "Australian home auction clearances fall as economic stress deters buyers amid uncertainty.",
+      "url": "https://www.theguardian.com/p/x4naba",
+      "thumbnail": "https://media.guim.co.uk/d90a115e1b79a036ee42fd1cb33381ef0928e9cf/0_0_6605_5284/500.jpg",
+      "published": "2026-04-12T15:00:21Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "australia-news/2026/apr/13/cost-of-living-australia-food-prices-shortages-long-life-pantry-staples",
+      "headline": "Cost of living drives Australian shoppers to ‘pantry loading’, as ‘you can do so much with beans’",
+      "summary": "Australian shoppers stockpile pantry staples amid cost-of-living crisis and Middle East conflict fears.",
+      "url": "https://www.theguardian.com/p/x4ngad",
+      "thumbnail": "https://media.guim.co.uk/72400d73e3fd9284473f96a5096505f6a8d227b2/671_0_6713_5373/500.jpg",
+      "published": "2026-04-12T15:00:21Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "stage/2026/apr/12/joz-norris-review-soho-theatre-you-wait-time-passes",
+      "headline": "Joz Norris review – weird, unhinged, inadequate, and other pointers to artistic character",
+      "summary": "Joz Norris performs 'You Wait. Time Passes' exploring futile creative choices at Soho Theatre.",
+      "url": "https://www.theguardian.com/p/x4zx3d",
+      "thumbnail": "https://media.guim.co.uk/38c9441c1b8696e8fe22e9b7cfeb8ce891a35385/741_401_3144_2516/500.jpg",
+      "published": "2026-04-12T14:53:29Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "stage"
+    },
+    {
+      "id": "uk-news/2026/apr/12/richard-tice-reform-uk-quidnet-reit-tax-dividends",
+      "headline": "Richard Tice’s firm alleged to have broken law by failing to pay tax",
+      "summary": "Richard Tice's company allegedly failed to pay tens of thousands in tax on dividends.",
+      "url": "https://www.theguardian.com/p/x4zxvv",
+      "thumbnail": "https://media.guim.co.uk/44ef80d35795a298f4219db2131efa8028c6b38a/484_0_4840_3872/500.jpg",
+      "published": "2026-04-12T14:50:51Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "tv-and-radio/2026/apr/12/letter-dame-jenni-murray-obituary",
+      "headline": "Letter: Dame Jenni Murray obituary",
+      "summary": "Letter reflects on Dame Jenni Murray's kindness and radio instruction to writers.",
+      "url": "https://www.theguardian.com/p/x4z2xt",
+      "thumbnail": "https://media.guim.co.uk/378f5b5b62927e1768d07ac76073d947a9d64726/0_0_6141_4912/500.jpg",
+      "published": "2026-04-12T14:48:54Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "tv-and-radio"
     }
   ]
 }
