@@ -1,44 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-12T17:55:03.902Z",
-    "story_count": 74,
-    "oldest_story": "2026-04-11T18:54:25Z",
-    "newest_story": "2026-04-12T17:48:45Z",
+    "generated_at": "2026-04-12T19:55:37.045Z",
+    "story_count": 77,
+    "oldest_story": "2026-04-11T20:00:02Z",
+    "newest_story": "2026-04-12T19:48:28Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/2026/apr/11/real-talk-chelsea-punished-enzo-fernandez-for-exposing-projects-fatal-flaw",
-      "headline": "Real talk: Chelsea punished Enzo Fernández for exposing project’s fatal flaw",
-      "summary": "Chelsea suspend Enzo Fernández over Madrid transfer comments, exposing club's project flaws.",
-      "url": "https://www.theguardian.com/p/x4nhx6",
-      "thumbnail": "https://media.guim.co.uk/ae04323246c8eb1da461b806ff51d5e4c72eeb66/590_0_4457_3567/500.jpg",
-      "published": "2026-04-11T19:00:01Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "sport/2026/apr/11/leinster-sale-european-champions-cup-rugby-union-match-report",
-      "headline": "Leinster blow away Sale to set up Champions Cup semi-final with Toulon",
-      "summary": "Leinster defeats Sale 43-13 to advance to Champions Cup semi-final against Toulon.",
-      "url": "https://www.theguardian.com/p/x4n23f",
-      "thumbnail": "https://media.guim.co.uk/a0729411a28d0e0a714ffec2e3b45391d93db519/916_328_3885_3108/500.jpg",
-      "published": "2026-04-11T18:54:25Z",
-      "location": {
-        "name": "Dublin",
-        "lat": 53.3498,
-        "lng": -6.2603
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
     {
       "id": "us-news/2026/apr/11/washington-dead-canines-foxes-found-washed-ashore",
       "headline": "Washington officials say 21 dead canines that washed ashore were foxes, solving local mystery",
@@ -1190,6 +1158,86 @@
       "category": "conflict",
       "significance": 2,
       "section": "uk-news"
+    },
+    {
+      "id": "football/2026/apr/12/manchester-city-chelsea-pep-guardiola-arsenal",
+      "headline": "‘The sun. I’m not joking’: City improve in good weather, claims Pep Guardiola",
+      "summary": "Manchester City defeats Chelsea 3-0, closing gap to Arsenal; Guardiola credits good weather.",
+      "url": "https://www.theguardian.com/p/x4ndeb",
+      "thumbnail": "https://media.guim.co.uk/b3b0cc3fbbc386c0d4551e96f93efeec6b3ed4dd/133_0_3827_3062/500.jpg",
+      "published": "2026-04-12T19:48:28Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "sport/2026/apr/12/donald-trump-marco-rubio-ufc-iran-war",
+      "headline": "‘This is not serious leadership’: Donald Trump and Marco Rubio watch UFC in Miami as Iran talks fail",
+      "summary": "Trump and Rubio attend UFC event in Miami as Iran peace talks fail.",
+      "url": "https://www.theguardian.com/p/x4zxa4",
+      "thumbnail": "https://media.guim.co.uk/1799bdf125fce8e7c86263ac268ce0d0fd8cf225/363_0_3103_2483/500.jpg",
+      "published": "2026-04-12T19:25:20Z",
+      "location": {
+        "name": "Miami",
+        "lat": 25.7617,
+        "lng": -80.1918
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "us-news/2026/apr/12/congress-eric-swalwell-tony-gonzales",
+      "headline": "Move to expel Democrat Eric Swalwell from Congress gains steam",
+      "summary": "Congress members call for expulsion of Democrat Eric Swalwell over misconduct allegations.",
+      "url": "https://www.theguardian.com/p/x4z2y7",
+      "thumbnail": "https://media.guim.co.uk/11a3dde272330bde50de4075ca94c63ea48c3eaf/250_0_2500_2000/500.jpg",
+      "published": "2026-04-12T19:17:54Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "stage/2026/apr/12/paddington-the-musical-triumphs-at-the-olivier-awards",
+      "headline": "No need for hard stares as Paddington: The Musical triumphs at Olivier awards",
+      "summary": "Paddington: The Musical wins seven Olivier awards at Royal Albert Hall ceremony.",
+      "url": "https://www.theguardian.com/p/x4ntjh",
+      "thumbnail": "https://media.guim.co.uk/5f3331fa1ba36805ad86f69facb5be5b02a9d8a4/604_323_1485_1188/500.jpg",
+      "published": "2026-04-12T19:02:08Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "stage"
+    },
+    {
+      "id": "stage/2026/apr/12/olivier-awards-2026-full-list-of-winners",
+      "headline": "Olivier awards 2026: full list of winners",
+      "summary": "Complete list of winners from 2026 Olivier awards at Royal Albert Hall.",
+      "url": "https://www.theguardian.com/p/x4nhdm",
+      "thumbnail": "https://media.guim.co.uk/c9bb6c7556578fb9637bed68202b90e2769f5acf/966_528_5390_4312/500.jpg",
+      "published": "2026-04-12T18:56:11Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "stage"
     }
   ]
 }
