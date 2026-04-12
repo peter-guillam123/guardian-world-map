@@ -1,92 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-12T09:07:40.465Z",
+    "generated_at": "2026-04-12T11:09:40.326Z",
     "story_count": 60,
-    "oldest_story": "2026-04-11T09:36:01Z",
-    "newest_story": "2026-04-12T09:05:14Z",
+    "oldest_story": "2026-04-11T11:42:09Z",
+    "newest_story": "2026-04-12T11:00:17Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "sport/live/2026/apr/11/essex-v-somerset-surrey-v-leicestershire-and-more-county-cricket-day-two-live",
-      "headline": "Essex v Somerset, Surrey v Leicestershire, and more: county cricket, day two – live",
-      "summary": "County cricket day two: Essex vs Somerset and Surrey vs Leicestershire underway.",
-      "url": "https://www.theguardian.com/p/x4nbf2",
-      "thumbnail": "https://media.guim.co.uk/c96adaeb3356bb3b5f7ed4423ece4806833a8938/340_0_3693_2955/500.jpg",
-      "published": "2026-04-11T10:01:20Z",
-      "location": {
-        "name": "Essex",
-        "lat": 51.88,
-        "lng": 0.5
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "lifeandstyle/2026/apr/11/this-cactus-looks-as-if-its-preaching-joseph-cyrs-best-phone-picture",
-      "headline": "‘This cactus looks as if it’s preaching’: Joseph Cyr’s best phone picture",
-      "summary": "Language teacher captures remarkable photo of human-like cactus in Arizona desert.",
-      "url": "https://www.theguardian.com/p/x4kbpj",
-      "thumbnail": "https://media.guim.co.uk/5822ef4792e1a352600ac2fbf9ccbf0b577bd356/0_373_3024_2419/500.jpg",
-      "published": "2026-04-11T10:00:45Z",
-      "location": {
-        "name": "Arizona",
-        "lat": 34.7299,
-        "lng": -111.4312
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "lifeandstyle"
-    },
-    {
-      "id": "sport/live/2026/apr/11/grand-national-2026-horse-racing-updates-from-aintree-live",
-      "headline": "Grand National 2026: horse racing updates from Aintree – live",
-      "summary": "Grand National 2026 at Aintree: 34 runners line up for historic horse racing spectacle.",
-      "url": "https://www.theguardian.com/p/x4n6c9",
-      "thumbnail": "https://media.guim.co.uk/a3a1d08834e210477bde13171271a5442226ba4f/389_0_2156_1725/500.jpg",
-      "published": "2026-04-11T10:00:45Z",
-      "location": {
-        "name": "Liverpool",
-        "lat": 53.4308,
-        "lng": -2.9608
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "sport"
-    },
-    {
-      "id": "football/live/2026/apr/11/arsenal-v-bournemouth-premier-league-live",
-      "headline": "Arsenal v Bournemouth: Premier League – live",
-      "summary": "Arsenal v Bournemouth: league leaders seek to extend 12-point gap over Manchester City.",
-      "url": "https://www.theguardian.com/p/x4n67z",
-      "thumbnail": "https://media.guim.co.uk/5b0717d216fdc1d9a9874f45b46ec641afde18fc/1438_0_7200_5760/500.jpg",
-      "published": "2026-04-11T10:00:45Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "world/2026/apr/11/explosives-serbia-pipeline-likely-russian-provocation-says-military-expert-hungary-ukraine",
-      "headline": "Explosives found near pipeline ‘likely a Russian provocation’, says military expert",
-      "summary": "Explosives found near Serbian pipeline likely Russian provocation targeting Hungary elections.",
-      "url": "https://www.theguardian.com/p/x4nyz9",
-      "thumbnail": "https://media.guim.co.uk/fd49962528f01d75d3dca1844aae39a12740b5a8/269_0_2083_1667/500.jpg",
-      "published": "2026-04-11T09:36:01Z",
-      "location": {
-        "name": "Serbia",
-        "lat": 44.0165,
-        "lng": 21.0059
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "world"
-    },
     {
       "id": "football/live/2026/apr/11/australia-vs-malawi-live-updates-fifa-series-matildas-aus-v-mwi-womens-international-football-friendly",
       "headline": "Australia v Malawi: Fifa Series women’s international football friendly – live",
@@ -118,150 +38,6 @@
       "category": "sport",
       "significance": 2,
       "section": "football"
-    },
-    {
-      "id": "us-news/2026/apr/11/jimmys-corner-new-york-dive-bar-closure",
-      "headline": "‘It holds a lot of memories’: the push to save a beloved New York dive bar",
-      "summary": "Jimmy's Corner, iconic Times Square dive bar opened in 1971, faces closure as patrons fight to save it.",
-      "url": "https://www.theguardian.com/p/x4nj9k",
-      "thumbnail": "https://media.guim.co.uk/42005b1b4f2e02204b4b285a1ba90e0458fd6816/178_0_5355_4284/500.jpg",
-      "published": "2026-04-11T11:00:48Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "world/2026/apr/11/inside-israeli-kibbutz-lebanon-border",
-      "headline": "‘Endless war’: inside an Israeli kibbutz near Lebanon’s volatile border",
-      "summary": "Israeli kibbutz near Lebanon border endures constant attacks as residents debate whether military action should cease.",
-      "url": "https://www.theguardian.com/p/x4n73v",
-      "thumbnail": "https://media.guim.co.uk/7679b2d4d4fb1e57e8421b0ad9be5704db5b5e4f/354_0_5200_4160/500.jpg",
-      "published": "2026-04-11T11:00:48Z",
-      "location": {
-        "name": "Kibbutz Cabri",
-        "lat": 33.0867,
-        "lng": 35.4156
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "business/2026/apr/11/homes-great-britain-green-energy-fuel-prices",
-      "headline": "Record number of homes in Great Britain turn to green energy as fuel prices soar",
-      "summary": "Record UK household demand for solar panels, heat pumps and EVs as Iran crisis drives energy prices up 18%.",
-      "url": "https://www.theguardian.com/p/x4nd2v",
-      "thumbnail": "https://media.guim.co.uk/f856c708cbec61791a2fa2753cb2efffa92f2708/1128_0_2293_1836/500.jpg",
-      "published": "2026-04-11T11:00:47Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "business/2026/apr/11/polymarket-gamblers-betting-iran-war-ukraine-news-truth",
-      "headline": "‘Abhorrent’: the inside story of the Polymarket gamblers betting millions on war ",
-      "summary": "Guardian investigation reveals Polymarket gamblers betting millions on war outcomes and influencing news narratives.",
-      "url": "https://www.theguardian.com/p/x4n6jt",
-      "thumbnail": "https://media.guim.co.uk/b27de2f58de3e8b2463d2633f9accc372f8bfb4a/0_86_2593_2076/500.jpg",
-      "published": "2026-04-11T11:00:47Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "business"
-    },
-    {
-      "id": "science/2026/apr/11/dice-discovery-start-of-gambling-native-americans-archaeology",
-      "headline": "Native Americans were gambling with dice 6,000 years earlier than anyone else, study says",
-      "summary": "Native Americans used dice for gambling 6,000 years earlier than anywhere else, study of archaeological records shows.",
-      "url": "https://www.theguardian.com/p/x4nbvq",
-      "thumbnail": "https://media.guim.co.uk/8a9e793b98cf9b2f8cd27a7ef90a81e8f4615623/0_27_1446_1157/500.jpg",
-      "published": "2026-04-11T11:00:47Z",
-      "location": {
-        "name": "Wyoming",
-        "lat": 43.076,
-        "lng": -107.2903
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "science"
-    },
-    {
-      "id": "us-news/2026/apr/11/georgia-midwives-black-women-pregnancy-birth",
-      "headline": "Black women in Georgia turn to midwives for safer births – so why does the state criminalize many of them?",
-      "summary": "Georgia lawsuit seeks to decriminalize midwives helping Black women access safer births amid maternal health crisis.",
-      "url": "https://www.theguardian.com/p/x4ncdq",
-      "thumbnail": "https://media.guim.co.uk/44af8b32198a05064c7cbeb6f2342c64634af3e1/1316_362_3868_3094/500.jpg",
-      "published": "2026-04-11T11:00:47Z",
-      "location": {
-        "name": "Atlanta",
-        "lat": 33.749,
-        "lng": -84.388
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "world/2026/apr/11/from-isis-recruit-to-influencer-tareena-shakil",
-      "headline": "From Isis recruit to influencer: ‘People think: you’re that evil girl who ran away’",
-      "summary": "Former ISIS recruit Tareena Shakil, first British woman convicted of joining Islamic State, now works as TikTok influencer.",
-      "url": "https://www.theguardian.com/p/x4t292",
-      "thumbnail": "https://media.guim.co.uk/2ba6d5cf031062fb4a6d77a0b6bcfa60a5edaf27/0_77_4746_3797/500.jpg",
-      "published": "2026-04-11T11:00:46Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "us-news/2026/apr/11/ice-shooting-dhs-accountability-minneapolis",
-      "headline": "Video of an ICE shooting shattered the agency’s story. Will it usher in accountability?",
-      "summary": "Video evidence of ICE shooting dismantles agency's story; Venezuelan men's case collapses amid accountability questions.",
-      "url": "https://www.theguardian.com/p/x4nj7t",
-      "thumbnail": "https://media.guim.co.uk/e884ef98513a58f175adeb03997e9034e4327f64/106_0_1556_1246/500.jpg",
-      "published": "2026-04-11T11:00:46Z",
-      "location": {
-        "name": "Minneapolis",
-        "lat": 44.9778,
-        "lng": -93.265
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "business/2026/apr/11/federal-government-workers-trump-cuts",
-      "headline": "Federal workers struggle to find roles a year after Trump cuts: ‘I’ve applied to over 250 jobs’",
-      "summary": "Federal workers struggle in job market over year after Trump's sweeping government employment cuts took effect.",
-      "url": "https://www.theguardian.com/p/x4jxn8",
-      "thumbnail": "https://media.guim.co.uk/d7079e64d78cf1c86e77a8c2de23bf251a61ddc1/820_669_2498_1998/500.jpg",
-      "published": "2026-04-11T11:00:45Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
     },
     {
       "id": "sport/live/2026/apr/11/england-v-ireland-womens-six-nations-live-rugby-union",
@@ -966,6 +742,230 @@
       "category": "culture",
       "significance": 2,
       "section": "lifeandstyle"
+    },
+    {
+      "id": "money/2026/apr/12/remote-working-tribunal-cases-great-britain-fall-for-first-time-since-covid-hit",
+      "headline": "Remote working tribunal cases in Great Britain fall for first time since Covid",
+      "summary": "Remote working tribunal cases in Great Britain fall for first time since Covid pandemic.",
+      "url": "https://www.theguardian.com/p/x4kb9k",
+      "thumbnail": "https://media.guim.co.uk/5575656fb9feae3c828858852c5af1682893b75b/798_0_4560_3648/500.jpg",
+      "published": "2026-04-12T11:00:17Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "money"
+    },
+    {
+      "id": "lifeandstyle/2026/apr/12/lifestyle-blogger-devil-wears-prada-anna-wintour-assistant-pay-interns",
+      "headline": "Lifestyle blogger said to have inspired Devil Wears Prada character uses unpaid student interns",
+      "summary": "Lifestyle blogger and Devil Wears Prada inspiration Plum Sykes uses unpaid student interns.",
+      "url": "https://www.theguardian.com/p/x4mm4n",
+      "thumbnail": "https://media.guim.co.uk/c5840d5068efec103686bc08f0ab2918e26b78dc/485_535_1917_1532/500.jpg",
+      "published": "2026-04-12T11:00:17Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "lifeandstyle"
+    },
+    {
+      "id": "us-news/2026/apr/12/black-indigenous-ecovillage-community-reclaim-land",
+      "headline": "‘Reverse-gentrify the country’: how Black and Indigenous intentional communities are reclaiming land",
+      "summary": "Black and Indigenous communities across US reclaiming land through intentional ecovillages and communal spaces.",
+      "url": "https://www.theguardian.com/p/x4ndzk",
+      "thumbnail": "https://media.guim.co.uk/2f719d04f595ab7c0874680b421c25af3dca7b18/0_0_3000_2400/500.jpg",
+      "published": "2026-04-12T11:00:16Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/apr/12/trump-budget-healthcare-military",
+      "headline": "Trump’s new budget ignores dying Americans and gives away record sums to the US military",
+      "summary": "Trump budget proposes 12% health cuts while increasing military spending by 42% to $1.5 trillion.",
+      "url": "https://www.theguardian.com/p/x4n8c8",
+      "thumbnail": "https://media.guim.co.uk/a678b29bd3a608e36c88e6f60ec137012aec36c5/0_0_3000_2400/500.jpg",
+      "published": "2026-04-12T11:00:16Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 4,
+      "section": "us-news"
+    },
+    {
+      "id": "commentisfree/2026/apr/12/anti-ice-protests-trump",
+      "headline": "The anti-ICE resistance is working",
+      "summary": "Mass anti-ICE resistance movement slows Trump administration's immigration enforcement operations.",
+      "url": "https://www.theguardian.com/p/x4n9d6",
+      "thumbnail": "https://media.guim.co.uk/fa426d41a9b77b91d13ebd778448dad39b55d61e/648_0_3252_2601/500.jpg",
+      "published": "2026-04-12T11:00:16Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "commentisfree"
+    },
+    {
+      "id": "lifeandstyle/2026/apr/12/from-andrew-tate-to-mountbatten-windsor-the-council-of-andrews-reclaiming-their-name",
+      "headline": "From Andrew Tate to Mountbatten-Windsor, my first name has been dragged through the mud. Can a global community of ‘Drews’ help change that?",
+      "summary": "Home Office announces closure of 11 asylum hotels as Labour fulfills pledge to end hotel accommodation.",
+      "url": "https://www.theguardian.com/p/x4jctx",
+      "thumbnail": "https://media.guim.co.uk/cdfcaf53d82e38b4374c54a117bff9124d48d643/0_1274_4436_3549/500.jpg",
+      "published": "2026-04-12T11:00:16Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "lifeandstyle"
+    },
+    {
+      "id": "uk-news/2026/apr/12/asylum-seeker-hotels-closures-home-office",
+      "headline": "Home Office to announce closure of 11 asylum hotels in next week",
+      "summary": "University researcher and property manager find common ground on Brexit disaster in dining conversation.",
+      "url": "https://www.theguardian.com/p/x4zvt2",
+      "thumbnail": "https://media.guim.co.uk/8b57ee2e2387a58b37b0df3f6f62a56927b646b0/484_0_4840_3872/500.jpg",
+      "published": "2026-04-12T11:00:16Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 1,
+      "section": "uk-news"
+    },
+    {
+      "id": "lifeandstyle/2026/apr/12/dining-across-the-divide-graham-katherine-brexit-disaster-who-was-responsible",
+      "headline": "Dining across the divide: ‘We both agreed Brexit was a disaster - but disagreed about who was responsible for that’",
+      "summary": "Ex-police commissioner credits taskforce for breaking Gilgo Beach serial killer case against Rex Heuermann.",
+      "url": "https://www.theguardian.com/p/x4kgzj",
+      "thumbnail": "https://media.guim.co.uk/ea3d64b84546488fcda5caf7829e0165c36a3e2d/546_367_2876_2301/500.jpg",
+      "published": "2026-04-12T11:00:15Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "lifeandstyle"
+    },
+    {
+      "id": "us-news/2026/apr/12/police-taskforce-gilgo-beach-serial-killer",
+      "headline": "Ex-police commissioner on how his taskforce ‘broke the case’ and found the Gilgo Beach serial killer",
+      "summary": "College graduates face worst entry-level job market since pandemic with 42.5% underemployment rate.",
+      "url": "https://www.theguardian.com/p/x4nt6h",
+      "thumbnail": "https://media.guim.co.uk/def5b9e7e92d444e26e047e7d0de4ca8060d6755/250_0_2500_2000/500.jpg",
+      "published": "2026-04-12T11:00:15Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/apr/12/college-graduates-job-market-ai",
+      "headline": "‘I feel helpless’: college graduates can’t find entry-level roles in shrinking market amid rise of AI",
+      "summary": "Iran war drives biggest oil shock in decades as IMF and World Bank chiefs meet amid inflation concerns.",
+      "url": "https://www.theguardian.com/p/x4n7nv",
+      "thumbnail": "https://media.guim.co.uk/3410057707a82216d552f6cb10821daa4de6cd96/573_431_1956_1565/500.jpg",
+      "published": "2026-04-12T11:00:15Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "economy",
+      "significance": 4,
+      "section": "us-news"
+    },
+    {
+      "id": "business/2026/apr/12/iran-war-oil-energy-prices-inflation-washington-world-bank-imf",
+      "headline": "Task for the week: limit the fallout from biggest oil shock in decades",
+      "summary": "Regents Opera stages Strauss's Salome with gangsterish direction by Mark Ravenhill at York Hall.",
+      "url": "https://www.theguardian.com/p/x4ngqd",
+      "thumbnail": "https://media.guim.co.uk/3d436205fc90c73ade606ec4010f8673940cd9d2/137_0_4288_3429/500.jpg",
+      "published": "2026-04-12T10:37:05Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "business"
+    },
+    {
+      "id": "music/2026/apr/12/salome-review-york-hall-london-regents-opera-mark-ravenhill",
+      "headline": "Salome review – righteous fury and dynamic clarity give Regents Opera its head",
+      "summary": "King Charles III to offer tough love speech to US Congress during state visit amid Trump tensions.",
+      "url": "https://www.theguardian.com/p/x4zvyh",
+      "thumbnail": "https://media.guim.co.uk/71d584b2af9bf725d63006ce6cde31e1cfb59840/253_0_1706_1365/500.jpg",
+      "published": "2026-04-12T10:27:07Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "music"
+    },
+    {
+      "id": "world/2026/apr/12/wes-streeting-attacks-trump-outrageous-iran-war-rhetoric",
+      "headline": "Wes Streeting attacks Trump’s ‘outrageous’ Iran war rhetoric",
+      "summary": "UK health secretary criticizes Trump's Iran war rhetoric amid failed US-Iran peace talks.",
+      "url": "https://www.theguardian.com/p/x4zvm4",
+      "thumbnail": "https://media.guim.co.uk/19ef002702ae73d7100273e7e58e27232d1e866f/206_23_1421_1137/500.jpg",
+      "published": "2026-04-12T10:09:33Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "sport/live/2026/apr/12/golf-the-masters-2026-final-round-live",
+      "headline": "The Masters 2026: final round – live",
+      "summary": "Masters 2026 final round underway at Augusta National with McIlroy and Scheffler competing.",
+      "url": "https://www.theguardian.com/p/x4nbgt",
+      "thumbnail": "https://media.guim.co.uk/83519996e2bca451bffda791cea200422e19cc3a/0_0_6268_5015/500.jpg",
+      "published": "2026-04-12T09:59:29Z",
+      "location": {
+        "name": "Augusta",
+        "lat": 33.5007,
+        "lng": -82.0105
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
     }
   ]
 }
