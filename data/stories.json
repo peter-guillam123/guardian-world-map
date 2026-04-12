@@ -1,76 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-12T21:53:39.387Z",
-    "story_count": 73,
-    "oldest_story": "2026-04-11T22:51:48Z",
-    "newest_story": "2026-04-12T21:48:33Z",
+    "generated_at": "2026-04-12T23:54:35.709Z",
+    "story_count": 74,
+    "oldest_story": "2026-04-12T05:15:08Z",
+    "newest_story": "2026-04-12T23:43:19Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "australia-news/live/2026/apr/12/petrol-prices-save-fuel-government-ad-campaign-anthony-albanese-singapore-labor-coalition-ntwnfb",
-      "headline": "Australia news live: government ad campaign urges drivers to minimise fuel use as supply crisis persists",
-      "summary": "Australian government launches ad campaign urging fuel conservation amid ongoing supply crisis.",
-      "url": "https://www.theguardian.com/p/x4npcz",
-      "thumbnail": "https://media.guim.co.uk/a7f2a9a5f3bcc064eaa30e9d31f66b92060a5e78/1357_0_6232_4986/500.jpg",
-      "published": "2026-04-11T23:52:16Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "sport/2026/apr/12/cameron-young-reels-in-rory-mcilroy-with-pack-on-their-tails-for-masters-finale",
-      "headline": "Cameron Young reels in Rory McIlroy with pack on their tails for Masters finale",
-      "summary": "Cameron Young closes gap on leader Rory McIlroy at Masters with strong third-round performance.",
-      "url": "https://www.theguardian.com/p/x4nvtv",
-      "thumbnail": "https://media.guim.co.uk/208c4f7822d4c30e714785e63d68a30c2c603e8e/1348_48_2989_2391/500.jpg",
-      "published": "2026-04-11T23:27:57Z",
-      "location": {
-        "name": "Augusta",
-        "lat": 33.5007,
-        "lng": -82.0105
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "sport/2026/apr/12/scottie-scheffler-reminds-everyone-why-he-is-no-1-masters-golf-rory-mcilroy",
-      "headline": "Sensational Scheffler reminds everyone why he is still No 1 with Masters masterclass",
-      "summary": "Scottie Scheffler shoots 65 to position himself as contender for third Masters title.",
-      "url": "https://www.theguardian.com/p/x4nvt7",
-      "thumbnail": "https://media.guim.co.uk/73a8f1b572cd783c6e16d16966c68220a294a338/1523_414_3656_2925/500.jpg",
-      "published": "2026-04-11T23:05:16Z",
-      "location": {
-        "name": "Augusta",
-        "lat": 33.5007,
-        "lng": -82.0105
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "uk-news/2026/apr/11/man-arrested-for-allegedly-damaging-us-military-aircraft-in-shannon-airport",
-      "headline": "Man arrested for allegedly damaging US military aircraft in Shannon airport",
-      "summary": "Man arrested for allegedly damaging US military C130 aircraft at Shannon Airport in Ireland.",
-      "url": "https://www.theguardian.com/p/x4npcp",
-      "thumbnail": "https://media.guim.co.uk/505af9809de86ef15cd40dbadf03e8bfdfa2fc8f/0_0_915_732/500.jpg",
-      "published": "2026-04-11T22:51:48Z",
-      "location": {
-        "name": "Shannon",
-        "lat": 52.7022,
-        "lng": -8.9248
-      },
-      "category": "conflict",
-      "significance": 2,
-      "section": "uk-news"
-    },
     {
       "id": "world/live/2026/apr/12/middle-east-crisis-live-us-iran-pakistan-peace-talks-jd-vance-delegation-leaves-without-a-deal",
       "headline": "Middle East crisis live: US and Iran fail to reach a deal after marathon peace talks in Pakistan",
@@ -1174,6 +1110,86 @@
       "category": "politics",
       "significance": 3,
       "section": "australia-news"
+    },
+    {
+      "id": "sport/blog/2026/apr/13/afl-gather-round-south-australia-adelaide-weather-rain",
+      "headline": "Rain puts dampener on Gather Round despite AFL’s hype and schmoozing",
+      "summary": "AFL's Gather Round in Adelaide affected by rain despite strong industry participation and political backing.",
+      "url": "https://www.theguardian.com/p/x4ng2v",
+      "thumbnail": "https://media.guim.co.uk/898c59e14c6050fad9d3fa96a6ba0dad4464987b/155_0_3230_2584/500.jpg",
+      "published": "2026-04-12T23:43:19Z",
+      "location": {
+        "name": "Adelaide",
+        "lat": -34.9285,
+        "lng": 138.6007
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "sport/2026/apr/13/rory-mcilroy-ignores-jack-nicklauss-advice-and-tames-augustas-terrible-12th",
+      "headline": "Rory McIlroy ignores Jack Nicklaus’s advice and tames Augusta’s terrible 12th",
+      "summary": "Rory McIlroy wins Masters at Augusta National, conquering hole 12 to defeat rivals including Scottie Scheffler.",
+      "url": "https://www.theguardian.com/p/x4nvje",
+      "thumbnail": "https://media.guim.co.uk/2d8289ff2e04e72b7548bd848642150a8ab159f1/318_0_3251_2601/500.jpg",
+      "published": "2026-04-12T23:24:21Z",
+      "location": {
+        "name": "Augusta",
+        "lat": 33.5036,
+        "lng": -82.0105
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "sport"
+    },
+    {
+      "id": "sport/2026/apr/13/rory-mcilroy-wins-masters-again-augusta-national-golf",
+      "headline": "Rory McIlroy holds nerve to be the Master again as rivals succumb to tension",
+      "summary": "Rory McIlroy retains Masters title, joining Nicklaus, Faldo and Woods as repeat champions at Augusta.",
+      "url": "https://www.theguardian.com/p/x4nvj9",
+      "thumbnail": "https://media.guim.co.uk/99c1eae0fb0da67cd7d3051008c6224cc9f1db50/240_0_3521_2816/500.jpg",
+      "published": "2026-04-12T23:10:29Z",
+      "location": {
+        "name": "Augusta",
+        "lat": 33.5036,
+        "lng": -82.0105
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "sport"
+    },
+    {
+      "id": "society/2026/apr/13/unpaid-carers-allowance-dwp-benefit-repayment-demands",
+      "headline": "Thousands of unpaid carers to face DWP repayment demands during overhaul",
+      "summary": "DWP to continue carer's allowance repayment demands during audit of 200,000+ cases despite welfare review.",
+      "url": "https://www.theguardian.com/p/x4nt42",
+      "thumbnail": "https://media.guim.co.uk/6b9c392d2d31f1487100ecba8577d7103f6f9179/1283_815_2467_1974/500.jpg",
+      "published": "2026-04-12T23:01:29Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "society"
+    },
+    {
+      "id": "world/2026/apr/13/ukraine-war-briefing-easter-truce-expires-as-both-sides-accuse-the-other-of-violations",
+      "headline": "Ukraine war briefing: Easter truce expires as both sides accuse the other of violations",
+      "summary": "Ukraine and Russia accuse each other of thousands of violations as 32-hour Orthodox Easter ceasefire expires.",
+      "url": "https://www.theguardian.com/p/x4z3jq",
+      "thumbnail": "https://media.guim.co.uk/abd86793d3533a7431c4940385b8325a1083d914/609_0_6142_4912/500.jpg",
+      "published": "2026-04-12T23:00:45Z",
+      "location": {
+        "name": "Kyiv",
+        "lat": 50.4501,
+        "lng": 30.5234
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
     }
   ]
 }
