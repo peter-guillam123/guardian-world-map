@@ -1,44 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-12T15:55:21.223Z",
-    "story_count": 68,
-    "oldest_story": "2026-04-11T16:59:23Z",
-    "newest_story": "2026-04-12T15:42:50Z",
+    "generated_at": "2026-04-12T17:55:03.902Z",
+    "story_count": 74,
+    "oldest_story": "2026-04-11T18:54:25Z",
+    "newest_story": "2026-04-12T17:48:45Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "sport/live/2026/apr/11/the-masters-2026-day-three-golf-updates-from-augusta-national-rory-mcilroy-live",
-      "headline": "The Masters 2026: day three golf updates from Augusta National – live",
-      "summary": "Live coverage of day three (Moving Day) at The Masters golf tournament at Augusta National.",
-      "url": "https://www.theguardian.com/p/x4n68p",
-      "thumbnail": "https://media.guim.co.uk/169968579e2158308dd4040d23fe68387659586e/1310_137_4690_3752/500.jpg",
-      "published": "2026-04-11T17:45:05Z",
-      "location": {
-        "name": "Augusta",
-        "lat": 33.5007,
-        "lng": -82.0105
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "world/2026/apr/11/us-iran-talks-peace-deal-islamabad-pakistan",
-      "headline": "US and Iran hold talks in Islamabad as Pakistan seeks to broker peace deal",
-      "summary": "US and Iran hold highest-level talks since 1979 in Islamabad, brokered by Pakistan.",
-      "url": "https://www.theguardian.com/p/x4nn94",
-      "thumbnail": "https://media.guim.co.uk/e68b5987df57a9f823714823ece1c42b086e6cd3/131_0_1068_854/500.jpg",
-      "published": "2026-04-11T16:59:23Z",
-      "location": {
-        "name": "Islamabad",
-        "lat": 33.6844,
-        "lng": 73.0479
-      },
-      "category": "politics",
-      "significance": 4,
-      "section": "world"
-    },
     {
       "id": "football/2026/apr/11/real-talk-chelsea-punished-enzo-fernandez-for-exposing-projects-fatal-flaw",
       "headline": "Real talk: Chelsea punished Enzo Fernández for exposing project’s fatal flaw",
@@ -1094,6 +1062,134 @@
       "category": "culture",
       "significance": 1,
       "section": "tv-and-radio"
+    },
+    {
+      "id": "uk-news/2026/apr/12/police-launch-appeal-after-woman-raped-by-several-men-outside-surrey-church",
+      "headline": "Police launch appeal after woman raped by several men outside Surrey church",
+      "summary": "Woman raped by multiple men outside Surrey church after leaving nightclub.",
+      "url": "https://www.theguardian.com/p/x4z2hg",
+      "thumbnail": "https://media.guim.co.uk/4b749d40586f147bf96314c6ec966e75983480aa/498_0_5020_4016/500.jpg",
+      "published": "2026-04-12T17:48:45Z",
+      "location": {
+        "name": "Epsom",
+        "lat": 51.3286,
+        "lng": -0.2712
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "football/2026/apr/12/roberto-de-zerbi-tottenham-sunderland",
+      "headline": "‘Sunderland made us suffer’: De Zerbi desperate to boost Spurs’ confidence",
+      "summary": "Tottenham drops to relegation zone after 1-0 loss at Sunderland under new manager De Zerbi.",
+      "url": "https://www.theguardian.com/p/x4nh8a",
+      "thumbnail": "https://media.guim.co.uk/7d9c788129385ca49ff5cb36252f4d265a8acdd8/142_11_2011_1609/500.jpg",
+      "published": "2026-04-12T17:36:01Z",
+      "location": {
+        "name": "Sunderland",
+        "lat": 54.9053,
+        "lng": -1.3857
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/apr/12/chelsea-manchester-city-premier-league-match-report",
+      "headline": "Manchester City close gap in title race with emphatic victory at Chelsea",
+      "summary": "Manchester City beats Chelsea 3-0, closing title race gap to six points behind Arsenal.",
+      "url": "https://www.theguardian.com/p/x4nvk9",
+      "thumbnail": "https://media.guim.co.uk/5082f15cb4fd59bbd4d5d22d361a609fd7e8bf62/12_18_2058_1647/500.jpg",
+      "published": "2026-04-12T17:35:41Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "world/2026/apr/12/hungarian-election-hope-voters-cast-ballots",
+      "headline": "‘Unpredictable outcome’: Hungarians voice hope and fear as they cast ballots",
+      "summary": "Hungarians vote in parliamentary election after 16 years of Viktor Orbán's rule.",
+      "url": "https://www.theguardian.com/p/x4z25d",
+      "thumbnail": "https://media.guim.co.uk/b6da3951599d47d26921489032b4f40f461bd5eb/469_0_2503_2003/500.jpg",
+      "published": "2026-04-12T17:29:34Z",
+      "location": {
+        "name": "Budapest",
+        "lat": 47.4979,
+        "lng": 19.0402
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "world/2026/apr/12/us-lawmakers-us-israel-iran-war",
+      "headline": "US lawmakers split on party lines over negotiations’ failure to end Iran war",
+      "summary": "US lawmakers split on party lines over failed Iran war negotiations and Trump's next moves.",
+      "url": "https://www.theguardian.com/p/x4z2ex",
+      "thumbnail": "https://media.guim.co.uk/aae30062f97da8b5ca2c1a1a90cc2fbc3fb3d0cd/0_0_5785_4630/500.jpg",
+      "published": "2026-04-12T17:24:08Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "media/2026/apr/12/alan-slingsby-obituary",
+      "headline": "Alan Slingsby obituary",
+      "summary": "Alan Slingsby, journalist and designer to labour movement, dies aged 76.",
+      "url": "https://www.theguardian.com/p/x4ycd6",
+      "thumbnail": "https://media.guim.co.uk/4469767404b1920b6cbc66eb07c833e80c5ffe1d/177_0_1073_858/500.jpg",
+      "published": "2026-04-12T17:06:29Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "media"
+    },
+    {
+      "id": "stage/2026/apr/12/pck-dance-into-the-light-review-the-place-london",
+      "headline": "PCK Dance: Into the Light review – future moves towards a low-key apocalypse",
+      "summary": "PCK Dance's double bill explores human connection to AI-driven world at The Place.",
+      "url": "https://www.theguardian.com/p/x4zx2g",
+      "thumbnail": "https://media.guim.co.uk/73e4b9cd4754cd6537e7bbc2bc59c4b9a95efef8/357_194_3228_2583/500.jpg",
+      "published": "2026-04-12T17:04:53Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "stage"
+    },
+    {
+      "id": "uk-news/2026/apr/12/woman-19-killed-in-essex-dog-attack-named-as-jamie-lea-biscoe",
+      "headline": "Woman, 19, killed in Essex dog attack named as Jamie-Lea Biscoe",
+      "summary": "19-year-old woman killed in Essex dog attack; man arrested on suspicion of dangerous dog charge.",
+      "url": "https://www.theguardian.com/p/x4z2dx",
+      "thumbnail": "https://media.guim.co.uk/63450c8d1362376607682b5c6f3751677b580dc7/0_0_634_507/500.jpg",
+      "published": "2026-04-12T17:00:06Z",
+      "location": {
+        "name": "Leaden Roding",
+        "lat": 51.8347,
+        "lng": 0.2458
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "uk-news"
     }
   ]
 }
