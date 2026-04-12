@@ -1,156 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-12T19:55:37.045Z",
-    "story_count": 77,
-    "oldest_story": "2026-04-11T20:00:02Z",
-    "newest_story": "2026-04-12T19:48:28Z",
+    "generated_at": "2026-04-12T21:53:39.387Z",
+    "story_count": 73,
+    "oldest_story": "2026-04-11T22:51:48Z",
+    "newest_story": "2026-04-12T21:48:33Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "us-news/2026/apr/11/washington-dead-canines-foxes-found-washed-ashore",
-      "headline": "Washington officials say 21 dead canines that washed ashore were foxes, solving local mystery",
-      "summary": "Dead foxes washed ashore in Washington were legally used as fishing bait, sheriff confirms.",
-      "url": "https://www.theguardian.com/p/x4nznj",
-      "thumbnail": "https://media.guim.co.uk/eccc5e51fede252b817632e9d3e65f61c17ea40c/627_0_5000_4000/500.jpg",
-      "published": "2026-04-11T20:33:48Z",
-      "location": {
-        "name": "Guemes Island, Washington",
-        "lat": 48.5333,
-        "lng": -122.6167
-      },
-      "category": "other",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "australia-news/2026/apr/11/australias-demolition-derby-collides-with-safety-rules-as-fans-fight-to-save-the-oddball-motor-sport",
-      "headline": "Australia’s demolition derby collides with safety rules as fans fight to save the ‘oddball’ motor sport ",
-      "summary": "Australian demolition derby faces safety regulations after spectators injured in crash.",
-      "url": "https://www.theguardian.com/p/x4janh",
-      "thumbnail": "https://media.guim.co.uk/01d99f84153cd0ca27b260b8748fb9c9a13c4299/0_0_1920_1536/500.jpg",
-      "published": "2026-04-11T20:00:05Z",
-      "location": {
-        "name": "Sydney, Australia",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "australia-news/2026/apr/11/ndis-job-workers-whistleblower-protections-ntwnfb",
-      "headline": "Susan was forced out of a disability support job after speaking out. Are NDIS whistleblower laws still too weak? ",
-      "summary": "NDIS whistleblower protections questioned after disability worker forced out for speaking.",
-      "url": "https://www.theguardian.com/p/x4mqkb",
-      "thumbnail": "https://media.guim.co.uk/35662493a8a5032034b43b8af3f5ffc60048c148/0_0_6880_5504/500.jpg",
-      "published": "2026-04-11T20:00:05Z",
-      "location": {
-        "name": "Sydney, Australia",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "world/2026/apr/12/canada-migration-levels-housing-costs-australia-ntwnfb",
-      "headline": "Canada slashed migration and housing costs dropped. There may be lessons for Australia",
-      "summary": "Canada's migration cuts reduce housing costs; lessons offered for Australia's affordability crisis.",
-      "url": "https://www.theguardian.com/p/x4mq66",
-      "thumbnail": "https://media.guim.co.uk/3dcce935898c425806f30b35ce69230057cf0696/394_0_1968_1575/500.jpg",
-      "published": "2026-04-11T20:00:04Z",
-      "location": {
-        "name": "Toronto, Canada",
-        "lat": 43.6629,
-        "lng": -79.3957
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "commentisfree/2026/apr/12/the-carpark-at-oxleys-on-the-brisbane-river-it-was-a-different-time-and-our-brains-were-young",
-      "headline": "The carpark at Oxley’s on the Brisbane river: it was a different time and our brains were young",
-      "summary": "Personal essay recalls working at riverside Brisbane restaurant Oxley's in the 2000s.",
-      "url": "https://www.theguardian.com/p/x4yjjj",
-      "thumbnail": "https://media.guim.co.uk/6d0554b0e1889c74f79b7c3a1045544aea81f54b/0_0_3200_2560/500.jpg",
-      "published": "2026-04-11T20:00:04Z",
-      "location": {
-        "name": "Brisbane, Australia",
-        "lat": -27.4698,
-        "lng": 153.0251
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "commentisfree"
-    },
-    {
-      "id": "australia-news/2026/apr/12/australia-fuel-crisis-remote-indigenous-communities-ntwnfb",
-      "headline": "How Australia’s remote communities are experiencing the fuel crisis: ‘A knock-on effect for people already struggling’",
-      "summary": "Remote Indigenous communities face fuel crisis; rising diesel prices strain groceries and supplies.",
-      "url": "https://www.theguardian.com/p/x4n9kq",
-      "thumbnail": "https://media.guim.co.uk/aadc47561707b2ba40bf2110a56dc8d66cc68d1b/303_0_2560_2048/500.jpg",
-      "published": "2026-04-11T20:00:03Z",
-      "location": {
-        "name": "Alice Springs, Australia",
-        "lat": -23.7001,
-        "lng": 133.8807
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "fashion/ng-interactive/2026/apr/11/fashion-hot-pink-cheongsam-grandma-heirloom",
-      "headline": "‘It’s a test of courage wearing a hot-pink cheongsam’: How I learned to wear my grandma’s heirlooms",
-      "summary": "Zoe Wainer appointed inaugural head of Australian Centre for Disease Control.",
-      "url": "https://www.theguardian.com/p/x4jyaj",
-      "thumbnail": "https://media.guim.co.uk/5baf33242982ca55caa9ddce66649aaa994985b3/46_0_6248_4998/500.jpg",
-      "published": "2026-04-11T20:00:02Z",
-      "location": {
-        "name": "Sydney, Australia",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "fashion"
-    },
-    {
-      "id": "music/2026/apr/11/the-xx-coachella-review",
-      "headline": "The xx at Coachella review – indie trio reunites for spellbinding, rangy set",
-      "summary": "The xx reunites for first festival performance in eight years at Coachella.",
-      "url": "https://www.theguardian.com/p/x4nzeg",
-      "thumbnail": "https://media.guim.co.uk/76cb0d7b38e1157f7d921f31c643be2fa11582f1/230_0_1481_1186/500.jpg",
-      "published": "2026-04-11T21:45:31Z",
-      "location": {
-        "name": "Indio, California",
-        "lat": 33.7209,
-        "lng": -116.2023
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "music"
-    },
-    {
-      "id": "world/2026/apr/11/pope-leo-us-israel-iran-war",
-      "headline": "Pope says ‘enough of war’ and decries ‘delusion of omnipotence’ at peace vigil",
-      "summary": "Pope Leo XIV condemns war and calls for peace amid Iran conflict at Vatican vigil.",
-      "url": "https://www.theguardian.com/p/x4nzy6",
-      "thumbnail": "https://media.guim.co.uk/97f435dec68a0d87d45425a65faa904ef912eaca/568_0_2875_2301/500.jpg",
-      "published": "2026-04-11T21:41:32Z",
-      "location": {
-        "name": "Vatican City",
-        "lat": 41.9029,
-        "lng": 12.4534
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
     {
       "id": "australia-news/live/2026/apr/12/petrol-prices-save-fuel-government-ad-campaign-anthony-albanese-singapore-labor-coalition-ntwnfb",
       "headline": "Australia news live: government ad campaign urges drivers to minimise fuel use as supply crisis persists",
@@ -1238,6 +1094,86 @@
       "category": "culture",
       "significance": 2,
       "section": "stage"
+    },
+    {
+      "id": "australia-news/live/2026/apr/13/australia-news-live-anthony-albanese-prime-minister-fuel-supply-diesel-oil-cost-of-living-inflation-budget-ntwnfb",
+      "headline": "Australia news live: PM and Wong to visit Brunei and Malaysia to shore up fuel supply",
+      "summary": "Australian PM and trade minister visit Brunei and Malaysia to secure fuel, fertiliser and critical goods supply.",
+      "url": "https://www.theguardian.com/p/x4z3bd",
+      "thumbnail": "https://media.guim.co.uk/c321ce38ee6290b8141d8987c728824391404d08/871_0_6880_5504/500.jpg",
+      "published": "2026-04-12T21:48:33Z",
+      "location": {
+        "name": "Australia",
+        "lat": -25.2744,
+        "lng": 133.7751
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "football/2026/apr/12/kobbie-mainoo-close-to-signing-new-manchester-united-contract-says-michael-carrick",
+      "headline": "Kobbie Mainoo close to signing new Manchester United contract, says Michael Carrick",
+      "summary": "Kobbie Mainoo close to signing new Manchester United contract worth £120,000 per week.",
+      "url": "https://www.theguardian.com/p/x4zvz5",
+      "thumbnail": "https://media.guim.co.uk/0ad5f0a91a244f0f5c82191d0c13b6d673a84781/261_0_3972_3177/500.jpg",
+      "published": "2026-04-12T21:30:28Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "sport",
+      "significance": 1,
+      "section": "football"
+    },
+    {
+      "id": "education/2026/apr/12/school-food-overhaul-england-fried-nuggets-steamed-sponges",
+      "headline": "Fried nuggets and steamed sponges off menu in school food overhaul in England",
+      "summary": "England's school food standards overhauled for first time in 13 years, banning fried nuggets and steamed sponges.",
+      "url": "https://www.theguardian.com/p/x4zxaq",
+      "thumbnail": "https://media.guim.co.uk/8727b52fc0cefbc84998de6d7578234e023dab82/1365_0_6827_5464/500.jpg",
+      "published": "2026-04-12T21:30:27Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "education"
+    },
+    {
+      "id": "tv-and-radio/2026/apr/12/alison-hammond-your-song-review-a-nightmarish-karaoke-show",
+      "headline": "Your Song review – a nightmarish karaoke show",
+      "summary": "Your Song, a karaoke competition show hosted by Alison Hammond, receives poor critical review.",
+      "url": "https://www.theguardian.com/p/x4nbzz",
+      "thumbnail": "https://media.guim.co.uk/b14abc537f8d18041de35b36fd0e14f6fda0bdfa/328_0_2672_2138/500.jpg",
+      "published": "2026-04-12T21:00:27Z",
+      "location": {
+        "name": "Liverpool",
+        "lat": 53.4084,
+        "lng": -2.9916
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "tv-and-radio"
+    },
+    {
+      "id": "australia-news/2026/apr/13/morning-mail-monday-ntwnfb",
+      "headline": "Morning Mail: US to blockade strait of Hormuz; Viktor Orbán concedes defeat in Hungary; the rise of ‘pantry loading’",
+      "summary": "Viktor Orbán concedes defeat in Hungarian election; Trump threatens US blockade of Strait of Hormuz.",
+      "url": "https://www.theguardian.com/p/x4z2a6",
+      "thumbnail": "https://media.guim.co.uk/91f9ca1315afb6ab1040d2659069994b878b8d23/129_0_1257_1006/500.jpg",
+      "published": "2026-04-12T20:45:30Z",
+      "location": {
+        "name": "Budapest",
+        "lat": 47.4979,
+        "lng": 19.0402
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "australia-news"
     }
   ]
 }
