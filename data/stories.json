@@ -1,220 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-13T16:40:53.782Z",
-    "story_count": 60,
-    "oldest_story": "2026-04-12T17:00:06Z",
-    "newest_story": "2026-04-13T16:38:27Z",
+    "generated_at": "2026-04-13T20:13:43.957Z",
+    "story_count": 53,
+    "oldest_story": "2026-04-12T20:45:30Z",
+    "newest_story": "2026-04-13T20:12:03Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "uk-news/2026/apr/12/police-launch-appeal-after-woman-raped-by-several-men-outside-surrey-church",
-      "headline": "Police launch appeal after woman raped by several men outside Surrey church",
-      "summary": "Woman raped by multiple men outside Surrey church after leaving nightclub.",
-      "url": "https://www.theguardian.com/p/x4z2hg",
-      "thumbnail": "https://media.guim.co.uk/4b749d40586f147bf96314c6ec966e75983480aa/498_0_5020_4016/500.jpg",
-      "published": "2026-04-12T17:48:45Z",
-      "location": {
-        "name": "Epsom",
-        "lat": 51.3286,
-        "lng": -0.2712
-      },
-      "category": "conflict",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "football/2026/apr/12/roberto-de-zerbi-tottenham-sunderland",
-      "headline": "‘Sunderland made us suffer’: De Zerbi desperate to boost Spurs’ confidence",
-      "summary": "Tottenham drops to relegation zone after 1-0 loss at Sunderland under new manager De Zerbi.",
-      "url": "https://www.theguardian.com/p/x4nh8a",
-      "thumbnail": "https://media.guim.co.uk/7d9c788129385ca49ff5cb36252f4d265a8acdd8/142_11_2011_1609/500.jpg",
-      "published": "2026-04-12T17:36:01Z",
-      "location": {
-        "name": "Sunderland",
-        "lat": 54.9053,
-        "lng": -1.3857
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/apr/12/chelsea-manchester-city-premier-league-match-report",
-      "headline": "Manchester City close gap in title race with emphatic victory at Chelsea",
-      "summary": "Manchester City beats Chelsea 3-0, closing title race gap to six points behind Arsenal.",
-      "url": "https://www.theguardian.com/p/x4nvk9",
-      "thumbnail": "https://media.guim.co.uk/5082f15cb4fd59bbd4d5d22d361a609fd7e8bf62/12_18_2058_1647/500.jpg",
-      "published": "2026-04-12T17:35:41Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "world/2026/apr/12/hungarian-election-hope-voters-cast-ballots",
-      "headline": "‘Unpredictable outcome’: Hungarians voice hope and fear as they cast ballots",
-      "summary": "Hungarians vote in parliamentary election after 16 years of Viktor Orbán's rule.",
-      "url": "https://www.theguardian.com/p/x4z25d",
-      "thumbnail": "https://media.guim.co.uk/b6da3951599d47d26921489032b4f40f461bd5eb/469_0_2503_2003/500.jpg",
-      "published": "2026-04-12T17:29:34Z",
-      "location": {
-        "name": "Budapest",
-        "lat": 47.4979,
-        "lng": 19.0402
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "world/2026/apr/12/us-lawmakers-us-israel-iran-war",
-      "headline": "US lawmakers split on party lines over negotiations’ failure to end Iran war",
-      "summary": "US lawmakers split on party lines over failed Iran war negotiations and Trump's next moves.",
-      "url": "https://www.theguardian.com/p/x4z2ex",
-      "thumbnail": "https://media.guim.co.uk/aae30062f97da8b5ca2c1a1a90cc2fbc3fb3d0cd/0_0_5785_4630/500.jpg",
-      "published": "2026-04-12T17:24:08Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "media/2026/apr/12/alan-slingsby-obituary",
-      "headline": "Alan Slingsby obituary",
-      "summary": "Alan Slingsby, journalist and designer to labour movement, dies aged 76.",
-      "url": "https://www.theguardian.com/p/x4ycd6",
-      "thumbnail": "https://media.guim.co.uk/4469767404b1920b6cbc66eb07c833e80c5ffe1d/177_0_1073_858/500.jpg",
-      "published": "2026-04-12T17:06:29Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "media"
-    },
-    {
-      "id": "stage/2026/apr/12/pck-dance-into-the-light-review-the-place-london",
-      "headline": "PCK Dance: Into the Light review – future moves towards a low-key apocalypse",
-      "summary": "PCK Dance's double bill explores human connection to AI-driven world at The Place.",
-      "url": "https://www.theguardian.com/p/x4zx2g",
-      "thumbnail": "https://media.guim.co.uk/73e4b9cd4754cd6537e7bbc2bc59c4b9a95efef8/357_194_3228_2583/500.jpg",
-      "published": "2026-04-12T17:04:53Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "stage"
-    },
-    {
-      "id": "uk-news/2026/apr/12/woman-19-killed-in-essex-dog-attack-named-as-jamie-lea-biscoe",
-      "headline": "Woman, 19, killed in Essex dog attack named as Jamie-Lea Biscoe",
-      "summary": "19-year-old woman killed in Essex dog attack; man arrested on suspicion of dangerous dog charge.",
-      "url": "https://www.theguardian.com/p/x4z2dx",
-      "thumbnail": "https://media.guim.co.uk/63450c8d1362376607682b5c6f3751677b580dc7/0_0_634_507/500.jpg",
-      "published": "2026-04-12T17:00:06Z",
-      "location": {
-        "name": "Leaden Roding",
-        "lat": 51.8347,
-        "lng": 0.2458
-      },
-      "category": "conflict",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "football/2026/apr/12/manchester-city-chelsea-pep-guardiola-arsenal",
-      "headline": "‘The sun. I’m not joking’: City improve in good weather, claims Pep Guardiola",
-      "summary": "Manchester City defeats Chelsea 3-0, closing gap to Arsenal; Guardiola credits good weather.",
-      "url": "https://www.theguardian.com/p/x4ndeb",
-      "thumbnail": "https://media.guim.co.uk/b3b0cc3fbbc386c0d4551e96f93efeec6b3ed4dd/133_0_3827_3062/500.jpg",
-      "published": "2026-04-12T19:48:28Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4808,
-        "lng": -2.2426
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "sport/2026/apr/12/donald-trump-marco-rubio-ufc-iran-war",
-      "headline": "‘This is not serious leadership’: Donald Trump and Marco Rubio watch UFC in Miami as Iran talks fail",
-      "summary": "Trump and Rubio attend UFC event in Miami as Iran peace talks fail.",
-      "url": "https://www.theguardian.com/p/x4zxa4",
-      "thumbnail": "https://media.guim.co.uk/1799bdf125fce8e7c86263ac268ce0d0fd8cf225/363_0_3103_2483/500.jpg",
-      "published": "2026-04-12T19:25:20Z",
-      "location": {
-        "name": "Miami",
-        "lat": 25.7617,
-        "lng": -80.1918
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "us-news/2026/apr/12/congress-eric-swalwell-tony-gonzales",
-      "headline": "Move to expel Democrat Eric Swalwell from Congress gains steam",
-      "summary": "Congress members call for expulsion of Democrat Eric Swalwell over misconduct allegations.",
-      "url": "https://www.theguardian.com/p/x4z2y7",
-      "thumbnail": "https://media.guim.co.uk/11a3dde272330bde50de4075ca94c63ea48c3eaf/250_0_2500_2000/500.jpg",
-      "published": "2026-04-12T19:17:54Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "stage/2026/apr/12/paddington-the-musical-triumphs-at-the-olivier-awards",
-      "headline": "No need for hard stares as Paddington: The Musical triumphs at Olivier awards",
-      "summary": "Paddington: The Musical wins seven Olivier awards at Royal Albert Hall ceremony.",
-      "url": "https://www.theguardian.com/p/x4ntjh",
-      "thumbnail": "https://media.guim.co.uk/5f3331fa1ba36805ad86f69facb5be5b02a9d8a4/604_323_1485_1188/500.jpg",
-      "published": "2026-04-12T19:02:08Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "stage"
-    },
-    {
-      "id": "stage/2026/apr/12/olivier-awards-2026-full-list-of-winners",
-      "headline": "Olivier awards 2026: full list of winners",
-      "summary": "Complete list of winners from 2026 Olivier awards at Royal Albert Hall.",
-      "url": "https://www.theguardian.com/p/x4nhdm",
-      "thumbnail": "https://media.guim.co.uk/c9bb6c7556578fb9637bed68202b90e2769f5acf/966_528_5390_4312/500.jpg",
-      "published": "2026-04-12T18:56:11Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "stage"
-    },
     {
       "id": "australia-news/live/2026/apr/13/australia-news-live-anthony-albanese-prime-minister-fuel-supply-diesel-oil-cost-of-living-inflation-budget-ntwnfb",
       "headline": "Australia news live: PM and Wong to visit Brunei and Malaysia to shore up fuel supply",
@@ -966,6 +758,102 @@
       "category": "economy",
       "significance": 2,
       "section": "food"
+    },
+    {
+      "id": "football/live/2026/apr/13/manchester-united-v-leeds-premier-league-live",
+      "headline": "Manchester United v Leeds United: Premier League – live ",
+      "summary": "Manchester United faces Leeds United in Premier League match at Old Trafford.",
+      "url": "https://www.theguardian.com/p/x4nmkn",
+      "thumbnail": "https://media.guim.co.uk/a45eff1412a3be782f28b692ea6d28edc3a88835/294_121_2926_2341/500.jpg",
+      "published": "2026-04-13T20:12:03Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4631,
+        "lng": -2.2913
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2025/dec/01/california-governor-candidates-democrats-republicans",
+      "headline": "California dreaming: who is running to succeed Gavin Newsom as governor?",
+      "summary": "150 candidates vie to succeed Gavin Newsom as California governor in 2026.",
+      "url": "https://www.theguardian.com/p/x3n723",
+      "thumbnail": "https://media.guim.co.uk/03b50be66e5ef4f44fd4d42f6d24fea393cff930/0_0_1500_1200/500.jpg",
+      "published": "2026-04-13T20:01:50Z",
+      "location": {
+        "name": "California",
+        "lat": 36.7783,
+        "lng": -119.4179
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "world/2026/apr/13/chagos-islands-treaty-mauritius-uk-bill-parliament",
+      "headline": "Chagos Islands treaty is now ‘impossible to agree at political level’, UK minister says",
+      "summary": "UK minister says Chagos Islands treaty with Mauritius now impossible due to US withdrawal.",
+      "url": "https://www.theguardian.com/p/x4z8ch",
+      "thumbnail": "https://media.guim.co.uk/7b806a078334831a728b74980d7572e7be3b98f7/20_0_1161_928/500.jpg",
+      "published": "2026-04-13T19:58:22Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "us-news/2026/apr/13/tylenol-acetaminophen-pregnancy-no-link-autism-latest-study",
+      "headline": "Taking Tylenol during pregnancy has no link to autism, new study finds",
+      "summary": "Danish study finds no link between pregnancy Tylenol use and autism diagnoses.",
+      "url": "https://www.theguardian.com/p/x4z8g3",
+      "thumbnail": "https://media.guim.co.uk/f71d588daedac9bf6c2f3a23d833701edb88864f/277_0_2766_2213/500.jpg",
+      "published": "2026-04-13T19:46:10Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "world/2026/apr/13/bahamas-us-man-wife-overboard",
+      "headline": "Bahamas police again question US man over disappearance of wife at sea",
+      "summary": "Bahamas police question US man again over wife's disappearance at sea.",
+      "url": "https://www.theguardian.com/p/x4z8x3",
+      "thumbnail": "https://media.guim.co.uk/785913c37688cb3662ade4d10e33d0af83ba8b58/187_0_1860_1488/500.jpg",
+      "published": "2026-04-13T19:36:46Z",
+      "location": {
+        "name": "Nassau",
+        "lat": 25.0343,
+        "lng": -77.3963
+      },
+      "category": "other",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "us-news/2026/apr/13/house-ethics-committee-eric-swalwell-investigation",
+      "headline": "US House committee to investigate Eric Swalwell over sexual assault allegations",
+      "summary": "House ethics committee investigates Eric Swalwell over sexual assault allegations.",
+      "url": "https://www.theguardian.com/p/x4z88b",
+      "thumbnail": "https://media.guim.co.uk/86f79dac6437283ca0124dea711c383713ae1dce/351_0_4297_3439/500.jpg",
+      "published": "2026-04-13T19:32:01Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
     }
   ]
 }
