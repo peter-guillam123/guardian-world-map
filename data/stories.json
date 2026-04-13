@@ -1,380 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-13T11:56:17.210Z",
-    "story_count": 70,
-    "oldest_story": "2026-04-12T12:59:08Z",
-    "newest_story": "2026-04-13T11:55:52Z",
+    "generated_at": "2026-04-13T16:40:53.782Z",
+    "story_count": 60,
+    "oldest_story": "2026-04-12T17:00:06Z",
+    "newest_story": "2026-04-13T16:38:27Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/live/2026/apr/12/chelsea-v-manchester-city-premier-league-live",
-      "headline": "Chelsea v Manchester City: Premier League – live",
-      "summary": "Chelsea faces Manchester City in Premier League match at Stamford Bridge.",
-      "url": "https://www.theguardian.com/p/x4nby4",
-      "thumbnail": "https://media.guim.co.uk/8637c57bbae3cb2a6c0798bee58fa4e5bc6e01a9/1500_342_4343_3474/500.jpg",
-      "published": "2026-04-12T14:03:17Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "football/live/2026/apr/12/premier-league-clockwatch-sunderland-tottenham-nottingham-forest-aston-villa-crystal-palace-newcastle",
-      "headline": "Sunderland v Tottenham, Nottingham Forest v Aston Villa and more: Premier League – live",
-      "summary": "Premier League Sunday fixtures include Sunderland v Tottenham and Forest v Aston Villa.",
-      "url": "https://www.theguardian.com/p/x4nbt9",
-      "thumbnail": "https://media.guim.co.uk/a0a6771d989ceb93c59ce8a9a7fe9ada126ab473/575_0_4423_3539/500.jpg",
-      "published": "2026-04-12T14:02:53Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "world/2026/apr/13/australia-should-set-immigration-targets-to-achieve-a-stable-temporary-population-report-says",
-      "headline": "Australia should set immigration targets to achieve a ‘stable temporary population’, report says",
-      "summary": "Report recommends Australia set immigration targets for stable temporary population.",
-      "url": "https://www.theguardian.com/p/x4ng9n",
-      "thumbnail": "https://media.guim.co.uk/e3600ea0d3776fed0704c062e58040ffe33dd01f/456_0_4560_3648/500.jpg",
-      "published": "2026-04-12T14:01:18Z",
-      "location": {
-        "name": "Australia",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "sport/live/2026/apr/12/essex-v-somerset-notts-v-glamorgan-and-more-county-cricket-day-three-live",
-      "headline": "Notts v Glamorgan, Somerset hammer Essex, and more: county cricket, day three – live",
-      "summary": "County Cricket day three: Somerset beats Essex; Notts v Glamorgan ongoing.",
-      "url": "https://www.theguardian.com/p/x4nbke",
-      "thumbnail": "https://media.guim.co.uk/882cfab1b637b32d994c67891c40ac89365acbfe/350_0_3500_2800/500.jpg",
-      "published": "2026-04-12T13:49:02Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "world/2026/apr/12/us-iran-21-hours-talks-war-vance-pakistan",
-      "headline": "Planeloads of negotiators and too little time: US and Iran’s 21 hours of talks",
-      "summary": "US-Iran peace talks in Pakistan end without deal after 21 hours of negotiations.",
-      "url": "https://www.theguardian.com/p/x4zx9q",
-      "thumbnail": "https://media.guim.co.uk/81ad6b6cf0692f0756b29bb8031774ec5358da5e/342_0_3409_2729/500.jpg",
-      "published": "2026-04-12T13:47:21Z",
-      "location": {
-        "name": "Islamabad",
-        "lat": 33.6844,
-        "lng": 73.0479
-      },
-      "category": "politics",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "us-news/2026/apr/12/mass-shooting-chick-fil-a-new-jersey",
-      "headline": "One dead and several injured after mass shooting at Chick-fil-A in New Jersey ",
-      "summary": "Mass shooting at Chick-fil-A in New Jersey leaves one dead, several injured.",
-      "url": "https://www.theguardian.com/p/x4zxke",
-      "thumbnail": "https://media.guim.co.uk/b267c09608a9c11547a790a8b5b97bcbf93e5800/246_0_2440_1952/500.jpg",
-      "published": "2026-04-12T13:47:12Z",
-      "location": {
-        "name": "Union Township",
-        "lat": 40.6936,
-        "lng": -74.2608
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "world/2026/apr/12/irish-police-clear-dublin-blockade-fuel-price-protesters-farmers-hauliers",
-      "headline": "Irish police clear Dublin blockade staged by fuel price protesters",
-      "summary": "Irish police clear Dublin blockade by farmers protesting fuel prices.",
-      "url": "https://www.theguardian.com/p/x4zx68",
-      "thumbnail": "https://media.guim.co.uk/e8daa9f5baddf31cb57b3f8ef5053949fd097bd3/409_0_5000_4000/500.jpg",
-      "published": "2026-04-12T13:46:26Z",
-      "location": {
-        "name": "Dublin",
-        "lat": 53.3498,
-        "lng": -6.2603
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "uk-news/2026/apr/12/man-charged-with-of-finbar-sullivan-in-london",
-      "headline": "Man charged with murder of Finbar Sullivan in Primrose Hill",
-      "summary": "Man charged with murder of 21-year-old stabbed in Primrose Hill, north London.",
-      "url": "https://www.theguardian.com/p/x4zxt9",
-      "thumbnail": "https://media.guim.co.uk/fbdddc0706b7dcbb455689edab9b3a7449818e42/128_0_2500_2000/500.jpg",
-      "published": "2026-04-12T13:14:17Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "conflict",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "business/2026/apr/12/collapse-us-iran-talks-energy-shock-oil-prices",
-      "headline": "Collapse of US-Iran talks heightens fears of prolonged energy shock",
-      "summary": "Collapse of US-Iran talks raises oil prices as tankers remain stranded in Gulf.",
-      "url": "https://www.theguardian.com/p/x4zx5d",
-      "thumbnail": "https://media.guim.co.uk/d6f4ebd4205f92b2c73b2daf92add650a87c9324/2292_0_3708_2966/500.jpg",
-      "published": "2026-04-12T13:07:45Z",
-      "location": {
-        "name": "Persian Gulf",
-        "lat": 27,
-        "lng": 52
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "business"
-    },
-    {
-      "id": "uk-news/2026/apr/12/new-forest-split-two-uk-government-protest",
-      "headline": "‘Part of our souls’: the fight to stop the New Forest being split in two ",
-      "summary": "Local residents protest government reorganisation splitting New Forest jurisdiction.",
-      "url": "https://www.theguardian.com/p/x4ndcy",
-      "thumbnail": "https://media.guim.co.uk/99f4574c4735950eb5e5cb343082bdb887648441/595_0_7715_6172/500.jpg",
-      "published": "2026-04-12T13:00:18Z",
-      "location": {
-        "name": "New Forest",
-        "lat": 50.8518,
-        "lng": -1.5863
-      },
-      "category": "politics",
-      "significance": 1,
-      "section": "uk-news"
-    },
-    {
-      "id": "stage/2026/apr/12/my-uncle-is-not-pablo-escobar-review-brixton-house-london-latinx-bank-sting",
-      "headline": "My Uncle Is Not Pablo Escobar review – colourful Latinx bank drama loses sting ",
-      "summary": "New play at Brixton House explores Latinx identity in Britain through undercover drama narrative.",
-      "url": "https://www.theguardian.com/p/x4zx28",
-      "thumbnail": "https://media.guim.co.uk/d20f883d27f9b8cc7e190cc5f9dd554a32d2a9d1/0_60_2790_2232/500.jpg",
-      "published": "2026-04-12T12:59:08Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "stage"
-    },
-    {
-      "id": "world/live/2026/apr/12/hungary-election-latest-results-viktor-orban-peter-magyar-fidesz-tisza-russia-europe-live-news-updates",
-      "headline": "Hungary election live: voters head to the polls in contest that could see end of Viktor Orbán’s rule",
-      "summary": "Hungary holds election that could end Viktor Orbán's rule, with challenger Péter Magyar leading in polls.",
-      "url": "https://www.theguardian.com/p/x4zvfn",
-      "thumbnail": "https://media.guim.co.uk/9394dbda814de1c753e945c768f2361c8f7a42ad/500_0_5000_4000/500.jpg",
-      "published": "2026-04-12T15:42:50Z",
-      "location": {
-        "name": "Budapest",
-        "lat": 47.4979,
-        "lng": 19.0402
-      },
-      "category": "politics",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "football/2026/apr/12/cf-montreal-fires-marco-donadel",
-      "headline": "CF Montreal fire head coach Marco Donadel after terrible start to season",
-      "summary": "CF Montreal fires head coach Marco Donadel after poor season start in MLS.",
-      "url": "https://www.theguardian.com/p/x4z224",
-      "thumbnail": "https://media.guim.co.uk/542149524d50dab3a279b55a1a9f59f5adc7fd73/767_0_3836_3069/500.jpg",
-      "published": "2026-04-12T15:42:04Z",
-      "location": {
-        "name": "Montreal",
-        "lat": 45.5017,
-        "lng": -73.5673
-      },
-      "category": "sport",
-      "significance": 1,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/apr/12/sunderland-tottenham-premier-league-match-report",
-      "headline": "Tottenham and De Zerbi sink deeper into mire after Sunderland’s stroke of luck",
-      "summary": "Sunderland defeats Tottenham 1-0 as De Zerbi's side struggles with relegation fears.",
-      "url": "https://www.theguardian.com/p/x4nvk6",
-      "thumbnail": "https://media.guim.co.uk/af4a21d34a71a8ababa54a39007b7557578044f2/274_0_3464_2773/500.jpg",
-      "published": "2026-04-12T15:16:39Z",
-      "location": {
-        "name": "Sunderland",
-        "lat": 54.9139,
-        "lng": -1.3852
-      },
-      "category": "sport",
-      "significance": 1,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/apr/12/nottingham-forest-aston-villa-premier-league-match-report",
-      "headline": "Aston Villa frustrated as Neco Williams’s strike bolsters Forest’s survival hopes",
-      "summary": "Nottingham Forest draws with Aston Villa to improve survival chances in Premier League.",
-      "url": "https://www.theguardian.com/p/x4nvk5",
-      "thumbnail": "https://media.guim.co.uk/a821c2c6c261b812cfa75987a2e827c96e189c54/735_643_3727_2982/500.jpg",
-      "published": "2026-04-12T15:10:14Z",
-      "location": {
-        "name": "Nottingham",
-        "lat": 52.9399,
-        "lng": -1.1339
-      },
-      "category": "sport",
-      "significance": 1,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/apr/12/crystal-palace-newcastle-premier-league-match-report",
-      "headline": "Jean-Philippe Mateta spot-on to give Crystal Palace comeback win against Newcastle",
-      "summary": "Crystal Palace defeats Newcastle 2-1 with late Mateta penalty at Selhurst Park.",
-      "url": "https://www.theguardian.com/p/x4nvk2",
-      "thumbnail": "https://media.guim.co.uk/37d84c3d120a6b52d29b7c16acc4f0ac828ec21c/869_372_2322_1858/500.jpg",
-      "published": "2026-04-12T15:08:26Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 1,
-      "section": "football"
-    },
-    {
-      "id": "business/2026/apr/12/gsk-promising-early-results-ovarian-womb-cancer-drug-trial",
-      "headline": "GSK reports promising early results in ovarian and womb cancer drug trial",
-      "summary": "GSK reports Mo-Rez drug reduced or eliminated tumours in 62% of ovarian cancer patients.",
-      "url": "https://www.theguardian.com/p/x4zvy5",
-      "thumbnail": "https://media.guim.co.uk/48df1740bffb592cee7dbd3c19afbd8719c3124e/278_0_4680_3744/500.jpg",
-      "published": "2026-04-12T15:02:28Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "lifeandstyle/2026/apr/12/kindness-strangers-ashes-heat-offered-shady-seats",
-      "headline": "The kindness of strangers: The Ashes heat was unbearable. Then a Barmy Army member offered his seats in the shade",
-      "summary": "Barmy Army member's kindness to Australian fan during Ashes cricket test in Adelaide.",
-      "url": "https://www.theguardian.com/p/x4mqdy",
-      "thumbnail": "https://media.guim.co.uk/6c46a28f802e90f25a73d525bda5fffe696e208f/171_0_2657_2126/500.jpg",
-      "published": "2026-04-12T15:00:21Z",
-      "location": {
-        "name": "Adelaide",
-        "lat": -34.9285,
-        "lng": 138.6007
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "lifeandstyle"
-    },
-    {
-      "id": "australia-news/2026/apr/13/economic-stress-scares-off-australian-homebuyers-as-auction-clearances-fall",
-      "headline": " Economic stress scares off Australian homebuyers as auction clearances fall ",
-      "summary": "Australian home auction clearances fall as economic stress deters buyers amid uncertainty.",
-      "url": "https://www.theguardian.com/p/x4naba",
-      "thumbnail": "https://media.guim.co.uk/d90a115e1b79a036ee42fd1cb33381ef0928e9cf/0_0_6605_5284/500.jpg",
-      "published": "2026-04-12T15:00:21Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "australia-news/2026/apr/13/cost-of-living-australia-food-prices-shortages-long-life-pantry-staples",
-      "headline": "Cost of living drives Australian shoppers to ‘pantry loading’, as ‘you can do so much with beans’",
-      "summary": "Australian shoppers stockpile pantry staples amid cost-of-living crisis and Middle East conflict fears.",
-      "url": "https://www.theguardian.com/p/x4ngad",
-      "thumbnail": "https://media.guim.co.uk/72400d73e3fd9284473f96a5096505f6a8d227b2/671_0_6713_5373/500.jpg",
-      "published": "2026-04-12T15:00:21Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "stage/2026/apr/12/joz-norris-review-soho-theatre-you-wait-time-passes",
-      "headline": "Joz Norris review – weird, unhinged, inadequate, and other pointers to artistic character",
-      "summary": "Joz Norris performs 'You Wait. Time Passes' exploring futile creative choices at Soho Theatre.",
-      "url": "https://www.theguardian.com/p/x4zx3d",
-      "thumbnail": "https://media.guim.co.uk/38c9441c1b8696e8fe22e9b7cfeb8ce891a35385/741_401_3144_2516/500.jpg",
-      "published": "2026-04-12T14:53:29Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "stage"
-    },
-    {
-      "id": "uk-news/2026/apr/12/richard-tice-reform-uk-quidnet-reit-tax-dividends",
-      "headline": "Richard Tice’s firm alleged to have broken law by failing to pay tax",
-      "summary": "Richard Tice's company allegedly failed to pay tens of thousands in tax on dividends.",
-      "url": "https://www.theguardian.com/p/x4zxvv",
-      "thumbnail": "https://media.guim.co.uk/44ef80d35795a298f4219db2131efa8028c6b38a/484_0_4840_3872/500.jpg",
-      "published": "2026-04-12T14:50:51Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "tv-and-radio/2026/apr/12/letter-dame-jenni-murray-obituary",
-      "headline": "Letter: Dame Jenni Murray obituary",
-      "summary": "Letter reflects on Dame Jenni Murray's kindness and radio instruction to writers.",
-      "url": "https://www.theguardian.com/p/x4z2xt",
-      "thumbnail": "https://media.guim.co.uk/378f5b5b62927e1768d07ac76073d947a9d64726/0_0_6141_4912/500.jpg",
-      "published": "2026-04-12T14:48:54Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "tv-and-radio"
-    },
     {
       "id": "uk-news/2026/apr/12/police-launch-appeal-after-woman-raped-by-several-men-outside-surrey-church",
       "headline": "Police launch appeal after woman raped by several men outside Surrey church",
@@ -1126,6 +758,214 @@
       "category": "tech",
       "significance": 2,
       "section": "technology"
+    },
+    {
+      "id": "world/2026/apr/13/why-peter-magyar-hungary-likely-become-normal-eu-member-state",
+      "headline": "Why Péter Magyar’s Hungary will likely become a ‘normal’ EU member state",
+      "summary": "Péter Magyar's election victory over Viktor Orbán promises Hungary's return to normal EU membership and democratic standards.",
+      "url": "https://www.theguardian.com/p/x4z78f",
+      "thumbnail": "https://media.guim.co.uk/f76bc7235bdea7d9cc86cc85cdbae807f2e6686a/137_0_3297_2637/500.jpg",
+      "published": "2026-04-13T16:38:27Z",
+      "location": {
+        "name": "Budapest",
+        "lat": 47.4979,
+        "lng": 19.0402
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "politics/2026/apr/13/keir-starmer-defends-plan-for-closer-alignment-with-eu-rules",
+      "headline": "Renewed ties with EU needed to boost UK security and economy, says Starmer",
+      "summary": "PM Starmer defends closer EU alignment as necessary for UK security and economy, planning rules harmonization.",
+      "url": "https://www.theguardian.com/p/x4z5z7",
+      "thumbnail": "https://media.guim.co.uk/9513582e4b3d0b3f1ccd1a6393bb86ea57acc93b/0_1007_2106_1685/500.jpg",
+      "published": "2026-04-13T16:31:52Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "education/2026/apr/13/targeted-donations-could-level-the-playing-field-for-universities-beyond-the-elite",
+      "headline": "Targeted donations could level the playing field for universities beyond the elite",
+      "summary": "Letters discuss targeted donations and philanthropy to help universities beyond elite institutions.",
+      "url": "https://www.theguardian.com/p/x4n7nz",
+      "thumbnail": "https://media.guim.co.uk/71cf6c2b34297918aa1c8799844fc4b7577e664e/916_36_2632_2105/500.jpg",
+      "published": "2026-04-13T16:23:30Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "education"
+    },
+    {
+      "id": "food/2026/apr/13/gone-from-shop-shelves-but-not-forgotten",
+      "headline": "Gone from shop shelves, but not forgotten ",
+      "summary": "Readers share memories of discontinued food products no longer available on shop shelves.",
+      "url": "https://www.theguardian.com/p/x4nd3y",
+      "thumbnail": "https://media.guim.co.uk/cf4048b8a98819dd97eb7e99e75ddc9871488e5c/294_0_2911_2329/500.jpg",
+      "published": "2026-04-13T16:23:21Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "food"
+    },
+    {
+      "id": "society/2026/apr/13/we-need-to-build-houses-people-can-afford",
+      "headline": "We need to build houses people can afford",
+      "summary": "Letters address housing crisis and need for affordable housing and sustained social housing investment.",
+      "url": "https://www.theguardian.com/p/x4nt9k",
+      "thumbnail": "https://media.guim.co.uk/cf6eabff23a8d08fb959929f53cae7679bd4829d/627_0_3759_3007/500.jpg",
+      "published": "2026-04-13T16:23:09Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 1,
+      "section": "society"
+    },
+    {
+      "id": "world/2026/apr/13/ideology-and-principles-clash-in-trumps-iran-war",
+      "headline": "Ideology and principles clash in Trump’s Iran war",
+      "summary": "Military analysts debate ideological differences between US and Iran driving six-week conflict.",
+      "url": "https://www.theguardian.com/p/x4mmgf",
+      "thumbnail": "https://media.guim.co.uk/90f46848fa297fc468c1bec8894d9b1937daeaa0/333_0_3333_2667/500.jpg",
+      "published": "2026-04-13T16:23:03Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "world/2026/apr/13/the-jd-vance-effect-on-hungarian-voters",
+      "headline": "The JD Vance effect on Hungarian voters",
+      "summary": "JD Vance's endorsement of Orbán backfires with Hungarian voters, similar to Obama's Brexit referendum effect.",
+      "url": "https://www.theguardian.com/p/x4z732",
+      "thumbnail": "https://media.guim.co.uk/cd55b13f45d79370bc111e776495a756dfb85eac/222_0_3383_2706/500.jpg",
+      "published": "2026-04-13T16:22:00Z",
+      "location": {
+        "name": "Budapest",
+        "lat": 47.4979,
+        "lng": 19.0402
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "commentisfree/2026/apr/13/king-charles-visit-donald-trump-questions-he-needs-to-ask-himself",
+      "headline": "King Charles is due to visit Donald Trump. Here are the questions he needs to ask himself first",
+      "summary": "King Charles faces diplomatic challenges as Trump portrays himself as Jesus while insulting world leaders.",
+      "url": "https://www.theguardian.com/p/x4z74t",
+      "thumbnail": "https://media.guim.co.uk/0315fddbc45be6fe1ebb3fbdd48270c8032cd2a9/693_0_5000_4000/500.jpg",
+      "published": "2026-04-13T16:13:22Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "commentisfree"
+    },
+    {
+      "id": "media/2026/apr/13/letters-george-bennett-obituary",
+      "headline": "Letters: George Bennett obituary",
+      "summary": "Letter recalls George Bennett's creative spirit demonstrated in 1956 spoof Ibsen exhibition at Oxford.",
+      "url": "https://www.theguardian.com/p/x4z7yj",
+      "thumbnail": "https://media.guim.co.uk/2e524ce86f857afbbe15c6f9ed41e950a61f3c78/29_179_1537_1229/500.jpg",
+      "published": "2026-04-13T16:08:13Z",
+      "location": {
+        "name": "Oxford",
+        "lat": 51.752,
+        "lng": -1.2577
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "media"
+    },
+    {
+      "id": "world/2026/apr/13/peru-presidential-election-voting",
+      "headline": "Peru extends voting for president into Monday after chaos at polling stations",
+      "summary": "Peru extends presidential voting to Monday after chaos from missing ballots and computer failures.",
+      "url": "https://www.theguardian.com/p/x4z7tk",
+      "thumbnail": "https://media.guim.co.uk/3bed50f7f5912e790278f52b34f08234f9d56995/563_0_5607_4488/500.jpg",
+      "published": "2026-04-13T16:05:16Z",
+      "location": {
+        "name": "Lima",
+        "lat": -12.0464,
+        "lng": -77.0428
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "us-news/2026/apr/13/trump-ai-image-christ-like-figure-backlash",
+      "headline": "Trump deletes post with AI image of himself as Christ-like figure after outcry",
+      "summary": "Trump deletes AI image depicting himself as Christ-like figure after backlash from Christian supporters.",
+      "url": "https://www.theguardian.com/p/x4z74q",
+      "thumbnail": "https://media.guim.co.uk/9ca245ee161e96616f8207eff5bd42995573996e/0_0_1500_1200/500.jpg",
+      "published": "2026-04-13T15:44:10Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "music/2026/apr/13/woman-stalking-fleetwood-mac-lindsey-buckingham-arrested",
+      "headline": "Woman arrested for allegedly stalking Fleetwood Mac’s Lindsey Buckingham",
+      "summary": "Woman arrested in Indiana for allegedly stalking Fleetwood Mac guitarist Lindsey Buckingham.",
+      "url": "https://www.theguardian.com/p/x4z7v4",
+      "thumbnail": "https://media.guim.co.uk/33805e22ce400a79eb73c83ddb72ca702a3e92a0/188_0_3001_2400/500.jpg",
+      "published": "2026-04-13T15:35:02Z",
+      "location": {
+        "name": "Fort Wayne",
+        "lat": 41.0753,
+        "lng": -85.1289
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "music"
+    },
+    {
+      "id": "food/2026/apr/13/cornichon-shortage-british-sandwich-shops-pret",
+      "headline": "Cornichon shortage leaves British sandwich shops in a pickle",
+      "summary": "Cornichon shortage forces Pret a Manger and other British sandwich shops to remove popular items.",
+      "url": "https://www.theguardian.com/p/x4z6c7",
+      "thumbnail": "https://media.guim.co.uk/092956a225368a44f594f3c6b043778c9a6f1f45/0_0_6139_4912/500.jpg",
+      "published": "2026-04-13T15:33:17Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "food"
     }
   ]
 }
