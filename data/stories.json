@@ -1,124 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-12T23:54:35.709Z",
-    "story_count": 74,
-    "oldest_story": "2026-04-12T05:15:08Z",
-    "newest_story": "2026-04-12T23:43:19Z",
+    "generated_at": "2026-04-13T07:27:55.978Z",
+    "story_count": 75,
+    "oldest_story": "2026-04-12T08:00:11Z",
+    "newest_story": "2026-04-13T07:26:37Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "world/live/2026/apr/12/middle-east-crisis-live-us-iran-pakistan-peace-talks-jd-vance-delegation-leaves-without-a-deal",
-      "headline": "Middle East crisis live: US and Iran fail to reach a deal after marathon peace talks in Pakistan",
-      "summary": "US-Iran peace talks in Pakistan fail after 21 hours of negotiations without deal.",
-      "url": "https://www.theguardian.com/p/x4nq2a",
-      "thumbnail": "https://media.guim.co.uk/75892b15a015dd184e2c0ff541ca1823b5c34c9a/364_0_4319_3457/500.jpg",
-      "published": "2026-04-12T06:06:08Z",
-      "location": {
-        "name": "Islamabad",
-        "lat": 33.6844,
-        "lng": 73.0479
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "travel/2026/apr/12/cantabria-spain-north-coast-art-sartre",
-      "headline": "Time-travelling in Cantabria: from the stone age to Sartre via the ‘prettiest town in Spain’",
-      "summary": "Cantabria offers prehistoric cave art, medieval villages and Atlantic beaches on Spain's coast.",
-      "url": "https://www.theguardian.com/p/x4thb6",
-      "thumbnail": "https://media.guim.co.uk/d312ff0f7a28485e4440faca96b3aae4cc6228cf/769_44_4756_3805/500.jpg",
-      "published": "2026-04-12T06:00:10Z",
-      "location": {
-        "name": "Cantabria",
-        "lat": 43.1828,
-        "lng": -3.7492
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "travel"
-    },
-    {
-      "id": "money/2026/apr/12/trapped-despair-sellers-as-iran-war-knocks-uk-housing-market",
-      "headline": "‘We’re trapped’: despair for sellers as Iran war knocks confidence in UK housing market",
-      "summary": "UK housing market weakens as Iran conflict and rising mortgage costs create seller despair.",
-      "url": "https://www.theguardian.com/p/x4ncpk",
-      "thumbnail": "https://media.guim.co.uk/117c267893b42353eb9cc9247e7432f3b1944398/681_0_6830_5464/500.jpg",
-      "published": "2026-04-12T06:00:09Z",
-      "location": {
-        "name": "Canterbury",
-        "lat": 51.2796,
-        "lng": 1.083
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "money"
-    },
-    {
-      "id": "world/2026/apr/12/hungarians-vote-in-hard-fought-election-that-could-oust-viktor-orban-after-16-years",
-      "headline": "Hungarians vote in hard-fought election that could oust Viktor Orbán after 16 years",
-      "summary": "Hungarians vote in election that could oust Viktor Orbán after 16 years in power.",
-      "url": "https://www.theguardian.com/p/x4nnhp",
-      "thumbnail": "https://media.guim.co.uk/d782bce907bfa7a84b40550c8c6340a982da938f/1106_981_5645_4516/500.jpg",
-      "published": "2026-04-12T06:00:09Z",
-      "location": {
-        "name": "Budapest",
-        "lat": 47.4979,
-        "lng": 19.0402
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "australia-news/2026/apr/12/one-nation-convicted-rapist-staff-pauline-hanson-liberal-ntwnfb",
-      "headline": "One Nation’s employment of convicted rapist makes it ‘very hard’ to take party seriously, Liberal senator says",
-      "summary": "Liberal senator criticizes One Nation's employment of convicted rapist Sean Black.",
-      "url": "https://www.theguardian.com/p/x4nqak",
-      "thumbnail": "https://media.guim.co.uk/00037ae459a2a860f42fa3d445e58030c96729d6/408_0_4076_3261/500.jpg",
-      "published": "2026-04-12T05:58:44Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "australia-news/2026/apr/12/penny-wong-calls-failed-peace-talks-between-us-and-iran-disappointing-and-urges-resumption",
-      "headline": "Penny Wong calls failed peace talks between US and Iran ‘disappointing’ and urges resumption ",
-      "summary": "Australia's Penny Wong urges US-Iran ceasefire continuation after failed peace talks.",
-      "url": "https://www.theguardian.com/p/x4nqyg",
-      "thumbnail": "https://media.guim.co.uk/8e0b05f851fafa43edbcef767fe07973b7fe2cc0/615_0_6150_4921/500.jpg",
-      "published": "2026-04-12T05:35:39Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "australia-news"
-    },
-    {
-      "id": "tv-and-radio/2026/apr/12/tv-tonight-alison-hammonds-weepy-talent-show-by-the-makers-of-the-piano",
-      "headline": "TV tonight: Alison Hammond’s weepy talent show by the makers of The Piano",
-      "summary": "Channel 4 launches emotional talent show 'Your Song' featuring Alison Hammond and Paloma Faith.",
-      "url": "https://www.theguardian.com/p/x4nbhn",
-      "thumbnail": "https://media.guim.co.uk/b915ac83aa786630500fb84d6f756d469289d614/1358_943_5042_4036/500.jpg",
-      "published": "2026-04-12T05:15:08Z",
-      "location": {
-        "name": "Liverpool",
-        "lat": 53.4084,
-        "lng": -2.9916
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "tv-and-radio"
-    },
     {
       "id": "football/live/2026/apr/12/premier-league-buildup-news-discussion-and-more-matchday-live",
       "headline": "Arsenal angst, De Zerbi targets Spurs revival, Union Berlin appoint first female head coach – matchday live ",
@@ -1190,6 +1078,134 @@
       "category": "conflict",
       "significance": 4,
       "section": "world"
+    },
+    {
+      "id": "business/live/2026/apr/13/oil-price-barrel-trump-naval-blockade-strait-of-hormuz-stock-markets-ftse-latest-news-updates",
+      "headline": "Oil price tops $100 a barrel again after Trump announces strait of Hormuz blockade – business live",
+      "summary": "Oil prices surge above $100/barrel after Trump announces blockade of Iran's Strait of Hormuz.",
+      "url": "https://www.theguardian.com/p/x4z5av",
+      "thumbnail": "https://media.guim.co.uk/ef02713e94af93a08ce8822b2cb2bc5d2d1b9a29/1672_749_3147_2518/500.jpg",
+      "published": "2026-04-13T07:26:37Z",
+      "location": {
+        "name": "Strait of Hormuz",
+        "lat": 26.55,
+        "lng": 56.2667
+      },
+      "category": "economy",
+      "significance": 4,
+      "section": "business"
+    },
+    {
+      "id": "world/live/2026/apr/13/iran-war-live-news-ceasefire-peace-talks-us-trump-strait-hormuz-blockade-middle-east-crisis-latest-updates",
+      "headline": "Middle East crisis live: US blockade of Iran’s ports to begin later today as Trump says he doesn’t care about further talks",
+      "summary": "US blockade of Iranian ports begins as Iran peace talks collapse; Middle East crisis escalates.",
+      "url": "https://www.theguardian.com/p/x4z3zq",
+      "thumbnail": "https://media.guim.co.uk/65292ab3cd263946d753f4603ac40027dbb9e0f7/860_481_3322_2657/500.jpg",
+      "published": "2026-04-13T07:22:57Z",
+      "location": {
+        "name": "Strait of Hormuz",
+        "lat": 26.55,
+        "lng": 56.2667
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "australia-news/2026/apr/13/afternoon-update-monday-ntwnfb",
+      "headline": "Afternoon Update: first female chief of army announced; rapist sacked from One Nation; and a show-stopping poodle",
+      "summary": "Lt Gen Susan Coyle announced as first female chief of Australian Army.",
+      "url": "https://www.theguardian.com/p/x4z3ph",
+      "thumbnail": "https://media.guim.co.uk/27ae433bf516f5f124081d7ccb5c50f09e14af47/338_0_3869_3094/500.jpg",
+      "published": "2026-04-13T07:18:23Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "business/2026/apr/13/oil-price-tops-100-dollars-barrel-us-blockade-strait-of-hormuz",
+      "headline": "Oil price tops $100 a barrel after US-Iran talks fail and Trump orders strait of Hormuz blockade",
+      "summary": "Oil prices jump above $100/barrel as Trump orders blockade of Strait of Hormuz.",
+      "url": "https://www.theguardian.com/p/x4z5cb",
+      "thumbnail": "https://media.guim.co.uk/43b152b61b5ee2693bac603e4d7faec0abb34dd6/436_0_4365_3492/500.jpg",
+      "published": "2026-04-13T07:16:39Z",
+      "location": {
+        "name": "Strait of Hormuz",
+        "lat": 26.55,
+        "lng": 56.2667
+      },
+      "category": "economy",
+      "significance": 4,
+      "section": "business"
+    },
+    {
+      "id": "sport/2026/apr/13/cardiff-stages-thriller-while-womens-six-nations-favourites-show-strength",
+      "headline": "Cardiff stages thriller while Women’s Six Nations favourites show strength",
+      "summary": "Scotland defeats Wales in thrilling Women's Six Nations match at Principality Stadium.",
+      "url": "https://www.theguardian.com/p/x4zx5q",
+      "thumbnail": "https://media.guim.co.uk/1eab7afe824a7a3a95e403f9b3cd9934b071c138/21_0_3250_2600/500.jpg",
+      "published": "2026-04-13T07:00:40Z",
+      "location": {
+        "name": "Cardiff",
+        "lat": 51.4816,
+        "lng": -3.1791
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "sport/2026/apr/13/i-am-maximus-red-rum-grand-national-record-horse-racing",
+      "headline": "History beckons for I Am Maximus as Red Rum’s record comes in to view",
+      "summary": "I Am Maximus approaches Red Rum's Grand National record with strong 2027 Aintree prospect.",
+      "url": "https://www.theguardian.com/p/x4nvkx",
+      "thumbnail": "https://media.guim.co.uk/418423d1ddf31d0b98e94889dadc0b92a09ef873/1276_114_5551_4440/500.jpg",
+      "published": "2026-04-13T07:00:40Z",
+      "location": {
+        "name": "Liverpool",
+        "lat": 53.4081,
+        "lng": -2.9613
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "football/2026/apr/13/premier-league-10-talking-points-from-the-weekends-action",
+      "headline": "Premier League: 10 talking points from the weekend’s action",
+      "summary": "Premier League weekend analysis: De Zerbi's tactical choices and Arsenal's fan impact highlighted.",
+      "url": "https://www.theguardian.com/p/x4zx3c",
+      "thumbnail": "https://media.guim.co.uk/e1cef42405f5bd86436cf99e43b646ad02ba89fc/0_0_5000_4000/500.jpg",
+      "published": "2026-04-13T07:00:40Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/apr/13/wsl-angel-city-kara-nortman-womens-football-business",
+      "headline": "Owners treat many WSL clubs as ‘an afterthought’, Angel City’s co-founder says",
+      "summary": "Angel City co-founder criticizes WSL club owners for treating women's soccer as afterthought.",
+      "url": "https://www.theguardian.com/p/x4nczb",
+      "thumbnail": "https://media.guim.co.uk/8464f00732d139e8ece32b1f3cc2601be7543530/599_345_4369_3495/500.jpg",
+      "published": "2026-04-13T07:00:39Z",
+      "location": {
+        "name": "Los Angeles",
+        "lat": 34.0522,
+        "lng": -118.2437
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
     }
   ]
 }
