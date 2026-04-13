@@ -1,348 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-13T07:27:55.978Z",
-    "story_count": 75,
-    "oldest_story": "2026-04-12T08:00:11Z",
-    "newest_story": "2026-04-13T07:26:37Z",
+    "generated_at": "2026-04-13T11:56:17.210Z",
+    "story_count": 70,
+    "oldest_story": "2026-04-12T12:59:08Z",
+    "newest_story": "2026-04-13T11:55:52Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/live/2026/apr/12/premier-league-buildup-news-discussion-and-more-matchday-live",
-      "headline": "Arsenal angst, De Zerbi targets Spurs revival, Union Berlin appoint first female head coach – matchday live ",
-      "summary": "Arsenal, Spurs and other clubs prepare for matchday action; Union Berlin appoints first female head coach.",
-      "url": "https://www.theguardian.com/p/x4n7et",
-      "thumbnail": "https://media.guim.co.uk/83082ffa8c2432264337b1df6075660e21d74c48/0_0_5000_4000/500.jpg",
-      "published": "2026-04-12T09:05:14Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "stage/2026/apr/12/romeo-juliet-liaisons-dangereuses-set-design-national-theatre-harold-pinter",
-      "headline": "‘Death star’ chandeliers and disco dancefloors: making this year’s most dazzling theatre shows",
-      "summary": "Technical wizards create dazzling theatre sets for London's stage productions ahead of Olivier awards.",
-      "url": "https://www.theguardian.com/p/x4kd29",
-      "thumbnail": "https://media.guim.co.uk/6e13a3a605490a6240610da0eacc9de76ca2880c/442_97_5001_4001/500.jpg",
-      "published": "2026-04-12T09:00:14Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "stage"
-    },
-    {
-      "id": "technology/2026/apr/12/too-powerful-for-the-public-inside-anthropics-bid-to-win-the-ai-publicity-war",
-      "headline": "‘Too powerful for the public’: Inside Anthropic’s bid to win the AI publicity war",
-      "summary": "Anthropic withholds powerful AI model Mythos citing cybersecurity concerns amid investment competition.",
-      "url": "https://www.theguardian.com/p/x4nhq4",
-      "thumbnail": "https://media.guim.co.uk/ba4542dd902ac8d6e942e6417a28bdb5305f5fad/457_0_5029_4024/500.jpg",
-      "published": "2026-04-12T09:00:13Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "tech",
-      "significance": 3,
-      "section": "technology"
-    },
-    {
-      "id": "us-news/2026/apr/12/98-degrees-nick-lachey-documentary-age-of-consent-manual",
-      "headline": "New documentary reveals boyband 98 Degrees’ had age-of-consent manual while touring in 90s",
-      "summary": "Documentary reveals 98 Degrees boyband received age-of-consent manual during 1990s tour.",
-      "url": "https://www.theguardian.com/p/x4nzgp",
-      "thumbnail": "https://media.guim.co.uk/918bf373fca3432b4c13455fcf502b503c980509/276_0_2410_1928/500.jpg",
-      "published": "2026-04-12T09:00:13Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "commentisfree/2026/apr/12/shoplifting-police-public-theresa-may-home-secretary",
-      "headline": "Shoplifting rife, police overwhelmed, an angry public – the trail leads back to one person: Theresa May",
-      "summary": "Former police chief blames Theresa May's Home Office decisions for current shoplifting and policing crisis.",
-      "url": "https://www.theguardian.com/p/x4n2vk",
-      "thumbnail": "https://media.guim.co.uk/9733e2344d0e453c453685a7c2fe6768afa4eccd/0_69_2153_1722/500.jpg",
-      "published": "2026-04-12T09:00:12Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "commentisfree"
-    },
-    {
-      "id": "world/2026/apr/12/russia-bucha-occupation-recruitment-bohdan-tymchenko-acts-of-sabotage-bucha",
-      "headline": "From brutal occupation to brazen recruitment: Russia turns Bucha residents against their own",
-      "summary": "Russia recruits Bucha residents through psychological manipulation, turning locals into saboteurs.",
-      "url": "https://www.theguardian.com/p/x4ytyv",
-      "thumbnail": "https://media.guim.co.uk/0d59fe3e75682e577cbb8b4cba1cf8ff24045547/262_0_929_743/500.jpg",
-      "published": "2026-04-12T08:00:11Z",
-      "location": {
-        "name": "Bucha",
-        "lat": 50.5488,
-        "lng": 30.2288
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "lifeandstyle/2026/apr/12/humble-mangelwurzel-chelsea-flower-show",
-      "headline": "Can’t beet it! Humble mangelwurzel to star at Chelsea flower show",
-      "summary": "Mangelwurzel vegetable features at Chelsea Flower Show after viral popularity among young gardeners.",
-      "url": "https://www.theguardian.com/p/x4n26c",
-      "thumbnail": "https://media.guim.co.uk/67d7f538db82708dcdc1ed4a187cf2225a541bbd/0_413_2186_1748/500.jpg",
-      "published": "2026-04-12T08:00:11Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "lifeandstyle"
-    },
-    {
-      "id": "money/2026/apr/12/remote-working-tribunal-cases-great-britain-fall-for-first-time-since-covid-hit",
-      "headline": "Remote working tribunal cases in Great Britain fall for first time since Covid",
-      "summary": "Remote working tribunal cases in Great Britain fall for first time since Covid pandemic.",
-      "url": "https://www.theguardian.com/p/x4kb9k",
-      "thumbnail": "https://media.guim.co.uk/5575656fb9feae3c828858852c5af1682893b75b/798_0_4560_3648/500.jpg",
-      "published": "2026-04-12T11:00:17Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "money"
-    },
-    {
-      "id": "lifeandstyle/2026/apr/12/lifestyle-blogger-devil-wears-prada-anna-wintour-assistant-pay-interns",
-      "headline": "Lifestyle blogger said to have inspired Devil Wears Prada character uses unpaid student interns",
-      "summary": "Lifestyle blogger and Devil Wears Prada inspiration Plum Sykes uses unpaid student interns.",
-      "url": "https://www.theguardian.com/p/x4mm4n",
-      "thumbnail": "https://media.guim.co.uk/c5840d5068efec103686bc08f0ab2918e26b78dc/485_535_1917_1532/500.jpg",
-      "published": "2026-04-12T11:00:17Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "lifeandstyle"
-    },
-    {
-      "id": "us-news/2026/apr/12/black-indigenous-ecovillage-community-reclaim-land",
-      "headline": "‘Reverse-gentrify the country’: how Black and Indigenous intentional communities are reclaiming land",
-      "summary": "Black and Indigenous communities across US reclaiming land through intentional ecovillages and communal spaces.",
-      "url": "https://www.theguardian.com/p/x4ndzk",
-      "thumbnail": "https://media.guim.co.uk/2f719d04f595ab7c0874680b421c25af3dca7b18/0_0_3000_2400/500.jpg",
-      "published": "2026-04-12T11:00:16Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/apr/12/trump-budget-healthcare-military",
-      "headline": "Trump’s new budget ignores dying Americans and gives away record sums to the US military",
-      "summary": "Trump budget proposes 12% health cuts while increasing military spending by 42% to $1.5 trillion.",
-      "url": "https://www.theguardian.com/p/x4n8c8",
-      "thumbnail": "https://media.guim.co.uk/a678b29bd3a608e36c88e6f60ec137012aec36c5/0_0_3000_2400/500.jpg",
-      "published": "2026-04-12T11:00:16Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 4,
-      "section": "us-news"
-    },
-    {
-      "id": "commentisfree/2026/apr/12/anti-ice-protests-trump",
-      "headline": "The anti-ICE resistance is working",
-      "summary": "Mass anti-ICE resistance movement slows Trump administration's immigration enforcement operations.",
-      "url": "https://www.theguardian.com/p/x4n9d6",
-      "thumbnail": "https://media.guim.co.uk/fa426d41a9b77b91d13ebd778448dad39b55d61e/648_0_3252_2601/500.jpg",
-      "published": "2026-04-12T11:00:16Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "commentisfree"
-    },
-    {
-      "id": "lifeandstyle/2026/apr/12/from-andrew-tate-to-mountbatten-windsor-the-council-of-andrews-reclaiming-their-name",
-      "headline": "From Andrew Tate to Mountbatten-Windsor, my first name has been dragged through the mud. Can a global community of ‘Drews’ help change that?",
-      "summary": "Home Office announces closure of 11 asylum hotels as Labour fulfills pledge to end hotel accommodation.",
-      "url": "https://www.theguardian.com/p/x4jctx",
-      "thumbnail": "https://media.guim.co.uk/cdfcaf53d82e38b4374c54a117bff9124d48d643/0_1274_4436_3549/500.jpg",
-      "published": "2026-04-12T11:00:16Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "lifeandstyle"
-    },
-    {
-      "id": "uk-news/2026/apr/12/asylum-seeker-hotels-closures-home-office",
-      "headline": "Home Office to announce closure of 11 asylum hotels in next week",
-      "summary": "University researcher and property manager find common ground on Brexit disaster in dining conversation.",
-      "url": "https://www.theguardian.com/p/x4zvt2",
-      "thumbnail": "https://media.guim.co.uk/8b57ee2e2387a58b37b0df3f6f62a56927b646b0/484_0_4840_3872/500.jpg",
-      "published": "2026-04-12T11:00:16Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 1,
-      "section": "uk-news"
-    },
-    {
-      "id": "lifeandstyle/2026/apr/12/dining-across-the-divide-graham-katherine-brexit-disaster-who-was-responsible",
-      "headline": "Dining across the divide: ‘We both agreed Brexit was a disaster - but disagreed about who was responsible for that’",
-      "summary": "Ex-police commissioner credits taskforce for breaking Gilgo Beach serial killer case against Rex Heuermann.",
-      "url": "https://www.theguardian.com/p/x4kgzj",
-      "thumbnail": "https://media.guim.co.uk/ea3d64b84546488fcda5caf7829e0165c36a3e2d/546_367_2876_2301/500.jpg",
-      "published": "2026-04-12T11:00:15Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "lifeandstyle"
-    },
-    {
-      "id": "us-news/2026/apr/12/police-taskforce-gilgo-beach-serial-killer",
-      "headline": "Ex-police commissioner on how his taskforce ‘broke the case’ and found the Gilgo Beach serial killer",
-      "summary": "College graduates face worst entry-level job market since pandemic with 42.5% underemployment rate.",
-      "url": "https://www.theguardian.com/p/x4nt6h",
-      "thumbnail": "https://media.guim.co.uk/def5b9e7e92d444e26e047e7d0de4ca8060d6755/250_0_2500_2000/500.jpg",
-      "published": "2026-04-12T11:00:15Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/apr/12/college-graduates-job-market-ai",
-      "headline": "‘I feel helpless’: college graduates can’t find entry-level roles in shrinking market amid rise of AI",
-      "summary": "Iran war drives biggest oil shock in decades as IMF and World Bank chiefs meet amid inflation concerns.",
-      "url": "https://www.theguardian.com/p/x4n7nv",
-      "thumbnail": "https://media.guim.co.uk/3410057707a82216d552f6cb10821daa4de6cd96/573_431_1956_1565/500.jpg",
-      "published": "2026-04-12T11:00:15Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "economy",
-      "significance": 4,
-      "section": "us-news"
-    },
-    {
-      "id": "business/2026/apr/12/iran-war-oil-energy-prices-inflation-washington-world-bank-imf",
-      "headline": "Task for the week: limit the fallout from biggest oil shock in decades",
-      "summary": "Regents Opera stages Strauss's Salome with gangsterish direction by Mark Ravenhill at York Hall.",
-      "url": "https://www.theguardian.com/p/x4ngqd",
-      "thumbnail": "https://media.guim.co.uk/3d436205fc90c73ade606ec4010f8673940cd9d2/137_0_4288_3429/500.jpg",
-      "published": "2026-04-12T10:37:05Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "business"
-    },
-    {
-      "id": "music/2026/apr/12/salome-review-york-hall-london-regents-opera-mark-ravenhill",
-      "headline": "Salome review – righteous fury and dynamic clarity give Regents Opera its head",
-      "summary": "King Charles III to offer tough love speech to US Congress during state visit amid Trump tensions.",
-      "url": "https://www.theguardian.com/p/x4zvyh",
-      "thumbnail": "https://media.guim.co.uk/71d584b2af9bf725d63006ce6cde31e1cfb59840/253_0_1706_1365/500.jpg",
-      "published": "2026-04-12T10:27:07Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "music"
-    },
-    {
-      "id": "world/2026/apr/12/wes-streeting-attacks-trump-outrageous-iran-war-rhetoric",
-      "headline": "Wes Streeting attacks Trump’s ‘outrageous’ Iran war rhetoric",
-      "summary": "UK health secretary criticizes Trump's Iran war rhetoric amid failed US-Iran peace talks.",
-      "url": "https://www.theguardian.com/p/x4zvm4",
-      "thumbnail": "https://media.guim.co.uk/19ef002702ae73d7100273e7e58e27232d1e866f/206_23_1421_1137/500.jpg",
-      "published": "2026-04-12T10:09:33Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "sport/live/2026/apr/12/golf-the-masters-2026-final-round-live",
-      "headline": "The Masters 2026: final round – live",
-      "summary": "Masters 2026 final round underway at Augusta National with McIlroy and Scheffler competing.",
-      "url": "https://www.theguardian.com/p/x4nbgt",
-      "thumbnail": "https://media.guim.co.uk/83519996e2bca451bffda791cea200422e19cc3a/0_0_6268_5015/500.jpg",
-      "published": "2026-04-12T09:59:29Z",
-      "location": {
-        "name": "Augusta",
-        "lat": 33.5007,
-        "lng": -82.0105
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
     {
       "id": "football/live/2026/apr/12/chelsea-v-manchester-city-premier-league-live",
       "headline": "Chelsea v Manchester City: Premier League – live",
@@ -1206,6 +870,262 @@
       "category": "sport",
       "significance": 2,
       "section": "football"
+    },
+    {
+      "id": "us-news/live/2026/apr/13/donald-trump-eric-swalwell-congress-iran-pope-politics-live-latest-news-updates",
+      "headline": "Calls grow for Eric Swalwell to resign from House amid sexual assault allegations – US politics live",
+      "summary": "California Democrat Eric Swalwell suspended governor campaign amid sexual assault allegations.",
+      "url": "https://www.theguardian.com/p/x4z6vx",
+      "thumbnail": "https://media.guim.co.uk/677b64edc983a6a6a269e2e2ac9194b69828a2e6/269_0_2500_2000/500.jpg",
+      "published": "2026-04-13T11:55:52Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "uk-news/live/2026/apr/13/southport-attack-public-inquiry-findings-latest-news-updates",
+      "headline": "Southport attack: ‘catastrophic’ failures by multiple agencies contributed to atrocity, public inquiry finds – live updates",
+      "summary": "Public inquiry finds catastrophic agency failures contributed to 2024 Southport attack that killed three girls.",
+      "url": "https://www.theguardian.com/p/x4z675",
+      "thumbnail": "https://media.guim.co.uk/63769c31e20c797a37a053493156edf23cc4cfe6/0_0_5906_4724/500.jpg",
+      "published": "2026-04-13T11:55:08Z",
+      "location": {
+        "name": "Southport",
+        "lat": 53.5833,
+        "lng": -3.0167
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "uk-news"
+    },
+    {
+      "id": "politics/live/2026/apr/13/iran-war-keir-starmer-brexit-trump-strait-hormuz-oil-fuel-southport-latest-news-updates",
+      "headline": "Nigel Farage defends Richard Tice over allegations his firm broke law by failing to pay tax – UK politics live",
+      "summary": "Nigel Farage defends Reform UK deputy Richard Tice over tax payment allegations.",
+      "url": "https://www.theguardian.com/p/x4z5hd",
+      "thumbnail": "https://media.guim.co.uk/1b8953d976c5eb593676de4baa8fb874fa0b6fea/1082_0_5428_4342/500.jpg",
+      "published": "2026-04-13T11:54:04Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "football/2026/apr/13/serie-a-napoli-title-race-mctominay-conte-inter",
+      "headline": "Napoli’s title defence looks done – without McTominay it would have ended sooner",
+      "summary": "Inter recovers from two goals down to beat Como 4-3, extending Serie A title advantage over Napoli.",
+      "url": "https://www.theguardian.com/p/x4z5p9",
+      "thumbnail": "https://media.guim.co.uk/885467f0a6c8367014e5f803b9f9904d622557b2/1372_0_6880_5504/500.jpg",
+      "published": "2026-04-13T11:52:22Z",
+      "location": {
+        "name": "Milan",
+        "lat": 45.4642,
+        "lng": 9.19
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "sport/live/2026/apr/13/surrey-v-leicestershire-essex-v-somerset-and-more-county-cricket-day-four-live",
+      "headline": "Surrey v Leicestershire, Notts v Glamorgan, and more: county cricket, day four – live",
+      "summary": "County cricket day four updates from multiple grounds across England.",
+      "url": "https://www.theguardian.com/p/x4nmmj",
+      "thumbnail": "https://media.guim.co.uk/aa2a47482ede430c845170c6a1a5a394fff08872/353_0_2250_1800/500.jpg",
+      "published": "2026-04-13T11:50:26Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 1,
+      "section": "sport"
+    },
+    {
+      "id": "world/live/2026/apr/13/hungary-peter-magyar-viktor-orban-trump-russia-ukraine-iran-eu-europe-latest-news-updates",
+      "headline": "Magyar says his government will work for a ‘free, European’ Hungary in break with Orbán era – Europe live",
+      "summary": "Péter Magyar's Tisza party wins Hungarian election, ending Viktor Orbán's era.",
+      "url": "https://www.theguardian.com/p/x4z5jy",
+      "thumbnail": "https://media.guim.co.uk/9b214894ae8ce8db7a17b7d4ef8a1fb1e3de5172/80_0_4136_3309/500.jpg",
+      "published": "2026-04-13T11:48:05Z",
+      "location": {
+        "name": "Budapest",
+        "lat": 47.4979,
+        "lng": 19.0402
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "music/2026/apr/13/dido-and-aeneas-review-brecon-cathedral-mid-wales-opera",
+      "headline": "Dido and Aeneas review – young Welsh talent shines bright in Purcell ",
+      "summary": "Mid Wales Opera stages Purcell's Dido and Aeneas with rising Welsh singing talent.",
+      "url": "https://www.theguardian.com/p/x4zx36",
+      "thumbnail": "https://media.guim.co.uk/8bab0188de2c9830a849683acc3d35a10f5cca8e/117_0_879_703/500.jpg",
+      "published": "2026-04-13T11:43:15Z",
+      "location": {
+        "name": "Brecon",
+        "lat": 52.0997,
+        "lng": -3.386
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "music"
+    },
+    {
+      "id": "world/2026/apr/13/strait-of-hormuz-blockade-what-why-explained-navy-trump-iran",
+      "headline": "Why is the US threatening to block Iranian ports and how would it work?",
+      "summary": "US threatens to blockade all Iranian ports in Strait of Hormuz after failed peace talks.",
+      "url": "https://www.theguardian.com/p/x4z4vf",
+      "thumbnail": "https://media.guim.co.uk/ef02713e94af93a08ce8822b2cb2bc5d2d1b9a29/1342_418_3559_2849/500.jpg",
+      "published": "2026-04-13T11:38:31Z",
+      "location": {
+        "name": "Strait of Hormuz",
+        "lat": 26.5667,
+        "lng": 56.25
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "uk-news/2026/apr/13/asylum-seekers-removed-uk-waist-leg-restraints-one-in-one-out-france",
+      "headline": "Asylum seekers removed from UK in waist and leg restraints, report finds",
+      "summary": "Asylum seekers deported to France under 'one in, one out' scheme restrained during removal.",
+      "url": "https://www.theguardian.com/p/x4z66z",
+      "thumbnail": "https://media.guim.co.uk/8856c9942c673266266a38d1adec3b60fb6af5f8/750_0_3750_3000/500.jpg",
+      "published": "2026-04-13T11:33:01Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "us-news/2026/apr/13/first-thing-trump-us-blockade-strait-of-hormuz-iran-peace-talks-fail",
+      "headline": "First Thing: Trump says US will blockade strait of Hormuz after Iran peace talks fail",
+      "summary": "Trump announces US blockade of Strait of Hormuz after Iran peace negotiations fail.",
+      "url": "https://www.theguardian.com/p/x4z5kg",
+      "thumbnail": "https://media.guim.co.uk/9199806004b36625827a4852e67c7321236be624/675_0_6748_5399/500.jpg",
+      "published": "2026-04-13T11:28:00Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "us-news"
+    },
+    {
+      "id": "culture/2026/apr/13/ken-loach-made-i-daniel-blake-film-food-banks",
+      "headline": "Ken Loach revisits I, Daniel Blake: ‘We were asking if food banks are tolerable. Now they’re an institution’",
+      "summary": "Ken Loach discusses I, Daniel Blake and evolution of food banks as social institution.",
+      "url": "https://www.theguardian.com/p/x4tjx6",
+      "thumbnail": "https://media.guim.co.uk/782c01452eb3b0102ead9bb782d360daa806058d/287_0_2920_2336/500.jpg",
+      "published": "2026-04-13T11:08:45Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "film"
+    },
+    {
+      "id": "food/2026/apr/13/raspberry-danish-latte-viral-coffee-drink",
+      "headline": "The US small town coffee shop that created a viral drink: ‘I still don’t understand how it went so far’",
+      "summary": "Little Joy Coffee's viral raspberry danish latte recipe goes global after free release.",
+      "url": "https://www.theguardian.com/p/x4n2nj",
+      "thumbnail": "https://media.guim.co.uk/ea85aeac503d62096af1d30c382ef4e8601eddf6/5_0_2235_1788/500.jpg",
+      "published": "2026-04-13T11:00:39Z",
+      "location": {
+        "name": "Minneapolis",
+        "lat": 44.9778,
+        "lng": -93.265
+      },
+      "category": "economy",
+      "significance": 1,
+      "section": "food"
+    },
+    {
+      "id": "football/2026/apr/13/mls-weekend-wrap-cf-montreal-lafc-timbers-saputo",
+      "headline": "As Bologna thrive, sister club CF Montreal have been left in the dust",
+      "summary": "CF Montreal struggles while sister club Bologna thrives; MLS weekend wrap.",
+      "url": "https://www.theguardian.com/p/x4z4ae",
+      "thumbnail": "https://media.guim.co.uk/4571a33e21a4213a7770f704d5f1a6b1af81ea47/333_0_3152_2522/500.jpg",
+      "published": "2026-04-13T11:00:39Z",
+      "location": {
+        "name": "Montreal",
+        "lat": 45.5017,
+        "lng": -73.5673
+      },
+      "category": "sport",
+      "significance": 1,
+      "section": "football"
+    },
+    {
+      "id": "environment/2026/apr/13/lake-erie-water-research",
+      "headline": "Troubled Lake Erie is being transformed into a vast water research facility",
+      "summary": "Lake Erie transformed into world's largest digitally connected freshwater research facility with sensor buoys.",
+      "url": "https://www.theguardian.com/p/x4nd9b",
+      "thumbnail": "https://media.guim.co.uk/f0d8a06ac12369cfde3d86e5930390be72a891d2/169_0_4462_3571/500.jpg",
+      "published": "2026-04-13T11:00:38Z",
+      "location": {
+        "name": "Lake Erie",
+        "lat": 41.9536,
+        "lng": -81.3555
+      },
+      "category": "climate",
+      "significance": 3,
+      "section": "environment"
+    },
+    {
+      "id": "uk-news/2026/apr/13/southport-attack-blamed-on-catastrophic-failures-by-agencies-and-killers-irresponsible-parents",
+      "headline": "Southport attack blamed on ‘catastrophic’ failures by agencies and killer’s ‘irresponsible’ parents",
+      "summary": "Inquiry blames 'catastrophic' agency failures and killer's parents for Southport attack that claimed multiple lives.",
+      "url": "https://www.theguardian.com/p/x4z625",
+      "thumbnail": "https://media.guim.co.uk/14cc4079230df539a5facaf310e0c589c07fbe13/208_0_2584_2067/500.jpg",
+      "published": "2026-04-13T10:59:59Z",
+      "location": {
+        "name": "Southport",
+        "lat": 53.5873,
+        "lng": -3.0268
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "uk-news"
+    },
+    {
+      "id": "technology/2026/apr/13/booking-com-customers-hack-exposed-data",
+      "headline": "Booking.com warns customers of hack that exposed their data",
+      "summary": "Booking.com confirms data breach exposing undisclosed number of customers' names and reservation details.",
+      "url": "https://www.theguardian.com/p/x4z6x3",
+      "thumbnail": "https://media.guim.co.uk/055256d94598e9b8b7d3a74d59c657173cf652b1/0_0_3560_2847/500.jpg",
+      "published": "2026-04-13T10:57:16Z",
+      "location": {
+        "name": "Amsterdam",
+        "lat": 52.3676,
+        "lng": 4.9041
+      },
+      "category": "tech",
+      "significance": 2,
+      "section": "technology"
     }
   ]
 }
