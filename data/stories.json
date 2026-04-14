@@ -1,92 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-13T22:32:52.062Z",
-    "story_count": 54,
-    "oldest_story": "2026-04-12T23:00:45Z",
-    "newest_story": "2026-04-13T22:29:35Z",
+    "generated_at": "2026-04-14T06:08:37.078Z",
+    "story_count": 64,
+    "oldest_story": "2026-04-13T07:00:39Z",
+    "newest_story": "2026-04-14T06:08:08Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "sport/blog/2026/apr/13/afl-gather-round-south-australia-adelaide-weather-rain",
-      "headline": "Rain puts dampener on Gather Round despite AFL’s hype and schmoozing",
-      "summary": "AFL's Gather Round in Adelaide affected by rain despite strong industry participation and political backing.",
-      "url": "https://www.theguardian.com/p/x4ng2v",
-      "thumbnail": "https://media.guim.co.uk/898c59e14c6050fad9d3fa96a6ba0dad4464987b/155_0_3230_2584/500.jpg",
-      "published": "2026-04-12T23:43:19Z",
-      "location": {
-        "name": "Adelaide",
-        "lat": -34.9285,
-        "lng": 138.6007
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "sport/2026/apr/13/rory-mcilroy-ignores-jack-nicklauss-advice-and-tames-augustas-terrible-12th",
-      "headline": "Rory McIlroy ignores Jack Nicklaus’s advice and tames Augusta’s terrible 12th",
-      "summary": "Rory McIlroy wins Masters at Augusta National, conquering hole 12 to defeat rivals including Scottie Scheffler.",
-      "url": "https://www.theguardian.com/p/x4nvje",
-      "thumbnail": "https://media.guim.co.uk/2d8289ff2e04e72b7548bd848642150a8ab159f1/318_0_3251_2601/500.jpg",
-      "published": "2026-04-12T23:24:21Z",
-      "location": {
-        "name": "Augusta",
-        "lat": 33.5036,
-        "lng": -82.0105
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "sport"
-    },
-    {
-      "id": "sport/2026/apr/13/rory-mcilroy-wins-masters-again-augusta-national-golf",
-      "headline": "Rory McIlroy holds nerve to be the Master again as rivals succumb to tension",
-      "summary": "Rory McIlroy retains Masters title, joining Nicklaus, Faldo and Woods as repeat champions at Augusta.",
-      "url": "https://www.theguardian.com/p/x4nvj9",
-      "thumbnail": "https://media.guim.co.uk/99c1eae0fb0da67cd7d3051008c6224cc9f1db50/240_0_3521_2816/500.jpg",
-      "published": "2026-04-12T23:10:29Z",
-      "location": {
-        "name": "Augusta",
-        "lat": 33.5036,
-        "lng": -82.0105
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "sport"
-    },
-    {
-      "id": "society/2026/apr/13/unpaid-carers-allowance-dwp-benefit-repayment-demands",
-      "headline": "Thousands of unpaid carers to face DWP repayment demands during overhaul",
-      "summary": "DWP to continue carer's allowance repayment demands during audit of 200,000+ cases despite welfare review.",
-      "url": "https://www.theguardian.com/p/x4nt42",
-      "thumbnail": "https://media.guim.co.uk/6b9c392d2d31f1487100ecba8577d7103f6f9179/1283_815_2467_1974/500.jpg",
-      "published": "2026-04-12T23:01:29Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "society"
-    },
-    {
-      "id": "world/2026/apr/13/ukraine-war-briefing-easter-truce-expires-as-both-sides-accuse-the-other-of-violations",
-      "headline": "Ukraine war briefing: Easter truce expires as both sides accuse the other of violations",
-      "summary": "Ukraine and Russia accuse each other of thousands of violations as 32-hour Orthodox Easter ceasefire expires.",
-      "url": "https://www.theguardian.com/p/x4z3jq",
-      "thumbnail": "https://media.guim.co.uk/abd86793d3533a7431c4940385b8325a1083d914/609_0_6142_4912/500.jpg",
-      "published": "2026-04-12T23:00:45Z",
-      "location": {
-        "name": "Kyiv",
-        "lat": 50.4501,
-        "lng": 30.5234
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
     {
       "id": "business/live/2026/apr/13/oil-price-barrel-trump-naval-blockade-strait-of-hormuz-stock-markets-ftse-latest-news-updates",
       "headline": "Oil price tops $100 a barrel again after Trump announces strait of Hormuz blockade – business live",
@@ -870,6 +790,246 @@
       "category": "sport",
       "significance": 2,
       "section": "sport"
+    },
+    {
+      "id": "world/live/2026/apr/14/middle-east-crisis-live-hezbollah-urges-lebanon-to-pull-out-of-talks-with-israel-blockade-of-strait-of-hormuz-begins",
+      "headline": "Middle East crisis live: Hezbollah urges Lebanon to pull out of talks with Israel; blockade of strait of Hormuz begins",
+      "summary": "US blockade of Iranian ports begins; Hezbollah opposes Lebanon-Israel talks as Middle East conflict escalates.",
+      "url": "https://www.theguardian.com/p/x4z9cz",
+      "thumbnail": "https://media.guim.co.uk/b43ed36783c6c7c39c310e2cad88bd58dcf4d662/437_0_4368_3496/500.jpg",
+      "published": "2026-04-14T06:08:08Z",
+      "location": {
+        "name": "Tehran",
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "film/2026/apr/14/searching-for-satyrus-review-lepidopterist-butterfly-rena-effendi",
+      "headline": "Searching for Satyrus review – on the hunt for an elusive butterfly and the lepidopterist who named them",
+      "summary": "Documentary 'Searching for Satyrus' follows photojournalist Rena Effendi's quest to find butterfly species named after her father.",
+      "url": "https://www.theguardian.com/p/x4z6vd",
+      "thumbnail": "https://media.guim.co.uk/af315416db920879b4f1891781cf62ed9becc36d/672_0_2255_1806/500.jpg",
+      "published": "2026-04-14T06:00:02Z",
+      "location": {
+        "name": "Baku",
+        "lat": 40.3856,
+        "lng": 49.8671
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "film"
+    },
+    {
+      "id": "money/2026/apr/14/british-gas-bill-flat-debt-collector-never-owned",
+      "headline": "British Gas sent me a £571 bill for a flat I’ve never owned or lived in",
+      "summary": "British Gas customer wrongly billed £571 for flat she never owned; threatens debt collection action.",
+      "url": "https://www.theguardian.com/p/x4n75t",
+      "thumbnail": "https://media.guim.co.uk/f24715d47aa78d40ae44b0ef8f880c43ee1a0cf6/132_158_3772_3018/500.jpg",
+      "published": "2026-04-14T06:00:02Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 1,
+      "section": "money"
+    },
+    {
+      "id": "travel/2026/apr/14/stylish-b-and-b-chilterns-wind-in-the-willows-oxfordshire-berkshire",
+      "headline": "The perfect base for a Wind in the Willows weekend: a stylish B&B in the Chilterns",
+      "summary": "Travel feature explores Chilterns B&B as base for 'Wind in the Willows'-inspired weekend in Oxfordshire.",
+      "url": "https://www.theguardian.com/p/x4d5hc",
+      "thumbnail": "https://media.guim.co.uk/9c85d1a032847ee7afcf74fc6ea83eb24707863b/928_0_4640_3712/500.jpg",
+      "published": "2026-04-14T06:00:01Z",
+      "location": {
+        "name": "Oxford",
+        "lat": 51.752,
+        "lng": -1.2577
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "travel"
+    },
+    {
+      "id": "australia-news/2026/apr/14/sydney-wakeley-church-stabbing-video-southport-attack-axel-rudakubana-ntwnfb",
+      "headline": "Footage of Sydney church stabbing may have ‘fortified’ teen Southport attacker, report finds ",
+      "summary": "UK attacker Axel Rudakubana viewed Sydney church stabbing footage on X before Southport attack, inquiry finds.",
+      "url": "https://www.theguardian.com/p/x4za5e",
+      "thumbnail": "https://media.guim.co.uk/3a59abc558a7184c789b1ad6ea51b1ffd62e8ef0/380_0_3782_3027/500.jpg",
+      "published": "2026-04-14T05:55:30Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "australia-news"
+    },
+    {
+      "id": "world/2026/apr/14/tuesday-briefing-what-needs-to-be-done-to-tackle-child-poverty-in-the-uk",
+      "headline": "Tuesday briefing: What needs to be done to tackle child poverty in the UK",
+      "summary": "Over one-fifth of UK's austerity generation children live in poverty; welfare state damage assessed.",
+      "url": "https://www.theguardian.com/p/x4z5zg",
+      "thumbnail": "https://media.guim.co.uk/ec2e6f5d016df9d30f6f3e0cc9bb190f0ee30a73/0_21_1890_1512/500.jpg",
+      "published": "2026-04-14T05:45:48Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "australia-news/2026/apr/14/palestinian-groups-legal-action-australian-arms-weapons-exports-israel-ntwnfb",
+      "headline": "Palestinian groups launch legal bid to shed light on Australian arms export permits to Israel",
+      "summary": "Palestinian groups seek legal disclosure of Australian military export permits to Israel.",
+      "url": "https://www.theguardian.com/p/x4nqga",
+      "thumbnail": "https://media.guim.co.uk/6d821ae9a10181b585f01aace4a2660243116c32/0_0_6827_5464/500.jpg",
+      "published": "2026-04-14T05:42:17Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "australia-news/2026/apr/14/angus-taylor-immigration-speech-australia-backlash-ntwnfb",
+      "headline": "Angus Taylor accused of using Trump playbook with ‘desperate dog-whistle’ immigration speech",
+      "summary": "Labor accuses Angus Taylor of Trump-style dog-whistle politics in hardline immigration speech.",
+      "url": "https://www.theguardian.com/p/x4z9t6",
+      "thumbnail": "https://media.guim.co.uk/9249a52f0d3aaa6108839c1a87009a620b728e5e/779_96_4388_3511/500.jpg",
+      "published": "2026-04-14T05:35:14Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "australia-news/2026/apr/14/qantas-fares-cuts-flights",
+      "headline": "Qantas raises fares and cuts domestic flights as travel patterns shift due to Middle East turmoil",
+      "summary": "Qantas raises fares, cuts domestic flights as Middle East conflict disrupts airline travel patterns.",
+      "url": "https://www.theguardian.com/p/x4z9ga",
+      "thumbnail": "https://media.guim.co.uk/03503d67f241f01c814afeb945b58038580a787b/576_0_3380_2706/500.jpg",
+      "published": "2026-04-14T05:34:13Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "australia-news/2026/apr/14/prince-harry-meghan-australia-tour-melbourne-royal-childrens-hospital",
+      "headline": "Harry and Meghan greeted by hushed ‘hiii’ in Melbourne hospital on first stop of Australian tour",
+      "summary": "Prince Harry and Meghan visit Royal Children's Hospital Melbourne on first stop of Australian tour.",
+      "url": "https://www.theguardian.com/p/x4za7z",
+      "thumbnail": "https://media.guim.co.uk/edd965b8c716c111a2d39f6c88cfec812e8f5875/0_0_5421_4337/500.jpg",
+      "published": "2026-04-14T05:21:39Z",
+      "location": {
+        "name": "Melbourne",
+        "lat": -37.8136,
+        "lng": 144.9631
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "tv-and-radio/2026/apr/14/tv-tonight-gordon-ramsay-goes-undercover-in-a-brutal-new-series",
+      "headline": "TV tonight: Gordon Ramsay goes undercover in a brutal new series",
+      "summary": "Gordon Ramsay uses surveillance undercover in new Channel 4 restaurant rescue series.",
+      "url": "https://www.theguardian.com/p/x4ncxv",
+      "thumbnail": "https://media.guim.co.uk/93608df491d7e4c039421dae8b8432f142280e7f/307_0_2010_1608/500.jpg",
+      "published": "2026-04-14T05:20:00Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "tv-and-radio"
+    },
+    {
+      "id": "commentisfree/2026/apr/14/australia-immigration-powers-angus-taylor-trump-ntwnfb",
+      "headline": "Australia’s immigration powers are already godlike. So why does Angus Taylor want them to be Trump-like too?",
+      "summary": "Commentary questions why Angus Taylor seeks Trump-style immigration powers when Australia already has broad authority.",
+      "url": "https://www.theguardian.com/p/x4za9k",
+      "thumbnail": "https://media.guim.co.uk/cf455be894ab66953a2fa74e472e0ac6a5aa8cd8/400_0_4883_3907/500.jpg",
+      "published": "2026-04-14T05:02:58Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "commentisfree"
+    },
+    {
+      "id": "business/2026/apr/14/holidays-hit-cost-of-living-iran-war-travel",
+      "headline": "Holidays take a hit as UK cost of living fears and Iran war bite",
+      "summary": "UK travel spending falls first time in five years amid cost-of-living crisis and Iran war concerns.",
+      "url": "https://www.theguardian.com/p/x4z6dq",
+      "thumbnail": "https://media.guim.co.uk/87fc69c6bbe2c5863979e9709b865a851ab18f84/115_0_4504_3604/500.jpg",
+      "published": "2026-04-14T05:01:00Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "uk-news/2026/apr/14/huge-increase-in-kennelling-and-vet-spending-by-police-after-xl-bully-ban",
+      "headline": "‘Huge’ increase in kennelling and vet spending by police after XL bully ban",
+      "summary": "Police spending on kennels tripled since XL bully ban enforcement in 2024.",
+      "url": "https://www.theguardian.com/p/x4ym35",
+      "thumbnail": "https://media.guim.co.uk/11b338e241660193a171b082a70b2ffffea3384c/500_0_5000_4000/500.jpg",
+      "published": "2026-04-14T05:00:01Z",
+      "location": {
+        "name": "England and Wales",
+        "lat": 52.3555,
+        "lng": -1.1743
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "commentisfree/2026/apr/14/viktor-orban-europe-britain-hard-right-populism",
+      "headline": "Viktor Orbán inspired rightwingers across the EU and in Britain. His defeat could represent a turning of the tide",
+      "summary": "Viktor Orbán's electoral defeat marks potential turning point against European hard-right populism.",
+      "url": "https://www.theguardian.com/p/x4z6qh",
+      "thumbnail": "https://media.guim.co.uk/52e95aad5527d20e4b2d15a2450e9c5a573f5ea1/419_0_3332_2667/500.jpg",
+      "published": "2026-04-14T05:00:00Z",
+      "location": {
+        "name": "Budapest",
+        "lat": 47.4979,
+        "lng": 19.0402
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "commentisfree"
     }
   ]
 }
