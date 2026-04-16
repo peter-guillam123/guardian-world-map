@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-04-16T16:10:55.645Z",
-    "story_count": 30,
+    "generated_at": "2026-04-16T19:53:56.112Z",
+    "story_count": 37,
     "oldest_story": "2026-04-15T22:56:02Z",
-    "newest_story": "2026-04-16T16:03:22Z",
+    "newest_story": "2026-04-16T19:53:23Z",
     "window_hours": 24
   },
   "stories": [
@@ -486,6 +486,118 @@
       "category": "politics",
       "significance": 3,
       "section": "uk-news"
+    },
+    {
+      "id": "football/live/2026/apr/16/nottingham-forest-v-porto-europa-league-quarter-final-second-leg-live",
+      "headline": "Nottingham Forest v Porto: Europa League quarter-final, second leg – live",
+      "summary": "Nottingham Forest faces Porto in Europa League quarter-final second leg at City Ground.",
+      "url": "https://www.theguardian.com/p/x4zcnz",
+      "thumbnail": "https://media.guim.co.uk/040155626266e0d3382a8e9e1921f9356d85d4d6/327_0_3582_2866/500.jpg",
+      "published": "2026-04-16T19:53:23Z",
+      "location": {
+        "name": "Nottingham",
+        "lat": 52.9399,
+        "lng": -1.1339
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "football/live/2026/apr/16/aston-villa-v-bologna-europa-league-quarter-final-second-leg-live",
+      "headline": "Aston Villa v Bologna: Europa League quarter-final, second leg – live",
+      "summary": "Aston Villa defeats Bologna 3-0 at Villa Park in Europa League quarter-final second leg.",
+      "url": "https://www.theguardian.com/p/x4zck4",
+      "thumbnail": "https://media.guim.co.uk/8bcb52c20e958e877ce4b8366d0511b999856b7c/0_94_4201_3362/500.jpg",
+      "published": "2026-04-16T19:51:35Z",
+      "location": {
+        "name": "Birmingham",
+        "lat": 52.5086,
+        "lng": -1.8853
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "us-news/ng-interactive/2026/apr/16/amazon-price-fixing-california-lawsuit",
+      "headline": "Newly unsealed records reveal Amazon’s price-fixing tactics, California attorney general claims",
+      "summary": "Unsealed records reveal Amazon's alleged price-fixing tactics targeting independent sellers.",
+      "url": "https://www.theguardian.com/p/x4ze3q",
+      "thumbnail": "https://media.guim.co.uk/11ab299f601111fa10066de3b01d969ef7a31c13/0_0_3000_2400/500.jpg",
+      "published": "2026-04-16T19:38:25Z",
+      "location": {
+        "name": "California",
+        "lat": 36.1163,
+        "lng": -119.6816
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/apr/16/rfk-jr-vaccines-hearing",
+      "headline": "RFK Jr accused of ‘dangerous conspiracy theories’ at heated budget hearing",
+      "summary": "RFK Jr grilled at House hearing over vaccine conspiracy theories and public health decisions.",
+      "url": "https://www.theguardian.com/p/x4zp2d",
+      "thumbnail": "https://media.guim.co.uk/c952a71a57db26f289aac514769b0b7914464c37/490_0_4021_3218/500.jpg",
+      "published": "2026-04-16T19:30:51Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/apr/16/haitian-deportation-protections-vote",
+      "headline": "US House approves bill to shield 350,000 Haitians from deportations",
+      "summary": "House approves bill shielding 350,000 Haitians from deportations for three years.",
+      "url": "https://www.theguardian.com/p/x4zzpd",
+      "thumbnail": "https://media.guim.co.uk/d4e100159976a0b8b6f1eeaa9d1905086e46b641/350_0_3500_2800/500.jpg",
+      "published": "2026-04-16T19:30:03Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/apr/16/rfk-jr-affordable-food",
+      "headline": "RFK Jr and podcast guest suggest food is affordable in the US – despite rising costs",
+      "summary": "RFK Jr and chef Robert Irvine claim affordable healthy food options available in US.",
+      "url": "https://www.theguardian.com/p/x4zpx6",
+      "thumbnail": "https://media.guim.co.uk/d5c1d13a8c6155d4f8b5c938055659401b18e0a8/453_0_4094_3275/500.jpg",
+      "published": "2026-04-16T19:26:37Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "politics/2026/apr/16/rachel-reeves-warns-other-budgets-may-be-cut-to-lift-defence-spending",
+      "headline": "Rachel Reeves warns other budgets may be cut to lift defence spending",
+      "summary": "Chancellor Rachel Reeves warns other budgets may be cut to boost UK defence spending.",
+      "url": "https://www.theguardian.com/p/x4zzja",
+      "thumbnail": "https://media.guim.co.uk/3453a90b926909f506471151bf20773f3dd49ff2/934_152_3394_2716/500.jpg",
+      "published": "2026-04-16T18:51:49Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
     }
   ]
 }
