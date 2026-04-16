@@ -1,220 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-16T00:02:40.393Z",
-    "story_count": 22,
-    "oldest_story": "2026-04-15T05:00:01Z",
-    "newest_story": "2026-04-16T00:01:15Z",
+    "generated_at": "2026-04-16T06:24:50.750Z",
+    "story_count": 16,
+    "oldest_story": "2026-04-15T22:56:02Z",
+    "newest_story": "2026-04-16T06:21:18Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "law/2026/apr/15/joint-enterprise-convictions-in-england-and-wales-have-tripled-since-1980s-report-finds",
-      "headline": "Joint enterprise convictions in England and Wales have tripled since 1980s, report finds",
-      "summary": "Joint enterprise convictions in England and Wales tripled since 1980s, disproportionately targeting young Black men.",
-      "url": "https://www.theguardian.com/p/x4z6j7",
-      "thumbnail": "https://media.guim.co.uk/c2f7f2750697bc05118db6edc322c0e5fa333749/668_0_4583_3667/500.jpg",
-      "published": "2026-04-15T06:00:02Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "law"
-    },
-    {
-      "id": "film/2026/apr/15/truth-treason-review-persuasive-punchy-treatment-of-teenager-who-takes-on-the-gestapo",
-      "headline": "Truth & Treason review – persuasive, punchy treatment of teenager who takes on the Gestapo",
-      "summary": "Film dramatizes German resistance figure Helmuth Hübener, Mormon teenager who denounced Nazi regime.",
-      "url": "https://www.theguardian.com/p/x4z3cv",
-      "thumbnail": "https://media.guim.co.uk/ec979c2246074c5786ebe7863cccc9a1006e51cf/547_0_1906_1525/500.jpg",
-      "published": "2026-04-15T06:00:02Z",
-      "location": {
-        "name": "Hamburg",
-        "lat": 53.5511,
-        "lng": 10.0109
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "film"
-    },
-    {
-      "id": "travel/2026/apr/15/summer-hiking-switzerland-valais",
-      "headline": "From gentle strolls to zipline thrills: summer hiking in the Swiss Alps",
-      "summary": "Swiss Alps hiking guide explores summer adventures in Valais canton with glacial pools and mountain huts.",
-      "url": "https://www.theguardian.com/p/x4yckf",
-      "thumbnail": "https://media.guim.co.uk/ecffbe0cf56a9ea1fa72078d40cac1c7e3a9426d/300_0_3000_2400/500.jpg",
-      "published": "2026-04-15T06:00:02Z",
-      "location": {
-        "name": "Valais",
-        "lat": 46.35,
-        "lng": 7.65
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "travel"
-    },
-    {
-      "id": "uk-news/2026/apr/15/field-of-dreams-stuff-will-leeds-finally-get-its-trams-after-decades-of-promises",
-      "headline": "‘Field of Dreams stuff’: will Leeds finally get its trams after decades of promises?",
-      "summary": "Leeds city explores decades-old promises for new tram system after abandoned 1980s Metroline plans.",
-      "url": "https://www.theguardian.com/p/x4mva6",
-      "thumbnail": "https://media.guim.co.uk/9a7779f03aea4808bf21545cb4fb4ae8320e183b/1254_0_7200_5760/500.jpg",
-      "published": "2026-04-15T06:00:02Z",
-      "location": {
-        "name": "Leeds",
-        "lat": 53.8008,
-        "lng": -1.5491
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "books/2026/apr/15/the-fallen-by-louise-brangan-review-an-enraging-account-of-irelands-magdalene-laundries",
-      "headline": "The Fallen by Louise Brangan review – an enraging account of Ireland’s Magdalene laundries",
-      "summary": "Book review details horrifying history of Ireland's Catholic-run Magdalene laundries imprisoning thousands of women.",
-      "url": "https://www.theguardian.com/p/x4yce5",
-      "thumbnail": "https://media.guim.co.uk/577a48c58d7b4217183885ad2f716adf953acdaa/0_305_1683_1347/500.jpg",
-      "published": "2026-04-15T06:00:01Z",
-      "location": {
-        "name": "Dublin",
-        "lat": 53.3498,
-        "lng": -6.2603
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "books"
-    },
-    {
-      "id": "money/2026/apr/15/buy-now-pay-later-credit-card-cheapest-borrow-score",
-      "headline": "Expert tips on borrowing cash, from everyday spending to £20k loans",
-      "summary": "Financial expert tips on borrowing options from credit cards to buy-now-pay-later affecting credit scores.",
-      "url": "https://www.theguardian.com/p/x4h77z",
-      "thumbnail": "https://media.guim.co.uk/c409717be15011c9a6eea0abbf2356d15c05df6a/0_0_4412_3531/500.jpg",
-      "published": "2026-04-15T06:00:00Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 1,
-      "section": "money"
-    },
-    {
-      "id": "australia-news/live/2026/apr/15/anthony-albanese-brunei-jim-chalmers-washington-iran-war-fuel-prices-economy-angus-taylor-labor-coalition-political-reactions-ntwnfb",
-      "headline": "Australia news live: Albanese and Sultan of Brunei pledge cooperation on energy and food; Uber fuel surcharge kicks in for non-EV rides",
-      "summary": "Albanese pledges cooperation with Brunei on energy and food; Uber fuel surcharge begins for non-EV rides.",
-      "url": "https://www.theguardian.com/p/x4zbyk",
-      "thumbnail": "https://media.guim.co.uk/a02460499feebbd26b4b054a1747acb8ac12895c/1403_0_7857_6286/500.jpg",
-      "published": "2026-04-15T05:57:56Z",
-      "location": {
-        "name": "Canberra",
-        "lat": -35.2809,
-        "lng": 149.13
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "world/live/2026/apr/15/iran-war-live-news-us-naval-blockade-strait-of-hormuz-pakistan-peace-talks-middle-east-crisis-latest",
-      "headline": "Middle East crisis live: US claims blockade has ‘completely halted economic trade’ into Iran, as Trump hints at return to talks in Pakistan",
-      "summary": "US blockades Strait of Hormuz to halt Iran's economy; Trump hints peace talks may resume in Pakistan.",
-      "url": "https://www.theguardian.com/p/x4zfvy",
-      "thumbnail": "https://media.guim.co.uk/c29dd5e9c051ad4611c2ae744534078a739cdff7/520_0_5200_4160/500.jpg",
-      "published": "2026-04-15T05:55:01Z",
-      "location": {
-        "name": "Islamabad",
-        "lat": 33.6844,
-        "lng": 73.0479
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "australia-news/2026/apr/15/sydney-anti-herzog-protester-nsw-police-bail-conditions-overturned-ntwnfb",
-      "headline": "Sydney judge overturns bail conditions limiting anti-Herzog protester from entering CBD",
-      "summary": "Sydney judge overturns bail conditions barring anti-Herzog protester from CBD, citing unreasonableness.",
-      "url": "https://www.theguardian.com/p/x4zfje",
-      "thumbnail": "https://media.guim.co.uk/e5f3943302e5a0ab9b00b0fdfa9b1ee1d9425fa5/11_0_6370_5096/500.jpg",
-      "published": "2026-04-15T05:54:21Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "sport/2026/apr/15/afl-tribunal-verdicts-collard-butters-from-the-pocket-newsletter-ntwnfb",
-      "headline": "From the Pocket: AFL tribunal verdicts sit as uneasily as any in recent memory",
-      "summary": "AFL tribunal verdicts in Collard and Butters cases reflect league's struggle with cultural change.",
-      "url": "https://www.theguardian.com/p/x4za8m",
-      "thumbnail": "https://media.guim.co.uk/563c2c92ce2dc2f32eb7d57b9a07ba8b844e1997/0_160_2793_2232/500.jpg",
-      "published": "2026-04-15T05:24:28Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "australia-news/2026/apr/15/victoria-political-donation-laws-unconstitutional",
-      "headline": "Victoria left without limits on political donations after high court rules laws unconstitutional ",
-      "summary": "High court rules Victoria's political donation laws unconstitutional, leaving state without campaign limits.",
-      "url": "https://www.theguardian.com/p/x4zfbk",
-      "thumbnail": "https://media.guim.co.uk/4be7caef29ab59ecbe4ea2bff22afe4fea32ed39/406_0_3587_2869/500.jpg",
-      "published": "2026-04-15T05:13:16Z",
-      "location": {
-        "name": "Melbourne",
-        "lat": -37.8136,
-        "lng": 144.9631
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "australia-news"
-    },
-    {
-      "id": "world/2026/apr/15/justice-denied-apartheid-south-africa-truth-and-reconciliation",
-      "headline": "Justice denied: why families of apartheid victims are still searching for answers",
-      "summary": "Families of apartheid victims continue seeking justice 30 years after Truth and Reconciliation Commission hearings began.",
-      "url": "https://www.theguardian.com/p/x4ngjp",
-      "thumbnail": "https://media.guim.co.uk/4eda96c822239806e0e03ef67abbd0cc05b07962/538_0_6242_4996/500.jpg",
-      "published": "2026-04-15T05:00:01Z",
-      "location": {
-        "name": "South Africa",
-        "lat": -30.5595,
-        "lng": 22.9375
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "world/2026/apr/15/cherry-blossom-1200-years-japan-climate-scientist-yasuyuki-aono",
-      "headline": "After 1,200 years, cherry blossom record to live on despite Japanese scientist’s death",
-      "summary": "Prof Yasuyuki Aono's 1,200-year cherry blossom record documents climate change through shifting bloom dates.",
-      "url": "https://www.theguardian.com/p/x4zc28",
-      "thumbnail": "https://media.guim.co.uk/776d44ee676a0b7ab52e5474c61013470435c7c2/479_0_5000_4000/500.jpg",
-      "published": "2026-04-15T05:00:01Z",
-      "location": {
-        "name": "Japan",
-        "lat": 36.2048,
-        "lng": 138.2529
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "world"
-    },
     {
       "id": "australia-news/live/2026/apr/16/anthony-albanese-brunei-visit-fuel-crisis-labor-richard-marles-coalition-immigration-plan-angus-taylor-employment-figures-ntwnfb",
       "headline": "Australia news live: Viva refinery looking into ‘equipment failure’ behind massive blaze; shares suspended pending damage announcement",
@@ -358,6 +150,118 @@
       "category": "culture",
       "significance": 1,
       "section": "uk-news"
+    },
+    {
+      "id": "business/live/2026/apr/16/uk-february-gdp-report-economy-iran-war-stock-market-reeves-ftse-sterling-live-updates",
+      "headline": "UK economy was growing faster than expected in February before Iran war began – business live",
+      "summary": "UK economy unexpectedly grew 0.5% in February before Middle East conflict disrupted growth",
+      "url": "https://www.theguardian.com/p/x4zj6b",
+      "thumbnail": "https://media.guim.co.uk/c413dd6eaf66a5ad05a6b46f5d2ad27f6063ccb6/853_0_6627_5304/500.jpg",
+      "published": "2026-04-16T06:21:18Z",
+      "location": {
+        "name": "United Kingdom",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "business"
+    },
+    {
+      "id": "business/2026/apr/16/uk-economy-in-surprise-05-growth-jump-before-iran-war",
+      "headline": "UK economy showed surprise 0.5% growth before Iran war",
+      "summary": "UK economy unexpectedly grew 0.5% in February before Middle East conflict disrupted growth",
+      "url": "https://www.theguardian.com/p/x4zt3x",
+      "thumbnail": "https://media.guim.co.uk/ee0188f19b87946d48f992a4f07304874dd01f84/366_0_6009_4808/500.jpg",
+      "published": "2026-04-16T06:05:54Z",
+      "location": {
+        "name": "United Kingdom",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "business"
+    },
+    {
+      "id": "world/live/2026/apr/16/middle-east-crisis-live-iran-war-news-us-trump-ceasefire-deal-lebanon-israel-oil-sanctions-latest-updates",
+      "headline": "Middle East crisis live: Trump says Israel and Lebanon to hold talks Thursday; US hits Iran’s oil sector with new sanctions",
+      "summary": "US sanctions Iran's oil sector; Trump claims Israel-Lebanon talks scheduled amid ceasefire hopes",
+      "url": "https://www.theguardian.com/p/x4zkev",
+      "thumbnail": "https://media.guim.co.uk/289501c87beef7bfafd1c1175ca2b0bd17f62524/897_0_4407_3528/500.jpg",
+      "published": "2026-04-16T06:01:06Z",
+      "location": {
+        "name": "Iran",
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "travel/2026/apr/16/woodhall-lincolnshire-holiday-spa-town-hotel",
+      "headline": "‘Bath, Harrogate … Woodhall?’ A short break in one of the UK’s most forgotten spa towns",
+      "summary": "Historic UK spa town offers heritage, cycling routes and heated lido experiences for visitors",
+      "url": "https://www.theguardian.com/p/x4nvhy",
+      "thumbnail": "https://media.guim.co.uk/c179171aa62e96c6fa1b31044203b48f192f280e/324_0_3240_2592/500.jpg",
+      "published": "2026-04-16T06:00:49Z",
+      "location": {
+        "name": "Woodhall, Lincolnshire",
+        "lat": 53.1642,
+        "lng": -0.1867
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "travel"
+    },
+    {
+      "id": "australia-news/2026/apr/16/australian-oil-refinery-fire-geelong-cause-what-we-know-so-far",
+      "headline": "Geelong oil refinery fire: what we know so far",
+      "summary": "Oil refinery fire threatens Australia's fuel supply; facility supplies 50% of Victoria's petrol",
+      "url": "https://www.theguardian.com/p/x4zkyc",
+      "thumbnail": "https://media.guim.co.uk/b3dde738bdd94a6ef4be73b638e64f0a4cd5e87d/175_0_2080_1664/500.jpg",
+      "published": "2026-04-16T06:00:02Z",
+      "location": {
+        "name": "Geelong, Victoria",
+        "lat": -38.1499,
+        "lng": 144.3617
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "australia-news"
+    },
+    {
+      "id": "world/2026/apr/16/thursday-briefing-breaking-up-britains-love-affair-with-natural-gas",
+      "headline": "Thursday briefing: What it will take for Britain to break up with natural gas ",
+      "summary": "UK struggles to reduce dependence on expensive natural gas amid geopolitical energy price volatility",
+      "url": "https://www.theguardian.com/p/x4zhhh",
+      "thumbnail": "https://media.guim.co.uk/e63acde2997eb2605b372316ea4b9a40ee0e623b/750_788_3438_2751/500.jpg",
+      "published": "2026-04-16T05:46:19Z",
+      "location": {
+        "name": "United Kingdom",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "australia-news/2026/apr/16/sa-election-uncounted-ballots-votes-one-nation-seat-narungga-ntwnfb",
+      "headline": "Discovery of unopened ballots prompts recount in SA seat One Nation won by just 58 votes",
+      "summary": "South Australian election recount ordered after 80+ unopened ballots discovered in One Nation seat",
+      "url": "https://www.theguardian.com/p/x4zyhq",
+      "thumbnail": "https://media.guim.co.uk/777fdba7174ccaccdb7575cc147c4f4253bd61fb/1043_0_6880_5504/500.jpg",
+      "published": "2026-04-16T05:19:17Z",
+      "location": {
+        "name": "Narungga, South Australia",
+        "lat": -35.1667,
+        "lng": 137.8333
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
     }
   ]
 }
