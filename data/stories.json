@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-04-16T10:47:07.670Z",
-    "story_count": 16,
+    "generated_at": "2026-04-16T16:10:55.645Z",
+    "story_count": 30,
     "oldest_story": "2026-04-15T22:56:02Z",
-    "newest_story": "2026-04-16T06:21:18Z",
+    "newest_story": "2026-04-16T16:03:22Z",
     "window_hours": 24
   },
   "stories": [
@@ -262,6 +262,230 @@
       "category": "politics",
       "significance": 2,
       "section": "australia-news"
+    },
+    {
+      "id": "business/2026/apr/16/metro-bank-boss-handed-record-26m-after-slashing-1000-jobs",
+      "headline": "Metro Bank boss handed record £2.6m a year after slashing 1,000 jobs",
+      "summary": "Metro Bank CEO awarded record £2.6m pay after cutting 1,000 jobs following near-collapse.",
+      "url": "https://www.theguardian.com/p/x4znda",
+      "thumbnail": "https://media.guim.co.uk/6dc9429328b0654bec77f9dbf0cf8edc35d974d1/595_216_1010_807/500.jpg",
+      "published": "2026-04-16T16:03:22Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "us-news/live/2026/apr/16/pete-hegseth-trump-democrats-iran-war-us-politics-latest-news-updates",
+      "headline": "Robert F Kennedy Jr testifies to Congress over healthcare agenda and budget requests – US politics live",
+      "summary": "RFK Jr testifies to Congress on healthcare agenda and budget requests before House committee.",
+      "url": "https://www.theguardian.com/p/x4zm9t",
+      "thumbnail": "https://media.guim.co.uk/b364f16735aeeae4f0471e3927bb498ebac8c6d5/371_0_4060_3248/500.jpg",
+      "published": "2026-04-16T16:02:40Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "politics/live/2026/apr/16/iran-economy-food-fuel-local-elections-covid-latest-news-updates",
+      "headline": "Badenoch says revelations that Mandelson failed security vetting shows Starmer misled MPs– UK politics live",
+      "summary": "Badenoch says Starmer misled MPs over security vetting failure for Mandelson appointment.",
+      "url": "https://www.theguardian.com/p/x4zm6t",
+      "thumbnail": "https://media.guim.co.uk/6881e98d69047f44468080984959a1ff882994ef/532_0_5000_4000/500.jpg",
+      "published": "2026-04-16T15:55:43Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "us-news/2026/apr/16/rfk-jr-road-kill-raccoon-new-book",
+      "headline": "RFK Jr once cut penis off ‘road-killed raccoon’ in New York, new book reveals",
+      "summary": "RFK Jr diary reveals 2001 incident cutting animal genitals from roadkill with children present.",
+      "url": "https://www.theguardian.com/p/x4zz6k",
+      "thumbnail": "https://media.guim.co.uk/c61079f820ba52f32f7f22b943f89ad5aa4f1366/529_0_3561_2848/500.jpg",
+      "published": "2026-04-16T15:53:36Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "uk-news/2026/apr/16/systemic-failures-that-left-southport-children-at-risk",
+      "headline": "Systemic failures that left Southport children at risk",
+      "summary": "Inquiry reveals systemic failures by government agencies leading to Southport attack deaths.",
+      "url": "https://www.theguardian.com/p/x4zhjq",
+      "thumbnail": "https://media.guim.co.uk/451f4916e64cc57b78a12a7d14317bda063e2621/117_0_5600_4480/500.jpg",
+      "published": "2026-04-16T15:50:26Z",
+      "location": {
+        "name": "Southport",
+        "lat": 53.5938,
+        "lng": -3.0113
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "uk-news"
+    },
+    {
+      "id": "law/2026/apr/16/reduced-jury-trials-predicted-by-1990-tv-drama",
+      "headline": "When jury trial cuts were foretold on TV",
+      "summary": "Reader reflects on TV drama prediction of jury trial restrictions foreshadowing today's policies.",
+      "url": "https://www.theguardian.com/p/x4zc95",
+      "thumbnail": "https://media.guim.co.uk/8c3f99ffb7c1870b49025ab79e1fbdf0df671e41/398_0_3907_3126/500.jpg",
+      "published": "2026-04-16T15:50:11Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 1,
+      "section": "law"
+    },
+    {
+      "id": "politics/2026/apr/16/as-an-older-man-i-feel-for-peter-mandelson-being-caught-short",
+      "headline": "As an older man, I feel for Peter Mandelson being caught short",
+      "summary": "Reader expresses sympathy for Mandelson facing fine for urinating in public in November.",
+      "url": "https://www.theguardian.com/p/x4z6ty",
+      "thumbnail": "https://media.guim.co.uk/e36d9c4d3f1a38a44ade5a88d7a0ce089deec525/419_0_2461_1968/500.jpg",
+      "published": "2026-04-16T15:50:02Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 1,
+      "section": "politics"
+    },
+    {
+      "id": "politics/2026/apr/16/a-decade-on-from-brexit-britain-still-flounders-without-a-place-in-the-world",
+      "headline": "A decade on from Brexit, Britain still flounders without a place in the world",
+      "summary": "Readers assess lasting impact of Brexit a decade later, describing Britain as divided and unhappy.",
+      "url": "https://www.theguardian.com/p/x4nteg",
+      "thumbnail": "https://media.guim.co.uk/b176bff65e0ab9eaba1f81e91c8010d0eded3b5a/877_0_5069_4055/500.jpg",
+      "published": "2026-04-16T15:49:24Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "uk-news/2026/apr/16/word-up-this-is-the-best-put-down-of-all",
+      "headline": "Word up – this is the best put-down of all ",
+      "summary": "Brief letters on regional British insults, dialect, and miscellaneous cultural observations.",
+      "url": "https://www.theguardian.com/p/x4zmpt",
+      "thumbnail": "https://media.guim.co.uk/d2ed5b2efcd3811b67ee4879f30f355c0bd8c424/400_0_4200_3361/500.jpg",
+      "published": "2026-04-16T15:49:14Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "uk-news"
+    },
+    {
+      "id": "world/2026/apr/16/millionaires-fund-last-ditch-attempt-to-save-humpback-whale-stranded-in-germany",
+      "headline": "Millionaires fund last-ditch attempt to save humpback whale stranded in Germany",
+      "summary": "Millionaires fund rescue attempt of humpback whale stranded in German Baltic Sea waters.",
+      "url": "https://www.theguardian.com/p/x4zn5k",
+      "thumbnail": "https://media.guim.co.uk/40d8ab8c6e09786d3c6dbc70646f4df23b268ada/273_0_3920_3136/500.jpg",
+      "published": "2026-04-16T15:37:41Z",
+      "location": {
+        "name": "Kiel",
+        "lat": 54.3213,
+        "lng": 10.1348
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "us-news/2026/apr/16/lawyer-john-eastman-disbarred-2020-election-trump",
+      "headline": "Former Trump lawyer John Eastman disbarred over efforts to overturn 2020 election",
+      "summary": "California supreme court disbar John Eastman for role in Trump's 2020 election subversion efforts.",
+      "url": "https://www.theguardian.com/p/x4znqg",
+      "thumbnail": "https://media.guim.co.uk/0b0939297621efcbce7278fd7ee729b251191b63/1285_909_3019_2416/500.jpg",
+      "published": "2026-04-16T15:35:37Z",
+      "location": {
+        "name": "Los Angeles",
+        "lat": 34.0522,
+        "lng": -118.2437
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "uk-news/commentisfree/2026/apr/16/meghan-has-been-cast-as-the-inverse-to-diana-a-photonegative-of-adoration-why-do-we-need-scapegoats",
+      "headline": "Meghan has been cast as the inverse to Diana, a photonegative of adoration. Why do we need scapegoats?",
+      "summary": "Opinion piece examines why Meghan has become a public scapegoat compared to Diana.",
+      "url": "https://www.theguardian.com/p/x4zf7b",
+      "thumbnail": "https://media.guim.co.uk/b3ecde0df2bb42c4a6aac069ef3917d4fb9591e8/151_0_2559_2046/500.jpg",
+      "published": "2026-04-16T15:23:00Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "australia-news/2026/apr/16/geelongs-refinery-fire-may-be-out-but-questions-over-what-it-means-for-our-fuel-crisis-are-still-raging",
+      "headline": "Geelong’s refinery fire may be out – but questions over what it means for our fuel crisis are still raging",
+      "summary": "Major refinery fire in Geelong raises fuel supply concerns for Australia.",
+      "url": "https://www.theguardian.com/p/x4zme4",
+      "thumbnail": "https://media.guim.co.uk/30015c69a80894372a3e5139b23af4867b4d262d/208_0_2080_1664/500.jpg",
+      "published": "2026-04-16T15:12:05Z",
+      "location": {
+        "name": "Geelong",
+        "lat": -38.1681,
+        "lng": 144.361
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "australia-news"
+    },
+    {
+      "id": "uk-news/2026/apr/16/archbishop-of-canterbury-sarah-mullally-pope-leo-peace-trump",
+      "headline": "Archbishop of Canterbury backs pope’s calls for peace amid Trump feud",
+      "summary": "Archbishop of Canterbury backs Pope's peace calls amid Trump feud over Iran war.",
+      "url": "https://www.theguardian.com/p/x4znpe",
+      "thumbnail": "https://media.guim.co.uk/3282a4763786c993a1ef1917a9430eadf425a66a/929_259_2884_2309/500.jpg",
+      "published": "2026-04-16T15:02:57Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "uk-news"
     }
   ]
 }
