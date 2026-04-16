@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-04-16T19:53:56.112Z",
-    "story_count": 37,
+    "generated_at": "2026-04-16T22:08:46.505Z",
+    "story_count": 43,
     "oldest_story": "2026-04-15T22:56:02Z",
-    "newest_story": "2026-04-16T19:53:23Z",
+    "newest_story": "2026-04-16T22:06:20Z",
     "window_hours": 24
   },
   "stories": [
@@ -598,6 +598,102 @@
       "category": "politics",
       "significance": 2,
       "section": "politics"
+    },
+    {
+      "id": "australia-news/live/2026/apr/17/anthony-albanese-richard-marles-geelong-refinery-fire-fuel-supply-crisis-prices-labor-coalition-political-reactions-ntwnfb",
+      "headline": "News live: PM visits Geelong refinery after fire; Trump renews accusations Australia hasn’t done enough to help in strait of Hormuz; ",
+      "summary": "PM visits Geelong refinery after fire; fuel supply crisis and Trump's Strait of Hormuz accusations.",
+      "url": "https://www.theguardian.com/p/x4zmn8",
+      "thumbnail": "https://media.guim.co.uk/d1d02b9d99ed01770715efdfaa98628293c87932/570_0_2700_2160/500.jpg",
+      "published": "2026-04-16T22:06:20Z",
+      "location": {
+        "name": "Geelong",
+        "lat": -38.1497,
+        "lng": 144.3627
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "australia-news"
+    },
+    {
+      "id": "business/2026/apr/16/senate-democrats-trump-new-federal-reserve-chair",
+      "headline": "Senate Democrats move to stall Trump’s ‘absurd’ bid to install new Fed chair",
+      "summary": "Senate Democrats stall Trump's bid to install Kevin Warsh as new Federal Reserve chair.",
+      "url": "https://www.theguardian.com/p/x4zz8g",
+      "thumbnail": "https://media.guim.co.uk/3aade3e5ee27caca12ac88dadc43d7556640c352/666_0_4582_3666/500.jpg",
+      "published": "2026-04-16T21:12:45Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "football/2026/apr/16/fiorentina-crystal-palace-conference-league-match-report",
+      "headline": "Crystal Palace hold off Fiorentina to book place in Conference semi-final",
+      "summary": "Crystal Palace hold Fiorentina 2-1 to advance to Conference League semi-final with 4-2 aggregate.",
+      "url": "https://www.theguardian.com/p/x4zz8j",
+      "thumbnail": "https://media.guim.co.uk/8bd6df8fd702e1a606e66e148e92e34ec05fb3fe/372_0_2917_2333/500.jpg",
+      "published": "2026-04-16T21:12:31Z",
+      "location": {
+        "name": "Florence",
+        "lat": 43.7696,
+        "lng": 11.2558
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "australia-news/2026/apr/17/morning-mail-friday-ntwnfb",
+      "headline": "Morning Mail: Israel-Lebanon ceasefire, from One Nation idea to Coalition policy, and why the hate for Meghan?",
+      "summary": "Israel-Lebanon ceasefire announced; Australia addresses fuel crisis and Coalition housing policy.",
+      "url": "https://www.theguardian.com/p/x4zmfd",
+      "thumbnail": "https://media.guim.co.uk/2791943654919978bbc73c8b4b6dc388b267a3f2/354_0_5509_4409/500.jpg",
+      "published": "2026-04-16T21:05:14Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "football/2026/apr/16/nottingham-forest-porto-europa-league-match-report",
+      "headline": "Gibbs-White’s early strike decisive as Nottingham Forest edge past 10-man Porto",
+      "summary": "Gibbs-White's goal secures Nottingham Forest 1-0 win over 10-man Porto; semi-final vs Aston Villa.",
+      "url": "https://www.theguardian.com/p/x4zz96",
+      "thumbnail": "https://media.guim.co.uk/504d8df6ff13b505c49c83963d5095a90d53a621/317_0_3175_2540/500.jpg",
+      "published": "2026-04-16T21:04:42Z",
+      "location": {
+        "name": "Nottingham",
+        "lat": 52.9389,
+        "lng": -1.1398
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/apr/16/aston-villa-bologna-europa-league-match-report",
+      "headline": "Watkins breaks record as Aston Villa cruise past Bologna into all-English semi-final",
+      "summary": "Watkins scores 100th goal; Aston Villa cruise 7-1 aggregate past Bologna into Europa League semi-final.",
+      "url": "https://www.theguardian.com/p/x4zz8q",
+      "thumbnail": "https://media.guim.co.uk/d1ff5c51e981a2d319d913d5c703a10a95906f5b/647_179_3719_2974/500.jpg",
+      "published": "2026-04-16T21:04:22Z",
+      "location": {
+        "name": "Birmingham",
+        "lat": 52.5086,
+        "lng": -1.8853
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
     }
   ]
 }
