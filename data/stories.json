@@ -1,156 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-16T22:08:46.505Z",
-    "story_count": 43,
-    "oldest_story": "2026-04-15T22:56:02Z",
-    "newest_story": "2026-04-16T22:06:20Z",
+    "generated_at": "2026-04-17T00:08:58.704Z",
+    "story_count": 39,
+    "oldest_story": "2026-04-16T05:19:17Z",
+    "newest_story": "2026-04-16T23:32:49Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "australia-news/live/2026/apr/16/anthony-albanese-brunei-visit-fuel-crisis-labor-richard-marles-coalition-immigration-plan-angus-taylor-employment-figures-ntwnfb",
-      "headline": "Australia news live: Viva refinery looking into ‘equipment failure’ behind massive blaze; shares suspended pending damage announcement",
-      "summary": "Major oil refinery fire in Geelong threatens Victoria's fuel supply amid equipment failure investigation.",
-      "url": "https://www.theguardian.com/p/x4zhp9",
-      "thumbnail": "https://media.guim.co.uk/780e11c74a539d497eca85bb42b8a603f249b646/0_1494_4284_3428/500.jpg",
-      "published": "2026-04-16T00:01:15Z",
-      "location": {
-        "name": "Geelong",
-        "lat": -38.153,
-        "lng": 144.3617
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "australia-news"
-    },
-    {
-      "id": "us-news/live/2026/apr/15/donald-trump-iran-economy-tax-day-voter-id-latest-news-updates",
-      "headline": "House Democrats file six articles of impeachment against defense secretary Pete Hegseth – US politics live",
-      "summary": "House Democrats file six impeachment articles against Defense Secretary Pete Hegseth over Iran operations and classified leaks.",
-      "url": "https://www.theguardian.com/p/x4zh49",
-      "thumbnail": "https://media.guim.co.uk/ee1f885a082968862b5556c1e35c09f543606f1f/606_0_5371_4299/500.jpg",
-      "published": "2026-04-15T23:45:51Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 4,
-      "section": "us-news"
-    },
-    {
-      "id": "australia-news/2026/apr/16/viva-oil-refinery-fire-corio-geelong-victoria-fuel-prices",
-      "headline": "Geelong fire: fuel supply fears over out-of-control blaze at one of Australia’s two remaining oil refineries",
-      "summary": "Unprecedented fire at Viva Energy refinery halts petrol production affecting 10% of Australia's national fuel supply.",
-      "url": "https://www.theguardian.com/p/x4zk38",
-      "thumbnail": "https://media.guim.co.uk/780e11c74a539d497eca85bb42b8a603f249b646/0_1494_4284_3428/500.jpg",
-      "published": "2026-04-15T23:29:23Z",
-      "location": {
-        "name": "Geelong",
-        "lat": -38.153,
-        "lng": 144.3617
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "australia-news"
-    },
-    {
-      "id": "business/2026/apr/16/drax-renewable-energy-subsidies-wood-pellets",
-      "headline": "Drax claimed record £999m in subsidies for burning trees in 2025, thinktank says",
-      "summary": "Drax power station claimed record £999m subsidies for burning wood pellets in 2025 amid sustainability concerns.",
-      "url": "https://www.theguardian.com/p/x4zhq4",
-      "thumbnail": "https://media.guim.co.uk/870d593bc5b15db4371f417cf4fb4244d97321c4/980_571_2868_2295/500.jpg",
-      "published": "2026-04-15T23:01:41Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "world/2026/apr/16/south-korea-solar-power-renewables-revolution",
-      "headline": " How South Korea plans to use the Iran crisis to spur a renewables revolution",
-      "summary": "South Korea accelerates renewables revolution using Iran crisis as catalyst for expanded solar power investment.",
-      "url": "https://www.theguardian.com/p/x4n9n7",
-      "thumbnail": "https://media.guim.co.uk/67be326f60f54bc22338fe2a65547ae6b406410b/416_0_3750_3000/500.jpg",
-      "published": "2026-04-15T23:01:41Z",
-      "location": {
-        "name": "Seoul",
-        "lat": 37.5665,
-        "lng": 126.978
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "education/2026/apr/16/english-councils-need-to-hire-1400-more-educational-psychologists-says-report",
-      "headline": "English councils need to hire 1,400 more educational psychologists, says report",
-      "summary": "English councils must hire 1,400 educational psychologists at £140m cost to meet special needs demand.",
-      "url": "https://www.theguardian.com/p/x4ztdx",
-      "thumbnail": "https://media.guim.co.uk/4807a2dc439c2690fcca292e3472b69a98e48a7e/116_0_2536_2029/500.jpg",
-      "published": "2026-04-15T23:01:41Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "education"
-    },
-    {
-      "id": "society/2026/apr/16/people-in-north-of-england-twice-as-likely-to-be-killed-in-accidents-as-londoners-report-finds",
-      "headline": "People in north of England twice as likely to be killed in accidents as Londoners, report finds",
-      "summary": "Northern England residents twice as likely to die in accidents as Londoners, with deprivation as key factor.",
-      "url": "https://www.theguardian.com/p/x4zhkq",
-      "thumbnail": "https://media.guim.co.uk/62ed141b273d139d6931c2c7d0da4f0b49b8ed73/358_0_3540_2832/500.jpg",
-      "published": "2026-04-15T23:00:41Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "society"
-    },
-    {
-      "id": "football/2026/apr/15/arsenal-are-painful-to-watch-but-maybe-this-is-just-how-you-win-things",
-      "headline": "Arsenal are painful to watch but maybe this is just how you win things",
-      "summary": "Arsenal reach Champions League semi-finals despite inconsistent form under Mikel Arteta's challenging tactics.",
-      "url": "https://www.theguardian.com/p/x4zhfj",
-      "thumbnail": "https://media.guim.co.uk/149c5d9b44b4a5c7a4c530de4053843ad509e7a2/634_0_5000_4000/500.jpg",
-      "published": "2026-04-15T22:58:23Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "uk-news/2026/apr/15/lincoshire-church-leaning-more-than-tower-of-pisa-needs-100k-to-fix-wonky-floor",
-      "headline": "Lincolnshire church leaning more than Tower of Pisa needs £100k to fix wonky floor",
-      "summary": "Historic Dry Doddington church in Lincolnshire needs £100k repairs for floor subsidence worse than Tower of Pisa.",
-      "url": "https://www.theguardian.com/p/x4zk8y",
-      "thumbnail": "https://media.guim.co.uk/99d55692b6b4ea3a7c0a67108ab1beaf9625fc4f/432_0_3333_2668/500.jpg",
-      "published": "2026-04-15T22:56:02Z",
-      "location": {
-        "name": "Lincoln",
-        "lat": 53.2323,
-        "lng": -0.5415
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "uk-news"
-    },
     {
       "id": "business/live/2026/apr/16/uk-february-gdp-report-economy-iran-war-stock-market-reeves-ftse-sterling-live-updates",
       "headline": "UK economy was growing faster than expected in February before Iran war began – business live",
@@ -694,6 +550,86 @@
       "category": "sport",
       "significance": 2,
       "section": "football"
+    },
+    {
+      "id": "us-news/2026/apr/16/justin-fairfax-murder-suicide-virginia-lt-governor",
+      "headline": "Justin Fairfax, ex-lieutenant governor of Virginia, kills wife and himself",
+      "summary": "Ex-Virginia lieutenant governor Justin Fairfax kills wife then himself amid divorce proceedings.",
+      "url": "https://www.theguardian.com/p/x4znnt",
+      "thumbnail": "https://media.guim.co.uk/f6bad871a0bf56fd690236cede289fd2feea570e/973_326_2974_2380/500.jpg",
+      "published": "2026-04-16T23:32:49Z",
+      "location": {
+        "name": "Annandale, Virginia",
+        "lat": 38.8256,
+        "lng": -77.154
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/apr/16/eric-swalwell-department-of-justice-investigation",
+      "headline": "Department of Justice investigating Eric Swalwell amid sexual assault allegations",
+      "summary": "DOJ investigates Democratic Rep Eric Swalwell following sexual assault allegations and Congress resignation.",
+      "url": "https://www.theguardian.com/p/x4zpy8",
+      "thumbnail": "https://media.guim.co.uk/3b2a39c285abe5ecd6ff7c9fe90830101ed9ab48/0_0_4167_3335/500.jpg",
+      "published": "2026-04-16T23:11:10Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "artanddesign/2026/apr/17/v-and-a-victoria-albert-museums-living-wage-employer-stratford-opening",
+      "headline": "V&A faces calls to become living wage employer on eve of Stratford opening",
+      "summary": "V&A museum faces pressure to become living wage employer ahead of Stratford location opening.",
+      "url": "https://www.theguardian.com/p/x4zz6e",
+      "thumbnail": "https://media.guim.co.uk/7a3f8e01f2d3e4d9e04a653beb30b71a3e3b9cc5/182_0_4326_3463/500.jpg",
+      "published": "2026-04-16T23:01:18Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "artanddesign"
+    },
+    {
+      "id": "football/2026/apr/17/premier-league-10-things-to-look-out-for-this-weekend",
+      "headline": "Premier League: 10 things to look out for this weekend",
+      "summary": "Premier League weekend features title clash between Manchester City and Arsenal with key lineup decisions.",
+      "url": "https://www.theguardian.com/p/x4zhgj",
+      "thumbnail": "https://media.guim.co.uk/7dd689590a41e944694d62e2d1fbb0d9bde3d9c4/0_0_5000_4000/500.jpg",
+      "published": "2026-04-16T23:01:18Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "stage/2026/apr/17/avenue-q-review-shatesbury-theatre-london-west-end-musical-puppets",
+      "headline": "Avenue Q review – provocative puppets return for a feast of filth and fun",
+      "summary": "Avenue Q musical returns to West End for revival run with provocative puppet comedy content.",
+      "url": "https://www.theguardian.com/p/x4zmyn",
+      "thumbnail": "https://media.guim.co.uk/f9b11392fbcf5b0815ecc443f5d62a991f0c5db7/1911_422_3557_2845/500.jpg",
+      "published": "2026-04-16T23:01:13Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "stage"
     }
   ]
 }
