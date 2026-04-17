@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-04-17T10:38:53.303Z",
-    "story_count": 53,
+    "generated_at": "2026-04-17T14:43:00.177Z",
+    "story_count": 59,
     "oldest_story": "2026-04-16T15:02:57Z",
-    "newest_story": "2026-04-17T10:38:40Z",
+    "newest_story": "2026-04-17T14:40:26Z",
     "window_hours": 24
   },
   "stories": [
@@ -854,6 +854,102 @@
       "category": "conflict",
       "significance": 3,
       "section": "australia-news"
+    },
+    {
+      "id": "us-news/live/2026/apr/17/house-congress-republicans-trump-administration-us-politics-news-live",
+      "headline": "House approves short-term extension of surveillance law in blow to Republicans’ long-term plan – US politics live",
+      "summary": "House approves short-term surveillance law extension after 20 Republicans join Democrats to defeat longer renewals.",
+      "url": "https://www.theguardian.com/p/x4px4d",
+      "thumbnail": "https://media.guim.co.uk/874f9004fa934fecc91ea0c502b2d17a2abc62ec/284_0_3274_2619/500.jpg",
+      "published": "2026-04-17T14:40:26Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "law/2026/apr/17/rape-case-one-of-britains-greatest-miscarriages-justice",
+      "headline": "The rape case that became one of Britain’s greatest miscarriages of justice",
+      "summary": "Paul Quinn convicted in 2003 rape case that led to Andrew Malkinson's 17-year wrongful imprisonment.",
+      "url": "https://www.theguardian.com/p/x4knta",
+      "thumbnail": "https://media.guim.co.uk/71b18de0c2212f7891fa9bd8296174f61291f601/0_0_5000_4000/500.jpg",
+      "published": "2026-04-17T14:34:27Z",
+      "location": {
+        "name": "Salford",
+        "lat": 53.4878,
+        "lng": -2.2891
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "law"
+    },
+    {
+      "id": "uk-news/2026/apr/17/man-found-guilty-of-that-led-to-andrew-malkinsons-wrongful-imprisonment",
+      "headline": "Man found guilty of rape that led to Andrew Malkinson’s wrongful imprisonment",
+      "summary": "Paul Quinn found guilty of rape that wrongfully imprisoned Andrew Malkinson for 17 years using DNA evidence.",
+      "url": "https://www.theguardian.com/p/x4zx48",
+      "thumbnail": "https://media.guim.co.uk/5b555dbc3deba5ebe637c7e83f28c5179c5fec2f/98_0_1779_1423/500.jpg",
+      "published": "2026-04-17T14:28:42Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "uk-news"
+    },
+    {
+      "id": "thefilter-us/2026/apr/17/earth-day-deals-sustainable-brands",
+      "headline": "The nine best sustainable US deals to shop this Earth Day, from balms to bath towels",
+      "summary": "Earth Day sales highlight sustainable US brands offering climate-conscious products at reduced prices.",
+      "url": "https://www.theguardian.com/p/x4zpge",
+      "thumbnail": "https://media.guim.co.uk/c2cdaf139536da124dd4a2fb4dfe8f56f66ed71c/1_0_4998_4000/500.jpg",
+      "published": "2026-04-17T14:15:46Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "economy",
+      "significance": 1,
+      "section": "thefilter-us"
+    },
+    {
+      "id": "uk-news/2026/apr/17/birmingham-is-awash-with-local-election-candidates-but-will-result-be-a-coalition-of-chaos",
+      "headline": "Birmingham is awash with local election candidates – but will result be a ‘coalition of chaos’?",
+      "summary": "Birmingham local elections see fragmented field of candidates from multiple parties risking governance instability.",
+      "url": "https://www.theguardian.com/p/x4znzk",
+      "thumbnail": "https://media.guim.co.uk/af781d609e89a8eb27b539ebee4555d296f218b1/682_0_6830_5464/500.jpg",
+      "published": "2026-04-17T14:07:31Z",
+      "location": {
+        "name": "Birmingham",
+        "lat": 52.5086,
+        "lng": -1.8853
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "thefilter/2026/apr/17/best-rums-tested-uk",
+      "headline": "The best rums: 10 tasty tipples for mojitos, sours and sipping neat – tested ",
+      "summary": "UK rum market thrives with £1.1bn sales as indie labels drive spirits renaissance beyond pirate stereotypes.",
+      "url": "https://www.theguardian.com/p/x3yceh",
+      "thumbnail": "https://media.guim.co.uk/2529aea622b463384f8fa2e126cf0d2428a2b4f9/0_0_5000_4000/500.jpg",
+      "published": "2026-04-17T14:00:46Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "thefilter"
     }
   ]
 }
