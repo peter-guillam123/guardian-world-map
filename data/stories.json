@@ -1,92 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-17T22:08:58.508Z",
-    "story_count": 55,
-    "oldest_story": "2026-04-16T23:01:13Z",
-    "newest_story": "2026-04-17T21:58:06Z",
+    "generated_at": "2026-04-18T00:06:08.229Z",
+    "story_count": 52,
+    "oldest_story": "2026-04-17T05:44:13Z",
+    "newest_story": "2026-04-18T00:00:01Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "us-news/2026/apr/16/justin-fairfax-murder-suicide-virginia-lt-governor",
-      "headline": "Justin Fairfax, ex-lieutenant governor of Virginia, kills wife and himself",
-      "summary": "Ex-Virginia lieutenant governor Justin Fairfax kills wife then himself amid divorce proceedings.",
-      "url": "https://www.theguardian.com/p/x4znnt",
-      "thumbnail": "https://media.guim.co.uk/f6bad871a0bf56fd690236cede289fd2feea570e/973_326_2974_2380/500.jpg",
-      "published": "2026-04-16T23:32:49Z",
-      "location": {
-        "name": "Annandale, Virginia",
-        "lat": 38.8256,
-        "lng": -77.154
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/apr/16/eric-swalwell-department-of-justice-investigation",
-      "headline": "Department of Justice investigating Eric Swalwell amid sexual assault allegations",
-      "summary": "DOJ investigates Democratic Rep Eric Swalwell following sexual assault allegations and Congress resignation.",
-      "url": "https://www.theguardian.com/p/x4zpy8",
-      "thumbnail": "https://media.guim.co.uk/3b2a39c285abe5ecd6ff7c9fe90830101ed9ab48/0_0_4167_3335/500.jpg",
-      "published": "2026-04-16T23:11:10Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "artanddesign/2026/apr/17/v-and-a-victoria-albert-museums-living-wage-employer-stratford-opening",
-      "headline": "V&A faces calls to become living wage employer on eve of Stratford opening",
-      "summary": "V&A museum faces pressure to become living wage employer ahead of Stratford location opening.",
-      "url": "https://www.theguardian.com/p/x4zz6e",
-      "thumbnail": "https://media.guim.co.uk/7a3f8e01f2d3e4d9e04a653beb30b71a3e3b9cc5/182_0_4326_3463/500.jpg",
-      "published": "2026-04-16T23:01:18Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "artanddesign"
-    },
-    {
-      "id": "football/2026/apr/17/premier-league-10-things-to-look-out-for-this-weekend",
-      "headline": "Premier League: 10 things to look out for this weekend",
-      "summary": "Premier League weekend features title clash between Manchester City and Arsenal with key lineup decisions.",
-      "url": "https://www.theguardian.com/p/x4zhgj",
-      "thumbnail": "https://media.guim.co.uk/7dd689590a41e944694d62e2d1fbb0d9bde3d9c4/0_0_5000_4000/500.jpg",
-      "published": "2026-04-16T23:01:18Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "stage/2026/apr/17/avenue-q-review-shatesbury-theatre-london-west-end-musical-puppets",
-      "headline": "Avenue Q review – provocative puppets return for a feast of filth and fun",
-      "summary": "Avenue Q musical returns to West End for revival run with provocative puppet comedy content.",
-      "url": "https://www.theguardian.com/p/x4zmyn",
-      "thumbnail": "https://media.guim.co.uk/f9b11392fbcf5b0815ecc443f5d62a991f0c5db7/1911_422_3557_2845/500.jpg",
-      "published": "2026-04-16T23:01:13Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "stage"
-    },
     {
       "id": "world/live/2026/apr/17/middle-east-crisis-live-news-israel-lebanon-ceasefire-iran-war-us-latest-updates",
       "headline": "Middle East crisis live: UN chief calls for Israel-Lebanon ceasefire to be ‘fully’ respected as it comes into effect",
@@ -882,6 +802,38 @@
         "name": "Washington DC",
         "lat": 38.9072,
         "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "australia-news/2026/apr/18/privately-protected-managed-land-australia-biodiversity-protection",
+      "headline": "‘The environmental movement needs many hands’: saving Australia’s biodiversity is getting personal",
+      "summary": "Australia's private land conservation network grows through individual donations and bequests.",
+      "url": "https://www.theguardian.com/p/x4zfen",
+      "thumbnail": "https://media.guim.co.uk/87334bb9666cc73b5eb2dc0240df53804696b9b0/0_0_2500_2000/500.jpg",
+      "published": "2026-04-18T00:00:01Z",
+      "location": {
+        "name": "Australia",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "us-news/2026/apr/17/university-of-michigan-regent-sexual-messages",
+      "headline": "Lewd messages linked to University of Michigan regent who led campaign against pro-Palestinian students",
+      "summary": "University of Michigan regent accused of lewd messages amid pro-Palestinian campus tensions.",
+      "url": "https://www.theguardian.com/p/x4zpbg",
+      "thumbnail": "https://media.guim.co.uk/9cdd6d0d46f59fe9e1bda7ca7c9cddd01f4282f5/305_86_2528_2022/500.jpg",
+      "published": "2026-04-17T23:38:13Z",
+      "location": {
+        "name": "Ann Arbor",
+        "lat": 42.2808,
+        "lng": -83.743
       },
       "category": "politics",
       "significance": 2,
