@@ -1,92 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-18T05:53:58.604Z",
-    "story_count": 56,
-    "oldest_story": "2026-04-17T06:00:22Z",
-    "newest_story": "2026-04-18T05:32:03Z",
+    "generated_at": "2026-04-18T08:09:09.939Z",
+    "story_count": 64,
+    "oldest_story": "2026-04-17T09:34:41Z",
+    "newest_story": "2026-04-18T08:08:17Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "world/live/2026/apr/17/middle-east-crisis-live-news-israel-lebanon-ceasefire-iran-war-us-latest-updates",
-      "headline": "Middle East crisis live: UN chief calls for Israel-Lebanon ceasefire to be ‘fully’ respected as it comes into effect",
-      "summary": "Israel-Lebanon ceasefire begins as UN chief calls for full compliance with 10-day truce.",
-      "url": "https://www.theguardian.com/p/x4zqav",
-      "thumbnail": "https://media.guim.co.uk/9f0c758228dc76124bcb2516ca23ce8908bac066/285_0_2853_2283/500.jpg",
-      "published": "2026-04-17T06:20:38Z",
-      "location": {
-        "name": "Lebanon",
-        "lat": 33.8547,
-        "lng": 35.8623
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "technology/2026/apr/17/microsoft-us-tech-firms-lobbied-eu-secrecy-rules-datacentre-emissions",
-      "headline": "US tech firms successfully lobbied EU to keep datacentre emissions secret",
-      "summary": "Microsoft successfully lobbied EU to hide datacentre emissions from public transparency database.",
-      "url": "https://www.theguardian.com/p/x4znyg",
-      "thumbnail": "https://media.guim.co.uk/e2044077ac8e4aefb8bd457455d414386e4e9099/127_0_3333_2667/500.jpg",
-      "published": "2026-04-17T06:00:24Z",
-      "location": {
-        "name": "Brussels",
-        "lat": 50.8503,
-        "lng": 4.3517
-      },
-      "category": "tech",
-      "significance": 3,
-      "section": "technology"
-    },
-    {
-      "id": "environment/2026/apr/17/more-than-15m-oysters-to-be-released-in-the-north-sea-for-uk-rewilding-project",
-      "headline": "More than 15m oysters to be released in the North Sea for UK rewilding project",
-      "summary": "UK releases 15m juvenile oysters in North Sea rewilding project to restore ecosystem and sequester carbon.",
-      "url": "https://www.theguardian.com/p/x4zmnd",
-      "thumbnail": "https://media.guim.co.uk/ce261c6e6fcc3f795e04a8da52f7a61fab4dd243/448_0_4139_3311/500.jpg",
-      "published": "2026-04-17T06:00:23Z",
-      "location": {
-        "name": "Orkney",
-        "lat": 59,
-        "lng": -3
-      },
-      "category": "climate",
-      "significance": 3,
-      "section": "environment"
-    },
-    {
-      "id": "travel/2026/apr/17/readers-favourite-trips-scotland-islands-highlands",
-      "headline": "Lochs, bothies and burial chambers: readers’ favourite trips in Scotland",
-      "summary": "Readers share favourite Scottish trips from Highlands to Islands with lochs, bothies and burial chambers.",
-      "url": "https://www.theguardian.com/p/x4mm92",
-      "thumbnail": "https://media.guim.co.uk/25606d20f1aa1098fab95bc03362b0fd3d6cd553/325_228_1632_1306/500.jpg",
-      "published": "2026-04-17T06:00:22Z",
-      "location": {
-        "name": "Scotland",
-        "lat": 56.4907,
-        "lng": -4.2026
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "travel"
-    },
-    {
-      "id": "politics/2026/apr/17/woman-dusseldorf-uk-home-office-return-flight-blocked",
-      "headline": "Woman stranded in Dusseldorf after return UK flight blocked over Home Office admin error",
-      "summary": "UK Home Office error leaves German resident stranded in Düsseldorf after settled status red-flagged.",
-      "url": "https://www.theguardian.com/p/x4zzgn",
-      "thumbnail": "https://media.guim.co.uk/94bb4fdd0c80410c355198943052b435bd61dccb/0_0_1890_1512/500.jpg",
-      "published": "2026-04-17T06:00:22Z",
-      "location": {
-        "name": "Düsseldorf",
-        "lat": 51.2277,
-        "lng": 6.7735
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
     {
       "id": "politics/live/2026/apr/17/peter-mandelson-keir-starmer-olly-robbins-vetting-foreign-office-latest-news-updates",
       "headline": "Starmer says it is ‘staggering’ and ‘unforgivable’ he was not told Mandelson failed vetting – UK politics live",
@@ -902,6 +822,214 @@
       "category": "health",
       "significance": 3,
       "section": "world"
+    },
+    {
+      "id": "world/live/2026/apr/18/middle-east-crisis-live-iran-warns-it-will-close-strait-of-hormuz-if-us-blockade-continues",
+      "headline": "Middle East crisis live: Iran warns it will close strait of Hormuz if US blockade continues",
+      "summary": "Iran threatens to close Strait of Hormuz if US blockade continues, escalating Middle East tensions.",
+      "url": "https://www.theguardian.com/p/x4p4he",
+      "thumbnail": "https://media.guim.co.uk/4a4e386cee13f75b3ab5cc2518329b639705b43e/719_0_6814_5455/500.jpg",
+      "published": "2026-04-18T08:08:17Z",
+      "location": {
+        "name": "Strait of Hormuz",
+        "lat": 26.5597,
+        "lng": 56.2406
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "uk-news/live/2026/apr/18/keir-starmer-peter-mandelson-olly-robbins-antonia-romeo-labour-uk-politics-latest-news-updates",
+      "headline": "Pressure on Starmer grows over Mandelson vetting despite ousting of Foreign Office official – UK politics live",
+      "summary": "PM Starmer faces pressure over Peter Mandelson's failed security vetting for US ambassador role.",
+      "url": "https://www.theguardian.com/p/x4p5zm",
+      "thumbnail": "https://media.guim.co.uk/96f1e953c1bd786fa6a937a2e4abc7ab6a3318df/0_0_5000_4000/500.jpg",
+      "published": "2026-04-18T08:00:55Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "uk-news"
+    },
+    {
+      "id": "world/2026/apr/18/venezuelas-machado-to-hold-madrid-rally-as-opposition-frozen-out-after-maduro-capture",
+      "headline": "Venezuela’s Machado to hold Madrid rally as opposition frozen out after Maduro capture",
+      "summary": "Venezuela's opposition leader Machado holds Madrid rally to push for political change amid exile.",
+      "url": "https://www.theguardian.com/p/x4zc24",
+      "thumbnail": "https://media.guim.co.uk/7f4ec5b2f650d50d83b6c5bc77474b953fa7930f/624_0_6240_4994/500.jpg",
+      "published": "2026-04-18T08:00:08Z",
+      "location": {
+        "name": "Madrid",
+        "lat": 40.4168,
+        "lng": -3.7038
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "world/2026/apr/18/russian-blogger-fierce-kremlin-critique-goes-viral",
+      "headline": "Russian blogger’s fierce critique of Kremlin goes viral: ‘People are afraid of you’",
+      "summary": "Russian blogger Victoria Bonya's viral Kremlin critique reflects declining Putin approval ratings.",
+      "url": "https://www.theguardian.com/p/x4pxe9",
+      "thumbnail": "https://media.guim.co.uk/ce3abdad7b68f409a647a29a060c52e783ef779e/19_126_2400_1921/500.jpg",
+      "published": "2026-04-18T08:00:07Z",
+      "location": {
+        "name": "Moscow",
+        "lat": 55.7558,
+        "lng": 37.6173
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "football/live/2026/apr/18/spurs-seek-elusive-victory-lionesses-in-iceland-and-coventry-seal-premier-league-promotion-matchday-live",
+      "headline": "Spurs seek elusive victory, Lionesses in Iceland and Coventry seal Premier League promotion– matchday live",
+      "summary": "Spurs seek victory, England Lionesses play Iceland qualifier in Saturday matchday action.",
+      "url": "https://www.theguardian.com/p/x4zz9t",
+      "thumbnail": "https://media.guim.co.uk/0d2a519c1a6023f6e6dc2223c58e0f977f27fd21/0_0_5000_4000/500.jpg",
+      "published": "2026-04-18T07:59:41Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "politics/2026/apr/18/pure-shock-how-ministers-reacted-to-revelation-of-mandelson-vetting-failure",
+      "headline": "‘Pure shock’: how ministers reacted to revelation of Mandelson vetting failure",
+      "summary": "Manchester City vs Arsenal shapes into rare late-season Premier League title decider.",
+      "url": "https://www.theguardian.com/p/x4pxa6",
+      "thumbnail": "https://media.guim.co.uk/cfb67ec10d552d46a4ec24e233665c4be4f21ac7/0_0_5000_4000/500.jpg",
+      "published": "2026-04-18T07:47:09Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "politics"
+    },
+    {
+      "id": "football/2026/apr/18/manchester-city-arsenal-premier-league-title-race-guardiola-arteta",
+      "headline": "Premier League shootout arrives with odd twist for ‘feelings guy’ Guardiola",
+      "summary": "Adam Peaty, Olympic swimming champion, compared to Messi amid minority sport decline concerns.",
+      "url": "https://www.theguardian.com/p/x4pvqy",
+      "thumbnail": "https://media.guim.co.uk/b72ea6d4cb75a8584aeb1e870281039dc6fe8ec7/0_0_5000_4000/500.jpg",
+      "published": "2026-04-18T07:01:06Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "commentisfree/2026/apr/18/fossil-fuel-trump-green-revolution-us-iran-renewable-energy",
+      "headline": "Who’d have thought a fossil-fuel shill like Trump would be the one to spark a green revolution?",
+      "summary": "Summer European flights face chaos from fuel shortages and EU entry-exit system delays.",
+      "url": "https://www.theguardian.com/p/x4zccz",
+      "thumbnail": "https://media.guim.co.uk/fbefe965ade101b791576942e0c7b62a8a5833be/708_0_4466_3573/500.jpg",
+      "published": "2026-04-18T07:00:07Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "commentisfree"
+    },
+    {
+      "id": "travel/2026/apr/18/europe-summer-holiday-flight-cross-channel-travel-cancelled-flights-airport-eu-ees",
+      "headline": "Can Europe avoid a summer of holiday flight and cross-Channel travel chaos?",
+      "summary": "Holidaymakers advised on rights as fuel shortages and EU rules threaten summer travel disruption.",
+      "url": "https://www.theguardian.com/p/x4zz56",
+      "thumbnail": "https://media.guim.co.uk/9182c21630dfc816efd206c5f3fca97ff47f8213/996_0_5348_4279/500.jpg",
+      "published": "2026-04-18T07:00:07Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "travel"
+    },
+    {
+      "id": "travel/2026/apr/18/what-to-do-if-flights-cancelled-holidays-disrupted-iran-war-eu-ees",
+      "headline": "What are my rights if flights are cancelled and holidays disrupted due to fuel shortage?",
+      "summary": "Researcher discovers Luigi connection to Super Mario plumber's real-life inspiration origin.",
+      "url": "https://www.theguardian.com/p/x4zh9y",
+      "thumbnail": "https://media.guim.co.uk/7c4ac0837684a004356ba88533c7981ff5f75881/461_0_4960_3969/500.jpg",
+      "published": "2026-04-18T07:00:07Z",
+      "location": {
+        "name": "Washington",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "travel"
+    },
+    {
+      "id": "games/2026/apr/18/super-mario-nintendo-luigi-inspiration",
+      "headline": "Father of man who inspired Super Mario was also named Luigi, researcher finds",
+      "summary": "Heart Wall drama uses karaoke to explore family grief and secrets at Bush Theatre London.",
+      "url": "https://www.theguardian.com/p/x4p47n",
+      "thumbnail": "https://media.guim.co.uk/00d48a8fe09a82d41eda5f07c9eea7bd8dcb14b3/695_87_2299_1839/500.jpg",
+      "published": "2026-04-18T07:00:07Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "games"
+    },
+    {
+      "id": "stage/2026/apr/18/heart-wall-review-bush-theatre-london",
+      "headline": "Heart Wall review – grief knocks a family karaoke reunion off-key ",
+      "summary": "Young Bulgarians vote for change in eighth election as pro-Russian candidate leads polls.",
+      "url": "https://www.theguardian.com/p/x4px67",
+      "thumbnail": "https://media.guim.co.uk/68278f463a2ea9f7538649c3e76c78ffb1391752/0_0_3564_2851/500.jpg",
+      "published": "2026-04-18T07:00:07Z",
+      "location": {
+        "name": "Sofia",
+        "lat": 42.6977,
+        "lng": 23.3219
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "stage"
+    },
+    {
+      "id": "football/2026/apr/18/coventry-city-premier-league-promotion",
+      "headline": "No more gimmicks: Coventry’s perilous journey back to the Premier League is finally over",
+      "summary": "Coventry City achieves promotion back to Premier League after years of turmoil and fan hardship.",
+      "url": "https://www.theguardian.com/p/x4nm4z",
+      "thumbnail": "https://media.guim.co.uk/a9c98e4d8b6a72d8a54ede57f7e37d153326642b/516_729_2308_1847/500.jpg",
+      "published": "2026-04-18T07:00:06Z",
+      "location": {
+        "name": "Coventry",
+        "lat": 52.4089,
+        "lng": -1.4903
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
     }
   ]
 }
