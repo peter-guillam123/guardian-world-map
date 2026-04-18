@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-04-18T00:06:08.229Z",
-    "story_count": 52,
-    "oldest_story": "2026-04-17T05:44:13Z",
-    "newest_story": "2026-04-18T00:00:01Z",
+    "generated_at": "2026-04-18T05:53:58.604Z",
+    "story_count": 56,
+    "oldest_story": "2026-04-17T06:00:22Z",
+    "newest_story": "2026-04-18T05:32:03Z",
     "window_hours": 24
   },
   "stories": [
@@ -86,22 +86,6 @@
       "category": "politics",
       "significance": 2,
       "section": "politics"
-    },
-    {
-      "id": "world/2026/apr/17/first-edition-friday-briefing-theatre-industry-west-end-ticket-prices",
-      "headline": "Friday briefing: Is theatre in a Misérables state, or is the industry just adapting to tough times?",
-      "summary": "West End theatre faces pressure from rising costs but Broadway outpaced by 3m visitors in 2025.",
-      "url": "https://www.theguardian.com/p/x4zmpz",
-      "thumbnail": "https://media.guim.co.uk/ffdd1d21a162bdb0624dd041d8b12b0afd95345e/0_0_4743_3794/500.jpg",
-      "published": "2026-04-17T05:44:13Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "world"
     },
     {
       "id": "politics/live/2026/apr/17/peter-mandelson-keir-starmer-olly-robbins-vetting-foreign-office-latest-news-updates",
@@ -838,6 +822,86 @@
       "category": "politics",
       "significance": 2,
       "section": "us-news"
+    },
+    {
+      "id": "sport/live/2026/apr/17/alycia-baumgardner-bo-mi-re-shin-boxing-fight-live-updates",
+      "headline": "Alycia Baumgardner beats Bo Mi Re Shin to retain unified junior lightweight title – live reaction",
+      "summary": "Alycia Baumgardner retains unified junior lightweight title with unanimous decision victory.",
+      "url": "https://www.theguardian.com/p/x4p327",
+      "thumbnail": null,
+      "published": "2026-04-18T05:32:03Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "sport/2026/apr/18/gout-athletics-australia-junior-championships-100m-final",
+      "headline": "Gout Gout waves off rivals to claim 100m title in style at national junior championships",
+      "summary": "Gout Gout wins 100m at Australian junior athletics championships in 10.21 seconds.",
+      "url": "https://www.theguardian.com/p/x4zpkm",
+      "thumbnail": "https://media.guim.co.uk/db64ae3b9ab2a3164b585d52b1b0ec1113c353e6/711_0_5553_4444/500.jpg",
+      "published": "2026-04-18T05:23:33Z",
+      "location": {
+        "name": "Brisbane",
+        "lat": -27.4698,
+        "lng": 153.0251
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "news/ng-interactive/2026/apr/18/donald-trump-popularity-iran-christianity-economy",
+      "headline": "Two weeks that pushed Trump to the edge. Is his presidency unravelling?",
+      "summary": "Trump's presidency faces scrutiny over failed Iran war, inflation, and Christian voters defection.",
+      "url": "https://www.theguardian.com/p/x4px9v",
+      "thumbnail": "https://media.guim.co.uk/0d12ba38d4611606603590108ce87f00b257c40a/0_0_4000_3200/500.jpg",
+      "published": "2026-04-18T05:00:05Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 4,
+      "section": "news"
+    },
+    {
+      "id": "lifeandstyle/2026/apr/18/tim-dowling-all-at-sea-on-a-reservoir-near-heathrow-airport-london",
+      "headline": "Tim Dowling: I’m all at sea … on a reservoir near Heathrow airport",
+      "summary": "Tim Dowling attempts boat sailing qualification near Heathrow Airport in challenging weather.",
+      "url": "https://www.theguardian.com/p/x4nx8k",
+      "thumbnail": "https://media.guim.co.uk/153882d9ad3243cf30401440a9d3b47a6f6838cf/0_0_5000_4000/500.jpg",
+      "published": "2026-04-18T05:00:05Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "lifeandstyle"
+    },
+    {
+      "id": "world/2026/apr/18/romania-eu-measles-cases-vaccination-rates-collapse",
+      "headline": "‘It’s a powder keg’: Romania leads EU measles cases as vaccination rates collapse",
+      "summary": "Romania leads EU in measles cases as vaccination rates collapse amid healthcare bottlenecks.",
+      "url": "https://www.theguardian.com/p/x4m23z",
+      "thumbnail": "https://media.guim.co.uk/7ed5594e0673342680a9e10d61fcff7127d0d9f1/667_0_3333_2667/500.jpg",
+      "published": "2026-04-18T05:00:05Z",
+      "location": {
+        "name": "Bucharest",
+        "lat": 44.4268,
+        "lng": 26.1025
+      },
+      "category": "health",
+      "significance": 3,
+      "section": "world"
     }
   ]
 }
