@@ -1,28 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-18T21:52:57.272Z",
-    "story_count": 60,
-    "oldest_story": "2026-04-17T21:58:06Z",
-    "newest_story": "2026-04-18T21:50:24Z",
+    "generated_at": "2026-04-18T23:54:30.338Z",
+    "story_count": 59,
+    "oldest_story": "2026-04-18T00:00:01Z",
+    "newest_story": "2026-04-18T23:01:25Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "us-news/2026/apr/17/philz-coffee-pride-flags-california",
-      "headline": "California coffee chain reinstates policy on Pride flags after swift backlash",
-      "summary": "Philz Coffee reverses Pride flag removal policy after employee petition backlash.",
-      "url": "https://www.theguardian.com/p/x4p3jn",
-      "thumbnail": "https://media.guim.co.uk/7eeb18b70a73d0164bd7bc56f93e8318e3584ac8/156_0_4688_3750/500.jpg",
-      "published": "2026-04-17T21:58:06Z",
-      "location": {
-        "name": "San Francisco",
-        "lat": 37.7749,
-        "lng": -122.4194
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "us-news"
-    },
     {
       "id": "australia-news/2026/apr/18/privately-protected-managed-land-australia-biodiversity-protection",
       "headline": "‘The environmental movement needs many hands’: saving Australia’s biodiversity is getting personal",
@@ -38,22 +22,6 @@
       "category": "climate",
       "significance": 2,
       "section": "australia-news"
-    },
-    {
-      "id": "us-news/2026/apr/17/university-of-michigan-regent-sexual-messages",
-      "headline": "Lewd messages linked to University of Michigan regent who led campaign against pro-Palestinian students",
-      "summary": "University of Michigan regent accused of lewd messages amid pro-Palestinian campus tensions.",
-      "url": "https://www.theguardian.com/p/x4zpbg",
-      "thumbnail": "https://media.guim.co.uk/9cdd6d0d46f59fe9e1bda7ca7c9cddd01f4282f5/305_86_2528_2022/500.jpg",
-      "published": "2026-04-17T23:38:13Z",
-      "location": {
-        "name": "Ann Arbor",
-        "lat": 42.2808,
-        "lng": -83.743
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
     },
     {
       "id": "sport/live/2026/apr/17/alycia-baumgardner-bo-mi-re-shin-boxing-fight-live-updates",
@@ -966,6 +934,22 @@
       "category": "culture",
       "significance": 2,
       "section": "tv-and-radio"
+    },
+    {
+      "id": "uk-news/2026/apr/19/queen-elizabeth-ii-official-biographer-anna-keay",
+      "headline": "Queen Elizabeth II’s official biographer named as historian Anna Keay",
+      "summary": "Historian Anna Keay named as official biographer of Queen Elizabeth II.",
+      "url": "https://www.theguardian.com/p/x4p7f8",
+      "thumbnail": "https://media.guim.co.uk/58614565ed7e2360f56219aa86a86ebbc68257b1/1068_1095_3034_2426/500.jpg",
+      "published": "2026-04-18T23:01:25Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "uk-news"
     }
   ]
 }
