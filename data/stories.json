@@ -1,220 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-18T16:06:13.744Z",
-    "story_count": 73,
-    "oldest_story": "2026-04-17T16:30:05Z",
-    "newest_story": "2026-04-18T16:00:29Z",
+    "generated_at": "2026-04-18T18:03:24.668Z",
+    "story_count": 62,
+    "oldest_story": "2026-04-17T19:44:14Z",
+    "newest_story": "2026-04-18T18:00:48Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "business/2026/apr/17/oil-gas-prices-fall-iran-strait-of-hormuz-brent-crude-donald-trump",
-      "headline": "Oil price drops below $90 a barrel after Iran says strait of Hormuz is open",
-      "summary": "Oil prices fall below $90/barrel after Iran opens Strait of Hormuz to shipping.",
-      "url": "https://www.theguardian.com/p/x4p22g",
-      "thumbnail": "https://media.guim.co.uk/1d187438efe895eb93e14842350bd18880f9373a/0_0_6341_5072/500.jpg",
-      "published": "2026-04-17T17:23:07Z",
-      "location": {
-        "name": "Strait of Hormuz",
-        "lat": 26.55,
-        "lng": 56.2667
-      },
-      "category": "economy",
-      "significance": 4,
-      "section": "business"
-    },
-    {
-      "id": "uk-news/2026/apr/17/windrush-scandal-compensation-home-office-report",
-      "headline": "More than half of Windrush compensation claims rejected by Home Office, report finds",
-      "summary": "Over half of Windrush scandal compensation claims rejected by Home Office, NAO report shows.",
-      "url": "https://www.theguardian.com/p/x4px3g",
-      "thumbnail": "https://media.guim.co.uk/c1dbdba9f51e1e5662ba0356316b3d12cbe96e42/437_0_3063_2451/500.jpg",
-      "published": "2026-04-17T17:12:03Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "technology/2026/apr/17/kenyan-outsourcing-company-for-meta-sacks-workers",
-      "headline": "Kenyan firm sacks more than 1,000 workers after losing Meta contract",
-      "summary": "Meta outsourcing partner Sama fires 1,000+ Kenyan workers after losing Meta contract.",
-      "url": "https://www.theguardian.com/p/x4p2d4",
-      "thumbnail": "https://media.guim.co.uk/4a486dc22d1f66eddb54d2e1e16341f360057bca/442_0_3221_2577/500.jpg",
-      "published": "2026-04-17T16:59:04Z",
-      "location": {
-        "name": "Nairobi",
-        "lat": -1.2921,
-        "lng": 36.8219
-      },
-      "category": "tech",
-      "significance": 2,
-      "section": "technology"
-    },
-    {
-      "id": "science/2026/apr/17/annette-dolphin-obituary",
-      "headline": "Annette Dolphin obituary",
-      "summary": "Neuroscientist Annette Dolphin, pioneer of calcium channel research, dies aged 74.",
-      "url": "https://www.theguardian.com/p/x4ncx3",
-      "thumbnail": "https://media.guim.co.uk/d0644d39fa7badf740953a1a1811a0a07a5b004f/21_22_650_520/500.png",
-      "published": "2026-04-17T16:55:32Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "health",
-      "significance": 1,
-      "section": "science"
-    },
-    {
-      "id": "uk-news/2026/apr/17/defence-spending-should-not-be-a-choice-of-welfare-or-warfare",
-      "headline": "Defence spending should not be a choice of welfare or warfare",
-      "summary": "Readers debate whether UK defence spending should increase amid welfare pressures.",
-      "url": "https://www.theguardian.com/p/x4zx9e",
-      "thumbnail": "https://media.guim.co.uk/d9fa517715637985274912ad485203eabaad8820/439_0_4741_3793/500.jpg",
-      "published": "2026-04-17T16:53:43Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "lifeandstyle/2026/apr/17/paving-is-crazy-we-should-let-our-gardens-grow-as-nature-intended",
-      "headline": "Paving is crazy: we should let our gardens grow as nature intended",
-      "summary": "Readers defend untidy gardens as nature-friendly alternatives to paving.",
-      "url": "https://www.theguardian.com/p/x4zcqm",
-      "thumbnail": "https://media.guim.co.uk/0250ed48918674fc004d95f69b6550e707b335b2/165_0_2456_1966/500.jpg",
-      "published": "2026-04-17T16:53:14Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "lifeandstyle"
-    },
-    {
-      "id": "uk-news/2026/apr/17/nursery-worker-jailed-for-three-years-over-death-of-14-month-old-boy-in-her-care",
-      "headline": "Nursery worker jailed for three years over death of 14-month-old boy in her care",
-      "summary": "Nursery worker jailed for 3 years after 14-month-old dies from physical restraint.",
-      "url": "https://www.theguardian.com/p/x4znkt",
-      "thumbnail": "https://media.guim.co.uk/0d335c73c1d330fc97dffeaab3499310910f0337/0_42_1388_1110/500.jpg",
-      "published": "2026-04-17T16:49:21Z",
-      "location": {
-        "name": "Dudley",
-        "lat": 52.505,
-        "lng": -2.0788
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "politics/2026/apr/17/what-happens-security-vetting-peter-mandelson",
-      "headline": "What happens during security vetting and why did Peter Mandelson fail his?",
-      "summary": "Security vetting process explained after Peter Mandelson fails clearance for ambassador role.",
-      "url": "https://www.theguardian.com/p/x4pxm4",
-      "thumbnail": "https://media.guim.co.uk/7c8c6f8fca91b3f09152c5f30079e7955b7e2181/0_0_5000_4000/500.jpg",
-      "published": "2026-04-17T16:44:02Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "travel/2026/apr/17/when-we-dined-with-a-clown-at-simpsons",
-      "headline": "When we dined with a clown at Simpson’s",
-      "summary": "Reader recalls dining with entertainers at Simpson's-in-the-Strand restaurant.",
-      "url": "https://www.theguardian.com/p/x4nx2q",
-      "thumbnail": "https://media.guim.co.uk/3d6c16dcc8742f0d5e5b72dc95ae9a8405f5a6dc/249_0_5733_4587/500.jpg",
-      "published": "2026-04-17T16:43:43Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "travel"
-    },
-    {
-      "id": "football/2026/apr/17/bournemouth-set-to-appoint-marco-rose-as-manager-for-next-season",
-      "headline": "Bournemouth set to appoint Marco Rose as manager for next season",
-      "summary": "Bournemouth set to appoint Marco Rose as manager to replace Andoni Iraola.",
-      "url": "https://www.theguardian.com/p/x4p2mb",
-      "thumbnail": "https://media.guim.co.uk/83eb17c122a29f3fbb897dadf9a5840e6084b2e7/926_325_3496_2797/500.jpg",
-      "published": "2026-04-17T16:39:49Z",
-      "location": {
-        "name": "Bournemouth",
-        "lat": 50.7352,
-        "lng": -1.8391
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "us-news/2026/apr/17/congress-fisa-extension-warrantless-surveillance-law",
-      "headline": "US Congress passes 10-day extension of surveillance law amid Republican infighting",
-      "summary": "Congress passes 10-day extension of controversial FISA warrantless surveillance law.",
-      "url": "https://www.theguardian.com/p/x4p2tx",
-      "thumbnail": "https://media.guim.co.uk/06c15b468ea77e1fc8bdb1576f0726790953aa4d/497_265_3879_3102/500.jpg",
-      "published": "2026-04-17T16:34:49Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "sport/2026/apr/17/dan-skelton-vows-to-give-it-best-shot-to-pass-5m-mark-and-then-win-at-bogey-track",
-      "headline": "Dan Skelton targets bogey track as rivals jockey for Scottish Grand National glory",
-      "summary": "Dan Skelton targets final jumps track to complete record-breaking trainer season.",
-      "url": "https://www.theguardian.com/p/x4p2df",
-      "thumbnail": "https://media.guim.co.uk/32bcda28b2e0cb727661af58840fbc39e6bb48c6/1283_739_4943_3955/500.jpg",
-      "published": "2026-04-17T16:32:19Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "politics/2026/apr/17/olly-robbins-peter-mandelson-vetting-what-did-he-do-why-and-who-knew",
-      "headline": "Olly Robbins and Mandelson’s vetting: what did he do, why – and who knew?",
-      "summary": "Inquiry into Olly Robbins vetting process raises questions about ministerial oversight.",
-      "url": "https://www.theguardian.com/p/x4pxem",
-      "thumbnail": "https://media.guim.co.uk/026d6ed0aa99dd8f4c525c2dd5873159ea07424e/0_0_5000_4000/500.jpg",
-      "published": "2026-04-17T16:30:05Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
     {
       "id": "football/live/2026/apr/17/coventry-city-chase-place-in-premier-league-against-blackburn-rovers-live",
       "headline": "Coventry City chase promotion to Premier League against Blackburn Rovers – live",
@@ -1174,6 +966,38 @@
       "category": "economy",
       "significance": 2,
       "section": "business"
+    },
+    {
+      "id": "football/live/2026/apr/18/chelsea-v-manchester-united-premier-league-live",
+      "headline": "Chelsea v Manchester United: Premier League – live",
+      "summary": "Chelsea face Manchester United in Premier League match with top four implications.",
+      "url": "https://www.theguardian.com/p/x4zt42",
+      "thumbnail": "https://media.guim.co.uk/efc2d654772969ab7bee08f41d778e68c9cc244a/474_0_2459_1968/500.jpg",
+      "published": "2026-04-18T18:00:48Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/apr/18/efl-roundup-cardiff-promoted-league-one-bromley-league-two",
+      "headline": "EFL roundup: Cardiff promoted from League One after Exeter keeper’s goal denies Stockport",
+      "summary": "Cardiff promoted to Championship after League One promotion race results favor Welsh club.",
+      "url": "https://www.theguardian.com/p/x4p2zv",
+      "thumbnail": "https://media.guim.co.uk/ff0afbc8899d525d07ba652941bda6ad94888e5e/272_0_4794_3835/500.jpg",
+      "published": "2026-04-18T17:24:01Z",
+      "location": {
+        "name": "Cardiff",
+        "lat": 51.4816,
+        "lng": -3.1791
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
     }
   ]
 }
