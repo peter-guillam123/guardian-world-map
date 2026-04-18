@@ -1,92 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-18T10:27:18.554Z",
-    "story_count": 64,
-    "oldest_story": "2026-04-17T10:33:44Z",
-    "newest_story": "2026-04-18T10:24:07Z",
+    "generated_at": "2026-04-18T12:00:54.722Z",
+    "story_count": 68,
+    "oldest_story": "2026-04-17T14:00:46Z",
+    "newest_story": "2026-04-18T12:00:13Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "politics/live/2026/apr/17/peter-mandelson-keir-starmer-olly-robbins-vetting-foreign-office-latest-news-updates",
-      "headline": "Starmer says it is ‘staggering’ and ‘unforgivable’ he was not told Mandelson failed vetting – UK politics live",
-      "summary": "PM Starmer says it's 'unforgivable' he wasn't told Mandelson failed security vetting for Foreign Office.",
-      "url": "https://www.theguardian.com/p/x4pvd5",
-      "thumbnail": "https://media.guim.co.uk/4bb6291c775db911ca65ebf70ba0d5485b78210b/468_0_5160_4128/500.jpg",
-      "published": "2026-04-17T10:38:40Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "politics"
-    },
-    {
-      "id": "football/live/2026/apr/17/premier-league-set-for-crunch-weekend-european-reaction-and-more-football-live",
-      "headline": "Premier League heads for crunch weekend, Haaland ready for Arsenal ‘final’ – football live",
-      "summary": "Arsenal face Manchester City in crunch Premier League title race finale this weekend.",
-      "url": "https://www.theguardian.com/p/x4zcqk",
-      "thumbnail": "https://media.guim.co.uk/f2f04abf9a95ef51b08cd0f58c1c5a5f888dcf33/43_0_5000_4000/500.jpg",
-      "published": "2026-04-17T10:37:18Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "stage/2026/apr/17/movement-directors-choreographers-olivier-awards-theatre-industry",
-      "headline": "Give theatre choreographers and movement directors their own awards, says union group",
-      "summary": "Theatre union calls for dedicated Olivier awards for choreographers and movement directors.",
-      "url": "https://www.theguardian.com/p/x4pvzy",
-      "thumbnail": "https://media.guim.co.uk/a8bda7e3bd7e917dcc0c28b06d9a71ecfbc27f44/498_604_2900_2320/500.jpg",
-      "published": "2026-04-17T10:36:51Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "stage"
-    },
-    {
-      "id": "world/2026/apr/17/law-pardon-women-convicted-abortions-passes-uk-parliament",
-      "headline": "Law to pardon UK women convicted of illegal abortions passes final hurdle in parliament",
-      "summary": "UK parliament passes law to pardon women convicted of illegal abortions and expunge records.",
-      "url": "https://www.theguardian.com/p/x4znd3",
-      "thumbnail": "https://media.guim.co.uk/8b91208f5ba78755f53c5d1129481ea538e48e26/226_0_2921_2336/500.jpg",
-      "published": "2026-04-17T10:34:14Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "sport/live/2026/apr/17/hampshire-v-somerset-warwickshire-v-essex-and-more-county-cricket-day-one-live",
-      "headline": "Lancashire to put matches behind paywall; Hampshire v Somerset, and more: county cricket – live",
-      "summary": "County Championship cricket continues with Hampshire v Somerset and other first-day matches.",
-      "url": "https://www.theguardian.com/p/x4zh2d",
-      "thumbnail": "https://media.guim.co.uk/f73287625e7418cf079e73938bd392461d2a7102/527_0_5000_4000/500.jpg",
-      "published": "2026-04-17T10:33:44Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 1,
-      "section": "sport"
-    },
     {
       "id": "us-news/live/2026/apr/17/house-congress-republicans-trump-administration-us-politics-news-live",
       "headline": "House approves short-term extension of surveillance law in blow to Republicans’ long-term plan – US politics live",
@@ -1030,6 +950,150 @@
       "category": "politics",
       "significance": 2,
       "section": "world"
+    },
+    {
+      "id": "business/2026/apr/18/growing-knowledge-growing-yield-british-wine-making-comes-of-age",
+      "headline": "Growing knowledge, growing yield: British wine-making comes of age",
+      "summary": "UK wine production booms in Dorset as climate change and new techniques transform viticulture industry.",
+      "url": "https://www.theguardian.com/p/x4khq7",
+      "thumbnail": "https://media.guim.co.uk/43b0acad5c0822fed9ba1636321673eed4ad6f47/649_0_6487_5192/500.jpg",
+      "published": "2026-04-18T12:00:13Z",
+      "location": {
+        "name": "Dorset",
+        "lat": 50.7184,
+        "lng": -2.4534
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "sport/live/2026/apr/18/scotland-v-england-womens-six-nations-rugby-union-live",
+      "headline": "Scotland v England: Women’s Six Nations rugby union – live",
+      "summary": "Scotland hosts England in Women's Six Nations rugby at Murrayfield with title defence on the line.",
+      "url": "https://www.theguardian.com/p/x4ztj2",
+      "thumbnail": "https://media.guim.co.uk/41739aa62f691b3ec9f581c7d2a7029ba69fe7a4/307_0_3623_2898/500.jpg",
+      "published": "2026-04-18T11:51:52Z",
+      "location": {
+        "name": "Edinburgh",
+        "lat": 55.9533,
+        "lng": -3.1883
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "football/2026/apr/18/pep-guardiola-manchester-city-hard-to-replace-alex-ferguson-manchester-united",
+      "headline": "If this is Guardiola’s last City season he will be as hard to replace as Ferguson at United",
+      "summary": "Pep Guardiola faces Arsenal showdown amid speculation about potential final season at Manchester City.",
+      "url": "https://www.theguardian.com/p/x4p27k",
+      "thumbnail": "https://media.guim.co.uk/5e9e8a366d7b5dbc4a104c1e0db1bc816e7e919f/29_60_1020_816/500.jpg",
+      "published": "2026-04-18T11:00:15Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4831,
+        "lng": -2.2039
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/apr/18/e-bike-crashes-safety-regulations",
+      "headline": "As e-bike crashes send an increasing number of people to the hospital, cities search for solutions",
+      "summary": "US cities implement e-bike regulations and infrastructure improvements to reduce surge in crash injuries.",
+      "url": "https://www.theguardian.com/p/x4p27h",
+      "thumbnail": "https://media.guim.co.uk/b36d165e375041735386339ed92269c481eaea77/598_313_2523_2019/500.jpg",
+      "published": "2026-04-18T11:00:12Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "world/2026/apr/18/hungary-peter-magyar-donald-tusk-poland-europe",
+      "headline": "Hungary’s incoming PM seeks Polish help to renew EU relations",
+      "summary": "Hungary's incoming PM Péter Magyar seeks Polish partnership to repair EU relations after Orbán era.",
+      "url": "https://www.theguardian.com/p/x4znxn",
+      "thumbnail": "https://media.guim.co.uk/1449c3dd183dd702c3e87ace19961791c445464a/315_0_6254_5003/500.jpg",
+      "published": "2026-04-18T11:00:12Z",
+      "location": {
+        "name": "Budapest",
+        "lat": 47.4979,
+        "lng": 19.0402
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "world/2026/apr/18/iran-war-bets-ethics-concerns",
+      "headline": "Traders placed over $1bn in perfectly timed bets on the Iran war. What is going on?",
+      "summary": "Over $1bn in suspicious betting on US-Israel Iran war raises concerns among US lawmakers.",
+      "url": "https://www.theguardian.com/p/x4zpc6",
+      "thumbnail": "https://media.guim.co.uk/a015cbe3cc86bb76b2ae057965890207757e3202/1_0_2999_2400/500.jpg",
+      "published": "2026-04-18T11:00:12Z",
+      "location": {
+        "name": "Tehran",
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "commentisfree/2026/apr/18/trump-pope-war-morals",
+      "headline": "War isn’t a ‘moral’ issue – at least not for the Trump administration",
+      "summary": "Trump administration's conflict with Pope highlights religion's role in American political divide.",
+      "url": "https://www.theguardian.com/p/x4zpz9",
+      "thumbnail": "https://media.guim.co.uk/9ec1890662e73ce7680e6ac9f10fa1db0b6c368d/350_0_3500_2800/500.jpg",
+      "published": "2026-04-18T11:00:12Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "commentisfree"
+    },
+    {
+      "id": "money/2026/apr/18/maternity-pay-mortgage-struggle-self-employed",
+      "headline": "The maternity and mortgage struggle of being self-employed: ‘It was overwhelming at times’",
+      "summary": "Self-employed UK parents struggle with maternity pay and mortgage access, creating financial hardship.",
+      "url": "https://www.theguardian.com/p/x4nvaf",
+      "thumbnail": "https://media.guim.co.uk/704bdbc1a4a87002981d13aedcb2025077f6f0fc/926_50_4547_3640/500.jpg",
+      "published": "2026-04-18T11:00:11Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "money"
+    },
+    {
+      "id": "us-news/2026/apr/18/earth-brightness-study",
+      "headline": "Earth gets brighter every year but progression is volatile, study finds",
+      "summary": "NASA study finds Earth brightens yearly but progression volatile due to Covid, regulations, economy.",
+      "url": "https://www.theguardian.com/p/x4zjg2",
+      "thumbnail": "https://media.guim.co.uk/b4a797f3c9f9a6f6b53fb62b39e2f264127b39a3/0_413_2539_2030/500.jpg",
+      "published": "2026-04-18T11:00:11Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "us-news"
     }
   ]
 }
