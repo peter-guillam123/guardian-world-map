@@ -1,44 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-18T19:56:15.309Z",
-    "story_count": 65,
-    "oldest_story": "2026-04-17T19:56:38Z",
-    "newest_story": "2026-04-18T19:17:00Z",
+    "generated_at": "2026-04-18T21:52:57.272Z",
+    "story_count": 60,
+    "oldest_story": "2026-04-17T21:58:06Z",
+    "newest_story": "2026-04-18T21:50:24Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/live/2026/apr/17/coventry-city-chase-place-in-premier-league-against-blackburn-rovers-live",
-      "headline": "Coventry City chase promotion to Premier League against Blackburn Rovers – live",
-      "summary": "Coventry City face Blackburn Rovers in Championship promotion battle to Premier League.",
-      "url": "https://www.theguardian.com/p/x4zhde",
-      "thumbnail": "https://media.guim.co.uk/6d1f3feb404a02b0c7caec0ec932096d249c8334/1009_1_2370_1895/500.jpg",
-      "published": "2026-04-17T20:07:52Z",
-      "location": {
-        "name": "Coventry",
-        "lat": 52.4089,
-        "lng": -1.5045
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "world/2026/apr/17/trump-claims-victory-iran-war-analysis",
-      "headline": "Trump’s Iran war victory boast has echoes of Bush’s ill-fated ‘mission accomplished’ claim",
-      "summary": "Trump claims victory on Iran war ahead of peace talks, drawing comparison to Bush's 'mission accomplished'.",
-      "url": "https://www.theguardian.com/p/x4p39h",
-      "thumbnail": "https://media.guim.co.uk/e3afea27f3ea1e27ed9bb7f5ca7e5c1be7457049/493_272_3662_2931/500.jpg",
-      "published": "2026-04-17T19:56:38Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
     {
       "id": "us-news/2026/apr/17/philz-coffee-pride-flags-california",
       "headline": "California coffee chain reinstates policy on Pride flags after swift backlash",
@@ -52,102 +20,6 @@
         "lng": -122.4194
       },
       "category": "culture",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "football/2026/apr/17/ipswich-in-driving-seat-for-promotion-but-little-as-it-seems-in-championship-battle",
-      "headline": "Ipswich in promotion driving seat but little is ever as it seems with Championship",
-      "summary": "Ipswich Town aims for Championship promotion as playoff battle intensifies.",
-      "url": "https://www.theguardian.com/p/x4pxeq",
-      "thumbnail": "https://media.guim.co.uk/0514ea9be654cfadea65b0954224fbde5bf3c508/148_417_3040_2432/500.jpg",
-      "published": "2026-04-17T21:39:50Z",
-      "location": {
-        "name": "Suffolk",
-        "lat": 52.0508,
-        "lng": 1.1379
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/apr/17/marcus-rashford-faces-summer-post-loan-limbo-michael-carrick-door-manchester-united-not-closed",
-      "headline": "Rashford faces summer in post-loan limbo but Carrick says door at United is not closed",
-      "summary": "Marcus Rashford faces transfer uncertainty as Barcelona loan unlikely to become permanent.",
-      "url": "https://www.theguardian.com/p/x4p28v",
-      "thumbnail": "https://media.guim.co.uk/25048d6375db97940ed4779715f398dcf407710c/535_0_3188_2551/500.jpg",
-      "published": "2026-04-17T21:30:55Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4808,
-        "lng": -2.2426
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/apr/17/mikel-arteta-manchester-city-arsenal-tactics-bukayo-saka-injury",
-      "headline": "Arsenal will not play for a draw in Manchester City face-off, insists Arteta",
-      "summary": "Mikel Arteta vows Arsenal will attack Manchester City in Premier League title showdown.",
-      "url": "https://www.theguardian.com/p/x4p2kb",
-      "thumbnail": "https://media.guim.co.uk/3a7b422640a4c4882e50cd91a23a9233375afebb/60_0_1784_1427/500.jpg",
-      "published": "2026-04-17T21:30:55Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4808,
-        "lng": -2.2426
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/apr/17/premier-league-news-newcastle-liverpool-tottenham",
-      "headline": "Premier League news: Howe vows to ‘fight harder than ever’; Slot ready for derby heat",
-      "summary": "Eddie Howe pledges Newcastle will 'fight harder than ever' to revive struggling season.",
-      "url": "https://www.theguardian.com/p/x4pvky",
-      "thumbnail": "https://media.guim.co.uk/b446fd9374dad7e202b6b8e1784ef6139c11b9ec/0_456_5430_4345/500.jpg",
-      "published": "2026-04-17T21:30:07Z",
-      "location": {
-        "name": "Newcastle upon Tyne",
-        "lat": 54.9783,
-        "lng": -1.6178
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/apr/17/frank-lampard-delight-as-nervy-draw-at-blackburn-seals-promotion-for-coventry",
-      "headline": "Frank Lampard delight as nervy draw at Blackburn seals promotion for Coventry",
-      "summary": "Coventry City secures Premier League promotion after 25-year absence under Frank Lampard.",
-      "url": "https://www.theguardian.com/p/x4p3af",
-      "thumbnail": "https://media.guim.co.uk/e52a20e06b2a365d6930f4397c408dedf4726e5f/416_665_3454_2763/500.jpg",
-      "published": "2026-04-17T21:04:40Z",
-      "location": {
-        "name": "Coventry",
-        "lat": 52.4086,
-        "lng": -1.4773
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "us-news/2026/apr/17/cia-john-brennan-russia-trump-investigation",
-      "headline": "Lead prosecutor on investigation into former CIA director no longer on case",
-      "summary": "Lead prosecutor investigating former CIA director John Brennan removed from case.",
-      "url": "https://www.theguardian.com/p/x4p3kz",
-      "thumbnail": "https://media.guim.co.uk/00630a5163d5f6ffd2f175cf711a41dbe2ce207a/560_0_3664_2931/500.jpg",
-      "published": "2026-04-17T21:01:41Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
       "significance": 2,
       "section": "us-news"
     },
@@ -1046,6 +918,54 @@
       "category": "sport",
       "significance": 2,
       "section": "football"
+    },
+    {
+      "id": "tv-and-radio/2026/apr/18/the-murder-line-review-minnie-driver-itv",
+      "headline": "The Murder Line review – Minnie Driver’s mischievous crime caper is on the edge of excellence",
+      "summary": "Minnie Driver stars in entertaining Canadian crime drama The Murder Line set in border country.",
+      "url": "https://www.theguardian.com/p/x4zhkm",
+      "thumbnail": "https://media.guim.co.uk/9767b1f89fc929e4ad2ca4ea783e1f253381ac89/502_0_2132_1706/500.jpg",
+      "published": "2026-04-18T21:50:24Z",
+      "location": {
+        "name": "Thousand Islands",
+        "lat": 44.3617,
+        "lng": -75.7456
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "tv-and-radio"
+    },
+    {
+      "id": "football/2026/apr/18/chelsea-manchester-united-premier-league-match-report",
+      "headline": "Manchester United hold on after Cunha’s cool finish to hand Chelsea latest loss",
+      "summary": "Manchester United defeats Chelsea 1-0 at Stamford Bridge in Premier League match.",
+      "url": "https://www.theguardian.com/p/x4pxtd",
+      "thumbnail": "https://media.guim.co.uk/9463a56ec27643cb6429798d459a0bb721f88a66/359_0_3592_2874/500.jpg",
+      "published": "2026-04-18T21:13:05Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "tv-and-radio/2026/apr/18/queen-elizabeth-ii-her-story-our-century-review-royal-family-documentary-bbc-one-iplayer",
+      "headline": "Queen Elizabeth II: Her Story, Our Century review – apparently she was very good at shaking hands",
+      "summary": "BBC documentary Queen Elizabeth II: Her Story, Our Century offers basic royalist tribute.",
+      "url": "https://www.theguardian.com/p/x4zdvj",
+      "thumbnail": "https://media.guim.co.uk/3a2117a44a277b178f355f3d912ca24f2a263709/0_0_2378_1902/500.jpg",
+      "published": "2026-04-18T21:00:23Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "tv-and-radio"
     }
   ]
 }
