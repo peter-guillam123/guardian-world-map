@@ -1,60 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-18T14:27:13.392Z",
-    "story_count": 71,
-    "oldest_story": "2026-04-17T14:28:42Z",
-    "newest_story": "2026-04-18T14:00:15Z",
+    "generated_at": "2026-04-18T16:06:13.744Z",
+    "story_count": 73,
+    "oldest_story": "2026-04-17T16:30:05Z",
+    "newest_story": "2026-04-18T16:00:29Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "us-news/live/2026/apr/17/house-congress-republicans-trump-administration-us-politics-news-live",
-      "headline": "House approves short-term extension of surveillance law in blow to Republicans’ long-term plan – US politics live",
-      "summary": "House approves short-term surveillance law extension after 20 Republicans join Democrats to defeat longer renewals.",
-      "url": "https://www.theguardian.com/p/x4px4d",
-      "thumbnail": "https://media.guim.co.uk/874f9004fa934fecc91ea0c502b2d17a2abc62ec/284_0_3274_2619/500.jpg",
-      "published": "2026-04-17T14:40:26Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "law/2026/apr/17/rape-case-one-of-britains-greatest-miscarriages-justice",
-      "headline": "The rape case that became one of Britain’s greatest miscarriages of justice",
-      "summary": "Paul Quinn convicted in 2003 rape case that led to Andrew Malkinson's 17-year wrongful imprisonment.",
-      "url": "https://www.theguardian.com/p/x4knta",
-      "thumbnail": "https://media.guim.co.uk/71b18de0c2212f7891fa9bd8296174f61291f601/0_0_5000_4000/500.jpg",
-      "published": "2026-04-17T14:34:27Z",
-      "location": {
-        "name": "Salford",
-        "lat": 53.4878,
-        "lng": -2.2891
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "law"
-    },
-    {
-      "id": "uk-news/2026/apr/17/man-found-guilty-of-that-led-to-andrew-malkinsons-wrongful-imprisonment",
-      "headline": "Man found guilty of rape that led to Andrew Malkinson’s wrongful imprisonment",
-      "summary": "Paul Quinn found guilty of rape that wrongfully imprisoned Andrew Malkinson for 17 years using DNA evidence.",
-      "url": "https://www.theguardian.com/p/x4zx48",
-      "thumbnail": "https://media.guim.co.uk/5b555dbc3deba5ebe637c7e83f28c5179c5fec2f/98_0_1779_1423/500.jpg",
-      "published": "2026-04-17T14:28:42Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4808,
-        "lng": -2.2426
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "uk-news"
-    },
     {
       "id": "business/2026/apr/17/oil-gas-prices-fall-iran-strait-of-hormuz-brent-crude-donald-trump",
       "headline": "Oil price drops below $90 a barrel after Iran says strait of Hormuz is open",
@@ -1142,6 +1094,86 @@
       "category": "conflict",
       "significance": 4,
       "section": "world"
+    },
+    {
+      "id": "football/live/2026/apr/18/iceland-v-england-womens-world-cup-2027-qualifier-live",
+      "headline": "Iceland v England: Women’s World Cup 2027 qualifier – live",
+      "summary": "England women's football team plays Iceland in World Cup 2027 qualifier, marking their 500th game.",
+      "url": "https://www.theguardian.com/p/x4ztet",
+      "thumbnail": "https://media.guim.co.uk/3b65fa8a1414922aff0e4544cb8dc0cc4581a86b/449_0_2846_2277/500.jpg",
+      "published": "2026-04-18T16:00:29Z",
+      "location": {
+        "name": "Reykjavik",
+        "lat": 64.1466,
+        "lng": -21.9426
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "politics/2026/apr/18/two-more-reform-local-election-candidates-accused-offensive-posts",
+      "headline": "Two more Reform local election candidates accused of offensive posts",
+      "summary": "Labour criticises Reform UK's candidate vetting after two more local election candidates accused of offensive social media posts.",
+      "url": "https://www.theguardian.com/p/x4zzck",
+      "thumbnail": "https://media.guim.co.uk/d61dad212f6c7007ad3a6eb42d71542e8a73b8ea/635_0_6365_5092/500.jpg",
+      "published": "2026-04-18T16:00:17Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "football/live/2026/apr/18/tottenham-hotspur-v-brighton-premier-league-live",
+      "headline": "Tottenham Hotspur v Brighton: Premier League – live",
+      "summary": "Tottenham Hotspur faces Brighton in Premier League match with Roberto De Zerbi returning to face his former club.",
+      "url": "https://www.theguardian.com/p/x4ztc4",
+      "thumbnail": "https://media.guim.co.uk/5dada757cbbe02031633f9f778f08ac317153ca1/414_0_1897_1518/500.jpg",
+      "published": "2026-04-18T15:53:25Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "world/2026/apr/18/donald-trump-tehran-war-mismanaged-posts-progress-peace",
+      "headline": "Trump and Tehran’s series of mismanaged posts stall progress towards peace",
+      "summary": "Trump and Iran's mismanaged peace announcements collapse negotiations; Iran threatens Strait of Hormuz blockade.",
+      "url": "https://www.theguardian.com/p/x4p752",
+      "thumbnail": "https://media.guim.co.uk/5b709d992cd6eb0ddf018ce00b2d7453c2ca4d5d/418_0_4164_3333/500.jpg",
+      "published": "2026-04-18T15:04:47Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "business/2026/apr/18/reeves-rightly-fears-the-bond-market-but-she-can-afford-to-ditch-one-unhelpful-rule",
+      "headline": "Reeves rightly fears the bond market, but she can afford to ditch one unhelpful rule",
+      "summary": "Chancellor Rachel Reeves must balance deficit reduction fears with long-term defence investment needs.",
+      "url": "https://www.theguardian.com/p/x4zh79",
+      "thumbnail": "https://media.guim.co.uk/5621a6fe8baa8ef90d36bebba987bd6d5e9badaa/47_0_6880_5504/500.jpg",
+      "published": "2026-04-18T15:00:16Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
     }
   ]
 }
