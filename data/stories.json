@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-04-18T12:00:54.722Z",
-    "story_count": 68,
-    "oldest_story": "2026-04-17T14:00:46Z",
-    "newest_story": "2026-04-18T12:00:13Z",
+    "generated_at": "2026-04-18T14:27:13.392Z",
+    "story_count": 71,
+    "oldest_story": "2026-04-17T14:28:42Z",
+    "newest_story": "2026-04-18T14:00:15Z",
     "window_hours": 24
   },
   "stories": [
@@ -54,54 +54,6 @@
       "category": "politics",
       "significance": 3,
       "section": "uk-news"
-    },
-    {
-      "id": "thefilter-us/2026/apr/17/earth-day-deals-sustainable-brands",
-      "headline": "The nine best sustainable US deals to shop this Earth Day, from balms to bath towels",
-      "summary": "Earth Day sales highlight sustainable US brands offering climate-conscious products at reduced prices.",
-      "url": "https://www.theguardian.com/p/x4zpge",
-      "thumbnail": "https://media.guim.co.uk/c2cdaf139536da124dd4a2fb4dfe8f56f66ed71c/1_0_4998_4000/500.jpg",
-      "published": "2026-04-17T14:15:46Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "economy",
-      "significance": 1,
-      "section": "thefilter-us"
-    },
-    {
-      "id": "uk-news/2026/apr/17/birmingham-is-awash-with-local-election-candidates-but-will-result-be-a-coalition-of-chaos",
-      "headline": "Birmingham is awash with local election candidates – but will result be a ‘coalition of chaos’?",
-      "summary": "Birmingham local elections see fragmented field of candidates from multiple parties risking governance instability.",
-      "url": "https://www.theguardian.com/p/x4znzk",
-      "thumbnail": "https://media.guim.co.uk/af781d609e89a8eb27b539ebee4555d296f218b1/682_0_6830_5464/500.jpg",
-      "published": "2026-04-17T14:07:31Z",
-      "location": {
-        "name": "Birmingham",
-        "lat": 52.5086,
-        "lng": -1.8853
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "thefilter/2026/apr/17/best-rums-tested-uk",
-      "headline": "The best rums: 10 tasty tipples for mojitos, sours and sipping neat – tested ",
-      "summary": "UK rum market thrives with £1.1bn sales as indie labels drive spirits renaissance beyond pirate stereotypes.",
-      "url": "https://www.theguardian.com/p/x3yceh",
-      "thumbnail": "https://media.guim.co.uk/2529aea622b463384f8fa2e126cf0d2428a2b4f9/0_0_5000_4000/500.jpg",
-      "published": "2026-04-17T14:00:46Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "thefilter"
     },
     {
       "id": "business/2026/apr/17/oil-gas-prices-fall-iran-strait-of-hormuz-brent-crude-donald-trump",
@@ -1094,6 +1046,102 @@
       "category": "climate",
       "significance": 2,
       "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/apr/18/new-york-respond-santacon-fraud-indictment",
+      "headline": "Just what they wanted: fed-up New Yorkers revel in SantaCon fraud charge",
+      "summary": "SantaCon organizer Stefan Pildes indicted for fraud, pocketing hundreds of thousands in donations.",
+      "url": "https://www.theguardian.com/p/x4p382",
+      "thumbnail": "https://media.guim.co.uk/d95de215ef11c2aa38bfd0f8ed810627f2a8ce81/1197_882_4747_3800/500.jpg",
+      "published": "2026-04-18T14:00:15Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "society/2026/apr/18/olivia-nervo-reproductive-coercion-standalone-offence",
+      "headline": "‘Labels protect us’: Olivia Nervo wants reproductive coercion to be a standalone offence – she is not alone",
+      "summary": "Grammy winner Olivia Nervo advocates for reproductive coercion as standalone legal offence.",
+      "url": "https://www.theguardian.com/p/x4zaq9",
+      "thumbnail": "https://media.guim.co.uk/d0dfb3aa9fa9bf929a0fcf65199f66feb9e52b21/35_217_961_768/500.jpg",
+      "published": "2026-04-18T14:00:15Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "society"
+    },
+    {
+      "id": "technology/2026/apr/18/sam-altman-house-attack-ai",
+      "headline": "How a fiery attack on Sam Altman’s home unfolded",
+      "summary": "Molotov cocktail attack on Sam Altman's home amid growing AI discontent and activism.",
+      "url": "https://www.theguardian.com/p/x4p2gb",
+      "thumbnail": "https://media.guim.co.uk/af5e5b63414c297b7c53918738413a13af0a0664/397_0_4164_3330/500.jpg",
+      "published": "2026-04-18T14:00:15Z",
+      "location": {
+        "name": "San Francisco",
+        "lat": 37.7749,
+        "lng": -122.4194
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "technology"
+    },
+    {
+      "id": "us-news/2026/apr/18/trump-administration-white-house-ballroom",
+      "headline": "Trump administration cleared to continue construction of White House ballroom, court rules",
+      "summary": "Appeals court approves Trump administration's $400m White House ballroom construction project.",
+      "url": "https://www.theguardian.com/p/x4p78x",
+      "thumbnail": "https://media.guim.co.uk/c6466abbaf57565dbb31553d19a72a480fc501ae/442_0_5000_4000/500.jpg",
+      "published": "2026-04-18T13:37:12Z",
+      "location": {
+        "name": "Washington, D.C.",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/apr/18/brentford-fulham-premier-league-match-report",
+      "headline": "Leno’s superb late save ensures 0-0 draw as Fulham hit Brentford’s European hopes",
+      "summary": "Brentford and Fulham draw 0-0 in west London derby as Leno makes crucial late save.",
+      "url": "https://www.theguardian.com/p/x4px63",
+      "thumbnail": "https://media.guim.co.uk/a9714acf911a17a8e1f9c69546aa6a11b5af3076/48_122_2334_1868/500.jpg",
+      "published": "2026-04-18T13:35:49Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "world/2026/apr/18/iran-closes-strait-of-hormuz-again-until-us-lifts-blockade",
+      "headline": "Iran closes strait of Hormuz again ‘until US lifts blockade’",
+      "summary": "Iran reclaims closure of Strait of Hormuz, IRGC fires on tanker amid US blockade tensions.",
+      "url": "https://www.theguardian.com/p/x4p7vq",
+      "thumbnail": "https://media.guim.co.uk/988bd67f7521732189a85217249fc6975c5e8512/320_0_3240_2592/500.jpg",
+      "published": "2026-04-18T13:24:14Z",
+      "location": {
+        "name": "Strait of Hormuz",
+        "lat": 26.5547,
+        "lng": 56.2671
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
     }
   ]
 }
