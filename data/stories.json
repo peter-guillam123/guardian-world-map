@@ -1,28 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-19T21:53:48.405Z",
-    "story_count": 56,
-    "oldest_story": "2026-04-18T23:01:25Z",
-    "newest_story": "2026-04-19T19:50:03Z",
+    "generated_at": "2026-04-19T23:55:42.279Z",
+    "story_count": 57,
+    "oldest_story": "2026-04-19T05:15:33Z",
+    "newest_story": "2026-04-19T23:54:28Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "uk-news/2026/apr/19/queen-elizabeth-ii-official-biographer-anna-keay",
-      "headline": "Queen Elizabeth II’s official biographer named as historian Anna Keay",
-      "summary": "Historian Anna Keay named as official biographer of Queen Elizabeth II.",
-      "url": "https://www.theguardian.com/p/x4p7f8",
-      "thumbnail": "https://media.guim.co.uk/58614565ed7e2360f56219aa86a86ebbc68257b1/1068_1095_3034_2426/500.jpg",
-      "published": "2026-04-18T23:01:25Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "uk-news"
-    },
     {
       "id": "world/live/2026/apr/19/middle-east-crisis-live-iran-us-strait-of-hormuz-trump-lebanon-israel",
       "headline": "Middle East crisis live: Iran says ‘fundamental’ issues’ still to be resolved with US amid strait of Hormuz impasse",
@@ -902,6 +886,38 @@
       "category": "sport",
       "significance": 2,
       "section": "football"
+    },
+    {
+      "id": "australia-news/live/2026/apr/20/australia-news-live-pocock-gas-tax-fuel-crisis-jim-chalmers-anthony-albanese-budget-ben-roberts-smith-war-crimes-ntwnfb",
+      "headline": "Australia news live: ‘weeks’ to restore production at Geelong refinery after blaze, Viva says; Chalmers warns of ‘big risks’ to inflation and growth",
+      "summary": "Geelong refinery to resume production within weeks following major blaze; inflation concerns raised.",
+      "url": "https://www.theguardian.com/p/x4pe4a",
+      "thumbnail": "https://media.guim.co.uk/dfd8d69ab5cb6e93a67afa62305280f0d7f99395/342_0_6330_5063/500.jpg",
+      "published": "2026-04-19T23:54:28Z",
+      "location": {
+        "name": "Geelong",
+        "lat": -38.1634,
+        "lng": 144.3615
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "australia-news"
+    },
+    {
+      "id": "business/2026/apr/20/abf-outcome-primark-spin-off-plan",
+      "headline": "ABF poised to reveal result of Primark and food business demerger plan",
+      "summary": "Associated British Foods plans potential demerger of Primark and food business amid competitive pressures.",
+      "url": "https://www.theguardian.com/p/x4p23t",
+      "thumbnail": "https://media.guim.co.uk/4bd94f3a503b44059c5ead27e26de5154927a7d5/484_0_4840_3872/500.jpg",
+      "published": "2026-04-19T23:01:54Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
     }
   ]
 }
