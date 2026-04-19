@@ -1,92 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-19T14:07:00.603Z",
-    "story_count": 48,
-    "oldest_story": "2026-04-18T15:00:16Z",
-    "newest_story": "2026-04-19T14:00:44Z",
+    "generated_at": "2026-04-19T16:02:02.791Z",
+    "story_count": 57,
+    "oldest_story": "2026-04-18T17:24:01Z",
+    "newest_story": "2026-04-19T15:54:19Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/live/2026/apr/18/iceland-v-england-womens-world-cup-2027-qualifier-live",
-      "headline": "Iceland v England: Women’s World Cup 2027 qualifier – live",
-      "summary": "England women's football team plays Iceland in World Cup 2027 qualifier, marking their 500th game.",
-      "url": "https://www.theguardian.com/p/x4ztet",
-      "thumbnail": "https://media.guim.co.uk/3b65fa8a1414922aff0e4544cb8dc0cc4581a86b/449_0_2846_2277/500.jpg",
-      "published": "2026-04-18T16:00:29Z",
-      "location": {
-        "name": "Reykjavik",
-        "lat": 64.1466,
-        "lng": -21.9426
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "politics/2026/apr/18/two-more-reform-local-election-candidates-accused-offensive-posts",
-      "headline": "Two more Reform local election candidates accused of offensive posts",
-      "summary": "Labour criticises Reform UK's candidate vetting after two more local election candidates accused of offensive social media posts.",
-      "url": "https://www.theguardian.com/p/x4zzck",
-      "thumbnail": "https://media.guim.co.uk/d61dad212f6c7007ad3a6eb42d71542e8a73b8ea/635_0_6365_5092/500.jpg",
-      "published": "2026-04-18T16:00:17Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "football/live/2026/apr/18/tottenham-hotspur-v-brighton-premier-league-live",
-      "headline": "Tottenham Hotspur v Brighton: Premier League – live",
-      "summary": "Tottenham Hotspur faces Brighton in Premier League match with Roberto De Zerbi returning to face his former club.",
-      "url": "https://www.theguardian.com/p/x4ztc4",
-      "thumbnail": "https://media.guim.co.uk/5dada757cbbe02031633f9f778f08ac317153ca1/414_0_1897_1518/500.jpg",
-      "published": "2026-04-18T15:53:25Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "world/2026/apr/18/donald-trump-tehran-war-mismanaged-posts-progress-peace",
-      "headline": "Trump and Tehran’s series of mismanaged posts stall progress towards peace",
-      "summary": "Trump and Iran's mismanaged peace announcements collapse negotiations; Iran threatens Strait of Hormuz blockade.",
-      "url": "https://www.theguardian.com/p/x4p752",
-      "thumbnail": "https://media.guim.co.uk/5b709d992cd6eb0ddf018ce00b2d7453c2ca4d5d/418_0_4164_3333/500.jpg",
-      "published": "2026-04-18T15:04:47Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "business/2026/apr/18/reeves-rightly-fears-the-bond-market-but-she-can-afford-to-ditch-one-unhelpful-rule",
-      "headline": "Reeves rightly fears the bond market, but she can afford to ditch one unhelpful rule",
-      "summary": "Chancellor Rachel Reeves must balance deficit reduction fears with long-term defence investment needs.",
-      "url": "https://www.theguardian.com/p/x4zh79",
-      "thumbnail": "https://media.guim.co.uk/5621a6fe8baa8ef90d36bebba987bd6d5e9badaa/47_0_6880_5504/500.jpg",
-      "published": "2026-04-18T15:00:16Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
     {
       "id": "football/live/2026/apr/18/chelsea-v-manchester-united-premier-league-live",
       "headline": "Chelsea v Manchester United: Premier League – live",
@@ -774,6 +694,230 @@
       "category": "culture",
       "significance": 1,
       "section": "lifeandstyle"
+    },
+    {
+      "id": "us-news/2026/apr/19/trump-energy-secretary-chris-wright-gas-prices",
+      "headline": "Trump energy secretary says gas prices might not drop back under $3 a gallon until 2027",
+      "summary": "Trump's energy secretary says US gas prices unlikely to drop below $3/gallon until 2027.",
+      "url": "https://www.theguardian.com/p/x4pckq",
+      "thumbnail": "https://media.guim.co.uk/040031981417cac14b045f9d8c62818312fa7565/0_0_5748_4598/500.jpg",
+      "published": "2026-04-19T15:54:19Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "uk-news/2026/apr/19/rudakubana-risk-and-parents-responsibility",
+      "headline": "Rudakubana, risk and parents’ responsibility",
+      "summary": "Readers debate parental responsibility in Southport killer Axel Rudakubana case.",
+      "url": "https://www.theguardian.com/p/x4pxtk",
+      "thumbnail": "https://media.guim.co.uk/2b6d027f02d1185a319c5d5c3d8c78643522c50d/66_0_2915_2333/500.jpg",
+      "published": "2026-04-19T15:51:47Z",
+      "location": {
+        "name": "Southport",
+        "lat": 53.5845,
+        "lng": -3.0037
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "football/2025/sep/15/premier-league-top-scorers-2025-26-who-is-leading-race-for-golden-boot",
+      "headline": "Premier League top scorers 2025-26: who is leading race for golden boot?",
+      "summary": "Erling Haaland leads Premier League goalscoring race with 22 goals this season.",
+      "url": "https://www.theguardian.com/p/x386fa",
+      "thumbnail": "https://media.guim.co.uk/2a75d886f89c2a43eb9530b1e231b7c647e76c4f/0_119_2112_1690/500.jpg",
+      "published": "2026-04-19T15:41:57Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "business/2026/apr/19/we-all-share-blame-for-the-decline-of-our-high-streets",
+      "headline": "We all share blame for the decline of our high streets",
+      "summary": "Letter discusses changing consumer habits driving UK high street decline.",
+      "url": "https://www.theguardian.com/p/x4pbm3",
+      "thumbnail": "https://media.guim.co.uk/15b3d07d6050f50bd862a9621c3b6cf51bfeab98/1176_0_7200_5760/500.jpg",
+      "published": "2026-04-19T15:36:53Z",
+      "location": {
+        "name": "Newport",
+        "lat": 51.5878,
+        "lng": -2.9984
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "football/2026/apr/19/nottingham-forest-burnley-premier-league-match-report",
+      "headline": "Gibbs-White hat-trick sinks Burnley and moves Forest closer towards safety",
+      "summary": "Morgan Gibbs-White's hat-trick lifts Nottingham Forest closer to safety with 4-1 win.",
+      "url": "https://www.theguardian.com/p/x4p2pc",
+      "thumbnail": "https://media.guim.co.uk/6295e66fba8959351cb7e0f22e6b4bcce4f920cf/265_0_2785_2228/500.jpg",
+      "published": "2026-04-19T15:36:06Z",
+      "location": {
+        "name": "Nottingham",
+        "lat": 52.9399,
+        "lng": -1.1339
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/apr/19/everton-liverpool-premier-league-match-report",
+      "headline": "Virgil van Dijk snatches victory for Liverpool in first derby at Everton’s new home",
+      "summary": "Van Dijk's 100th-minute header gives Liverpool 2-1 derby win at Everton's new stadium.",
+      "url": "https://www.theguardian.com/p/x4p2zp",
+      "thumbnail": "https://media.guim.co.uk/1680b8127c6c475940bb55aa3eba14d0f26ff74b/473_0_4409_3528/500.jpg",
+      "published": "2026-04-19T15:24:06Z",
+      "location": {
+        "name": "Liverpool",
+        "lat": 53.4084,
+        "lng": -2.9916
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/apr/19/aston-villa-sunderland-premier-league-match-report",
+      "headline": "Aston Villa’s Tammy Abraham grabs dramatic victory after Sunderland rally",
+      "summary": "Tammy Abraham scores late winner as Aston Villa defeats Sunderland 4-3.",
+      "url": "https://www.theguardian.com/p/x4p2zy",
+      "thumbnail": "https://media.guim.co.uk/db3ac0bf4d5d062f1b2fd377ee717408515626f3/449_0_3025_2420/500.jpg",
+      "published": "2026-04-19T15:22:29Z",
+      "location": {
+        "name": "Birmingham",
+        "lat": 52.5086,
+        "lng": -1.8853
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "sport/blog/2026/apr/19/elijah-hollands-afl-mental-health-episode-how-was-he-allowed-to-keep-playing",
+      "headline": "How was Elijah Hollands allowed to keep playing during a ‘mental health episode’? ",
+      "summary": "AFL questions Carlton's duty of care after player Elijah Hollands played during mental health crisis.",
+      "url": "https://www.theguardian.com/p/x4p9my",
+      "thumbnail": "https://media.guim.co.uk/6568a5edb0b13a3607e34b057b56f1f37fad7361/986_0_4908_3929/500.jpg",
+      "published": "2026-04-19T15:00:47Z",
+      "location": {
+        "name": "Melbourne",
+        "lat": -37.8136,
+        "lng": 144.9631
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "australia-news/2026/apr/19/nsw-housing-sydney-aged-care-development-forest-lodge",
+      "headline": "How desperate is the NSW government to build housing? This unassuming site may provide a clue",
+      "summary": "NSW planning minister to decide on flood-risk Sydney aged care development approval.",
+      "url": "https://www.theguardian.com/p/x4tkne",
+      "thumbnail": "https://media.guim.co.uk/8b356656af4dea828e0281c243669871b0738a84/246_0_2462_1970/500.jpg",
+      "published": "2026-04-19T15:00:46Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "australia-news/2026/apr/20/farrer-byelection-michelle-milthorpe-independent-profile-one-nation",
+      "headline": "Don’t call me a teal: independent Michelle Milthorpe carves a fresh path as she takes on One Nation in Farrer byelection ",
+      "summary": "Independent Michelle Milthorpe challenges One Nation in regional NSW Farrer byelection.",
+      "url": "https://www.theguardian.com/p/x4z57g",
+      "thumbnail": "https://media.guim.co.uk/256446c24c63552b3599588bd7aa2e461cb859e8/425_176_3867_3093/500.jpg",
+      "published": "2026-04-19T15:00:46Z",
+      "location": {
+        "name": "Albury",
+        "lat": -36.0785,
+        "lng": 146.916
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "australia-news/ng-interactive/2026/apr/19/bikram-lama-birdman-sydney-st-james-tunnel-homelessness-ntwnfb",
+      "headline": "When ‘the birdman’ of St James tunnel died, Sydney commuters streamed past his body for days",
+      "summary": "Death of homeless Nepali man reveals gaps in Sydney homelessness services.",
+      "url": "https://www.theguardian.com/p/x4za7a",
+      "thumbnail": "https://media.guim.co.uk/b59329499509a0dd8ca8514c9de059c34d5a4bef/0_0_4451_3563/500.jpg",
+      "published": "2026-04-19T15:00:46Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "health",
+      "significance": 3,
+      "section": "australia-news"
+    },
+    {
+      "id": "society/ng-interactive/2026/apr/19/melissa-lucashenko-on-rebuilding-social-cohesion-indigenous-australians-ntwnfb",
+      "headline": "‘A white man’s fantasy’: if we want to rebuild social cohesion, we need to acknowledge where it all started to unravel",
+      "summary": "Indigenous writer Melissa Lucashenko links Bondi shooting to Australia's historical social fractures.",
+      "url": "https://www.theguardian.com/p/x4n9ke",
+      "thumbnail": "https://media.guim.co.uk/537a3de87bfd0cea5f1ebded257f1c5531d5290b/0_0_5000_4000/500.jpg",
+      "published": "2026-04-19T15:00:45Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "society"
+    },
+    {
+      "id": "lifeandstyle/2026/apr/20/kindness-of-strangers-car-stuck-on-highway",
+      "headline": "The kindness of strangers: My car was stuck in the middle of a highway. I felt hopeless – until some burly truckies lent a hand",
+      "summary": "Personal memoir about strangers helping teenager with stranded car on Sydney highway.",
+      "url": "https://www.theguardian.com/p/x4za5g",
+      "thumbnail": "https://media.guim.co.uk/40b0d62d15cb34f86c162147ddd926b0989f1480/17_0_2217_1773/500.jpg",
+      "published": "2026-04-19T15:00:45Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "other",
+      "significance": 1,
+      "section": "lifeandstyle"
+    },
+    {
+      "id": "australia-news/2026/apr/19/labor-accused-ignoring-anti-racism-plan-documents-reveal-repeated-pleas-take-action-ntwnfb",
+      "headline": "Labor accused of ignoring anti-racism plan as documents reveal repeated pleas to take action",
+      "summary": "Labor government criticized for slow progress on anti-racism plan 18 months after receiving recommendations.",
+      "url": "https://www.theguardian.com/p/x4zq4e",
+      "thumbnail": "https://media.guim.co.uk/9e7e0334a422adb0988f64e990cc876b3acda1f0/1029_0_5925_4740/500.jpg",
+      "published": "2026-04-19T15:00:45Z",
+      "location": {
+        "name": "Australia",
+        "lat": -25.2744,
+        "lng": 133.7751
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
     }
   ]
 }
