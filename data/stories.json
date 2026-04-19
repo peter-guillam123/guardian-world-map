@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-04-19T16:02:02.791Z",
-    "story_count": 57,
-    "oldest_story": "2026-04-18T17:24:01Z",
-    "newest_story": "2026-04-19T15:54:19Z",
+    "generated_at": "2026-04-19T17:57:23.595Z",
+    "story_count": 63,
+    "oldest_story": "2026-04-18T18:00:48Z",
+    "newest_story": "2026-04-19T17:54:09Z",
     "window_hours": 24
   },
   "stories": [
@@ -18,22 +18,6 @@
         "name": "London",
         "lat": 51.5074,
         "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/apr/18/efl-roundup-cardiff-promoted-league-one-bromley-league-two",
-      "headline": "EFL roundup: Cardiff promoted from League One after Exeter keeper’s goal denies Stockport",
-      "summary": "Cardiff promoted to Championship after League One promotion race results favor Welsh club.",
-      "url": "https://www.theguardian.com/p/x4p2zv",
-      "thumbnail": "https://media.guim.co.uk/ff0afbc8899d525d07ba652941bda6ad94888e5e/272_0_4794_3835/500.jpg",
-      "published": "2026-04-18T17:24:01Z",
-      "location": {
-        "name": "Cardiff",
-        "lat": 51.4816,
-        "lng": -3.1791
       },
       "category": "sport",
       "significance": 2,
@@ -918,6 +902,118 @@
       "category": "politics",
       "significance": 2,
       "section": "australia-news"
+    },
+    {
+      "id": "world/2026/apr/19/intemperate-trump-brings-chaos-and-confusion-to-iran-talks",
+      "headline": "Intemperate Trump brings chaos and confusion to Iran talks",
+      "summary": "Trump's unreliable diplomacy sows confusion in Iran nuclear talks amid Strait of Hormuz tensions.",
+      "url": "https://www.theguardian.com/p/x4pdxe",
+      "thumbnail": "https://media.guim.co.uk/d5c9e1201b9d23e9adfc8e9457a50ca315ce4bea/372_0_3879_3105/500.jpg",
+      "published": "2026-04-19T17:54:09Z",
+      "location": {
+        "name": "Iran",
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "category": "politics",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "football/2026/apr/19/manchester-city-arsenal-premier-league-match-report",
+      "headline": "Erling Haaland sinks Arsenal to give Manchester City edge in title race",
+      "summary": "Haaland's late goal gives Manchester City crucial win over Arsenal in title race.",
+      "url": "https://www.theguardian.com/p/x4p2pq",
+      "thumbnail": "https://media.guim.co.uk/c1243635eed8d1f7e72cfc4ed4381b885f63788c/1008_474_2060_1648/500.jpg",
+      "published": "2026-04-19T17:52:08Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/apr/19/arne-slot-liverpool-everton-derby",
+      "headline": "‘Big, big compliment’: Arne Slot hails Liverpool’s mentality in win at Everton",
+      "summary": "Van Dijk's 100th-minute header secures Merseyside derby victory for Liverpool.",
+      "url": "https://www.theguardian.com/p/x4p2p2",
+      "thumbnail": "https://media.guim.co.uk/d7511c8c41097ac0b14637a1d653a3aa27ab0e7c/233_0_3551_2840/500.jpg",
+      "published": "2026-04-19T17:28:24Z",
+      "location": {
+        "name": "Liverpool",
+        "lat": 53.4084,
+        "lng": -2.9916
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "politics/2026/apr/19/ministers-urged-to-share-mandelson-vetting-files-with-intelligence-committee",
+      "headline": "Ministers urged to share Mandelson vetting files with intelligence committee",
+      "summary": "UK ministers consider unprecedented disclosure of Mandelson vetting documents to parliament.",
+      "url": "https://www.theguardian.com/p/x4pcxb",
+      "thumbnail": "https://media.guim.co.uk/4eb5cfd4e4cd10665eb484e7e1267736ffdcf8c8/486_0_4860_3888/500.jpg",
+      "published": "2026-04-19T17:23:43Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "us-news/2026/apr/19/shreveport-louisiana-mass-shooting",
+      "headline": "Mass shooting rampage in Louisiana leaves eight children dead and others wounded",
+      "summary": "Mass shooting in Louisiana kills eight children; suspect fatally shot by police.",
+      "url": "https://www.theguardian.com/p/x4pd28",
+      "thumbnail": "https://media.guim.co.uk/be7445f3259d6f1bf4320fce5c0ce8f6f9e2f762/354_0_3500_2800/500.jpg",
+      "published": "2026-04-19T16:59:09Z",
+      "location": {
+        "name": "Shreveport",
+        "lat": 32.515,
+        "lng": -93.7373
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "music/2026/apr/19/jesy-nelson-issues-plea-over-stolen-car-containing-twins-medical-equipment",
+      "headline": "Jesy Nelson issues plea over stolen car containing twins’ medical equipment",
+      "summary": "Jesy Nelson offers £10,000 reward for stolen car containing twins' medical equipment.",
+      "url": "https://www.theguardian.com/p/x4pd4c",
+      "thumbnail": "https://media.guim.co.uk/bd05ee720d16e0d9eb0ace08f7ff7faf566ac963/0_36_4589_3670/500.jpg",
+      "published": "2026-04-19T16:49:33Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "music"
+    },
+    {
+      "id": "media/2026/apr/19/mike-morrissey-obituary",
+      "headline": "Mike Morrissey obituary",
+      "summary": "Journalist Mike Morrissey, who investigated Teesside pollution, dies at 96.",
+      "url": "https://www.theguardian.com/p/x4mh9g",
+      "thumbnail": "https://media.guim.co.uk/f472723d49e0d753a59920e1c3f84e15e5ad4e03/32_0_960_768/500.jpg",
+      "published": "2026-04-19T16:49:18Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "media"
     }
   ]
 }
