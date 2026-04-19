@@ -1,108 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-18T23:54:30.338Z",
-    "story_count": 59,
-    "oldest_story": "2026-04-18T00:00:01Z",
-    "newest_story": "2026-04-18T23:01:25Z",
+    "generated_at": "2026-04-19T06:18:34.186Z",
+    "story_count": 60,
+    "oldest_story": "2026-04-18T07:00:06Z",
+    "newest_story": "2026-04-19T06:11:06Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "australia-news/2026/apr/18/privately-protected-managed-land-australia-biodiversity-protection",
-      "headline": "‘The environmental movement needs many hands’: saving Australia’s biodiversity is getting personal",
-      "summary": "Australia's private land conservation network grows through individual donations and bequests.",
-      "url": "https://www.theguardian.com/p/x4zfen",
-      "thumbnail": "https://media.guim.co.uk/87334bb9666cc73b5eb2dc0240df53804696b9b0/0_0_2500_2000/500.jpg",
-      "published": "2026-04-18T00:00:01Z",
-      "location": {
-        "name": "Australia",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "sport/live/2026/apr/17/alycia-baumgardner-bo-mi-re-shin-boxing-fight-live-updates",
-      "headline": "Alycia Baumgardner beats Bo Mi Re Shin to retain unified junior lightweight title – live reaction",
-      "summary": "Alycia Baumgardner retains unified junior lightweight title with unanimous decision victory.",
-      "url": "https://www.theguardian.com/p/x4p327",
-      "thumbnail": null,
-      "published": "2026-04-18T05:32:03Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "sport/2026/apr/18/gout-athletics-australia-junior-championships-100m-final",
-      "headline": "Gout Gout waves off rivals to claim 100m title in style at national junior championships",
-      "summary": "Gout Gout wins 100m at Australian junior athletics championships in 10.21 seconds.",
-      "url": "https://www.theguardian.com/p/x4zpkm",
-      "thumbnail": "https://media.guim.co.uk/db64ae3b9ab2a3164b585d52b1b0ec1113c353e6/711_0_5553_4444/500.jpg",
-      "published": "2026-04-18T05:23:33Z",
-      "location": {
-        "name": "Brisbane",
-        "lat": -27.4698,
-        "lng": 153.0251
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "news/ng-interactive/2026/apr/18/donald-trump-popularity-iran-christianity-economy",
-      "headline": "Two weeks that pushed Trump to the edge. Is his presidency unravelling?",
-      "summary": "Trump's presidency faces scrutiny over failed Iran war, inflation, and Christian voters defection.",
-      "url": "https://www.theguardian.com/p/x4px9v",
-      "thumbnail": "https://media.guim.co.uk/0d12ba38d4611606603590108ce87f00b257c40a/0_0_4000_3200/500.jpg",
-      "published": "2026-04-18T05:00:05Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 4,
-      "section": "news"
-    },
-    {
-      "id": "lifeandstyle/2026/apr/18/tim-dowling-all-at-sea-on-a-reservoir-near-heathrow-airport-london",
-      "headline": "Tim Dowling: I’m all at sea … on a reservoir near Heathrow airport",
-      "summary": "Tim Dowling attempts boat sailing qualification near Heathrow Airport in challenging weather.",
-      "url": "https://www.theguardian.com/p/x4nx8k",
-      "thumbnail": "https://media.guim.co.uk/153882d9ad3243cf30401440a9d3b47a6f6838cf/0_0_5000_4000/500.jpg",
-      "published": "2026-04-18T05:00:05Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "lifeandstyle"
-    },
-    {
-      "id": "world/2026/apr/18/romania-eu-measles-cases-vaccination-rates-collapse",
-      "headline": "‘It’s a powder keg’: Romania leads EU measles cases as vaccination rates collapse",
-      "summary": "Romania leads EU in measles cases as vaccination rates collapse amid healthcare bottlenecks.",
-      "url": "https://www.theguardian.com/p/x4m23z",
-      "thumbnail": "https://media.guim.co.uk/7ed5594e0673342680a9e10d61fcff7127d0d9f1/667_0_3333_2667/500.jpg",
-      "published": "2026-04-18T05:00:05Z",
-      "location": {
-        "name": "Bucharest",
-        "lat": 44.4268,
-        "lng": 26.1025
-      },
-      "category": "health",
-      "significance": 3,
-      "section": "world"
-    },
     {
       "id": "world/live/2026/apr/18/middle-east-crisis-live-iran-warns-it-will-close-strait-of-hormuz-if-us-blockade-continues",
       "headline": "Middle East crisis live: Iran warns it will close strait of Hormuz if US blockade continues",
@@ -950,6 +854,118 @@
       "category": "culture",
       "significance": 2,
       "section": "uk-news"
+    },
+    {
+      "id": "world/live/2026/apr/19/middle-east-crisis-live-iran-us-strait-of-hormuz-trump-lebanon-israel",
+      "headline": "Middle East crisis live: Iran says ‘fundamental’ issues’ still to be resolved with US amid strait of Hormuz impasse",
+      "summary": "Iran closes Strait of Hormuz again; US-Iran talks show progress but gaps remain on nuclear, maritime issues.",
+      "url": "https://www.theguardian.com/p/x4p9fe",
+      "thumbnail": "https://media.guim.co.uk/0fd03407f4aa44c64e74ffcb8629b460db495abf/1076_0_3193_2557/500.jpg",
+      "published": "2026-04-19T06:11:06Z",
+      "location": {
+        "name": "Strait of Hormuz",
+        "lat": 26.5597,
+        "lng": 56.2694
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "global-development/2026/apr/19/arson-attacks-iranian-regime-targets-uk-journalists",
+      "headline": " Stabbings, kidnap threats and arson attacks: how the Iranian regime targets UK journalists",
+      "summary": "Iranian regime targets UK-based Persian journalists with arson attacks, stabbings, kidnap threats.",
+      "url": "https://www.theguardian.com/p/x4pxgz",
+      "thumbnail": "https://media.guim.co.uk/374c252854b26a9d2508b2fcfd25097469852efb/140_0_1243_994/500.jpg",
+      "published": "2026-04-19T06:00:34Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "global-development"
+    },
+    {
+      "id": "travel/2026/apr/19/best-places-stay-highlands-islands-scotland-hotels-inns-bothy",
+      "headline": "10 of the best scenic stays in the Highlands and Islands of Scotland",
+      "summary": "Travel feature showcasing ten scenic lodging options in Scotland's Highlands and Islands.",
+      "url": "https://www.theguardian.com/p/x4kxb6",
+      "thumbnail": "https://media.guim.co.uk/583ad8bbbcd1d1e55209ce0843e30ad1be087681/0_0_3780_3024/500.jpg",
+      "published": "2026-04-19T06:00:34Z",
+      "location": {
+        "name": "Scottish Highlands",
+        "lat": 57.2746,
+        "lng": -4.4979
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "travel"
+    },
+    {
+      "id": "politics/2026/apr/19/things-could-go-backwards-kezia-dugdale-on-safety-lgbtq-rights-and-the-future-of-stonewall",
+      "headline": "‘Things could go backwards’: Kezia Dugdale on safety, LGBTQ+ rights and the future of Stonewall",
+      "summary": "Kezia Dugdale appointed Stonewall chair; says LGBTQ+ safety worsening in Britain.",
+      "url": "https://www.theguardian.com/p/x4zzaa",
+      "thumbnail": "https://media.guim.co.uk/7cc4b20cfaeb2a252e3ebb1fd86a810b3e084eea/573_0_4240_3392/500.jpg",
+      "published": "2026-04-19T06:00:34Z",
+      "location": {
+        "name": "Edinburgh",
+        "lat": 55.9533,
+        "lng": -3.1883
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "money/2026/apr/19/london-marathon-place-for-sale-fraudsters-chase-after-runners-cash",
+      "headline": "‘London Marathon place for sale’: fraudsters chase after runners cash",
+      "summary": "Fraudsters exploit London Marathon hopefuls by selling fake race places ahead of April 26 event.",
+      "url": "https://www.theguardian.com/p/x4zmy8",
+      "thumbnail": "https://media.guim.co.uk/7f8345cce9ea9b6460844b418b1a56cd0ea79613/559_0_5586_4469/500.jpg",
+      "published": "2026-04-19T06:00:34Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 1,
+      "section": "money"
+    },
+    {
+      "id": "world/2026/apr/19/ukraine-war-briefing-search-for-motive-after-gunman-kills-six-in-kyiv",
+      "headline": "Ukraine war briefing: search for motive after gunman kills six in Kyiv",
+      "summary": "Gunman kills six in rare mass shooting and hostage situation in Kyiv; motive under investigation.",
+      "url": "https://www.theguardian.com/p/x4p9dz",
+      "thumbnail": "https://media.guim.co.uk/a65fc98442e3b1b65f09216376d54f75d5fe2457/545_0_5040_4032/500.jpg",
+      "published": "2026-04-19T05:30:53Z",
+      "location": {
+        "name": "Kyiv",
+        "lat": 50.4501,
+        "lng": 30.5234
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "tv-and-radio/2026/apr/19/tv-tonight-a-grand-new-documentary-for-what-would-have-been-the-queens-100th-birthday",
+      "headline": "TV tonight: a grand new documentary for what would have been the Queen’s 100th birthday",
+      "summary": "BBC documentary celebrates Queen Elizabeth II's life on what would have been her 100th birthday.",
+      "url": "https://www.theguardian.com/p/x4zmqj",
+      "thumbnail": "https://media.guim.co.uk/41d89d84f6726b6df76740a977a7fc2882a087a5/101_0_2215_1772/500.jpg",
+      "published": "2026-04-19T05:15:33Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "tv-and-radio"
     }
   ]
 }
