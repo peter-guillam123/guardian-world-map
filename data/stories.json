@@ -1,92 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-19T17:57:23.595Z",
-    "story_count": 63,
-    "oldest_story": "2026-04-18T18:00:48Z",
-    "newest_story": "2026-04-19T17:54:09Z",
+    "generated_at": "2026-04-19T19:56:30.585Z",
+    "story_count": 59,
+    "oldest_story": "2026-04-18T21:00:23Z",
+    "newest_story": "2026-04-19T19:50:03Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/live/2026/apr/18/chelsea-v-manchester-united-premier-league-live",
-      "headline": "Chelsea v Manchester United: Premier League – live",
-      "summary": "Chelsea face Manchester United in Premier League match with top four implications.",
-      "url": "https://www.theguardian.com/p/x4zt42",
-      "thumbnail": "https://media.guim.co.uk/efc2d654772969ab7bee08f41d778e68c9cc244a/474_0_2459_1968/500.jpg",
-      "published": "2026-04-18T18:00:48Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "world/2026/apr/18/french-man-86-issues-historic-apology-for-familys-role-in-transatlantic-slavery",
-      "headline": "French man, 86, issues historic apology for family’s role in transatlantic slavery",
-      "summary": "86-year-old Frenchman issues historic apology for family's role in transatlantic slavery.",
-      "url": "https://www.theguardian.com/p/x4p8bz",
-      "thumbnail": "https://media.guim.co.uk/4cecc406d7a9efe197070bd7fc3957cddab2fd09/1144_816_3096_2477/500.jpg",
-      "published": "2026-04-18T19:17:00Z",
-      "location": {
-        "name": "Nantes",
-        "lat": 47.2184,
-        "lng": -1.5536
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "world/2026/apr/18/pope-leo-donald-trump-iran",
-      "headline": "Pope Leo says he was not ‘trying to debate’ Trump over US attack on Iran",
-      "summary": "Pope Leo XIV says he wasn't debating Trump over Iran war amid ongoing papal peace advocacy.",
-      "url": "https://www.theguardian.com/p/x4p86g",
-      "thumbnail": "https://media.guim.co.uk/a823a730ca85ec86b0ae29243ff7126b2da67845/683_0_3413_2731/500.jpg",
-      "published": "2026-04-18T19:06:14Z",
-      "location": {
-        "name": "Vatican City",
-        "lat": 41.9029,
-        "lng": 12.4534
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "football/2026/apr/18/artetas-desire-for-complete-control-may-derail-arsenals-wobbling-title-drive",
-      "headline": "Arteta’s desire for complete control may derail Arsenal’s wobbling title drive",
-      "summary": "Arteta's tactical control approach may hinder Arsenal's title challenge compared to Guardiola's approach.",
-      "url": "https://www.theguardian.com/p/x4px3j",
-      "thumbnail": "https://media.guim.co.uk/ee7b3182d8115ca0904e94adf1e52ce8e97ecdb6/148_0_1884_1507/500.jpg",
-      "published": "2026-04-18T19:00:21Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/apr/18/tottenham-brighton-premier-league-match-report",
-      "headline": "Spurs’ survival hopes hit after Rutter rescues dramatic late point for Brighton",
-      "summary": "Brighton's Rutter scores dramatic late equalizer in 2-2 draw at Tottenham to boost survival hopes.",
-      "url": "https://www.theguardian.com/p/x4pxt9",
-      "thumbnail": "https://media.guim.co.uk/e1b886caaf69b741abd40a2d0bcf6f03ccd0147b/330_0_2564_2051/500.jpg",
-      "published": "2026-04-18T18:53:21Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
     {
       "id": "tv-and-radio/2026/apr/18/the-murder-line-review-minnie-driver-itv",
       "headline": "The Murder Line review – Minnie Driver’s mischievous crime caper is on the edge of excellence",
@@ -1014,6 +934,22 @@
       "category": "culture",
       "significance": 1,
       "section": "media"
+    },
+    {
+      "id": "football/2026/apr/19/manchester-city-arsenal-title-race-pep-guardiola",
+      "headline": "Manchester City must stay focused in title race, says Pep Guardiola",
+      "summary": "Manchester City beat Arsenal 2-1 to close title race gap to three points with six games remaining.",
+      "url": "https://www.theguardian.com/p/x4p3v5",
+      "thumbnail": "https://media.guim.co.uk/7348dd5a3952b97600eec54fe55b91be51841620/339_0_3391_2713/500.jpg",
+      "published": "2026-04-19T19:50:03Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
     }
   ]
 }
