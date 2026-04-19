@@ -1,140 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-19T11:22:41.254Z",
-    "story_count": 47,
-    "oldest_story": "2026-04-18T11:51:52Z",
-    "newest_story": "2026-04-19T11:02:01Z",
+    "generated_at": "2026-04-19T14:07:00.603Z",
+    "story_count": 48,
+    "oldest_story": "2026-04-18T15:00:16Z",
+    "newest_story": "2026-04-19T14:00:44Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "business/2026/apr/18/growing-knowledge-growing-yield-british-wine-making-comes-of-age",
-      "headline": "Growing knowledge, growing yield: British wine-making comes of age",
-      "summary": "UK wine production booms in Dorset as climate change and new techniques transform viticulture industry.",
-      "url": "https://www.theguardian.com/p/x4khq7",
-      "thumbnail": "https://media.guim.co.uk/43b0acad5c0822fed9ba1636321673eed4ad6f47/649_0_6487_5192/500.jpg",
-      "published": "2026-04-18T12:00:13Z",
-      "location": {
-        "name": "Dorset",
-        "lat": 50.7184,
-        "lng": -2.4534
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "sport/live/2026/apr/18/scotland-v-england-womens-six-nations-rugby-union-live",
-      "headline": "Scotland v England: Women’s Six Nations rugby union – live",
-      "summary": "Scotland hosts England in Women's Six Nations rugby at Murrayfield with title defence on the line.",
-      "url": "https://www.theguardian.com/p/x4ztj2",
-      "thumbnail": "https://media.guim.co.uk/41739aa62f691b3ec9f581c7d2a7029ba69fe7a4/307_0_3623_2898/500.jpg",
-      "published": "2026-04-18T11:51:52Z",
-      "location": {
-        "name": "Edinburgh",
-        "lat": 55.9533,
-        "lng": -3.1883
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "us-news/2026/apr/18/new-york-respond-santacon-fraud-indictment",
-      "headline": "Just what they wanted: fed-up New Yorkers revel in SantaCon fraud charge",
-      "summary": "SantaCon organizer Stefan Pildes indicted for fraud, pocketing hundreds of thousands in donations.",
-      "url": "https://www.theguardian.com/p/x4p382",
-      "thumbnail": "https://media.guim.co.uk/d95de215ef11c2aa38bfd0f8ed810627f2a8ce81/1197_882_4747_3800/500.jpg",
-      "published": "2026-04-18T14:00:15Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "society/2026/apr/18/olivia-nervo-reproductive-coercion-standalone-offence",
-      "headline": "‘Labels protect us’: Olivia Nervo wants reproductive coercion to be a standalone offence – she is not alone",
-      "summary": "Grammy winner Olivia Nervo advocates for reproductive coercion as standalone legal offence.",
-      "url": "https://www.theguardian.com/p/x4zaq9",
-      "thumbnail": "https://media.guim.co.uk/d0dfb3aa9fa9bf929a0fcf65199f66feb9e52b21/35_217_961_768/500.jpg",
-      "published": "2026-04-18T14:00:15Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "society"
-    },
-    {
-      "id": "technology/2026/apr/18/sam-altman-house-attack-ai",
-      "headline": "How a fiery attack on Sam Altman’s home unfolded",
-      "summary": "Molotov cocktail attack on Sam Altman's home amid growing AI discontent and activism.",
-      "url": "https://www.theguardian.com/p/x4p2gb",
-      "thumbnail": "https://media.guim.co.uk/af5e5b63414c297b7c53918738413a13af0a0664/397_0_4164_3330/500.jpg",
-      "published": "2026-04-18T14:00:15Z",
-      "location": {
-        "name": "San Francisco",
-        "lat": 37.7749,
-        "lng": -122.4194
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "technology"
-    },
-    {
-      "id": "us-news/2026/apr/18/trump-administration-white-house-ballroom",
-      "headline": "Trump administration cleared to continue construction of White House ballroom, court rules",
-      "summary": "Appeals court approves Trump administration's $400m White House ballroom construction project.",
-      "url": "https://www.theguardian.com/p/x4p78x",
-      "thumbnail": "https://media.guim.co.uk/c6466abbaf57565dbb31553d19a72a480fc501ae/442_0_5000_4000/500.jpg",
-      "published": "2026-04-18T13:37:12Z",
-      "location": {
-        "name": "Washington, D.C.",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "football/2026/apr/18/brentford-fulham-premier-league-match-report",
-      "headline": "Leno’s superb late save ensures 0-0 draw as Fulham hit Brentford’s European hopes",
-      "summary": "Brentford and Fulham draw 0-0 in west London derby as Leno makes crucial late save.",
-      "url": "https://www.theguardian.com/p/x4px63",
-      "thumbnail": "https://media.guim.co.uk/a9714acf911a17a8e1f9c69546aa6a11b5af3076/48_122_2334_1868/500.jpg",
-      "published": "2026-04-18T13:35:49Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "world/2026/apr/18/iran-closes-strait-of-hormuz-again-until-us-lifts-blockade",
-      "headline": "Iran closes strait of Hormuz again ‘until US lifts blockade’",
-      "summary": "Iran reclaims closure of Strait of Hormuz, IRGC fires on tanker amid US blockade tensions.",
-      "url": "https://www.theguardian.com/p/x4p7vq",
-      "thumbnail": "https://media.guim.co.uk/988bd67f7521732189a85217249fc6975c5e8512/320_0_3240_2592/500.jpg",
-      "published": "2026-04-18T13:24:14Z",
-      "location": {
-        "name": "Strait of Hormuz",
-        "lat": 26.5547,
-        "lng": 56.2671
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
     {
       "id": "football/live/2026/apr/18/iceland-v-england-womens-world-cup-2027-qualifier-live",
       "headline": "Iceland v England: Women’s World Cup 2027 qualifier – live",
@@ -758,6 +630,150 @@
       "category": "politics",
       "significance": 3,
       "section": "world"
+    },
+    {
+      "id": "world/2026/apr/19/pitcairn-register-bounty-mutineers-descendants-returns-south-pacific",
+      "headline": "‘It’s sacred to us’: register of Bounty mutineer’s descendants returns to South Pacific",
+      "summary": "Pitcairn Register of Bounty mutineers' descendants returns to South Pacific island.",
+      "url": "https://www.theguardian.com/p/x4zn3y",
+      "thumbnail": "https://media.guim.co.uk/a10c73f245deb21bfa683ff61585bd457c8f38a8/178_58_1009_808/500.jpg",
+      "published": "2026-04-19T14:00:44Z",
+      "location": {
+        "name": "Pitcairn Islands",
+        "lat": -25.0408,
+        "lng": -130.1008
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "football/live/2026/apr/19/manchester-city-v-arsenal-premier-league-live",
+      "headline": "Manchester City v Arsenal: Premier League – live ",
+      "summary": "Manchester City face Arsenal in crucial Premier League title-deciding match.",
+      "url": "https://www.theguardian.com/p/x4znxg",
+      "thumbnail": "https://media.guim.co.uk/3b180707a80458fd4c4f4627300ae808ea884f0f/389_0_5000_4000/500.jpg",
+      "published": "2026-04-19T14:00:44Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4831,
+        "lng": -2.2006
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/apr/19/oklahoma-principal-disarmed-intruder-prom-king",
+      "headline": "Oklahoma principal who disarmed gun-wielding intruder crowned prom king",
+      "summary": "High school principal crowned prom king after disarming armed intruder on campus.",
+      "url": "https://www.theguardian.com/p/x4pc88",
+      "thumbnail": "https://media.guim.co.uk/dc1fe9c0624217b72cbdd178816677024abfd691/485_0_2710_2168/500.jpg",
+      "published": "2026-04-19T13:44:11Z",
+      "location": {
+        "name": "Pauls Valley, Oklahoma",
+        "lat": 35.3427,
+        "lng": -97.2396
+      },
+      "category": "other",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "sport/live/2026/apr/19/hampshire-v-somerset-gloucestershire-v-lancashire-and-more-county-cricket-live",
+      "headline": "Hampshire v Somerset, Gloucestershire v Lancashire, and more: county cricket – live",
+      "summary": "Attempted arson attack on Harrow synagogue prompts chief rabbi to warn of antisemitic violence.",
+      "url": "https://www.theguardian.com/p/x4znn8",
+      "thumbnail": "https://media.guim.co.uk/fe44aeacd44446723af99d61beaff06a24e380e0/386_0_4050_3240/500.jpg",
+      "published": "2026-04-19T13:39:05Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "uk-news/2026/apr/19/police-investigate-attempted-arson-attack-north-west-london-synagogue",
+      "headline": "Police investigate attempted arson attack at north-west London synagogue ",
+      "summary": "Italy's Meloni government proposes paying lawyers bounties for convincing immigrants to leave.",
+      "url": "https://www.theguardian.com/p/x4pbdc",
+      "thumbnail": "https://media.guim.co.uk/62c9fb8fd8af5757715a2554f99154d07a694173/242_0_3838_3072/500.jpg",
+      "published": "2026-04-19T13:24:20Z",
+      "location": {
+        "name": "Rome",
+        "lat": 41.9028,
+        "lng": 12.4964
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "world/2026/apr/19/italian-lawyers-giorgia-meloni-wild-west-bounties-immigration",
+      "headline": "Italian lawyers could win ‘wild west-style bounties’ if immigration clients go home",
+      "summary": "Ex-Infowars producer details chaotic work environment under conspiracy theorist Alex Jones.",
+      "url": "https://www.theguardian.com/p/x4pbnq",
+      "thumbnail": "https://media.guim.co.uk/1a01b001bac6d6346f36958488804b3285875152/380_0_2500_2000/500.jpg",
+      "published": "2026-04-19T13:23:12Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "us-news/2026/apr/19/alex-jones-josh-owens-infowars",
+      "headline": "‘It was constant chaos’: ex-Infowars producer on life under Alex Jones",
+      "summary": "UK seeks EU deals on steel and EVs to strengthen post-Brexit economic relationship.",
+      "url": "https://www.theguardian.com/p/x4p2xv",
+      "thumbnail": "https://media.guim.co.uk/7c9a23346259d7ae87a3c21c6f8a6e6ae8cbeb7a/679_0_6793_5435/500.jpg",
+      "published": "2026-04-19T13:00:43Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "politics/2026/apr/19/uk-seeks-eu-deals-on-steel-and-evs-in-push-for-closer-economic-ties",
+      "headline": "UK seeks EU deals on steel and EVs in push for closer economic ties",
+      "summary": "Maine lawsuit emerges as significant anti-corruption challenge to Citizens United ruling.",
+      "url": "https://www.theguardian.com/p/x4p2b3",
+      "thumbnail": "https://media.guim.co.uk/8ab0cdf0d430e3257ca969f133bc738343df5ddc/202_0_5000_4000/500.jpg",
+      "published": "2026-04-19T13:00:43Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "lifeandstyle/2026/apr/19/donald-trump-is-not-the-messiah-but-what-does-it-take-to-convince-people-that-you-are",
+      "headline": "Donald Trump is not the messiah. But what does it take to convince people that you are?",
+      "summary": "Comedian Susan Calman discusses overcoming depression and finding community in comedy.",
+      "url": "https://www.theguardian.com/p/x4pxmg",
+      "thumbnail": "https://media.guim.co.uk/2634da846d3213f77e5d0e56c5a48c90a471f487/687_0_6842_5477/500.jpg",
+      "published": "2026-04-19T13:00:43Z",
+      "location": {
+        "name": "Glasgow",
+        "lat": 55.8642,
+        "lng": -4.2518
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "lifeandstyle"
     }
   ]
 }
