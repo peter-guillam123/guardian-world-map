@@ -1,140 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-20T16:20:29.700Z",
-    "story_count": 50,
-    "oldest_story": "2026-04-19T16:49:18Z",
-    "newest_story": "2026-04-20T16:09:31Z",
+    "generated_at": "2026-04-20T20:04:29.650Z",
+    "story_count": 46,
+    "oldest_story": "2026-04-19T23:01:54Z",
+    "newest_story": "2026-04-20T20:01:08Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "world/2026/apr/19/intemperate-trump-brings-chaos-and-confusion-to-iran-talks",
-      "headline": "Intemperate Trump brings chaos and confusion to Iran talks",
-      "summary": "Trump's unreliable diplomacy sows confusion in Iran nuclear talks amid Strait of Hormuz tensions.",
-      "url": "https://www.theguardian.com/p/x4pdxe",
-      "thumbnail": "https://media.guim.co.uk/d5c9e1201b9d23e9adfc8e9457a50ca315ce4bea/372_0_3879_3105/500.jpg",
-      "published": "2026-04-19T17:54:09Z",
-      "location": {
-        "name": "Iran",
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "category": "politics",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "football/2026/apr/19/manchester-city-arsenal-premier-league-match-report",
-      "headline": "Erling Haaland sinks Arsenal to give Manchester City edge in title race",
-      "summary": "Haaland's late goal gives Manchester City crucial win over Arsenal in title race.",
-      "url": "https://www.theguardian.com/p/x4p2pq",
-      "thumbnail": "https://media.guim.co.uk/c1243635eed8d1f7e72cfc4ed4381b885f63788c/1008_474_2060_1648/500.jpg",
-      "published": "2026-04-19T17:52:08Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4808,
-        "lng": -2.2426
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/apr/19/arne-slot-liverpool-everton-derby",
-      "headline": "‘Big, big compliment’: Arne Slot hails Liverpool’s mentality in win at Everton",
-      "summary": "Van Dijk's 100th-minute header secures Merseyside derby victory for Liverpool.",
-      "url": "https://www.theguardian.com/p/x4p2p2",
-      "thumbnail": "https://media.guim.co.uk/d7511c8c41097ac0b14637a1d653a3aa27ab0e7c/233_0_3551_2840/500.jpg",
-      "published": "2026-04-19T17:28:24Z",
-      "location": {
-        "name": "Liverpool",
-        "lat": 53.4084,
-        "lng": -2.9916
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "politics/2026/apr/19/ministers-urged-to-share-mandelson-vetting-files-with-intelligence-committee",
-      "headline": "Ministers urged to share Mandelson vetting files with intelligence committee",
-      "summary": "UK ministers consider unprecedented disclosure of Mandelson vetting documents to parliament.",
-      "url": "https://www.theguardian.com/p/x4pcxb",
-      "thumbnail": "https://media.guim.co.uk/4eb5cfd4e4cd10665eb484e7e1267736ffdcf8c8/486_0_4860_3888/500.jpg",
-      "published": "2026-04-19T17:23:43Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "us-news/2026/apr/19/shreveport-louisiana-mass-shooting",
-      "headline": "Mass shooting rampage in Louisiana leaves eight children dead and others wounded",
-      "summary": "Mass shooting in Louisiana kills eight children; suspect fatally shot by police.",
-      "url": "https://www.theguardian.com/p/x4pd28",
-      "thumbnail": "https://media.guim.co.uk/be7445f3259d6f1bf4320fce5c0ce8f6f9e2f762/354_0_3500_2800/500.jpg",
-      "published": "2026-04-19T16:59:09Z",
-      "location": {
-        "name": "Shreveport",
-        "lat": 32.515,
-        "lng": -93.7373
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "music/2026/apr/19/jesy-nelson-issues-plea-over-stolen-car-containing-twins-medical-equipment",
-      "headline": "Jesy Nelson issues plea over stolen car containing twins’ medical equipment",
-      "summary": "Jesy Nelson offers £10,000 reward for stolen car containing twins' medical equipment.",
-      "url": "https://www.theguardian.com/p/x4pd4c",
-      "thumbnail": "https://media.guim.co.uk/bd05ee720d16e0d9eb0ace08f7ff7faf566ac963/0_36_4589_3670/500.jpg",
-      "published": "2026-04-19T16:49:33Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "music"
-    },
-    {
-      "id": "media/2026/apr/19/mike-morrissey-obituary",
-      "headline": "Mike Morrissey obituary",
-      "summary": "Journalist Mike Morrissey, who investigated Teesside pollution, dies at 96.",
-      "url": "https://www.theguardian.com/p/x4mh9g",
-      "thumbnail": "https://media.guim.co.uk/f472723d49e0d753a59920e1c3f84e15e5ad4e03/32_0_960_768/500.jpg",
-      "published": "2026-04-19T16:49:18Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "media"
-    },
-    {
-      "id": "football/2026/apr/19/manchester-city-arsenal-title-race-pep-guardiola",
-      "headline": "Manchester City must stay focused in title race, says Pep Guardiola",
-      "summary": "Manchester City beat Arsenal 2-1 to close title race gap to three points with six games remaining.",
-      "url": "https://www.theguardian.com/p/x4p3v5",
-      "thumbnail": "https://media.guim.co.uk/7348dd5a3952b97600eec54fe55b91be51841620/339_0_3391_2713/500.jpg",
-      "published": "2026-04-19T19:50:03Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4808,
-        "lng": -2.2426
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
     {
       "id": "australia-news/live/2026/apr/20/australia-news-live-pocock-gas-tax-fuel-crisis-jim-chalmers-anthony-albanese-budget-ben-roberts-smith-war-crimes-ntwnfb",
       "headline": "Australia news live: ‘weeks’ to restore production at Geelong refinery after blaze, Viva says; Chalmers warns of ‘big risks’ to inflation and growth",
@@ -806,6 +678,70 @@
       "category": "sport",
       "significance": 2,
       "section": "business"
+    },
+    {
+      "id": "football/live/2026/apr/20/crystal-palace-v-west-ham-united-premier-league-live",
+      "headline": "Crystal Palace v West Ham United: Premier League – live",
+      "summary": "Crystal Palace v West Ham United Premier League match with relegation implications.",
+      "url": "https://www.theguardian.com/p/x4pgkt",
+      "thumbnail": "https://media.guim.co.uk/7e7dad846adbe420088609b70855863c2159452e/0_413_3426_2741/500.jpg",
+      "published": "2026-04-20T20:01:08Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "us-news/ng-interactive/2026/apr/20/amazon-sellers-price-raises-california",
+      "headline": "Emails show Amazon colluding with other firms to raise prices, California authorities allege",
+      "summary": "California sues Amazon for alleged price-fixing collusion with other retailers.",
+      "url": "https://www.theguardian.com/p/x4pj2a",
+      "thumbnail": "https://media.guim.co.uk/8486119642dfba88d71bb216fe309385b2c248f4/0_0_4570_3656/500.jpg",
+      "published": "2026-04-20T19:34:07Z",
+      "location": {
+        "name": "Sacramento",
+        "lat": 38.5816,
+        "lng": -121.4944
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "uk-news/2026/apr/20/police-investigate-london-arson-attacks",
+      "headline": "Police investigate whether London arson attacks were planned for weeks ",
+      "summary": "Police probe planned arson attacks on Jewish targets, allegedly backed by Iran.",
+      "url": "https://www.theguardian.com/p/x4ptmy",
+      "thumbnail": "https://media.guim.co.uk/11d409c741db63011c1eb6a90343cb14b94dcabd/711_0_3760_3008/500.jpg",
+      "published": "2026-04-20T19:28:01Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "uk-news"
+    },
+    {
+      "id": "us-news/2026/apr/20/lawsuit-new-bp-oil-project-gulf-of-mexico",
+      "headline": "Climate groups sue US government over approval of new BP project in Gulf of Mexico",
+      "summary": "Climate groups sue over BP's new ultra-deep Gulf of Mexico oil drilling project.",
+      "url": "https://www.theguardian.com/p/x4ptkv",
+      "thumbnail": "https://media.guim.co.uk/dd7a628243112c6e32d63184f49952a5bfdbf284/499_0_2501_2001/500.jpg",
+      "published": "2026-04-20T19:22:29Z",
+      "location": {
+        "name": "New Orleans",
+        "lat": 29.9511,
+        "lng": -90.2623
+      },
+      "category": "climate",
+      "significance": 3,
+      "section": "us-news"
     }
   ]
 }
