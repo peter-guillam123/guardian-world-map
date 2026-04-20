@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-04-20T20:04:29.650Z",
-    "story_count": 46,
+    "generated_at": "2026-04-20T22:29:57.702Z",
+    "story_count": 50,
     "oldest_story": "2026-04-19T23:01:54Z",
-    "newest_story": "2026-04-20T20:01:08Z",
+    "newest_story": "2026-04-20T22:27:33Z",
     "window_hours": 24
   },
   "stories": [
@@ -742,6 +742,70 @@
       "category": "climate",
       "significance": 3,
       "section": "us-news"
+    },
+    {
+      "id": "australia-news/live/2026/apr/21/anthony-albanese-fuel-crisis-jim-chalmers-budget-cost-of-living-supermarket-discount-rebel-wilson-court-hearing-ntwnfb",
+      "headline": "Australia news live: Ed Husic condemns ‘obscenely sweet’ gas deals; Anthony Albanese says national cabinet to discuss ‘long tail’ of fuel crisis",
+      "summary": "Australian MPs debate gas export tax ahead of May budget amid fuel crisis concerns.",
+      "url": "https://www.theguardian.com/p/x4pgph",
+      "thumbnail": "https://media.guim.co.uk/a60d186cb1af4c43a739b2c63ca35037d4131931/650_0_4560_3648/500.jpg",
+      "published": "2026-04-20T22:27:33Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "us-news/2026/apr/20/trump-memos-domestic-fossil-fuels-defense",
+      "headline": "Trump signs memos to boost US fossil-fuel production for ‘defense readiness’",
+      "summary": "Trump signs memos to boost domestic fossil fuel production citing defense readiness.",
+      "url": "https://www.theguardian.com/p/x4pjpv",
+      "thumbnail": "https://media.guim.co.uk/7f2ee295db64d87ed5fa4e2048be6cc292064bf8/598_0_4318_3456/500.jpg",
+      "published": "2026-04-20T22:26:24Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/apr/20/trump-labor-secretary-lori-chavez-deremer",
+      "headline": "Trump labor secretary Lori Chavez-DeRemer resigns amid misconduct investigation",
+      "summary": "Labor Secretary Lori Chavez-DeRemer resigns amid misconduct investigation.",
+      "url": "https://www.theguardian.com/p/x4zecf",
+      "thumbnail": "https://media.guim.co.uk/39b89888320c6a1fbc87e8f8199683737ce81b98/0_0_6830_5464/500.jpg",
+      "published": "2026-04-20T21:33:03Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/apr/20/liam-rosenior-pressure-chelsea-future-wesley-fofana",
+      "headline": "Liam Rosenior admits ‘I need results now’ as pressure mounts at Chelsea",
+      "summary": "Chelsea manager Liam Rosenior faces pressure after four consecutive league defeats.",
+      "url": "https://www.theguardian.com/p/x4ptb2",
+      "thumbnail": "https://media.guim.co.uk/e524bb5cfb92f6b773d3bfaac307b50ecc10a346/726_276_1655_1324/500.jpg",
+      "published": "2026-04-20T21:30:06Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
     }
   ]
 }
