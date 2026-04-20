@@ -1,284 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-20T07:29:20.584Z",
-    "story_count": 61,
-    "oldest_story": "2026-04-19T08:00:36Z",
-    "newest_story": "2026-04-20T07:24:31Z",
+    "generated_at": "2026-04-20T11:57:50.343Z",
+    "story_count": 64,
+    "oldest_story": "2026-04-19T13:00:43Z",
+    "newest_story": "2026-04-20T11:56:36Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "politics/live/2026/apr/19/keir-starmer-leadership-prime-minister-labour-party-peter-mandelson-vetting-latest-news",
-      "headline": "Ministers rally around Keir Starmer as leadership questions grow over Mandelson saga – UK politics live",
-      "summary": "Ministers defend Starmer amid leadership questions over Mandelson's US ambassador appointment after failed vetting.",
-      "url": "https://www.theguardian.com/p/x4pb4a",
-      "thumbnail": "https://media.guim.co.uk/35e0f5eb90dd1ce15cedc0a9c4e2571da7347b6b/1191_80_3546_2838/500.jpg",
-      "published": "2026-04-19T09:09:23Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "politics"
-    },
-    {
-      "id": "us-news/2026/apr/19/michigan-gas-station-clerk-saves-teen",
-      "headline": "Michigan gas station clerk saves teen from alleged kidnapper after she whispers ‘help’",
-      "summary": "Gas station clerk helps rescue 16-year-old girl kidnapped at gunpoint in suburban Detroit area.",
-      "url": "https://www.theguardian.com/p/x4p82k",
-      "thumbnail": "https://media.guim.co.uk/5c3c2ad8f8e70f615029270dca3a33432bb71e02/199_0_1001_801/500.jpg",
-      "published": "2026-04-19T09:00:38Z",
-      "location": {
-        "name": "Hamtramck",
-        "lat": 42.0091,
-        "lng": -83.0708
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "uk-news/2026/apr/19/reform-uk-richard-tice-corporation-tax",
-      "headline": "Reform UK’s Richard Tice allegedly failed to pay £100,000 in corporation tax",
-      "summary": "Reform UK deputy Richard Tice allegedly failed to pay £100k corporation tax while firm donated £1.1m to party.",
-      "url": "https://www.theguardian.com/p/x4pb95",
-      "thumbnail": "https://media.guim.co.uk/089c3c7f34400aaa074236a54dc1135fed384ad0/267_0_4560_3648/500.jpg",
-      "published": "2026-04-19T08:56:05Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "football/live/2026/apr/19/manchester-city-v-arsenal-the-merseyside-derby-and-more-matchday-live",
-      "headline": "Manchester City v Arsenal, the Merseyside derby, and more – matchday live ",
-      "summary": "Manchester City faces Arsenal in potentially decisive Premier League title race match today.",
-      "url": "https://www.theguardian.com/p/x4zzd9",
-      "thumbnail": "https://media.guim.co.uk/36901bca198e80fd3e12435d84bd16f44ced8a17/0_0_5000_4000/500.jpg",
-      "published": "2026-04-19T08:55:00Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4808,
-        "lng": -2.2426
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "business/2026/apr/19/britons-holiday-uk-summer-flights-iran-war",
-      "headline": "More Britons opt to holiday in UK this summer amid uncertainty over flights",
-      "summary": "UK holiday bookings surge as Britons avoid flights due to Iran war uncertainty and fuel shortages.",
-      "url": "https://www.theguardian.com/p/x4pvna",
-      "thumbnail": "https://media.guim.co.uk/cb1c3ce7df4a76f115ea829d8fbdfd6ca40c9086/6_28_2538_2031/500.jpg",
-      "published": "2026-04-19T08:00:36Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "music/2026/apr/19/tim-burgess-honest-playlist-madonna-kate-bush-carole-king-jimmy-osmond",
-      "headline": "‘I became a New Order groupie’: Tim Burgess’s honest playlist",
-      "summary": "The Charlatans' Tim Burgess shares his honest playlist featuring Kate Bush, Madonna, and New Order.",
-      "url": "https://www.theguardian.com/p/x4k2d7",
-      "thumbnail": "https://media.guim.co.uk/3f5e1db5d9d69855a03d866b3f55e4e0aa42cd0d/0_678_3840_3072/500.jpg",
-      "published": "2026-04-19T08:00:36Z",
-      "location": {
-        "name": "Northwich",
-        "lat": 53.2584,
-        "lng": -2.4237
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "music"
-    },
-    {
-      "id": "football/live/2026/apr/19/everton-v-liverpool-premier-league-live",
-      "headline": "Everton v Liverpool: Premier League – live",
-      "summary": "Everton face Liverpool in Premier League Merseyside derby live coverage.",
-      "url": "https://www.theguardian.com/p/x4znv3",
-      "thumbnail": "https://media.guim.co.uk/6631f1fa1d7f091b1c3ea35f10e926dccf78ed00/1000_0_6518_5215/500.jpg",
-      "published": "2026-04-19T11:02:01Z",
-      "location": {
-        "name": "Liverpool",
-        "lat": 53.4308,
-        "lng": -2.9606
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "business/2026/apr/19/us-population-fertility-rate",
-      "headline": "Falling fertility, debt and AI: is the US headed toward a population crisis? ",
-      "summary": "Declining US fertility rates and aging population pose economic challenges ahead.",
-      "url": "https://www.theguardian.com/p/x4p22a",
-      "thumbnail": "https://media.guim.co.uk/b517bcd7434cb2785ef3a2f28f7d4d9bb10edc4c/0_0_3000_2400/500.jpg",
-      "published": "2026-04-19T11:00:47Z",
-      "location": {
-        "name": "United States",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "us-news/2026/apr/19/harmeet-dhillon-trump",
-      "headline": "Harmeet Dhillon: DoJ lawyer a top contender for Trump’s retribution mission",
-      "summary": "Harmeet Dhillon emerges as top contender for Trump's Justice Department leadership.",
-      "url": "https://www.theguardian.com/p/x4p2ym",
-      "thumbnail": "https://media.guim.co.uk/0bb07dbbc7d68bf8efb8c17a0704b4870721c0da/427_0_4103_3283/500.jpg",
-      "published": "2026-04-19T11:00:46Z",
-      "location": {
-        "name": "United States",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "books/2026/apr/19/siri-hustvedt-on-husband-death-paul-auster-novelist",
-      "headline": " ‘After all the horrible things we’ve been through,’ he said to me, ‘if I die of cancer, it will make a bad story’: Siri Hustvedt on losing Paul Auster",
-      "summary": "Siri Hustvedt reflects on life after husband Paul Auster's cancer death in 2024.",
-      "url": "https://www.theguardian.com/p/x4j6y8",
-      "thumbnail": "https://media.guim.co.uk/6690faa07bbf5d90394b97f78e71ff8ec07f8be3/18_3426_8058_6444/500.jpg",
-      "published": "2026-04-19T11:00:45Z",
-      "location": {
-        "name": "Brooklyn",
-        "lat": 40.6782,
-        "lng": -73.9442
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "books"
-    },
-    {
-      "id": "commentisfree/2026/apr/19/madonna-confessions-on-a-dance-floor-part-ii-lesbians-gay-men",
-      "headline": "Lesbians are reclaiming Madonna as we await her new album, Confessions on a Dance Floor: Part II",
-      "summary": "Lesbians reclaim Madonna as new album Confessions Part II approaches release.",
-      "url": "https://www.theguardian.com/p/x4px7m",
-      "thumbnail": "https://media.guim.co.uk/af544117f21d62d30b8dc97ba3d63a9525599a7d/1_365_1275_1020/500.jpg",
-      "published": "2026-04-19T11:00:45Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "commentisfree"
-    },
-    {
-      "id": "us-news/2026/apr/19/d4vd-arrest-celeste-rivas-hernandez",
-      "headline": "‘Beloved daughter, sister, cousin, friend’: will D4vd’s arrest for murder bring justice for Celeste Rivas Hernandez?",
-      "summary": "Alt-pop singer D4vd arrested in connection with teenager's death in Los Angeles.",
-      "url": "https://www.theguardian.com/p/x4p2qp",
-      "thumbnail": "https://media.guim.co.uk/aeb20cdccf5d8b1544416371ba0d6227c789b90c/348_0_3511_2810/500.jpg",
-      "published": "2026-04-19T11:00:44Z",
-      "location": {
-        "name": "Los Angeles",
-        "lat": 34.0522,
-        "lng": -118.2437
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/apr/19/virginias-map-redistricting-vote-swing-state",
-      "headline": "Virginia’s redistricting vote ‘a critical step’ for the swing state",
-      "summary": "Virginia votes on redistricting maps that could favor Democrats in swing state.",
-      "url": "https://www.theguardian.com/p/x4p2cm",
-      "thumbnail": "https://media.guim.co.uk/b129dcabe016ca4279705859f9a0361e96e511d8/963_0_4042_3234/500.jpg",
-      "published": "2026-04-19T11:00:43Z",
-      "location": {
-        "name": "Virginia",
-        "lat": 37.7693,
-        "lng": -78.1694
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "world/2026/apr/19/artemis-astronaut-jeremy-hansen-french-canada",
-      "headline": "Canadian astronaut’s bon mots help heal wounds from French language row",
-      "summary": "Canadian astronaut Jeremy Hansen speaks French in space, healing language tensions.",
-      "url": "https://www.theguardian.com/p/x4p2fp",
-      "thumbnail": "https://media.guim.co.uk/8673d146ce43e359505f94e33d3e487a00ee6f7c/0_0_5797_4639/500.jpg",
-      "published": "2026-04-19T11:00:41Z",
-      "location": {
-        "name": "Canada",
-        "lat": 56.1304,
-        "lng": -106.3468
-      },
-      "category": "tech",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "lifeandstyle/2026/apr/19/dining-across-the-divide-i-think-property-is-a-right-not-a-business-he-thinks-differently-because-hes-a-landlord",
-      "headline": " Dining across the divide: ‘I think property is a right, not a business – he thinks differently because he’s a landlord’ ",
-      "summary": "Dinner dialogue explores property rights and united Ireland between two Londoners.",
-      "url": "https://www.theguardian.com/p/x4mn5e",
-      "thumbnail": "https://media.guim.co.uk/897627ebe4da6cd0ae09c2e8608c1b108a1080ad/805_289_4174_3339/500.jpg",
-      "published": "2026-04-19T11:00:40Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 1,
-      "section": "lifeandstyle"
-    },
-    {
-      "id": "business/2026/apr/19/labour-approach-closer-eu-ties-address-damage-of-brexit",
-      "headline": "Labour’s ‘crabwise’ approach to closer EU ties must address damage of Brexit",
-      "summary": "Labour government pursues closer EU relations despite Brexit economic damage persisting.",
-      "url": "https://www.theguardian.com/p/x4pxjd",
-      "thumbnail": "https://media.guim.co.uk/ea4d82d07232523fd618250129436fd6e94fefa3/1538_461_4931_3946/500.jpg",
-      "published": "2026-04-19T10:50:18Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "world/2026/apr/19/israel-europe-support-iran-war-orban-meloni",
-      "headline": "Israel had a bad week in Europe. Does it herald a wider shift in EU relations? ",
-      "summary": "Israel loses support in Europe as Orbán falls and Meloni distances from alliance.",
-      "url": "https://www.theguardian.com/p/x4pxha",
-      "thumbnail": "https://media.guim.co.uk/f9d9e4e3c070cf558e002a8193dce88d8360b15b/0_0_4677_3741/500.jpg",
-      "published": "2026-04-19T10:13:34Z",
-      "location": {
-        "name": "Brussels",
-        "lat": 50.8503,
-        "lng": 4.3517
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
     {
       "id": "world/2026/apr/19/pitcairn-register-bounty-mutineers-descendants-returns-south-pacific",
       "headline": "‘It’s sacred to us’: register of Bounty mutineer’s descendants returns to South Pacific",
@@ -982,6 +710,326 @@
       "category": "conflict",
       "significance": 4,
       "section": "world"
+    },
+    {
+      "id": "us-news/live/2026/apr/20/trump-tariff-refund-politics-vance-congress-latest-updates",
+      "headline": "Trump tariff refund system set to launch in first step towards paying back $166bn in extra levies – US politics live",
+      "summary": "Trump administration launches tariff refund portal for $166bn after Supreme Court ruling.",
+      "url": "https://www.theguardian.com/p/x4phd8",
+      "thumbnail": "https://media.guim.co.uk/a312a19904b3254dc8f4518a2aab7603b6ba5d11/179_0_4164_3333/500.jpg",
+      "published": "2026-04-20T11:56:36Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/apr/20/first-thing-us-military-seizes-iran-ship-strait-of-hormuz-blockade",
+      "headline": "First Thing: US military seizes Iran-flagged ship trying to pass strait of Hormuz blockade",
+      "summary": "US military seizes Iranian container ship in first blockade interception; Iran threatens response.",
+      "url": "https://www.theguardian.com/p/x4pgef",
+      "thumbnail": "https://media.guim.co.uk/bc456383e36f1dc6531e388ef24f7731ac0b8f29/384_0_1350_1080/500.jpg",
+      "published": "2026-04-20T11:55:19Z",
+      "location": {
+        "name": "Strait of Hormuz",
+        "lat": 26.5597,
+        "lng": 56.2656
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "us-news"
+    },
+    {
+      "id": "sport/live/2026/apr/20/hampshire-v-somerset-warwickshire-v-essex-and-more-county-cricket-live",
+      "headline": "Hampshire v Somerset, Warwickshire v Essex, and more: county cricket – live",
+      "summary": "County cricket final day with Hampshire v Somerset and other matches in play.",
+      "url": "https://www.theguardian.com/p/x4pgf2",
+      "thumbnail": "https://media.guim.co.uk/7a8061a3ff19600fc5e47ff1f04b8c90d49d1147/0_0_2202_1762/500.jpg",
+      "published": "2026-04-20T11:54:04Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "world/live/2026/apr/20/bulgaria-election-ukraine-russia-hungary-macron-poland-latest-news-updates",
+      "headline": "EU praises ‘extremely constructive’ early talks with incoming Hungarian government – Europe live",
+      "summary": "EU praises constructive talks with incoming Hungarian government on unblocking funds.",
+      "url": "https://www.theguardian.com/p/x4pgdv",
+      "thumbnail": "https://media.guim.co.uk/b2cfa52bebafcef24a58eab6079b0db5b0a2752e/295_0_3105_2484/500.jpg",
+      "published": "2026-04-20T11:46:12Z",
+      "location": {
+        "name": "Budapest",
+        "lat": 47.4979,
+        "lng": 19.0402
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "world/live/2026/apr/20/japan-tsunami-earthquake-sanriku-latest-news-updates",
+      "headline": "Japan tsunami alert issued following powerful earthquake off northern coast – follow latest",
+      "summary": "Japan issues tsunami alert after powerful 7.5 magnitude earthquake off northern coast.",
+      "url": "https://www.theguardian.com/p/x4pgj7",
+      "thumbnail": "https://media.guim.co.uk/1398ebbc25a43ac4e0b757ed8cab980e1b7347e5/594_0_4331_3465/500.jpg",
+      "published": "2026-04-20T11:45:47Z",
+      "location": {
+        "name": "Sanriku",
+        "lat": 39.3636,
+        "lng": 141.9556
+      },
+      "category": "climate",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "music/2026/apr/20/amy-winehouse-father-mitch-loses-high-court-battle-against-her-friends",
+      "headline": "Amy Winehouse’s father Mitch loses high court battle against her friends",
+      "summary": "Amy Winehouse's father loses high court case over auction of singer's possessions.",
+      "url": "https://www.theguardian.com/p/x4ph7b",
+      "thumbnail": "https://media.guim.co.uk/2d4ec45c125de2ff413bdb7766c0a40076d0d133/0_111_2400_1920/500.jpg",
+      "published": "2026-04-20T11:40:54Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "music"
+    },
+    {
+      "id": "football/2026/apr/20/mls-weekend-wrap-diego-luna-lionel-messi-columbus-crew",
+      "headline": "Diego Luna is making his strongest case for a US World Cup roster spot",
+      "summary": "Diego Luna strengthens case for US World Cup roster amid MLS season action.",
+      "url": "https://www.theguardian.com/p/x4pffk",
+      "thumbnail": "https://media.guim.co.uk/2ed46214647a96a5e64b45b5bb0138294103d20b/1869_755_1468_1174/500.jpg",
+      "published": "2026-04-20T11:40:02Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "politics/live/2026/apr/20/keir-starmer-peter-mandelson-vetting-reform-immigration-iran-latest-news-updates",
+      "headline": "Starmer expected to lead Labour into next election, says minister, but warns there are ‘no certainties’ amid Mandelson scandal – UK politics live",
+      "summary": "Starmer faces Commons showdown over Peter Mandelson vetting scandal amid leadership questions.",
+      "url": "https://www.theguardian.com/p/x4pga6",
+      "thumbnail": "https://media.guim.co.uk/bf79b4709ddbe93a65e2d80d25b0e63c37056277/123_0_3254_2604/500.jpg",
+      "published": "2026-04-20T11:35:48Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "politics"
+    },
+    {
+      "id": "business/2026/apr/20/oil-prices-rise-markets-fall-us-iran-ftse-100-gas-strait-of-hormuz",
+      "headline": "Oil prices rise and markets fall after US seizure of ship hits Iran peace deal hopes",
+      "summary": "FTSE 100 slides as oil prices rise following US seizure of Iranian ship.",
+      "url": "https://www.theguardian.com/p/x4pgb7",
+      "thumbnail": "https://media.guim.co.uk/38ea08a8aadf4ad42de7840df22c917da498005a/628_0_5002_4000/500.jpg",
+      "published": "2026-04-20T11:28:06Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "business"
+    },
+    {
+      "id": "football/2026/apr/20/erling-haaland-manchester-city-arsenal-premier-league-title-race",
+      "headline": "Haaland keeps his cool and turns up heat on Arsenal as Gabriel loses his head",
+      "summary": "Haaland scores winner as Manchester City maintains pressure on Arsenal in title race.",
+      "url": "https://www.theguardian.com/p/x4ph7e",
+      "thumbnail": "https://media.guim.co.uk/011eb23bd6ac49dcb97bfb5f3ddbf643244a9c52/493_168_4790_3832/500.jpg",
+      "published": "2026-04-20T11:27:35Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "environment/2026/apr/20/electric-car-ev-sales-mainland-europe-petrol-prices-iran-war",
+      "headline": "Electric car sales soar 51% in mainland Europe as Iran war drives up fuel prices",
+      "summary": "Electric car sales surge 51% in mainland Europe as Iran war drives fuel prices up.",
+      "url": "https://www.theguardian.com/p/x4pgmq",
+      "thumbnail": "https://media.guim.co.uk/5ce2d244d36ecafccafc0c7ddc5e2f75c1f566ea/1465_0_5264_4212/500.jpg",
+      "published": "2026-04-20T11:25:07Z",
+      "location": {
+        "name": "Oslo",
+        "lat": 59.9139,
+        "lng": 10.7522
+      },
+      "category": "tech",
+      "significance": 2,
+      "section": "environment"
+    },
+    {
+      "id": "stage/2026/apr/20/do-you-come-from-gomorrah-review-frank-mcguinness-abbey-dublin",
+      "headline": "Do You Come from Gomorrah? review – Frank McGuinness’s blistering portrait of abuse and prejudice",
+      "summary": "Frank McGuinness's new Abbey theatre play portrays 1970s institutional brutality in Ireland.",
+      "url": "https://www.theguardian.com/p/x4pbnx",
+      "thumbnail": "https://media.guim.co.uk/4df5a14a0395de552aa33934920bde01f06c4152/1846_612_2637_2109/500.jpg",
+      "published": "2026-04-20T11:19:47Z",
+      "location": {
+        "name": "Dublin",
+        "lat": 53.3498,
+        "lng": -6.2603
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "stage"
+    },
+    {
+      "id": "sport/2026/apr/20/floods-baskets-and-billie-jean-king-how-the-rough-and-tumble-wbl-set-the-stage-for-the-wnba",
+      "headline": "Floods, baskets and Billie Jean King: how the rough and tumble WBL set the stage for the WNBA",
+      "summary": "WBL's legacy laid groundwork for modern WNBA stars 45 years after final game.",
+      "url": "https://www.theguardian.com/p/x4pd57",
+      "thumbnail": "https://media.guim.co.uk/f0e6e241107496a2f71d30c378cdf6b3b5de2a43/0_226_2666_2133/500.jpg",
+      "published": "2026-04-20T11:18:14Z",
+      "location": {
+        "name": "New York City",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "business/2026/apr/20/250000-could-lose-job-2027-uk-recession-analysis-economy-iran-war",
+      "headline": "Quarter of a million people could lose job by middle of 2027 as UK ‘flirts with recession’, analysis says",
+      "summary": "250,000 UK jobs at risk by mid-2027 amid recession fears and Iran war fallout.",
+      "url": "https://www.theguardian.com/p/x4pbzd",
+      "thumbnail": "https://media.guim.co.uk/fbb2956710acce23843711452f3dee36c9031006/297_0_3640_2912/500.jpg",
+      "published": "2026-04-20T11:13:54Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "business"
+    },
+    {
+      "id": "football/2026/apr/20/marie-louise-eta-union-berlins-football-goddess-breaks-new-ground-in-bundesliga",
+      "headline": "Marie-Louise Eta, Union Berlin’s ‘Football Goddess’, breaks new ground in Bundesliga",
+      "summary": "Marie-Louise Eta becomes first female head coach in top five European leagues.",
+      "url": "https://www.theguardian.com/p/x4ph7n",
+      "thumbnail": "https://media.guim.co.uk/a3cc905f58c8d5c0d16093ee9e590f177eb98f0e/319_525_5999_4799/500.jpg",
+      "published": "2026-04-20T11:12:41Z",
+      "location": {
+        "name": "Berlin",
+        "lat": 52.52,
+        "lng": 13.405
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/apr/20/ibrahima-konate-liverpool-close-new-contract",
+      "headline": "Ibrahima Konaté close to agreeing new contract and extending Liverpool stay",
+      "summary": "Ibrahima Konaté close to new Liverpool contract after expiring deal this summer.",
+      "url": "https://www.theguardian.com/p/x4ph4d",
+      "thumbnail": "https://media.guim.co.uk/5a0b9d079b8143e0ca1e86bb58163816ae1b6bce/286_403_1345_1076/500.jpg",
+      "published": "2026-04-20T11:00:54Z",
+      "location": {
+        "name": "Liverpool",
+        "lat": 53.4308,
+        "lng": -2.9605
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "world/2026/apr/20/defense-contractor-evacuate-iraq-kuwait",
+      "headline": "US urges contractor to evacuate workers from Kuwait and Iraq over worries of Iran-backed attacks",
+      "summary": "US urges defense contractor V2X to evacuate workers from Iraq and Kuwait over Iran threats.",
+      "url": "https://www.theguardian.com/p/x4p2tk",
+      "thumbnail": "https://media.guim.co.uk/de13b8b4bbed7c14a37a3d6fb28f5efc471454dc/0_0_5001_4002/500.jpg",
+      "published": "2026-04-20T11:00:54Z",
+      "location": {
+        "name": "Kuwait",
+        "lat": 29.3759,
+        "lng": 47.9774
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "us-news/2026/apr/20/trump-doj-epstein-files-victims",
+      "headline": "Trump DoJ’s mixed messages bode ill for Epstein victims, experts fear",
+      "summary": "Trump DoJ's unclear messaging on Epstein files raises concerns for survivors' transparency.",
+      "url": "https://www.theguardian.com/p/x4p238",
+      "thumbnail": "https://media.guim.co.uk/ab30a8ff29664acfd7097cf43f405fb4faeee25c/639_0_5001_4000/500.jpg",
+      "published": "2026-04-20T11:00:54Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "world/2026/apr/20/canadas-residential-school-abuse-survivors-face-fresh-battle-to-stop-testimony-being-destroyed",
+      "headline": "Canada’s residential school abuse survivors face fresh battle to stop testimony being destroyed",
+      "summary": "Residential school abuse survivors battle to preserve testimony from destruction.",
+      "url": "https://www.theguardian.com/p/x4k6b6",
+      "thumbnail": "https://media.guim.co.uk/dc1be6069186498bee6017b75e8d8a6e30ee5631/346_0_5000_4000/500.jpg",
+      "published": "2026-04-20T11:00:54Z",
+      "location": {
+        "name": "Canada",
+        "lat": 56.1304,
+        "lng": -106.3468
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "music/2026/apr/20/lso-pappano-the-dream-of-gerontius-review-elgar-barbican-london",
+      "headline": "LSO/ Pappano: The Dream of Gerontius review – full-throttle rendering of Elgar’s operatic finest",
+      "summary": "LSO and Pappano deliver powerful Elgar's Dream of Gerontius at Barbican.",
+      "url": "https://www.theguardian.com/p/x4pgnf",
+      "thumbnail": "https://media.guim.co.uk/33fd00de585fcb92bc738f8554f33efffb375f6a/328_0_4344_3476/500.jpg",
+      "published": "2026-04-20T11:00:44Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "music"
     }
   ]
 }
