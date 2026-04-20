@@ -1,380 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-20T11:57:50.343Z",
-    "story_count": 64,
-    "oldest_story": "2026-04-19T13:00:43Z",
-    "newest_story": "2026-04-20T11:56:36Z",
+    "generated_at": "2026-04-20T16:20:29.700Z",
+    "story_count": 50,
+    "oldest_story": "2026-04-19T16:49:18Z",
+    "newest_story": "2026-04-20T16:09:31Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "world/2026/apr/19/pitcairn-register-bounty-mutineers-descendants-returns-south-pacific",
-      "headline": "‘It’s sacred to us’: register of Bounty mutineer’s descendants returns to South Pacific",
-      "summary": "Pitcairn Register of Bounty mutineers' descendants returns to South Pacific island.",
-      "url": "https://www.theguardian.com/p/x4zn3y",
-      "thumbnail": "https://media.guim.co.uk/a10c73f245deb21bfa683ff61585bd457c8f38a8/178_58_1009_808/500.jpg",
-      "published": "2026-04-19T14:00:44Z",
-      "location": {
-        "name": "Pitcairn Islands",
-        "lat": -25.0408,
-        "lng": -130.1008
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "football/live/2026/apr/19/manchester-city-v-arsenal-premier-league-live",
-      "headline": "Manchester City v Arsenal: Premier League – live ",
-      "summary": "Manchester City face Arsenal in crucial Premier League title-deciding match.",
-      "url": "https://www.theguardian.com/p/x4znxg",
-      "thumbnail": "https://media.guim.co.uk/3b180707a80458fd4c4f4627300ae808ea884f0f/389_0_5000_4000/500.jpg",
-      "published": "2026-04-19T14:00:44Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4831,
-        "lng": -2.2006
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "us-news/2026/apr/19/oklahoma-principal-disarmed-intruder-prom-king",
-      "headline": "Oklahoma principal who disarmed gun-wielding intruder crowned prom king",
-      "summary": "High school principal crowned prom king after disarming armed intruder on campus.",
-      "url": "https://www.theguardian.com/p/x4pc88",
-      "thumbnail": "https://media.guim.co.uk/dc1fe9c0624217b72cbdd178816677024abfd691/485_0_2710_2168/500.jpg",
-      "published": "2026-04-19T13:44:11Z",
-      "location": {
-        "name": "Pauls Valley, Oklahoma",
-        "lat": 35.3427,
-        "lng": -97.2396
-      },
-      "category": "other",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "sport/live/2026/apr/19/hampshire-v-somerset-gloucestershire-v-lancashire-and-more-county-cricket-live",
-      "headline": "Hampshire v Somerset, Gloucestershire v Lancashire, and more: county cricket – live",
-      "summary": "Attempted arson attack on Harrow synagogue prompts chief rabbi to warn of antisemitic violence.",
-      "url": "https://www.theguardian.com/p/x4znn8",
-      "thumbnail": "https://media.guim.co.uk/fe44aeacd44446723af99d61beaff06a24e380e0/386_0_4050_3240/500.jpg",
-      "published": "2026-04-19T13:39:05Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "conflict",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "uk-news/2026/apr/19/police-investigate-attempted-arson-attack-north-west-london-synagogue",
-      "headline": "Police investigate attempted arson attack at north-west London synagogue ",
-      "summary": "Italy's Meloni government proposes paying lawyers bounties for convincing immigrants to leave.",
-      "url": "https://www.theguardian.com/p/x4pbdc",
-      "thumbnail": "https://media.guim.co.uk/62c9fb8fd8af5757715a2554f99154d07a694173/242_0_3838_3072/500.jpg",
-      "published": "2026-04-19T13:24:20Z",
-      "location": {
-        "name": "Rome",
-        "lat": 41.9028,
-        "lng": 12.4964
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "world/2026/apr/19/italian-lawyers-giorgia-meloni-wild-west-bounties-immigration",
-      "headline": "Italian lawyers could win ‘wild west-style bounties’ if immigration clients go home",
-      "summary": "Ex-Infowars producer details chaotic work environment under conspiracy theorist Alex Jones.",
-      "url": "https://www.theguardian.com/p/x4pbnq",
-      "thumbnail": "https://media.guim.co.uk/1a01b001bac6d6346f36958488804b3285875152/380_0_2500_2000/500.jpg",
-      "published": "2026-04-19T13:23:12Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "us-news/2026/apr/19/alex-jones-josh-owens-infowars",
-      "headline": "‘It was constant chaos’: ex-Infowars producer on life under Alex Jones",
-      "summary": "UK seeks EU deals on steel and EVs to strengthen post-Brexit economic relationship.",
-      "url": "https://www.theguardian.com/p/x4p2xv",
-      "thumbnail": "https://media.guim.co.uk/7c9a23346259d7ae87a3c21c6f8a6e6ae8cbeb7a/679_0_6793_5435/500.jpg",
-      "published": "2026-04-19T13:00:43Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "politics/2026/apr/19/uk-seeks-eu-deals-on-steel-and-evs-in-push-for-closer-economic-ties",
-      "headline": "UK seeks EU deals on steel and EVs in push for closer economic ties",
-      "summary": "Maine lawsuit emerges as significant anti-corruption challenge to Citizens United ruling.",
-      "url": "https://www.theguardian.com/p/x4p2b3",
-      "thumbnail": "https://media.guim.co.uk/8ab0cdf0d430e3257ca969f133bc738343df5ddc/202_0_5000_4000/500.jpg",
-      "published": "2026-04-19T13:00:43Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "lifeandstyle/2026/apr/19/donald-trump-is-not-the-messiah-but-what-does-it-take-to-convince-people-that-you-are",
-      "headline": "Donald Trump is not the messiah. But what does it take to convince people that you are?",
-      "summary": "Comedian Susan Calman discusses overcoming depression and finding community in comedy.",
-      "url": "https://www.theguardian.com/p/x4pxmg",
-      "thumbnail": "https://media.guim.co.uk/2634da846d3213f77e5d0e56c5a48c90a471f487/687_0_6842_5477/500.jpg",
-      "published": "2026-04-19T13:00:43Z",
-      "location": {
-        "name": "Glasgow",
-        "lat": 55.8642,
-        "lng": -4.2518
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "lifeandstyle"
-    },
-    {
-      "id": "us-news/2026/apr/19/trump-energy-secretary-chris-wright-gas-prices",
-      "headline": "Trump energy secretary says gas prices might not drop back under $3 a gallon until 2027",
-      "summary": "Trump's energy secretary says US gas prices unlikely to drop below $3/gallon until 2027.",
-      "url": "https://www.theguardian.com/p/x4pckq",
-      "thumbnail": "https://media.guim.co.uk/040031981417cac14b045f9d8c62818312fa7565/0_0_5748_4598/500.jpg",
-      "published": "2026-04-19T15:54:19Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "uk-news/2026/apr/19/rudakubana-risk-and-parents-responsibility",
-      "headline": "Rudakubana, risk and parents’ responsibility",
-      "summary": "Readers debate parental responsibility in Southport killer Axel Rudakubana case.",
-      "url": "https://www.theguardian.com/p/x4pxtk",
-      "thumbnail": "https://media.guim.co.uk/2b6d027f02d1185a319c5d5c3d8c78643522c50d/66_0_2915_2333/500.jpg",
-      "published": "2026-04-19T15:51:47Z",
-      "location": {
-        "name": "Southport",
-        "lat": 53.5845,
-        "lng": -3.0037
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "football/2025/sep/15/premier-league-top-scorers-2025-26-who-is-leading-race-for-golden-boot",
-      "headline": "Premier League top scorers 2025-26: who is leading race for golden boot?",
-      "summary": "Erling Haaland leads Premier League goalscoring race with 22 goals this season.",
-      "url": "https://www.theguardian.com/p/x386fa",
-      "thumbnail": "https://media.guim.co.uk/2a75d886f89c2a43eb9530b1e231b7c647e76c4f/0_119_2112_1690/500.jpg",
-      "published": "2026-04-19T15:41:57Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "business/2026/apr/19/we-all-share-blame-for-the-decline-of-our-high-streets",
-      "headline": "We all share blame for the decline of our high streets",
-      "summary": "Letter discusses changing consumer habits driving UK high street decline.",
-      "url": "https://www.theguardian.com/p/x4pbm3",
-      "thumbnail": "https://media.guim.co.uk/15b3d07d6050f50bd862a9621c3b6cf51bfeab98/1176_0_7200_5760/500.jpg",
-      "published": "2026-04-19T15:36:53Z",
-      "location": {
-        "name": "Newport",
-        "lat": 51.5878,
-        "lng": -2.9984
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "football/2026/apr/19/nottingham-forest-burnley-premier-league-match-report",
-      "headline": "Gibbs-White hat-trick sinks Burnley and moves Forest closer towards safety",
-      "summary": "Morgan Gibbs-White's hat-trick lifts Nottingham Forest closer to safety with 4-1 win.",
-      "url": "https://www.theguardian.com/p/x4p2pc",
-      "thumbnail": "https://media.guim.co.uk/6295e66fba8959351cb7e0f22e6b4bcce4f920cf/265_0_2785_2228/500.jpg",
-      "published": "2026-04-19T15:36:06Z",
-      "location": {
-        "name": "Nottingham",
-        "lat": 52.9399,
-        "lng": -1.1339
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/apr/19/everton-liverpool-premier-league-match-report",
-      "headline": "Virgil van Dijk snatches victory for Liverpool in first derby at Everton’s new home",
-      "summary": "Van Dijk's 100th-minute header gives Liverpool 2-1 derby win at Everton's new stadium.",
-      "url": "https://www.theguardian.com/p/x4p2zp",
-      "thumbnail": "https://media.guim.co.uk/1680b8127c6c475940bb55aa3eba14d0f26ff74b/473_0_4409_3528/500.jpg",
-      "published": "2026-04-19T15:24:06Z",
-      "location": {
-        "name": "Liverpool",
-        "lat": 53.4084,
-        "lng": -2.9916
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/apr/19/aston-villa-sunderland-premier-league-match-report",
-      "headline": "Aston Villa’s Tammy Abraham grabs dramatic victory after Sunderland rally",
-      "summary": "Tammy Abraham scores late winner as Aston Villa defeats Sunderland 4-3.",
-      "url": "https://www.theguardian.com/p/x4p2zy",
-      "thumbnail": "https://media.guim.co.uk/db3ac0bf4d5d062f1b2fd377ee717408515626f3/449_0_3025_2420/500.jpg",
-      "published": "2026-04-19T15:22:29Z",
-      "location": {
-        "name": "Birmingham",
-        "lat": 52.5086,
-        "lng": -1.8853
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "sport/blog/2026/apr/19/elijah-hollands-afl-mental-health-episode-how-was-he-allowed-to-keep-playing",
-      "headline": "How was Elijah Hollands allowed to keep playing during a ‘mental health episode’? ",
-      "summary": "AFL questions Carlton's duty of care after player Elijah Hollands played during mental health crisis.",
-      "url": "https://www.theguardian.com/p/x4p9my",
-      "thumbnail": "https://media.guim.co.uk/6568a5edb0b13a3607e34b057b56f1f37fad7361/986_0_4908_3929/500.jpg",
-      "published": "2026-04-19T15:00:47Z",
-      "location": {
-        "name": "Melbourne",
-        "lat": -37.8136,
-        "lng": 144.9631
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "australia-news/2026/apr/19/nsw-housing-sydney-aged-care-development-forest-lodge",
-      "headline": "How desperate is the NSW government to build housing? This unassuming site may provide a clue",
-      "summary": "NSW planning minister to decide on flood-risk Sydney aged care development approval.",
-      "url": "https://www.theguardian.com/p/x4tkne",
-      "thumbnail": "https://media.guim.co.uk/8b356656af4dea828e0281c243669871b0738a84/246_0_2462_1970/500.jpg",
-      "published": "2026-04-19T15:00:46Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "australia-news/2026/apr/20/farrer-byelection-michelle-milthorpe-independent-profile-one-nation",
-      "headline": "Don’t call me a teal: independent Michelle Milthorpe carves a fresh path as she takes on One Nation in Farrer byelection ",
-      "summary": "Independent Michelle Milthorpe challenges One Nation in regional NSW Farrer byelection.",
-      "url": "https://www.theguardian.com/p/x4z57g",
-      "thumbnail": "https://media.guim.co.uk/256446c24c63552b3599588bd7aa2e461cb859e8/425_176_3867_3093/500.jpg",
-      "published": "2026-04-19T15:00:46Z",
-      "location": {
-        "name": "Albury",
-        "lat": -36.0785,
-        "lng": 146.916
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "australia-news/ng-interactive/2026/apr/19/bikram-lama-birdman-sydney-st-james-tunnel-homelessness-ntwnfb",
-      "headline": "When ‘the birdman’ of St James tunnel died, Sydney commuters streamed past his body for days",
-      "summary": "Death of homeless Nepali man reveals gaps in Sydney homelessness services.",
-      "url": "https://www.theguardian.com/p/x4za7a",
-      "thumbnail": "https://media.guim.co.uk/b59329499509a0dd8ca8514c9de059c34d5a4bef/0_0_4451_3563/500.jpg",
-      "published": "2026-04-19T15:00:46Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "health",
-      "significance": 3,
-      "section": "australia-news"
-    },
-    {
-      "id": "society/ng-interactive/2026/apr/19/melissa-lucashenko-on-rebuilding-social-cohesion-indigenous-australians-ntwnfb",
-      "headline": "‘A white man’s fantasy’: if we want to rebuild social cohesion, we need to acknowledge where it all started to unravel",
-      "summary": "Indigenous writer Melissa Lucashenko links Bondi shooting to Australia's historical social fractures.",
-      "url": "https://www.theguardian.com/p/x4n9ke",
-      "thumbnail": "https://media.guim.co.uk/537a3de87bfd0cea5f1ebded257f1c5531d5290b/0_0_5000_4000/500.jpg",
-      "published": "2026-04-19T15:00:45Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "society"
-    },
-    {
-      "id": "lifeandstyle/2026/apr/20/kindness-of-strangers-car-stuck-on-highway",
-      "headline": "The kindness of strangers: My car was stuck in the middle of a highway. I felt hopeless – until some burly truckies lent a hand",
-      "summary": "Personal memoir about strangers helping teenager with stranded car on Sydney highway.",
-      "url": "https://www.theguardian.com/p/x4za5g",
-      "thumbnail": "https://media.guim.co.uk/40b0d62d15cb34f86c162147ddd926b0989f1480/17_0_2217_1773/500.jpg",
-      "published": "2026-04-19T15:00:45Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "other",
-      "significance": 1,
-      "section": "lifeandstyle"
-    },
-    {
-      "id": "australia-news/2026/apr/19/labor-accused-ignoring-anti-racism-plan-documents-reveal-repeated-pleas-take-action-ntwnfb",
-      "headline": "Labor accused of ignoring anti-racism plan as documents reveal repeated pleas to take action",
-      "summary": "Labor government criticized for slow progress on anti-racism plan 18 months after receiving recommendations.",
-      "url": "https://www.theguardian.com/p/x4zq4e",
-      "thumbnail": "https://media.guim.co.uk/9e7e0334a422adb0988f64e990cc876b3acda1f0/1029_0_5925_4740/500.jpg",
-      "published": "2026-04-19T15:00:45Z",
-      "location": {
-        "name": "Australia",
-        "lat": -25.2744,
-        "lng": 133.7751
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
     {
       "id": "world/2026/apr/19/intemperate-trump-brings-chaos-and-confusion-to-iran-talks",
       "headline": "Intemperate Trump brings chaos and confusion to Iran talks",
@@ -1030,6 +662,150 @@
       "category": "culture",
       "significance": 1,
       "section": "music"
+    },
+    {
+      "id": "commentisfree/2026/apr/20/after-being-doorstepped-by-a-green-canvasser-i-know-what-voters-must-do-to-keep-out-reform",
+      "headline": "After being doorstepped by a Green canvasser, I know what voters must do to keep out Reform",
+      "summary": "Opinion piece on tactical voting ahead of May local elections to counter Reform party gains.",
+      "url": "https://www.theguardian.com/p/x4phx5",
+      "thumbnail": "https://media.guim.co.uk/1dc82f6098a9fc5b8e2b902ea2237400398058a1/1316_0_6578_5263/500.jpg",
+      "published": "2026-04-20T16:09:31Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "commentisfree"
+    },
+    {
+      "id": "football/2026/apr/20/bournemouth-confirm-marco-rose-will-take-over-from-andoni-iraola-as-head-coach",
+      "headline": "Bournemouth confirm Marco Rose will take over from Andoni Iraola as head coach",
+      "summary": "Marco Rose appointed Bournemouth head coach, replacing Andoni Iraola with three-year deal.",
+      "url": "https://www.theguardian.com/p/x4ptgt",
+      "thumbnail": "https://media.guim.co.uk/47b6fbd8c3847ad3a5a2ff512871ccc7a9e75406/741_0_4921_3937/500.jpg",
+      "published": "2026-04-20T16:08:32Z",
+      "location": {
+        "name": "Bournemouth",
+        "lat": 50.7352,
+        "lng": -1.8391
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/apr/20/celestino-chavez-jr-army-soldier-korean-war-remains-identified",
+      "headline": "Remains of US soldier who went missing in Korean war laid to rest after 75 years",
+      "summary": "US soldier missing since Korean War identified via DNA, buried in New Mexico after 75 years.",
+      "url": "https://www.theguardian.com/p/x4pt33",
+      "thumbnail": "https://media.guim.co.uk/b3d055148bc75e92f68c35fca3c853ffc8f7c62f/0_151_1024_818/500.jpg",
+      "published": "2026-04-20T16:01:12Z",
+      "location": {
+        "name": "Gallup",
+        "lat": 35.1341,
+        "lng": -108.7457
+      },
+      "category": "other",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "sport/2026/apr/20/london-to-host-historic-first-team-time-trial-for-tour-de-france-femmes-in-2027",
+      "headline": "London to host historic first team time trial for Tour de France Femmes in 2027",
+      "summary": "London hosts first team time trial for Tour de France Femmes in 2027 on central circuit.",
+      "url": "https://www.theguardian.com/p/x4pggy",
+      "thumbnail": "https://media.guim.co.uk/b400109244cecb6268d49ab819f6f593a750b8cd/294_0_5966_4773/500.jpg",
+      "published": "2026-04-20T16:00:00Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "sport"
+    },
+    {
+      "id": "politics/2026/apr/20/greens-zack-polanski-rave-club-night-appearance-leeds",
+      "headline": "‘Dancing is resistance’: Zack Polanski and the Greens bring the party to the ravers ",
+      "summary": "Green party reaches voters at nightclub event in Leeds ahead of May local elections.",
+      "url": "https://www.theguardian.com/p/x4phbc",
+      "thumbnail": "https://media.guim.co.uk/1a8c070e66e8a6dda95bb8dcd2c5acce7d6a1d8d/494_0_2500_2000/500.jpg",
+      "published": "2026-04-20T16:00:00Z",
+      "location": {
+        "name": "Leeds",
+        "lat": 53.8008,
+        "lng": -1.5491
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "environment/2026/apr/20/letter-lord-haskins-obituary",
+      "headline": "Letter: Lord Haskins obituary",
+      "summary": "PM Starmer strips Foreign Office vetting override powers following Peter Mandelson scandal.",
+      "url": "https://www.theguardian.com/p/x4ptf3",
+      "thumbnail": "https://media.guim.co.uk/d7a52ef57f4966309ad19496685d0add16bcffdb/0_14_1176_940/500.jpg",
+      "published": "2026-04-20T15:53:33Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "environment"
+    },
+    {
+      "id": "politics/2026/apr/20/starmer-commons-statement-foreign-office-stripped-power-overrule-vetting",
+      "headline": "Starmer tells MPs Foreign Office has been stripped of power to overrule vetting ",
+      "summary": "US goalkeeper Jonathan Klinsmann breaks neck in Serie B match for Cesena against Palermo.",
+      "url": "https://www.theguardian.com/p/x4pt84",
+      "thumbnail": "https://media.guim.co.uk/443fcadfd45eff21a242cfec52cd8e1e33e856f8/18_0_1800_1440/500.jpg",
+      "published": "2026-04-20T15:36:44Z",
+      "location": {
+        "name": "Cesena",
+        "lat": 44.1447,
+        "lng": 12.25
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "football/2026/apr/20/jonathan-klinsmann-broken-neck-usmnt-cesena",
+      "headline": "US goalkeeper Jonathan Klinsmann breaks neck playing for Cesena",
+      "summary": "Reform deputy Richard Tice posts AI-manipulated image of party activists in Birmingham.",
+      "url": "https://www.theguardian.com/p/x4ptcc",
+      "thumbnail": "https://media.guim.co.uk/5661e3b4ef956362510a7c8e17e97fcade58f74d/0_166_3085_2468/500.jpg",
+      "published": "2026-04-20T15:34:27Z",
+      "location": {
+        "name": "Birmingham",
+        "lat": 52.5086,
+        "lng": -1.8853
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "business/2026/apr/20/prediction-platform-polymarket-in-talks-to-raise-funds-at-up-to-15bn-valuation",
+      "headline": "Prediction platform Polymarket in talks to raise funds at up to $15bn valuation",
+      "summary": "Premier League title race remains competitive as Manchester City holds slim advantage over Arsenal.",
+      "url": "https://www.theguardian.com/p/x4phha",
+      "thumbnail": "https://media.guim.co.uk/f5646bd709ac5e33c6e83ee33db1092dfad39ec8/1579_97_1942_1554/500.jpg",
+      "published": "2026-04-20T15:13:36Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "business"
     }
   ]
 }
