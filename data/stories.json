@@ -1,124 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-19T23:55:42.279Z",
-    "story_count": 57,
-    "oldest_story": "2026-04-19T05:15:33Z",
-    "newest_story": "2026-04-19T23:54:28Z",
+    "generated_at": "2026-04-20T07:29:20.584Z",
+    "story_count": 61,
+    "oldest_story": "2026-04-19T08:00:36Z",
+    "newest_story": "2026-04-20T07:24:31Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "world/live/2026/apr/19/middle-east-crisis-live-iran-us-strait-of-hormuz-trump-lebanon-israel",
-      "headline": "Middle East crisis live: Iran says ‘fundamental’ issues’ still to be resolved with US amid strait of Hormuz impasse",
-      "summary": "Iran closes Strait of Hormuz again; US-Iran talks show progress but gaps remain on nuclear, maritime issues.",
-      "url": "https://www.theguardian.com/p/x4p9fe",
-      "thumbnail": "https://media.guim.co.uk/0fd03407f4aa44c64e74ffcb8629b460db495abf/1076_0_3193_2557/500.jpg",
-      "published": "2026-04-19T06:11:06Z",
-      "location": {
-        "name": "Strait of Hormuz",
-        "lat": 26.5597,
-        "lng": 56.2694
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "global-development/2026/apr/19/arson-attacks-iranian-regime-targets-uk-journalists",
-      "headline": " Stabbings, kidnap threats and arson attacks: how the Iranian regime targets UK journalists",
-      "summary": "Iranian regime targets UK-based Persian journalists with arson attacks, stabbings, kidnap threats.",
-      "url": "https://www.theguardian.com/p/x4pxgz",
-      "thumbnail": "https://media.guim.co.uk/374c252854b26a9d2508b2fcfd25097469852efb/140_0_1243_994/500.jpg",
-      "published": "2026-04-19T06:00:34Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "global-development"
-    },
-    {
-      "id": "travel/2026/apr/19/best-places-stay-highlands-islands-scotland-hotels-inns-bothy",
-      "headline": "10 of the best scenic stays in the Highlands and Islands of Scotland",
-      "summary": "Travel feature showcasing ten scenic lodging options in Scotland's Highlands and Islands.",
-      "url": "https://www.theguardian.com/p/x4kxb6",
-      "thumbnail": "https://media.guim.co.uk/583ad8bbbcd1d1e55209ce0843e30ad1be087681/0_0_3780_3024/500.jpg",
-      "published": "2026-04-19T06:00:34Z",
-      "location": {
-        "name": "Scottish Highlands",
-        "lat": 57.2746,
-        "lng": -4.4979
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "travel"
-    },
-    {
-      "id": "politics/2026/apr/19/things-could-go-backwards-kezia-dugdale-on-safety-lgbtq-rights-and-the-future-of-stonewall",
-      "headline": "‘Things could go backwards’: Kezia Dugdale on safety, LGBTQ+ rights and the future of Stonewall",
-      "summary": "Kezia Dugdale appointed Stonewall chair; says LGBTQ+ safety worsening in Britain.",
-      "url": "https://www.theguardian.com/p/x4zzaa",
-      "thumbnail": "https://media.guim.co.uk/7cc4b20cfaeb2a252e3ebb1fd86a810b3e084eea/573_0_4240_3392/500.jpg",
-      "published": "2026-04-19T06:00:34Z",
-      "location": {
-        "name": "Edinburgh",
-        "lat": 55.9533,
-        "lng": -3.1883
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "money/2026/apr/19/london-marathon-place-for-sale-fraudsters-chase-after-runners-cash",
-      "headline": "‘London Marathon place for sale’: fraudsters chase after runners cash",
-      "summary": "Fraudsters exploit London Marathon hopefuls by selling fake race places ahead of April 26 event.",
-      "url": "https://www.theguardian.com/p/x4zmy8",
-      "thumbnail": "https://media.guim.co.uk/7f8345cce9ea9b6460844b418b1a56cd0ea79613/559_0_5586_4469/500.jpg",
-      "published": "2026-04-19T06:00:34Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 1,
-      "section": "money"
-    },
-    {
-      "id": "world/2026/apr/19/ukraine-war-briefing-search-for-motive-after-gunman-kills-six-in-kyiv",
-      "headline": "Ukraine war briefing: search for motive after gunman kills six in Kyiv",
-      "summary": "Gunman kills six in rare mass shooting and hostage situation in Kyiv; motive under investigation.",
-      "url": "https://www.theguardian.com/p/x4p9dz",
-      "thumbnail": "https://media.guim.co.uk/a65fc98442e3b1b65f09216376d54f75d5fe2457/545_0_5040_4032/500.jpg",
-      "published": "2026-04-19T05:30:53Z",
-      "location": {
-        "name": "Kyiv",
-        "lat": 50.4501,
-        "lng": 30.5234
-      },
-      "category": "conflict",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "tv-and-radio/2026/apr/19/tv-tonight-a-grand-new-documentary-for-what-would-have-been-the-queens-100th-birthday",
-      "headline": "TV tonight: a grand new documentary for what would have been the Queen’s 100th birthday",
-      "summary": "BBC documentary celebrates Queen Elizabeth II's life on what would have been her 100th birthday.",
-      "url": "https://www.theguardian.com/p/x4zmqj",
-      "thumbnail": "https://media.guim.co.uk/41d89d84f6726b6df76740a977a7fc2882a087a5/101_0_2215_1772/500.jpg",
-      "published": "2026-04-19T05:15:33Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "tv-and-radio"
-    },
     {
       "id": "politics/live/2026/apr/19/keir-starmer-leadership-prime-minister-labour-party-peter-mandelson-vetting-latest-news",
       "headline": "Ministers rally around Keir Starmer as leadership questions grow over Mandelson saga – UK politics live",
@@ -918,6 +806,182 @@
       "category": "economy",
       "significance": 2,
       "section": "business"
+    },
+    {
+      "id": "business/live/2026/apr/20/oil-price-stock-markets-us-iran-ceasefire-strait-of-hormuz-open-closed-live-updates",
+      "headline": "European stock markets fall and oil and gas prices jump as strait of Hormuz ‘chaos’ worries investors – business live",
+      "summary": "Oil prices surge as Strait of Hormuz tensions threaten global energy supplies amid Iran-US conflict.",
+      "url": "https://www.theguardian.com/p/x4pd42",
+      "thumbnail": "https://media.guim.co.uk/2b020b800bd958f2e1825b630d91d9025370b152/794_0_5000_4000/500.jpg",
+      "published": "2026-04-20T07:24:31Z",
+      "location": {
+        "name": "Strait of Hormuz",
+        "lat": 26.5597,
+        "lng": 56.2497
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "business"
+    },
+    {
+      "id": "world/live/2026/apr/20/iran-war-latest-news-updates-live-hormuz-trump-us-iranian-ship-ceasefire-doubt",
+      "headline": "Middle East crisis live: ceasefire under pressure and talks in doubt as Iran threatens to ‘retaliate’ to US seizure of ship",
+      "summary": "Iran threatens retaliation over US ship seizure; ceasefire talks collapse amid escalating tensions.",
+      "url": "https://www.theguardian.com/p/x4pf3v",
+      "thumbnail": "https://media.guim.co.uk/38ea08a8aadf4ad42de7840df22c917da498005a/658_0_5000_4000/500.jpg",
+      "published": "2026-04-20T07:20:35Z",
+      "location": {
+        "name": "Tehran",
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "australia-news/2026/apr/20/afternoon-update-monday-ntwnfb",
+      "headline": "Afternoon Update: Chalmers’ ‘severe’ economic warning; blood donation rules change; and the female gaze revolution",
+      "summary": "Australian treasurer warns of severe economic fallout as Iran conflict threatens inflation and unemployment.",
+      "url": "https://www.theguardian.com/p/x4pfcx",
+      "thumbnail": "https://media.guim.co.uk/15b89d0986b44c16f7a9bec54a824bb49d487882/446_0_5006_4007/500.jpg",
+      "published": "2026-04-20T07:14:50Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "business/2026/apr/20/william-hill-evoke-takeover-us-casino-ballys-offer-shares",
+      "headline": "William Hill owner Evoke in talks on £225m takeover by casino group Bally’s",
+      "summary": "Evoke in takeover talks with Bally's Casino for £225m as William Hill owner faces financial pressures.",
+      "url": "https://www.theguardian.com/p/x4pg57",
+      "thumbnail": "https://media.guim.co.uk/87e852349f996776ac39e2642e111f6615b7ca28/292_0_2917_2334/500.jpg",
+      "published": "2026-04-20T07:08:51Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "football/2026/apr/20/boyhood-autographs-coventry-premier-league-heydays",
+      "headline": "‘Got. Got. Need!’ The boyhood autographs that remind me of Coventry’s Premier League heydays",
+      "summary": "Nostalgia piece reflects on Coventry's Premier League glory days through collected autographs.",
+      "url": "https://www.theguardian.com/p/x4n5g7",
+      "thumbnail": "https://media.guim.co.uk/0c60af9598ffffaad13eaa9593feb837a66c7395/500_0_5000_4000/500.jpg",
+      "published": "2026-04-20T07:00:05Z",
+      "location": {
+        "name": "Coventry",
+        "lat": 52.4081,
+        "lng": -1.4915
+      },
+      "category": "sport",
+      "significance": 1,
+      "section": "football"
+    },
+    {
+      "id": "commentisfree/2026/apr/20/radical-preston-model-uk-westminster-reform",
+      "headline": "The UK’s radical ‘Preston model’ faces an uncertain future with local elections looming",
+      "summary": "Preston's radical economic model faces uncertainty as local elections loom and Reform gains traction.",
+      "url": "https://www.theguardian.com/p/x4jc8v",
+      "thumbnail": "https://media.guim.co.uk/86bd3d249aec1136130942ff00fb8b2da739287b/509_0_5086_4069/500.jpg",
+      "published": "2026-04-20T07:00:05Z",
+      "location": {
+        "name": "Preston",
+        "lat": 53.7597,
+        "lng": -2.7331
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "commentisfree"
+    },
+    {
+      "id": "football/2026/apr/20/lionesses-england-women-winning-blueprint-world-cup-qualifiers",
+      "headline": "Lionesses lessons from World Cup qualifying: Hampton and Russo shine with winning blueprint",
+      "summary": "England Lionesses show World Cup qualifying blueprint but need refinement against physical teams.",
+      "url": "https://www.theguardian.com/p/x4pdea",
+      "thumbnail": "https://media.guim.co.uk/c7d2f6002435fa4c37b6f46c253e1b94f65f70dd/695_0_5000_4000/500.jpg",
+      "published": "2026-04-20T07:00:05Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "sport/2026/apr/20/wigan-castleford-super-league-rugby-league-nrl",
+      "headline": "Castleford’s shock win over Wigan shows NRL that Super League still has a lot to offer",
+      "summary": "Castleford's shock Super League win over Wigan demonstrates competition depth amid NRL investment talks.",
+      "url": "https://www.theguardian.com/p/x4p38q",
+      "thumbnail": "https://media.guim.co.uk/f38659ba84cec7d875c23a5ddbb72a08ca61c08e/488_0_4880_3904/500.jpg",
+      "published": "2026-04-20T07:00:05Z",
+      "location": {
+        "name": "Wigan",
+        "lat": 53.5454,
+        "lng": -2.6362
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "football/2026/apr/20/premier-league-10-talking-points-from-the-weekends-action",
+      "headline": "Premier League: 10 talking points from the weekend’s action",
+      "summary": "Premier League weekend analysis: Liverpool's Curtis Jones impresses; Donnarumma delivers for Manchester City.",
+      "url": "https://www.theguardian.com/p/x4pbpn",
+      "thumbnail": "https://media.guim.co.uk/484725cb3e64bbdb5944a84c65f4569eafbfdfed/0_1_4983_3985/500.jpg",
+      "published": "2026-04-20T07:00:05Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "sport/2026/apr/20/red-roses-england-women-rugby-dominance-six-nations",
+      "headline": "England Women are dominating rugby in a way few have done in any sport",
+      "summary": "England Women's rugby extends dominance to 35-game winning streak, rivaling greatest sporting dynasties.",
+      "url": "https://www.theguardian.com/p/x4pbmh",
+      "thumbnail": "https://media.guim.co.uk/b749d7efb549a057223694dff24807980d95b2ca/207_0_2039_1631/500.jpg",
+      "published": "2026-04-20T07:00:04Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "sport"
+    },
+    {
+      "id": "us-news/2026/apr/19/trump-us-seizes-iran-flagged-cargo-ship",
+      "headline": "US military seizes Iran-flagged ship trying to pass strait of Hormuz blockade",
+      "summary": "US military seizes Iran-flagged ship at Strait of Hormuz; Iran denounces action as piracy.",
+      "url": "https://www.theguardian.com/p/x4pe2n",
+      "thumbnail": "https://media.guim.co.uk/7c95296e2353718f445ec64c3b58a6c0fec7ec46/1162_0_2161_1730/500.jpg",
+      "published": "2026-04-20T06:43:02Z",
+      "location": {
+        "name": "Strait of Hormuz",
+        "lat": 26.5597,
+        "lng": 56.2497
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
     }
   ]
 }
