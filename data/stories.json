@@ -1,28 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-21T19:55:05.105Z",
-    "story_count": 45,
-    "oldest_story": "2026-04-20T20:01:08Z",
-    "newest_story": "2026-04-21T19:47:46Z",
+    "generated_at": "2026-04-21T22:25:47.706Z",
+    "story_count": 50,
+    "oldest_story": "2026-04-20T22:26:24Z",
+    "newest_story": "2026-04-21T22:23:41Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/live/2026/apr/20/crystal-palace-v-west-ham-united-premier-league-live",
-      "headline": "Crystal Palace v West Ham United: Premier League – live",
-      "summary": "Crystal Palace v West Ham United Premier League match with relegation implications.",
-      "url": "https://www.theguardian.com/p/x4pgkt",
-      "thumbnail": "https://media.guim.co.uk/7e7dad846adbe420088609b70855863c2159452e/0_413_3426_2741/500.jpg",
-      "published": "2026-04-20T20:01:08Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
     {
       "id": "australia-news/live/2026/apr/21/anthony-albanese-fuel-crisis-jim-chalmers-budget-cost-of-living-supermarket-discount-rebel-wilson-court-hearing-ntwnfb",
       "headline": "Australia news live: Ed Husic condemns ‘obscenely sweet’ gas deals; Anthony Albanese says national cabinet to discuss ‘long tail’ of fuel crisis",
@@ -54,38 +38,6 @@
       "category": "politics",
       "significance": 3,
       "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/apr/20/trump-labor-secretary-lori-chavez-deremer",
-      "headline": "Trump labor secretary Lori Chavez-DeRemer resigns amid misconduct investigation",
-      "summary": "Labor Secretary Lori Chavez-DeRemer resigns amid misconduct investigation.",
-      "url": "https://www.theguardian.com/p/x4zecf",
-      "thumbnail": "https://media.guim.co.uk/39b89888320c6a1fbc87e8f8199683737ce81b98/0_0_6830_5464/500.jpg",
-      "published": "2026-04-20T21:33:03Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "football/2026/apr/20/liam-rosenior-pressure-chelsea-future-wesley-fofana",
-      "headline": "Liam Rosenior admits ‘I need results now’ as pressure mounts at Chelsea",
-      "summary": "Chelsea manager Liam Rosenior faces pressure after four consecutive league defeats.",
-      "url": "https://www.theguardian.com/p/x4ptb2",
-      "thumbnail": "https://media.guim.co.uk/e524bb5cfb92f6b773d3bfaac307b50ecc10a346/726_276_1655_1324/500.jpg",
-      "published": "2026-04-20T21:30:06Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
     },
     {
       "id": "world/live/2026/apr/21/iran-war-live-news-updates-trump-us-hormuz-oil-middle-east-talks",
@@ -726,6 +678,134 @@
       "category": "politics",
       "significance": 3,
       "section": "world"
+    },
+    {
+      "id": "australia-news/live/2026/apr/22/australia-news-live-ndis-savings-cuts-mark-butler-aged-care-cost-of-living-budget-jim-chalmers-labor-coalition-ntwnfb",
+      "headline": "Australia news live: NDIS savings to fund better aged care including showers, minister says; fourth man charged over alleged Baghsarian kidnapping murder",
+      "summary": "Labor cuts NDIS to fund aged care improvements; fourth man charged in Baghsarian case.",
+      "url": "https://www.theguardian.com/p/x4pmh6",
+      "thumbnail": "https://media.guim.co.uk/4fc36f375d8e981a960465cdfcdc7a0af5e38b24/608_0_6059_4849/500.jpg",
+      "published": "2026-04-21T22:23:41Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "australia-news/2026/apr/22/morning-mail-wednesday-nwtnfb",
+      "headline": "Morning Mail: Trump says US extending Iran ceasefire, Coalition’s byelection blitz, The Deb defies doom",
+      "summary": "Trump extends Iran ceasefire; Coalition launches byelection campaign in Australia.",
+      "url": "https://www.theguardian.com/p/x4pmdk",
+      "thumbnail": "https://media.guim.co.uk/0130798dee6574187ad9419d0f8cd6425751f151/542_0_5602_4480/500.jpg",
+      "published": "2026-04-21T21:33:21Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "football/2026/apr/21/guardiola-stupid-things-manchester-city-celebrations-arsenal-rooney-murphy",
+      "headline": "Guardiola dismisses ‘stupid things’ said about City celebrations after beating Arsenal",
+      "summary": "Guardiola defends Manchester City celebrations after 2-1 Arsenal victory.",
+      "url": "https://www.theguardian.com/p/x4pnkg",
+      "thumbnail": "https://media.guim.co.uk/180f30f2bd010fa338e58b877f70678bf283b7d6/229_0_6830_5464/500.jpg",
+      "published": "2026-04-21T21:31:00Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4831,
+        "lng": -2.2043
+      },
+      "category": "sport",
+      "significance": 1,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/apr/21/florida-openai-chatgpt-investigation",
+      "headline": "Florida to open criminal investigation into OpenAI over ChatGPT’s influence on alleged mass shooter",
+      "summary": "Florida opens criminal investigation into OpenAI over ChatGPT's alleged influence on shooter.",
+      "url": "https://www.theguardian.com/p/x4pzj3",
+      "thumbnail": "https://media.guim.co.uk/34e140d1cff853a7bc28a69d8c3f8c9e377c440a/539_0_4165_3333/500.jpg",
+      "published": "2026-04-21T21:28:34Z",
+      "location": {
+        "name": "Tallahassee",
+        "lat": 30.4383,
+        "lng": -84.2807
+      },
+      "category": "tech",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "world/2026/apr/21/push-to-bring-us-and-iran-together-for-peace-talks-as-ceasefire-deadline-looms",
+      "headline": "Trump announces extension of Iran ceasefire until ‘discussion concluded’",
+      "summary": "Trump extends Iran ceasefire; intense efforts underway for Pakistan peace talks.",
+      "url": "https://www.theguardian.com/p/x4pz7p",
+      "thumbnail": "https://media.guim.co.uk/8490e98428d7291d0f40fcb4dc572e43cc7501f3/157_0_4551_3640/500.jpg",
+      "published": "2026-04-21T21:21:45Z",
+      "location": {
+        "name": "Islamabad",
+        "lat": 33.6844,
+        "lng": 73.0479
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "football/2025/sep/15/premier-league-top-scorers-2025-26-who-is-leading-race-for-golden-boot",
+      "headline": "Premier League top scorers 2025-26: who is leading race for golden boot?",
+      "summary": "Erling Haaland leads Premier League scoring with 23 goals in 2025-26 season.",
+      "url": "https://www.theguardian.com/p/x386fa",
+      "thumbnail": "https://media.guim.co.uk/88090d7119a1b79409910cb36a42c816e0a92263/216_19_1668_1335/500.jpg",
+      "published": "2026-04-21T21:21:20Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 1,
+      "section": "football"
+    },
+    {
+      "id": "business/2026/apr/21/kevin-warsh-federal-reserve-senate-trump",
+      "headline": "Trump’s Fed chair pick says he’ll maintain independence – but won’t say president lost 2020 election",
+      "summary": "Trump's Fed chair pick Kevin Warsh promises independence amid confirmation hearing scrutiny.",
+      "url": "https://www.theguardian.com/p/x4pz4n",
+      "thumbnail": "https://media.guim.co.uk/02fe79f730ed1fd3faca66bbc4e0133e8021573c/541_0_5001_4000/500.jpg",
+      "published": "2026-04-21T21:15:54Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "us-news/2026/apr/21/california-lego-pasta-swap-arrest",
+      "headline": "California man arrested for allegedly swapping in pasta for Lego pieces then returning them",
+      "summary": "California man arrested for $34,000 Lego scam using pasta swap at Target stores.",
+      "url": "https://www.theguardian.com/p/x4pz52",
+      "thumbnail": "https://media.guim.co.uk/790c5546eaa9e06b71454e38caf0510081e0ae2b/64_0_1920_1536/500.jpg",
+      "published": "2026-04-21T21:15:40Z",
+      "location": {
+        "name": "Irvine",
+        "lat": 33.6846,
+        "lng": -117.8265
+      },
+      "category": "other",
+      "significance": 1,
+      "section": "us-news"
     }
   ]
 }
