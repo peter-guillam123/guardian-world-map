@@ -1,44 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-20T22:29:57.702Z",
-    "story_count": 50,
-    "oldest_story": "2026-04-19T23:01:54Z",
-    "newest_story": "2026-04-20T22:27:33Z",
+    "generated_at": "2026-04-21T06:13:28.065Z",
+    "story_count": 54,
+    "oldest_story": "2026-04-20T06:43:02Z",
+    "newest_story": "2026-04-21T06:12:22Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "australia-news/live/2026/apr/20/australia-news-live-pocock-gas-tax-fuel-crisis-jim-chalmers-anthony-albanese-budget-ben-roberts-smith-war-crimes-ntwnfb",
-      "headline": "Australia news live: ‘weeks’ to restore production at Geelong refinery after blaze, Viva says; Chalmers warns of ‘big risks’ to inflation and growth",
-      "summary": "Geelong refinery to resume production within weeks following major blaze; inflation concerns raised.",
-      "url": "https://www.theguardian.com/p/x4pe4a",
-      "thumbnail": "https://media.guim.co.uk/dfd8d69ab5cb6e93a67afa62305280f0d7f99395/342_0_6330_5063/500.jpg",
-      "published": "2026-04-19T23:54:28Z",
-      "location": {
-        "name": "Geelong",
-        "lat": -38.1634,
-        "lng": 144.3615
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "australia-news"
-    },
-    {
-      "id": "business/2026/apr/20/abf-outcome-primark-spin-off-plan",
-      "headline": "ABF poised to reveal result of Primark and food business demerger plan",
-      "summary": "Associated British Foods plans potential demerger of Primark and food business amid competitive pressures.",
-      "url": "https://www.theguardian.com/p/x4p23t",
-      "thumbnail": "https://media.guim.co.uk/4bd94f3a503b44059c5ead27e26de5154927a7d5/484_0_4840_3872/500.jpg",
-      "published": "2026-04-19T23:01:54Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
     {
       "id": "business/live/2026/apr/20/oil-price-stock-markets-us-iran-ceasefire-strait-of-hormuz-open-closed-live-updates",
       "headline": "European stock markets fall and oil and gas prices jump as strait of Hormuz ‘chaos’ worries investors – business live",
@@ -806,6 +774,102 @@
       "category": "sport",
       "significance": 2,
       "section": "football"
+    },
+    {
+      "id": "world/live/2026/apr/21/iran-war-live-news-updates-trump-us-hormuz-oil-middle-east-talks",
+      "headline": "Middle East crisis live: Iran weighs Pakistan talks with US, and claims it has ‘new cards for battlefield’",
+      "summary": "Iran considers Pakistan talks with US as tensions persist over Gulf tensions and military escalation.",
+      "url": "https://www.theguardian.com/p/x4pk3t",
+      "thumbnail": "https://media.guim.co.uk/bd70c07f10e081dbf1b5e7bc4f56fccad481ddc6/515_0_5148_4118/500.jpg",
+      "published": "2026-04-21T06:12:22Z",
+      "location": {
+        "name": "Iran",
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "environment/2026/apr/21/white-park-cattle-priority-at-risk-list-rare-breeds-survival-trust",
+      "headline": "Cattle breed whose ancestors lived with Celts added to priority at-risk list",
+      "summary": "White Park cattle breed added to UK's rare breeds at-risk list due to declining calf populations.",
+      "url": "https://www.theguardian.com/p/x4p35v",
+      "thumbnail": "https://media.guim.co.uk/864f2cafc92b046e485ceb0e4aab8c7d6be372bc/123_0_3421_2736/500.jpg",
+      "published": "2026-04-21T06:00:18Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "environment"
+    },
+    {
+      "id": "film/2026/apr/21/scarborn-kos-review-stirring-up-trouble-in-18th-century-poland",
+      "headline": "Scarborn (Kos) review – stirring up trouble in 18th-century Poland",
+      "summary": "Polish historical drama Scarborn depicts 18th-century upheaval when American independence veteran returns home.",
+      "url": "https://www.theguardian.com/p/x4p8ey",
+      "thumbnail": "https://media.guim.co.uk/b092d70c7ee76d2359220455c4e774e4197f9134/477_277_1561_1249/500.jpg",
+      "published": "2026-04-21T06:00:17Z",
+      "location": {
+        "name": "Warsaw",
+        "lat": 52.2297,
+        "lng": 21.0122
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "film"
+    },
+    {
+      "id": "money/2026/apr/21/our-host-just-vanished-but-bookingcom-still-said-no-to-a-refund",
+      "headline": "Our host just vanished, but Booking.com still said ‘no’ to a refund",
+      "summary": "Booking.com refused refund after vacation host vanished despite failed contact attempts by both parties.",
+      "url": "https://www.theguardian.com/p/x4zt5v",
+      "thumbnail": "https://media.guim.co.uk/45b30edb65ab639337137fbbbb3f90f5541bbe59/456_0_4560_3648/500.jpg",
+      "published": "2026-04-21T06:00:17Z",
+      "location": {
+        "name": "Paris",
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "money"
+    },
+    {
+      "id": "world/2026/apr/21/tuesday-briefing-what-it-might-take-for-lasting-peace-between-the-us-and-iran",
+      "headline": "Tuesday briefing: What it might take for lasting peace between the US and Iran",
+      "summary": "US-Iran ceasefire remains fragile as both sides issue threats and prepare for possible renewed conflict escalation.",
+      "url": "https://www.theguardian.com/p/x4pgya",
+      "thumbnail": "https://media.guim.co.uk/328534c172465fc98f16d20affe940aed82f026c/296_101_1585_1268/500.jpg",
+      "published": "2026-04-21T05:45:17Z",
+      "location": {
+        "name": "Iran",
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "tv-and-radio/2026/apr/21/tv-tonight-anna-maxwell-martin-on-tellys-most-revealing-chatshow",
+      "headline": "TV tonight: Anna Maxwell Martin on telly’s most revealing chatshow",
+      "summary": "Actor Anna Maxwell Martin appears on ITV's revealing chatshow The Assembly this evening.",
+      "url": "https://www.theguardian.com/p/x4zz4c",
+      "thumbnail": "https://media.guim.co.uk/65fccb86ab16e7296064535cb62363e729e83224/561_23_2671_2137/500.jpg",
+      "published": "2026-04-21T05:20:16Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "tv-and-radio"
     }
   ]
 }
