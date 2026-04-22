@@ -1,108 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-22T15:52:58.993Z",
-    "story_count": 55,
-    "oldest_story": "2026-04-21T18:46:54Z",
-    "newest_story": "2026-04-22T15:48:13Z",
+    "generated_at": "2026-04-22T19:55:56.798Z",
+    "story_count": 57,
+    "oldest_story": "2026-04-21T21:15:40Z",
+    "newest_story": "2026-04-22T19:49:31Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/live/2026/apr/21/brighton-v-chelsea-premier-league-live",
-      "headline": "Brighton v Chelsea: Premier League – live",
-      "summary": "Brighton hosts Chelsea in Premier League match with Brighton leading at halftime.",
-      "url": "https://www.theguardian.com/p/x4phv9",
-      "thumbnail": "https://media.guim.co.uk/6d481a3b77315c5b043d12d075b91e5c710a7b36/267_303_1757_1405/500.jpg",
-      "published": "2026-04-21T19:47:46Z",
-      "location": {
-        "name": "Brighton",
-        "lat": 50.861,
-        "lng": -0.0832
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "science/2026/apr/21/geoff-yeadon-obituary",
-      "headline": "Geoff Yeadon obituary",
-      "summary": "Cave diver Geoff Yeadon, who mapped North Yorkshire underground routes, dies aged 75.",
-      "url": "https://www.theguardian.com/p/x4ndat",
-      "thumbnail": "https://media.guim.co.uk/39aa4f7318c4436f9800296464ddb2d91c2172fe/0_806_3024_2419/500.jpg",
-      "published": "2026-04-21T19:12:30Z",
-      "location": {
-        "name": "North Yorkshire",
-        "lat": 54.352,
-        "lng": -2.0736
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "science"
-    },
-    {
-      "id": "society/2026/apr/21/victims-of-sexual-violence-distressed-by-mps-pugnacious-questioning",
-      "headline": "Victims of sexual violence distressed by MPs’ ‘pugnacious’ questioning",
-      "summary": "Victims' commissioner complains after MPs' aggressive questioning distresses sexual violence survivors.",
-      "url": "https://www.theguardian.com/p/x4pnyv",
-      "thumbnail": "https://media.guim.co.uk/0212ae43f66e418596101d87541a7b1b556b1334/1172_0_6860_5488/500.jpg",
-      "published": "2026-04-21T19:08:37Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "society"
-    },
-    {
-      "id": "politics/2026/apr/21/as-the-pms-future-lay-in-doubt-labour-mps-plotted-the-partys-future-direction",
-      "headline": "As the PM’s fate lay in doubt, Labour MPs plotted the party’s future direction",
-      "summary": "Labour MPs discuss party direction as PM's future uncertain; debate fiscal rules and economic policy.",
-      "url": "https://www.theguardian.com/p/x4pn3d",
-      "thumbnail": "https://media.guim.co.uk/1ccaa5852cc81b28cccc1a663129b4205b38028f/500_0_5000_4000/500.jpg",
-      "published": "2026-04-21T19:03:24Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "us-news/2026/apr/21/sheila-cherfilus-mccormick-congress-democrat-resignation",
-      "headline": "House Democrat Sheila Cherfilus-McCormick resigns amid ethics investigation",
-      "summary": "Democratic Rep. Sheila Cherfilus-McCormick resigns after ethics violations found over federal fund misuse.",
-      "url": "https://www.theguardian.com/p/x4pzm7",
-      "thumbnail": "https://media.guim.co.uk/66699fb5fb2517e47d5266159d2746dc20d69bbb/654_465_4272_3417/500.jpg",
-      "published": "2026-04-21T18:52:36Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "world/2026/apr/21/eu-foreign-ministers-reject-proposal-suspend-association-agreement-israel",
-      "headline": "EU foreign ministers reject proposal to suspend association agreement with Israel",
-      "summary": "EU foreign ministers reject proposal to suspend Israel association agreement despite Gaza humanitarian concerns.",
-      "url": "https://www.theguardian.com/p/x4pnyz",
-      "thumbnail": "https://media.guim.co.uk/d32885bbde3fb6e2722dab137933ea32910f026d/1450_89_5528_4423/500.jpg",
-      "published": "2026-04-21T18:46:54Z",
-      "location": {
-        "name": "Brussels",
-        "lat": 50.8503,
-        "lng": 4.3517
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
     {
       "id": "australia-news/live/2026/apr/22/australia-news-live-ndis-savings-cuts-mark-butler-aged-care-cost-of-living-budget-jim-chalmers-labor-coalition-ntwnfb",
       "headline": "Australia news live: NDIS savings to fund better aged care including showers, minister says; fourth man charged over alleged Baghsarian kidnapping murder",
@@ -886,6 +790,134 @@
       "category": "politics",
       "significance": 2,
       "section": "politics"
+    },
+    {
+      "id": "football/live/2026/apr/22/burnley-v-manchester-city-premier-league-live",
+      "headline": "Burnley v Manchester City: Premier League – live",
+      "summary": "Manchester City leads Burnley 1-0 at Turf Moor in Premier League match.",
+      "url": "https://www.theguardian.com/p/x4phvh",
+      "thumbnail": "https://media.guim.co.uk/5fb868ad2b78fefe5c3d9e51ace9b08472f23f5a/152_0_1833_1466/500.jpg",
+      "published": "2026-04-22T19:49:31Z",
+      "location": {
+        "name": "Burnley",
+        "lat": 53.795,
+        "lng": -2.2289
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "news/2026/apr/22/no-evidence-of-antisemitism-at-bristol-brunel-academy-school-postponed-visit-by-jewish-mp-damien-egan-review-finds",
+      "headline": "Inquiry clears Bristol school of antisemitism for postponing Jewish MP’s visit ",
+      "summary": "Bristol Brunel academy cleared of antisemitism in independent review of postponed MP visit.",
+      "url": "https://www.theguardian.com/p/x4qx9b",
+      "thumbnail": "https://media.guim.co.uk/b88f163f41094a0ec58deef92c84f489fc1436da/292_0_2917_2335/500.jpg",
+      "published": "2026-04-22T19:34:55Z",
+      "location": {
+        "name": "Bristol",
+        "lat": 51.4545,
+        "lng": -2.5879
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "news"
+    },
+    {
+      "id": "us-news/2026/apr/22/temporary-protected-status-us-economy",
+      "headline": "Temporary protected status holders add $29bn to US economy, report says",
+      "summary": "Report finds temporary protected status holders contribute $29bn annually to US economy.",
+      "url": "https://www.theguardian.com/p/x4q37e",
+      "thumbnail": "https://media.guim.co.uk/ecedb6212c6e9110e9c7cdace3e071e8ef1c1e5a/1845_246_6410_5128/500.jpg",
+      "published": "2026-04-22T19:30:08Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/apr/22/us-libraries-banned-books",
+      "headline": "US saw record high of 5,668 books banned in libraries in 2025, says agency",
+      "summary": "US libraries ban record 5,668 books in 2025, up 66% from challenged titles.",
+      "url": "https://www.theguardian.com/p/x4qxg2",
+      "thumbnail": "https://media.guim.co.uk/a0dc7dd93a2002d37f66b3bf884bd644eac487e3/0_0_1200_960/500.jpg",
+      "published": "2026-04-22T19:18:02Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/apr/22/georgia-florida-wildfires",
+      "headline": "Wildfires burning across Georgia and Florida destroy homes and force evacuations",
+      "summary": "Wildfires across Georgia and Florida destroy 50 homes, force evacuations.",
+      "url": "https://www.theguardian.com/p/x4q37c",
+      "thumbnail": "https://media.guim.co.uk/999c35191fc43929c4318f0cf65a25bc060f6ad5/67_0_3360_2688/500.jpg",
+      "published": "2026-04-22T19:14:54Z",
+      "location": {
+        "name": "Atlanta",
+        "lat": 33.749,
+        "lng": -84.388
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "sport/2026/apr/22/lewis-moody-doddie-weir-mnd-fundraising-cycle-ride",
+      "headline": "Lewis Moody ‘picking up baton’ left by Doddie Weir with MND fundraising cycle ride",
+      "summary": "Lewis Moody plans 500-mile charity cycle ride to raise MND awareness funds.",
+      "url": "https://www.theguardian.com/p/x4qxgt",
+      "thumbnail": "https://media.guim.co.uk/8514f93ce57ff0f99e3ed7cd13040d9faed23b5e/357_0_3581_2864/500.jpg",
+      "published": "2026-04-22T19:00:34Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "politics/2026/apr/22/ian-collard-the-foreign-office-insider-who-may-be-key-to-the-mandelson-scandal",
+      "headline": "Ian Collard: the Foreign Office insider who may be key to Mandelson scandal",
+      "summary": "Ian Collard identified as key figure in Peter Mandelson security clearance scandal.",
+      "url": "https://www.theguardian.com/p/x4qxqm",
+      "thumbnail": "https://media.guim.co.uk/9a9eccad23e37b2802142aca6e9e77891227161a/98_158_1370_1096/500.jpg",
+      "published": "2026-04-22T19:00:13Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "us-news/2026/apr/22/georgia-congressman-david-scott-dies-aged-80",
+      "headline": "Georgia congressman David Scott dies aged 80",
+      "summary": "Georgia congressman David Scott, moderate Democrat representing Atlanta suburbs, dies at 80.",
+      "url": "https://www.theguardian.com/p/x4q3xx",
+      "thumbnail": "https://media.guim.co.uk/02109d8fe11cf63cf5886f5047b4ce0c4f4590f2/145_375_2184_1747/500.jpg",
+      "published": "2026-04-22T18:59:42Z",
+      "location": {
+        "name": "Atlanta",
+        "lat": 33.749,
+        "lng": -84.388
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
     }
   ]
 }
