@@ -1,284 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-22T10:49:32.745Z",
-    "story_count": 59,
-    "oldest_story": "2026-04-21T10:51:07Z",
-    "newest_story": "2026-04-22T10:44:58Z",
+    "generated_at": "2026-04-22T15:52:58.993Z",
+    "story_count": 55,
+    "oldest_story": "2026-04-21T18:46:54Z",
+    "newest_story": "2026-04-22T15:48:13Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "world/live/2026/apr/21/eu-foreign-ministers-meet-to-discuss-ukraine-russia-and-the-middle-east-europe-live",
-      "headline": "EU optimistic over approval of €90bn loan for Ukraine following Orbán defeat – Europe live",
-      "summary": "EU optimistic on €90bn Ukraine loan approval following Orbán's electoral defeat in Hungary.",
-      "url": "https://www.theguardian.com/p/x4pyqn",
-      "thumbnail": "https://media.guim.co.uk/b09bdfafcb61594478a4a6d82556c47277971e26/369_0_4560_3648/500.jpg",
-      "published": "2026-04-21T10:51:07Z",
-      "location": {
-        "name": "Brussels",
-        "lat": 50.8503,
-        "lng": 4.3517
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "us-news/2026/apr/21/doj-southern-poverty-law-center-investigation",
-      "headline": "US DoJ launches investigation into Southern Poverty Law Center ",
-      "summary": "DoJ investigates Southern Poverty Law Center's use of paid informants.",
-      "url": "https://www.theguardian.com/p/x4pnqt",
-      "thumbnail": "https://media.guim.co.uk/9a73c070bdacb9c4cf267fe05308431caa8224ce/417_0_4179_3342/500.jpg",
-      "published": "2026-04-21T15:44:44Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "politics/2026/apr/21/uk-eu-close-iagricultural-deal-brexit",
-      "headline": "UK and EU close in on agricultural deal to reduce Brexit barriers",
-      "summary": "UK and EU near agricultural deal to reduce post-Brexit trade barriers.",
-      "url": "https://www.theguardian.com/p/x4pnk4",
-      "thumbnail": "https://media.guim.co.uk/6873c32253670b98399197f256df128fd7c8c211/0_0_4640_3712/500.jpg",
-      "published": "2026-04-21T15:44:43Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "world/2026/apr/21/trump-resume-bombing-iran-ceasefire",
-      "headline": "Trump says US likely to resume bombing Iran as ceasefire nears end",
-      "summary": "Trump signals US will resume bombing Iran as 14-day ceasefire expires.",
-      "url": "https://www.theguardian.com/p/x4pnng",
-      "thumbnail": "https://media.guim.co.uk/556e6a22b184e08a4d1987d4d4494666d44854c9/170_0_5602_4480/500.jpg",
-      "published": "2026-04-21T15:20:58Z",
-      "location": {
-        "name": "Islamabad",
-        "lat": 33.6844,
-        "lng": 73.0479
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "culture/2026/apr/21/jon-stewart-donald-trump-iran",
-      "headline": "Jon Stewart on Trump’s strategy in Iran: ‘Malignant narcissism and impulsivity’",
-      "summary": "Late-night hosts critique Trump's incoherent Iran strategy and Kash Patel report.",
-      "url": "https://www.theguardian.com/p/x4pyjp",
-      "thumbnail": "https://media.guim.co.uk/9b58b6d0e92a4a874c2c4e1fd7210f38682dd335/483_99_1992_1594/500.jpg",
-      "published": "2026-04-21T15:18:14Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "culture"
-    },
-    {
-      "id": "commentisfree/2026/apr/21/hundred-years-birth-queen-elizabeth-ii-monarchy-illusions",
-      "headline": "A hundred years after her birth, we still over-revere Queen Elizabeth II. The monarchy? Not so much",
-      "summary": "Column questions whether monarchy illusions can survive post-Elizabeth II era.",
-      "url": "https://www.theguardian.com/p/x4pmzf",
-      "thumbnail": "https://media.guim.co.uk/8866f1fde14cfb38db203166582d58cc9e7f04ba/250_0_2500_2000/500.jpg",
-      "published": "2026-04-21T15:12:59Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "commentisfree"
-    },
-    {
-      "id": "football/2026/apr/21/eddie-howe-newcastle-pif-owners-meeting-anthony-gordon",
-      "headline": "Newcastle’s PIF owners to question Eddie Howe next week on poor run of form",
-      "summary": "Newcastle's Saudi owners to meet Eddie Howe over poor form and Anthony Gordon.",
-      "url": "https://www.theguardian.com/p/x4pntk",
-      "thumbnail": "https://media.guim.co.uk/44a005ccd0b5217b70f98e2a343331577fbbf5d9/556_130_2876_2301/500.jpg",
-      "published": "2026-04-21T15:12:05Z",
-      "location": {
-        "name": "Newcastle",
-        "lat": 54.9783,
-        "lng": -1.6178
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "australia-news/2026/apr/21/gun-lobby-targets-marginal-labor-seats-nsw-election-ntwnfb",
-      "headline": "‘Not a personal attack’: gun lobby targets marginal Labor seats at NSW election over post-Bondi reforms",
-      "summary": "Gun lobby targets NSW Labor marginal seats opposing post-Bondi firearm reforms.",
-      "url": "https://www.theguardian.com/p/x4pfa6",
-      "thumbnail": "https://media.guim.co.uk/8f85d364c1e42f53e8ef9d984d8fabba38b92faf/834_0_6880_5504/500.jpg",
-      "published": "2026-04-21T15:00:54Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "australia-news/2026/apr/21/uber-driver-assaulted-by-passengers-platform-response",
-      "headline": "Uber driver Michael was assaulted by passengers. He says the platform’s response added insult to injury",
-      "summary": "Uber driver says platform deactivation worse than assault, citing poor appeal process.",
-      "url": "https://www.theguardian.com/p/x4pgev",
-      "thumbnail": "https://media.guim.co.uk/033350d5235bb1926730d4f5999f595e27160c92/64_0_1920_1536/500.jpg",
-      "published": "2026-04-21T15:00:54Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "australia-news/2026/apr/21/student-allegedly-jailed-china-after-pro-democracy-protests-australia",
-      "headline": "Student allegedly jailed in China for six years after taking part in pro-democracy protests in Australia ",
-      "summary": "Chinese student allegedly jailed six years for pro-democracy protests in Australia.",
-      "url": "https://www.theguardian.com/p/x4ye9d",
-      "thumbnail": "https://media.guim.co.uk/94a21a450be16224df31f837023ae2c6ddb8bc97/383_0_3828_3062/500.jpg",
-      "published": "2026-04-21T15:00:54Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "australia-news/2026/apr/21/death-of-sydneys-birdman-described-as-beyond-tragic-by-albanese-government",
-      "headline": "Death of Sydney’s ‘birdman’ described as ‘beyond tragic’ by Albanese government",
-      "summary": "Homeless man's death reveals gaps in support for non-residents in Sydney.",
-      "url": "https://www.theguardian.com/p/x4pyzq",
-      "thumbnail": "https://media.guim.co.uk/e5a36430aa4b7c79511948cf924a7e9a151f487a/0_0_768_614/500.jpg",
-      "published": "2026-04-21T15:00:53Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "world/2026/apr/21/timor-leste-parliament-questions-president-resort-scam-empire-links",
-      "headline": "Timor-Leste parliament questions president over proposed resort’s links to ‘scam’ empire",
-      "summary": "Timor-Leste parliament questions president over crypto resort developer's diplomatic passport.",
-      "url": "https://www.theguardian.com/p/x4pfck",
-      "thumbnail": "https://media.guim.co.uk/9344dc6ac85676e8f87ab05bf3f43b7f5a98ba76/0_0_6202_4962/500.jpg",
-      "published": "2026-04-21T15:00:53Z",
-      "location": {
-        "name": "Dili",
-        "lat": -8.5539,
-        "lng": 125.5833
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "football/2026/apr/21/arresting-the-decline-of-a-league-crowds-is-top-of-to-do-list-for-new-apl-boss",
-      "headline": "Arresting the decline of A-League crowds is top of to-do list for new APL boss",
-      "summary": "New APL boss targets A-League as third pillar of Australian sport despite decline.",
-      "url": "https://www.theguardian.com/p/x4pybx",
-      "thumbnail": "https://media.guim.co.uk/3c55bc1598e5decbbee1ae379eaee0c3d9e8d53d/244_0_4472_3578/500.jpg",
-      "published": "2026-04-21T15:00:53Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "us-news/2026/apr/21/cocaine-ketamine-psychedelics-ghb",
-      "headline": "Ketamine, psychedelics, GHB: is the US falling out of love with cocaine?",
-      "summary": "Cocaine use plummets among Gen Z compared to previous generations in the US.",
-      "url": "https://www.theguardian.com/p/x4p4vx",
-      "thumbnail": "https://media.guim.co.uk/1cfa810d08d4249cec19a2ec66c643953c1657fe/327_0_3346_2677/500.jpg",
-      "published": "2026-04-21T15:00:52Z",
-      "location": {
-        "name": "Miami",
-        "lat": 25.7617,
-        "lng": -80.1918
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "film/2026/apr/22/rebel-wilson-deb-review-australian-movie-musical",
-      "headline": "Rebel Wilson’s The Deb is great fun but it tanked. Is this the fate of the Australian movie musical?",
-      "summary": "Rebel Wilson's directorial debut 'The Deb' struggles at box office despite being well-received.",
-      "url": "https://www.theguardian.com/p/x4pk6c",
-      "thumbnail": "https://media.guim.co.uk/f0cf4cd6732a02218dcec8f073902771cc229fef/282_0_3959_3168/500.jpg",
-      "published": "2026-04-21T15:00:52Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "film"
-    },
-    {
-      "id": "politics/2026/apr/21/keir-starmer-more-questions-than-answers-olly-robbins-quietly-damning-defence",
-      "headline": "Starmer still faces more questions than answers after Olly Robbins’ quietly damning defence",
-      "summary": "Civil servant testifies that No 10 pressured approval of Mandelson's appointment under Starmer.",
-      "url": "https://www.theguardian.com/p/x4pngy",
-      "thumbnail": "https://media.guim.co.uk/1db3ac4476291a26facddfe9b7fa065312fae5fa/315_0_2361_1889/500.jpg",
-      "published": "2026-04-21T14:58:52Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "us-news/2026/apr/21/military-flu-shot-requirement-pete-hegseth",
-      "headline": "US military service members will no longer be required to get annual flu shot",
-      "summary": "US military removes mandatory annual flu vaccination requirement under Defense Secretary Hegseth.",
-      "url": "https://www.theguardian.com/p/x4pngg",
-      "thumbnail": "https://media.guim.co.uk/3d91d311ee35e5848a24439d0a48910ff77a66be/703_0_4481_3586/500.jpg",
-      "published": "2026-04-21T14:54:58Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "us-news"
-    },
     {
       "id": "football/live/2026/apr/21/brighton-v-chelsea-premier-league-live",
       "headline": "Brighton v Chelsea: Premier League – live",
@@ -950,6 +678,214 @@
       "category": "sport",
       "significance": 2,
       "section": "sport"
+    },
+    {
+      "id": "world/2026/apr/22/strait-of-hormuz-gunboat-diplomacy-us-iran-blockade",
+      "headline": "Strait of Hormuz is hosting gunboat diplomacy as US and Iran vie for most effective blockade",
+      "summary": "US and Iran engage in naval blockade diplomacy in Strait of Hormuz amid crisis.",
+      "url": "https://www.theguardian.com/p/x4q28j",
+      "thumbnail": "https://media.guim.co.uk/2164f5c6d600dca7e64607feeb7f19498a029558/213_0_4583_3667/500.jpg",
+      "published": "2026-04-22T15:48:13Z",
+      "location": {
+        "name": "Strait of Hormuz",
+        "lat": 26.55,
+        "lng": 56.25
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "artanddesign/2026/apr/22/isaac-julien-review-gwendoline-christie-meets-a-cyborg-starfish-in-a-pleasure-seekers-postmodern-parlour",
+      "headline": "Isaac Julien review – Gwendoline Christie meets a cyborg starfish in a pleasure-seeker’s postmodern parlour",
+      "summary": "Isaac Julien's video art exhibition features Gwendoline Christie in postmodern parlour.",
+      "url": "https://www.theguardian.com/p/x4qvpe",
+      "thumbnail": "https://media.guim.co.uk/300f6f3fa0b096ca4652b1418785e8b47ec1c881/688_0_6880_5504/500.jpg",
+      "published": "2026-04-22T15:38:18Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "artanddesign"
+    },
+    {
+      "id": "politics/2026/apr/22/britain-military-dependence-on-us-no-longer-tenable-lord-robertson",
+      "headline": "Britain’s military dependence on US ‘no longer tenable’, says former Nato chief",
+      "summary": "Former NATO chief warns Britain's military dependence on US 'no longer tenable'.",
+      "url": "https://www.theguardian.com/p/x4qxz9",
+      "thumbnail": "https://media.guim.co.uk/8aa6f663ecdd51af6ef7c0f3b2ccd0958b15efb9/635_0_5459_4368/500.jpg",
+      "published": "2026-04-22T15:30:55Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "us-news/2026/apr/22/anthony-fauci-acting-debut-oedipus-the-king",
+      "headline": "Anthony Fauci makes acting debut in Oedipus the King play reading in DC",
+      "summary": "Anthony Fauci makes acting debut in Oedipus the King reading for DC Climate Week.",
+      "url": "https://www.theguardian.com/p/x4pqt9",
+      "thumbnail": "https://media.guim.co.uk/a8d46e3feebf8162cc19f9faa76add4b9b8e0770/673_0_4001_3200/500.jpg",
+      "published": "2026-04-22T15:28:10Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "us-news"
+    },
+    {
+      "id": "world/2026/apr/22/eu-unblocks-loan-ukraine-new-sanctions-russia-hungary-lifts-veto",
+      "headline": "EU agrees to unblock €90bn loan for Ukraine after Hungary lifts veto",
+      "summary": "EU unblocks €90bn loan for Ukraine after Hungary lifts veto; oil deal reached.",
+      "url": "https://www.theguardian.com/p/x4qvkh",
+      "thumbnail": "https://media.guim.co.uk/a985d7a438f6ba0965d5f085e649ad92d37609a8/1083_0_2946_2357/500.jpg",
+      "published": "2026-04-22T15:19:26Z",
+      "location": {
+        "name": "Brussels",
+        "lat": 50.8503,
+        "lng": 4.3517
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "commentisfree/2026/apr/22/school-smartphone-ban-teachers-pupils-addiction-devices",
+      "headline": "I was wrong about the danger of smartphones in schools. It’s far, far worse than I thought",
+      "summary": "Teacher argues England's school smartphone ban is needed but enforcement remains challenging.",
+      "url": "https://www.theguardian.com/p/x4qxbp",
+      "thumbnail": "https://media.guim.co.uk/d41a2eec1503e76eacd201d7665391d8b0b10e67/497_0_6880_5504/500.jpg",
+      "published": "2026-04-22T15:12:56Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "commentisfree"
+    },
+    {
+      "id": "environment/2026/apr/23/governments-failed-to-deliver-160m-of-river-improvements-including-for-now-parched-nsw-wetlands-report-finds",
+      "headline": " Governments failed to deliver $160m of river improvements including for now-parched NSW wetlands, report finds",
+      "summary": "NSW and Queensland governments underdelivered $160m in promised river improvement infrastructure.",
+      "url": "https://www.theguardian.com/p/x4qv38",
+      "thumbnail": "https://media.guim.co.uk/f64a6f6308765d9ce942ce3895bcbe2bf9d24440/0_0_3751_3000/500.jpg",
+      "published": "2026-04-22T15:00:31Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "environment"
+    },
+    {
+      "id": "football/blog/2026/apr/22/melbourne-city-a-league-football-women-matildas",
+      "headline": "The Matildas factory: Melbourne City’s historic treble push rooted in youth development",
+      "summary": "Melbourne City's youth development policy drives historic A-League Women treble push.",
+      "url": "https://www.theguardian.com/p/x4ppny",
+      "thumbnail": "https://media.guim.co.uk/90c36e68687bc672af4a105d5f37b200377121f9/0_107_2795_2236/500.jpg",
+      "published": "2026-04-22T15:00:30Z",
+      "location": {
+        "name": "Melbourne",
+        "lat": -37.8136,
+        "lng": 144.9631
+      },
+      "category": "sport",
+      "significance": 1,
+      "section": "football"
+    },
+    {
+      "id": "travel/2026/apr/22/backpacking-hostel-changes-private-rooms-luxury",
+      "headline": "‘The horror – 14 alarms in the morning’: backpacker hostels evolve as young people seek privacy over packed dorms",
+      "summary": "Backpacker hostels evolve with private rooms and wellness centres replacing traditional packed dormitory culture.",
+      "url": "https://www.theguardian.com/p/x4zayy",
+      "thumbnail": "https://media.guim.co.uk/9ca290eb4c76807f98ed0e8b3e2c140e1e2a7414/0_455_1536_1229/500.jpg",
+      "published": "2026-04-22T15:00:29Z",
+      "location": {
+        "name": "Adelaide",
+        "lat": -34.9285,
+        "lng": 138.6007
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "travel"
+    },
+    {
+      "id": "australia-news/2026/apr/23/wed-be-on-our-own-families-face-being-thousands-of-dollars-worse-off-as-labor-cuts-ndis-lifeline",
+      "headline": "‘We’d be on our own’: families face being thousands of dollars worse off as Labor cuts NDIS lifeline",
+      "summary": "Australian families fear financial hardship as Labor government cuts NDIS support for children and adults with autism.",
+      "url": "https://www.theguardian.com/p/x4qvnk",
+      "thumbnail": "https://media.guim.co.uk/467a2bfb3bb33c948b50de04fd0ee941a89d9951/0_167_1542_1233/500.jpg",
+      "published": "2026-04-22T15:00:29Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "australia-news"
+    },
+    {
+      "id": "us-news/2026/apr/22/kash-patel-alcohol-abuse-democrats-fbi",
+      "headline": "Democrats demand FBI director, Kash Patel, take alcohol abuse test",
+      "summary": "House Democrats demand FBI Director Kash Patel complete alcohol abuse assessment amid congressional scrutiny.",
+      "url": "https://www.theguardian.com/p/x4q276",
+      "thumbnail": "https://media.guim.co.uk/ded0629e47d4a2f8fbde4bd96e62df54440a6a4c/806_0_5115_4093/500.jpg",
+      "published": "2026-04-22T14:58:03Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "world/2026/apr/22/how-irelands-war-driven-fuel-blockades-revealed-the-true-cost-of-europes-oil-addiction",
+      "headline": "How Ireland’s war-driven fuel blockades revealed the true cost of Europe’s oil addiction",
+      "summary": "Iran-related fuel blockades and disruptions accelerate European electric vehicle adoption, up 51% in March.",
+      "url": "https://www.theguardian.com/p/x4pzkn",
+      "thumbnail": "https://media.guim.co.uk/4c2877d48ba63e8b02ea94634cf1213d8831af67/171_0_5000_4000/500.jpg",
+      "published": "2026-04-22T14:47:42Z",
+      "location": {
+        "name": "Dublin",
+        "lat": 53.3498,
+        "lng": -6.2603
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "politics/2026/apr/22/morgan-mcsweeney-starmer-former-chief-of-staff-to-be-questioned-by-mps",
+      "headline": "Morgan McSweeney, Keir Starmer’s former chief of staff, to be questioned by MPs",
+      "summary": "Former PM's chief of staff Morgan McSweeney summoned by MPs as Peter Mandelson vetting controversy deepens.",
+      "url": "https://www.theguardian.com/p/x4qxb8",
+      "thumbnail": "https://media.guim.co.uk/30cebca8f7e74721068eb36aba1b42a742843ba6/835_15_1973_1578/500.jpg",
+      "published": "2026-04-22T14:47:33Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
     }
   ]
 }
