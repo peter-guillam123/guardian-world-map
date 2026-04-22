@@ -1,108 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-22T00:04:19.238Z",
-    "story_count": 55,
-    "oldest_story": "2026-04-21T05:20:16Z",
-    "newest_story": "2026-04-22T00:00:03Z",
+    "generated_at": "2026-04-22T06:25:39.043Z",
+    "story_count": 60,
+    "oldest_story": "2026-04-21T09:43:45Z",
+    "newest_story": "2026-04-22T06:25:16Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "world/live/2026/apr/21/iran-war-live-news-updates-trump-us-hormuz-oil-middle-east-talks",
-      "headline": "Middle East crisis live: Iran weighs Pakistan talks with US, and claims it has ‘new cards for battlefield’",
-      "summary": "Iran considers Pakistan talks with US as tensions persist over Gulf tensions and military escalation.",
-      "url": "https://www.theguardian.com/p/x4pk3t",
-      "thumbnail": "https://media.guim.co.uk/bd70c07f10e081dbf1b5e7bc4f56fccad481ddc6/515_0_5148_4118/500.jpg",
-      "published": "2026-04-21T06:12:22Z",
-      "location": {
-        "name": "Iran",
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "environment/2026/apr/21/white-park-cattle-priority-at-risk-list-rare-breeds-survival-trust",
-      "headline": "Cattle breed whose ancestors lived with Celts added to priority at-risk list",
-      "summary": "White Park cattle breed added to UK's rare breeds at-risk list due to declining calf populations.",
-      "url": "https://www.theguardian.com/p/x4p35v",
-      "thumbnail": "https://media.guim.co.uk/864f2cafc92b046e485ceb0e4aab8c7d6be372bc/123_0_3421_2736/500.jpg",
-      "published": "2026-04-21T06:00:18Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "environment"
-    },
-    {
-      "id": "film/2026/apr/21/scarborn-kos-review-stirring-up-trouble-in-18th-century-poland",
-      "headline": "Scarborn (Kos) review – stirring up trouble in 18th-century Poland",
-      "summary": "Polish historical drama Scarborn depicts 18th-century upheaval when American independence veteran returns home.",
-      "url": "https://www.theguardian.com/p/x4p8ey",
-      "thumbnail": "https://media.guim.co.uk/b092d70c7ee76d2359220455c4e774e4197f9134/477_277_1561_1249/500.jpg",
-      "published": "2026-04-21T06:00:17Z",
-      "location": {
-        "name": "Warsaw",
-        "lat": 52.2297,
-        "lng": 21.0122
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "film"
-    },
-    {
-      "id": "money/2026/apr/21/our-host-just-vanished-but-bookingcom-still-said-no-to-a-refund",
-      "headline": "Our host just vanished, but Booking.com still said ‘no’ to a refund",
-      "summary": "Booking.com refused refund after vacation host vanished despite failed contact attempts by both parties.",
-      "url": "https://www.theguardian.com/p/x4zt5v",
-      "thumbnail": "https://media.guim.co.uk/45b30edb65ab639337137fbbbb3f90f5541bbe59/456_0_4560_3648/500.jpg",
-      "published": "2026-04-21T06:00:17Z",
-      "location": {
-        "name": "Paris",
-        "lat": 48.8566,
-        "lng": 2.3522
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "money"
-    },
-    {
-      "id": "world/2026/apr/21/tuesday-briefing-what-it-might-take-for-lasting-peace-between-the-us-and-iran",
-      "headline": "Tuesday briefing: What it might take for lasting peace between the US and Iran",
-      "summary": "US-Iran ceasefire remains fragile as both sides issue threats and prepare for possible renewed conflict escalation.",
-      "url": "https://www.theguardian.com/p/x4pgya",
-      "thumbnail": "https://media.guim.co.uk/328534c172465fc98f16d20affe940aed82f026c/296_101_1585_1268/500.jpg",
-      "published": "2026-04-21T05:45:17Z",
-      "location": {
-        "name": "Iran",
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "tv-and-radio/2026/apr/21/tv-tonight-anna-maxwell-martin-on-tellys-most-revealing-chatshow",
-      "headline": "TV tonight: Anna Maxwell Martin on telly’s most revealing chatshow",
-      "summary": "Actor Anna Maxwell Martin appears on ITV's revealing chatshow The Assembly this evening.",
-      "url": "https://www.theguardian.com/p/x4zz4c",
-      "thumbnail": "https://media.guim.co.uk/65fccb86ab16e7296064535cb62363e729e83224/561_23_2671_2137/500.jpg",
-      "published": "2026-04-21T05:20:16Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "tv-and-radio"
-    },
     {
       "id": "world/live/2026/apr/21/eu-foreign-ministers-meet-to-discuss-ukraine-russia-and-the-middle-east-europe-live",
       "headline": "EU optimistic over approval of €90bn loan for Ukraine following Orbán defeat – Europe live",
@@ -886,6 +790,182 @@
       "category": "culture",
       "significance": 1,
       "section": "stage"
+    },
+    {
+      "id": "world/live/2026/apr/22/iran-war-live-updates-trump-ceasefire-us-hormuz-blockade-israel-lebanon-middle-east",
+      "headline": "Middle East crisis live: Trump extends ceasefire but blockade continues; Iran attacks container ship off Oman",
+      "summary": "Trump extends Iran ceasefire as US-Israeli blockade of Strait of Hormuz strands 20,000 seafarers.",
+      "url": "https://www.theguardian.com/p/x4ppzq",
+      "thumbnail": "https://media.guim.co.uk/d0e98cee0f9fa8611308006d01b8480a8b10f173/511_18_2511_2009/500.jpg",
+      "published": "2026-04-22T06:25:16Z",
+      "location": {
+        "name": "Strait of Hormuz",
+        "lat": 26.55,
+        "lng": 56.25
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "business/live/2026/apr/22/uk-inflation-increase-fuel-prices-oil-falls-trump-ceasefire-extended-business-live-news-updates",
+      "headline": "UK inflation climbs to 3.3%, driven by largest increase in fuel prices in over three years – business live",
+      "summary": "UK inflation rises to 3.3% in March driven by soaring fuel prices from Iran conflict.",
+      "url": "https://www.theguardian.com/p/x4qv8d",
+      "thumbnail": "https://media.guim.co.uk/80d81f099838f62cbc591240dfc06e5b3b769a5b/277_0_2640_2112/500.jpg",
+      "published": "2026-04-22T06:22:13Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "business/2026/apr/22/uk-inflation-rises-soaring-fuel-prices-iran-war",
+      "headline": "UK inflation rises to 3.3% amid soaring fuel prices driven by Iran war",
+      "summary": "UK inflation climbs to 3.3% amid fuel surge from Iran war affecting household finances.",
+      "url": "https://www.theguardian.com/p/x4ptcz",
+      "thumbnail": "https://media.guim.co.uk/f6798b4188eb39fcdab385ac374d008035374d0e/732_236_6528_5225/500.jpg",
+      "published": "2026-04-22T06:01:44Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "education/2026/apr/22/lower-birthrate-causing-glut-school-places-england-nao",
+      "headline": "Officials too slow to act on falling pupil numbers in England, says watchdog",
+      "summary": "England's falling birthrate creates school funding crisis with £1bn shortfall, watchdog warns.",
+      "url": "https://www.theguardian.com/p/x4pnch",
+      "thumbnail": "https://media.guim.co.uk/8bf5d7f62699c7741ce2b5a15b4eeae4a06d640e/513_0_4533_3627/500.jpg",
+      "published": "2026-04-22T06:01:10Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "education"
+    },
+    {
+      "id": "books/2026/apr/22/the-shadow-of-the-object-by-chloe-aridjis-review-one-of-the-boldest-writers-at-work-in-english-today",
+      "headline": "The Shadow of the Object by Chloe Aridjis review – one of the boldest writers at work in English today",
+      "summary": "Chloe Aridjis releases enchanting novella about illusion and friendship in Mexico City.",
+      "url": "https://www.theguardian.com/p/x4mxme",
+      "thumbnail": "https://media.guim.co.uk/2cdc0e2d115f573eeed2042f415d39fadfe09dfd/207_401_2793_2235/500.jpg",
+      "published": "2026-04-22T06:00:15Z",
+      "location": {
+        "name": "Mexico City",
+        "lat": 19.4326,
+        "lng": -99.1332
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "books"
+    },
+    {
+      "id": "travel/2026/apr/22/winnie-the-pooh-100th-birthday-ashdown-forest-sussex",
+      "headline": "Winnie-the-Pooh’s 100th birthday is a great excuse to explore the Sussex forest that inspired the books",
+      "summary": "Winnie-the-Pooh centennial celebrations at Ashdown Forest inspire family visits and Pooh Sticks play.",
+      "url": "https://www.theguardian.com/p/x4z68b",
+      "thumbnail": "https://media.guim.co.uk/fa19438f4e773311c963f35e6f0218d12c56597c/108_0_5000_4000/500.jpg",
+      "published": "2026-04-22T06:00:11Z",
+      "location": {
+        "name": "Ashdown Forest",
+        "lat": 51.0758,
+        "lng": 0.0089
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "travel"
+    },
+    {
+      "id": "money/2026/apr/22/street-words-parents-young-people-fraud-scams",
+      "headline": "‘Fullz’ disclosure: the man with the street words to help parents prevent children falling into fraud",
+      "summary": "Fraud prevention expert reveals street language young people use in scams and fraud schemes.",
+      "url": "https://www.theguardian.com/p/x4kz97",
+      "thumbnail": "https://media.guim.co.uk/fa702dca8b7a6830c7e7ebef4af1a3c8d53cf002/198_85_4029_3225/500.jpg",
+      "published": "2026-04-22T06:00:10Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "other",
+      "significance": 1,
+      "section": "money"
+    },
+    {
+      "id": "film/2026/apr/22/surviving-earth-film-review-thea-gajic-slavko-sobin-olive-gray",
+      "headline": "Surviving Earth review – bruising portrait of addiction and redemption",
+      "summary": "Thea Gajić's debut film portrays father's addiction recovery journey with brutal honesty.",
+      "url": "https://www.theguardian.com/p/x4phvx",
+      "thumbnail": "https://media.guim.co.uk/f96d2ca6b757c0dad164288668710730a7f7857f/278_0_2698_2160/500.jpg",
+      "published": "2026-04-22T06:00:10Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "film"
+    },
+    {
+      "id": "world/2026/apr/22/wednesday-briefing-can-keir-starmers-premiership-survive-more-revelations-about-his-handling-of-diplomatic-posts",
+      "headline": "Wednesday briefing: ​Can Keir Starmer’s premiership survive more revelations about his handling of diplomatic posts?",
+      "summary": "Keir Starmer's premiership faces fresh crisis over handling of diplomatic appointments.",
+      "url": "https://www.theguardian.com/p/x4pm9v",
+      "thumbnail": "https://media.guim.co.uk/bc821cf4b6feeeb861896cf42021645e371cca82/283_0_3289_2632/500.jpg",
+      "published": "2026-04-22T05:45:10Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "sport/2026/apr/22/ross-lyon-afl-st-kilda-coach-press-conference-views",
+      "headline": "From the Pocket: Ross Lyon gives an unvarnished view of AFL reality but too often punches down",
+      "summary": "St Kilda coach Ross Lyon provides unfiltered views on AFL realities but criticizes downward punching.",
+      "url": "https://www.theguardian.com/p/x4pf6z",
+      "thumbnail": "https://media.guim.co.uk/9ddd8a2894931a4831615edc4a4a50e0bf073c38/479_0_2633_2108/500.jpg",
+      "published": "2026-04-22T05:30:19Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "sport",
+      "significance": 1,
+      "section": "sport"
+    },
+    {
+      "id": "tv-and-radio/2026/apr/22/tv-tonight-shetland-meets-csi-in-a-new-drama-about-a-disgraced-cop",
+      "headline": "TV tonight: Shetland meets CSI in a new drama about a disgraced cop",
+      "summary": "French-Canadian police drama Saint-Pierre blends Shetland aesthetics with CSI procedural elements.",
+      "url": "https://www.theguardian.com/p/x4zz4p",
+      "thumbnail": "https://media.guim.co.uk/7660b99dd3ea236141e5faf59ac6ad5bce264c85/1040_0_5200_4160/500.jpg",
+      "published": "2026-04-22T05:20:09Z",
+      "location": {
+        "name": "Saint-Pierre and Miquelon",
+        "lat": 46.7917,
+        "lng": -56.3172
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "tv-and-radio"
     }
   ]
 }
