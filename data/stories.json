@@ -1,140 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-22T19:55:56.798Z",
-    "story_count": 57,
-    "oldest_story": "2026-04-21T21:15:40Z",
-    "newest_story": "2026-04-22T19:49:31Z",
+    "generated_at": "2026-04-22T22:34:48.389Z",
+    "story_count": 56,
+    "oldest_story": "2026-04-21T23:01:02Z",
+    "newest_story": "2026-04-22T22:30:38Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "australia-news/live/2026/apr/22/australia-news-live-ndis-savings-cuts-mark-butler-aged-care-cost-of-living-budget-jim-chalmers-labor-coalition-ntwnfb",
-      "headline": "Australia news live: NDIS savings to fund better aged care including showers, minister says; fourth man charged over alleged Baghsarian kidnapping murder",
-      "summary": "Labor cuts NDIS to fund aged care improvements; fourth man charged in Baghsarian case.",
-      "url": "https://www.theguardian.com/p/x4pmh6",
-      "thumbnail": "https://media.guim.co.uk/4fc36f375d8e981a960465cdfcdc7a0af5e38b24/608_0_6059_4849/500.jpg",
-      "published": "2026-04-21T22:23:41Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "australia-news/2026/apr/22/morning-mail-wednesday-nwtnfb",
-      "headline": "Morning Mail: Trump says US extending Iran ceasefire, Coalition’s byelection blitz, The Deb defies doom",
-      "summary": "Trump extends Iran ceasefire; Coalition launches byelection campaign in Australia.",
-      "url": "https://www.theguardian.com/p/x4pmdk",
-      "thumbnail": "https://media.guim.co.uk/0130798dee6574187ad9419d0f8cd6425751f151/542_0_5602_4480/500.jpg",
-      "published": "2026-04-21T21:33:21Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "football/2026/apr/21/guardiola-stupid-things-manchester-city-celebrations-arsenal-rooney-murphy",
-      "headline": "Guardiola dismisses ‘stupid things’ said about City celebrations after beating Arsenal",
-      "summary": "Guardiola defends Manchester City celebrations after 2-1 Arsenal victory.",
-      "url": "https://www.theguardian.com/p/x4pnkg",
-      "thumbnail": "https://media.guim.co.uk/180f30f2bd010fa338e58b877f70678bf283b7d6/229_0_6830_5464/500.jpg",
-      "published": "2026-04-21T21:31:00Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4831,
-        "lng": -2.2043
-      },
-      "category": "sport",
-      "significance": 1,
-      "section": "football"
-    },
-    {
-      "id": "us-news/2026/apr/21/florida-openai-chatgpt-investigation",
-      "headline": "Florida to open criminal investigation into OpenAI over ChatGPT’s influence on alleged mass shooter",
-      "summary": "Florida opens criminal investigation into OpenAI over ChatGPT's alleged influence on shooter.",
-      "url": "https://www.theguardian.com/p/x4pzj3",
-      "thumbnail": "https://media.guim.co.uk/34e140d1cff853a7bc28a69d8c3f8c9e377c440a/539_0_4165_3333/500.jpg",
-      "published": "2026-04-21T21:28:34Z",
-      "location": {
-        "name": "Tallahassee",
-        "lat": 30.4383,
-        "lng": -84.2807
-      },
-      "category": "tech",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "world/2026/apr/21/push-to-bring-us-and-iran-together-for-peace-talks-as-ceasefire-deadline-looms",
-      "headline": "Trump announces extension of Iran ceasefire until ‘discussion concluded’",
-      "summary": "Trump extends Iran ceasefire; intense efforts underway for Pakistan peace talks.",
-      "url": "https://www.theguardian.com/p/x4pz7p",
-      "thumbnail": "https://media.guim.co.uk/8490e98428d7291d0f40fcb4dc572e43cc7501f3/157_0_4551_3640/500.jpg",
-      "published": "2026-04-21T21:21:45Z",
-      "location": {
-        "name": "Islamabad",
-        "lat": 33.6844,
-        "lng": 73.0479
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "football/2025/sep/15/premier-league-top-scorers-2025-26-who-is-leading-race-for-golden-boot",
-      "headline": "Premier League top scorers 2025-26: who is leading race for golden boot?",
-      "summary": "Erling Haaland leads Premier League scoring with 23 goals in 2025-26 season.",
-      "url": "https://www.theguardian.com/p/x386fa",
-      "thumbnail": "https://media.guim.co.uk/88090d7119a1b79409910cb36a42c816e0a92263/216_19_1668_1335/500.jpg",
-      "published": "2026-04-21T21:21:20Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 1,
-      "section": "football"
-    },
-    {
-      "id": "business/2026/apr/21/kevin-warsh-federal-reserve-senate-trump",
-      "headline": "Trump’s Fed chair pick says he’ll maintain independence – but won’t say president lost 2020 election",
-      "summary": "Trump's Fed chair pick Kevin Warsh promises independence amid confirmation hearing scrutiny.",
-      "url": "https://www.theguardian.com/p/x4pz4n",
-      "thumbnail": "https://media.guim.co.uk/02fe79f730ed1fd3faca66bbc4e0133e8021573c/541_0_5001_4000/500.jpg",
-      "published": "2026-04-21T21:15:54Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "us-news/2026/apr/21/california-lego-pasta-swap-arrest",
-      "headline": "California man arrested for allegedly swapping in pasta for Lego pieces then returning them",
-      "summary": "California man arrested for $34,000 Lego scam using pasta swap at Target stores.",
-      "url": "https://www.theguardian.com/p/x4pz52",
-      "thumbnail": "https://media.guim.co.uk/790c5546eaa9e06b71454e38caf0510081e0ae2b/64_0_1920_1536/500.jpg",
-      "published": "2026-04-21T21:15:40Z",
-      "location": {
-        "name": "Irvine",
-        "lat": 33.6846,
-        "lng": -117.8265
-      },
-      "category": "other",
-      "significance": 1,
-      "section": "us-news"
-    },
     {
       "id": "australia-news/2026/apr/22/queensland-new-adult-crime-time-laws-explained",
       "headline": "Queensland is debating new ‘adult crime, adult time’ laws. How will they work – and who do they disadvantage?",
@@ -918,6 +790,118 @@
       "category": "politics",
       "significance": 2,
       "section": "us-news"
+    },
+    {
+      "id": "business/grogonomics/2026/apr/23/cgt-capital-gains-tax-negative-gearing-changes-housing-labor-budget-2026",
+      "headline": "Capital gains tax changes are on the table, and yet Armageddon has not arrived. Has the tide on housing turned at last?",
+      "summary": "Labor's capital gains tax and negative gearing changes receive muted reaction ahead of budget announcement.",
+      "url": "https://www.theguardian.com/p/x4pq2c",
+      "thumbnail": "https://media.guim.co.uk/4b80e9406c2bbb1899d3c3ec4c534a99d2496dd9/62_0_1875_1500/500.jpg",
+      "published": "2026-04-22T22:30:38Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "australia-news/live/2026/apr/23/budget-cost-of-living-ndis-cuts-health-insurance-rebate-mark-butler-anthony-albanese-fuel-crisis-labor-coalition-ntwnfb",
+      "headline": "Australia news live: James Valentine’s former colleagues pay tribute after death of broadcaster; rental vacancies at record low in most big cities",
+      "summary": "Australia faces record low rental vacancies as NDIS changes announced; James Valentine broadcaster dies.",
+      "url": "https://www.theguardian.com/p/x4qxd3",
+      "thumbnail": "https://media.guim.co.uk/421efcc8298c6f389471c80cbccadbf5d0df57b2/67_0_844_675/500.jpg",
+      "published": "2026-04-22T22:27:08Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "australia-news/2026/apr/23/friends-and-former-colleagues-of-james-valentine-mourn-death-of-much-loved-abc-sydney-radio-presenter",
+      "headline": "Friends and former colleagues of James Valentine mourn death of much-loved ABC Sydney radio presenter",
+      "summary": "ABC Sydney radio presenter James Valentine, 64, dies three months after retiring from 25-year role.",
+      "url": "https://www.theguardian.com/p/x4q44a",
+      "thumbnail": "https://media.guim.co.uk/421efcc8298c6f389471c80cbccadbf5d0df57b2/67_0_844_675/500.jpg",
+      "published": "2026-04-22T22:16:42Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "media"
+    },
+    {
+      "id": "us-news/2026/apr/22/ron-desantis-law-dei-funding",
+      "headline": "Ron DeSantis signs law blocking local Florida governments from funding DEI",
+      "summary": "Ron DeSantis signs Florida law blocking local governments from funding diversity and inclusion initiatives.",
+      "url": "https://www.theguardian.com/p/x4q4xv",
+      "thumbnail": "https://media.guim.co.uk/e2f640b84b56d35f42089109643adc233c2d432b/179_273_1869_1495/500.jpg",
+      "published": "2026-04-22T22:02:18Z",
+      "location": {
+        "name": "Tallahassee",
+        "lat": 30.4383,
+        "lng": -84.2807
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/apr/22/fearless-rayan-cherki-offers-manchester-city-a-point-of-difference-in-title-hunt",
+      "headline": "Fearless Rayan Cherki offers Manchester City a point of difference in title hunt",
+      "summary": "Rayan Cherki's standout performance helps Manchester City reclaim Premier League title lead at Burnley.",
+      "url": "https://www.theguardian.com/p/x4q277",
+      "thumbnail": "https://media.guim.co.uk/3632097635eb83a53d5ba33cf96b0fe38a38437c/642_0_6419_5136/500.jpg",
+      "published": "2026-04-22T22:00:41Z",
+      "location": {
+        "name": "Burnley",
+        "lat": 53.7852,
+        "lng": -2.228
+      },
+      "category": "sport",
+      "significance": 1,
+      "section": "football"
+    },
+    {
+      "id": "uk-news/2026/apr/22/two-more-arrested-in-watford-on-suspicion-of-plotting-arson-attack-on-jewish-venue",
+      "headline": "Two more arrested on suspicion of plotting arson attack on Jewish venue",
+      "summary": "Two more arrested in Watford on suspicion of plotting arson attack on Jewish community venue.",
+      "url": "https://www.theguardian.com/p/x4q4vk",
+      "thumbnail": "https://media.guim.co.uk/410be727112b20bfe76632600dbae9e73ac40855/632_0_3158_2527/500.jpg",
+      "published": "2026-04-22T21:58:39Z",
+      "location": {
+        "name": "Watford",
+        "lat": 51.6555,
+        "lng": -0.3903
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "world/2026/apr/22/uk-pay-france-660m-to-curb-channel-crossings",
+      "headline": "UK to pay France another £660m to curb Channel crossings",
+      "summary": "UK agrees £660m three-year deal with France to reduce Channel crossings including riot squad funding.",
+      "url": "https://www.theguardian.com/p/x4qxby",
+      "thumbnail": "https://media.guim.co.uk/1b6f73cd03f02f3088c15c62bc63956dc49f1969/646_0_4549_3640/500.jpg",
+      "published": "2026-04-22T21:30:37Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "world"
     }
   ]
 }
