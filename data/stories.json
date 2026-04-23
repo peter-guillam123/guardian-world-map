@@ -1,204 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-23T06:18:16.318Z",
-    "story_count": 48,
-    "oldest_story": "2026-04-22T06:22:13Z",
-    "newest_story": "2026-04-23T06:11:14Z",
+    "generated_at": "2026-04-23T10:56:31.474Z",
+    "story_count": 51,
+    "oldest_story": "2026-04-22T14:47:33Z",
+    "newest_story": "2026-04-23T10:51:51Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "world/live/2026/apr/22/iran-war-live-updates-trump-ceasefire-us-hormuz-blockade-israel-lebanon-middle-east",
-      "headline": "Middle East crisis live: Trump extends ceasefire but blockade continues; Iran attacks container ship off Oman",
-      "summary": "Trump extends Iran ceasefire as US-Israeli blockade of Strait of Hormuz strands 20,000 seafarers.",
-      "url": "https://www.theguardian.com/p/x4ppzq",
-      "thumbnail": "https://media.guim.co.uk/d0e98cee0f9fa8611308006d01b8480a8b10f173/511_18_2511_2009/500.jpg",
-      "published": "2026-04-22T06:25:16Z",
-      "location": {
-        "name": "Strait of Hormuz",
-        "lat": 26.55,
-        "lng": 56.25
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "business/live/2026/apr/22/uk-inflation-increase-fuel-prices-oil-falls-trump-ceasefire-extended-business-live-news-updates",
-      "headline": "UK inflation climbs to 3.3%, driven by largest increase in fuel prices in over three years – business live",
-      "summary": "UK inflation rises to 3.3% in March driven by soaring fuel prices from Iran conflict.",
-      "url": "https://www.theguardian.com/p/x4qv8d",
-      "thumbnail": "https://media.guim.co.uk/80d81f099838f62cbc591240dfc06e5b3b769a5b/277_0_2640_2112/500.jpg",
-      "published": "2026-04-22T06:22:13Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "music/2026/apr/22/dave-mason-co-founder-of-traffic-solo-career-dies-aged-79",
-      "headline": "Dave Mason, co-founder of Traffic who had a star-studded solo career, dies aged 79",
-      "summary": "Dave Mason, Traffic co-founder and renowned guitarist, dies aged 79 in Nevada.",
-      "url": "https://www.theguardian.com/p/x4qvjk",
-      "thumbnail": "https://media.guim.co.uk/8925782834108c6852da1805ca6fe89b349405c1/0_0_3361_2687/500.jpg",
-      "published": "2026-04-22T10:44:58Z",
-      "location": {
-        "name": "Gardnerville",
-        "lat": 38.9395,
-        "lng": -119.7674
-      },
-      "category": "culture",
-      "significance": 3,
-      "section": "music"
-    },
-    {
-      "id": "politics/live/2026/apr/22/keir-starmer-kemi-badenoch-pmqs-olly-robbins-peter-mandelson-uk-politics-latest-news-updates",
-      "headline": "Starmer faces first PMQs since Olly Robbins’ Mandelson evidence to MPs – UK politics live",
-      "summary": "PM Starmer faces PMQs amid Mandelson security vetting controversy fallout.",
-      "url": "https://www.theguardian.com/p/x4qvdp",
-      "thumbnail": "https://media.guim.co.uk/bd7c1d98ba76842aea78c916833cfa4bddf07276/435_174_3536_2829/500.jpg",
-      "published": "2026-04-22T10:42:27Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "world/live/2026/apr/22/ukraine-eu-90bn-loan-russia-war-hungary-zelenskyy-putin-magyar-orban-europe-latest-news-updates",
-      "headline": "Contested Druzhba pipeline resumes operations with EU close to signing off on €90bn loan for Ukraine – Europe live ",
-      "summary": "EU set to approve €90bn loan for Ukraine as Druzhba pipeline resumes operations.",
-      "url": "https://www.theguardian.com/p/x4qvh5",
-      "thumbnail": "https://media.guim.co.uk/695f0429d32524c13fa8f07b2b01bf9ae4854b1f/111_0_5000_4000/500.jpg",
-      "published": "2026-04-22T10:27:39Z",
-      "location": {
-        "name": "Brussels",
-        "lat": 50.8503,
-        "lng": 4.3517
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "us-news/live/2026/apr/22/virginia-congressional-map-vote-redistricting-donald-trump-republicans-democrats-us-latest-news-updates",
-      "headline": "Virginia congressional map vote could embolden Florida Republicans to push for boundary changes, says Jeffries – US politics live",
-      "summary": "Virginia congressional map vote could embolden GOP redistricting efforts nationwide.",
-      "url": "https://www.theguardian.com/p/x4qxx3",
-      "thumbnail": "https://media.guim.co.uk/021b79830831c95b26cdf7af7ccb13b2ab922755/97_0_3332_2666/500.jpg",
-      "published": "2026-04-22T10:14:01Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "business/2026/apr/22/tui-cuts-profit-forecast-iran-war-cost-travel-group",
-      "headline": "Tui cuts profit forecast as effects of Iran war cost travel group €40m",
-      "summary": "Tui cuts profit forecast €40m after repatriating 12,000 guests amid Iran conflict.",
-      "url": "https://www.theguardian.com/p/x4qvym",
-      "thumbnail": "https://media.guim.co.uk/c471912073bee583c1d87f9d25f06d5e2203d9fa/1152_0_5855_4687/500.jpg",
-      "published": "2026-04-22T10:10:50Z",
-      "location": {
-        "name": "Berlin",
-        "lat": 52.52,
-        "lng": 13.405
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "commentisfree/2026/apr/22/should-barron-trump-drafted",
-      "headline": "Should Barron Trump be drafted – or left alone to keep building his $150m fortune?",
-      "summary": "Opinion piece discusses unlikely military draft prospect for Barron Trump.",
-      "url": "https://www.theguardian.com/p/x4pmnd",
-      "thumbnail": "https://media.guim.co.uk/20e8c3c6cfb212e57ea208d5836f77cde4074e01/327_191_3094_2476/500.jpg",
-      "published": "2026-04-22T10:00:25Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 1,
-      "section": "commentisfree"
-    },
-    {
-      "id": "technology/2026/apr/22/amazon-workplace-safety-record",
-      "headline": "‘Get back to work’: Amazon faces fresh scrutiny over workplace safety record",
-      "summary": "Amazon faces renewed scrutiny over worker safety record and injury rates.",
-      "url": "https://www.theguardian.com/p/x4khqq",
-      "thumbnail": "https://media.guim.co.uk/576aca284dfa6af17c561fa2193a4f6c1bc34dea/1_0_2999_2400/500.jpg",
-      "published": "2026-04-22T10:00:25Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "technology"
-    },
-    {
-      "id": "us-news/2026/apr/22/air-pollution-report-dangerous-levels-children",
-      "headline": "Nearly half of US children are breathing dangerous levels of air pollution, report warns",
-      "summary": "Nearly half of US children breathing dangerous air pollution levels, study warns.",
-      "url": "https://www.theguardian.com/p/x4p45f",
-      "thumbnail": "https://media.guim.co.uk/d05b6da39e8b01ea0756d7df5c8bc493420b194e/1371_1562_2672_2137/500.jpg",
-      "published": "2026-04-22T10:00:24Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "health",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/apr/22/arizona-toddler-rescue-traffic",
-      "headline": "‘Right place at the right time’: Arizona utility worker saves toddler from rush-hour traffic",
-      "summary": "Arizona utility worker rescues toddler from rush-hour traffic in downtown Phoenix.",
-      "url": "https://www.theguardian.com/p/x4pzj4",
-      "thumbnail": "https://media.guim.co.uk/7a3898d039b58be6fc9789abd84c5d1c8bcb708c/281_556_1691_1354/500.jpg",
-      "published": "2026-04-22T10:00:24Z",
-      "location": {
-        "name": "Phoenix",
-        "lat": 33.4484,
-        "lng": -112.0742
-      },
-      "category": "other",
-      "significance": 1,
-      "section": "us-news"
-    },
-    {
-      "id": "sport/2026/apr/22/jay-shah-icc-india-the-spin-cricket",
-      "headline": "Glitzy socials are one thing but it is more valuable to hear cricket’s most important voice",
-      "summary": "ICC chair Jay Shah's social media presence overshadows substantive cricket vision commentary.",
-      "url": "https://www.theguardian.com/p/x4pz75",
-      "thumbnail": "https://media.guim.co.uk/dfaba6801a327ce65d57fa8623785f7fbe816b20/238_0_2387_1909/500.jpg",
-      "published": "2026-04-22T09:45:12Z",
-      "location": {
-        "name": "Dubai",
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
     {
       "id": "world/2026/apr/22/strait-of-hormuz-gunboat-diplomacy-us-iran-blockade",
       "headline": "Strait of Hormuz is hosting gunboat diplomacy as US and Iran vie for most effective blockade",
@@ -774,6 +582,246 @@
       "category": "culture",
       "significance": 1,
       "section": "tv-and-radio"
+    },
+    {
+      "id": "politics/live/2026/apr/23/keir-starmer-peter-mandelson-vetting-cat-little-olly-robbins-vet-uk-politics-latest-news-updates",
+      "headline": "Cabinet Office officials delayed telling Starmer about Mandelson vetting recommendation for almost three weeks – UK politics live ",
+      "summary": "Cabinet Office delayed informing Starmer about Mandelson vetting for three weeks.",
+      "url": "https://www.theguardian.com/p/x4q639",
+      "thumbnail": "https://media.guim.co.uk/80d55fda8c1dfc495bba2fd0f7eef6f3d61dbfed/220_99_3363_2690/500.jpg",
+      "published": "2026-04-23T10:51:51Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "politics"
+    },
+    {
+      "id": "politics/2026/apr/23/olly-robbins-refused-mandelson-vetting-summary-cabinet-office-cat-little",
+      "headline": "Olly Robbins refused to give Mandelson vetting summary to Cabinet Office, says Cat Little",
+      "summary": "Olly Robbins refused to give Mandelson vetting summary to Cabinet Office, says Cat Little.",
+      "url": "https://www.theguardian.com/p/x4q6hg",
+      "thumbnail": "https://media.guim.co.uk/855aa639018944612b12c6c0f50da6f42e011527/788_447_1242_993/500.jpg",
+      "published": "2026-04-23T10:50:50Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "politics"
+    },
+    {
+      "id": "football/2026/apr/23/tracey-neville-next-big-step-stockport-county",
+      "headline": "Tracey Neville’s next big step: creating ‘a future in sport’ at Stockport County",
+      "summary": "Tracey Neville embraces 'starting from scratch' as new women's football leader at Stockport County.",
+      "url": "https://www.theguardian.com/p/x4q67a",
+      "thumbnail": "https://media.guim.co.uk/09d0e3424418d5b6452ebb39d58aae28b1c5dfa6/291_0_2918_2334/500.jpg",
+      "published": "2026-04-23T10:50:01Z",
+      "location": {
+        "name": "Stockport",
+        "lat": 53.4084,
+        "lng": -2.1583
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "us-news/live/2026/apr/23/donald-trump-shutdown-ice-border-patrol-dhs-iran-democrats-republicans-latest-news-updates",
+      "headline": "Senate Republicans bypass Democrats to advance $70bn ICE and border patrol plan in ‘vote-a-rama’– US politics live",
+      "summary": "Senate Republicans advance $70bn ICE and border patrol plan without Democratic support via vote-a-rama.",
+      "url": "https://www.theguardian.com/p/x4q6tq",
+      "thumbnail": "https://media.guim.co.uk/26b95ba06bc6c94726ec6af90dac96017a17ff6b/510_0_4336_3468/500.jpg",
+      "published": "2026-04-23T10:47:59Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "stage/2026/apr/23/double-indemnity-review-churchill-theatre-bromley-mischa-barton",
+      "headline": "Double Indemnity review – leaden drama turns crime classic into a very cold case",
+      "summary": "Double Indemnity at Churchill Theatre loses noir edge in new theatrical adaptation with Mischa Barton.",
+      "url": "https://www.theguardian.com/p/x4q5ye",
+      "thumbnail": "https://media.guim.co.uk/3190fa5781c6b4b1cd6664b34cdb75405a586f13/0_351_1382_1104/500.jpg",
+      "published": "2026-04-23T10:41:45Z",
+      "location": {
+        "name": "Bromley",
+        "lat": 51.4081,
+        "lng": 0.0183
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "stage"
+    },
+    {
+      "id": "world/live/2026/apr/23/eu-ukraine-loan-russia-sanctions-zelenskyy-cyprus-latest-news-updates",
+      "headline": "EU set to sign off €90bn loan for Ukraine and fresh Russia sanctions – Europe live",
+      "summary": "EU set to approve €90bn loan for Ukraine and new Russia sanctions after Hungary and Slovakia compliance.",
+      "url": "https://www.theguardian.com/p/x4q67q",
+      "thumbnail": "https://media.guim.co.uk/b8493b00027ba31499f55a04e03aeea074669f5c/117_0_3463_2771/500.jpg",
+      "published": "2026-04-23T10:40:26Z",
+      "location": {
+        "name": "Brussels",
+        "lat": 50.8503,
+        "lng": 4.3517
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "business/live/2026/apr/23/uk-government-borrowing--oil-100-a-barrel-strait-of-hormuz-deadlock-growth-latest-updates",
+      "headline": "Iran war causes biggest jump in UK service sector cost inflation since at least 1996, as UK borrowing drops – business live",
+      "summary": "Iran war causes biggest UK service sector cost inflation jump since 1996 due to fuel prices.",
+      "url": "https://www.theguardian.com/p/x4q5zn",
+      "thumbnail": "https://media.guim.co.uk/3bc8adea7e11f1f06fa47b97e987be67fa59aa7a/816_0_5765_4614/500.jpg",
+      "published": "2026-04-23T10:34:20Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "world/2026/apr/23/spanish-conservatives-revive-regional-pacts-with-far-right-vox-party",
+      "headline": "Spanish conservatives revive regional pacts with far-right Vox party",
+      "summary": "Spanish conservatives revive regional pacts with far-right Vox, adopting hardline immigration stance.",
+      "url": "https://www.theguardian.com/p/x4q69g",
+      "thumbnail": "https://media.guim.co.uk/bf324372b1049716da73683319f49aaeefa7cce5/468_0_4680_3744/500.jpg",
+      "published": "2026-04-23T10:25:39Z",
+      "location": {
+        "name": "Madrid",
+        "lat": 40.4168,
+        "lng": -3.7038
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "business/2026/apr/23/sainsburys-iran-war-impact-profits",
+      "headline": "Sainsbury’s boss urges government to help ease rising energy costs for food producers",
+      "summary": "Sainsbury's CEO urges government support for food sector hit by rising energy costs from Iran conflict.",
+      "url": "https://www.theguardian.com/p/x4q6x8",
+      "thumbnail": "https://media.guim.co.uk/62d10a33ca18527d0f8c136a2a47c66001996cbd/867_13_2961_2370/500.jpg",
+      "published": "2026-04-23T10:17:38Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "uk-news/2026/apr/23/bibby-stockholm-asylum-barge-corporate-travel-management-uk-government",
+      "headline": "Bibby Stockholm asylum barge contractor admits overcharging UK government £118m",
+      "summary": "Bibby Stockholm barge contractor admits overcharging UK government £118m in erroneous billing.",
+      "url": "https://www.theguardian.com/p/x4q6xn",
+      "thumbnail": "https://media.guim.co.uk/195f7890453e58356c00ab170969ef73ff45ea1d/382_0_5526_4421/500.jpg",
+      "published": "2026-04-23T10:15:29Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "us-news/2026/apr/23/democrats-social-security-office-benefits-trump-cuts",
+      "headline": "Democrats say cuts to social security have caused ‘customer service chaos’ for American seniors",
+      "summary": "Democrats report Trump Social Security cuts causing 'customer service chaos' for millions of seniors.",
+      "url": "https://www.theguardian.com/p/x4pza4",
+      "thumbnail": "https://media.guim.co.uk/890e22bb8deebe49d47a3881c0a68036b0967395/998_1251_3433_2748/500.jpg",
+      "published": "2026-04-23T10:00:08Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "commentisfree/2026/apr/23/cpac-pedro-sanchez-international-left-global-progressive-mobilisation",
+      "headline": "The international right has CPAC. Has the left finally found its answer?",
+      "summary": "Spain's PM Sánchez hosts inaugural Global Progressive Mobilisation in Barcelona as left seeks counter to CPAC.",
+      "url": "https://www.theguardian.com/p/x4pnnn",
+      "thumbnail": "https://media.guim.co.uk/ec93f69f6c42cf5fe06185578fcce7105f7d3db6/372_0_3715_2972/500.jpg",
+      "published": "2026-04-23T10:00:07Z",
+      "location": {
+        "name": "Barcelona",
+        "lat": 41.3851,
+        "lng": 2.1734
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "commentisfree"
+    },
+    {
+      "id": "commentisfree/2026/apr/23/white-house-correspondents-dinner-trump",
+      "headline": "Why are White House journalists partying with Trump?",
+      "summary": "Columnist questions wisdom of journalists attending White House correspondents' dinner under Trump administration.",
+      "url": "https://www.theguardian.com/p/x4q39x",
+      "thumbnail": "https://media.guim.co.uk/13bbec400a1bb3eeec1f130ff7adabf5614a086e/317_0_3236_2589/500.jpg",
+      "published": "2026-04-23T10:00:07Z",
+      "location": {
+        "name": "Washington",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "commentisfree"
+    },
+    {
+      "id": "football/2026/apr/23/clint-dempsey-docuseries-landon-donovan-memoir-usmnt",
+      "headline": "Donovan or Dempsey? New USMNT retrospectives lend more fuel to a long-running debate",
+      "summary": "Clint Dempsey docuseries and Landon Donovan memoir reignite debate over greatest USMNT player.",
+      "url": "https://www.theguardian.com/p/x4q2gv",
+      "thumbnail": "https://media.guim.co.uk/45d6611ef99da05f0417f125f904fc9f2830b15f/0_0_2893_2316/500.jpg",
+      "published": "2026-04-23T10:00:06Z",
+      "location": {
+        "name": "United States",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "uk-news/2026/apr/23/dippy-injured-axolotl-welsh-river-tiktok",
+      "headline": "Dippy the injured axolotl rescued from Welsh river",
+      "summary": "Family rescues injured axolotl from Welsh river and documents recovery on TikTok.",
+      "url": "https://www.theguardian.com/p/x4q6gj",
+      "thumbnail": "https://media.guim.co.uk/5e993f3c5e6e46ef962a613bc1889dca864afe9a/592_317_3750_3000/500.jpg",
+      "published": "2026-04-23T09:53:31Z",
+      "location": {
+        "name": "Bridgend",
+        "lat": 51.505,
+        "lng": -3.5847
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "uk-news"
     }
   ]
 }
