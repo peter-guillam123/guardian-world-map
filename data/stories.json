@@ -1,124 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-22T22:34:48.389Z",
-    "story_count": 56,
-    "oldest_story": "2026-04-21T23:01:02Z",
-    "newest_story": "2026-04-22T22:30:38Z",
+    "generated_at": "2026-04-23T06:18:16.318Z",
+    "story_count": 48,
+    "oldest_story": "2026-04-22T06:22:13Z",
+    "newest_story": "2026-04-23T06:11:14Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "australia-news/2026/apr/22/queensland-new-adult-crime-time-laws-explained",
-      "headline": "Queensland is debating new ‘adult crime, adult time’ laws. How will they work – and who do they disadvantage?",
-      "summary": "Queensland debates 'adult crime, adult time' laws expanding police powers and sentencing for child offenders.",
-      "url": "https://www.theguardian.com/p/x4pfq7",
-      "thumbnail": "https://media.guim.co.uk/4169ddca3272c62cc90a1c980c66bfcc0c289cea/464_0_4605_3684/500.jpg",
-      "published": "2026-04-22T00:00:03Z",
-      "location": {
-        "name": "Queensland",
-        "lat": -27.4698,
-        "lng": 153.0251
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "business/2026/apr/22/takeaway-coffee-sales-australian-economy-fuel-living-costs",
-      "headline": "Takeaway coffee sales plunge as fuel and living costs dent Australian spending. Is the economy next?",
-      "summary": "Takeaway coffee sales plunge in Australia as living costs and fuel prices strain household spending.",
-      "url": "https://www.theguardian.com/p/x4pkay",
-      "thumbnail": "https://media.guim.co.uk/0acd3ed1af8de9abc55fbc685ed255e7d65bbd1c/497_0_4973_3978/500.jpg",
-      "published": "2026-04-22T00:00:03Z",
-      "location": {
-        "name": "Australia",
-        "lat": -25.2744,
-        "lng": 133.7751
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "world/2026/apr/22/japan-youth-pacifist-constitution-trump-iran",
-      "headline": "‘Stop sucking up to America’: Japan’s youth rises up to protect pacifist constitution",
-      "summary": "Japanese youth protests grow against government attempts to revise the country's pacifist 80-year-old constitution.",
-      "url": "https://www.theguardian.com/p/x4pfkz",
-      "thumbnail": "https://media.guim.co.uk/e85c57361850b7576337d25038c43011cb893ac9/240_0_3535_2828/500.jpg",
-      "published": "2026-04-21T23:30:02Z",
-      "location": {
-        "name": "Japan",
-        "lat": 36.2048,
-        "lng": 138.2529
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "us-news/2026/apr/21/afghan-refugees-us-congo",
-      "headline": "Trump officials consider sending 1,100 Afghans who aided US forces to Congo",
-      "summary": "Trump administration considers resettling 1,100 Afghan former US allies to Democratic Republic of Congo.",
-      "url": "https://www.theguardian.com/p/x4ppcj",
-      "thumbnail": "https://media.guim.co.uk/4919e5caf978920f4df4d3520cf9c6051a782fe7/819_0_4320_3456/500.jpg",
-      "published": "2026-04-21T23:26:37Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/apr/21/trump-bible-passage-oval-office",
-      "headline": "Trump reads from Bible in Oval Office in taped message for Christian group",
-      "summary": "Trump reads Bible passage in Oval Office taped message for Christian group, following pope clash.",
-      "url": "https://www.theguardian.com/p/x4pzqx",
-      "thumbnail": "https://media.guim.co.uk/ecc65866712122cf8cf8c3aa4d8d0f82552f11b9/389_0_2393_1915/500.jpg",
-      "published": "2026-04-21T23:24:49Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 1,
-      "section": "us-news"
-    },
-    {
-      "id": "uk-news/2026/apr/22/black-children-in-england-and-wales-almost-eight-times-more-likely-to-be-strip-searched-than-white-peers-report",
-      "headline": "Black children in England and Wales almost eight times more likely to be strip-searched than white peers – report",
-      "summary": "Black children in England and Wales strip-searched by police at nearly eight times the rate of white peers.",
-      "url": "https://www.theguardian.com/p/x4pn22",
-      "thumbnail": "https://media.guim.co.uk/11a5fbaa6457283de596b687bd284f19461f9045/134_0_4206_3364/500.jpg",
-      "published": "2026-04-21T23:01:34Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "stage/2026/apr/22/wrestling-biopic-fighting-with-my-family-inspires-stage-musical-stephen-merchant-saraya-jade-bevis-dwayne-the-rock-johnson",
-      "headline": "Smackdowns and showtunes: wrestling biopic Fighting With My Family inspires stage musical",
-      "summary": "Wrestling biopic 'Fighting With My Family' adapted into stage musical about WWE champion Saraya-Jade Bevis.",
-      "url": "https://www.theguardian.com/p/x4ph35",
-      "thumbnail": "https://media.guim.co.uk/3f264961786fd739b871955f0ad8054957d04f55/645_166_3585_2869/500.jpg",
-      "published": "2026-04-21T23:01:02Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "stage"
-    },
     {
       "id": "world/live/2026/apr/22/iran-war-live-updates-trump-ceasefire-us-hormuz-blockade-israel-lebanon-middle-east",
       "headline": "Middle East crisis live: Trump extends ceasefire but blockade continues; Iran attacks container ship off Oman",
@@ -150,150 +38,6 @@
       "category": "economy",
       "significance": 2,
       "section": "business"
-    },
-    {
-      "id": "business/2026/apr/22/uk-inflation-rises-soaring-fuel-prices-iran-war",
-      "headline": "UK inflation rises to 3.3% amid soaring fuel prices driven by Iran war",
-      "summary": "UK inflation climbs to 3.3% amid fuel surge from Iran war affecting household finances.",
-      "url": "https://www.theguardian.com/p/x4ptcz",
-      "thumbnail": "https://media.guim.co.uk/f6798b4188eb39fcdab385ac374d008035374d0e/732_236_6528_5225/500.jpg",
-      "published": "2026-04-22T06:01:44Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "education/2026/apr/22/lower-birthrate-causing-glut-school-places-england-nao",
-      "headline": "Officials too slow to act on falling pupil numbers in England, says watchdog",
-      "summary": "England's falling birthrate creates school funding crisis with £1bn shortfall, watchdog warns.",
-      "url": "https://www.theguardian.com/p/x4pnch",
-      "thumbnail": "https://media.guim.co.uk/8bf5d7f62699c7741ce2b5a15b4eeae4a06d640e/513_0_4533_3627/500.jpg",
-      "published": "2026-04-22T06:01:10Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "education"
-    },
-    {
-      "id": "books/2026/apr/22/the-shadow-of-the-object-by-chloe-aridjis-review-one-of-the-boldest-writers-at-work-in-english-today",
-      "headline": "The Shadow of the Object by Chloe Aridjis review – one of the boldest writers at work in English today",
-      "summary": "Chloe Aridjis releases enchanting novella about illusion and friendship in Mexico City.",
-      "url": "https://www.theguardian.com/p/x4mxme",
-      "thumbnail": "https://media.guim.co.uk/2cdc0e2d115f573eeed2042f415d39fadfe09dfd/207_401_2793_2235/500.jpg",
-      "published": "2026-04-22T06:00:15Z",
-      "location": {
-        "name": "Mexico City",
-        "lat": 19.4326,
-        "lng": -99.1332
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "books"
-    },
-    {
-      "id": "travel/2026/apr/22/winnie-the-pooh-100th-birthday-ashdown-forest-sussex",
-      "headline": "Winnie-the-Pooh’s 100th birthday is a great excuse to explore the Sussex forest that inspired the books",
-      "summary": "Winnie-the-Pooh centennial celebrations at Ashdown Forest inspire family visits and Pooh Sticks play.",
-      "url": "https://www.theguardian.com/p/x4z68b",
-      "thumbnail": "https://media.guim.co.uk/fa19438f4e773311c963f35e6f0218d12c56597c/108_0_5000_4000/500.jpg",
-      "published": "2026-04-22T06:00:11Z",
-      "location": {
-        "name": "Ashdown Forest",
-        "lat": 51.0758,
-        "lng": 0.0089
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "travel"
-    },
-    {
-      "id": "money/2026/apr/22/street-words-parents-young-people-fraud-scams",
-      "headline": "‘Fullz’ disclosure: the man with the street words to help parents prevent children falling into fraud",
-      "summary": "Fraud prevention expert reveals street language young people use in scams and fraud schemes.",
-      "url": "https://www.theguardian.com/p/x4kz97",
-      "thumbnail": "https://media.guim.co.uk/fa702dca8b7a6830c7e7ebef4af1a3c8d53cf002/198_85_4029_3225/500.jpg",
-      "published": "2026-04-22T06:00:10Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "other",
-      "significance": 1,
-      "section": "money"
-    },
-    {
-      "id": "film/2026/apr/22/surviving-earth-film-review-thea-gajic-slavko-sobin-olive-gray",
-      "headline": "Surviving Earth review – bruising portrait of addiction and redemption",
-      "summary": "Thea Gajić's debut film portrays father's addiction recovery journey with brutal honesty.",
-      "url": "https://www.theguardian.com/p/x4phvx",
-      "thumbnail": "https://media.guim.co.uk/f96d2ca6b757c0dad164288668710730a7f7857f/278_0_2698_2160/500.jpg",
-      "published": "2026-04-22T06:00:10Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "film"
-    },
-    {
-      "id": "world/2026/apr/22/wednesday-briefing-can-keir-starmers-premiership-survive-more-revelations-about-his-handling-of-diplomatic-posts",
-      "headline": "Wednesday briefing: ​Can Keir Starmer’s premiership survive more revelations about his handling of diplomatic posts?",
-      "summary": "Keir Starmer's premiership faces fresh crisis over handling of diplomatic appointments.",
-      "url": "https://www.theguardian.com/p/x4pm9v",
-      "thumbnail": "https://media.guim.co.uk/bc821cf4b6feeeb861896cf42021645e371cca82/283_0_3289_2632/500.jpg",
-      "published": "2026-04-22T05:45:10Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "sport/2026/apr/22/ross-lyon-afl-st-kilda-coach-press-conference-views",
-      "headline": "From the Pocket: Ross Lyon gives an unvarnished view of AFL reality but too often punches down",
-      "summary": "St Kilda coach Ross Lyon provides unfiltered views on AFL realities but criticizes downward punching.",
-      "url": "https://www.theguardian.com/p/x4pf6z",
-      "thumbnail": "https://media.guim.co.uk/9ddd8a2894931a4831615edc4a4a50e0bf073c38/479_0_2633_2108/500.jpg",
-      "published": "2026-04-22T05:30:19Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "sport",
-      "significance": 1,
-      "section": "sport"
-    },
-    {
-      "id": "tv-and-radio/2026/apr/22/tv-tonight-shetland-meets-csi-in-a-new-drama-about-a-disgraced-cop",
-      "headline": "TV tonight: Shetland meets CSI in a new drama about a disgraced cop",
-      "summary": "French-Canadian police drama Saint-Pierre blends Shetland aesthetics with CSI procedural elements.",
-      "url": "https://www.theguardian.com/p/x4zz4p",
-      "thumbnail": "https://media.guim.co.uk/7660b99dd3ea236141e5faf59ac6ad5bce264c85/1040_0_5200_4160/500.jpg",
-      "published": "2026-04-22T05:20:09Z",
-      "location": {
-        "name": "Saint-Pierre and Miquelon",
-        "lat": 46.7917,
-        "lng": -56.3172
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "tv-and-radio"
     },
     {
       "id": "music/2026/apr/22/dave-mason-co-founder-of-traffic-solo-career-dies-aged-79",
@@ -902,6 +646,134 @@
       "category": "politics",
       "significance": 2,
       "section": "world"
+    },
+    {
+      "id": "world/live/2026/apr/23/middle-east-crisis-live-news-us-iran-ceasefire-strait-of-hormuz-blockade-ships-latest-updates",
+      "headline": "Middle East crisis live: US and Iran in blockade stalemate as Washington’s navy secretary leaves office ‘immediately’",
+      "summary": "Iran seizes ships in Strait of Hormuz amid US blockade stalemate as navy secretary exits.",
+      "url": "https://www.theguardian.com/p/x4q4yn",
+      "thumbnail": "https://media.guim.co.uk/b4b94c126cf981996d1c28294be73f3f1240865e/619_0_4800_3840/500.jpg",
+      "published": "2026-04-23T06:11:14Z",
+      "location": {
+        "name": "Strait of Hormuz",
+        "lat": 26.5597,
+        "lng": 56.2404
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "business/2026/apr/23/iran-war-driving-up-medicine-prices-pharmacists-warn",
+      "headline": "Paracetamol costs have jumped up to 30% due to Iran war, pharmacies warn",
+      "summary": "Iranian conflict drives UK medicine prices up 20-30% for paracetamol and hay fever drugs.",
+      "url": "https://www.theguardian.com/p/x4zhyb",
+      "thumbnail": "https://media.guim.co.uk/1a481d7b2850e28630124230a12178365e12675e/1903_692_4322_3458/500.jpg",
+      "published": "2026-04-23T06:00:03Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "travel/2026/apr/23/fashion-lovers-guide-to-antwerp-belgium-style-capital",
+      "headline": "A fashion-lover’s guide to Antwerp, Europe’s alternative style capital",
+      "summary": "Fashion exhibition celebrates Antwerp Six designers' legacy in Belgium's style capital.",
+      "url": "https://www.theguardian.com/p/x4pn6x",
+      "thumbnail": "https://media.guim.co.uk/bfdf5a869f0018c1aebef88007250dcc9dc26193/638_0_6918_5536/500.jpg",
+      "published": "2026-04-23T06:00:02Z",
+      "location": {
+        "name": "Antwerp",
+        "lat": 51.2195,
+        "lng": 4.4012
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "travel"
+    },
+    {
+      "id": "politics/ng-interactive/2026/apr/23/mapped-local-elections-labour-may-unprecedented-losses",
+      "headline": "Mapped: the elections that could deliver ‘unprecedented’ losses for Labour",
+      "summary": "Labour faces unprecedented losses in May local elections, threatening Keir Starmer's leadership.",
+      "url": "https://www.theguardian.com/p/x4th2f",
+      "thumbnail": "https://media.guim.co.uk/f9602b57da06928a5f211a695d74ec25f74a237b/375_0_3750_3000/500.jpg",
+      "published": "2026-04-23T06:00:02Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "politics"
+    },
+    {
+      "id": "australia-news/2026/apr/23/queensland-police-gun-recall-qps-glock",
+      "headline": "Queensland police recall all service-issued Glock handguns after discovery of fault causing multiple shots to fire",
+      "summary": "Queensland police recall all Glock handguns after discovery of dangerous firing malfunction.",
+      "url": "https://www.theguardian.com/p/x4q5j4",
+      "thumbnail": "https://media.guim.co.uk/2310c0f711fee73e70e0183c0dc8757b5f9f1494/188_0_4099_3280/500.jpg",
+      "published": "2026-04-23T05:47:05Z",
+      "location": {
+        "name": "Brisbane",
+        "lat": -27.4698,
+        "lng": 153.0251
+      },
+      "category": "other",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "world/2026/apr/23/thursday-briefing-why-the-us-president-is-losing-support-from-crucial-allies",
+      "headline": "Thursday briefing: ​Why the US president is losing support from crucial allies",
+      "summary": "Trump faces eroding support from key allies amid spiraling Iran war and economic crisis.",
+      "url": "https://www.theguardian.com/p/x4qvp8",
+      "thumbnail": "https://media.guim.co.uk/09aef6ea428e70d747f42e7faf151ce5cc95fec3/849_0_4271_3416/500.jpg",
+      "published": "2026-04-23T05:45:04Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "us-news/2026/apr/23/leading-california-governor-candidates-spar-in-first-debate-as-topsy-turvy-race-heats-up",
+      "headline": "Leading California governor candidates spar in first debate as topsy-turvy race heats up",
+      "summary": "California gubernatorial candidates debate homelessness crisis with no clear frontrunner emerging.",
+      "url": "https://www.theguardian.com/p/x4q5f9",
+      "thumbnail": "https://media.guim.co.uk/c20518759e567db72da91496633363137924c45b/390_0_3333_2667/500.jpg",
+      "published": "2026-04-23T05:44:09Z",
+      "location": {
+        "name": "Sacramento",
+        "lat": 38.5816,
+        "lng": -121.4944
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "tv-and-radio/2026/apr/23/tv-tonight-the-heat-is-on-in-race-across-the-world",
+      "headline": "TV tonight: the heat is on in Race Across the World",
+      "summary": "Race Across the World contestants head to Georgia's capital in fourth leg of competition.",
+      "url": "https://www.theguardian.com/p/x4zz5a",
+      "thumbnail": "https://media.guim.co.uk/2e118b44fe087af432ade3468aa9fe41c920f7da/380_0_3839_3071/500.jpg",
+      "published": "2026-04-23T05:20:01Z",
+      "location": {
+        "name": "Tbilisi",
+        "lat": 41.7151,
+        "lng": 44.7671
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "tv-and-radio"
     }
   ]
 }
