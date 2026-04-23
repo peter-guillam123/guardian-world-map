@@ -1,140 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-23T16:54:53.040Z",
-    "story_count": 50,
-    "oldest_story": "2026-04-22T18:59:42Z",
-    "newest_story": "2026-04-23T16:53:51Z",
+    "generated_at": "2026-04-23T20:14:54.814Z",
+    "story_count": 44,
+    "oldest_story": "2026-04-22T21:30:37Z",
+    "newest_story": "2026-04-23T19:18:13Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/live/2026/apr/22/burnley-v-manchester-city-premier-league-live",
-      "headline": "Burnley v Manchester City: Premier League – live",
-      "summary": "Manchester City leads Burnley 1-0 at Turf Moor in Premier League match.",
-      "url": "https://www.theguardian.com/p/x4phvh",
-      "thumbnail": "https://media.guim.co.uk/5fb868ad2b78fefe5c3d9e51ace9b08472f23f5a/152_0_1833_1466/500.jpg",
-      "published": "2026-04-22T19:49:31Z",
-      "location": {
-        "name": "Burnley",
-        "lat": 53.795,
-        "lng": -2.2289
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "news/2026/apr/22/no-evidence-of-antisemitism-at-bristol-brunel-academy-school-postponed-visit-by-jewish-mp-damien-egan-review-finds",
-      "headline": "Inquiry clears Bristol school of antisemitism for postponing Jewish MP’s visit ",
-      "summary": "Bristol Brunel academy cleared of antisemitism in independent review of postponed MP visit.",
-      "url": "https://www.theguardian.com/p/x4qx9b",
-      "thumbnail": "https://media.guim.co.uk/b88f163f41094a0ec58deef92c84f489fc1436da/292_0_2917_2335/500.jpg",
-      "published": "2026-04-22T19:34:55Z",
-      "location": {
-        "name": "Bristol",
-        "lat": 51.4545,
-        "lng": -2.5879
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "news"
-    },
-    {
-      "id": "us-news/2026/apr/22/temporary-protected-status-us-economy",
-      "headline": "Temporary protected status holders add $29bn to US economy, report says",
-      "summary": "Report finds temporary protected status holders contribute $29bn annually to US economy.",
-      "url": "https://www.theguardian.com/p/x4q37e",
-      "thumbnail": "https://media.guim.co.uk/ecedb6212c6e9110e9c7cdace3e071e8ef1c1e5a/1845_246_6410_5128/500.jpg",
-      "published": "2026-04-22T19:30:08Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/apr/22/us-libraries-banned-books",
-      "headline": "US saw record high of 5,668 books banned in libraries in 2025, says agency",
-      "summary": "US libraries ban record 5,668 books in 2025, up 66% from challenged titles.",
-      "url": "https://www.theguardian.com/p/x4qxg2",
-      "thumbnail": "https://media.guim.co.uk/a0dc7dd93a2002d37f66b3bf884bd644eac487e3/0_0_1200_960/500.jpg",
-      "published": "2026-04-22T19:18:02Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/apr/22/georgia-florida-wildfires",
-      "headline": "Wildfires burning across Georgia and Florida destroy homes and force evacuations",
-      "summary": "Wildfires across Georgia and Florida destroy 50 homes, force evacuations.",
-      "url": "https://www.theguardian.com/p/x4q37c",
-      "thumbnail": "https://media.guim.co.uk/999c35191fc43929c4318f0cf65a25bc060f6ad5/67_0_3360_2688/500.jpg",
-      "published": "2026-04-22T19:14:54Z",
-      "location": {
-        "name": "Atlanta",
-        "lat": 33.749,
-        "lng": -84.388
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "sport/2026/apr/22/lewis-moody-doddie-weir-mnd-fundraising-cycle-ride",
-      "headline": "Lewis Moody ‘picking up baton’ left by Doddie Weir with MND fundraising cycle ride",
-      "summary": "Lewis Moody plans 500-mile charity cycle ride to raise MND awareness funds.",
-      "url": "https://www.theguardian.com/p/x4qxgt",
-      "thumbnail": "https://media.guim.co.uk/8514f93ce57ff0f99e3ed7cd13040d9faed23b5e/357_0_3581_2864/500.jpg",
-      "published": "2026-04-22T19:00:34Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "politics/2026/apr/22/ian-collard-the-foreign-office-insider-who-may-be-key-to-the-mandelson-scandal",
-      "headline": "Ian Collard: the Foreign Office insider who may be key to Mandelson scandal",
-      "summary": "Ian Collard identified as key figure in Peter Mandelson security clearance scandal.",
-      "url": "https://www.theguardian.com/p/x4qxqm",
-      "thumbnail": "https://media.guim.co.uk/9a9eccad23e37b2802142aca6e9e77891227161a/98_158_1370_1096/500.jpg",
-      "published": "2026-04-22T19:00:13Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "us-news/2026/apr/22/georgia-congressman-david-scott-dies-aged-80",
-      "headline": "Georgia congressman David Scott dies aged 80",
-      "summary": "Georgia congressman David Scott, moderate Democrat representing Atlanta suburbs, dies at 80.",
-      "url": "https://www.theguardian.com/p/x4q3xx",
-      "thumbnail": "https://media.guim.co.uk/02109d8fe11cf63cf5886f5047b4ce0c4f4590f2/145_375_2184_1747/500.jpg",
-      "published": "2026-04-22T18:59:42Z",
-      "location": {
-        "name": "Atlanta",
-        "lat": 33.749,
-        "lng": -84.388
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
     {
       "id": "business/grogonomics/2026/apr/23/cgt-capital-gains-tax-negative-gearing-changes-housing-labor-budget-2026",
       "headline": "Capital gains tax changes are on the table, and yet Armageddon has not arrived. Has the tide on housing turned at last?",
@@ -806,6 +678,38 @@
       "category": "economy",
       "significance": 3,
       "section": "business"
+    },
+    {
+      "id": "world/2026/apr/23/trump-may-talk-of-regime-infighting-but-iran-seems-united-by-strategy-born-of-war",
+      "headline": "Trump may talk of regime infighting, but Iran seems united by strategy born of war",
+      "summary": "Trump claims Iran leadership infighting while experts suggest regime unified despite assassinations of senior commanders.",
+      "url": "https://www.theguardian.com/p/x4q8k7",
+      "thumbnail": "https://media.guim.co.uk/90eabda6d6599a8a777edda51dc68cf2087ec2b5/219_0_5000_4000/500.jpg",
+      "published": "2026-04-23T19:18:13Z",
+      "location": {
+        "name": "Iran",
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "category": "politics",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "us-news/2026/apr/23/trump-administration-denaturalization",
+      "headline": "Trump administration pushes DoJ to pursue denaturalization cases – report",
+      "summary": "Trump administration pushes DOJ to pursue denaturalization cases against 384 foreign-born US citizens.",
+      "url": "https://www.theguardian.com/p/x4q8np",
+      "thumbnail": "https://media.guim.co.uk/5bcc1bb53f1c378c1b3d885d2f1e01286667c601/328_0_3333_2667/500.jpg",
+      "published": "2026-04-23T19:09:24Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
     }
   ]
 }
