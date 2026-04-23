@@ -1,220 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-23T10:56:31.474Z",
-    "story_count": 51,
-    "oldest_story": "2026-04-22T14:47:33Z",
-    "newest_story": "2026-04-23T10:51:51Z",
+    "generated_at": "2026-04-23T16:54:53.040Z",
+    "story_count": 50,
+    "oldest_story": "2026-04-22T18:59:42Z",
+    "newest_story": "2026-04-23T16:53:51Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "world/2026/apr/22/strait-of-hormuz-gunboat-diplomacy-us-iran-blockade",
-      "headline": "Strait of Hormuz is hosting gunboat diplomacy as US and Iran vie for most effective blockade",
-      "summary": "US and Iran engage in naval blockade diplomacy in Strait of Hormuz amid crisis.",
-      "url": "https://www.theguardian.com/p/x4q28j",
-      "thumbnail": "https://media.guim.co.uk/2164f5c6d600dca7e64607feeb7f19498a029558/213_0_4583_3667/500.jpg",
-      "published": "2026-04-22T15:48:13Z",
-      "location": {
-        "name": "Strait of Hormuz",
-        "lat": 26.55,
-        "lng": 56.25
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "artanddesign/2026/apr/22/isaac-julien-review-gwendoline-christie-meets-a-cyborg-starfish-in-a-pleasure-seekers-postmodern-parlour",
-      "headline": "Isaac Julien review – Gwendoline Christie meets a cyborg starfish in a pleasure-seeker’s postmodern parlour",
-      "summary": "Isaac Julien's video art exhibition features Gwendoline Christie in postmodern parlour.",
-      "url": "https://www.theguardian.com/p/x4qvpe",
-      "thumbnail": "https://media.guim.co.uk/300f6f3fa0b096ca4652b1418785e8b47ec1c881/688_0_6880_5504/500.jpg",
-      "published": "2026-04-22T15:38:18Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "artanddesign"
-    },
-    {
-      "id": "politics/2026/apr/22/britain-military-dependence-on-us-no-longer-tenable-lord-robertson",
-      "headline": "Britain’s military dependence on US ‘no longer tenable’, says former Nato chief",
-      "summary": "Former NATO chief warns Britain's military dependence on US 'no longer tenable'.",
-      "url": "https://www.theguardian.com/p/x4qxz9",
-      "thumbnail": "https://media.guim.co.uk/8aa6f663ecdd51af6ef7c0f3b2ccd0958b15efb9/635_0_5459_4368/500.jpg",
-      "published": "2026-04-22T15:30:55Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "us-news/2026/apr/22/anthony-fauci-acting-debut-oedipus-the-king",
-      "headline": "Anthony Fauci makes acting debut in Oedipus the King play reading in DC",
-      "summary": "Anthony Fauci makes acting debut in Oedipus the King reading for DC Climate Week.",
-      "url": "https://www.theguardian.com/p/x4pqt9",
-      "thumbnail": "https://media.guim.co.uk/a8d46e3feebf8162cc19f9faa76add4b9b8e0770/673_0_4001_3200/500.jpg",
-      "published": "2026-04-22T15:28:10Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "us-news"
-    },
-    {
-      "id": "world/2026/apr/22/eu-unblocks-loan-ukraine-new-sanctions-russia-hungary-lifts-veto",
-      "headline": "EU agrees to unblock €90bn loan for Ukraine after Hungary lifts veto",
-      "summary": "EU unblocks €90bn loan for Ukraine after Hungary lifts veto; oil deal reached.",
-      "url": "https://www.theguardian.com/p/x4qvkh",
-      "thumbnail": "https://media.guim.co.uk/a985d7a438f6ba0965d5f085e649ad92d37609a8/1083_0_2946_2357/500.jpg",
-      "published": "2026-04-22T15:19:26Z",
-      "location": {
-        "name": "Brussels",
-        "lat": 50.8503,
-        "lng": 4.3517
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "commentisfree/2026/apr/22/school-smartphone-ban-teachers-pupils-addiction-devices",
-      "headline": "I was wrong about the danger of smartphones in schools. It’s far, far worse than I thought",
-      "summary": "Teacher argues England's school smartphone ban is needed but enforcement remains challenging.",
-      "url": "https://www.theguardian.com/p/x4qxbp",
-      "thumbnail": "https://media.guim.co.uk/d41a2eec1503e76eacd201d7665391d8b0b10e67/497_0_6880_5504/500.jpg",
-      "published": "2026-04-22T15:12:56Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "commentisfree"
-    },
-    {
-      "id": "environment/2026/apr/23/governments-failed-to-deliver-160m-of-river-improvements-including-for-now-parched-nsw-wetlands-report-finds",
-      "headline": " Governments failed to deliver $160m of river improvements including for now-parched NSW wetlands, report finds",
-      "summary": "NSW and Queensland governments underdelivered $160m in promised river improvement infrastructure.",
-      "url": "https://www.theguardian.com/p/x4qv38",
-      "thumbnail": "https://media.guim.co.uk/f64a6f6308765d9ce942ce3895bcbe2bf9d24440/0_0_3751_3000/500.jpg",
-      "published": "2026-04-22T15:00:31Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "environment"
-    },
-    {
-      "id": "football/blog/2026/apr/22/melbourne-city-a-league-football-women-matildas",
-      "headline": "The Matildas factory: Melbourne City’s historic treble push rooted in youth development",
-      "summary": "Melbourne City's youth development policy drives historic A-League Women treble push.",
-      "url": "https://www.theguardian.com/p/x4ppny",
-      "thumbnail": "https://media.guim.co.uk/90c36e68687bc672af4a105d5f37b200377121f9/0_107_2795_2236/500.jpg",
-      "published": "2026-04-22T15:00:30Z",
-      "location": {
-        "name": "Melbourne",
-        "lat": -37.8136,
-        "lng": 144.9631
-      },
-      "category": "sport",
-      "significance": 1,
-      "section": "football"
-    },
-    {
-      "id": "travel/2026/apr/22/backpacking-hostel-changes-private-rooms-luxury",
-      "headline": "‘The horror – 14 alarms in the morning’: backpacker hostels evolve as young people seek privacy over packed dorms",
-      "summary": "Backpacker hostels evolve with private rooms and wellness centres replacing traditional packed dormitory culture.",
-      "url": "https://www.theguardian.com/p/x4zayy",
-      "thumbnail": "https://media.guim.co.uk/9ca290eb4c76807f98ed0e8b3e2c140e1e2a7414/0_455_1536_1229/500.jpg",
-      "published": "2026-04-22T15:00:29Z",
-      "location": {
-        "name": "Adelaide",
-        "lat": -34.9285,
-        "lng": 138.6007
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "travel"
-    },
-    {
-      "id": "australia-news/2026/apr/23/wed-be-on-our-own-families-face-being-thousands-of-dollars-worse-off-as-labor-cuts-ndis-lifeline",
-      "headline": "‘We’d be on our own’: families face being thousands of dollars worse off as Labor cuts NDIS lifeline",
-      "summary": "Australian families fear financial hardship as Labor government cuts NDIS support for children and adults with autism.",
-      "url": "https://www.theguardian.com/p/x4qvnk",
-      "thumbnail": "https://media.guim.co.uk/467a2bfb3bb33c948b50de04fd0ee941a89d9951/0_167_1542_1233/500.jpg",
-      "published": "2026-04-22T15:00:29Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "australia-news"
-    },
-    {
-      "id": "us-news/2026/apr/22/kash-patel-alcohol-abuse-democrats-fbi",
-      "headline": "Democrats demand FBI director, Kash Patel, take alcohol abuse test",
-      "summary": "House Democrats demand FBI Director Kash Patel complete alcohol abuse assessment amid congressional scrutiny.",
-      "url": "https://www.theguardian.com/p/x4q276",
-      "thumbnail": "https://media.guim.co.uk/ded0629e47d4a2f8fbde4bd96e62df54440a6a4c/806_0_5115_4093/500.jpg",
-      "published": "2026-04-22T14:58:03Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "world/2026/apr/22/how-irelands-war-driven-fuel-blockades-revealed-the-true-cost-of-europes-oil-addiction",
-      "headline": "How Ireland’s war-driven fuel blockades revealed the true cost of Europe’s oil addiction",
-      "summary": "Iran-related fuel blockades and disruptions accelerate European electric vehicle adoption, up 51% in March.",
-      "url": "https://www.theguardian.com/p/x4pzkn",
-      "thumbnail": "https://media.guim.co.uk/4c2877d48ba63e8b02ea94634cf1213d8831af67/171_0_5000_4000/500.jpg",
-      "published": "2026-04-22T14:47:42Z",
-      "location": {
-        "name": "Dublin",
-        "lat": 53.3498,
-        "lng": -6.2603
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "politics/2026/apr/22/morgan-mcsweeney-starmer-former-chief-of-staff-to-be-questioned-by-mps",
-      "headline": "Morgan McSweeney, Keir Starmer’s former chief of staff, to be questioned by MPs",
-      "summary": "Former PM's chief of staff Morgan McSweeney summoned by MPs as Peter Mandelson vetting controversy deepens.",
-      "url": "https://www.theguardian.com/p/x4qxb8",
-      "thumbnail": "https://media.guim.co.uk/30cebca8f7e74721068eb36aba1b42a742843ba6/835_15_1973_1578/500.jpg",
-      "published": "2026-04-22T14:47:33Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
     {
       "id": "football/live/2026/apr/22/burnley-v-manchester-city-premier-league-live",
       "headline": "Burnley v Manchester City: Premier League – live",
@@ -822,6 +614,198 @@
       "category": "culture",
       "significance": 1,
       "section": "uk-news"
+    },
+    {
+      "id": "world/2026/apr/23/lebanon-journalist-amal-khalil-israel-death-threat",
+      "headline": "Israeli killing of Lebanese journalist draws international condemnation",
+      "summary": "Israeli strike kills prominent Lebanese journalist Amal Khalil; PM calls attack 'war crime'.",
+      "url": "https://www.theguardian.com/p/x4q7be",
+      "thumbnail": "https://media.guim.co.uk/036dcca50361a3a58fd2576304a59b2f2eb58d7d/673_0_3496_2797/500.jpg",
+      "published": "2026-04-23T16:53:51Z",
+      "location": {
+        "name": "Lebanon",
+        "lat": 33.8547,
+        "lng": 35.8623
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "world/2026/apr/23/journalist-detained-in-kuwait-acquitted-of-spreading-false-information-says-press-monitor",
+      "headline": "Journalist detained in Kuwait acquitted of ‘spreading false information’, says press monitor",
+      "summary": "Kuwaiti-American journalist Ahmed Shihab-Eldin acquitted after 52 days detention on false charges.",
+      "url": "https://www.theguardian.com/p/x4q7qj",
+      "thumbnail": "https://media.guim.co.uk/88f40ea0680ea09d5256e0691c45642e77b64aeb/0_0_4141_3313/500.jpg",
+      "published": "2026-04-23T16:53:04Z",
+      "location": {
+        "name": "Kuwait",
+        "lat": 29.3759,
+        "lng": 47.9774
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "business/2026/apr/23/lockheed-martin-earnings-call-trump-pentagon-opportunity",
+      "headline": "Lockheed Martin CEO sees Trump’s Pentagon as ‘golden opportunity’ for growth",
+      "summary": "Lockheed Martin CEO calls Trump Pentagon a 'golden opportunity' amid Middle East expansion.",
+      "url": "https://www.theguardian.com/p/x4q88n",
+      "thumbnail": "https://media.guim.co.uk/ac47d3f6ea3437326b9466cef9c50cd3556c1ff3/117_0_3333_2668/500.jpg",
+      "published": "2026-04-23T16:38:53Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "politics/2026/apr/23/foreign-office-unit-israel-potential-breaches-international-law-closed",
+      "headline": "Foreign Office unit tracking Israel’s potential breaches of international law closes due to cuts",
+      "summary": "UK Foreign Office closes unit tracking Israel's potential international law breaches due to cuts.",
+      "url": "https://www.theguardian.com/p/x4q7z3",
+      "thumbnail": "https://media.guim.co.uk/3bb6f44e1a1eda3145c4a37df33fc4776c15b230/559_0_5602_4480/500.jpg",
+      "published": "2026-04-23T16:31:48Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "football/2026/apr/23/brian-wakefield-obituary",
+      "headline": "Brian Wakefield obituary",
+      "summary": "Brian Wakefield, renowned amateur goalkeeper and Corinthian Casuals stalwart, dies aged 91.",
+      "url": "https://www.theguardian.com/p/x4nbqd",
+      "thumbnail": "https://media.guim.co.uk/4b7477e3157fd0f581c2bc5991c88b6fabfa3296/22_0_508_406/500.jpg",
+      "published": "2026-04-23T16:29:11Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 1,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/apr/23/new-york-times-reporter-investigated-fbi-kash-patel-girlfriend",
+      "headline": "NYT alleges FBI investigated reporter over story on Kash Patel’s girlfriend",
+      "summary": "FBI investigated NYT reporter over story on FBI director Kash Patel's girlfriend security.",
+      "url": "https://www.theguardian.com/p/x4q86k",
+      "thumbnail": "https://media.guim.co.uk/edc8c53ff8c302e7eba54c37f67c75ce1ba520c8/383_0_3828_3062/500.jpg",
+      "published": "2026-04-23T16:29:00Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "politics/2026/apr/23/mandelson-lobbying-firm-global-counsel-bust-owing-hmrc-report",
+      "headline": "Mandelson’s lobbying firm Global Counsel went bust owing £4.6m, report says",
+      "summary": "Peter Mandelson's lobbying firm Global Counsel collapses owing £4.6m to taxman and creditors.",
+      "url": "https://www.theguardian.com/p/x4q8xv",
+      "thumbnail": "https://media.guim.co.uk/8f18c162cfaaf277e8bf87e516adce10f958241d/856_78_1572_1257/500.jpg",
+      "published": "2026-04-23T16:26:47Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "business/2026/apr/23/simon-edye-obituary",
+      "headline": "Simon Edye obituary",
+      "summary": "Simon Edye, owner of Ronaldo Ices ice cream business, dies aged 73.",
+      "url": "https://www.theguardian.com/p/x4y745",
+      "thumbnail": "https://media.guim.co.uk/b899d18592201b7205861364a68a1274f561bd3a/89_2181_7668_6128/500.jpg",
+      "published": "2026-04-23T16:10:35Z",
+      "location": {
+        "name": "Norwich",
+        "lat": 52.6289,
+        "lng": 1.2993
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "business"
+    },
+    {
+      "id": "tv-and-radio/2026/apr/23/sara-cox-to-replace-scott-mills-on-bbc-radio-2-breakfast-show",
+      "headline": "Sara Cox to replace Scott Mills on BBC Radio 2 breakfast show",
+      "summary": "Sara Cox replaces Scott Mills on BBC Radio 2 breakfast show after his sacking.",
+      "url": "https://www.theguardian.com/p/x4q829",
+      "thumbnail": "https://media.guim.co.uk/afa3cbf8424ebac5d930af37166bfed109f73ac8/394_0_3948_3158/500.jpg",
+      "published": "2026-04-23T16:10:09Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "tv-and-radio"
+    },
+    {
+      "id": "business/2026/apr/23/uk-braces-for-price-rises-driven-by-iran-war-as-economic-confidence-plummets",
+      "headline": "UK braces for price rises driven by Iran war as economic confidence plummets",
+      "summary": "UK consumer confidence hits 18-month low amid Iran war-driven price rise fears.",
+      "url": "https://www.theguardian.com/p/x4q7yn",
+      "thumbnail": "https://media.guim.co.uk/4844fe02ed0a2490f36a0a1fcc5d800e2016d519/550_0_5000_4000/500.jpg",
+      "published": "2026-04-23T16:05:48Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "us-news/2026/apr/23/senate-republicans-trump-immigration-funding",
+      "headline": "Senate Republicans advance $140bn plan to fund Trump immigration crackdown amid DHS shutdown",
+      "summary": "Senate Republicans pass $140bn immigration crackdown funding amid DHS shutdown standoff.",
+      "url": "https://www.theguardian.com/p/x4q7zc",
+      "thumbnail": "https://media.guim.co.uk/cd8b5c51a5915ee51fda0084ff68b788a3332944/0_0_5000_4001/500.jpg",
+      "published": "2026-04-23T15:59:20Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "business/2026/apr/23/american-airlines--jet-fuel-cost-4bn-this-year",
+      "headline": "American Airlines says soaring price of jet fuel will cost it $4bn this year",
+      "summary": "American Airlines faces $4bn jet fuel cost surge from Middle East conflict in 2026.",
+      "url": "https://www.theguardian.com/p/x4q7na",
+      "thumbnail": "https://media.guim.co.uk/ebd17b5b26db71a99ad3169a66a6f9f6cab334c3/600_0_3000_2400/500.jpg",
+      "published": "2026-04-23T15:58:13Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "business"
     }
   ]
 }
