@@ -1,92 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-24T20:10:35.768Z",
-    "story_count": 58,
-    "oldest_story": "2026-04-23T21:22:44Z",
-    "newest_story": "2026-04-24T20:09:32Z",
+    "generated_at": "2026-04-24T22:28:37.559Z",
+    "story_count": 55,
+    "oldest_story": "2026-04-24T05:20:31Z",
+    "newest_story": "2026-04-24T21:30:27Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "australia-news/live/2026/apr/24/andrew-hastie-us-defence-ndis-reform-cuts-budget-gas-export-fuel-crisis-jim-chalmers-anthony-albanese-ntwnfb",
-      "headline": "Australia news live: Andrew Hastie says US alliance weakened Australia; Sri Lanka hackers steal millions owed to Australia",
-      "summary": "Liberal frontbencher Andrew Hastie claims US alliance has weakened Australia's sovereign capabilities.",
-      "url": "https://www.theguardian.com/p/x4q759",
-      "thumbnail": "https://media.guim.co.uk/5ec67e2924699049953695012a35771a09df79b9/432_0_4043_3235/500.jpg",
-      "published": "2026-04-23T22:25:13Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "us-news/2026/apr/23/louisiana-mall-shooting-baton-rouge",
-      "headline": "At least one dead and five people injured in Louisiana mall shooting, police say",
-      "summary": "Shooting at Louisiana mall leaves one dead and five injured after food court argument escalates.",
-      "url": "https://www.theguardian.com/p/x4q9at",
-      "thumbnail": "https://media.guim.co.uk/4ec1b3608c67d4621e7bc72f98a3f65d612e6611/913_2045_4645_3715/500.jpg",
-      "published": "2026-04-23T22:02:36Z",
-      "location": {
-        "name": "Baton Rouge",
-        "lat": 30.4515,
-        "lng": -91.1871
-      },
-      "category": "conflict",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/jan/19/donald-trump-immigration-crackdown",
-      "headline": "The federal agents deployed in Trump’s immigration crackdown – visualized",
-      "summary": "Trump administration deploys largest federal immigration enforcement operation in DHS history across US.",
-      "url": "https://www.theguardian.com/p/x46b6a",
-      "thumbnail": "https://media.guim.co.uk/cbd916113982e95e0d3eca2480d45d04044b3544/1_0_3748_3000/500.jpg",
-      "published": "2026-04-23T21:25:12Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "technology/2026/apr/23/meta-microsoft-tech-ai-layoffs",
-      "headline": "Microsoft and Meta announce sweeping layoffs as they spend big on AI",
-      "summary": "Meta cuts 10% of workforce while Microsoft offers voluntary retirement as both invest heavily in AI.",
-      "url": "https://www.theguardian.com/p/x4q9bh",
-      "thumbnail": "https://media.guim.co.uk/79e289d5368979cc80684e910e93b8a8aa861769/250_0_2501_2000/500.jpg",
-      "published": "2026-04-23T21:23:38Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "tech",
-      "significance": 3,
-      "section": "technology"
-    },
-    {
-      "id": "sport/2026/apr/23/mike-vrabel-dianna-russini-new-england-patriots-photos-nfl",
-      "headline": "Patriots back coach Vrabel’s ‘leadership’ as new photos with NFL reporter Russini emerge",
-      "summary": "New England Patriots back coach Vrabel amid new photos with NFL reporter Dianna Russini emerge.",
-      "url": "https://www.theguardian.com/p/x4q9dg",
-      "thumbnail": "https://media.guim.co.uk/f90c9024a628a7b12498a7ecb4956f7408206ee7/602_127_3155_2525/500.jpg",
-      "published": "2026-04-23T21:22:44Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
     {
       "id": "world/live/2026/apr/24/iran-war-live-updates-trump-hormuz-strait-israel-lebanon-truce",
       "headline": "Middle East crisis live: Trump says Israel-Lebanon ceasefire extended by three weeks but claims he won’t rush Iran deal",
@@ -933,6 +853,38 @@
       },
       "category": "health",
       "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/apr/24/de-zerbi-wants-maddison-to-bring-the-vibes-for-tottenhams-must-win-clash-at-wolves",
+      "headline": "De Zerbi wants Maddison to bring the vibes for Tottenham’s must-win clash at Wolves",
+      "summary": "Tottenham faces must-win clash at Wolves as De Zerbi seeks to avoid relegation battle.",
+      "url": "https://www.theguardian.com/p/x4qdzt",
+      "thumbnail": "https://media.guim.co.uk/9c372617a0ff283526ee9668a36c5b8c42bf8ec4/338_0_3381_2705/500.jpg",
+      "published": "2026-04-24T21:30:27Z",
+      "location": {
+        "name": "Wolverhampton",
+        "lat": 52.5089,
+        "lng": -2.1305
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/apr/24/doj-death-penalty-firing-squad-lethal-injection",
+      "headline": "US justice department to allow firing squads as federal death penalty method",
+      "summary": "Trump's DoJ restores firing squads and lethal injection as federal death penalty methods.",
+      "url": "https://www.theguardian.com/p/x4qdyg",
+      "thumbnail": "https://media.guim.co.uk/d68c65d72bd5035e3f445e09afe54f71393cc07d/1039_0_6814_5452/500.jpg",
+      "published": "2026-04-24T21:20:21Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
       "section": "us-news"
     }
   ]
