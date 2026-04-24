@@ -1,44 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-24T17:58:15.379Z",
+    "generated_at": "2026-04-24T20:10:35.768Z",
     "story_count": 58,
-    "oldest_story": "2026-04-23T19:09:24Z",
-    "newest_story": "2026-04-24T17:56:56Z",
+    "oldest_story": "2026-04-23T21:22:44Z",
+    "newest_story": "2026-04-24T20:09:32Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "world/2026/apr/23/trump-may-talk-of-regime-infighting-but-iran-seems-united-by-strategy-born-of-war",
-      "headline": "Trump may talk of regime infighting, but Iran seems united by strategy born of war",
-      "summary": "Trump claims Iran leadership infighting while experts suggest regime unified despite assassinations of senior commanders.",
-      "url": "https://www.theguardian.com/p/x4q8k7",
-      "thumbnail": "https://media.guim.co.uk/90eabda6d6599a8a777edda51dc68cf2087ec2b5/219_0_5000_4000/500.jpg",
-      "published": "2026-04-23T19:18:13Z",
-      "location": {
-        "name": "Iran",
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "category": "politics",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "us-news/2026/apr/23/trump-administration-denaturalization",
-      "headline": "Trump administration pushes DoJ to pursue denaturalization cases – report",
-      "summary": "Trump administration pushes DOJ to pursue denaturalization cases against 384 foreign-born US citizens.",
-      "url": "https://www.theguardian.com/p/x4q8np",
-      "thumbnail": "https://media.guim.co.uk/5bcc1bb53f1c378c1b3d885d2f1e01286667c601/328_0_3333_2667/500.jpg",
-      "published": "2026-04-23T19:09:24Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
     {
       "id": "australia-news/live/2026/apr/24/andrew-hastie-us-defence-ndis-reform-cuts-budget-gas-export-fuel-crisis-jim-chalmers-anthony-albanese-ntwnfb",
       "headline": "Australia news live: Andrew Hastie says US alliance weakened Australia; Sri Lanka hackers steal millions owed to Australia",
@@ -934,6 +902,38 @@
       "category": "politics",
       "significance": 3,
       "section": "world"
+    },
+    {
+      "id": "us-news/2026/apr/24/tom-kean-republican-congress",
+      "headline": "Republican congressman absent over ‘personal health matter’, Johnson says",
+      "summary": "Republican congressman Tom Kean absent from votes due to personal health matter as Democrats target his seat.",
+      "url": "https://www.theguardian.com/p/x4qevx",
+      "thumbnail": "https://media.guim.co.uk/56992fe7f636a217fd8c26ded85da2f456389456/485_0_4845_3877/500.jpg",
+      "published": "2026-04-24T20:09:32Z",
+      "location": {
+        "name": "New Jersey",
+        "lat": 40.2206,
+        "lng": -74.7597
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/apr/24/us-veteran-lost-arizona-wilderness-rescued-son",
+      "headline": "US veteran lost in Arizona’s wilderness for four days rescued by his own son",
+      "summary": "Vietnam veteran rescued by son after being lost in Arizona wilderness for four days.",
+      "url": "https://www.theguardian.com/p/x4qe7q",
+      "thumbnail": "https://media.guim.co.uk/7224bf48edb273a45187e325378bef2810179d06/0_71_1456_1164/500.jpg",
+      "published": "2026-04-24T19:32:33Z",
+      "location": {
+        "name": "Arizona",
+        "lat": 33.7298,
+        "lng": -111.4312
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "us-news"
     }
   ]
 }
