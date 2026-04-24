@@ -1,156 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-23T22:30:12.101Z",
-    "story_count": 43,
-    "oldest_story": "2026-04-22T22:30:38Z",
-    "newest_story": "2026-04-23T22:25:13Z",
+    "generated_at": "2026-04-24T06:21:52.439Z",
+    "story_count": 41,
+    "oldest_story": "2026-04-23T09:53:31Z",
+    "newest_story": "2026-04-24T06:18:13Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "business/grogonomics/2026/apr/23/cgt-capital-gains-tax-negative-gearing-changes-housing-labor-budget-2026",
-      "headline": "Capital gains tax changes are on the table, and yet Armageddon has not arrived. Has the tide on housing turned at last?",
-      "summary": "Labor's capital gains tax and negative gearing changes receive muted reaction ahead of budget announcement.",
-      "url": "https://www.theguardian.com/p/x4pq2c",
-      "thumbnail": "https://media.guim.co.uk/4b80e9406c2bbb1899d3c3ec4c534a99d2496dd9/62_0_1875_1500/500.jpg",
-      "published": "2026-04-22T22:30:38Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "world/live/2026/apr/23/middle-east-crisis-live-news-us-iran-ceasefire-strait-of-hormuz-blockade-ships-latest-updates",
-      "headline": "Middle East crisis live: US and Iran in blockade stalemate as Washington’s navy secretary leaves office ‘immediately’",
-      "summary": "Iran seizes ships in Strait of Hormuz amid US blockade stalemate as navy secretary exits.",
-      "url": "https://www.theguardian.com/p/x4q4yn",
-      "thumbnail": "https://media.guim.co.uk/b4b94c126cf981996d1c28294be73f3f1240865e/619_0_4800_3840/500.jpg",
-      "published": "2026-04-23T06:11:14Z",
-      "location": {
-        "name": "Strait of Hormuz",
-        "lat": 26.5597,
-        "lng": 56.2404
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "business/2026/apr/23/iran-war-driving-up-medicine-prices-pharmacists-warn",
-      "headline": "Paracetamol costs have jumped up to 30% due to Iran war, pharmacies warn",
-      "summary": "Iranian conflict drives UK medicine prices up 20-30% for paracetamol and hay fever drugs.",
-      "url": "https://www.theguardian.com/p/x4zhyb",
-      "thumbnail": "https://media.guim.co.uk/1a481d7b2850e28630124230a12178365e12675e/1903_692_4322_3458/500.jpg",
-      "published": "2026-04-23T06:00:03Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "travel/2026/apr/23/fashion-lovers-guide-to-antwerp-belgium-style-capital",
-      "headline": "A fashion-lover’s guide to Antwerp, Europe’s alternative style capital",
-      "summary": "Fashion exhibition celebrates Antwerp Six designers' legacy in Belgium's style capital.",
-      "url": "https://www.theguardian.com/p/x4pn6x",
-      "thumbnail": "https://media.guim.co.uk/bfdf5a869f0018c1aebef88007250dcc9dc26193/638_0_6918_5536/500.jpg",
-      "published": "2026-04-23T06:00:02Z",
-      "location": {
-        "name": "Antwerp",
-        "lat": 51.2195,
-        "lng": 4.4012
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "travel"
-    },
-    {
-      "id": "politics/ng-interactive/2026/apr/23/mapped-local-elections-labour-may-unprecedented-losses",
-      "headline": "Mapped: the elections that could deliver ‘unprecedented’ losses for Labour",
-      "summary": "Labour faces unprecedented losses in May local elections, threatening Keir Starmer's leadership.",
-      "url": "https://www.theguardian.com/p/x4th2f",
-      "thumbnail": "https://media.guim.co.uk/f9602b57da06928a5f211a695d74ec25f74a237b/375_0_3750_3000/500.jpg",
-      "published": "2026-04-23T06:00:02Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "politics"
-    },
-    {
-      "id": "australia-news/2026/apr/23/queensland-police-gun-recall-qps-glock",
-      "headline": "Queensland police recall all service-issued Glock handguns after discovery of fault causing multiple shots to fire",
-      "summary": "Queensland police recall all Glock handguns after discovery of dangerous firing malfunction.",
-      "url": "https://www.theguardian.com/p/x4q5j4",
-      "thumbnail": "https://media.guim.co.uk/2310c0f711fee73e70e0183c0dc8757b5f9f1494/188_0_4099_3280/500.jpg",
-      "published": "2026-04-23T05:47:05Z",
-      "location": {
-        "name": "Brisbane",
-        "lat": -27.4698,
-        "lng": 153.0251
-      },
-      "category": "other",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "world/2026/apr/23/thursday-briefing-why-the-us-president-is-losing-support-from-crucial-allies",
-      "headline": "Thursday briefing: ​Why the US president is losing support from crucial allies",
-      "summary": "Trump faces eroding support from key allies amid spiraling Iran war and economic crisis.",
-      "url": "https://www.theguardian.com/p/x4qvp8",
-      "thumbnail": "https://media.guim.co.uk/09aef6ea428e70d747f42e7faf151ce5cc95fec3/849_0_4271_3416/500.jpg",
-      "published": "2026-04-23T05:45:04Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "us-news/2026/apr/23/leading-california-governor-candidates-spar-in-first-debate-as-topsy-turvy-race-heats-up",
-      "headline": "Leading California governor candidates spar in first debate as topsy-turvy race heats up",
-      "summary": "California gubernatorial candidates debate homelessness crisis with no clear frontrunner emerging.",
-      "url": "https://www.theguardian.com/p/x4q5f9",
-      "thumbnail": "https://media.guim.co.uk/c20518759e567db72da91496633363137924c45b/390_0_3333_2667/500.jpg",
-      "published": "2026-04-23T05:44:09Z",
-      "location": {
-        "name": "Sacramento",
-        "lat": 38.5816,
-        "lng": -121.4944
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "tv-and-radio/2026/apr/23/tv-tonight-the-heat-is-on-in-race-across-the-world",
-      "headline": "TV tonight: the heat is on in Race Across the World",
-      "summary": "Race Across the World contestants head to Georgia's capital in fourth leg of competition.",
-      "url": "https://www.theguardian.com/p/x4zz5a",
-      "thumbnail": "https://media.guim.co.uk/2e118b44fe087af432ade3468aa9fe41c920f7da/380_0_3839_3071/500.jpg",
-      "published": "2026-04-23T05:20:01Z",
-      "location": {
-        "name": "Tbilisi",
-        "lat": 41.7151,
-        "lng": 44.7671
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "tv-and-radio"
-    },
     {
       "id": "politics/live/2026/apr/23/keir-starmer-peter-mandelson-vetting-cat-little-olly-robbins-vet-uk-politics-latest-news-updates",
       "headline": "Cabinet Office officials delayed telling Starmer about Mandelson vetting recommendation for almost three weeks – UK politics live ",
@@ -694,6 +550,118 @@
       "category": "sport",
       "significance": 2,
       "section": "sport"
+    },
+    {
+      "id": "world/live/2026/apr/24/iran-war-live-updates-trump-hormuz-strait-israel-lebanon-truce",
+      "headline": "Middle East crisis live: Trump says Israel-Lebanon ceasefire extended by three weeks but claims he won’t rush Iran deal",
+      "summary": "Trump orders US Navy to 'shoot and kill' Iranian boats mining Strait of Hormuz amid escalating Middle East tensions.",
+      "url": "https://www.theguardian.com/p/x4qa6j",
+      "thumbnail": "https://media.guim.co.uk/385b0aecdaedc86d516dfe0eed8048b755dfdf4e/995_167_6991_5593/500.jpg",
+      "published": "2026-04-24T06:18:13Z",
+      "location": {
+        "name": "Strait of Hormuz",
+        "lat": 26.5597,
+        "lng": 56.2674
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "australia-news/2026/apr/24/anzac-day-trading-hours-shops-open-closed-coles-woolworths-bunnings-australia",
+      "headline": " Anzac Day 2026 trading hours: what’s open and what’s closed across Australia?",
+      "summary": "Australian retailers vary Anzac Day trading hours across states with essential services remaining open.",
+      "url": "https://www.theguardian.com/p/x4qa7e",
+      "thumbnail": "https://media.guim.co.uk/6911380cd5ee1e9f8d3ef7ded2712f65a594ff73/654_0_6543_5235/500.jpg",
+      "published": "2026-04-24T06:11:39Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "news"
+    },
+    {
+      "id": "books/2026/apr/24/the-body-builders-by-albertine-clarke-review-a-compelling-debut-of-mental-meltdown",
+      "headline": "The Body Builders by Albertine Clarke review – a compelling debut of mental meltdown",
+      "summary": "Albertine Clarke's debut novel 'The Body Builders' explores a woman's mental dissociation and recovery journey.",
+      "url": "https://www.theguardian.com/p/x4nvzb",
+      "thumbnail": "https://media.guim.co.uk/b506f1bb74a04d84ff83427387bd585faabfc50d/92_1531_3603_2882/500.jpg",
+      "published": "2026-04-24T06:00:33Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "books"
+    },
+    {
+      "id": "music/2026/apr/24/sibelius-violin-concerto-lemminkainen-suite-album-review-ava-bahari-santtu-matias-rouvali",
+      "headline": "Sibelius: Violin Concerto, Lemminkäinen Suite album review – Ava Bahari is an enthralling storyteller",
+      "summary": "Violinist Ava Bahari performs Sibelius Violin Concerto with Gothenburg Symphony Orchestra in new album.",
+      "url": "https://www.theguardian.com/p/x4qxe2",
+      "thumbnail": "https://media.guim.co.uk/de41d1a8551ccf065483e1bd86236ec9e270c7c1/683_0_6827_5464/500.jpg",
+      "published": "2026-04-24T06:00:32Z",
+      "location": {
+        "name": "Gothenburg",
+        "lat": 57.7089,
+        "lng": 11.9746
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "music"
+    },
+    {
+      "id": "travel/2026/apr/24/readers-favourite-places-in-italy",
+      "headline": "Perfect Padua and a Greek theatre in Sicily: readers’ favourite places in Italy",
+      "summary": "Readers share favorite Italian destinations from Padua to Sicily's Greek theatre and Cinque Terre cycling.",
+      "url": "https://www.theguardian.com/p/x4z6ey",
+      "thumbnail": "https://media.guim.co.uk/65ae785a75cd2d869a0324859fcc3671aaa18641/486_0_5000_4000/500.jpg",
+      "published": "2026-04-24T06:00:32Z",
+      "location": {
+        "name": "Italy",
+        "lat": 41.8719,
+        "lng": 12.5674
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "travel"
+    },
+    {
+      "id": "world/2026/apr/24/friday-briefing-how-the-boom-in-running-culture-is-reflected-in-the-london-marathon",
+      "headline": "Friday briefing: ​​How the boom in running culture is reflected in the London Marathon",
+      "summary": "Gen Z women drive running boom with 850,000 British applicants for London Marathon this Sunday.",
+      "url": "https://www.theguardian.com/p/x4q6tc",
+      "thumbnail": "https://media.guim.co.uk/40696294c846e8180fe5bfea51ca162f0c7af58b/624_0_6880_5504/500.jpg",
+      "published": "2026-04-24T05:45:11Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "tv-and-radio/2026/apr/24/tv-tonight-graham-nortons-new-reality-show-the-neighbourhood",
+      "headline": "TV tonight: Graham Norton’s new reality show The Neighbourhood ",
+      "summary": "Graham Norton hosts new reality show 'The Neighbourhood' where six households compete on same street.",
+      "url": "https://www.theguardian.com/p/x4zz6v",
+      "thumbnail": "https://media.guim.co.uk/50bc7ab19a6e7ef9fbf8750384095852bf8e6418/248_0_3868_3095/500.jpg",
+      "published": "2026-04-24T05:20:31Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "tv-and-radio"
     }
   ]
 }
