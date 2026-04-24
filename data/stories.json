@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-04-24T10:53:13.085Z",
-    "story_count": 38,
+    "generated_at": "2026-04-24T14:58:56.406Z",
+    "story_count": 52,
     "oldest_story": "2026-04-23T15:58:13Z",
-    "newest_story": "2026-04-24T10:45:15Z",
+    "newest_story": "2026-04-24T14:50:50Z",
     "window_hours": 24
   },
   "stories": [
@@ -614,6 +614,230 @@
       "category": "conflict",
       "significance": 3,
       "section": "world"
+    },
+    {
+      "id": "uk-news/2026/apr/24/starmer-pledges-law-proscribing-iran-revolutionary-guards",
+      "headline": "Starmer pledges to bring forward law proscribing Iran’s Revolutionary Guards",
+      "summary": "Starmer pledges to proscribe Iran's Revolutionary Guards with legislation in July.",
+      "url": "https://www.theguardian.com/p/x4qcpv",
+      "thumbnail": "https://media.guim.co.uk/731e2dce3641b10d174d269956dc39368e1cc176/967_0_4836_3868/500.jpg",
+      "published": "2026-04-24T14:50:50Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "uk-news"
+    },
+    {
+      "id": "business/2026/apr/24/retail-sales-rise-british-motorists-petrol-diesel",
+      "headline": "Retail sales rise in Great Britain after Iran war prompted ‘panic at the pumps’",
+      "summary": "UK retail sales rise 0.7% in March as Iran war prompts 'panic at pumps'.",
+      "url": "https://www.theguardian.com/p/x4qbd2",
+      "thumbnail": "https://media.guim.co.uk/25e20b31904bb65bd7b8996ce0c9e08c76972c31/445_0_6829_5464/500.jpg",
+      "published": "2026-04-24T14:47:05Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "politics/2026/apr/24/kezia-dugdale-chair-stonewall-apologises-backlash-jk-rowling-remarks",
+      "headline": "Kezia Dugdale, incoming chair of Stonewall, apologises after backlash over JK Rowling remarks",
+      "summary": "Incoming Stonewall chair Kezia Dugdale apologizes for JK Rowling respect comments.",
+      "url": "https://www.theguardian.com/p/x4qccm",
+      "thumbnail": "https://media.guim.co.uk/db597f9262c81a7b15afa53e55bc1962e32845ec/582_0_4240_3392/500.jpg",
+      "published": "2026-04-24T14:39:26Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "football/2026/apr/24/arsenal-welcome-back-bukayo-saka-newcastle-mikel-arteta-premier-league",
+      "headline": "Arsenal welcome back Bukayo Saka and ‘different energy’ for Newcastle clash",
+      "summary": "Arsenal welcomes back Bukayo Saka from achilles injury ahead of Newcastle clash.",
+      "url": "https://www.theguardian.com/p/x4qd6q",
+      "thumbnail": "https://media.guim.co.uk/0cb23bbdfb4c4a7be0b2ebe660a850538dd55f1c/40_222_4718_3774/500.jpg",
+      "published": "2026-04-24T14:35:55Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/apr/24/football-daily-email-football-focus",
+      "headline": "The bittersweet demise of Football Focus",
+      "summary": "BBC's Football Focus to end after long run as Saturday programming staple.",
+      "url": "https://www.theguardian.com/p/x4q8zx",
+      "thumbnail": "https://media.guim.co.uk/15c857d7ab32c60a0cadcdce37a1ea385a909412/517_209_1305_1044/500.jpg",
+      "published": "2026-04-24T14:25:09Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 1,
+      "section": "football"
+    },
+    {
+      "id": "sport/live/2026/apr/24/surrey-v-essex-yorkshire-v-sussex-and-more-county-cricket-day-one-live",
+      "headline": "Surrey v Essex, Yorkshire v Sussex, and more: county cricket, day one – live",
+      "summary": "County cricket day one: Surrey v Essex, Yorkshire v Sussex matches underway.",
+      "url": "https://www.theguardian.com/p/x4pnkz",
+      "thumbnail": "https://media.guim.co.uk/c5b802cc058614d82a283758e2d7959339f742fa/360_156_1522_1218/500.jpg",
+      "published": "2026-04-24T14:24:05Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 1,
+      "section": "sport"
+    },
+    {
+      "id": "world/2026/apr/24/berlin-culture-minister-sarah-wedl-wilson-resigns-irregular-distribution-funds-fight-antisemitism",
+      "headline": "Berlin culture minister resigns over irregular distribution of funds to fight antisemitism",
+      "summary": "Berlin culture minister Sarah Wedl-Wilson resigns over antisemitism funding scandal.",
+      "url": "https://www.theguardian.com/p/x4qcv5",
+      "thumbnail": "https://media.guim.co.uk/e10e9e79c36a8b8d852b9dfe110ea7740460404e/386_232_4238_3390/500.jpg",
+      "published": "2026-04-24T14:12:56Z",
+      "location": {
+        "name": "Berlin",
+        "lat": 52.52,
+        "lng": 13.405
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "music/2026/apr/24/turangalila-infinite-love-review-rpo-and-1927-studios-bring-messiaen-to-joyous-and-vibrant-life",
+      "headline": "Turangalîla: Infinite Love review – RPO and 1927 Studios bring Messiaen to joyous and vibrant life ",
+      "summary": "Royal Festival Hall: RPO and 1927 Studios bring Messiaen's Turangalîla to life.",
+      "url": "https://www.theguardian.com/p/x4qcaz",
+      "thumbnail": "https://media.guim.co.uk/8fe1cbcab882bc70f116390d5d3f499b66085a6a/439_375_3172_2537/500.jpg",
+      "published": "2026-04-24T14:01:37Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "music"
+    },
+    {
+      "id": "thefilter/2026/apr/24/best-running-shoes-men-women-uk-tested",
+      "headline": "The best running shoes in the UK for every runner – tested on trails, marathons and roads",
+      "summary": "Product review: Best running shoes tested on trails, marathons and roads.",
+      "url": "https://www.theguardian.com/p/x4thcv",
+      "thumbnail": "https://media.guim.co.uk/37bf050ebab74f9e5efd2e871f279cc70c5116df/0_0_5000_4000/500.jpg",
+      "published": "2026-04-24T14:00:18Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 1,
+      "section": "thefilter"
+    },
+    {
+      "id": "technology/2026/apr/24/what-is-a-passkey-how-does-it-work-and-why-is-it-better-than-a-password",
+      "headline": "What is a passkey, how does it work and why is it better than a password?",
+      "summary": "NCSC endorses passkeys over passwords for stronger security and phishing resistance.",
+      "url": "https://www.theguardian.com/p/x4q79c",
+      "thumbnail": "https://media.guim.co.uk/f73fc6cee38dd27f3ef79c79c4183668138f9c7a/300_0_3000_2400/500.jpg",
+      "published": "2026-04-24T14:00:18Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "tech",
+      "significance": 2,
+      "section": "technology"
+    },
+    {
+      "id": "us-news/2026/apr/24/florida-sloth-deaths-tourist-attraction",
+      "headline": "Florida officials investigate planned ‘Sloth World’ attraction after 31 sloths die in warehouse",
+      "summary": "31 sloths die from cold stun in Florida warehouse before Sloth World attraction opens.",
+      "url": "https://www.theguardian.com/p/x4qckn",
+      "thumbnail": "https://media.guim.co.uk/14d5fce267b64a97b54dc6ce73b5c2da2e125f19/371_0_1454_1164/500.jpg",
+      "published": "2026-04-24T13:56:43Z",
+      "location": {
+        "name": "Orlando",
+        "lat": 28.5421,
+        "lng": -81.3723
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "sport/2026/apr/24/rugby-union-northampton-bath-prem-phil-dowson",
+      "headline": "Expect divine rugby and more epic drama when Northampton and Bath meet again",
+      "summary": "Northampton and Bath rugby rivals set for another epic Premiership clash after thrilling Champions Cup quarter-final.",
+      "url": "https://www.theguardian.com/p/x4qbnt",
+      "thumbnail": "https://media.guim.co.uk/f46f632b7a9f889feef3b46564030e528f645f8f/1_43_1922_1538/500.jpg",
+      "published": "2026-04-24T13:54:58Z",
+      "location": {
+        "name": "Northampton",
+        "lat": 52.2411,
+        "lng": -0.8811
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "sport/2026/apr/23/paige-shiver-sherrone-moore-good-morning-america-interview",
+      "headline": "Paige Shiver says ex-Michigan coach Moore ‘controlled’ her, reveals she was pregnant",
+      "summary": "Paige Shiver reveals ex-Michigan football coach Sherrone Moore controlled her in first interview since his firing.",
+      "url": "https://www.theguardian.com/p/x4qaxc",
+      "thumbnail": "https://media.guim.co.uk/31c57f8c8361e6419ac7aa08f51bf3b80dba541f/292_0_1527_1222/500.jpg",
+      "published": "2026-04-24T13:54:11Z",
+      "location": {
+        "name": "Ann Arbor",
+        "lat": 42.2808,
+        "lng": -83.743
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "sport"
+    },
+    {
+      "id": "politics/2026/apr/24/no-minister-the-week-keir-starmer-had-his-own-sir-humphrey-moment",
+      "headline": "No, Minister: the week Keir Starmer had his own Sir Humphrey moment",
+      "summary": "PM Keir Starmer encounters Whitehall civil service obstruction echoing Yes Minister satirical dynamics.",
+      "url": "https://www.theguardian.com/p/x4q6dg",
+      "thumbnail": "https://media.guim.co.uk/58048d4569efb9642be2ec7c81087b5075d1418e/0_1_5000_3998/500.jpg",
+      "published": "2026-04-24T13:52:34Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
     }
   ]
 }
