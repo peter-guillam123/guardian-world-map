@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-04-24T22:28:37.559Z",
-    "story_count": 55,
-    "oldest_story": "2026-04-24T05:20:31Z",
-    "newest_story": "2026-04-24T21:30:27Z",
+    "generated_at": "2026-04-25T05:31:14.247Z",
+    "story_count": 62,
+    "oldest_story": "2026-04-24T05:45:11Z",
+    "newest_story": "2026-04-25T05:19:34Z",
     "window_hours": 24
   },
   "stories": [
@@ -102,22 +102,6 @@
       "category": "sport",
       "significance": 2,
       "section": "world"
-    },
-    {
-      "id": "tv-and-radio/2026/apr/24/tv-tonight-graham-nortons-new-reality-show-the-neighbourhood",
-      "headline": "TV tonight: Graham Norton’s new reality show The Neighbourhood ",
-      "summary": "Graham Norton hosts new reality show 'The Neighbourhood' where six households compete on same street.",
-      "url": "https://www.theguardian.com/p/x4zz6v",
-      "thumbnail": "https://media.guim.co.uk/50bc7ab19a6e7ef9fbf8750384095852bf8e6418/248_0_3868_3095/500.jpg",
-      "published": "2026-04-24T05:20:31Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "tv-and-radio"
     },
     {
       "id": "business/live/2026/apr/24/stock-market-warning-bank-of-england-deputy-governor-trump-threatens-uk-tariff-business-live",
@@ -886,6 +870,134 @@
       "category": "politics",
       "significance": 3,
       "section": "us-news"
+    },
+    {
+      "id": "world/live/2026/apr/25/middle-east-crisis-live-witkoff-and-kushner-head-to-pakistan-for-iran-negotiations",
+      "headline": "Middle East crisis live: Witkoff and Kushner headed to Pakistan for Iran negotiations ",
+      "summary": "US envoys head to Pakistan for Iran negotiations as tensions escalate in Middle East crisis.",
+      "url": "https://www.theguardian.com/p/x4qffq",
+      "thumbnail": "https://media.guim.co.uk/ab62bf88b432fa0bb9ea602eb0cb841894678906/733_0_5000_4000/500.jpg",
+      "published": "2026-04-25T05:19:34Z",
+      "location": {
+        "name": "Islamabad",
+        "lat": 33.6844,
+        "lng": 73.0479
+      },
+      "category": "politics",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "commentisfree/2026/apr/25/boris-johnson-keir-starmer-prime-minister-leadership",
+      "headline": "I witnessed the dying days of Boris Johnson’s premiership. Keir Starmer’s position is uncannily similar",
+      "summary": "Former Tory chief whip compares Keir Starmer's leadership position to Boris Johnson's 2022 crisis.",
+      "url": "https://www.theguardian.com/p/x4q74c",
+      "thumbnail": "https://media.guim.co.uk/87c8e855e93dec0d2b1cbefdedd476893ae41497/0_0_1667_1333/500.jpg",
+      "published": "2026-04-25T05:00:40Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "commentisfree"
+    },
+    {
+      "id": "environment/2026/apr/25/first-footage-endangered-sumatran-orangutan-using-canopy-bridge-cross-road-hope-species-aoe",
+      "headline": "‘Cries of delight’ as Sumatran orangutan filmed using canopy bridge to cross road for first time",
+      "summary": "Critically endangered Sumatran orangutan filmed using canopy bridge to cross road for first time.",
+      "url": "https://www.theguardian.com/p/x4qcy2",
+      "thumbnail": "https://media.guim.co.uk/d9a0ab12c38fffc21ff2544761f18362a7df71af/253_160_1746_1396/500.jpg",
+      "published": "2026-04-25T05:00:40Z",
+      "location": {
+        "name": "Pakpak Bharat",
+        "lat": 2.0333,
+        "lng": 98.8167
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "environment"
+    },
+    {
+      "id": "world/2026/apr/25/my-husband-and-son-titan-submersible-christine-dawood-what-happened",
+      "headline": "My husband and son dived to see the wreck of the Titanic, and never came back – this is what happened at sea",
+      "summary": "Survivor Christine Dawood recounts harrowing experience of Titan submersible tragedy near Titanic wreck.",
+      "url": "https://www.theguardian.com/p/x4ncdm",
+      "thumbnail": "https://media.guim.co.uk/0a8c8f876ca91e8a15a7a548011b7cf3aef51231/200_0_1255_1004/500.jpg",
+      "published": "2026-04-25T05:00:39Z",
+      "location": {
+        "name": "Atlantic Ocean",
+        "lat": 41.726,
+        "lng": -49.948
+      },
+      "category": "other",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "politics/2026/apr/25/simple-dog-walk-scandal-hit-peter-mandelson-refuses-to-hide-away",
+      "headline": "Walking the dog and braving the paps: the art of the doorstep photo, from Keane to Mandelson",
+      "summary": "Peter Mandelson faces media scrutiny while conducting normal activities amid security vetting scandal.",
+      "url": "https://www.theguardian.com/p/x4qcve",
+      "thumbnail": "https://media.guim.co.uk/d2e8f942306cd6aad508164e13726e429ad957eb/0_0_1667_1333/500.jpg",
+      "published": "2026-04-25T05:00:38Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "sport/2026/apr/25/table-tennis-ping-pong-world-championships-history-ivor-montagu",
+      "headline": "Victorian parlours, whiff-whaff and a Soviet spy: ping-pong’s coming home",
+      "summary": "Table tennis world championships return to London a century after first tournament held there.",
+      "url": "https://www.theguardian.com/p/x4qbm7",
+      "thumbnail": "https://media.guim.co.uk/7b05cf8aa865bc994cc9943fa699744cb94ed477/0_0_5000_4000/500.jpg",
+      "published": "2026-04-25T05:00:37Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "sport/2026/apr/25/athletics-london-marathon-running-clubs-boom",
+      "headline": "59,000 runners, 93,024 energy gels and £100m for charity: the London Marathon is booming",
+      "summary": "Record 59,000 runners participate in London Marathon, raising nearly £100m for charity.",
+      "url": "https://www.theguardian.com/p/x4qbyh",
+      "thumbnail": "https://media.guim.co.uk/e891740609f76e5d0292771817a645f573b3e24b/332_0_3540_2832/500.jpg",
+      "published": "2026-04-25T05:00:37Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "news/ng-interactive/2026/apr/25/chornobyl-power-plant-at-risk-amid-russia-war-ukraine",
+      "headline": " Inside Chornobyl: 40 years after disaster, nuclear site still at risk in Russia’s war ",
+      "summary": "Russian drone strike damages Chornobyl's confinement shelter, raising nuclear safety concerns during war.",
+      "url": "https://www.theguardian.com/p/x4q739",
+      "thumbnail": "https://media.guim.co.uk/785c7a6c838f62bc459ead38ab013dd390d24abc/156_0_4688_3750/500.jpg",
+      "published": "2026-04-25T05:00:36Z",
+      "location": {
+        "name": "Chornobyl",
+        "lat": 51.3861,
+        "lng": 30.1066
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "news"
     }
   ]
 }
