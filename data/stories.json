@@ -1,300 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-25T16:08:31.541Z",
-    "story_count": 55,
-    "oldest_story": "2026-04-24T16:48:23Z",
-    "newest_story": "2026-04-25T16:03:04Z",
+    "generated_at": "2026-04-25T18:06:56.709Z",
+    "story_count": 40,
+    "oldest_story": "2026-04-24T19:32:33Z",
+    "newest_story": "2026-04-25T17:58:39Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/live/2026/apr/24/sunderland-v-nottingham-forest-premier-league-live",
-      "headline": "Sunderland v Nottingham Forest: Premier League – live",
-      "summary": "Sunderland face Nottingham Forest in Premier League match at Stadium of Light.",
-      "url": "https://www.theguardian.com/p/x4phte",
-      "thumbnail": "https://media.guim.co.uk/beaeb89f3cd0612d21b2b66c0bcc61a079e26ff8/305_70_2854_2283/500.jpg",
-      "published": "2026-04-24T17:56:56Z",
-      "location": {
-        "name": "Sunderland",
-        "lat": 54.9154,
-        "lng": -1.3847
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "society/2026/apr/24/suicide-related-callouts-fire-services-triple-england-samaritans",
-      "headline": "Suicide-related callouts to fire services triple in England in a decade",
-      "summary": "Suicide-related callouts to English fire services triple in decade, Samaritans warn.",
-      "url": "https://www.theguardian.com/p/x4qdfn",
-      "thumbnail": "https://media.guim.co.uk/04fb2debb6bffb49f98351fe0bf06caaa286cdcd/293_0_2915_2333/500.jpg",
-      "published": "2026-04-24T17:43:06Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "society"
-    },
-    {
-      "id": "lifeandstyle/2026/apr/24/is-the-justin-bieber-renaissance-upon-us-eight-things-you-need-to-know",
-      "headline": "Is the Justin Bieber renaissance upon us? Eight things you need to know",
-      "summary": "Justin Bieber experiences renaissance after acclaimed Coachella performances.",
-      "url": "https://www.theguardian.com/p/x4qc6z",
-      "thumbnail": "https://media.guim.co.uk/9ec35045ebba36a6bb51cf0951e17a1901aaad99/0_0_5000_4000/500.jpg",
-      "published": "2026-04-24T17:41:42Z",
-      "location": {
-        "name": "Indio",
-        "lat": 33.7292,
-        "lng": -116.2362
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "lifeandstyle"
-    },
-    {
-      "id": "news/2026/apr/24/zak-polanski-calls-for-nuance-when-discussing-antisemitism-in-rebuke-of-pm",
-      "headline": "Zack Polanski calls for ‘nuance’ when discussing antisemitism in rebuke of PM",
-      "summary": "Green Party leader calls for nuance in antisemitism debate with PM Starmer.",
-      "url": "https://www.theguardian.com/p/x4qcy7",
-      "thumbnail": "https://media.guim.co.uk/d91ae2a7fc6035b2436b350321a4771f9f3e8c09/596_0_5961_4769/500.jpg",
-      "published": "2026-04-24T17:37:20Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "news"
-    },
-    {
-      "id": "us-news/2026/apr/24/us-wont-give-unredacted-epstein-documents-to-uk-police-without-lengthy-formal-request",
-      "headline": "US won’t give unredacted Epstein documents to UK police without lengthy formal request",
-      "summary": "US refuses unredacted Epstein files to UK police investigating Mandelson and Prince Andrew.",
-      "url": "https://www.theguardian.com/p/x4qdfb",
-      "thumbnail": "https://media.guim.co.uk/d4ef9975d110b9e4aa4b1d8fc195e0ff6f4b283b/489_0_6510_5204/500.jpg",
-      "published": "2026-04-24T17:36:43Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "football/live/2026/apr/24/premier-league-fa-cup-wcl-semi-finals-news-and-more-football-live",
-      "headline": "West Brom handed two-point deduction; Prestianni hit with six-match ban for ‘homophobic conduct’ – as it happened",
-      "summary": "West Brom deducted two points; soccer player banned for homophobic conduct.",
-      "url": "https://www.theguardian.com/p/x4pneh",
-      "thumbnail": "https://media.guim.co.uk/cbfe43557bd1438bb1933f9cdb674b85ef8d4259/675_0_5082_4065/500.jpg",
-      "published": "2026-04-24T17:29:46Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/apr/24/stefan-mijatovic-masl-fight-san-diego-sockers-milwaukee-wave",
-      "headline": "Arena soccer player gets lifetime ban for ‘severe and violent’ conduct after cup final brawl",
-      "summary": "Arena soccer player Stefan Mijatovic banned for life after violent conduct in finals.",
-      "url": "https://www.theguardian.com/p/x4qdzf",
-      "thumbnail": "https://media.guim.co.uk/01d6c5a7d6b3dcf585cc0f3616e4a954457594a1/7_0_5000_4000/500.jpg",
-      "published": "2026-04-24T17:21:12Z",
-      "location": {
-        "name": "San Diego",
-        "lat": 32.7157,
-        "lng": -117.1611
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/apr/24/calum-mcfarlane-steps-up-for-chelsea-but-is-tainted-by-rosenior-failure",
-      "headline": "Calum McFarlane returns to Chelsea hotseat but Rosenior era raises doubts",
-      "summary": "Calum McFarlane returns as Chelsea interim manager amid doubts from Rosenior era.",
-      "url": "https://www.theguardian.com/p/x4qdma",
-      "thumbnail": "https://media.guim.co.uk/c4405a0ed790a435847e4bb5ec2ad1d5e2a871ef/0_0_5160_4128/500.jpg",
-      "published": "2026-04-24T17:18:29Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "technology/2026/apr/24/tiktok-visa-debit-card-uk-creator-card-payouts-live-payments",
-      "headline": "TikTok and Visa launch debit card to speed payouts to UK creators",
-      "summary": "TikTok and Visa launch creator debit card to speed payouts for UK content creators.",
-      "url": "https://www.theguardian.com/p/x4pj2p",
-      "thumbnail": "https://media.guim.co.uk/bd7b9727645adde880c203c748519f5d90cf354f/299_0_3813_3051/500.jpg",
-      "published": "2026-04-24T17:07:08Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "tech",
-      "significance": 2,
-      "section": "technology"
-    },
-    {
-      "id": "uk-news/2026/apr/24/man-found-guilty-after-dumping-50-dead-hares-outside-hampshire-village-shop",
-      "headline": "Man found guilty over birds of prey dumped outside Hampshire village shop",
-      "summary": "Man guilty of dumping dead birds of prey outside Hampshire village shop.",
-      "url": "https://www.theguardian.com/p/x4q6yq",
-      "thumbnail": "https://media.guim.co.uk/3c32c9e538c3140eb3f08f36a4adcd55ece464f7/0_157_2717_2172/500.jpg",
-      "published": "2026-04-24T17:05:15Z",
-      "location": {
-        "name": "Bramdean",
-        "lat": 51.1667,
-        "lng": -1.0833
-      },
-      "category": "other",
-      "significance": 1,
-      "section": "uk-news"
-    },
-    {
-      "id": "football/2026/apr/24/fa-cup-and-premier-league-team-news-predicted-lineups",
-      "headline": "FA Cup and Premier League team news: predicted lineups for the weekend action",
-      "summary": "FA Cup semi-finals and Premier League weekend action: team news and predicted lineups.",
-      "url": "https://www.theguardian.com/p/x4pt95",
-      "thumbnail": "https://media.guim.co.uk/7f4abb9f70d32bab1d227c977f2e1e26bdc20034/124_538_4283_3427/500.jpg",
-      "published": "2026-04-24T17:02:48Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "world/2026/apr/24/trump-iran-war-no-strategy",
-      "headline": "‘No clear strategy’: how Trump went from shock and awe to wait and see in Iran",
-      "summary": "Trump shifts Iran strategy from shock-and-awe to sustained economic pressure campaign.",
-      "url": "https://www.theguardian.com/p/x4qcnz",
-      "thumbnail": "https://media.guim.co.uk/14f5e038fef7c0835fb3bc88853977757634be04/599_0_6002_4800/500.jpg",
-      "published": "2026-04-24T17:02:05Z",
-      "location": {
-        "name": "Washington, D.C.",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "football/2026/apr/24/everything-about-it-was-magical-southampton-still-spurred-on-by-spirit-of-76-cup-triumph",
-      "headline": "‘Everything about it was magical’: Southampton still spurred on by spirit of ’76 Cup triumph",
-      "summary": "Southampton draws inspiration from 1976 FA Cup triumph heading into semi-final vs City.",
-      "url": "https://www.theguardian.com/p/x4q8ev",
-      "thumbnail": "https://media.guim.co.uk/bae6fa760606397fa3ed1e92b68f8fd3c49a5482/308_0_2983_2387/500.jpg",
-      "published": "2026-04-24T17:00:21Z",
-      "location": {
-        "name": "Southampton",
-        "lat": 50.9058,
-        "lng": -1.3908
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "uk-news/2026/apr/24/uk-position-falklands-unchanged-leaked-pentagon-memo",
-      "headline": "UK position on Falklands will not change, No 10 says after leaked Pentagon memo",
-      "summary": "UK insists Falklands position unchanged after leaked Pentagon memo proposes reassessment.",
-      "url": "https://www.theguardian.com/p/x4qc5v",
-      "thumbnail": "https://media.guim.co.uk/e0eb940f38d2d6c64ef5107feeababf9a1f84beb/836_241_3805_3044/500.jpg",
-      "published": "2026-04-24T17:00:19Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "uk-news"
-    },
-    {
-      "id": "technology/2026/apr/24/officials-hugely-underestimated-impact-of-ai-datacentres-on-uk-carbon-emissions",
-      "headline": "Officials hugely underestimated impact of AI datacentres on UK carbon emissions",
-      "summary": "UK government revised carbon emissions from AI datacentres upward by over 100 times.",
-      "url": "https://www.theguardian.com/p/x4qd2x",
-      "thumbnail": "https://media.guim.co.uk/27eee0f11e117ff8a3a29a566e0c66bafbdec427/479_0_7042_5632/500.jpg",
-      "published": "2026-04-24T16:57:16Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "climate",
-      "significance": 3,
-      "section": "technology"
-    },
-    {
-      "id": "books/2026/apr/24/katherine-el-salahi",
-      "headline": "Katherine El-Salahi",
-      "summary": "Katherine El-Salahi, anti-apartheid activist and global south publisher, dies aged 80.",
-      "url": "https://www.theguardian.com/p/x4y6zj",
-      "thumbnail": "https://media.guim.co.uk/eab42cfdad034ecaab963da183a4f6d623a3d693/0_354_3024_2419/500.jpg",
-      "published": "2026-04-24T16:49:30Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "books"
-    },
-    {
-      "id": "commentisfree/2026/apr/24/the-guardian-view-on-germany-japan-and-the-end-of-the-postwar-order-as-us-alliances-crumble-a-new-world-emerges",
-      "headline": "The Guardian view on Germany, Japan and the end of the postwar order: as US alliances crumble, a new world emerges ",
-      "summary": "US alliances with Germany and Japan crumble as postwar order collapses under Trump.",
-      "url": "https://www.theguardian.com/p/x4qddx",
-      "thumbnail": "https://media.guim.co.uk/df93d3b67c6e7434a306c5a4ceed4dc4fa1e2dc0/555_0_4630_3704/500.jpg",
-      "published": "2026-04-24T16:48:26Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 4,
-      "section": "commentisfree"
-    },
-    {
-      "id": "world/2026/apr/24/iran-foreign-minister-to-embark-on-three-nation-tour-as-us-peace-talks-remain-stalled",
-      "headline": "Iran foreign minister to embark on three-nation tour as US peace talks remain stalled",
-      "summary": "Iran's foreign minister tours Pakistan, Oman, Russia seeking to reopen stalled US peace talks.",
-      "url": "https://www.theguardian.com/p/x4qdaf",
-      "thumbnail": "https://media.guim.co.uk/218b06716a599ec5c4de083dcbe86b16eeba84a2/375_0_5120_4096/500.jpg",
-      "published": "2026-04-24T16:48:23Z",
-      "location": {
-        "name": "Tehran",
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
     {
       "id": "us-news/2026/apr/24/tom-kean-republican-congress",
       "headline": "Republican congressman absent over ‘personal health matter’, Johnson says",
@@ -885,6 +597,54 @@
       },
       "category": "economy",
       "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2025/sep/15/premier-league-top-scorers-2025-26-who-is-leading-race-for-golden-boot",
+      "headline": "Premier League top scorers 2025-26: who is leading race for golden boot?",
+      "summary": "Erling Haaland leads Premier League goalscoring race with 24 goals this season.",
+      "url": "https://www.theguardian.com/p/x386fa",
+      "thumbnail": "https://media.guim.co.uk/25a17f223afb3ce61b02e0706e23edf6834f9b81/148_0_1905_1524/500.jpg",
+      "published": "2026-04-25T17:58:39Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "uk-news/2026/apr/25/social-media-influencer-dies-six-days-after-car-hit-her-outside-london-nightclub",
+      "headline": "Social media influencer dies six days after car hit her outside London nightclub",
+      "summary": "Social media influencer Klaudia Zakrzewska dies six days after car hits her in Soho.",
+      "url": "https://www.theguardian.com/p/x4qj89",
+      "thumbnail": "https://media.guim.co.uk/7efc8c359489f93a96e2d316b16b1ce5e104fc2a/26_140_3095_2476/500.jpg",
+      "published": "2026-04-25T17:52:11Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "us-news/2026/apr/25/camp-mystic-texas-reopening",
+      "headline": "Texas camp where 25 girls died in 2025 flood may not be allowed to reopen",
+      "summary": "Camp Mystic in Texas may not reopen after 27 deaths in July 2025 flood.",
+      "url": "https://www.theguardian.com/p/x4qj48",
+      "thumbnail": "https://media.guim.co.uk/701cb1455ccaf9eaa655349dad2db151f2ae8255/284_0_3000_2400/500.jpg",
+      "published": "2026-04-25T17:23:14Z",
+      "location": {
+        "name": "Texas",
+        "lat": 31.9686,
+        "lng": -99.9018
+      },
+      "category": "health",
+      "significance": 3,
       "section": "us-news"
     }
   ]
