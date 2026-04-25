@@ -1,124 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-25T14:10:18.723Z",
-    "story_count": 54,
-    "oldest_story": "2026-04-24T14:12:56Z",
-    "newest_story": "2026-04-25T14:09:43Z",
+    "generated_at": "2026-04-25T16:08:31.541Z",
+    "story_count": 55,
+    "oldest_story": "2026-04-24T16:48:23Z",
+    "newest_story": "2026-04-25T16:03:04Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "uk-news/2026/apr/24/starmer-pledges-law-proscribing-iran-revolutionary-guards",
-      "headline": "Starmer pledges to bring forward law proscribing Iran’s Revolutionary Guards",
-      "summary": "Starmer pledges to proscribe Iran's Revolutionary Guards with legislation in July.",
-      "url": "https://www.theguardian.com/p/x4qcpv",
-      "thumbnail": "https://media.guim.co.uk/731e2dce3641b10d174d269956dc39368e1cc176/967_0_4836_3868/500.jpg",
-      "published": "2026-04-24T14:50:50Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "uk-news"
-    },
-    {
-      "id": "business/2026/apr/24/retail-sales-rise-british-motorists-petrol-diesel",
-      "headline": "Retail sales rise in Great Britain after Iran war prompted ‘panic at the pumps’",
-      "summary": "UK retail sales rise 0.7% in March as Iran war prompts 'panic at pumps'.",
-      "url": "https://www.theguardian.com/p/x4qbd2",
-      "thumbnail": "https://media.guim.co.uk/25e20b31904bb65bd7b8996ce0c9e08c76972c31/445_0_6829_5464/500.jpg",
-      "published": "2026-04-24T14:47:05Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "politics/2026/apr/24/kezia-dugdale-chair-stonewall-apologises-backlash-jk-rowling-remarks",
-      "headline": "Kezia Dugdale, incoming chair of Stonewall, apologises after backlash over JK Rowling remarks",
-      "summary": "Incoming Stonewall chair Kezia Dugdale apologizes for JK Rowling respect comments.",
-      "url": "https://www.theguardian.com/p/x4qccm",
-      "thumbnail": "https://media.guim.co.uk/db597f9262c81a7b15afa53e55bc1962e32845ec/582_0_4240_3392/500.jpg",
-      "published": "2026-04-24T14:39:26Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "football/2026/apr/24/arsenal-welcome-back-bukayo-saka-newcastle-mikel-arteta-premier-league",
-      "headline": "Arsenal welcome back Bukayo Saka and ‘different energy’ for Newcastle clash",
-      "summary": "Arsenal welcomes back Bukayo Saka from achilles injury ahead of Newcastle clash.",
-      "url": "https://www.theguardian.com/p/x4qd6q",
-      "thumbnail": "https://media.guim.co.uk/0cb23bbdfb4c4a7be0b2ebe660a850538dd55f1c/40_222_4718_3774/500.jpg",
-      "published": "2026-04-24T14:35:55Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/apr/24/football-daily-email-football-focus",
-      "headline": "The bittersweet demise of Football Focus",
-      "summary": "BBC's Football Focus to end after long run as Saturday programming staple.",
-      "url": "https://www.theguardian.com/p/x4q8zx",
-      "thumbnail": "https://media.guim.co.uk/15c857d7ab32c60a0cadcdce37a1ea385a909412/517_209_1305_1044/500.jpg",
-      "published": "2026-04-24T14:25:09Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 1,
-      "section": "football"
-    },
-    {
-      "id": "sport/live/2026/apr/24/surrey-v-essex-yorkshire-v-sussex-and-more-county-cricket-day-one-live",
-      "headline": "Surrey v Essex, Yorkshire v Sussex, and more: county cricket, day one – live",
-      "summary": "County cricket day one: Surrey v Essex, Yorkshire v Sussex matches underway.",
-      "url": "https://www.theguardian.com/p/x4pnkz",
-      "thumbnail": "https://media.guim.co.uk/c5b802cc058614d82a283758e2d7959339f742fa/360_156_1522_1218/500.jpg",
-      "published": "2026-04-24T14:24:05Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 1,
-      "section": "sport"
-    },
-    {
-      "id": "world/2026/apr/24/berlin-culture-minister-sarah-wedl-wilson-resigns-irregular-distribution-funds-fight-antisemitism",
-      "headline": "Berlin culture minister resigns over irregular distribution of funds to fight antisemitism",
-      "summary": "Berlin culture minister Sarah Wedl-Wilson resigns over antisemitism funding scandal.",
-      "url": "https://www.theguardian.com/p/x4qcv5",
-      "thumbnail": "https://media.guim.co.uk/e10e9e79c36a8b8d852b9dfe110ea7740460404e/386_232_4238_3390/500.jpg",
-      "published": "2026-04-24T14:12:56Z",
-      "location": {
-        "name": "Berlin",
-        "lat": 52.52,
-        "lng": 13.405
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "world"
-    },
     {
       "id": "football/live/2026/apr/24/sunderland-v-nottingham-forest-premier-league-live",
       "headline": "Sunderland v Nottingham Forest: Premier League – live",
@@ -868,6 +756,134 @@
         "lng": -92.4421
       },
       "category": "health",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/apr/25/manchester-united-target-atalanta-ederson-to-replace-casemiro",
+      "headline": "Manchester United target Atalanta’s Éderson as Casemiro replacement",
+      "summary": "Manchester United targets Atalanta's Éderson as midfield replacement for Casemiro.",
+      "url": "https://www.theguardian.com/p/x4qtyq",
+      "thumbnail": "https://media.guim.co.uk/47408d6ef72ab032689f9ab606476c97e9367e32/419_0_2653_2122/500.jpg",
+      "published": "2026-04-25T16:03:04Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "politics/2026/apr/25/security-vetting-stepped-up-after-mp-is-given-bodyguard-with-far-right-links",
+      "headline": "Security vetting stepped up after MP is given bodyguard with far-right links",
+      "summary": "UK tightens MP bodyguard vetting after far-right security breach incident.",
+      "url": "https://www.theguardian.com/p/x4q2m5",
+      "thumbnail": "https://media.guim.co.uk/da5eeecf8ba69a0cc86cc216520d1b2cbe6b06c7/136_0_2513_2010/500.jpg",
+      "published": "2026-04-25T16:00:49Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "football/live/2026/apr/25/arsenal-v-newcastle-united-premier-league-live",
+      "headline": "Arsenal v Newcastle United: Premier League – live ",
+      "summary": "Arsenal faces Newcastle United in Premier League match to reclaim top spot.",
+      "url": "https://www.theguardian.com/p/x4q6zd",
+      "thumbnail": "https://media.guim.co.uk/f9c4b886d6a916fa96b171e7addb8f893828cd91/448_0_4803_3843/500.jpg",
+      "published": "2026-04-25T15:55:59Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/live/2026/apr/25/manchester-city-v-southampton-fa-cup-semi-final-live",
+      "headline": "Manchester City v Southampton: FA Cup semi-final – live ",
+      "summary": "Manchester City contests FA Cup semi-final against Southampton at Wembley.",
+      "url": "https://www.theguardian.com/p/x4q6mh",
+      "thumbnail": "https://media.guim.co.uk/19cfffca76967bd657548e2c61821db8c5206008/229_126_2968_2374/500.jpg",
+      "published": "2026-04-25T15:47:44Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "uk-news/2026/apr/25/met-police-investigates-hundreds-officers-palantir-ai-tool",
+      "headline": "Met investigates hundreds of officers after using Palantir AI tool",
+      "summary": "Metropolitan Police investigates hundreds of officers using Palantir AI tool.",
+      "url": "https://www.theguardian.com/p/x4qttb",
+      "thumbnail": "https://media.guim.co.uk/1eeacbb3ed233aa92023d96822d37378c6bc54b4/348_0_3960_3168/500.jpg",
+      "published": "2026-04-25T15:34:10Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "tech",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "sport/2026/apr/25/england-wales-womens-six-nations-rugby-union-match-report",
+      "headline": "Meg Jones shines as relentless England sweep Wales aside to seal triple crown",
+      "summary": "England defeats Wales 62-24 in Women's Six Nations rugby to seal triple crown.",
+      "url": "https://www.theguardian.com/p/x4q9hx",
+      "thumbnail": "https://media.guim.co.uk/669c79f7399d86c114b3573bf8ee6151ba7649c2/223_0_1879_1503/500.jpg",
+      "published": "2026-04-25T15:23:39Z",
+      "location": {
+        "name": "Cardiff",
+        "lat": 51.4816,
+        "lng": -3.1791
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "world/2026/apr/25/conspiracy-theory-ufo-scientists-white-house",
+      "headline": "Conspiracy theory over UFOs and missing scientists spreads from web to White House",
+      "summary": "UFO conspiracy theory linking missing scientists gains attention at White House.",
+      "url": "https://www.theguardian.com/p/x4pzvg",
+      "thumbnail": "https://media.guim.co.uk/34eb08a24f74881adf3e655ff640559927120023/3_0_4315_3453/500.jpg",
+      "published": "2026-04-25T15:00:48Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "us-news/2026/apr/25/california-juet-fuel-supply",
+      "headline": "California’s jet fuel supply drops to three-year low as Middle East turmoil squeezes global oil market",
+      "summary": "California's jet fuel supply drops to three-year low amid Middle East turmoil.",
+      "url": "https://www.theguardian.com/p/x4qfqa",
+      "thumbnail": "https://media.guim.co.uk/172851f63bfda26c1fb9f44eb14f7b2a6ab17ad6/199_0_2972_2378/500.jpg",
+      "published": "2026-04-25T15:00:48Z",
+      "location": {
+        "name": "California",
+        "lat": 36.1163,
+        "lng": -119.6674
+      },
+      "category": "economy",
       "significance": 2,
       "section": "us-news"
     }
