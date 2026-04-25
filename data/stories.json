@@ -1,60 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-25T20:01:40.291Z",
-    "story_count": 44,
-    "oldest_story": "2026-04-24T20:09:32Z",
-    "newest_story": "2026-04-25T19:57:28Z",
+    "generated_at": "2026-04-25T21:56:04.915Z",
+    "story_count": 42,
+    "oldest_story": "2026-04-25T05:00:36Z",
+    "newest_story": "2026-04-25T21:30:56Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "us-news/2026/apr/24/tom-kean-republican-congress",
-      "headline": "Republican congressman absent over ‘personal health matter’, Johnson says",
-      "summary": "Republican congressman Tom Kean absent from votes due to personal health matter as Democrats target his seat.",
-      "url": "https://www.theguardian.com/p/x4qevx",
-      "thumbnail": "https://media.guim.co.uk/56992fe7f636a217fd8c26ded85da2f456389456/485_0_4845_3877/500.jpg",
-      "published": "2026-04-24T20:09:32Z",
-      "location": {
-        "name": "New Jersey",
-        "lat": 40.2206,
-        "lng": -74.7597
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "football/2026/apr/24/de-zerbi-wants-maddison-to-bring-the-vibes-for-tottenhams-must-win-clash-at-wolves",
-      "headline": "De Zerbi wants Maddison to bring the vibes for Tottenham’s must-win clash at Wolves",
-      "summary": "Tottenham faces must-win clash at Wolves as De Zerbi seeks to avoid relegation battle.",
-      "url": "https://www.theguardian.com/p/x4qdzt",
-      "thumbnail": "https://media.guim.co.uk/9c372617a0ff283526ee9668a36c5b8c42bf8ec4/338_0_3381_2705/500.jpg",
-      "published": "2026-04-24T21:30:27Z",
-      "location": {
-        "name": "Wolverhampton",
-        "lat": 52.5089,
-        "lng": -2.1305
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "us-news/2026/apr/24/doj-death-penalty-firing-squad-lethal-injection",
-      "headline": "US justice department to allow firing squads as federal death penalty method",
-      "summary": "Trump's DoJ restores firing squads and lethal injection as federal death penalty methods.",
-      "url": "https://www.theguardian.com/p/x4qdyg",
-      "thumbnail": "https://media.guim.co.uk/d68c65d72bd5035e3f445e09afe54f71393cc07d/1039_0_6814_5452/500.jpg",
-      "published": "2026-04-24T21:20:21Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
     {
       "id": "world/live/2026/apr/25/middle-east-crisis-live-witkoff-and-kushner-head-to-pakistan-for-iran-negotiations",
       "headline": "Middle East crisis live: Witkoff and Kushner headed to Pakistan for Iran negotiations ",
@@ -706,6 +658,22 @@
         "name": "Paris",
         "lat": 48.8566,
         "lng": 2.3522
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/apr/25/fa-cup-leeds-chelsea-semi-final-wembley-daniel-farke",
+      "headline": "Leeds seek seminal moment with FA Cup semi-final chance against Chelsea",
+      "summary": "Leeds United face Chelsea in FA Cup semi-final at Wembley seeking path to final.",
+      "url": "https://www.theguardian.com/p/x4qd68",
+      "thumbnail": "https://media.guim.co.uk/9f6826ff57fb87c262d1cab623e28855610ce037/1339_0_3668_2936/500.jpg",
+      "published": "2026-04-25T21:30:56Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
       },
       "category": "sport",
       "significance": 3,
