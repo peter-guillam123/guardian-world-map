@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-04-25T18:06:56.709Z",
-    "story_count": 40,
-    "oldest_story": "2026-04-24T19:32:33Z",
-    "newest_story": "2026-04-25T17:58:39Z",
+    "generated_at": "2026-04-25T20:01:40.291Z",
+    "story_count": 44,
+    "oldest_story": "2026-04-24T20:09:32Z",
+    "newest_story": "2026-04-25T19:57:28Z",
     "window_hours": 24
   },
   "stories": [
@@ -20,22 +20,6 @@
         "lng": -74.7597
       },
       "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/apr/24/us-veteran-lost-arizona-wilderness-rescued-son",
-      "headline": "US veteran lost in Arizona’s wilderness for four days rescued by his own son",
-      "summary": "Vietnam veteran rescued by son after being lost in Arizona wilderness for four days.",
-      "url": "https://www.theguardian.com/p/x4qe7q",
-      "thumbnail": "https://media.guim.co.uk/7224bf48edb273a45187e325378bef2810179d06/0_71_1456_1164/500.jpg",
-      "published": "2026-04-24T19:32:33Z",
-      "location": {
-        "name": "Arizona",
-        "lat": 33.7298,
-        "lng": -111.4312
-      },
-      "category": "health",
       "significance": 2,
       "section": "us-news"
     },
@@ -646,6 +630,86 @@
       "category": "health",
       "significance": 3,
       "section": "us-news"
+    },
+    {
+      "id": "sport/2026/apr/25/northampton-bath-prem-rugby-union-match-report",
+      "headline": "Northampton strengthen grip on top of Prem after thrilling win against Bath",
+      "summary": "Northampton beats Bath 41-38 with last-kick win, scoring 12 tries combined in thrilling Premiership match.",
+      "url": "https://www.theguardian.com/p/x4q9h8",
+      "thumbnail": "https://media.guim.co.uk/d078dc158e4e31cd5d0ed8a303ace4eb2fb30f32/271_0_3549_2840/500.jpg",
+      "published": "2026-04-25T19:57:28Z",
+      "location": {
+        "name": "Northampton",
+        "lat": 52.2407,
+        "lng": -0.8906
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "us-news/2026/apr/25/one-police-officer-dead-after-chicago-hospital-shooting",
+      "headline": "One police officer dead after Chicago hospital shooting",
+      "summary": "Police officer killed, another critically injured in hospital shooting; suspect in custody.",
+      "url": "https://www.theguardian.com/p/x4qjyb",
+      "thumbnail": "https://media.guim.co.uk/f8aa1b459b2ef1fb487dc7bf7575dc59055e49c0/564_0_4454_3563/500.jpg",
+      "published": "2026-04-25T19:41:26Z",
+      "location": {
+        "name": "Chicago",
+        "lat": 41.8781,
+        "lng": -87.6298
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/apr/25/manchester-citys-relentless-pursuit-of-silverware-shows-no-sign-of-abating",
+      "headline": "Manchester City’s relentless pursuit of silverware shows no sign of abating",
+      "summary": "Manchester City reaches fourth consecutive FA Cup final, continuing pursuit of treble silverware.",
+      "url": "https://www.theguardian.com/p/x4q7ae",
+      "thumbnail": "https://media.guim.co.uk/aaff041ee60cf526c2c5b5a7d7f001ddf26101e8/363_0_3634_2907/500.jpg",
+      "published": "2026-04-25T19:36:30Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "world/2026/apr/25/macron-says-eus-mutual-defence-clause-not-just-words",
+      "headline": "Macron says EU’s mutual defence clause ‘not just words’",
+      "summary": "Macron affirms EU mutual defence clause is binding, citing Cyprus military aid as proof.",
+      "url": "https://www.theguardian.com/p/x4qjc8",
+      "thumbnail": "https://media.guim.co.uk/6f726ac19da6000f211edf61805b17e7cf7221ec/1020_0_6400_5120/500.jpg",
+      "published": "2026-04-25T19:10:27Z",
+      "location": {
+        "name": "Athens",
+        "lat": 37.9838,
+        "lng": 23.7275
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "football/2026/apr/25/bayern-psg-premier-league-champions-league",
+      "headline": "Bold Bayern and PSG leave Premier League elite looking more like lambs than lions",
+      "summary": "Bayern and PSG's domestic dominance gives Champions League advantage over Premier League clubs.",
+      "url": "https://www.theguardian.com/p/x4qbpt",
+      "thumbnail": "https://media.guim.co.uk/9c52bf9153b886ac13930729c546cdb111e0079a/0_0_5000_4000/500.jpg",
+      "published": "2026-04-25T19:00:53Z",
+      "location": {
+        "name": "Paris",
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
     }
   ]
 }
