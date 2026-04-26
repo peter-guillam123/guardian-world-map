@@ -1,76 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-26T06:30:19.350Z",
+    "generated_at": "2026-04-26T09:39:31.972Z",
     "story_count": 42,
-    "oldest_story": "2026-04-25T08:00:39Z",
-    "newest_story": "2026-04-26T06:29:25Z",
+    "oldest_story": "2026-04-25T11:00:43Z",
+    "newest_story": "2026-04-26T09:38:37Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/live/2026/apr/25/matchday-live-fa-cup-semi-final-manchester-city-southampton-premier-league-tottenham-west-ham-arsenal-newcastle",
-      "headline": "FA Cup semi-final buildup, plus crunch games at both ends of the Premier League – matchday live",
-      "summary": "FA Cup semi-final buildup and Premier League matchday with crucial games at both ends of table.",
-      "url": "https://www.theguardian.com/p/x4qxq5",
-      "thumbnail": "https://media.guim.co.uk/4b9cbfc0b451c810b97f6163cd006aaec45b4375/0_0_5000_4000/500.jpg",
-      "published": "2026-04-25T08:24:02Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4831,
-        "lng": -2.243
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "news/2026/apr/25/indigenous-leaders-anzac-day-booing-racism-orchestrated-dawn-service-australia-ntwnfb",
-      "headline": "‘Racism is a cancer’: Indigenous leaders condemn orchestrated booing at Anzac Day ceremonies",
-      "summary": "Indigenous leaders condemn orchestrated booing at Anzac Day ceremonies across Australian cities.",
-      "url": "https://www.theguardian.com/p/x4qgkg",
-      "thumbnail": "https://media.guim.co.uk/4661e0017a62f4b0598dd3c1e844fc3573ad35c4/1000_0_5000_4000/500.jpg",
-      "published": "2026-04-25T08:20:50Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "news"
-    },
-    {
-      "id": "food/2026/apr/25/penne-alla-vodka-popular-new-york-80s-resurgence",
-      "headline": "Disco hit: Penne alla vodka, popular in New York 80s clubs, is now a menu staple",
-      "summary": "Penne alla vodka, a 1980s NYC club favorite, experiences resurgence as trendy pasta dish.",
-      "url": "https://www.theguardian.com/p/x4qcnv",
-      "thumbnail": "https://media.guim.co.uk/dfb9c215a02a8f66bb32ed99634b42b66c0ae9cd/78_0_4800_3840/500.jpg",
-      "published": "2026-04-25T08:00:40Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "food"
-    },
-    {
-      "id": "world/2026/apr/25/athens-cannot-operate-as-a-giant-hotel-mayor-vows-to-rescue-capital-from-overtourism",
-      "headline": "‘Athens cannot operate as a giant hotel’: mayor vows to rescue capital from overtourism",
-      "summary": "Athens mayor pledges action against overtourism affecting 700,000 residents amid 8 million annual visitors.",
-      "url": "https://www.theguardian.com/p/x4qdgb",
-      "thumbnail": "https://media.guim.co.uk/ec37ef5cbfd55fc592e7ee12f7ec2bb200c41f56/688_538_6208_4966/500.jpg",
-      "published": "2026-04-25T08:00:39Z",
-      "location": {
-        "name": "Athens",
-        "lat": 37.9838,
-        "lng": 23.7275
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "world"
-    },
     {
       "id": "sport/live/2026/apr/25/surrey-v-essex-kent-v-worcestershire-and-more-county-cricket-day-two-live",
       "headline": "Surrey v Essex, Kent v Worcestershire, and more: county cricket, day two – live",
@@ -678,6 +614,70 @@
       "category": "sport",
       "significance": 2,
       "section": "sport"
+    },
+    {
+      "id": "sport/live/2026/apr/26/london-marathon-2026-live-updates",
+      "headline": "London Marathon 2026 – live updates",
+      "summary": "Elite runners compete in London Marathon 2026, with Catherine Debrunner winning the women's wheelchair race.",
+      "url": "https://www.theguardian.com/p/x4q89v",
+      "thumbnail": "https://media.guim.co.uk/1e86518346a53a2431f5747533113a43270351ac/328_0_4820_3856/500.jpg",
+      "published": "2026-04-26T09:38:37Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "football/live/2026/apr/26/chelsea-and-leeds-head-to-wembley-a-big-derby-for-hearts-and-wcl-action-matchday-live",
+      "headline": "Chelsea and Leeds head to Wembley, a big derby for Hearts and WCL action – matchday live",
+      "summary": "Chelsea and Leeds head to Wembley for FA Cup semi-final; Championship promotion race intensifies.",
+      "url": "https://www.theguardian.com/p/x4q2ea",
+      "thumbnail": "https://media.guim.co.uk/3f7fb10dff000c2246b95eab88f5f27714075bf1/0_0_5000_4000/500.jpg",
+      "published": "2026-04-26T09:10:13Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "sport/live/2026/apr/26/surrey-v-essex-nottinghamshire-v-warwickshire-and-more-county-cricket-day-three-live",
+      "headline": "Surrey v Essex, Notts v Warwickshire, and more: county cricket, day three – live",
+      "summary": "County Championship day three coverage from Surrey, Essex, Nottinghamshire, Warwickshire and other grounds.",
+      "url": "https://www.theguardian.com/p/x4q75d",
+      "thumbnail": "https://media.guim.co.uk/4e0503d4f6cefc7434692be4ec8368d2bcffd181/441_0_4468_3575/500.jpg",
+      "published": "2026-04-26T09:05:41Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 1,
+      "section": "sport"
+    },
+    {
+      "id": "tv-and-radio/2026/apr/26/comic-relief-40-years-british-comedy",
+      "headline": "‘We asked Billy Connolly to do 15 minutes. He said “I’ll do as long as I want”’: the sweary, shambolic all-nighter that became Comic Relief",
+      "summary": "Comic Relief celebrates 40 years since its inception, with reflections from Lenny Henry, Richard Curtis and others.",
+      "url": "https://www.theguardian.com/p/x4z7yd",
+      "thumbnail": "https://media.guim.co.uk/bd824373a100838ebe38ddb7f921ed4a74bc9f85/75_21_2777_2220/500.jpg",
+      "published": "2026-04-26T09:00:10Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "tv-and-radio"
     }
   ]
 }
