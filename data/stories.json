@@ -1,60 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-26T17:06:02.165Z",
-    "story_count": 49,
-    "oldest_story": "2026-04-25T17:23:14Z",
-    "newest_story": "2026-04-26T17:03:12Z",
+    "generated_at": "2026-04-26T19:51:54.435Z",
+    "story_count": 47,
+    "oldest_story": "2026-04-25T19:57:28Z",
+    "newest_story": "2026-04-26T19:22:06Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/2025/sep/15/premier-league-top-scorers-2025-26-who-is-leading-race-for-golden-boot",
-      "headline": "Premier League top scorers 2025-26: who is leading race for golden boot?",
-      "summary": "Erling Haaland leads Premier League goalscoring race with 24 goals this season.",
-      "url": "https://www.theguardian.com/p/x386fa",
-      "thumbnail": "https://media.guim.co.uk/25a17f223afb3ce61b02e0706e23edf6834f9b81/148_0_1905_1524/500.jpg",
-      "published": "2026-04-25T17:58:39Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "uk-news/2026/apr/25/social-media-influencer-dies-six-days-after-car-hit-her-outside-london-nightclub",
-      "headline": "Social media influencer dies six days after car hit her outside London nightclub",
-      "summary": "Social media influencer Klaudia Zakrzewska dies six days after car hits her in Soho.",
-      "url": "https://www.theguardian.com/p/x4qj89",
-      "thumbnail": "https://media.guim.co.uk/7efc8c359489f93a96e2d316b16b1ce5e104fc2a/26_140_3095_2476/500.jpg",
-      "published": "2026-04-25T17:52:11Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "us-news/2026/apr/25/camp-mystic-texas-reopening",
-      "headline": "Texas camp where 25 girls died in 2025 flood may not be allowed to reopen",
-      "summary": "Camp Mystic in Texas may not reopen after 27 deaths in July 2025 flood.",
-      "url": "https://www.theguardian.com/p/x4qj48",
-      "thumbnail": "https://media.guim.co.uk/701cb1455ccaf9eaa655349dad2db151f2ae8255/284_0_3000_2400/500.jpg",
-      "published": "2026-04-25T17:23:14Z",
-      "location": {
-        "name": "Texas",
-        "lat": 31.9686,
-        "lng": -99.9018
-      },
-      "category": "health",
-      "significance": 3,
-      "section": "us-news"
-    },
     {
       "id": "sport/2026/apr/25/northampton-bath-prem-rugby-union-match-report",
       "headline": "Northampton strengthen grip on top of Prem after thrilling win against Bath",
@@ -70,70 +22,6 @@
       "category": "sport",
       "significance": 2,
       "section": "sport"
-    },
-    {
-      "id": "us-news/2026/apr/25/one-police-officer-dead-after-chicago-hospital-shooting",
-      "headline": "One police officer dead after Chicago hospital shooting",
-      "summary": "Police officer killed, another critically injured in hospital shooting; suspect in custody.",
-      "url": "https://www.theguardian.com/p/x4qjyb",
-      "thumbnail": "https://media.guim.co.uk/f8aa1b459b2ef1fb487dc7bf7575dc59055e49c0/564_0_4454_3563/500.jpg",
-      "published": "2026-04-25T19:41:26Z",
-      "location": {
-        "name": "Chicago",
-        "lat": 41.8781,
-        "lng": -87.6298
-      },
-      "category": "conflict",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "football/2026/apr/25/manchester-citys-relentless-pursuit-of-silverware-shows-no-sign-of-abating",
-      "headline": "Manchester City’s relentless pursuit of silverware shows no sign of abating",
-      "summary": "Manchester City reaches fourth consecutive FA Cup final, continuing pursuit of treble silverware.",
-      "url": "https://www.theguardian.com/p/x4q7ae",
-      "thumbnail": "https://media.guim.co.uk/aaff041ee60cf526c2c5b5a7d7f001ddf26101e8/363_0_3634_2907/500.jpg",
-      "published": "2026-04-25T19:36:30Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4808,
-        "lng": -2.2426
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "world/2026/apr/25/macron-says-eus-mutual-defence-clause-not-just-words",
-      "headline": "Macron says EU’s mutual defence clause ‘not just words’",
-      "summary": "Macron affirms EU mutual defence clause is binding, citing Cyprus military aid as proof.",
-      "url": "https://www.theguardian.com/p/x4qjc8",
-      "thumbnail": "https://media.guim.co.uk/6f726ac19da6000f211edf61805b17e7cf7221ec/1020_0_6400_5120/500.jpg",
-      "published": "2026-04-25T19:10:27Z",
-      "location": {
-        "name": "Athens",
-        "lat": 37.9838,
-        "lng": 23.7275
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "football/2026/apr/25/bayern-psg-premier-league-champions-league",
-      "headline": "Bold Bayern and PSG leave Premier League elite looking more like lambs than lions",
-      "summary": "Bayern and PSG's domestic dominance gives Champions League advantage over Premier League clubs.",
-      "url": "https://www.theguardian.com/p/x4qbpt",
-      "thumbnail": "https://media.guim.co.uk/9c52bf9153b886ac13930729c546cdb111e0079a/0_0_5000_4000/500.jpg",
-      "published": "2026-04-25T19:00:53Z",
-      "location": {
-        "name": "Paris",
-        "lat": 48.8566,
-        "lng": 2.3522
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
     },
     {
       "id": "football/2026/apr/25/fa-cup-leeds-chelsea-semi-final-wembley-daniel-farke",
@@ -789,6 +677,86 @@
       },
       "category": "sport",
       "significance": 4,
+      "section": "sport"
+    },
+    {
+      "id": "politics/2026/apr/26/keir-starmer-vows-lead-labour-general-election-mandelson-vetting",
+      "headline": "Rival Labour factions understood to be discussing how to remove Keir Starmer as leader",
+      "summary": "Labour MPs discuss orderly transition process to remove PM Keir Starmer amid growing frustration.",
+      "url": "https://www.theguardian.com/p/x4qmnd",
+      "thumbnail": "https://media.guim.co.uk/5ce59290dddc0491ef9b16dd01447687b787dafb/1592_32_2388_1911/500.jpg",
+      "published": "2026-04-26T19:22:06Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "politics"
+    },
+    {
+      "id": "football/2026/apr/26/mcfarlane-chelsea-leeds-fa-cup-semi-final-farke",
+      "headline": "McFarlane delighted Chelsea stopped the rot by beating Leeds in FA Cup semi-final",
+      "summary": "Chelsea beats Leeds in FA Cup semi-final, reaching final after ending five-match scoreless drought.",
+      "url": "https://www.theguardian.com/p/x4qd9g",
+      "thumbnail": "https://media.guim.co.uk/b3d9a1de722ac70108c73d78566758f9bc972f9c/458_0_4965_3973/500.jpg",
+      "published": "2026-04-26T18:51:15Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/apr/26/white-house-correspondents-dinner-shooting-washington-dc",
+      "headline": "Washington in shock after White House press dinner shooting: ‘an angry, polarized nation’",
+      "summary": "Shots fired at White House correspondents' dinner; gunman targets Secret Service agent as Trump attends.",
+      "url": "https://www.theguardian.com/p/x4qz5v",
+      "thumbnail": "https://media.guim.co.uk/aacf83de4971def5aae4a8e88f653d393528f62c/24_0_4182_3346/500.jpg",
+      "published": "2026-04-26T18:46:23Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/apr/26/white-house-press-dinner-shooting-how-it-unfolded",
+      "headline": "Shots rang out, pandemonium erupted: how the White House press dinner shooting unfolded",
+      "summary": "Chaos erupts at White House press dinner as shooting occurs; Trump dives to ground during incident.",
+      "url": "https://www.theguardian.com/p/x4qnfk",
+      "thumbnail": "https://media.guim.co.uk/840871d1aaaa70a1b635a5f72047a6656e20ed78/319_0_3190_2552/500.jpg",
+      "published": "2026-04-26T18:45:44Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "us-news"
+    },
+    {
+      "id": "sport/2026/apr/26/coco-gauff-virus-fourth-round-madrid-open-tennis",
+      "headline": "Coco Gauff reaches fourth round despite vomiting on court at Madrid Open",
+      "summary": "Coco Gauff reaches Madrid Open fourth round despite vomiting on court while battling virus.",
+      "url": "https://www.theguardian.com/p/x4qdtn",
+      "thumbnail": "https://media.guim.co.uk/d4786061ccbaa821673d8512da78b62390c3c323/677_0_6772_5417/500.jpg",
+      "published": "2026-04-26T18:42:42Z",
+      "location": {
+        "name": "Madrid",
+        "lat": 40.4168,
+        "lng": -3.7038
+      },
+      "category": "sport",
+      "significance": 2,
       "section": "sport"
     }
   ]
