@@ -1,140 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-26T14:33:31.557Z",
-    "story_count": 45,
-    "oldest_story": "2026-04-25T15:00:48Z",
-    "newest_story": "2026-04-26T14:33:02Z",
+    "generated_at": "2026-04-26T17:06:02.165Z",
+    "story_count": 49,
+    "oldest_story": "2026-04-25T17:23:14Z",
+    "newest_story": "2026-04-26T17:03:12Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/2026/apr/25/manchester-united-target-atalanta-ederson-to-replace-casemiro",
-      "headline": "Manchester United target Atalanta’s Éderson as Casemiro replacement",
-      "summary": "Manchester United targets Atalanta's Éderson as midfield replacement for Casemiro.",
-      "url": "https://www.theguardian.com/p/x4qtyq",
-      "thumbnail": "https://media.guim.co.uk/47408d6ef72ab032689f9ab606476c97e9367e32/419_0_2653_2122/500.jpg",
-      "published": "2026-04-25T16:03:04Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4808,
-        "lng": -2.2426
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "politics/2026/apr/25/security-vetting-stepped-up-after-mp-is-given-bodyguard-with-far-right-links",
-      "headline": "Security vetting stepped up after MP is given bodyguard with far-right links",
-      "summary": "UK tightens MP bodyguard vetting after far-right security breach incident.",
-      "url": "https://www.theguardian.com/p/x4q2m5",
-      "thumbnail": "https://media.guim.co.uk/da5eeecf8ba69a0cc86cc216520d1b2cbe6b06c7/136_0_2513_2010/500.jpg",
-      "published": "2026-04-25T16:00:49Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "football/live/2026/apr/25/arsenal-v-newcastle-united-premier-league-live",
-      "headline": "Arsenal v Newcastle United: Premier League – live ",
-      "summary": "Arsenal faces Newcastle United in Premier League match to reclaim top spot.",
-      "url": "https://www.theguardian.com/p/x4q6zd",
-      "thumbnail": "https://media.guim.co.uk/f9c4b886d6a916fa96b171e7addb8f893828cd91/448_0_4803_3843/500.jpg",
-      "published": "2026-04-25T15:55:59Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "football/live/2026/apr/25/manchester-city-v-southampton-fa-cup-semi-final-live",
-      "headline": "Manchester City v Southampton: FA Cup semi-final – live ",
-      "summary": "Manchester City contests FA Cup semi-final against Southampton at Wembley.",
-      "url": "https://www.theguardian.com/p/x4q6mh",
-      "thumbnail": "https://media.guim.co.uk/19cfffca76967bd657548e2c61821db8c5206008/229_126_2968_2374/500.jpg",
-      "published": "2026-04-25T15:47:44Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "uk-news/2026/apr/25/met-police-investigates-hundreds-officers-palantir-ai-tool",
-      "headline": "Met investigates hundreds of officers after using Palantir AI tool",
-      "summary": "Metropolitan Police investigates hundreds of officers using Palantir AI tool.",
-      "url": "https://www.theguardian.com/p/x4qttb",
-      "thumbnail": "https://media.guim.co.uk/1eeacbb3ed233aa92023d96822d37378c6bc54b4/348_0_3960_3168/500.jpg",
-      "published": "2026-04-25T15:34:10Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "tech",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "sport/2026/apr/25/england-wales-womens-six-nations-rugby-union-match-report",
-      "headline": "Meg Jones shines as relentless England sweep Wales aside to seal triple crown",
-      "summary": "England defeats Wales 62-24 in Women's Six Nations rugby to seal triple crown.",
-      "url": "https://www.theguardian.com/p/x4q9hx",
-      "thumbnail": "https://media.guim.co.uk/669c79f7399d86c114b3573bf8ee6151ba7649c2/223_0_1879_1503/500.jpg",
-      "published": "2026-04-25T15:23:39Z",
-      "location": {
-        "name": "Cardiff",
-        "lat": 51.4816,
-        "lng": -3.1791
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "world/2026/apr/25/conspiracy-theory-ufo-scientists-white-house",
-      "headline": "Conspiracy theory over UFOs and missing scientists spreads from web to White House",
-      "summary": "UFO conspiracy theory linking missing scientists gains attention at White House.",
-      "url": "https://www.theguardian.com/p/x4pzvg",
-      "thumbnail": "https://media.guim.co.uk/34eb08a24f74881adf3e655ff640559927120023/3_0_4315_3453/500.jpg",
-      "published": "2026-04-25T15:00:48Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "us-news/2026/apr/25/california-juet-fuel-supply",
-      "headline": "California’s jet fuel supply drops to three-year low as Middle East turmoil squeezes global oil market",
-      "summary": "California's jet fuel supply drops to three-year low amid Middle East turmoil.",
-      "url": "https://www.theguardian.com/p/x4qfqa",
-      "thumbnail": "https://media.guim.co.uk/172851f63bfda26c1fb9f44eb14f7b2a6ab17ad6/199_0_2972_2378/500.jpg",
-      "published": "2026-04-25T15:00:48Z",
-      "location": {
-        "name": "California",
-        "lat": 36.1163,
-        "lng": -119.6674
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "us-news"
-    },
     {
       "id": "football/2025/sep/15/premier-league-top-scorers-2025-26-who-is-leading-race-for-golden-boot",
       "headline": "Premier League top scorers 2025-26: who is leading race for golden boot?",
@@ -726,6 +598,198 @@
       "category": "conflict",
       "significance": 4,
       "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/apr/26/texas-tornado-georgia-wildfires-storms",
+      "headline": "Texas tornado kills at least one person as wildfires still rage in parts of Georgia",
+      "summary": "Powerful tornado kills at least one in Texas as Georgia wildfires rage across southern US.",
+      "url": "https://www.theguardian.com/p/x4qz7q",
+      "thumbnail": "https://media.guim.co.uk/68cc737bc39bc2d73554dae5eca779a33a3ded9b/128_0_1919_1536/500.jpg",
+      "published": "2026-04-26T17:03:12Z",
+      "location": {
+        "name": "Texas",
+        "lat": 33.196,
+        "lng": -97.2313
+      },
+      "category": "climate",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/apr/26/suspected-gunman-white-house-press-dinner-trump-named-cole-tomas-allen",
+      "headline": "Suspected gunman at White House press dinner named",
+      "summary": "Suspected gunman Cole Tomas Allen identified after shooting at White House correspondents' dinner.",
+      "url": "https://www.theguardian.com/p/x4qydj",
+      "thumbnail": "https://media.guim.co.uk/164d2e23889a5e2431cdd3cb713d709f9d00a7f5/494_0_4916_3935/500.jpg",
+      "published": "2026-04-26T16:58:16Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "world/2026/apr/26/final-steps-audacious-plan-tow-whale-stranded-germany-north-sea-timmy",
+      "headline": "Final steps taken before audacious plan to tow whale stranded in Germany to North Sea",
+      "summary": "Final preparations underway for millionaire-funded operation to tow stranded humpback whale to North Sea.",
+      "url": "https://www.theguardian.com/p/x4qn5d",
+      "thumbnail": "https://media.guim.co.uk/5de8e80e5fdf6c456a40fa6d64e00c06f12c8a47/0_0_2135_1709/500.jpg",
+      "published": "2026-04-26T16:46:05Z",
+      "location": {
+        "name": "Germany",
+        "lat": 52.52,
+        "lng": 13.405
+      },
+      "category": "other",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "environment/2026/apr/26/rare-axolotl-found-welsh-bridge-probably-abandoned-pet-experts",
+      "headline": "Rare axolotl found under Welsh bridge probably an abandoned pet, say experts ",
+      "summary": "Rare axolotl discovered under Welsh bridge, likely abandoned pet driven by Pokémon craze.",
+      "url": "https://www.theguardian.com/p/x4qzxq",
+      "thumbnail": "https://media.guim.co.uk/d1886f80e813aea51353cc570f5f9b3f1fe100b6/158_0_1124_899/500.jpg",
+      "published": "2026-04-26T16:44:54Z",
+      "location": {
+        "name": "Wales",
+        "lat": 51.5074,
+        "lng": -3.2163
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "environment"
+    },
+    {
+      "id": "business/2026/apr/26/greggs-rolls-back-self-service-counters-shoplifting-hotspots",
+      "headline": "Greggs rolls back self-service cabinets in shoplifting hotspots",
+      "summary": "Greggs removes self-service cabinets in shoplifting hotspots across UK high street locations.",
+      "url": "https://www.theguardian.com/p/x4qnm8",
+      "thumbnail": "https://media.guim.co.uk/41c21d35678ffdd7cbb0db9ade37559105b413d6/0_207_3924_3139/500.jpg",
+      "published": "2026-04-26T16:43:31Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "world/2026/apr/26/viktor-orban-associates-wealth-hungary-election",
+      "headline": "Orbán associates rush to move wealth out of Hungary after election defeat",
+      "summary": "Orbán allies rush to move wealth following Péter Magyar's election victory in Hungary.",
+      "url": "https://www.theguardian.com/p/x4qbm3",
+      "thumbnail": "https://media.guim.co.uk/14a27c0b2a1d3e86c3cd9fe63f0ab4f56fc4d35c/998_0_4780_3824/500.jpg",
+      "published": "2026-04-26T16:42:21Z",
+      "location": {
+        "name": "Hungary",
+        "lat": 47.4979,
+        "lng": 19.0402
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "football/2026/apr/26/arsenal-ol-lyonnes-womens-champions-league-semi-final-match-report",
+      "headline": "Olivia Smith’s late strike gives Arsenal edge over OL Lyonnes in WCL semi-final",
+      "summary": "Olivia Smith's late goal gives Arsenal 2-1 victory over Lyon in Women's Champions League semi-final.",
+      "url": "https://www.theguardian.com/p/x4qdd9",
+      "thumbnail": "https://media.guim.co.uk/460e9af78a52d6a19b2f4c98de2aa44c794f83d1/127_0_2586_2069/500.jpg",
+      "published": "2026-04-26T16:38:28Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "media/2026/apr/26/pam-masters-obituary",
+      "headline": "Pam Masters obituary",
+      "summary": "Pam Masters, Channel 4's first head of presentation, obituary recognizes pioneering TV executive.",
+      "url": "https://www.theguardian.com/p/x4qz4q",
+      "thumbnail": "https://media.guim.co.uk/14dc3e36c8d25af3c9876599ecff16bb9d172ba5/91_386_2804_2243/500.jpg",
+      "published": "2026-04-26T16:31:08Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "media"
+    },
+    {
+      "id": "us-news/2026/apr/26/trump-white-house-ballroom-dinner-shooting",
+      "headline": "Trump claims gala shooting gives urgency to White House ballroom plan",
+      "summary": "Trump uses White House ballroom shooting to press $400m controversial construction project.",
+      "url": "https://www.theguardian.com/p/x4qnde",
+      "thumbnail": "https://media.guim.co.uk/8f3816a9ee7b0fbe47d96cf11b3f749610020984/403_0_4027_3222/500.jpg",
+      "published": "2026-04-26T16:19:53Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/apr/26/chelsea-leeds-fa-cup-semi-final-match-report",
+      "headline": "Enzo Fernández sees off Leeds to set up Chelsea v Manchester City FA Cup final",
+      "summary": "Enzo Fernández goal sends Chelsea to FA Cup final with 1-0 victory over Leeds United.",
+      "url": "https://www.theguardian.com/p/x4qd8m",
+      "thumbnail": "https://media.guim.co.uk/4f702c087d9be24848371f8bc84ee48a3e590c41/520_146_3201_2561/500.jpg",
+      "published": "2026-04-26T16:16:02Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "music/2026/apr/26/michael-tilson-thomas-obituary",
+      "headline": "Michael Tilson Thomas obituary",
+      "summary": "Michael Tilson Thomas, acclaimed conductor of London Symphony Orchestra, obituary celebrates his legacy.",
+      "url": "https://www.theguardian.com/p/x4qnnk",
+      "thumbnail": "https://media.guim.co.uk/2fa6f6de17139c891863d5dc3274d8ba40bcfa4e/98_0_6139_4912/500.jpg",
+      "published": "2026-04-26T16:03:48Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "music"
+    },
+    {
+      "id": "sport/2026/apr/26/bread-and-honey-london-marathon-sabastian-sawe-world-record-2026",
+      "headline": "Bread and honey for breakfast and 150 miles a week training: secrets of Sawe’s world record",
+      "summary": "Kenyan Sabastian Sawe runs first sub-two-hour marathon with world record at London Marathon.",
+      "url": "https://www.theguardian.com/p/x4qz3m",
+      "thumbnail": "https://media.guim.co.uk/d7a7de1e9ea90fbd5f08dc0e078c0a1ee163f53e/712_0_6827_5464/500.jpg",
+      "published": "2026-04-26T16:03:29Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 4,
+      "section": "sport"
     }
   ]
 }
