@@ -1,76 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-26T09:39:31.972Z",
-    "story_count": 42,
-    "oldest_story": "2026-04-25T11:00:43Z",
-    "newest_story": "2026-04-26T09:38:37Z",
+    "generated_at": "2026-04-26T11:58:34.875Z",
+    "story_count": 46,
+    "oldest_story": "2026-04-25T13:00:45Z",
+    "newest_story": "2026-04-26T11:55:31Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "sport/live/2026/apr/25/surrey-v-essex-kent-v-worcestershire-and-more-county-cricket-day-two-live",
-      "headline": "Surrey v Essex, Kent v Worcestershire, and more: county cricket, day two – live",
-      "summary": "County Cricket Championship day two: Surrey, Essex, Kent, Worcestershire and other matches in progress.",
-      "url": "https://www.theguardian.com/p/x4q22b",
-      "thumbnail": "https://media.guim.co.uk/63bd785158ba83faff93cfeeb64042a28412fb00/5_0_2250_1800/500.jpg",
-      "published": "2026-04-25T11:09:41Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 1,
-      "section": "sport"
-    },
-    {
-      "id": "football/live/2026/apr/25/fulham-v-aston-villa-premier-league-live",
-      "headline": "Fulham v Aston Villa: Premier League – live",
-      "summary": "Fulham faces Aston Villa in Premier League match as Villa seek Champions League consolidation.",
-      "url": "https://www.theguardian.com/p/x4q29f",
-      "thumbnail": "https://media.guim.co.uk/4cc35709fa3a43d117bc45afadac2be00aba2ef8/746_722_3116_2493/500.jpg",
-      "published": "2026-04-25T11:05:40Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "us-news/2026/apr/25/louisiana-judge-catholic-church-abuse-recusal",
-      "headline": "Louisiana judge in abuse case belatedly recuses himself after ruling in favor of church on whose finance panel he sits",
-      "summary": "Louisiana judge recuses himself after ruling in favor of Catholic Church in abuse lookback case.",
-      "url": "https://www.theguardian.com/p/x4q54m",
-      "thumbnail": "https://media.guim.co.uk/60cc03272c96ef64af1fce96cf1872d1aeff52a4/449_335_1604_1283/500.jpg",
-      "published": "2026-04-25T11:00:44Z",
-      "location": {
-        "name": "New Orleans",
-        "lat": 29.9511,
-        "lng": -90.2623
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "politics/2026/apr/25/iran-shock-hits-rachel-reeves-chancellor-as-uk-economy-turns-corner",
-      "headline": "Unlucky chancellor? Iran shock hits Reeves just as UK seemed to turn corner",
-      "summary": "UK Chancellor Reeves faces economic disruption as US-Israeli Iran attack jeopardizes recovery momentum.",
-      "url": "https://www.theguardian.com/p/x4qxp2",
-      "thumbnail": "https://media.guim.co.uk/bcd98fc59aec6c3f393132daa8aa7264b19fa2f6/250_0_2500_2000/500.jpg",
-      "published": "2026-04-25T11:00:43Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "politics"
-    },
     {
       "id": "sport/live/2026/apr/25/england-v-wales-womens-six-nations-live",
       "headline": "England v Wales: Women’s Six Nations rugby union – live",
@@ -678,6 +614,134 @@
       "category": "culture",
       "significance": 2,
       "section": "tv-and-radio"
+    },
+    {
+      "id": "politics/2026/apr/26/voters-contend-with-grotesque-leaflets-and-dodgy-data-in-english-local-elections-say-analysts",
+      "headline": "Voters contend with ‘grotesque’ leaflets and ‘dodgy’ data in English elections",
+      "summary": "Investigation reveals misleading tactical voting claims in English local election leaflets using flawed data.",
+      "url": "https://www.theguardian.com/p/x4qdnt",
+      "thumbnail": "https://media.guim.co.uk/852bdbfdc5702f003f4345e6b53febaa09379f4c/443_561_400_320/master/400.jpg",
+      "published": "2026-04-26T11:55:31Z",
+      "location": {
+        "name": "England",
+        "lat": 52.6369,
+        "lng": -1.1398
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "us-news/live/2026/apr/26/white-house-correspondents-dinner-shooting-latest-donald-trump-suspect-washington-hilton",
+      "headline": " White House correspondents’ dinner shooting latest: Trump unharmed and suspect in custody after attack at Washington Hilton",
+      "summary": "Gunman opens fire at White House correspondents' dinner; Trump unharmed, suspect in custody.",
+      "url": "https://www.theguardian.com/p/x4qmex",
+      "thumbnail": "https://media.guim.co.uk/374477beef3848ed176b7fc98d1d2531e65e40be/0_0_4850_3880/500.jpg",
+      "published": "2026-04-26T11:42:34Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "us-news"
+    },
+    {
+      "id": "sport/2026/apr/26/sabastian-sawe-breaks-two-hour-barrier-london-marathon-world-record",
+      "headline": "Sabastian Sawe breaks two-hour barrier to make history in London Marathon",
+      "summary": "Kenyan runner Sebastian Sawe breaks two-hour marathon barrier in historic London Marathon victory.",
+      "url": "https://www.theguardian.com/p/x4qdg4",
+      "thumbnail": "https://media.guim.co.uk/a99d8c0e6f94ea6794a6633436822d645b20011f/390_0_5144_4117/500.jpg",
+      "published": "2026-04-26T11:30:51Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "sport"
+    },
+    {
+      "id": "us-news/2026/apr/26/violence-must-never-be-the-way-world-leaders-react-to-washington-shooting-at-trump-event",
+      "headline": "‘Violence is never the answer’: world leaders react to Washington shooting at Trump event",
+      "summary": "World leaders condemn shooting at Trump event, denouncing political violence and praising security response.",
+      "url": "https://www.theguardian.com/p/x4qyez",
+      "thumbnail": "https://media.guim.co.uk/0e86d7a6c27da118619565c229e3d78d4a1b5e17/230_0_1616_1294/500.jpg",
+      "published": "2026-04-26T11:24:48Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "us-news"
+    },
+    {
+      "id": "uk-news/2026/apr/26/king-charles-security-us-visit-reviewed-washington-shooting-trump",
+      "headline": "King Charles’s security for US visit this week reviewed after Washington shooting",
+      "summary": "King Charles's US state visit security reviewed following Washington shooting incident.",
+      "url": "https://www.theguardian.com/p/x4qmqb",
+      "thumbnail": "https://media.guim.co.uk/a32e36e27bb13612998aa5061d86471b31addb03/107_0_6827_5464/500.jpg",
+      "published": "2026-04-26T11:21:44Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "uk-news"
+    },
+    {
+      "id": "business/2026/apr/26/natwest-agm-showdown-climate-backtracking-protest-vote",
+      "headline": "NatWest faces AGM showdown over climate backtracking",
+      "summary": "NatWest faces shareholder protest votes over climate policy reversal at upcoming AGM.",
+      "url": "https://www.theguardian.com/p/x4qc7b",
+      "thumbnail": "https://media.guim.co.uk/637fbaf8f90bda21aefdc06194dad3b74e20afe1/470_0_3092_2475/500.jpg",
+      "published": "2026-04-26T11:21:14Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "books/2026/apr/26/its-still-a-no-go-area-german-author-matthias-jugler-on-the-trauma-surrounding-the-gdrs-stolen-children",
+      "headline": "‘It’s still a no-go area’: German author Matthias Jügler on the trauma surrounding the GDR’s ‘stolen children’",
+      "summary": "German author discusses backlash to novel exploring East Germany's 'stolen children' human rights abuses.",
+      "url": "https://www.theguardian.com/p/x4ynbe",
+      "thumbnail": "https://media.guim.co.uk/b50c4b6e3a1ed58008cffccc649323b050b214e9/0_526_4000_3198/500.jpg",
+      "published": "2026-04-26T11:00:16Z",
+      "location": {
+        "name": "Germany",
+        "lat": 51.1657,
+        "lng": 10.4515
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "books"
+    },
+    {
+      "id": "business/2026/apr/26/more-than-oil-prices-iran-war-threatens-to-reshape-global-energy-order",
+      "headline": "The great energy pivot: US oil and Chinese solar are the winners in Trump’s war on Iran",
+      "summary": "Trump's Iran conflict shifts global energy landscape, boosting US oil and Chinese solar power.",
+      "url": "https://www.theguardian.com/p/x4q7zj",
+      "thumbnail": "https://media.guim.co.uk/27d8a9ac11e4a75092f87b8da906b5b86577af0e/447_0_4466_3573/500.jpg",
+      "published": "2026-04-26T11:00:12Z",
+      "location": {
+        "name": "Iran",
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "business"
     }
   ]
 }
