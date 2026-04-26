@@ -1,156 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-26T11:58:34.875Z",
-    "story_count": 46,
-    "oldest_story": "2026-04-25T13:00:45Z",
-    "newest_story": "2026-04-26T11:55:31Z",
+    "generated_at": "2026-04-26T14:33:31.557Z",
+    "story_count": 45,
+    "oldest_story": "2026-04-25T15:00:48Z",
+    "newest_story": "2026-04-26T14:33:02Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "sport/live/2026/apr/25/england-v-wales-womens-six-nations-live",
-      "headline": "England v Wales: Women’s Six Nations rugby union – live",
-      "summary": "England faces Wales in Women's Six Nations rugby at Ashton Gate stadium.",
-      "url": "https://www.theguardian.com/p/x4q2c6",
-      "thumbnail": "https://media.guim.co.uk/8b13d7667dd79d65b8b77e54ec0990ebc8a1bd27/223_183_3179_2542/500.jpg",
-      "published": "2026-04-25T14:09:43Z",
-      "location": {
-        "name": "Bristol",
-        "lat": 51.4545,
-        "lng": -2.5879
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "us-news/2026/apr/25/hative-hawaiian-scholarship-program-lawsuit",
-      "headline": "A federal program has helped Native Hawaiian medical students for 35 years. It’s now being sued for discrimination",
-      "summary": "Conservative group sues federal program supporting Native Hawaiian medical students for alleged discrimination.",
-      "url": "https://www.theguardian.com/p/x4qf8f",
-      "thumbnail": "https://media.guim.co.uk/3e822b288839402c705faf008c882974fe09c719/0_0_3043_2435/500.jpg",
-      "published": "2026-04-25T14:00:47Z",
-      "location": {
-        "name": "Honolulu",
-        "lat": 21.3099,
-        "lng": -157.8581
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "world/2026/apr/25/canada-nova-scotia-wildfire-woods-ban",
-      "headline": "What counts as the woods? Judge axes Nova Scotia’s ban that defied ‘commonsense definitions’",
-      "summary": "Nova Scotia court voids wildfire-related woods ban as unconstitutionally vague.",
-      "url": "https://www.theguardian.com/p/x4q8mf",
-      "thumbnail": "https://media.guim.co.uk/6c3c8a2e594b8e6ceaf7fd148e6d38a75956c270/380_0_4718_3773/500.jpg",
-      "published": "2026-04-25T14:00:47Z",
-      "location": {
-        "name": "Halifax",
-        "lat": 44.6426,
-        "lng": -63.2181
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "us-news/2026/apr/25/mississippi-school-kids-bus-driver-unconscious",
-      "headline": "Mississippi school kids stop school bus on highway after driver passes out",
-      "summary": "Mississippi school students safely stop bus after driver loses consciousness from asthma attack.",
-      "url": "https://www.theguardian.com/p/x4qtdp",
-      "thumbnail": "https://media.guim.co.uk/87eb48b78822273d9ccaaeb1d0b57760d4f19f65/119_0_984_787/500.jpg",
-      "published": "2026-04-25T13:54:31Z",
-      "location": {
-        "name": "Kiln",
-        "lat": 30.3833,
-        "lng": -89.4333
-      },
-      "category": "other",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "football/2026/apr/25/fulham-aston-villa-premier-league-match-report",
-      "headline": "Sessegnon sinks lacklustre Aston Villa to keep Fulham’s European hopes alive",
-      "summary": "Sessegnon's goal gives Fulham 1-0 win over Aston Villa in Premier League match.",
-      "url": "https://www.theguardian.com/p/x4q7aj",
-      "thumbnail": "https://media.guim.co.uk/f7e3199a856642df2af0f7b1e0ffc58a2e399694/386_0_4043_3234/500.jpg",
-      "published": "2026-04-25T13:35:20Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/apr/25/york-city-promoted-back-to-football-league-as-106-point-rochdale-in-playoffs",
-      "headline": "York City promoted back to EFL in remarkable finale as 106-point Rochdale face playoffs",
-      "summary": "York City returns to Football League after dramatic 103rd-minute equalizer at Rochdale.",
-      "url": "https://www.theguardian.com/p/x4q7ck",
-      "thumbnail": "https://media.guim.co.uk/944ae414f5a6e0bc134d2fb9a5a58b1f6257f904/585_0_4575_3661/500.jpg",
-      "published": "2026-04-25T13:35:09Z",
-      "location": {
-        "name": "York",
-        "lat": 53.9581,
-        "lng": -1.082
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "world/2026/apr/25/russian-airstrikes-ukraine-dnipro-odesa-kharkiv",
-      "headline": "Russian airstrikes kill at least seven people in Ukraine overnight",
-      "summary": "Russian airstrikes kill at least seven in Ukraine, with Dnipro bearing brunt of attacks.",
-      "url": "https://www.theguardian.com/p/x4qt5n",
-      "thumbnail": "https://media.guim.co.uk/021d65215624b395d05b5b50fc47186c44f5ec37/292_0_1723_1379/500.jpg",
-      "published": "2026-04-25T13:17:15Z",
-      "location": {
-        "name": "Dnipro",
-        "lat": 48.4647,
-        "lng": 35.0469
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "football/2026/apr/25/brighton-manchester-city-wsl-match-report",
-      "headline": "Manchester City’s WSL title charge stalls abruptly after shock against Brighton",
-      "summary": "Brighton upsets Manchester City 2-1 in WSL, stalling leaders' title charge.",
-      "url": "https://www.theguardian.com/p/x4q7d7",
-      "thumbnail": "https://media.guim.co.uk/44ec3f91c1a0898392f9ad77735e26772b7b6f1a/251_116_1343_1074/500.jpg",
-      "published": "2026-04-25T13:07:41Z",
-      "location": {
-        "name": "Brighton",
-        "lat": 50.8603,
-        "lng": -0.0819
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "us-news/2026/apr/25/pfas-chemicals-ice-family-detention",
-      "headline": "ICE planning facility for children and families on Pfas-contaminated site",
-      "summary": "ICE plans detention facility for families on Louisiana site contaminated with PFAS chemicals.",
-      "url": "https://www.theguardian.com/p/x4q88j",
-      "thumbnail": "https://media.guim.co.uk/7fc593ba64a067f2092df32889eff771b4bb5737/520_0_3793_3036/500.jpg",
-      "published": "2026-04-25T13:00:45Z",
-      "location": {
-        "name": "Alexandria",
-        "lat": 31.3047,
-        "lng": -92.4421
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "us-news"
-    },
     {
       "id": "football/2026/apr/25/manchester-united-target-atalanta-ederson-to-replace-casemiro",
       "headline": "Manchester United target Atalanta’s Éderson as Casemiro replacement",
@@ -742,6 +598,134 @@
       "category": "economy",
       "significance": 3,
       "section": "business"
+    },
+    {
+      "id": "football/live/2026/apr/26/arsenal-v-ol-lyonnes-womens-champions-league-semi-final-first-leg-live",
+      "headline": "Arsenal v OL Lyonnes: Women’s Champions League semi-final, first leg – live",
+      "summary": "Arsenal faces OL Lyonnes in Women's Champions League semi-final first leg at Emirates Stadium.",
+      "url": "https://www.theguardian.com/p/x4q72x",
+      "thumbnail": "https://media.guim.co.uk/0916f5d3ed5d92bea3348b18e3a212964b01b951/562_0_4745_3796/500.jpg",
+      "published": "2026-04-26T14:33:02Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "football/live/2026/apr/26/chelsea-v-leeds-fa-cup-semi-final-live",
+      "headline": "Chelsea v Leeds United: FA Cup semi-final – live",
+      "summary": "Chelsea plays Leeds United in FA Cup semi-final at Wembley Stadium in London.",
+      "url": "https://www.theguardian.com/p/x4q6qb",
+      "thumbnail": "https://media.guim.co.uk/17876cf04d45b2237fe859b25cf92dcc727a3f92/131_29_2255_1803/500.jpg",
+      "published": "2026-04-26T14:32:44Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "commentisfree/2026/apr/26/gunfire-at-the-white-house-correspondents-dinner-is-another-grim-sign-of-our-times",
+      "headline": "Gunfire at the White House Correspondent’s Dinner is another grim sign of our times",
+      "summary": "Gunfire erupts at White House Correspondents' Dinner, prompting security response and evacuations.",
+      "url": "https://www.theguardian.com/p/x4qnyg",
+      "thumbnail": "https://media.guim.co.uk/c87888373b193b9a650db24547dc4c86fc0e8587/917_0_4583_3667/500.jpg",
+      "published": "2026-04-26T14:30:16Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "commentisfree"
+    },
+    {
+      "id": "thefilter-us/2026/apr/26/rick-martinez-mexican-kitchen-staples",
+      "headline": "From ‘caramelly’ lard to blue spoons: inside chef Rick Martínez’s vibrant kitchen on Mexico’s Pacific coast",
+      "summary": "Chef Rick Martínez shares kitchen staples and cooking shortcuts inspired by Mexico's Pacific coast.",
+      "url": "https://www.theguardian.com/p/x4qdet",
+      "thumbnail": "https://media.guim.co.uk/69820d4f0d06d60884e84b9af34cbf28f5b4d3e0/536_0_5361_4289/500.jpg",
+      "published": "2026-04-26T14:15:16Z",
+      "location": {
+        "name": "Mazatlán",
+        "lat": 23.1906,
+        "lng": -106.4104
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "thefilter-us"
+    },
+    {
+      "id": "us-news/2026/apr/26/florida-special-session-redistricting",
+      "headline": "Florida is latest US state to enter redistricting war ahead of 2026 election",
+      "summary": "Florida begins special redistricting session to redraw congressional maps ahead of 2026 election.",
+      "url": "https://www.theguardian.com/p/x4qe2a",
+      "thumbnail": "https://media.guim.co.uk/0e5ed56332328bbfddc89de83ba7397315806714/93_596_2316_1853/500.jpg",
+      "published": "2026-04-26T14:00:16Z",
+      "location": {
+        "name": "Florida",
+        "lat": 27.6648,
+        "lng": -81.5158
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "stage/2026/apr/26/heartsink-a-medical-comedy-review-riverside-studios-london",
+      "headline": "Heartsink review – terminally ill doctor struggles to be a patient",
+      "summary": "Riverside Studios stages medical comedy 'Heartsink' featuring difficult patient doctor character.",
+      "url": "https://www.theguardian.com/p/x4qnf6",
+      "thumbnail": "https://media.guim.co.uk/df72708c44f93862f904fb9d86b7f667c2b20805/192_0_3700_2960/500.jpg",
+      "published": "2026-04-26T14:00:15Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "stage"
+    },
+    {
+      "id": "business/2026/apr/26/ryanair-shut-berlin-base-blames-german-aviation-tax-union",
+      "headline": "Ryanair to shut Berlin base as it blames rise in German aviation tax",
+      "summary": "Ryanair shuts Berlin base and cuts winter flights citing rising German aviation taxes.",
+      "url": "https://www.theguardian.com/p/x4qn6b",
+      "thumbnail": "https://media.guim.co.uk/7f8021077eaf31f63ee323999823036ab6269a1b/172_0_5156_4125/500.jpg",
+      "published": "2026-04-26T13:44:01Z",
+      "location": {
+        "name": "Berlin",
+        "lat": 52.52,
+        "lng": 13.405
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "us-news/2026/apr/26/details-white-house-correspondents-dinner-shooting",
+      "headline": "White House press dinner shooting suspect could be charged with trying to assassinate Trump, says Blanche",
+      "summary": "Suspect in White House Correspondents' dinner shooting could face assassination attempt charges.",
+      "url": "https://www.theguardian.com/p/x4qnbt",
+      "thumbnail": "https://media.guim.co.uk/0dc72ee91e307e6d4294eee6cce63a59891a76e8/1627_0_6306_5048/500.jpg",
+      "published": "2026-04-26T13:23:32Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "us-news"
     }
   ]
 }
