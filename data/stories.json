@@ -1,44 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-26T19:51:54.435Z",
-    "story_count": 47,
-    "oldest_story": "2026-04-25T19:57:28Z",
-    "newest_story": "2026-04-26T19:22:06Z",
+    "generated_at": "2026-04-26T21:56:09.444Z",
+    "story_count": 52,
+    "oldest_story": "2026-04-25T23:56:37Z",
+    "newest_story": "2026-04-26T21:55:50Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "sport/2026/apr/25/northampton-bath-prem-rugby-union-match-report",
-      "headline": "Northampton strengthen grip on top of Prem after thrilling win against Bath",
-      "summary": "Northampton beats Bath 41-38 with last-kick win, scoring 12 tries combined in thrilling Premiership match.",
-      "url": "https://www.theguardian.com/p/x4q9h8",
-      "thumbnail": "https://media.guim.co.uk/d078dc158e4e31cd5d0ed8a303ace4eb2fb30f32/271_0_3549_2840/500.jpg",
-      "published": "2026-04-25T19:57:28Z",
-      "location": {
-        "name": "Northampton",
-        "lat": 52.2407,
-        "lng": -0.8906
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "football/2026/apr/25/fa-cup-leeds-chelsea-semi-final-wembley-daniel-farke",
-      "headline": "Leeds seek seminal moment with FA Cup semi-final chance against Chelsea",
-      "summary": "Leeds United face Chelsea in FA Cup semi-final at Wembley seeking path to final.",
-      "url": "https://www.theguardian.com/p/x4qd68",
-      "thumbnail": "https://media.guim.co.uk/9f6826ff57fb87c262d1cab623e28855610ce037/1339_0_3668_2936/500.jpg",
-      "published": "2026-04-25T21:30:56Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
     {
       "id": "australia-news/live/2026/apr/26/australia-news-live-victoria-car-registration-rebate-cost-of-living-fuel-crisis-anzac-angus-taylor-albanese-chris-bowen-labor-liberal-ntwnfb",
       "headline": "Australia news live: Taylor says Coalition preferencing One Nation in Farrer to stop ‘teal policies’; Victoria announces one-off car rego rebate",
@@ -757,6 +725,118 @@
       },
       "category": "sport",
       "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "australia-news/live/2026/apr/27/australia-news-live-penny-wong-fuel-crisis-cost-of-living-budget-jim-chalmers-booing-anzac-day-welcome-to-country-anthony-albanese-angus-taylor-ntwnfb",
+      "headline": "Australia news live: Wong heads to Japan, China and South Korea to secure fuel supply; new ADF armoured vehicles ordered",
+      "summary": "Australia's foreign affairs minister travels to Japan, China, South Korea to secure fuel and energy supply chains.",
+      "url": "https://www.theguardian.com/p/x4qp99",
+      "thumbnail": "https://media.guim.co.uk/b33e5e748a5323437dc94303afb49e005ae629c3/621_0_6735_5388/500.jpg",
+      "published": "2026-04-26T21:55:50Z",
+      "location": {
+        "name": "Tokyo",
+        "lat": 35.6762,
+        "lng": 139.6503
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "us-news/2026/apr/26/white-house-press-dinner-shooting-motive",
+      "headline": "Anti-Trump sentiment being examined as motive for White House press dinner shooting",
+      "summary": "Anti-Trump sentiment examined as motive for shooting at White House Correspondents' Dinner targeting Trump officials.",
+      "url": "https://www.theguardian.com/p/x4qpxx",
+      "thumbnail": "https://media.guim.co.uk/6cec5f957c3a72843514a308c93d2ab5d40c051d/556_0_5123_4099/500.jpg",
+      "published": "2026-04-26T21:38:34Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "us-news"
+    },
+    {
+      "id": "uk-news/2026/apr/26/uk-government-move-to-delay-social-media-ban-faces-pushback-in-lords",
+      "headline": "UK government move to delay social media ban faces pushback in Lords",
+      "summary": "UK government faces Lords pushback over three-year delay to implement social media ban for children.",
+      "url": "https://www.theguardian.com/p/x4qzf8",
+      "thumbnail": "https://media.guim.co.uk/d41a2eec1503e76eacd201d7665391d8b0b10e67/6_0_6880_5504/500.jpg",
+      "published": "2026-04-26T21:30:25Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "business/2026/apr/26/uk-urged-deploy-eu-style-trade-bazooka-trump-tariffs",
+      "headline": "UK urged to deploy EU-style ‘trade bazooka’ against Trump’s tariffs",
+      "summary": "British business leaders urge government to adopt EU-style trade protections against Trump's tariff threats.",
+      "url": "https://www.theguardian.com/p/x4qdc4",
+      "thumbnail": "https://media.guim.co.uk/40edc4f09f1a43cfb84120c1ab978ca07437ccd6/1010_223_1990_1593/500.jpg",
+      "published": "2026-04-26T21:30:25Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "uk-news/2026/apr/26/car-explosion-dunmurry-police-station-belfast-northern-ireland",
+      "headline": "New IRA suspected over car explosion outside Belfast police station",
+      "summary": "New IRA suspected in car explosion outside Belfast police station; police warn of continued paramilitary threat.",
+      "url": "https://www.theguardian.com/p/x4qnkb",
+      "thumbnail": "https://media.guim.co.uk/c10bbd56a7a4f9434787f12428c29d1779359855/315_0_3256_2604/500.jpg",
+      "published": "2026-04-26T21:10:12Z",
+      "location": {
+        "name": "Belfast",
+        "lat": 54.5973,
+        "lng": -5.9301
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "uk-news"
+    },
+    {
+      "id": "australia-news/2026/apr/27/morning-mail-monday-ntwnfb",
+      "headline": "Morning Mail: Trump among ‘likely’ targets of White House press dinner shooting; call for ‘birdman’ inquest; what is cosmeticorexia?",
+      "summary": "White House press dinner shooting details emerge; Trump among likely targets in incident with political violence.",
+      "url": "https://www.theguardian.com/p/x4qz9g",
+      "thumbnail": "https://media.guim.co.uk/869faadd11cce42e4a25c859a5d21cbc0b1c5475/222_0_1833_1467/500.jpg",
+      "published": "2026-04-26T20:57:57Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "australia-news"
+    },
+    {
+      "id": "sport/2026/apr/26/london-marathon-hails-greatest-day-as-sawe-breaks-two-hours-and-records-tumble",
+      "headline": "London Marathon hails ‘greatest day’ as Sawe breaks two hours and records tumble ",
+      "summary": "Sebastian Sawe becomes first man to break two-hour barrier at London Marathon; 60,000+ runners participate.",
+      "url": "https://www.theguardian.com/p/x4qdgz",
+      "thumbnail": "https://media.guim.co.uk/4c242558f9f3dce7f15f27c302308bd5d5d2a820/433_0_4032_3225/500.jpg",
+      "published": "2026-04-26T20:48:30Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 3,
       "section": "sport"
     }
   ]
