@@ -1,28 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-26T21:56:09.444Z",
-    "story_count": 52,
-    "oldest_story": "2026-04-25T23:56:37Z",
-    "newest_story": "2026-04-26T21:55:50Z",
+    "generated_at": "2026-04-27T00:03:13.218Z",
+    "story_count": 54,
+    "oldest_story": "2026-04-26T05:42:15Z",
+    "newest_story": "2026-04-26T23:32:20Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "australia-news/live/2026/apr/26/australia-news-live-victoria-car-registration-rebate-cost-of-living-fuel-crisis-anzac-angus-taylor-albanese-chris-bowen-labor-liberal-ntwnfb",
-      "headline": "Australia news live: Taylor says Coalition preferencing One Nation in Farrer to stop ‘teal policies’; Victoria announces one-off car rego rebate",
-      "summary": "Coalition prefers One Nation in Farrer; Victoria announces car registration rebate amid cost-of-living crisis.",
-      "url": "https://www.theguardian.com/p/x4qkbf",
-      "thumbnail": "https://media.guim.co.uk/50945f8142b82f2488335d333229ef9612798360/687_0_6088_4871/500.jpg",
-      "published": "2026-04-25T23:56:37Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
     {
       "id": "us-news/live/2026/apr/26/donald-trump-evacuated-from-white-house-correspondents-dinner-after-loud-bangs-heard-live",
       "headline": "Suspect ‘armed with knives and guns’ charged after shooting at White House correspondents’ dinner – live",
@@ -838,6 +822,54 @@
       "category": "sport",
       "significance": 3,
       "section": "sport"
+    },
+    {
+      "id": "football/2026/apr/27/xavi-simons-acl-injury-tottenham-netherlands-world-cup",
+      "headline": "Xavi Simons ruled out of rest of season and World Cup with ruptured ACL ",
+      "summary": "Tottenham's Xavi Simons suffers ACL rupture, ruled out eight months and World Cup.",
+      "url": "https://www.theguardian.com/p/x4qpkn",
+      "thumbnail": "https://media.guim.co.uk/eaa2940d334cf18eec8712c6c7b49c6cb3592d9d/487_0_3510_2808/500.jpg",
+      "published": "2026-04-26T23:32:20Z",
+      "location": {
+        "name": "Wolverhampton",
+        "lat": 52.5892,
+        "lng": -2.1298
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "business/2026/apr/27/childrens-shoe-retailers-closure-specialist-shops-harming-foot-health",
+      "headline": "Children’s shoe retailers say closure of specialist shops is harming foot health",
+      "summary": "UK shoe retailers warn closure of specialist shops causing foot health issues in children.",
+      "url": "https://www.theguardian.com/p/x4qcfa",
+      "thumbnail": "https://media.guim.co.uk/848802ce617bf8048e321357c749dcb3d7db5f07/0_1062_3635_2908/500.jpg",
+      "published": "2026-04-26T23:01:27Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "environment/2026/apr/27/renewable-energy-will-boost-national-security-and-protect-uk-from-sabotage-minister-says",
+      "headline": "Renewable energy will boost national security and protect UK from sabotage, minister says",
+      "summary": "UK energy minister says renewables boost national security against sabotage threats.",
+      "url": "https://www.theguardian.com/p/x4qnjf",
+      "thumbnail": "https://media.guim.co.uk/ec84aa3de6a6a973af498257a475d74497620129/744_82_2364_1892/500.jpg",
+      "published": "2026-04-26T23:01:26Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "environment"
     }
   ]
 }
