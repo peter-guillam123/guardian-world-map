@@ -1,284 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-27T15:26:53.999Z",
-    "story_count": 51,
-    "oldest_story": "2026-04-26T16:03:29Z",
-    "newest_story": "2026-04-27T15:24:58Z",
+    "generated_at": "2026-04-27T20:00:38.097Z",
+    "story_count": 42,
+    "oldest_story": "2026-04-26T20:48:30Z",
+    "newest_story": "2026-04-27T19:59:33Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "us-news/2026/apr/26/texas-tornado-georgia-wildfires-storms",
-      "headline": "Texas tornado kills at least one person as wildfires still rage in parts of Georgia",
-      "summary": "Powerful tornado kills at least one in Texas as Georgia wildfires rage across southern US.",
-      "url": "https://www.theguardian.com/p/x4qz7q",
-      "thumbnail": "https://media.guim.co.uk/68cc737bc39bc2d73554dae5eca779a33a3ded9b/128_0_1919_1536/500.jpg",
-      "published": "2026-04-26T17:03:12Z",
-      "location": {
-        "name": "Texas",
-        "lat": 33.196,
-        "lng": -97.2313
-      },
-      "category": "climate",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/apr/26/suspected-gunman-white-house-press-dinner-trump-named-cole-tomas-allen",
-      "headline": "Suspected gunman at White House press dinner named",
-      "summary": "Suspected gunman Cole Tomas Allen identified after shooting at White House correspondents' dinner.",
-      "url": "https://www.theguardian.com/p/x4qydj",
-      "thumbnail": "https://media.guim.co.uk/164d2e23889a5e2431cdd3cb713d709f9d00a7f5/494_0_4916_3935/500.jpg",
-      "published": "2026-04-26T16:58:16Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "world/2026/apr/26/final-steps-audacious-plan-tow-whale-stranded-germany-north-sea-timmy",
-      "headline": "Final steps taken before audacious plan to tow whale stranded in Germany to North Sea",
-      "summary": "Final preparations underway for millionaire-funded operation to tow stranded humpback whale to North Sea.",
-      "url": "https://www.theguardian.com/p/x4qn5d",
-      "thumbnail": "https://media.guim.co.uk/5de8e80e5fdf6c456a40fa6d64e00c06f12c8a47/0_0_2135_1709/500.jpg",
-      "published": "2026-04-26T16:46:05Z",
-      "location": {
-        "name": "Germany",
-        "lat": 52.52,
-        "lng": 13.405
-      },
-      "category": "other",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "environment/2026/apr/26/rare-axolotl-found-welsh-bridge-probably-abandoned-pet-experts",
-      "headline": "Rare axolotl found under Welsh bridge probably an abandoned pet, say experts ",
-      "summary": "Rare axolotl discovered under Welsh bridge, likely abandoned pet driven by Pokémon craze.",
-      "url": "https://www.theguardian.com/p/x4qzxq",
-      "thumbnail": "https://media.guim.co.uk/d1886f80e813aea51353cc570f5f9b3f1fe100b6/158_0_1124_899/500.jpg",
-      "published": "2026-04-26T16:44:54Z",
-      "location": {
-        "name": "Wales",
-        "lat": 51.5074,
-        "lng": -3.2163
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "environment"
-    },
-    {
-      "id": "business/2026/apr/26/greggs-rolls-back-self-service-counters-shoplifting-hotspots",
-      "headline": "Greggs rolls back self-service cabinets in shoplifting hotspots",
-      "summary": "Greggs removes self-service cabinets in shoplifting hotspots across UK high street locations.",
-      "url": "https://www.theguardian.com/p/x4qnm8",
-      "thumbnail": "https://media.guim.co.uk/41c21d35678ffdd7cbb0db9ade37559105b413d6/0_207_3924_3139/500.jpg",
-      "published": "2026-04-26T16:43:31Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "world/2026/apr/26/viktor-orban-associates-wealth-hungary-election",
-      "headline": "Orbán associates rush to move wealth out of Hungary after election defeat",
-      "summary": "Orbán allies rush to move wealth following Péter Magyar's election victory in Hungary.",
-      "url": "https://www.theguardian.com/p/x4qbm3",
-      "thumbnail": "https://media.guim.co.uk/14a27c0b2a1d3e86c3cd9fe63f0ab4f56fc4d35c/998_0_4780_3824/500.jpg",
-      "published": "2026-04-26T16:42:21Z",
-      "location": {
-        "name": "Hungary",
-        "lat": 47.4979,
-        "lng": 19.0402
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "football/2026/apr/26/arsenal-ol-lyonnes-womens-champions-league-semi-final-match-report",
-      "headline": "Olivia Smith’s late strike gives Arsenal edge over OL Lyonnes in WCL semi-final",
-      "summary": "Olivia Smith's late goal gives Arsenal 2-1 victory over Lyon in Women's Champions League semi-final.",
-      "url": "https://www.theguardian.com/p/x4qdd9",
-      "thumbnail": "https://media.guim.co.uk/460e9af78a52d6a19b2f4c98de2aa44c794f83d1/127_0_2586_2069/500.jpg",
-      "published": "2026-04-26T16:38:28Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "media/2026/apr/26/pam-masters-obituary",
-      "headline": "Pam Masters obituary",
-      "summary": "Pam Masters, Channel 4's first head of presentation, obituary recognizes pioneering TV executive.",
-      "url": "https://www.theguardian.com/p/x4qz4q",
-      "thumbnail": "https://media.guim.co.uk/14dc3e36c8d25af3c9876599ecff16bb9d172ba5/91_386_2804_2243/500.jpg",
-      "published": "2026-04-26T16:31:08Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "media"
-    },
-    {
-      "id": "us-news/2026/apr/26/trump-white-house-ballroom-dinner-shooting",
-      "headline": "Trump claims gala shooting gives urgency to White House ballroom plan",
-      "summary": "Trump uses White House ballroom shooting to press $400m controversial construction project.",
-      "url": "https://www.theguardian.com/p/x4qnde",
-      "thumbnail": "https://media.guim.co.uk/8f3816a9ee7b0fbe47d96cf11b3f749610020984/403_0_4027_3222/500.jpg",
-      "published": "2026-04-26T16:19:53Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "football/2026/apr/26/chelsea-leeds-fa-cup-semi-final-match-report",
-      "headline": "Enzo Fernández sees off Leeds to set up Chelsea v Manchester City FA Cup final",
-      "summary": "Enzo Fernández goal sends Chelsea to FA Cup final with 1-0 victory over Leeds United.",
-      "url": "https://www.theguardian.com/p/x4qd8m",
-      "thumbnail": "https://media.guim.co.uk/4f702c087d9be24848371f8bc84ee48a3e590c41/520_146_3201_2561/500.jpg",
-      "published": "2026-04-26T16:16:02Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "music/2026/apr/26/michael-tilson-thomas-obituary",
-      "headline": "Michael Tilson Thomas obituary",
-      "summary": "Michael Tilson Thomas, acclaimed conductor of London Symphony Orchestra, obituary celebrates his legacy.",
-      "url": "https://www.theguardian.com/p/x4qnnk",
-      "thumbnail": "https://media.guim.co.uk/2fa6f6de17139c891863d5dc3274d8ba40bcfa4e/98_0_6139_4912/500.jpg",
-      "published": "2026-04-26T16:03:48Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "music"
-    },
-    {
-      "id": "sport/2026/apr/26/bread-and-honey-london-marathon-sabastian-sawe-world-record-2026",
-      "headline": "Bread and honey for breakfast and 150 miles a week training: secrets of Sawe’s world record",
-      "summary": "Kenyan Sabastian Sawe runs first sub-two-hour marathon with world record at London Marathon.",
-      "url": "https://www.theguardian.com/p/x4qz3m",
-      "thumbnail": "https://media.guim.co.uk/d7a7de1e9ea90fbd5f08dc0e078c0a1ee163f53e/712_0_6827_5464/500.jpg",
-      "published": "2026-04-26T16:03:29Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 4,
-      "section": "sport"
-    },
-    {
-      "id": "politics/2026/apr/26/keir-starmer-vows-lead-labour-general-election-mandelson-vetting",
-      "headline": "Rival Labour factions understood to be discussing how to remove Keir Starmer as leader",
-      "summary": "Labour MPs discuss orderly transition process to remove PM Keir Starmer amid growing frustration.",
-      "url": "https://www.theguardian.com/p/x4qmnd",
-      "thumbnail": "https://media.guim.co.uk/5ce59290dddc0491ef9b16dd01447687b787dafb/1592_32_2388_1911/500.jpg",
-      "published": "2026-04-26T19:22:06Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "politics"
-    },
-    {
-      "id": "football/2026/apr/26/mcfarlane-chelsea-leeds-fa-cup-semi-final-farke",
-      "headline": "McFarlane delighted Chelsea stopped the rot by beating Leeds in FA Cup semi-final",
-      "summary": "Chelsea beats Leeds in FA Cup semi-final, reaching final after ending five-match scoreless drought.",
-      "url": "https://www.theguardian.com/p/x4qd9g",
-      "thumbnail": "https://media.guim.co.uk/b3d9a1de722ac70108c73d78566758f9bc972f9c/458_0_4965_3973/500.jpg",
-      "published": "2026-04-26T18:51:15Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "us-news/2026/apr/26/white-house-correspondents-dinner-shooting-washington-dc",
-      "headline": "Washington in shock after White House press dinner shooting: ‘an angry, polarized nation’",
-      "summary": "Shots fired at White House correspondents' dinner; gunman targets Secret Service agent as Trump attends.",
-      "url": "https://www.theguardian.com/p/x4qz5v",
-      "thumbnail": "https://media.guim.co.uk/aacf83de4971def5aae4a8e88f653d393528f62c/24_0_4182_3346/500.jpg",
-      "published": "2026-04-26T18:46:23Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/apr/26/white-house-press-dinner-shooting-how-it-unfolded",
-      "headline": "Shots rang out, pandemonium erupted: how the White House press dinner shooting unfolded",
-      "summary": "Chaos erupts at White House press dinner as shooting occurs; Trump dives to ground during incident.",
-      "url": "https://www.theguardian.com/p/x4qnfk",
-      "thumbnail": "https://media.guim.co.uk/840871d1aaaa70a1b635a5f72047a6656e20ed78/319_0_3190_2552/500.jpg",
-      "published": "2026-04-26T18:45:44Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "us-news"
-    },
-    {
-      "id": "sport/2026/apr/26/coco-gauff-virus-fourth-round-madrid-open-tennis",
-      "headline": "Coco Gauff reaches fourth round despite vomiting on court at Madrid Open",
-      "summary": "Coco Gauff reaches Madrid Open fourth round despite vomiting on court while battling virus.",
-      "url": "https://www.theguardian.com/p/x4qdtn",
-      "thumbnail": "https://media.guim.co.uk/d4786061ccbaa821673d8512da78b62390c3c323/677_0_6772_5417/500.jpg",
-      "published": "2026-04-26T18:42:42Z",
-      "location": {
-        "name": "Madrid",
-        "lat": 40.4168,
-        "lng": -3.7038
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
     {
       "id": "australia-news/live/2026/apr/27/australia-news-live-penny-wong-fuel-crisis-cost-of-living-budget-jim-chalmers-booing-anzac-day-welcome-to-country-anthony-albanese-angus-taylor-ntwnfb",
       "headline": "Australia news live: Wong heads to Japan, China and South Korea to secure fuel supply; new ADF armoured vehicles ordered",
@@ -822,6 +550,134 @@
       "category": "culture",
       "significance": 2,
       "section": "artanddesign"
+    },
+    {
+      "id": "football/live/2026/apr/27/manchester-united-v-brentford-premier-league-live-updates",
+      "headline": "Manchester United v Brentford: Premier League – live",
+      "summary": "Manchester United hosts Brentford in Premier League match at Old Trafford.",
+      "url": "https://www.theguardian.com/p/x5vvqv",
+      "thumbnail": "https://media.guim.co.uk/515f2c5100de80c8f758184d5d6c3bcfc890100c/868_29_4041_3234/500.jpg",
+      "published": "2026-04-27T19:59:33Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4631,
+        "lng": -2.2913
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/apr/27/white-house-press-dinner-shooting-suspect-court",
+      "headline": "Suspect charged with attempting to assassinate Trump at press dinner",
+      "summary": "Man charged with attempting to assassinate Trump at White House press dinner.",
+      "url": "https://www.theguardian.com/p/x4qzvf",
+      "thumbnail": "https://media.guim.co.uk/373fe1ac5976a2ba7a58fe320104c3ab9b548b92/868_250_3022_2417/500.jpg",
+      "published": "2026-04-27T19:56:14Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "us-news"
+    },
+    {
+      "id": "law/2026/apr/27/lord-clarke-of-stone-cum-ebony-obituary",
+      "headline": "Lord Clarke of Stone-cum-Ebony obituary",
+      "summary": "Obituary of Lord Clarke who chaired inquiry into 1989 Marchioness Thames disaster.",
+      "url": "https://www.theguardian.com/p/x5v2hm",
+      "thumbnail": "https://media.guim.co.uk/cde273f4452216fe8cd2314d54893de5e0eb8e09/0_0_1429_1142/500.jpg",
+      "published": "2026-04-27T19:15:52Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "other",
+      "significance": 1,
+      "section": "law"
+    },
+    {
+      "id": "football/2026/apr/27/timo-werner-mls-earthquakes-sporting-kc-matt-turner",
+      "headline": "Timo Werner has found his role, and his form: MLS weekend wrap",
+      "summary": "MLS weekend wrap features Timo Werner's form and Sporting KC's poor season pace.",
+      "url": "https://www.theguardian.com/p/x5v353",
+      "thumbnail": "https://media.guim.co.uk/d9119de0a4ce1fb7ed2631c95c4e074e91d6ded9/362_0_4200_3360/500.jpg",
+      "published": "2026-04-27T19:11:45Z",
+      "location": {
+        "name": "United States",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/apr/27/refereeing-scandal-brings-back-unhappy-memories-of-calciopoli-to-italian-football",
+      "headline": "Refereeing scandal brings back unhappy memories of Calciopoli to Italian football",
+      "summary": "Refereeing scandal involving Gianluca Rocchi echoes Italian football's Calciopoli era.",
+      "url": "https://www.theguardian.com/p/x5vx2p",
+      "thumbnail": "https://media.guim.co.uk/22f3cabd6c51c0a9549583b3316fd23b372ec38d/323_75_3243_2595/500.jpg",
+      "published": "2026-04-27T18:55:48Z",
+      "location": {
+        "name": "Italy",
+        "lat": 41.8719,
+        "lng": 12.5674
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "uk-news/2026/apr/27/king-charles-washington-state-visit-trump",
+      "headline": "King Charles arrives in Washington for state visit fraught with tension",
+      "summary": "King Charles and Queen Camilla arrive for state visit amid security concerns.",
+      "url": "https://www.theguardian.com/p/x5v2nt",
+      "thumbnail": "https://media.guim.co.uk/7faffb833f0154a3ec0376c178401a1596098269/258_0_3484_2788/500.jpg",
+      "published": "2026-04-27T18:54:36Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "uk-news"
+    },
+    {
+      "id": "us-news/2026/apr/27/chonkers-sea-lion-san-francisco-bay-area",
+      "headline": "‘Chonkers’ the large sea lion charms the San Francisco Bay area ",
+      "summary": "Giant sea lion nicknamed 'Chonkers' becomes local celebrity at San Francisco's Pier 39.",
+      "url": "https://www.theguardian.com/p/x5v23d",
+      "thumbnail": "https://media.guim.co.uk/baad2b7e5df285f2a489edf0bb3de358a1764526/697_0_6980_5582/500.jpg",
+      "published": "2026-04-27T18:54:04Z",
+      "location": {
+        "name": "San Francisco",
+        "lat": 37.7749,
+        "lng": -122.4194
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "us-news"
+    },
+    {
+      "id": "world/2026/apr/27/two-hour-marathon-done-other-records-remain-to-be-broken",
+      "headline": "The two-hour marathon is done – but other records remain to be broken",
+      "summary": "Sabastian Sawe breaks two-hour marathon barrier at London Marathon.",
+      "url": "https://www.theguardian.com/p/x5vxed",
+      "thumbnail": "https://media.guim.co.uk/31fbc24033d9a9a653fe26328c5a2c8c29e7a678/0_126_4569_3654/500.jpg",
+      "published": "2026-04-27T18:52:42Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "world"
     }
   ]
 }
