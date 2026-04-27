@@ -1,124 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-27T00:03:13.218Z",
+    "generated_at": "2026-04-27T09:10:18.967Z",
     "story_count": 54,
-    "oldest_story": "2026-04-26T05:42:15Z",
-    "newest_story": "2026-04-26T23:32:20Z",
+    "oldest_story": "2026-04-26T09:10:13Z",
+    "newest_story": "2026-04-27T09:00:51Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "us-news/live/2026/apr/26/donald-trump-evacuated-from-white-house-correspondents-dinner-after-loud-bangs-heard-live",
-      "headline": "Suspect ‘armed with knives and guns’ charged after shooting at White House correspondents’ dinner – live",
-      "summary": "Shooting at White House correspondents' dinner forces evacuation of President Trump and other leaders.",
-      "url": "https://www.theguardian.com/p/x4qkqn",
-      "thumbnail": "https://media.guim.co.uk/4ffe10d4d6c9d20b4407db856d660b5d05a02285/278_0_2336_1869/500.jpg",
-      "published": "2026-04-26T06:29:25Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "conflict",
-      "significance": 5,
-      "section": "us-news"
-    },
-    {
-      "id": "australia-news/2026/apr/26/angus-taylor-higher-risk-bad-people-coming-from-bad-countries-singles-out-iran",
-      "headline": "Taylor says higher risk of ‘bad people coming from bad countries’ and that welcome to country ceremonies ‘overused’",
-      "summary": "Opposition leader Angus Taylor defends hardline immigration stance in ABC interview.",
-      "url": "https://www.theguardian.com/p/x4qkt8",
-      "thumbnail": "https://media.guim.co.uk/786509cd69fe3ccce076e1a9415cbfa9b65ec05f/428_0_2576_2061/500.jpg",
-      "published": "2026-04-26T06:22:49Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "technology/2026/apr/26/cannes-ai-film-festival-raises-eyebrows-questions-future",
-      "headline": "Cannes AI film festival raises eyebrows – and questions about future",
-      "summary": "First World AI Film Festival showcases AI-generated cinema alongside traditional Cannes festival.",
-      "url": "https://www.theguardian.com/p/x4q82e",
-      "thumbnail": "https://media.guim.co.uk/7aeb879c03fe2e7ebd413663569b7e108e9bb701/238_0_1348_1079/500.jpg",
-      "published": "2026-04-26T06:00:07Z",
-      "location": {
-        "name": "Cannes",
-        "lat": 43.5528,
-        "lng": 7.0174
-      },
-      "category": "tech",
-      "significance": 2,
-      "section": "technology"
-    },
-    {
-      "id": "money/2026/apr/26/ghost-mot-drivers-warned-fake-certificates-repair-bills-tests",
-      "headline": "Ghost MOTs: drivers warned over fake certificates that lead to huge repair bills",
-      "summary": "UK drivers warned of fake MOT certificates leading to expensive vehicle repair bills.",
-      "url": "https://www.theguardian.com/p/x4q7nv",
-      "thumbnail": "https://media.guim.co.uk/920a8f58f7dd998688122a4444a9715491abfe87/0_573_3425_2739/500.jpg",
-      "published": "2026-04-26T06:00:07Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "money"
-    },
-    {
-      "id": "society/2026/apr/26/nhs-high-alert-healthcare-shortages-iran-war-petrochemicals",
-      "headline": "From syringes to stents: Iran war exposes NHS dependency on petrochemicals",
-      "summary": "Iran war disrupts Gulf shipping, threatening NHS supply of medicines and medical supplies.",
-      "url": "https://www.theguardian.com/p/x4ptg7",
-      "thumbnail": "https://media.guim.co.uk/1cedaab4e723fd82595023b68f1676ec02f1a17f/576_0_2915_2333/500.jpg",
-      "published": "2026-04-26T06:00:07Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "health",
-      "significance": 3,
-      "section": "society"
-    },
-    {
-      "id": "travel/2026/apr/26/six-best-towns-escape-overtourism-tuscany-monteriggioni-pienza-arezzo-volterra-livorno-porto-ercole",
-      "headline": "Forget Florence: six of the best towns in Tuscany to escape overtourism",
-      "summary": "Travel guide recommends six Tuscan towns as alternatives to overtouristed Florence.",
-      "url": "https://www.theguardian.com/p/x4ymq5",
-      "thumbnail": "https://media.guim.co.uk/119de7fcb3c227cf65d8efadbfbbff5c31d76dbe/519_27_3565_2852/500.jpg",
-      "published": "2026-04-26T06:00:06Z",
-      "location": {
-        "name": "Florence",
-        "lat": 43.7696,
-        "lng": 11.2558
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "travel"
-    },
-    {
-      "id": "sport/2026/apr/26/surfing-george-pittar-margaret-river-pro-victory-australia",
-      "headline": "‘I’m frothing’: George Pittar breaks eight-year surfing duck with Margaret Pro win",
-      "summary": "Australian surfer George Pittar wins first WSL title at Margaret River Pro after eight-year drought.",
-      "url": "https://www.theguardian.com/p/x4qyh8",
-      "thumbnail": "https://media.guim.co.uk/6fb9127711c0f2cc05398a1db9a64cdbabc30d02/235_0_3750_3000/500.jpg",
-      "published": "2026-04-26T05:42:15Z",
-      "location": {
-        "name": "Margaret River",
-        "lat": -34.3667,
-        "lng": 115.0333
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
     {
       "id": "sport/live/2026/apr/26/london-marathon-2026-live-updates",
       "headline": "London Marathon 2026 – live updates",
@@ -150,38 +38,6 @@
       "category": "sport",
       "significance": 2,
       "section": "football"
-    },
-    {
-      "id": "sport/live/2026/apr/26/surrey-v-essex-nottinghamshire-v-warwickshire-and-more-county-cricket-day-three-live",
-      "headline": "Surrey v Essex, Notts v Warwickshire, and more: county cricket, day three – live",
-      "summary": "County Championship day three coverage from Surrey, Essex, Nottinghamshire, Warwickshire and other grounds.",
-      "url": "https://www.theguardian.com/p/x4q75d",
-      "thumbnail": "https://media.guim.co.uk/4e0503d4f6cefc7434692be4ec8368d2bcffd181/441_0_4468_3575/500.jpg",
-      "published": "2026-04-26T09:05:41Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 1,
-      "section": "sport"
-    },
-    {
-      "id": "tv-and-radio/2026/apr/26/comic-relief-40-years-british-comedy",
-      "headline": "‘We asked Billy Connolly to do 15 minutes. He said “I’ll do as long as I want”’: the sweary, shambolic all-nighter that became Comic Relief",
-      "summary": "Comic Relief celebrates 40 years since its inception, with reflections from Lenny Henry, Richard Curtis and others.",
-      "url": "https://www.theguardian.com/p/x4z7yd",
-      "thumbnail": "https://media.guim.co.uk/bd824373a100838ebe38ddb7f921ed4a74bc9f85/75_21_2777_2220/500.jpg",
-      "published": "2026-04-26T09:00:10Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "tv-and-radio"
     },
     {
       "id": "politics/2026/apr/26/voters-contend-with-grotesque-leaflets-and-dodgy-data-in-english-local-elections-say-analysts",
@@ -870,6 +726,150 @@
       "category": "politics",
       "significance": 2,
       "section": "environment"
+    },
+    {
+      "id": "politics/live/2026/apr/27/keir-starmer-peter-mandelson-inquiry-speaker-shoplifting-latest-news-updates",
+      "headline": "Call for vote on inquiry into claims Starmer lied over Mandelson dismissed by Labour allies – UK politics live",
+      "summary": "Labour dismisses Tory call for Mandelson inquiry into Starmer as political stunt ahead of Commons vote.",
+      "url": "https://www.theguardian.com/p/x5vvdb",
+      "thumbnail": "https://media.guim.co.uk/2600e5677697308535336f3ad69db90d9aabd397/896_0_4594_3675/500.jpg",
+      "published": "2026-04-27T09:00:51Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "film/2026/apr/27/tombstone-val-kilmer-feelgood-movie",
+      "headline": "‘Bursts off the screen’: why Tombstone is my feelgood movie",
+      "summary": "Film critic celebrates western Tombstone as feelgood comfort movie highlighting Val Kilmer's performance.",
+      "url": "https://www.theguardian.com/p/x4q3aa",
+      "thumbnail": "https://media.guim.co.uk/fb08aa41711bcb9da827525ca04b932731d619ef/140_0_2840_2272/500.jpg",
+      "published": "2026-04-27T09:00:06Z",
+      "location": {
+        "name": "Tombstone",
+        "lat": 32.3088,
+        "lng": -110.0835
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "film"
+    },
+    {
+      "id": "sport/2026/apr/27/nfl-draft-2026-winners-and-losers-eagles-aces-rams-damage-control-and-a-missing-coach",
+      "headline": "NFL draft 2026 winners and losers: Eagles’ aces, Rams’ damage control and a missing coach",
+      "summary": "NFL draft 2026: Eagles ace selections, Rams damage control, mixed verdicts on prospects evaluated.",
+      "url": "https://www.theguardian.com/p/x4q9pb",
+      "thumbnail": "https://media.guim.co.uk/fcb2101f5013f80957f6a3ae0fa9d044e83e9d10/0_0_5000_4000/500.jpg",
+      "published": "2026-04-27T09:00:06Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "us-news/live/2026/apr/27/white-house-correspondents-dinner-shooting-suspect-charges-donald-trump-king-charles-latest-news-updates",
+      "headline": "White House Correspondents’ Dinner suspect to be charged as Trump prepares to welcome king – US politics live",
+      "summary": "White House Correspondents' Dinner shooting suspect Cole Tomas Allen to be formally charged today.",
+      "url": "https://www.theguardian.com/p/x5vvg4",
+      "thumbnail": "https://media.guim.co.uk/61944030b54f70b1180e09258b8b431c8fdb234d/355_0_1971_1576/500.jpg",
+      "published": "2026-04-27T08:56:45Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "business/2026/apr/27/hsbc-reviewing-private-school-perk-for-bankers-in-hong-kong",
+      "headline": "HSBC ‘reviewing’ private school perk for bankers in Hong Kong",
+      "summary": "HSBC reviews £30,000 annual private school perk for senior bankers in Hong Kong amid CEO overhaul.",
+      "url": "https://www.theguardian.com/p/x5vvbn",
+      "thumbnail": "https://media.guim.co.uk/037e1d809b01be2c9590cf664a0b839df523fa65/0_0_5239_4191/500.jpg",
+      "published": "2026-04-27T08:31:05Z",
+      "location": {
+        "name": "Hong Kong",
+        "lat": 22.3193,
+        "lng": 114.1694
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "politics/2026/apr/27/senior-labour-figures-call-new-mandelson-investigation-political-stunt",
+      "headline": "Senior Labour figures say call for new Mandelson investigation is a ‘political stunt’",
+      "summary": "Senior Labour figures dismiss Conservative call for new Mandelson investigation as political scoring.",
+      "url": "https://www.theguardian.com/p/x5vvh5",
+      "thumbnail": "https://media.guim.co.uk/dba364f461107ed3dba7a0b00a4315370b2155c5/1284_594_3003_2403/500.jpg",
+      "published": "2026-04-27T08:26:48Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "world/live/2026/apr/27/europe-ukraine-russia-poland-germany-eu-latest-news-updates",
+      "headline": "Odesa bears brunt of latest Russian attacks on Ukraine – Europe live",
+      "summary": "Odesa bears brunt of latest Russian attacks; Ukrainian PM prepares Poland visit amid postwar recovery talks.",
+      "url": "https://www.theguardian.com/p/x5vven",
+      "thumbnail": "https://media.guim.co.uk/dbc1004cdc6566ce66c9721b24b631f6bf8985d7/841_0_4159_3327/500.jpg",
+      "published": "2026-04-27T08:26:02Z",
+      "location": {
+        "name": "Odesa",
+        "lat": 46.485,
+        "lng": 30.7326
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "technology/2026/apr/27/elon-musk-sam-altman-open-ai-lawsuit",
+      "headline": "Elon Musk and Sam Altman face off in court over OpenAI’s founding mission",
+      "summary": "Elon Musk sues Sam Altman over OpenAI's shift from non-profit to for-profit, accusing him of fraud.",
+      "url": "https://www.theguardian.com/p/x4qejd",
+      "thumbnail": "https://media.guim.co.uk/6ee77d2ef9db98d209fdf117968db3920520007b/0_0_1500_1200/500.jpg",
+      "published": "2026-04-27T08:00:38Z",
+      "location": {
+        "name": "San Francisco",
+        "lat": 37.7749,
+        "lng": -122.4194
+      },
+      "category": "tech",
+      "significance": 3,
+      "section": "technology"
+    },
+    {
+      "id": "film/2026/apr/27/the-nights-still-smell-of-gunpowder-review-excavating-the-memories-of-civil-war-in-mozambique",
+      "headline": "The Nights Still Smell of Gunpowder review – excavating the memories of civil war in Mozambique",
+      "summary": "Documentary examines Mozambique civil war trauma through filmmaker's family history and village memories.",
+      "url": "https://www.theguardian.com/p/x4qde9",
+      "thumbnail": "https://media.guim.co.uk/e829f176e363471eecda6f70dfb0e4e9c91693cf/343_85_1120_896/500.jpg",
+      "published": "2026-04-27T08:00:37Z",
+      "location": {
+        "name": "Mozambique",
+        "lat": -18.6657,
+        "lng": 35.5296
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "film"
     }
   ]
 }
