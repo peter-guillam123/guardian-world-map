@@ -1,124 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-27T20:00:38.097Z",
-    "story_count": 42,
-    "oldest_story": "2026-04-26T20:48:30Z",
-    "newest_story": "2026-04-27T19:59:33Z",
+    "generated_at": "2026-04-27T22:35:51.630Z",
+    "story_count": 37,
+    "oldest_story": "2026-04-26T23:01:26Z",
+    "newest_story": "2026-04-27T22:31:35Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "australia-news/live/2026/apr/27/australia-news-live-penny-wong-fuel-crisis-cost-of-living-budget-jim-chalmers-booing-anzac-day-welcome-to-country-anthony-albanese-angus-taylor-ntwnfb",
-      "headline": "Australia news live: Wong heads to Japan, China and South Korea to secure fuel supply; new ADF armoured vehicles ordered",
-      "summary": "Australia's foreign affairs minister travels to Japan, China, South Korea to secure fuel and energy supply chains.",
-      "url": "https://www.theguardian.com/p/x4qp99",
-      "thumbnail": "https://media.guim.co.uk/b33e5e748a5323437dc94303afb49e005ae629c3/621_0_6735_5388/500.jpg",
-      "published": "2026-04-26T21:55:50Z",
-      "location": {
-        "name": "Tokyo",
-        "lat": 35.6762,
-        "lng": 139.6503
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "us-news/2026/apr/26/white-house-press-dinner-shooting-motive",
-      "headline": "Anti-Trump sentiment being examined as motive for White House press dinner shooting",
-      "summary": "Anti-Trump sentiment examined as motive for shooting at White House Correspondents' Dinner targeting Trump officials.",
-      "url": "https://www.theguardian.com/p/x4qpxx",
-      "thumbnail": "https://media.guim.co.uk/6cec5f957c3a72843514a308c93d2ab5d40c051d/556_0_5123_4099/500.jpg",
-      "published": "2026-04-26T21:38:34Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "us-news"
-    },
-    {
-      "id": "uk-news/2026/apr/26/uk-government-move-to-delay-social-media-ban-faces-pushback-in-lords",
-      "headline": "UK government move to delay social media ban faces pushback in Lords",
-      "summary": "UK government faces Lords pushback over three-year delay to implement social media ban for children.",
-      "url": "https://www.theguardian.com/p/x4qzf8",
-      "thumbnail": "https://media.guim.co.uk/d41a2eec1503e76eacd201d7665391d8b0b10e67/6_0_6880_5504/500.jpg",
-      "published": "2026-04-26T21:30:25Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "business/2026/apr/26/uk-urged-deploy-eu-style-trade-bazooka-trump-tariffs",
-      "headline": "UK urged to deploy EU-style ‘trade bazooka’ against Trump’s tariffs",
-      "summary": "British business leaders urge government to adopt EU-style trade protections against Trump's tariff threats.",
-      "url": "https://www.theguardian.com/p/x4qdc4",
-      "thumbnail": "https://media.guim.co.uk/40edc4f09f1a43cfb84120c1ab978ca07437ccd6/1010_223_1990_1593/500.jpg",
-      "published": "2026-04-26T21:30:25Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "uk-news/2026/apr/26/car-explosion-dunmurry-police-station-belfast-northern-ireland",
-      "headline": "New IRA suspected over car explosion outside Belfast police station",
-      "summary": "New IRA suspected in car explosion outside Belfast police station; police warn of continued paramilitary threat.",
-      "url": "https://www.theguardian.com/p/x4qnkb",
-      "thumbnail": "https://media.guim.co.uk/c10bbd56a7a4f9434787f12428c29d1779359855/315_0_3256_2604/500.jpg",
-      "published": "2026-04-26T21:10:12Z",
-      "location": {
-        "name": "Belfast",
-        "lat": 54.5973,
-        "lng": -5.9301
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "uk-news"
-    },
-    {
-      "id": "australia-news/2026/apr/27/morning-mail-monday-ntwnfb",
-      "headline": "Morning Mail: Trump among ‘likely’ targets of White House press dinner shooting; call for ‘birdman’ inquest; what is cosmeticorexia?",
-      "summary": "White House press dinner shooting details emerge; Trump among likely targets in incident with political violence.",
-      "url": "https://www.theguardian.com/p/x4qz9g",
-      "thumbnail": "https://media.guim.co.uk/869faadd11cce42e4a25c859a5d21cbc0b1c5475/222_0_1833_1467/500.jpg",
-      "published": "2026-04-26T20:57:57Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "australia-news"
-    },
-    {
-      "id": "sport/2026/apr/26/london-marathon-hails-greatest-day-as-sawe-breaks-two-hours-and-records-tumble",
-      "headline": "London Marathon hails ‘greatest day’ as Sawe breaks two hours and records tumble ",
-      "summary": "Sebastian Sawe becomes first man to break two-hour barrier at London Marathon; 60,000+ runners participate.",
-      "url": "https://www.theguardian.com/p/x4qdgz",
-      "thumbnail": "https://media.guim.co.uk/4c242558f9f3dce7f15f27c302308bd5d5d2a820/433_0_4032_3225/500.jpg",
-      "published": "2026-04-26T20:48:30Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "sport"
-    },
     {
       "id": "football/2026/apr/27/xavi-simons-acl-injury-tottenham-netherlands-world-cup",
       "headline": "Xavi Simons ruled out of rest of season and World Cup with ruptured ACL ",
@@ -678,6 +566,38 @@
       "category": "sport",
       "significance": 3,
       "section": "world"
+    },
+    {
+      "id": "australia-news/live/2026/apr/28/australia-news-live-rsl-welcome-to-country-anzac-day-angus-taylor-fuel-reserve-crisis-budget-jim-chalmers-anthony-albanese-ntwnfb",
+      "headline": "News live: Canavan pushes $6bn policy to double fuel reserve; Trump nominates new ambassador to Australia",
+      "summary": "Trump nominates David Brat as ambassador to Australia; government discusses fuel reserve policy.",
+      "url": "https://www.theguardian.com/p/x5vxtv",
+      "thumbnail": "https://media.guim.co.uk/6139793f61ad0470ec64c46ba6516624e074ed6f/688_0_6880_5504/500.jpg",
+      "published": "2026-04-27T22:31:35Z",
+      "location": {
+        "name": "Australia",
+        "lat": -25.2744,
+        "lng": 133.7751
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "football/2026/apr/27/casemiros-decision-to-leave-manchester-united-is-final-insists-michael-carrick",
+      "headline": "Casemiro’s decision to leave Manchester United is final, insists Michael Carrick",
+      "summary": "Casemiro to leave Manchester United after four years; Carrick confirms summer departure.",
+      "url": "https://www.theguardian.com/p/x5v3z8",
+      "thumbnail": "https://media.guim.co.uk/bb13a6f10d908d301408d5bd1d502d76cdca7b26/205_0_3443_2755/500.jpg",
+      "published": "2026-04-27T22:29:05Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4831,
+        "lng": -2.2044
+      },
+      "category": "sport",
+      "significance": 1,
+      "section": "football"
     }
   ]
 }
