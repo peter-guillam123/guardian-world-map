@@ -1,140 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-28T18:11:43.579Z",
-    "story_count": 39,
-    "oldest_story": "2026-04-27T18:52:42Z",
-    "newest_story": "2026-04-28T18:10:37Z",
+    "generated_at": "2026-04-28T21:44:42.813Z",
+    "story_count": 37,
+    "oldest_story": "2026-04-27T22:29:05Z",
+    "newest_story": "2026-04-28T21:44:36Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/live/2026/apr/27/manchester-united-v-brentford-premier-league-live-updates",
-      "headline": "Manchester United v Brentford: Premier League – live",
-      "summary": "Manchester United hosts Brentford in Premier League match at Old Trafford.",
-      "url": "https://www.theguardian.com/p/x5vvqv",
-      "thumbnail": "https://media.guim.co.uk/515f2c5100de80c8f758184d5d6c3bcfc890100c/868_29_4041_3234/500.jpg",
-      "published": "2026-04-27T19:59:33Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4631,
-        "lng": -2.2913
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "us-news/2026/apr/27/white-house-press-dinner-shooting-suspect-court",
-      "headline": "Suspect charged with attempting to assassinate Trump at press dinner",
-      "summary": "Man charged with attempting to assassinate Trump at White House press dinner.",
-      "url": "https://www.theguardian.com/p/x4qzvf",
-      "thumbnail": "https://media.guim.co.uk/373fe1ac5976a2ba7a58fe320104c3ab9b548b92/868_250_3022_2417/500.jpg",
-      "published": "2026-04-27T19:56:14Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "us-news"
-    },
-    {
-      "id": "law/2026/apr/27/lord-clarke-of-stone-cum-ebony-obituary",
-      "headline": "Lord Clarke of Stone-cum-Ebony obituary",
-      "summary": "Obituary of Lord Clarke who chaired inquiry into 1989 Marchioness Thames disaster.",
-      "url": "https://www.theguardian.com/p/x5v2hm",
-      "thumbnail": "https://media.guim.co.uk/cde273f4452216fe8cd2314d54893de5e0eb8e09/0_0_1429_1142/500.jpg",
-      "published": "2026-04-27T19:15:52Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "other",
-      "significance": 1,
-      "section": "law"
-    },
-    {
-      "id": "football/2026/apr/27/timo-werner-mls-earthquakes-sporting-kc-matt-turner",
-      "headline": "Timo Werner has found his role, and his form: MLS weekend wrap",
-      "summary": "MLS weekend wrap features Timo Werner's form and Sporting KC's poor season pace.",
-      "url": "https://www.theguardian.com/p/x5v353",
-      "thumbnail": "https://media.guim.co.uk/d9119de0a4ce1fb7ed2631c95c4e074e91d6ded9/362_0_4200_3360/500.jpg",
-      "published": "2026-04-27T19:11:45Z",
-      "location": {
-        "name": "United States",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/apr/27/refereeing-scandal-brings-back-unhappy-memories-of-calciopoli-to-italian-football",
-      "headline": "Refereeing scandal brings back unhappy memories of Calciopoli to Italian football",
-      "summary": "Refereeing scandal involving Gianluca Rocchi echoes Italian football's Calciopoli era.",
-      "url": "https://www.theguardian.com/p/x5vx2p",
-      "thumbnail": "https://media.guim.co.uk/22f3cabd6c51c0a9549583b3316fd23b372ec38d/323_75_3243_2595/500.jpg",
-      "published": "2026-04-27T18:55:48Z",
-      "location": {
-        "name": "Italy",
-        "lat": 41.8719,
-        "lng": 12.5674
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "uk-news/2026/apr/27/king-charles-washington-state-visit-trump",
-      "headline": "King Charles arrives in Washington for state visit fraught with tension",
-      "summary": "King Charles and Queen Camilla arrive for state visit amid security concerns.",
-      "url": "https://www.theguardian.com/p/x5v2nt",
-      "thumbnail": "https://media.guim.co.uk/7faffb833f0154a3ec0376c178401a1596098269/258_0_3484_2788/500.jpg",
-      "published": "2026-04-27T18:54:36Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "uk-news"
-    },
-    {
-      "id": "us-news/2026/apr/27/chonkers-sea-lion-san-francisco-bay-area",
-      "headline": "‘Chonkers’ the large sea lion charms the San Francisco Bay area ",
-      "summary": "Giant sea lion nicknamed 'Chonkers' becomes local celebrity at San Francisco's Pier 39.",
-      "url": "https://www.theguardian.com/p/x5v23d",
-      "thumbnail": "https://media.guim.co.uk/baad2b7e5df285f2a489edf0bb3de358a1764526/697_0_6980_5582/500.jpg",
-      "published": "2026-04-27T18:54:04Z",
-      "location": {
-        "name": "San Francisco",
-        "lat": 37.7749,
-        "lng": -122.4194
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "us-news"
-    },
-    {
-      "id": "world/2026/apr/27/two-hour-marathon-done-other-records-remain-to-be-broken",
-      "headline": "The two-hour marathon is done – but other records remain to be broken",
-      "summary": "Sabastian Sawe breaks two-hour marathon barrier at London Marathon.",
-      "url": "https://www.theguardian.com/p/x5vxed",
-      "thumbnail": "https://media.guim.co.uk/31fbc24033d9a9a653fe26328c5a2c8c29e7a678/0_126_4569_3654/500.jpg",
-      "published": "2026-04-27T18:52:42Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "world"
-    },
     {
       "id": "australia-news/live/2026/apr/28/australia-news-live-rsl-welcome-to-country-anzac-day-angus-taylor-fuel-reserve-crisis-budget-jim-chalmers-anthony-albanese-ntwnfb",
       "headline": "News live: Canavan pushes $6bn policy to double fuel reserve; Trump nominates new ambassador to Australia",
@@ -630,6 +502,102 @@
       "category": "tech",
       "significance": 2,
       "section": "technology"
+    },
+    {
+      "id": "australia-news/live/2026/apr/29/australia-news-live-aukus-king-charles-one-nation-budget-cost-of-living-inflation-consumer-price-index-jim-chalmers-anthony-albanese-angus-taylor-ntwnfb",
+      "headline": "News live: King Charles praises ‘ambitious’ Aukus and expresses pride in Australia in speech to US Congress",
+      "summary": "King Charles addresses US Congress, praising AUKUS alliance and nuclear submarine defense ties.",
+      "url": "https://www.theguardian.com/p/x5v6cy",
+      "thumbnail": "https://media.guim.co.uk/b3a941ac4667f83709f29e2bfac0080a9f5f7722/140_0_4396_3518/500.jpg",
+      "published": "2026-04-28T21:44:36Z",
+      "location": {
+        "name": "Washington, DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "australia-news"
+    },
+    {
+      "id": "us-news/2026/apr/28/trump-administration-wind-projects",
+      "headline": "Trump administration blocks US wind energy projects in switch to oil and gas",
+      "summary": "Trump administration blocks US wind energy projects, redirects investment to oil and gas.",
+      "url": "https://www.theguardian.com/p/x5v8pd",
+      "thumbnail": "https://media.guim.co.uk/0a88599b7c34a9309c89a88ab24612a1d1253735/489_0_3131_2504/500.jpg",
+      "published": "2026-04-28T21:37:43Z",
+      "location": {
+        "name": "United States",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/apr/28/cindy-wanner-cold-case-murder",
+      "headline": "Man arrested in ‘one of most heinous, notorious cold cases’ more than 30 years after mother’s murder",
+      "summary": "Man arrested in 30-year-old cold case murder of Cindy Wanner in Granite Bay, California.",
+      "url": "https://www.theguardian.com/p/x5v8n4",
+      "thumbnail": "https://media.guim.co.uk/074d58be0f469e5140b00bf640b804bbf02f76ed/384_0_2500_2000/500.jpg",
+      "published": "2026-04-28T21:35:33Z",
+      "location": {
+        "name": "Sacramento, California",
+        "lat": 38.5816,
+        "lng": -121.4944
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "australia-news/2026/apr/29/morning-mail-wednesday-ntwnfb",
+      "headline": "Morning Mail: UAE quits Opec oil cartel, Pauline Hanson tops political leader approval ratings, King Charles addresses Congress",
+      "summary": "UAE quits OPEC oil cartel in significant blow to Saudi-led organization's influence.",
+      "url": "https://www.theguardian.com/p/x5v67d",
+      "thumbnail": "https://media.guim.co.uk/92cd120ad4ee3820d782f1557b281b83a5c6a85b/352_0_2917_2334/500.jpg",
+      "published": "2026-04-28T21:11:44Z",
+      "location": {
+        "name": "Abu Dhabi, United Arab Emirates",
+        "lat": 24.4539,
+        "lng": 54.3773
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "australia-news"
+    },
+    {
+      "id": "football/2026/apr/28/psg-bayern-munich-champions-league-semi-final-first-leg-match-report",
+      "headline": "PSG edge breathless 5-4 classic as Bayern Munich rally after Dembélé’s double",
+      "summary": "PSG defeats Bayern Munich 5-4 in thrilling Champions League semi-final first leg.",
+      "url": "https://www.theguardian.com/p/x5v78b",
+      "thumbnail": "https://media.guim.co.uk/8ce7aa0ac01d471f8b415af1685c20c8f3308639/450_0_4739_3791/500.jpg",
+      "published": "2026-04-28T21:07:18Z",
+      "location": {
+        "name": "Paris, France",
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/apr/28/king-charles-congress-trump",
+      "headline": "Mission accomplished as king’s speech to Congress goes down a storm ",
+      "summary": "King Charles delivers measured speech to Congress quoting Wilde and Dickens on alliance ties.",
+      "url": "https://www.theguardian.com/p/x5v7qk",
+      "thumbnail": "https://media.guim.co.uk/02e4f3f4cad75a0ff51da6eb090bd1f04679e049/352_0_3508_2807/500.jpg",
+      "published": "2026-04-28T20:57:34Z",
+      "location": {
+        "name": "Washington, DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
     }
   ]
 }
