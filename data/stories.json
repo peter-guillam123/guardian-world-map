@@ -1,156 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-28T07:42:00.050Z",
+    "generated_at": "2026-04-28T13:19:09.568Z",
     "story_count": 44,
-    "oldest_story": "2026-04-27T08:00:37Z",
-    "newest_story": "2026-04-28T07:40:35Z",
+    "oldest_story": "2026-04-27T14:25:12Z",
+    "newest_story": "2026-04-28T13:16:13Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "politics/live/2026/apr/27/keir-starmer-peter-mandelson-inquiry-speaker-shoplifting-latest-news-updates",
-      "headline": "Call for vote on inquiry into claims Starmer lied over Mandelson dismissed by Labour allies – UK politics live",
-      "summary": "Labour dismisses Tory call for Mandelson inquiry into Starmer as political stunt ahead of Commons vote.",
-      "url": "https://www.theguardian.com/p/x5vvdb",
-      "thumbnail": "https://media.guim.co.uk/2600e5677697308535336f3ad69db90d9aabd397/896_0_4594_3675/500.jpg",
-      "published": "2026-04-27T09:00:51Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "film/2026/apr/27/tombstone-val-kilmer-feelgood-movie",
-      "headline": "‘Bursts off the screen’: why Tombstone is my feelgood movie",
-      "summary": "Film critic celebrates western Tombstone as feelgood comfort movie highlighting Val Kilmer's performance.",
-      "url": "https://www.theguardian.com/p/x4q3aa",
-      "thumbnail": "https://media.guim.co.uk/fb08aa41711bcb9da827525ca04b932731d619ef/140_0_2840_2272/500.jpg",
-      "published": "2026-04-27T09:00:06Z",
-      "location": {
-        "name": "Tombstone",
-        "lat": 32.3088,
-        "lng": -110.0835
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "film"
-    },
-    {
-      "id": "sport/2026/apr/27/nfl-draft-2026-winners-and-losers-eagles-aces-rams-damage-control-and-a-missing-coach",
-      "headline": "NFL draft 2026 winners and losers: Eagles’ aces, Rams’ damage control and a missing coach",
-      "summary": "NFL draft 2026: Eagles ace selections, Rams damage control, mixed verdicts on prospects evaluated.",
-      "url": "https://www.theguardian.com/p/x4q9pb",
-      "thumbnail": "https://media.guim.co.uk/fcb2101f5013f80957f6a3ae0fa9d044e83e9d10/0_0_5000_4000/500.jpg",
-      "published": "2026-04-27T09:00:06Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "us-news/live/2026/apr/27/white-house-correspondents-dinner-shooting-suspect-charges-donald-trump-king-charles-latest-news-updates",
-      "headline": "White House Correspondents’ Dinner suspect to be charged as Trump prepares to welcome king – US politics live",
-      "summary": "White House Correspondents' Dinner shooting suspect Cole Tomas Allen to be formally charged today.",
-      "url": "https://www.theguardian.com/p/x5vvg4",
-      "thumbnail": "https://media.guim.co.uk/61944030b54f70b1180e09258b8b431c8fdb234d/355_0_1971_1576/500.jpg",
-      "published": "2026-04-27T08:56:45Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "business/2026/apr/27/hsbc-reviewing-private-school-perk-for-bankers-in-hong-kong",
-      "headline": "HSBC ‘reviewing’ private school perk for bankers in Hong Kong",
-      "summary": "HSBC reviews £30,000 annual private school perk for senior bankers in Hong Kong amid CEO overhaul.",
-      "url": "https://www.theguardian.com/p/x5vvbn",
-      "thumbnail": "https://media.guim.co.uk/037e1d809b01be2c9590cf664a0b839df523fa65/0_0_5239_4191/500.jpg",
-      "published": "2026-04-27T08:31:05Z",
-      "location": {
-        "name": "Hong Kong",
-        "lat": 22.3193,
-        "lng": 114.1694
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "politics/2026/apr/27/senior-labour-figures-call-new-mandelson-investigation-political-stunt",
-      "headline": "Senior Labour figures say call for new Mandelson investigation is a ‘political stunt’",
-      "summary": "Senior Labour figures dismiss Conservative call for new Mandelson investigation as political scoring.",
-      "url": "https://www.theguardian.com/p/x5vvh5",
-      "thumbnail": "https://media.guim.co.uk/dba364f461107ed3dba7a0b00a4315370b2155c5/1284_594_3003_2403/500.jpg",
-      "published": "2026-04-27T08:26:48Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "world/live/2026/apr/27/europe-ukraine-russia-poland-germany-eu-latest-news-updates",
-      "headline": "Odesa bears brunt of latest Russian attacks on Ukraine – Europe live",
-      "summary": "Odesa bears brunt of latest Russian attacks; Ukrainian PM prepares Poland visit amid postwar recovery talks.",
-      "url": "https://www.theguardian.com/p/x5vven",
-      "thumbnail": "https://media.guim.co.uk/dbc1004cdc6566ce66c9721b24b631f6bf8985d7/841_0_4159_3327/500.jpg",
-      "published": "2026-04-27T08:26:02Z",
-      "location": {
-        "name": "Odesa",
-        "lat": 46.485,
-        "lng": 30.7326
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "technology/2026/apr/27/elon-musk-sam-altman-open-ai-lawsuit",
-      "headline": "Elon Musk and Sam Altman face off in court over OpenAI’s founding mission",
-      "summary": "Elon Musk sues Sam Altman over OpenAI's shift from non-profit to for-profit, accusing him of fraud.",
-      "url": "https://www.theguardian.com/p/x4qejd",
-      "thumbnail": "https://media.guim.co.uk/6ee77d2ef9db98d209fdf117968db3920520007b/0_0_1500_1200/500.jpg",
-      "published": "2026-04-27T08:00:38Z",
-      "location": {
-        "name": "San Francisco",
-        "lat": 37.7749,
-        "lng": -122.4194
-      },
-      "category": "tech",
-      "significance": 3,
-      "section": "technology"
-    },
-    {
-      "id": "film/2026/apr/27/the-nights-still-smell-of-gunpowder-review-excavating-the-memories-of-civil-war-in-mozambique",
-      "headline": "The Nights Still Smell of Gunpowder review – excavating the memories of civil war in Mozambique",
-      "summary": "Documentary examines Mozambique civil war trauma through filmmaker's family history and village memories.",
-      "url": "https://www.theguardian.com/p/x4qde9",
-      "thumbnail": "https://media.guim.co.uk/e829f176e363471eecda6f70dfb0e4e9c91693cf/343_85_1120_896/500.jpg",
-      "published": "2026-04-27T08:00:37Z",
-      "location": {
-        "name": "Mozambique",
-        "lat": -18.6657,
-        "lng": 35.5296
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "film"
-    },
     {
       "id": "sport/live/2026/apr/27/surrey-v-essex-yorkshire-v-sussex-and-more-county-cricket-day-four-live",
       "headline": "Surrey v Essex, Yorkshire v Sussex, and more: county cricket, day four – live",
@@ -710,6 +566,150 @@
       "category": "politics",
       "significance": 2,
       "section": "australia-news"
+    },
+    {
+      "id": "politics/live/2026/apr/28/keir-starmer-labour-peter-mandelson-vetting-morgan-mcsweeney-kemi-badenoch-vote-uk-politics-latest-news-updates",
+      "headline": "MPs debate if Keir Starmer should face inquiry into whether he misled them over Mandelson vetting – UK politics live ",
+      "summary": "MPs debate whether PM Starmer misled them over Mandelson vetting appointment.",
+      "url": "https://www.theguardian.com/p/x5v5hh",
+      "thumbnail": "https://media.guim.co.uk/edf4750a1e0cdddccf991ee3357bbcb00c1c92e8/277_0_1350_1080/500.jpg",
+      "published": "2026-04-28T13:16:13Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "world/live/2026/apr/28/europe-france-andorra-abortion-macron-ukraine-russia-eu-latest-news-updates",
+      "headline": "Journalist Andrzej Poczobut freed as part of US-brokered Polish-Belarusian prisoner swap – Europe live",
+      "summary": "Journalist Andrzej Poczobut freed in US-brokered Polish-Belarusian prisoner swap.",
+      "url": "https://www.theguardian.com/p/x5v5zf",
+      "thumbnail": "https://media.guim.co.uk/b440cfc1a01658906e0a1bcb4b91d947d1e01514/301_0_2583_2066/500.jpg",
+      "published": "2026-04-28T13:11:40Z",
+      "location": {
+        "name": "Minsk",
+        "lat": 53.9045,
+        "lng": 27.5615
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "culture/2026/apr/28/antiquities-dealer-ittai-gradel-exposed-thefts-british-museum-dies-aged-61",
+      "headline": "Antiquities dealer who exposed thefts at British Museum dies aged 61",
+      "summary": "Antiquities dealer who exposed British Museum thefts dies aged 61.",
+      "url": "https://www.theguardian.com/p/x5v6hm",
+      "thumbnail": "https://media.guim.co.uk/d6704d5c26b3eb9e934bb36946c83c68c6d6d305/591_0_6508_5207/500.jpg",
+      "published": "2026-04-28T13:07:11Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "culture"
+    },
+    {
+      "id": "us-news/live/2026/apr/28/donald-trump-king-charles-melania-camilla-white-house-congress-latest-news-updates",
+      "headline": "King to meet Trump off-camera amid clash fears before Charles’ Congress speech – US politics live",
+      "summary": "King Charles to meet Trump off-camera before addressing Congress during state visit.",
+      "url": "https://www.theguardian.com/p/x5v65a",
+      "thumbnail": "https://media.guim.co.uk/2c5d8dcc3e6a3f404b3a60ef39c9cfd940eee892/336_0_3732_2985/500.jpg",
+      "published": "2026-04-28T12:43:23Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/apr/28/trump-clean-energy-progress",
+      "headline": "Trump’s attempt to crush clean energy progress not going to plan, experts say",
+      "summary": "US renewable energy exceeds gas generation for first time despite Trump administration opposition.",
+      "url": "https://www.theguardian.com/p/x5v389",
+      "thumbnail": "https://media.guim.co.uk/9a49e2ad88189b2c6c6fcb234933a715c30a4a91/0_0_5000_4000/500.jpg",
+      "published": "2026-04-28T12:30:09Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "world/2026/apr/28/sri-lanka-police-buddhist-monks-cannabis-kush-airport",
+      "headline": "Sri Lanka police arrest 22 Buddhist monks after 110kg of cannabis found in luggage",
+      "summary": "Sri Lankan police arrest 22 Buddhist monks with 110kg cannabis at Colombo airport.",
+      "url": "https://www.theguardian.com/p/x5v67h",
+      "thumbnail": "https://media.guim.co.uk/67f0c7abae7dcab935bab6bd056af4255d9070ce/183_0_3864_3093/500.jpg",
+      "published": "2026-04-28T12:22:09Z",
+      "location": {
+        "name": "Colombo",
+        "lat": 6.9271,
+        "lng": 80.7789
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "football/2026/apr/28/john-stones-leave-manchester-city-end-season",
+      "headline": "John Stones to leave Manchester City at end of season after 10-year spell",
+      "summary": "John Stones to leave Manchester City after 10-year spell at end of season.",
+      "url": "https://www.theguardian.com/p/x5v7vp",
+      "thumbnail": "https://media.guim.co.uk/589b07f1bba94568b4f212f9abcdbb825e5d8644/720_651_2687_2149/500.jpg",
+      "published": "2026-04-28T12:21:19Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4831,
+        "lng": -2.2244
+      },
+      "category": "sport",
+      "significance": 1,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/apr/28/first-thing-white-house-dinner-suspect-charged-with-attempted-assassination",
+      "headline": "First Thing: White House dinner suspect charged with attempted assassination",
+      "summary": "White House dinner shooting suspect charged with attempted assassination, faces life sentence.",
+      "url": "https://www.theguardian.com/p/x5v5gx",
+      "thumbnail": "https://media.guim.co.uk/4adbbe68b8ff8263ab43d07ad180c2ce789758c4/334_0_3331_2666/500.jpg",
+      "published": "2026-04-28T12:12:47Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "film/2026/apr/28/michael-smashes-uk-records-for-biggest-biopic-opening-jackson-bohemian-rhapsody",
+      "headline": "Michael smashes UK records for biggest biopic opening",
+      "summary": "Michael Jackson biopic smashes UK records for biggest biographical film opening.",
+      "url": "https://www.theguardian.com/p/x5v64p",
+      "thumbnail": "https://media.guim.co.uk/f58c2bd80eb3fb363c7b7f51c29427b224ed5476/665_0_2766_2214/500.jpg",
+      "published": "2026-04-28T12:09:59Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "film"
     }
   ]
 }
