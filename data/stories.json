@@ -1,252 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-28T13:19:09.568Z",
-    "story_count": 44,
-    "oldest_story": "2026-04-27T14:25:12Z",
-    "newest_story": "2026-04-28T13:16:13Z",
+    "generated_at": "2026-04-28T18:11:43.579Z",
+    "story_count": 39,
+    "oldest_story": "2026-04-27T18:52:42Z",
+    "newest_story": "2026-04-28T18:10:37Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "sport/live/2026/apr/27/surrey-v-essex-yorkshire-v-sussex-and-more-county-cricket-day-four-live",
-      "headline": "Surrey v Essex, Yorkshire v Sussex, and more: county cricket, day four – live",
-      "summary": "County Championship cricket day four featuring Surrey, Essex, Yorkshire and Sussex matches.",
-      "url": "https://www.theguardian.com/p/x5vvfk",
-      "thumbnail": "https://media.guim.co.uk/154681a43adb827795d4b4148b1551c1b480c4d5/259_0_2250_1800/500.jpg",
-      "published": "2026-04-27T15:24:58Z",
-      "location": {
-        "name": "Surrey",
-        "lat": 51.241,
-        "lng": -0.3673
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "sport/2026/apr/27/john-higgins-ends-ronnie-osullivan-bid-eighth-title-crucible-thriller-snooker",
-      "headline": "Higgins ends O’Sullivan’s bid for eighth world snooker title in final-frame thriller ",
-      "summary": "John Higgins defeats Ronnie O'Sullivan 13-12 at Crucible for World Snooker Championship.",
-      "url": "https://www.theguardian.com/p/x5v28d",
-      "thumbnail": "https://media.guim.co.uk/21fade1c504a9d48ed3267e7bfac0ce7fa3d2574/0_489_2334_1866/500.jpg",
-      "published": "2026-04-27T15:16:10Z",
-      "location": {
-        "name": "Sheffield",
-        "lat": 53.3811,
-        "lng": -1.4668
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "sport"
-    },
-    {
-      "id": "politics/2026/apr/27/mps-vote-inquiry-starmer-mandelson",
-      "headline": "MPs to vote on whether to hold inquiry into Starmer over Mandelson",
-      "summary": "MPs to vote on inquiry into PM Starmer over Peter Mandelson appointment decision.",
-      "url": "https://www.theguardian.com/p/x5vvqp",
-      "thumbnail": "https://media.guim.co.uk/8e5e48888ab5e763db1be18fa6377f84d675adcc/499_0_4167_3333/500.jpg",
-      "published": "2026-04-27T15:03:39Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "australia-news/2026/apr/27/you-can-see-why-i-love-this-car-even-amid-a-fuel-crisis-some-australian-drivers-can-fill-up-for-60",
-      "headline": "‘You can see why I love this car’: even amid a fuel crisis some Australian drivers can fill up for $60",
-      "summary": "LPG-fuelled car owners benefit as petrol prices surge across Australia.",
-      "url": "https://www.theguardian.com/p/x4mpfm",
-      "thumbnail": "https://media.guim.co.uk/8c1c96e865c5769f658a5d541ec9bd29b1728d70/0_0_1920_1536/500.jpg",
-      "published": "2026-04-27T15:00:25Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "australia-news/2026/apr/27/evicted-indigenous-mother-dies-sepsis-ntwnfb",
-      "headline": "Indigenous woman dies weeks after giving birth and being evicted from public housing: ‘She was failed completely’",
-      "summary": "Indigenous woman dies of sepsis weeks after eviction from Western Australian housing.",
-      "url": "https://www.theguardian.com/p/x4q5qa",
-      "thumbnail": "https://media.guim.co.uk/23c43645f983b03ecdfd339be45e2971b56b1bec/239_1019_1946_1556/500.jpg",
-      "published": "2026-04-27T15:00:25Z",
-      "location": {
-        "name": "Perth",
-        "lat": -31.9505,
-        "lng": 115.8605
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "football/blog/2026/apr/27/john-aloisi-china-football-chinese-super-league",
-      "headline": "The new Ange? John Aloisi makes his mark with attacking brand of football in China ",
-      "summary": "Australian coach John Aloisi impresses with Chengdu Rongcheng in Chinese Super League.",
-      "url": "https://www.theguardian.com/p/x4qqzh",
-      "thumbnail": "https://media.guim.co.uk/4a2f586957172aacf8e8e756443e85e2d186d6c1/0_0_4316_3454/500.jpg",
-      "published": "2026-04-27T15:00:25Z",
-      "location": {
-        "name": "Chengdu",
-        "lat": 30.5728,
-        "lng": 104.0668
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "politics/2026/apr/27/what-labour-plaid-reform-greens-tories-libdems-promise-welsh-voters",
-      "headline": "What the parties promise Welsh voters on the NHS, schools, childcare and tax",
-      "summary": "Welsh parties outline competing manifestos on NHS, schools and childcare ahead of election.",
-      "url": "https://www.theguardian.com/p/x4qcpc",
-      "thumbnail": "https://media.guim.co.uk/32d8d234359eb376d0e531cc957093b4be5c3fe4/0_5_3053_2444/500.jpg",
-      "published": "2026-04-27T15:00:24Z",
-      "location": {
-        "name": "Cardiff",
-        "lat": 51.4816,
-        "lng": -3.1791
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "football/2026/apr/27/the-premier-league-finally-has-a-relegation-battle",
-      "headline": "The Premier League finally has a relegation battle",
-      "summary": "Premier League finally has competitive relegation battle with multiple clubs at risk.",
-      "url": "https://www.theguardian.com/p/x4qzm3",
-      "thumbnail": "https://media.guim.co.uk/9f0c1a7bcb032d580427ea4928eb34773955d65a/0_0_5000_4000/500.jpg",
-      "published": "2026-04-27T15:00:23Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "australia-news/2026/apr/27/ndis-changes-cuts-state-government-support-autism",
-      "headline": "Families of children with autism say their NDIS plans are already being cut – and the alternatives aren’t there",
-      "summary": "Families report NDIS plans being cut as disability scheme overhaul looms.",
-      "url": "https://www.theguardian.com/p/x4qanb",
-      "thumbnail": "https://media.guim.co.uk/158f8f74401e3aa2ecd79cce7bc481e1a3c4698c/0_475_1210_967/500.jpg",
-      "published": "2026-04-27T15:00:23Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "us-news/2026/apr/27/correspondents-dinner-shooting-salad",
-      "headline": "Cool as a cucumber: man calmly ate salad as press dinner shooting unfolded",
-      "summary": "Shooting erupts at White House correspondents' dinner at Washington Hilton.",
-      "url": "https://www.theguardian.com/p/x5vxgh",
-      "thumbnail": "https://media.guim.co.uk/990a1d7bc4f2dc212361e99da93253d122f6402e/0_0_2689_2152/500.jpg",
-      "published": "2026-04-27T14:35:59Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "world/2026/apr/27/mali-militant-attacks-putin-russia-africa",
-      "headline": "Mali’s militant attacks expose limits of Putin’s power in Africa",
-      "summary": "Militant attacks in Mali expose limits of Putin's military backing for junta.",
-      "url": "https://www.theguardian.com/p/x5vxfp",
-      "thumbnail": "https://media.guim.co.uk/866848c40566cce336578fb92ef2b69984ea16ed/524_0_5255_4204/500.jpg",
-      "published": "2026-04-27T14:35:47Z",
-      "location": {
-        "name": "Bamako",
-        "lat": 12.6392,
-        "lng": -8.0029
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "world/2026/apr/27/china-blocks-meta-takeover-manus-ai-agent-developer",
-      "headline": "China blocks $2bn Meta takeover of AI agent developer Manus",
-      "summary": "China blocks Meta's $2bn acquisition of AI startup Manus over foreign investment rules.",
-      "url": "https://www.theguardian.com/p/x5vvnn",
-      "thumbnail": "https://media.guim.co.uk/c2c71daeaf767d71e44badec6d592401e7b702ce/509_0_5031_4024/500.jpg",
-      "published": "2026-04-27T14:35:32Z",
-      "location": {
-        "name": "Beijing",
-        "lat": 39.9042,
-        "lng": 116.4074
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "culture/2026/apr/27/the-primitives-how-we-wrote-crash-dumb-and-dumber",
-      "headline": "The Primitives: ‘A reviewer said that Crash would finish the band. Then it was in Dumb and Dumber’",
-      "summary": "The Primitives discuss how 'Crash' became global hit after label added unexpected instruments.",
-      "url": "https://www.theguardian.com/p/x4zt58",
-      "thumbnail": "https://media.guim.co.uk/4e5fa34b09b9175d43cbe9a71cb8a68a80b2c234/256_0_2441_1953/500.jpg",
-      "published": "2026-04-27T14:31:24Z",
-      "location": {
-        "name": "Coventry",
-        "lat": 52.4081,
-        "lng": -1.5105
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "culture"
-    },
-    {
-      "id": "football/2026/apr/27/football-daily-email-manchester-city-chelsea",
-      "headline": "Manchester City v Chelsea: get ready for a Wembley FFP derby showpiece",
-      "summary": "Manchester City and Chelsea face off in FA Cup final at Wembley amid ongoing FFP investigations.",
-      "url": "https://www.theguardian.com/p/x4pnnb",
-      "thumbnail": "https://media.guim.co.uk/2fa6339257eb6b74a54ca2fbc848010e4ba23cfd/575_255_4316_3453/500.jpg",
-      "published": "2026-04-27T14:30:07Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "culture/2026/apr/27/tate-britain-90s-art-fashion-culture-edward-enninful",
-      "headline": "Back to the 90s: Tate exhibition to explore decade’s art and fashion",
-      "summary": "Tate Britain exhibition curated by Edward Enninful explores 1990s art and fashion beyond Cool Britannia narrative.",
-      "url": "https://www.theguardian.com/p/x5vxnm",
-      "thumbnail": "https://media.guim.co.uk/c6235222c3534c120547ee2830689c698261215c/233_0_4657_3725/500.jpg",
-      "published": "2026-04-27T14:25:12Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "artanddesign"
-    },
     {
       "id": "football/live/2026/apr/27/manchester-united-v-brentford-premier-league-live-updates",
       "headline": "Manchester United v Brentford: Premier League – live",
@@ -710,6 +470,166 @@
       "category": "culture",
       "significance": 1,
       "section": "film"
+    },
+    {
+      "id": "technology/2026/apr/28/sam-altman-open-ai-elon-musk-trial",
+      "headline": "‘Stole a charity’: Elon Musk accuses Sam Altman of betrayal in courtroom showdown",
+      "summary": "Elon Musk accuses Sam Altman of betrayal in OpenAI trial over company's founding history.",
+      "url": "https://www.theguardian.com/p/x5v7my",
+      "thumbnail": "https://media.guim.co.uk/6ee77d2ef9db98d209fdf117968db3920520007b/0_0_1500_1200/500.jpg",
+      "published": "2026-04-28T18:10:37Z",
+      "location": {
+        "name": "San Francisco",
+        "lat": 37.7749,
+        "lng": -122.4194
+      },
+      "category": "tech",
+      "significance": 3,
+      "section": "technology"
+    },
+    {
+      "id": "politics/2026/apr/28/no-10-dismisses-reeves-reported-plan-for-freeze-on-private-rents",
+      "headline": "No 10 dismisses Reeves’s reported plan for freeze on private rents",
+      "summary": "Downing Street dismisses Chancellor Reeves's reported plan to freeze private sector rents.",
+      "url": "https://www.theguardian.com/p/x5v7pb",
+      "thumbnail": "https://media.guim.co.uk/91ecc7350b536dde6d028cb55f9be6440a896fce/145_0_2496_1998/500.jpg",
+      "published": "2026-04-28T18:01:39Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "football/live/2026/apr/28/paris-saint-germain-v-bayern-munich-champions-league-semi-final-first-leg-live",
+      "headline": "Paris Saint-Germain v Bayern Munich: Champions League semi-final, first leg – live",
+      "summary": "Paris Saint-Germain hosts Bayern Munich in Champions League semi-final first leg.",
+      "url": "https://www.theguardian.com/p/x5vx5z",
+      "thumbnail": "https://media.guim.co.uk/d54e5fee6ac32135c2ad9e29d8b895361199c4d1/297_0_4838_3871/500.jpg",
+      "published": "2026-04-28T17:57:52Z",
+      "location": {
+        "name": "Paris",
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "music/2026/apr/28/kacey-musgraves-mariachi-texas-opener-ice",
+      "headline": "Teen mariachi trio detained by ICE to open for Kacey Musgraves in Texas",
+      "summary": "Teen mariachi trio detained by ICE to open for Kacey Musgraves in Texas shows.",
+      "url": "https://www.theguardian.com/p/x5v84k",
+      "thumbnail": "https://media.guim.co.uk/248551920b8c278798adac1d0511a3b41ba9520b/132_0_2700_2160/500.jpg",
+      "published": "2026-04-28T17:45:45Z",
+      "location": {
+        "name": "Texas",
+        "lat": 31.9686,
+        "lng": -99.9018
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "music"
+    },
+    {
+      "id": "us-news/2026/apr/28/virginia-giuffre-epstein-king-charles",
+      "headline": "Virginia Giuffre’s brother criticizes King Charles III for not meeting survivors of Epstein abuse",
+      "summary": "Virginia Giuffre's brother criticizes King Charles III for not meeting Epstein abuse survivors.",
+      "url": "https://www.theguardian.com/p/x5v8xq",
+      "thumbnail": "https://media.guim.co.uk/ad56b3afc4807e32da9cd7db1a46dea68644d355/284_0_2500_2000/500.jpg",
+      "published": "2026-04-28T17:29:37Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "politics/2026/apr/28/starmer-sees-off-tory-calls-for-inquiry-into-mandelson-role-after-no-10-flexes-muscle",
+      "headline": "Starmer sees off Tory calls for inquiry into Mandelson role after No 10 flexes muscle",
+      "summary": "PM Starmer defeats Tory calls for inquiry into Mandelson's appointment amid backbench anger.",
+      "url": "https://www.theguardian.com/p/x5v7gv",
+      "thumbnail": "https://media.guim.co.uk/6b0b6883246aacfbb62949680c1c2501874ba1a6/459_0_4044_3235/500.jpg",
+      "published": "2026-04-28T17:28:18Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "uk-news/2026/apr/28/trump-and-king-charless-clashing-climate-views-are-one-schism-the-royal-touch-cant-heal",
+      "headline": "King’s environmental views will never face a more obdurate listener than Trump",
+      "summary": "King Charles III's environmental views clash with Trump's during state visit to US.",
+      "url": "https://www.theguardian.com/p/x5v7kp",
+      "thumbnail": "https://media.guim.co.uk/a906ae59f4d1e15097bef0f8d03b7d2239aeee78/1940_960_2180_1744/500.jpg",
+      "published": "2026-04-28T17:21:32Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "business/nils-pratley-on-finance/2026/apr/28/another-shadow-banking-hit-but-otherwise-barclays-looks-fine",
+      "headline": "Another shadow banking hit – but otherwise, Barclays looks fine",
+      "summary": "Barclays suffers £228m hit from MFS mortgage firm, pledges stricter lending oversight.",
+      "url": "https://www.theguardian.com/p/x5v7v8",
+      "thumbnail": "https://media.guim.co.uk/e8ab246c419f03e3850c80ba87e723e78ad58260/667_0_3333_2667/500.jpg",
+      "published": "2026-04-28T17:20:35Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "world/2026/apr/28/russia-claims-its-africa-corps-group-prevented-coup-in-mali-after-rebels-seize-towns",
+      "headline": "Russia claims its Africa Corps group prevented coup in Mali after rebels seize towns",
+      "summary": "Russia claims Africa Corps prevented coup in Mali after rebels seize towns.",
+      "url": "https://www.theguardian.com/p/x5v6md",
+      "thumbnail": "https://media.guim.co.uk/d03fb17b17e0182f8c3e339197c958523a160ce2/1311_544_2889_2312/500.jpg",
+      "published": "2026-04-28T17:07:27Z",
+      "location": {
+        "name": "Bamako",
+        "lat": 12.6392,
+        "lng": -8.0029
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "technology/2026/apr/28/uk-must-seize-ai-initiative-or-be-left-at-the-mercy-of-the-future-liz-kendall-warns",
+      "headline": "UK must seize AI initiative or be left at the ‘mercy’ of the future, Liz Kendall warns",
+      "summary": "UK Technology Secretary Liz Kendall warns Britain must seize AI initiative or lose control.",
+      "url": "https://www.theguardian.com/p/x5v7hz",
+      "thumbnail": "https://media.guim.co.uk/849c0fce161f8ce58b5da9e6adef096ceaaceb5b/236_0_2353_1882/500.jpg",
+      "published": "2026-04-28T17:03:00Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "tech",
+      "significance": 2,
+      "section": "technology"
     }
   ]
 }
