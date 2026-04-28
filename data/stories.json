@@ -1,60 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-27T22:35:51.630Z",
-    "story_count": 37,
-    "oldest_story": "2026-04-26T23:01:26Z",
-    "newest_story": "2026-04-27T22:31:35Z",
+    "generated_at": "2026-04-28T07:42:00.050Z",
+    "story_count": 44,
+    "oldest_story": "2026-04-27T08:00:37Z",
+    "newest_story": "2026-04-28T07:40:35Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/2026/apr/27/xavi-simons-acl-injury-tottenham-netherlands-world-cup",
-      "headline": "Xavi Simons ruled out of rest of season and World Cup with ruptured ACL ",
-      "summary": "Tottenham's Xavi Simons suffers ACL rupture, ruled out eight months and World Cup.",
-      "url": "https://www.theguardian.com/p/x4qpkn",
-      "thumbnail": "https://media.guim.co.uk/eaa2940d334cf18eec8712c6c7b49c6cb3592d9d/487_0_3510_2808/500.jpg",
-      "published": "2026-04-26T23:32:20Z",
-      "location": {
-        "name": "Wolverhampton",
-        "lat": 52.5892,
-        "lng": -2.1298
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "business/2026/apr/27/childrens-shoe-retailers-closure-specialist-shops-harming-foot-health",
-      "headline": "Children’s shoe retailers say closure of specialist shops is harming foot health",
-      "summary": "UK shoe retailers warn closure of specialist shops causing foot health issues in children.",
-      "url": "https://www.theguardian.com/p/x4qcfa",
-      "thumbnail": "https://media.guim.co.uk/848802ce617bf8048e321357c749dcb3d7db5f07/0_1062_3635_2908/500.jpg",
-      "published": "2026-04-26T23:01:27Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "environment/2026/apr/27/renewable-energy-will-boost-national-security-and-protect-uk-from-sabotage-minister-says",
-      "headline": "Renewable energy will boost national security and protect UK from sabotage, minister says",
-      "summary": "UK energy minister says renewables boost national security against sabotage threats.",
-      "url": "https://www.theguardian.com/p/x4qnjf",
-      "thumbnail": "https://media.guim.co.uk/ec84aa3de6a6a973af498257a475d74497620129/744_82_2364_1892/500.jpg",
-      "published": "2026-04-26T23:01:26Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "environment"
-    },
     {
       "id": "politics/live/2026/apr/27/keir-starmer-peter-mandelson-inquiry-speaker-shoplifting-latest-news-updates",
       "headline": "Call for vote on inquiry into claims Starmer lied over Mandelson dismissed by Labour allies – UK politics live",
@@ -598,6 +550,166 @@
       "category": "sport",
       "significance": 1,
       "section": "football"
+    },
+    {
+      "id": "business/live/2026/apr/28/bp-profits-double-iran-war-oil-price-stock-markets-live-updates",
+      "headline": "BP reports ‘horrifying’ jump in profits as Iran war boosts oil trading; Brent crude hits three-week high – business live",
+      "summary": "BP profits double in Q1 2026 amid Iran conflict, boosting oil prices to three-week highs.",
+      "url": "https://www.theguardian.com/p/x5v5dm",
+      "thumbnail": "https://media.guim.co.uk/3bbc224015021b142d250bef161c6756e2ff9ae1/61_0_5579_4463/500.jpg",
+      "published": "2026-04-28T07:40:35Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "business"
+    },
+    {
+      "id": "world/live/2026/apr/28/middle-east-crisis-live-iran-us-israel-lebanon-hormuz-nuclear-oil-latest-news-updates",
+      "headline": "Middle East crisis live: Iran says it needs guarantees against attacks before Gulf can be stable",
+      "summary": "Iran demands guarantees against attacks as US blockades Strait of Hormuz, disrupting global oil supply.",
+      "url": "https://www.theguardian.com/p/x5v3n6",
+      "thumbnail": "https://media.guim.co.uk/973ffa3b625ff78168531c6ad6694231d6cb71af/693_0_5000_4000/500.jpg",
+      "published": "2026-04-28T07:40:00Z",
+      "location": {
+        "name": "Tehran",
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "media/2026/apr/28/tech-companies-levy-australian-news-journalism-explained",
+      "headline": "Tech giants face a new levy to pay for Australian news. What is the proposed model and how will it work?",
+      "summary": "Australia proposes new levy on tech giants to fund news journalism, replacing previous bargaining code.",
+      "url": "https://www.theguardian.com/p/x5v5xb",
+      "thumbnail": "https://media.guim.co.uk/7bac4bfceaf66d47499a1566b204946a776b266c/342_0_3957_3166/500.jpg",
+      "published": "2026-04-28T07:15:09Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "tech",
+      "significance": 2,
+      "section": "media"
+    },
+    {
+      "id": "uk-news/2026/apr/28/king-charles-speech-us-congress-state-visit",
+      "headline": "UK and US always find ways to come together, King Charles to tell Congress",
+      "summary": "King Charles addresses US Congress, emphasizing UK-US partnership amid recent diplomatic tensions.",
+      "url": "https://www.theguardian.com/p/x5v5gc",
+      "thumbnail": "https://media.guim.co.uk/a8dc14ac2546b6c61509e561481802b85ce44c6f/0_338_3280_2621/500.jpg",
+      "published": "2026-04-28T07:06:30Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "uk-news"
+    },
+    {
+      "id": "sport/2026/apr/28/sabastian-sawe-sub-two-london-marathon-feat-roger-bannister-moment",
+      "headline": "Sabastian Sawe’s sub-two hour marathon is the Roger Bannister moment of our time",
+      "summary": "Sebastian Sawe breaks two-hour marathon barrier at London Marathon, achieving historic athletic milestone.",
+      "url": "https://www.theguardian.com/p/x5v2t8",
+      "thumbnail": "https://media.guim.co.uk/8d0e28d41c7270d5e9225c5d938f00c93cd546ad/440_104_5991_4793/500.jpg",
+      "published": "2026-04-28T07:00:44Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "sport"
+    },
+    {
+      "id": "football/2026/apr/28/afc-champions-league-fundamentally-flawed-tournament",
+      "headline": "AFC Champions League gets finale fitting of fundamentally flawed tournament",
+      "summary": "Al-Ahli wins AFC Champions League Elite final for second consecutive year despite tournament flaws.",
+      "url": "https://www.theguardian.com/p/x5vx4b",
+      "thumbnail": "https://media.guim.co.uk/4e0bc1f50fcf5498ac528e4e4f35d365411e6a52/519_0_4591_3675/500.jpg",
+      "published": "2026-04-28T07:00:44Z",
+      "location": {
+        "name": "Jeddah",
+        "lat": 21.5433,
+        "lng": 39.1728
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/apr/28/eddie-howe-big-questions-saudi-owners-may-ask-newcastle-manager",
+      "headline": "What, Howe and why: big questions Saudi owners may ask under-fire Newcastle manager",
+      "summary": "Eddie Howe faces scrutiny from Saudi owners after Newcastle's five-game losing streak.",
+      "url": "https://www.theguardian.com/p/x5vx9q",
+      "thumbnail": "https://media.guim.co.uk/5a876503fbc5e19ed18e1c23d5b5d21e02a4384f/790_0_4324_3461/500.jpg",
+      "published": "2026-04-28T07:00:43Z",
+      "location": {
+        "name": "Newcastle upon Tyne",
+        "lat": 54.9783,
+        "lng": -1.6178
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "commentisfree/2026/apr/28/britain-war-cyber-attacks-disinformation-surveillance-blockades",
+      "headline": "It’s time MPs levelled with us: Britain is already at war, and we’ll need to do two things to survive it",
+      "summary": "Britain faces undeclared war through cyber-attacks, disinformation, and supply blockades, columnist warns.",
+      "url": "https://www.theguardian.com/p/x5v2be",
+      "thumbnail": "https://media.guim.co.uk/b1fd718685073f9772bc6c9068acad0ab54ba04d/735_0_5000_4000/500.jpg",
+      "published": "2026-04-28T07:00:43Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "commentisfree"
+    },
+    {
+      "id": "global-development/2026/apr/28/mexico-environment-logging-cartels-sierra-tarahumara-forests",
+      "headline": "Logging, murder and money: can Mexico’s ancient forests be saved from the cartels?",
+      "summary": "Mexican drug cartels control illegal logging operations in Sierra Tarahumara, targeting resistance with violence.",
+      "url": "https://www.theguardian.com/p/x4qxnn",
+      "thumbnail": "https://media.guim.co.uk/ecb81a071ef73c48d0afcad9b10230f180449fc9/0_0_5000_4000/500.jpg",
+      "published": "2026-04-28T07:00:43Z",
+      "location": {
+        "name": "Chihuahua",
+        "lat": 28.6353,
+        "lng": -106.268
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "global-development"
+    },
+    {
+      "id": "australia-news/2026/apr/28/afternoon-update-tuesday-ntwnfb",
+      "headline": "Afternoon Update: Rebel Wilson testifies; PM reveals big tech media levy; and robot baggage handlers",
+      "summary": "Australian PM announces tech media levy; Rebel Wilson testifies in defamation case; robot baggage handlers debut.",
+      "url": "https://www.theguardian.com/p/x5v4zg",
+      "thumbnail": "https://media.guim.co.uk/8c14ea646596da2cbf596a6eb8069b7de4e810fe/1057_0_7857_6286/500.jpg",
+      "published": "2026-04-28T06:52:01Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
     }
   ]
 }
