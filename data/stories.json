@@ -1,44 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-28T21:44:42.813Z",
-    "story_count": 37,
-    "oldest_story": "2026-04-27T22:29:05Z",
-    "newest_story": "2026-04-28T21:44:36Z",
+    "generated_at": "2026-04-29T06:40:37.822Z",
+    "story_count": 43,
+    "oldest_story": "2026-04-28T06:52:01Z",
+    "newest_story": "2026-04-29T06:35:00Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "australia-news/live/2026/apr/28/australia-news-live-rsl-welcome-to-country-anzac-day-angus-taylor-fuel-reserve-crisis-budget-jim-chalmers-anthony-albanese-ntwnfb",
-      "headline": "News live: Canavan pushes $6bn policy to double fuel reserve; Trump nominates new ambassador to Australia",
-      "summary": "Trump nominates David Brat as ambassador to Australia; government discusses fuel reserve policy.",
-      "url": "https://www.theguardian.com/p/x5vxtv",
-      "thumbnail": "https://media.guim.co.uk/6139793f61ad0470ec64c46ba6516624e074ed6f/688_0_6880_5504/500.jpg",
-      "published": "2026-04-27T22:31:35Z",
-      "location": {
-        "name": "Australia",
-        "lat": -25.2744,
-        "lng": 133.7751
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "football/2026/apr/27/casemiros-decision-to-leave-manchester-united-is-final-insists-michael-carrick",
-      "headline": "Casemiro’s decision to leave Manchester United is final, insists Michael Carrick",
-      "summary": "Casemiro to leave Manchester United after four years; Carrick confirms summer departure.",
-      "url": "https://www.theguardian.com/p/x5v3z8",
-      "thumbnail": "https://media.guim.co.uk/bb13a6f10d908d301408d5bd1d502d76cdca7b26/205_0_3443_2755/500.jpg",
-      "published": "2026-04-27T22:29:05Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4831,
-        "lng": -2.2044
-      },
-      "category": "sport",
-      "significance": 1,
-      "section": "football"
-    },
     {
       "id": "business/live/2026/apr/28/bp-profits-double-iran-war-oil-price-stock-markets-live-updates",
       "headline": "BP reports ‘horrifying’ jump in profits as Iran war boosts oil trading; Brent crude hits three-week high – business live",
@@ -598,6 +566,134 @@
       "category": "politics",
       "significance": 3,
       "section": "us-news"
+    },
+    {
+      "id": "business/live/2026/apr/29/uk-exports-middle-east-iran-war-economy-oil-stock-markets-government-live-updates",
+      "headline": "UK exports to Middle East tumble as Iran war hits economy – business live",
+      "summary": "UK exports to Middle East decline as Iran conflict disrupts travel bookings and tourism.",
+      "url": "https://www.theguardian.com/p/x5vat7",
+      "thumbnail": "https://media.guim.co.uk/640ea1190af69155ae350486ce220813a59424e0/613_0_4378_3504/500.jpg",
+      "published": "2026-04-29T06:35:00Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "australia-news/2026/apr/29/avi-yemini-plan-register-free-palestine-party-ntwnfb",
+      "headline": "Rightwing provocateur’s plan to register ‘Free Palestine party’ renews concern over Victoria’s voting system",
+      "summary": "Rightwing provocateur plans Free Palestine party to manipulate Victoria state election votes.",
+      "url": "https://www.theguardian.com/p/x5v9z3",
+      "thumbnail": "https://media.guim.co.uk/f997ad41d7ae72ef4ae28a9bed51f072b6b2bd44/644_0_6438_5150/500.jpg",
+      "published": "2026-04-29T06:01:14Z",
+      "location": {
+        "name": "Melbourne",
+        "lat": -37.8136,
+        "lng": 144.9631
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "money/2026/apr/29/rachel-reeves-tax-shake-up-isas-self-assessment",
+      "headline": "Rachel Reeves’s tax shake-up: time to plan ahead, from Isas to self-assessment",
+      "summary": "Chancellor Rachel Reeves announces tax changes effective April 2027 affecting savers and traders.",
+      "url": "https://www.theguardian.com/p/x4pmmg",
+      "thumbnail": "https://media.guim.co.uk/fedc894bdb4838d861fc0e5d70444cfedfcb80d0/185_49_4631_3705/500.jpg",
+      "published": "2026-04-29T06:00:47Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "money"
+    },
+    {
+      "id": "environment/2026/apr/29/country-diary-as-spring-bursts-into-life-all-eyes-on-the-cairngorms-barbecue-ban",
+      "headline": "Country diary: As spring bursts into life, all eyes on the Cairngorms barbecue ban",
+      "summary": "Cairngorms barbecue ban introduced to protect Scottish forests from spring wildfires.",
+      "url": "https://www.theguardian.com/p/x4qbky",
+      "thumbnail": "https://media.guim.co.uk/5c058579797005812285af324d6642d50fc83eba/126_0_1890_1512/500.jpg",
+      "published": "2026-04-29T06:00:47Z",
+      "location": {
+        "name": "Inverness",
+        "lat": 57.4778,
+        "lng": -4.2247
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "environment"
+    },
+    {
+      "id": "travel/2026/apr/29/ebike-cycling-loire-valley-france",
+      "headline": "‘Wheeling through vineyards and chateaux country’: an ebike tour of France’s Loire valley",
+      "summary": "E-bike tour through Loire Valley combines cycling with chateaux, vineyards and gourmet food.",
+      "url": "https://www.theguardian.com/p/x45qg7",
+      "thumbnail": "https://media.guim.co.uk/c8dfedb961cf83c7c434782b0103d5b36ce248d2/190_0_2256_1805/500.jpg",
+      "published": "2026-04-29T06:00:47Z",
+      "location": {
+        "name": "Tours",
+        "lat": 47.3895,
+        "lng": 0.6848
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "travel"
+    },
+    {
+      "id": "society/2026/apr/29/stress-racism-black-women-more-likely-die-childbirth-study-suggests",
+      "headline": "Stress from racism may help explain why black women more likely to die in childbirth, study finds",
+      "summary": "Cambridge study links racism-related stress to higher maternal mortality rates in Black women.",
+      "url": "https://www.theguardian.com/p/x5v6fm",
+      "thumbnail": "https://media.guim.co.uk/d5722461d530337e4f4e49fe15925fb3897eb619/252_0_4800_3840/500.jpg",
+      "published": "2026-04-29T06:00:46Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "society"
+    },
+    {
+      "id": "world/2026/apr/29/wednesday-briefing-where-starmer-stands-after-another-precarious-day-in-parliament",
+      "headline": "Wednesday briefing: Where Starmer stands after another precarious day in Parliament",
+      "summary": "PM Starmer battles parliamentary scrutiny over Mandelson appointment amid Labour election losses.",
+      "url": "https://www.theguardian.com/p/x5v68p",
+      "thumbnail": "https://media.guim.co.uk/a999bc68cec3e9f9841e8c0941f8b039aeaa8f78/461_0_4583_3667/500.jpg",
+      "published": "2026-04-29T05:45:07Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "sport/2026/apr/29/the-afls-deference-to-technology-only-creates-more-doubt-and-uncertainty",
+      "headline": "From the Pocket: The AFL’s deference to technology only creates more doubt and uncertainty",
+      "summary": "AFL's technology reliance creates delays and inconsistencies, deepening fan disillusionment.",
+      "url": "https://www.theguardian.com/p/x5v4dq",
+      "thumbnail": "https://media.guim.co.uk/ac1617d3b943ad551a279f7879ad69fbf5cd0414/2_0_4815_3854/500.jpg",
+      "published": "2026-04-29T05:40:37Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
     }
   ]
 }
