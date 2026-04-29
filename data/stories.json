@@ -1,140 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-29T17:11:03.587Z",
-    "story_count": 55,
-    "oldest_story": "2026-04-28T17:20:35Z",
-    "newest_story": "2026-04-29T17:04:44Z",
+    "generated_at": "2026-04-29T20:44:04.247Z",
+    "story_count": 57,
+    "oldest_story": "2026-04-28T20:57:34Z",
+    "newest_story": "2026-04-29T20:43:44Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "technology/2026/apr/28/sam-altman-open-ai-elon-musk-trial",
-      "headline": "‘Stole a charity’: Elon Musk accuses Sam Altman of betrayal in courtroom showdown",
-      "summary": "Elon Musk accuses Sam Altman of betrayal in OpenAI trial over company's founding history.",
-      "url": "https://www.theguardian.com/p/x5v7my",
-      "thumbnail": "https://media.guim.co.uk/6ee77d2ef9db98d209fdf117968db3920520007b/0_0_1500_1200/500.jpg",
-      "published": "2026-04-28T18:10:37Z",
-      "location": {
-        "name": "San Francisco",
-        "lat": 37.7749,
-        "lng": -122.4194
-      },
-      "category": "tech",
-      "significance": 3,
-      "section": "technology"
-    },
-    {
-      "id": "politics/2026/apr/28/no-10-dismisses-reeves-reported-plan-for-freeze-on-private-rents",
-      "headline": "No 10 dismisses Reeves’s reported plan for freeze on private rents",
-      "summary": "Downing Street dismisses Chancellor Reeves's reported plan to freeze private sector rents.",
-      "url": "https://www.theguardian.com/p/x5v7pb",
-      "thumbnail": "https://media.guim.co.uk/91ecc7350b536dde6d028cb55f9be6440a896fce/145_0_2496_1998/500.jpg",
-      "published": "2026-04-28T18:01:39Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "football/live/2026/apr/28/paris-saint-germain-v-bayern-munich-champions-league-semi-final-first-leg-live",
-      "headline": "Paris Saint-Germain v Bayern Munich: Champions League semi-final, first leg – live",
-      "summary": "Paris Saint-Germain hosts Bayern Munich in Champions League semi-final first leg.",
-      "url": "https://www.theguardian.com/p/x5vx5z",
-      "thumbnail": "https://media.guim.co.uk/d54e5fee6ac32135c2ad9e29d8b895361199c4d1/297_0_4838_3871/500.jpg",
-      "published": "2026-04-28T17:57:52Z",
-      "location": {
-        "name": "Paris",
-        "lat": 48.8566,
-        "lng": 2.3522
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "music/2026/apr/28/kacey-musgraves-mariachi-texas-opener-ice",
-      "headline": "Teen mariachi trio detained by ICE to open for Kacey Musgraves in Texas",
-      "summary": "Teen mariachi trio detained by ICE to open for Kacey Musgraves in Texas shows.",
-      "url": "https://www.theguardian.com/p/x5v84k",
-      "thumbnail": "https://media.guim.co.uk/248551920b8c278798adac1d0511a3b41ba9520b/132_0_2700_2160/500.jpg",
-      "published": "2026-04-28T17:45:45Z",
-      "location": {
-        "name": "Texas",
-        "lat": 31.9686,
-        "lng": -99.9018
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "music"
-    },
-    {
-      "id": "us-news/2026/apr/28/virginia-giuffre-epstein-king-charles",
-      "headline": "Virginia Giuffre’s brother criticizes King Charles III for not meeting survivors of Epstein abuse",
-      "summary": "Virginia Giuffre's brother criticizes King Charles III for not meeting Epstein abuse survivors.",
-      "url": "https://www.theguardian.com/p/x5v8xq",
-      "thumbnail": "https://media.guim.co.uk/ad56b3afc4807e32da9cd7db1a46dea68644d355/284_0_2500_2000/500.jpg",
-      "published": "2026-04-28T17:29:37Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "politics/2026/apr/28/starmer-sees-off-tory-calls-for-inquiry-into-mandelson-role-after-no-10-flexes-muscle",
-      "headline": "Starmer sees off Tory calls for inquiry into Mandelson role after No 10 flexes muscle",
-      "summary": "PM Starmer defeats Tory calls for inquiry into Mandelson's appointment amid backbench anger.",
-      "url": "https://www.theguardian.com/p/x5v7gv",
-      "thumbnail": "https://media.guim.co.uk/6b0b6883246aacfbb62949680c1c2501874ba1a6/459_0_4044_3235/500.jpg",
-      "published": "2026-04-28T17:28:18Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "uk-news/2026/apr/28/trump-and-king-charless-clashing-climate-views-are-one-schism-the-royal-touch-cant-heal",
-      "headline": "King’s environmental views will never face a more obdurate listener than Trump",
-      "summary": "King Charles III's environmental views clash with Trump's during state visit to US.",
-      "url": "https://www.theguardian.com/p/x5v7kp",
-      "thumbnail": "https://media.guim.co.uk/a906ae59f4d1e15097bef0f8d03b7d2239aeee78/1940_960_2180_1744/500.jpg",
-      "published": "2026-04-28T17:21:32Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "business/nils-pratley-on-finance/2026/apr/28/another-shadow-banking-hit-but-otherwise-barclays-looks-fine",
-      "headline": "Another shadow banking hit – but otherwise, Barclays looks fine",
-      "summary": "Barclays suffers £228m hit from MFS mortgage firm, pledges stricter lending oversight.",
-      "url": "https://www.theguardian.com/p/x5v7v8",
-      "thumbnail": "https://media.guim.co.uk/e8ab246c419f03e3850c80ba87e723e78ad58260/667_0_3333_2667/500.jpg",
-      "published": "2026-04-28T17:20:35Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
     {
       "id": "australia-news/live/2026/apr/29/australia-news-live-aukus-king-charles-one-nation-budget-cost-of-living-inflation-consumer-price-index-jim-chalmers-anthony-albanese-angus-taylor-ntwnfb",
       "headline": "News live: King Charles praises ‘ambitious’ Aukus and expresses pride in Australia in speech to US Congress",
@@ -886,6 +758,166 @@
       "category": "politics",
       "significance": 3,
       "section": "politics"
+    },
+    {
+      "id": "football/live/2026/apr/29/atletico-madrid-v-arsenal-champions-league-semi-final-first-leg-live",
+      "headline": "Atlético Madrid v Arsenal: Champions League semi-final, first leg – live",
+      "summary": "Arsenal faces Atlético Madrid in Champions League semi-final first leg in Spanish capital.",
+      "url": "https://www.theguardian.com/p/x5vx7a",
+      "thumbnail": "https://media.guim.co.uk/fad4c3799894a323b2073fdd663156bd3170d504/224_0_3423_2738/500.jpg",
+      "published": "2026-04-29T20:43:44Z",
+      "location": {
+        "name": "Madrid",
+        "lat": 40.4168,
+        "lng": -3.7038
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/apr/29/supreme-court-callais-landry-decision",
+      "headline": "With supreme court ruling, Republicans able to marginalize Black political power ",
+      "summary": "Supreme Court ruling weakens Voting Rights Act, allowing Republican gerrymandering to dilute Black political power.",
+      "url": "https://www.theguardian.com/p/x5vd46",
+      "thumbnail": "https://media.guim.co.uk/2029337b7dd6a7a9f8bbbc6315a7915ef2dcfa44/0_0_3000_2400/500.jpg",
+      "published": "2026-04-29T20:23:12Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 4,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/apr/29/arsenal-leicester-womens-super-league-match-report",
+      "headline": "Blackstenius and Holmberg doubles fire Arsenal to 7-0 WSL win over Leicester",
+      "summary": "Arsenal crushes Leicester 7-0 in Women's Super League, maintaining title pressure on Manchester City.",
+      "url": "https://www.theguardian.com/p/x5vddg",
+      "thumbnail": "https://media.guim.co.uk/920260f4012d0914b1a2e93c307f1c8e041adcc3/366_0_2873_2298/500.jpg",
+      "published": "2026-04-29T20:22:42Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "business/2026/apr/29/fed-jerome-powell-decision-hold-interest-rate",
+      "headline": "Jerome Powell says he’ll stay on Fed board after central bank keeps interest rates unchanged in defiance of Trump",
+      "summary": "Federal Reserve Chair Powell stays on board after third interest rate hold despite Trump pressure.",
+      "url": "https://www.theguardian.com/p/x5vd3k",
+      "thumbnail": "https://media.guim.co.uk/4ddc756ef0d52abe5bd743622d8562c25f41ed75/170_0_4909_3928/500.jpg",
+      "published": "2026-04-29T20:09:36Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "business"
+    },
+    {
+      "id": "world/2026/apr/29/pete-hegseth-denies-iran-war-is-a-quagmire-as-estimated-us-cost-so-far-hits-25bn",
+      "headline": "Pete Hegseth denies Iran war is a ‘quagmire’ as cost to US hits estimated $25bn",
+      "summary": "Defense Secretary Hegseth denies Iran war is quagmire as US costs hit estimated $25 billion.",
+      "url": "https://www.theguardian.com/p/x5vd8p",
+      "thumbnail": "https://media.guim.co.uk/364b9689526acd44fd0ba73f340aaf7107a5982c/848_462_6305_5042/500.jpg",
+      "published": "2026-04-29T20:03:55Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "news/2026/apr/29/corrections-and-clarifications",
+      "headline": "Corrections and clarifications",
+      "summary": "Corrections issued for articles about Birmingham's Flatpack festival and Polish politician Donald Tusk.",
+      "url": "https://www.theguardian.com/p/x5vc2m",
+      "thumbnail": null,
+      "published": "2026-04-29T20:00:03Z",
+      "location": {
+        "name": "Birmingham",
+        "lat": 52.5086,
+        "lng": -1.8755
+      },
+      "category": "other",
+      "significance": 1,
+      "section": "news"
+    },
+    {
+      "id": "football/2026/apr/29/psg-bayern-munich-premier-league-analysis",
+      "headline": "PSG and Bayern’s box-fresh talents or Premier League title tussle: you can only have one",
+      "summary": "Analysis compares Champions League excitement of PSG-Bayern to Premier League's disciplined consistency.",
+      "url": "https://www.theguardian.com/p/x5vdfz",
+      "thumbnail": "https://media.guim.co.uk/3aaa97979f1b99cce428631d73672e1dc0e3b94c/431_350_4267_3413/500.jpg",
+      "published": "2026-04-29T20:00:03Z",
+      "location": {
+        "name": "Paris",
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "world/2026/apr/29/trump-and-putin-discuss-iran-war-and-float-temporary-ukraine-ceasefire-in-call",
+      "headline": "Trump and Putin discuss Iran war and float temporary Ukraine ceasefire in call",
+      "summary": "Trump and Putin discuss Iran war and explore temporary Ukraine ceasefire in 90-minute call.",
+      "url": "https://www.theguardian.com/p/x5ve29",
+      "thumbnail": "https://media.guim.co.uk/8600340aec10fc83d0fd6542b1259aeab3cceadc/237_100_1088_871/500.jpg",
+      "published": "2026-04-29T19:55:35Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "football/2026/apr/29/crystal-palace-oliver-glasner-shakhtar-donetsk-europa-conference-league-semi-final",
+      "headline": "Crystal Palace back in business under Glasner but Shakhtar no pushovers",
+      "summary": "Crystal Palace targets Europa Conference League glory against Shakhtar Donetsk under manager Glasner.",
+      "url": "https://www.theguardian.com/p/x5vexg",
+      "thumbnail": "https://media.guim.co.uk/a077fa18ba362142171e108eceb4f545156ab3e5/214_0_3694_2955/500.jpg",
+      "published": "2026-04-29T19:52:43Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/apr/29/king-charles-visit-zohran-mamdani-nyc",
+      "headline": "Dinner on a gold plate, then a snub: an uneven US welcome for King Charles III",
+      "summary": "NYC Mayor Zohran Mamdani snubs King Charles III meeting, citing British colonial history and stolen Indian diamond.",
+      "url": "https://www.theguardian.com/p/x5vdz4",
+      "thumbnail": "https://media.guim.co.uk/b8fea48234918ee1c3bc22317f1c09bbc7e6cf00/258_0_4574_3660/500.jpg",
+      "published": "2026-04-29T19:43:56Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
     }
   ]
 }
