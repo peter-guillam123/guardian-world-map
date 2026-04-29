@@ -1,156 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-29T12:06:50.348Z",
-    "story_count": 50,
-    "oldest_story": "2026-04-28T12:09:59Z",
-    "newest_story": "2026-04-29T12:00:49Z",
+    "generated_at": "2026-04-29T17:11:03.587Z",
+    "story_count": 55,
+    "oldest_story": "2026-04-28T17:20:35Z",
+    "newest_story": "2026-04-29T17:04:44Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "politics/live/2026/apr/28/keir-starmer-labour-peter-mandelson-vetting-morgan-mcsweeney-kemi-badenoch-vote-uk-politics-latest-news-updates",
-      "headline": "MPs debate if Keir Starmer should face inquiry into whether he misled them over Mandelson vetting – UK politics live ",
-      "summary": "MPs debate whether PM Starmer misled them over Mandelson vetting appointment.",
-      "url": "https://www.theguardian.com/p/x5v5hh",
-      "thumbnail": "https://media.guim.co.uk/edf4750a1e0cdddccf991ee3357bbcb00c1c92e8/277_0_1350_1080/500.jpg",
-      "published": "2026-04-28T13:16:13Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "world/live/2026/apr/28/europe-france-andorra-abortion-macron-ukraine-russia-eu-latest-news-updates",
-      "headline": "Journalist Andrzej Poczobut freed as part of US-brokered Polish-Belarusian prisoner swap – Europe live",
-      "summary": "Journalist Andrzej Poczobut freed in US-brokered Polish-Belarusian prisoner swap.",
-      "url": "https://www.theguardian.com/p/x5v5zf",
-      "thumbnail": "https://media.guim.co.uk/b440cfc1a01658906e0a1bcb4b91d947d1e01514/301_0_2583_2066/500.jpg",
-      "published": "2026-04-28T13:11:40Z",
-      "location": {
-        "name": "Minsk",
-        "lat": 53.9045,
-        "lng": 27.5615
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "culture/2026/apr/28/antiquities-dealer-ittai-gradel-exposed-thefts-british-museum-dies-aged-61",
-      "headline": "Antiquities dealer who exposed thefts at British Museum dies aged 61",
-      "summary": "Antiquities dealer who exposed British Museum thefts dies aged 61.",
-      "url": "https://www.theguardian.com/p/x5v6hm",
-      "thumbnail": "https://media.guim.co.uk/d6704d5c26b3eb9e934bb36946c83c68c6d6d305/591_0_6508_5207/500.jpg",
-      "published": "2026-04-28T13:07:11Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "culture"
-    },
-    {
-      "id": "us-news/live/2026/apr/28/donald-trump-king-charles-melania-camilla-white-house-congress-latest-news-updates",
-      "headline": "King to meet Trump off-camera amid clash fears before Charles’ Congress speech – US politics live",
-      "summary": "King Charles to meet Trump off-camera before addressing Congress during state visit.",
-      "url": "https://www.theguardian.com/p/x5v65a",
-      "thumbnail": "https://media.guim.co.uk/2c5d8dcc3e6a3f404b3a60ef39c9cfd940eee892/336_0_3732_2985/500.jpg",
-      "published": "2026-04-28T12:43:23Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/apr/28/trump-clean-energy-progress",
-      "headline": "Trump’s attempt to crush clean energy progress not going to plan, experts say",
-      "summary": "US renewable energy exceeds gas generation for first time despite Trump administration opposition.",
-      "url": "https://www.theguardian.com/p/x5v389",
-      "thumbnail": "https://media.guim.co.uk/9a49e2ad88189b2c6c6fcb234933a715c30a4a91/0_0_5000_4000/500.jpg",
-      "published": "2026-04-28T12:30:09Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "world/2026/apr/28/sri-lanka-police-buddhist-monks-cannabis-kush-airport",
-      "headline": "Sri Lanka police arrest 22 Buddhist monks after 110kg of cannabis found in luggage",
-      "summary": "Sri Lankan police arrest 22 Buddhist monks with 110kg cannabis at Colombo airport.",
-      "url": "https://www.theguardian.com/p/x5v67h",
-      "thumbnail": "https://media.guim.co.uk/67f0c7abae7dcab935bab6bd056af4255d9070ce/183_0_3864_3093/500.jpg",
-      "published": "2026-04-28T12:22:09Z",
-      "location": {
-        "name": "Colombo",
-        "lat": 6.9271,
-        "lng": 80.7789
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "football/2026/apr/28/john-stones-leave-manchester-city-end-season",
-      "headline": "John Stones to leave Manchester City at end of season after 10-year spell",
-      "summary": "John Stones to leave Manchester City after 10-year spell at end of season.",
-      "url": "https://www.theguardian.com/p/x5v7vp",
-      "thumbnail": "https://media.guim.co.uk/589b07f1bba94568b4f212f9abcdbb825e5d8644/720_651_2687_2149/500.jpg",
-      "published": "2026-04-28T12:21:19Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4831,
-        "lng": -2.2244
-      },
-      "category": "sport",
-      "significance": 1,
-      "section": "football"
-    },
-    {
-      "id": "us-news/2026/apr/28/first-thing-white-house-dinner-suspect-charged-with-attempted-assassination",
-      "headline": "First Thing: White House dinner suspect charged with attempted assassination",
-      "summary": "White House dinner shooting suspect charged with attempted assassination, faces life sentence.",
-      "url": "https://www.theguardian.com/p/x5v5gx",
-      "thumbnail": "https://media.guim.co.uk/4adbbe68b8ff8263ab43d07ad180c2ce789758c4/334_0_3331_2666/500.jpg",
-      "published": "2026-04-28T12:12:47Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "film/2026/apr/28/michael-smashes-uk-records-for-biggest-biopic-opening-jackson-bohemian-rhapsody",
-      "headline": "Michael smashes UK records for biggest biopic opening",
-      "summary": "Michael Jackson biopic smashes UK records for biggest biographical film opening.",
-      "url": "https://www.theguardian.com/p/x5v64p",
-      "thumbnail": "https://media.guim.co.uk/f58c2bd80eb3fb363c7b7f51c29427b224ed5476/665_0_2766_2214/500.jpg",
-      "published": "2026-04-28T12:09:59Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "film"
-    },
     {
       "id": "technology/2026/apr/28/sam-altman-open-ai-elon-musk-trial",
       "headline": "‘Stole a charity’: Elon Musk accuses Sam Altman of betrayal in courtroom showdown",
@@ -278,38 +134,6 @@
       "category": "economy",
       "significance": 2,
       "section": "business"
-    },
-    {
-      "id": "world/2026/apr/28/russia-claims-its-africa-corps-group-prevented-coup-in-mali-after-rebels-seize-towns",
-      "headline": "Russia claims its Africa Corps group prevented coup in Mali after rebels seize towns",
-      "summary": "Russia claims Africa Corps prevented coup in Mali after rebels seize towns.",
-      "url": "https://www.theguardian.com/p/x5v6md",
-      "thumbnail": "https://media.guim.co.uk/d03fb17b17e0182f8c3e339197c958523a160ce2/1311_544_2889_2312/500.jpg",
-      "published": "2026-04-28T17:07:27Z",
-      "location": {
-        "name": "Bamako",
-        "lat": 12.6392,
-        "lng": -8.0029
-      },
-      "category": "conflict",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "technology/2026/apr/28/uk-must-seize-ai-initiative-or-be-left-at-the-mercy-of-the-future-liz-kendall-warns",
-      "headline": "UK must seize AI initiative or be left at the ‘mercy’ of the future, Liz Kendall warns",
-      "summary": "UK Technology Secretary Liz Kendall warns Britain must seize AI initiative or lose control.",
-      "url": "https://www.theguardian.com/p/x5v7hz",
-      "thumbnail": "https://media.guim.co.uk/849c0fce161f8ce58b5da9e6adef096ceaaceb5b/236_0_2353_1882/500.jpg",
-      "published": "2026-04-28T17:03:00Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "tech",
-      "significance": 2,
-      "section": "technology"
     },
     {
       "id": "australia-news/live/2026/apr/29/australia-news-live-aukus-king-charles-one-nation-budget-cost-of-living-inflation-consumer-price-index-jim-chalmers-anthony-albanese-angus-taylor-ntwnfb",
@@ -806,6 +630,262 @@
       "category": "sport",
       "significance": 3,
       "section": "football"
+    },
+    {
+      "id": "us-news/ng-interactive/2025/nov/02/us-redistrcting-congressional-map",
+      "headline": "Rigging the map? How power in US Congress is likely to shift after supreme court ruling and redistricting fights",
+      "summary": "Supreme Court ruling and redistricting fights could shift House power balance ahead of 2026 elections.",
+      "url": "https://www.theguardian.com/p/x3hf8q",
+      "thumbnail": "https://media.guim.co.uk/9631cdb864cdc5c61971afe4d074d52993286b55/0_0_2000_1600/500.jpg",
+      "published": "2026-04-29T17:04:44Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "society/2026/apr/29/the-use-of-advanced-practitioners-in-the-nhs-is-no-reason-to-fear-for-patient-safety",
+      "headline": "The use of advanced practitioners in the NHS is no reason to fear for patient safety",
+      "summary": "NHS advanced practitioners defend patient safety record amid BMA concerns over non-doctor roles.",
+      "url": "https://www.theguardian.com/p/x4qz7e",
+      "thumbnail": "https://media.guim.co.uk/5c9edc2a17214ede3a90ce98d25a711cd077989c/837_0_6139_4912/500.jpg",
+      "published": "2026-04-29T17:04:27Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "society"
+    },
+    {
+      "id": "society/2026/apr/29/the-landlords-view-of-the-rental-market",
+      "headline": "The landlords’ view of the rental market",
+      "summary": "Letter debates landlords' role in UK rental market strain, rejecting villain narrative.",
+      "url": "https://www.theguardian.com/p/x4qmpn",
+      "thumbnail": "https://media.guim.co.uk/93ab461fe6e02e9cda882e48094634ec8a9b5e12/237_0_3333_2666/500.jpg",
+      "published": "2026-04-29T17:04:19Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "society"
+    },
+    {
+      "id": "science/2026/apr/29/astrophysics-wasnt-carole-jordan-only-legacy",
+      "headline": "Astrophysics wasn’t Carole Jordan’s only legacy",
+      "summary": "Astrophysicist Carole Jordan remembered for advocacy for women in science.",
+      "url": "https://www.theguardian.com/p/x5v7q9",
+      "thumbnail": "https://media.guim.co.uk/6cf63d4a23c290963fc10cd6d12028c859d639cb/244_0_3628_2903/500.jpg",
+      "published": "2026-04-29T17:04:14Z",
+      "location": {
+        "name": "Oxford",
+        "lat": 51.752,
+        "lng": -1.2577
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "science"
+    },
+    {
+      "id": "society/2026/apr/29/visible-sign-of-mps-boozing-comical",
+      "headline": "Visible sign of MPs’ boozing is comical",
+      "summary": "Letter comments on visible signs of Westminster drinking culture among MPs.",
+      "url": "https://www.theguardian.com/p/x5vcpj",
+      "thumbnail": "https://media.guim.co.uk/9969cc38899d37c7bb0c8cd30606fdff46d8bfa4/0_12_4734_3786/500.jpg",
+      "published": "2026-04-29T17:04:04Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 1,
+      "section": "society"
+    },
+    {
+      "id": "education/2026/apr/29/ruth-lesser-obituary",
+      "headline": "Ruth Lesser obituary",
+      "summary": "Obituary of speech therapist Ruth Lesser, pioneer in aphasia research and PALPA assessment tool.",
+      "url": "https://www.theguardian.com/p/x4k2cb",
+      "thumbnail": "https://media.guim.co.uk/83d7907406d58d96ceafbbc030233171336623ca/177_182_678_543/500.jpg",
+      "published": "2026-04-29T16:52:41Z",
+      "location": {
+        "name": "Newcastle",
+        "lat": 54.9783,
+        "lng": -1.6178
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "education"
+    },
+    {
+      "id": "uk-news/live/2026/apr/29/two-people-stabbed-golders-green-says-jewish-group-latest-updates",
+      "headline": "Police declare attack in north London a terrorist incident after two Jewish men stabbed – latest updates",
+      "summary": "Antisemitic terror attack in Golders Green wounds two Jewish men; PM convenes Cobra meeting.",
+      "url": "https://www.theguardian.com/p/x5vcda",
+      "thumbnail": "https://media.guim.co.uk/8ec226abbf99d5ca15f7de0fe47333b6e464ba18/347_0_2863_2290/500.jpg",
+      "published": "2026-04-29T16:48:27Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "uk-news"
+    },
+    {
+      "id": "education/2026/apr/29/irene-purdy-obituary",
+      "headline": "Irene Purdy obituary",
+      "summary": "Obituary of teacher and pianist Irene Purdy, active in Rochdale amateur dramatics for decades.",
+      "url": "https://www.theguardian.com/p/x4pgqd",
+      "thumbnail": "https://media.guim.co.uk/87f331d1a211a778fd3b9448107b84616a2d1d9a/141_0_1404_1123/500.jpg",
+      "published": "2026-04-29T16:45:26Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "education"
+    },
+    {
+      "id": "world/2026/apr/29/veteran-goalkeeper-70-to-return-to-pitch-for-official-game-in-spain",
+      "headline": "Veteran goalkeeper, 70, to return to pitch for official game in Spain",
+      "summary": "70-year-old goalkeeper Ángel Mateos González returns for official match, breaking age record.",
+      "url": "https://www.theguardian.com/p/x5vd4y",
+      "thumbnail": "https://media.guim.co.uk/51b0b89b8cf11670a322655ea1f0eee05435ef62/314_0_3184_2547/500.jpg",
+      "published": "2026-04-29T16:37:42Z",
+      "location": {
+        "name": "Spain",
+        "lat": 40.4637,
+        "lng": -3.7492
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "football/2026/apr/29/aston-villa-nottingham-forest-all-english-europa-league-semi-final-preview",
+      "headline": "Aston Villa chase destiny against resurgent Nottingham Forest in all-English showdown",
+      "summary": "Aston Villa face Nottingham Forest in all-English Europa League semi-final showdown.",
+      "url": "https://www.theguardian.com/p/x5vd5g",
+      "thumbnail": "https://media.guim.co.uk/6de307f741bb69f67b737bca7ea8982d8b32ca56/382_0_3120_2496/500.jpg",
+      "published": "2026-04-29T16:34:08Z",
+      "location": {
+        "name": "Birmingham",
+        "lat": 52.5082,
+        "lng": -1.8845
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/apr/29/supreme-court-louisiana-congressional-map-case-ruling",
+      "headline": "US supreme court ‘demolishes’ Voting Rights Act, gutting provision that prevented racial discrimination",
+      "summary": "Supreme Court guts Voting Rights Act section 2; Louisiana must redraw congressional map.",
+      "url": "https://www.theguardian.com/p/x29hh4",
+      "thumbnail": "https://media.guim.co.uk/27e608bc65efad2b2b4ed282cf22b4fa2e5110f4/586_0_3121_2496/500.jpg",
+      "published": "2026-04-29T16:20:30Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 4,
+      "section": "us-news"
+    },
+    {
+      "id": "business/2026/apr/29/co-op-marking-commonly-stolen-items-with-forensic-spray-to-track-reselling",
+      "headline": "Co-op marking commonly stolen items with forensic spray to track reselling",
+      "summary": "Co-op uses forensic spray to mark stolen items and track reselling as retail crime law takes effect.",
+      "url": "https://www.theguardian.com/p/x5vc46",
+      "thumbnail": "https://media.guim.co.uk/a89ced1197e7fdac1500683c96e61e680c948294/52_0_1000_800/500.jpg",
+      "published": "2026-04-29T16:17:22Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "politics/2026/apr/29/bonus-pmqs-keir-starmer-kemi-badenoch",
+      "headline": "Given bonus PMQs tilt at Keir, Kemi fails to land a blow",
+      "summary": "Kemi Badenoch fails to land blow against PM Keir Starmer in bonus PMQs session.",
+      "url": "https://www.theguardian.com/p/x5vd2k",
+      "thumbnail": "https://media.guim.co.uk/559b7a0754daf4aeee409abc416aae4cb679aeff/795_0_5145_4117/500.jpg",
+      "published": "2026-04-29T16:08:51Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "uk-news/2026/apr/29/golders-green-jewish-community-fear-for-safety-after-antisemitic-stabbing",
+      "headline": "‘Do we need to think about moving away?’: Jewish community fears for safety after Golders Green stabbings",
+      "summary": "Two men stabbed in suspected antisemitic attack in Golders Green, north London.",
+      "url": "https://www.theguardian.com/p/x5vcqg",
+      "thumbnail": "https://media.guim.co.uk/11270b219b0fc260ea09607a46039675211f6087/375_0_3731_2984/500.jpg",
+      "published": "2026-04-29T16:07:20Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "music/2026/apr/29/o-modernt-review-wigmore-hall-london-stockholm",
+      "headline": "O/Modernt review – from Auerbach to Mahler, the fires of love bruise, batter and delight",
+      "summary": "Stockholm chamber ensemble O/Modernt performs at Wigmore Hall, London.",
+      "url": "https://www.theguardian.com/p/x5vbqd",
+      "thumbnail": "https://media.guim.co.uk/f4d5efdfe2e7b36c0c02db7e315b237920f63567/505_0_2697_2160/500.jpg",
+      "published": "2026-04-29T16:04:01Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "music"
+    },
+    {
+      "id": "politics/2026/apr/29/nigel-farage-christopher-harborne-gift-story-raises-more-questions",
+      "headline": "Farage’s attempt to get ahead of £5m gift story only raises more questions",
+      "summary": "Nigel Farage admits receiving £5m undisclosed gift from crypto billionaire Christopher Harborne.",
+      "url": "https://www.theguardian.com/p/x5vc7v",
+      "thumbnail": "https://media.guim.co.uk/2d35d3fb038b79be3b1e30f9d00e6f7bf67c9706/592_0_5000_4000/500.jpg",
+      "published": "2026-04-29T16:03:15Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "politics"
     }
   ]
 }
