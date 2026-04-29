@@ -1,108 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-29T20:44:04.247Z",
-    "story_count": 57,
-    "oldest_story": "2026-04-28T20:57:34Z",
-    "newest_story": "2026-04-29T20:43:44Z",
+    "generated_at": "2026-04-29T23:40:17.678Z",
+    "story_count": 59,
+    "oldest_story": "2026-04-29T05:40:37Z",
+    "newest_story": "2026-04-29T23:36:22Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "australia-news/live/2026/apr/29/australia-news-live-aukus-king-charles-one-nation-budget-cost-of-living-inflation-consumer-price-index-jim-chalmers-anthony-albanese-angus-taylor-ntwnfb",
-      "headline": "News live: King Charles praises ‘ambitious’ Aukus and expresses pride in Australia in speech to US Congress",
-      "summary": "King Charles addresses US Congress, praising AUKUS alliance and nuclear submarine defense ties.",
-      "url": "https://www.theguardian.com/p/x5v6cy",
-      "thumbnail": "https://media.guim.co.uk/b3a941ac4667f83709f29e2bfac0080a9f5f7722/140_0_4396_3518/500.jpg",
-      "published": "2026-04-28T21:44:36Z",
-      "location": {
-        "name": "Washington, DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "australia-news"
-    },
-    {
-      "id": "us-news/2026/apr/28/trump-administration-wind-projects",
-      "headline": "Trump administration blocks US wind energy projects in switch to oil and gas",
-      "summary": "Trump administration blocks US wind energy projects, redirects investment to oil and gas.",
-      "url": "https://www.theguardian.com/p/x5v8pd",
-      "thumbnail": "https://media.guim.co.uk/0a88599b7c34a9309c89a88ab24612a1d1253735/489_0_3131_2504/500.jpg",
-      "published": "2026-04-28T21:37:43Z",
-      "location": {
-        "name": "United States",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/apr/28/cindy-wanner-cold-case-murder",
-      "headline": "Man arrested in ‘one of most heinous, notorious cold cases’ more than 30 years after mother’s murder",
-      "summary": "Man arrested in 30-year-old cold case murder of Cindy Wanner in Granite Bay, California.",
-      "url": "https://www.theguardian.com/p/x5v8n4",
-      "thumbnail": "https://media.guim.co.uk/074d58be0f469e5140b00bf640b804bbf02f76ed/384_0_2500_2000/500.jpg",
-      "published": "2026-04-28T21:35:33Z",
-      "location": {
-        "name": "Sacramento, California",
-        "lat": 38.5816,
-        "lng": -121.4944
-      },
-      "category": "conflict",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "australia-news/2026/apr/29/morning-mail-wednesday-ntwnfb",
-      "headline": "Morning Mail: UAE quits Opec oil cartel, Pauline Hanson tops political leader approval ratings, King Charles addresses Congress",
-      "summary": "UAE quits OPEC oil cartel in significant blow to Saudi-led organization's influence.",
-      "url": "https://www.theguardian.com/p/x5v67d",
-      "thumbnail": "https://media.guim.co.uk/92cd120ad4ee3820d782f1557b281b83a5c6a85b/352_0_2917_2334/500.jpg",
-      "published": "2026-04-28T21:11:44Z",
-      "location": {
-        "name": "Abu Dhabi, United Arab Emirates",
-        "lat": 24.4539,
-        "lng": 54.3773
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "australia-news"
-    },
-    {
-      "id": "football/2026/apr/28/psg-bayern-munich-champions-league-semi-final-first-leg-match-report",
-      "headline": "PSG edge breathless 5-4 classic as Bayern Munich rally after Dembélé’s double",
-      "summary": "PSG defeats Bayern Munich 5-4 in thrilling Champions League semi-final first leg.",
-      "url": "https://www.theguardian.com/p/x5v78b",
-      "thumbnail": "https://media.guim.co.uk/8ce7aa0ac01d471f8b415af1685c20c8f3308639/450_0_4739_3791/500.jpg",
-      "published": "2026-04-28T21:07:18Z",
-      "location": {
-        "name": "Paris, France",
-        "lat": 48.8566,
-        "lng": 2.3522
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "us-news/2026/apr/28/king-charles-congress-trump",
-      "headline": "Mission accomplished as king’s speech to Congress goes down a storm ",
-      "summary": "King Charles delivers measured speech to Congress quoting Wilde and Dickens on alliance ties.",
-      "url": "https://www.theguardian.com/p/x5v7qk",
-      "thumbnail": "https://media.guim.co.uk/02e4f3f4cad75a0ff51da6eb090bd1f04679e049/352_0_3508_2807/500.jpg",
-      "published": "2026-04-28T20:57:34Z",
-      "location": {
-        "name": "Washington, DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
     {
       "id": "business/live/2026/apr/29/uk-exports-middle-east-iran-war-economy-oil-stock-markets-government-live-updates",
       "headline": "UK exports to Middle East tumble as Iran war hits economy – business live",
@@ -918,6 +822,134 @@
       "category": "politics",
       "significance": 2,
       "section": "us-news"
+    },
+    {
+      "id": "world/2026/apr/30/trump-threatens-to-reduce-troop-numbers-in-germany-amid-growing-row-with-nato-allies",
+      "headline": "Trump threatens to reduce troop numbers in Germany amid growing row with Nato allies",
+      "summary": "Trump threatens to reduce US troop numbers in Germany amid NATO tensions over Iran negotiations.",
+      "url": "https://www.theguardian.com/p/x5vema",
+      "thumbnail": "https://media.guim.co.uk/f5bfc457226cfaa307681b367fa64ce1ebbaf259/879_0_4307_3448/500.jpg",
+      "published": "2026-04-29T23:36:22Z",
+      "location": {
+        "name": "Germany",
+        "lat": 51.1657,
+        "lng": 10.4515
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "us-news/2026/apr/29/d4vd-celeste-rivas-hernandez",
+      "headline": "Prosecutors release detailed description of how D4vd allegedly killed teen girl",
+      "summary": "Prosecutors detail how singer D4vd allegedly killed 14-year-old Celeste Rivas Hernandez.",
+      "url": "https://www.theguardian.com/p/x5vekm",
+      "thumbnail": "https://media.guim.co.uk/85d3e356fe963ce58639d3be42d88c15357cd6d5/264_0_2635_2108/500.jpg",
+      "published": "2026-04-29T23:16:35Z",
+      "location": {
+        "name": "Los Angeles",
+        "lat": 34.0522,
+        "lng": -118.2437
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/apr/29/diego-simeone-can-breathe-again-against-arsenal-as-fortune-favours-atletico-madrid-at-last",
+      "headline": "Diego Simeone can breathe again against Arsenal as fortune favours Atlético at last",
+      "summary": "Atlético Madrid faces Arsenal in Champions League semi-final with Diego Simeone seeking redemption.",
+      "url": "https://www.theguardian.com/p/x5vcfa",
+      "thumbnail": "https://media.guim.co.uk/93e18eb98222ab03f8cf4b2a97ac5a9d6b487491/1216_0_1471_1177/500.jpg",
+      "published": "2026-04-29T23:00:36Z",
+      "location": {
+        "name": "Madrid",
+        "lat": 40.4168,
+        "lng": -3.7038
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/apr/29/arteta-left-incredibly-fuming-after-var-denies-arsenal-penalty-against-atletico",
+      "headline": "Arteta left ‘incredibly fuming’ after VAR denies Arsenal penalty against Atlético",
+      "summary": "Arsenal's Arteta furious as VAR denies penalty in 1-1 Champions League semi-final draw vs Atlético.",
+      "url": "https://www.theguardian.com/p/x5vegc",
+      "thumbnail": "https://media.guim.co.uk/716124fc169473b4cbaec1c04b6dce55e6857668/688_0_6880_5504/500.jpg",
+      "published": "2026-04-29T22:57:02Z",
+      "location": {
+        "name": "Madrid",
+        "lat": 40.4168,
+        "lng": -3.7038
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "technology/2026/apr/29/elon-musk-openai-sam-altman-lawsuit",
+      "headline": "‘Your questions are designed to trick me’: combative Musk grilled over battle with Sam Altman",
+      "summary": "Elon Musk faces cross-examination in lawsuit against Sam Altman and OpenAI over company's direction.",
+      "url": "https://www.theguardian.com/p/x5vdg2",
+      "thumbnail": "https://media.guim.co.uk/e9c8d1a3da33a8ccc5eea467738bdc970a98eb8a/268_0_2718_2174/500.jpg",
+      "published": "2026-04-29T22:46:08Z",
+      "location": {
+        "name": "San Francisco",
+        "lat": 37.7749,
+        "lng": -122.4194
+      },
+      "category": "tech",
+      "significance": 3,
+      "section": "technology"
+    },
+    {
+      "id": "technology/2026/apr/29/maryland-grocery-stores-ban-surveillance-pricing",
+      "headline": "Maryland becomes first state to ban surveillance pricing in grocery stores",
+      "summary": "Maryland becomes first US state to ban surveillance pricing in grocery stores based on consumer data.",
+      "url": "https://www.theguardian.com/p/x5vcpy",
+      "thumbnail": "https://media.guim.co.uk/1a943d9c427bcfd9d46c95d09bfcd3de5938eb0d/611_1008_4879_3904/500.jpg",
+      "published": "2026-04-29T22:43:33Z",
+      "location": {
+        "name": "Maryland",
+        "lat": 39.0639,
+        "lng": -76.8021
+      },
+      "category": "tech",
+      "significance": 2,
+      "section": "technology"
+    },
+    {
+      "id": "technology/2026/apr/29/earnings-ai-boom-us-stock-markets",
+      "headline": "Tech giants’ results show rosy outlook for AI boom and US stock market",
+      "summary": "Tech giants report strong earnings; Google, Microsoft, Amazon show cloud gains amid AI boom.",
+      "url": "https://www.theguardian.com/p/x5vefb",
+      "thumbnail": "https://media.guim.co.uk/11847932c1ac3453de060dc8a655ce8b63e28a1d/288_0_2867_2295/500.jpg",
+      "published": "2026-04-29T22:37:16Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "technology"
+    },
+    {
+      "id": "society/2026/apr/29/alcohol-junk-food-liver-disease-taxes-health-europe",
+      "headline": "Raise tax on alcohol and junk food to cut deaths from liver disease, experts say",
+      "summary": "European experts call for higher taxes on alcohol and junk food to combat 284,000 annual liver deaths.",
+      "url": "https://www.theguardian.com/p/x5vdkv",
+      "thumbnail": "https://media.guim.co.uk/28e6f40024fc4983bbe07636e97f191b4aa0024d/570_0_2700_2160/500.jpg",
+      "published": "2026-04-29T22:31:00Z",
+      "location": {
+        "name": "Brussels",
+        "lat": 50.8503,
+        "lng": 4.3517
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "society"
     }
   ]
 }
