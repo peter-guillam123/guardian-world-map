@@ -1,284 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-30T07:53:29.964Z",
-    "story_count": 63,
-    "oldest_story": "2026-04-29T11:00:04Z",
-    "newest_story": "2026-04-30T07:49:58Z",
+    "generated_at": "2026-04-30T13:09:49.129Z",
+    "story_count": 71,
+    "oldest_story": "2026-04-29T16:03:15Z",
+    "newest_story": "2026-04-30T13:02:21Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "uk-news/2026/apr/29/ruth-hansom-restaurant-north-yorkshire-told-to-stop-driving-diners-home",
-      "headline": "‘There’s no streetlights’: North Yorkshire restaurant told to stop driving diners home",
-      "summary": "North Yorkshire restaurant ordered to stop offering free lifts to diners in rural area.",
-      "url": "https://www.theguardian.com/p/x5vbae",
-      "thumbnail": "https://media.guim.co.uk/0eb0a9ad10a861868b6d628f126072b495e8e8be/475_0_7959_6368/500.jpg",
-      "published": "2026-04-29T12:00:49Z",
-      "location": {
-        "name": "North Yorkshire",
-        "lat": 54.4309,
-        "lng": -1.9453
-      },
-      "category": "other",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "australia-news/2026/apr/29/methamphetamine-crystal-meth-ice-australia-second-largest-consumer",
-      "headline": "Australia becomes second largest consumer of methamphetamine globally, wastewater monitoring reveals ",
-      "summary": "Australia becomes world's second largest methamphetamine consumer, wastewater monitoring reveals.",
-      "url": "https://www.theguardian.com/p/x5vac2",
-      "thumbnail": "https://media.guim.co.uk/de110f6df29ce3d66a07d7acc6088730701eeee8/248_0_3520_2816/500.jpg",
-      "published": "2026-04-29T12:00:48Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "health",
-      "significance": 3,
-      "section": "australia-news"
-    },
-    {
-      "id": "us-news/2026/apr/29/trump-freedom-truck-museum-exhibit",
-      "headline": "‘Freedom Trucks’: a tour of Trump’s skewed tribute to American history – on 18 wheels",
-      "summary": "Trump launches six mobile 'Freedom Truck' museums celebrating selective American history narrative.",
-      "url": "https://www.theguardian.com/p/x4zzmz",
-      "thumbnail": "https://media.guim.co.uk/92419b99e51b2d90fa1d3f205a0632cd260c79a0/146_0_4221_3377/500.jpg",
-      "published": "2026-04-29T12:00:48Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "politics/2026/apr/29/lib-dems-ed-davey-ban-mps-money-x-maga-threat-reform-farage-elon-musk",
-      "headline": "Lib Dems push for ban on MPs taking money from X, citing Maga threat",
-      "summary": "Liberal Democrats call for ban on MPs accepting payments from X, citing far-right threat.",
-      "url": "https://www.theguardian.com/p/x5v7fn",
-      "thumbnail": "https://media.guim.co.uk/e505f2ea1b37daf8b8d6e6c9d1507537aebcb0d0/517_0_4549_3640/500.jpg",
-      "published": "2026-04-29T12:00:47Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "politics/live/2026/apr/29/pmqs-live-keir-starmer-kemi-badenoch-uk-politics-latest-news-updates",
-      "headline": "Farage reported to parliament’s standards watchdog over undeclared £5m donation, as Tories say ‘this stinks’ – UK politics live",
-      "summary": "Farage reported over undisclosed £5m donation from Thai billionaire before 2024 election.",
-      "url": "https://www.theguardian.com/p/x5vb6p",
-      "thumbnail": "https://media.guim.co.uk/7a80a4d530090676b40ea08281fd0fdd4b398b06/1902_721_4098_3279/500.jpg",
-      "published": "2026-04-29T11:50:28Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "politics"
-    },
-    {
-      "id": "us-news/live/2026/apr/29/king-charles-new-york-donald-trump-zohran-mamdani-iran-us-politics-live",
-      "headline": "Trump makes fresh Iran threat after claiming King Charles agrees with him over nuclear weapons – US politics live",
-      "summary": "Trump makes fresh Iran threats as King Charles visits New York for 9/11 memorial wreath.",
-      "url": "https://www.theguardian.com/p/x5vbkk",
-      "thumbnail": "https://media.guim.co.uk/e410fcf2fd4fcc8c432c9ab29384ba184e3ea8f5/682_0_3342_2674/500.jpg",
-      "published": "2026-04-29T11:48:35Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "world/live/2026/apr/29/europe-iran-hungary-russia-ukraine-eu-latest-news-updates",
-      "headline": "Consequences of Iran war ‘may echo for months or years to come,’ EU chief warns – Europe live",
-      "summary": "EU chief warns Iran war consequences may echo for months while meeting Hungarian leader.",
-      "url": "https://www.theguardian.com/p/x5vb8x",
-      "thumbnail": "https://media.guim.co.uk/02af319deeef273191ac0670b293e524965987f7/314_0_5682_4548/500.jpg",
-      "published": "2026-04-29T11:47:53Z",
-      "location": {
-        "name": "Brussels",
-        "lat": 50.8503,
-        "lng": 4.3517
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "news/2026/apr/29/the-popes-african-tour-shows-the-continent-is-vital-to-the-future-of-catholicism",
-      "headline": "The pope’s African tour shows the continent is vital to the future of Catholicism ",
-      "summary": "Pope Leo XIV's African tour highlights continent's growing importance to global Catholicism.",
-      "url": "https://www.theguardian.com/p/x5v5qm",
-      "thumbnail": "https://media.guim.co.uk/260ef99e9d385b6c0e869aec5e6e5e7c3bcc3cc2/405_0_4782_3825/500.jpg",
-      "published": "2026-04-29T11:44:49Z",
-      "location": {
-        "name": "Vatican City",
-        "lat": 41.9029,
-        "lng": 12.4534
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "news"
-    },
-    {
-      "id": "business/2026/apr/29/barclay-brothers-hsbc-settlement-high-court",
-      "headline": "Barclay brothers avoid bankruptcy after deal with HSBC over £143m debt",
-      "summary": "Barclay brothers settle £143m HSBC debt, avoiding bankruptcy over Telegraph ownership.",
-      "url": "https://www.theguardian.com/p/x5vbdj",
-      "thumbnail": "https://media.guim.co.uk/5d383d6524639dd74f7c8a48574562a40931af7e/10_0_3790_3033/500.jpg",
-      "published": "2026-04-29T11:38:59Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "football/2026/apr/29/mathis-albert-borussia-dortmund-us-soccer-fandom",
-      "headline": "16-year-old Mathis Albert just broke a Bundesliga record. Beware the US soccer hype machine",
-      "summary": "16-year-old Mathis Albert breaks Bundesliga record, drawing US soccer media attention.",
-      "url": "https://www.theguardian.com/p/x5v9mc",
-      "thumbnail": "https://media.guim.co.uk/fa7bdea246832c223832ad67c0b1642442cfa7eb/75_0_5403_4322/500.jpg",
-      "published": "2026-04-29T11:35:13Z",
-      "location": {
-        "name": "Dortmund",
-        "lat": 51.5136,
-        "lng": 7.4653
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "world/2026/apr/29/kim-north-korea-soldiers-blow-themselves-up-ukraine",
-      "headline": "Kim praises North Korean soldiers who blew themselves up to evade Ukraine capture",
-      "summary": "Kim Jong-un praises North Korean soldiers who detonated grenades to avoid Ukraine capture.",
-      "url": "https://www.theguardian.com/p/x5vbym",
-      "thumbnail": "https://media.guim.co.uk/828f710adfb20b22794ff088bb5894583dc7d68c/1265_164_3749_2999/500.jpg",
-      "published": "2026-04-29T11:34:08Z",
-      "location": {
-        "name": "Pyongyang",
-        "lat": 39.0392,
-        "lng": 125.7625
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "us-news/2026/apr/29/georgia-cop-city-protesters-charges",
-      "headline": "‘Flailing’ Georgia attorney general condemned over charges for Cop City protesters",
-      "summary": "Georgia attorney general criticized for indicting Cop City protesters to boost political profile.",
-      "url": "https://www.theguardian.com/p/x5v922",
-      "thumbnail": "https://media.guim.co.uk/629db74cdf6d358393c3715888c899069c038d2e/250_0_2500_2001/500.jpg",
-      "published": "2026-04-29T11:30:47Z",
-      "location": {
-        "name": "Atlanta",
-        "lat": 33.749,
-        "lng": -84.388
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "music/2026/apr/29/ne-yo-and-akon-review-joint-uk-tour-leeds-london-glasgow",
-      "headline": "Ne-Yo and Akon review – joyous joint tour is like time-travelling to a messy night out in 2010",
-      "summary": "Ne-Yo and Akon deliver nostalgic millennial R&B tour across UK venues.",
-      "url": "https://www.theguardian.com/p/x5vbay",
-      "thumbnail": "https://media.guim.co.uk/9801a0d494e1c2bdbb2d1ac754d274b39eadeafa/0_1351_2902_2322/500.jpg",
-      "published": "2026-04-29T11:06:57Z",
-      "location": {
-        "name": "Glasgow",
-        "lat": 55.8642,
-        "lng": -4.2518
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "music"
-    },
-    {
-      "id": "world/2026/apr/29/eu-farmers-hauliers-fishing-subsidies-up-to-50000-fuel-fertiliser-iran-war",
-      "headline": "EU farmers and hauliers to get up to €50,000 to cover extra costs of Iran war",
-      "summary": "EU subsidizes farmers and hauliers up to €50,000 to offset Iran war costs.",
-      "url": "https://www.theguardian.com/p/x5vbpp",
-      "thumbnail": "https://media.guim.co.uk/ec44ab30f42c2fd3bc077618fe7767489802c673/264_0_2599_2079/500.jpg",
-      "published": "2026-04-29T11:06:36Z",
-      "location": {
-        "name": "Brussels",
-        "lat": 50.8503,
-        "lng": 4.3517
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "football/2026/apr/29/ashley-cole-players-trust-first-manager-job-cesena-serie-b",
-      "headline": "Ashley Cole: ‘The players have to trust what I’m asking them to do’",
-      "summary": "Ashley Cole takes first managerial role with Italian Serie B side Cesena.",
-      "url": "https://www.theguardian.com/p/x4pn8q",
-      "thumbnail": "https://media.guim.co.uk/9d8a0ddec1732d15f402d9578367244dccc5070c/791_1601_6436_5149/500.jpg",
-      "published": "2026-04-29T11:00:47Z",
-      "location": {
-        "name": "Cesena",
-        "lat": 44.1429,
-        "lng": 12.2471
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "us-news/2026/apr/29/family-connects-new-orleans-mothers-postpartum-house-calls",
-      "headline": "The New Orleans program doing house calls for postpartum mothers: ‘For many women, you fall off a cliff’",
-      "summary": "New Orleans program provides crucial postpartum home nurse visits for new mothers.",
-      "url": "https://www.theguardian.com/p/x5v2m7",
-      "thumbnail": "https://media.guim.co.uk/d75751794bf828d38b568499005f624a55eaf41a/663_0_6627_5304/500.jpg",
-      "published": "2026-04-29T11:00:47Z",
-      "location": {
-        "name": "New Orleans",
-        "lat": 29.9511,
-        "lng": -90.2623
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "football/2026/apr/29/psg-bayern-munich-europes-media-nine-goal-thriller-champions-league",
-      "headline": "‘Pinnacle of art and culture’: Europe’s media on nine-goal PSG-Bayern thriller",
-      "summary": "PSG defeats Bayern Munich 5-4 in thrilling Champions League semi-final first leg.",
-      "url": "https://www.theguardian.com/p/x5vbft",
-      "thumbnail": "https://media.guim.co.uk/77e31bfe5d96836d845b5bde44069b2e35f2be1b/0_0_5000_4000/500.jpg",
-      "published": "2026-04-29T11:00:04Z",
-      "location": {
-        "name": "Paris",
-        "lat": 48.8566,
-        "lng": 2.3522
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
     {
       "id": "us-news/ng-interactive/2025/nov/02/us-redistrcting-congressional-map",
       "headline": "Rigging the map? How power in US Congress is likely to shift after supreme court ruling and redistricting fights",
@@ -1014,6 +742,406 @@
       "category": "climate",
       "significance": 2,
       "section": "environment"
+    },
+    {
+      "id": "world/live/2026/apr/30/europe-germany-troops-trump-threat-iran-eu-france-latest-news-updates",
+      "headline": "Merz calls for a ‘a reliable transatlantic partnership’ after Trump threatens Germany with US troop reduction – Europe live",
+      "summary": "German chancellor Merz seeks reliable transatlantic ties after Trump threatens US troop reduction.",
+      "url": "https://www.theguardian.com/p/x5vgz8",
+      "thumbnail": "https://media.guim.co.uk/5d07cb574012ae0790f9751d4859a9d98c32c1c3/0_0_3310_2647/500.jpg",
+      "published": "2026-04-30T13:02:21Z",
+      "location": {
+        "name": "Germany",
+        "lat": 51.1657,
+        "lng": 10.4515
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "artanddesign/2026/apr/30/masterpieces-by-klimt-matisse-and-freud-set-for-londons-most-valuable-auction",
+      "headline": "Masterpieces by Klimt, Matisse and Freud set for London’s most valuable auction",
+      "summary": "Sotheby's to auction £150m+ art collection by Klimt, Matisse, and Freud in June.",
+      "url": "https://www.theguardian.com/p/x5vcp4",
+      "thumbnail": null,
+      "published": "2026-04-30T13:00:32Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "artanddesign"
+    },
+    {
+      "id": "us-news/2026/apr/30/puerto-rico-independence-movement",
+      "headline": "‘I believe in independence’: Puerto Rico’s young people fighting for sovereignty from the US",
+      "summary": "Young Puerto Ricans intensify independence movement seeking sovereignty from US.",
+      "url": "https://www.theguardian.com/p/x5ve6n",
+      "thumbnail": "https://media.guim.co.uk/2d831c387e8977e63c3037bf0aa423063199c770/500_0_5000_4000/500.jpg",
+      "published": "2026-04-30T13:00:17Z",
+      "location": {
+        "name": "Puerto Rico",
+        "lat": 18.2208,
+        "lng": -66.5901
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/live/2026/apr/30/donald-trump-pete-hegseth-iran-war-oil-king-charles-latest-news-updates",
+      "headline": "Hegseth faces further grilling over war costs as Iranian supreme leader releases fresh US threats – US politics live",
+      "summary": "Defense secretary Hegseth grilled on war costs as Iranian leader threatens Gulf foreigners.",
+      "url": "https://www.theguardian.com/p/x5vh4j",
+      "thumbnail": "https://media.guim.co.uk/2b7f665380e05709c0c633680bc508172f69bd05/459_0_4318_3455/500.jpg",
+      "published": "2026-04-30T12:59:17Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "uk-news/2026/apr/30/spectator-paul-winston-marshall-mine-laden-floating-wall-stop-channel-crossings",
+      "headline": "Spectator owner’s son calls for mine-laden ‘floating wall’ to stop Channel crossings",
+      "summary": "Spectator owner's son proposes mine-laden floating wall to halt Channel boat crossings.",
+      "url": "https://www.theguardian.com/p/x5vhe8",
+      "thumbnail": "https://media.guim.co.uk/ee857371474eb54cd99396f5b1634667ff3a9032/407_138_2909_2327/500.jpg",
+      "published": "2026-04-30T12:58:07Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "us-news/2026/apr/30/appeals-court-refuse-trump-appeal-e-jean-carroll-case",
+      "headline": " US court refuses to hear Trump’s appeal of E Jean Carroll $83m defamation case",
+      "summary": "Federal appeals court refuses to hear Trump's appeal of $83m E Jean Carroll defamation case.",
+      "url": "https://www.theguardian.com/p/x5vhy6",
+      "thumbnail": "https://media.guim.co.uk/ca1dfd4f9fcb728e91fc230edca6e8e724e281d8/287_0_2870_2296/500.jpg",
+      "published": "2026-04-30T12:55:46Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/apr/30/us-military-bases-germany-trump-threat-cut-numbers",
+      "headline": "Why does the US have military bases in Germany – and will Trump follow through on his threat to cut numbers?",
+      "summary": "Trump considers reducing 36,400 US troops stationed in Germany amid tensions.",
+      "url": "https://www.theguardian.com/p/x5vh4g",
+      "thumbnail": "https://media.guim.co.uk/d38c9dab412b3520c5b972b7e76010ff7df020c4/410_0_5050_4043/500.jpg",
+      "published": "2026-04-30T12:55:04Z",
+      "location": {
+        "name": "Germany",
+        "lat": 51.1657,
+        "lng": 10.4515
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/apr/30/mikel-arteta-perceived-injustices-arsenal-atletico-madrid-champions-league-semi-final",
+      "headline": "Arteta will seek to use perceived injustices as Arsenal fuel after Atlético anger",
+      "summary": "Arteta seeks to use perceived refereeing injustices as fuel for Arsenal's Champions League campaign.",
+      "url": "https://www.theguardian.com/p/x5vhn8",
+      "thumbnail": "https://media.guim.co.uk/0398be7b21a4bb74abadc81cefb3b55a0f178cdf/520_0_3955_3164/500.jpg",
+      "published": "2026-04-30T12:32:45Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "politics/live/2026/apr/30/local-election-campaign-labour-reform-conservatives-tories-greens-lib-dems-latest-news-updates",
+      "headline": "Farage did not need to declare £5m donation as it was ‘private’, claims Braverman – UK politics live",
+      "summary": "Braverman defends Farage's undeclared £5m donation as private matter in election campaign.",
+      "url": "https://www.theguardian.com/p/x5vgty",
+      "thumbnail": "https://media.guim.co.uk/7b5fc8794e4105bb47dfe57dc3f804fbd9f15566/28_88_4140_3312/500.jpg",
+      "published": "2026-04-30T12:32:32Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "australia-news/2026/apr/30/limiting-capital-gains-tax-changes-to-new-investments-would-severely-delay-budget-reforms-deloitte-says",
+      "headline": "Limiting capital gains tax changes to new investments would ‘severely delay’ budget reforms, Deloitte says",
+      "summary": "Deloitte warns limiting capital gains tax changes would severely delay Australian budget reforms.",
+      "url": "https://www.theguardian.com/p/x5vgkf",
+      "thumbnail": "https://media.guim.co.uk/9f84af8f3239e81fc8c02d68c88890c0cf7386a2/257_0_6882_5504/500.jpg",
+      "published": "2026-04-30T12:30:17Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "business/2026/apr/30/eurozone-inflation-increase-iran-war-drives-up-energy-prices",
+      "headline": "Eurozone inflation soars to 3% as Iran war drives up energy prices",
+      "summary": "Eurozone inflation soars to 3% as Iran war drives energy prices higher amid economic stagnation.",
+      "url": "https://www.theguardian.com/p/x5vh66",
+      "thumbnail": "https://media.guim.co.uk/8703b42b1beb44e960ef9a872c120f4f5841aec6/397_0_3968_3174/500.jpg",
+      "published": "2026-04-30T12:30:05Z",
+      "location": {
+        "name": "Brussels",
+        "lat": 50.8503,
+        "lng": 4.3517
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "business"
+    },
+    {
+      "id": "media/2026/apr/30/financial-times-journalists-in-dispute-with-management-over-plans-for-office-days",
+      "headline": "Financial Times journalists in dispute with management over plans for office days",
+      "summary": "Financial Times journalists dispute management's plan to mandate four office days weekly.",
+      "url": "https://www.theguardian.com/p/x5vdbb",
+      "thumbnail": "https://media.guim.co.uk/acf596ad9e1fd400a7df400f5f1df86e0ef3a26c/97_0_2917_2334/500.jpg",
+      "published": "2026-04-30T12:20:18Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "tech",
+      "significance": 1,
+      "section": "media"
+    },
+    {
+      "id": "world/2026/apr/30/israel-intercepts-detains-crews-gaza-aid-flotillas-crete",
+      "headline": "Israel intercepts and detains crews of Gaza aid flotilla near Crete",
+      "summary": "Israel intercepts and detains crews from Gaza aid flotilla near Crete in maritime blockade enforcement.",
+      "url": "https://www.theguardian.com/p/x5vgyb",
+      "thumbnail": "https://media.guim.co.uk/ceb14a02d809fe2ee9a5f600d76013cc596dd7a9/305_0_3053_2442/500.jpg",
+      "published": "2026-04-30T12:17:51Z",
+      "location": {
+        "name": "Crete",
+        "lat": 35.2401,
+        "lng": 25.1301
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "business/2026/apr/30/why-bank-of-england-kept-interest-rates-on-hold-despite-trumpflation",
+      "headline": "Why Bank kept interest rates on hold despite message for UK to brace itself for Trumpflation",
+      "summary": "Bank of England holds rates amid Trumpflation fears, warning of unavoidable inflation ahead.",
+      "url": "https://www.theguardian.com/p/x5vhkt",
+      "thumbnail": "https://media.guim.co.uk/86bb7c876065428c9382377349d236d36754db3f/592_0_4394_3518/500.jpg",
+      "published": "2026-04-30T12:12:14Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "sport/live/2026/apr/30/womens-state-of-origin-2026-game-1-nsw-blues-v-queensland-maroons-live",
+      "headline": "Blues win Women’s State of Origin opener in fast fight with Maroons – as it happened",
+      "summary": "NSW Blues defeat Queensland Maroons 11-6 in Women's State of Origin Game 1.",
+      "url": "https://www.theguardian.com/p/x5vf9x",
+      "thumbnail": "https://media.guim.co.uk/b7482c62601df56f9829eb1d2e43a881c5f1d96c/242_0_2423_1939/500.jpg",
+      "published": "2026-04-30T12:12:01Z",
+      "location": {
+        "name": "Newcastle",
+        "lat": -32.9273,
+        "lng": 151.7863
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "sport/2026/apr/30/marauding-blues-hold-off-luckless-maroons-to-take-womens-origin-series-lead",
+      "headline": "Marauding Blues hold off luckless Maroons to take Women’s Origin series lead",
+      "summary": "NSW Blues defeat Queensland Maroons 11-6 in Women's State of Origin Game 1.",
+      "url": "https://www.theguardian.com/p/x5vf94",
+      "thumbnail": "https://media.guim.co.uk/13ffd9b088fc00c2a9000628c0d99188c0da3b98/465_0_4651_3721/500.jpg",
+      "published": "2026-04-30T12:08:59Z",
+      "location": {
+        "name": "Newcastle",
+        "lat": -32.9273,
+        "lng": 151.7863
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "world/2026/apr/30/canada-financial-crimes-agency-us-weakens-approach-cryptocurrency-atms-money-laundering",
+      "headline": "Canada to create powerful financial crimes agency as US weakens its approach",
+      "summary": "Canada establishes financial crimes agency amid cryptocurrency ATM ban and anti-money laundering efforts.",
+      "url": "https://www.theguardian.com/p/x5vfe5",
+      "thumbnail": "https://media.guim.co.uk/a2a9f76b6dc04d7aeb93cb9754219ace751822fe/372_0_4800_3840/500.jpg",
+      "published": "2026-04-30T12:07:16Z",
+      "location": {
+        "name": "Canada",
+        "lat": 56.1304,
+        "lng": -106.3468
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "world/2026/apr/30/bomb-butcher-bucha-military-town-east-russia",
+      "headline": "Bomb meant for ‘Butcher of Bucha’ kills subordinate in remote Russian town, sources say",
+      "summary": "Bomb kills Russian officer in far east; intended target reportedly 'Butcher of Bucha'.",
+      "url": "https://www.theguardian.com/p/x5vgm2",
+      "thumbnail": "https://media.guim.co.uk/6964c6fa2c2e52919aa741e2a7fb412e813a0c1d/49_22_2452_1962/500.jpg",
+      "published": "2026-04-30T12:06:19Z",
+      "location": {
+        "name": "Russia",
+        "lat": 61.524,
+        "lng": 105.3188
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "stage/2026/apr/30/unnatural-harmony-sounds-of-lee-alexander-mcqueen-review-royal-festival-hall-london",
+      "headline": "Unnatural Harmony: Sounds of Lee Alexander McQueen review – MOR tribute to a fashion maverick",
+      "summary": "Royal Festival Hall stages tribute to Alexander McQueen with music and dance performance.",
+      "url": "https://www.theguardian.com/p/x5vh6j",
+      "thumbnail": "https://media.guim.co.uk/f624186dcea2d97621d272f56163c9fbef4e35e4/592_246_3225_2580/500.jpg",
+      "published": "2026-04-30T12:03:58Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "stage"
+    },
+    {
+      "id": "tv-and-radio/2026/apr/30/the-pitt-hbo-max-wildest-fan-theories-vampire-doctors-ghosts",
+      "headline": "Sexy vibes to vampire doctors! All the wildest fan theories about The Pitt",
+      "summary": "HBO Max's hospital drama 'The Pitt' sparks fan theories about supernatural medical storylines.",
+      "url": "https://www.theguardian.com/p/x5vbfk",
+      "thumbnail": "https://media.guim.co.uk/2d62462649be7e4df09416e79d2e31ffb1d0ed2d/486_0_5000_4000/500.jpg",
+      "published": "2026-04-30T12:02:25Z",
+      "location": {
+        "name": "Pittsburgh",
+        "lat": 40.4406,
+        "lng": -79.9959
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "tv-and-radio"
+    },
+    {
+      "id": "food/2026/apr/30/cheaper-wines-less-exclusive-review-richard-godwin",
+      "headline": "When it comes to wines, it pays to look beyond the fashionable",
+      "summary": "Wine expert recommends affordable alternatives to expensive varieties amid rising prices.",
+      "url": "https://www.theguardian.com/p/x4ygy6",
+      "thumbnail": "https://media.guim.co.uk/95908db580a845b180ea4bd677edc732772b7c9f/638_0_5018_4016/500.jpg",
+      "published": "2026-04-30T12:00:17Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "food"
+    },
+    {
+      "id": "sport/2026/apr/30/adam-coleman-were-taking-nothing-for-granted-but-this-is-exactly-where-we-want-to-be",
+      "headline": "Adam Coleman escapes from rugby purgatory to the peaks with Bordeaux",
+      "summary": "Bordeaux Bègles lock Adam Coleman primed for Champions Cup clash against Bath.",
+      "url": "https://www.theguardian.com/p/x5vbh7",
+      "thumbnail": "https://media.guim.co.uk/3534f47de053d4a942210c8d8ece8516c07f8e3b/708_0_5338_4272/500.jpg",
+      "published": "2026-04-30T12:00:17Z",
+      "location": {
+        "name": "Bordeaux",
+        "lat": 44.8378,
+        "lng": -0.5792
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "music/2026/apr/30/woody-guthrie-exhibit",
+      "headline": "‘You are the machine that kills hate’: Woody Guthrie’s protest anthems strike a chord with a new generation",
+      "summary": "NYU exhibit celebrates Woody Guthrie's anti-fascist protest anthems with new generation.",
+      "url": "https://www.theguardian.com/p/x5v8ng",
+      "thumbnail": "https://media.guim.co.uk/22c55a9d1cd416c5f40d6e9c30681ae863e21190/41_40_1266_1012/500.jpg",
+      "published": "2026-04-30T12:00:17Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.8075,
+        "lng": -73.9626
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "music"
+    },
+    {
+      "id": "commentisfree/2026/apr/30/trump-white-house-ballroom-bunker",
+      "headline": "A ballroom bunker is a perfect symbol for Trump 2.0",
+      "summary": "Trump administration's ballroom bunker symbolizes protection from self-created national crises.",
+      "url": "https://www.theguardian.com/p/x5ve27",
+      "thumbnail": "https://media.guim.co.uk/24a9e20657c1409ee3ab39319c5ddad2810419d2/500_0_5000_4000/500.jpg",
+      "published": "2026-04-30T12:00:17Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "commentisfree"
+    },
+    {
+      "id": "us-news/2026/apr/30/trump-administration-cannabis-rescheduling-confusing",
+      "headline": "Trump administration move to reclassify cannabis sparks confusion",
+      "summary": "Trump administration partially reclassifies cannabis, creating confusion for industry stakeholders.",
+      "url": "https://www.theguardian.com/p/x5vdjh",
+      "thumbnail": "https://media.guim.co.uk/3a8685ffc02a371177edceed1e4785a6f95c44e4/419_898_3865_3091/500.jpg",
+      "published": "2026-04-30T12:00:16Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
     }
   ]
 }
