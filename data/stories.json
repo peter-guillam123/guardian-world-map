@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-05-01T18:48:13.616Z",
-    "story_count": 88,
+    "generated_at": "2026-05-01T19:57:46.303Z",
+    "story_count": 94,
     "oldest_story": "2026-04-30T20:34:10Z",
-    "newest_story": "2026-05-01T18:38:28Z",
+    "newest_story": "2026-05-01T19:20:00Z",
     "window_hours": 24
   },
   "stories": [
@@ -1414,6 +1414,102 @@
       "category": "sport",
       "significance": 2,
       "section": "sport"
+    },
+    {
+      "id": "us-news/2026/may/01/may-day-strong-economic-protests",
+      "headline": "Thousands in US join ‘no school, no work, no shopping’ May Day protest and economic blackout",
+      "summary": "Thousands participate in May Day economic blackout across US with 3,500 demonstrations.",
+      "url": "https://www.theguardian.com/p/x5vjg2",
+      "thumbnail": "https://media.guim.co.uk/030827a4c8fa6dfa684626c4ff20f4be012fdc81/515_0_4165_3333/500.jpg",
+      "published": "2026-05-01T19:20:00Z",
+      "location": {
+        "name": "United States",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/may/01/pope-former-undocumented-immigrant-bishop-west-virginia",
+      "headline": "Pope appoints former undocumented immigrant as bishop of West Virginia",
+      "summary": "Pope appoints former undocumented immigrant as bishop of West Virginia.",
+      "url": "https://www.theguardian.com/p/x5vzz5",
+      "thumbnail": "https://media.guim.co.uk/10846e16d458e27ffb8d545cf9b55d3224af87ff/250_0_2501_2000/500.jpg",
+      "published": "2026-05-01T19:15:40Z",
+      "location": {
+        "name": "West Virginia",
+        "lat": 38.5976,
+        "lng": -80.4549
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/may/01/florida-sloth-deaths-criminial-investigation",
+      "headline": "Florida prosecutors launch criminal investigation into deaths of 31 sloths",
+      "summary": "Florida prosecutors investigate deaths of 31 sloths at controversial theme park.",
+      "url": "https://www.theguardian.com/p/x5vz4m",
+      "thumbnail": "https://media.guim.co.uk/22ed23431d0a5005e58fe7e114e47eb9de72df61/32_0_960_768/500.jpg",
+      "published": "2026-05-01T19:05:16Z",
+      "location": {
+        "name": "Florida",
+        "lat": 27.9947,
+        "lng": -81.7603
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/may/01/southern-poverty-law-doj-investigation",
+      "headline": "US lawmakers say DoJ rushed Southern Poverty Law Center indictment, citing whistleblower",
+      "summary": "Democrats claim DoJ rushed SPLC indictment citing whistleblower concerns.",
+      "url": "https://www.theguardian.com/p/x5vzmn",
+      "thumbnail": "https://media.guim.co.uk/1504331c0e7a4d7035bd7a954d6da97f3fa37e9f/407_0_4073_3258/500.jpg",
+      "published": "2026-05-01T19:02:52Z",
+      "location": {
+        "name": "Alabama",
+        "lat": 32.3792,
+        "lng": -86.3077
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/may/01/european-countries-still-expect-to-lose-money-at-world-cup-despite-prize-fund-increase",
+      "headline": "European countries still expect to lose money at World Cup despite prize fund increase",
+      "summary": "European nations expect financial losses at 2026 World Cup despite increased prize fund.",
+      "url": "https://www.theguardian.com/p/x5vnqb",
+      "thumbnail": "https://media.guim.co.uk/975bf40635ae123524044f70147dd4f78af00c6c/387_0_4489_3592/500.jpg",
+      "published": "2026-05-01T19:00:04Z",
+      "location": {
+        "name": "United States",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "uk-news/2026/may/01/man-charged-after-car-bomb-explosion-at-police-station-in-northern-ireland",
+      "headline": "Man charged after car bomb explosion at police station near Belfast",
+      "summary": "Man charged with attempted murder after car bomb attack on Northern Ireland police station.",
+      "url": "https://www.theguardian.com/p/x5vzjc",
+      "thumbnail": "https://media.guim.co.uk/4346a2f16fcdbda07646e2bd021c2a3c9890d4f0/717_0_4640_3712/500.jpg",
+      "published": "2026-05-01T18:55:38Z",
+      "location": {
+        "name": "Belfast",
+        "lat": 54.5973,
+        "lng": -5.9301
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "uk-news"
     }
   ]
 }
