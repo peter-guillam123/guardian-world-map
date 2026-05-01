@@ -1,124 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-01T21:03:47.997Z",
-    "story_count": 95,
-    "oldest_story": "2026-04-30T21:04:03Z",
-    "newest_story": "2026-05-01T20:58:29Z",
+    "generated_at": "2026-05-01T22:03:09.932Z",
+    "story_count": 92,
+    "oldest_story": "2026-05-01T06:15:57Z",
+    "newest_story": "2026-05-01T21:54:38Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "australia-news/live/2026/may/01/alice-springs-anthony-albanese-labor-angus-taylor-coalition-gaza-flotilla-politics-updates-ntwnfb",
-      "headline": "Australia news live: housing market slows but rents surge; Penny Wong hails South Korea energy pact",
-      "summary": "Australia's rental market surges as prices hit fastest pace since October 2024.",
-      "url": "https://www.theguardian.com/p/x5vhcv",
-      "thumbnail": "https://media.guim.co.uk/82fef644ff35f8dc275fd02bf26cdbc678bdcd83/506_0_6141_4912/500.jpg",
-      "published": "2026-04-30T21:35:35Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "society/2026/apr/30/late-flood-no-fault-evictions-ban-england-renters-rights-act",
-      "headline": "Solicitors report late flood of no-fault evictions before ban in England",
-      "summary": "England's Renters' Rights Act bans no-fault evictions, prompting landlord rush before Friday.",
-      "url": "https://www.theguardian.com/p/x5vt4a",
-      "thumbnail": "https://media.guim.co.uk/7c299ae185888f50cb20cea52490155571d58315/0_235_4387_3509/500.jpg",
-      "published": "2026-04-30T21:30:28Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "society"
-    },
-    {
-      "id": "australia-news/2026/apr/30/jefferson-lewis-arrested-over-death-of-kumanjayi-little-baby-in-northern-territory",
-      "headline": "Unrest in Alice Springs after Jefferson Lewis arrested over death of Kumanjayi Little Baby",
-      "summary": "Man arrested over death of 5-year-old girl; clashes erupt outside Alice Springs hospital.",
-      "url": "https://www.theguardian.com/p/x5vt2c",
-      "thumbnail": "https://media.guim.co.uk/553bdc3c155f564adc6212bc21fd9c21d1c49c13/592_0_7920_6336/500.jpg",
-      "published": "2026-04-30T21:23:24Z",
-      "location": {
-        "name": "Alice Springs",
-        "lat": -23.7001,
-        "lng": 133.8807
-      },
-      "category": "health",
-      "significance": 3,
-      "section": "australia-news"
-    },
-    {
-      "id": "technology/2026/apr/30/meta-new-mexico-social-media-shutdown",
-      "headline": "Meta threatens to shut down social networks in New Mexico over child safety court case",
-      "summary": "Meta threatens to shut down social networks in New Mexico over child safety lawsuit.",
-      "url": "https://www.theguardian.com/p/x5vjza",
-      "thumbnail": "https://media.guim.co.uk/4b2a3e9f3b8a905a645227f4bdae97f73482f55e/91_0_3118_2495/500.jpg",
-      "published": "2026-04-30T21:14:33Z",
-      "location": {
-        "name": "Santa Fe",
-        "lat": 35.0853,
-        "lng": -106.6504
-      },
-      "category": "tech",
-      "significance": 2,
-      "section": "technology"
-    },
-    {
-      "id": "football/2026/apr/30/shakthar-crystal-palace-conference-league-semi-final-first-leg-match-report",
-      "headline": "Crystal Palace in driving seat after Strand Larsen punishes Shakhtar Donetsk",
-      "summary": "Crystal Palace wins 3-1 at Shakhtar Donetsk in Conference League semi-final first leg.",
-      "url": "https://www.theguardian.com/p/x5vtjx",
-      "thumbnail": "https://media.guim.co.uk/0c48e1e9a4d21b5b895feb156c8f6345f22a2c69/419_10_3383_2708/500.jpg",
-      "published": "2026-04-30T21:06:07Z",
-      "location": {
-        "name": "Donetsk",
-        "lat": 47.9969,
-        "lng": 37.8023
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "us-news/2026/apr/30/oscar-missing-pavel-talankin-putin-documentary",
-      "headline": "Oscar belonging to co-director of Putin film missing after TSA makes him ship it",
-      "summary": "Oscar statuette lost after TSA confiscates it from Putin documentary co-director at JFK.",
-      "url": "https://www.theguardian.com/p/x5vjzx",
-      "thumbnail": "https://media.guim.co.uk/2bb1bb28a4b8cd40fcfd057e5fc16afca8bde6c4/310_0_4819_3856/500.jpg",
-      "published": "2026-04-30T21:04:13Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "football/2026/apr/30/nottingham-forest-aston-villa-europa-league-semi-final-first-leg-match-report",
-      "headline": "Chris Wood gives Nottingham Forest narrow semi-final edge over Aston Villa",
-      "summary": "Nottingham Forest beats Aston Villa 1-0 in Europa League semi-final first leg.",
-      "url": "https://www.theguardian.com/p/x5vtt8",
-      "thumbnail": "https://media.guim.co.uk/65cac969f637a01a7cdb7c71fa89f48f7e8f4b41/192_0_2517_2014/500.jpg",
-      "published": "2026-04-30T21:04:03Z",
-      "location": {
-        "name": "Nottingham",
-        "lat": 52.9399,
-        "lng": -1.1339
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
     {
       "id": "business/live/2026/may/01/uk-house-prices-natwest-profits-iran-war-oil-price-trump-bank-of-england-ftse-100-business-live",
       "headline": "UK house prices in surprise increase; NatWest braces for slowing economy – business live",
@@ -1526,6 +1414,70 @@
       "category": "culture",
       "significance": 2,
       "section": "science"
+    },
+    {
+      "id": "culture/2026/may/01/peter-kay-show-stopped-and-19-year-old-in-custody-after-suspicious-bag-found",
+      "headline": "Peter Kay show stopped and 19-year-old in custody after ‘suspicious bag’ found",
+      "summary": "Peter Kay comedy show evacuated after suspicious bag found at Birmingham arena.",
+      "url": "https://www.theguardian.com/p/x5vpdj",
+      "thumbnail": "https://media.guim.co.uk/c3416bf06381d9cee4988be68bf798369d1f273b/0_0_1989_1591/500.jpg",
+      "published": "2026-05-01T21:54:38Z",
+      "location": {
+        "name": "Birmingham",
+        "lat": 52.5086,
+        "lng": -1.8845
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "culture"
+    },
+    {
+      "id": "football/2026/may/01/psg-and-bayern-in-different-world-to-tired-premier-league-teams-says-arteta",
+      "headline": "PSG and Bayern in ‘different world’ to tired Premier League teams, says Arteta",
+      "summary": "Mikel Arteta says PSG and Bayern Munich operate in different league than tired Premier League teams.",
+      "url": "https://www.theguardian.com/p/x5vz8y",
+      "thumbnail": "https://media.guim.co.uk/5a1515507c89f934f7be228c9a14095f6fc0153d/570_91_5170_4134/500.jpg",
+      "published": "2026-05-01T21:31:07Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "sport/2026/may/01/leeds-wakefield-super-league-match-report",
+      "headline": "Sivo hat-trick keeps Leeds on top as they hold off Wakefield fightback",
+      "summary": "Leeds Rhinos defeat Wakefield Trinity 40-22 to maintain Super League top position.",
+      "url": "https://www.theguardian.com/p/x5vzj9",
+      "thumbnail": "https://media.guim.co.uk/4351eff8426caf6ce48150893ff89ab0e1067996/437_411_3762_3009/500.jpg",
+      "published": "2026-05-01T21:23:13Z",
+      "location": {
+        "name": "Leeds",
+        "lat": 53.8008,
+        "lng": -1.5491
+      },
+      "category": "sport",
+      "significance": 1,
+      "section": "sport"
+    },
+    {
+      "id": "world/2026/may/01/trump-iran-war-hostilities-letter",
+      "headline": "Trump claims hostilities have ended in Iran in letter to congressional leaders",
+      "summary": "Trump claims Iran hostilities ended, suggesting 60-day war approval deadline no longer applies.",
+      "url": "https://www.theguardian.com/p/x5vp5g",
+      "thumbnail": "https://media.guim.co.uk/6c9f1d353e3b395a3cfd3672466cd02056259bbe/560_0_5600_4480/500.jpg",
+      "published": "2026-05-01T21:18:46Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
     }
   ]
 }
