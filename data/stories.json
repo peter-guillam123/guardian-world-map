@@ -1,60 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-01T07:17:23.241Z",
-    "story_count": 64,
-    "oldest_story": "2026-04-30T07:39:17Z",
-    "newest_story": "2026-05-01T07:12:45Z",
+    "generated_at": "2026-05-01T11:39:46.988Z",
+    "story_count": 79,
+    "oldest_story": "2026-04-30T12:00:16Z",
+    "newest_story": "2026-05-01T11:37:18Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "australia-news/live/2026/apr/30/fuel-crisis-cost-of-living-penny-wong-royal-commission-antisemitism-virginia-bell-jim-chalmers-inflation-budget-anthony-albanese-angus-taylor-ntwnfb",
-      "headline": "Australia news live: mother says she ‘misses and loves’ daughter after NT girl’s body found as Nampijinpa Price grieves ‘devastating’ loss",
-      "summary": "NT girl's body found as mother grieves loss; live coverage of Australian news.",
-      "url": "https://www.theguardian.com/p/x5vcfp",
-      "thumbnail": "https://media.guim.co.uk/13c915c36a7122b0a4f7040722449bbc1223925f/367_0_4200_3360/500.jpg",
-      "published": "2026-04-30T07:49:58Z",
-      "location": {
-        "name": "Northern Territory",
-        "lat": -12.4634,
-        "lng": 130.8456
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "business/live/2026/apr/30/bank-of-england-expected-hold-interest-rates-noon-assesses-fallout-iran-war-live-updates",
-      "headline": "Bank of England expected to hold interest rates at noon as it assesses fallout from Iran war – business live ",
-      "summary": "Bank of England holds rates amid Iran war fallout; oil prices surge and airlines cut capacity.",
-      "url": "https://www.theguardian.com/p/x5vgep",
-      "thumbnail": "https://media.guim.co.uk/856d7acc83946b78764d6e10d6dc69a4de13afb7/479_0_3042_2433/500.jpg",
-      "published": "2026-04-30T07:48:18Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "business"
-    },
-    {
-      "id": "uk-news/live/2026/apr/30/golders-green-terror-incident-security-jewish-community-safety-latest-news",
-      "headline": "Ministers under pressure to tackle antisemitism after Golders Green terror attack – live updates",
-      "summary": "Golders Green terror attack prompts £25m security funding for Jewish communities.",
-      "url": "https://www.theguardian.com/p/x5vgfp",
-      "thumbnail": "https://media.guim.co.uk/9642b922d8c22f0bab97a9251834aa45f43f7619/1020_1038_5788_4630/500.jpg",
-      "published": "2026-04-30T07:39:17Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "uk-news"
-    },
     {
       "id": "world/live/2026/apr/30/europe-germany-troops-trump-threat-iran-eu-france-latest-news-updates",
       "headline": "Merz calls for a ‘a reliable transatlantic partnership’ after Trump threatens Germany with US troop reduction – Europe live",
@@ -1030,6 +982,294 @@
       "category": "health",
       "significance": 2,
       "section": "australia-news"
+    },
+    {
+      "id": "sport/live/2026/may/01/surrey-v-sussex-somerset-v-yorkshire-county-cricket-day-one-live",
+      "headline": "Surrey bolster Oval security, Somerset v Yorkshire, and more: county cricket, day one – live",
+      "summary": "County Championship cricket matches begin with Surrey bolstering Oval security.",
+      "url": "https://www.theguardian.com/p/x5vczf",
+      "thumbnail": "https://media.guim.co.uk/05b135580dd6aa251f7a5d06b0ab59547934ae13/45_0_2342_1873/500.jpg",
+      "published": "2026-05-01T11:37:18Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "us-news/2026/may/01/first-thing-trump-rift-germany-italy-spain-iran-war",
+      "headline": "First Thing: Trump doubles down on rift with Germany, Italy and Spain amid war on Iran",
+      "summary": "Trump threatens troop withdrawal from Italy and Spain amid Iran tensions.",
+      "url": "https://www.theguardian.com/p/x5vmdb",
+      "thumbnail": "https://media.guim.co.uk/e7ba55fb0ceb3e57b46effc362df36c1cfb224d5/1031_162_3937_3150/500.jpg",
+      "published": "2026-05-01T11:36:11Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/may/01/trump-threatens-withdraw-troops-italy-spain-strait-hormuz",
+      "headline": "Trump threatens to withdraw troops from Italy and Spain",
+      "summary": "Trump threatens to withdraw US troops from Italy over Iran war support.",
+      "url": "https://www.theguardian.com/p/x5vmfv",
+      "thumbnail": "https://media.guim.co.uk/bc652c2d515e516a026acfe14ecae7ff29d2922f/12_0_2560_2048/500.jpg",
+      "published": "2026-05-01T11:32:40Z",
+      "location": {
+        "name": "Rome",
+        "lat": 41.9028,
+        "lng": 12.4964
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "commentisfree/2026/may/01/vote-senedd-election-choose-plaid-cymru-wales-independence",
+      "headline": "If I could vote in next week’s Senedd election, I’d choose Plaid Cymru. Here’s why",
+      "summary": "Columnist advocates voting Plaid Cymru for Welsh independence in Senedd election.",
+      "url": "https://www.theguardian.com/p/x5vt46",
+      "thumbnail": "https://media.guim.co.uk/27010181ddb7458894992a2634c6070c6156a103/923_0_3531_2825/500.jpg",
+      "published": "2026-05-01T11:31:09Z",
+      "location": {
+        "name": "Cardiff",
+        "lat": 51.4816,
+        "lng": -3.1791
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "commentisfree"
+    },
+    {
+      "id": "politics/live/2026/may/01/golders-green-attack-zack-polanski-green-party-uk-politics-latest-news-updates",
+      "headline": "Met police chief denies ‘intervening in politics’ after open letter to Zack Polanski – UK politics live",
+      "summary": "Met police chief denies political interference after criticism over Golders Green suspect.",
+      "url": "https://www.theguardian.com/p/x5vma2",
+      "thumbnail": "https://media.guim.co.uk/f90606486ca61580c67d352782ecef3fe76bd1f8/1508_337_6412_5129/500.jpg",
+      "published": "2026-05-01T11:30:33Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "football/2026/may/01/charlton-birmingham-and-palace-braced-for-wsl2-finale-with-promotion-on-the-line",
+      "headline": "Charlton, Birmingham and Palace braced for WSL2 finale with promotion on the line",
+      "summary": "WSL2 final day features Charlton, Birmingham and Palace vying for two promotion spots.",
+      "url": "https://www.theguardian.com/p/x5vm4j",
+      "thumbnail": "https://media.guim.co.uk/af75b104e1fe7f58b22db16c1b95700a8ad2d4e0/0_0_5000_4000/500.jpg",
+      "published": "2026-05-01T11:30:27Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "world/live/2026/may/01/donald-trump-us-troops-italy-spain-germany-nato-europe-latest-news",
+      "headline": "Trump threatens to withdraw US troops from Italy and Spain – Europe live",
+      "summary": "Trump threatens troop withdrawal from Europe amid Iran war tensions and NATO friction.",
+      "url": "https://www.theguardian.com/p/x5vm6j",
+      "thumbnail": "https://media.guim.co.uk/11a69429d67b280004fd0b867bfb3388d9a4b3d0/885_765_6197_4958/500.jpg",
+      "published": "2026-05-01T11:26:57Z",
+      "location": {
+        "name": "Brussels",
+        "lat": 50.8503,
+        "lng": 4.3517
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "us-news/live/2026/may/01/us-war-iran-ceasefire-war-powers-oil-latest-news-updates",
+      "headline": "Trump administration rejects need for Iran war Congressional approval despite deadline – US politics live",
+      "summary": "Trump administration rejects Congressional approval need for Iran war despite deadline.",
+      "url": "https://www.theguardian.com/p/x5vmt4",
+      "thumbnail": "https://media.guim.co.uk/7662886d396b9d4e0ce399671e005c92b0d47e1c/792_0_7920_6336/500.jpg",
+      "published": "2026-05-01T11:26:36Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "music/2026/may/01/morales-lhomme-arme-masses-and-magnificat-secundi-toni-album-review-de-profundis-hollingworth",
+      "headline": "Morales: L’Homme Armé masses and Magnificat Secundi Toni album review – choral sounds of 16th-century Rome",
+      "summary": "De Profundis choir performs Morales Renaissance masses from 16th-century Rome.",
+      "url": "https://www.theguardian.com/p/x5vcat",
+      "thumbnail": "https://media.guim.co.uk/5fa8767c5f50b075332d9559eb6a6e1ec3cb1734/1103_616_4230_3384/500.jpg",
+      "published": "2026-05-01T11:15:06Z",
+      "location": {
+        "name": "Rome",
+        "lat": 41.9028,
+        "lng": 12.4964
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "music"
+    },
+    {
+      "id": "stage/2026/may/01/a-midsummer-nights-dream-review-globe-theatre-london",
+      "headline": "A Midsummer Night’s Dream review – hilarious and heartfelt, from top to Bottom",
+      "summary": "Emily Lim's joyful production of A Midsummer Night's Dream delights at Globe Theatre.",
+      "url": "https://www.theguardian.com/p/x5vmj7",
+      "thumbnail": "https://media.guim.co.uk/32f67de4532454bf8702b5751ad2f5dc87751d33/556_166_2746_2198/500.jpg",
+      "published": "2026-05-01T11:10:50Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "stage"
+    },
+    {
+      "id": "uk-news/2026/may/01/digested-week-king-bites-tongue-president-indulges-fantasies-charles",
+      "headline": "Digested week: King bites tongue as president indulges his own fantasies",
+      "summary": "King Charles and civil servants navigate awkward parliamentary procedures and politics.",
+      "url": "https://www.theguardian.com/p/x5vmf9",
+      "thumbnail": "https://media.guim.co.uk/deef32e3bd8e2fd666676413686fd3b602ee262d/264_0_3200_2560/500.jpg",
+      "published": "2026-05-01T11:06:00Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 1,
+      "section": "uk-news"
+    },
+    {
+      "id": "us-news/2026/may/01/supreme-court-race-voting-rights-act",
+      "headline": "Conservative justices actually consider race – except in correcting injustice",
+      "summary": "Supreme Court considers race in redistricting while restricting voting rights protections.",
+      "url": "https://www.theguardian.com/p/x5vjke",
+      "thumbnail": "https://media.guim.co.uk/aafd925b7fab7fca271810ab23f54278df8c365b/309_0_4941_3955/500.jpg",
+      "published": "2026-05-01T11:00:29Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/may/01/usmnt-roster-world-cup-mls-teens-julian-hall-zavier-gozo",
+      "headline": "A World Cup surprise? The MLS youngsters who can make cases for the USMNT roster",
+      "summary": "MLS youngsters compete for USMNT World Cup roster spots under Pochettino.",
+      "url": "https://www.theguardian.com/p/x5vtny",
+      "thumbnail": "https://media.guim.co.uk/a2b6595066255492f7f55c77a28d55c595937ae6/333_0_3328_2663/500.jpg",
+      "published": "2026-05-01T11:00:28Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "uk-news/2026/may/01/ashburton-dartmoor-folk-revival-festival",
+      "headline": "Ashburton casts a spell as witches and writers gather for folklore festival",
+      "summary": "Devon town draws witches and writers to folklore festival celebrating myth and ritual.",
+      "url": "https://www.theguardian.com/p/x5vgbq",
+      "thumbnail": "https://media.guim.co.uk/cbff3d038580d21b354569ebd506c7a673e4063c/2_0_5000_4000/500.jpg",
+      "published": "2026-05-01T11:00:28Z",
+      "location": {
+        "name": "Ashburton",
+        "lat": 50.6333,
+        "lng": -3.7333
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "uk-news"
+    },
+    {
+      "id": "us-news/2026/may/01/trump-administration-republicans-voter-data-elections",
+      "headline": "Why red states are pushing back on Trump administration’s request for voter data",
+      "summary": "Republican-controlled states resist Trump administration's DoJ request for sensitive voter data.",
+      "url": "https://www.theguardian.com/p/x5vtyf",
+      "thumbnail": "https://media.guim.co.uk/61eab38d200806ccc0cd9bd08e4cbdc18126e9ba/333_0_3333_2667/500.jpg",
+      "published": "2026-05-01T11:00:27Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/may/01/new-orleans-clergy-abuse-trial",
+      "headline": "New Orleans archdiocese plans on removing priest’s name from chapel as his Texas sexual abuse trial looms",
+      "summary": "New Orleans priest faces Texas trial for sexually abusing three congregants; archdiocese removes his name from chapel.",
+      "url": "https://www.theguardian.com/p/x5vtqe",
+      "thumbnail": "https://media.guim.co.uk/fe7926fb13982cb9376d9655f62d58c75cc34496/247_404_2777_2220/500.jpg",
+      "published": "2026-05-01T11:00:27Z",
+      "location": {
+        "name": "Waco",
+        "lat": 31.5494,
+        "lng": -97.1467
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "global-development/2026/may/01/uganda-copying-russia-and-china-with-new-bill-designed-to-crush-dissent-say-critics",
+      "headline": "Uganda copying Russia and China with new bill designed to crush dissent, say critics",
+      "summary": "Uganda's new bill threatens 20 years prison for 'foreign interests', critics compare to Russia and China tactics.",
+      "url": "https://www.theguardian.com/p/x5v62y",
+      "thumbnail": "https://media.guim.co.uk/f1e67b77b4ad567d62e03dd185feca7e47bfb6fe/536_0_5000_4000/500.jpg",
+      "published": "2026-05-01T11:00:27Z",
+      "location": {
+        "name": "Kampala",
+        "lat": 0.3476,
+        "lng": 32.5825
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "global-development"
+    },
+    {
+      "id": "society/2026/may/01/superdry-co-founder-james-holder-found-guilty-of-raping-woman-after-night-out",
+      "headline": "Superdry co-founder James Holder found guilty of raping woman after night out ",
+      "summary": "Superdry co-founder James Holder convicted of rape; court heard victim asked him to stop multiple times.",
+      "url": "https://www.theguardian.com/p/x5vh2n",
+      "thumbnail": "https://media.guim.co.uk/90979efd068e45a11f828655edae89aee0595dcc/125_43_2366_1893/500.jpg",
+      "published": "2026-05-01T10:46:42Z",
+      "location": {
+        "name": "Cheltenham",
+        "lat": 51.8947,
+        "lng": -2.0743
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "society"
     }
   ]
 }
