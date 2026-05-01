@@ -1,140 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-30T21:37:01.554Z",
-    "story_count": 70,
-    "oldest_story": "2026-04-29T22:31:00Z",
-    "newest_story": "2026-04-30T21:35:35Z",
+    "generated_at": "2026-05-01T07:17:23.241Z",
+    "story_count": 64,
+    "oldest_story": "2026-04-30T07:39:17Z",
+    "newest_story": "2026-05-01T07:12:45Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "world/2026/apr/30/trump-threatens-to-reduce-troop-numbers-in-germany-amid-growing-row-with-nato-allies",
-      "headline": "Trump threatens to reduce troop numbers in Germany amid growing row with Nato allies",
-      "summary": "Trump threatens to reduce US troop numbers in Germany amid NATO tensions over Iran negotiations.",
-      "url": "https://www.theguardian.com/p/x5vema",
-      "thumbnail": "https://media.guim.co.uk/f5bfc457226cfaa307681b367fa64ce1ebbaf259/879_0_4307_3448/500.jpg",
-      "published": "2026-04-29T23:36:22Z",
-      "location": {
-        "name": "Germany",
-        "lat": 51.1657,
-        "lng": 10.4515
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "us-news/2026/apr/29/d4vd-celeste-rivas-hernandez",
-      "headline": "Prosecutors release detailed description of how D4vd allegedly killed teen girl",
-      "summary": "Prosecutors detail how singer D4vd allegedly killed 14-year-old Celeste Rivas Hernandez.",
-      "url": "https://www.theguardian.com/p/x5vekm",
-      "thumbnail": "https://media.guim.co.uk/85d3e356fe963ce58639d3be42d88c15357cd6d5/264_0_2635_2108/500.jpg",
-      "published": "2026-04-29T23:16:35Z",
-      "location": {
-        "name": "Los Angeles",
-        "lat": 34.0522,
-        "lng": -118.2437
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "football/2026/apr/29/diego-simeone-can-breathe-again-against-arsenal-as-fortune-favours-atletico-madrid-at-last",
-      "headline": "Diego Simeone can breathe again against Arsenal as fortune favours Atlético at last",
-      "summary": "Atlético Madrid faces Arsenal in Champions League semi-final with Diego Simeone seeking redemption.",
-      "url": "https://www.theguardian.com/p/x5vcfa",
-      "thumbnail": "https://media.guim.co.uk/93e18eb98222ab03f8cf4b2a97ac5a9d6b487491/1216_0_1471_1177/500.jpg",
-      "published": "2026-04-29T23:00:36Z",
-      "location": {
-        "name": "Madrid",
-        "lat": 40.4168,
-        "lng": -3.7038
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/apr/29/arteta-left-incredibly-fuming-after-var-denies-arsenal-penalty-against-atletico",
-      "headline": "Arteta left ‘incredibly fuming’ after VAR denies Arsenal penalty against Atlético",
-      "summary": "Arsenal's Arteta furious as VAR denies penalty in 1-1 Champions League semi-final draw vs Atlético.",
-      "url": "https://www.theguardian.com/p/x5vegc",
-      "thumbnail": "https://media.guim.co.uk/716124fc169473b4cbaec1c04b6dce55e6857668/688_0_6880_5504/500.jpg",
-      "published": "2026-04-29T22:57:02Z",
-      "location": {
-        "name": "Madrid",
-        "lat": 40.4168,
-        "lng": -3.7038
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "technology/2026/apr/29/elon-musk-openai-sam-altman-lawsuit",
-      "headline": "‘Your questions are designed to trick me’: combative Musk grilled over battle with Sam Altman",
-      "summary": "Elon Musk faces cross-examination in lawsuit against Sam Altman and OpenAI over company's direction.",
-      "url": "https://www.theguardian.com/p/x5vdg2",
-      "thumbnail": "https://media.guim.co.uk/e9c8d1a3da33a8ccc5eea467738bdc970a98eb8a/268_0_2718_2174/500.jpg",
-      "published": "2026-04-29T22:46:08Z",
-      "location": {
-        "name": "San Francisco",
-        "lat": 37.7749,
-        "lng": -122.4194
-      },
-      "category": "tech",
-      "significance": 3,
-      "section": "technology"
-    },
-    {
-      "id": "technology/2026/apr/29/maryland-grocery-stores-ban-surveillance-pricing",
-      "headline": "Maryland becomes first state to ban surveillance pricing in grocery stores",
-      "summary": "Maryland becomes first US state to ban surveillance pricing in grocery stores based on consumer data.",
-      "url": "https://www.theguardian.com/p/x5vcpy",
-      "thumbnail": "https://media.guim.co.uk/1a943d9c427bcfd9d46c95d09bfcd3de5938eb0d/611_1008_4879_3904/500.jpg",
-      "published": "2026-04-29T22:43:33Z",
-      "location": {
-        "name": "Maryland",
-        "lat": 39.0639,
-        "lng": -76.8021
-      },
-      "category": "tech",
-      "significance": 2,
-      "section": "technology"
-    },
-    {
-      "id": "technology/2026/apr/29/earnings-ai-boom-us-stock-markets",
-      "headline": "Tech giants’ results show rosy outlook for AI boom and US stock market",
-      "summary": "Tech giants report strong earnings; Google, Microsoft, Amazon show cloud gains amid AI boom.",
-      "url": "https://www.theguardian.com/p/x5vefb",
-      "thumbnail": "https://media.guim.co.uk/11847932c1ac3453de060dc8a655ce8b63e28a1d/288_0_2867_2295/500.jpg",
-      "published": "2026-04-29T22:37:16Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "technology"
-    },
-    {
-      "id": "society/2026/apr/29/alcohol-junk-food-liver-disease-taxes-health-europe",
-      "headline": "Raise tax on alcohol and junk food to cut deaths from liver disease, experts say",
-      "summary": "European experts call for higher taxes on alcohol and junk food to combat 284,000 annual liver deaths.",
-      "url": "https://www.theguardian.com/p/x5vdkv",
-      "thumbnail": "https://media.guim.co.uk/28e6f40024fc4983bbe07636e97f191b4aa0024d/570_0_2700_2160/500.jpg",
-      "published": "2026-04-29T22:31:00Z",
-      "location": {
-        "name": "Brussels",
-        "lat": 50.8503,
-        "lng": 4.3517
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "society"
-    },
     {
       "id": "australia-news/live/2026/apr/30/fuel-crisis-cost-of-living-penny-wong-royal-commission-antisemitism-virginia-bell-jim-chalmers-inflation-budget-anthony-albanese-angus-taylor-ntwnfb",
       "headline": "Australia news live: mother says she ‘misses and loves’ daughter after NT girl’s body found as Nampijinpa Price grieves ‘devastating’ loss",
@@ -182,150 +54,6 @@
       "category": "conflict",
       "significance": 3,
       "section": "uk-news"
-    },
-    {
-      "id": "australia-news/2026/apr/30/syria-australian-citizens-repatriation-us-trump",
-      "headline": "Trump administration urges countries to help citizens stuck in Syria as Australia maintains hardline stance",
-      "summary": "Trump urges repatriation of citizens in Syria; Australia maintains hardline stance.",
-      "url": "https://www.theguardian.com/p/x5vf37",
-      "thumbnail": "https://media.guim.co.uk/ca878fbbc44262488e17664fb0f9aae063af179b/458_0_4583_3667/500.jpg",
-      "published": "2026-04-30T07:13:04Z",
-      "location": {
-        "name": "Damascus",
-        "lat": 33.5138,
-        "lng": 36.2765
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "australia-news"
-    },
-    {
-      "id": "football/ng-interactive/2026/apr/30/the-13bn-world-cup-how-the-numbers-stack-up-on-fifas-2026-balance-sheet",
-      "headline": "The $13bn World Cup: how the numbers stack up on Fifa’s 2026 balance sheet",
-      "summary": "2026 World Cup in US, Mexico, Canada becomes most lucrative sporting event in history.",
-      "url": "https://www.theguardian.com/p/x5vc45",
-      "thumbnail": "https://media.guim.co.uk/ac7238ee6f0c95f1abb021bd5de144ebb41db3e9/0_0_3160_2527/500.jpg",
-      "published": "2026-04-30T07:00:16Z",
-      "location": {
-        "name": "United States",
-        "lat": 37.0902,
-        "lng": -95.7129
-      },
-      "category": "sport",
-      "significance": 4,
-      "section": "football"
-    },
-    {
-      "id": "commentisfree/2026/apr/30/britain-economy-stuck-tension-bond-markets",
-      "headline": "Why is Britain’s economy so stuck? It’s the tension between what voters want and what the bond markets allow",
-      "summary": "UK economy constrained by bond market tensions amid voter discontent with major parties.",
-      "url": "https://www.theguardian.com/p/x5vcd2",
-      "thumbnail": "https://media.guim.co.uk/ef8dc00c948f23fed58143cca733b350ae79e12a/0_0_4549_3640/500.jpg",
-      "published": "2026-04-30T07:00:12Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "commentisfree"
-    },
-    {
-      "id": "football/2026/apr/30/john-terry-joins-ranks-of-footballs-radicalised",
-      "headline": "Captain. Leader. Far-right sympathiser. Terry joins ranks of football’s radicalised",
-      "summary": "John Terry's far-right sympathies highlight pipeline of radicalised footballers.",
-      "url": "https://www.theguardian.com/p/x5vdat",
-      "thumbnail": "https://media.guim.co.uk/6b7e10806e64d12884b5462970d6e0ffead7bfdf/430_0_5000_4000/500.jpg",
-      "published": "2026-04-30T07:00:12Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "sport/2026/apr/30/county-cricket-new-substitute-rules-lancashire",
-      "headline": "Trial or error? Lancashire bear brunt as county game adjusts to new substitute rules",
-      "summary": "Lancashire cricket bears brunt of new substitute rules trial at Old Trafford.",
-      "url": "https://www.theguardian.com/p/x5vbtg",
-      "thumbnail": "https://media.guim.co.uk/2cd2e993ea8f51138752a2cf124d42bb11800324/49_0_2250_1800/500.jpg",
-      "published": "2026-04-30T07:00:11Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4808,
-        "lng": -2.2426
-      },
-      "category": "sport",
-      "significance": 1,
-      "section": "sport"
-    },
-    {
-      "id": "stage/2026/apr/30/strip-club-drama-tender-dave-harris",
-      "headline": "‘Infinite pleasure’: the strip club drama that leaves you horny, vulnerable – and dialling your parents",
-      "summary": "Tender explores male stripping culture and power dynamics in London theatre.",
-      "url": "https://www.theguardian.com/p/x4q74h",
-      "thumbnail": "https://media.guim.co.uk/42573ecb1bb3284327732dc5a21ac47afe3ac3f0/1413_372_2571_2058/500.jpg",
-      "published": "2026-04-30T07:00:11Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "stage"
-    },
-    {
-      "id": "football/2026/apr/30/from-shankly-v-revie-to-the-ghost-goal-all-english-european-semi-finals",
-      "headline": "From Shankly v Revie to the ‘ghost goal’: all-English European semi-finals",
-      "summary": "Nottingham Forest faces Aston Villa in Europa League; review of all-English European semi-finals.",
-      "url": "https://www.theguardian.com/p/x5v23g",
-      "thumbnail": "https://media.guim.co.uk/a6b68ad1a85d40860b7719b7db9c408dff2d69b1/0_0_5000_4000/500.jpg",
-      "published": "2026-04-30T07:00:11Z",
-      "location": {
-        "name": "Liverpool",
-        "lat": 53.4084,
-        "lng": -2.9916
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "stage/2026/apr/30/giffords-circus-nell-toti-cal-mccrystal-waterfield",
-      "headline": "‘My God, it’s a panic attack to watch’: Giffords Circus on its most dangerous show yet",
-      "summary": "Giffords Circus returns with dangerous Waterfield performance featuring Wheel of Death.",
-      "url": "https://www.theguardian.com/p/x4yn4q",
-      "thumbnail": "https://media.guim.co.uk/f37bc763f38c3cac43dc8ab463d13ae66689fe95/0_0_2917_2333/500.jpg",
-      "published": "2026-04-30T07:00:10Z",
-      "location": {
-        "name": "Gloucestershire",
-        "lat": 51.8642,
-        "lng": -2.2425
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "stage"
-    },
-    {
-      "id": "environment/2026/apr/30/rspb-cautiously-welcomes-slight-increase-in-uk-nightingale-population",
-      "headline": "Sounds of hope in Kent as more nightingales join dawn chorus",
-      "summary": "RSPB records slight increase in UK nightingale population at Northward Hill despite habitat loss.",
-      "url": "https://www.theguardian.com/p/x5v7m9",
-      "thumbnail": "https://media.guim.co.uk/a1848d80fa5cf928483d1cfe979d39db470368e2/520_0_5468_4375/500.jpg",
-      "published": "2026-04-30T06:53:26Z",
-      "location": {
-        "name": "Kent",
-        "lat": 51.2746,
-        "lng": 0.8908
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "environment"
     },
     {
       "id": "world/live/2026/apr/30/europe-germany-troops-trump-threat-iran-eu-france-latest-news-updates",
@@ -1126,6 +854,182 @@
       "category": "politics",
       "significance": 3,
       "section": "us-news"
+    },
+    {
+      "id": "business/live/2026/may/01/uk-house-prices-natwest-profits-iran-war-oil-price-trump-bank-of-england-ftse-100-business-live",
+      "headline": "UK house prices in surprise increase; NatWest braces for slowing economy – business live",
+      "summary": "UK house prices rise 0.4% in April; NatWest sets aside £140m amid economic slowdown.",
+      "url": "https://www.theguardian.com/p/x5vmvv",
+      "thumbnail": "https://media.guim.co.uk/afe313b09f7eaf84fce8755af436496300ee53ff/371_0_4014_3212/500.jpg",
+      "published": "2026-05-01T07:12:45Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "society/2026/may/01/un-warns-women-in-public-life-face-increasingly-sophisticated-online-violence",
+      "headline": "UN warns women in public life face increasingly sophisticated online violence ",
+      "summary": "UN Women warns of sophisticated AI-assisted online violence targeting women in public life.",
+      "url": "https://www.theguardian.com/p/x5vtmc",
+      "thumbnail": "https://media.guim.co.uk/260c9aca4a334541fc27f0dacb7de931beacd76f/218_0_2564_2051/500.jpg",
+      "published": "2026-05-01T07:00:42Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "society"
+    },
+    {
+      "id": "sport/2026/may/01/chess-england-fail-to-win-senior-team-world-medals-first-time-five-years",
+      "headline": "Chess: England fail to win senior team world medals for first time in five years",
+      "summary": "England finishes out of medals for first time in five years at world senior chess championships.",
+      "url": "https://www.theguardian.com/p/x5vhyv",
+      "thumbnail": "https://media.guim.co.uk/b98c879b189bd17bd59199654131cb20bdcfee18/123_209_3070_2456/500.jpg",
+      "published": "2026-05-01T07:00:41Z",
+      "location": {
+        "name": "Durrës",
+        "lat": 41.3155,
+        "lng": 19.4504
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "music/2026/may/01/chaotic-future-indie-music-labels-sub-pop-rough-trade",
+      "headline": "‘Major labels are trying to scoop up everything’: the chaotic future for indie music companies – and why vinyl isn’t working",
+      "summary": "Indie music labels Sub Pop and Rough Trade face streaming challenges on milestone anniversaries.",
+      "url": "https://www.theguardian.com/p/x5v242",
+      "thumbnail": "https://media.guim.co.uk/726a2d9ac95f2097e37e390c1a2292c306c7b80d/535_0_4690_3752/500.jpg",
+      "published": "2026-05-01T07:00:41Z",
+      "location": {
+        "name": "Seattle",
+        "lat": 47.6062,
+        "lng": -122.3321
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "music"
+    },
+    {
+      "id": "commentisfree/2026/may/01/uk-biobank-data-china-breach-longitudinal-study-benefits",
+      "headline": "UK Biobank has my data, but I’m not worried. I know the benefits are too great to consider pulling out",
+      "summary": "UK Biobank data breach in China highlights benefits and risks of longitudinal health studies.",
+      "url": "https://www.theguardian.com/p/x5vt38",
+      "thumbnail": "https://media.guim.co.uk/339d2310f800b30371d09c54fd62322e876cd63b/436_201_2689_2152/500.jpg",
+      "published": "2026-05-01T07:00:41Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "commentisfree"
+    },
+    {
+      "id": "football/2026/may/01/womens-super-league-fixture-list-chaos",
+      "headline": "‘You have to laugh or you’d cry’: the fixture list challenges facing women’s football",
+      "summary": "Women's Super League faces fixture scheduling challenges amid stadium sharing and broadcast conflicts.",
+      "url": "https://www.theguardian.com/p/x5vj6d",
+      "thumbnail": "https://media.guim.co.uk/c1846e360562763fdc4d46e922b29b901ae30c09/0_0_4477_3582/500.jpg",
+      "published": "2026-05-01T07:00:40Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "stage/2026/may/01/festival-of-britain-south-bank-london-theatre-75-years",
+      "headline": "As a schoolboy, I was dazzled by the Festival of Britain – but it revealed a divided nation",
+      "summary": "Festival of Britain retrospective marks 75 years since 1951 cultural showcase on South Bank.",
+      "url": "https://www.theguardian.com/p/x4z694",
+      "thumbnail": "https://media.guim.co.uk/94311d94796999e06fef6a249970794cac887edf/34_194_2075_1660/500.jpg",
+      "published": "2026-05-01T07:00:40Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "stage"
+    },
+    {
+      "id": "sport/2026/may/01/robo-athletes-robots-sport-ai-technology",
+      "headline": "Robo athletes miss the point of sport – there is no drama without emotion",
+      "summary": "Robots competing in sports lack emotional drama that defines human athletic competition.",
+      "url": "https://www.theguardian.com/p/x5vhzp",
+      "thumbnail": "https://media.guim.co.uk/b49c09fed712b471a1dee1cdfa649bec875542cb/42_0_5841_4672/500.jpg",
+      "published": "2026-05-01T07:00:39Z",
+      "location": {
+        "name": "Tokyo",
+        "lat": 35.6762,
+        "lng": 139.6503
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "australia-news/2026/may/01/israel-intercepted-gaza-flotilla-navy-release-australians-greece-ntwnfb",
+      "headline": "Israel navy to release six Australians in Greece after intercepting Gaza flotilla",
+      "summary": "Israel releases six Australians detained during Gaza aid flotilla interception off Crete.",
+      "url": "https://www.theguardian.com/p/x5vyhm",
+      "thumbnail": "https://media.guim.co.uk/fdfde91a094e4ec9b64eaf6f2292ba413030c504/110_0_876_701/500.jpg",
+      "published": "2026-05-01T06:43:02Z",
+      "location": {
+        "name": "Crete",
+        "lat": 35.3387,
+        "lng": 25.1615
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "world/2026/may/01/friday-briefing-how-rising-antisemitism-is-striking-fear-into-the-everyday-lives-of-british-jews",
+      "headline": "Friday briefing: How rising antisemitism is striking fear into the everyday lives of British Jews",
+      "summary": "Rising antisemitism strikes fear into British Jewish community after Golders Green knife attack.",
+      "url": "https://www.theguardian.com/p/x5vhv2",
+      "thumbnail": "https://media.guim.co.uk/e090a0eb272e4efef06c9d4cf52344029e0ebac7/1655_376_5800_4643/500.jpg",
+      "published": "2026-05-01T06:18:58Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "australia-news/2026/may/01/nsw-deaths-custody-record-number-ntwnfb",
+      "headline": "‘Profoundly distressing’: record number of deaths in custody and police operations in NSW",
+      "summary": "NSW records 66 deaths in custody and police operations in 2025, up 18 from previous year.",
+      "url": "https://www.theguardian.com/p/x5vy32",
+      "thumbnail": "https://media.guim.co.uk/36475c025f51818be6a2420895f45864a5c236f2/716_0_3540_2832/500.jpg",
+      "published": "2026-05-01T06:15:57Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "australia-news"
     }
   ]
 }
