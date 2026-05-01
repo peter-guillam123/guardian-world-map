@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-05-01T19:57:46.303Z",
-    "story_count": 94,
-    "oldest_story": "2026-04-30T20:34:10Z",
-    "newest_story": "2026-05-01T19:20:00Z",
+    "generated_at": "2026-05-01T21:03:47.997Z",
+    "story_count": 95,
+    "oldest_story": "2026-04-30T21:04:03Z",
+    "newest_story": "2026-05-01T20:58:29Z",
     "window_hours": 24
   },
   "stories": [
@@ -118,38 +118,6 @@
       "category": "sport",
       "significance": 2,
       "section": "football"
-    },
-    {
-      "id": "us-news/2026/apr/30/fisa-warrantless-spying-renewal-congress",
-      "headline": "US Congress passes short-term renewal of Fisa warrantless spying powers",
-      "summary": "Congress approves 45-day extension of FISA warrantless spying powers amid reform calls.",
-      "url": "https://www.theguardian.com/p/x5vjy8",
-      "thumbnail": "https://media.guim.co.uk/fb00b35d8414e4f9efdc56ea33c7017a5684e5fd/442_0_4423_3538/500.jpg",
-      "published": "2026-04-30T20:57:23Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/apr/30/supreme-court-voting-rights-ruling-explainer",
-      "headline": "What is the US supreme court’s voting rights ruling about and will it affect midterms?",
-      "summary": "Supreme Court rules 6-3 in Louisiana v Callais, weakening Voting Rights Act protections.",
-      "url": "https://www.theguardian.com/p/x5vt6f",
-      "thumbnail": "https://media.guim.co.uk/75bc363a1957f3c9ba3319b5200bede22382829e/333_0_3333_2667/500.jpg",
-      "published": "2026-04-30T20:34:10Z",
-      "location": {
-        "name": "New Orleans",
-        "lat": 29.9511,
-        "lng": -90.2623
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
     },
     {
       "id": "business/live/2026/may/01/uk-house-prices-natwest-profits-iran-war-oil-price-trump-bank-of-england-ftse-100-business-live",
@@ -1510,6 +1478,54 @@
       "category": "conflict",
       "significance": 3,
       "section": "uk-news"
+    },
+    {
+      "id": "football/2026/may/01/leeds-burnley-premier-league-match-report",
+      "headline": "Calvert-Lewin eases Leeds to verge of safety with victory over relegated Burnley",
+      "summary": "Leeds secure Premier League survival with 3-1 victory over relegated Burnley.",
+      "url": "https://www.theguardian.com/p/x5vzj3",
+      "thumbnail": "https://media.guim.co.uk/89737878b3b1ae378b13c4b24708a382a56650e5/190_0_2212_1770/500.jpg",
+      "published": "2026-05-01T20:58:29Z",
+      "location": {
+        "name": "Leeds",
+        "lat": 53.8178,
+        "lng": -1.5374
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "sport/2026/may/01/miami-grand-prix-mercedes-f1",
+      "headline": "Lightning threat looms over Miami as F1 returns with upgraded cars and new rules",
+      "summary": "F1 season resumes at Miami Grand Prix with upgraded cars and new regulations.",
+      "url": "https://www.theguardian.com/p/x5vp23",
+      "thumbnail": "https://media.guim.co.uk/1822efb97c2b2878b837ce3127a89b13c6016f5c/997_0_5000_4000/500.jpg",
+      "published": "2026-05-01T20:19:11Z",
+      "location": {
+        "name": "Miami",
+        "lat": 25.7617,
+        "lng": -80.1918
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "sport"
+    },
+    {
+      "id": "science/2026/may/01/roman-gravestone-new-orleans-returned-italy",
+      "headline": "Ancient Roman gravestone found in New Orleans back yard returned to Italy",
+      "summary": "Nearly 2,000-year-old Roman gravestone found in New Orleans returned to Italy.",
+      "url": "https://www.theguardian.com/p/x5vp27",
+      "thumbnail": "https://media.guim.co.uk/3e5c92149008d63b71731837f08c915002503874/0_66_5191_4152/500.jpg",
+      "published": "2026-05-01T20:11:18Z",
+      "location": {
+        "name": "Rome",
+        "lat": 41.9028,
+        "lng": 12.4964
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "science"
     }
   ]
 }
