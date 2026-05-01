@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-05-01T22:03:09.932Z",
-    "story_count": 92,
+    "generated_at": "2026-05-01T23:05:18.160Z",
+    "story_count": 95,
     "oldest_story": "2026-05-01T06:15:57Z",
-    "newest_story": "2026-05-01T21:54:38Z",
+    "newest_story": "2026-05-01T22:55:17Z",
     "window_hours": 24
   },
   "stories": [
@@ -1478,6 +1478,54 @@
       "category": "conflict",
       "significance": 4,
       "section": "world"
+    },
+    {
+      "id": "us-news/2026/apr/30/us-military-bases-germany-trump-threat-cut-numbers",
+      "headline": "Why does the US have military bases in Germany?",
+      "summary": "Trump withdraws 5,000 US troops from Germany amid tensions with German chancellor over Iran policy.",
+      "url": "https://www.theguardian.com/p/x5vh4g",
+      "thumbnail": "https://media.guim.co.uk/d38c9dab412b3520c5b972b7e76010ff7df020c4/410_0_5050_4043/500.jpg",
+      "published": "2026-05-01T22:55:17Z",
+      "location": {
+        "name": "Germany",
+        "lat": 51.1657,
+        "lng": 10.4515
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "australia-news/2026/may/02/five-great-reads-the-ai-hackers-life-as-a-sex-writer-and-the-real-secret-to-decluttering",
+      "headline": "Five Great Reads: the AI hackers, life as a sex writer and the real secret to decluttering",
+      "summary": "Guardian Australia's weekend reading recommendations featuring AI, writing, and decluttering stories.",
+      "url": "https://www.theguardian.com/p/x5veg9",
+      "thumbnail": "https://media.guim.co.uk/88cb1514f9d08857f83747cf9de9c5cb06301821/299_1078_6440_5154/500.jpg",
+      "published": "2026-05-01T22:19:48Z",
+      "location": {
+        "name": "Australia",
+        "lat": -25.2744,
+        "lng": 133.7751
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "australia-news"
+    },
+    {
+      "id": "football/2025/sep/15/premier-league-top-scorers-2025-26-who-is-leading-race-for-golden-boot",
+      "headline": "Premier League top scorers 2025-26: who is leading race for golden boot?",
+      "summary": "Premier League top scorers 2025-26: Erling Haaland leads with 24 goals in golden boot race.",
+      "url": "https://www.theguardian.com/p/x386fa",
+      "thumbnail": "https://media.guim.co.uk/25a17f223afb3ce61b02e0706e23edf6834f9b81/148_0_1905_1524/500.jpg",
+      "published": "2026-05-01T22:08:41Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
     }
   ]
 }
