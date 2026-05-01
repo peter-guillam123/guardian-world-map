@@ -1,60 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-01T17:43:20.858Z",
-    "story_count": 87,
-    "oldest_story": "2026-04-30T17:44:07Z",
-    "newest_story": "2026-05-01T17:42:03Z",
+    "generated_at": "2026-05-01T18:48:13.616Z",
+    "story_count": 88,
+    "oldest_story": "2026-04-30T20:34:10Z",
+    "newest_story": "2026-05-01T18:38:28Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "us-news/live/2026/apr/30/supreme-court-voting-rights-act-ruling-louisiana-primary-election-live",
-      "headline": "Trump says Tennessee governor working to ‘give us one extra seat’ as states race to redraw congressional maps – live",
-      "summary": "Trump comments on redistricting as Louisiana postpones primaries after Supreme Court Voting Rights Act ruling.",
-      "url": "https://www.theguardian.com/p/x5vtff",
-      "thumbnail": "https://media.guim.co.uk/3782563224e5a7a0e34a1b3ab3f9063f8d60ac29/177_0_3333_2667/500.jpg",
-      "published": "2026-04-30T17:51:45Z",
-      "location": {
-        "name": "Louisiana",
-        "lat": 31.1695,
-        "lng": -91.8749
-      },
-      "category": "politics",
-      "significance": 4,
-      "section": "us-news"
-    },
-    {
-      "id": "uk-news/commentisfree/2026/apr/30/golders-green-british-jews-government-police-society",
-      "headline": "After Golders Green, this is what British Jews need from the government, the police – and the rest of society ",
-      "summary": "British Jews face escalating attacks including Golders Green stabbing; national security emergency declared.",
-      "url": "https://www.theguardian.com/p/x5vtcf",
-      "thumbnail": "https://media.guim.co.uk/516c2ebc57bc752f72c61fecab3e6f7ea7abb3b3/517_99_3276_2621/500.jpg",
-      "published": "2026-04-30T17:49:29Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "uk-news"
-    },
-    {
-      "id": "artanddesign/2026/apr/30/georg-baselitz-obituary",
-      "headline": "Georg Baselitz obituary",
-      "summary": "Georg Baselitz, influential postwar German painter and sculptor, dies after 60-year controversial career.",
-      "url": "https://www.theguardian.com/p/x5vj4f",
-      "thumbnail": "https://media.guim.co.uk/2eb0f2103333b66c273b9a56851ef14254833dd0/435_274_2155_1723/500.jpg",
-      "published": "2026-04-30T17:44:07Z",
-      "location": {
-        "name": "Germany",
-        "lat": 51.1657,
-        "lng": 10.4515
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "artanddesign"
-    },
     {
       "id": "australia-news/live/2026/may/01/alice-springs-anthony-albanese-labor-angus-taylor-coalition-gaza-flotilla-politics-updates-ntwnfb",
       "headline": "Australia news live: housing market slows but rents surge; Penny Wong hails South Korea energy pact",
@@ -1398,6 +1350,70 @@
       "category": "conflict",
       "significance": 2,
       "section": "world"
+    },
+    {
+      "id": "us-news/2026/may/01/louisiana-jeff-landry-election-suspension",
+      "headline": "Voting rights groups sue to block Louisiana from suspending primary elections",
+      "summary": "ACLU sues to block Louisiana governor's suspension of congressional primary elections.",
+      "url": "https://www.theguardian.com/p/x5vzta",
+      "thumbnail": "https://media.guim.co.uk/e5f3fb2e4390132d81d096231228010bcced3562/694_0_6912_5533/500.jpg",
+      "published": "2026-05-01T18:38:28Z",
+      "location": {
+        "name": "Louisiana",
+        "lat": 31.1695,
+        "lng": -91.8749
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/may/01/the-talk-premier-league-tottenham-liverpool-manchester-united",
+      "headline": "Premier League news: De Zerbi tells Spurs ‘only losers cry’; Carrick savours Liverpool clash",
+      "summary": "Premier League: De Zerbi addresses Spurs injury concerns ahead of Villa Park clash.",
+      "url": "https://www.theguardian.com/p/x5vnkx",
+      "thumbnail": "https://media.guim.co.uk/a20712667fd14a7ecd4fda527880101bd441db59/314_0_3137_2509/500.jpg",
+      "published": "2026-05-01T18:16:49Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "politics/2026/may/01/keir-starmer-condemns-zack-polanski-sharing-post-criticising-police-golders-green-stabbings",
+      "headline": "Starmer says Polanski ‘is not fit to lead a political party’ after Golders Green police criticism",
+      "summary": "PM condemns Green Party leader Polanski over post critical of police in Golders Green stabbing.",
+      "url": "https://www.theguardian.com/p/x5vz8h",
+      "thumbnail": "https://media.guim.co.uk/553e5f891678d9588f16be5862a8bdf2a80b2ccf/0_0_5000_4000/500.jpg",
+      "published": "2026-05-01T18:09:34Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "sport/2026/may/01/middlesex-golden-years-gone-county-cricket-lords",
+      "headline": "‘Acceptance of mediocrity’: Middlesex gaze south enviously with golden years long gone",
+      "summary": "Middlesex county cricket faces decline with no title in decade amid player departures.",
+      "url": "https://www.theguardian.com/p/x5vnqd",
+      "thumbnail": "https://media.guim.co.uk/0dd6a9e4383b42c702dc69b3042d4edf2065b730/820_0_4283_3427/500.jpg",
+      "published": "2026-05-01T18:00:02Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
     }
   ]
 }
