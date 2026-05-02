@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-05-02T00:03:22.902Z",
-    "story_count": 95,
+    "generated_at": "2026-05-02T03:47:55.726Z",
+    "story_count": 97,
     "oldest_story": "2026-05-01T06:15:57Z",
-    "newest_story": "2026-05-01T22:55:17Z",
+    "newest_story": "2026-05-02T03:33:19Z",
     "window_hours": 24
   },
   "stories": [
@@ -1526,6 +1526,38 @@
       "category": "sport",
       "significance": 2,
       "section": "football"
+    },
+    {
+      "id": "stage/2026/may/02/the-glass-menagerie-review-tennessee-williams-delicate-classic-is-stomped-on-for-laughs",
+      "headline": "The Glass Menagerie review – Tennessee Williams’ delicate classic is stomped on for laughs",
+      "summary": "Theatre review of The Glass Menagerie at Melbourne Theatre Company criticizes directorial approach.",
+      "url": "https://www.theguardian.com/p/x5vmv5",
+      "thumbnail": "https://media.guim.co.uk/3b68547154c210014624c3e985c0dda9aa8ecdca/658_0_6827_5464/500.jpg",
+      "published": "2026-05-02T03:33:19Z",
+      "location": {
+        "name": "Melbourne",
+        "lat": -37.8136,
+        "lng": 144.9631
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "stage"
+    },
+    {
+      "id": "world/2026/may/02/ukraine-war-briefing-russian-oil-hub-of-tuapse-hit-for-fourth-time-as-environmental-disaster-mounts",
+      "headline": "Ukraine war briefing: Russian oil hub of Tuapse hit for fourth time as environmental disaster mounts",
+      "summary": "Ukrainian drones strike Russian Black Sea oil refinery, causing environmental disaster and toxic pollution.",
+      "url": "https://www.theguardian.com/p/x5vq42",
+      "thumbnail": "https://media.guim.co.uk/acfed1e81fb5940663c06e3553662aa8db4ba827/437_0_2074_1659/500.jpg",
+      "published": "2026-05-02T02:50:43Z",
+      "location": {
+        "name": "Tuapse",
+        "lat": 44.1075,
+        "lng": 39.0821
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "world"
     }
   ]
 }
