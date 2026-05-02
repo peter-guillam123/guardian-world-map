@@ -1,252 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-02T14:37:21.190Z",
-    "story_count": 102,
-    "oldest_story": "2026-05-01T14:39:15Z",
-    "newest_story": "2026-05-02T14:20:15Z",
+    "generated_at": "2026-05-02T15:31:44.676Z",
+    "story_count": 90,
+    "oldest_story": "2026-05-01T15:38:59Z",
+    "newest_story": "2026-05-02T15:30:07Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "us-news/2026/may/01/king-charles-trump-visit",
-      "headline": "Charles tamed Trump while rebuking Trumpism in ego-flattering masterstroke",
-      "summary": "King Charles III skillfully navigates Trump visit, appealing to both Republicans and Democrats on rules-based order.",
-      "url": "https://www.theguardian.com/p/x5vj25",
-      "thumbnail": "https://media.guim.co.uk/22d5f15cf2c1c98c28d414f901876a3175d16e3a/209_0_2091_1673/500.jpg",
-      "published": "2026-05-01T14:39:15Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "business/2026/may/01/octopus-energy-boss-blackouts-bills",
-      "headline": "Octopus Energy boss: some people would accept blackouts if bills cut",
-      "summary": "Octopus Energy boss suggests households might accept blackouts for lower energy bills.",
-      "url": "https://www.theguardian.com/p/x5vmnv",
-      "thumbnail": "https://media.guim.co.uk/73613d2270c68e3f1066f93ec0ba5cb619dc7a2e/1267_50_2959_2367/500.jpg",
-      "published": "2026-05-01T15:29:03Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "world/2026/may/01/pakistan-backchannel-us-iran-deal-peace",
-      "headline": "Iran offers new peace proposal to US in attempt to end deadlock ",
-      "summary": "Iran passes new peace proposal through Pakistan mediators to end US deadlock.",
-      "url": "https://www.theguardian.com/p/x5vmba",
-      "thumbnail": "https://media.guim.co.uk/40043cc52ff6d0a2115c0ba33b75c87639d33311/1375_13_5835_4668/500.jpg",
-      "published": "2026-05-01T15:25:11Z",
-      "location": {
-        "name": "Tehran",
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "football/2026/may/01/ipswich-millwall-middlesbrough-championship-promotion-final-day",
-      "headline": "Ipswich, Millwall and Boro face fight for promotion in crunch Championship finale",
-      "summary": "Ipswich, Millwall and Middlesbrough battle for promotion in Championship final day.",
-      "url": "https://www.theguardian.com/p/x5vnzt",
-      "thumbnail": "https://media.guim.co.uk/374efce13afe8aa8757981a0b0f00986a87e301b/0_0_5000_4000/500.jpg",
-      "published": "2026-05-01T15:24:11Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "australia-news/2026/may/01/gun-licence-applications-bondi-shooting-buyback-albanese-australia-safer-ntwnfb",
-      "headline": "Demand for guns has surged in the wake of Bondi – what will it take to make Australia safer?",
-      "summary": "Gun licence applications surge after Bondi shooting as premiers reject federal buyback scheme.",
-      "url": "https://www.theguardian.com/p/x5vkjy",
-      "thumbnail": "https://media.guim.co.uk/c6b779aac39bdd10b2f3bd77bd07aee78b93ec9a/387_0_5108_4086/500.jpg",
-      "published": "2026-05-01T15:10:45Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "artanddesign/2026/may/01/ukraine-concrete-deer-venice-biennale",
-      "headline": "‘It has become a symbol of hope’: the epic journey of Ukraine’s origami deer to the Venice biennale",
-      "summary": "Ukrainian concrete deer sculpture travels to Venice Biennale as symbol of hope post-invasion.",
-      "url": "https://www.theguardian.com/p/x5vnv2",
-      "thumbnail": "https://media.guim.co.uk/899028d5d5c512f0da926ee46df04083b5a10ddf/497_0_4974_3981/500.jpg",
-      "published": "2026-05-01T15:10:08Z",
-      "location": {
-        "name": "Venice",
-        "lat": 45.4408,
-        "lng": 12.3155
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "artanddesign"
-    },
-    {
-      "id": "politics/2026/may/01/zack-polanski-apologises-criticising-police-golders-green-stabbings",
-      "headline": "Zack Polanski apologises for sharing tweet criticising police at Golders Green stabbings",
-      "summary": "Green Party leader Zack Polanski apologises for criticising police response to Golders Green stabbings.",
-      "url": "https://www.theguardian.com/p/x5vnqa",
-      "thumbnail": "https://media.guim.co.uk/a12bcfeecf98a81911ab7a95556b55af2be08a6c/173_0_4456_3565/500.jpg",
-      "published": "2026-05-01T15:08:33Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 1,
-      "section": "politics"
-    },
-    {
-      "id": "australia-news/2026/may/01/anthony-albanese-says-improving-voters-lives-best-way-to-fight-rightwing-populism-and-pauline-hanson",
-      "headline": "Anthony Albanese says improving voters’ lives best way to fight rightwing populism and Pauline Hanson ",
-      "summary": "Albanese says improving voters' lives best way to fight populism as childcare expansion planned.",
-      "url": "https://www.theguardian.com/p/x5vy4p",
-      "thumbnail": "https://media.guim.co.uk/a226f7831ee1581aa0574f8ca6e4f76a09cdd117/0_1120_2362_1890/500.jpg",
-      "published": "2026-05-01T15:03:47Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "australia-news/2026/may/02/kumanjayi-little-baby-alice-springs-grief-loss-trauma-ntwnfb",
-      "headline": "Kumanjayi Little Baby: desperate hope, grief and a loss that’s ‘too traumatising to talk about’",
-      "summary": "Death of five-year-old Warlpiri girl sends Alice Springs community into deep grief.",
-      "url": "https://www.theguardian.com/p/x5vycd",
-      "thumbnail": "https://media.guim.co.uk/ba2de6da488a69bbb1e9366f9c890097d10e5b8a/0_0_3966_3173/500.jpg",
-      "published": "2026-05-01T15:00:04Z",
-      "location": {
-        "name": "Alice Springs",
-        "lat": -23.7001,
-        "lng": 133.8807
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "business/2026/may/02/accc-v-woolworths-may-have-exposed-the-magic-of-supermarket-discounts-but-will-it-change-how-we-shop",
-      "headline": "ACCC v Woolworths may have exposed the ‘magic’ of supermarket discounts – but will it change how we shop?",
-      "summary": "ACCC trial exposes Woolworths' discount 'magic' and potential misleading pricing tactics.",
-      "url": "https://www.theguardian.com/p/x5v9tz",
-      "thumbnail": "https://media.guim.co.uk/c7988d55e0728692724c4aabb2ff8b1d172c6f35/436_0_2423_1938/500.jpg",
-      "published": "2026-05-01T15:00:03Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "australia-news/2026/may/02/24-hours-without-oil-based-products",
-      "headline": "I tried to live for 24 hours without using oil-based products. It was ridiculously impossible",
-      "summary": "Living oil-free for 24 hours proves impossible due to pervasive petrochemical dependency.",
-      "url": "https://www.theguardian.com/p/x5v5fz",
-      "thumbnail": "https://media.guim.co.uk/a17deeb71db0d96f274afbea0e0b3bd8ddeabf44/0_0_5000_4000/500.jpg",
-      "published": "2026-05-01T15:00:03Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "sport/blog/2026/may/01/zac-lomax-misfires-on-union-return-despite-hype-over-suaalii-duel",
-      "headline": "Zac Lomax misfires on union return despite hype over Suaalii duel",
-      "summary": "Lomax disappoints on rugby union return as Waratahs face Western Force in Super Rugby.",
-      "url": "https://www.theguardian.com/p/x5vkyc",
-      "thumbnail": "https://media.guim.co.uk/9cc948d51b099b477b8a8061c86328e7fb6ca722/914_0_4708_3769/500.jpg",
-      "published": "2026-05-01T15:00:01Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "sport",
-      "significance": 1,
-      "section": "sport"
-    },
-    {
-      "id": "stage/2026/may/01/ocean-brun-review-leicester-cathedral",
-      "headline": "Océan Brun review – Caribbean islanders’ lament ripples through Leicester Cathedral",
-      "summary": "Dance piece Océan Brun explores Caribbean sargassum crisis and climate change impacts.",
-      "url": "https://www.theguardian.com/p/x5vmhq",
-      "thumbnail": "https://media.guim.co.uk/cc64fd3365c4f7b3fcc0442d01d03e8fcb9f2a68/0_566_2622_2098/500.jpg",
-      "published": "2026-05-01T14:56:11Z",
-      "location": {
-        "name": "Leicester",
-        "lat": 52.6369,
-        "lng": -1.1398
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "stage"
-    },
-    {
-      "id": "us-news/2026/may/01/pentagon-us-military-pairs-with-spacex-google-openai",
-      "headline": "Pentagon inks deals with seven AI companies for classified military work",
-      "summary": "Pentagon signs AI contracts with OpenAI, Google, SpaceX, and others for classified military operations.",
-      "url": "https://www.theguardian.com/p/x5vn95",
-      "thumbnail": "https://media.guim.co.uk/8b5b81b3d7abbbb9a5a2c9375594df73f3b4e782/447_0_6827_5464/500.jpg",
-      "published": "2026-05-01T14:52:00Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "tech",
-      "significance": 4,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/may/01/georgia-ice-detention-death-cuban-immigrant",
-      "headline": "Cuban immigrant dies in Georgia detention center, ICE tells Congress",
-      "summary": "Cuban immigrant dies in Georgia ICE detention center, 18th custody death this year under investigation.",
-      "url": "https://www.theguardian.com/p/x5vnz6",
-      "thumbnail": "https://media.guim.co.uk/ccea9d24290b50235492899e2c1241c0993def7b/324_0_3083_2466/500.jpg",
-      "published": "2026-05-01T14:46:52Z",
-      "location": {
-        "name": "Georgia",
-        "lat": 33.0406,
-        "lng": -83.6431
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "us-news"
-    },
     {
       "id": "politics/2026/may/01/mps-foreign-office-cuts-international-law",
       "headline": "Foreign Office cuts will weaken oversight of international law, MPs warn",
@@ -1638,6 +1398,54 @@
       "category": "politics",
       "significance": 3,
       "section": "world"
+    },
+    {
+      "id": "football/live/2026/may/02/arsenal-v-fulham-premier-league-live",
+      "headline": "Arsenal v Fulham: Premier League – live",
+      "summary": "Arsenal faces Fulham in Premier League match at Emirates Stadium in title race push.",
+      "url": "https://www.theguardian.com/p/x5vd9g",
+      "thumbnail": "https://media.guim.co.uk/386c7dab46c6ed906a5dd2e80431ea75b8dc001a/524_0_4888_3910/500.jpg",
+      "published": "2026-05-02T15:30:07Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/may/02/ol-lyonnes-arsenal-womens-champions-league-match-report",
+      "headline": "Jule Brand shatters Arsenal with late winner sending OL Lyonnes into WCL final",
+      "summary": "OL Lyonnes beats Arsenal 3-1 to reach Women's Champions League final with late Brand goal.",
+      "url": "https://www.theguardian.com/p/x5vjz5",
+      "thumbnail": "https://media.guim.co.uk/212e42b9e7bc223ab69a430de85cf1bc22302336/81_0_2935_2348/500.jpg",
+      "published": "2026-05-02T15:27:14Z",
+      "location": {
+        "name": "Lyon",
+        "lat": 45.764,
+        "lng": 4.8357
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "environment/2026/may/03/bus-public-transport-cuts-groceries-snap",
+      "headline": "Two buses, three hours and 13 miles: how Americans in ‘transit deserts’ get groceries without cars",
+      "summary": "Transit cuts in US create food insecurity crisis as public bus services decline post-pandemic.",
+      "url": "https://www.theguardian.com/p/x5vjz6",
+      "thumbnail": "https://media.guim.co.uk/266b7e545722e44f3b4b24d4a1f5a104f8cabd6f/354_0_3493_2794/500.jpg",
+      "published": "2026-05-02T15:00:28Z",
+      "location": {
+        "name": "Memphis",
+        "lat": 35.1495,
+        "lng": -90.049
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "environment"
     }
   ]
 }
