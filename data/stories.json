@@ -1,172 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-02T11:10:08.517Z",
-    "story_count": 110,
-    "oldest_story": "2026-05-01T11:10:50Z",
-    "newest_story": "2026-05-02T11:00:26Z",
+    "generated_at": "2026-05-02T12:01:35.793Z",
+    "story_count": 104,
+    "oldest_story": "2026-05-01T13:40:53Z",
+    "newest_story": "2026-05-02T12:00:33Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "sport/live/2026/may/01/surrey-v-sussex-somerset-v-yorkshire-county-cricket-day-one-live",
-      "headline": "Surrey bolster Oval security, Somerset v Yorkshire, and more: county cricket, day one – live",
-      "summary": "County Championship cricket matches begin with Surrey bolstering Oval security.",
-      "url": "https://www.theguardian.com/p/x5vczf",
-      "thumbnail": "https://media.guim.co.uk/05b135580dd6aa251f7a5d06b0ab59547934ae13/45_0_2342_1873/500.jpg",
-      "published": "2026-05-01T11:37:18Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "us-news/2026/may/01/first-thing-trump-rift-germany-italy-spain-iran-war",
-      "headline": "First Thing: Trump doubles down on rift with Germany, Italy and Spain amid war on Iran",
-      "summary": "Trump threatens troop withdrawal from Italy and Spain amid Iran tensions.",
-      "url": "https://www.theguardian.com/p/x5vmdb",
-      "thumbnail": "https://media.guim.co.uk/e7ba55fb0ceb3e57b46effc362df36c1cfb224d5/1031_162_3937_3150/500.jpg",
-      "published": "2026-05-01T11:36:11Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/may/01/trump-threatens-withdraw-troops-italy-spain-strait-hormuz",
-      "headline": "Trump threatens to withdraw troops from Italy and Spain",
-      "summary": "Trump threatens to withdraw US troops from Italy over Iran war support.",
-      "url": "https://www.theguardian.com/p/x5vmfv",
-      "thumbnail": "https://media.guim.co.uk/bc652c2d515e516a026acfe14ecae7ff29d2922f/12_0_2560_2048/500.jpg",
-      "published": "2026-05-01T11:32:40Z",
-      "location": {
-        "name": "Rome",
-        "lat": 41.9028,
-        "lng": 12.4964
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "commentisfree/2026/may/01/vote-senedd-election-choose-plaid-cymru-wales-independence",
-      "headline": "If I could vote in next week’s Senedd election, I’d choose Plaid Cymru. Here’s why",
-      "summary": "Columnist advocates voting Plaid Cymru for Welsh independence in Senedd election.",
-      "url": "https://www.theguardian.com/p/x5vt46",
-      "thumbnail": "https://media.guim.co.uk/27010181ddb7458894992a2634c6070c6156a103/923_0_3531_2825/500.jpg",
-      "published": "2026-05-01T11:31:09Z",
-      "location": {
-        "name": "Cardiff",
-        "lat": 51.4816,
-        "lng": -3.1791
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "commentisfree"
-    },
-    {
-      "id": "politics/live/2026/may/01/golders-green-attack-zack-polanski-green-party-uk-politics-latest-news-updates",
-      "headline": "Met police chief denies ‘intervening in politics’ after open letter to Zack Polanski – UK politics live",
-      "summary": "Met police chief denies political interference after criticism over Golders Green suspect.",
-      "url": "https://www.theguardian.com/p/x5vma2",
-      "thumbnail": "https://media.guim.co.uk/f90606486ca61580c67d352782ecef3fe76bd1f8/1508_337_6412_5129/500.jpg",
-      "published": "2026-05-01T11:30:33Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "football/2026/may/01/charlton-birmingham-and-palace-braced-for-wsl2-finale-with-promotion-on-the-line",
-      "headline": "Charlton, Birmingham and Palace braced for WSL2 finale with promotion on the line",
-      "summary": "WSL2 final day features Charlton, Birmingham and Palace vying for two promotion spots.",
-      "url": "https://www.theguardian.com/p/x5vm4j",
-      "thumbnail": "https://media.guim.co.uk/af75b104e1fe7f58b22db16c1b95700a8ad2d4e0/0_0_5000_4000/500.jpg",
-      "published": "2026-05-01T11:30:27Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "world/live/2026/may/01/donald-trump-us-troops-italy-spain-germany-nato-europe-latest-news",
-      "headline": "Trump threatens to withdraw US troops from Italy and Spain – Europe live",
-      "summary": "Trump threatens troop withdrawal from Europe amid Iran war tensions and NATO friction.",
-      "url": "https://www.theguardian.com/p/x5vm6j",
-      "thumbnail": "https://media.guim.co.uk/11a69429d67b280004fd0b867bfb3388d9a4b3d0/885_765_6197_4958/500.jpg",
-      "published": "2026-05-01T11:26:57Z",
-      "location": {
-        "name": "Brussels",
-        "lat": 50.8503,
-        "lng": 4.3517
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "us-news/live/2026/may/01/us-war-iran-ceasefire-war-powers-oil-latest-news-updates",
-      "headline": "Trump administration rejects need for Iran war Congressional approval despite deadline – US politics live",
-      "summary": "Trump administration rejects Congressional approval need for Iran war despite deadline.",
-      "url": "https://www.theguardian.com/p/x5vmt4",
-      "thumbnail": "https://media.guim.co.uk/7662886d396b9d4e0ce399671e005c92b0d47e1c/792_0_7920_6336/500.jpg",
-      "published": "2026-05-01T11:26:36Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "music/2026/may/01/morales-lhomme-arme-masses-and-magnificat-secundi-toni-album-review-de-profundis-hollingworth",
-      "headline": "Morales: L’Homme Armé masses and Magnificat Secundi Toni album review – choral sounds of 16th-century Rome",
-      "summary": "De Profundis choir performs Morales Renaissance masses from 16th-century Rome.",
-      "url": "https://www.theguardian.com/p/x5vcat",
-      "thumbnail": "https://media.guim.co.uk/5fa8767c5f50b075332d9559eb6a6e1ec3cb1734/1103_616_4230_3384/500.jpg",
-      "published": "2026-05-01T11:15:06Z",
-      "location": {
-        "name": "Rome",
-        "lat": 41.9028,
-        "lng": 12.4964
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "music"
-    },
-    {
-      "id": "stage/2026/may/01/a-midsummer-nights-dream-review-globe-theatre-london",
-      "headline": "A Midsummer Night’s Dream review – hilarious and heartfelt, from top to Bottom",
-      "summary": "Emily Lim's joyful production of A Midsummer Night's Dream delights at Globe Theatre.",
-      "url": "https://www.theguardian.com/p/x5vmj7",
-      "thumbnail": "https://media.guim.co.uk/32f67de4532454bf8702b5751ad2f5dc87751d33/556_166_2746_2198/500.jpg",
-      "published": "2026-05-01T11:10:50Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "stage"
-    },
     {
       "id": "us-news/2026/may/01/king-charles-trump-visit",
       "headline": "Charles tamed Trump while rebuking Trumpism in ego-flattering masterstroke",
@@ -1766,6 +1606,70 @@
       "category": "economy",
       "significance": 2,
       "section": "football"
+    },
+    {
+      "id": "football/live/2026/may/02/championship-finale-ipswich-millwall-and-middlesbrough-vie-for-automatic-promotion-live",
+      "headline": "Championship finale: Ipswich, Millwall and Middlesbrough vie for automatic promotion – live",
+      "summary": "Championship finale: Ipswich, Millwall and Middlesbrough compete for automatic promotion.",
+      "url": "https://www.theguardian.com/p/x5vd3y",
+      "thumbnail": "https://media.guim.co.uk/97af5cd88b5895fd7b186b5f780d3f50f87a2954/641_20_2052_1642/500.jpg",
+      "published": "2026-05-02T12:00:33Z",
+      "location": {
+        "name": "England",
+        "lat": 52.6369,
+        "lng": -1.1398
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "sport/live/2026/may/02/horse-racing-2000-guineas-day-2026-live-news-and-updates",
+      "headline": "Horse racing: 2,000 Guineas day 2026 – live news and updates",
+      "summary": "2,000 Guineas horse racing day at Newmarket with 15-runner field led by Bow Echo.",
+      "url": "https://www.theguardian.com/p/x5vz3f",
+      "thumbnail": "https://media.guim.co.uk/798636ab4e29cb726193c4e2d86bcbd904330a4d/400_0_3537_2830/500.jpg",
+      "published": "2026-05-02T11:50:02Z",
+      "location": {
+        "name": "Newmarket",
+        "lat": 52.194,
+        "lng": 0.4049
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "environment/2026/may/02/humpback-whale-rescue-release-stranded-germany-baltic-coast",
+      "headline": "Rescuers release humpback whale that was stranded off German coast",
+      "summary": "Humpback whale calf rescued and released off German Baltic coast after stranding.",
+      "url": "https://www.theguardian.com/p/x5xx3e",
+      "thumbnail": "https://media.guim.co.uk/3c4c6658fb290f2ccd3dde8285ebe98449f0a8e4/172_0_465_372/master/465.jpg",
+      "published": "2026-05-02T11:38:52Z",
+      "location": {
+        "name": "Germany",
+        "lat": 51.1657,
+        "lng": 10.4515
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "environment"
+    },
+    {
+      "id": "culture/ng-interactive/2026/may/02/infowars-onion-tim-heidecker",
+      "headline": "‘We have to mock the site’s insanity’: comedian Tim Heidecker on the allure of becoming Infowars’ new boss",
+      "summary": "Comedian Tim Heidecker plans satirical takeover of Infowars website via The Onion.",
+      "url": "https://www.theguardian.com/p/x5vj2x",
+      "thumbnail": "https://media.guim.co.uk/4365f4cbdae7abe55a640e0ef5b7ab4be377eff5/0_556_3000_2398/500.jpg",
+      "published": "2026-05-02T11:00:26Z",
+      "location": {
+        "name": "United States",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "culture"
     }
   ]
 }
