@@ -1,76 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-02T21:10:27.669Z",
-    "story_count": 79,
-    "oldest_story": "2026-05-01T21:18:46Z",
-    "newest_story": "2026-05-02T20:33:56Z",
+    "generated_at": "2026-05-02T22:00:51.049Z",
+    "story_count": 76,
+    "oldest_story": "2026-05-01T22:08:41Z",
+    "newest_story": "2026-05-02T21:50:23Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "culture/2026/may/01/peter-kay-show-stopped-and-19-year-old-in-custody-after-suspicious-bag-found",
-      "headline": "Peter Kay show stopped and 19-year-old in custody after ‘suspicious bag’ found",
-      "summary": "Peter Kay comedy show evacuated after suspicious bag found at Birmingham arena.",
-      "url": "https://www.theguardian.com/p/x5vpdj",
-      "thumbnail": "https://media.guim.co.uk/c3416bf06381d9cee4988be68bf798369d1f273b/0_0_1989_1591/500.jpg",
-      "published": "2026-05-01T21:54:38Z",
-      "location": {
-        "name": "Birmingham",
-        "lat": 52.5086,
-        "lng": -1.8845
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "culture"
-    },
-    {
-      "id": "football/2026/may/01/psg-and-bayern-in-different-world-to-tired-premier-league-teams-says-arteta",
-      "headline": "PSG and Bayern in ‘different world’ to tired Premier League teams, says Arteta",
-      "summary": "Mikel Arteta says PSG and Bayern Munich operate in different league than tired Premier League teams.",
-      "url": "https://www.theguardian.com/p/x5vz8y",
-      "thumbnail": "https://media.guim.co.uk/5a1515507c89f934f7be228c9a14095f6fc0153d/570_91_5170_4134/500.jpg",
-      "published": "2026-05-01T21:31:07Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "sport/2026/may/01/leeds-wakefield-super-league-match-report",
-      "headline": "Sivo hat-trick keeps Leeds on top as they hold off Wakefield fightback",
-      "summary": "Leeds Rhinos defeat Wakefield Trinity 40-22 to maintain Super League top position.",
-      "url": "https://www.theguardian.com/p/x5vzj9",
-      "thumbnail": "https://media.guim.co.uk/4351eff8426caf6ce48150893ff89ab0e1067996/437_411_3762_3009/500.jpg",
-      "published": "2026-05-01T21:23:13Z",
-      "location": {
-        "name": "Leeds",
-        "lat": 53.8008,
-        "lng": -1.5491
-      },
-      "category": "sport",
-      "significance": 1,
-      "section": "sport"
-    },
-    {
-      "id": "world/2026/may/01/trump-iran-war-hostilities-letter",
-      "headline": "Trump claims hostilities have ended in Iran in letter to congressional leaders",
-      "summary": "Trump claims Iran hostilities ended, suggesting 60-day war approval deadline no longer applies.",
-      "url": "https://www.theguardian.com/p/x5vp5g",
-      "thumbnail": "https://media.guim.co.uk/6c9f1d353e3b395a3cfd3672466cd02056259bbe/560_0_5600_4480/500.jpg",
-      "published": "2026-05-01T21:18:46Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
     {
       "id": "us-news/2026/apr/30/us-military-bases-germany-trump-threat-cut-numbers",
       "headline": "Why does the US have military bases in Germany?",
@@ -1270,6 +1206,22 @@
       "category": "sport",
       "significance": 2,
       "section": "football"
+    },
+    {
+      "id": "sport/2026/may/02/kimi-antonelli-beats-max-verstappen-to-f1-miami-gp-pole-with-lando-norris-fourth",
+      "headline": "Kimi Antonelli beats Max Verstappen to F1 Miami GP pole with Lando Norris fourth",
+      "summary": "Kimi Antonelli takes Miami Grand Prix pole; Verstappen second, Norris fourth.",
+      "url": "https://www.theguardian.com/p/x5vk69",
+      "thumbnail": "https://media.guim.co.uk/69b92686d4afa01845bb090c843b46ff1a4a2c38/830_449_4098_3279/500.jpg",
+      "published": "2026-05-02T21:50:23Z",
+      "location": {
+        "name": "Miami",
+        "lat": 25.7617,
+        "lng": -80.1918
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
     }
   ]
 }
