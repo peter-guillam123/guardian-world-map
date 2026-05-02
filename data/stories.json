@@ -1,28 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-02T20:25:28.274Z",
-    "story_count": 78,
-    "oldest_story": "2026-05-01T20:58:29Z",
-    "newest_story": "2026-05-02T20:00:37Z",
+    "generated_at": "2026-05-02T21:10:27.669Z",
+    "story_count": 79,
+    "oldest_story": "2026-05-01T21:18:46Z",
+    "newest_story": "2026-05-02T20:33:56Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/2026/may/01/leeds-burnley-premier-league-match-report",
-      "headline": "Calvert-Lewin eases Leeds to verge of safety with victory over relegated Burnley",
-      "summary": "Leeds secure Premier League survival with 3-1 victory over relegated Burnley.",
-      "url": "https://www.theguardian.com/p/x5vzj3",
-      "thumbnail": "https://media.guim.co.uk/89737878b3b1ae378b13c4b24708a382a56650e5/190_0_2212_1770/500.jpg",
-      "published": "2026-05-01T20:58:29Z",
-      "location": {
-        "name": "Leeds",
-        "lat": 53.8178,
-        "lng": -1.5374
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
     {
       "id": "culture/2026/may/01/peter-kay-show-stopped-and-19-year-old-in-custody-after-suspicious-bag-found",
       "headline": "Peter Kay show stopped and 19-year-old in custody after ‘suspicious bag’ found",
@@ -1254,6 +1238,38 @@
       "category": "culture",
       "significance": 2,
       "section": "books"
+    },
+    {
+      "id": "world/2026/may/02/abortion-pill-emergency-appeal-supreme-court",
+      "headline": "Abortion pill maker asks US supreme court to halt ban on mail-order access",
+      "summary": "Abortion pill maker appeals to Supreme Court to block in-person exam requirement for mail-order access.",
+      "url": "https://www.theguardian.com/p/x5xxjj",
+      "thumbnail": "https://media.guim.co.uk/43e181758130d80db6d6448ef514952c8cf94795/476_0_4741_3795/500.jpg",
+      "published": "2026-05-02T20:33:56Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "health",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "football/2026/may/02/mikel-arteta-arsenal-fulham-premier-league-atletico-madrid",
+      "headline": "Arteta urges Arsenal to ‘use momentum’ from Fulham win in Atlético showdown",
+      "summary": "Arsenal beats Fulham 3-0, prepares for Atlético Madrid Champions League semi-final return leg.",
+      "url": "https://www.theguardian.com/p/x5vjnb",
+      "thumbnail": "https://media.guim.co.uk/540be67978ba88d23ba55b1ccbadeff79aff4975/440_0_2917_2333/500.jpg",
+      "published": "2026-05-02T20:30:59Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
     }
   ]
 }
