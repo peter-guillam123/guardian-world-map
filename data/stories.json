@@ -1,44 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-02T17:27:12.352Z",
-    "story_count": 79,
-    "oldest_story": "2026-05-01T17:27:14Z",
-    "newest_story": "2026-05-02T17:04:52Z",
+    "generated_at": "2026-05-02T18:30:57.878Z",
+    "story_count": 75,
+    "oldest_story": "2026-05-01T18:38:28Z",
+    "newest_story": "2026-05-02T18:05:33Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/live/2026/may/01/leeds-united-v-burnley-premier-league-live",
-      "headline": "Leeds United v Burnley: Premier League – live",
-      "summary": "Leeds United face relegated Burnley in Premier League match to secure second-year status.",
-      "url": "https://www.theguardian.com/p/x5vcn5",
-      "thumbnail": "https://media.guim.co.uk/3173264a605742efb99116d51d53ea19885b8b96/941_0_5670_4536/500.jpg",
-      "published": "2026-05-01T17:42:03Z",
-      "location": {
-        "name": "Leeds",
-        "lat": 53.7751,
-        "lng": -1.6384
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "law/2026/may/01/uk-defence-firm-ultra-electronics-bribery-settlement-sfo",
-      "headline": "UK defence firm Ultra Electronics to pay £15m after SFO bribery investigation",
-      "summary": "Ultra Electronics pays £15m to SFO for failing to prevent bribery in Algeria and Oman contracts.",
-      "url": "https://www.theguardian.com/p/x5vz8c",
-      "thumbnail": "https://media.guim.co.uk/590cc3d107a6853a0958d335253b367bca9d6a3b/333_0_3333_2667/500.jpg",
-      "published": "2026-05-01T17:27:14Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "law"
-    },
     {
       "id": "us-news/2026/may/01/louisiana-jeff-landry-election-suspension",
       "headline": "Voting rights groups sue to block Louisiana from suspending primary elections",
@@ -54,54 +22,6 @@
       "category": "politics",
       "significance": 3,
       "section": "us-news"
-    },
-    {
-      "id": "football/2026/may/01/the-talk-premier-league-tottenham-liverpool-manchester-united",
-      "headline": "Premier League news: De Zerbi tells Spurs ‘only losers cry’; Carrick savours Liverpool clash",
-      "summary": "Premier League: De Zerbi addresses Spurs injury concerns ahead of Villa Park clash.",
-      "url": "https://www.theguardian.com/p/x5vnkx",
-      "thumbnail": "https://media.guim.co.uk/a20712667fd14a7ecd4fda527880101bd441db59/314_0_3137_2509/500.jpg",
-      "published": "2026-05-01T18:16:49Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "politics/2026/may/01/keir-starmer-condemns-zack-polanski-sharing-post-criticising-police-golders-green-stabbings",
-      "headline": "Starmer says Polanski ‘is not fit to lead a political party’ after Golders Green police criticism",
-      "summary": "PM condemns Green Party leader Polanski over post critical of police in Golders Green stabbing.",
-      "url": "https://www.theguardian.com/p/x5vz8h",
-      "thumbnail": "https://media.guim.co.uk/553e5f891678d9588f16be5862a8bdf2a80b2ccf/0_0_5000_4000/500.jpg",
-      "published": "2026-05-01T18:09:34Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "sport/2026/may/01/middlesex-golden-years-gone-county-cricket-lords",
-      "headline": "‘Acceptance of mediocrity’: Middlesex gaze south enviously with golden years long gone",
-      "summary": "Middlesex county cricket faces decline with no title in decade amid player departures.",
-      "url": "https://www.theguardian.com/p/x5vnqd",
-      "thumbnail": "https://media.guim.co.uk/0dd6a9e4383b42c702dc69b3042d4edf2065b730/820_0_4283_3427/500.jpg",
-      "published": "2026-05-01T18:00:02Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
     },
     {
       "id": "us-news/2026/may/01/may-day-strong-economic-protests",
@@ -1266,6 +1186,22 @@
         "name": "Dublin",
         "lat": 53.3498,
         "lng": -6.2603
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "sport"
+    },
+    {
+      "id": "sport/2026/may/02/naoya-inoue-junto-nakatani-tokyo-fight",
+      "headline": "Naoya Inoue outshines Junto Nakatani in Tokyo showdown to keep super-bantamweight title",
+      "summary": "Naoya Inoue defends super-bantamweight title against Junto Nakatani in Tokyo Dome.",
+      "url": "https://www.theguardian.com/p/x5xx2b",
+      "thumbnail": "https://media.guim.co.uk/9c23f8ab50c036be6871ef9a4f10ba33fd2e764c/622_0_6218_4975/500.jpg",
+      "published": "2026-05-02T18:05:33Z",
+      "location": {
+        "name": "Tokyo",
+        "lat": 35.6762,
+        "lng": 139.6503
       },
       "category": "sport",
       "significance": 3,
