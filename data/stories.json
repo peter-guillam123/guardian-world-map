@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-05-02T22:59:14.299Z",
-    "story_count": 75,
+    "generated_at": "2026-05-02T23:56:26.216Z",
+    "story_count": 76,
     "oldest_story": "2026-05-02T02:50:43Z",
-    "newest_story": "2026-05-02T22:46:37Z",
+    "newest_story": "2026-05-02T23:51:32Z",
     "window_hours": 24
   },
   "stories": [
@@ -1206,6 +1206,22 @@
       "category": "culture",
       "significance": 2,
       "section": "culture"
+    },
+    {
+      "id": "australia-news/2026/may/03/nt-police-charge-jefferson-lewis-over-death-of-kumanjayi-little-baby-near-alice-springs-ntwnfb",
+      "headline": "Jefferson Lewis charged with murder over death of Kumanjayi Little Baby near Alice Springs",
+      "summary": "Man charged with murder of 5-year-old Indigenous girl found dead near Alice Springs after going missing.",
+      "url": "https://www.theguardian.com/p/x5vqte",
+      "thumbnail": "https://media.guim.co.uk/9e1437d7ffc16ed66c4f33eba20f2980ad12cec9/0_0_4200_3360/500.jpg",
+      "published": "2026-05-02T23:51:32Z",
+      "location": {
+        "name": "Alice Springs",
+        "lat": -23.7001,
+        "lng": 133.8807
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "australia-news"
     }
   ]
 }
