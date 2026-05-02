@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-05-02T09:15:29.199Z",
-    "story_count": 100,
+    "generated_at": "2026-05-02T10:13:32.987Z",
+    "story_count": 109,
     "oldest_story": "2026-05-01T10:46:42Z",
-    "newest_story": "2026-05-02T09:06:36Z",
+    "newest_story": "2026-05-02T10:12:42Z",
     "window_hours": 24
   },
   "stories": [
@@ -1606,6 +1606,150 @@
       "category": "politics",
       "significance": 2,
       "section": "uk-news"
+    },
+    {
+      "id": "sport/live/2026/may/02/surrey-v-sussex-somerset-v-yorkshire-and-more-county-cricket-day-two-live",
+      "headline": "Surrey v Sussex, Somerset v Yorkshire, and more: county cricket, day two – live",
+      "summary": "County cricket championship day two coverage across English grounds including Surrey v Sussex.",
+      "url": "https://www.theguardian.com/p/x5vdxv",
+      "thumbnail": "https://media.guim.co.uk/681c4a575cd6ed20eed3d0fae61acb93b71cba27/0_1003_5334_4267/500.jpg",
+      "published": "2026-05-02T10:12:42Z",
+      "location": {
+        "name": "Surrey",
+        "lat": 51.2414,
+        "lng": -0.3555
+      },
+      "category": "sport",
+      "significance": 1,
+      "section": "sport"
+    },
+    {
+      "id": "us-news/2026/may/02/steve-hilton-california-governor-race",
+      "headline": "Steve Hilton: could this British former Fox News host be California’s next governor?",
+      "summary": "British ex-Fox News host Steve Hilton leads California gubernatorial race as Democratic frontrunner.",
+      "url": "https://www.theguardian.com/p/x5vjdy",
+      "thumbnail": "https://media.guim.co.uk/ee09630c92f115c2f3c9b1c27fdac65e744db64c/714_517_3261_2609/500.jpg",
+      "published": "2026-05-02T10:00:24Z",
+      "location": {
+        "name": "California",
+        "lat": 36.1163,
+        "lng": -119.6816
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/may/02/trump-officials-strategy",
+      "headline": "The White House power play post-dinner shooting: do what we say or else",
+      "summary": "Trump administration capitalizes on White House assassination attempt with controversial legal filings.",
+      "url": "https://www.theguardian.com/p/x5vp7b",
+      "thumbnail": "https://media.guim.co.uk/f242d489f886e1cc43db896a36a0c69b08de558e/1072_0_6090_4874/500.jpg",
+      "published": "2026-05-02T10:00:23Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 4,
+      "section": "us-news"
+    },
+    {
+      "id": "lifeandstyle/2026/may/02/antonia-sisco-andritch-asa-best-phone-picture",
+      "headline": "‘Was she going to an appointment, maybe even a romantic one?’: ASA’s best phone picture",
+      "summary": "Corsican photographer captures striking silhouette image of young woman in strong summer light.",
+      "url": "https://www.theguardian.com/p/x4n6c5",
+      "thumbnail": "https://media.guim.co.uk/8dff169f4920d7f1a403e93f3ff8da890357a99e/0_4422_8858_7087/500.jpg",
+      "published": "2026-05-02T10:00:23Z",
+      "location": {
+        "name": "Bastia",
+        "lat": 42.7014,
+        "lng": 9.4591
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "lifeandstyle"
+    },
+    {
+      "id": "science/2026/may/02/germany-brazil-irritator-dinosaur-skull-restitution",
+      "headline": "German museum to return rare Irritator dinosaur skull to Brazil",
+      "summary": "German museum to return rare 113-million-year-old Irritator dinosaur skull to Brazil after restitution campaign.",
+      "url": "https://www.theguardian.com/p/x5vhfn",
+      "thumbnail": "https://media.guim.co.uk/35e18afde273c458999bf6281d56cdcfed70235a/301_0_4432_3545/500.jpg",
+      "published": "2026-05-02T10:00:23Z",
+      "location": {
+        "name": "Stuttgart",
+        "lat": 48.7758,
+        "lng": 9.1829
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "science"
+    },
+    {
+      "id": "us-news/2026/may/02/ice-contracter-torture-allegations-undocumented-children",
+      "headline": "‘Deplorable’: ICE hires firm accused of ‘torture’ to track down undocumented children",
+      "summary": "ICE contracts security firm accused of torture to track undocumented immigrant children.",
+      "url": "https://www.theguardian.com/p/x5vj8v",
+      "thumbnail": "https://media.guim.co.uk/23c004a55a41c89e31d5d92f144b005f4d089b48/502_0_4996_3999/500.jpg",
+      "published": "2026-05-02T10:00:23Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "sport/2026/may/02/womens-elite-rugby-season-begins-world-cup",
+      "headline": "Women’s Elite Rugby enters season two with lessons learned, a pop star investor and ambition for US game",
+      "summary": "Women's Elite Rugby league begins season two with expansion aims ahead of 2033 World Cup.",
+      "url": "https://www.theguardian.com/p/x5vzec",
+      "thumbnail": "https://media.guim.co.uk/d803d4702569151708a148fc0e92634d5af49733/204_0_1049_839/500.jpg",
+      "published": "2026-05-02T10:00:22Z",
+      "location": {
+        "name": "Massachusetts",
+        "lat": 42.2352,
+        "lng": -71.5275
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "us-news/2026/may/02/family-ice-detention-colorado",
+      "headline": "Family of six held by ICE arrives back in Colorado as lawyer attacks ‘kidnapping’",
+      "summary": "Egyptian family returns to Colorado after ICE re-arrest despite judge's release order in detention dispute.",
+      "url": "https://www.theguardian.com/p/x5vq4z",
+      "thumbnail": "https://media.guim.co.uk/4a3fd1cc2e9aadcc64a1e25364eb023993733140/234_0_2500_2000/500.jpg",
+      "published": "2026-05-02T10:00:22Z",
+      "location": {
+        "name": "Colorado",
+        "lat": 39.0598,
+        "lng": -105.3111
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "politics/2026/may/02/keir-starmer-calls-for-ban-on-some-pro-palestian-protests-british-jews",
+      "headline": "Some pro-Palestinian protests could be banned amid attacks on British Jews",
+      "summary": "PM warns some pro-Palestinian protests could be banned as Met chief highlights Jewish community threat.",
+      "url": "https://www.theguardian.com/p/x5xvk9",
+      "thumbnail": "https://media.guim.co.uk/bfabb069752eb8918b3e8e7950404aac7dc76f48/519_0_2959_2369/500.jpg",
+      "published": "2026-05-02T09:29:08Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
     }
   ]
 }
