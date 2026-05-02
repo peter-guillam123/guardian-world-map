@@ -1,60 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-02T22:00:51.049Z",
-    "story_count": 76,
-    "oldest_story": "2026-05-01T22:08:41Z",
-    "newest_story": "2026-05-02T21:50:23Z",
+    "generated_at": "2026-05-02T22:59:14.299Z",
+    "story_count": 75,
+    "oldest_story": "2026-05-02T02:50:43Z",
+    "newest_story": "2026-05-02T22:46:37Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "us-news/2026/apr/30/us-military-bases-germany-trump-threat-cut-numbers",
-      "headline": "Why does the US have military bases in Germany?",
-      "summary": "Trump withdraws 5,000 US troops from Germany amid tensions with German chancellor over Iran policy.",
-      "url": "https://www.theguardian.com/p/x5vh4g",
-      "thumbnail": "https://media.guim.co.uk/d38c9dab412b3520c5b972b7e76010ff7df020c4/410_0_5050_4043/500.jpg",
-      "published": "2026-05-01T22:55:17Z",
-      "location": {
-        "name": "Germany",
-        "lat": 51.1657,
-        "lng": 10.4515
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "australia-news/2026/may/02/five-great-reads-the-ai-hackers-life-as-a-sex-writer-and-the-real-secret-to-decluttering",
-      "headline": "Five Great Reads: the AI hackers, life as a sex writer and the real secret to decluttering",
-      "summary": "Guardian Australia's weekend reading recommendations featuring AI, writing, and decluttering stories.",
-      "url": "https://www.theguardian.com/p/x5veg9",
-      "thumbnail": "https://media.guim.co.uk/88cb1514f9d08857f83747cf9de9c5cb06301821/299_1078_6440_5154/500.jpg",
-      "published": "2026-05-01T22:19:48Z",
-      "location": {
-        "name": "Australia",
-        "lat": -25.2744,
-        "lng": 133.7751
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "australia-news"
-    },
-    {
-      "id": "football/2025/sep/15/premier-league-top-scorers-2025-26-who-is-leading-race-for-golden-boot",
-      "headline": "Premier League top scorers 2025-26: who is leading race for golden boot?",
-      "summary": "Premier League top scorers 2025-26: Erling Haaland leads with 24 goals in golden boot race.",
-      "url": "https://www.theguardian.com/p/x386fa",
-      "thumbnail": "https://media.guim.co.uk/25a17f223afb3ce61b02e0706e23edf6834f9b81/148_0_1905_1524/500.jpg",
-      "published": "2026-05-01T22:08:41Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
     {
       "id": "stage/2026/may/02/the-glass-menagerie-review-tennessee-williams-delicate-classic-is-stomped-on-for-laughs",
       "headline": "The Glass Menagerie review – Tennessee Williams’ delicate classic is stomped on for laughs",
@@ -1222,6 +1174,38 @@
       "category": "sport",
       "significance": 2,
       "section": "sport"
+    },
+    {
+      "id": "australia-news/live/2026/may/03/politics-updates-liberals-nepean-byelection-victoria-anthony-albanese-labor-angus-taylor-matt-canavan-nationals-ntwnfb",
+      "headline": "Australia news live: three dead and man arrested in Sydney; Liberals claim seat of Nepean in key Victorian byelection",
+      "summary": "Three dead in Sydney incident; Liberals win Nepean byelection in Victoria.",
+      "url": "https://www.theguardian.com/p/x5x3mg",
+      "thumbnail": "https://media.guim.co.uk/0dd8d500bb82d23f4f62b813daf1d506d5751ec9/216_0_2155_1724/500.jpg",
+      "published": "2026-05-02T22:46:37Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "culture/2026/may/02/peter-kay-bomb-hoax-birmingham-man-charged",
+      "headline": "Man charged over bomb hoax after Peter Kay show evacuated ",
+      "summary": "Man charged over bomb hoax that evacuated Peter Kay comedy show in Birmingham.",
+      "url": "https://www.theguardian.com/p/x5x3jh",
+      "thumbnail": "https://media.guim.co.uk/61abc46aef3209c76e5c28b253fab5320fe6062e/385_0_2658_2126/500.jpg",
+      "published": "2026-05-02T22:06:10Z",
+      "location": {
+        "name": "Birmingham",
+        "lat": 52.5086,
+        "lng": -1.8853
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "culture"
     }
   ]
 }
