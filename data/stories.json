@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-05-02T12:01:35.793Z",
-    "story_count": 104,
-    "oldest_story": "2026-05-01T13:40:53Z",
-    "newest_story": "2026-05-02T12:00:33Z",
+    "generated_at": "2026-05-02T13:44:05.553Z",
+    "story_count": 107,
+    "oldest_story": "2026-05-01T13:47:26Z",
+    "newest_story": "2026-05-02T13:43:16Z",
     "window_hours": 24
   },
   "stories": [
@@ -134,22 +134,6 @@
       "category": "politics",
       "significance": 1,
       "section": "world"
-    },
-    {
-      "id": "business/2026/may/01/fastest-refund-guaranteed-uk-travel-firms-compete-for-custom",
-      "headline": "‘Fastest refund guaranteed’: UK travel firms compete for custom with unlikely selling points",
-      "summary": "UK travel firms compete for custom with refund guarantees and cancellation protections amid uncertainty.",
-      "url": "https://www.theguardian.com/p/x5vn4z",
-      "thumbnail": "https://media.guim.co.uk/09911f7665b3794c49324783fd6dc744e79f90ed/0_0_5511_4409/500.jpg",
-      "published": "2026-05-01T13:40:53Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
     },
     {
       "id": "business/2026/may/01/octopus-energy-boss-blackouts-bills",
@@ -1670,6 +1654,70 @@
       "category": "culture",
       "significance": 2,
       "section": "culture"
+    },
+    {
+      "id": "football/live/2026/may/02/ol-lyonnes-v-arsenal-womens-champions-league-semi-final-second-leg-live",
+      "headline": "OL Lyonnes v Arsenal: Women’s Champions League semi-final, second leg – live",
+      "summary": "Arsenal faces Lyon in Women's Champions League semi-final second leg seeking to defend 2-1 lead.",
+      "url": "https://www.theguardian.com/p/x5vd7b",
+      "thumbnail": "https://media.guim.co.uk/7430af35cc54409389d1af3a6c7b8bd3c4de4693/488_320_2402_1922/500.jpg",
+      "published": "2026-05-02T13:43:16Z",
+      "location": {
+        "name": "Lyon",
+        "lat": 45.764,
+        "lng": 4.8357
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/may/02/wrexham-agony-as-middlesbrough-draw-hands-hull-playoff-spot",
+      "headline": "Wrexham agony as Middlesbrough draw hands Hull playoff spot",
+      "summary": "Wrexham misses playoffs after Middlesbrough's 2-2 draw on final Championship day.",
+      "url": "https://www.theguardian.com/p/x5vjpx",
+      "thumbnail": "https://media.guim.co.uk/250ca779ca9d6ca51a87ee83da3ce4571ecff37a/615_0_4413_3531/500.jpg",
+      "published": "2026-05-02T13:35:54Z",
+      "location": {
+        "name": "Wrexham",
+        "lat": 53.0464,
+        "lng": -3.0047
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/may/02/ipswich-win-promotion-to-premier-league-after-rolling-over-qpr",
+      "headline": "Ipswich win promotion to Premier League after rolling over QPR",
+      "summary": "Ipswich Town secure Premier League promotion after 3-0 victory over QPR in Championship.",
+      "url": "https://www.theguardian.com/p/x5vjzg",
+      "thumbnail": null,
+      "published": "2026-05-02T13:26:54Z",
+      "location": {
+        "name": "Ipswich",
+        "lat": 52.0531,
+        "lng": 1.1438
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/may/02/invasive-lantern-flies-us-vineyards",
+      "headline": "‘They don’t belong in our environment’: US vineyards battle spotted lanternflies as invasive insects spread",
+      "summary": "US vineyards battle invasive spotted lanternflies spreading from Virginia to New York.",
+      "url": "https://www.theguardian.com/p/x5vjm8",
+      "thumbnail": "https://media.guim.co.uk/39e354d3a251e386d48c15584bd7c52077903f89/310_0_3580_2865/500.jpg",
+      "published": "2026-05-02T13:00:26Z",
+      "location": {
+        "name": "Virginia",
+        "lat": 37.7693,
+        "lng": -78.1694
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "us-news"
     }
   ]
 }
