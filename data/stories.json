@@ -1,188 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-02T05:58:31.494Z",
-    "story_count": 103,
-    "oldest_story": "2026-05-01T06:15:57Z",
-    "newest_story": "2026-05-02T05:00:19Z",
+    "generated_at": "2026-05-02T07:57:07.486Z",
+    "story_count": 97,
+    "oldest_story": "2026-05-01T10:46:42Z",
+    "newest_story": "2026-05-02T07:19:13Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "business/live/2026/may/01/uk-house-prices-natwest-profits-iran-war-oil-price-trump-bank-of-england-ftse-100-business-live",
-      "headline": "UK house prices in surprise increase; NatWest braces for slowing economy – business live",
-      "summary": "UK house prices rise 0.4% in April; NatWest sets aside £140m amid economic slowdown.",
-      "url": "https://www.theguardian.com/p/x5vmvv",
-      "thumbnail": "https://media.guim.co.uk/afe313b09f7eaf84fce8755af436496300ee53ff/371_0_4014_3212/500.jpg",
-      "published": "2026-05-01T07:12:45Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "society/2026/may/01/un-warns-women-in-public-life-face-increasingly-sophisticated-online-violence",
-      "headline": "UN warns women in public life face increasingly sophisticated online violence ",
-      "summary": "UN Women warns of sophisticated AI-assisted online violence targeting women in public life.",
-      "url": "https://www.theguardian.com/p/x5vtmc",
-      "thumbnail": "https://media.guim.co.uk/260c9aca4a334541fc27f0dacb7de931beacd76f/218_0_2564_2051/500.jpg",
-      "published": "2026-05-01T07:00:42Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "society"
-    },
-    {
-      "id": "sport/2026/may/01/chess-england-fail-to-win-senior-team-world-medals-first-time-five-years",
-      "headline": "Chess: England fail to win senior team world medals for first time in five years",
-      "summary": "England finishes out of medals for first time in five years at world senior chess championships.",
-      "url": "https://www.theguardian.com/p/x5vhyv",
-      "thumbnail": "https://media.guim.co.uk/b98c879b189bd17bd59199654131cb20bdcfee18/123_209_3070_2456/500.jpg",
-      "published": "2026-05-01T07:00:41Z",
-      "location": {
-        "name": "Durrës",
-        "lat": 41.3155,
-        "lng": 19.4504
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "music/2026/may/01/chaotic-future-indie-music-labels-sub-pop-rough-trade",
-      "headline": "‘Major labels are trying to scoop up everything’: the chaotic future for indie music companies – and why vinyl isn’t working",
-      "summary": "Indie music labels Sub Pop and Rough Trade face streaming challenges on milestone anniversaries.",
-      "url": "https://www.theguardian.com/p/x5v242",
-      "thumbnail": "https://media.guim.co.uk/726a2d9ac95f2097e37e390c1a2292c306c7b80d/535_0_4690_3752/500.jpg",
-      "published": "2026-05-01T07:00:41Z",
-      "location": {
-        "name": "Seattle",
-        "lat": 47.6062,
-        "lng": -122.3321
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "music"
-    },
-    {
-      "id": "commentisfree/2026/may/01/uk-biobank-data-china-breach-longitudinal-study-benefits",
-      "headline": "UK Biobank has my data, but I’m not worried. I know the benefits are too great to consider pulling out",
-      "summary": "UK Biobank data breach in China highlights benefits and risks of longitudinal health studies.",
-      "url": "https://www.theguardian.com/p/x5vt38",
-      "thumbnail": "https://media.guim.co.uk/339d2310f800b30371d09c54fd62322e876cd63b/436_201_2689_2152/500.jpg",
-      "published": "2026-05-01T07:00:41Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "commentisfree"
-    },
-    {
-      "id": "football/2026/may/01/womens-super-league-fixture-list-chaos",
-      "headline": "‘You have to laugh or you’d cry’: the fixture list challenges facing women’s football",
-      "summary": "Women's Super League faces fixture scheduling challenges amid stadium sharing and broadcast conflicts.",
-      "url": "https://www.theguardian.com/p/x5vj6d",
-      "thumbnail": "https://media.guim.co.uk/c1846e360562763fdc4d46e922b29b901ae30c09/0_0_4477_3582/500.jpg",
-      "published": "2026-05-01T07:00:40Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "stage/2026/may/01/festival-of-britain-south-bank-london-theatre-75-years",
-      "headline": "As a schoolboy, I was dazzled by the Festival of Britain – but it revealed a divided nation",
-      "summary": "Festival of Britain retrospective marks 75 years since 1951 cultural showcase on South Bank.",
-      "url": "https://www.theguardian.com/p/x4z694",
-      "thumbnail": "https://media.guim.co.uk/94311d94796999e06fef6a249970794cac887edf/34_194_2075_1660/500.jpg",
-      "published": "2026-05-01T07:00:40Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "stage"
-    },
-    {
-      "id": "sport/2026/may/01/robo-athletes-robots-sport-ai-technology",
-      "headline": "Robo athletes miss the point of sport – there is no drama without emotion",
-      "summary": "Robots competing in sports lack emotional drama that defines human athletic competition.",
-      "url": "https://www.theguardian.com/p/x5vhzp",
-      "thumbnail": "https://media.guim.co.uk/b49c09fed712b471a1dee1cdfa649bec875542cb/42_0_5841_4672/500.jpg",
-      "published": "2026-05-01T07:00:39Z",
-      "location": {
-        "name": "Tokyo",
-        "lat": 35.6762,
-        "lng": 139.6503
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "australia-news/2026/may/01/israel-intercepted-gaza-flotilla-navy-release-australians-greece-ntwnfb",
-      "headline": "Israel navy to release six Australians in Greece after intercepting Gaza flotilla",
-      "summary": "Israel releases six Australians detained during Gaza aid flotilla interception off Crete.",
-      "url": "https://www.theguardian.com/p/x5vyhm",
-      "thumbnail": "https://media.guim.co.uk/fdfde91a094e4ec9b64eaf6f2292ba413030c504/110_0_876_701/500.jpg",
-      "published": "2026-05-01T06:43:02Z",
-      "location": {
-        "name": "Crete",
-        "lat": 35.3387,
-        "lng": 25.1615
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "world/2026/may/01/friday-briefing-how-rising-antisemitism-is-striking-fear-into-the-everyday-lives-of-british-jews",
-      "headline": "Friday briefing: How rising antisemitism is striking fear into the everyday lives of British Jews",
-      "summary": "Rising antisemitism strikes fear into British Jewish community after Golders Green knife attack.",
-      "url": "https://www.theguardian.com/p/x5vhv2",
-      "thumbnail": "https://media.guim.co.uk/e090a0eb272e4efef06c9d4cf52344029e0ebac7/1655_376_5800_4643/500.jpg",
-      "published": "2026-05-01T06:18:58Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "conflict",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "australia-news/2026/may/01/nsw-deaths-custody-record-number-ntwnfb",
-      "headline": "‘Profoundly distressing’: record number of deaths in custody and police operations in NSW",
-      "summary": "NSW records 66 deaths in custody and police operations in 2025, up 18 from previous year.",
-      "url": "https://www.theguardian.com/p/x5vy32",
-      "thumbnail": "https://media.guim.co.uk/36475c025f51818be6a2420895f45864a5c236f2/716_0_3540_2832/500.jpg",
-      "published": "2026-05-01T06:15:57Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "australia-news"
-    },
     {
       "id": "sport/live/2026/may/01/surrey-v-sussex-somerset-v-yorkshire-county-cricket-day-one-live",
       "headline": "Surrey bolster Oval security, Somerset v Yorkshire, and more: county cricket, day one – live",
@@ -1654,6 +1478,86 @@
       "category": "culture",
       "significance": 1,
       "section": "lifeandstyle"
+    },
+    {
+      "id": "australia-news/2026/may/02/record-breaking-may-warmth-soon-to-blow-away-as-cold-front-moves-east",
+      "headline": "Record-breaking May warmth soon to blow away as cold front moves towards eastern Australia",
+      "summary": "Record May warmth in eastern Australia to be replaced by cold front with rain and thunderstorms.",
+      "url": "https://www.theguardian.com/p/x5xv8g",
+      "thumbnail": "https://media.guim.co.uk/6622a47d520fc7f8b5e89d3bff1b53ccb4439352/333_0_1410_1128/500.jpg",
+      "published": "2026-05-02T07:19:13Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "football/2026/may/02/casemiro-manchester-united-premier-league-football",
+      "headline": "Rejuvenated Casemiro heads for Manchester United exit on a high",
+      "summary": "Casemiro to exit Manchester United after stellar final season proving critics wrong.",
+      "url": "https://www.theguardian.com/p/x5vnm6",
+      "thumbnail": "https://media.guim.co.uk/90533d13c4ee5ab353244c910c3f1ee1af6d1652/344_0_3462_2770/500.jpg",
+      "published": "2026-05-02T07:01:18Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4831,
+        "lng": -2.2006
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "sport/2026/may/02/brendon-mccullum-missing-nearly-half-county-cricket-season-england",
+      "headline": "Cricket’s George Costanza: McCullum makes himself look vital by not turning up",
+      "summary": "England cricket coach Brendon McCullum absent for 43% of county season despite surviving review.",
+      "url": "https://www.theguardian.com/p/x5vnf6",
+      "thumbnail": "https://media.guim.co.uk/5ad7d17e87cce44db5ff95c64f10b6795215003f/0_0_5000_3999/500.jpg",
+      "published": "2026-05-02T07:00:19Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "money/2026/may/02/new-free-financial-advice-plan-aims-to-help-britons-build-savings",
+      "headline": "New free financial advice plan aims to help Britons build savings",
+      "summary": "UK financial institutions can now offer free targeted investment and pension advice to consumers.",
+      "url": "https://www.theguardian.com/p/x4pn44",
+      "thumbnail": "https://media.guim.co.uk/2f557ddc3c367c81fe57104ce018f8a0e3a154da/633_280_2687_2150/500.jpg",
+      "published": "2026-05-02T07:00:18Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "money"
+    },
+    {
+      "id": "football/2026/may/02/frenkie-de-jong-barcelona-interview-world-cup-netherlands",
+      "headline": "‘Of course, it crossed my mind’: Frenkie de Jong on refusing to leave Barcelona and his World Cup pain",
+      "summary": "Frenkie de Jong breaks Barcelona Dutch appearance record and eyes third league title with club.",
+      "url": "https://www.theguardian.com/p/x4ezxq",
+      "thumbnail": "https://media.guim.co.uk/7ceea6fd14444309ce3bac9920fc5e471f6fa58c/579_213_3067_2454/500.jpg",
+      "published": "2026-05-02T07:00:18Z",
+      "location": {
+        "name": "Barcelona",
+        "lat": 41.3851,
+        "lng": 2.1734
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
     }
   ]
 }
