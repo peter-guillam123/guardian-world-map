@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-05-02T19:39:38.048Z",
-    "story_count": 70,
-    "oldest_story": "2026-05-01T20:11:18Z",
-    "newest_story": "2026-05-02T19:00:32Z",
+    "generated_at": "2026-05-02T20:25:28.274Z",
+    "story_count": 78,
+    "oldest_story": "2026-05-01T20:58:29Z",
+    "newest_story": "2026-05-02T20:00:37Z",
     "window_hours": 24
   },
   "stories": [
@@ -22,38 +22,6 @@
       "category": "sport",
       "significance": 2,
       "section": "football"
-    },
-    {
-      "id": "sport/2026/may/01/miami-grand-prix-mercedes-f1",
-      "headline": "Lightning threat looms over Miami as F1 returns with upgraded cars and new rules",
-      "summary": "F1 season resumes at Miami Grand Prix with upgraded cars and new regulations.",
-      "url": "https://www.theguardian.com/p/x5vp23",
-      "thumbnail": "https://media.guim.co.uk/1822efb97c2b2878b837ce3127a89b13c6016f5c/997_0_5000_4000/500.jpg",
-      "published": "2026-05-01T20:19:11Z",
-      "location": {
-        "name": "Miami",
-        "lat": 25.7617,
-        "lng": -80.1918
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "sport"
-    },
-    {
-      "id": "science/2026/may/01/roman-gravestone-new-orleans-returned-italy",
-      "headline": "Ancient Roman gravestone found in New Orleans back yard returned to Italy",
-      "summary": "Nearly 2,000-year-old Roman gravestone found in New Orleans returned to Italy.",
-      "url": "https://www.theguardian.com/p/x5vp27",
-      "thumbnail": "https://media.guim.co.uk/3e5c92149008d63b71731837f08c915002503874/0_66_5191_4152/500.jpg",
-      "published": "2026-05-01T20:11:18Z",
-      "location": {
-        "name": "Rome",
-        "lat": 41.9028,
-        "lng": 12.4964
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "science"
     },
     {
       "id": "culture/2026/may/01/peter-kay-show-stopped-and-19-year-old-in-custody-after-suspicious-bag-found",
@@ -1126,6 +1094,166 @@
       "category": "sport",
       "significance": 2,
       "section": "football"
+    },
+    {
+      "id": "sport/2026/may/02/nrl-rugby-league-perth-bears-png-chiefs-expansion-club-build",
+      "headline": "How to build an NRL team: Perth Bears hunt for hidden gems or PNG Chiefs cash splash?",
+      "summary": "NRL expansion clubs Perth Bears and PNG Chiefs take different routes to building competitive teams through funding and talent development.",
+      "url": "https://www.theguardian.com/p/x5vkmy",
+      "thumbnail": "https://media.guim.co.uk/7fde8fb87656fde4ddd1f3c36ed1b2953ebf9a19/827_0_4072_3258/500.jpg",
+      "published": "2026-05-02T20:00:37Z",
+      "location": {
+        "name": "Perth",
+        "lat": -31.9505,
+        "lng": 115.8605
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "commentisfree/2026/may/02/the-coalition-is-nailing-its-own-coffin-shut-in-farrer-it-should-have-had-the-courage-to-put-one-nation-last",
+      "headline": "The Coalition is nailing its own coffin shut in Farrer. It should have had the courage to put One Nation last",
+      "summary": "Coalition's preference strategy may help One Nation secure its first lower house election win in the Farrer byelection.",
+      "url": "https://www.theguardian.com/p/x5vfxb",
+      "thumbnail": "https://media.guim.co.uk/a5e5f7cc754a32c9f96b85abfc03d4c4e6d421a1/577_0_5768_4614/500.jpg",
+      "published": "2026-05-02T20:00:37Z",
+      "location": {
+        "name": "Farrer",
+        "lat": -36.0727,
+        "lng": 146.0856
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "commentisfree"
+    },
+    {
+      "id": "world/2026/may/03/australia-shared-ebikes-lime-bikes",
+      "headline": "Sydney is awash with shared ebikes. Is Australia finally falling in love with Lime?",
+      "summary": "Shared ebike numbers quadruple in Sydney as Lime dominates, with operators seeking government support to meet growing demand.",
+      "url": "https://www.theguardian.com/p/x4q58x",
+      "thumbnail": "https://media.guim.co.uk/04114853da3f0e6d1a6933eacbab8d6f66904731/421_0_2461_1969/500.jpg",
+      "published": "2026-05-02T20:00:37Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "tech",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "lifeandstyle/2026/may/02/moment-knew-didnt-speak-same-language-understood-each-other",
+      "headline": "The moment I knew: ‘We didn’t speak the same language but somehow we understood each other’",
+      "summary": "Italian pastry chef and Swedish restaurateur overcome language barriers to build romance and launch restaurant venture together.",
+      "url": "https://www.theguardian.com/p/x5vb5q",
+      "thumbnail": "https://media.guim.co.uk/6ce8bd93f63ac3cc34fdf01d700a45d28e4fed73/147_0_3206_2564/500.jpg",
+      "published": "2026-05-02T20:00:36Z",
+      "location": {
+        "name": "Hobart",
+        "lat": -42.8821,
+        "lng": 147.3272
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "lifeandstyle"
+    },
+    {
+      "id": "science/2026/may/03/getting-older-ageing-happiest-time-of-life",
+      "headline": "‘The happiest time of life is as you get older’: can positive thinking help you age better?",
+      "summary": "Research suggests optimistic outlook on aging can improve health outcomes and quality of life in older adults.",
+      "url": "https://www.theguardian.com/p/x4qvc3",
+      "thumbnail": "https://media.guim.co.uk/e9c4a2945c136696ac0a32aaecc24f443d8f5cb7/0_0_5600_4480/500.jpg",
+      "published": "2026-05-02T20:00:35Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "science"
+    },
+    {
+      "id": "technology/2026/may/03/ai-datacentres-australia-opposition",
+      "headline": "Under a cloud: the growing resentment against the massive datacentres sprouting across Australian cities",
+      "summary": "Australian residents protest rapid expansion of massive AI datacentres with unknown environmental impacts and community concerns.",
+      "url": "https://www.theguardian.com/p/x5v4gf",
+      "thumbnail": "https://media.guim.co.uk/598ef0e6661ea75f1a88e26cef9621abfba031e4/776_0_6827_5464/500.jpg",
+      "published": "2026-05-02T20:00:35Z",
+      "location": {
+        "name": "West Footscray",
+        "lat": -37.8044,
+        "lng": 144.8895
+      },
+      "category": "tech",
+      "significance": 2,
+      "section": "technology"
+    },
+    {
+      "id": "culture/2026/may/02/comedian-guy-montgomery-interview",
+      "headline": "Guy Montgomery: ‘One fan took us back to his house and showed us all his guns’",
+      "summary": "Comedian Guy Montgomery discusses spelling bee show, friendship with Jacinda Ardern, and life on tour.",
+      "url": "https://www.theguardian.com/p/x5vf46",
+      "thumbnail": "https://media.guim.co.uk/56923e50f38127aa874d2ac239017a7a19efba41/736_0_2808_2247/500.jpg",
+      "published": "2026-05-02T20:00:35Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "culture"
+    },
+    {
+      "id": "environment/2026/may/02/nsw-government-delayed-water-wetlands-documents-reveal",
+      "headline": "‘We don’t hear the frogs, we don’t see the birds’: government repeatedly delayed water to NSW wetlands, documents reveal",
+      "summary": "NSW government documents reveal repeated delays of environmental water to wetlands prioritizing crop harvesting over wildlife.",
+      "url": "https://www.theguardian.com/p/x5v4d8",
+      "thumbnail": "https://media.guim.co.uk/d8d41e44ab3ee6a979ad69507d140463c7132a09/622_0_4745_3796/500.jpg",
+      "published": "2026-05-02T20:00:34Z",
+      "location": {
+        "name": "New South Wales",
+        "lat": -31.806,
+        "lng": 145.7781
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "environment"
+    },
+    {
+      "id": "australia-news/2026/may/03/farrer-byelection-one-nation-mp-dave-farley-ntwnfb",
+      "headline": "‘Dave is for Dave’: One Nation may gain its first elected MP in Farrer but would he survive in Hanson’s orbit? ",
+      "summary": "One Nation candidate David Farley positioned to become party's first elected MP in Saturday's Farrer byelection.",
+      "url": "https://www.theguardian.com/p/x5vfzg",
+      "thumbnail": "https://media.guim.co.uk/17bee274e72762fabcddf23ccf946a4dc2025d5c/499_0_4560_3648/500.jpg",
+      "published": "2026-05-02T20:00:34Z",
+      "location": {
+        "name": "Farrer",
+        "lat": -36.0727,
+        "lng": 146.0856
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "books/2026/may/03/shaken-staff-and-an-author-exodus-how-a-picture-book-plunged-an-acclaimed-australian-publisher-into-a-crisis-over-antisemitism",
+      "headline": "Shaken staff and an author exodus: how a picture book plunged an acclaimed Australian publisher into a crisis over antisemitism",
+      "summary": "University of Queensland Press faces potential collapse after canceling indigenous children's book over illustrator's antisemitic comments.",
+      "url": "https://www.theguardian.com/p/x5vbhe",
+      "thumbnail": "https://media.guim.co.uk/5b2033d8a5052c2f3348296109fc1c46ce6d86b9/1002_0_6880_5504/500.jpg",
+      "published": "2026-05-02T20:00:34Z",
+      "location": {
+        "name": "Brisbane",
+        "lat": -27.4698,
+        "lng": 153.0251
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "books"
     }
   ]
 }
