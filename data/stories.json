@@ -1,60 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-03T08:25:41.889Z",
+    "generated_at": "2026-05-03T09:50:07.916Z",
     "story_count": 70,
-    "oldest_story": "2026-05-02T09:00:22Z",
-    "newest_story": "2026-05-03T08:00:48Z",
+    "oldest_story": "2026-05-02T10:00:22Z",
+    "newest_story": "2026-05-03T09:34:39Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "world/live/2026/may/02/us-israel-war-iran-germany-american-troops-donald-trump-middle-east-latest-news-updates",
-      "headline": "Germany says it expected Trump’s withdrawal of US troops as row over Iran comments grows – live ",
-      "summary": "Germany responds to Trump's announcement of withdrawing 5,000 US troops from German bases.",
-      "url": "https://www.theguardian.com/p/x5vpnk",
-      "thumbnail": "https://media.guim.co.uk/c259c4209273e1d883e5cacea14c50cd6c072b90/452_0_6111_4888/500.jpg",
-      "published": "2026-05-02T09:06:36Z",
-      "location": {
-        "name": "Germany",
-        "lat": 51.1657,
-        "lng": 10.4515
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "music/2026/may/02/beatles-early-days-letters-photos-hamburg-exhibition",
-      "headline": "Letters and photos from Beatles’ early days to go on show in Hamburg",
-      "summary": "Beatles early days letters and photos from Hamburg to be displayed in exhibition.",
-      "url": "https://www.theguardian.com/p/x5vzag",
-      "thumbnail": "https://media.guim.co.uk/96e5ccecb063308bf3edcd8fc25cd7915f8309ee/251_0_4321_3457/500.jpg",
-      "published": "2026-05-02T09:00:22Z",
-      "location": {
-        "name": "Hamburg",
-        "lat": 53.5511,
-        "lng": 9.9937
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "music"
-    },
-    {
-      "id": "uk-news/2026/may/02/asylum-seeker-sent-france-one-in-one-out-returned-syria",
-      "headline": "Asylum seeker sent back to France in ‘one in, one out’ scheme to be returned to Syria",
-      "summary": "Syrian asylum seeker sent to France under 'one in, one out' scheme faces return to Syria.",
-      "url": "https://www.theguardian.com/p/x5vhtq",
-      "thumbnail": "https://media.guim.co.uk/5b98290a6b4651e5b2babcc975addba4ccf270fe/193_0_1435_1148/500.jpg",
-      "published": "2026-05-02T09:00:22Z",
-      "location": {
-        "name": "United Kingdom",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "uk-news"
-    },
     {
       "id": "sport/live/2026/may/02/surrey-v-sussex-somerset-v-yorkshire-and-more-county-cricket-day-two-live",
       "headline": "Surrey v Sussex, Somerset v Yorkshire, and more: county cricket, day two – live",
@@ -182,22 +134,6 @@
       "category": "politics",
       "significance": 3,
       "section": "us-news"
-    },
-    {
-      "id": "politics/2026/may/02/keir-starmer-calls-for-ban-on-some-pro-palestian-protests-british-jews",
-      "headline": "Some pro-Palestinian protests could be banned amid attacks on British Jews",
-      "summary": "PM warns some pro-Palestinian protests could be banned as Met chief highlights Jewish community threat.",
-      "url": "https://www.theguardian.com/p/x5xvk9",
-      "thumbnail": "https://media.guim.co.uk/bfabb069752eb8918b3e8e7950404aac7dc76f48/519_0_2959_2369/500.jpg",
-      "published": "2026-05-02T09:29:08Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
     },
     {
       "id": "uk-news/2026/may/02/domestic-abuse-deaths-suicide-justice-england-wales",
@@ -1126,6 +1062,70 @@
       "category": "politics",
       "significance": 2,
       "section": "society"
+    },
+    {
+      "id": "politics/live/2026/may/03/local-elections-greens-polanksi-labour-starmer-conservatives-badenoch-reform-latest-news-updates",
+      "headline": "Polanski ‘not fit to lead a party’ after Golders Green tweet, says minister – UK politics live",
+      "summary": "Green party leader criticized over police incident tweet in Golders Green.",
+      "url": "https://www.theguardian.com/p/x5x5zf",
+      "thumbnail": "https://media.guim.co.uk/8d3a0e52f80a80a16d981638f4a567cc20a02007/1023_0_7023_5618/500.jpg",
+      "published": "2026-05-03T09:34:39Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "sport/live/2026/may/03/somerset-v-yorkshire-leicestershire-v-nottinghamshire-and-more-county-cricket-day-three-live",
+      "headline": "Somerset v Yorkshire, Leicestershire v Nottinghamshire, and more: county cricket, day three – live",
+      "summary": "County Championship cricket matches underway with Olly Stone's five-wicket haul.",
+      "url": "https://www.theguardian.com/p/x5vhc5",
+      "thumbnail": "https://media.guim.co.uk/2ec8ee4409202337e571e5399bda02313b4d0645/282_94_3167_2534/500.jpg",
+      "published": "2026-05-03T09:24:41Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "business/2026/may/03/uk-airlines-cancel-flights-jet-fuel-shortage-summer-travel",
+      "headline": "UK airlines given green light to cancel or consolidate flights to conserve jet fuel ",
+      "summary": "UK airlines allowed to cancel flights to conserve jet fuel amid Middle East disruptions.",
+      "url": "https://www.theguardian.com/p/x5x6vk",
+      "thumbnail": "https://media.guim.co.uk/045a8997ec5332bdc7774c39d29248aea82750bb/220_0_1634_1308/500.jpg",
+      "published": "2026-05-03T09:11:07Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "business"
+    },
+    {
+      "id": "technology/2026/may/03/uk-invention-agency-aria-pledges-70-million-public-money-us-tech-venture-capital-dominic-cummings",
+      "headline": "UK ‘invention agency’ grants £50m of public money to US tech and venture capital firms",
+      "summary": "UK's Aria agency awards £50m public funds to US tech firms and venture capital.",
+      "url": "https://www.theguardian.com/p/x4ph7d",
+      "thumbnail": "https://media.guim.co.uk/d238e39a4f80183543f84fe5d5b1532e4c3e9338/2269_390_3431_2746/500.jpg",
+      "published": "2026-05-03T09:00:49Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "tech",
+      "significance": 2,
+      "section": "technology"
     }
   ]
 }
