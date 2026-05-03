@@ -1,28 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-03T21:00:15.591Z",
-    "story_count": 86,
-    "oldest_story": "2026-05-02T21:50:23Z",
-    "newest_story": "2026-05-03T20:41:38Z",
+    "generated_at": "2026-05-03T21:55:58.221Z",
+    "story_count": 92,
+    "oldest_story": "2026-05-02T22:06:10Z",
+    "newest_story": "2026-05-03T21:54:26Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "sport/2026/may/02/kimi-antonelli-beats-max-verstappen-to-f1-miami-gp-pole-with-lando-norris-fourth",
-      "headline": "Kimi Antonelli beats Max Verstappen to F1 Miami GP pole with Lando Norris fourth",
-      "summary": "Kimi Antonelli takes Miami Grand Prix pole; Verstappen second, Norris fourth.",
-      "url": "https://www.theguardian.com/p/x5vk69",
-      "thumbnail": "https://media.guim.co.uk/69b92686d4afa01845bb090c843b46ff1a4a2c38/830_449_4098_3279/500.jpg",
-      "published": "2026-05-02T21:50:23Z",
-      "location": {
-        "name": "Miami",
-        "lat": 25.7617,
-        "lng": -80.1918
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
     {
       "id": "australia-news/live/2026/may/03/politics-updates-liberals-nepean-byelection-victoria-anthony-albanese-labor-angus-taylor-matt-canavan-nationals-ntwnfb",
       "headline": "Australia news live: three dead and man arrested in Sydney; Liberals claim seat of Nepean in key Victorian byelection",
@@ -1382,6 +1366,118 @@
       "category": "sport",
       "significance": 2,
       "section": "football"
+    },
+    {
+      "id": "australia-news/live/2026/may/04/australia-news-live-jim-chalmers-budget-inflation-labor-cost-of-living-interest-rates-bondi-shooting-royal-commission-antisemitism-ntwnfb",
+      "headline": "Australia news live: Chalmers says budget will pay down more debt; families of Bondi shooting victims to take stand at royal commission",
+      "summary": "Australian Treasurer Chalmers announces budget with increased debt repayment; Bondi shooting royal commission continues.",
+      "url": "https://www.theguardian.com/p/x5x8kx",
+      "thumbnail": "https://media.guim.co.uk/1677db68b82d7f6748e708df037551c6d1864af0/760_0_5498_4400/500.jpg",
+      "published": "2026-05-03T21:54:26Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "stage/2026/may/03/you-are-here-review-danny-boyles-postwar-pop-culture-tribute-lets-it-all-hang-out",
+      "headline": "You Are Here review: Danny Boyle’s postwar pop-culture tribute lets it all hang out",
+      "summary": "Danny Boyle's immersive 'You Are Here' pop-culture spectacular opens at Southbank Centre.",
+      "url": "https://www.theguardian.com/p/x5x8jb",
+      "thumbnail": "https://media.guim.co.uk/f6d5766607f0067162cd4322c049b4935ab6e31c/156_0_3333_2667/500.jpg",
+      "published": "2026-05-03T21:42:22Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "stage"
+    },
+    {
+      "id": "football/2026/may/03/pep-guardiola-manchester-city-everton-premier-league",
+      "headline": "Pep Guardiola still has ‘incredible energy’ for Manchester City despite possible summer exit",
+      "summary": "Pep Guardiola affirms commitment to Manchester City amid contingency planning for potential summer departure.",
+      "url": "https://www.theguardian.com/p/x5vz6v",
+      "thumbnail": "https://media.guim.co.uk/f37d51e65f9a170a27af49150e13407e00bcc12b/71_0_3441_2753/500.jpg",
+      "published": "2026-05-03T21:31:04Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4831,
+        "lng": -2.2005
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "sport/2026/may/03/kimi-antonellis-miami-gp-win-his-best-yet-says-mercedes-chief-toto-wolff",
+      "headline": "Kimi Antonelli’s Miami GP win his best yet, says Mercedes chief Toto Wolff",
+      "summary": "Kimi Antonelli wins Miami Grand Prix, extending Formula 1 title lead; Toto Wolff praises teenager's performance.",
+      "url": "https://www.theguardian.com/p/x5vk9c",
+      "thumbnail": "https://media.guim.co.uk/dd50a92beb0d25f1760d8ae7067ab964e01ad776/500_0_5000_4000/500.jpg",
+      "published": "2026-05-03T21:28:54Z",
+      "location": {
+        "name": "Miami",
+        "lat": 25.7617,
+        "lng": -80.1918
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "football/2026/may/03/tottenham-display-more-important-than-points-says-roberto-de-zerbi",
+      "headline": "Tottenham display more important than points, says Roberto De Zerbi",
+      "summary": "Roberto De Zarbi's Tottenham beats Aston Villa; De Zarbi prioritizes performance over relegation battle points.",
+      "url": "https://www.theguardian.com/p/x5x8y7",
+      "thumbnail": "https://media.guim.co.uk/bb097ccd59657ec610fcd0eb5410933832fc323e/336_0_3360_2687/500.jpg",
+      "published": "2026-05-03T21:20:07Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "australia-news/2026/may/04/morning-mail-monday-ntwnfb",
+      "headline": "Morning Mail: Labor ranks uneasy over Albanese’s approach; RBA mulls rate rise; saving an imperilled dragon",
+      "summary": "Labor insiders question Albanese's centrist approach; RBA considers rate rise as economic pressures mount.",
+      "url": "https://www.theguardian.com/p/x5x7jp",
+      "thumbnail": "https://media.guim.co.uk/004c9a306cca4cf27d3844d8b17d62c338c0eb42/0_0_5000_4000/500.jpg",
+      "published": "2026-05-03T21:17:30Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "sport/2026/may/03/wu-yize-in-driving-seat-but-shaun-murphy-stays-in-touch-in-crucible-final",
+      "headline": "Wu Yize in driving seat but Shaun Murphy stays in touch in Crucible final",
+      "summary": "Wu Yize leads 10-7 in World Snooker Championship final against Shaun Murphy at the Crucible Theatre.",
+      "url": "https://www.theguardian.com/p/x5vk8c",
+      "thumbnail": "https://media.guim.co.uk/efc4fa467faa43dffc6a328d9b81b6d1ca07dd3f/165_0_4666_3732/500.jpg",
+      "published": "2026-05-03T21:08:31Z",
+      "location": {
+        "name": "Sheffield",
+        "lat": 53.3811,
+        "lng": -1.4668
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
     }
   ]
 }
