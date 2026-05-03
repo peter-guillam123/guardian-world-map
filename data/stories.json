@@ -1,60 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-03T14:59:18.260Z",
-    "story_count": 78,
-    "oldest_story": "2026-05-02T15:00:28Z",
-    "newest_story": "2026-05-03T14:57:14Z",
+    "generated_at": "2026-05-03T15:57:16.980Z",
+    "story_count": 84,
+    "oldest_story": "2026-05-02T16:00:29Z",
+    "newest_story": "2026-05-03T15:50:42Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/live/2026/may/02/arsenal-v-fulham-premier-league-live",
-      "headline": "Arsenal v Fulham: Premier League – live",
-      "summary": "Arsenal faces Fulham in Premier League match at Emirates Stadium in title race push.",
-      "url": "https://www.theguardian.com/p/x5vd9g",
-      "thumbnail": "https://media.guim.co.uk/386c7dab46c6ed906a5dd2e80431ea75b8dc001a/524_0_4888_3910/500.jpg",
-      "published": "2026-05-02T15:30:07Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/may/02/ol-lyonnes-arsenal-womens-champions-league-match-report",
-      "headline": "Jule Brand shatters Arsenal with late winner sending OL Lyonnes into WCL final",
-      "summary": "OL Lyonnes beats Arsenal 3-1 to reach Women's Champions League final with late Brand goal.",
-      "url": "https://www.theguardian.com/p/x5vjz5",
-      "thumbnail": "https://media.guim.co.uk/212e42b9e7bc223ab69a430de85cf1bc22302336/81_0_2935_2348/500.jpg",
-      "published": "2026-05-02T15:27:14Z",
-      "location": {
-        "name": "Lyon",
-        "lat": 45.764,
-        "lng": 4.8357
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "environment/2026/may/03/bus-public-transport-cuts-groceries-snap",
-      "headline": "Two buses, three hours and 13 miles: how Americans in ‘transit deserts’ get groceries without cars",
-      "summary": "Transit cuts in US create food insecurity crisis as public bus services decline post-pandemic.",
-      "url": "https://www.theguardian.com/p/x5vjz6",
-      "thumbnail": "https://media.guim.co.uk/266b7e545722e44f3b4b24d4a1f5a104f8cabd6f/354_0_3493_2794/500.jpg",
-      "published": "2026-05-02T15:00:28Z",
-      "location": {
-        "name": "Memphis",
-        "lat": 35.1495,
-        "lng": -90.049
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "environment"
-    },
     {
       "id": "sport/live/2026/may/02/f1-miami-grand-prix-sprint-race-qualifying",
       "headline": "Miami Grand Prix: F1 sprint race and qualifying updates – live",
@@ -134,22 +86,6 @@
       "category": "economy",
       "significance": 2,
       "section": "us-news"
-    },
-    {
-      "id": "uk-news/2026/may/02/organisers-challenge-starmer-threat-to-ban-some-pro-palestine-marches",
-      "headline": "Organisers challenge Starmer’s threat to ban some pro-Palestine marches",
-      "summary": "PM Starmer's threat to ban pro-Palestine marches sparks free speech concerns from organisers.",
-      "url": "https://www.theguardian.com/p/x5xxqk",
-      "thumbnail": "https://media.guim.co.uk/28cedd1e827dd394f3fb62fc8747fff55b6943cd/1000_0_5000_4000/500.jpg",
-      "published": "2026-05-02T15:53:56Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "uk-news"
     },
     {
       "id": "sport/2026/may/02/kostyuk-claims-biggest-win-of-career-with-victory-over-andreeva-to-take-madrid-open-tennis",
@@ -1254,6 +1190,166 @@
       "category": "economy",
       "significance": 2,
       "section": "uk-news"
+    },
+    {
+      "id": "us-news/2026/may/03/james-comey-indictment-instagram-post-seashells",
+      "headline": "Todd Blanche says case against Comey based on more than just Instagram post",
+      "summary": "Former FBI director James Comey indicted on felony charges beyond Instagram post, claims acting AG.",
+      "url": "https://www.theguardian.com/p/x5x7cj",
+      "thumbnail": "https://media.guim.co.uk/fb3a387ca6ec1a09588934c280f87fe0aee37d2b/381_0_4995_4000/500.jpg",
+      "published": "2026-05-03T15:50:42Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/may/03/sir-alex-ferguson-taken-to-hospital-manchester-united-liverpool-premier-league-manager",
+      "headline": "Sir Alex Ferguson taken to hospital before Manchester United v Liverpool game",
+      "summary": "Former Manchester United manager Sir Alex Ferguson hospitalized before Liverpool match.",
+      "url": "https://www.theguardian.com/p/x5x7e7",
+      "thumbnail": "https://media.guim.co.uk/2823c423de27c5a1da72dd05eb5cd6297baee9fa/269_0_2251_1801/500.jpg",
+      "published": "2026-05-03T15:40:36Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4631,
+        "lng": -2.2913
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "world/2026/may/03/spirit-pilot-send-off-from-southwest",
+      "headline": "Spirit pilot gets ‘overwhelming’ send-off from Southwest after his final flight is cancelled",
+      "summary": "Spirit Airlines pilot given emotional send-off by Southwest staff after final flight cancelled.",
+      "url": "https://www.theguardian.com/p/x5x786",
+      "thumbnail": "https://media.guim.co.uk/9622f9b72c32cb3a49de12993165885400cafaad/417_0_4167_3335/500.jpg",
+      "published": "2026-05-03T15:17:46Z",
+      "location": {
+        "name": "Baltimore",
+        "lat": 39.2904,
+        "lng": -76.6122
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "culture/2026/may/03/ittai-gradel-obituary",
+      "headline": "Ittai Gradel obituary",
+      "summary": "Antiquities dealer Ittai Gradel uncovered major British Museum thefts before his death.",
+      "url": "https://www.theguardian.com/p/x5x77y",
+      "thumbnail": "https://media.guim.co.uk/03afdfa123af28fa894d2eaf3803cd9d7d28f70c/566_0_6855_5484/500.jpg",
+      "published": "2026-05-03T15:08:10Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "culture"
+    },
+    {
+      "id": "football/2026/may/03/bournemouth-crystal-palace-premier-league-match-report",
+      "headline": "Bournemouth beat Crystal Palace with ease to keep Champions League dreams alive",
+      "summary": "Bournemouth defeats Crystal Palace 3-0 to maintain Champions League qualification hopes.",
+      "url": "https://www.theguardian.com/p/x5vkxg",
+      "thumbnail": "https://media.guim.co.uk/8d5dca7251d0df4124f80827cc466a7f3640ca38/639_0_3527_2822/500.jpg",
+      "published": "2026-05-03T15:05:48Z",
+      "location": {
+        "name": "Bournemouth",
+        "lat": 50.7352,
+        "lng": -1.8391
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "sport/blog/2026/may/04/the-swans-are-fast-bold-skilful-and-making-the-most-of-the-afls-new-rules-its-a-good-time-to-be-a-forward",
+      "headline": "The Swans are fast, bold, skilful – and making the most of the AFL’s new rules. It’s a good time to be a forward",
+      "summary": "Sydney Swans surge to top of AFL ladder with Malcolm Rosas Jr's seven-goal performance.",
+      "url": "https://www.theguardian.com/p/x5x5tt",
+      "thumbnail": "https://media.guim.co.uk/7e6b40cc1dccad179b14de96f4444e3d703bce65/319_0_3082_2467/500.jpg",
+      "published": "2026-05-03T15:00:07Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "us-news/2026/may/03/kaela-berg-running-minnesota-congress-democrat",
+      "headline": "‘No one better to fight for us than one of us’: Minnesota flight attendant runs for Congress",
+      "summary": "Minnesota flight attendant Kaela Berg runs for Congress with pro-union immigration message.",
+      "url": "https://www.theguardian.com/p/x5vtxc",
+      "thumbnail": "https://media.guim.co.uk/59d4c85518e1e720cad6964c8ffd00df939d7b20/39_0_2501_2000/500.jpg",
+      "published": "2026-05-03T15:00:06Z",
+      "location": {
+        "name": "Minnesota",
+        "lat": 45.6945,
+        "lng": -93.9196
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "environment/2026/may/04/victorian-grassland-earless-dragon-melbourne-zoo-endangered-species-second-extinction",
+      "headline": "How to conserve your dragon – and avoid losing Australia’s most imperilled reptile for a second time",
+      "summary": "Melbourne Zoo opens breeding centre to save critically endangered Victorian grassland earless dragon.",
+      "url": "https://www.theguardian.com/p/x5vy5f",
+      "thumbnail": "https://media.guim.co.uk/13984943428293d5aeaf3198e8847005c985c5a2/348_0_4068_3254/500.jpg",
+      "published": "2026-05-03T15:00:05Z",
+      "location": {
+        "name": "Melbourne",
+        "lat": -37.8136,
+        "lng": 144.9631
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "environment"
+    },
+    {
+      "id": "australia-news/2026/may/04/federal-budget-season-canberra-fundraising-oscars-for-politcal-nerds",
+      "headline": "The ‘Oscars for political nerds’ or a threat to democracy? Grab a ticket, it’s Canberra’s budget fundraiser season",
+      "summary": "Australian political parties host expensive budget fundraisers criticized as threat to democracy.",
+      "url": "https://www.theguardian.com/p/x5vg8v",
+      "thumbnail": "https://media.guim.co.uk/cf0b82d9052465717d4290c183caaeeadbb0dc62/707_0_5598_4479/500.jpg",
+      "published": "2026-05-03T15:00:05Z",
+      "location": {
+        "name": "Canberra",
+        "lat": -35.2809,
+        "lng": 149.13
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "australia-news/2026/may/04/rba-interest-rates-cash-rate-hike-predicted-reserve-bank-australia-inflation",
+      "headline": "Why the RBA is predicted to deliver a third straight interest rate hike this week",
+      "summary": "Reserve Bank predicted to raise interest rates for third straight month amid inflation pressures.",
+      "url": "https://www.theguardian.com/p/x5vyhn",
+      "thumbnail": "https://media.guim.co.uk/ad9458b435a1bdd8e0112e69f503b28a9f4c1e92/334_0_4102_3281/500.jpg",
+      "published": "2026-05-03T15:00:03Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "australia-news"
     }
   ]
 }
