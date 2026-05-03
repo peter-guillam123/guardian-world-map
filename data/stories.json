@@ -1,44 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-03T17:01:48.786Z",
+    "generated_at": "2026-05-03T17:58:34.229Z",
     "story_count": 93,
-    "oldest_story": "2026-05-02T17:03:10Z",
-    "newest_story": "2026-05-03T17:01:32Z",
+    "oldest_story": "2026-05-02T18:05:33Z",
+    "newest_story": "2026-05-03T17:39:40Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "sport/2026/may/02/kostyuk-claims-biggest-win-of-career-with-victory-over-andreeva-to-take-madrid-open-tennis",
-      "headline": "Kostyuk claims biggest title of career with victory over Andreeva in Madrid",
-      "summary": "Kostyuk wins Madrid Open tennis title, defeating Andreeva 6-3, 7-5 to break into top 15.",
-      "url": "https://www.theguardian.com/p/x5vk5n",
-      "thumbnail": "https://media.guim.co.uk/84c85bf942e2a04455bbb99437939742e3dcf9f6/0_0_2704_2163/500.jpg",
-      "published": "2026-05-02T17:04:52Z",
-      "location": {
-        "name": "Madrid",
-        "lat": 40.4168,
-        "lng": -3.7038
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "sport"
-    },
-    {
-      "id": "sport/2026/may/02/lando-norris-wins-sprint-race-at-f1-miami-grand-prix-as-mclaren-roar-back",
-      "headline": "Lando Norris wins sprint race at F1 Miami Grand Prix as McLaren roar back ",
-      "summary": "Lando Norris wins F1 Miami Grand Prix sprint race for McLaren ahead of teammate Piastri.",
-      "url": "https://www.theguardian.com/p/x5vk6x",
-      "thumbnail": "https://media.guim.co.uk/0947f90be81c9419c3febc68615eed40bd50d38f/300_0_2607_2086/500.jpg",
-      "published": "2026-05-02T17:03:10Z",
-      "location": {
-        "name": "Miami",
-        "lat": 25.7617,
-        "lng": -80.1918
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "sport"
-    },
     {
       "id": "sport/2026/may/02/naoya-inoue-junto-nakatani-tokyo-fight",
       "headline": "Naoya Inoue outshines Junto Nakatani in Tokyo showdown to keep super-bantamweight title",
@@ -1494,6 +1462,38 @@
       "category": "tech",
       "significance": 3,
       "section": "technology"
+    },
+    {
+      "id": "uk-news/2026/may/03/green-candidate-sabine-mairey-social-media-posts-canvassing-london",
+      "headline": "Green candidate seen canvassing in London after arrest over alleged antisemitism",
+      "summary": "Green candidate arrested for antisemitic posts continues campaigning in London.",
+      "url": "https://www.theguardian.com/p/x5x7ft",
+      "thumbnail": "https://media.guim.co.uk/7201c6509fbf4c086761e325f071c58eec2f4eda/36_50_378_302/master/378.jpg",
+      "published": "2026-05-03T17:39:40Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "us-news/2026/may/03/trump-disapproval-rating-poll",
+      "headline": "Trump’s disapproval rating hits record high, new poll shows",
+      "summary": "Trump's disapproval rating reaches record 62% amid economic concerns and Iran conflict.",
+      "url": "https://www.theguardian.com/p/x5x7dj",
+      "thumbnail": "https://media.guim.co.uk/a556e6f306b6c46fb751753f38f9464b51445771/339_0_7615_6092/500.jpg",
+      "published": "2026-05-03T17:00:03Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
     }
   ]
 }
