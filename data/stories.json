@@ -1,44 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-03T20:02:11.717Z",
+    "generated_at": "2026-05-03T21:00:15.591Z",
     "story_count": 86,
-    "oldest_story": "2026-05-02T20:30:59Z",
-    "newest_story": "2026-05-03T20:00:03Z",
+    "oldest_story": "2026-05-02T21:50:23Z",
+    "newest_story": "2026-05-03T20:41:38Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "world/2026/may/02/abortion-pill-emergency-appeal-supreme-court",
-      "headline": "Abortion pill maker asks US supreme court to halt ban on mail-order access",
-      "summary": "Abortion pill maker appeals to Supreme Court to block in-person exam requirement for mail-order access.",
-      "url": "https://www.theguardian.com/p/x5xxjj",
-      "thumbnail": "https://media.guim.co.uk/43e181758130d80db6d6448ef514952c8cf94795/476_0_4741_3795/500.jpg",
-      "published": "2026-05-02T20:33:56Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "health",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "football/2026/may/02/mikel-arteta-arsenal-fulham-premier-league-atletico-madrid",
-      "headline": "Arteta urges Arsenal to ‘use momentum’ from Fulham win in Atlético showdown",
-      "summary": "Arsenal beats Fulham 3-0, prepares for Atlético Madrid Champions League semi-final return leg.",
-      "url": "https://www.theguardian.com/p/x5vjnb",
-      "thumbnail": "https://media.guim.co.uk/540be67978ba88d23ba55b1ccbadeff79aff4975/440_0_2917_2333/500.jpg",
-      "published": "2026-05-02T20:30:59Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
     {
       "id": "sport/2026/may/02/kimi-antonelli-beats-max-verstappen-to-f1-miami-gp-pole-with-lando-norris-fourth",
       "headline": "Kimi Antonelli beats Max Verstappen to F1 Miami GP pole with Lando Norris fourth",
@@ -1382,6 +1350,38 @@
       "category": "conflict",
       "significance": 2,
       "section": "world"
+    },
+    {
+      "id": "football/2026/may/03/inter-win-serie-a-title-parma-football-italy",
+      "headline": "Inter cruise to Serie A title triumph after Thuram sparks victory over Parma",
+      "summary": "Inter Milan clinches Serie A title with 2-0 victory over Parma, securing 21st championship.",
+      "url": "https://www.theguardian.com/p/x5x8ej",
+      "thumbnail": "https://media.guim.co.uk/32aa7a2d7aafbf50854d117e3d3ae5416d22eed9/316_0_3703_2963/500.jpg",
+      "published": "2026-05-03T20:41:38Z",
+      "location": {
+        "name": "Milan",
+        "lat": 45.4642,
+        "lng": 9.19
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/may/03/aston-villa-tottenham-premier-league-match-report",
+      "headline": "Richarlison heads Tottenham past weakened Aston Villa and out of drop zone",
+      "summary": "Tottenham defeats Aston Villa 2-1 to escape relegation zone in Premier League.",
+      "url": "https://www.theguardian.com/p/x5vk35",
+      "thumbnail": "https://media.guim.co.uk/d6a84f5f676de4420ddfb0f81d3985aed72ddf88/252_10_2496_1997/500.jpg",
+      "published": "2026-05-03T20:07:36Z",
+      "location": {
+        "name": "Birmingham",
+        "lat": 52.5086,
+        "lng": -1.8853
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
     }
   ]
 }
