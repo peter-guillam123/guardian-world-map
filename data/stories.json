@@ -1,44 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-03T21:55:58.221Z",
-    "story_count": 92,
-    "oldest_story": "2026-05-02T22:06:10Z",
-    "newest_story": "2026-05-03T21:54:26Z",
+    "generated_at": "2026-05-03T22:53:56.071Z",
+    "story_count": 91,
+    "oldest_story": "2026-05-02T23:51:32Z",
+    "newest_story": "2026-05-03T22:00:05Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "australia-news/live/2026/may/03/politics-updates-liberals-nepean-byelection-victoria-anthony-albanese-labor-angus-taylor-matt-canavan-nationals-ntwnfb",
-      "headline": "Australia news live: three dead and man arrested in Sydney; Liberals claim seat of Nepean in key Victorian byelection",
-      "summary": "Three dead in Sydney incident; Liberals win Nepean byelection in Victoria.",
-      "url": "https://www.theguardian.com/p/x5x3mg",
-      "thumbnail": "https://media.guim.co.uk/0dd8d500bb82d23f4f62b813daf1d506d5751ec9/216_0_2155_1724/500.jpg",
-      "published": "2026-05-02T22:46:37Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "culture/2026/may/02/peter-kay-bomb-hoax-birmingham-man-charged",
-      "headline": "Man charged over bomb hoax after Peter Kay show evacuated ",
-      "summary": "Man charged over bomb hoax that evacuated Peter Kay comedy show in Birmingham.",
-      "url": "https://www.theguardian.com/p/x5x3jh",
-      "thumbnail": "https://media.guim.co.uk/61abc46aef3209c76e5c28b253fab5320fe6062e/385_0_2658_2126/500.jpg",
-      "published": "2026-05-02T22:06:10Z",
-      "location": {
-        "name": "Birmingham",
-        "lat": 52.5086,
-        "lng": -1.8853
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "culture"
-    },
     {
       "id": "australia-news/2026/may/03/nt-police-charge-jefferson-lewis-over-death-of-kumanjayi-little-baby-near-alice-springs-ntwnfb",
       "headline": "Jefferson Lewis charged with murder over death of Kumanjayi Little Baby near Alice Springs",
@@ -1477,6 +1445,22 @@
       },
       "category": "sport",
       "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "sport/2026/may/03/tennis-french-open-prize-money-novak-djokovic-jannik-sinner-aryna-sabalenka",
+      "headline": "Leading tennis players including Djokovic and Sabalenka unhappy with French Open prize money",
+      "summary": "Top tennis players protest French Open prize money, seeking higher pay and scheduling input.",
+      "url": "https://www.theguardian.com/p/x5x7cp",
+      "thumbnail": "https://media.guim.co.uk/e76e3c7c0fb5b26ee13be1aef8796f57c1e0af53/145_0_4710_3769/500.jpg",
+      "published": "2026-05-03T22:00:05Z",
+      "location": {
+        "name": "Paris",
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "category": "sport",
+      "significance": 3,
       "section": "sport"
     }
   ]
