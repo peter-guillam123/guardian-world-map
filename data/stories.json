@@ -1,92 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-03T06:37:10.784Z",
-    "story_count": 73,
-    "oldest_story": "2026-05-02T07:00:18Z",
-    "newest_story": "2026-05-03T06:05:19Z",
+    "generated_at": "2026-05-03T08:25:41.889Z",
+    "story_count": 70,
+    "oldest_story": "2026-05-02T09:00:22Z",
+    "newest_story": "2026-05-03T08:00:48Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "australia-news/2026/may/02/record-breaking-may-warmth-soon-to-blow-away-as-cold-front-moves-east",
-      "headline": "Record-breaking May warmth soon to blow away as cold front moves towards eastern Australia",
-      "summary": "Record May warmth in eastern Australia to be replaced by cold front with rain and thunderstorms.",
-      "url": "https://www.theguardian.com/p/x5xv8g",
-      "thumbnail": "https://media.guim.co.uk/6622a47d520fc7f8b5e89d3bff1b53ccb4439352/333_0_1410_1128/500.jpg",
-      "published": "2026-05-02T07:19:13Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "football/2026/may/02/casemiro-manchester-united-premier-league-football",
-      "headline": "Rejuvenated Casemiro heads for Manchester United exit on a high",
-      "summary": "Casemiro to exit Manchester United after stellar final season proving critics wrong.",
-      "url": "https://www.theguardian.com/p/x5vnm6",
-      "thumbnail": "https://media.guim.co.uk/90533d13c4ee5ab353244c910c3f1ee1af6d1652/344_0_3462_2770/500.jpg",
-      "published": "2026-05-02T07:01:18Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4831,
-        "lng": -2.2006
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "sport/2026/may/02/brendon-mccullum-missing-nearly-half-county-cricket-season-england",
-      "headline": "Cricket’s George Costanza: McCullum makes himself look vital by not turning up",
-      "summary": "England cricket coach Brendon McCullum absent for 43% of county season despite surviving review.",
-      "url": "https://www.theguardian.com/p/x5vnf6",
-      "thumbnail": "https://media.guim.co.uk/5ad7d17e87cce44db5ff95c64f10b6795215003f/0_0_5000_3999/500.jpg",
-      "published": "2026-05-02T07:00:19Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "money/2026/may/02/new-free-financial-advice-plan-aims-to-help-britons-build-savings",
-      "headline": "New free financial advice plan aims to help Britons build savings",
-      "summary": "UK financial institutions can now offer free targeted investment and pension advice to consumers.",
-      "url": "https://www.theguardian.com/p/x4pn44",
-      "thumbnail": "https://media.guim.co.uk/2f557ddc3c367c81fe57104ce018f8a0e3a154da/633_280_2687_2150/500.jpg",
-      "published": "2026-05-02T07:00:18Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "money"
-    },
-    {
-      "id": "football/2026/may/02/frenkie-de-jong-barcelona-interview-world-cup-netherlands",
-      "headline": "‘Of course, it crossed my mind’: Frenkie de Jong on refusing to leave Barcelona and his World Cup pain",
-      "summary": "Frenkie de Jong breaks Barcelona Dutch appearance record and eyes third league title with club.",
-      "url": "https://www.theguardian.com/p/x4ezxq",
-      "thumbnail": "https://media.guim.co.uk/7ceea6fd14444309ce3bac9920fc5e471f6fa58c/579_213_3067_2454/500.jpg",
-      "published": "2026-05-02T07:00:18Z",
-      "location": {
-        "name": "Barcelona",
-        "lat": 41.3851,
-        "lng": 2.1734
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
     {
       "id": "world/live/2026/may/02/us-israel-war-iran-germany-american-troops-donald-trump-middle-east-latest-news-updates",
       "headline": "Germany says it expected Trump’s withdrawal of US troops as row over Iran comments grows – live ",
@@ -1174,6 +1094,38 @@
       "category": "economy",
       "significance": 2,
       "section": "business"
+    },
+    {
+      "id": "music/2026/may/03/honest-playlist-tony-mortimer-east-17-madness-take-that-adele",
+      "headline": "‘Our rivalry with Take That was always tongue in cheek’: Tony Mortimer’s honest playlist",
+      "summary": "East 17's Tony Mortimer discusses his musical influences and 90s nostalgia in candid playlist interview.",
+      "url": "https://www.theguardian.com/p/x4ymz3",
+      "thumbnail": "https://media.guim.co.uk/f64bb9e9133cf763bda2dd229fd306fd76cd815b/93_0_9815_7849/500.jpg",
+      "published": "2026-05-03T08:00:48Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "music"
+    },
+    {
+      "id": "society/2026/may/03/hr-leaders-opposition-diversity-equity-inclusion-schemes-study",
+      "headline": "One in three HR leaders face opposition to inclusion schemes, study finds",
+      "summary": "Study reveals one in three UK HR leaders face opposition to diversity and inclusion initiatives.",
+      "url": "https://www.theguardian.com/p/x5vh49",
+      "thumbnail": "https://media.guim.co.uk/b6c4a3660717ac19dcc7deb92a75e8a37c523411/253_0_2995_2398/500.jpg",
+      "published": "2026-05-03T07:47:14Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "society"
     }
   ]
 }
