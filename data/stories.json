@@ -1,92 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-03T15:57:16.980Z",
-    "story_count": 84,
-    "oldest_story": "2026-05-02T16:00:29Z",
-    "newest_story": "2026-05-03T15:50:42Z",
+    "generated_at": "2026-05-03T17:01:48.786Z",
+    "story_count": 93,
+    "oldest_story": "2026-05-02T17:03:10Z",
+    "newest_story": "2026-05-03T17:01:32Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "sport/live/2026/may/02/f1-miami-grand-prix-sprint-race-qualifying",
-      "headline": "Miami Grand Prix: F1 sprint race and qualifying updates – live",
-      "summary": "F1 Miami Grand Prix sprint qualifying underway with Norris leading championship contenders.",
-      "url": "https://www.theguardian.com/p/x5vdde",
-      "thumbnail": "https://media.guim.co.uk/b6bf1420c5aabc94c5cbf78678adfcabaf27d782/0_1792_3721_2977/500.jpg",
-      "published": "2026-05-02T16:27:47Z",
-      "location": {
-        "name": "Miami",
-        "lat": 25.7907,
-        "lng": -80.2298
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "football/2026/may/02/brentford-west-ham-premier-league-match-report",
-      "headline": "West Ham’s survival bid dented by Brentford and Igor Thiago",
-      "summary": "Brentford defeats West Ham 3-0 in Premier League match, denting Hammers' survival hopes.",
-      "url": "https://www.theguardian.com/p/x5vjmy",
-      "thumbnail": "https://media.guim.co.uk/ca228c427649044efd932f7715be9d1aee4f4f2c/429_215_2550_2040/500.jpg",
-      "published": "2026-05-02T16:22:42Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/may/02/newcastle-brighton-premier-league-match-report",
-      "headline": "Barnes wraps up Newcastle win against Brighton to ease pressure on Howe",
-      "summary": "Newcastle beats Brighton 3-1 in Premier League, easing pressure on manager Howe.",
-      "url": "https://www.theguardian.com/p/x5vjmp",
-      "thumbnail": "https://media.guim.co.uk/e5025418128f0ca87d44eb36a6cf002533c9e2bf/433_0_2904_2324/500.jpg",
-      "published": "2026-05-02T16:19:21Z",
-      "location": {
-        "name": "Newcastle",
-        "lat": 54.9753,
-        "lng": -1.6243
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "politics/2026/may/02/reform-uk-funding-promoting-jcb-machine-farage-jenrick-anderson",
-      "headline": "Dig Deep! Reform frontbench promotes JCBs after £200,000 donation from firm",
-      "summary": "Reform UK politicians promoted JCB machines after party received £200,000 donation from firm.",
-      "url": "https://www.theguardian.com/p/x5xvpm",
-      "thumbnail": "https://media.guim.co.uk/45d1a2677a5ce93ba9a513b02ce3972cc7f328fa/784_0_4583_3667/500.jpg",
-      "published": "2026-05-02T16:00:29Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "us-news/2026/may/02/solar-midwest-energy-crisis",
-      "headline": "Solar booms in industrial US midwest as energy crisis persists",
-      "summary": "Solar energy boom expands in Midwest as datacenters and energy crisis drive electricity demand.",
-      "url": "https://www.theguardian.com/p/x5vkxf",
-      "thumbnail": "https://media.guim.co.uk/0073f6029745d79021e2b7ffd7fcfa68b89065aa/561_0_3201_2562/500.jpg",
-      "published": "2026-05-02T16:00:29Z",
-      "location": {
-        "name": "Lima",
-        "lat": 40.7424,
-        "lng": -83.6508
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "us-news"
-    },
     {
       "id": "sport/2026/may/02/kostyuk-claims-biggest-win-of-career-with-victory-over-andreeva-to-take-madrid-open-tennis",
       "headline": "Kostyuk claims biggest title of career with victory over Andreeva in Madrid",
@@ -114,38 +34,6 @@
         "name": "Miami",
         "lat": 25.7617,
         "lng": -80.1918
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "sport"
-    },
-    {
-      "id": "uk-news/2026/may/02/brixton-drive-by-shooting-violence-met-police",
-      "headline": "Brixton drive-by shooting ‘act of indiscriminate violence’, say Met police ",
-      "summary": "Drive-by shooting in Brixton leaves four hospitalized with one in life-threatening condition.",
-      "url": "https://www.theguardian.com/p/x5x2f4",
-      "thumbnail": "https://media.guim.co.uk/8f81d11053c1bb0a1f3bd7402bac4b849b0bb559/462_0_2500_2000/500.jpg",
-      "published": "2026-05-02T16:57:42Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "conflict",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "sport/2026/may/02/leinster-toulon-champions-cup-rugby-union-match-report",
-      "headline": "Leinster hold off late charge from Toulon to edge into Champions Cup final",
-      "summary": "Leinster defeats Toulon 29-25 in Champions Cup semi-final to reach Bilbao final.",
-      "url": "https://www.theguardian.com/p/x5vk5f",
-      "thumbnail": "https://media.guim.co.uk/9f9b15bc984885e651cd3cb207d2441d85efc525/161_0_3938_3151/500.jpg",
-      "published": "2026-05-02T16:32:15Z",
-      "location": {
-        "name": "Dublin",
-        "lat": 53.3498,
-        "lng": -6.2603
       },
       "category": "sport",
       "significance": 3,
@@ -1350,6 +1238,262 @@
       "category": "economy",
       "significance": 3,
       "section": "australia-news"
+    },
+    {
+      "id": "sport/live/2026/may/03/formula-one-miami-gp-race-updates-f1-live",
+      "headline": "Formula One: Miami GP race updates as storms threaten disruption – live",
+      "summary": "Formula One Miami GP underway as storms threaten disruption with Antonelli on pole.",
+      "url": "https://www.theguardian.com/p/x5vn6t",
+      "thumbnail": "https://media.guim.co.uk/25f7d87184b6774bc8ffad5e3d5044a73f7e2d5b/327_0_4359_3489/500.jpg",
+      "published": "2026-05-03T17:01:32Z",
+      "location": {
+        "name": "Miami",
+        "lat": 25.7617,
+        "lng": -80.1918
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "sport"
+    },
+    {
+      "id": "world/2026/may/03/northern-ireland-historian-uncovers-surprising-era-of-tolerance-of-gay-men",
+      "headline": "‘Live and let live’: Northern Ireland historian uncovers surprising era of tolerance of gay men",
+      "summary": "Historian reveals Northern Ireland's surprising era of tolerance toward gay men before 1950s.",
+      "url": "https://www.theguardian.com/p/x4zz5d",
+      "thumbnail": "https://media.guim.co.uk/54f13baba56b3d6b1dbfddcb1ba80719e4b9302e/0_340_1848_1476/500.jpg",
+      "published": "2026-05-03T17:00:02Z",
+      "location": {
+        "name": "Belfast",
+        "lat": 54.5973,
+        "lng": -5.9301
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "football/live/2026/may/03/aston-villa-v-tottenham-premier-league-live",
+      "headline": "Aston Villa v Tottenham: Premier League – live",
+      "summary": "Aston Villa host relegation-threatened Tottenham in Premier League encounter at 7pm BST.",
+      "url": "https://www.theguardian.com/p/x5vh7c",
+      "thumbnail": "https://media.guim.co.uk/f9ba8e1bbb9047a78ecd8b307935269fd28f2a8f/0_733_3559_2847/500.jpg",
+      "published": "2026-05-03T17:00:01Z",
+      "location": {
+        "name": "Birmingham",
+        "lat": 52.5086,
+        "lng": -1.8845
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "society/2026/may/03/lorraine-ribbons-obituary",
+      "headline": "Lorraine Ribbons obituary",
+      "summary": "Lorraine Ribbons, volunteer for heart disorder charity, dies aged 72.",
+      "url": "https://www.theguardian.com/p/x4pcmv",
+      "thumbnail": "https://media.guim.co.uk/a8c531ee0626db52ff61f9b55897c7b457fbc5a5/0_277_560_448/500.jpg",
+      "published": "2026-05-03T16:41:24Z",
+      "location": {
+        "name": "Edinburgh",
+        "lat": 55.9533,
+        "lng": -3.1883
+      },
+      "category": "other",
+      "significance": 1,
+      "section": "society"
+    },
+    {
+      "id": "football/2025/sep/15/premier-league-top-scorers-2025-26-who-is-leading-race-for-golden-boot",
+      "headline": "Premier League top scorers 2025-26: who is leading race for golden boot?",
+      "summary": "Premier League top scorers 2025-26: Erling Haaland leads with 24 goals for Manchester City.",
+      "url": "https://www.theguardian.com/p/x386fa",
+      "thumbnail": "https://media.guim.co.uk/25a17f223afb3ce61b02e0706e23edf6834f9b81/148_0_1905_1524/500.jpg",
+      "published": "2026-05-03T16:40:47Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "law/2026/may/03/sir-colin-mackay-obituary",
+      "headline": "Sir Colin Mackay obituary",
+      "summary": "Sir Colin Mackay, High Court judge known for sympathy and fairness, dies aged 82.",
+      "url": "https://www.theguardian.com/p/x4qxg5",
+      "thumbnail": "https://media.guim.co.uk/32f4b18cd7e93cb26f0de6fc062dd52d9431ce30/0_210_2400_1920/500.jpg",
+      "published": "2026-05-03T16:38:21Z",
+      "location": {
+        "name": "Edinburgh",
+        "lat": 55.9533,
+        "lng": -3.1883
+      },
+      "category": "other",
+      "significance": 1,
+      "section": "law"
+    },
+    {
+      "id": "football/2026/may/03/manchester-united-liverpool-premier-league-match-report",
+      "headline": "Manchester United seal Champions League return as Mainoo ends Liverpool comeback",
+      "summary": "Kobbie Mainoo scores winner as Manchester United beat Liverpool 3-2, seal Champions League.",
+      "url": "https://www.theguardian.com/p/x5vkxz",
+      "thumbnail": "https://media.guim.co.uk/e187b00b216894293df23d13a65e9d525f15c01c/110_0_2200_1760/500.jpg",
+      "published": "2026-05-03T16:36:43Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4631,
+        "lng": -2.2913
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "sport/2026/may/03/bordeaux-bath-champions-cup-semi-final-rugby-union-match-report",
+      "headline": "Lucu helps Bordeaux brush aside Bath to set up final showdown with Leinster",
+      "summary": "Bordeaux beat Bath 38-26 in Champions Cup semi-final; will face Leinster in final.",
+      "url": "https://www.theguardian.com/p/x5vk9j",
+      "thumbnail": "https://media.guim.co.uk/8a00cdaf42b788808553986852fa3ff1fcbc7eb2/160_0_2670_2136/500.jpg",
+      "published": "2026-05-03T16:35:11Z",
+      "location": {
+        "name": "Bordeaux",
+        "lat": 44.8378,
+        "lng": -0.5792
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "us-news/2026/may/03/university-of-south-florida-marine-lab-fire-lightning",
+      "headline": "Lightning may have sparked fire destroying top US marine science lab, officials say",
+      "summary": "Lightning may have sparked fire destroying University of South Florida's marine science lab.",
+      "url": "https://www.theguardian.com/p/x5x7ta",
+      "thumbnail": "https://media.guim.co.uk/6e9d50d7e6c6b9b79bf0bcb30a3c0ee417a15ac9/913_0_4272_3417/500.jpg",
+      "published": "2026-05-03T16:31:42Z",
+      "location": {
+        "name": "Tampa",
+        "lat": 27.9506,
+        "lng": -82.4572
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "uk-news/2026/may/03/louise-london-obituary",
+      "headline": "Louise London obituary",
+      "summary": "Louise London, solicitor and historian specializing in refugees, dies of cancer aged 78.",
+      "url": "https://www.theguardian.com/p/x4pxhx",
+      "thumbnail": "https://media.guim.co.uk/1170d7a9cb74dc719b96647aeb4f851f38f0c8e5/72_225_859_687/500.jpg",
+      "published": "2026-05-03T16:15:17Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "other",
+      "significance": 1,
+      "section": "uk-news"
+    },
+    {
+      "id": "culture/2026/may/03/arts-council-england-is-focused-on-investment-outside-london",
+      "headline": "Arts Council England is focused on investment outside London",
+      "summary": "Arts Council England reports £40m invested in northern regions through Arts Everywhere Fund.",
+      "url": "https://www.theguardian.com/p/x5vhcm",
+      "thumbnail": "https://media.guim.co.uk/e5577f4ba7c2ae9e9485c1db56b6d7168dca7d85/653_0_3033_2426/500.jpg",
+      "published": "2026-05-03T16:13:57Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "culture"
+    },
+    {
+      "id": "uk-news/2026/may/03/explosion-house-bristol-major-incident",
+      "headline": "Two people dead after explosion at house in Bristol",
+      "summary": "Two dead after suspicious explosion at Bristol house declared major incident by police.",
+      "url": "https://www.theguardian.com/p/x5x6e5",
+      "thumbnail": "https://media.guim.co.uk/cd2b9a4ad5f1e9e19c66502372155fb0ac9ece1b/480_0_3290_2632/500.jpg",
+      "published": "2026-05-03T16:13:27Z",
+      "location": {
+        "name": "Bristol",
+        "lat": 51.4545,
+        "lng": -2.5879
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "uk-news"
+    },
+    {
+      "id": "technology/ng-interactive/2026/may/03/ai-facial-recognition-oversight-lagging-far-behind-technology-watchdogs-warn",
+      "headline": "AI facial recognition oversight lagging far behind technology, watchdogs warn",
+      "summary": "UK biometrics watchdogs warn facial recognition oversight lags behind rapidly growing AI technology.",
+      "url": "https://www.theguardian.com/p/x5vnym",
+      "thumbnail": "https://media.guim.co.uk/1c1b06bc7a14c84ec55ad4bed812f6d4df67ff2e/1_0_2499_2000/500.jpg",
+      "published": "2026-05-03T16:00:02Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "tech",
+      "significance": 3,
+      "section": "technology"
+    },
+    {
+      "id": "technology/2026/may/03/guilty-until-proven-innocent-shoppers-falsely-identified-by-facial-recognition-struggle-to-clear-their-name",
+      "headline": "Guilty until proven innocent: shoppers falsely identified by facial recognition system struggle to clear their names",
+      "summary": "Shoppers wrongly identified by facial recognition systems struggle to clear names after false accusations.",
+      "url": "https://www.theguardian.com/p/x5v8cb",
+      "thumbnail": "https://media.guim.co.uk/b6037a905390b66257076124ebf69f75ea027501/1_0_2499_2000/500.jpg",
+      "published": "2026-05-03T16:00:01Z",
+      "location": {
+        "name": "Chester",
+        "lat": 53.1898,
+        "lng": -2.8929
+      },
+      "category": "tech",
+      "significance": 2,
+      "section": "technology"
+    },
+    {
+      "id": "football/2026/may/03/fit-and-firing-bukayo-saka-injects-fresh-belief-into-arsenals-title-challenge",
+      "headline": "Fit and firing Bukayo Saka injects fresh belief into Arsenal’s title challenge",
+      "summary": "Arsenal winger Bukayo Saka returns to form, boosting title challenge against Manchester City.",
+      "url": "https://www.theguardian.com/p/x5vpez",
+      "thumbnail": "https://media.guim.co.uk/5b26fdbeba40260219829f50ca2b43732e177482/556_424_3161_2529/500.jpg",
+      "published": "2026-05-03T16:00:01Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "technology/ng-interactive/2026/may/03/how-does-live-facial-recognition-work-and-how-many-uk-police-forces-use-it",
+      "headline": "How does live facial recognition work and how many UK police forces use it?",
+      "summary": "Live facial recognition deployed by UK police since 2020 raises data privacy and racial bias concerns.",
+      "url": "https://www.theguardian.com/p/x5vnmm",
+      "thumbnail": "https://media.guim.co.uk/01066da73eeea045f2f1be8a05e736470fbfa21f/1_0_2499_2000/500.jpg",
+      "published": "2026-05-03T16:00:00Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "tech",
+      "significance": 3,
+      "section": "technology"
     }
   ]
 }
