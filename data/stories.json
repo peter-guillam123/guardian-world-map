@@ -1,28 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-03T13:57:42.144Z",
-    "story_count": 74,
-    "oldest_story": "2026-05-02T14:20:15Z",
-    "newest_story": "2026-05-03T13:56:18Z",
+    "generated_at": "2026-05-03T14:59:18.260Z",
+    "story_count": 78,
+    "oldest_story": "2026-05-02T15:00:28Z",
+    "newest_story": "2026-05-03T14:57:14Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "politics/2026/may/02/kemi-badenoch-social-media-posts-bloody-sunday-footage",
-      "headline": "Badenoch apologises after Bloody Sunday footage used in post defending UK veterans",
-      "summary": "Tory leader Badenoch apologizes for using Bloody Sunday footage in social media posts defending UK veterans.",
-      "url": "https://www.theguardian.com/p/x5xxm8",
-      "thumbnail": "https://media.guim.co.uk/308c2c8bd49ff1d7f58a4306ad75bdd3e44b3bd0/218_0_2319_1855/500.jpg",
-      "published": "2026-05-02T14:20:15Z",
-      "location": {
-        "name": "Northern Ireland",
-        "lat": 54.5973,
-        "lng": -6.3026
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
     {
       "id": "football/live/2026/may/02/arsenal-v-fulham-premier-league-live",
       "headline": "Arsenal v Fulham: Premier League – live",
@@ -1190,6 +1174,86 @@
       "category": "politics",
       "significance": 2,
       "section": "commentisfree"
+    },
+    {
+      "id": "world/2026/may/03/canada-first-non-european-nation-epc-summit-mark-carney-allies-trump",
+      "headline": "Canada to be first non-European nation at EPC summit as Carney seeks allies",
+      "summary": "Canada attends European Political Community summit in Armenia as PM Carney builds diplomatic ties.",
+      "url": "https://www.theguardian.com/p/x5x6q6",
+      "thumbnail": "https://media.guim.co.uk/bf3f549676856d47907eb5b6e4245ed494782ffb/924_0_4176_3342/500.jpg",
+      "published": "2026-05-03T14:57:14Z",
+      "location": {
+        "name": "Yerevan",
+        "lat": 40.1792,
+        "lng": 44.5087
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "music/2026/may/03/tales-of-love-and-loss-review-royal-opera-triple-bill-linbury-theatre-london",
+      "headline": "Tales of Love and Loss review – hauntings, tragicomedy and tweezer-sharp wit in Royal Opera triple bill",
+      "summary": "Royal Opera triple bill showcases diverse works on love and loss at Linbury theatre.",
+      "url": "https://www.theguardian.com/p/x5x6np",
+      "thumbnail": "https://media.guim.co.uk/f73f07b1854212651d55cb26150a9ddad6ab6afe/622_0_6220_4979/500.jpg",
+      "published": "2026-05-03T14:39:46Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "music"
+    },
+    {
+      "id": "fashion/2026/may/03/met-gala-jeff-bezos-art-fashion-new-york",
+      "headline": "Fashion’s Faustian pact: the high cost of Jeff Bezos’s Met Gala patronage",
+      "summary": "Jeff Bezos's Met Gala patronage sparks controversy over fashion event's commercialization.",
+      "url": "https://www.theguardian.com/p/x5vm4v",
+      "thumbnail": "https://media.guim.co.uk/2531cec756d53c67c34647fe8bf6b9f2bc6c24d0/500_140_2907_2325/500.jpg",
+      "published": "2026-05-03T14:22:49Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "fashion"
+    },
+    {
+      "id": "us-news/2026/may/03/white-house-press-dinner-shooting-jeanine-pirro",
+      "headline": "Jeanine Pirro says she has evidence officer was shot at White House press dinner",
+      "summary": "US attorney says federal agent was shot during alleged Trump assassination attempt at press dinner.",
+      "url": "https://www.theguardian.com/p/x5x747",
+      "thumbnail": "https://media.guim.co.uk/4771500615dbf3acaa7e5acd30ae02874606ad59/688_0_6880_5504/500.jpg",
+      "published": "2026-05-03T14:15:35Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "uk-news/2026/may/03/heathrow-talks-deal-airlines-row-third-runway-expansion-delay",
+      "headline": "Heathrow in talks with airlines to end row that could delay third runway",
+      "summary": "Heathrow seeks deal with airlines and landowner to resolve third runway expansion row.",
+      "url": "https://www.theguardian.com/p/x5x65k",
+      "thumbnail": "https://media.guim.co.uk/6fd18d0b42a5e43677fd428df8b83026a66fa140/888_868_2939_2353/500.jpg",
+      "published": "2026-05-03T14:00:02Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "uk-news"
     }
   ]
 }
