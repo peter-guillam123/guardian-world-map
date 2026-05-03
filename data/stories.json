@@ -1,60 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-03T11:31:48.371Z",
-    "story_count": 63,
-    "oldest_story": "2026-05-02T11:38:52Z",
-    "newest_story": "2026-05-03T11:30:22Z",
+    "generated_at": "2026-05-03T12:33:43.899Z",
+    "story_count": 69,
+    "oldest_story": "2026-05-02T13:00:26Z",
+    "newest_story": "2026-05-03T12:31:15Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/live/2026/may/02/championship-finale-ipswich-millwall-and-middlesbrough-vie-for-automatic-promotion-live",
-      "headline": "Championship finale: Ipswich, Millwall and Middlesbrough vie for automatic promotion – live",
-      "summary": "Championship finale: Ipswich, Millwall and Middlesbrough compete for automatic promotion.",
-      "url": "https://www.theguardian.com/p/x5vd3y",
-      "thumbnail": "https://media.guim.co.uk/97af5cd88b5895fd7b186b5f780d3f50f87a2954/641_20_2052_1642/500.jpg",
-      "published": "2026-05-02T12:00:33Z",
-      "location": {
-        "name": "England",
-        "lat": 52.6369,
-        "lng": -1.1398
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "sport/live/2026/may/02/horse-racing-2000-guineas-day-2026-live-news-and-updates",
-      "headline": "Horse racing: 2,000 Guineas day 2026 – live news and updates",
-      "summary": "2,000 Guineas horse racing day at Newmarket with 15-runner field led by Bow Echo.",
-      "url": "https://www.theguardian.com/p/x5vz3f",
-      "thumbnail": "https://media.guim.co.uk/798636ab4e29cb726193c4e2d86bcbd904330a4d/400_0_3537_2830/500.jpg",
-      "published": "2026-05-02T11:50:02Z",
-      "location": {
-        "name": "Newmarket",
-        "lat": 52.194,
-        "lng": 0.4049
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "environment/2026/may/02/humpback-whale-rescue-release-stranded-germany-baltic-coast",
-      "headline": "Rescuers release humpback whale that was stranded off German coast",
-      "summary": "Humpback whale calf rescued and released off German Baltic coast after stranding.",
-      "url": "https://www.theguardian.com/p/x5xx3e",
-      "thumbnail": "https://media.guim.co.uk/3c4c6658fb290f2ccd3dde8285ebe98449f0a8e4/172_0_465_372/master/465.jpg",
-      "published": "2026-05-02T11:38:52Z",
-      "location": {
-        "name": "Germany",
-        "lat": 51.1657,
-        "lng": 10.4515
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "environment"
-    },
     {
       "id": "football/live/2026/may/02/ol-lyonnes-v-arsenal-womens-champions-league-semi-final-second-leg-live",
       "headline": "OL Lyonnes v Arsenal: Women’s Champions League semi-final, second leg – live",
@@ -1014,6 +966,150 @@
       "category": "politics",
       "significance": 2,
       "section": "politics"
+    },
+    {
+      "id": "sport/live/2026/may/03/shaun-murphy-v-wu-yize-world-snooker-championship-final-day-one-live",
+      "headline": "Shaun Murphy v Wu Yize: World Snooker Championship final day one – live",
+      "summary": "Shaun Murphy faces Wu Yize in World Snooker Championship final at the Crucible.",
+      "url": "https://www.theguardian.com/p/x5vhdt",
+      "thumbnail": "https://media.guim.co.uk/fee042bd59d2cc1d23ad96e32f9c6f40a23518fc/468_212_3737_2990/500.jpg",
+      "published": "2026-05-03T12:31:15Z",
+      "location": {
+        "name": "Sheffield",
+        "lat": 53.3811,
+        "lng": -1.4701
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "sport"
+    },
+    {
+      "id": "uk-news/2026/may/03/female-sudanese-asylum-seekers-die-trying-to-cross-channel",
+      "headline": "Two female Sudanese asylum seekers die trying to cross Channel",
+      "summary": "Two female Sudanese asylum seekers die attempting to cross English Channel near Boulogne.",
+      "url": "https://www.theguardian.com/p/x5x65t",
+      "thumbnail": "https://media.guim.co.uk/66c60c6ff7dc7aab83b5eade3ac0b86e081d3850/975_1175_2992_2393/500.jpg",
+      "published": "2026-05-03T12:30:52Z",
+      "location": {
+        "name": "Boulogne-sur-Mer",
+        "lat": 50.726,
+        "lng": 1.6243
+      },
+      "category": "health",
+      "significance": 3,
+      "section": "uk-news"
+    },
+    {
+      "id": "football/live/2026/may/03/premier-league-latest-scottish-title-race-heating-up-and-more-football-live",
+      "headline": "Hibernian v Celtic, Manchester United v Liverpool build-up and more – football live",
+      "summary": "Hibernian face Celtic in Scottish Premiership match as title race intensifies.",
+      "url": "https://www.theguardian.com/p/x5vh8n",
+      "thumbnail": "https://media.guim.co.uk/2ba5754c863034fb32ce65c48c55f26275e23e0c/766_259_2066_1652/500.jpg",
+      "published": "2026-05-03T12:27:56Z",
+      "location": {
+        "name": "Edinburgh",
+        "lat": 55.9533,
+        "lng": -3.1883
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "sport/live/2026/may/03/horse-racing-1000-guineas-day-2026-live",
+      "headline": "Horse racing: Precise the favourite for 1,000 Guineas as O’Brien chases record – live",
+      "summary": "Precise leads 1,000 Guineas betting at Newmarket with O'Brien seeking record wins.",
+      "url": "https://www.theguardian.com/p/x5vz6d",
+      "thumbnail": "https://media.guim.co.uk/d4062fd29f29946ceb40481b0dadc7c263c0d6c5/797_0_3478_2783/500.jpg",
+      "published": "2026-05-03T12:20:42Z",
+      "location": {
+        "name": "Newmarket",
+        "lat": 52.2384,
+        "lng": 0.4084
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "music/2026/may/03/gabriela-montero-review-radiant-renderings-of-postcard-spain-with-an-excursion-into-the-beatles",
+      "headline": "Gabriela Montero review – radiant renderings of postcard Spain with an excursion into the Beatles",
+      "summary": "Venezuelan pianist Gabriela Montero delivers dazzling Spanish-themed recital at Milton Court.",
+      "url": "https://www.theguardian.com/p/x5x5ya",
+      "thumbnail": "https://media.guim.co.uk/bc4c1ceda039432b6a6ef865ca1a163debe53459/777_992_2360_1888/500.jpg",
+      "published": "2026-05-03T12:15:41Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "music"
+    },
+    {
+      "id": "football/2026/may/03/arsenal-ol-lyonnes-gunners-are-not-in-decline-womens-champions-league",
+      "headline": "Arsenal ponder fine margins after OL Lyonnes defeat but Gunners are not in decline",
+      "summary": "OL Lyonnes defeats Arsenal to reach Women's Champions League final with tight victory.",
+      "url": "https://www.theguardian.com/p/x5x45t",
+      "thumbnail": "https://media.guim.co.uk/dbf875df9cf55caf7e7121f41f6a35872614b03a/337_0_1929_1543/500.jpg",
+      "published": "2026-05-03T12:00:25Z",
+      "location": {
+        "name": "Lyon",
+        "lat": 45.764,
+        "lng": 4.8357
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "science/2026/may/03/nasa-budget-science-trump-isaacman",
+      "headline": "Nasa brought crashing down to earth as budget threat follows lunar success",
+      "summary": "NASA faces budget cuts threat despite Artemis II success under Trump administration.",
+      "url": "https://www.theguardian.com/p/x4q8em",
+      "thumbnail": "https://media.guim.co.uk/cc68bd736c87149fe5db272e752282067ed7d058/616_0_6156_4925/500.jpg",
+      "published": "2026-05-03T12:00:01Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "science"
+    },
+    {
+      "id": "us-news/2026/may/03/epstein-ghislaine-maxwell-clemency",
+      "headline": "Republicans appear split on idea of clemency for Ghislaine Maxwell",
+      "summary": "Republicans divided on clemency for Ghislaine Maxwell to aid Epstein investigation.",
+      "url": "https://www.theguardian.com/p/x5vjee",
+      "thumbnail": "https://media.guim.co.uk/abc2d5646dd6bc159e70930b929b2a46a59c284e/274_0_2876_2301/500.jpg",
+      "published": "2026-05-03T12:00:00Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "food/2026/may/03/jamies-italian-reopens-jamie-oliver-london",
+      "headline": "‘We don’t want to make the same mistakes’: Jamie’s Italian reopens in London",
+      "summary": "Jamie's Italian reopens in Leicester Square with new strategy after 2019 collapse.",
+      "url": "https://www.theguardian.com/p/x5vcmj",
+      "thumbnail": "https://media.guim.co.uk/43dfca3d43b97a8e8f0eeff7f25340be4f2e7ea6/547_0_9796_7837/500.jpg",
+      "published": "2026-05-03T12:00:00Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "food"
     }
   ]
 }
