@@ -1,156 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-03T10:46:06.011Z",
-    "story_count": 67,
-    "oldest_story": "2026-05-02T11:00:23Z",
-    "newest_story": "2026-05-03T10:44:15Z",
+    "generated_at": "2026-05-03T11:31:48.371Z",
+    "story_count": 63,
+    "oldest_story": "2026-05-02T11:38:52Z",
+    "newest_story": "2026-05-03T11:30:22Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "uk-news/2026/may/02/domestic-abuse-deaths-suicide-justice-england-wales",
-      "headline": "Only 3% of suicides linked to domestic abuse result in prosecution, data shows",
-      "summary": "Only 3% of domestic abuse-linked suicides in England and Wales result in prosecution, new data reveals.",
-      "url": "https://www.theguardian.com/p/x5vhmf",
-      "thumbnail": "https://media.guim.co.uk/37422b061098ba5f707f0d09851306436ce727c3/113_0_3483_2786/500.jpg",
-      "published": "2026-05-02T11:00:26Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "health",
-      "significance": 3,
-      "section": "uk-news"
-    },
-    {
-      "id": "sport/live/2026/may/02/naoya-inoue-v-junto-nakatani-fight-live-updates",
-      "headline": "Naoya Inoue v Junto Nakatani: undisputed super-bantamweight championship – live updates",
-      "summary": "Naoya Inoue faces Junto Nakatani for undisputed super-bantamweight title at Tokyo Dome.",
-      "url": "https://www.theguardian.com/p/x5xxab",
-      "thumbnail": "https://media.guim.co.uk/58a297d16a6522df1363b0c9a778ce330351fd05/440_0_7200_5760/500.jpg",
-      "published": "2026-05-02T11:00:26Z",
-      "location": {
-        "name": "Tokyo",
-        "lat": 35.6762,
-        "lng": 139.6503
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "sport"
-    },
-    {
-      "id": "world/2026/may/02/landstuhl-german-town-rocked-trump-plan-withdraw-us-troops",
-      "headline": "‘We love our Americans’: the German town rocked by Trump’s plan to withdraw US troops",
-      "summary": "German town Landstuhl reacts to Trump's plan to withdraw US troops stationed since 1945.",
-      "url": "https://www.theguardian.com/p/x5vnvy",
-      "thumbnail": "https://media.guim.co.uk/373dfbf14a247c449ca86af7f20c5e307c8a5efb/484_0_4564_3651/500.jpg",
-      "published": "2026-05-02T11:00:26Z",
-      "location": {
-        "name": "Landstuhl",
-        "lat": 49.76,
-        "lng": 7.75
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "lifeandstyle/2026/may/02/date-my-mate-event-talking",
-      "headline": "‘Sick of swiping’: the dating event where your mates do the talking",
-      "summary": "'Date My Mate' events gain popularity as alternative to dating apps across the UK.",
-      "url": "https://www.theguardian.com/p/x5vnkd",
-      "thumbnail": "https://media.guim.co.uk/91e879dc11048ed6fe8847af574e4f1851b770d2/1442_1_5171_4136/500.jpg",
-      "published": "2026-05-02T11:00:25Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "lifeandstyle"
-    },
-    {
-      "id": "global-development/2026/may/02/zambia-cancels-rightscon-summit-largest-human-rights-technology-conference",
-      "headline": "Zambia cancels world’s largest human rights and tech summit days before start ",
-      "summary": "Zambia cancels RightsCon 2026 human rights and tech summit days before start.",
-      "url": "https://www.theguardian.com/p/x5vt4d",
-      "thumbnail": "https://media.guim.co.uk/6fabe623e836d0efa2c73039159dbccc5d3b9e9b/82_0_3333_2667/500.jpg",
-      "published": "2026-05-02T11:00:24Z",
-      "location": {
-        "name": "Lusaka",
-        "lat": -15.3875,
-        "lng": 28.3228
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "global-development"
-    },
-    {
-      "id": "business/2026/may/02/gen-z-investors-crypto-boom",
-      "headline": "Less financial stability, smaller social safety nets: inside the gen Z investing boom",
-      "summary": "Gen Z investors embrace crypto and market apps amid job insecurity and smaller safety nets.",
-      "url": "https://www.theguardian.com/p/x5vdfq",
-      "thumbnail": "https://media.guim.co.uk/0a07ee40e410ba3db6540e8e135c23e304140037/0_0_3000_2400/500.jpg",
-      "published": "2026-05-02T11:00:24Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "environment/2026/may/02/the-lost-words-authors-jackie-morris-robert-macfarlane-reunite-book-of-birds",
-      "headline": "To give young people wings: The Lost Words duo reunite for book of birds",
-      "summary": "Jackie Morris and Robert Macfarlane reunite for new book celebrating Britain's endangered bird species.",
-      "url": "https://www.theguardian.com/p/x5ve85",
-      "thumbnail": "https://media.guim.co.uk/fe14e2f20fbd73e6003dc2c45339358c914fd336/141_2148_5131_4103/500.jpg",
-      "published": "2026-05-02T11:00:23Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "environment"
-    },
-    {
-      "id": "world/2026/may/02/israeli-militants-attack-west-bank-schools-settler-violence",
-      "headline": "‘Go inside, he will kill you’: Israeli militants step up West Bank school attacks",
-      "summary": "Israeli militants intensify attacks on West Bank schools, killing 14-year-old student Aws al-Naasan.",
-      "url": "https://www.theguardian.com/p/x5vc3k",
-      "thumbnail": "https://media.guim.co.uk/0597a4517668ad7b906079519f3d7d20b352e24f/0_96_1097_878/500.jpg",
-      "published": "2026-05-02T11:00:23Z",
-      "location": {
-        "name": "Ramallah",
-        "lat": 31.9454,
-        "lng": 35.1975
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "football/2026/may/02/wrexham-afc-taxpayer-funds-pitch-upgrades",
-      "headline": "Wrexham AFC used taxpayer funds for pitch upgrades not mentioned in initial grant",
-      "summary": "Wrexham AFC used taxpayer funds for pitch upgrades not mentioned in original £18m grant documents.",
-      "url": "https://www.theguardian.com/p/x4pnv3",
-      "thumbnail": "https://media.guim.co.uk/6c63a82e638053dc6ff0c28a4dd1fb05eab8b096/249_0_3002_2402/500.jpg",
-      "published": "2026-05-02T11:00:23Z",
-      "location": {
-        "name": "Wrexham",
-        "lat": 53.0469,
-        "lng": -3.0048
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "football"
-    },
     {
       "id": "football/live/2026/may/02/championship-finale-ipswich-millwall-and-middlesbrough-vie-for-automatic-promotion-live",
       "headline": "Championship finale: Ipswich, Millwall and Middlesbrough vie for automatic promotion – live",
@@ -198,22 +54,6 @@
       "category": "climate",
       "significance": 2,
       "section": "environment"
-    },
-    {
-      "id": "culture/ng-interactive/2026/may/02/infowars-onion-tim-heidecker",
-      "headline": "‘We have to mock the site’s insanity’: comedian Tim Heidecker on the allure of becoming Infowars’ new boss",
-      "summary": "Comedian Tim Heidecker plans satirical takeover of Infowars website via The Onion.",
-      "url": "https://www.theguardian.com/p/x5vj2x",
-      "thumbnail": "https://media.guim.co.uk/4365f4cbdae7abe55a640e0ef5b7ab4be377eff5/0_556_3000_2398/500.jpg",
-      "published": "2026-05-02T11:00:26Z",
-      "location": {
-        "name": "United States",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "culture"
     },
     {
       "id": "football/live/2026/may/02/ol-lyonnes-v-arsenal-womens-champions-league-semi-final-second-leg-live",
@@ -1078,6 +918,102 @@
       "category": "politics",
       "significance": 3,
       "section": "us-news"
+    },
+    {
+      "id": "world/2026/may/03/beijing-restaurant-starmer-visit-fully-booked-prime-minister-menu",
+      "headline": "‘We wanted a taste of what they had’: the Beijing restaurant dining out on Starmer visit",
+      "summary": "Beijing restaurant fully booked after PM Starmer's visit, offering special menu based on his meal.",
+      "url": "https://www.theguardian.com/p/x4zm7c",
+      "thumbnail": "https://media.guim.co.uk/34d5a3314ee1264ff8e77e574a976e198abae2ea/0_59_1847_1477/500.jpg",
+      "published": "2026-05-03T11:30:22Z",
+      "location": {
+        "name": "Beijing",
+        "lat": 39.9042,
+        "lng": 116.4074
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "stage/2026/may/03/kohlhaas-review-arinze-kene-omar-elerian-brighton-dome-corn-exchange",
+      "headline": "Kohlhaas review –Arinzé Kene thunders as a wronged resistance fighter speaking truth to power",
+      "summary": "Arinzé Kene stars in Kohlhaas production at Brighton Dome exploring resistance and personal cost.",
+      "url": "https://www.theguardian.com/p/x5x68z",
+      "thumbnail": "https://media.guim.co.uk/9004d7c1b0d1ea03185a3d1b76c2af7601727c73/1585_1735_2831_2265/500.jpg",
+      "published": "2026-05-03T11:24:41Z",
+      "location": {
+        "name": "Brighton",
+        "lat": 50.8629,
+        "lng": -0.084
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "stage"
+    },
+    {
+      "id": "books/2026/may/03/i-wanted-it-to-feel-both-shakespearean-and-like-jay-z-debut-author-sufiyaan-salam-on-masculinity-rap-and-meeting-stormzy",
+      "headline": "‘I wanted it to feel both Shakespearean and like Jay-Z’: debut author Sufiyaan Salam on masculinity, rap and meeting Stormzy",
+      "summary": "Debut author Sufiyaan Salam discusses Wimmy Road Boyz, blending Shakespearean and rap influences.",
+      "url": "https://www.theguardian.com/p/x4ptyj",
+      "thumbnail": "https://media.guim.co.uk/c58625a685012d275527274716d1d7de68cae576/77_399_1193_953/500.jpg",
+      "published": "2026-05-03T11:00:54Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "books"
+    },
+    {
+      "id": "lifeandstyle/2026/may/03/dining-across-the-divide-callum-emma",
+      "headline": "Dining across the divide: ‘He’s pro-royal and doesn’t think the monarchy can just be abolished’",
+      "summary": "Young couple debate monarchy and national symbols over dinner in political divide dining series.",
+      "url": "https://www.theguardian.com/p/x4pgnv",
+      "thumbnail": "https://media.guim.co.uk/1e8585c03a768be2373d70bad7d23ee5104a4378/696_0_6742_5394/500.jpg",
+      "published": "2026-05-03T11:00:52Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 1,
+      "section": "lifeandstyle"
+    },
+    {
+      "id": "environment/2026/may/03/farming-co-operatives-could-unleash-growth-food-security-global-crises-resilience",
+      "headline": "More farming co-operatives could ‘unleash growth’ in UK, finds report",
+      "summary": "Report finds farming co-operatives could boost UK growth and improve food security resilience.",
+      "url": "https://www.theguardian.com/p/x5vn4v",
+      "thumbnail": "https://media.guim.co.uk/6641ac1bb2ff8de7ffac6f6fc3cdf435281d5c0e/317_0_3185_2547/500.jpg",
+      "published": "2026-05-03T10:55:25Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "environment"
+    },
+    {
+      "id": "politics/2026/may/03/reform-uk-leicestershire-council-backs-release-wild-beavers-row-rewilding",
+      "headline": "Reform UK council backs release of beavers amid party row over rewilding",
+      "summary": "Reform UK council backs beaver release to reduce flooding despite party's rewilding opposition.",
+      "url": "https://www.theguardian.com/p/x5x63b",
+      "thumbnail": "https://media.guim.co.uk/c6be7c6a230c201716d27b8404c9cc20f9d4c078/1047_487_3807_3048/500.jpg",
+      "published": "2026-05-03T10:50:35Z",
+      "location": {
+        "name": "Leicestershire",
+        "lat": 52.6369,
+        "lng": -1.1398
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
     }
   ]
 }
