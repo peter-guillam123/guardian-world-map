@@ -1,60 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-03T17:58:34.229Z",
-    "story_count": 93,
-    "oldest_story": "2026-05-02T18:05:33Z",
-    "newest_story": "2026-05-03T17:39:40Z",
+    "generated_at": "2026-05-03T19:13:29.299Z",
+    "story_count": 94,
+    "oldest_story": "2026-05-02T20:00:34Z",
+    "newest_story": "2026-05-03T19:09:18Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "sport/2026/may/02/naoya-inoue-junto-nakatani-tokyo-fight",
-      "headline": "Naoya Inoue outshines Junto Nakatani in Tokyo showdown to keep super-bantamweight title",
-      "summary": "Naoya Inoue defends super-bantamweight title against Junto Nakatani in Tokyo Dome.",
-      "url": "https://www.theguardian.com/p/x5xx2b",
-      "thumbnail": "https://media.guim.co.uk/9c23f8ab50c036be6871ef9a4f10ba33fd2e764c/622_0_6218_4975/500.jpg",
-      "published": "2026-05-02T18:05:33Z",
-      "location": {
-        "name": "Tokyo",
-        "lat": 35.6762,
-        "lng": 139.6503
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "sport"
-    },
-    {
-      "id": "football/2026/may/02/iraola-and-glasner-middle-managers-or-big-club-bosses-in-waiting-its-hard-to-tell",
-      "headline": "Iraola and Glasner: middle managers or big club bosses in waiting? It’s hard to tell",
-      "summary": "Iraola and Glasner face off as Bournemouth play Crystal Palace in Premier League match.",
-      "url": "https://www.theguardian.com/p/x5vmha",
-      "thumbnail": "https://media.guim.co.uk/69901f6bd60a094259ed535b0a272302cc717f18/0_0_5000_4000/500.jpg",
-      "published": "2026-05-02T19:00:32Z",
-      "location": {
-        "name": "Bournemouth",
-        "lat": 50.7352,
-        "lng": -1.8391
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/may/02/arsenal-fulham-premier-league-match-report",
-      "headline": "Gyökeres double fires Arsenal past Fulham to turn title pressure on Manchester City",
-      "summary": "Gyökeres scores twice as Arsenal beat Fulham 3-0, extending Premier League lead to six points.",
-      "url": "https://www.theguardian.com/p/x5vjn7",
-      "thumbnail": "https://media.guim.co.uk/a21c8083939385d2f46bb2e9fe01d9119e748460/1152_364_3038_2430/500.jpg",
-      "published": "2026-05-02T18:45:46Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
     {
       "id": "sport/2026/may/02/nrl-rugby-league-perth-bears-png-chiefs-expansion-club-build",
       "headline": "How to build an NRL team: Perth Bears hunt for hidden gems or PNG Chiefs cash splash?",
@@ -1494,6 +1446,70 @@
       "category": "politics",
       "significance": 2,
       "section": "us-news"
+    },
+    {
+      "id": "sport/2026/may/03/kimi-antonelli-produces-gutsy-drive-to-hold-off-norris-and-win-f1-miami-gp",
+      "headline": "Kimi Antonelli produces gutsy drive to hold off Norris and win F1 Miami GP",
+      "summary": "Kimi Antonelli wins Miami Grand Prix for third consecutive victory, extending championship lead.",
+      "url": "https://www.theguardian.com/p/x5vk82",
+      "thumbnail": "https://media.guim.co.uk/2371f7b0cebf1fad3a3d7eb3d3ed85fa1b769974/310_0_4875_3900/500.jpg",
+      "published": "2026-05-03T19:09:18Z",
+      "location": {
+        "name": "Miami",
+        "lat": 25.7907,
+        "lng": -80.2298
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "football/2026/may/03/it-feels-natural-michael-carrick-comfortable-with-united-role-after-liverpool-win",
+      "headline": "‘It feels natural’: Michael Carrick comfortable with United role after Liverpool win",
+      "summary": "Manchester United defeats Liverpool 3-2 under Michael Carrick to secure Champions League qualification.",
+      "url": "https://www.theguardian.com/p/x5vk2d",
+      "thumbnail": "https://media.guim.co.uk/045c338adbe7515e1263e54bd60f3a53bf036e23/240_0_3638_2910/500.jpg",
+      "published": "2026-05-03T18:47:25Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/may/03/kobbie-mainoo-taking-last-lessons-off-casemiro-but-ready-to-make-position-his-own",
+      "headline": "Kobbie Mainoo taking last lessons off Casemiro but ready to make position his own",
+      "summary": "Kobbie Mainoo scores winner for Manchester United against Liverpool, demonstrating midfield prowess.",
+      "url": "https://www.theguardian.com/p/x5vk2y",
+      "thumbnail": "https://media.guim.co.uk/273fe1d1d6e1491f03f3f6896d102fff053f0bf7/475_0_4225_3380/500.jpg",
+      "published": "2026-05-03T18:27:21Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "sport",
+      "significance": 1,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/may/03/european-football-inter-on-verge-of-sealing-serie-a-title-as-milan-slip-up",
+      "headline": "European football: Inter on verge of sealing Serie A title as Milan slip up",
+      "summary": "Inter Milan on verge of sealing Serie A title after AC Milan loses 2-0 to Sassuolo.",
+      "url": "https://www.theguardian.com/p/x5vk4d",
+      "thumbnail": "https://media.guim.co.uk/1ed6bfad400c344e2b11f7501f8aa61e2d17243b/228_0_2278_1823/500.jpg",
+      "published": "2026-05-03T18:12:29Z",
+      "location": {
+        "name": "Milan",
+        "lat": 45.4642,
+        "lng": 9.19
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
     }
   ]
 }
