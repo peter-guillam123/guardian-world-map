@@ -1,140 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-03T09:50:07.916Z",
-    "story_count": 70,
-    "oldest_story": "2026-05-02T10:00:22Z",
-    "newest_story": "2026-05-03T09:34:39Z",
+    "generated_at": "2026-05-03T10:46:06.011Z",
+    "story_count": 67,
+    "oldest_story": "2026-05-02T11:00:23Z",
+    "newest_story": "2026-05-03T10:44:15Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "sport/live/2026/may/02/surrey-v-sussex-somerset-v-yorkshire-and-more-county-cricket-day-two-live",
-      "headline": "Surrey v Sussex, Somerset v Yorkshire, and more: county cricket, day two – live",
-      "summary": "County cricket championship day two coverage across English grounds including Surrey v Sussex.",
-      "url": "https://www.theguardian.com/p/x5vdxv",
-      "thumbnail": "https://media.guim.co.uk/681c4a575cd6ed20eed3d0fae61acb93b71cba27/0_1003_5334_4267/500.jpg",
-      "published": "2026-05-02T10:12:42Z",
-      "location": {
-        "name": "Surrey",
-        "lat": 51.2414,
-        "lng": -0.3555
-      },
-      "category": "sport",
-      "significance": 1,
-      "section": "sport"
-    },
-    {
-      "id": "us-news/2026/may/02/steve-hilton-california-governor-race",
-      "headline": "Steve Hilton: could this British former Fox News host be California’s next governor?",
-      "summary": "British ex-Fox News host Steve Hilton leads California gubernatorial race as Democratic frontrunner.",
-      "url": "https://www.theguardian.com/p/x5vjdy",
-      "thumbnail": "https://media.guim.co.uk/ee09630c92f115c2f3c9b1c27fdac65e744db64c/714_517_3261_2609/500.jpg",
-      "published": "2026-05-02T10:00:24Z",
-      "location": {
-        "name": "California",
-        "lat": 36.1163,
-        "lng": -119.6816
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/may/02/trump-officials-strategy",
-      "headline": "The White House power play post-dinner shooting: do what we say or else",
-      "summary": "Trump administration capitalizes on White House assassination attempt with controversial legal filings.",
-      "url": "https://www.theguardian.com/p/x5vp7b",
-      "thumbnail": "https://media.guim.co.uk/f242d489f886e1cc43db896a36a0c69b08de558e/1072_0_6090_4874/500.jpg",
-      "published": "2026-05-02T10:00:23Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 4,
-      "section": "us-news"
-    },
-    {
-      "id": "lifeandstyle/2026/may/02/antonia-sisco-andritch-asa-best-phone-picture",
-      "headline": "‘Was she going to an appointment, maybe even a romantic one?’: ASA’s best phone picture",
-      "summary": "Corsican photographer captures striking silhouette image of young woman in strong summer light.",
-      "url": "https://www.theguardian.com/p/x4n6c5",
-      "thumbnail": "https://media.guim.co.uk/8dff169f4920d7f1a403e93f3ff8da890357a99e/0_4422_8858_7087/500.jpg",
-      "published": "2026-05-02T10:00:23Z",
-      "location": {
-        "name": "Bastia",
-        "lat": 42.7014,
-        "lng": 9.4591
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "lifeandstyle"
-    },
-    {
-      "id": "science/2026/may/02/germany-brazil-irritator-dinosaur-skull-restitution",
-      "headline": "German museum to return rare Irritator dinosaur skull to Brazil",
-      "summary": "German museum to return rare 113-million-year-old Irritator dinosaur skull to Brazil after restitution campaign.",
-      "url": "https://www.theguardian.com/p/x5vhfn",
-      "thumbnail": "https://media.guim.co.uk/35e18afde273c458999bf6281d56cdcfed70235a/301_0_4432_3545/500.jpg",
-      "published": "2026-05-02T10:00:23Z",
-      "location": {
-        "name": "Stuttgart",
-        "lat": 48.7758,
-        "lng": 9.1829
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "science"
-    },
-    {
-      "id": "us-news/2026/may/02/ice-contracter-torture-allegations-undocumented-children",
-      "headline": "‘Deplorable’: ICE hires firm accused of ‘torture’ to track down undocumented children",
-      "summary": "ICE contracts security firm accused of torture to track undocumented immigrant children.",
-      "url": "https://www.theguardian.com/p/x5vj8v",
-      "thumbnail": "https://media.guim.co.uk/23c004a55a41c89e31d5d92f144b005f4d089b48/502_0_4996_3999/500.jpg",
-      "published": "2026-05-02T10:00:23Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "sport/2026/may/02/womens-elite-rugby-season-begins-world-cup",
-      "headline": "Women’s Elite Rugby enters season two with lessons learned, a pop star investor and ambition for US game",
-      "summary": "Women's Elite Rugby league begins season two with expansion aims ahead of 2033 World Cup.",
-      "url": "https://www.theguardian.com/p/x5vzec",
-      "thumbnail": "https://media.guim.co.uk/d803d4702569151708a148fc0e92634d5af49733/204_0_1049_839/500.jpg",
-      "published": "2026-05-02T10:00:22Z",
-      "location": {
-        "name": "Massachusetts",
-        "lat": 42.2352,
-        "lng": -71.5275
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "us-news/2026/may/02/family-ice-detention-colorado",
-      "headline": "Family of six held by ICE arrives back in Colorado as lawyer attacks ‘kidnapping’",
-      "summary": "Egyptian family returns to Colorado after ICE re-arrest despite judge's release order in detention dispute.",
-      "url": "https://www.theguardian.com/p/x5vq4z",
-      "thumbnail": "https://media.guim.co.uk/4a3fd1cc2e9aadcc64a1e25364eb023993733140/234_0_2500_2000/500.jpg",
-      "published": "2026-05-02T10:00:22Z",
-      "location": {
-        "name": "Colorado",
-        "lat": 39.0598,
-        "lng": -105.3111
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
     {
       "id": "uk-news/2026/may/02/domestic-abuse-deaths-suicide-justice-england-wales",
       "headline": "Only 3% of suicides linked to domestic abuse result in prosecution, data shows",
@@ -1126,6 +998,86 @@
       "category": "tech",
       "significance": 2,
       "section": "technology"
+    },
+    {
+      "id": "football/live/2026/may/03/manchester-city-v-liverpool-womens-super-league-live",
+      "headline": "Manchester City v Liverpool: Women’s Super League – live",
+      "summary": "Manchester City faces Liverpool in Women's Super League match bidding to close gap on WSL crown.",
+      "url": "https://www.theguardian.com/p/x5vn5j",
+      "thumbnail": "https://media.guim.co.uk/5e9092a5c843974016a20872d161202bd37de313/294_0_4708_3767/500.jpg",
+      "published": "2026-05-03T10:44:15Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4831,
+        "lng": -2.204
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "politics/2026/may/03/zack-polanski-warns-against-banning-london-pro-palestine-protest-green-party",
+      "headline": "Zack Polanski warns against banning London pro-Palestine protest ",
+      "summary": "Green Party leader Zack Polanski opposes banning pro-Palestine protest planned in London this month.",
+      "url": "https://www.theguardian.com/p/x5x64p",
+      "thumbnail": "https://media.guim.co.uk/2b3ea0273e0f2ba44207b21da94b1f525499bdac/272_0_2601_2081/500.jpg",
+      "published": "2026-05-03T10:43:42Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "us-news/2026/may/03/marco-rubio-visits-rome-pope-leo-us-italy-relations",
+      "headline": "Marco Rubio to visit Rome, reportedly to ‘thaw’ US relations with Italy",
+      "summary": "US Secretary of State Marco Rubio visits Rome to improve US-Italy and Vatican relations.",
+      "url": "https://www.theguardian.com/p/x5x6xq",
+      "thumbnail": "https://media.guim.co.uk/23936da05a14ae8cb45bb59dd60f1ff446e3681e/332_0_3335_2668/500.jpg",
+      "published": "2026-05-03T10:43:13Z",
+      "location": {
+        "name": "Rome",
+        "lat": 41.9028,
+        "lng": 12.4964
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/may/03/watford-sack-head-coach-ed-still-after-dismal-end-to-championship-season",
+      "headline": "Watford sack head coach Ed Still after dismal end to Championship season",
+      "summary": "Watford sacks head coach Ed Still after three months following dismal Championship season end.",
+      "url": "https://www.theguardian.com/p/x5x687",
+      "thumbnail": "https://media.guim.co.uk/1f872794f2a4eee7461a0e5cf26ae00f33414f7b/618_110_2124_1699/500.jpg",
+      "published": "2026-05-03T10:02:11Z",
+      "location": {
+        "name": "Watford",
+        "lat": 51.6471,
+        "lng": -0.3967
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/may/03/arizona-state-secretary-trump-elections",
+      "headline": "‘Apartheid in the US’: Arizona’s secretary of state fights Trump’s plot to amass a ‘master list’ of voters",
+      "summary": "Arizona's secretary of state warns Trump administration's voter database could regulate political opponents.",
+      "url": "https://www.theguardian.com/p/x4q2bf",
+      "thumbnail": "https://media.guim.co.uk/c446bc9addb3e45b962a4dcb93c037c98a8ba872/499_831_3962_3169/500.jpg",
+      "published": "2026-05-03T10:00:51Z",
+      "location": {
+        "name": "Phoenix",
+        "lat": 33.4484,
+        "lng": -112.0742
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
     }
   ]
 }
