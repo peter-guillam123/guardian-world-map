@@ -1,204 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-04T14:32:52.495Z",
-    "story_count": 94,
-    "oldest_story": "2026-05-03T14:39:46Z",
-    "newest_story": "2026-05-04T14:12:11Z",
+    "generated_at": "2026-05-04T16:21:11.610Z",
+    "story_count": 84,
+    "oldest_story": "2026-05-03T16:31:42Z",
+    "newest_story": "2026-05-04T16:18:55Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "world/2026/may/03/canada-first-non-european-nation-epc-summit-mark-carney-allies-trump",
-      "headline": "Canada to be first non-European nation at EPC summit as Carney seeks allies",
-      "summary": "Canada attends European Political Community summit in Armenia as PM Carney builds diplomatic ties.",
-      "url": "https://www.theguardian.com/p/x5x6q6",
-      "thumbnail": "https://media.guim.co.uk/bf3f549676856d47907eb5b6e4245ed494782ffb/924_0_4176_3342/500.jpg",
-      "published": "2026-05-03T14:57:14Z",
-      "location": {
-        "name": "Yerevan",
-        "lat": 40.1792,
-        "lng": 44.5087
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "music/2026/may/03/tales-of-love-and-loss-review-royal-opera-triple-bill-linbury-theatre-london",
-      "headline": "Tales of Love and Loss review – hauntings, tragicomedy and tweezer-sharp wit in Royal Opera triple bill",
-      "summary": "Royal Opera triple bill showcases diverse works on love and loss at Linbury theatre.",
-      "url": "https://www.theguardian.com/p/x5x6np",
-      "thumbnail": "https://media.guim.co.uk/f73f07b1854212651d55cb26150a9ddad6ab6afe/622_0_6220_4979/500.jpg",
-      "published": "2026-05-03T14:39:46Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "music"
-    },
-    {
-      "id": "us-news/2026/may/03/james-comey-indictment-instagram-post-seashells",
-      "headline": "Todd Blanche says case against Comey based on more than just Instagram post",
-      "summary": "Former FBI director James Comey indicted on felony charges beyond Instagram post, claims acting AG.",
-      "url": "https://www.theguardian.com/p/x5x7cj",
-      "thumbnail": "https://media.guim.co.uk/fb3a387ca6ec1a09588934c280f87fe0aee37d2b/381_0_4995_4000/500.jpg",
-      "published": "2026-05-03T15:50:42Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "football/2026/may/03/sir-alex-ferguson-taken-to-hospital-manchester-united-liverpool-premier-league-manager",
-      "headline": "Sir Alex Ferguson taken to hospital before Manchester United v Liverpool game",
-      "summary": "Former Manchester United manager Sir Alex Ferguson hospitalized before Liverpool match.",
-      "url": "https://www.theguardian.com/p/x5x7e7",
-      "thumbnail": "https://media.guim.co.uk/2823c423de27c5a1da72dd05eb5cd6297baee9fa/269_0_2251_1801/500.jpg",
-      "published": "2026-05-03T15:40:36Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4631,
-        "lng": -2.2913
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "world/2026/may/03/spirit-pilot-send-off-from-southwest",
-      "headline": "Spirit pilot gets ‘overwhelming’ send-off from Southwest after his final flight is cancelled",
-      "summary": "Spirit Airlines pilot given emotional send-off by Southwest staff after final flight cancelled.",
-      "url": "https://www.theguardian.com/p/x5x786",
-      "thumbnail": "https://media.guim.co.uk/9622f9b72c32cb3a49de12993165885400cafaad/417_0_4167_3335/500.jpg",
-      "published": "2026-05-03T15:17:46Z",
-      "location": {
-        "name": "Baltimore",
-        "lat": 39.2904,
-        "lng": -76.6122
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "culture/2026/may/03/ittai-gradel-obituary",
-      "headline": "Ittai Gradel obituary",
-      "summary": "Antiquities dealer Ittai Gradel uncovered major British Museum thefts before his death.",
-      "url": "https://www.theguardian.com/p/x5x77y",
-      "thumbnail": "https://media.guim.co.uk/03afdfa123af28fa894d2eaf3803cd9d7d28f70c/566_0_6855_5484/500.jpg",
-      "published": "2026-05-03T15:08:10Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "culture"
-    },
-    {
-      "id": "football/2026/may/03/bournemouth-crystal-palace-premier-league-match-report",
-      "headline": "Bournemouth beat Crystal Palace with ease to keep Champions League dreams alive",
-      "summary": "Bournemouth defeats Crystal Palace 3-0 to maintain Champions League qualification hopes.",
-      "url": "https://www.theguardian.com/p/x5vkxg",
-      "thumbnail": "https://media.guim.co.uk/8d5dca7251d0df4124f80827cc466a7f3640ca38/639_0_3527_2822/500.jpg",
-      "published": "2026-05-03T15:05:48Z",
-      "location": {
-        "name": "Bournemouth",
-        "lat": 50.7352,
-        "lng": -1.8391
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "sport/blog/2026/may/04/the-swans-are-fast-bold-skilful-and-making-the-most-of-the-afls-new-rules-its-a-good-time-to-be-a-forward",
-      "headline": "The Swans are fast, bold, skilful – and making the most of the AFL’s new rules. It’s a good time to be a forward",
-      "summary": "Sydney Swans surge to top of AFL ladder with Malcolm Rosas Jr's seven-goal performance.",
-      "url": "https://www.theguardian.com/p/x5x5tt",
-      "thumbnail": "https://media.guim.co.uk/7e6b40cc1dccad179b14de96f4444e3d703bce65/319_0_3082_2467/500.jpg",
-      "published": "2026-05-03T15:00:07Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "us-news/2026/may/03/kaela-berg-running-minnesota-congress-democrat",
-      "headline": "‘No one better to fight for us than one of us’: Minnesota flight attendant runs for Congress",
-      "summary": "Minnesota flight attendant Kaela Berg runs for Congress with pro-union immigration message.",
-      "url": "https://www.theguardian.com/p/x5vtxc",
-      "thumbnail": "https://media.guim.co.uk/59d4c85518e1e720cad6964c8ffd00df939d7b20/39_0_2501_2000/500.jpg",
-      "published": "2026-05-03T15:00:06Z",
-      "location": {
-        "name": "Minnesota",
-        "lat": 45.6945,
-        "lng": -93.9196
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "environment/2026/may/04/victorian-grassland-earless-dragon-melbourne-zoo-endangered-species-second-extinction",
-      "headline": "How to conserve your dragon – and avoid losing Australia’s most imperilled reptile for a second time",
-      "summary": "Melbourne Zoo opens breeding centre to save critically endangered Victorian grassland earless dragon.",
-      "url": "https://www.theguardian.com/p/x5vy5f",
-      "thumbnail": "https://media.guim.co.uk/13984943428293d5aeaf3198e8847005c985c5a2/348_0_4068_3254/500.jpg",
-      "published": "2026-05-03T15:00:05Z",
-      "location": {
-        "name": "Melbourne",
-        "lat": -37.8136,
-        "lng": 144.9631
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "environment"
-    },
-    {
-      "id": "australia-news/2026/may/04/federal-budget-season-canberra-fundraising-oscars-for-politcal-nerds",
-      "headline": "The ‘Oscars for political nerds’ or a threat to democracy? Grab a ticket, it’s Canberra’s budget fundraiser season",
-      "summary": "Australian political parties host expensive budget fundraisers criticized as threat to democracy.",
-      "url": "https://www.theguardian.com/p/x5vg8v",
-      "thumbnail": "https://media.guim.co.uk/cf0b82d9052465717d4290c183caaeeadbb0dc62/707_0_5598_4479/500.jpg",
-      "published": "2026-05-03T15:00:05Z",
-      "location": {
-        "name": "Canberra",
-        "lat": -35.2809,
-        "lng": 149.13
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "australia-news/2026/may/04/rba-interest-rates-cash-rate-hike-predicted-reserve-bank-australia-inflation",
-      "headline": "Why the RBA is predicted to deliver a third straight interest rate hike this week",
-      "summary": "Reserve Bank predicted to raise interest rates for third straight month amid inflation pressures.",
-      "url": "https://www.theguardian.com/p/x5vyhn",
-      "thumbnail": "https://media.guim.co.uk/ad9458b435a1bdd8e0112e69f503b28a9f4c1e92/334_0_4102_3281/500.jpg",
-      "published": "2026-05-03T15:00:03Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "australia-news"
-    },
     {
       "id": "sport/live/2026/may/03/formula-one-miami-gp-race-updates-f1-live",
       "headline": "Formula One: Miami GP race updates as storms threaten disruption – live",
@@ -342,118 +150,6 @@
       "category": "climate",
       "significance": 2,
       "section": "us-news"
-    },
-    {
-      "id": "uk-news/2026/may/03/louise-london-obituary",
-      "headline": "Louise London obituary",
-      "summary": "Louise London, solicitor and historian specializing in refugees, dies of cancer aged 78.",
-      "url": "https://www.theguardian.com/p/x4pxhx",
-      "thumbnail": "https://media.guim.co.uk/1170d7a9cb74dc719b96647aeb4f851f38f0c8e5/72_225_859_687/500.jpg",
-      "published": "2026-05-03T16:15:17Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "other",
-      "significance": 1,
-      "section": "uk-news"
-    },
-    {
-      "id": "culture/2026/may/03/arts-council-england-is-focused-on-investment-outside-london",
-      "headline": "Arts Council England is focused on investment outside London",
-      "summary": "Arts Council England reports £40m invested in northern regions through Arts Everywhere Fund.",
-      "url": "https://www.theguardian.com/p/x5vhcm",
-      "thumbnail": "https://media.guim.co.uk/e5577f4ba7c2ae9e9485c1db56b6d7168dca7d85/653_0_3033_2426/500.jpg",
-      "published": "2026-05-03T16:13:57Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "culture"
-    },
-    {
-      "id": "uk-news/2026/may/03/explosion-house-bristol-major-incident",
-      "headline": "Two people dead after explosion at house in Bristol",
-      "summary": "Two dead after suspicious explosion at Bristol house declared major incident by police.",
-      "url": "https://www.theguardian.com/p/x5x6e5",
-      "thumbnail": "https://media.guim.co.uk/cd2b9a4ad5f1e9e19c66502372155fb0ac9ece1b/480_0_3290_2632/500.jpg",
-      "published": "2026-05-03T16:13:27Z",
-      "location": {
-        "name": "Bristol",
-        "lat": 51.4545,
-        "lng": -2.5879
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "uk-news"
-    },
-    {
-      "id": "technology/ng-interactive/2026/may/03/ai-facial-recognition-oversight-lagging-far-behind-technology-watchdogs-warn",
-      "headline": "AI facial recognition oversight lagging far behind technology, watchdogs warn",
-      "summary": "UK biometrics watchdogs warn facial recognition oversight lags behind rapidly growing AI technology.",
-      "url": "https://www.theguardian.com/p/x5vnym",
-      "thumbnail": "https://media.guim.co.uk/1c1b06bc7a14c84ec55ad4bed812f6d4df67ff2e/1_0_2499_2000/500.jpg",
-      "published": "2026-05-03T16:00:02Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "tech",
-      "significance": 3,
-      "section": "technology"
-    },
-    {
-      "id": "technology/2026/may/03/guilty-until-proven-innocent-shoppers-falsely-identified-by-facial-recognition-struggle-to-clear-their-name",
-      "headline": "Guilty until proven innocent: shoppers falsely identified by facial recognition system struggle to clear their names",
-      "summary": "Shoppers wrongly identified by facial recognition systems struggle to clear names after false accusations.",
-      "url": "https://www.theguardian.com/p/x5v8cb",
-      "thumbnail": "https://media.guim.co.uk/b6037a905390b66257076124ebf69f75ea027501/1_0_2499_2000/500.jpg",
-      "published": "2026-05-03T16:00:01Z",
-      "location": {
-        "name": "Chester",
-        "lat": 53.1898,
-        "lng": -2.8929
-      },
-      "category": "tech",
-      "significance": 2,
-      "section": "technology"
-    },
-    {
-      "id": "football/2026/may/03/fit-and-firing-bukayo-saka-injects-fresh-belief-into-arsenals-title-challenge",
-      "headline": "Fit and firing Bukayo Saka injects fresh belief into Arsenal’s title challenge",
-      "summary": "Arsenal winger Bukayo Saka returns to form, boosting title challenge against Manchester City.",
-      "url": "https://www.theguardian.com/p/x5vpez",
-      "thumbnail": "https://media.guim.co.uk/5b26fdbeba40260219829f50ca2b43732e177482/556_424_3161_2529/500.jpg",
-      "published": "2026-05-03T16:00:01Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "technology/ng-interactive/2026/may/03/how-does-live-facial-recognition-work-and-how-many-uk-police-forces-use-it",
-      "headline": "How does live facial recognition work and how many UK police forces use it?",
-      "summary": "Live facial recognition deployed by UK police since 2020 raises data privacy and racial bias concerns.",
-      "url": "https://www.theguardian.com/p/x5vnmm",
-      "thumbnail": "https://media.guim.co.uk/01066da73eeea045f2f1be8a05e736470fbfa21f/1_0_2499_2000/500.jpg",
-      "published": "2026-05-03T16:00:00Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "tech",
-      "significance": 3,
-      "section": "technology"
     },
     {
       "id": "uk-news/2026/may/03/green-candidate-sabine-mairey-social-media-posts-canvassing-london",
@@ -1510,6 +1206,150 @@
       "category": "culture",
       "significance": 2,
       "section": "culture"
+    },
+    {
+      "id": "football/live/2026/may/04/hearts-v-rangers-scottish-premiership-live",
+      "headline": "Hearts v Rangers: Scottish Premiership – live",
+      "summary": "Hearts v Rangers Scottish Premiership match live from Tynecastle in Edinburgh.",
+      "url": "https://www.theguardian.com/p/x5vnkj",
+      "thumbnail": "https://media.guim.co.uk/67d55683df40fd12d74692d942c649a4ae023977/795_0_6677_5341/500.jpg",
+      "published": "2026-05-04T16:18:55Z",
+      "location": {
+        "name": "Edinburgh",
+        "lat": 55.9533,
+        "lng": -3.1883
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/may/04/la-liga-marcelino-returns-villarreal-champions-league-walks-away",
+      "headline": "Marcelino returns Villarreal to the Champions League … then walks away",
+      "summary": "Marcelino guides Villarreal back to Champions League before departing as coach.",
+      "url": "https://www.theguardian.com/p/x5xbfg",
+      "thumbnail": "https://media.guim.co.uk/7b16e506408481f9ded599ccef91f127bc094f3b/196_0_1957_1565/500.jpg",
+      "published": "2026-05-04T16:18:42Z",
+      "location": {
+        "name": "Villarreal",
+        "lat": 42.1005,
+        "lng": -2.1156
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "business/2026/may/04/strait-of-hormuz-donald-trump-us-navy-iran-shipping",
+      "headline": "Shipping firms question safety in strait of Hormuz despite Trump plan",
+      "summary": "Shipping firms question safety in Strait of Hormuz despite Trump's US Navy protection plan.",
+      "url": "https://www.theguardian.com/p/x5xcx3",
+      "thumbnail": "https://media.guim.co.uk/0f0299971583d8edeee410d9b82e63778ad7ddd2/754_0_5000_4000/500.jpg",
+      "published": "2026-05-04T16:10:14Z",
+      "location": {
+        "name": "Strait of Hormuz",
+        "lat": 26.5597,
+        "lng": 56.2497
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "business"
+    },
+    {
+      "id": "technology/2026/may/04/ai-platforms-nigel-farage-prompted-uk-politics-study",
+      "headline": "AI platforms reference Nigel Farage more than other leaders when prompted on UK politics, study shows",
+      "summary": "Study shows AI platforms reference Nigel Farage more than other UK political leaders.",
+      "url": "https://www.theguardian.com/p/x5vtnn",
+      "thumbnail": "https://media.guim.co.uk/8750e026eef0661d94a835ad30b6f6eb03d04746/500_141_4653_3722/500.jpg",
+      "published": "2026-05-04T16:00:27Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "tech",
+      "significance": 2,
+      "section": "technology"
+    },
+    {
+      "id": "world/2026/may/04/gaza-flotilla-britons-say-they-needed-hospital-care-after-israeli-forces-abuse",
+      "headline": "British Gaza flotilla activists say they needed hospital care after Israeli forces’ abuse",
+      "summary": "British Gaza flotilla activists report hospital treatment after Israeli forces' alleged abuse.",
+      "url": "https://www.theguardian.com/p/x5xbdm",
+      "thumbnail": null,
+      "published": "2026-05-04T16:00:27Z",
+      "location": {
+        "name": "Crete",
+        "lat": 35.3387,
+        "lng": 25.1324
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "business/2026/may/04/nigeria-refinery-dangote-uk-plan-jet-fuel-shortage-strait-of-hormuz",
+      "headline": "Nigerian refinery accused of sacking union members is key to UK plan to tackle jet fuel shortage",
+      "summary": "Nigerian Dangote refinery key to UK jet fuel shortage solution amid Strait of Hormuz crisis.",
+      "url": "https://www.theguardian.com/p/x5xbd4",
+      "thumbnail": "https://media.guim.co.uk/aba8b5e28f1aa86f821f6f11d8842b01d715a060/25_0_4167_3333/500.jpg",
+      "published": "2026-05-04T15:58:29Z",
+      "location": {
+        "name": "Lagos",
+        "lat": 6.5244,
+        "lng": 3.3792
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "politics/2026/may/04/be-careful-who-you-vote-for-in-local-elections-on-thursday",
+      "headline": "Be careful who you vote for in local elections on Thursday",
+      "summary": "Letters on UK local elections May 7, urging careful voting on council service delivery.",
+      "url": "https://www.theguardian.com/p/x5xbj5",
+      "thumbnail": "https://media.guim.co.uk/913dd1b8e736ad5b2c5298aa61b7e8435dbf0004/25_0_3189_2551/500.jpg",
+      "published": "2026-05-04T15:53:48Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "us-news/2026/may/04/democrats-house-majority-midterm-elections",
+      "headline": "Democrats aim to reclaim House majority by boosting eight ‘top-tier candidates’",
+      "summary": "Democrats boost eight top-tier candidates for House majority in midterm elections.",
+      "url": "https://www.theguardian.com/p/x5xcjy",
+      "thumbnail": "https://media.guim.co.uk/bc6cb73f57c8561710f3cc8d0386d7efa20bc728/469_143_3145_2516/500.jpg",
+      "published": "2026-05-04T15:50:42Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "tv-and-radio/2026/may/04/john-oliver-gas-station-drugs",
+      "headline": "John Oliver on gas station drugs: ‘Dangerous substances that can be made by just about anyone’",
+      "summary": "John Oliver investigates unregulated gas station drugs including kratom and synthetic opioids.",
+      "url": "https://www.theguardian.com/p/x5xceg",
+      "thumbnail": "https://media.guim.co.uk/e3af3a4ec1b84e6e325de85c040dc6792687c3ad/288_0_2010_1610/500.jpg",
+      "published": "2026-05-04T15:38:03Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "tv-and-radio"
     }
   ]
 }
