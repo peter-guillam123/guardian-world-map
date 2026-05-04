@@ -1,60 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-04T19:52:29.272Z",
+    "generated_at": "2026-05-04T21:09:36.891Z",
     "story_count": 78,
-    "oldest_story": "2026-05-03T20:00:03Z",
-    "newest_story": "2026-05-04T19:49:58Z",
+    "oldest_story": "2026-05-03T21:17:30Z",
+    "newest_story": "2026-05-04T21:08:44Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "australia-news/2026/may/04/interest-rates-rba-rate-hike-mortgage-calculator",
-      "headline": "Interest rates are set to rise. Use our loan calculator to check how a rate hike could affect you",
-      "summary": "Reserve Bank likely to raise rates again on Tuesday amid inflation surge.",
-      "url": "https://www.theguardian.com/p/x5vhnv",
-      "thumbnail": "https://media.guim.co.uk/6aa7fad5e7ef3c462db81a32202bf2e995734218/177_0_2923_2339/500.jpg",
-      "published": "2026-05-03T20:00:03Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "football/2026/may/03/inter-win-serie-a-title-parma-football-italy",
-      "headline": "Inter cruise to Serie A title triumph after Thuram sparks victory over Parma",
-      "summary": "Inter Milan clinches Serie A title with 2-0 victory over Parma, securing 21st championship.",
-      "url": "https://www.theguardian.com/p/x5x8ej",
-      "thumbnail": "https://media.guim.co.uk/32aa7a2d7aafbf50854d117e3d3ae5416d22eed9/316_0_3703_2963/500.jpg",
-      "published": "2026-05-03T20:41:38Z",
-      "location": {
-        "name": "Milan",
-        "lat": 45.4642,
-        "lng": 9.19
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/may/03/aston-villa-tottenham-premier-league-match-report",
-      "headline": "Richarlison heads Tottenham past weakened Aston Villa and out of drop zone",
-      "summary": "Tottenham defeats Aston Villa 2-1 to escape relegation zone in Premier League.",
-      "url": "https://www.theguardian.com/p/x5vk35",
-      "thumbnail": "https://media.guim.co.uk/d6a84f5f676de4420ddfb0f81d3985aed72ddf88/252_10_2496_1997/500.jpg",
-      "published": "2026-05-03T20:07:36Z",
-      "location": {
-        "name": "Birmingham",
-        "lat": 52.5086,
-        "lng": -1.8853
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
     {
       "id": "australia-news/live/2026/may/04/australia-news-live-jim-chalmers-budget-inflation-labor-cost-of-living-interest-rates-bondi-shooting-royal-commission-antisemitism-ntwnfb",
       "headline": "Australia news live: Chalmers says budget will pay down more debt; families of Bondi shooting victims to take stand at royal commission",
@@ -150,22 +102,6 @@
       "category": "politics",
       "significance": 2,
       "section": "australia-news"
-    },
-    {
-      "id": "sport/2026/may/03/wu-yize-in-driving-seat-but-shaun-murphy-stays-in-touch-in-crucible-final",
-      "headline": "Wu Yize in driving seat but Shaun Murphy stays in touch in Crucible final",
-      "summary": "Wu Yize leads 10-7 in World Snooker Championship final against Shaun Murphy at the Crucible Theatre.",
-      "url": "https://www.theguardian.com/p/x5vk8c",
-      "thumbnail": "https://media.guim.co.uk/efc4fa467faa43dffc6a328d9b81b6d1ca07dd3f/165_0_4666_3732/500.jpg",
-      "published": "2026-05-03T21:08:31Z",
-      "location": {
-        "name": "Sheffield",
-        "lat": 53.3811,
-        "lng": -1.4668
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
     },
     {
       "id": "sport/2026/may/03/tennis-french-open-prize-money-novak-djokovic-jannik-sinner-aryna-sabalenka",
@@ -1254,6 +1190,70 @@
       "category": "politics",
       "significance": 2,
       "section": "us-news"
+    },
+    {
+      "id": "fashion/live/2026/may/04/met-gala-fashion-art-beyonce-nicole-kidman-venus-williams-anna-wintour-jeff-bezos-live-updates",
+      "headline": "Met Gala 2026 live: stars walk red carpet on fashion’s biggest night as Bezos backing could spark protests",
+      "summary": "Met Gala 2026 features Beyoncé, Kidman, Williams as co-chairs; Bezos sponsorship sparks controversy.",
+      "url": "https://www.theguardian.com/p/x5vdnx",
+      "thumbnail": "https://media.guim.co.uk/d62d2163898103bd3783086540cb854f5dcd73dd/0_865_4960_3968/500.jpg",
+      "published": "2026-05-04T21:08:44Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "fashion"
+    },
+    {
+      "id": "australia-news/live/2026/may/05/hantavirus-cruise-budget-jim-chalmers-rba-interest-rates-cost-of-living-mortgage-royal-commission-antisemitism-victoria-state-budget-ntwnfb",
+      "headline": "Australia news live: four Australians among passengers on luxury cruise ship hit by deadly suspected hantavirus outbreak",
+      "summary": "Luxury cruise ship MV Hondius hit by suspected hantavirus outbreak with three dead, four Australians aboard.",
+      "url": "https://www.theguardian.com/p/x5xbkb",
+      "thumbnail": "https://media.guim.co.uk/7db558c0ec210d92bdfdd2b9006b52691bee3d52/656_0_3280_2624/500.jpg",
+      "published": "2026-05-04T21:05:52Z",
+      "location": {
+        "name": "Cape Verde",
+        "lat": 16.7369,
+        "lng": -23.6412
+      },
+      "category": "health",
+      "significance": 3,
+      "section": "australia-news"
+    },
+    {
+      "id": "australia-news/2026/may/05/morning-mail-tuesday-ntwnfb",
+      "headline": "Tensions rise as Trump tries to open Hormuz, Labor Left’s identity crisis, Dolly Parton’s health woes",
+      "summary": "Trump orders US Navy to open Hormuz strait; clashes with Iran escalate regional tensions toward full-scale war.",
+      "url": "https://www.theguardian.com/p/x5xbcp",
+      "thumbnail": "https://media.guim.co.uk/5760101a3c7cc4eabc7d9e45ad8e76c606653bdf/940_0_5000_4000/500.jpg",
+      "published": "2026-05-04T20:53:38Z",
+      "location": {
+        "name": "Strait of Hormuz",
+        "lat": 26.5597,
+        "lng": 56.268
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "australia-news"
+    },
+    {
+      "id": "world/2026/may/04/trump-iran-threat-us-vessels",
+      "headline": "Trump threatens to blow Iran ‘off the face of the earth’ if it attacks US vessels",
+      "summary": "Trump threatens Iran will be 'blown off face of earth' if it attacks US vessels reopening Hormuz route.",
+      "url": "https://www.theguardian.com/p/x5xdqn",
+      "thumbnail": "https://media.guim.co.uk/e9b4e4c60f9a62c7d85d5ca02f5f5802912c6e1a/450_0_4500_3601/500.jpg",
+      "published": "2026-05-04T20:51:32Z",
+      "location": {
+        "name": "Persian Gulf",
+        "lat": 27.792,
+        "lng": 52.3859
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
     }
   ]
 }
