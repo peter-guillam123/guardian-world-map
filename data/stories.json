@@ -1,28 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-03T23:50:33.995Z",
+    "generated_at": "2026-05-04T02:08:39.240Z",
     "story_count": 91,
-    "oldest_story": "2026-05-02T23:51:32Z",
-    "newest_story": "2026-05-03T22:00:05Z",
+    "oldest_story": "2026-05-03T04:00:44Z",
+    "newest_story": "2026-05-04T01:45:15Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "australia-news/2026/may/03/nt-police-charge-jefferson-lewis-over-death-of-kumanjayi-little-baby-near-alice-springs-ntwnfb",
-      "headline": "Jefferson Lewis charged with murder over death of Kumanjayi Little Baby near Alice Springs",
-      "summary": "Man charged with murder of 5-year-old Indigenous girl found dead near Alice Springs after going missing.",
-      "url": "https://www.theguardian.com/p/x5vqte",
-      "thumbnail": "https://media.guim.co.uk/9e1437d7ffc16ed66c4f33eba20f2980ad12cec9/0_0_4200_3360/500.jpg",
-      "published": "2026-05-02T23:51:32Z",
-      "location": {
-        "name": "Alice Springs",
-        "lat": -23.7001,
-        "lng": 133.8807
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "australia-news"
-    },
     {
       "id": "news/ng-interactive/2026/may/03/youre-not-one-of-us-are-you-how-a-ukrainian-soldier-survived-two-weeks-in-a-russian-dugout",
       "headline": "‘You’re not one of us, are you?’: How a Ukrainian soldier survived two weeks in a Russian dugout",
@@ -1462,6 +1446,22 @@
       "category": "sport",
       "significance": 3,
       "section": "sport"
+    },
+    {
+      "id": "world/2026/may/04/ukraine-war-briefing-strikes-on-russias-primorsk-oil-port-and-ships",
+      "headline": "Ukraine war briefing: Strikes on Russia’s Primorsk oil port and ships ",
+      "summary": "Ukraine strikes Russian oil port Primorsk and three 'shadow fleet' vessels on Baltic Sea.",
+      "url": "https://www.theguardian.com/p/x5x9dv",
+      "thumbnail": "https://media.guim.co.uk/4ea910898f9be93cb9cba3a91da0197a915d6cba/457_0_4208_3367/500.jpg",
+      "published": "2026-05-04T01:45:15Z",
+      "location": {
+        "name": "Primorsk",
+        "lat": 59.55,
+        "lng": 28.65
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "world"
     }
   ]
 }
