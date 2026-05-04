@@ -1,76 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-04T08:09:27.480Z",
-    "story_count": 103,
-    "oldest_story": "2026-05-03T09:00:49Z",
-    "newest_story": "2026-05-04T08:04:52Z",
+    "generated_at": "2026-05-04T10:26:20.609Z",
+    "story_count": 102,
+    "oldest_story": "2026-05-03T10:43:13Z",
+    "newest_story": "2026-05-04T10:26:01Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "politics/live/2026/may/03/local-elections-greens-polanksi-labour-starmer-conservatives-badenoch-reform-latest-news-updates",
-      "headline": "Polanski ‘not fit to lead a party’ after Golders Green tweet, says minister – UK politics live",
-      "summary": "Green party leader criticized over police incident tweet in Golders Green.",
-      "url": "https://www.theguardian.com/p/x5x5zf",
-      "thumbnail": "https://media.guim.co.uk/8d3a0e52f80a80a16d981638f4a567cc20a02007/1023_0_7023_5618/500.jpg",
-      "published": "2026-05-03T09:34:39Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "sport/live/2026/may/03/somerset-v-yorkshire-leicestershire-v-nottinghamshire-and-more-county-cricket-day-three-live",
-      "headline": "Somerset v Yorkshire, Leicestershire v Nottinghamshire, and more: county cricket, day three – live",
-      "summary": "County Championship cricket matches underway with Olly Stone's five-wicket haul.",
-      "url": "https://www.theguardian.com/p/x5vhc5",
-      "thumbnail": "https://media.guim.co.uk/2ec8ee4409202337e571e5399bda02313b4d0645/282_94_3167_2534/500.jpg",
-      "published": "2026-05-03T09:24:41Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "business/2026/may/03/uk-airlines-cancel-flights-jet-fuel-shortage-summer-travel",
-      "headline": "UK airlines given green light to cancel or consolidate flights to conserve jet fuel ",
-      "summary": "UK airlines allowed to cancel flights to conserve jet fuel amid Middle East disruptions.",
-      "url": "https://www.theguardian.com/p/x5x6vk",
-      "thumbnail": "https://media.guim.co.uk/045a8997ec5332bdc7774c39d29248aea82750bb/220_0_1634_1308/500.jpg",
-      "published": "2026-05-03T09:11:07Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "business"
-    },
-    {
-      "id": "technology/2026/may/03/uk-invention-agency-aria-pledges-70-million-public-money-us-tech-venture-capital-dominic-cummings",
-      "headline": "UK ‘invention agency’ grants £50m of public money to US tech and venture capital firms",
-      "summary": "UK's Aria agency awards £50m public funds to US tech firms and venture capital.",
-      "url": "https://www.theguardian.com/p/x4ph7d",
-      "thumbnail": "https://media.guim.co.uk/d238e39a4f80183543f84fe5d5b1532e4c3e9338/2269_390_3431_2746/500.jpg",
-      "published": "2026-05-03T09:00:49Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "tech",
-      "significance": 2,
-      "section": "technology"
-    },
     {
       "id": "football/live/2026/may/03/manchester-city-v-liverpool-womens-super-league-live",
       "headline": "Manchester City v Liverpool: Women’s Super League – live",
@@ -114,38 +50,6 @@
         "name": "Rome",
         "lat": 41.9028,
         "lng": 12.4964
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "football/2026/may/03/watford-sack-head-coach-ed-still-after-dismal-end-to-championship-season",
-      "headline": "Watford sack head coach Ed Still after dismal end to Championship season",
-      "summary": "Watford sacks head coach Ed Still after three months following dismal Championship season end.",
-      "url": "https://www.theguardian.com/p/x5x687",
-      "thumbnail": "https://media.guim.co.uk/1f872794f2a4eee7461a0e5cf26ae00f33414f7b/618_110_2124_1699/500.jpg",
-      "published": "2026-05-03T10:02:11Z",
-      "location": {
-        "name": "Watford",
-        "lat": 51.6471,
-        "lng": -0.3967
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "us-news/2026/may/03/arizona-state-secretary-trump-elections",
-      "headline": "‘Apartheid in the US’: Arizona’s secretary of state fights Trump’s plot to amass a ‘master list’ of voters",
-      "summary": "Arizona's secretary of state warns Trump administration's voter database could regulate political opponents.",
-      "url": "https://www.theguardian.com/p/x4q2bf",
-      "thumbnail": "https://media.guim.co.uk/c446bc9addb3e45b962a4dcb93c037c98a8ba872/499_831_3962_3169/500.jpg",
-      "published": "2026-05-03T10:00:51Z",
-      "location": {
-        "name": "Phoenix",
-        "lat": 33.4484,
-        "lng": -112.0742
       },
       "category": "politics",
       "significance": 3,
@@ -1654,6 +1558,86 @@
       "category": "sport",
       "significance": 2,
       "section": "sport"
+    },
+    {
+      "id": "sport/live/2026/may/04/leicestershire-v-nottinghamshire-somerset-v-yorkshire-and-more-county-cricket-day-four-live",
+      "headline": "Kent v Derbyshire, Somerset v Yorkshire, and more: county cricket, day four – live ",
+      "summary": "County cricket day four: Somerset, Yorkshire, Kent, and other matches concluding.",
+      "url": "https://www.theguardian.com/p/x5vnha",
+      "thumbnail": "https://media.guim.co.uk/db8dbc14226911c7bc574fc7363227e706e4edd9/225_53_2183_1747/500.jpg",
+      "published": "2026-05-04T10:26:01Z",
+      "location": {
+        "name": "Leicester",
+        "lat": 52.62,
+        "lng": -1.1432
+      },
+      "category": "sport",
+      "significance": 1,
+      "section": "sport"
+    },
+    {
+      "id": "us-news/2026/may/04/ohio-senate-race-sherrod-brown-jon-husted",
+      "headline": "‘We’re a perfect example of being lied to’: Democrats vie to flip Ohio in a battle for trust",
+      "summary": "Democrats battle to flip Ohio Senate seat as Trump's Iran war, gas prices dominate messaging.",
+      "url": "https://www.theguardian.com/p/x5vzbm",
+      "thumbnail": "https://media.guim.co.uk/13f19547ca94a5a2ceac42c0da23bf9645898f18/195_0_3713_2971/500.jpg",
+      "published": "2026-05-04T10:00:21Z",
+      "location": {
+        "name": "Youngstown",
+        "lat": 41.0992,
+        "lng": -80.6492
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/may/04/trump-us-aid-budget-united-nations",
+      "headline": "Trump officials threaten UN budget cuts as US pushes ‘trade over aid’ agenda",
+      "summary": "Trump administration threatens UN budget cuts, pushing trade-focused policies over development aid.",
+      "url": "https://www.theguardian.com/p/x5v7nk",
+      "thumbnail": "https://media.guim.co.uk/a348d9435306c8f8a281f93c3bb35581ed3d3f47/500_0_5000_4000/500.jpg",
+      "published": "2026-05-04T10:00:21Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "commentisfree/2026/may/04/democrats-trump-election-voter-poll",
+      "headline": "Democrats are counting on Trump’s unpopularity to save them. It won’t",
+      "summary": "Democrats rely on Trump's unpopularity for midterm wins but face challenges in 2028.",
+      "url": "https://www.theguardian.com/p/x5vdce",
+      "thumbnail": "https://media.guim.co.uk/641fd284fe695c2fd1d4b6be7208371c2759da49/764_0_4501_3600/500.jpg",
+      "published": "2026-05-04T10:00:20Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "commentisfree"
+    },
+    {
+      "id": "commentisfree/2026/may/04/trump-green-card-israel-social-media",
+      "headline": "Want a green card? Better make sure you haven’t criticized Israel on social media",
+      "summary": "Trump administration updates green card guidelines, potentially denying visas for Israel criticism.",
+      "url": "https://www.theguardian.com/p/x5vdnm",
+      "thumbnail": "https://media.guim.co.uk/cfca606cbd9105c88f42b354a07464d5098c4c58/0_0_5600_4480/500.jpg",
+      "published": "2026-05-04T10:00:20Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "commentisfree"
     }
   ]
 }
