@@ -1,252 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-04T12:11:22.361Z",
-    "story_count": 104,
-    "oldest_story": "2026-05-03T12:15:41Z",
-    "newest_story": "2026-05-04T12:11:01Z",
+    "generated_at": "2026-05-04T14:32:52.495Z",
+    "story_count": 94,
+    "oldest_story": "2026-05-03T14:39:46Z",
+    "newest_story": "2026-05-04T14:12:11Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "sport/live/2026/may/03/shaun-murphy-v-wu-yize-world-snooker-championship-final-day-one-live",
-      "headline": "Shaun Murphy v Wu Yize: World Snooker Championship final day one – live",
-      "summary": "Shaun Murphy faces Wu Yize in World Snooker Championship final at the Crucible.",
-      "url": "https://www.theguardian.com/p/x5vhdt",
-      "thumbnail": "https://media.guim.co.uk/fee042bd59d2cc1d23ad96e32f9c6f40a23518fc/468_212_3737_2990/500.jpg",
-      "published": "2026-05-03T12:31:15Z",
-      "location": {
-        "name": "Sheffield",
-        "lat": 53.3811,
-        "lng": -1.4701
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "sport"
-    },
-    {
-      "id": "uk-news/2026/may/03/female-sudanese-asylum-seekers-die-trying-to-cross-channel",
-      "headline": "Two female Sudanese asylum seekers die trying to cross Channel",
-      "summary": "Two female Sudanese asylum seekers die attempting to cross English Channel near Boulogne.",
-      "url": "https://www.theguardian.com/p/x5x65t",
-      "thumbnail": "https://media.guim.co.uk/66c60c6ff7dc7aab83b5eade3ac0b86e081d3850/975_1175_2992_2393/500.jpg",
-      "published": "2026-05-03T12:30:52Z",
-      "location": {
-        "name": "Boulogne-sur-Mer",
-        "lat": 50.726,
-        "lng": 1.6243
-      },
-      "category": "health",
-      "significance": 3,
-      "section": "uk-news"
-    },
-    {
-      "id": "football/live/2026/may/03/premier-league-latest-scottish-title-race-heating-up-and-more-football-live",
-      "headline": "Hibernian v Celtic, Manchester United v Liverpool build-up and more – football live",
-      "summary": "Hibernian face Celtic in Scottish Premiership match as title race intensifies.",
-      "url": "https://www.theguardian.com/p/x5vh8n",
-      "thumbnail": "https://media.guim.co.uk/2ba5754c863034fb32ce65c48c55f26275e23e0c/766_259_2066_1652/500.jpg",
-      "published": "2026-05-03T12:27:56Z",
-      "location": {
-        "name": "Edinburgh",
-        "lat": 55.9533,
-        "lng": -3.1883
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "sport/live/2026/may/03/horse-racing-1000-guineas-day-2026-live",
-      "headline": "Horse racing: Precise the favourite for 1,000 Guineas as O’Brien chases record – live",
-      "summary": "Precise leads 1,000 Guineas betting at Newmarket with O'Brien seeking record wins.",
-      "url": "https://www.theguardian.com/p/x5vz6d",
-      "thumbnail": "https://media.guim.co.uk/d4062fd29f29946ceb40481b0dadc7c263c0d6c5/797_0_3478_2783/500.jpg",
-      "published": "2026-05-03T12:20:42Z",
-      "location": {
-        "name": "Newmarket",
-        "lat": 52.2384,
-        "lng": 0.4084
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "music/2026/may/03/gabriela-montero-review-radiant-renderings-of-postcard-spain-with-an-excursion-into-the-beatles",
-      "headline": "Gabriela Montero review – radiant renderings of postcard Spain with an excursion into the Beatles",
-      "summary": "Venezuelan pianist Gabriela Montero delivers dazzling Spanish-themed recital at Milton Court.",
-      "url": "https://www.theguardian.com/p/x5x5ya",
-      "thumbnail": "https://media.guim.co.uk/bc4c1ceda039432b6a6ef865ca1a163debe53459/777_992_2360_1888/500.jpg",
-      "published": "2026-05-03T12:15:41Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "music"
-    },
-    {
-      "id": "sport/live/2026/may/03/bordeaux-begles-v-bath-champions-cup-semi-final-live",
-      "headline": "Bordeaux Bègles v Bath: Champions Cup semi-final – live",
-      "summary": "Bordeaux Bègles face Bath in Champions Cup rugby semi-final with winner to play Leinster in final.",
-      "url": "https://www.theguardian.com/p/x5x6mq",
-      "thumbnail": "https://media.guim.co.uk/530d96d2a0118adba5ba5093fb6dd64448726c70/554_6_4377_3501/500.jpg",
-      "published": "2026-05-03T13:56:18Z",
-      "location": {
-        "name": "Bordeaux",
-        "lat": 44.8378,
-        "lng": -0.5792
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "sport"
-    },
-    {
-      "id": "football/live/2026/may/03/manchester-united-v-liverpool-premier-league-live",
-      "headline": "Manchester United v Liverpool: Premier League – live",
-      "summary": "Manchester United battle Liverpool in Premier League fixture contesting third place position.",
-      "url": "https://www.theguardian.com/p/x5vhdj",
-      "thumbnail": "https://media.guim.co.uk/57b1e306f28875be129572953e07d27594258d40/268_0_2214_1771/500.jpg",
-      "published": "2026-05-03T13:54:30Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4808,
-        "lng": -2.2426
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "us-news/2026/may/03/trump-threats-withdraw-troops-from-germany",
-      "headline": "Republicans ‘concerned’ after Trump threatens to withdraw more US troops from Germany",
-      "summary": "Trump threatens further US troop withdrawals from Germany after announcing 5,000-soldier pullout.",
-      "url": "https://www.theguardian.com/p/x5x6py",
-      "thumbnail": "https://media.guim.co.uk/270e932ff4be4a2a6562baf53f0672f86c4e3431/450_0_4498_3600/500.jpg",
-      "published": "2026-05-03T13:39:03Z",
-      "location": {
-        "name": "Germany",
-        "lat": 51.1657,
-        "lng": 10.4515
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "artanddesign/2026/may/03/lost-cloud-of-artist-who-wrapped-the-reichstag-christo-to-be-created-in-uk-gallery",
-      "headline": "Lost ‘cloud’ of artist who wrapped the Reichstag to be created in UK gallery",
-      "summary": "UK gallery to realize Christo's 1968 internally lit Package on Ceiling installation six years after artist's death.",
-      "url": "https://www.theguardian.com/p/x5vmk5",
-      "thumbnail": "https://media.guim.co.uk/f46db9d3e05a59ff3ed84f870d86fbebec6cbbd7/280_0_1706_1365/500.jpg",
-      "published": "2026-05-03T13:00:03Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "artanddesign"
-    },
-    {
-      "id": "us-news/ng-interactive/2026/may/03/christofascism-rfk-jr-health",
-      "headline": "‘Christofascism’ is here: inside the slow demolition of US public health",
-      "summary": "RFK Jr's HHS leadership integrates Christian nationalist worldview into US public health policy agenda.",
-      "url": "https://www.theguardian.com/p/x5vtn4",
-      "thumbnail": "https://media.guim.co.uk/7315d531863be645de875273f9a24d71a7e309bc/0_0_3000_2400/500.jpg",
-      "published": "2026-05-03T13:00:03Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "health",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "politics/2026/may/03/starmer-adviser-varun-chandra-undisclosed-meetings-us-tech-bosses",
-      "headline": "Starmer adviser held 16 undisclosed meetings with top US tech bosses",
-      "summary": "PM Starmer adviser held 16 undisclosed meetings with major US tech executives including Google and Meta.",
-      "url": "https://www.theguardian.com/p/x5vn8e",
-      "thumbnail": "https://media.guim.co.uk/fd72921c02e037d44dbdc1104802e731da64c1cf/493_0_4314_3450/500.jpg",
-      "published": "2026-05-03T13:00:03Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "lifeandstyle/2026/may/03/jimmy-eat-world-look-back-alternative-rock-band-arizona",
-      "headline": "US band Jimmy Eat World look back: ‘I would play The Middle five times in a row if the other guys would let me’",
-      "summary": "Arizona emo band Jimmy Eat World reflects on 30-year career and breakthrough hit 'The Middle'.",
-      "url": "https://www.theguardian.com/p/x4z6xx",
-      "thumbnail": "https://media.guim.co.uk/f649bf6057ec851d7a38ea9bee1483e76e81cb1b/312_0_4298_3438/500.jpg",
-      "published": "2026-05-03T13:00:02Z",
-      "location": {
-        "name": "Phoenix",
-        "lat": 33.4484,
-        "lng": -112.0742
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "lifeandstyle"
-    },
-    {
-      "id": "commentisfree/2026/may/03/young-americans-trump-elections",
-      "headline": "Young Americans have soured on Trump",
-      "summary": "Trump's approval rating among under-30 Americans plummets as he fails to deliver on campaign promises.",
-      "url": "https://www.theguardian.com/p/x5ve78",
-      "thumbnail": "https://media.guim.co.uk/b4b11e542d9c9325f884d240d5ce4d6f34a9ec1c/482_0_4818_3855/500.jpg",
-      "published": "2026-05-03T13:00:02Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "commentisfree"
-    },
-    {
-      "id": "lifeandstyle/2026/may/03/readers-reply-the-missouri-tofu-spill-was-unforgettable-but-what-are-historys-greatest-bad-smells",
-      "headline": "Readers reply: The Missouri tofu spill was ‘unforgettable’ – but what are history’s greatest bad smells?",
-      "summary": "Readers discuss history's worst smells referencing 18,000kg tofu spill in Missouri.",
-      "url": "https://www.theguardian.com/p/x5vtp6",
-      "thumbnail": "https://media.guim.co.uk/c008ac1b06bd1e4111ac110040d7fd7bc203a710/0_0_4051_3240/500.jpg",
-      "published": "2026-05-03T13:00:01Z",
-      "location": {
-        "name": "Missouri",
-        "lat": 38.4561,
-        "lng": -92.2884
-      },
-      "category": "other",
-      "significance": 1,
-      "section": "lifeandstyle"
-    },
-    {
-      "id": "commentisfree/2026/may/03/jewish-community-london-safety-sadiq-khan",
-      "headline": "Jewish Londoners deserve to live without fear – we are taking action to ensure their safety",
-      "summary": "London Mayor Khan pledges action to ensure safety of Jewish residents amid rising fear and antisemitism.",
-      "url": "https://www.theguardian.com/p/x5x6ed",
-      "thumbnail": "https://media.guim.co.uk/f736427c9cc36091fbdbf3e90f3aae14b14a683c/362_0_5000_4000/500.jpg",
-      "published": "2026-05-03T12:48:43Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "commentisfree"
-    },
     {
       "id": "world/2026/may/03/canada-first-non-european-nation-epc-summit-mark-carney-allies-trump",
       "headline": "Canada to be first non-European nation at EPC summit as Carney seeks allies",
@@ -278,54 +38,6 @@
       "category": "culture",
       "significance": 1,
       "section": "music"
-    },
-    {
-      "id": "fashion/2026/may/03/met-gala-jeff-bezos-art-fashion-new-york",
-      "headline": "Fashion’s Faustian pact: the high cost of Jeff Bezos’s Met Gala patronage",
-      "summary": "Jeff Bezos's Met Gala patronage sparks controversy over fashion event's commercialization.",
-      "url": "https://www.theguardian.com/p/x5vm4v",
-      "thumbnail": "https://media.guim.co.uk/2531cec756d53c67c34647fe8bf6b9f2bc6c24d0/500_140_2907_2325/500.jpg",
-      "published": "2026-05-03T14:22:49Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "fashion"
-    },
-    {
-      "id": "us-news/2026/may/03/white-house-press-dinner-shooting-jeanine-pirro",
-      "headline": "Jeanine Pirro says she has evidence officer was shot at White House press dinner",
-      "summary": "US attorney says federal agent was shot during alleged Trump assassination attempt at press dinner.",
-      "url": "https://www.theguardian.com/p/x5x747",
-      "thumbnail": "https://media.guim.co.uk/4771500615dbf3acaa7e5acd30ae02874606ad59/688_0_6880_5504/500.jpg",
-      "published": "2026-05-03T14:15:35Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "uk-news/2026/may/03/heathrow-talks-deal-airlines-row-third-runway-expansion-delay",
-      "headline": "Heathrow in talks with airlines to end row that could delay third runway",
-      "summary": "Heathrow seeks deal with airlines and landowner to resolve third runway expansion row.",
-      "url": "https://www.theguardian.com/p/x5x65k",
-      "thumbnail": "https://media.guim.co.uk/6fd18d0b42a5e43677fd428df8b83026a66fa140/888_868_2939_2353/500.jpg",
-      "published": "2026-05-03T14:00:02Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "uk-news"
     },
     {
       "id": "us-news/2026/may/03/james-comey-indictment-instagram-post-seashells",
@@ -1670,6 +1382,134 @@
       "category": "conflict",
       "significance": 4,
       "section": "world"
+    },
+    {
+      "id": "music/2026/may/04/galilee-string-quartet-review-palestinian-ensemble-milton-court",
+      "headline": "Galilee String Quartet review – Palestinian ensemble improvise their signature east-west blend",
+      "summary": "Palestinian Galilee String Quartet performs at Milton Court, blending classical and traditional instruments.",
+      "url": "https://www.theguardian.com/p/x5xc6z",
+      "thumbnail": "https://media.guim.co.uk/dc053f8e592dead04351a19e203232b24fb470e1/329_0_1739_1392/500.jpg",
+      "published": "2026-05-04T14:12:11Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "music"
+    },
+    {
+      "id": "us-news/2026/may/04/marco-rubio-to-meet-pope-leo-after-trumps-broadside-against-pontiff",
+      "headline": "Marco Rubio to meet pope this week after Trump’s broadside against Leo",
+      "summary": "US Secretary of State Rubio meets Pope Leo amid tensions between Trump administration and Vatican.",
+      "url": "https://www.theguardian.com/p/x5xc72",
+      "thumbnail": "https://media.guim.co.uk/a6bc0e41472fa80974ec4127add5b60f3c5cb962/0_246_4183_3346/500.jpg",
+      "published": "2026-05-04T14:09:13Z",
+      "location": {
+        "name": "Vatican City",
+        "lat": 41.9029,
+        "lng": 12.4534
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "australia-news/2026/may/05/nsw-to-criminalise-secret-gps-tracking-after-report-highlighting-number-of-devices-bought-by-dv-offenders",
+      "headline": "NSW to criminalise secret GPS tracking after report highlighting number of devices bought by DV offenders",
+      "summary": "NSW to criminalize secret GPS tracking after DV report, says technology weaponized against women.",
+      "url": "https://www.theguardian.com/p/x5xaax",
+      "thumbnail": "https://media.guim.co.uk/0a030aa3c7559f44f41ef931e35995c3ca4c3665/356_0_3560_2848/500.jpg",
+      "published": "2026-05-04T14:01:24Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "society/2026/may/04/man-produces-sperm-from-testicular-tissue-frozen-as-a-child-in-breakthrough-trial",
+      "headline": "Man produces sperm from testicular tissue frozen as a child in breakthrough trial",
+      "summary": "Breakthrough trial: man produces sperm from testicular tissue frozen during childhood chemotherapy.",
+      "url": "https://www.theguardian.com/p/x5v7vc",
+      "thumbnail": "https://media.guim.co.uk/90cb82b21c507a4d4552778683b5d257294cc3a1/803_334_4309_3447/500.jpg",
+      "published": "2026-05-04T14:00:24Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 3,
+      "section": "society"
+    },
+    {
+      "id": "technology/2026/may/04/vine-video-sharing-back-battling-ai-slop-divine",
+      "headline": "Vine video-sharing app is back – and battling AI slop ",
+      "summary": "Vine video app relaunches as Divine with Jack Dorsey backing, requires human-made content only.",
+      "url": "https://www.theguardian.com/p/x5xc4t",
+      "thumbnail": "https://media.guim.co.uk/75545759f5d43c0bc1c719f0b8f4251f26ca1fd9/220_0_3161_2529/500.jpg",
+      "published": "2026-05-04T13:47:22Z",
+      "location": {
+        "name": "San Francisco",
+        "lat": 37.7749,
+        "lng": -122.4194
+      },
+      "category": "tech",
+      "significance": 2,
+      "section": "technology"
+    },
+    {
+      "id": "sport/2026/may/04/john-sterling-beloved-voice-of-yankees-for-36-seasons-dies-at-age-of-87",
+      "headline": "John Sterling, beloved voice of Yankees for 36 seasons, dies at age of 87",
+      "summary": "John Sterling, Yankees broadcaster for 36 seasons and 12-time Emmy winner, dies at age 87.",
+      "url": "https://www.theguardian.com/p/x5xccn",
+      "thumbnail": "https://media.guim.co.uk/bf89f326d5debaab066b3738675f39e37b1fd2a5/416_0_4138_3312/500.jpg",
+      "published": "2026-05-04T13:45:15Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "us-news/2026/may/04/united-airlines-plane-newark-airport",
+      "headline": "Driver injured after truck was struck by United plane landing at Newark airport",
+      "summary": "Delivery truck struck by United Airlines plane landing at Newark airport; driver sustains minor injuries.",
+      "url": "https://www.theguardian.com/p/x5xc8t",
+      "thumbnail": "https://media.guim.co.uk/a6328c771c5f6ce874cf83da76aafbef8835c486/359_0_3639_2911/500.jpg",
+      "published": "2026-05-04T13:33:30Z",
+      "location": {
+        "name": "Newark",
+        "lat": 40.7357,
+        "lng": -74.1724
+      },
+      "category": "other",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "culture/2026/may/04/super-furry-animals-on-making-the-man-dont-give-a-fuck-bill-hicks",
+      "headline": "‘We got a drive-by egging in Baltimore’: Super Furry Animals on making The Man Don’t Give a Fuck",
+      "summary": "Super Furry Animals discuss creating anti-establishment anthem 'The Man Don't Give a Fuck.'",
+      "url": "https://www.theguardian.com/p/x5vhhm",
+      "thumbnail": "https://media.guim.co.uk/b31a5933450e4aa38807564b1ff3cafab9a6c675/150_399_4344_3474/500.jpg",
+      "published": "2026-05-04T13:30:24Z",
+      "location": {
+        "name": "Cardiff",
+        "lat": 51.4816,
+        "lng": -3.1791
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "culture"
     }
   ]
 }
