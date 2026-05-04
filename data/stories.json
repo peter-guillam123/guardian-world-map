@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-05-04T22:16:07.065Z",
-    "story_count": 78,
+    "generated_at": "2026-05-04T23:14:15.458Z",
+    "story_count": 81,
     "oldest_story": "2026-05-04T01:45:15Z",
-    "newest_story": "2026-05-04T22:01:34Z",
+    "newest_story": "2026-05-04T23:08:11Z",
     "window_hours": 24
   },
   "stories": [
@@ -1250,6 +1250,54 @@
         "name": "Liverpool",
         "lat": 53.4308,
         "lng": -2.9606
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/may/04/pep-guardiola-manchester-city-lost-control-title-race-everton-david-moyes",
+      "headline": "‘Not in our hands’: Guardiola accepts Manchester City have lost control of title race",
+      "summary": "Manchester City draws 3-3 with Everton, falling five points behind Arsenal in title race.",
+      "url": "https://www.theguardian.com/p/x5xe7e",
+      "thumbnail": "https://media.guim.co.uk/ea884cd4b2319a041c5c0c8177774f30e3d2962a/483_0_2827_2263/500.jpg",
+      "published": "2026-05-04T23:08:11Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4831,
+        "lng": -2.2006
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "world/2026/may/05/modern-slavery-record-levels-uk-worsen-report",
+      "headline": "Modern slavery at record levels in UK and expected to worsen, report warns",
+      "summary": "UK modern slavery reaches record levels with trafficking expected to worsen, commissioner warns.",
+      "url": "https://www.theguardian.com/p/x5xbgd",
+      "thumbnail": "https://media.guim.co.uk/adbcf27cb2a45b85724f5f7ac78737c45cb37095/64_0_2965_2372/500.jpg",
+      "published": "2026-05-04T23:01:35Z",
+      "location": {
+        "name": "United Kingdom",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "football/2026/may/04/pep-guardiola-frustrated-as-hopes-of-taking-arsenal-to-wire-left-in-critical-condition",
+      "headline": "Pep Guardiola frustrated as hopes of taking Arsenal to wire left in critical condition",
+      "summary": "Manchester City's title hopes fade after 3-3 draw with Everton leaves Arsenal in control.",
+      "url": "https://www.theguardian.com/p/x5xdxe",
+      "thumbnail": "https://media.guim.co.uk/1821d0bed9148a0ce80667a551170658c05b941b/270_0_2695_2156/500.jpg",
+      "published": "2026-05-04T22:50:29Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4831,
+        "lng": -2.2006
       },
       "category": "sport",
       "significance": 2,
