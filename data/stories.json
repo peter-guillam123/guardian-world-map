@@ -1,76 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-04T17:58:14.302Z",
-    "story_count": 76,
-    "oldest_story": "2026-05-03T18:12:29Z",
-    "newest_story": "2026-05-04T17:48:47Z",
+    "generated_at": "2026-05-04T19:52:29.272Z",
+    "story_count": 78,
+    "oldest_story": "2026-05-03T20:00:03Z",
+    "newest_story": "2026-05-04T19:49:58Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "sport/2026/may/03/kimi-antonelli-produces-gutsy-drive-to-hold-off-norris-and-win-f1-miami-gp",
-      "headline": "Kimi Antonelli produces gutsy drive to hold off Norris and win F1 Miami GP",
-      "summary": "Kimi Antonelli wins Miami Grand Prix for third consecutive victory, extending championship lead.",
-      "url": "https://www.theguardian.com/p/x5vk82",
-      "thumbnail": "https://media.guim.co.uk/2371f7b0cebf1fad3a3d7eb3d3ed85fa1b769974/310_0_4875_3900/500.jpg",
-      "published": "2026-05-03T19:09:18Z",
-      "location": {
-        "name": "Miami",
-        "lat": 25.7907,
-        "lng": -80.2298
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "football/2026/may/03/it-feels-natural-michael-carrick-comfortable-with-united-role-after-liverpool-win",
-      "headline": "‘It feels natural’: Michael Carrick comfortable with United role after Liverpool win",
-      "summary": "Manchester United defeats Liverpool 3-2 under Michael Carrick to secure Champions League qualification.",
-      "url": "https://www.theguardian.com/p/x5vk2d",
-      "thumbnail": "https://media.guim.co.uk/045c338adbe7515e1263e54bd60f3a53bf036e23/240_0_3638_2910/500.jpg",
-      "published": "2026-05-03T18:47:25Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4808,
-        "lng": -2.2426
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/may/03/kobbie-mainoo-taking-last-lessons-off-casemiro-but-ready-to-make-position-his-own",
-      "headline": "Kobbie Mainoo taking last lessons off Casemiro but ready to make position his own",
-      "summary": "Kobbie Mainoo scores winner for Manchester United against Liverpool, demonstrating midfield prowess.",
-      "url": "https://www.theguardian.com/p/x5vk2y",
-      "thumbnail": "https://media.guim.co.uk/273fe1d1d6e1491f03f3f6896d102fff053f0bf7/475_0_4225_3380/500.jpg",
-      "published": "2026-05-03T18:27:21Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4808,
-        "lng": -2.2426
-      },
-      "category": "sport",
-      "significance": 1,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/may/03/european-football-inter-on-verge-of-sealing-serie-a-title-as-milan-slip-up",
-      "headline": "European football: Inter on verge of sealing Serie A title as Milan slip up",
-      "summary": "Inter Milan on verge of sealing Serie A title after AC Milan loses 2-0 to Sassuolo.",
-      "url": "https://www.theguardian.com/p/x5vk4d",
-      "thumbnail": "https://media.guim.co.uk/1ed6bfad400c344e2b11f7501f8aa61e2d17243b/228_0_2278_1823/500.jpg",
-      "published": "2026-05-03T18:12:29Z",
-      "location": {
-        "name": "Milan",
-        "lat": 45.4642,
-        "lng": 9.19
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
     {
       "id": "australia-news/2026/may/04/interest-rates-rba-rate-hike-mortgage-calculator",
       "headline": "Interest rates are set to rise. Use our loan calculator to check how a rate hike could affect you",
@@ -86,22 +22,6 @@
       "category": "economy",
       "significance": 2,
       "section": "australia-news"
-    },
-    {
-      "id": "world/2026/may/03/scientology-church-new-york-speed-running-incident",
-      "headline": "Teens storm Scientology church in New York in latest ‘speed running’ incident",
-      "summary": "Teens break into Manhattan Scientology church in viral 'speed running' trend.",
-      "url": "https://www.theguardian.com/p/x5x82b",
-      "thumbnail": "https://media.guim.co.uk/7b8491723f84e4b4b7acbd73bf6bffc1665c7c62/477_0_4840_3872/500.jpg",
-      "published": "2026-05-03T19:28:37Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "conflict",
-      "significance": 2,
-      "section": "world"
     },
     {
       "id": "football/2026/may/03/inter-win-serie-a-title-parma-football-italy",
@@ -1220,6 +1140,118 @@
         "lng": -77.2098
       },
       "category": "culture",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "football/live/2026/may/04/everton-v-manchester-city-premier-league-live",
+      "headline": "Everton v Manchester City: Premier League – live",
+      "summary": "Manchester City visits Everton in Premier League match at Goodison Park.",
+      "url": "https://www.theguardian.com/p/x5vnpq",
+      "thumbnail": "https://media.guim.co.uk/308ee6ca4c0d1184502407b321bc5412d0a225f7/377_0_3014_2411/500.jpg",
+      "published": "2026-05-04T19:49:58Z",
+      "location": {
+        "name": "Liverpool",
+        "lat": 53.4387,
+        "lng": -2.9613
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "fashion/2026/may/04/metropolitan-museum-costume-art-fashion-exhibition-costume-institute",
+      "headline": "Met Museum show at new Costume Institute puts fashion in same spotlight as Egyptian artefacts",
+      "summary": "Metropolitan Museum's Costume Institute opens spring exhibition pairing fashion with historical artifacts.",
+      "url": "https://www.theguardian.com/p/x5xd88",
+      "thumbnail": "https://media.guim.co.uk/007a2f36713255fd2496223c7b880c94f01c77f2/66_0_4915_3933/500.jpg",
+      "published": "2026-05-04T19:22:47Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.758,
+        "lng": -73.9855
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "fashion"
+    },
+    {
+      "id": "music/2026/may/04/dolly-parton-cancels-las-vegas-residency-health-issues",
+      "headline": "Dolly Parton cancels Las Vegas residency over health issues: ‘I’ve still got some healing to do’",
+      "summary": "Dolly Parton cancels Las Vegas residency due to ongoing health issues.",
+      "url": "https://www.theguardian.com/p/x5xdh8",
+      "thumbnail": "https://media.guim.co.uk/7e2872e638d9e8a934b85493ee6e8e8e37a21e0c/449_0_3753_3002/500.jpg",
+      "published": "2026-05-04T19:15:05Z",
+      "location": {
+        "name": "Las Vegas",
+        "lat": 36.1699,
+        "lng": -115.1398
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "music"
+    },
+    {
+      "id": "football/2026/may/04/mikel-arteta-arsenal-atletico-madrid-second-leg",
+      "headline": "Mikel Arteta promises Arsenal will ‘go out there like beasts’ in Atlético second leg",
+      "summary": "Arsenal prepares for Champions League semi-final second leg against Atlético Madrid.",
+      "url": "https://www.theguardian.com/p/x5xdjb",
+      "thumbnail": "https://media.guim.co.uk/a902f45306e529f9f56d2522a3f6da5f187b9191/539_105_2597_2078/500.jpg",
+      "published": "2026-05-04T19:03:53Z",
+      "location": {
+        "name": "Madrid",
+        "lat": 40.4168,
+        "lng": -3.7038
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "australia-news/2026/may/04/victoria-state-budget-2026-surplus",
+      "headline": "Victoria state budget 2026: state back in black forecasting two back-to-back surpluses ",
+      "summary": "Victoria records $700m budget surplus, first since pre-pandemic, forecasting another next year.",
+      "url": "https://www.theguardian.com/p/x5x9k6",
+      "thumbnail": "https://media.guim.co.uk/09309c751503ab8f07cd5447fe4dad1280f3fc26/911_347_4094_3275/500.jpg",
+      "published": "2026-05-04T19:00:30Z",
+      "location": {
+        "name": "Melbourne",
+        "lat": -37.8136,
+        "lng": 144.9631
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "politics/2026/may/04/cabinet-ministers-warn-mutinous-mps-over-ousting-keir-starmer",
+      "headline": "Cabinet ministers warn mutinous MPs about trying to oust Keir Starmer",
+      "summary": "Cabinet ministers warn Labour MPs against attempting to oust PM Keir Starmer.",
+      "url": "https://www.theguardian.com/p/x5xd4x",
+      "thumbnail": "https://media.guim.co.uk/6bbd850611659fa0a62076f611f4206a1bf25a0d/688_0_6880_5504/500.jpg",
+      "published": "2026-05-04T18:59:53Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "us-news/2026/may/04/florida-new-congressional-maps-desantis",
+      "headline": "Florida’s Republican governor signs state’s new congressional map into law",
+      "summary": "Florida Governor DeSantis signs gerrymandered congressional map giving Republicans four additional advantages.",
+      "url": "https://www.theguardian.com/p/x5xdbp",
+      "thumbnail": "https://media.guim.co.uk/a2af7d5128a3f80091c44cd1259f44f0f5ee0282/333_0_3333_2668/500.jpg",
+      "published": "2026-05-04T18:46:22Z",
+      "location": {
+        "name": "Tallahassee",
+        "lat": 30.4383,
+        "lng": -84.2807
+      },
+      "category": "politics",
       "significance": 2,
       "section": "us-news"
     }
