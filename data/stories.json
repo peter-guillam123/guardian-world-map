@@ -1,28 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-04T02:08:39.240Z",
-    "story_count": 91,
-    "oldest_story": "2026-05-03T04:00:44Z",
-    "newest_story": "2026-05-04T01:45:15Z",
+    "generated_at": "2026-05-04T05:45:15.698Z",
+    "story_count": 99,
+    "oldest_story": "2026-05-03T06:00:46Z",
+    "newest_story": "2026-05-04T05:31:08Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "news/ng-interactive/2026/may/03/youre-not-one-of-us-are-you-how-a-ukrainian-soldier-survived-two-weeks-in-a-russian-dugout",
-      "headline": "‘You’re not one of us, are you?’: How a Ukrainian soldier survived two weeks in a Russian dugout",
-      "summary": "Ukrainian soldier Vadym Lietunov survived two weeks hidden in a Russian dugout after his position was destroyed.",
-      "url": "https://www.theguardian.com/p/x5vtf8",
-      "thumbnail": "https://media.guim.co.uk/3fde23422aab80759a2753452bc54e767af3edbb/1496_123_4245_3396/500.jpg",
-      "published": "2026-05-03T04:00:44Z",
-      "location": {
-        "name": "Ukraine",
-        "lat": 48.3794,
-        "lng": 31.1656
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "news"
-    },
     {
       "id": "australia-news/2026/may/03/three-people-dead-sydney-rosemeadow-nsw-ntwnfb",
       "headline": "Three people dead after incident in Sydney home believed to be parents and brother of arrested man, police say ",
@@ -1462,6 +1446,150 @@
       "category": "conflict",
       "significance": 3,
       "section": "world"
+    },
+    {
+      "id": "environment/2026/may/04/methane-emissions-australian-coalmines-more-than-double-official-estimates-report-finds",
+      "headline": "‘Wake-up call’: methane emissions from Australian coalmines more than double official estimates, report finds",
+      "summary": "Australian coalmine methane emissions more than double official UN estimates, IEA report finds.",
+      "url": "https://www.theguardian.com/p/x5xa2j",
+      "thumbnail": "https://media.guim.co.uk/fe08a42a2932e71a7e91d60336b6385b75a16d3f/449_0_2371_1896/500.jpg",
+      "published": "2026-05-04T05:31:08Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "climate",
+      "significance": 3,
+      "section": "environment"
+    },
+    {
+      "id": "australia-news/2026/may/04/baby-dead-wagga-beach-homeless-encampment-ntwnfb",
+      "headline": "Baby found dead at Wagga beach homeless encampment as mother and another infant taken to hospital",
+      "summary": "Baby found dead at Wagga beach homeless encampment; mother and infant hospitalized.",
+      "url": "https://www.theguardian.com/p/x5xa8b",
+      "thumbnail": "https://media.guim.co.uk/dc18955d15536c5e9b754abbafa0b9dd6cb7ef11/140_0_3060_2448/500.jpg",
+      "published": "2026-05-04T05:15:04Z",
+      "location": {
+        "name": "Wagga Wagga",
+        "lat": -35.1186,
+        "lng": 147.3627
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "world/2026/may/04/japan-sees-largest-protest-in-support-of-pacifist-constitution-as-pm-takaichi-pushes-revisions",
+      "headline": "Japan sees largest protest in support of pacifist constitution as PM Takaichi pushes revisions",
+      "summary": "Japan's largest pacifist constitution protest as PM Takaichi calls for constitutional revisions.",
+      "url": "https://www.theguardian.com/p/x5xa3t",
+      "thumbnail": "https://media.guim.co.uk/a053ab77d69f9b679250bbfe19bad33b84772835/103_0_3780_3024/500.jpg",
+      "published": "2026-05-04T05:14:49Z",
+      "location": {
+        "name": "Tokyo",
+        "lat": 35.6762,
+        "lng": 139.6503
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "science/2026/may/04/what-is-hantavirus-the-infection-that-has-killed-three-people-on-a-cruise-ship",
+      "headline": "What is hantavirus, the infection that has killed three people on a cruise ship?",
+      "summary": "Three cruise ship passengers die from suspected hantavirus outbreak in Atlantic Ocean.",
+      "url": "https://www.theguardian.com/p/x5x9ft",
+      "thumbnail": "https://media.guim.co.uk/eee449aab9eb30d82e7c99b64b1956034c54fe92/302_0_2996_2398/500.jpg",
+      "published": "2026-05-04T05:12:06Z",
+      "location": {
+        "name": "Buenos Aires",
+        "lat": -34.6037,
+        "lng": -58.3816
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "science"
+    },
+    {
+      "id": "world/2026/may/04/women-in-developing-countries-hardest-hit-by-rising-debt-burden-un-research-finds",
+      "headline": "Women in developing countries hardest hit by rising debt burden, UN research finds",
+      "summary": "UN research shows women in developing countries hardest hit by rising debt burdens.",
+      "url": "https://www.theguardian.com/p/x5x6em",
+      "thumbnail": "https://media.guim.co.uk/4ed6a05e580e259a758ef2c0c0e5ae4629d72b57/866_0_4620_3696/500.jpg",
+      "published": "2026-05-04T05:00:16Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "world/2026/may/04/could-irans-escalating-economic-crisis-weaken-negotiating-position-with-us",
+      "headline": "Could Iran’s escalating economic crisis weaken negotiating position with US?",
+      "summary": "Iran's escalating economic crisis may weaken negotiating position with US amid war damages.",
+      "url": "https://www.theguardian.com/p/x5x7jc",
+      "thumbnail": "https://media.guim.co.uk/10c9462b92d44778eab422afc80c5ce44835bb70/391_0_3910_3128/500.jpg",
+      "published": "2026-05-04T05:00:15Z",
+      "location": {
+        "name": "Tehran",
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "artanddesign/2026/may/04/sim-spanish-civil-war-artist-jose-luis-rey-vila-barcelona-exhibition",
+      "headline": "Sketches of Spain at arms: Sim, the anarchist illustrator who drew the civil war from the frontline",
+      "summary": "Barcelona exhibition celebrates anarchist illustrator Sim's Spanish Civil War sketches.",
+      "url": "https://www.theguardian.com/p/x4kbqe",
+      "thumbnail": "https://media.guim.co.uk/90130be0517db42305c266338f79ddd14bf910a2/306_0_3654_2922/500.jpg",
+      "published": "2026-05-04T05:00:15Z",
+      "location": {
+        "name": "Barcelona",
+        "lat": 41.3851,
+        "lng": 2.1734
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "artanddesign"
+    },
+    {
+      "id": "science/2026/may/04/starwatch-eta-aquariid-meteor-shower-bursts-into-skies",
+      "headline": "Starwatch: Eta Aquariid meteor shower bursts into the skies",
+      "summary": "Eta Aquariid meteor shower peaks May 5-6, best viewed before dawn.",
+      "url": "https://www.theguardian.com/p/x5vthn",
+      "thumbnail": "https://media.guim.co.uk/d612a75d3849da1bd33812940d53c8d0a0f2d02f/279_2_956_765/500.jpg",
+      "published": "2026-05-04T05:00:14Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "tech",
+      "significance": 1,
+      "section": "science"
+    },
+    {
+      "id": "artanddesign/2026/may/04/young-at-art-immersive-art-gallery-frameless-london-children",
+      "headline": "Mummy, is this a video game? The dangers of showing kids art on a screen",
+      "summary": "Frameless immersive art gallery raises questions about screen-based art for children.",
+      "url": "https://www.theguardian.com/p/x5vxdy",
+      "thumbnail": "https://media.guim.co.uk/ca543c1296c2c8b70ccf2998f3f9a9fc14c4da61/786_0_5600_4480/500.jpg",
+      "published": "2026-05-04T05:00:14Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "artanddesign"
     }
   ]
 }
