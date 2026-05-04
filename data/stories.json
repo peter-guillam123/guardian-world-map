@@ -1,108 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-04T05:45:15.698Z",
-    "story_count": 99,
-    "oldest_story": "2026-05-03T06:00:46Z",
-    "newest_story": "2026-05-04T05:31:08Z",
+    "generated_at": "2026-05-04T08:09:27.480Z",
+    "story_count": 103,
+    "oldest_story": "2026-05-03T09:00:49Z",
+    "newest_story": "2026-05-04T08:04:52Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "australia-news/2026/may/03/three-people-dead-sydney-rosemeadow-nsw-ntwnfb",
-      "headline": "Three people dead after incident in Sydney home believed to be parents and brother of arrested man, police say ",
-      "summary": "Three people dead after incident in Sydney home; 32-year-old man arrested.",
-      "url": "https://www.theguardian.com/p/x5x3py",
-      "thumbnail": "https://media.guim.co.uk/cedf1dc61fdc45b8204bbe42b42723b08fbefc41/657_0_4913_3931/500.jpg",
-      "published": "2026-05-03T06:05:19Z",
-      "location": {
-        "name": "Rosemeadow, Sydney",
-        "lat": -34.0667,
-        "lng": 150.7333
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "australia-news"
-    },
-    {
-      "id": "travel/2026/may/03/notre-dame-du-mont-marseille-france-worlds-coolest-neighbourhood",
-      "headline": "‘A diverse and convivial village’: the urban eye candy of Notre-Dame du Mont, Marseille",
-      "summary": "Notre-Dame du Mont quarter in Marseille offers vibrant dining, shops and street art.",
-      "url": "https://www.theguardian.com/p/x4znj4",
-      "thumbnail": "https://media.guim.co.uk/ef1bb66ff68f7c5e2cc2e227cd55a605a713ba4e/427_0_4267_3413/500.jpg",
-      "published": "2026-05-03T06:00:47Z",
-      "location": {
-        "name": "Marseille",
-        "lat": 43.2965,
-        "lng": 5.3698
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "travel"
-    },
-    {
-      "id": "environment/2026/may/03/lawns-wild-no-mow-may-gardens",
-      "headline": "From neat lawns to wild havens: how No Mow May is transforming England’s gardens",
-      "summary": "No Mow May initiative transforms English gardens into wild habitats for biodiversity.",
-      "url": "https://www.theguardian.com/p/x4qcyn",
-      "thumbnail": "https://media.guim.co.uk/7b883243c428baa47d43f11bb73e490f0af766ec/1204_0_6485_5188/500.jpg",
-      "published": "2026-05-03T06:00:46Z",
-      "location": {
-        "name": "Cheshire",
-        "lat": 53.1038,
-        "lng": -2.3456
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "environment"
-    },
-    {
-      "id": "business/2026/may/03/dynamic-pay-uber-tuc",
-      "headline": "Dynamic pay on platforms such as Uber should be banned, says TUC",
-      "summary": "TUC calls for ban on dynamic pay algorithms on gig platforms like Uber.",
-      "url": "https://www.theguardian.com/p/x5v7z8",
-      "thumbnail": "https://media.guim.co.uk/5ba80d917026ac22a067b036b42d6cc5b33fe45a/838_0_5417_4333/500.jpg",
-      "published": "2026-05-03T06:00:46Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "music/2026/may/03/honest-playlist-tony-mortimer-east-17-madness-take-that-adele",
-      "headline": "‘Our rivalry with Take That was always tongue in cheek’: Tony Mortimer’s honest playlist",
-      "summary": "East 17's Tony Mortimer discusses his musical influences and 90s nostalgia in candid playlist interview.",
-      "url": "https://www.theguardian.com/p/x4ymz3",
-      "thumbnail": "https://media.guim.co.uk/f64bb9e9133cf763bda2dd229fd306fd76cd815b/93_0_9815_7849/500.jpg",
-      "published": "2026-05-03T08:00:48Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "music"
-    },
-    {
-      "id": "society/2026/may/03/hr-leaders-opposition-diversity-equity-inclusion-schemes-study",
-      "headline": "One in three HR leaders face opposition to inclusion schemes, study finds",
-      "summary": "Study reveals one in three UK HR leaders face opposition to diversity and inclusion initiatives.",
-      "url": "https://www.theguardian.com/p/x5vh49",
-      "thumbnail": "https://media.guim.co.uk/b6c4a3660717ac19dcc7deb92a75e8a37c523411/253_0_2995_2398/500.jpg",
-      "published": "2026-05-03T07:47:14Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "society"
-    },
     {
       "id": "politics/live/2026/may/03/local-elections-greens-polanksi-labour-starmer-conservatives-badenoch-reform-latest-news-updates",
       "headline": "Polanski ‘not fit to lead a party’ after Golders Green tweet, says minister – UK politics live",
@@ -1590,6 +1494,166 @@
       "category": "culture",
       "significance": 1,
       "section": "artanddesign"
+    },
+    {
+      "id": "world/live/2026/may/04/iran-war-live-updates-trump-hormuz-us-operation-tanker-strikes",
+      "headline": "Middle East crisis live: Iran warns it will attack US forces if they enter strait of Hormuz after Trump says US will help ‘guide’ stranded ships",
+      "summary": "Iran warns of harsh response if US forces enter Strait of Hormuz amid shipping crisis tensions.",
+      "url": "https://www.theguardian.com/p/x5x956",
+      "thumbnail": "https://media.guim.co.uk/73dfe8ff8c21609fd5be88e41a6ebfad152370ef/924_0_3192_2557/500.jpg",
+      "published": "2026-05-04T08:04:52Z",
+      "location": {
+        "name": "Strait of Hormuz",
+        "lat": 26.5597,
+        "lng": 56.2394
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "books/2026/may/04/one-leg-on-earth-by-pemi-aguda-review-a-powerfully-eerie-portrait-of-lagos",
+      "headline": "One Leg on Earth by ’Pemi Aguda review – a powerfully eerie portrait of Lagos",
+      "summary": "Debut novel 'One Leg on Earth' blends eco-horror and cosmic themes in portrait of Lagos.",
+      "url": "https://www.theguardian.com/p/x4phpy",
+      "thumbnail": "https://media.guim.co.uk/774eda850b142d003b349b8be6c6f0a16817fe6a/208_360_2080_1664/500.jpg",
+      "published": "2026-05-04T08:00:18Z",
+      "location": {
+        "name": "Lagos",
+        "lat": 6.5244,
+        "lng": 3.3792
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "books"
+    },
+    {
+      "id": "stage/2026/may/04/tender-review-soho-theatre-london-dave-harris",
+      "headline": "Tender review – modern masculinity laid bare in pumped-up strip club drama",
+      "summary": "Dave Harris's play 'Tender' explores modern masculinity and parenthood at Soho Theatre.",
+      "url": "https://www.theguardian.com/p/x5x642",
+      "thumbnail": "https://media.guim.co.uk/eed74f1bdc3a48a26b91beed72a9139adbf7ed42/323_0_3495_2797/500.jpg",
+      "published": "2026-05-04T08:00:18Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "stage"
+    },
+    {
+      "id": "society/2026/may/04/london-schools-trialling-vr-to-relieve-pupils-stress",
+      "headline": "London schools trialling VR to relieve pupils’ stress",
+      "summary": "London schools trial VR technology with NHS to reduce student stress and anxiety.",
+      "url": "https://www.theguardian.com/p/x5x7g7",
+      "thumbnail": "https://media.guim.co.uk/f0744fff37400742b1a99f6eb9262c7826aa5fc5/401_3_4718_3775/500.jpg",
+      "published": "2026-05-04T08:00:17Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "society"
+    },
+    {
+      "id": "film/2026/may/04/breakwater-review-troubled-souls-cross-class-and-age-barriers-in-nicely-judged-debut-feature",
+      "headline": "Breakwater review – troubled souls cross class and age barriers in nicely judged debut feature",
+      "summary": "Debut feature 'Breakwater' explores cross-class connection between theology student and fisher.",
+      "url": "https://www.theguardian.com/p/x5vzxm",
+      "thumbnail": "https://media.guim.co.uk/bb0f7108884f8a31e8d4af5fd16ab005aefe8383/723_0_1579_1264/500.jpg",
+      "published": "2026-05-04T08:00:17Z",
+      "location": {
+        "name": "Oxford",
+        "lat": 51.752,
+        "lng": -1.2577
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "film"
+    },
+    {
+      "id": "politics/live/2026/may/04/local-election-uk-keir-starmer-ukraine-eu-loan-deal-latest-news-updates",
+      "headline": "Starmer says UK opening talks with EU on joining €90bn loan scheme for Ukraine – UK politics live",
+      "summary": "Starmer backs UK participation in €90bn EU loan scheme for Ukraine access to contracts.",
+      "url": "https://www.theguardian.com/p/x5xamg",
+      "thumbnail": "https://media.guim.co.uk/a8b8a4908b9d2c193726c972e6e96ded75ff5183/895_532_3542_2834/500.jpg",
+      "published": "2026-05-04T07:59:32Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "australia-news/2026/may/04/afternoon-update-monday-ntwnfb",
+      "headline": "Afternoon Update: Jewish Australians give evidence at royal commission; Chalmers downplays hope for tax relief; and a living library",
+      "summary": "Royal commission hears Jewish Australian testimony on antisemitism and social cohesion.",
+      "url": "https://www.theguardian.com/p/x5x9n8",
+      "thumbnail": "https://media.guim.co.uk/f909e4466c508a87f216bc215fa1c45f9f8ef72e/241_0_2411_1929/500.jpg",
+      "published": "2026-05-04T07:16:44Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "football/2026/may/04/a-money-machine-and-morocco-on-the-rise-what-we-learned-from-fifa-congress",
+      "headline": "A money machine and Morocco on the rise: what we learned from Fifa congress",
+      "summary": "FIFA congress reveals Infantino's focus on Morocco and global expansion over European interests.",
+      "url": "https://www.theguardian.com/p/x5x458",
+      "thumbnail": "https://media.guim.co.uk/bf236d5ee4bd350ef4ca25577ea9d1f35dc4fe3d/333_0_3333_2667/500.jpg",
+      "published": "2026-05-04T07:00:17Z",
+      "location": {
+        "name": "Vancouver",
+        "lat": 49.2827,
+        "lng": -123.1207
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/may/04/premier-league-talking-points-from-the-weekends-action",
+      "headline": "Premier League: talking points from the weekend’s action ",
+      "summary": "Premier League: Slot protests handball decision; Arteta's tactics succeed; Dasilva's emotional return.",
+      "url": "https://www.theguardian.com/p/x5x78z",
+      "thumbnail": "https://media.guim.co.uk/d599e919070af6e0eeb1bafccc4bd1365c660864/0_0_5000_4000/500.jpg",
+      "published": "2026-05-04T07:00:16Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "sport/2026/may/04/female-head-coaches-womens-six-nations-rugby-union-pwr",
+      "headline": "‘A missing generation’: why are there are no female head coaches in Women’s Six Nations?",
+      "summary": "New scheme aims to address lack of female head coaches in Women's Six Nations rugby.",
+      "url": "https://www.theguardian.com/p/x5vt8p",
+      "thumbnail": "https://media.guim.co.uk/bcb730c10f658f62db5277a8dd928140f7d2dbc6/2567_264_3622_2898/500.jpg",
+      "published": "2026-05-04T07:00:16Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
     }
   ]
 }
