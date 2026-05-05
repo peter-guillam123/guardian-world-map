@@ -1,172 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-05T06:16:31.610Z",
+    "generated_at": "2026-05-05T08:30:19.017Z",
     "story_count": 81,
-    "oldest_story": "2026-05-04T07:00:16Z",
-    "newest_story": "2026-05-05T06:00:45Z",
+    "oldest_story": "2026-05-04T10:00:20Z",
+    "newest_story": "2026-05-05T08:28:16Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "world/live/2026/may/04/iran-war-live-updates-trump-hormuz-us-operation-tanker-strikes",
-      "headline": "Middle East crisis live: Iran warns it will attack US forces if they enter strait of Hormuz after Trump says US will help ‘guide’ stranded ships",
-      "summary": "Iran warns of harsh response if US forces enter Strait of Hormuz amid shipping crisis tensions.",
-      "url": "https://www.theguardian.com/p/x5x956",
-      "thumbnail": "https://media.guim.co.uk/73dfe8ff8c21609fd5be88e41a6ebfad152370ef/924_0_3192_2557/500.jpg",
-      "published": "2026-05-04T08:04:52Z",
-      "location": {
-        "name": "Strait of Hormuz",
-        "lat": 26.5597,
-        "lng": 56.2394
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "books/2026/may/04/one-leg-on-earth-by-pemi-aguda-review-a-powerfully-eerie-portrait-of-lagos",
-      "headline": "One Leg on Earth by ’Pemi Aguda review – a powerfully eerie portrait of Lagos",
-      "summary": "Debut novel 'One Leg on Earth' blends eco-horror and cosmic themes in portrait of Lagos.",
-      "url": "https://www.theguardian.com/p/x4phpy",
-      "thumbnail": "https://media.guim.co.uk/774eda850b142d003b349b8be6c6f0a16817fe6a/208_360_2080_1664/500.jpg",
-      "published": "2026-05-04T08:00:18Z",
-      "location": {
-        "name": "Lagos",
-        "lat": 6.5244,
-        "lng": 3.3792
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "books"
-    },
-    {
-      "id": "stage/2026/may/04/tender-review-soho-theatre-london-dave-harris",
-      "headline": "Tender review – modern masculinity laid bare in pumped-up strip club drama",
-      "summary": "Dave Harris's play 'Tender' explores modern masculinity and parenthood at Soho Theatre.",
-      "url": "https://www.theguardian.com/p/x5x642",
-      "thumbnail": "https://media.guim.co.uk/eed74f1bdc3a48a26b91beed72a9139adbf7ed42/323_0_3495_2797/500.jpg",
-      "published": "2026-05-04T08:00:18Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "stage"
-    },
-    {
-      "id": "society/2026/may/04/london-schools-trialling-vr-to-relieve-pupils-stress",
-      "headline": "London schools trialling VR to relieve pupils’ stress",
-      "summary": "London schools trial VR technology with NHS to reduce student stress and anxiety.",
-      "url": "https://www.theguardian.com/p/x5x7g7",
-      "thumbnail": "https://media.guim.co.uk/f0744fff37400742b1a99f6eb9262c7826aa5fc5/401_3_4718_3775/500.jpg",
-      "published": "2026-05-04T08:00:17Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "society"
-    },
-    {
-      "id": "film/2026/may/04/breakwater-review-troubled-souls-cross-class-and-age-barriers-in-nicely-judged-debut-feature",
-      "headline": "Breakwater review – troubled souls cross class and age barriers in nicely judged debut feature",
-      "summary": "Debut feature 'Breakwater' explores cross-class connection between theology student and fisher.",
-      "url": "https://www.theguardian.com/p/x5vzxm",
-      "thumbnail": "https://media.guim.co.uk/bb0f7108884f8a31e8d4af5fd16ab005aefe8383/723_0_1579_1264/500.jpg",
-      "published": "2026-05-04T08:00:17Z",
-      "location": {
-        "name": "Oxford",
-        "lat": 51.752,
-        "lng": -1.2577
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "film"
-    },
-    {
-      "id": "politics/live/2026/may/04/local-election-uk-keir-starmer-ukraine-eu-loan-deal-latest-news-updates",
-      "headline": "Starmer says UK opening talks with EU on joining €90bn loan scheme for Ukraine – UK politics live",
-      "summary": "Starmer backs UK participation in €90bn EU loan scheme for Ukraine access to contracts.",
-      "url": "https://www.theguardian.com/p/x5xamg",
-      "thumbnail": "https://media.guim.co.uk/a8b8a4908b9d2c193726c972e6e96ded75ff5183/895_532_3542_2834/500.jpg",
-      "published": "2026-05-04T07:59:32Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "australia-news/2026/may/04/afternoon-update-monday-ntwnfb",
-      "headline": "Afternoon Update: Jewish Australians give evidence at royal commission; Chalmers downplays hope for tax relief; and a living library",
-      "summary": "Royal commission hears Jewish Australian testimony on antisemitism and social cohesion.",
-      "url": "https://www.theguardian.com/p/x5x9n8",
-      "thumbnail": "https://media.guim.co.uk/f909e4466c508a87f216bc215fa1c45f9f8ef72e/241_0_2411_1929/500.jpg",
-      "published": "2026-05-04T07:16:44Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "football/2026/may/04/a-money-machine-and-morocco-on-the-rise-what-we-learned-from-fifa-congress",
-      "headline": "A money machine and Morocco on the rise: what we learned from Fifa congress",
-      "summary": "FIFA congress reveals Infantino's focus on Morocco and global expansion over European interests.",
-      "url": "https://www.theguardian.com/p/x5x458",
-      "thumbnail": "https://media.guim.co.uk/bf236d5ee4bd350ef4ca25577ea9d1f35dc4fe3d/333_0_3333_2667/500.jpg",
-      "published": "2026-05-04T07:00:17Z",
-      "location": {
-        "name": "Vancouver",
-        "lat": 49.2827,
-        "lng": -123.1207
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/may/04/premier-league-talking-points-from-the-weekends-action",
-      "headline": "Premier League: talking points from the weekend’s action ",
-      "summary": "Premier League: Slot protests handball decision; Arteta's tactics succeed; Dasilva's emotional return.",
-      "url": "https://www.theguardian.com/p/x5x78z",
-      "thumbnail": "https://media.guim.co.uk/d599e919070af6e0eeb1bafccc4bd1365c660864/0_0_5000_4000/500.jpg",
-      "published": "2026-05-04T07:00:16Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "sport/2026/may/04/female-head-coaches-womens-six-nations-rugby-union-pwr",
-      "headline": "‘A missing generation’: why are there are no female head coaches in Women’s Six Nations?",
-      "summary": "New scheme aims to address lack of female head coaches in Women's Six Nations rugby.",
-      "url": "https://www.theguardian.com/p/x5vt8p",
-      "thumbnail": "https://media.guim.co.uk/bcb730c10f658f62db5277a8dd928140f7d2dbc6/2567_264_3622_2898/500.jpg",
-      "published": "2026-05-04T07:00:16Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
     {
       "id": "sport/live/2026/may/04/leicestershire-v-nottinghamshire-somerset-v-yorkshire-and-more-county-cricket-day-four-live",
       "headline": "Kent v Derbyshire, Somerset v Yorkshire, and more: county cricket, day four – live ",
@@ -1302,6 +1142,166 @@
       "category": "economy",
       "significance": 3,
       "section": "australia-news"
+    },
+    {
+      "id": "politics/live/2026/may/05/keir-starmer-uk-antisemitism-summit-golders-green-terror-latest-news-updates",
+      "headline": "Starmer calls antisemitism ‘crisis for all of us’ ahead of Downing Street summit – UK politics live",
+      "summary": "Starmer calls antisemitism 'crisis for all' ahead of Downing Street summit following Golders Green attack.",
+      "url": "https://www.theguardian.com/p/x5xg9x",
+      "thumbnail": "https://media.guim.co.uk/ed7da17c269095b631bcfdf433b28ca284965d86/571_0_3093_2475/500.jpg",
+      "published": "2026-05-05T08:28:16Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "politics/2026/may/05/cabinet-minister-steve-reed-warns-labour-against-doomscrolling-through-leaders",
+      "headline": "Cabinet minister warns Labour against ‘doomscrolling’ through leaders like the Tories",
+      "summary": "Cabinet minister warns Labour against 'doomscrolling' through leaders like Conservatives.",
+      "url": "https://www.theguardian.com/p/x5xgdj",
+      "thumbnail": "https://media.guim.co.uk/fab49fed89c5e7cda4c9761eb00fb1e0b393fb23/288_0_4438_3551/500.jpg",
+      "published": "2026-05-05T08:26:24Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "world/live/2026/may/05/iran-us-israel-lebanon-strait-of-hormuz-ships-oil-uae-latest-news-updates",
+      "headline": "Middle East crisis live: ‘We have not even begun’, Iran warns US amid escalation in strait of Hormuz ",
+      "summary": "Iran warns 'new equation' solidifying in Strait of Hormuz as Middle East tensions escalate with US intervention.",
+      "url": "https://www.theguardian.com/p/x5xebz",
+      "thumbnail": "https://media.guim.co.uk/5712cbc1a1ee93b704dbef470fea761d6af139d4/546_0_5000_4000/500.jpg",
+      "published": "2026-05-05T08:22:24Z",
+      "location": {
+        "name": "Strait of Hormuz",
+        "lat": 26.55,
+        "lng": 56.2667
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "business/live/2026/may/05/hsbc-400m-uk-fraud-charge-rachel-reeves-scott-bessent-row-stock-markets-car-sales-live-updates",
+      "headline": "HSBC hit by $400m UK fraud-related charge; Rachel Reeves ‘clashed with Scott Bessent’ over Iran war criticism – business live",
+      "summary": "HSBC hit by $400m fraud charge and sets aside $300m for Iran war effects, profits fall 4%.",
+      "url": "https://www.theguardian.com/p/x5xg3z",
+      "thumbnail": "https://media.guim.co.uk/76c9029fab8059080f46bab01a2f3803a1bb5eb8/289_0_2867_2294/500.jpg",
+      "published": "2026-05-05T08:21:29Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "australia-news/2026/may/05/they-came-to-kill-us-royal-commission-hears-horrific-accounts-of-antisemitism-faced-by-jewish-children-in-australia-ntwnfb",
+      "headline": "NSW police urged Jewish man to drop claim he was subject to antisemitic slurs and death threats, commission told",
+      "summary": "NSW police urged Jewish man to drop antisemitism claim, royal commission told.",
+      "url": "https://www.theguardian.com/p/x5xf45",
+      "thumbnail": "https://media.guim.co.uk/09a1e50326e6ff5acc09f9a891b5495c70f68291/687_0_4164_3333/500.jpg",
+      "published": "2026-05-05T08:16:56Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "business/2026/may/05/hsbc-profits-fall-fraud-related-charge-iran-war",
+      "headline": "HSBC profits fall amid $400m fraud-related charge and Iran war",
+      "summary": "HSBC profits fall amid $400m fraud charge and $300m Iran war provision.",
+      "url": "https://www.theguardian.com/p/x5xg7k",
+      "thumbnail": "https://media.guim.co.uk/a278241e0c8bfda75add08dc98764767fe4613bc/692_0_5914_4731/500.jpg",
+      "published": "2026-05-05T08:05:30Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "business"
+    },
+    {
+      "id": "artanddesign/2026/may/05/parapet-lubaina-himid-venice-biennale-britain",
+      "headline": "‘We put our heads above the parapet’: Lubaina Himid on winning her 40-year battle to storm the Venice Biennale",
+      "summary": "Artist Lubaina Himid to represent Britain at Venice Biennale after 40-year fight for recognition.",
+      "url": "https://www.theguardian.com/p/x5xb63",
+      "thumbnail": "https://media.guim.co.uk/2c38aec57d50b79e56a5ad81972afcb590c7a43b/1135_0_7200_5760/500.jpg",
+      "published": "2026-05-05T08:00:47Z",
+      "location": {
+        "name": "Venice",
+        "lat": 45.4408,
+        "lng": 12.3155
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "artanddesign"
+    },
+    {
+      "id": "australia-news/2026/may/05/afternoon-update-tuesday-ntwnfb",
+      "headline": "Afternoon Update: RBA hikes interest rates; Craig Silvey pleads guilty; and the best outfits from the Met Gala",
+      "summary": "RBA hikes interest rates to 4.35% citing inflation threats from Iran war fuel price surge.",
+      "url": "https://www.theguardian.com/p/x5xf2t",
+      "thumbnail": "https://media.guim.co.uk/68a52bbbdbe2d0b05b5fd79240aa4d846b439242/881_0_5160_4128/500.jpg",
+      "published": "2026-05-05T07:40:37Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "business/2026/may/05/vodafone-full-control-uk-mobile-operator-ck-hutchison",
+      "headline": "Vodafone to take full control of UK mobile operator in £4.3bn deal",
+      "summary": "Vodafone to take full control of UK mobile operator in £4.3bn deal with CK Hutchison.",
+      "url": "https://www.theguardian.com/p/x5xg77",
+      "thumbnail": "https://media.guim.co.uk/449c1969405243c63af1eef489a665365289d71f/159_0_4282_3424/500.jpg",
+      "published": "2026-05-05T07:40:36Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "sport/2026/may/05/carlton-fined-75000-elijah-holland-incident-afl",
+      "headline": "Carlton fined $75,000 for mishandling of Elijah Hollands’ mental health episode",
+      "summary": "Carlton fined $75k for mishandling Elijah Hollands' mental health episode during MCG match.",
+      "url": "https://www.theguardian.com/p/x5xgxz",
+      "thumbnail": "https://media.guim.co.uk/c53f1f5990d2df427ad5fd9f27dd04b18f52e9e9/68_0_2026_1620/500.jpg",
+      "published": "2026-05-05T07:30:31Z",
+      "location": {
+        "name": "Melbourne",
+        "lat": -37.8136,
+        "lng": 144.9631
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
     }
   ]
 }
