@@ -1,108 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-05T21:13:54.638Z",
+    "generated_at": "2026-05-05T22:15:45.813Z",
     "story_count": 95,
-    "oldest_story": "2026-05-04T21:25:40Z",
-    "newest_story": "2026-05-05T21:09:39Z",
+    "oldest_story": "2026-05-04T22:50:29Z",
+    "newest_story": "2026-05-05T21:46:10Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "world/2026/may/04/norwegian-fish-farms-polluting-fjords-with-waste-likened-to-raw-sewage-of-millions-of-people",
-      "headline": "Norwegian fish farms polluting fjords with waste likened to ‘raw sewage of millions of people’",
-      "summary": "Norwegian fish farms pollute fjords with nutrient waste equivalent to sewage from millions of people annually.",
-      "url": "https://www.theguardian.com/p/x5xbq2",
-      "thumbnail": "https://media.guim.co.uk/d05a881f076507e5f82fe5581b45ac113b1913a1/454_0_4527_3622/500.jpg",
-      "published": "2026-05-04T22:01:34Z",
-      "location": {
-        "name": "Norway",
-        "lat": 60.472,
-        "lng": 8.4689
-      },
-      "category": "climate",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "sport/2026/may/04/wu-yize-shaun-murphy-world-snooker-championship",
-      "headline": "Wu Yize beats Shaun Murphy in final frame to win World Snooker Championship",
-      "summary": "Wu Yize wins World Snooker Championship at 22, becoming second-youngest champion with 18-17 victory.",
-      "url": "https://www.theguardian.com/p/x5xctb",
-      "thumbnail": "https://media.guim.co.uk/15ea9f085c68f54e24e2cd6225c06139adb2dcad/467_0_4669_3734/500.jpg",
-      "published": "2026-05-04T21:57:19Z",
-      "location": {
-        "name": "Sheffield",
-        "lat": 53.3811,
-        "lng": -1.4701
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "football/2025/sep/15/premier-league-top-scorers-2025-26-who-is-leading-race-for-golden-boot",
-      "headline": "Premier League top scorers 2025-26: who is leading race for golden boot?",
-      "summary": "Premier League top scorers 2025-26: Erling Haaland leads with 25 goals in ongoing season race.",
-      "url": "https://www.theguardian.com/p/x386fa",
-      "thumbnail": "https://media.guim.co.uk/786467be59cb8fc0fca42497aebf4284f554bc5f/350_0_2732_2185/500.jpg",
-      "published": "2026-05-04T21:51:05Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "technology/2026/may/04/gamestop-ceo-ebay-acquisition",
-      "headline": "GameStop shares fall 10% after CEO skirts questions over eBay acquisition details",
-      "summary": "GameStop shares fall 10% after CEO avoids questions on $55.5bn eBay acquisition financing.",
-      "url": "https://www.theguardian.com/p/x5xe6f",
-      "thumbnail": "https://media.guim.co.uk/42890248ceb5f5e8ae3c908c39ccd0687e0003cd/217_0_5033_4024/500.jpg",
-      "published": "2026-05-04T21:33:35Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "technology"
-    },
-    {
-      "id": "politics/2026/may/04/starmer-call-society-response-rising-antisemitism",
-      "headline": "‘A test of our values’: Starmer to call for whole-society response to rising antisemitism ",
-      "summary": "PM Starmer calls for whole-society response to rising antisemitism at Downing Street event.",
-      "url": "https://www.theguardian.com/p/x5xc37",
-      "thumbnail": "https://media.guim.co.uk/10188b520b3efc59fec1e115f9ab8f9ac1448f32/490_0_4904_3923/500.jpg",
-      "published": "2026-05-04T21:30:33Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "us-news/2026/may/04/zohran-mamdani-ice-police-protesters-clash-brooklyn",
-      "headline": "Zohran Mamdani condemns ICE after police and protesters clash in Brooklyn",
-      "summary": "ICE agents and police clash with protesters at Brooklyn hospital during immigration enforcement action.",
-      "url": "https://www.theguardian.com/p/x5xdck",
-      "thumbnail": "https://media.guim.co.uk/3a002f49fba0e3ad6c40f24b4fc918b41dbddf6c/576_0_3334_2667/500.jpg",
-      "published": "2026-05-04T21:25:40Z",
-      "location": {
-        "name": "Brooklyn",
-        "lat": 40.6782,
-        "lng": -73.9442
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
     {
       "id": "football/2026/may/04/pep-guardiola-manchester-city-lost-control-title-race-everton-david-moyes",
       "headline": "‘Not in our hands’: Guardiola accepts Manchester City have lost control of title race",
@@ -1526,6 +1430,102 @@
       "category": "politics",
       "significance": 2,
       "section": "media"
+    },
+    {
+      "id": "us-news/2026/may/05/covid-shingles-vaccines-studies-fda",
+      "headline": "FDA blocked studies finding Covid and shingles vaccines safe, HHS official says",
+      "summary": "FDA blocked vaccine safety studies, HHS official claims amid controversy over research findings.",
+      "url": "https://www.theguardian.com/p/x5xjjv",
+      "thumbnail": "https://media.guim.co.uk/49f849979962e400666b1244f5db2955f4053663/375_0_4251_3399/500.jpg",
+      "published": "2026-05-05T21:46:10Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "health",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/may/05/arsenal-atletico-madrid-champions-league-player-ratings",
+      "headline": "Arsenal 1-0 Atlético Madrid (agg: 2-1): Champions League player ratings",
+      "summary": "Arsenal defeats Atlético Madrid 1-0 in Champions League, advances on aggregate score.",
+      "url": "https://www.theguardian.com/p/x5xhkx",
+      "thumbnail": "https://media.guim.co.uk/6ba9fd7e217f8fff9d056c5eccf251fe42836c34/430_0_4303_3443/500.jpg",
+      "published": "2026-05-05T21:41:25Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "politics/2026/may/05/zack-polanski-falsely-claimed-to-be-british-red-cross-spokesperson-charity-says",
+      "headline": "Zack Polanski falsely claimed to be British Red Cross spokesperson, charity says",
+      "summary": "Green party leader Zack Polanski falsely claimed British Red Cross spokesperson role.",
+      "url": "https://www.theguardian.com/p/x5xja2",
+      "thumbnail": "https://media.guim.co.uk/07c51cacf5b64645d06f238c09570f7facbd55d3/500_0_5000_4000/500.jpg",
+      "published": "2026-05-05T21:33:46Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "tv-and-radio/2026/may/05/this-is-a-bomb-the-nevada-casino-heist-review",
+      "headline": "This Is a Bomb: The Nevada Casino Heist review – the dark, deadly tale of a $3m extortion scheme",
+      "summary": "Documentary explores 1980 casino bomb extortion scheme at Harvey's Wagon Wheel.",
+      "url": "https://www.theguardian.com/p/x5vmqt",
+      "thumbnail": "https://media.guim.co.uk/ff2b948057168ff15a4778d5aa10bd0ffa5a7164/588_0_3277_2623/500.jpg",
+      "published": "2026-05-05T21:30:50Z",
+      "location": {
+        "name": "Lake Tahoe",
+        "lat": 39.0968,
+        "lng": -120.0324
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "tv-and-radio"
+    },
+    {
+      "id": "australia-news/2026/may/06/morning-mail-wednesday-ntwnfb",
+      "headline": "Morning Mail: ‘White shirt guy’ plans to sue police, households count rate cost, tennis boycott threat",
+      "summary": "'White shirt guy' from protest plans to sue police over alleged assault incident.",
+      "url": "https://www.theguardian.com/p/x5xgp4",
+      "thumbnail": "https://media.guim.co.uk/4ac24d8303318e05fa2a6d01d363bd819544480a/246_0_2461_1970/500.jpg",
+      "published": "2026-05-05T21:30:37Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "world/2026/may/05/british-crew-member-dutch-mv-hondius-cruise-ship-hantavirus-cases",
+      "headline": "Unwell British crew member to be ‘urgently’ evacuated from cruise ship after hantavirus cases",
+      "summary": "Crew members evacuated from cruise ship following hantavirus outbreak in Atlantic.",
+      "url": "https://www.theguardian.com/p/x5xhnx",
+      "thumbnail": "https://media.guim.co.uk/1f1cca47c25aceda569e5bda1e73fe5b9a46878c/247_0_2813_2250/500.jpg",
+      "published": "2026-05-05T21:29:49Z",
+      "location": {
+        "name": "Canary Islands",
+        "lat": 28.2916,
+        "lng": -16.6291
+      },
+      "category": "health",
+      "significance": 3,
+      "section": "science"
     }
   ]
 }
