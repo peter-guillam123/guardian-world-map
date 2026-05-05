@@ -1,60 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-05T16:59:53.334Z",
-    "story_count": 84,
-    "oldest_story": "2026-05-04T17:11:18Z",
-    "newest_story": "2026-05-05T16:55:41Z",
+    "generated_at": "2026-05-05T18:21:30.408Z",
+    "story_count": 96,
+    "oldest_story": "2026-05-04T18:46:22Z",
+    "newest_story": "2026-05-05T18:15:30Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "sport/2026/may/04/champions-cup-final-rugby-independent-tv-director",
-      "headline": "Champions Cup final will have independent TV director in charge",
-      "summary": "Champions Cup final to have independent TV director after Bath's semi-final camera angle complaints.",
-      "url": "https://www.theguardian.com/p/x5xd9e",
-      "thumbnail": "https://media.guim.co.uk/0fb5972fc9c94136efbc2c704bbba064c1de5664/182_0_1943_1555/500.jpg",
-      "published": "2026-05-04T17:48:47Z",
-      "location": {
-        "name": "Bilbao",
-        "lat": 43.263,
-        "lng": -2.935
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "world/2026/may/04/modis-bjp-party-win-election-west-bengal-first-time",
-      "headline": "Narendra Modi’s BJP wins election in West Bengal for the first time",
-      "summary": "Narendra Modi's BJP wins election in West Bengal for the first time, expanding political consolidation.",
-      "url": "https://www.theguardian.com/p/x5xc78",
-      "thumbnail": "https://media.guim.co.uk/8ca7d2d058f4b37a3d02f031903aad2788a7b12b/772_0_5199_4159/500.jpg",
-      "published": "2026-05-04T17:34:24Z",
-      "location": {
-        "name": "West Bengal",
-        "lat": 23.5,
-        "lng": 87
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "us-news/2026/may/04/theodore-roosevelt-manuscript-assassination-attempt-uncovered",
-      "headline": "Page of Theodore Roosevelt speech hit by bullet in 1912 assassination attempt uncovered",
-      "summary": "Manuscript page from Theodore Roosevelt's 1912 assassination attempt discovered in Pennsylvania.",
-      "url": "https://www.theguardian.com/p/x5xd2t",
-      "thumbnail": "https://media.guim.co.uk/976d8d12cdd892a8172cea86f80aaa475bab4479/72_298_1139_911/500.jpg",
-      "published": "2026-05-04T17:11:18Z",
-      "location": {
-        "name": "Pennsylvania",
-        "lat": 40.5908,
-        "lng": -77.2098
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "us-news"
-    },
     {
       "id": "football/live/2026/may/04/everton-v-manchester-city-premier-league-live",
       "headline": "Everton v Manchester City: Premier League – live",
@@ -1350,6 +1302,246 @@
       "category": "sport",
       "significance": 3,
       "section": "sport"
+    },
+    {
+      "id": "football/live/2026/may/05/arsenal-v-atletico-madrid-champions-league-semi-final-second-leg-live",
+      "headline": "Arsenal v Atlético Madrid: Champions League semi-final, second leg – live",
+      "summary": "Arsenal face Atlético Madrid in Champions League semi-final second leg after 1-1 first-leg draw.",
+      "url": "https://www.theguardian.com/p/x5xctq",
+      "thumbnail": "https://media.guim.co.uk/897e15e6e08661fc546ade404f961a9aba44a26a/6_0_6424_5139/500.jpg",
+      "published": "2026-05-05T18:15:30Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/may/05/antidepressants-rfk-jr-maha",
+      "headline": "US to take steps to curb antidepressant prescribing, RFK Jr says ",
+      "summary": "RFK Jr announces plan to curb antidepressant prescribing amid psychiatrist concerns about access.",
+      "url": "https://www.theguardian.com/p/x5xthy",
+      "thumbnail": "https://media.guim.co.uk/8b69d45e0368d2be2d9e3ac62bb21275c63fdb85/417_0_3514_2811/500.jpg",
+      "published": "2026-05-05T18:08:21Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "commentisfree/2026/may/05/the-guardian-view-on-the-us-supreme-court-its-judgments-have-slowly-erased-voting-rights",
+      "headline": "The Guardian view on the US supreme court: its judgments have slowly erased voting rights",
+      "summary": "Supreme Court rulings criticized for eroding voting rights protections for Black voters.",
+      "url": "https://www.theguardian.com/p/x5xtyd",
+      "thumbnail": "https://media.guim.co.uk/012a7ef489e6feb8b9fe3ef7ed97507bb9a3a4fd/476_493_1796_1437/500.jpg",
+      "published": "2026-05-05T18:06:12Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "commentisfree"
+    },
+    {
+      "id": "commentisfree/2026/may/05/the-guardian-view-on-the-renters-rights-act-finally-protections-fit-for-the-modern-housing-market",
+      "headline": "The Guardian view on the Renters’ Rights Act: finally, protections fit for the modern housing market",
+      "summary": "UK government advances Renters' Rights Act to protect private renters with modern protections.",
+      "url": "https://www.theguardian.com/p/x5xcg3",
+      "thumbnail": "https://media.guim.co.uk/1e890359b66d61b7ff9a6c42abf50d775be8bf6a/289_0_3834_3069/500.jpg",
+      "published": "2026-05-05T18:05:11Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "commentisfree"
+    },
+    {
+      "id": "politics/2026/may/05/stop-plotting-to-oust-keir-starmer-ex-deputy-labour-leader-urges-mps",
+      "headline": "Stop plotting to oust Keir Starmer, ex-deputy Labour leader urges MPs",
+      "summary": "Tom Watson urges Labour MPs to stop plotting against Keir Starmer after local election losses.",
+      "url": "https://www.theguardian.com/p/x5xtjy",
+      "thumbnail": "https://media.guim.co.uk/38a0208532b3430431f73de1ab2e5038d92b9b10/1040_33_4048_3239/500.jpg",
+      "published": "2026-05-05T18:03:43Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "artanddesign/2026/may/05/venice-biennale-protests-resignations-russia-israel",
+      "headline": "Dark clouds, protests and resignations dampen start of 61st Venice Biennale",
+      "summary": "61st Venice Biennale opens amid protests over Russia's closure and Israel's inclusion.",
+      "url": "https://www.theguardian.com/p/x5xhnj",
+      "thumbnail": "https://media.guim.co.uk/cc8b0d9fb1bd9214b235a1b024cd470adab3a5cf/94_0_2813_2250/500.jpg",
+      "published": "2026-05-05T18:02:05Z",
+      "location": {
+        "name": "Venice",
+        "lat": 45.4313,
+        "lng": 12.3547
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "artanddesign"
+    },
+    {
+      "id": "football/2026/may/05/manchester-city-arsenal-premier-league-pep-guardiola-mikel-arteta",
+      "headline": "Thierno Barry provides human touch with fresh twist in title race full of uncertainties",
+      "summary": "Manchester City's draw at Everton keeps Premier League title race open with Arsenal.",
+      "url": "https://www.theguardian.com/p/x5xtgy",
+      "thumbnail": "https://media.guim.co.uk/0ca4c7fdec257339ed599bc681665846fc756f4e/44_0_3759_3007/500.jpg",
+      "published": "2026-05-05T18:00:46Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "world/2026/may/05/canada-voting-data-breach-separatists",
+      "headline": "Alberta separatists submit 300,000 signatures to push independence referendum",
+      "summary": "Alberta separatists submit 300,000 signatures for independence referendum amid voting data breach.",
+      "url": "https://www.theguardian.com/p/x5xtta",
+      "thumbnail": "https://media.guim.co.uk/d43f6b459f2f413ac65692295be33774a156b114/512_0_5001_4000/500.jpg",
+      "published": "2026-05-05T17:49:26Z",
+      "location": {
+        "name": "Edmonton",
+        "lat": 53.5461,
+        "lng": -113.4938
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "uk-news/2026/may/05/man-and-ex-partner-killed-in-bristol-blast-after-he-forced-entry-into-house",
+      "headline": "Man and ex-partner killed in Bristol blast after he forced entry into house",
+      "summary": "Man with explosive device kills ex-partner in Bristol house blast; police treat as homicide.",
+      "url": "https://www.theguardian.com/p/x5xtfv",
+      "thumbnail": "https://media.guim.co.uk/11400ae801f26faa4a4abe60a0f995a4771f7b09/667_0_3576_2861/500.jpg",
+      "published": "2026-05-05T17:41:29Z",
+      "location": {
+        "name": "Bristol",
+        "lat": 51.4545,
+        "lng": -2.5879
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "technology/2026/may/05/openai-president-personal-diary-musk-altman-case",
+      "headline": "OpenAI president’s ‘deeply personal’ diary becomes focus in Musk’s case against Altman",
+      "summary": "OpenAI president's personal diary becomes focus in Elon Musk's lawsuit against Altman.",
+      "url": "https://www.theguardian.com/p/x5xtna",
+      "thumbnail": "https://media.guim.co.uk/014e1567f276bf27f68eaf4d3e793e8f60e3b3fc/458_0_4585_3667/500.jpg",
+      "published": "2026-05-05T17:36:13Z",
+      "location": {
+        "name": "San Francisco",
+        "lat": 37.7749,
+        "lng": -122.4194
+      },
+      "category": "tech",
+      "significance": 2,
+      "section": "technology"
+    },
+    {
+      "id": "world/2026/may/05/a-veneer-of-normality-has-returned-to-tehran-but-fears-for-the-future-are-rife",
+      "headline": "A veneer of normality has returned to Tehran, but fears for the future are rife",
+      "summary": "Tehran shows surface normality post-ceasefire but residents harbor deep concerns about conflict.",
+      "url": "https://www.theguardian.com/p/x5xhjj",
+      "thumbnail": "https://media.guim.co.uk/3eda31163c0751b9aa41459958350945a4c49bc0/518_0_3750_3000/500.jpg",
+      "published": "2026-05-05T17:29:27Z",
+      "location": {
+        "name": "Tehran",
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "business/nils-pratley-on-finance/2026/may/05/stock-markets-are-wobbling-but-10bn-cash-bids-at-fat-premiums-can-still-happen",
+      "headline": "Stock markets are wobbling, but £10bn cash bids at fat premiums can still happen",
+      "summary": "FTSE 100 falls 1.4% but stock markets resilient to Iran war amid takeover activity.",
+      "url": "https://www.theguardian.com/p/x5xhqg",
+      "thumbnail": "https://media.guim.co.uk/c2102e8e31c1e45f2536e5070a2a83c08a7ad3fa/38_0_7151_5721/500.jpg",
+      "published": "2026-05-05T17:26:37Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "uk-news/2026/may/05/barrister-palestine-action-trial-facing-contempt-of-court-proceedings",
+      "headline": "Barrister in Palestine Action trial facing contempt of court proceedings",
+      "summary": "Barrister faces contempt of court charges for informing jury of right to acquit on conscience.",
+      "url": "https://www.theguardian.com/p/x5xtdg",
+      "thumbnail": "https://media.guim.co.uk/197125ef014d081112ef8494a51f1a6ea161e1ff/0_1924_4000_3201/500.jpg",
+      "published": "2026-05-05T17:19:18Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 1,
+      "section": "uk-news"
+    },
+    {
+      "id": "us-news/2026/may/05/animals-rescued-california-sanctuary",
+      "headline": "Hundreds of animals rescued from ‘appalling’ conditions at California sanctuary",
+      "summary": "Over 400 animals rescued from California sanctuary in appalling conditions amid bankruptcy.",
+      "url": "https://www.theguardian.com/p/x5xtcf",
+      "thumbnail": "https://media.guim.co.uk/8c839de55e5cffb6f77e4782ea18f732e5b796bb/1206_1142_3574_2858/500.jpg",
+      "published": "2026-05-05T17:17:50Z",
+      "location": {
+        "name": "San Diego",
+        "lat": 32.7157,
+        "lng": -117.1611
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "music/2026/may/05/paul-jackson-obituary",
+      "headline": "Paul Jackson obituary",
+      "summary": "Paul Jackson, proprietor of Hull's New Adelphi Club music venue for 40+ years, dies aged 71.",
+      "url": "https://www.theguardian.com/p/x4z7k8",
+      "thumbnail": "https://media.guim.co.uk/a1b1576745c75a63742c7256c34610519624870a/822_101_3511_2809/500.jpg",
+      "published": "2026-05-05T17:16:26Z",
+      "location": {
+        "name": "Hull",
+        "lat": 53.7457,
+        "lng": -0.3367
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "music"
     }
   ]
 }
