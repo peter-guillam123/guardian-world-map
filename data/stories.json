@@ -1,60 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-05T22:15:45.813Z",
-    "story_count": 95,
-    "oldest_story": "2026-05-04T22:50:29Z",
-    "newest_story": "2026-05-05T21:46:10Z",
+    "generated_at": "2026-05-05T23:14:56.223Z",
+    "story_count": 96,
+    "oldest_story": "2026-05-05T03:09:36Z",
+    "newest_story": "2026-05-05T23:02:17Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/2026/may/04/pep-guardiola-manchester-city-lost-control-title-race-everton-david-moyes",
-      "headline": "‘Not in our hands’: Guardiola accepts Manchester City have lost control of title race",
-      "summary": "Manchester City draws 3-3 with Everton, falling five points behind Arsenal in title race.",
-      "url": "https://www.theguardian.com/p/x5xe7e",
-      "thumbnail": "https://media.guim.co.uk/ea884cd4b2319a041c5c0c8177774f30e3d2962a/483_0_2827_2263/500.jpg",
-      "published": "2026-05-04T23:08:11Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4831,
-        "lng": -2.2006
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "world/2026/may/05/modern-slavery-record-levels-uk-worsen-report",
-      "headline": "Modern slavery at record levels in UK and expected to worsen, report warns",
-      "summary": "UK modern slavery reaches record levels with trafficking expected to worsen, commissioner warns.",
-      "url": "https://www.theguardian.com/p/x5xbgd",
-      "thumbnail": "https://media.guim.co.uk/adbcf27cb2a45b85724f5f7ac78737c45cb37095/64_0_2965_2372/500.jpg",
-      "published": "2026-05-04T23:01:35Z",
-      "location": {
-        "name": "United Kingdom",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "football/2026/may/04/pep-guardiola-frustrated-as-hopes-of-taking-arsenal-to-wire-left-in-critical-condition",
-      "headline": "Pep Guardiola frustrated as hopes of taking Arsenal to wire left in critical condition",
-      "summary": "Manchester City's title hopes fade after 3-3 draw with Everton leaves Arsenal in control.",
-      "url": "https://www.theguardian.com/p/x5xdxe",
-      "thumbnail": "https://media.guim.co.uk/1821d0bed9148a0ce80667a551170658c05b941b/270_0_2695_2156/500.jpg",
-      "published": "2026-05-04T22:50:29Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4831,
-        "lng": -2.2006
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
     {
       "id": "sport/2026/may/05/liv-golf-funding-cam-smith-australian",
       "headline": "‘He’s too young to retire’: Cam Smith and Australian golf ponder life without LIV’s riches",
@@ -1526,6 +1478,70 @@
       "category": "health",
       "significance": 3,
       "section": "science"
+    },
+    {
+      "id": "us-news/2026/may/05/california-governor-race-debate",
+      "headline": "California gubernatorial frontrunners face off in high-stakes debate as early voting gets underway",
+      "summary": "California gubernatorial candidates debate as primary voting begins, featuring major party frontrunners.",
+      "url": "https://www.theguardian.com/p/x5xkv3",
+      "thumbnail": "https://media.guim.co.uk/bd064ea4b3fdb936f1e536976c7c0cf444ac33ed/531_0_4438_3550/500.jpg",
+      "published": "2026-05-05T23:02:17Z",
+      "location": {
+        "name": "California",
+        "lat": 36.1162,
+        "lng": -119.6816
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "society/2026/may/06/black-people-twice-likely-stroke-white-england-study",
+      "headline": "Black people in England twice as likely to suffer stroke as white counterparts",
+      "summary": "Study finds Black people in England twice as likely to suffer strokes with less timely care access.",
+      "url": "https://www.theguardian.com/p/x5xhkk",
+      "thumbnail": "https://media.guim.co.uk/2a7c40c2eb92936a956ae604f66adaf105d19020/724_0_7240_5792/500.jpg",
+      "published": "2026-05-05T23:01:52Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "society"
+    },
+    {
+      "id": "football/2026/may/05/an-incredible-night-mikel-arteta-so-proud-of-arsenals-players-and-fans",
+      "headline": "‘An incredible night’: Mikel Arteta so proud of Arsenal’s players and fans",
+      "summary": "Arsenal beats Atlético Madrid to reach Champions League final with Bukayo Saka's decisive goal.",
+      "url": "https://www.theguardian.com/p/x5xhjq",
+      "thumbnail": "https://media.guim.co.uk/1d0cc2acbf49a37d629c0b65725d18611cd2349b/769_413_2727_2181/500.jpg",
+      "published": "2026-05-05T22:44:42Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/may/05/arsenal-see-off-atletico-madrid-and-feel-gnawing-fear-of-failure-start-to-fall-away",
+      "headline": "Arsenal see off Atlético Madrid and feel gnawing fear of failure start to fall away",
+      "summary": "Arsenal advances to Champions League final, shedding fear of failure under Mikel Arteta.",
+      "url": "https://www.theguardian.com/p/x5xhjz",
+      "thumbnail": "https://media.guim.co.uk/dc6c04de713d689491c1e5dcdb9cfa439a8e27db/518_0_6160_4928/500.jpg",
+      "published": "2026-05-05T22:18:43Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
     }
   ]
 }
