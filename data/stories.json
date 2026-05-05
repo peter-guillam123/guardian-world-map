@@ -1,284 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-05T13:01:12.129Z",
-    "story_count": 85,
-    "oldest_story": "2026-05-04T13:30:24Z",
-    "newest_story": "2026-05-05T12:56:11Z",
+    "generated_at": "2026-05-05T16:59:53.334Z",
+    "story_count": 84,
+    "oldest_story": "2026-05-04T17:11:18Z",
+    "newest_story": "2026-05-05T16:55:41Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "music/2026/may/04/galilee-string-quartet-review-palestinian-ensemble-milton-court",
-      "headline": "Galilee String Quartet review – Palestinian ensemble improvise their signature east-west blend",
-      "summary": "Palestinian Galilee String Quartet performs at Milton Court, blending classical and traditional instruments.",
-      "url": "https://www.theguardian.com/p/x5xc6z",
-      "thumbnail": "https://media.guim.co.uk/dc053f8e592dead04351a19e203232b24fb470e1/329_0_1739_1392/500.jpg",
-      "published": "2026-05-04T14:12:11Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "music"
-    },
-    {
-      "id": "us-news/2026/may/04/marco-rubio-to-meet-pope-leo-after-trumps-broadside-against-pontiff",
-      "headline": "Marco Rubio to meet pope this week after Trump’s broadside against Leo",
-      "summary": "US Secretary of State Rubio meets Pope Leo amid tensions between Trump administration and Vatican.",
-      "url": "https://www.theguardian.com/p/x5xc72",
-      "thumbnail": "https://media.guim.co.uk/a6bc0e41472fa80974ec4127add5b60f3c5cb962/0_246_4183_3346/500.jpg",
-      "published": "2026-05-04T14:09:13Z",
-      "location": {
-        "name": "Vatican City",
-        "lat": 41.9029,
-        "lng": 12.4534
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "australia-news/2026/may/05/nsw-to-criminalise-secret-gps-tracking-after-report-highlighting-number-of-devices-bought-by-dv-offenders",
-      "headline": "NSW to criminalise secret GPS tracking after report highlighting number of devices bought by DV offenders",
-      "summary": "NSW to criminalize secret GPS tracking after DV report, says technology weaponized against women.",
-      "url": "https://www.theguardian.com/p/x5xaax",
-      "thumbnail": "https://media.guim.co.uk/0a030aa3c7559f44f41ef931e35995c3ca4c3665/356_0_3560_2848/500.jpg",
-      "published": "2026-05-04T14:01:24Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "society/2026/may/04/man-produces-sperm-from-testicular-tissue-frozen-as-a-child-in-breakthrough-trial",
-      "headline": "Man produces sperm from testicular tissue frozen as a child in breakthrough trial",
-      "summary": "Breakthrough trial: man produces sperm from testicular tissue frozen during childhood chemotherapy.",
-      "url": "https://www.theguardian.com/p/x5v7vc",
-      "thumbnail": "https://media.guim.co.uk/90cb82b21c507a4d4552778683b5d257294cc3a1/803_334_4309_3447/500.jpg",
-      "published": "2026-05-04T14:00:24Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "health",
-      "significance": 3,
-      "section": "society"
-    },
-    {
-      "id": "technology/2026/may/04/vine-video-sharing-back-battling-ai-slop-divine",
-      "headline": "Vine video-sharing app is back – and battling AI slop ",
-      "summary": "Vine video app relaunches as Divine with Jack Dorsey backing, requires human-made content only.",
-      "url": "https://www.theguardian.com/p/x5xc4t",
-      "thumbnail": "https://media.guim.co.uk/75545759f5d43c0bc1c719f0b8f4251f26ca1fd9/220_0_3161_2529/500.jpg",
-      "published": "2026-05-04T13:47:22Z",
-      "location": {
-        "name": "San Francisco",
-        "lat": 37.7749,
-        "lng": -122.4194
-      },
-      "category": "tech",
-      "significance": 2,
-      "section": "technology"
-    },
-    {
-      "id": "sport/2026/may/04/john-sterling-beloved-voice-of-yankees-for-36-seasons-dies-at-age-of-87",
-      "headline": "John Sterling, beloved voice of Yankees for 36 seasons, dies at age of 87",
-      "summary": "John Sterling, Yankees broadcaster for 36 seasons and 12-time Emmy winner, dies at age 87.",
-      "url": "https://www.theguardian.com/p/x5xccn",
-      "thumbnail": "https://media.guim.co.uk/bf89f326d5debaab066b3738675f39e37b1fd2a5/416_0_4138_3312/500.jpg",
-      "published": "2026-05-04T13:45:15Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "us-news/2026/may/04/united-airlines-plane-newark-airport",
-      "headline": "Driver injured after truck was struck by United plane landing at Newark airport",
-      "summary": "Delivery truck struck by United Airlines plane landing at Newark airport; driver sustains minor injuries.",
-      "url": "https://www.theguardian.com/p/x5xc8t",
-      "thumbnail": "https://media.guim.co.uk/a6328c771c5f6ce874cf83da76aafbef8835c486/359_0_3639_2911/500.jpg",
-      "published": "2026-05-04T13:33:30Z",
-      "location": {
-        "name": "Newark",
-        "lat": 40.7357,
-        "lng": -74.1724
-      },
-      "category": "other",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "culture/2026/may/04/super-furry-animals-on-making-the-man-dont-give-a-fuck-bill-hicks",
-      "headline": "‘We got a drive-by egging in Baltimore’: Super Furry Animals on making The Man Don’t Give a Fuck",
-      "summary": "Super Furry Animals discuss creating anti-establishment anthem 'The Man Don't Give a Fuck.'",
-      "url": "https://www.theguardian.com/p/x5vhhm",
-      "thumbnail": "https://media.guim.co.uk/b31a5933450e4aa38807564b1ff3cafab9a6c675/150_399_4344_3474/500.jpg",
-      "published": "2026-05-04T13:30:24Z",
-      "location": {
-        "name": "Cardiff",
-        "lat": 51.4816,
-        "lng": -3.1791
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "culture"
-    },
-    {
-      "id": "football/live/2026/may/04/hearts-v-rangers-scottish-premiership-live",
-      "headline": "Hearts v Rangers: Scottish Premiership – live",
-      "summary": "Hearts v Rangers Scottish Premiership match live from Tynecastle in Edinburgh.",
-      "url": "https://www.theguardian.com/p/x5vnkj",
-      "thumbnail": "https://media.guim.co.uk/67d55683df40fd12d74692d942c649a4ae023977/795_0_6677_5341/500.jpg",
-      "published": "2026-05-04T16:18:55Z",
-      "location": {
-        "name": "Edinburgh",
-        "lat": 55.9533,
-        "lng": -3.1883
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/may/04/la-liga-marcelino-returns-villarreal-champions-league-walks-away",
-      "headline": "Marcelino returns Villarreal to the Champions League … then walks away",
-      "summary": "Marcelino guides Villarreal back to Champions League before departing as coach.",
-      "url": "https://www.theguardian.com/p/x5xbfg",
-      "thumbnail": "https://media.guim.co.uk/7b16e506408481f9ded599ccef91f127bc094f3b/196_0_1957_1565/500.jpg",
-      "published": "2026-05-04T16:18:42Z",
-      "location": {
-        "name": "Villarreal",
-        "lat": 42.1005,
-        "lng": -2.1156
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "business/2026/may/04/strait-of-hormuz-donald-trump-us-navy-iran-shipping",
-      "headline": "Shipping firms question safety in strait of Hormuz despite Trump plan",
-      "summary": "Shipping firms question safety in Strait of Hormuz despite Trump's US Navy protection plan.",
-      "url": "https://www.theguardian.com/p/x5xcx3",
-      "thumbnail": "https://media.guim.co.uk/0f0299971583d8edeee410d9b82e63778ad7ddd2/754_0_5000_4000/500.jpg",
-      "published": "2026-05-04T16:10:14Z",
-      "location": {
-        "name": "Strait of Hormuz",
-        "lat": 26.5597,
-        "lng": 56.2497
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "business"
-    },
-    {
-      "id": "technology/2026/may/04/ai-platforms-nigel-farage-prompted-uk-politics-study",
-      "headline": "AI platforms reference Nigel Farage more than other leaders when prompted on UK politics, study shows",
-      "summary": "Study shows AI platforms reference Nigel Farage more than other UK political leaders.",
-      "url": "https://www.theguardian.com/p/x5vtnn",
-      "thumbnail": "https://media.guim.co.uk/8750e026eef0661d94a835ad30b6f6eb03d04746/500_141_4653_3722/500.jpg",
-      "published": "2026-05-04T16:00:27Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "tech",
-      "significance": 2,
-      "section": "technology"
-    },
-    {
-      "id": "world/2026/may/04/gaza-flotilla-britons-say-they-needed-hospital-care-after-israeli-forces-abuse",
-      "headline": "British Gaza flotilla activists say they needed hospital care after Israeli forces’ abuse",
-      "summary": "British Gaza flotilla activists report hospital treatment after Israeli forces' alleged abuse.",
-      "url": "https://www.theguardian.com/p/x5xbdm",
-      "thumbnail": null,
-      "published": "2026-05-04T16:00:27Z",
-      "location": {
-        "name": "Crete",
-        "lat": 35.3387,
-        "lng": 25.1324
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "business/2026/may/04/nigeria-refinery-dangote-uk-plan-jet-fuel-shortage-strait-of-hormuz",
-      "headline": "Nigerian refinery accused of sacking union members is key to UK plan to tackle jet fuel shortage",
-      "summary": "Nigerian Dangote refinery key to UK jet fuel shortage solution amid Strait of Hormuz crisis.",
-      "url": "https://www.theguardian.com/p/x5xbd4",
-      "thumbnail": "https://media.guim.co.uk/aba8b5e28f1aa86f821f6f11d8842b01d715a060/25_0_4167_3333/500.jpg",
-      "published": "2026-05-04T15:58:29Z",
-      "location": {
-        "name": "Lagos",
-        "lat": 6.5244,
-        "lng": 3.3792
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "politics/2026/may/04/be-careful-who-you-vote-for-in-local-elections-on-thursday",
-      "headline": "Be careful who you vote for in local elections on Thursday",
-      "summary": "Letters on UK local elections May 7, urging careful voting on council service delivery.",
-      "url": "https://www.theguardian.com/p/x5xbj5",
-      "thumbnail": "https://media.guim.co.uk/913dd1b8e736ad5b2c5298aa61b7e8435dbf0004/25_0_3189_2551/500.jpg",
-      "published": "2026-05-04T15:53:48Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "us-news/2026/may/04/democrats-house-majority-midterm-elections",
-      "headline": "Democrats aim to reclaim House majority by boosting eight ‘top-tier candidates’",
-      "summary": "Democrats boost eight top-tier candidates for House majority in midterm elections.",
-      "url": "https://www.theguardian.com/p/x5xcjy",
-      "thumbnail": "https://media.guim.co.uk/bc6cb73f57c8561710f3cc8d0386d7efa20bc728/469_143_3145_2516/500.jpg",
-      "published": "2026-05-04T15:50:42Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "tv-and-radio/2026/may/04/john-oliver-gas-station-drugs",
-      "headline": "John Oliver on gas station drugs: ‘Dangerous substances that can be made by just about anyone’",
-      "summary": "John Oliver investigates unregulated gas station drugs including kratom and synthetic opioids.",
-      "url": "https://www.theguardian.com/p/x5xceg",
-      "thumbnail": "https://media.guim.co.uk/e3af3a4ec1b84e6e325de85c040dc6792687c3ad/288_0_2010_1610/500.jpg",
-      "published": "2026-05-04T15:38:03Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "tv-and-radio"
-    },
     {
       "id": "sport/2026/may/04/champions-cup-final-rugby-independent-tv-director",
       "headline": "Champions Cup final will have independent TV director in charge",
@@ -1366,6 +1094,262 @@
       "category": "politics",
       "significance": 1,
       "section": "society"
+    },
+    {
+      "id": "us-news/2026/may/05/secret-service-agent-on-leave-alleged-public-fondling",
+      "headline": "US Secret Service agent placed on leave for allegedly fondling himself in public",
+      "summary": "Secret Service agent placed on leave after arrest for indecent exposure at Miami hotel.",
+      "url": "https://www.theguardian.com/p/x5xte9",
+      "thumbnail": "https://media.guim.co.uk/aba01847f81845758f60f863c014982e3faf9880/612_741_5211_4168/500.jpg",
+      "published": "2026-05-05T16:55:41Z",
+      "location": {
+        "name": "Miami",
+        "lat": 25.7617,
+        "lng": -80.1918
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "world/2026/may/05/giorgia-meloni-ai-generated-lingerie-image-deepfake",
+      "headline": "‘Think before sharing,’ Giorgia Meloni says as AI-made lingerie image of her goes viral",
+      "summary": "Italian PM Meloni criticizes AI-generated deepfake images of her circulating online.",
+      "url": "https://www.theguardian.com/p/x5xtfg",
+      "thumbnail": "https://media.guim.co.uk/cc55f62f9f26ddb0f3abfc859ad32f16eb3b9fef/522_0_4561_3648/500.jpg",
+      "published": "2026-05-05T16:53:39Z",
+      "location": {
+        "name": "Rome",
+        "lat": 41.9028,
+        "lng": 12.4964
+      },
+      "category": "tech",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "global/2026/may/04/ai-costs-are-coming-to-consumers",
+      "headline": "AI costs are coming to consumers ",
+      "summary": "Tech earnings reports predict rising AI costs for consumer electronics in near future.",
+      "url": "https://www.theguardian.com/p/x5xdzy",
+      "thumbnail": "https://media.guim.co.uk/a1b4a40e25e43354547d43aae9fa7d1c51504210/333_0_3333_2666/500.jpg",
+      "published": "2026-05-05T16:53:16Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "tech",
+      "significance": 2,
+      "section": "global"
+    },
+    {
+      "id": "politics/2026/may/05/mobile-phone-ban-schools-us-study",
+      "headline": "‘Close to zero impact’: US study casts doubt on effect of phone ban in schools",
+      "summary": "US study finds school phone bans have minimal impact on student learning outcomes.",
+      "url": "https://www.theguardian.com/p/x5xte4",
+      "thumbnail": "https://media.guim.co.uk/c63533c46bc7419b46ab5f9695aa935ed5e8e3fd/236_0_3527_2821/500.jpg",
+      "published": "2026-05-05T16:49:07Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "world/2026/may/05/political-row-as-report-calls-for-sweeping-cuts-to-french-public-broadcasting",
+      "headline": "Political row as report calls for sweeping cuts to French public broadcasting",
+      "summary": "French report recommends major cuts to public broadcasting ahead of presidential election.",
+      "url": "https://www.theguardian.com/p/x5xt6y",
+      "thumbnail": "https://media.guim.co.uk/2ed6080547e5ded0a1d2e0932b7f677cc8f63b3b/998_0_5160_4128/500.jpg",
+      "published": "2026-05-05T16:44:10Z",
+      "location": {
+        "name": "Paris",
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "books/2026/may/05/carol-rumens-poet-and-the-guardians-poem-of-the-week-columnist-dies-aged-81",
+      "headline": "Carol Rumens, poet and the Guardian’s poem of the week columnist, dies aged 81",
+      "summary": "Carol Rumens, Guardian poetry columnist, dies aged 81 after brain tumour diagnosis.",
+      "url": "https://www.theguardian.com/p/x5xha9",
+      "thumbnail": "https://media.guim.co.uk/1bc0bb3f84cda77e8909f4f1b3c283b860b1fe19/0_237_1920_1536/500.jpg",
+      "published": "2026-05-05T16:35:02Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "books"
+    },
+    {
+      "id": "world/2026/may/05/mv-hondius-ice-breaking-expedition-cruise-suspected-hantavirus-outbreak",
+      "headline": "MV Hondius: the ice-breaking expedition cruise hit with suspected hantavirus outbreak",
+      "summary": "Polar expedition cruise MV Hondius struck by suspected hantavirus outbreak off Cape Verde.",
+      "url": "https://www.theguardian.com/p/x5xgjb",
+      "thumbnail": "https://media.guim.co.uk/8f958c1dfe1be4d234d4c69844ff107325e2b55f/337_0_2813_2250/500.jpg",
+      "published": "2026-05-05T16:33:38Z",
+      "location": {
+        "name": "Cape Verde",
+        "lat": 16.5388,
+        "lng": -23.0418
+      },
+      "category": "health",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "technology/2026/may/05/ken-eason-obituary",
+      "headline": "Ken Eason obituary",
+      "summary": "Ken Eason, Loughborough University computer technology expert, dies aged 83.",
+      "url": "https://www.theguardian.com/p/x4zn7t",
+      "thumbnail": "https://media.guim.co.uk/0663c08ba89591158e493e2e9099b32c4998c11d/0_81_480_384/master/480.jpg",
+      "published": "2026-05-05T16:31:10Z",
+      "location": {
+        "name": "Loughborough",
+        "lat": 52.7668,
+        "lng": -1.2093
+      },
+      "category": "tech",
+      "significance": 1,
+      "section": "technology"
+    },
+    {
+      "id": "money/2026/may/05/ttell-us-are-you-caught-up-ns-and-i-lost-funds",
+      "headline": "Tell us: are you caught up in the NS&I lost funds issue?",
+      "summary": "NS&I bank addresses 37,500 cases of lost premium bonds from deceased customers.",
+      "url": "https://www.theguardian.com/p/x5xhjx",
+      "thumbnail": "https://media.guim.co.uk/77284912719b14fef89f00dd9a9b89f3f35a8cbb/418_0_4164_3333/500.jpg",
+      "published": "2026-05-05T16:26:15Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "money"
+    },
+    {
+      "id": "world/2026/may/05/carney-appoints-louise-arbor-canada-governor-general",
+      "headline": "Carney appoints former war crimes prosecutor as Canada governor general",
+      "summary": "PM Carney appoints former war crimes prosecutor Louise Arbour as Canada's governor general.",
+      "url": "https://www.theguardian.com/p/x5xtbn",
+      "thumbnail": "https://media.guim.co.uk/525eb57b372963fadbfda3195a09050360da8ad9/300_0_2501_2000/500.jpg",
+      "published": "2026-05-05T16:23:50Z",
+      "location": {
+        "name": "Ottawa",
+        "lat": 45.4215,
+        "lng": -75.6972
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "politics/2026/may/05/farage-deploys-the-rottweiler-to-distract-from-awkward-5m-gift-story",
+      "headline": "Farage deploys the rottweiler to distract from awkward £5m gift story",
+      "summary": "Farage uses migrant detention centre proposal to distract from £5m gift controversy.",
+      "url": "https://www.theguardian.com/p/x5xt6c",
+      "thumbnail": "https://media.guim.co.uk/63de9690f2b7559e8c86bd04606351a0f9b8b65b/415_0_7911_6328/500.jpg",
+      "published": "2026-05-05T16:23:02Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 1,
+      "section": "politics"
+    },
+    {
+      "id": "news/2026/may/05/protest-marches-and-the-fight-against-antisemitism-in-britain",
+      "headline": "Protest marches and the fight against antisemitism in Britain",
+      "summary": "Readers debate antisemitism and pro-Palestinian protests following Golders Green stabbings.",
+      "url": "https://www.theguardian.com/p/x48g68",
+      "thumbnail": "https://media.guim.co.uk/a275c2f2382977bae27fac1f0a12e678c209e289/287_0_6139_4912/500.jpg",
+      "published": "2026-05-05T16:12:29Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "news"
+    },
+    {
+      "id": "politics/2026/may/05/theres-no-excuse-for-boozing-at-work",
+      "headline": "There’s no excuse for boozing at work",
+      "summary": "Readers criticize MPs' workplace drinking culture without justification.",
+      "url": "https://www.theguardian.com/p/x5xcmn",
+      "thumbnail": "https://media.guim.co.uk/0a0688d32c049756adc90f22edefe8d0e7694eb8/808_413_3718_2975/500.jpg",
+      "published": "2026-05-05T16:11:29Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 1,
+      "section": "politics"
+    },
+    {
+      "id": "world/2026/may/05/romania-pro-europe-government-collapses",
+      "headline": "Romania’s pro-Europe government collapses unleashing fresh turmoil",
+      "summary": "Romania's pro-Europe government collapses after confidence vote loss amid far-right surge.",
+      "url": "https://www.theguardian.com/p/x5xhzz",
+      "thumbnail": "https://media.guim.co.uk/7702eeabdc279afd7197b7d675f54ca9f32d22a6/74_0_5676_4540/500.jpg",
+      "published": "2026-05-05T16:01:01Z",
+      "location": {
+        "name": "Romania",
+        "lat": 45.9432,
+        "lng": 24.9668
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "uk-news/2026/may/05/four-palestine-action-activists-convicted-of-criminal-damage",
+      "headline": "Four Palestine Action activists convicted of criminal damage",
+      "summary": "Four Palestine Action activists convicted of criminal damage at Israeli defence firm's UK site.",
+      "url": "https://www.theguardian.com/p/x5xt3e",
+      "thumbnail": "https://media.guim.co.uk/8c7a8cade58e1d23f73891c18a9aac0bb96d2333/407_0_4120_3296/500.jpg",
+      "published": "2026-05-05T15:53:54Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "sport/2026/may/05/wu-yize-china-snooker-world-championship-crucible",
+      "headline": "Wu Yize cements China’s status as premier snooker force as younger generation takes over",
+      "summary": "Wu Yize wins World Snooker Championship, cementing China's dominance in the sport.",
+      "url": "https://www.theguardian.com/p/x5xt7p",
+      "thumbnail": "https://media.guim.co.uk/300f3c90e2db34161016e8c897cd32480753538e/109_0_2609_2087/500.jpg",
+      "published": "2026-05-05T15:52:28Z",
+      "location": {
+        "name": "Sheffield",
+        "lat": 53.3811,
+        "lng": -1.4701
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "sport"
     }
   ]
 }
