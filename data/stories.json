@@ -1,28 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-05T00:11:31.420Z",
-    "story_count": 81,
-    "oldest_story": "2026-05-04T01:45:15Z",
-    "newest_story": "2026-05-04T23:08:11Z",
+    "generated_at": "2026-05-05T03:52:15.652Z",
+    "story_count": 82,
+    "oldest_story": "2026-05-04T05:00:14Z",
+    "newest_story": "2026-05-05T03:26:04Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "world/2026/may/04/ukraine-war-briefing-strikes-on-russias-primorsk-oil-port-and-ships",
-      "headline": "Ukraine war briefing: Strikes on Russia’s Primorsk oil port and ships ",
-      "summary": "Ukraine strikes Russian oil port Primorsk and three 'shadow fleet' vessels on Baltic Sea.",
-      "url": "https://www.theguardian.com/p/x5x9dv",
-      "thumbnail": "https://media.guim.co.uk/4ea910898f9be93cb9cba3a91da0197a915d6cba/457_0_4208_3367/500.jpg",
-      "published": "2026-05-04T01:45:15Z",
-      "location": {
-        "name": "Primorsk",
-        "lat": 59.55,
-        "lng": 28.65
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "world"
-    },
     {
       "id": "environment/2026/may/04/methane-emissions-australian-coalmines-more-than-double-official-estimates-report-finds",
       "headline": "‘Wake-up call’: methane emissions from Australian coalmines more than double official estimates, report finds",
@@ -1302,6 +1286,38 @@
       "category": "sport",
       "significance": 2,
       "section": "football"
+    },
+    {
+      "id": "sport/2026/may/05/liv-golf-funding-cam-smith-australian",
+      "headline": "‘He’s too young to retire’: Cam Smith and Australian golf ponder life without LIV’s riches",
+      "summary": "Cam Smith reconsiders LIV Golf commitment as Saudi funding dries up, Australian golf seeks ecosystem reform.",
+      "url": "https://www.theguardian.com/p/x5xeyf",
+      "thumbnail": "https://media.guim.co.uk/e379112d2a7f7e44da19014199cdf6c18d0ceb9b/806_0_6536_5227/500.jpg",
+      "published": "2026-05-05T03:26:04Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "australia-news/2026/may/05/victoria-budget-2026-labor-winners-losers",
+      "headline": "Winners and losers: Victoria’s 2026 budget cuts transport costs and helps parents - but will future generations suffer?",
+      "summary": "Victoria's 2026 budget cuts transport costs and supports families while forecasting dual surpluses.",
+      "url": "https://www.theguardian.com/p/x5xet9",
+      "thumbnail": "https://media.guim.co.uk/d8cfec9bd42a50dcce69d222b52756e17142aefa/889_0_5000_4000/500.jpg",
+      "published": "2026-05-05T03:09:36Z",
+      "location": {
+        "name": "Melbourne",
+        "lat": -37.8136,
+        "lng": 144.9631
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
     }
   ]
 }
