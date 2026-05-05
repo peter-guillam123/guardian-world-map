@@ -1,156 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-05T03:52:15.652Z",
-    "story_count": 82,
-    "oldest_story": "2026-05-04T05:00:14Z",
-    "newest_story": "2026-05-05T03:26:04Z",
+    "generated_at": "2026-05-05T06:16:31.610Z",
+    "story_count": 81,
+    "oldest_story": "2026-05-04T07:00:16Z",
+    "newest_story": "2026-05-05T06:00:45Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "environment/2026/may/04/methane-emissions-australian-coalmines-more-than-double-official-estimates-report-finds",
-      "headline": "‘Wake-up call’: methane emissions from Australian coalmines more than double official estimates, report finds",
-      "summary": "Australian coalmine methane emissions more than double official UN estimates, IEA report finds.",
-      "url": "https://www.theguardian.com/p/x5xa2j",
-      "thumbnail": "https://media.guim.co.uk/fe08a42a2932e71a7e91d60336b6385b75a16d3f/449_0_2371_1896/500.jpg",
-      "published": "2026-05-04T05:31:08Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "climate",
-      "significance": 3,
-      "section": "environment"
-    },
-    {
-      "id": "australia-news/2026/may/04/baby-dead-wagga-beach-homeless-encampment-ntwnfb",
-      "headline": "Baby found dead at Wagga beach homeless encampment as mother and another infant taken to hospital",
-      "summary": "Baby found dead at Wagga beach homeless encampment; mother and infant hospitalized.",
-      "url": "https://www.theguardian.com/p/x5xa8b",
-      "thumbnail": "https://media.guim.co.uk/dc18955d15536c5e9b754abbafa0b9dd6cb7ef11/140_0_3060_2448/500.jpg",
-      "published": "2026-05-04T05:15:04Z",
-      "location": {
-        "name": "Wagga Wagga",
-        "lat": -35.1186,
-        "lng": 147.3627
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "world/2026/may/04/japan-sees-largest-protest-in-support-of-pacifist-constitution-as-pm-takaichi-pushes-revisions",
-      "headline": "Japan sees largest protest in support of pacifist constitution as PM Takaichi pushes revisions",
-      "summary": "Japan's largest pacifist constitution protest as PM Takaichi calls for constitutional revisions.",
-      "url": "https://www.theguardian.com/p/x5xa3t",
-      "thumbnail": "https://media.guim.co.uk/a053ab77d69f9b679250bbfe19bad33b84772835/103_0_3780_3024/500.jpg",
-      "published": "2026-05-04T05:14:49Z",
-      "location": {
-        "name": "Tokyo",
-        "lat": 35.6762,
-        "lng": 139.6503
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "science/2026/may/04/what-is-hantavirus-the-infection-that-has-killed-three-people-on-a-cruise-ship",
-      "headline": "What is hantavirus, the infection that has killed three people on a cruise ship?",
-      "summary": "Three cruise ship passengers die from suspected hantavirus outbreak in Atlantic Ocean.",
-      "url": "https://www.theguardian.com/p/x5x9ft",
-      "thumbnail": "https://media.guim.co.uk/eee449aab9eb30d82e7c99b64b1956034c54fe92/302_0_2996_2398/500.jpg",
-      "published": "2026-05-04T05:12:06Z",
-      "location": {
-        "name": "Buenos Aires",
-        "lat": -34.6037,
-        "lng": -58.3816
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "science"
-    },
-    {
-      "id": "world/2026/may/04/women-in-developing-countries-hardest-hit-by-rising-debt-burden-un-research-finds",
-      "headline": "Women in developing countries hardest hit by rising debt burden, UN research finds",
-      "summary": "UN research shows women in developing countries hardest hit by rising debt burdens.",
-      "url": "https://www.theguardian.com/p/x5x6em",
-      "thumbnail": "https://media.guim.co.uk/4ed6a05e580e259a758ef2c0c0e5ae4629d72b57/866_0_4620_3696/500.jpg",
-      "published": "2026-05-04T05:00:16Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "world/2026/may/04/could-irans-escalating-economic-crisis-weaken-negotiating-position-with-us",
-      "headline": "Could Iran’s escalating economic crisis weaken negotiating position with US?",
-      "summary": "Iran's escalating economic crisis may weaken negotiating position with US amid war damages.",
-      "url": "https://www.theguardian.com/p/x5x7jc",
-      "thumbnail": "https://media.guim.co.uk/10c9462b92d44778eab422afc80c5ce44835bb70/391_0_3910_3128/500.jpg",
-      "published": "2026-05-04T05:00:15Z",
-      "location": {
-        "name": "Tehran",
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "artanddesign/2026/may/04/sim-spanish-civil-war-artist-jose-luis-rey-vila-barcelona-exhibition",
-      "headline": "Sketches of Spain at arms: Sim, the anarchist illustrator who drew the civil war from the frontline",
-      "summary": "Barcelona exhibition celebrates anarchist illustrator Sim's Spanish Civil War sketches.",
-      "url": "https://www.theguardian.com/p/x4kbqe",
-      "thumbnail": "https://media.guim.co.uk/90130be0517db42305c266338f79ddd14bf910a2/306_0_3654_2922/500.jpg",
-      "published": "2026-05-04T05:00:15Z",
-      "location": {
-        "name": "Barcelona",
-        "lat": 41.3851,
-        "lng": 2.1734
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "artanddesign"
-    },
-    {
-      "id": "science/2026/may/04/starwatch-eta-aquariid-meteor-shower-bursts-into-skies",
-      "headline": "Starwatch: Eta Aquariid meteor shower bursts into the skies",
-      "summary": "Eta Aquariid meteor shower peaks May 5-6, best viewed before dawn.",
-      "url": "https://www.theguardian.com/p/x5vthn",
-      "thumbnail": "https://media.guim.co.uk/d612a75d3849da1bd33812940d53c8d0a0f2d02f/279_2_956_765/500.jpg",
-      "published": "2026-05-04T05:00:14Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "tech",
-      "significance": 1,
-      "section": "science"
-    },
-    {
-      "id": "artanddesign/2026/may/04/young-at-art-immersive-art-gallery-frameless-london-children",
-      "headline": "Mummy, is this a video game? The dangers of showing kids art on a screen",
-      "summary": "Frameless immersive art gallery raises questions about screen-based art for children.",
-      "url": "https://www.theguardian.com/p/x5vxdy",
-      "thumbnail": "https://media.guim.co.uk/ca543c1296c2c8b70ccf2998f3f9a9fc14c4da61/786_0_5600_4480/500.jpg",
-      "published": "2026-05-04T05:00:14Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "artanddesign"
-    },
     {
       "id": "world/live/2026/may/04/iran-war-live-updates-trump-hormuz-us-operation-tanker-strikes",
       "headline": "Middle East crisis live: Iran warns it will attack US forces if they enter strait of Hormuz after Trump says US will help ‘guide’ stranded ships",
@@ -1317,6 +1173,134 @@
       },
       "category": "politics",
       "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "artanddesign/2026/may/05/salisbury-cathedral-restores-stained-glass-edward-burne-jones-william-morris",
+      "headline": "Salisbury Cathedral restores stained-glass treasure by Edward Burne-Jones and William Morris",
+      "summary": "Salisbury Cathedral completes restoration of stained-glass window by Burne-Jones and Morris.",
+      "url": "https://www.theguardian.com/p/x5vm87",
+      "thumbnail": "https://media.guim.co.uk/ffb62482be36120aef0b740950eb06cc2b5cfa74/0_18_940_752/500.jpg",
+      "published": "2026-05-05T06:00:45Z",
+      "location": {
+        "name": "Salisbury",
+        "lat": 51.0681,
+        "lng": -1.793
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "artanddesign"
+    },
+    {
+      "id": "business/2026/may/05/labour-leadership-challenge-bond-markets-angela-rayner-andy-burnham-keir-starmer",
+      "headline": "‘There is a good deal of fear’: what would a Labour leadership challenge mean for bond markets?",
+      "summary": "Labour leadership challenge concerns bond markets ahead of UK local elections.",
+      "url": "https://www.theguardian.com/p/x5v7za",
+      "thumbnail": "https://media.guim.co.uk/4f5507fdb7d9cad98b90d87e2caa766bba601930/1170_113_2937_2350/500.jpg",
+      "published": "2026-05-05T06:00:45Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "film/2026/may/05/preemptive-listening-review-art-film-about-sirens-aura-satz",
+      "headline": "Preemptive Listening review – artist’s film about sirens is buzzing with sonic ideas",
+      "summary": "Artist Aura Satz explores sirens and sound in experimental art film.",
+      "url": "https://www.theguardian.com/p/x5xcx8",
+      "thumbnail": "https://media.guim.co.uk/c1ba90ea26bc17b27b9db214d19b51df1f82e029/577_0_2700_2160/500.jpg",
+      "published": "2026-05-05T06:00:44Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "film"
+    },
+    {
+      "id": "travel/2026/may/05/carabanchel-madrid-spain-cool-neighbourhood",
+      "headline": "‘It feels like an independent republic’: Madrid’s new arty barrio of Carabanchel",
+      "summary": "Carabanchel neighbourhood becomes Madrid's creative hub as artists seek affordable space.",
+      "url": "https://www.theguardian.com/p/x4zny2",
+      "thumbnail": "https://media.guim.co.uk/8429340247fba1f2ddb36eeec18860a05523d6e0/440_0_4698_3758/500.jpg",
+      "published": "2026-05-05T06:00:44Z",
+      "location": {
+        "name": "Madrid",
+        "lat": 40.4168,
+        "lng": -3.7038
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "travel"
+    },
+    {
+      "id": "world/2026/may/05/tuesday-briefing-how-ai-facial-recognition-in-policing-works-and-how-it-can-go-wrong",
+      "headline": "Tuesday briefing: How AI facial recognition in policing works – and how it can go wrong",
+      "summary": "UK police facial recognition deployment outpaces regulatory safeguards.",
+      "url": "https://www.theguardian.com/p/x5xb4d",
+      "thumbnail": "https://media.guim.co.uk/6f928ac91720aeb292c5266f27756beb074587e6/1071_0_5600_4480/500.jpg",
+      "published": "2026-05-05T05:45:43Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "tech",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "world/2026/may/05/australia-eyes-security-pact-with-fiji-as-pushback-from-beijing-undermines-agreement-with-vanuatu",
+      "headline": "Australia eyes security pact with Fiji as pushback from Beijing undermines agreement with Vanuatu",
+      "summary": "Australia pursues security pact with Fiji amid China's Pacific influence expansion.",
+      "url": "https://www.theguardian.com/p/x5xf5z",
+      "thumbnail": "https://media.guim.co.uk/689c706db035ce93a3c736bdee508d40d270310e/688_0_6880_5504/500.jpg",
+      "published": "2026-05-05T05:34:18Z",
+      "location": {
+        "name": "Suva",
+        "lat": -18.1416,
+        "lng": 178.4419
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "tv-and-radio/2026/may/05/tv-tonight-inside-this-is-a-bomb-the-nevada-casino-heist",
+      "headline": "TV tonight: inside the astonishing true story of a casino bomb plot",
+      "summary": "BBC documentary recounts 1980 casino bomb plot at Harvey's Wagon Wheel.",
+      "url": "https://www.theguardian.com/p/x5vh96",
+      "thumbnail": "https://media.guim.co.uk/ff2b948057168ff15a4778d5aa10bd0ffa5a7164/533_0_3277_2623/500.jpg",
+      "published": "2026-05-05T05:20:43Z",
+      "location": {
+        "name": "Lake Tahoe",
+        "lat": 39.0968,
+        "lng": -120.0324
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "tv-and-radio"
+    },
+    {
+      "id": "australia-news/2026/may/05/rba-interest-rate-decision-reserve-bank-australia-rates-inflation",
+      "headline": "RBA interest rates: Reserve Bank hikes official cash rate to 4.35% in blow to mortgage holders",
+      "summary": "Reserve Bank of Australia raises interest rates to 4.35% amid inflation concerns.",
+      "url": "https://www.theguardian.com/p/x5xf8e",
+      "thumbnail": "https://media.guim.co.uk/131d0ad542ca2abf8f867381b1b9461bc919c3aa/456_0_4560_3648/500.jpg",
+      "published": "2026-05-05T05:16:23Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "economy",
+      "significance": 3,
       "section": "australia-news"
     }
   ]
