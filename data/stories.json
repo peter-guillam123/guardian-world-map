@@ -1,108 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-06T09:12:50.026Z",
-    "story_count": 100,
-    "oldest_story": "2026-05-05T09:38:09Z",
-    "newest_story": "2026-05-06T09:07:01Z",
+    "generated_at": "2026-05-06T11:22:29.649Z",
+    "story_count": 95,
+    "oldest_story": "2026-05-05T11:34:48Z",
+    "newest_story": "2026-05-06T11:17:21Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "business/2026/may/05/australians-are-poorer-because-of-war-on-the-other-side-of-the-world-michele-bullocks-logic-is-hard-to-fault",
-      "headline": "Australians are poorer because of war on the other side of the world – Michele Bullock’s logic is hard to fault",
-      "summary": "RBA governor warns Australians face economic malaise from global fuel shock amid rising inflation.",
-      "url": "https://www.theguardian.com/p/x5xg8j",
-      "thumbnail": "https://media.guim.co.uk/f7b39fe7276a34ce4120fa73de2cca73087f26f3/573_0_5713_4573/500.jpg",
-      "published": "2026-05-05T10:11:39Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "business"
-    },
-    {
-      "id": "sport/2026/may/05/rfu-backs-steve-borthwick-to-lead-england-for-2027-world-cup-after-six-nations-review",
-      "headline": "RFU backs Steve Borthwick to lead England for 2027 World Cup after Six Nations review",
-      "summary": "RFU backs Steve Borthwick despite England's worst Six Nations in 50 years.",
-      "url": "https://www.theguardian.com/p/x5xgqt",
-      "thumbnail": "https://media.guim.co.uk/0b91d898f17998c3e82de7e391cf7127e4de3628/604_0_7200_5760/500.jpg",
-      "published": "2026-05-05T10:00:26Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "film/2026/may/05/our-land-review-right-to-roam-campaign",
-      "headline": "Our Land review – right-to-roam campaigners offer bacchanalian antics and a heartfelt message ",
-      "summary": "Documentary explores right-to-roam campaign in England and Wales.",
-      "url": "https://www.theguardian.com/p/x5vttm",
-      "thumbnail": "https://media.guim.co.uk/5f5bf6d23f9d73203a19b8ac54127e51af500e98/471_0_2042_1634/500.jpg",
-      "published": "2026-05-05T10:00:26Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "film"
-    },
-    {
-      "id": "us-news/2026/may/05/indiana-republicans-donald-trump",
-      "headline": "Can Indiana lawmakers win after defying the president’s vote?",
-      "summary": "Indiana Republican senators face re-election after resisting Trump's redistricting pressure.",
-      "url": "https://www.theguardian.com/p/x5xe9f",
-      "thumbnail": "https://media.guim.co.uk/d348e02781bcf8c235379a101e813b217b2c39e0/0_0_7200_5760/500.jpg",
-      "published": "2026-05-05T10:00:26Z",
-      "location": {
-        "name": "Indianapolis",
-        "lat": 39.7684,
-        "lng": -86.1581
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "world/live/2026/may/05/zelenskyy-putin-ukraine-russia-trump-troops-merz-latest-news-updates",
-      "headline": "Russia launches attacks on Ukraine energy infrastructure amid truce talks – Europe live",
-      "summary": "Russia attacks Ukraine energy infrastructure; Zelenskyy criticizes Putin amid truce talks.",
-      "url": "https://www.theguardian.com/p/x5xgec",
-      "thumbnail": "https://media.guim.co.uk/02a2598706ceb196a30e11083f51e7384d21d1b3/243_0_5513_4410/500.jpg",
-      "published": "2026-05-05T09:39:00Z",
-      "location": {
-        "name": "Kyiv",
-        "lat": 50.4501,
-        "lng": 30.5234
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "uni-find-your-online-mba-university-of-birmingham/2026/may/05/how-the-university-of-birmingham-online-mba-builds-confident-leaders",
-      "headline": "‘Studying here has made me a more confident leader’: behind the University of Birmingham’s online MBA",
-      "summary": "University of Birmingham promotes flexible online MBA for developing business leaders.",
-      "url": "https://www.theguardian.com/p/x5vvqc",
-      "thumbnail": "https://media.guim.co.uk/bb90786ba2d5ab2dad2d6aec1b8f9dd876188563/0_5_906_725/500.jpg",
-      "published": "2026-05-05T09:38:09Z",
-      "location": {
-        "name": "Birmingham",
-        "lat": 52.5086,
-        "lng": -1.8755
-      },
-      "category": "tech",
-      "significance": 1,
-      "section": "uni-find-your-online-mba-university-of-birmingham"
-    },
     {
       "id": "us-news/live/2026/may/05/donald-trump-iran-ohio-primary-vivek-ramaswamy-casey-putsch-marco-rubio-latest-news-updates",
       "headline": "Ohio heads to polls as Ramaswamy hopes to lock in as Republican candidate for governor – US politics live",
@@ -118,118 +22,6 @@
       "category": "politics",
       "significance": 2,
       "section": "us-news"
-    },
-    {
-      "id": "world/2026/may/05/zelenskyy-russia-parade-truce-poltava-attack",
-      "headline": "Zelenskyy condemns Russian ‘cynicism’ over parade truce as attack kills five",
-      "summary": "Russian attack on gas facility in Poltava kills five during claimed military parade truce, Zelenskyy condemns Kremlin.",
-      "url": "https://www.theguardian.com/p/x5xh5t",
-      "thumbnail": "https://media.guim.co.uk/b83121f01b33190d3ab30c033de1e02a158fee23/178_110_927_742/500.jpg",
-      "published": "2026-05-05T11:05:23Z",
-      "location": {
-        "name": "Poltava",
-        "lat": 49.5992,
-        "lng": 34.5697
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "football/2026/may/05/magdalena-eriksson-playing-for-bayern-munich-women-and-scouting-for-bayern-men",
-      "headline": "Playing for Bayern’s women and scouting for the men. I hope my path breaks barriers",
-      "summary": "Bayern Munich women's player Magdalena Eriksson scouts talent for men's team, breaking gender barriers in football.",
-      "url": "https://www.theguardian.com/p/x5vtdf",
-      "thumbnail": "https://media.guim.co.uk/0169c86a598ad66fcf16e7aea5a5cf3aa0986dfe/939_134_3642_2913/500.jpg",
-      "published": "2026-05-05T11:02:27Z",
-      "location": {
-        "name": "Munich",
-        "lat": 48.1351,
-        "lng": 11.582
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "global-development/2026/may/05/they-were-hunted-by-the-taliban-for-helping-the-us-now-trump-wants-to-send-these-families-to-the-drc",
-      "headline": "They were hunted by the Taliban for helping the US. Now, Trump wants to send these families to the DRC",
-      "summary": "Afghan families who aided US forces stuck in Qatar face uncertain resettlement after Trump administration policy shift.",
-      "url": "https://www.theguardian.com/p/x5vnba",
-      "thumbnail": "https://media.guim.co.uk/2055e46dda7d75197c3bf1cdef40c33e41a8558f/0_295_1238_990/500.jpg",
-      "published": "2026-05-05T11:00:28Z",
-      "location": {
-        "name": "Qatar",
-        "lat": 25.3548,
-        "lng": 51.1839
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "global-development"
-    },
-    {
-      "id": "world/2026/may/05/brazil-craze-whistling-only-whatsapp-groups",
-      "headline": "Brazil caught up in craze for whistling-only WhatsApp groups",
-      "summary": "Brazil gripped by viral trend of whistling-only WhatsApp groups with hundreds of daily voice notes.",
-      "url": "https://www.theguardian.com/p/x5vtd3",
-      "thumbnail": "https://media.guim.co.uk/7c6c119742bff55209c9749b2d830d24454ae6d8/231_0_2291_1833/500.jpg",
-      "published": "2026-05-05T11:00:28Z",
-      "location": {
-        "name": "Brazil",
-        "lat": -14.235,
-        "lng": -51.9253
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "world"
-    },
-    {
-      "id": "society/2026/may/05/slow-alzheimers-diagnoses-means-uk-patients-missing-out-on-experimental-treatments-says-charity",
-      "headline": "Slow Alzheimer’s diagnoses ‘mean UK patients missing out on experimental treatments’",
-      "summary": "UK Alzheimer's patients missing experimental treatments due to slow, inaccurate diagnoses blocking clinical trial access.",
-      "url": "https://www.theguardian.com/p/x5xcq4",
-      "thumbnail": "https://media.guim.co.uk/1a39c2978bdbaedd2979352520fbeb27c48f5b4a/0_0_5750_4597/500.jpg",
-      "published": "2026-05-05T11:00:27Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "society"
-    },
-    {
-      "id": "law/2026/may/05/lawyer-fahad-ansari-represented-hamas-uk-police-falsely-listed-as-member",
-      "headline": "Lawyer who represented Hamas in court says UK police falsely listed him as member of group",
-      "summary": "Lawyer Fahad Ansari falsely listed as Hamas member by UK police after defending group in court case.",
-      "url": "https://www.theguardian.com/p/x5vx5n",
-      "thumbnail": "https://media.guim.co.uk/96eab05112036787931fd7ef5246c39fa0caf6af/0_0_9499_7601/500.jpg",
-      "published": "2026-05-05T10:54:16Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "law"
-    },
-    {
-      "id": "culture/2026/may/05/campaigners-hope-to-save-mother-tree-of-bramley-apple-nottinghamshire",
-      "headline": "‘It’s a special tree’: campaign to save mother of beloved bramley apple for nation",
-      "summary": "Campaign launched to preserve original Bramley apple tree in Nottinghamshire cottage as heritage centre.",
-      "url": "https://www.theguardian.com/p/x5xgn4",
-      "thumbnail": "https://media.guim.co.uk/a42a3512504f27d14ec640944e944d0de10ec339/958_0_4016_3213/500.jpg",
-      "published": "2026-05-05T10:51:48Z",
-      "location": {
-        "name": "Southwell",
-        "lat": 53.0976,
-        "lng": -0.8031
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "culture"
     },
     {
       "id": "world/2026/may/05/moscow-russia-shuts-down-airports-mobile-signals-may-9-victory-day-parade-security",
@@ -1606,6 +1398,134 @@
       "category": "politics",
       "significance": 3,
       "section": "uk-news"
+    },
+    {
+      "id": "business/2026/may/06/jd-wetherspoon-third-profit-warning-this-year-rising-costs-tim-martin",
+      "headline": "JD Wetherspoon issues third profit warning this year as costs climb",
+      "summary": "JD Wetherspoon issues third profit warning as UK hospitality sector struggles with rising costs.",
+      "url": "https://www.theguardian.com/p/x5xm8e",
+      "thumbnail": "https://media.guim.co.uk/fe898b8b7cfe625eee7f7ea15340bc87ed4f2887/427_0_4265_3413/500.jpg",
+      "published": "2026-05-06T11:17:21Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "football/2026/may/06/leandro-trossard-arsenal-champions-league-final-budapest-psg-bayern",
+      "headline": "‘Everything can happen’: Trossard confident of Arsenal’s chances in final",
+      "summary": "Arsenal expresses confidence ahead of Champions League final in Budapest against PSG or Bayern Munich.",
+      "url": "https://www.theguardian.com/p/x5xmke",
+      "thumbnail": "https://media.guim.co.uk/94b6efe5403b4ddb1a2d018485cfd3d5f8f8556b/48_0_3350_2679/500.jpg",
+      "published": "2026-05-06T11:14:06Z",
+      "location": {
+        "name": "Budapest",
+        "lat": 47.4979,
+        "lng": 19.0402
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/may/06/mississippi-redistricting-old-capitol",
+      "headline": "Mississippi house to hold redistricting session at site of Jim Crow era capitol ",
+      "summary": "Mississippi House to hold redistricting session at Jim Crow-era capitol with racist history.",
+      "url": "https://www.theguardian.com/p/x5xjcy",
+      "thumbnail": "https://media.guim.co.uk/5bfefee33b37f2594dfae48ba204d8a33f8af25d/418_0_4164_3333/500.jpg",
+      "published": "2026-05-06T11:00:09Z",
+      "location": {
+        "name": "Jackson",
+        "lat": 32.2988,
+        "lng": -90.1848
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "commentisfree/2026/may/06/zack-polanski-jewish-identity-leftwing-green-party-antisemitic-attacks-uk-press",
+      "headline": "Zack Polanski’s Jewish identity is being erased because his views are too leftwing",
+      "summary": "Green Party leader's Jewish identity and antisemitic experiences dismissed by rightwing UK press.",
+      "url": "https://www.theguardian.com/p/x5xhze",
+      "thumbnail": "https://media.guim.co.uk/7e1eaa763afae2c58f23fa46d08952a428ad0aff/535_0_2402_1923/500.jpg",
+      "published": "2026-05-06T11:00:08Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 1,
+      "section": "commentisfree"
+    },
+    {
+      "id": "sport/2026/may/06/rugby-union-moana-pasifika-super-rugby-nrl-pacific-islands",
+      "headline": "Rugby union’s Pacific heartlands threatened by NRL spree after Moana Pasifika’s collapse",
+      "summary": "NRL expansion threatens rugby union's Pacific heartlands after Moana Pasifika's collapse.",
+      "url": "https://www.theguardian.com/p/x5xc3p",
+      "thumbnail": "https://media.guim.co.uk/7a676678641b478f69c0c34fa91a3ead98aed289/0_0_4409_3527/500.jpg",
+      "published": "2026-05-06T11:00:08Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "culture/2026/may/06/hbcu-radio-preservation-project",
+      "headline": "How the HBCU radio preservation project keeps Black archives safe",
+      "summary": "HBCU radio preservation project archives decades of Black student broadcasting as campuses modernize.",
+      "url": "https://www.theguardian.com/p/x5xd72",
+      "thumbnail": "https://media.guim.co.uk/5e7aa2874d1b7332fc7e88a3ceff08d76a6d8dd5/0_635_4292_3434/500.jpg",
+      "published": "2026-05-06T11:00:07Z",
+      "location": {
+        "name": "Raleigh",
+        "lat": 35.7796,
+        "lng": -78.6382
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "culture"
+    },
+    {
+      "id": "us-news/2026/may/06/howard-lutnick-jeffrey-epstein-congress",
+      "headline": "Howard Lutnick to answer questions from US House over Jeffrey Epstein ties",
+      "summary": "US Commerce Secretary Lutnick faces House questioning over Jeffrey Epstein ties in closed interview.",
+      "url": "https://www.theguardian.com/p/x5xkte",
+      "thumbnail": "https://media.guim.co.uk/5eaac024a3dadb6f374127abb03d5567b579c603/666_50_2676_2141/500.jpg",
+      "published": "2026-05-06T11:00:06Z",
+      "location": {
+        "name": "Washington",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/live/2026/may/06/donald-trump-iran-howard-lutnick-jeffrey-epstein-midterms-redistricting-latest-news-updates",
+      "headline": "Trump’s commerce chief Lutnick to face Epstein grilling in closed-door interview – US politics live",
+      "summary": "US nears Iran deal to reopen Strait of Hormuz; Lutnick grilled on Epstein links in live updates.",
+      "url": "https://www.theguardian.com/p/x5xmdh",
+      "thumbnail": "https://media.guim.co.uk/126686694754fd2641365312b18c8b2155083722/430_0_4769_3815/500.jpg",
+      "published": "2026-05-06T10:58:54Z",
+      "location": {
+        "name": "Washington",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
     }
   ]
 }
