@@ -1,60 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-06T19:02:59.588Z",
+    "generated_at": "2026-05-06T20:44:46.229Z",
     "story_count": 98,
-    "oldest_story": "2026-05-05T19:11:19Z",
-    "newest_story": "2026-05-06T18:57:18Z",
+    "oldest_story": "2026-05-05T20:59:34Z",
+    "newest_story": "2026-05-06T20:30:29Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "us-news/2026/may/05/senate-immigration-package-1bn-trump-ballroom",
-      "headline": "Senate Republicans propose package including $1bn that could go to Trump ballroom",
-      "summary": "Senate Republicans propose $1bn immigration package potentially funding Trump's ballroom security.",
-      "url": "https://www.theguardian.com/p/x5xj3m",
-      "thumbnail": "https://media.guim.co.uk/aa35833faa132e38db0109f0cab30e26b701b378/567_0_5673_4538/500.jpg",
-      "published": "2026-05-05T19:51:35Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/may/05/fulton-county-election-workers-us-attorney-subpoena",
-      "headline": "Georgia county poll workers targeted by US attorney seeking their contact information",
-      "summary": "Fulton County resists federal subpoena seeking contact info of 2020 election workers.",
-      "url": "https://www.theguardian.com/p/x5xtny",
-      "thumbnail": "https://media.guim.co.uk/2e6d670554c7cf570394ca0a44a5181c04424c42/333_0_3333_2667/500.jpg",
-      "published": "2026-05-05T19:42:25Z",
-      "location": {
-        "name": "Atlanta",
-        "lat": 33.749,
-        "lng": -84.388
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "world/2026/may/05/us-iran-truce-teeters-on-meltdown-as-stalemate-takes-toll-on-each-side",
-      "headline": "US-Iran truce teeters on meltdown as stalemate takes toll on each side",
-      "summary": "US-Iran ceasefire deteriorates as Iran strikes UAE amid stalemate in Middle East conflict.",
-      "url": "https://www.theguardian.com/p/x5xtyy",
-      "thumbnail": "https://media.guim.co.uk/5760101a3c7cc4eabc7d9e45ad8e76c606653bdf/1000_0_5000_4000/500.jpg",
-      "published": "2026-05-05T19:11:19Z",
-      "location": {
-        "name": "Tehran",
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
     {
       "id": "sport/2026/may/05/timberwolves-accuse-wembanyama-of-goaltending-after-spurs-star-sets-nba-playoff-block-record",
       "headline": "Timberwolves accuse Wembanyama of goaltending after Spurs star sets NBA playoff block record",
@@ -1574,6 +1526,54 @@
       "category": "politics",
       "significance": 2,
       "section": "politics"
+    },
+    {
+      "id": "tv-and-radio/2026/may/06/amandaland-series-two-review-file-this-mesmerising-comedy-icon-next-to-alan-partridge-and-david-brent",
+      "headline": "Amandaland series two review – file this mesmerising comedy icon next to Alan Partridge and David Brent",
+      "summary": "Amandaland series two features Lucy Punch as delusional comedy lead with Joanna Lumley as her mother.",
+      "url": "https://www.theguardian.com/p/x5vnfz",
+      "thumbnail": "https://media.guim.co.uk/70a2a533cafbe2a773f9bcf7bfb56df488c0de20/263_0_6950_5560/500.jpg",
+      "published": "2026-05-06T20:30:29Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "tv-and-radio"
+    },
+    {
+      "id": "australia-news/live/2026/may/07/royal-commission-antisemitism-budget-cost-of-living-jim-chalmers-anthony-albanese-tax-islamic-state-families-syria-ntwnfb",
+      "headline": "Australia news live: BHP loses Brazil dam collapse case; man charged with hate speech over NSW parliament rally",
+      "summary": "BHP loses Brazil dam collapse case and cannot appeal liability for 2015 disaster.",
+      "url": "https://www.theguardian.com/p/x5xmtz",
+      "thumbnail": "https://media.guim.co.uk/82885fae5484a8c449c6799a41c4d282580294f3/640_0_4078_3261/500.jpg",
+      "published": "2026-05-06T20:24:22Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "tv-and-radio/2026/may/06/ted-turner-obituary",
+      "headline": "Ted Turner obituary",
+      "summary": "Ted Turner, founder of CNN and media empire innovator, obituary.",
+      "url": "https://www.theguardian.com/p/x5xz98",
+      "thumbnail": "https://media.guim.co.uk/1bb65916c9b1b0ca4377d1527c66a69329ce4b85/54_0_3387_2710/500.jpg",
+      "published": "2026-05-06T19:42:32Z",
+      "location": {
+        "name": "Atlanta",
+        "lat": 33.749,
+        "lng": -84.388
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "tv-and-radio"
     }
   ]
 }
