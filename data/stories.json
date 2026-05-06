@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-05-06T21:48:58.419Z",
+    "generated_at": "2026-05-06T22:37:33.562Z",
     "story_count": 94,
-    "oldest_story": "2026-05-05T22:18:43Z",
-    "newest_story": "2026-05-06T21:30:30Z",
+    "oldest_story": "2026-05-05T22:44:42Z",
+    "newest_story": "2026-05-06T22:16:52Z",
     "window_hours": 24
   },
   "stories": [
@@ -46,22 +46,6 @@
       "url": "https://www.theguardian.com/p/x5xhjq",
       "thumbnail": "https://media.guim.co.uk/1d0cc2acbf49a37d629c0b65725d18611cd2349b/769_413_2727_2181/500.jpg",
       "published": "2026-05-05T22:44:42Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/may/05/arsenal-see-off-atletico-madrid-and-feel-gnawing-fear-of-failure-start-to-fall-away",
-      "headline": "Arsenal see off Atlético Madrid and feel gnawing fear of failure start to fall away",
-      "summary": "Arsenal advances to Champions League final, shedding fear of failure under Mikel Arteta.",
-      "url": "https://www.theguardian.com/p/x5xhjz",
-      "thumbnail": "https://media.guim.co.uk/dc6c04de713d689491c1e5dcdb9cfa439a8e27db/518_0_6160_4928/500.jpg",
-      "published": "2026-05-05T22:18:43Z",
       "location": {
         "name": "London",
         "lat": 51.5074,
@@ -1510,6 +1494,22 @@
       "category": "sport",
       "significance": 2,
       "section": "football"
+    },
+    {
+      "id": "commentisfree/2026/may/07/antisemitism-royal-commission-bondi-dying-jewish-mother-ntwnfb",
+      "headline": "‘Now when I go to Bondi I think about dying’: words no Jewish mother should hear from her daughter",
+      "summary": "Royal commission into antisemitism hears testimony about Jewish community's fear and safety concerns in Sydney.",
+      "url": "https://www.theguardian.com/p/x5xk2v",
+      "thumbnail": "https://media.guim.co.uk/50d95549bd5994debc9be38b524a865e7cf6bd06/513_0_7857_6286/500.jpg",
+      "published": "2026-05-06T22:16:52Z",
+      "location": {
+        "name": "Bondi",
+        "lat": -33.8912,
+        "lng": 151.2745
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "commentisfree"
     }
   ]
 }
