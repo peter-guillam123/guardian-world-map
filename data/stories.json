@@ -1,44 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-06T00:08:59.017Z",
-    "story_count": 100,
-    "oldest_story": "2026-05-05T03:09:36Z",
-    "newest_story": "2026-05-05T23:54:38Z",
+    "generated_at": "2026-05-06T04:05:56.677Z",
+    "story_count": 104,
+    "oldest_story": "2026-05-05T05:16:23Z",
+    "newest_story": "2026-05-06T04:00:03Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "sport/2026/may/05/liv-golf-funding-cam-smith-australian",
-      "headline": "‘He’s too young to retire’: Cam Smith and Australian golf ponder life without LIV’s riches",
-      "summary": "Cam Smith reconsiders LIV Golf commitment as Saudi funding dries up, Australian golf seeks ecosystem reform.",
-      "url": "https://www.theguardian.com/p/x5xeyf",
-      "thumbnail": "https://media.guim.co.uk/e379112d2a7f7e44da19014199cdf6c18d0ceb9b/806_0_6536_5227/500.jpg",
-      "published": "2026-05-05T03:26:04Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "australia-news/2026/may/05/victoria-budget-2026-labor-winners-losers",
-      "headline": "Winners and losers: Victoria’s 2026 budget cuts transport costs and helps parents - but will future generations suffer?",
-      "summary": "Victoria's 2026 budget cuts transport costs and supports families while forecasting dual surpluses.",
-      "url": "https://www.theguardian.com/p/x5xet9",
-      "thumbnail": "https://media.guim.co.uk/d8cfec9bd42a50dcce69d222b52756e17142aefa/889_0_5000_4000/500.jpg",
-      "published": "2026-05-05T03:09:36Z",
-      "location": {
-        "name": "Melbourne",
-        "lat": -37.8136,
-        "lng": 144.9631
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
     {
       "id": "artanddesign/2026/may/05/salisbury-cathedral-restores-stained-glass-edward-burne-jones-william-morris",
       "headline": "Salisbury Cathedral restores stained-glass treasure by Edward Burne-Jones and William Morris",
@@ -1598,6 +1566,102 @@
       "url": "https://www.theguardian.com/p/x5xt9c",
       "thumbnail": "https://media.guim.co.uk/d7f7ab14501a20ee32b1eeedbf9839b88c91327d/1057_171_3747_2997/500.jpg",
       "published": "2026-05-05T23:01:52Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "world/2026/may/06/stuck-in-the-mud-one-year-on-friedrich-merz-struggles-to-find-his-footing",
+      "headline": "‘Stuck in the mud’: one year on, Friedrich Merz struggles to find his footing",
+      "summary": "Chancellor Friedrich Merz faces historic low approval ratings one year into his tenure leading Germany.",
+      "url": "https://www.theguardian.com/p/x5xgmv",
+      "thumbnail": "https://media.guim.co.uk/fb6e0b9de2f96447e2ca06c0bf94d263b01f9a1f/300_614_703_563/500.jpg",
+      "published": "2026-05-06T04:00:03Z",
+      "location": {
+        "name": "Germany",
+        "lat": 51.1657,
+        "lng": 10.4515
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "business/2026/may/06/totally-grounded-how-the-jet-fuel-crisis-could-change-our-summer-holidays-and-world-history",
+      "headline": "Totally grounded? How the jet fuel crisis could change our summer holidays – and world history",
+      "summary": "Jet fuel prices doubled since Iran war began, threatening global aviation industry and summer travel plans.",
+      "url": "https://www.theguardian.com/p/x5xgjt",
+      "thumbnail": "https://media.guim.co.uk/e29885b7a1da90fead6d5b5b442482b42ccb923a/0_0_7215_5773/500.jpg",
+      "published": "2026-05-06T04:00:03Z",
+      "location": {
+        "name": "Iran",
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "category": "economy",
+      "significance": 4,
+      "section": "business"
+    },
+    {
+      "id": "world/2026/may/06/if-he-didnt-do-it-who-did-fresh-doubts-over-2007-case-that-gripped-italy",
+      "headline": "‘If he didn’t do it, who did?’: fresh doubts over 2007 murder case that gripped Italy ",
+      "summary": "Fresh DNA evidence in 2007 Chiara Poggi murder case raises questions about conviction and potential miscarriage.",
+      "url": "https://www.theguardian.com/p/x5xcmq",
+      "thumbnail": "https://media.guim.co.uk/a74bd821f4436978bd8e5778509d90a95b820dd2/97_0_1772_1417/500.jpg",
+      "published": "2026-05-06T04:00:03Z",
+      "location": {
+        "name": "Italy",
+        "lat": 41.8719,
+        "lng": 12.5674
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "tv-and-radio/2026/may/06/joanna-lumley-lucy-punch-return-amandaland",
+      "headline": "‘Everyone knows an Amanda!’ Joanna Lumley and Lucy Punch on the return of comedy smash, Amandaland",
+      "summary": "Comedy series Amandaland returns with Joanna Lumley and Lucy Punch celebrating two decades of collaboration.",
+      "url": "https://www.theguardian.com/p/x5v2h7",
+      "thumbnail": "https://media.guim.co.uk/d7edd3e1a2c67e0eb23d92420987bb36b0970172/0_546_5312_4246/500.jpg",
+      "published": "2026-05-06T04:00:02Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "tv-and-radio"
+    },
+    {
+      "id": "artanddesign/2026/may/06/lydia-ourahmane-venice-pier-bedlinen",
+      "headline": "Stick a euro in the slot for the lights! The mesmerising, strictly Venetian works of Lydia Ourahmane",
+      "summary": "British-Algerian artist Lydia Ourahmane presents Venice Biennale exhibition featuring coin-operated installations.",
+      "url": "https://www.theguardian.com/p/x4pt83",
+      "thumbnail": "https://media.guim.co.uk/af647c5b7c9c321b931396d46693e4da1694fc6c/0_1518_3958_3165/500.jpg",
+      "published": "2026-05-06T04:00:02Z",
+      "location": {
+        "name": "Venice",
+        "lat": 45.4408,
+        "lng": 12.3155
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "artanddesign"
+    },
+    {
+      "id": "business/2026/may/06/iran-war-food-prices-expensive-inflation-poll",
+      "headline": "Four in five Britons worried Iran war will make food more expensive, poll finds",
+      "summary": "80% of Britons worry Iran war will increase food prices as retailers urge government to cut energy costs.",
+      "url": "https://www.theguardian.com/p/x5xhcc",
+      "thumbnail": "https://media.guim.co.uk/7f8feb467dbab4e2989634faf71022bdd149b425/117_0_3472_2780/500.jpg",
+      "published": "2026-05-06T04:00:01Z",
       "location": {
         "name": "London",
         "lat": 51.5074,
