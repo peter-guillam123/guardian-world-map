@@ -1,172 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-06T06:43:57.947Z",
-    "story_count": 102,
-    "oldest_story": "2026-05-05T07:30:31Z",
-    "newest_story": "2026-05-06T06:35:49Z",
+    "generated_at": "2026-05-06T09:12:50.026Z",
+    "story_count": 100,
+    "oldest_story": "2026-05-05T09:38:09Z",
+    "newest_story": "2026-05-06T09:07:01Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "politics/live/2026/may/05/keir-starmer-uk-antisemitism-summit-golders-green-terror-latest-news-updates",
-      "headline": "Starmer calls antisemitism ‘crisis for all of us’ ahead of Downing Street summit – UK politics live",
-      "summary": "Starmer calls antisemitism 'crisis for all' ahead of Downing Street summit following Golders Green attack.",
-      "url": "https://www.theguardian.com/p/x5xg9x",
-      "thumbnail": "https://media.guim.co.uk/ed7da17c269095b631bcfdf433b28ca284965d86/571_0_3093_2475/500.jpg",
-      "published": "2026-05-05T08:28:16Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "politics/2026/may/05/cabinet-minister-steve-reed-warns-labour-against-doomscrolling-through-leaders",
-      "headline": "Cabinet minister warns Labour against ‘doomscrolling’ through leaders like the Tories",
-      "summary": "Cabinet minister warns Labour against 'doomscrolling' through leaders like Conservatives.",
-      "url": "https://www.theguardian.com/p/x5xgdj",
-      "thumbnail": "https://media.guim.co.uk/fab49fed89c5e7cda4c9761eb00fb1e0b393fb23/288_0_4438_3551/500.jpg",
-      "published": "2026-05-05T08:26:24Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "world/live/2026/may/05/iran-us-israel-lebanon-strait-of-hormuz-ships-oil-uae-latest-news-updates",
-      "headline": "Middle East crisis live: ‘We have not even begun’, Iran warns US amid escalation in strait of Hormuz ",
-      "summary": "Iran warns 'new equation' solidifying in Strait of Hormuz as Middle East tensions escalate with US intervention.",
-      "url": "https://www.theguardian.com/p/x5xebz",
-      "thumbnail": "https://media.guim.co.uk/5712cbc1a1ee93b704dbef470fea761d6af139d4/546_0_5000_4000/500.jpg",
-      "published": "2026-05-05T08:22:24Z",
-      "location": {
-        "name": "Strait of Hormuz",
-        "lat": 26.55,
-        "lng": 56.2667
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "business/live/2026/may/05/hsbc-400m-uk-fraud-charge-rachel-reeves-scott-bessent-row-stock-markets-car-sales-live-updates",
-      "headline": "HSBC hit by $400m UK fraud-related charge; Rachel Reeves ‘clashed with Scott Bessent’ over Iran war criticism – business live",
-      "summary": "HSBC hit by $400m fraud charge and sets aside $300m for Iran war effects, profits fall 4%.",
-      "url": "https://www.theguardian.com/p/x5xg3z",
-      "thumbnail": "https://media.guim.co.uk/76c9029fab8059080f46bab01a2f3803a1bb5eb8/289_0_2867_2294/500.jpg",
-      "published": "2026-05-05T08:21:29Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "australia-news/2026/may/05/they-came-to-kill-us-royal-commission-hears-horrific-accounts-of-antisemitism-faced-by-jewish-children-in-australia-ntwnfb",
-      "headline": "NSW police urged Jewish man to drop claim he was subject to antisemitic slurs and death threats, commission told",
-      "summary": "NSW police urged Jewish man to drop antisemitism claim, royal commission told.",
-      "url": "https://www.theguardian.com/p/x5xf45",
-      "thumbnail": "https://media.guim.co.uk/09a1e50326e6ff5acc09f9a891b5495c70f68291/687_0_4164_3333/500.jpg",
-      "published": "2026-05-05T08:16:56Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "business/2026/may/05/hsbc-profits-fall-fraud-related-charge-iran-war",
-      "headline": "HSBC profits fall amid $400m fraud-related charge and Iran war",
-      "summary": "HSBC profits fall amid $400m fraud charge and $300m Iran war provision.",
-      "url": "https://www.theguardian.com/p/x5xg7k",
-      "thumbnail": "https://media.guim.co.uk/a278241e0c8bfda75add08dc98764767fe4613bc/692_0_5914_4731/500.jpg",
-      "published": "2026-05-05T08:05:30Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "business"
-    },
-    {
-      "id": "artanddesign/2026/may/05/parapet-lubaina-himid-venice-biennale-britain",
-      "headline": "‘We put our heads above the parapet’: Lubaina Himid on winning her 40-year battle to storm the Venice Biennale",
-      "summary": "Artist Lubaina Himid to represent Britain at Venice Biennale after 40-year fight for recognition.",
-      "url": "https://www.theguardian.com/p/x5xb63",
-      "thumbnail": "https://media.guim.co.uk/2c38aec57d50b79e56a5ad81972afcb590c7a43b/1135_0_7200_5760/500.jpg",
-      "published": "2026-05-05T08:00:47Z",
-      "location": {
-        "name": "Venice",
-        "lat": 45.4408,
-        "lng": 12.3155
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "artanddesign"
-    },
-    {
-      "id": "australia-news/2026/may/05/afternoon-update-tuesday-ntwnfb",
-      "headline": "Afternoon Update: RBA hikes interest rates; Craig Silvey pleads guilty; and the best outfits from the Met Gala",
-      "summary": "RBA hikes interest rates to 4.35% citing inflation threats from Iran war fuel price surge.",
-      "url": "https://www.theguardian.com/p/x5xf2t",
-      "thumbnail": "https://media.guim.co.uk/68a52bbbdbe2d0b05b5fd79240aa4d846b439242/881_0_5160_4128/500.jpg",
-      "published": "2026-05-05T07:40:37Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "business/2026/may/05/vodafone-full-control-uk-mobile-operator-ck-hutchison",
-      "headline": "Vodafone to take full control of UK mobile operator in £4.3bn deal",
-      "summary": "Vodafone to take full control of UK mobile operator in £4.3bn deal with CK Hutchison.",
-      "url": "https://www.theguardian.com/p/x5xg77",
-      "thumbnail": "https://media.guim.co.uk/449c1969405243c63af1eef489a665365289d71f/159_0_4282_3424/500.jpg",
-      "published": "2026-05-05T07:40:36Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "sport/2026/may/05/carlton-fined-75000-elijah-holland-incident-afl",
-      "headline": "Carlton fined $75,000 for mishandling of Elijah Hollands’ mental health episode",
-      "summary": "Carlton fined $75k for mishandling Elijah Hollands' mental health episode during MCG match.",
-      "url": "https://www.theguardian.com/p/x5xgxz",
-      "thumbnail": "https://media.guim.co.uk/c53f1f5990d2df427ad5fd9f27dd04b18f52e9e9/68_0_2026_1620/500.jpg",
-      "published": "2026-05-05T07:30:31Z",
-      "location": {
-        "name": "Melbourne",
-        "lat": -37.8136,
-        "lng": 144.9631
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
     {
       "id": "business/2026/may/05/australians-are-poorer-because-of-war-on-the-other-side-of-the-world-michele-bullocks-logic-is-hard-to-fault",
       "headline": "Australians are poorer because of war on the other side of the world – Michele Bullock’s logic is hard to fault",
@@ -1638,6 +1478,134 @@
       "category": "conflict",
       "significance": 4,
       "section": "world"
+    },
+    {
+      "id": "australia-news/2026/may/06/islamic-state-linked-australian-children-syria-states-resettle-ntwnfb",
+      "headline": "Two Australian states prepare to resettle children from Syrian detention camp with most bound for Melbourne ",
+      "summary": "Australian states prepare to resettle IS-linked children returning from Syrian detention camps.",
+      "url": "https://www.theguardian.com/p/x5xm2d",
+      "thumbnail": "https://media.guim.co.uk/1017686f5451d5957dd77c3cd0f07a10993bd75c/535_0_5000_4000/500.jpg",
+      "published": "2026-05-06T09:07:01Z",
+      "location": {
+        "name": "Melbourne",
+        "lat": -37.8136,
+        "lng": 144.9631
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "politics/live/2026/may/06/local-elections-labour-starmer-greens-polanski-red-cross-reform-tories-conservatives-lib-dems-latest-news-updates",
+      "headline": "Polanski accuses Times of ‘scraping the barrel’ over his claim to be charity spokesperson – UK politics live",
+      "summary": "Green party leader faces scrutiny over Red Cross spokesperson claim amid local elections.",
+      "url": "https://www.theguardian.com/p/x5xypm",
+      "thumbnail": "https://media.guim.co.uk/9a2d54f37ed42546cad51cefd08b7c41233265cf/129_0_5000_3999/500.jpg",
+      "published": "2026-05-06T09:04:44Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "world/live/2026/may/06/europe-eu-spain-sanchez-trump-icc-sanctions-merz-ukraine-russia-latest-news-updates",
+      "headline": "Canary Islands government rejects hantavirus-hit cruise ship’s plans to dock there – Europe live",
+      "summary": "Hantavirus-hit cruise ship denied docking at Canary Islands over public safety concerns.",
+      "url": "https://www.theguardian.com/p/x5xmvp",
+      "thumbnail": "https://media.guim.co.uk/cda8dd967b5d0543371f2d29e73d43e9e1e852af/318_0_2835_2268/500.jpg",
+      "published": "2026-05-06T09:03:33Z",
+      "location": {
+        "name": "Canary Islands",
+        "lat": 28.2916,
+        "lng": -16.6291
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "sport/2026/may/06/jordan-lucas-volleyball-celebrations",
+      "headline": "Viral volleyball star Jordan Lucas: ‘I’m celebrating like NFL players, just in a more feminine way’",
+      "summary": "Cal State Northridge volleyball player Jordan Lucas discusses viral celebrations and flamboyant style.",
+      "url": "https://www.theguardian.com/p/x5xhtj",
+      "thumbnail": "https://media.guim.co.uk/59671d1bc306742b8ef14b07d255d48f4ddd8271/478_203_1997_1597/500.jpg",
+      "published": "2026-05-06T09:00:05Z",
+      "location": {
+        "name": "Los Angeles",
+        "lat": 34.0522,
+        "lng": -118.2437
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "us-news/2026/may/06/florida-infant-born-twice",
+      "headline": "Florida baby ‘born twice’ after elaborate surgery involving partial delivery",
+      "summary": "Florida infant undergoes innovative surgery involving partial delivery before full birth.",
+      "url": "https://www.theguardian.com/p/x5xj3e",
+      "thumbnail": "https://media.guim.co.uk/d9cb050ae5f90d0e42cf7dc17c28378044fb3a2d/0_820_3072_2455/500.jpg",
+      "published": "2026-05-06T09:00:05Z",
+      "location": {
+        "name": "Florida",
+        "lat": 27.9947,
+        "lng": -81.7603
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "business/live/2026/may/06/oil-prices-retreat-global-stocks-hit-record-highs-trump-great-progress-iran-deal-live-updates",
+      "headline": "Oil prices retreat and global stocks hit record highs after Trump hails ‘great progress’ on Iran deal – business live",
+      "summary": "Trump signals progress on Iran nuclear deal as oil prices retreat and stocks hit records.",
+      "url": "https://www.theguardian.com/p/x5xyjf",
+      "thumbnail": "https://media.guim.co.uk/0e5ed7d1051946c40ffdefad0334d7f47225b102/384_0_3840_3072/500.jpg",
+      "published": "2026-05-06T08:59:56Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "business"
+    },
+    {
+      "id": "business/2026/may/06/uk-regulator-launches-review-of-aggressive-claims-management-firms-amid-compensation-concerns",
+      "headline": "UK regulator launches review of ‘aggressive’ claims management firms amid compensation concerns",
+      "summary": "UK regulator investigates aggressive claims management firms over misleading compensation tactics.",
+      "url": "https://www.theguardian.com/p/x5xyym",
+      "thumbnail": "https://media.guim.co.uk/8cd50ed1f84b150570cf89b00f8790fa7d575fb8/32_23_3816_3054/500.jpg",
+      "published": "2026-05-06T08:49:35Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "uk-news/2026/may/06/proxies-carrying-out-antisemitic-attacks-in-uk-could-face-14-years-in-prison",
+      "headline": "Proxies carrying out antisemitic attacks in UK could face 14 years in prison",
+      "summary": "UK legislation to impose 14-year prison terms on proxies carrying out antisemitic attacks.",
+      "url": "https://www.theguardian.com/p/x5xmx7",
+      "thumbnail": "https://media.guim.co.uk/f80e129f4860ec1a100cac4e2dcd0f0709e769a5/356_0_3559_2847/500.jpg",
+      "published": "2026-05-06T08:41:04Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "uk-news"
     }
   ]
 }
