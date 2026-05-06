@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-05-05T23:14:56.223Z",
-    "story_count": 96,
+    "generated_at": "2026-05-06T00:08:59.017Z",
+    "story_count": 100,
     "oldest_story": "2026-05-05T03:09:36Z",
-    "newest_story": "2026-05-05T23:02:17Z",
+    "newest_story": "2026-05-05T23:54:38Z",
     "window_hours": 24
   },
   "stories": [
@@ -1542,6 +1542,70 @@
       "category": "sport",
       "significance": 3,
       "section": "football"
+    },
+    {
+      "id": "us-news/2026/may/05/jon-husted-sherrod-brown-ohio-senate-primary",
+      "headline": "Jon Husted and Sherrod Brown set for Senate showdown after Ohio primary victories",
+      "summary": "Jon Husted and Sherrod Brown win Ohio primary races, setting up competitive Senate showdown in November.",
+      "url": "https://www.theguardian.com/p/x5xdp2",
+      "thumbnail": "https://media.guim.co.uk/34c8885addd6aa28c1c1b9d8285b3093ad30bcbd/0_0_1500_1200/500.jpg",
+      "published": "2026-05-05T23:54:38Z",
+      "location": {
+        "name": "Ohio",
+        "lat": 40.3888,
+        "lng": -82.7649
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "australia-news/2026/may/06/australian-politicians-mps-v-manosphere-misogyny-gender-mens-health",
+      "headline": "MPs v the manosphere: ministers up against misogyny as they take a different message to men and boys across Australia",
+      "summary": "Australian ministers launch listening tour to counter misogyny and engage men on gender equality.",
+      "url": "https://www.theguardian.com/p/x4qv5q",
+      "thumbnail": "https://media.guim.co.uk/fcd455a52a18b658bfa347e3c18ac1d5e713bb1f/3401_524_4855_3884/500.jpg",
+      "published": "2026-05-05T23:27:47Z",
+      "location": {
+        "name": "Australia",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "society"
+    },
+    {
+      "id": "music/2026/may/05/rolling-stones-foreign-tongues-album-new-york",
+      "headline": "‘It kicks ass’: Rolling Stones launch new album at star-studded New York event",
+      "summary": "Rolling Stones preview new album Foreign Tongues at star-studded New York event with Conan O'Brien.",
+      "url": "https://www.theguardian.com/p/x5xj26",
+      "thumbnail": "https://media.guim.co.uk/1cf4bd1a92d0b0cbb561b871b819c17f0c12cea5/180_0_3140_2512/500.jpg",
+      "published": "2026-05-05T23:19:00Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "music"
+    },
+    {
+      "id": "business/2026/may/06/raise-windfall-tax-on-banks-urges-tuc",
+      "headline": "Reinstate windfall tax on banks after surge in profits, TUC urges",
+      "summary": "TUC urges UK government to reinstate 8% windfall tax on banks after £14bn first-quarter profits.",
+      "url": "https://www.theguardian.com/p/x5xt9c",
+      "thumbnail": "https://media.guim.co.uk/d7f7ab14501a20ee32b1eeedbf9839b88c91327d/1057_171_3747_2997/500.jpg",
+      "published": "2026-05-05T23:01:52Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
     }
   ]
 }
