@@ -1,60 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-06T22:37:33.562Z",
+    "generated_at": "2026-05-06T23:35:51.306Z",
     "story_count": 94,
-    "oldest_story": "2026-05-05T22:44:42Z",
-    "newest_story": "2026-05-06T22:16:52Z",
+    "oldest_story": "2026-05-05T23:54:38Z",
+    "newest_story": "2026-05-06T23:32:05Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "us-news/2026/may/05/california-governor-race-debate",
-      "headline": "California gubernatorial frontrunners face off in high-stakes debate as early voting gets underway",
-      "summary": "California gubernatorial candidates debate as primary voting begins, featuring major party frontrunners.",
-      "url": "https://www.theguardian.com/p/x5xkv3",
-      "thumbnail": "https://media.guim.co.uk/bd064ea4b3fdb936f1e536976c7c0cf444ac33ed/531_0_4438_3550/500.jpg",
-      "published": "2026-05-05T23:02:17Z",
-      "location": {
-        "name": "California",
-        "lat": 36.1162,
-        "lng": -119.6816
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "society/2026/may/06/black-people-twice-likely-stroke-white-england-study",
-      "headline": "Black people in England twice as likely to suffer stroke as white counterparts",
-      "summary": "Study finds Black people in England twice as likely to suffer strokes with less timely care access.",
-      "url": "https://www.theguardian.com/p/x5xhkk",
-      "thumbnail": "https://media.guim.co.uk/2a7c40c2eb92936a956ae604f66adaf105d19020/724_0_7240_5792/500.jpg",
-      "published": "2026-05-05T23:01:52Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "society"
-    },
-    {
-      "id": "football/2026/may/05/an-incredible-night-mikel-arteta-so-proud-of-arsenals-players-and-fans",
-      "headline": "‘An incredible night’: Mikel Arteta so proud of Arsenal’s players and fans",
-      "summary": "Arsenal beats Atlético Madrid to reach Champions League final with Bukayo Saka's decisive goal.",
-      "url": "https://www.theguardian.com/p/x5xhjq",
-      "thumbnail": "https://media.guim.co.uk/1d0cc2acbf49a37d629c0b65725d18611cd2349b/769_413_2727_2181/500.jpg",
-      "published": "2026-05-05T22:44:42Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
     {
       "id": "us-news/2026/may/05/jon-husted-sherrod-brown-ohio-senate-primary",
       "headline": "Jon Husted and Sherrod Brown set for Senate showdown after Ohio primary victories",
@@ -70,54 +22,6 @@
       "category": "politics",
       "significance": 3,
       "section": "us-news"
-    },
-    {
-      "id": "australia-news/2026/may/06/australian-politicians-mps-v-manosphere-misogyny-gender-mens-health",
-      "headline": "MPs v the manosphere: ministers up against misogyny as they take a different message to men and boys across Australia",
-      "summary": "Australian ministers launch listening tour to counter misogyny and engage men on gender equality.",
-      "url": "https://www.theguardian.com/p/x4qv5q",
-      "thumbnail": "https://media.guim.co.uk/fcd455a52a18b658bfa347e3c18ac1d5e713bb1f/3401_524_4855_3884/500.jpg",
-      "published": "2026-05-05T23:27:47Z",
-      "location": {
-        "name": "Australia",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "society"
-    },
-    {
-      "id": "music/2026/may/05/rolling-stones-foreign-tongues-album-new-york",
-      "headline": "‘It kicks ass’: Rolling Stones launch new album at star-studded New York event",
-      "summary": "Rolling Stones preview new album Foreign Tongues at star-studded New York event with Conan O'Brien.",
-      "url": "https://www.theguardian.com/p/x5xj26",
-      "thumbnail": "https://media.guim.co.uk/1cf4bd1a92d0b0cbb561b871b819c17f0c12cea5/180_0_3140_2512/500.jpg",
-      "published": "2026-05-05T23:19:00Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "music"
-    },
-    {
-      "id": "business/2026/may/06/raise-windfall-tax-on-banks-urges-tuc",
-      "headline": "Reinstate windfall tax on banks after surge in profits, TUC urges",
-      "summary": "TUC urges UK government to reinstate 8% windfall tax on banks after £14bn first-quarter profits.",
-      "url": "https://www.theguardian.com/p/x5xt9c",
-      "thumbnail": "https://media.guim.co.uk/d7f7ab14501a20ee32b1eeedbf9839b88c91327d/1057_171_3747_2997/500.jpg",
-      "published": "2026-05-05T23:01:52Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
     },
     {
       "id": "world/2026/may/06/stuck-in-the-mud-one-year-on-friedrich-merz-struggles-to-find-his-footing",
@@ -1510,6 +1414,102 @@
       "category": "politics",
       "significance": 3,
       "section": "commentisfree"
+    },
+    {
+      "id": "world/ng-interactive/2026/may/07/tame-the-water-or-let-it-flow-new-zealand-grapples-with-how-to-protect-its-braided-rivers",
+      "headline": "Tame the water or let it flow? New Zealand grapples with how to protect its braided rivers",
+      "summary": "New Zealand debates intervention vs. preservation of rare braided river systems.",
+      "url": "https://www.theguardian.com/p/x4pqzb",
+      "thumbnail": "https://media.guim.co.uk/eb693cde00975f2f8ed7db3184dda47cf26d63fb/243_0_7277_5822/500.jpg",
+      "published": "2026-05-06T23:32:05Z",
+      "location": {
+        "name": "Christchurch",
+        "lat": -43.5321,
+        "lng": 172.6362
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "us-news/2026/may/06/jeffrey-epstein-alleged-suicide-note",
+      "headline": "Alleged suicide note written by Jeffrey Epstein unsealed by federal judge",
+      "summary": "Jeffrey Epstein's alleged suicide note unsealed by federal judge in 2019 incident.",
+      "url": "https://www.theguardian.com/p/x5xpjn",
+      "thumbnail": "https://media.guim.co.uk/1e3e5e2f6f3501befb629560ffe172a54ce3f016/181_6_2227_1782/500.jpg",
+      "published": "2026-05-06T23:11:28Z",
+      "location": {
+        "name": "New York City",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "commentisfree/2026/may/07/the-guardian-view-on-a-cryptic-crossword-landmark-30000-grids-of-noble-trickery",
+      "headline": "The Guardian view on a cryptic crossword landmark: 30,000 grids of noble trickery",
+      "summary": "Guardian celebrates 30,000th cryptic crossword puzzle milestone after nearly a century.",
+      "url": "https://www.theguardian.com/p/x4qdta",
+      "thumbnail": "https://media.guim.co.uk/dd955a82dd0068efb0a52aff0b1e53c7c59c3851/1584_0_7920_6336/500.jpg",
+      "published": "2026-05-06T23:01:32Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "commentisfree"
+    },
+    {
+      "id": "technology/2026/may/06/shivon-zilis-testimony-elon-musk-openai-lawsuit",
+      "headline": "Shivon Zilis, mother of four of Elon Musk’s children, testifies in OpenAI trial",
+      "summary": "Shivon Zilis testifies in Elon Musk's lawsuit against OpenAI over governance disputes.",
+      "url": "https://www.theguardian.com/p/x5xzaz",
+      "thumbnail": "https://media.guim.co.uk/f222d1c4f28560087c5d72edd603b477299de542/203_0_1987_1590/500.jpg",
+      "published": "2026-05-06T22:58:58Z",
+      "location": {
+        "name": "San Francisco",
+        "lat": 37.7749,
+        "lng": -122.4194
+      },
+      "category": "tech",
+      "significance": 3,
+      "section": "technology"
+    },
+    {
+      "id": "football/2026/may/06/khvicha-kvaratskhelia-paris-saint-germain-psg-champions-league-bayern-munich-luis-enrique",
+      "headline": "Kvaratskhelia is perfect attacking scalpel for PSG’s surgical brilliance",
+      "summary": "PSG defeats Bayern Munich in Champions League semifinal; Kvaratskhelia's performance praised.",
+      "url": "https://www.theguardian.com/p/x5xz6e",
+      "thumbnail": "https://media.guim.co.uk/2e8741aa3088488173d9280976cbcaf9a704152d/819_0_4066_3252/500.jpg",
+      "published": "2026-05-06T22:54:21Z",
+      "location": {
+        "name": "Munich",
+        "lat": 48.1351,
+        "lng": 11.582
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/may/06/vincent-kompany-refereeing-bayern-munich-paris-saint-germain-psg-champions-league",
+      "headline": "‘Too much went against us’: Kompany laments refereeing as Bayern go out",
+      "summary": "Kompany criticizes refereeing decisions as Bayern exits Champions League to PSG.",
+      "url": "https://www.theguardian.com/p/x5xz6q",
+      "thumbnail": "https://media.guim.co.uk/5cd2bee6814a64e61b6c8ad3d91d92e76e8038c0/352_0_3879_3103/500.jpg",
+      "published": "2026-05-06T22:49:53Z",
+      "location": {
+        "name": "Munich",
+        "lat": 48.1351,
+        "lng": 11.582
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
     }
   ]
 }
