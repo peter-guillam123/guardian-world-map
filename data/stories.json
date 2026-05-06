@@ -1,188 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-06T11:22:29.649Z",
-    "story_count": 95,
-    "oldest_story": "2026-05-05T11:34:48Z",
-    "newest_story": "2026-05-06T11:17:21Z",
+    "generated_at": "2026-05-06T13:11:44.173Z",
+    "story_count": 93,
+    "oldest_story": "2026-05-05T15:52:28Z",
+    "newest_story": "2026-05-06T13:09:46Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "us-news/live/2026/may/05/donald-trump-iran-ohio-primary-vivek-ramaswamy-casey-putsch-marco-rubio-latest-news-updates",
-      "headline": "Ohio heads to polls as Ramaswamy hopes to lock in as Republican candidate for governor – US politics live",
-      "summary": "Ohio primary election sees Trump-endorsed Ramaswamy face challenge from YouTube provocateur Casey Putsch for GOP governor nomination.",
-      "url": "https://www.theguardian.com/p/x5xgz5",
-      "thumbnail": "https://media.guim.co.uk/213caa1723ca464a1c3547d1c8db56b95680e028/584_0_6473_5179/500.jpg",
-      "published": "2026-05-05T11:34:48Z",
-      "location": {
-        "name": "Ohio",
-        "lat": 40.3888,
-        "lng": -82.7649
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "world/2026/may/05/moscow-russia-shuts-down-airports-mobile-signals-may-9-victory-day-parade-security",
-      "headline": "Moscow shuts down airports and mobile signals as Victory Day parade looms",
-      "summary": "Russia shuts airports and cuts mobile signals in Moscow ahead of Victory Day parade amid drone strike fears.",
-      "url": "https://www.theguardian.com/p/x5xh4a",
-      "thumbnail": "https://media.guim.co.uk/0d33e78e980df7ca3a883348cd9b8af50f727ce6/500_0_4905_3925/500.jpg",
-      "published": "2026-05-05T12:56:11Z",
-      "location": {
-        "name": "Moscow",
-        "lat": 55.7558,
-        "lng": 37.6173
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "world/2026/may/05/macron-backs-armenia-pro-europe-pm-nikol-pashinyan-re-election",
-      "headline": "Macron backs Armenia’s pro-Europe PM as re-election campaign draws to close",
-      "summary": "Macron backs Armenia's pro-Europe PM Pashinyan against pro-Russia parties in upcoming election.",
-      "url": "https://www.theguardian.com/p/x5xhb4",
-      "thumbnail": "https://media.guim.co.uk/c7477755635a364b1d4745ae9364d74e048b5a70/2023_0_4453_3562/500.jpg",
-      "published": "2026-05-05T12:52:00Z",
-      "location": {
-        "name": "Yerevan",
-        "lat": 40.1792,
-        "lng": 44.4991
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "world/2026/may/05/donald-trump-accuses-pope-leo-of-endangering-a-lot-of-catholics-with-iran-stance",
-      "headline": "Trump accuses pope of ‘endangering a lot of Catholics’ with Iran stance",
-      "summary": "Trump accuses Pope Leo XIV of endangering Catholics with Iran stance ahead of Rubio's Vatican visit.",
-      "url": "https://www.theguardian.com/p/x5xhag",
-      "thumbnail": "https://media.guim.co.uk/d246b8e8776cfb0036f13bbaa77344847ec12693/0_0_5000_4000/500.jpg",
-      "published": "2026-05-05T12:24:47Z",
-      "location": {
-        "name": "Vatican City",
-        "lat": 41.9029,
-        "lng": 12.4534
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "sport/2026/may/05/london-marathon-record-applications-2027-race",
-      "headline": "London Marathon sets record after 1.8% of UK adult population applies for 2027 race",
-      "summary": "London Marathon sets record with 1.8% of UK adult population applying for 2027 race.",
-      "url": "https://www.theguardian.com/p/x5xhcd",
-      "thumbnail": "https://media.guim.co.uk/a31441b6c982f96c9b1c0353171a6722243c230e/614_0_6533_5228/500.jpg",
-      "published": "2026-05-05T12:06:24Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "business/2026/may/05/uk-borrowing-costs-bond-yields-gilts-rachel-reeves",
-      "headline": "UK’s long-term borrowing costs hit highest level since 1998",
-      "summary": "UK's long-term borrowing costs hit highest level since 1998 amid fuel prices and political concerns.",
-      "url": "https://www.theguardian.com/p/x5xhbm",
-      "thumbnail": "https://media.guim.co.uk/c5806f8bbbb0e7cdd8c0b5f39697e39059131c93/178_0_1779_1423/500.jpg",
-      "published": "2026-05-05T12:05:12Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "fashion/2026/may/05/body-masterpiece-nipples-skeletons-tattoos-record-breaking-met-gala-beyonce-kardashians",
-      "headline": "Body as masterpiece: nipples, skeletons and tattoos dominate at record-breaking Met Gala",
-      "summary": "Met Gala raises record $42m with 'dressed body' exhibition inspiring celebrity attendees with artistic fashion.",
-      "url": "https://www.theguardian.com/p/x5xh4d",
-      "thumbnail": "https://media.guim.co.uk/0b1666b6dbb5bda989b3f180da52aa8e63f2bc9b/0_0_5000_4000/500.jpg",
-      "published": "2026-05-05T12:02:53Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "fashion"
-    },
-    {
-      "id": "commentisfree/2026/may/05/friedrich-merz-risk-donald-trump-germany-nato-europe",
-      "headline": "Why Friedrich Merz decided to risk Donald Trump’s wrath",
-      "summary": "Friedrich Merz defies Trump's retribution over Iran war stance, risking US-Germany NATO tensions.",
-      "url": "https://www.theguardian.com/p/x5xdqy",
-      "thumbnail": "https://media.guim.co.uk/ba6c2828bc80da87a7019f4030c6b5bfff4d7125/96_0_1789_1431/500.jpg",
-      "published": "2026-05-05T12:00:39Z",
-      "location": {
-        "name": "Berlin",
-        "lat": 52.52,
-        "lng": 13.405
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "commentisfree"
-    },
-    {
-      "id": "food/2026/may/05/how-to-cook-asparagus-without-blanching-kitchen-aide",
-      "headline": "Fears for spears: how to cook asparagus without blanching",
-      "summary": "Cooking guide explores alternatives to blanching asparagus including grilling, airfrying and baking methods.",
-      "url": "https://www.theguardian.com/p/x4zbpa",
-      "thumbnail": "https://media.guim.co.uk/3e4beb0588ac1dafdd88b8b352bb28b96912284a/497_0_3333_2667/500.jpg",
-      "published": "2026-05-05T12:00:39Z",
-      "location": {
-        "name": "Edinburgh",
-        "lat": 55.9533,
-        "lng": -3.1883
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "food"
-    },
-    {
-      "id": "australia-news/2026/may/05/albanese-government-abandons-beleaguered-inland-rail-project-connecting-nsw-with-queensland",
-      "headline": "Albanese government abandons beleaguered inland rail project connecting NSW with Queensland",
-      "summary": "Albanese government scales back inland rail project to $45bn, abandoning Queensland connection.",
-      "url": "https://www.theguardian.com/p/x5xg3f",
-      "thumbnail": "https://media.guim.co.uk/4f77fb5252c9caddefc3d33b8190fef2be9f383b/650_0_5293_4234/500.jpg",
-      "published": "2026-05-05T12:00:38Z",
-      "location": {
-        "name": "Melbourne",
-        "lat": -37.8136,
-        "lng": 144.9631
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "society/2026/may/05/dame-shirley-porter-obituary",
-      "headline": "Dame Shirley Porter obituary",
-      "summary": "Dame Shirley Porter, Westminster council leader involved in 'homes for votes' scandal, dies.",
-      "url": "https://www.theguardian.com/p/x5xhbq",
-      "thumbnail": "https://media.guim.co.uk/992804d12162acfa7f3804dd501aa3b311da4af9/168_41_1203_963/500.jpg",
-      "published": "2026-05-05T11:54:19Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 1,
-      "section": "society"
-    },
     {
       "id": "us-news/2026/may/05/secret-service-agent-on-leave-alleged-public-fondling",
       "headline": "US Secret Service agent placed on leave for allegedly fondling himself in public",
@@ -1525,6 +1349,150 @@
       },
       "category": "politics",
       "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "stage/2026/may/06/magic-review-spellbinding-standoff-between-houdini-and-conan-doyle",
+      "headline": "Magic review – spellbinding standoff between Houdini and Conan Doyle",
+      "summary": "David Haig stars in theatre production exploring Houdini and Conan Doyle's fraught friendship.",
+      "url": "https://www.theguardian.com/p/x5xmd8",
+      "thumbnail": "https://media.guim.co.uk/e4f96b2f447891bfe9447276e421c9d7997f879b/0_121_1500_1200/500.jpg",
+      "published": "2026-05-06T13:09:46Z",
+      "location": {
+        "name": "Chichester",
+        "lat": 50.8365,
+        "lng": -0.7833
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "stage"
+    },
+    {
+      "id": "world/2026/may/06/pope-leo-rejects-claim-he-supports-nuclear-weapons-trump-tirade-iran-war",
+      "headline": "Pope Leo rejects claim he supports nuclear weapons after Trump tirade",
+      "summary": "Pope Leo denies nuclear weapons support after Trump accuses him of endangering Catholics over Iran stance.",
+      "url": "https://www.theguardian.com/p/x5xmpv",
+      "thumbnail": "https://media.guim.co.uk/9243f0d72c78f95e43a2a98769d761f1ef0e51db/404_112_6420_5136/500.jpg",
+      "published": "2026-05-06T12:58:10Z",
+      "location": {
+        "name": "Vatican City",
+        "lat": 41.9029,
+        "lng": 12.4534
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "media/2026/may/06/worlds-most-powerful-are-suing-media-outlets-before-stories-are-even-published-says-editor",
+      "headline": "World’s most powerful are suing media outlets before stories are even published, says editor",
+      "summary": "Wall Street Journal editor warns powerful figures increasingly sue media before publication as PR strategy.",
+      "url": "https://www.theguardian.com/p/x5xn3x",
+      "thumbnail": "https://media.guim.co.uk/4b965e7121ee2e79a420bb7ec753ee06afbcb92f/407_328_2503_2002/500.jpg",
+      "published": "2026-05-06T12:48:33Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "media"
+    },
+    {
+      "id": "uk-news/2026/may/06/reform-lancashire-county-council-to-quit-refugee-resettlement-schemes-elections",
+      "headline": "Reform-led Lancashire county council to quit refugee resettlement scheme",
+      "summary": "Reform-led Lancashire council plans to withdraw from government refugee resettlement scheme.",
+      "url": "https://www.theguardian.com/p/x5xmtj",
+      "thumbnail": "https://media.guim.co.uk/f29a31398f1fc6b63f21efb90532c8ddb2588323/330_0_3300_2640/500.jpg",
+      "published": "2026-05-06T12:42:36Z",
+      "location": {
+        "name": "Lancashire",
+        "lat": 53.8008,
+        "lng": -2.2304
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "ultimate-southeast-asia/2026/may/06/three-multi-stop-itineraries-for-southeast-asia-bangkok-bali-and-beyond",
+      "headline": "Bangkok, Bali and beyond in style: three itineraries for a multi-stop adventure",
+      "summary": "Travel guide presents multi-stop Southeast Asia itineraries across Bangkok, Bali and beyond.",
+      "url": "https://www.theguardian.com/p/x4pmfn",
+      "thumbnail": "https://media.guim.co.uk/73a037c5f751406e016f68707e06daf7dcd7dbb0/1112_0_7503_6001/500.jpg",
+      "published": "2026-05-06T12:17:15Z",
+      "location": {
+        "name": "Bangkok",
+        "lat": 13.7563,
+        "lng": 100.5018
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "ultimate-southeast-asia"
+    },
+    {
+      "id": "ultimate-southeast-asia/2026/may/06/bali-travel-guide-where-to-stay-what-to-eat-and-how-to-get-around",
+      "headline": "The ultimate travel guide to Bali: where to stay, what to eat and how to get around",
+      "summary": "Comprehensive Bali travel guide covers accommodation, dining and transportation options.",
+      "url": "https://www.theguardian.com/p/x4qd7a",
+      "thumbnail": "https://media.guim.co.uk/aefc60047b777152fd6d34be378fe06f3b091a51/691_0_3750_3000/500.jpg",
+      "published": "2026-05-06T12:14:02Z",
+      "location": {
+        "name": "Bali",
+        "lat": -8.6705,
+        "lng": 115.2126
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "ultimate-southeast-asia"
+    },
+    {
+      "id": "news/2026/may/05/cuban-doctors-latin-america-caribbean-threat-us-embargo",
+      "headline": "How Cuban doctors vital to Latin America are being squeezed out by the US",
+      "summary": "US blocks Cuban doctors' employment globally, threatening healthcare access across Latin America.",
+      "url": "https://www.theguardian.com/p/x5xcat",
+      "thumbnail": "https://media.guim.co.uk/532b6834df0d01a7dd353417868110dbfbcd36c3/0_0_3750_3000/500.jpg",
+      "published": "2026-05-06T12:05:25Z",
+      "location": {
+        "name": "Cuba",
+        "lat": 21.5218,
+        "lng": -77.7812
+      },
+      "category": "health",
+      "significance": 3,
+      "section": "news"
+    },
+    {
+      "id": "world/2026/may/06/us-cancels-tourist-visas-board-members-top-costa-rica-newspaper-la-nacion-trump",
+      "headline": "US cancels visas for board of Costa Rica newspaper critical of Trump ally",
+      "summary": "US cancels visas for Costa Rican newspaper La Nación board over criticism of Trump-allied president.",
+      "url": "https://www.theguardian.com/p/x5xmhg",
+      "thumbnail": "https://media.guim.co.uk/12d0007b0cdde9ce822699f5116757ce9dab443c/983_0_5965_4772/500.jpg",
+      "published": "2026-05-06T12:03:48Z",
+      "location": {
+        "name": "Costa Rica",
+        "lat": 9.7489,
+        "lng": -83.7534
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "us-news/2026/may/06/doj-closes-san-francisco-immigration-court-case-backlog",
+      "headline": "DoJ closes San Francisco immigration court in move critics say worsens case backlog ",
+      "summary": "DoJ closes San Francisco immigration court; attorneys warn closure worsens case backlog chaos.",
+      "url": "https://www.theguardian.com/p/x5xkjg",
+      "thumbnail": "https://media.guim.co.uk/9dc7d562f2c9bd3316842f2e49df6aa6fe76ef59/328_0_3280_2624/500.jpg",
+      "published": "2026-05-06T12:02:48Z",
+      "location": {
+        "name": "San Francisco",
+        "lat": 37.7749,
+        "lng": -122.4194
+      },
+      "category": "politics",
+      "significance": 2,
       "section": "us-news"
     }
   ]
