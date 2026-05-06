@@ -1,252 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-06T17:13:33.823Z",
-    "story_count": 110,
-    "oldest_story": "2026-05-05T17:16:26Z",
-    "newest_story": "2026-05-06T17:10:23Z",
+    "generated_at": "2026-05-06T19:02:59.588Z",
+    "story_count": 98,
+    "oldest_story": "2026-05-05T19:11:19Z",
+    "newest_story": "2026-05-06T18:57:18Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/live/2026/may/05/arsenal-v-atletico-madrid-champions-league-semi-final-second-leg-live",
-      "headline": "Arsenal v Atlético Madrid: Champions League semi-final, second leg – live",
-      "summary": "Arsenal face Atlético Madrid in Champions League semi-final second leg after 1-1 first-leg draw.",
-      "url": "https://www.theguardian.com/p/x5xctq",
-      "thumbnail": "https://media.guim.co.uk/897e15e6e08661fc546ade404f961a9aba44a26a/6_0_6424_5139/500.jpg",
-      "published": "2026-05-05T18:15:30Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "us-news/2026/may/05/antidepressants-rfk-jr-maha",
-      "headline": "US to take steps to curb antidepressant prescribing, RFK Jr says ",
-      "summary": "RFK Jr announces plan to curb antidepressant prescribing amid psychiatrist concerns about access.",
-      "url": "https://www.theguardian.com/p/x5xthy",
-      "thumbnail": "https://media.guim.co.uk/8b69d45e0368d2be2d9e3ac62bb21275c63fdb85/417_0_3514_2811/500.jpg",
-      "published": "2026-05-05T18:08:21Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "commentisfree/2026/may/05/the-guardian-view-on-the-us-supreme-court-its-judgments-have-slowly-erased-voting-rights",
-      "headline": "The Guardian view on the US supreme court: its judgments have slowly erased voting rights",
-      "summary": "Supreme Court rulings criticized for eroding voting rights protections for Black voters.",
-      "url": "https://www.theguardian.com/p/x5xtyd",
-      "thumbnail": "https://media.guim.co.uk/012a7ef489e6feb8b9fe3ef7ed97507bb9a3a4fd/476_493_1796_1437/500.jpg",
-      "published": "2026-05-05T18:06:12Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "commentisfree"
-    },
-    {
-      "id": "commentisfree/2026/may/05/the-guardian-view-on-the-renters-rights-act-finally-protections-fit-for-the-modern-housing-market",
-      "headline": "The Guardian view on the Renters’ Rights Act: finally, protections fit for the modern housing market",
-      "summary": "UK government advances Renters' Rights Act to protect private renters with modern protections.",
-      "url": "https://www.theguardian.com/p/x5xcg3",
-      "thumbnail": "https://media.guim.co.uk/1e890359b66d61b7ff9a6c42abf50d775be8bf6a/289_0_3834_3069/500.jpg",
-      "published": "2026-05-05T18:05:11Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "commentisfree"
-    },
-    {
-      "id": "politics/2026/may/05/stop-plotting-to-oust-keir-starmer-ex-deputy-labour-leader-urges-mps",
-      "headline": "Stop plotting to oust Keir Starmer, ex-deputy Labour leader urges MPs",
-      "summary": "Tom Watson urges Labour MPs to stop plotting against Keir Starmer after local election losses.",
-      "url": "https://www.theguardian.com/p/x5xtjy",
-      "thumbnail": "https://media.guim.co.uk/38a0208532b3430431f73de1ab2e5038d92b9b10/1040_33_4048_3239/500.jpg",
-      "published": "2026-05-05T18:03:43Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "artanddesign/2026/may/05/venice-biennale-protests-resignations-russia-israel",
-      "headline": "Dark clouds, protests and resignations dampen start of 61st Venice Biennale",
-      "summary": "61st Venice Biennale opens amid protests over Russia's closure and Israel's inclusion.",
-      "url": "https://www.theguardian.com/p/x5xhnj",
-      "thumbnail": "https://media.guim.co.uk/cc8b0d9fb1bd9214b235a1b024cd470adab3a5cf/94_0_2813_2250/500.jpg",
-      "published": "2026-05-05T18:02:05Z",
-      "location": {
-        "name": "Venice",
-        "lat": 45.4313,
-        "lng": 12.3547
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "artanddesign"
-    },
-    {
-      "id": "football/2026/may/05/manchester-city-arsenal-premier-league-pep-guardiola-mikel-arteta",
-      "headline": "Thierno Barry provides human touch with fresh twist in title race full of uncertainties",
-      "summary": "Manchester City's draw at Everton keeps Premier League title race open with Arsenal.",
-      "url": "https://www.theguardian.com/p/x5xtgy",
-      "thumbnail": "https://media.guim.co.uk/0ca4c7fdec257339ed599bc681665846fc756f4e/44_0_3759_3007/500.jpg",
-      "published": "2026-05-05T18:00:46Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4808,
-        "lng": -2.2426
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "world/2026/may/05/canada-voting-data-breach-separatists",
-      "headline": "Alberta separatists submit 300,000 signatures to push independence referendum",
-      "summary": "Alberta separatists submit 300,000 signatures for independence referendum amid voting data breach.",
-      "url": "https://www.theguardian.com/p/x5xtta",
-      "thumbnail": "https://media.guim.co.uk/d43f6b459f2f413ac65692295be33774a156b114/512_0_5001_4000/500.jpg",
-      "published": "2026-05-05T17:49:26Z",
-      "location": {
-        "name": "Edmonton",
-        "lat": 53.5461,
-        "lng": -113.4938
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "uk-news/2026/may/05/man-and-ex-partner-killed-in-bristol-blast-after-he-forced-entry-into-house",
-      "headline": "Man and ex-partner killed in Bristol blast after he forced entry into house",
-      "summary": "Man with explosive device kills ex-partner in Bristol house blast; police treat as homicide.",
-      "url": "https://www.theguardian.com/p/x5xtfv",
-      "thumbnail": "https://media.guim.co.uk/11400ae801f26faa4a4abe60a0f995a4771f7b09/667_0_3576_2861/500.jpg",
-      "published": "2026-05-05T17:41:29Z",
-      "location": {
-        "name": "Bristol",
-        "lat": 51.4545,
-        "lng": -2.5879
-      },
-      "category": "conflict",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "technology/2026/may/05/openai-president-personal-diary-musk-altman-case",
-      "headline": "OpenAI president’s ‘deeply personal’ diary becomes focus in Musk’s case against Altman",
-      "summary": "OpenAI president's personal diary becomes focus in Elon Musk's lawsuit against Altman.",
-      "url": "https://www.theguardian.com/p/x5xtna",
-      "thumbnail": "https://media.guim.co.uk/014e1567f276bf27f68eaf4d3e793e8f60e3b3fc/458_0_4585_3667/500.jpg",
-      "published": "2026-05-05T17:36:13Z",
-      "location": {
-        "name": "San Francisco",
-        "lat": 37.7749,
-        "lng": -122.4194
-      },
-      "category": "tech",
-      "significance": 2,
-      "section": "technology"
-    },
-    {
-      "id": "world/2026/may/05/a-veneer-of-normality-has-returned-to-tehran-but-fears-for-the-future-are-rife",
-      "headline": "A veneer of normality has returned to Tehran, but fears for the future are rife",
-      "summary": "Tehran shows surface normality post-ceasefire but residents harbor deep concerns about conflict.",
-      "url": "https://www.theguardian.com/p/x5xhjj",
-      "thumbnail": "https://media.guim.co.uk/3eda31163c0751b9aa41459958350945a4c49bc0/518_0_3750_3000/500.jpg",
-      "published": "2026-05-05T17:29:27Z",
-      "location": {
-        "name": "Tehran",
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "business/nils-pratley-on-finance/2026/may/05/stock-markets-are-wobbling-but-10bn-cash-bids-at-fat-premiums-can-still-happen",
-      "headline": "Stock markets are wobbling, but £10bn cash bids at fat premiums can still happen",
-      "summary": "FTSE 100 falls 1.4% but stock markets resilient to Iran war amid takeover activity.",
-      "url": "https://www.theguardian.com/p/x5xhqg",
-      "thumbnail": "https://media.guim.co.uk/c2102e8e31c1e45f2536e5070a2a83c08a7ad3fa/38_0_7151_5721/500.jpg",
-      "published": "2026-05-05T17:26:37Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "uk-news/2026/may/05/barrister-palestine-action-trial-facing-contempt-of-court-proceedings",
-      "headline": "Barrister in Palestine Action trial facing contempt of court proceedings",
-      "summary": "Barrister faces contempt of court charges for informing jury of right to acquit on conscience.",
-      "url": "https://www.theguardian.com/p/x5xtdg",
-      "thumbnail": "https://media.guim.co.uk/197125ef014d081112ef8494a51f1a6ea161e1ff/0_1924_4000_3201/500.jpg",
-      "published": "2026-05-05T17:19:18Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 1,
-      "section": "uk-news"
-    },
-    {
-      "id": "us-news/2026/may/05/animals-rescued-california-sanctuary",
-      "headline": "Hundreds of animals rescued from ‘appalling’ conditions at California sanctuary",
-      "summary": "Over 400 animals rescued from California sanctuary in appalling conditions amid bankruptcy.",
-      "url": "https://www.theguardian.com/p/x5xtcf",
-      "thumbnail": "https://media.guim.co.uk/8c839de55e5cffb6f77e4782ea18f732e5b796bb/1206_1142_3574_2858/500.jpg",
-      "published": "2026-05-05T17:17:50Z",
-      "location": {
-        "name": "San Diego",
-        "lat": 32.7157,
-        "lng": -117.1611
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "music/2026/may/05/paul-jackson-obituary",
-      "headline": "Paul Jackson obituary",
-      "summary": "Paul Jackson, proprietor of Hull's New Adelphi Club music venue for 40+ years, dies aged 71.",
-      "url": "https://www.theguardian.com/p/x4z7k8",
-      "thumbnail": "https://media.guim.co.uk/a1b1576745c75a63742c7256c34610519624870a/822_101_3511_2809/500.jpg",
-      "published": "2026-05-05T17:16:26Z",
-      "location": {
-        "name": "Hull",
-        "lat": 53.7457,
-        "lng": -0.3367
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "music"
-    },
     {
       "id": "us-news/2026/may/05/senate-immigration-package-1bn-trump-ballroom",
       "headline": "Senate Republicans propose package including $1bn that could go to Trump ballroom",
@@ -294,70 +54,6 @@
       "category": "conflict",
       "significance": 4,
       "section": "world"
-    },
-    {
-      "id": "politics/2026/may/05/mps-demand-reform-suspend-candidate-over-claims-he-celebrated-of-sikh-women",
-      "headline": "MPs demand Reform suspend candidate over claims he celebrated rape of Sikh women",
-      "summary": "Labour MPs demand Reform UK suspend candidate over alleged rape celebration posts.",
-      "url": "https://www.theguardian.com/p/x5xtk3",
-      "thumbnail": "https://media.guim.co.uk/14782fd138606b37ef57cb51c5cbaf8fcd6f1d9f/316_0_6107_4887/500.jpg",
-      "published": "2026-05-05T19:02:46Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "uk-news/2026/may/05/andrew-tate-sought-cps-assurance-he-would-not-be-arrested-if-he-returned-to-uk-court-hears",
-      "headline": "Andrew Tate sought CPS assurance he would not be arrested if he returned to UK, court hears",
-      "summary": "Andrew Tate sought CPS assurances against arrest before returning to UK for civil case.",
-      "url": "https://www.theguardian.com/p/x5xgyc",
-      "thumbnail": "https://media.guim.co.uk/b69d8e98ac67950882497b7ec0a05616eea60720/98_0_3287_2632/500.jpg",
-      "published": "2026-05-05T18:57:53Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "sport/2026/may/05/emma-raducanu-makes-sudden-withdrawal-from-italian-open",
-      "headline": "Emma Raducanu suddenly withdraws from Italian Open after press conference",
-      "summary": "Emma Raducanu withdraws from Italian Open citing post-viral illness complications.",
-      "url": "https://www.theguardian.com/p/x5xtnh",
-      "thumbnail": "https://media.guim.co.uk/e5cf418831d4792caa3aca32f10dcedd393a855b/419_0_4095_3277/500.jpg",
-      "published": "2026-05-05T18:53:59Z",
-      "location": {
-        "name": "Rome",
-        "lat": 41.9028,
-        "lng": 12.4964
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "uk-news/2026/may/05/mod-no-system-detect-civilian-harm-caused-by-military-study-shows",
-      "headline": "MoD has no system to detect civilian harm caused by military, study shows",
-      "summary": "MoD study reveals no system to detect civilian harm caused by UK military operations.",
-      "url": "https://www.theguardian.com/p/x5xt5e",
-      "thumbnail": "https://media.guim.co.uk/ab29607704937b7bd3c1e65a519ed1fe0838af4c/0_0_3000_2400/500.jpg",
-      "published": "2026-05-05T18:47:19Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "uk-news"
     },
     {
       "id": "sport/2026/may/05/timberwolves-accuse-wembanyama-of-goaltending-after-spurs-star-sets-nba-playoff-block-record",
@@ -1766,6 +1462,118 @@
       "category": "sport",
       "significance": 2,
       "section": "sport"
+    },
+    {
+      "id": "football/live/2026/may/06/bayern-munich-v-paris-saint-germain-champions-league-semi-final-second-leg-live",
+      "headline": "Bayern Munich v Paris Saint-Germain: Champions League semi-final, second leg – live",
+      "summary": "Bayern Munich faces PSG in Champions League semi-final second leg with Arsenal final at stake.",
+      "url": "https://www.theguardian.com/p/x5xtht",
+      "thumbnail": "https://media.guim.co.uk/90a82f3de7b376281899bd980fc5b40716aa508d/349_0_4732_3786/500.jpg",
+      "published": "2026-05-06T18:57:18Z",
+      "location": {
+        "name": "Munich",
+        "lat": 48.1351,
+        "lng": 11.582
+      },
+      "category": "sport",
+      "significance": 4,
+      "section": "football"
+    },
+    {
+      "id": "politics/2026/may/06/nigel-farage-finance-parliament-salary-reform",
+      "headline": "Nigel Farage’s income since being elected MP has hit £2m, analysis shows",
+      "summary": "Nigel Farage's income as MP reaches £2m including parliamentary salary since July 2024.",
+      "url": "https://www.theguardian.com/p/x5xz4d",
+      "thumbnail": "https://media.guim.co.uk/4ab03cc974f58fe126bd644f3e9e24ab4f3d9f30/641_688_4140_3312/500.jpg",
+      "published": "2026-05-06T18:57:13Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "world/2026/may/06/polymarket-israel-iran-war-arrest",
+      "headline": "Keep quiet ‘so we don’t go to jail’: Israeli suspects charged with bribery after suspicious bets placed on Iran strikes",
+      "summary": "Israeli suspects charged with bribery after using classified military info to bet on Iran strikes.",
+      "url": "https://www.theguardian.com/p/x4pj5b",
+      "thumbnail": "https://media.guim.co.uk/119b4b7ea762be1954a6d03d22eae7de1eaae0c2/168_0_2500_2000/500.jpg",
+      "published": "2026-05-06T18:40:29Z",
+      "location": {
+        "name": "Tel Aviv",
+        "lat": 32.0853,
+        "lng": 34.7818
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "us-news/2026/may/06/looksmaxxing-clavicular-florida-alligator",
+      "headline": "Influencer Clavicular faces charges in Florida tied to alligator shooting video",
+      "summary": "Florida influencer Clavicular faces charges for shooting alligator in Everglades live stream.",
+      "url": "https://www.theguardian.com/p/x5xzh8",
+      "thumbnail": "https://media.guim.co.uk/2288df033a2e112ba4b6203e2a1bbd46ddc59306/335_169_2571_2057/500.jpg",
+      "published": "2026-05-06T18:37:38Z",
+      "location": {
+        "name": "Miami",
+        "lat": 25.7617,
+        "lng": -80.1918
+      },
+      "category": "other",
+      "significance": 1,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/may/06/arsenal-immortality-champions-league",
+      "headline": "Arsenal no longer fear falling short and now have clear sight of immortality",
+      "summary": "Arsenal seeks immortality with two trophies within reach after beating Atlético Madrid.",
+      "url": "https://www.theguardian.com/p/x5xnz7",
+      "thumbnail": "https://media.guim.co.uk/63664f082286e97a3f26b1a6c6bf1b4b5e8be6fa/274_0_3522_2818/500.jpg",
+      "published": "2026-05-06T18:00:26Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "politics/2026/may/06/uk-voters-battle-over-bills-energy-crisis-linked-green-experts",
+      "headline": "‘Climate solutions will bring down bills and restore nature’: green issues and May elections",
+      "summary": "Climate solutions can lower bills and restore nature ahead of UK May local elections.",
+      "url": "https://www.theguardian.com/p/x5xnbv",
+      "thumbnail": "https://media.guim.co.uk/4a2bebb57d6896efa4b2eb80b6e579f7ef0e9988/0_0_5760_4608/500.jpg",
+      "published": "2026-05-06T17:59:30Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "politics/2026/may/06/andy-burnham-labour-anger-appearance-greens-change-now",
+      "headline": "Burnham sparks Labour anger with plan to appear at event alongside Greens",
+      "summary": "Andy Burnham's appearance with Greens sparks Labour anger over local election messaging.",
+      "url": "https://www.theguardian.com/p/x5xmt6",
+      "thumbnail": "https://media.guim.co.uk/bba14c0c12ba9683911995f6490e8422c935eaae/259_0_5000_4000/500.jpg",
+      "published": "2026-05-06T17:53:34Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
     }
   ]
 }
