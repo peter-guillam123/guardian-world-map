@@ -1,172 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-06T20:44:46.229Z",
-    "story_count": 98,
-    "oldest_story": "2026-05-05T20:59:34Z",
-    "newest_story": "2026-05-06T20:30:29Z",
+    "generated_at": "2026-05-06T21:48:58.419Z",
+    "story_count": 94,
+    "oldest_story": "2026-05-05T22:18:43Z",
+    "newest_story": "2026-05-06T21:30:30Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "sport/2026/may/05/timberwolves-accuse-wembanyama-of-goaltending-after-spurs-star-sets-nba-playoff-block-record",
-      "headline": "Timberwolves accuse Wembanyama of goaltending after Spurs star sets NBA playoff block record",
-      "summary": "Wembanyama sets NBA playoff block record with 12 blocks, but Timberwolves dispute legitimacy.",
-      "url": "https://www.theguardian.com/p/x5xjjb",
-      "thumbnail": "https://media.guim.co.uk/d0d468761e38be09ba3bac32d4f6ce709ab88431/269_0_3643_2915/500.jpg",
-      "published": "2026-05-05T21:09:39Z",
-      "location": {
-        "name": "San Antonio",
-        "lat": 29.4241,
-        "lng": -98.4936
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "australia-news/live/2026/may/06/national-cabinet-fuel-crisis-anthony-albanese-labor-angus-taylor-coalition-matt-canavan-federal-budget-interest-rates-reserve-bank-inflation-fears-ntwnfb",
-      "headline": "Australia news live: banks pass on interest rate hike to customers; Sydney ‘globalise the intifada’ forum held in park ",
-      "summary": "Australia announces $74m center to combat online violent extremism ahead of federal budget.",
-      "url": "https://www.theguardian.com/p/x5xhbp",
-      "thumbnail": "https://media.guim.co.uk/26f7baa72213def2fe9f9f2b0dd6a8bf9e32dfd4/147_0_4103_3282/500.jpg",
-      "published": "2026-05-05T21:05:28Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "football/2026/may/05/arsenal-atletico-madrid-champions-league-semi-final-second-leg-match-report",
-      "headline": "Bukayo Saka edges Arsenal past Atlético Madrid to reach Champions League final",
-      "summary": "Arsenal advances to Champions League final after defeating Atlético Madrid 2-1 on aggregate.",
-      "url": "https://www.theguardian.com/p/x5xhjn",
-      "thumbnail": "https://media.guim.co.uk/64b3bdf9abaebf16ea64e3272aab8874071d1f8f/340_0_3131_2504/500.jpg",
-      "published": "2026-05-05T21:02:24Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "media/2026/may/05/new-york-times-lawsuit-equal-opportunity",
-      "headline": "US Equal Employment Opportunity Commission sues NYT over bias claim",
-      "summary": "EEOC sues New York Times for allegedly denying promotion to white male editor.",
-      "url": "https://www.theguardian.com/p/x5xj7d",
-      "thumbnail": "https://media.guim.co.uk/4310caea88cdbf16a94dc6abc9c5722a77bd2bc8/466_0_4644_3717/500.jpg",
-      "published": "2026-05-05T20:59:34Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "media"
-    },
-    {
-      "id": "us-news/2026/may/05/covid-shingles-vaccines-studies-fda",
-      "headline": "FDA blocked studies finding Covid and shingles vaccines safe, HHS official says",
-      "summary": "FDA blocked vaccine safety studies, HHS official claims amid controversy over research findings.",
-      "url": "https://www.theguardian.com/p/x5xjjv",
-      "thumbnail": "https://media.guim.co.uk/49f849979962e400666b1244f5db2955f4053663/375_0_4251_3399/500.jpg",
-      "published": "2026-05-05T21:46:10Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "health",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "football/2026/may/05/arsenal-atletico-madrid-champions-league-player-ratings",
-      "headline": "Arsenal 1-0 Atlético Madrid (agg: 2-1): Champions League player ratings",
-      "summary": "Arsenal defeats Atlético Madrid 1-0 in Champions League, advances on aggregate score.",
-      "url": "https://www.theguardian.com/p/x5xhkx",
-      "thumbnail": "https://media.guim.co.uk/6ba9fd7e217f8fff9d056c5eccf251fe42836c34/430_0_4303_3443/500.jpg",
-      "published": "2026-05-05T21:41:25Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "politics/2026/may/05/zack-polanski-falsely-claimed-to-be-british-red-cross-spokesperson-charity-says",
-      "headline": "Zack Polanski falsely claimed to be British Red Cross spokesperson, charity says",
-      "summary": "Green party leader Zack Polanski falsely claimed British Red Cross spokesperson role.",
-      "url": "https://www.theguardian.com/p/x5xja2",
-      "thumbnail": "https://media.guim.co.uk/07c51cacf5b64645d06f238c09570f7facbd55d3/500_0_5000_4000/500.jpg",
-      "published": "2026-05-05T21:33:46Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "tv-and-radio/2026/may/05/this-is-a-bomb-the-nevada-casino-heist-review",
-      "headline": "This Is a Bomb: The Nevada Casino Heist review – the dark, deadly tale of a $3m extortion scheme",
-      "summary": "Documentary explores 1980 casino bomb extortion scheme at Harvey's Wagon Wheel.",
-      "url": "https://www.theguardian.com/p/x5vmqt",
-      "thumbnail": "https://media.guim.co.uk/ff2b948057168ff15a4778d5aa10bd0ffa5a7164/588_0_3277_2623/500.jpg",
-      "published": "2026-05-05T21:30:50Z",
-      "location": {
-        "name": "Lake Tahoe",
-        "lat": 39.0968,
-        "lng": -120.0324
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "tv-and-radio"
-    },
-    {
-      "id": "australia-news/2026/may/06/morning-mail-wednesday-ntwnfb",
-      "headline": "Morning Mail: ‘White shirt guy’ plans to sue police, households count rate cost, tennis boycott threat",
-      "summary": "'White shirt guy' from protest plans to sue police over alleged assault incident.",
-      "url": "https://www.theguardian.com/p/x5xgp4",
-      "thumbnail": "https://media.guim.co.uk/4ac24d8303318e05fa2a6d01d363bd819544480a/246_0_2461_1970/500.jpg",
-      "published": "2026-05-05T21:30:37Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "world/2026/may/05/british-crew-member-dutch-mv-hondius-cruise-ship-hantavirus-cases",
-      "headline": "Unwell British crew member to be ‘urgently’ evacuated from cruise ship after hantavirus cases",
-      "summary": "Crew members evacuated from cruise ship following hantavirus outbreak in Atlantic.",
-      "url": "https://www.theguardian.com/p/x5xhnx",
-      "thumbnail": "https://media.guim.co.uk/1f1cca47c25aceda569e5bda1e73fe5b9a46878c/247_0_2813_2250/500.jpg",
-      "published": "2026-05-05T21:29:49Z",
-      "location": {
-        "name": "Canary Islands",
-        "lat": 28.2916,
-        "lng": -16.6291
-      },
-      "category": "health",
-      "significance": 3,
-      "section": "science"
-    },
     {
       "id": "us-news/2026/may/05/california-governor-race-debate",
       "headline": "California gubernatorial frontrunners face off in high-stakes debate as early voting gets underway",
@@ -1574,6 +1414,102 @@
       "category": "culture",
       "significance": 2,
       "section": "tv-and-radio"
+    },
+    {
+      "id": "business/2026/may/06/fertiliser-shortages-iran-war-global-food-prices-farming",
+      "headline": "Fertiliser shortages will have ‘dramatic’ effect on global food prices, warns farming boss",
+      "summary": "Fertiliser shortages from Iran war could drive up global food prices dramatically next year, UK farming boss warns.",
+      "url": "https://www.theguardian.com/p/x5xh9x",
+      "thumbnail": "https://media.guim.co.uk/092d4ed5c9128efab0181ae7fcc8c25a3b2d2429/152_0_2293_1834/500.jpg",
+      "published": "2026-05-06T21:30:30Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "business"
+    },
+    {
+      "id": "football/2026/may/06/manchester-city-wsl-title-winners-2025-26-player-ratings",
+      "headline": "Manchester City’s WSL title winners 2025-26: player-by-player ratings",
+      "summary": "Manchester City win WSL title for second time as Arsenal draw with Brighton.",
+      "url": "https://www.theguardian.com/p/x5xgny",
+      "thumbnail": "https://media.guim.co.uk/6169f3a634fefb57fac370ac464dc8e5f61ac66a/0_0_5000_4000/500.jpg",
+      "published": "2026-05-06T21:30:30Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "politics/2026/may/06/starmer-late-pitch-voters-labour-greens-reform-elections",
+      "headline": "Keir Starmer makes late pitch to voters turning to Greens and Reform",
+      "summary": "Keir Starmer pitches to voters as Labour faces record-breaking losses in Thursday's local elections.",
+      "url": "https://www.theguardian.com/p/x5xnad",
+      "thumbnail": "https://media.guim.co.uk/a5b25da30df911cc4ffb9aad04b1312218b1b52f/279_0_3042_2433/500.jpg",
+      "published": "2026-05-06T21:30:30Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "football/2026/may/06/bayern-psg-champions-league-semi-final-second-leg-match-report",
+      "headline": "Dembélé ends Bayern hopes to send PSG into final showdown with Arsenal",
+      "summary": "PSG defeats Bayern Munich to reach Champions League final, will face Arsenal in decider.",
+      "url": "https://www.theguardian.com/p/x5xnzn",
+      "thumbnail": "https://media.guim.co.uk/79d1155d5283828776349977c71823382320d953/249_0_2501_2001/500.jpg",
+      "published": "2026-05-06T21:09:21Z",
+      "location": {
+        "name": "Paris",
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "australia-news/2026/may/07/morning-mail-thursday-ntwnfb",
+      "headline": "Morning Mail: Coalition’s ‘roadmap’ to slash immigration leaked, Trump’s new threat to Iran, Ted Turner dies",
+      "summary": "Coalition's immigration reduction roadmap leaked; Trump threatens Iran with bombing if deal rejected.",
+      "url": "https://www.theguardian.com/p/x5xmd9",
+      "thumbnail": "https://media.guim.co.uk/f7eb2ce799af21498fcfc7b3d5e024356f8a5aad/478_0_4473_3579/500.jpg",
+      "published": "2026-05-06T20:51:45Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "football/2026/may/06/manchester-city-win-wsl-title-second-time-after-arsenal-fail-to-beat-brighton",
+      "headline": "Manchester City win WSL title for second time after Arsenal fail to beat Brighton",
+      "summary": "Manchester City clinch WSL title for second time after Arsenal fail to beat Brighton.",
+      "url": "https://www.theguardian.com/p/x5xzan",
+      "thumbnail": "https://media.guim.co.uk/94225202bad1f17b52a7dc97689362fe56ffe997/499_111_2804_2243/500.jpg",
+      "published": "2026-05-06T20:42:57Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
     }
   ]
 }
