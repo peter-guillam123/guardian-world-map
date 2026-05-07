@@ -1,60 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-07T15:07:00.794Z",
-    "story_count": 105,
-    "oldest_story": "2026-05-06T15:15:24Z",
-    "newest_story": "2026-05-07T15:02:03Z",
+    "generated_at": "2026-05-07T17:03:39.606Z",
+    "story_count": 99,
+    "oldest_story": "2026-05-06T17:09:39Z",
+    "newest_story": "2026-05-07T17:00:22Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "business/2026/may/06/norwegian-government-rebuked-over-decision-to-reopen-north-sea-gas-fields",
-      "headline": "Norwegian government attacked over decision to reopen North Sea gasfields",
-      "summary": "Norwegian government approves reopening of three North Sea gasfields, sparking backlash from environmental critics.",
-      "url": "https://www.theguardian.com/p/x5xnc9",
-      "thumbnail": "https://media.guim.co.uk/ca15b506fb0f651acc25514d7019a1e302832c6e/377_0_3975_3180/500.jpg",
-      "published": "2026-05-06T15:25:36Z",
-      "location": {
-        "name": "Norway",
-        "lat": 60.472,
-        "lng": 8.4689
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "business"
-    },
-    {
-      "id": "technology/2026/may/06/tiktok-pro-republican-algorithm-2024-election",
-      "headline": "TikTok’s algorithm favored Republican content in 2024 US elections, study finds",
-      "summary": "TikTok algorithm systematically prioritized Republican content in key US states during 2024 elections, study finds.",
-      "url": "https://www.theguardian.com/p/x5xnyv",
-      "thumbnail": "https://media.guim.co.uk/fb8a51a465fe1bfdb66f304edaec4539f6ea9e7b/635_0_3336_2669/500.jpg",
-      "published": "2026-05-06T15:24:35Z",
-      "location": {
-        "name": "United States",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "tech",
-      "significance": 3,
-      "section": "technology"
-    },
-    {
-      "id": "culture/2026/may/06/jimmy-kimmel-donald-trump-ballroom-fitness-test",
-      "headline": "Jimmy Kimmel on Trump’s ballroom: ‘What can you say? The man loves to dance’",
-      "summary": "Late-night hosts joke about Trump's new White House ballroom costs and presidential fitness test.",
-      "url": "https://www.theguardian.com/p/x5xnfb",
-      "thumbnail": "https://media.guim.co.uk/28e51db1b93b9393f8b1c9d18a40dc03b17f554d/418_0_2008_1606/500.jpg",
-      "published": "2026-05-06T15:15:24Z",
-      "location": {
-        "name": "United States",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "culture"
-    },
     {
       "id": "sport/2026/may/06/cocodona-250-ultramarathon-runner-dies",
       "headline": "Runner dies after medical emergency during 253-mile ultramarathon in Arizona",
@@ -86,294 +38,6 @@
       "category": "conflict",
       "significance": 4,
       "section": "world"
-    },
-    {
-      "id": "sport/2026/may/05/five-wnba-storylines-you-need-to-follow-in-season-30",
-      "headline": "A UConn reunion and Caitlin Clark’s return: WNBA storylines to follow in season 30",
-      "summary": "WNBA season 30 begins Friday with UConn reunion and Caitlin Clark's return storylines.",
-      "url": "https://www.theguardian.com/p/x5xcbt",
-      "thumbnail": "https://media.guim.co.uk/62a4045288353cd564c13c2b6c74fde666c4238e/500_0_5000_4000/500.jpg",
-      "published": "2026-05-06T17:00:24Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "us-news/2026/may/06/potato-chip-brands-link-to-salmonella-recall",
-      "headline": "Two US potato chip brands recalled amid salmonella concerns",
-      "summary": "Utz recalls Zapp's and Dirty potato chips due to salmonella contamination in seasoning.",
-      "url": "https://www.theguardian.com/p/x5xz77",
-      "thumbnail": "https://media.guim.co.uk/ca2a3a1f0c63d5da030375b9e457e60726b6c628/0_1000_3750_3000/500.jpg",
-      "published": "2026-05-06T16:56:16Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "film/2026/may/06/indigenous-actor-james-cameron-avatar-lawsuit",
-      "headline": "Indigenous actor sues James Cameron for ‘stealing’ her facial features for Avatar character",
-      "summary": "Indigenous actor Q'orianka Kilcher sues James Cameron for using her facial features in Avatar.",
-      "url": "https://www.theguardian.com/p/x5xz52",
-      "thumbnail": "https://media.guim.co.uk/db15cee3236e636a6120f8c0eba5411876dd6b2a/391_0_1821_1458/500.jpg",
-      "published": "2026-05-06T16:47:47Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "film"
-    },
-    {
-      "id": "us-news/2026/may/06/repbulicans-loyal-trump-indiana-primary-election",
-      "headline": "Indiana shows Republicans have two choices: align with Trump or get ousted",
-      "summary": "Indiana primary shows Republicans must stay loyal to Trump or face removal from GOP.",
-      "url": "https://www.theguardian.com/p/x5xnh8",
-      "thumbnail": "https://media.guim.co.uk/b1552068634e7ee39ecc505f9595f1f130ba71c7/427_0_4265_3412/500.jpg",
-      "published": "2026-05-06T16:47:43Z",
-      "location": {
-        "name": "Indiana",
-        "lat": 39.8494,
-        "lng": -86.2604
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "politics/2026/may/06/scottish-mum-stuck-in-spain-after-baby-falls-foul-of-uk-dual-nationality-rules",
-      "headline": "Scottish mum stuck abroad after baby falls foul of UK dual nationality rules",
-      "summary": "Scottish mother stranded in Spain with baby unable to return due to UK dual nationality rules.",
-      "url": "https://www.theguardian.com/p/x5xn7m",
-      "thumbnail": "https://media.guim.co.uk/0661259e781d566f290620488d888ac8cb981943/0_995_3000_2400/500.jpg",
-      "published": "2026-05-06T16:46:06Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "film/2026/may/06/mortal-kombat-ii-review-film",
-      "headline": "Mortal Kombat II review – junky game-to-movie sequel offers more of the same",
-      "summary": "Mortal Kombat II review: gory game-to-film sequel offers uninspiring sequel storytelling.",
-      "url": "https://www.theguardian.com/p/x5xnan",
-      "thumbnail": "https://media.guim.co.uk/9549871f636c13ba910636a8dab0fb7b55f7f006/336_0_2423_1940/500.jpg",
-      "published": "2026-05-06T16:43:08Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "film"
-    },
-    {
-      "id": "us-news/2026/may/06/rutgers-cancel-graduation-speech-pro-palestine-post",
-      "headline": "Rutgers cancels graduation speech over speaker’s pro-Palestinian posts",
-      "summary": "Rutgers cancels graduation speech by alum over pro-Palestinian social media posts.",
-      "url": "https://www.theguardian.com/p/x5xnz3",
-      "thumbnail": "https://media.guim.co.uk/61ad35305def9280ee5e8ccde56ebde2e8a91984/352_0_1921_1536/500.jpg",
-      "published": "2026-05-06T16:38:47Z",
-      "location": {
-        "name": "New Jersey",
-        "lat": 40.5236,
-        "lng": -74.4732
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "world/2026/may/06/pussy-riot-protest-at-venice-biennale-forces-russian-pavilion-to-briefly-close",
-      "headline": "Pussy Riot protest at Venice Biennale forces Russian pavilion to briefly close",
-      "summary": "Pussy Riot protests force temporary closure of Russian pavilion at Venice Biennale.",
-      "url": "https://www.theguardian.com/p/x5xymj",
-      "thumbnail": "https://media.guim.co.uk/09f7e1393971032840b19a9c091ecf2a0d4d6d7c/0_4_3360_2688/500.jpg",
-      "published": "2026-05-06T16:35:14Z",
-      "location": {
-        "name": "Venice",
-        "lat": 45.4408,
-        "lng": 12.3155
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "politics/2026/may/06/how-to-ensure-donors-cant-buy-political-influence",
-      "headline": "How to ensure donors can’t buy political influence",
-      "summary": "Readers respond to George Monbiot on preventing donors from buying political influence.",
-      "url": "https://www.theguardian.com/p/x5vngq",
-      "thumbnail": "https://media.guim.co.uk/4d45f505dfe151e42528996d38b3463c2aa216cf/426_0_4744_3795/500.jpg",
-      "published": "2026-05-06T16:31:11Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 1,
-      "section": "politics"
-    },
-    {
-      "id": "society/2026/may/06/alcohol-reduced-my-anxiety-but-at-a-cost",
-      "headline": "Alcohol reduced my anxiety – but at a cost",
-      "summary": "Reader shares experience of using alcohol to manage anxiety with lasting consequences.",
-      "url": "https://www.theguardian.com/p/x5vnhc",
-      "thumbnail": "https://media.guim.co.uk/8d49bb2177ec21273bec177f6bda1fb4bd9187eb/208_0_4560_3649/500.jpg",
-      "published": "2026-05-06T16:30:01Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "health",
-      "significance": 1,
-      "section": "society"
-    },
-    {
-      "id": "society/2026/may/06/doctors-archaic-attitudes-over-sterilisation",
-      "headline": "Doctors’ archaic attitudes over sterilisation",
-      "summary": "Reader recalls archaic NHS attitudes when seeking sterilisation on NHS in 1990s.",
-      "url": "https://www.theguardian.com/p/x5xczz",
-      "thumbnail": "https://media.guim.co.uk/816e0d3c700f665d17d304285667aef1870498d5/61_0_530_424/500.jpg",
-      "published": "2026-05-06T16:28:40Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "health",
-      "significance": 1,
-      "section": "society"
-    },
-    {
-      "id": "football/2026/may/06/antoine-griezmann-diego-simeone-champions-league-semi-final-end-of-an-era",
-      "headline": "As Griezmann exits, could this also be the end of Simeone’s era at Atlético?",
-      "summary": "Griezmann's departure raises questions about Diego Simeone's future at Atlético Madrid.",
-      "url": "https://www.theguardian.com/p/x5xnm9",
-      "thumbnail": "https://media.guim.co.uk/92dd69d724b4902bf74f7239ea08ed730d2066c2/0_188_5598_4478/500.jpg",
-      "published": "2026-05-06T16:26:24Z",
-      "location": {
-        "name": "Madrid",
-        "lat": 40.4168,
-        "lng": -3.7038
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "uk-news/2026/may/06/jordan-linden-former-snp-council-leader-jailed-sexual-offences-young-men-boys",
-      "headline": "Former SNP council leader jailed for sexual offences against young men and boys",
-      "summary": "Former SNP council leader Jordan Linden jailed 18 months for sexual offences against minors.",
-      "url": "https://www.theguardian.com/p/x5xgmb",
-      "thumbnail": "https://media.guim.co.uk/5b85a1e308c33c1d8aa2f7b5581d6e824ac626f6/135_0_4240_3392/500.jpg",
-      "published": "2026-05-06T16:20:28Z",
-      "location": {
-        "name": "Scotland",
-        "lat": 56.4907,
-        "lng": -4.2026
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "politics/2026/may/06/pat-mcfadden-keir-starmer-local-elections",
-      "headline": "One of the last true believers, Pat McFadden is sent out to defend kryptonite Keir",
-      "summary": "Pat McFadden defends PM Keir Starmer ahead of local elections amid party concerns.",
-      "url": "https://www.theguardian.com/p/x5xnp8",
-      "thumbnail": "https://media.guim.co.uk/26bc78fa44702a41a96f5be801a824d3e7a670a0/136_0_2500_2000/500.jpg",
-      "published": "2026-05-06T16:20:01Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "commentisfree/2026/may/06/vaping-angela-rayner-voters-deputy-pm",
-      "headline": "Carry on vaping, Angela Rayner: voters might just like you for it",
-      "summary": "Angela Rayner gives up vaping as potential successor to Keir Starmer eyes leadership.",
-      "url": "https://www.theguardian.com/p/x5xn3z",
-      "thumbnail": "https://media.guim.co.uk/3fdd986032d32254b4d1b3227885f981c687e908/310_0_5426_4340/500.jpg",
-      "published": "2026-05-06T16:17:43Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "commentisfree"
-    },
-    {
-      "id": "uk-news/2026/may/06/trainline-middle-east-tensions-european-rail-bookings-profits-jump",
-      "headline": "Trainline says Middle East tensions hitting European rail bookings ",
-      "summary": "Trainline reports Middle East tensions hitting European rail bookings despite record profits.",
-      "url": "https://www.theguardian.com/p/x5xn28",
-      "thumbnail": "https://media.guim.co.uk/259eb524d8df0f343b7f38f1686395c4701b45c1/181_0_3793_3035/500.jpg",
-      "published": "2026-05-06T16:15:54Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "politics/2026/may/06/disaffected-scottish-voters-may-deny-snp-fifth-term",
-      "headline": "‘I am losing faith’: disaffected Scottish voters may deny SNP a majority",
-      "summary": "Scottish parliament election unpredictable as disaffected SNP voters consider Labour.",
-      "url": "https://www.theguardian.com/p/x5xnx8",
-      "thumbnail": "https://media.guim.co.uk/d1e50e7d3b9100a8cfda67d52d4c23c8d622e2d6/1461_23_4535_3628/500.jpg",
-      "published": "2026-05-06T16:12:02Z",
-      "location": {
-        "name": "Scotland",
-        "lat": 56.4907,
-        "lng": -4.2026
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "sport/2026/may/06/emma-raducanu-french-open-tennis",
-      "headline": "Raducanu’s road leads from Rome to a French Open fitness race and questions beyond",
-      "summary": "Emma Raducanu's French Open hopes in doubt after late Italian Open withdrawal.",
-      "url": "https://www.theguardian.com/p/x5xmeq",
-      "thumbnail": "https://media.guim.co.uk/c30c70279cf89c0ce87521d13f560107d5ece4cf/1586_178_3114_2491/500.jpg",
-      "published": "2026-05-06T16:08:18Z",
-      "location": {
-        "name": "Rome",
-        "lat": 41.9028,
-        "lng": 12.4964
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
     },
     {
       "id": "football/live/2026/may/06/bayern-munich-v-paris-saint-germain-champions-league-semi-final-second-leg-live",
@@ -1686,6 +1350,246 @@
       "category": "culture",
       "significance": 1,
       "section": "thefilter"
+    },
+    {
+      "id": "business/2026/may/07/senate-democrats-brendan-carr-abc",
+      "headline": "Senate Democrats press top media regulator Brendan Carr to back off ABC",
+      "summary": "Senate Democrats demand FCC chair Brendan Carr rescind order challenging ABC's television licenses.",
+      "url": "https://www.theguardian.com/p/x5xp3z",
+      "thumbnail": "https://media.guim.co.uk/e0170b5a023ecf9d478880ee2e1cd2b42631a37b/458_0_4585_3668/500.jpg",
+      "published": "2026-05-07T17:00:22Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "commentisfree/2026/may/07/ted-turner-cnn-paramount-skydance",
+      "headline": "CNN was Ted Turner’s brainchild. It faces a precarious future",
+      "summary": "Ted Turner, CNN founder and media mogul, dies at 87; legacy faces uncertain future.",
+      "url": "https://www.theguardian.com/p/x522j3",
+      "thumbnail": "https://media.guim.co.uk/211096af2bba2f7a591f59e1b87f1f608fd2af87/845_0_4261_3408/500.jpg",
+      "published": "2026-05-07T17:00:21Z",
+      "location": {
+        "name": "Atlanta",
+        "lat": 33.749,
+        "lng": -84.388
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "commentisfree"
+    },
+    {
+      "id": "uk-news/2026/may/07/two-men-guilty-spying-for-china-uk-wai-yuen",
+      "headline": "Two men first in British history to be found guilty of spying for China",
+      "summary": "Two men convicted of spying for China in UK's first such prosecution; surveillance of dissidents.",
+      "url": "https://www.theguardian.com/p/x522b4",
+      "thumbnail": "https://media.guim.co.uk/2d96b3e4e44272c621d82a7503558e8f0ed8fac9/1030_0_3046_2436/500.jpg",
+      "published": "2026-05-07T16:43:06Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "uk-news"
+    },
+    {
+      "id": "money/2026/may/07/changes-in-how-firms-select-candidates-can-transform-workforces",
+      "headline": "Changes in how firms select candidates can transform workforces ",
+      "summary": "Letter discusses inclusive hiring practices and workforce transformation in UK firms.",
+      "url": "https://www.theguardian.com/p/x5xcxe",
+      "thumbnail": "https://media.guim.co.uk/17b8563c432463f9bbc5520ffa7826e7b5fd6624/255_0_6856_5485/500.jpg",
+      "published": "2026-05-07T16:37:14Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 1,
+      "section": "money"
+    },
+    {
+      "id": "politics/2026/may/07/affordable-fresh-food-is-the-recipe-for-a-healthy-britain",
+      "headline": "Affordable fresh food is the recipe for a healthy Britain ",
+      "summary": "UK food prices surge linked to rising malnutrition; affordable fresh food access critical.",
+      "url": "https://www.theguardian.com/p/x5xzxt",
+      "thumbnail": "https://media.guim.co.uk/3afb61b9d442e855a002a4b95e2b2fd4d47dfaf4/496_0_3346_2677/500.jpg",
+      "published": "2026-05-07T16:35:10Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "politics/2026/may/07/the-british-public-need-to-be-better-prepared-for-emergencies",
+      "headline": "The British public need to be better prepared for emergencies",
+      "summary": "Cross-party Lords committee develops plan to improve UK public emergency preparedness.",
+      "url": "https://www.theguardian.com/p/x5xnd8",
+      "thumbnail": "https://media.guim.co.uk/062e8e7a6c757b217520313b0673c9afc9be5e1b/1377_0_5185_4150/500.jpg",
+      "published": "2026-05-07T16:34:01Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "lifeandstyle/2026/may/07/top-tier-fun-can-be-had-on-the-buses",
+      "headline": "Top-tier fun can be had on the buses",
+      "summary": "Brief letters on bus travel, butterfly sightings, speed limits, and aging.",
+      "url": "https://www.theguardian.com/p/x52x9k",
+      "thumbnail": "https://media.guim.co.uk/b23a9c7389e7e3f2034568de851f7e68e33a09b2/0_573_2437_1949/500.jpg",
+      "published": "2026-05-07T16:31:12Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "lifeandstyle"
+    },
+    {
+      "id": "football/2026/may/07/usmnt-johnny-cardoso-injury-world-cup",
+      "headline": "USMNT’s Johnny Cardoso sprains ankle five weeks out from World Cup",
+      "summary": "USMNT's Johnny Cardoso suffers high-grade ankle sprain five weeks before World Cup.",
+      "url": "https://www.theguardian.com/p/x522ty",
+      "thumbnail": "https://media.guim.co.uk/64b7c0938141fb860a8725c07edb6fde3696b7f1/351_0_3002_2403/500.jpg",
+      "published": "2026-05-07T16:29:26Z",
+      "location": {
+        "name": "Madrid",
+        "lat": 40.4168,
+        "lng": -3.7038
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "music/2026/may/07/billie-eilish-james-cameron-concert-film-review",
+      "headline": "Billie Eilish – Hit Me Hard and Soft: The Tour review – style trumps substance in James Cameron’s 3D oddity",
+      "summary": "James Cameron's 3D Billie Eilish concert film criticized for style over musical substance.",
+      "url": "https://www.theguardian.com/p/x522h7",
+      "thumbnail": "https://media.guim.co.uk/675059cad6c31f2f1885169cc73ac38fe0153053/0_296_3120_2497/500.jpg",
+      "published": "2026-05-07T16:28:43Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "music"
+    },
+    {
+      "id": "world/2026/may/07/trump-project-freedom-saudi-arabia-strait-of-hormuz",
+      "headline": "Trump shelved ‘Project Freedom’ after Saudis refused use of bases and airspace",
+      "summary": "Saudi Arabia refused US base access, causing Trump to shelve 'Project Freedom' tanker escort operation.",
+      "url": "https://www.theguardian.com/p/x522dv",
+      "thumbnail": "https://media.guim.co.uk/5760101a3c7cc4eabc7d9e45ad8e76c606653bdf/537_0_5000_4000/500.jpg",
+      "published": "2026-05-07T16:23:28Z",
+      "location": {
+        "name": "Riyadh",
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "politics/2026/may/07/parties-election-climate-abuse-campaign-trail",
+      "headline": "‘Worst year in memory’: parties describe climate of abuse on campaign trail for May elections",
+      "summary": "UK election candidates report severe abuse, death threats during May local and devolved elections.",
+      "url": "https://www.theguardian.com/p/x5224y",
+      "thumbnail": "https://media.guim.co.uk/f223c7608d916d82d587f00be02b40c62941f2ee/245_0_2675_2140/500.jpg",
+      "published": "2026-05-07T16:23:10Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "world/2026/may/07/where-cruise-ship-hantavirus-from-what-next-canary-islands",
+      "headline": "Where did the cruise ship hantavirus come from and what happens next?",
+      "summary": "Cruise ship hantavirus outbreak; passengers heading to Canary Islands for repatriation.",
+      "url": "https://www.theguardian.com/p/x52x3e",
+      "thumbnail": "https://media.guim.co.uk/99433ec2b7f7b06f44c9fd70b55bf9c85ff4c2c6/606_130_2055_1644/500.jpg",
+      "published": "2026-05-07T16:20:13Z",
+      "location": {
+        "name": "Las Palmas",
+        "lat": 28.0469,
+        "lng": -15.5964
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "world/2026/may/07/uk-scientology-buildings-speed-runs-tiktok-trend",
+      "headline": "UK Scientology buildings targeted for ‘speed runs’ as TikTok trend spreads",
+      "summary": "UK Scientology buildings targeted by teenagers in viral TikTok 'speed run' trend.",
+      "url": "https://www.theguardian.com/p/x5xz3n",
+      "thumbnail": "https://media.guim.co.uk/728ce4e1c6a84907bc88307965478af075961f59/904_680_2471_1978/500.jpg",
+      "published": "2026-05-07T16:17:19Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "world"
+    },
+    {
+      "id": "education/2026/may/07/mo-farah-against-cut-school-sports-england",
+      "headline": "Mo Farah urges against possible £120m cut to school sports in England",
+      "summary": "Mo Farah and sports bodies urge UK government to reconsider £120m cuts to school sports funding.",
+      "url": "https://www.theguardian.com/p/x52xgf",
+      "thumbnail": "https://media.guim.co.uk/2e62b6de28f8985050cfa7402f2ad63a56b10d68/212_0_2120_1696/500.jpg",
+      "published": "2026-05-07T16:09:48Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "education"
+    },
+    {
+      "id": "uk-news/2026/may/07/man-arrested-near-home-of-andrew-mountbatten-windsor",
+      "headline": "Man arrested near home of Andrew Mountbatten-Windsor",
+      "summary": "Man arrested near home of Andrew Mountbatten-Windsor on suspicion of public order offence.",
+      "url": "https://www.theguardian.com/p/x522e6",
+      "thumbnail": "https://media.guim.co.uk/def14da397654510e3ea3289c101e65a1bbf6a83/149_0_2331_1864/500.jpg",
+      "published": "2026-05-07T16:04:08Z",
+      "location": {
+        "name": "Wolferton",
+        "lat": 52.8156,
+        "lng": 0.4106
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "uk-news"
     }
   ]
 }
