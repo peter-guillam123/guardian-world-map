@@ -1,140 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-07T07:45:30.343Z",
-    "story_count": 101,
-    "oldest_story": "2026-05-06T08:41:04Z",
-    "newest_story": "2026-05-07T07:39:58Z",
+    "generated_at": "2026-05-07T10:10:41.010Z",
+    "story_count": 104,
+    "oldest_story": "2026-05-06T10:58:54Z",
+    "newest_story": "2026-05-07T10:08:19Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "australia-news/2026/may/06/islamic-state-linked-australian-children-syria-states-resettle-ntwnfb",
-      "headline": "Two Australian states prepare to resettle children from Syrian detention camp with most bound for Melbourne ",
-      "summary": "Australian states prepare to resettle IS-linked children returning from Syrian detention camps.",
-      "url": "https://www.theguardian.com/p/x5xm2d",
-      "thumbnail": "https://media.guim.co.uk/1017686f5451d5957dd77c3cd0f07a10993bd75c/535_0_5000_4000/500.jpg",
-      "published": "2026-05-06T09:07:01Z",
-      "location": {
-        "name": "Melbourne",
-        "lat": -37.8136,
-        "lng": 144.9631
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "politics/live/2026/may/06/local-elections-labour-starmer-greens-polanski-red-cross-reform-tories-conservatives-lib-dems-latest-news-updates",
-      "headline": "Polanski accuses Times of ‘scraping the barrel’ over his claim to be charity spokesperson – UK politics live",
-      "summary": "Green party leader faces scrutiny over Red Cross spokesperson claim amid local elections.",
-      "url": "https://www.theguardian.com/p/x5xypm",
-      "thumbnail": "https://media.guim.co.uk/9a2d54f37ed42546cad51cefd08b7c41233265cf/129_0_5000_3999/500.jpg",
-      "published": "2026-05-06T09:04:44Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "world/live/2026/may/06/europe-eu-spain-sanchez-trump-icc-sanctions-merz-ukraine-russia-latest-news-updates",
-      "headline": "Canary Islands government rejects hantavirus-hit cruise ship’s plans to dock there – Europe live",
-      "summary": "Hantavirus-hit cruise ship denied docking at Canary Islands over public safety concerns.",
-      "url": "https://www.theguardian.com/p/x5xmvp",
-      "thumbnail": "https://media.guim.co.uk/cda8dd967b5d0543371f2d29e73d43e9e1e852af/318_0_2835_2268/500.jpg",
-      "published": "2026-05-06T09:03:33Z",
-      "location": {
-        "name": "Canary Islands",
-        "lat": 28.2916,
-        "lng": -16.6291
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "sport/2026/may/06/jordan-lucas-volleyball-celebrations",
-      "headline": "Viral volleyball star Jordan Lucas: ‘I’m celebrating like NFL players, just in a more feminine way’",
-      "summary": "Cal State Northridge volleyball player Jordan Lucas discusses viral celebrations and flamboyant style.",
-      "url": "https://www.theguardian.com/p/x5xhtj",
-      "thumbnail": "https://media.guim.co.uk/59671d1bc306742b8ef14b07d255d48f4ddd8271/478_203_1997_1597/500.jpg",
-      "published": "2026-05-06T09:00:05Z",
-      "location": {
-        "name": "Los Angeles",
-        "lat": 34.0522,
-        "lng": -118.2437
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "us-news/2026/may/06/florida-infant-born-twice",
-      "headline": "Florida baby ‘born twice’ after elaborate surgery involving partial delivery",
-      "summary": "Florida infant undergoes innovative surgery involving partial delivery before full birth.",
-      "url": "https://www.theguardian.com/p/x5xj3e",
-      "thumbnail": "https://media.guim.co.uk/d9cb050ae5f90d0e42cf7dc17c28378044fb3a2d/0_820_3072_2455/500.jpg",
-      "published": "2026-05-06T09:00:05Z",
-      "location": {
-        "name": "Florida",
-        "lat": 27.9947,
-        "lng": -81.7603
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "business/live/2026/may/06/oil-prices-retreat-global-stocks-hit-record-highs-trump-great-progress-iran-deal-live-updates",
-      "headline": "Oil prices retreat and global stocks hit record highs after Trump hails ‘great progress’ on Iran deal – business live",
-      "summary": "Trump signals progress on Iran nuclear deal as oil prices retreat and stocks hit records.",
-      "url": "https://www.theguardian.com/p/x5xyjf",
-      "thumbnail": "https://media.guim.co.uk/0e5ed7d1051946c40ffdefad0334d7f47225b102/384_0_3840_3072/500.jpg",
-      "published": "2026-05-06T08:59:56Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "business"
-    },
-    {
-      "id": "business/2026/may/06/uk-regulator-launches-review-of-aggressive-claims-management-firms-amid-compensation-concerns",
-      "headline": "UK regulator launches review of ‘aggressive’ claims management firms amid compensation concerns",
-      "summary": "UK regulator investigates aggressive claims management firms over misleading compensation tactics.",
-      "url": "https://www.theguardian.com/p/x5xyym",
-      "thumbnail": "https://media.guim.co.uk/8cd50ed1f84b150570cf89b00f8790fa7d575fb8/32_23_3816_3054/500.jpg",
-      "published": "2026-05-06T08:49:35Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "uk-news/2026/may/06/proxies-carrying-out-antisemitic-attacks-in-uk-could-face-14-years-in-prison",
-      "headline": "Proxies carrying out antisemitic attacks in UK could face 14 years in prison",
-      "summary": "UK legislation to impose 14-year prison terms on proxies carrying out antisemitic attacks.",
-      "url": "https://www.theguardian.com/p/x5xmx7",
-      "thumbnail": "https://media.guim.co.uk/f80e129f4860ec1a100cac4e2dcd0f0709e769a5/356_0_3559_2847/500.jpg",
-      "published": "2026-05-06T08:41:04Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "uk-news"
-    },
     {
       "id": "business/2026/may/06/jd-wetherspoon-third-profit-warning-this-year-rising-costs-tim-martin",
       "headline": "JD Wetherspoon issues third profit warning this year as costs climb",
@@ -1622,6 +1494,182 @@
       "category": "economy",
       "significance": 2,
       "section": "australia-news"
+    },
+    {
+      "id": "world/live/2026/may/07/middle-east-crisis-iran-trump-us-negotiations-deal-war-peace-proposal-hormuz-latest-news-updates",
+      "headline": "Middle East crisis live: Iran reviewing peace proposal as Trump says a deal ‘very possible’",
+      "summary": "Iran reviews peace proposal as Trump signals deal possible amid Middle East tensions.",
+      "url": "https://www.theguardian.com/p/x52vtb",
+      "thumbnail": "https://media.guim.co.uk/003088a8c2be8023b7dd82225d80cfb7e3feab08/178_935_3541_2833/500.jpg",
+      "published": "2026-05-07T10:08:19Z",
+      "location": {
+        "name": "Beirut",
+        "lat": 33.3137,
+        "lng": 35.4926
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "world/live/2026/may/07/ukraine-russia-drones-latvia-hungary-bulgaria-latest-news-updates",
+      "headline": "Rubio set to meet Pope Leo in bid to ease tensions after Trump’s criticism of the pontiff - Europe live",
+      "summary": "Rubio meets Pope Leo to ease tensions after Trump's criticism over Iran war stance.",
+      "url": "https://www.theguardian.com/p/x52vhz",
+      "thumbnail": "https://media.guim.co.uk/e2cb8164b2bbcd721de185a4c9290d60b5dc4f36/839_74_1891_1513/500.jpg",
+      "published": "2026-05-07T10:08:00Z",
+      "location": {
+        "name": "Vatican City",
+        "lat": 41.9029,
+        "lng": 12.4534
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "business/live/2026/may/07/iran-deal-shell-profits-oil-gas-stock-markets-business-live",
+      "headline": "Iran deal optimism pushes oil price down; UK builders hit by surge in costs – business live",
+      "summary": "Iran deal optimism pushes oil prices down; UK builders hit by surge in costs.",
+      "url": "https://www.theguardian.com/p/x52v9e",
+      "thumbnail": "https://media.guim.co.uk/dfb54a1cf9ef8d8a890cc9db5fcb0f412d25e2e0/10_0_4583_3667/500.jpg",
+      "published": "2026-05-07T10:04:02Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "football/2026/may/07/liverpool-scrap-plans-over-anfield-ticket-prices-rise-following-supporter-protests",
+      "headline": "Liverpool scrap plans over Anfield ticket prices rise following supporter protests",
+      "summary": "Liverpool scraps three-year ticket price increase after supporter protests.",
+      "url": "https://www.theguardian.com/p/x52x4c",
+      "thumbnail": "https://media.guim.co.uk/c8ba7ea50f65016c8d7f24b1234031ce4a1f08bc/401_0_3020_2416/500.jpg",
+      "published": "2026-05-07T09:49:17Z",
+      "location": {
+        "name": "Liverpool",
+        "lat": 53.4308,
+        "lng": -2.9613
+      },
+      "category": "sport",
+      "significance": 1,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/may/07/khadija-shaw-leave-manchester-city-contract-ends-chelsea-sign",
+      "headline": "Khadija Shaw to leave Manchester City with Chelsea favourites to seal deal",
+      "summary": "Khadija Shaw to leave Manchester City; Chelsea favourites to sign Jamaica striker.",
+      "url": "https://www.theguardian.com/p/x5xbyp",
+      "thumbnail": "https://media.guim.co.uk/52f2ac54b373965d2200b3de21609d7203f71d5e/212_0_1906_1525/500.jpg",
+      "published": "2026-05-07T09:30:44Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "world/2026/may/07/two-britons-self-isolating-in-uk-after-returning-hantavirus-ship",
+      "headline": "Britons on hantavirus-hit ship to be asked to isolate back in UK for 45 days",
+      "summary": "Two Britons self-isolating after returning from hantavirus-hit cruise ship.",
+      "url": "https://www.theguardian.com/p/x52vgf",
+      "thumbnail": "https://media.guim.co.uk/918060044c586062cd303fc220ba7dd5ce44bd4e/521_202_866_693/500.jpg",
+      "published": "2026-05-07T09:23:47Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "business/2026/may/07/jd-sports-warns-iran-war-could-hit-consumer-spending-and-raise-prices",
+      "headline": "JD Sports says Iran war could hit consumer spending and raise prices",
+      "summary": "JD Sports warns Iran war could hit consumer spending and raise retail prices.",
+      "url": "https://www.theguardian.com/p/x52ve3",
+      "thumbnail": "https://media.guim.co.uk/ed5a17474bca3a3ac752e4b6d037ac2e589a3c3c/593_0_5028_4022/500.jpg",
+      "published": "2026-05-07T09:02:58Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "global-development/2026/may/07/sadia-moalim-ali-woman-somalia-jail-peaceful-protest",
+      "headline": " Woman jailed in Somalia for peaceful protest ‘stripped, kicked and beaten’",
+      "summary": "Somali woman jailed for peaceful protest describes torture by prison guards.",
+      "url": "https://www.theguardian.com/p/x5v22j",
+      "thumbnail": "https://media.guim.co.uk/fe44d013c7925bafe8ad4b9f19c1f5cf76234097/150_0_1500_1201/500.jpg",
+      "published": "2026-05-07T09:00:45Z",
+      "location": {
+        "name": "Mogadishu",
+        "lat": 2.0469,
+        "lng": 45.3182
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "global-development"
+    },
+    {
+      "id": "technology/2026/may/07/no-one-has-done-this-in-the-wild-study-observes-ai-replicate-itself",
+      "headline": "‘No one has done this in the wild’: study observes AI replicate itself",
+      "summary": "Study reveals AI systems can independently replicate themselves on other computers.",
+      "url": "https://www.theguardian.com/p/x5xz94",
+      "thumbnail": "https://media.guim.co.uk/1325e5369e8ac8a35b682c227fe1dcefd5411516/456_0_4349_3479/500.jpg",
+      "published": "2026-05-07T09:00:44Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "tech",
+      "significance": 3,
+      "section": "technology"
+    },
+    {
+      "id": "sport/2026/may/07/uar-bernard-nfl-philadelphia-eagles",
+      "headline": "Uar Bernard: the ‘rarest physical specimen’ who exposes the NFL’s scouting flaws",
+      "summary": "Philadelphia Eagles' Uar Bernard highlights NFL's scouting gaps and global talent potential.",
+      "url": "https://www.theguardian.com/p/x5xn5c",
+      "thumbnail": "https://media.guim.co.uk/7ef0c0f1a21a6292a67a688e6a4800e6f2198117/1266_619_6427_5141/500.jpg",
+      "published": "2026-05-07T09:00:44Z",
+      "location": {
+        "name": "Philadelphia",
+        "lat": 39.9526,
+        "lng": -75.1652
+      },
+      "category": "sport",
+      "significance": 1,
+      "section": "sport"
+    },
+    {
+      "id": "lifeandstyle/ng-interactive/2026/may/07/now-the-village-is-dead-its-awful-why-was-one-of-britains-best-pubs-forced-to-close",
+      "headline": "‘Now the village is dead. It’s awful’: why was one of Britain’s best pubs forced to close?",
+      "summary": "Historic Lakeland pub forced to close after rent doubled amid England's pub crisis.",
+      "url": "https://www.theguardian.com/p/x4a37y",
+      "thumbnail": null,
+      "published": "2026-05-07T09:00:44Z",
+      "location": {
+        "name": "Bowland Bridge",
+        "lat": 54.3641,
+        "lng": -2.9513
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "lifeandstyle"
     }
   ]
 }
