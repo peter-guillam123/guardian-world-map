@@ -1,156 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-07T17:03:39.606Z",
-    "story_count": 99,
-    "oldest_story": "2026-05-06T17:09:39Z",
-    "newest_story": "2026-05-07T17:00:22Z",
+    "generated_at": "2026-05-07T18:57:42.334Z",
+    "story_count": 101,
+    "oldest_story": "2026-05-06T19:42:32Z",
+    "newest_story": "2026-05-07T18:57:32Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "sport/2026/may/06/cocodona-250-ultramarathon-runner-dies",
-      "headline": "Runner dies after medical emergency during 253-mile ultramarathon in Arizona",
-      "summary": "Runner dies during 253-mile Cocodona ultramarathon in Arizona desert.",
-      "url": "https://www.theguardian.com/p/x5xz8y",
-      "thumbnail": "https://media.guim.co.uk/dac63dff45f958ea6a790110f3df0442d78ae1cf/727_0_3561_2848/500.jpg",
-      "published": "2026-05-06T17:10:23Z",
-      "location": {
-        "name": "Arizona",
-        "lat": 33.7298,
-        "lng": -111.4312
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "world/2026/may/06/donald-trump-iran-war-deal-us-bombing",
-      "headline": "Trump tells Iran to accept deal or face new wave of US bombing",
-      "summary": "Trump issues ultimatum to Iran: accept deal or face new wave of US bombing.",
-      "url": "https://www.theguardian.com/p/x5xmzm",
-      "thumbnail": "https://media.guim.co.uk/71dc26f1dc4c4034dd08ad4096e47307766ae48e/981_0_4914_3930/500.jpg",
-      "published": "2026-05-06T17:09:39Z",
-      "location": {
-        "name": "Iran",
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "football/live/2026/may/06/bayern-munich-v-paris-saint-germain-champions-league-semi-final-second-leg-live",
-      "headline": "Bayern Munich v Paris Saint-Germain: Champions League semi-final, second leg – live",
-      "summary": "Bayern Munich faces PSG in Champions League semi-final second leg with Arsenal final at stake.",
-      "url": "https://www.theguardian.com/p/x5xtht",
-      "thumbnail": "https://media.guim.co.uk/90a82f3de7b376281899bd980fc5b40716aa508d/349_0_4732_3786/500.jpg",
-      "published": "2026-05-06T18:57:18Z",
-      "location": {
-        "name": "Munich",
-        "lat": 48.1351,
-        "lng": 11.582
-      },
-      "category": "sport",
-      "significance": 4,
-      "section": "football"
-    },
-    {
-      "id": "politics/2026/may/06/nigel-farage-finance-parliament-salary-reform",
-      "headline": "Nigel Farage’s income since being elected MP has hit £2m, analysis shows",
-      "summary": "Nigel Farage's income as MP reaches £2m including parliamentary salary since July 2024.",
-      "url": "https://www.theguardian.com/p/x5xz4d",
-      "thumbnail": "https://media.guim.co.uk/4ab03cc974f58fe126bd644f3e9e24ab4f3d9f30/641_688_4140_3312/500.jpg",
-      "published": "2026-05-06T18:57:13Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "world/2026/may/06/polymarket-israel-iran-war-arrest",
-      "headline": "Keep quiet ‘so we don’t go to jail’: Israeli suspects charged with bribery after suspicious bets placed on Iran strikes",
-      "summary": "Israeli suspects charged with bribery after using classified military info to bet on Iran strikes.",
-      "url": "https://www.theguardian.com/p/x4pj5b",
-      "thumbnail": "https://media.guim.co.uk/119b4b7ea762be1954a6d03d22eae7de1eaae0c2/168_0_2500_2000/500.jpg",
-      "published": "2026-05-06T18:40:29Z",
-      "location": {
-        "name": "Tel Aviv",
-        "lat": 32.0853,
-        "lng": 34.7818
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "us-news/2026/may/06/looksmaxxing-clavicular-florida-alligator",
-      "headline": "Influencer Clavicular faces charges in Florida tied to alligator shooting video",
-      "summary": "Florida influencer Clavicular faces charges for shooting alligator in Everglades live stream.",
-      "url": "https://www.theguardian.com/p/x5xzh8",
-      "thumbnail": "https://media.guim.co.uk/2288df033a2e112ba4b6203e2a1bbd46ddc59306/335_169_2571_2057/500.jpg",
-      "published": "2026-05-06T18:37:38Z",
-      "location": {
-        "name": "Miami",
-        "lat": 25.7617,
-        "lng": -80.1918
-      },
-      "category": "other",
-      "significance": 1,
-      "section": "us-news"
-    },
-    {
-      "id": "football/2026/may/06/arsenal-immortality-champions-league",
-      "headline": "Arsenal no longer fear falling short and now have clear sight of immortality",
-      "summary": "Arsenal seeks immortality with two trophies within reach after beating Atlético Madrid.",
-      "url": "https://www.theguardian.com/p/x5xnz7",
-      "thumbnail": "https://media.guim.co.uk/63664f082286e97a3f26b1a6c6bf1b4b5e8be6fa/274_0_3522_2818/500.jpg",
-      "published": "2026-05-06T18:00:26Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "politics/2026/may/06/uk-voters-battle-over-bills-energy-crisis-linked-green-experts",
-      "headline": "‘Climate solutions will bring down bills and restore nature’: green issues and May elections",
-      "summary": "Climate solutions can lower bills and restore nature ahead of UK May local elections.",
-      "url": "https://www.theguardian.com/p/x5xnbv",
-      "thumbnail": "https://media.guim.co.uk/4a2bebb57d6896efa4b2eb80b6e579f7ef0e9988/0_0_5760_4608/500.jpg",
-      "published": "2026-05-06T17:59:30Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "politics/2026/may/06/andy-burnham-labour-anger-appearance-greens-change-now",
-      "headline": "Burnham sparks Labour anger with plan to appear at event alongside Greens",
-      "summary": "Andy Burnham's appearance with Greens sparks Labour anger over local election messaging.",
-      "url": "https://www.theguardian.com/p/x5xmt6",
-      "thumbnail": "https://media.guim.co.uk/bba14c0c12ba9683911995f6490e8422c935eaae/259_0_5000_4000/500.jpg",
-      "published": "2026-05-06T17:53:34Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4808,
-        "lng": -2.2426
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
     {
       "id": "tv-and-radio/2026/may/06/amandaland-series-two-review-file-this-mesmerising-comedy-icon-next-to-alan-partridge-and-david-brent",
       "headline": "Amandaland series two review – file this mesmerising comedy icon next to Alan Partridge and David Brent",
@@ -1590,6 +1446,182 @@
       "category": "politics",
       "significance": 2,
       "section": "uk-news"
+    },
+    {
+      "id": "football/live/2026/may/07/aston-villa-v-nottingham-forest-europa-league-semi-final-second-leg-live",
+      "headline": "Aston Villa v Nottingham Forest: Europa League semi-final, second leg – live",
+      "summary": "Aston Villa faces Nottingham Forest in Europa League semi-final second leg at Villa Park.",
+      "url": "https://www.theguardian.com/p/x5xm44",
+      "thumbnail": "https://media.guim.co.uk/6a108c8e9cfdd76b8797e0c568ee06d81e4381a4/379_0_5000_4000/500.jpg",
+      "published": "2026-05-07T18:57:32Z",
+      "location": {
+        "name": "Birmingham",
+        "lat": 52.5086,
+        "lng": -1.8853
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "football/live/2026/may/07/crystal-palace-v-shakhtar-donetsk-europa-conference-league-semi-final-second-leg-live",
+      "headline": "Crystal Palace v Shakhtar Donetsk: Europa Conference League semi-final, second leg – live",
+      "summary": "Crystal Palace hosts Shakhtar Donetsk in Europa Conference League semi-final second leg.",
+      "url": "https://www.theguardian.com/p/x5xm8k",
+      "thumbnail": "https://media.guim.co.uk/87f28103f9dfc95e88f9f30dc60b8466ad5ced8f/0_0_3282_2626/500.jpg",
+      "published": "2026-05-07T18:46:49Z",
+      "location": {
+        "name": "London",
+        "lat": 51.3981,
+        "lng": -0.0856
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/may/07/real-madrid-fede-valverde-has-stitches-after-fight-with-aurelien-tchouameni",
+      "headline": "Real Madrid’s Valverde has stitches after fight with teammate Tchouaméni",
+      "summary": "Real Madrid's Valverde receives stitches after altercation with teammate Tchouaméni.",
+      "url": "https://www.theguardian.com/p/x52344",
+      "thumbnail": "https://media.guim.co.uk/6d7aa4f2a64e9d6366ef658fa59c99e016d36795/275_0_3100_2479/500.jpg",
+      "published": "2026-05-07T18:40:15Z",
+      "location": {
+        "name": "Madrid",
+        "lat": 40.4168,
+        "lng": -3.7038
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/may/07/tennessee-congressional-map-redistricting",
+      "headline": "Tennessee Republicans redraw maps to erase last Democratic, Black-majority district",
+      "summary": "Tennessee Republicans redraw congressional maps to eliminate last Democratic Black-majority district.",
+      "url": "https://www.theguardian.com/p/x52xn2",
+      "thumbnail": "https://media.guim.co.uk/426ff6beb26f39814722ec590942241831d79fa8/999_0_5001_4000/500.jpg",
+      "published": "2026-05-07T18:36:49Z",
+      "location": {
+        "name": "Tennessee",
+        "lat": 35.7478,
+        "lng": -86.6923
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "uk-news/2026/may/07/annabel-rook-london-stoke-newington-murder-trial-court",
+      "headline": "Woman killed by partner at home in London feared ‘he was on the warpath’, court hears",
+      "summary": "Woman killed by partner at London home had warned he was 'on the warpath' weeks prior.",
+      "url": "https://www.theguardian.com/p/x522pb",
+      "thumbnail": "https://media.guim.co.uk/aefd75109ea848c227dc81301e071bbe9129a247/0_137_613_490/500.jpg",
+      "published": "2026-05-07T18:21:10Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "business/nils-pratley-on-finance/2026/may/07/gas-fired-power-still-looks-a-safe-bet-for-centrica-in-the-renewables-era",
+      "headline": "Gas-fired power still looks a safe bet for Centrica in the renewables era",
+      "summary": "Centrica's gas-fired power investment at Severn plant remains financially viable in renewables era.",
+      "url": "https://www.theguardian.com/p/x52xq4",
+      "thumbnail": "https://media.guim.co.uk/ca80abae53b3c91f7e4ac24d458ef248c97e6d57/218_0_5600_4480/500.jpg",
+      "published": "2026-05-07T18:15:35Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "world/2026/may/07/us-and-iran-close-to-temporary-truce-pakistani-officials-claim",
+      "headline": "US and Iran close to temporary truce, Pakistani officials claim",
+      "summary": "US and Iran reportedly close to temporary truce to halt Middle East war, Pakistani officials claim.",
+      "url": "https://www.theguardian.com/p/x522kn",
+      "thumbnail": "https://media.guim.co.uk/c0a33c9acb9d1490223c5de1f3f2e9033fdfeaa2/310_0_5000_4000/500.jpg",
+      "published": "2026-05-07T18:13:05Z",
+      "location": {
+        "name": "Tehran",
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "us-news/2026/may/07/fbi-defends-kash-patel-custom-whiskey-bottles",
+      "headline": "FBI defends Kash Patel after report alleging he gifts custom whiskey bottles",
+      "summary": "FBI defends Kash Patel after Atlantic report alleges he distributed custom whiskey bottles as gifts.",
+      "url": "https://www.theguardian.com/p/x52323",
+      "thumbnail": "https://media.guim.co.uk/635047581dd5ab5a0810c57e555b57393e955a33/370_0_3693_2955/500.jpg",
+      "published": "2026-05-07T18:00:54Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/may/07/psg-v-arsenal-six-factors-that-could-decide-the-champions-league-final",
+      "headline": "PSG v Arsenal: six factors that could decide the Champions League final ",
+      "summary": "PSG faces Arsenal in Champions League final with six key factors determining outcome.",
+      "url": "https://www.theguardian.com/p/x522xq",
+      "thumbnail": "https://media.guim.co.uk/0d6a718b531b945de66c3065481e51b81c1f28b8/0_0_4987_3989/500.jpg",
+      "published": "2026-05-07T18:00:23Z",
+      "location": {
+        "name": "Paris",
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "category": "sport",
+      "significance": 4,
+      "section": "football"
+    },
+    {
+      "id": "uk-news/2026/may/07/ian-watkins-lostprophets-singer-accused-boasted-guards-fame-court-told",
+      "headline": "Prisoner accused of Lostprophets singer’s murder boasted to guards about fame, court told",
+      "summary": "Prisoner accused of murdering Lostprophets singer boasted to guards about fame after attack.",
+      "url": "https://www.theguardian.com/p/x522qd",
+      "thumbnail": "https://media.guim.co.uk/50744e642c02583ec287408b695ca43e032e0559/0_509_2200_1759/500.jpg",
+      "published": "2026-05-07T17:56:41Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "world/2026/may/07/iran-mocks-donald-trump-project-freedom",
+      "headline": "Iran mocks Trump’s ‘Project Freedom’ as adversaries wrestle over talks to end war",
+      "summary": "Iran mocks Trump's 'Project Freedom' as Saudi Arabia reportedly blocks US military base access.",
+      "url": "https://www.theguardian.com/p/x522zv",
+      "thumbnail": "https://media.guim.co.uk/5c68fd39add45d7978fd0c3ecb29b57df22ce8e7/833_0_4167_3333/500.jpg",
+      "published": "2026-05-07T17:54:36Z",
+      "location": {
+        "name": "Tehran",
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "world"
     }
   ]
 }
