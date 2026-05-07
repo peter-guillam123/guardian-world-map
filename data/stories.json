@@ -1,108 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-07T22:39:08.234Z",
-    "story_count": 109,
-    "oldest_story": "2026-05-06T22:49:53Z",
-    "newest_story": "2026-05-07T22:37:24Z",
+    "generated_at": "2026-05-07T23:36:30.113Z",
+    "story_count": 106,
+    "oldest_story": "2026-05-07T00:27:38Z",
+    "newest_story": "2026-05-07T23:00:30Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "world/ng-interactive/2026/may/07/tame-the-water-or-let-it-flow-new-zealand-grapples-with-how-to-protect-its-braided-rivers",
-      "headline": "Tame the water or let it flow? New Zealand grapples with how to protect its braided rivers",
-      "summary": "New Zealand debates intervention vs. preservation of rare braided river systems.",
-      "url": "https://www.theguardian.com/p/x4pqzb",
-      "thumbnail": "https://media.guim.co.uk/eb693cde00975f2f8ed7db3184dda47cf26d63fb/243_0_7277_5822/500.jpg",
-      "published": "2026-05-06T23:32:05Z",
-      "location": {
-        "name": "Christchurch",
-        "lat": -43.5321,
-        "lng": 172.6362
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "us-news/2026/may/06/jeffrey-epstein-alleged-suicide-note",
-      "headline": "Alleged suicide note written by Jeffrey Epstein unsealed by federal judge",
-      "summary": "Jeffrey Epstein's alleged suicide note unsealed by federal judge in 2019 incident.",
-      "url": "https://www.theguardian.com/p/x5xpjn",
-      "thumbnail": "https://media.guim.co.uk/1e3e5e2f6f3501befb629560ffe172a54ce3f016/181_6_2227_1782/500.jpg",
-      "published": "2026-05-06T23:11:28Z",
-      "location": {
-        "name": "New York City",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "commentisfree/2026/may/07/the-guardian-view-on-a-cryptic-crossword-landmark-30000-grids-of-noble-trickery",
-      "headline": "The Guardian view on a cryptic crossword landmark: 30,000 grids of noble trickery",
-      "summary": "Guardian celebrates 30,000th cryptic crossword puzzle milestone after nearly a century.",
-      "url": "https://www.theguardian.com/p/x4qdta",
-      "thumbnail": "https://media.guim.co.uk/dd955a82dd0068efb0a52aff0b1e53c7c59c3851/1584_0_7920_6336/500.jpg",
-      "published": "2026-05-06T23:01:32Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "commentisfree"
-    },
-    {
-      "id": "technology/2026/may/06/shivon-zilis-testimony-elon-musk-openai-lawsuit",
-      "headline": "Shivon Zilis, mother of four of Elon Musk’s children, testifies in OpenAI trial",
-      "summary": "Shivon Zilis testifies in Elon Musk's lawsuit against OpenAI over governance disputes.",
-      "url": "https://www.theguardian.com/p/x5xzaz",
-      "thumbnail": "https://media.guim.co.uk/f222d1c4f28560087c5d72edd603b477299de542/203_0_1987_1590/500.jpg",
-      "published": "2026-05-06T22:58:58Z",
-      "location": {
-        "name": "San Francisco",
-        "lat": 37.7749,
-        "lng": -122.4194
-      },
-      "category": "tech",
-      "significance": 3,
-      "section": "technology"
-    },
-    {
-      "id": "football/2026/may/06/khvicha-kvaratskhelia-paris-saint-germain-psg-champions-league-bayern-munich-luis-enrique",
-      "headline": "Kvaratskhelia is perfect attacking scalpel for PSG’s surgical brilliance",
-      "summary": "PSG defeats Bayern Munich in Champions League semifinal; Kvaratskhelia's performance praised.",
-      "url": "https://www.theguardian.com/p/x5xz6e",
-      "thumbnail": "https://media.guim.co.uk/2e8741aa3088488173d9280976cbcaf9a704152d/819_0_4066_3252/500.jpg",
-      "published": "2026-05-06T22:54:21Z",
-      "location": {
-        "name": "Munich",
-        "lat": 48.1351,
-        "lng": 11.582
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/may/06/vincent-kompany-refereeing-bayern-munich-paris-saint-germain-psg-champions-league",
-      "headline": "‘Too much went against us’: Kompany laments refereeing as Bayern go out",
-      "summary": "Kompany criticizes refereeing decisions as Bayern exits Champions League to PSG.",
-      "url": "https://www.theguardian.com/p/x5xz6q",
-      "thumbnail": "https://media.guim.co.uk/5cd2bee6814a64e61b6c8ad3d91d92e76e8038c0/352_0_3879_3103/500.jpg",
-      "published": "2026-05-06T22:49:53Z",
-      "location": {
-        "name": "Munich",
-        "lat": 48.1351,
-        "lng": 11.582
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
     {
       "id": "world/2026/may/07/ukraine-war-briefing-putin-threat-foreign-embassies-kyiv",
       "headline": "Ukraine war briefing: Putin threat to foreign embassies in Kyiv ",
@@ -1750,6 +1654,54 @@
       "category": "sport",
       "significance": 2,
       "section": "sport"
+    },
+    {
+      "id": "football/2026/may/08/premier-league-10-things-to-look-out-for-this-weekend",
+      "headline": "Premier League: 10 things to look out for this weekend",
+      "summary": "Premier League weekend preview highlights key matchups including Liverpool vs Chelsea and Arsenal vs West Ham.",
+      "url": "https://www.theguardian.com/p/x5xn83",
+      "thumbnail": "https://media.guim.co.uk/36575859a6b294f1fb546c0ee9ee5de98474ecde/0_0_5000_4000/500.jpg",
+      "published": "2026-05-07T23:00:30Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "technology/2026/may/08/uk-schools-remove-pupils-photos-online-ai-blackmail-threat-grows",
+      "headline": "UK schools should remove pupils’ online photos as AI blackmail threat grows, say experts",
+      "summary": "UK schools urged to remove pupils' photos from online platforms as AI-generated blackmail threat escalates.",
+      "url": "https://www.theguardian.com/p/x52v5b",
+      "thumbnail": "https://media.guim.co.uk/d95928e9f50fd04fa2c00f6b7b7ae080b1146273/244_0_5151_4122/500.jpg",
+      "published": "2026-05-07T23:00:29Z",
+      "location": {
+        "name": "United Kingdom",
+        "lat": 55.3781,
+        "lng": -3.436
+      },
+      "category": "tech",
+      "significance": 2,
+      "section": "technology"
+    },
+    {
+      "id": "football/2026/may/07/aston-villa-must-prove-thy-are-not-nearly-men-says-john-mcginn",
+      "headline": "Aston Villa must prove they are not the ‘nearly men’ in Istanbul, warns McGinn",
+      "summary": "Aston Villa reaches first Europa League final since 1982 with dominant 4-0 victory over Nottingham Forest.",
+      "url": "https://www.theguardian.com/p/x52445",
+      "thumbnail": "https://media.guim.co.uk/00d66cdd598ff9fa313504589572cef30830aad4/0_0_2996_2397/500.jpg",
+      "published": "2026-05-07T22:47:47Z",
+      "location": {
+        "name": "Istanbul",
+        "lat": 41.0082,
+        "lng": 28.9784
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
     }
   ]
 }
