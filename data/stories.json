@@ -1,108 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-07T04:55:36.418Z",
-    "story_count": 99,
-    "oldest_story": "2026-05-06T05:47:15Z",
-    "newest_story": "2026-05-07T04:31:51Z",
+    "generated_at": "2026-05-07T07:45:30.343Z",
+    "story_count": 101,
+    "oldest_story": "2026-05-06T08:41:04Z",
+    "newest_story": "2026-05-07T07:39:58Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "world/live/2026/may/06/trump-iran-hormuz-us-project-freedom-live-updates-middle-east-crisis",
-      "headline": "Middle East crisis live: Trump changes strait of Hormuz plan again as Rubio says US offensive is ‘over’",
-      "summary": "Trump pauses Project Freedom after one day; US-Iran tensions ease briefly over Strait of Hormuz.",
-      "url": "https://www.theguardian.com/p/x5xkd7",
-      "thumbnail": "https://media.guim.co.uk/04807939ddcc3588b275275006c5e2599a03881d/881_0_6269_5018/500.jpg",
-      "published": "2026-05-06T06:35:49Z",
-      "location": {
-        "name": "Strait of Hormuz",
-        "lat": 26.55,
-        "lng": 56.25
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "australia-news/2026/may/06/women-children-syria-families-australia-return-ntwnfb",
-      "headline": "Charges flagged as women and children from IS-linked families set to fly from Syria to Australia",
-      "summary": "Australian women linked to IS may face arrest upon return from Syria; government takes hardline stance.",
-      "url": "https://www.theguardian.com/p/x5xkcc",
-      "thumbnail": "https://media.guim.co.uk/2d831afc07aeb96dc73faaa21a16d90227a0940f/661_0_5600_4480/500.jpg",
-      "published": "2026-05-06T06:14:11Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "travel/2026/may/06/schlachthofviertel-neighbourhood-germany-munich-underground-scene",
-      "headline": "‘The heart of Munich’s underground scene’: exploring edgy Schlachthofviertel",
-      "summary": "Schlachthofviertel district offers edgy underground scene beyond Munich's touristy beer halls.",
-      "url": "https://www.theguardian.com/p/x4znjz",
-      "thumbnail": "https://media.guim.co.uk/dafde8f17383680cd9022324335272af5b43b7c2/0_43_2717_2174/500.jpg",
-      "published": "2026-05-06T06:00:03Z",
-      "location": {
-        "name": "Munich",
-        "lat": 48.1351,
-        "lng": 11.582
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "travel"
-    },
-    {
-      "id": "politics/2026/may/06/reform-uk-professionalisation-essex-local-elections",
-      "headline": "Apps, activists and an ‘air war’: Essex campaign is test of Reform UK’s professionalisation",
-      "summary": "Reform UK tests professionalisation strategy in Essex local elections with sleeker approach.",
-      "url": "https://www.theguardian.com/p/x4q27q",
-      "thumbnail": "https://media.guim.co.uk/045affb1084c80403c09e4bb6a605cabdf448d5b/0_5_3736_2989/500.jpg",
-      "published": "2026-05-06T06:00:01Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "global-development/2026/may/06/lucie-kamusekera-artist-tapestry-goma-congo-drc-war-history",
-      "headline": "Stitches in time: the artist chronicling the DRC’s blood-soaked history in tapestry ",
-      "summary": "Artist Lucie Kamusekera chronicles DRC's decades of conflict through handstitched tapestries.",
-      "url": "https://www.theguardian.com/p/x5v776",
-      "thumbnail": "https://media.guim.co.uk/2a7090c231ee11d2ce2e33f2250178e16737ba35/235_0_7062_5650/500.jpg",
-      "published": "2026-05-06T06:00:00Z",
-      "location": {
-        "name": "Goma",
-        "lat": -1.6833,
-        "lng": 29.2333
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "global-development"
-    },
-    {
-      "id": "world/2026/may/06/wednesday-briefing-how-trumps-attempt-to-reopen-to-strait-of-hormuz-brought-war-closer-again",
-      "headline": "Wednesday briefing: How Trump’s attempt to reopen to strait of Hormuz brought war closer again",
-      "summary": "Trump's Strait of Hormuz initiative strains fragile US-Iran ceasefire, increases war risk.",
-      "url": "https://www.theguardian.com/p/x5xgkp",
-      "thumbnail": "https://media.guim.co.uk/e48f49ebdec4feaaca0b0b50347f9246e92dddb5/361_0_4583_3667/500.jpg",
-      "published": "2026-05-06T05:47:15Z",
-      "location": {
-        "name": "Strait of Hormuz",
-        "lat": 26.55,
-        "lng": 56.25
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
     {
       "id": "australia-news/2026/may/06/islamic-state-linked-australian-children-syria-states-resettle-ntwnfb",
       "headline": "Two Australian states prepare to resettle children from Syrian detention camp with most bound for Melbourne ",
@@ -1590,6 +1494,134 @@
       "category": "culture",
       "significance": 2,
       "section": "film"
+    },
+    {
+      "id": "politics/live/2026/may/07/may-local-elections-polls-open-england-scotland-wales-uk-politics-latest-news-updates",
+      "headline": "May elections live: millions cast their votes across England, Scotland and Wales ",
+      "summary": "Millions vote in May elections across England, Scotland, and Wales for councils and parliaments.",
+      "url": "https://www.theguardian.com/p/x52veq",
+      "thumbnail": "https://media.guim.co.uk/5ffec3463d0bbba7539021bb42b95840beefaa88/437_0_2750_2200/500.jpg",
+      "published": "2026-05-07T07:39:58Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "politics"
+    },
+    {
+      "id": "world/2026/may/07/marco-rubio-to-meet-pope-at-the-vatican-after-trump-attacks-on-pontiff",
+      "headline": "Marco Rubio to meet pope at the Vatican after Trump attacks on pontiff",
+      "summary": "US Secretary of State Rubio meets Pope Leo to ease tensions after Trump's papal criticism.",
+      "url": "https://www.theguardian.com/p/x5xm4j",
+      "thumbnail": "https://media.guim.co.uk/1bb8bca06e7d5a66d9a2ad491a0a380c20b9be1b/250_0_3300_2640/500.jpg",
+      "published": "2026-05-07T07:35:27Z",
+      "location": {
+        "name": "Vatican City",
+        "lat": 41.9029,
+        "lng": 12.4534
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "australia-news/2026/may/07/is-linked-families-land-australia-from-syria-arrests-ntwnfb",
+      "headline": "First plane carrying IS-linked family members lands in Australia, with police expected to make arrests",
+      "summary": "13 women and children from Syrian detention camps arrive in Australia; arrests expected.",
+      "url": "https://www.theguardian.com/p/x52vbv",
+      "thumbnail": "https://media.guim.co.uk/8e811e8e357fd1053076b4f32051f3ff0306cbb6/843_0_4108_3288/500.jpg",
+      "published": "2026-05-07T07:31:28Z",
+      "location": {
+        "name": "Melbourne",
+        "lat": -37.8136,
+        "lng": 144.9631
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "football/2026/may/07/manchester-city-wsl-title-triumph-andree-jeglertz-rebecca-knaak-khadija-shaw",
+      "headline": "Knaak’s tears, Jeglertz’s calm, Shaw’s goals: the story of Manchester City’s WSL title triumph",
+      "summary": "Manchester City women claim first WSL title in 10 years with dramatic final victory.",
+      "url": "https://www.theguardian.com/p/x5xypn",
+      "thumbnail": "https://media.guim.co.uk/4aa5b93e96cf90a5ffeb6f6fb7e3f3f382cd15b9/10_66_4677_3742/500.jpg",
+      "published": "2026-05-07T07:00:43Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/may/07/michael-carrick-has-the-light-touch-manchester-united-need-for-next-chapter",
+      "headline": "Michael Carrick has the light touch Manchester United need for next chapter",
+      "summary": "Michael Carrick's Manchester United form suggests he deserves permanent managerial role.",
+      "url": "https://www.theguardian.com/p/x5xz4t",
+      "thumbnail": "https://media.guim.co.uk/715eeef67e1f3dc3a317a54f7f27ee6e7456e3cb/205_0_2054_1643/500.jpg",
+      "published": "2026-05-07T07:00:43Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "commentisfree/2026/may/07/technique-heal-britain-division-hard-right-radical-listening-constituency-volunteers",
+      "headline": "Imagine a technique that can heal Britain of division and keep out the hard right. I call it ‘radical listening’",
+      "summary": "George Monbiot advocates 'radical listening' technique to bridge British political divisions.",
+      "url": "https://www.theguardian.com/p/x5xhaj",
+      "thumbnail": "https://media.guim.co.uk/5d3b450e4a0c5e69771bf94be244b56927f0c872/417_0_4167_3333/500.jpg",
+      "published": "2026-05-07T07:00:41Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "commentisfree"
+    },
+    {
+      "id": "stage/2026/may/07/ashley-gavin-review-glee-club-glasgow",
+      "headline": "Ashley Gavin review – a close look at the clitoris, gender and the ‘manly’ business of getting pregnant",
+      "summary": "Ashley Gavin delivers acclaimed stand-up comedy on gender, masculinity, and pregnancy.",
+      "url": "https://www.theguardian.com/p/x5xmmp",
+      "thumbnail": "https://media.guim.co.uk/4f3db6229b62aece58f15ff06b778dfc0c280996/52_0_2023_1618/500.jpg",
+      "published": "2026-05-07T07:00:41Z",
+      "location": {
+        "name": "Glasgow",
+        "lat": 55.8642,
+        "lng": -4.2518
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "stage"
+    },
+    {
+      "id": "australia-news/2026/may/07/afternoon-update-thursday-ntwnfb",
+      "headline": "Afternoon Update: Labor’s gas reservation plan; snowfall in several states; and inside the making of Moulin Rouge",
+      "summary": "Australia mandates gas companies reserve 20% export volumes domestically from July 2027.",
+      "url": "https://www.theguardian.com/p/x5xpgk",
+      "thumbnail": "https://media.guim.co.uk/056893a4d367d41c01569b75a4c86f5c518a3ae4/76_0_4379_3504/500.jpg",
+      "published": "2026-05-07T06:59:52Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "australia-news"
     }
   ]
 }
