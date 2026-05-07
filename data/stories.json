@@ -1,76 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-07T21:29:35.569Z",
-    "story_count": 106,
-    "oldest_story": "2026-05-06T21:30:30Z",
-    "newest_story": "2026-05-07T21:22:16Z",
+    "generated_at": "2026-05-07T22:39:08.234Z",
+    "story_count": 109,
+    "oldest_story": "2026-05-06T22:49:53Z",
+    "newest_story": "2026-05-07T22:37:24Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "business/2026/may/06/fertiliser-shortages-iran-war-global-food-prices-farming",
-      "headline": "Fertiliser shortages will have ‘dramatic’ effect on global food prices, warns farming boss",
-      "summary": "Fertiliser shortages from Iran war could drive up global food prices dramatically next year, UK farming boss warns.",
-      "url": "https://www.theguardian.com/p/x5xh9x",
-      "thumbnail": "https://media.guim.co.uk/092d4ed5c9128efab0181ae7fcc8c25a3b2d2429/152_0_2293_1834/500.jpg",
-      "published": "2026-05-06T21:30:30Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "business"
-    },
-    {
-      "id": "football/2026/may/06/manchester-city-wsl-title-winners-2025-26-player-ratings",
-      "headline": "Manchester City’s WSL title winners 2025-26: player-by-player ratings",
-      "summary": "Manchester City win WSL title for second time as Arsenal draw with Brighton.",
-      "url": "https://www.theguardian.com/p/x5xgny",
-      "thumbnail": "https://media.guim.co.uk/6169f3a634fefb57fac370ac464dc8e5f61ac66a/0_0_5000_4000/500.jpg",
-      "published": "2026-05-06T21:30:30Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4808,
-        "lng": -2.2426
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "politics/2026/may/06/starmer-late-pitch-voters-labour-greens-reform-elections",
-      "headline": "Keir Starmer makes late pitch to voters turning to Greens and Reform",
-      "summary": "Keir Starmer pitches to voters as Labour faces record-breaking losses in Thursday's local elections.",
-      "url": "https://www.theguardian.com/p/x5xnad",
-      "thumbnail": "https://media.guim.co.uk/a5b25da30df911cc4ffb9aad04b1312218b1b52f/279_0_3042_2433/500.jpg",
-      "published": "2026-05-06T21:30:30Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "commentisfree/2026/may/07/antisemitism-royal-commission-bondi-dying-jewish-mother-ntwnfb",
-      "headline": "‘Now when I go to Bondi I think about dying’: words no Jewish mother should hear from her daughter",
-      "summary": "Royal commission into antisemitism hears testimony about Jewish community's fear and safety concerns in Sydney.",
-      "url": "https://www.theguardian.com/p/x5xk2v",
-      "thumbnail": "https://media.guim.co.uk/50d95549bd5994debc9be38b524a865e7cf6bd06/513_0_7857_6286/500.jpg",
-      "published": "2026-05-06T22:16:52Z",
-      "location": {
-        "name": "Bondi",
-        "lat": -33.8912,
-        "lng": 151.2745
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "commentisfree"
-    },
     {
       "id": "world/ng-interactive/2026/may/07/tame-the-water-or-let-it-flow-new-zealand-grapples-with-how-to-protect-its-braided-rivers",
       "headline": "Tame the water or let it flow? New Zealand grapples with how to protect its braided rivers",
@@ -1702,6 +1638,118 @@
       "category": "economy",
       "significance": 2,
       "section": "business"
+    },
+    {
+      "id": "politics/live/2026/may/07/elections-2026-local-scotland-wales-reform-green-labour-conservatives-live-news-updates",
+      "headline": "Elections 2026 live: counting under way after votes in England, Scotland and Wales",
+      "summary": "UK elections held in England, Scotland and Wales with results expected overnight and through midday.",
+      "url": "https://www.theguardian.com/p/x52x5y",
+      "thumbnail": "https://media.guim.co.uk/f29ecaefdf453b89b018214e342d5046bc65ab90/113_0_4120_3296/500.jpg",
+      "published": "2026-05-07T22:37:24Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "politics"
+    },
+    {
+      "id": "us-news/2026/may/07/lapd-teen-death-not-liable",
+      "headline": "Jury finds LA police officer not liable in death of teen hit by stray bullet in 2021",
+      "summary": "LAPD officer found not liable in death of 14-year-old hit by stray bullet in 2021 clothing store shooting.",
+      "url": "https://www.theguardian.com/p/x5242c",
+      "thumbnail": "https://media.guim.co.uk/2436d4c66cce17ec44e215ea66cfeef6d4f490e0/293_0_2915_2333/500.jpg",
+      "published": "2026-05-07T22:36:40Z",
+      "location": {
+        "name": "Los Angeles",
+        "lat": 34.0522,
+        "lng": -118.2437
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "world/2026/may/07/iran-accuses-us-of-violating-ceasefire-by-targeting-civilian-areas-and-ships-on-strait-of-hormuz",
+      "headline": "Iran accuses US of violating ceasefire by targeting civilian areas and ships on strait of Hormuz",
+      "summary": "Iran accuses US of ceasefire violations targeting civilian areas and ships in strategic waterway.",
+      "url": "https://www.theguardian.com/p/x5244y",
+      "thumbnail": "https://media.guim.co.uk/60e181abdace2d3998267bca30ead36acaee883b/390_453_4017_3214/500.jpg",
+      "published": "2026-05-07T22:32:10Z",
+      "location": {
+        "name": "Strait of Hormuz",
+        "lat": 26.5667,
+        "lng": 56.25
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "football/2026/may/07/calm-emiliano-buendia-provides-class-amid-the-cacophony-to-propel-aston-villa-into-final-europa-league",
+      "headline": "Calm Emiliano Buendía provides class amid the cacophony to propel Aston Villa into final",
+      "summary": "Aston Villa advances to Europa League final against Freiburg with Buendía's decisive penalty conversion.",
+      "url": "https://www.theguardian.com/p/x52427",
+      "thumbnail": "https://media.guim.co.uk/9b5a29f3c46dbf103e943c5a8e08a8656fa7e364/223_0_3151_2521/500.jpg",
+      "published": "2026-05-07T22:06:07Z",
+      "location": {
+        "name": "Birmingham",
+        "lat": 52.5086,
+        "lng": -1.8755
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "sport/2026/may/07/liv-golf-begins-new-era-after-withdrawal-of-saudi-funding-with-fans-still-unconvinced",
+      "headline": "LIV Golf and Bryson DeChambeau tee off new era but cannot escape Saudi shadow",
+      "summary": "LIV Golf begins new era at Trump National as rebel tour transitions away from Saudi direct funding.",
+      "url": "https://www.theguardian.com/p/x523jq",
+      "thumbnail": "https://media.guim.co.uk/3144209986f8bd47f2d5d3e2312c8849b75b70e8/459_0_4592_3673/500.jpg",
+      "published": "2026-05-07T21:51:43Z",
+      "location": {
+        "name": "Sterling",
+        "lat": 39.0438,
+        "lng": -77.4265
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "stage/2026/may/07/fourteen-again-review-the-victoria-wood-theatre",
+      "headline": "Fourteen Again review – make a new musical out of Victoria Wood’s warmly witty songs? Let’s do it!",
+      "summary": "Musical tribute to Victoria Wood premieres at renamed Lake District theatre, marking decade since her death.",
+      "url": "https://www.theguardian.com/p/x52x46",
+      "thumbnail": "https://media.guim.co.uk/a89ae22807d620735a98dc57e0622df0c40173af/819_71_2067_1654/500.jpg",
+      "published": "2026-05-07T21:45:27Z",
+      "location": {
+        "name": "Bowness-on-Windermere",
+        "lat": 54.3725,
+        "lng": -2.9547
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "stage"
+    },
+    {
+      "id": "sport/2026/may/07/exeter-chiefs-members-vote-in-favour-of-sale-to-afc-bournemouth-american-owners",
+      "headline": "Exeter Chiefs members vote in favour of sale to AFC Bournemouth’s American owners ",
+      "summary": "Exeter Chiefs members approve sale to American billionaire Bill Foley's Cannae Holdings Inc.",
+      "url": "https://www.theguardian.com/p/x523mz",
+      "thumbnail": "https://media.guim.co.uk/64c9a28df0ae7a7f8e47b231e7ddea49fb6a510c/742_0_3880_3104/500.jpg",
+      "published": "2026-05-07T21:35:27Z",
+      "location": {
+        "name": "Exeter",
+        "lat": 50.7184,
+        "lng": -3.5339
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
     }
   ]
 }
