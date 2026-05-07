@@ -1,108 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-07T01:23:08.123Z",
-    "story_count": 96,
-    "oldest_story": "2026-05-06T04:00:01Z",
-    "newest_story": "2026-05-07T01:05:09Z",
+    "generated_at": "2026-05-07T04:55:36.418Z",
+    "story_count": 99,
+    "oldest_story": "2026-05-06T05:47:15Z",
+    "newest_story": "2026-05-07T04:31:51Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "world/2026/may/06/stuck-in-the-mud-one-year-on-friedrich-merz-struggles-to-find-his-footing",
-      "headline": "‘Stuck in the mud’: one year on, Friedrich Merz struggles to find his footing",
-      "summary": "Chancellor Friedrich Merz faces historic low approval ratings one year into his tenure leading Germany.",
-      "url": "https://www.theguardian.com/p/x5xgmv",
-      "thumbnail": "https://media.guim.co.uk/fb6e0b9de2f96447e2ca06c0bf94d263b01f9a1f/300_614_703_563/500.jpg",
-      "published": "2026-05-06T04:00:03Z",
-      "location": {
-        "name": "Germany",
-        "lat": 51.1657,
-        "lng": 10.4515
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "business/2026/may/06/totally-grounded-how-the-jet-fuel-crisis-could-change-our-summer-holidays-and-world-history",
-      "headline": "Totally grounded? How the jet fuel crisis could change our summer holidays – and world history",
-      "summary": "Jet fuel prices doubled since Iran war began, threatening global aviation industry and summer travel plans.",
-      "url": "https://www.theguardian.com/p/x5xgjt",
-      "thumbnail": "https://media.guim.co.uk/e29885b7a1da90fead6d5b5b442482b42ccb923a/0_0_7215_5773/500.jpg",
-      "published": "2026-05-06T04:00:03Z",
-      "location": {
-        "name": "Iran",
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "category": "economy",
-      "significance": 4,
-      "section": "business"
-    },
-    {
-      "id": "world/2026/may/06/if-he-didnt-do-it-who-did-fresh-doubts-over-2007-case-that-gripped-italy",
-      "headline": "‘If he didn’t do it, who did?’: fresh doubts over 2007 murder case that gripped Italy ",
-      "summary": "Fresh DNA evidence in 2007 Chiara Poggi murder case raises questions about conviction and potential miscarriage.",
-      "url": "https://www.theguardian.com/p/x5xcmq",
-      "thumbnail": "https://media.guim.co.uk/a74bd821f4436978bd8e5778509d90a95b820dd2/97_0_1772_1417/500.jpg",
-      "published": "2026-05-06T04:00:03Z",
-      "location": {
-        "name": "Italy",
-        "lat": 41.8719,
-        "lng": 12.5674
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "tv-and-radio/2026/may/06/joanna-lumley-lucy-punch-return-amandaland",
-      "headline": "‘Everyone knows an Amanda!’ Joanna Lumley and Lucy Punch on the return of comedy smash, Amandaland",
-      "summary": "Comedy series Amandaland returns with Joanna Lumley and Lucy Punch celebrating two decades of collaboration.",
-      "url": "https://www.theguardian.com/p/x5v2h7",
-      "thumbnail": "https://media.guim.co.uk/d7edd3e1a2c67e0eb23d92420987bb36b0970172/0_546_5312_4246/500.jpg",
-      "published": "2026-05-06T04:00:02Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "tv-and-radio"
-    },
-    {
-      "id": "artanddesign/2026/may/06/lydia-ourahmane-venice-pier-bedlinen",
-      "headline": "Stick a euro in the slot for the lights! The mesmerising, strictly Venetian works of Lydia Ourahmane",
-      "summary": "British-Algerian artist Lydia Ourahmane presents Venice Biennale exhibition featuring coin-operated installations.",
-      "url": "https://www.theguardian.com/p/x4pt83",
-      "thumbnail": "https://media.guim.co.uk/af647c5b7c9c321b931396d46693e4da1694fc6c/0_1518_3958_3165/500.jpg",
-      "published": "2026-05-06T04:00:02Z",
-      "location": {
-        "name": "Venice",
-        "lat": 45.4408,
-        "lng": 12.3155
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "artanddesign"
-    },
-    {
-      "id": "business/2026/may/06/iran-war-food-prices-expensive-inflation-poll",
-      "headline": "Four in five Britons worried Iran war will make food more expensive, poll finds",
-      "summary": "80% of Britons worry Iran war will increase food prices as retailers urge government to cut energy costs.",
-      "url": "https://www.theguardian.com/p/x5xhcc",
-      "thumbnail": "https://media.guim.co.uk/7f8feb467dbab4e2989634faf71022bdd149b425/117_0_3472_2780/500.jpg",
-      "published": "2026-05-06T04:00:01Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
     {
       "id": "world/live/2026/may/06/trump-iran-hormuz-us-project-freedom-live-updates-middle-east-crisis",
       "headline": "Middle East crisis live: Trump changes strait of Hormuz plan again as Rubio says US offensive is ‘over’",
@@ -1542,6 +1446,150 @@
       "category": "economy",
       "significance": 2,
       "section": "us-news"
+    },
+    {
+      "id": "australia-news/2026/may/07/neo-nazi-joel-davis-charged-inciting-hatred-jewish-lobby-rally-ntwnfb",
+      "headline": "Neo-Nazi Joel Davis charged with inciting hatred over ‘Abolish the Jewish lobby’ rally at NSW parliament",
+      "summary": "Neo-Nazi Joel Davis charged with inciting hatred over antisemitic rally at NSW parliament.",
+      "url": "https://www.theguardian.com/p/x5xq62",
+      "thumbnail": "https://media.guim.co.uk/7ce68f368c254d1fd58c9adbfe96256f887f5fb3/0_148_1884_1507/500.jpg",
+      "published": "2026-05-07T04:31:51Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "australia-news"
+    },
+    {
+      "id": "environment/2026/may/07/country-diary-remembering-a-woman-who-gave-so-much-to-this-village",
+      "headline": "Country diary: Remembering a woman who gave so much to this village",
+      "summary": "Village remembers Lillian Watts, whose conservation efforts preserved local bird populations.",
+      "url": "https://www.theguardian.com/p/x5vezh",
+      "thumbnail": "https://media.guim.co.uk/a465bb8d4cb5df42c791c7980d740871dac23fa6/126_0_3780_3024/500.jpg",
+      "published": "2026-05-07T04:30:38Z",
+      "location": {
+        "name": "Inkpen",
+        "lat": 51.3667,
+        "lng": -1.5333
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "environment"
+    },
+    {
+      "id": "sport/2026/may/07/sportsbet-policy-change-rules-afl-gambling",
+      "headline": "Change in Sportsbet policy engulfs AFL identities amid scrutiny of gambling links ",
+      "summary": "Sportsbet policy change creates controversy among AFL identities with gambling company roles.",
+      "url": "https://www.theguardian.com/p/x5xqbb",
+      "thumbnail": "https://media.guim.co.uk/8ce81285e9ee50dd7d4472d39313168e60f3686f/202_0_2324_1858/500.jpg",
+      "published": "2026-05-07T04:24:31Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "world/2026/may/07/captive-elephants-rehomed-europe-first-sanctuary",
+      "headline": "Rewilding giants: captive elephants rehomed in Europe’s first sanctuary",
+      "summary": "Europe's first large-scale elephant sanctuary opens in Portugal to rehome captive animals.",
+      "url": "https://www.theguardian.com/p/x5vz8z",
+      "thumbnail": "https://media.guim.co.uk/2979879e13c1ec38fcfe749355fb396a43f78867/730_0_3732_2987/500.jpg",
+      "published": "2026-05-07T04:01:38Z",
+      "location": {
+        "name": "Lisbon",
+        "lat": 38.7223,
+        "lng": -9.1393
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "business/2026/may/07/lower-speed-limits-uk-oil-prices-ippr-thinktank",
+      "headline": "Cut UK speed limits to reduce Iran war impact on consumers, thinktank urges",
+      "summary": "Thinktank urges UK speed limit cuts to reduce fuel demand amid Iran war oil price impacts.",
+      "url": "https://www.theguardian.com/p/x5xtkg",
+      "thumbnail": "https://media.guim.co.uk/240c7f118f7bd9d04426fb64d05f64b23a375cc2/195_49_2258_1807/500.jpg",
+      "published": "2026-05-07T04:00:40Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "world/2026/may/07/revealed-russia-top-secret-spy-school-hacking-western-electoral-interference",
+      "headline": "Revealed: Russia’s top secret spy school teaching hacking and election meddling",
+      "summary": "Documents reveal Russia's secret spy school training operatives in hacking and election interference.",
+      "url": "https://www.theguardian.com/p/x5xggv",
+      "thumbnail": "https://media.guim.co.uk/5bfec0031039b1a9d7fbe62ec65d004e39533854/449_0_4560_3648/500.jpg",
+      "published": "2026-05-07T04:00:39Z",
+      "location": {
+        "name": "Moscow",
+        "lat": 55.7558,
+        "lng": 37.6173
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "world/2026/may/07/peter-magyar-climate-lgbtq-progressive-hungary",
+      "headline": "New Hungarian PM’s voters want action on climate and LGBTQ+ rights, poll finds",
+      "summary": "Poll shows Magyar voters demand climate action and LGBTQ+ rights protection from new government.",
+      "url": "https://www.theguardian.com/p/x5xz7m",
+      "thumbnail": "https://media.guim.co.uk/19cfd2746ec9bf7375ae73bcd2872e9a7defb32f/456_0_4558_3646/500.jpg",
+      "published": "2026-05-07T04:00:39Z",
+      "location": {
+        "name": "Budapest",
+        "lat": 47.4979,
+        "lng": 19.0402
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "sport/2026/may/07/cornish-pirates-champ-rugby-seven-figure-deal-us-private-equity-",
+      "headline": "Cornish Pirates boosted by ‘milestone’ seven-figure deal with US private equity firm",
+      "summary": "Cornish Pirates secure seven-figure investment from US private equity firm, first major deal for English rugby club.",
+      "url": "https://www.theguardian.com/p/x5xzjt",
+      "thumbnail": "https://media.guim.co.uk/46309f8d5f28ad04cfa4dcbf224d98e372fde9ec/213_0_2894_2315/500.jpg",
+      "published": "2026-05-07T04:00:39Z",
+      "location": {
+        "name": "Cornwall",
+        "lat": 50.2768,
+        "lng": -4.759
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "film/2026/may/07/chicken-hen-people-smuggling-film-gyorgy-palfi",
+      "headline": "‘Somehow you become the chicken’: inside the film about people-smuggling told through the eyes of a hen",
+      "summary": "Hungarian film 'Hen' tells people-smuggling story through perspective of eight trained birds.",
+      "url": "https://www.theguardian.com/p/x4zzcg",
+      "thumbnail": "https://media.guim.co.uk/9fb75e63a497971aabbf31635e33c70aed3226e0/534_0_2144_1716/500.jpg",
+      "published": "2026-05-07T04:00:38Z",
+      "location": {
+        "name": "Budapest",
+        "lat": 47.4979,
+        "lng": 19.0402
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "film"
     }
   ]
 }
