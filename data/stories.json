@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-05-07T18:57:42.334Z",
-    "story_count": 101,
-    "oldest_story": "2026-05-06T19:42:32Z",
-    "newest_story": "2026-05-07T18:57:32Z",
+    "generated_at": "2026-05-07T20:21:38.707Z",
+    "story_count": 105,
+    "oldest_story": "2026-05-06T20:24:22Z",
+    "newest_story": "2026-05-07T20:00:26Z",
     "window_hours": 24
   },
   "stories": [
@@ -38,22 +38,6 @@
       "category": "economy",
       "significance": 2,
       "section": "australia-news"
-    },
-    {
-      "id": "tv-and-radio/2026/may/06/ted-turner-obituary",
-      "headline": "Ted Turner obituary",
-      "summary": "Ted Turner, founder of CNN and media empire innovator, obituary.",
-      "url": "https://www.theguardian.com/p/x5xz98",
-      "thumbnail": "https://media.guim.co.uk/1bb65916c9b1b0ca4377d1527c66a69329ce4b85/54_0_3387_2710/500.jpg",
-      "published": "2026-05-06T19:42:32Z",
-      "location": {
-        "name": "Atlanta",
-        "lat": 33.749,
-        "lng": -84.388
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "tv-and-radio"
     },
     {
       "id": "business/2026/may/06/fertiliser-shortages-iran-war-global-food-prices-farming",
@@ -1620,6 +1604,86 @@
         "lng": 51.389
       },
       "category": "conflict",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "sport/2026/may/08/australia-golf-course-re-zoning",
+      "headline": "‘Very aware of these issues’: Golf Australia reveals plan to combat re-zoning of public courses",
+      "summary": "Golf Australia unveils five-year strategy to defend public courses from re-zoning threats.",
+      "url": "https://www.theguardian.com/p/x52vxt",
+      "thumbnail": "https://media.guim.co.uk/32bfd912443ac3ad8f371cf1c9ddc7aff3026a19/683_0_6827_5464/500.jpg",
+      "published": "2026-05-07T20:00:26Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "environment/2026/may/07/sprawling-city-public-transit-work-sydney-right-track",
+      "headline": "Can a sprawling city make public transit work? Sydney may be on the right track",
+      "summary": "Sydney invests in public transit expansion to combat transport emissions reaching peak by 2030.",
+      "url": "https://www.theguardian.com/p/x4mp8h",
+      "thumbnail": "https://media.guim.co.uk/1e319b088b0d0bdaff3838cbbf46461c7006956b/113_0_3447_2757/500.jpg",
+      "published": "2026-05-07T20:00:25Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "environment"
+    },
+    {
+      "id": "us-news/2026/may/07/splc-pleads-not-guilty-federal-fraud-case",
+      "headline": "Southern Poverty Law Center pleads not guilty in federal fraud case",
+      "summary": "Southern Poverty Law Center pleads not guilty to federal fraud charges in controversial case.",
+      "url": "https://www.theguardian.com/p/x523e8",
+      "thumbnail": "https://media.guim.co.uk/c0512c7d477a230f079d32ea4dff2265b7d16f49/495_0_4316_3452/500.jpg",
+      "published": "2026-05-07T19:45:38Z",
+      "location": {
+        "name": "Montgomery",
+        "lat": 32.3792,
+        "lng": -86.3077
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/may/07/middlesbrough-suspect-southampton-analyst-spying-training-playoffs",
+      "headline": "Middlesbrough suspect Southampton analyst of spying on training in runup to playoffs",
+      "summary": "Middlesbrough suspect Southampton analyst of spying on training before playoff matchup.",
+      "url": "https://www.theguardian.com/p/x523aq",
+      "thumbnail": "https://media.guim.co.uk/a55aabaab96d7594650c1015de00fbd778fb6b32/505_0_4641_3713/500.jpg",
+      "published": "2026-05-07T19:32:03Z",
+      "location": {
+        "name": "Middlesbrough",
+        "lat": 54.5747,
+        "lng": -1.2347
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "world/2026/may/07/two-britons-evacuated-hantavirus-hit-ship-improving-hospital",
+      "headline": "Two Britons evacuated from hantavirus-hit ship ‘improving’ in hospital",
+      "summary": "Two British evacuees from hantavirus-hit cruise ship improving in hospitals in South Africa and Netherlands.",
+      "url": "https://www.theguardian.com/p/x5235q",
+      "thumbnail": "https://media.guim.co.uk/7eaa77d1cb9e19ea77833b5615f9a4af8555c691/20_0_3659_2929/500.jpg",
+      "published": "2026-05-07T19:20:55Z",
+      "location": {
+        "name": "Johannesburg",
+        "lat": -26.2023,
+        "lng": 28.0436
+      },
+      "category": "health",
       "significance": 3,
       "section": "world"
     }
