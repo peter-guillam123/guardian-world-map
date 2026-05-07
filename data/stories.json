@@ -1,28 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-06T23:35:51.306Z",
-    "story_count": 94,
-    "oldest_story": "2026-05-05T23:54:38Z",
-    "newest_story": "2026-05-06T23:32:05Z",
+    "generated_at": "2026-05-07T01:23:08.123Z",
+    "story_count": 96,
+    "oldest_story": "2026-05-06T04:00:01Z",
+    "newest_story": "2026-05-07T01:05:09Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "us-news/2026/may/05/jon-husted-sherrod-brown-ohio-senate-primary",
-      "headline": "Jon Husted and Sherrod Brown set for Senate showdown after Ohio primary victories",
-      "summary": "Jon Husted and Sherrod Brown win Ohio primary races, setting up competitive Senate showdown in November.",
-      "url": "https://www.theguardian.com/p/x5xdp2",
-      "thumbnail": "https://media.guim.co.uk/34c8885addd6aa28c1c1b9d8285b3093ad30bcbd/0_0_1500_1200/500.jpg",
-      "published": "2026-05-05T23:54:38Z",
-      "location": {
-        "name": "Ohio",
-        "lat": 40.3888,
-        "lng": -82.7649
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
     {
       "id": "world/2026/may/06/stuck-in-the-mud-one-year-on-friedrich-merz-struggles-to-find-his-footing",
       "headline": "‘Stuck in the mud’: one year on, Friedrich Merz struggles to find his footing",
@@ -1510,6 +1494,54 @@
       "category": "sport",
       "significance": 3,
       "section": "football"
+    },
+    {
+      "id": "world/2026/may/07/ukraine-war-briefing-putin-threat-foreign-embassies-kyiv",
+      "headline": "Ukraine war briefing: Putin threat to foreign embassies in Kyiv ",
+      "summary": "Russia threatens strikes on Kyiv during Moscow Victory Day parade; Ukraine offers truce.",
+      "url": "https://www.theguardian.com/p/x5xpkm",
+      "thumbnail": "https://media.guim.co.uk/341b45878b388ad13fcb7d882f02ebebeeecc82b/1117_0_6627_5304/500.jpg",
+      "published": "2026-05-07T01:05:09Z",
+      "location": {
+        "name": "Kyiv",
+        "lat": 50.4501,
+        "lng": 30.5234
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "australia-news/2026/may/07/ask-your-questions-about-the-2026-australian-federal-budget",
+      "headline": "Ask your questions about the 2026 Australian federal budget",
+      "summary": "Australian federal budget questions sought ahead of Treasurer's fifth budget announcement.",
+      "url": "https://www.theguardian.com/p/x5x94j",
+      "thumbnail": "https://media.guim.co.uk/3d55af079b5624c9cd16aebe9f566f8bfd7cde05/168_0_4515_3612/500.jpg",
+      "published": "2026-05-07T00:40:09Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "us-news/2026/may/06/los-angeles-drug-arrests-park",
+      "headline": "Federal authorities arrest 18 people in Los Angeles park in drug crackdown",
+      "summary": "Federal authorities arrest 18 people in MacArthur Park drug crackdown targeting fentanyl market.",
+      "url": "https://www.theguardian.com/p/x5xpm9",
+      "thumbnail": "https://media.guim.co.uk/e4dce2b92e60b233696c7b9b15a937a9da583fe7/567_0_7200_5760/500.jpg",
+      "published": "2026-05-07T00:27:38Z",
+      "location": {
+        "name": "Los Angeles",
+        "lat": 34.0522,
+        "lng": -118.2437
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "us-news"
     }
   ]
 }
