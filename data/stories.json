@@ -1,92 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-08T18:58:37.502Z",
+    "generated_at": "2026-05-08T20:13:30.467Z",
     "story_count": 144,
-    "oldest_story": "2026-05-07T19:20:55Z",
-    "newest_story": "2026-05-08T18:46:56Z",
+    "oldest_story": "2026-05-07T20:50:32Z",
+    "newest_story": "2026-05-08T20:10:10Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "sport/2026/may/08/australia-golf-course-re-zoning",
-      "headline": "‘Very aware of these issues’: Golf Australia reveals plan to combat re-zoning of public courses",
-      "summary": "Golf Australia unveils five-year strategy to defend public courses from re-zoning threats.",
-      "url": "https://www.theguardian.com/p/x52vxt",
-      "thumbnail": "https://media.guim.co.uk/32bfd912443ac3ad8f371cf1c9ddc7aff3026a19/683_0_6827_5464/500.jpg",
-      "published": "2026-05-07T20:00:26Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "environment/2026/may/07/sprawling-city-public-transit-work-sydney-right-track",
-      "headline": "Can a sprawling city make public transit work? Sydney may be on the right track",
-      "summary": "Sydney invests in public transit expansion to combat transport emissions reaching peak by 2030.",
-      "url": "https://www.theguardian.com/p/x4mp8h",
-      "thumbnail": "https://media.guim.co.uk/1e319b088b0d0bdaff3838cbbf46461c7006956b/113_0_3447_2757/500.jpg",
-      "published": "2026-05-07T20:00:25Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "environment"
-    },
-    {
-      "id": "us-news/2026/may/07/splc-pleads-not-guilty-federal-fraud-case",
-      "headline": "Southern Poverty Law Center pleads not guilty in federal fraud case",
-      "summary": "Southern Poverty Law Center pleads not guilty to federal fraud charges in controversial case.",
-      "url": "https://www.theguardian.com/p/x523e8",
-      "thumbnail": "https://media.guim.co.uk/c0512c7d477a230f079d32ea4dff2265b7d16f49/495_0_4316_3452/500.jpg",
-      "published": "2026-05-07T19:45:38Z",
-      "location": {
-        "name": "Montgomery",
-        "lat": 32.3792,
-        "lng": -86.3077
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "football/2026/may/07/middlesbrough-suspect-southampton-analyst-spying-training-playoffs",
-      "headline": "Middlesbrough suspect Southampton analyst of spying on training in runup to playoffs",
-      "summary": "Middlesbrough suspect Southampton analyst of spying on training before playoff matchup.",
-      "url": "https://www.theguardian.com/p/x523aq",
-      "thumbnail": "https://media.guim.co.uk/a55aabaab96d7594650c1015de00fbd778fb6b32/505_0_4641_3713/500.jpg",
-      "published": "2026-05-07T19:32:03Z",
-      "location": {
-        "name": "Middlesbrough",
-        "lat": 54.5747,
-        "lng": -1.2347
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "world/2026/may/07/two-britons-evacuated-hantavirus-hit-ship-improving-hospital",
-      "headline": "Two Britons evacuated from hantavirus-hit ship ‘improving’ in hospital",
-      "summary": "Two British evacuees from hantavirus-hit cruise ship improving in hospitals in South Africa and Netherlands.",
-      "url": "https://www.theguardian.com/p/x5235q",
-      "thumbnail": "https://media.guim.co.uk/7eaa77d1cb9e19ea77833b5615f9a4af8555c691/20_0_3659_2929/500.jpg",
-      "published": "2026-05-07T19:20:55Z",
-      "location": {
-        "name": "Johannesburg",
-        "lat": -26.2023,
-        "lng": 28.0436
-      },
-      "category": "health",
-      "significance": 3,
-      "section": "world"
-    },
     {
       "id": "australia-news/live/2026/may/08/woman-charged-with-joining-islamic-state-syria-sydney-royal-commission-antisemitism-hearings-anthony-albanese-labor-angus-taylor-coalition-farrer-byelection-nsw-victoria-queensland-politics-ntwnfb",
       "headline": "Australia news live: woman to appear in court charged with joining Islamic State",
@@ -2310,6 +2230,86 @@
       "category": "sport",
       "significance": 2,
       "section": "football"
+    },
+    {
+      "id": "tv-and-radio/live/2026/may/08/david-attenboroughs-100-years-on-planet-earth-bbc-live",
+      "headline": "David Attenborough’s 100 Years on Planet Earth – live",
+      "summary": "David Attenborough celebrates 100th birthday at Royal Albert Hall with tributes and performances.",
+      "url": "https://www.theguardian.com/p/x526kk",
+      "thumbnail": "https://media.guim.co.uk/27908da4167dbc3c5e91fe171cdfb09a94382788/410_0_3711_2969/500.jpg",
+      "published": "2026-05-08T20:10:10Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "tv-and-radio"
+    },
+    {
+      "id": "politics/2026/may/08/labour-loses-control-of-birmingham-city-council-after-14-years-of-leadership",
+      "headline": "Labour loses control of Birmingham city council after 14 years of leadership",
+      "summary": "Labour loses control of Birmingham council after 14 years as Reform, Greens gain ground.",
+      "url": "https://www.theguardian.com/p/x5294a",
+      "thumbnail": "https://media.guim.co.uk/d6ea87d5773a6ea8db558b0a30f9266ea78ea8e5/798_223_4635_3707/500.jpg",
+      "published": "2026-05-08T20:01:44Z",
+      "location": {
+        "name": "Birmingham",
+        "lat": 52.5086,
+        "lng": -1.8853
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "tv-and-radio/2026/may/08/king-charles-birthday-tribute-film-david-attenborough-100",
+      "headline": "King Charles features in surprise birthday tribute to David Attenborough",
+      "summary": "King Charles appears in whimsical film delivering centenary tribute card to David Attenborough.",
+      "url": "https://www.theguardian.com/p/x527z5",
+      "thumbnail": "https://media.guim.co.uk/1667a85413b4ee6298df76de4bdb9625389a0b90/2727_0_10800_8640/500.jpg",
+      "published": "2026-05-08T19:50:36Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "tv-and-radio"
+    },
+    {
+      "id": "sport/2026/may/08/novak-djokovic-italian-open-tennis-french-open",
+      "headline": "Novak Djokovic accepts ‘new reality’ after returning with defeat at Italian Open",
+      "summary": "Novak Djokovic loses Italian Open return match to Dino Prizmic ahead of French Open.",
+      "url": "https://www.theguardian.com/p/x52983",
+      "thumbnail": "https://media.guim.co.uk/c9fd1d31ae865932534a05dc3492565bd9803f81/333_0_3335_2668/500.jpg",
+      "published": "2026-05-08T19:48:48Z",
+      "location": {
+        "name": "Rome",
+        "lat": 41.9028,
+        "lng": 12.4964
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "us-news/2026/may/08/pentagon-ufo-files",
+      "headline": "Pentagon releases first batch of previously secret files documenting reports of UFOs",
+      "summary": "Pentagon releases declassified UFO files including 1969 Buzz Aldrin lunar object account.",
+      "url": "https://www.theguardian.com/p/x527jv",
+      "thumbnail": "https://media.guim.co.uk/2f8ebc43e9fd1612b2aca9ed78b9321063374ef4/110_0_1080_864/500.jpg",
+      "published": "2026-05-08T19:06:38Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "tech",
+      "significance": 3,
+      "section": "us-news"
     }
   ]
 }
