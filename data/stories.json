@@ -1,60 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-07T23:36:30.113Z",
+    "generated_at": "2026-05-08T01:24:21.544Z",
     "story_count": 106,
-    "oldest_story": "2026-05-07T00:27:38Z",
-    "newest_story": "2026-05-07T23:00:30Z",
+    "oldest_story": "2026-05-07T04:00:38Z",
+    "newest_story": "2026-05-08T00:57:43Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "world/2026/may/07/ukraine-war-briefing-putin-threat-foreign-embassies-kyiv",
-      "headline": "Ukraine war briefing: Putin threat to foreign embassies in Kyiv ",
-      "summary": "Russia threatens strikes on Kyiv during Moscow Victory Day parade; Ukraine offers truce.",
-      "url": "https://www.theguardian.com/p/x5xpkm",
-      "thumbnail": "https://media.guim.co.uk/341b45878b388ad13fcb7d882f02ebebeeecc82b/1117_0_6627_5304/500.jpg",
-      "published": "2026-05-07T01:05:09Z",
-      "location": {
-        "name": "Kyiv",
-        "lat": 50.4501,
-        "lng": 30.5234
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "australia-news/2026/may/07/ask-your-questions-about-the-2026-australian-federal-budget",
-      "headline": "Ask your questions about the 2026 Australian federal budget",
-      "summary": "Australian federal budget questions sought ahead of Treasurer's fifth budget announcement.",
-      "url": "https://www.theguardian.com/p/x5x94j",
-      "thumbnail": "https://media.guim.co.uk/3d55af079b5624c9cd16aebe9f566f8bfd7cde05/168_0_4515_3612/500.jpg",
-      "published": "2026-05-07T00:40:09Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "us-news/2026/may/06/los-angeles-drug-arrests-park",
-      "headline": "Federal authorities arrest 18 people in Los Angeles park in drug crackdown",
-      "summary": "Federal authorities arrest 18 people in MacArthur Park drug crackdown targeting fentanyl market.",
-      "url": "https://www.theguardian.com/p/x5xpm9",
-      "thumbnail": "https://media.guim.co.uk/e4dce2b92e60b233696c7b9b15a937a9da583fe7/567_0_7200_5760/500.jpg",
-      "published": "2026-05-07T00:27:38Z",
-      "location": {
-        "name": "Los Angeles",
-        "lat": 34.0522,
-        "lng": -118.2437
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "us-news"
-    },
     {
       "id": "australia-news/2026/may/07/neo-nazi-joel-davis-charged-inciting-hatred-jewish-lobby-rally-ntwnfb",
       "headline": "Neo-Nazi Joel Davis charged with inciting hatred over ‘Abolish the Jewish lobby’ rally at NSW parliament",
@@ -1702,6 +1654,54 @@
       "category": "sport",
       "significance": 3,
       "section": "football"
+    },
+    {
+      "id": "us-news/2026/may/08/trump-ally-roger-stone-condemned-for-providing-lobbying-services-to-myanmars-military-junta",
+      "headline": "Trump-ally Roger Stone condemned for providing lobbying services to Myanmar’s military junta",
+      "summary": "Trump ally Roger Stone condemned for lobbying Myanmar's military junta for $50,000 monthly.",
+      "url": "https://www.theguardian.com/p/x5xqz9",
+      "thumbnail": "https://media.guim.co.uk/d1d0f234401a49db7d96e0eb9f1ccc89367da1a2/74_0_3333_2667/500.jpg",
+      "published": "2026-05-08T00:57:43Z",
+      "location": {
+        "name": "Myanmar",
+        "lat": 21.9162,
+        "lng": 95.956
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "world/2026/may/08/ukraine-war-briefing-distant-strike-on-russian-missile-ship-in-caspian-sea",
+      "headline": "Ukraine war briefing: Distant strike on Russian missile ship in Caspian Sea",
+      "summary": "Ukraine strikes Russian missile ship in Caspian Sea over 1,500km from Kyiv near Dagestan.",
+      "url": "https://www.theguardian.com/p/x524ev",
+      "thumbnail": "https://media.guim.co.uk/7959d3fd673771aac3ef7a0e556b59078327b6eb/0_445_4027_3222/500.jpg",
+      "published": "2026-05-08T00:47:47Z",
+      "location": {
+        "name": "Caspian Sea",
+        "lat": 43.2,
+        "lng": 51.5
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "artanddesign/2026/may/08/khaled-sabsabi-at-venice-biennale-2026-ntwnfb",
+      "headline": "Khaled Sabsabi is finally at the Venice Biennale: ‘Being here is already a win’",
+      "summary": "Australian artist Khaled Sabsabi exhibits two works at 61st Venice Biennale after controversy.",
+      "url": "https://www.theguardian.com/p/x524cn",
+      "thumbnail": "https://media.guim.co.uk/be7b228cc84e808e5c3fe96335cde9369b551c8b/310_0_3413_2732/500.jpg",
+      "published": "2026-05-08T00:20:20Z",
+      "location": {
+        "name": "Venice",
+        "lat": 45.4408,
+        "lng": 12.3155
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "artanddesign"
     }
   ]
 }
