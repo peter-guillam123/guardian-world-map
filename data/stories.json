@@ -1,172 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-08T11:18:23.986Z",
-    "story_count": 119,
-    "oldest_story": "2026-05-07T11:29:23Z",
-    "newest_story": "2026-05-08T11:01:39Z",
+    "generated_at": "2026-05-08T12:50:43.150Z",
+    "story_count": 121,
+    "oldest_story": "2026-05-07T14:00:36Z",
+    "newest_story": "2026-05-08T12:38:35Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "uk-news/2026/may/07/trains-southern-england-disrupted-fault-radio-system",
-      "headline": "Trains in southern England disrupted after fault in radio system",
-      "summary": "Radio system fault disrupts train services from London Waterloo, affecting southern England.",
-      "url": "https://www.theguardian.com/p/x52xha",
-      "thumbnail": "https://media.guim.co.uk/39e559f2c22da4385b3b48ec17aaafee2a3e8696/0_0_4173_3339/500.jpg",
-      "published": "2026-05-07T12:12:11Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "other",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "business/2026/may/07/climate-campaigners-attack-shell-over-windfall-profits-from-iran-war",
-      "headline": "Climate campaigners attack Shell over ‘windfall’ profits from Iran war",
-      "summary": "Shell reports $6.9bn profits from Iran war energy price surge; climate campaigners protest.",
-      "url": "https://www.theguardian.com/p/x5xnah",
-      "thumbnail": "https://media.guim.co.uk/c9aeabe71b3e70f8bcfe587e7b1d314ef9203801/340_0_3345_2677/500.jpg",
-      "published": "2026-05-07T12:09:24Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "business"
-    },
-    {
-      "id": "us-news/live/2026/may/07/donald-trump-republicans-gop-electoral-map-redistricting-midterms-lula-executive-orders-latest-news-updates",
-      "headline": "Republicans poised to vote on new House map that would erase Democratic seat in Tennessee – US politics live",
-      "summary": "Republicans poised to vote on new Tennessee House map erasing Democratic seat ahead of midterms.",
-      "url": "https://www.theguardian.com/p/x52x44",
-      "thumbnail": "https://media.guim.co.uk/4bc3bc76f534551c7f5bf8d014f873e811d2dd35/345_0_4763_3812/500.jpg",
-      "published": "2026-05-07T12:05:09Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/may/07/first-thing-uncertainty-last-oil-tanker-middle-east-arrives-california",
-      "headline": "First Thing: Uncertainty looms as last oil tanker from Middle East arrives in California",
-      "summary": "Last Middle East oil tanker arrives in California as gas prices exceed $6 amid uncertainty.",
-      "url": "https://www.theguardian.com/p/x52vgz",
-      "thumbnail": "https://media.guim.co.uk/d933ebcc4e09e959f5f2035229d3dff5ee701b19/748_0_3663_2930/500.jpg",
-      "published": "2026-05-07T11:52:42Z",
-      "location": {
-        "name": "California",
-        "lat": 36.7783,
-        "lng": -119.4179
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "media/2026/may/07/stv-scotland-election-coverage-hit-strike-action-pay",
-      "headline": "STV’s Scotland election coverage to be hit by strike action over pay",
-      "summary": "STV's Scotland election coverage disrupted by strike action over journalist pay freeze.",
-      "url": "https://www.theguardian.com/p/x52xgj",
-      "thumbnail": "https://media.guim.co.uk/ed481bde7c9f08e9c193032f41554c636aaa7320/345_40_3392_2714/500.jpg",
-      "published": "2026-05-07T11:46:46Z",
-      "location": {
-        "name": "Edinburgh",
-        "lat": 55.9533,
-        "lng": -3.1883
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "media"
-    },
-    {
-      "id": "world/2026/may/07/germany-pupils-strike-rearmament-policy-protest-boycott",
-      "headline": "More than 50,000 pupils expected to strike over German rearmament policy",
-      "summary": "Over 50,000 German pupils expected to strike nationwide against government rearmament policy.",
-      "url": "https://www.theguardian.com/p/x5xmyd",
-      "thumbnail": "https://media.guim.co.uk/ea53c45a94a1197b6c8184a054fe1d8a5f0f3d5b/834_0_4164_3333/500.jpg",
-      "published": "2026-05-07T11:39:44Z",
-      "location": {
-        "name": "Berlin",
-        "lat": 52.52,
-        "lng": 13.405
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "education/2026/may/07/melanie-jones-obituary",
-      "headline": "Melanie Jones obituary",
-      "summary": "Melanie Jones obituary: Social worker and addiction counselor who founded Wirral Rape Crisis Service.",
-      "url": "https://www.theguardian.com/p/x4qxaj",
-      "thumbnail": "https://media.guim.co.uk/cc7189fe7316f37592ec809fdf3277200046d21a/254_392_2743_2194/500.jpg",
-      "published": "2026-05-07T11:36:39Z",
-      "location": {
-        "name": "Liverpool",
-        "lat": 53.4084,
-        "lng": -2.9916
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "education"
-    },
-    {
-      "id": "commentisfree/2026/may/07/trump-nato-european-leaders-russia-attacks-us-allies",
-      "headline": "Trump’s tantrums over Nato are prompting European leaders to think the unthinkable",
-      "summary": "European leaders develop security plan B over Trump's NATO criticism and Russia concerns.",
-      "url": "https://www.theguardian.com/p/x5xt3n",
-      "thumbnail": "https://media.guim.co.uk/291565715ec2e4e003ac63915f2591bdeb778a2a/357_0_3571_2856/500.jpg",
-      "published": "2026-05-07T11:30:47Z",
-      "location": {
-        "name": "Brussels",
-        "lat": 50.8503,
-        "lng": 4.3517
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "commentisfree"
-    },
-    {
-      "id": "us-news/2026/may/07/iran-war-big-oil-climate",
-      "headline": "Trump’s Iran war may stymie climate gains with boost to big oil, experts say",
-      "summary": "Trump's Iran war profits may slow clean-energy transition as big oil boosts political lobbying.",
-      "url": "https://www.theguardian.com/p/x5xtzk",
-      "thumbnail": "https://media.guim.co.uk/77f492814e9f1ee84022d7f8e1174c1f507a91e3/355_0_4168_3335/500.jpg",
-      "published": "2026-05-07T11:30:47Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "climate",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "sport/2026/may/07/marcus-north-england-mens-cricket-selector",
-      "headline": "England poised to pick Marcus North as men’s selector over Steven Finn and Darren Gough",
-      "summary": "Marcus North expected to be named England men's cricket selector after Durham appointment.",
-      "url": "https://www.theguardian.com/p/x52xfv",
-      "thumbnail": "https://media.guim.co.uk/38a39eb9b45ee1e8e14102310a23a97045009834/667_0_3333_2666/500.jpg",
-      "published": "2026-05-07T11:29:23Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
     {
       "id": "world/2026/may/07/tensions-high-west-bengal-bjp-aide-shot-dead-election-violence",
       "headline": "Tensions high in West Bengal after BJP aide shot dead and hundreds arrested",
@@ -1910,6 +1750,198 @@
       "category": "sport",
       "significance": 2,
       "section": "sport"
+    },
+    {
+      "id": "artanddesign/2026/may/08/whitaker-malem-london-design-kim-kardashian-met-gala-breastplate",
+      "headline": "Soft armour, pert nipples: how London design team made Kim Kardashian’s Met Gala breastplate",
+      "summary": "Whitaker Malem London design team creates Kim Kardashian's Met Gala breastplate.",
+      "url": "https://www.theguardian.com/p/x52xg2",
+      "thumbnail": "https://media.guim.co.uk/6e743ed5b065718642309ce4af0c587bf175ef5a/0_604_2664_2131/500.jpg",
+      "published": "2026-05-08T12:38:35Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "fashion"
+    },
+    {
+      "id": "australia-news/2026/may/08/federal-budget-2026-affordable-housing-intergenerational-fairness-chalmers-treasurer",
+      "headline": "Lean times, tough choices: can Jim Chalmers meet the moment? ",
+      "summary": "Treasurer Chalmers prepares ambitious budget amid Middle East tensions overshadowing Labor agenda.",
+      "url": "https://www.theguardian.com/p/x52vf2",
+      "thumbnail": "https://media.guim.co.uk/3b54b5c22a227ad2523d7758d53913b5fbe83758/688_0_6880_5504/500.jpg",
+      "published": "2026-05-08T12:30:27Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "australia-news"
+    },
+    {
+      "id": "uk-news/2026/may/08/palestine-action-activist-says-he-did-the-right-thing-over-protest-at-arms-firm-site",
+      "headline": "Palestine Action activist says he ‘did the right thing’ over protest at arms firm site",
+      "summary": "Palestine Action activist acquitted in trial says protest at UK arms firm was justified.",
+      "url": "https://www.theguardian.com/p/x525qc",
+      "thumbnail": "https://media.guim.co.uk/10a2ef34a30e5dfa83f4499b338d2e128e3bcfe0/1448_540_3976_3181/500.jpg",
+      "published": "2026-05-08T12:27:17Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "politics/2026/may/08/labour-local-elections-keir-starmer-cling-on",
+      "headline": "Labour’s better than expected thrashing may allow Starmer to cling on in No 10",
+      "summary": "Labour's election losses better than expected allow Starmer to maintain No 10 position.",
+      "url": "https://www.theguardian.com/p/x526t5",
+      "thumbnail": "https://media.guim.co.uk/78a02c434c370667285416f5ba42768bfa6af30a/362_0_3751_3000/500.jpg",
+      "published": "2026-05-08T12:15:56Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "politics"
+    },
+    {
+      "id": "sport/live/2026/may/08/nottinghamshire-v-surrey-glamorgan-v-somerset-and-more-county-cricket-live",
+      "headline": "Nottinghamshire v Surrey, Glamorgan v Somerset, and more: county cricket – live",
+      "summary": "County cricket championship updates across multiple English venues.",
+      "url": "https://www.theguardian.com/p/x5xmyp",
+      "thumbnail": "https://media.guim.co.uk/d59822212be96f2b798df902bc9e578cb94dfe5a/473_101_4488_3589/500.jpg",
+      "published": "2026-05-08T12:14:21Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 1,
+      "section": "sport"
+    },
+    {
+      "id": "business/2026/may/08/iran-war-costs-toyota-3bn-prices-materials-soar-sales-fall",
+      "headline": "Iran war costs Toyota £3bn as prices of materials soar and sales fall",
+      "summary": "Toyota reports £3bn loss from Iran war impact on materials costs and sales.",
+      "url": "https://www.theguardian.com/p/x526kh",
+      "thumbnail": "https://media.guim.co.uk/6c92718b924244724a2128376d9827e4b9865fa2/444_0_4440_3552/500.jpg",
+      "published": "2026-05-08T12:09:58Z",
+      "location": {
+        "name": "Tokyo",
+        "lat": 35.6762,
+        "lng": 139.6503
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "business"
+    },
+    {
+      "id": "commentisfree/2026/may/08/fly-plane-labour-lost-control-keir-starmer-david-lammy-pilot",
+      "headline": "Does anyone on board know how to fly a plane? Labour’s captain has lost control",
+      "summary": "Marina Hyde critiques Labour's leadership control amid party turmoil.",
+      "url": "https://www.theguardian.com/p/x526qp",
+      "thumbnail": "https://media.guim.co.uk/3df21dd20ffadfa86376781a236b8215a8de1b6c/147_0_1713_1370/500.jpg",
+      "published": "2026-05-08T12:02:43Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "commentisfree"
+    },
+    {
+      "id": "tv-and-radio/2026/may/08/something-special-mr-tumble-send-children-cbeebies",
+      "headline": "‘He’s magical, isn’t he?’: an audience with Mr Tumble, the king of kids’ TV",
+      "summary": "Mr Tumble's Justin Fletcher celebrated for decades of children's TV impact.",
+      "url": "https://www.theguardian.com/p/x4m69a",
+      "thumbnail": "https://media.guim.co.uk/ff4f944d5225276738e824af9a2615737ff7558d/232_0_3780_3024/500.jpg",
+      "published": "2026-05-08T12:00:28Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "tv-and-radio"
+    },
+    {
+      "id": "world/2026/may/08/pope-leo-american-support-in-trump-clash",
+      "headline": "Americans hail Pope Leo XIV as ‘breath of fresh air’ one year in, as Trump clashes linger",
+      "summary": "Pope Leo XIV marks first year as first American pope amid Trump clashes.",
+      "url": "https://www.theguardian.com/p/x5239v",
+      "thumbnail": "https://media.guim.co.uk/9e5321e38eef00b6f639e289581698711ac10514/688_0_6880_5504/500.jpg",
+      "published": "2026-05-08T12:00:27Z",
+      "location": {
+        "name": "Vatican City",
+        "lat": 41.9029,
+        "lng": 12.4534
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "environment/2026/may/08/americans-without-cars-driving-dominated-country",
+      "headline": "Meet the Americans who choose to live without a car in the US: ‘It takes some doing’",
+      "summary": "Americans share experiences living car-free in car-dominated country.",
+      "url": "https://www.theguardian.com/p/x5xt7z",
+      "thumbnail": "https://media.guim.co.uk/204265796d6134886937dcb41e6d6f83a32bacd4/839_0_6829_5464/500.jpg",
+      "published": "2026-05-08T12:00:27Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "environment"
+    },
+    {
+      "id": "football/2026/may/08/bournemouth-alex-jimenez-investigation-into-social-media-posts",
+      "headline": "Bournemouth drop Álex Jiménez amid investigation into social media posts",
+      "summary": "Bournemouth drops Jiménez from squad pending investigation into social media posts.",
+      "url": "https://www.theguardian.com/p/x527ap",
+      "thumbnail": "https://media.guim.co.uk/6111a37e19f1a95c68b36980b1360b6647347127/0_148_2052_1642/500.jpg",
+      "published": "2026-05-08T11:56:27Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "business/2026/may/08/british-airways-owner-issues-profit-warning-over-soaring-jet-fuel-costs",
+      "headline": "British Airways fares to rise in attempt to offset £1.7bn fuel cost hit  ",
+      "summary": "British Airways faces £1.7bn fuel cost hit from Iran war; fares to rise.",
+      "url": "https://www.theguardian.com/p/x5264d",
+      "thumbnail": "https://media.guim.co.uk/4f09964f071b79afe0a2a6465a794478179086dc/224_0_2276_1821/500.jpg",
+      "published": "2026-05-08T11:52:52Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "business"
     }
   ]
 }
