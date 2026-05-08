@@ -1,60 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-08T09:53:44.820Z",
-    "story_count": 115,
-    "oldest_story": "2026-05-07T10:04:02Z",
-    "newest_story": "2026-05-08T09:48:01Z",
+    "generated_at": "2026-05-08T11:18:23.986Z",
+    "story_count": 119,
+    "oldest_story": "2026-05-07T11:29:23Z",
+    "newest_story": "2026-05-08T11:01:39Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "world/live/2026/may/07/middle-east-crisis-iran-trump-us-negotiations-deal-war-peace-proposal-hormuz-latest-news-updates",
-      "headline": "Middle East crisis live: Iran reviewing peace proposal as Trump says a deal ‘very possible’",
-      "summary": "Iran reviews peace proposal as Trump signals deal possible amid Middle East tensions.",
-      "url": "https://www.theguardian.com/p/x52vtb",
-      "thumbnail": "https://media.guim.co.uk/003088a8c2be8023b7dd82225d80cfb7e3feab08/178_935_3541_2833/500.jpg",
-      "published": "2026-05-07T10:08:19Z",
-      "location": {
-        "name": "Beirut",
-        "lat": 33.3137,
-        "lng": 35.4926
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "world/live/2026/may/07/ukraine-russia-drones-latvia-hungary-bulgaria-latest-news-updates",
-      "headline": "Rubio set to meet Pope Leo in bid to ease tensions after Trump’s criticism of the pontiff - Europe live",
-      "summary": "Rubio meets Pope Leo to ease tensions after Trump's criticism over Iran war stance.",
-      "url": "https://www.theguardian.com/p/x52vhz",
-      "thumbnail": "https://media.guim.co.uk/e2cb8164b2bbcd721de185a4c9290d60b5dc4f36/839_74_1891_1513/500.jpg",
-      "published": "2026-05-07T10:08:00Z",
-      "location": {
-        "name": "Vatican City",
-        "lat": 41.9029,
-        "lng": 12.4534
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "business/live/2026/may/07/iran-deal-shell-profits-oil-gas-stock-markets-business-live",
-      "headline": "Iran deal optimism pushes oil price down; UK builders hit by surge in costs – business live",
-      "summary": "Iran deal optimism pushes oil prices down; UK builders hit by surge in costs.",
-      "url": "https://www.theguardian.com/p/x52v9e",
-      "thumbnail": "https://media.guim.co.uk/dfb54a1cf9ef8d8a890cc9db5fcb0f412d25e2e0/10_0_4583_3667/500.jpg",
-      "published": "2026-05-07T10:04:02Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
     {
       "id": "uk-news/2026/may/07/trains-southern-england-disrupted-fault-radio-system",
       "headline": "Trains in southern England disrupted after fault in radio system",
@@ -214,70 +166,6 @@
       "category": "sport",
       "significance": 2,
       "section": "sport"
-    },
-    {
-      "id": "food/2026/may/07/restaurants-michelin-chef-uk-hospitality-tax-business",
-      "headline": "‘Restaurants won’t survive’: Michelin chef opens venues abroad to withstand UK taxes",
-      "summary": "Michelin chef Jason Atherton opens restaurants abroad to offset UK hospitality taxes.",
-      "url": "https://www.theguardian.com/p/x5xn34",
-      "thumbnail": "https://media.guim.co.uk/239ce71760b674dafa7ee116bf026bfb9b464736/460_0_3315_2653/500.jpg",
-      "published": "2026-05-07T11:16:48Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "food"
-    },
-    {
-      "id": "business/2026/may/07/airlines-still-have-to-pay-compensation-if-flights-cancelled-due-to-fuel-crisis-eu-says",
-      "headline": "Airlines still have to pay compensation if flights cancelled due to fuel crisis, EU says",
-      "summary": "EU rules airlines must compensate passengers for fuel crisis cancellations despite shortage claims.",
-      "url": "https://www.theguardian.com/p/x52vzz",
-      "thumbnail": "https://media.guim.co.uk/726de46ea82a7fed620b6fa886fe8fac0d769dd3/341_0_2818_2255/500.jpg",
-      "published": "2026-05-07T11:12:33Z",
-      "location": {
-        "name": "Brussels",
-        "lat": 50.8503,
-        "lng": 4.3517
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "sport/2026/may/07/ollie-robinson-england-cricket-test-comeback",
-      "headline": "Ollie Robinson is English cricket’s biggest enigma who could make an unlikely Test comeback",
-      "summary": "Ollie Robinson, overlooked since February 2024, back in conversation for England Test comeback this summer.",
-      "url": "https://www.theguardian.com/p/x52x3v",
-      "thumbnail": "https://media.guim.co.uk/1f5360ef737c30413548767796238952e0f38abb/584_72_1673_1338/500.jpg",
-      "published": "2026-05-07T11:09:54Z",
-      "location": {
-        "name": "England",
-        "lat": 52.3555,
-        "lng": -1.1743
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "uk-news/2026/may/07/hand-washing-hepatitis-outbreak-wales",
-      "headline": "Parents in Wales urged to ‘be vigilant’ about hand-washing amid hepatitis A outbreak",
-      "summary": "Hepatitis A outbreak confirmed in Barry, Wales; health authorities urge improved hand-washing practices.",
-      "url": "https://www.theguardian.com/p/x52x98",
-      "thumbnail": "https://media.guim.co.uk/1efb3f94f12c63d543060510bbba1c107ef1eb53/710_0_4373_3500/500.jpg",
-      "published": "2026-05-07T11:05:53Z",
-      "location": {
-        "name": "Barry",
-        "lat": 51.3969,
-        "lng": -3.2767
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "uk-news"
     },
     {
       "id": "world/2026/may/07/tensions-high-west-bengal-bjp-aide-shot-dead-election-violence",
@@ -1846,6 +1734,182 @@
       "category": "politics",
       "significance": 3,
       "section": "politics"
+    },
+    {
+      "id": "us-news/live/2026/may/08/donald-trump-republicans-tennessee-redistricting-maps-voting-rights-iran-latest-news-updates",
+      "headline": "Anger mounts after Tennessee Republicans redraw maps – US politics live",
+      "summary": "Tennessee Republicans eliminate state's only Black-majority congressional district.",
+      "url": "https://www.theguardian.com/p/x526ma",
+      "thumbnail": "https://media.guim.co.uk/17160e834465a8f0aee2d97121ae861d09aeaa34/701_0_5000_4000/500.jpg",
+      "published": "2026-05-08T11:01:39Z",
+      "location": {
+        "name": "Nashville",
+        "lat": 36.1627,
+        "lng": -86.7816
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/may/08/voting-rights-activists-louisiana-callais-black-voters",
+      "headline": "‘This is not democracy’: voting rights activists shocked by speed of US states moving to stifle Black voters",
+      "summary": "Southern states rapidly redraw congressional maps to suppress Black voter representation.",
+      "url": "https://www.theguardian.com/p/x52xhn",
+      "thumbnail": "https://media.guim.co.uk/c7015da53347a620b2cf2a43f3a0eda13ca58f23/0_0_3000_2400/500.jpg",
+      "published": "2026-05-08T11:00:27Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "music/2026/may/08/add-to-playlist-the-magnetic-uncanny-songwriting-of-frances-chang-and-the-weeks-best-new-tracks",
+      "headline": "Add to playlist: the magnetic, uncanny songwriting of Frances Chang and the week’s best new tracks",
+      "summary": "Frances Chang's uncanny songwriting and week's best new music tracks.",
+      "url": "https://www.theguardian.com/p/x5vtq5",
+      "thumbnail": "https://media.guim.co.uk/8fba859b0594e7ec1a3c03b3da08eb3c2cf6e348/0_555_3096_2477/500.jpg",
+      "published": "2026-05-08T11:00:27Z",
+      "location": {
+        "name": "Brooklyn",
+        "lat": 40.6782,
+        "lng": -73.9442
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "music"
+    },
+    {
+      "id": "us-news/2026/may/08/trump-administration-immigration-records",
+      "headline": "We sued the Trump administration for these immigration records ",
+      "summary": "Guardian sues Trump administration for immigration deportation dragnet records.",
+      "url": "https://www.theguardian.com/p/x5xnfy",
+      "thumbnail": "https://media.guim.co.uk/df6c5b63c354c29e267cd428d813e052b58d9048/1_0_2999_2400/500.jpg",
+      "published": "2026-05-08T11:00:26Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/may/08/supreme-court-voting-rights-act-misleading-data-doj",
+      "headline": "Supreme court’s Voting Rights Act ruling cited misleading data from DoJ ",
+      "summary": "Supreme Court's Voting Rights Act ruling based on misleading DoJ data analysis.",
+      "url": "https://www.theguardian.com/p/x5xt28",
+      "thumbnail": "https://media.guim.co.uk/cf1779d8600667cb714f39ef47c4452bf71a3510/0_0_1500_1200/500.jpg",
+      "published": "2026-05-08T11:00:26Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "environment/2026/may/08/everything-went-black-then-fire-poured-down-one-mans-terror-onboard-a-ship-hit-in-the-iran-war",
+      "headline": "‘Everything went black. Then fire poured down’: one man’s terror onboard a ship hit in the Iran war",
+      "summary": "Seafarer describes fatal strike on tanker MKD Vyom during US-Israel Iran conflict.",
+      "url": "https://www.theguardian.com/p/x5xtq6",
+      "thumbnail": "https://media.guim.co.uk/adef39aae47764ae5454360db09f23820e05a66d/154_0_1535_1228/500.jpg",
+      "published": "2026-05-08T11:00:26Z",
+      "location": {
+        "name": "Gulf of Oman",
+        "lat": 24.5,
+        "lng": 58.5
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "environment"
+    },
+    {
+      "id": "us-news/ng-interactive/2026/may/08/trump-administration-parents-arrested",
+      "headline": "Revealed: The Trump administration arrested the parents of at least 27,000 kids in seven months",
+      "summary": "Trump administration arrested parents of 27,000 children in seven months.",
+      "url": "https://www.theguardian.com/p/x5xp9t",
+      "thumbnail": "https://media.guim.co.uk/fe8050c7747c654d2594fe0c65572b84f88bf2be/375_0_2250_1800/500.jpg",
+      "published": "2026-05-08T11:00:25Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/may/08/eli-junior-kroupi-bournemouth-next-jewel",
+      "headline": "How Eli Junior Kroupi became Bournemouth’s next jewel … and a World Cup bolter",
+      "summary": "Eli Junior Kroupi emerges as Bournemouth jewel with World Cup credentials.",
+      "url": "https://www.theguardian.com/p/x52xk9",
+      "thumbnail": "https://media.guim.co.uk/1ee5d0d04abcb9b4995a0f5fe02e23ac7c53375f/373_182_3260_2608/500.jpg",
+      "published": "2026-05-08T11:00:24Z",
+      "location": {
+        "name": "Bournemouth",
+        "lat": 50.7352,
+        "lng": -1.8391
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "politics/2026/may/08/future-of-uk-lies-eu-brexit-failure-european-greens-vula-tsetsi",
+      "headline": "Future of UK lies in the EU after Brexit ‘failure’, say European Greens ",
+      "summary": "European Greens urge UK to rejoin EU and reverse Brexit's failure.",
+      "url": "https://www.theguardian.com/p/x522yh",
+      "thumbnail": "https://media.guim.co.uk/ee98fb1b36f5a9c518837ab06373f0163c6bffd4/976_0_4367_3494/500.jpg",
+      "published": "2026-05-08T10:46:47Z",
+      "location": {
+        "name": "Brussels",
+        "lat": 50.8503,
+        "lng": 4.3517
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "environment/2026/may/08/airline-emissions-in-europe-top-pre-covid-levels-despite-pledge-to-decarbonise",
+      "headline": "Airline emissions in Europe top pre-Covid levels despite pledge to decarbonise",
+      "summary": "European airline emissions exceed pre-Covid levels despite decarbonization pledges, with Ryanair's carbon footprint up 50% since 2019.",
+      "url": "https://www.theguardian.com/p/x522da",
+      "thumbnail": "https://media.guim.co.uk/75a05f8a307067fa9a7bf8f025c1d60bea4f8d7a/496_0_1506_1205/500.jpg",
+      "published": "2026-05-08T10:30:25Z",
+      "location": {
+        "name": "Europe",
+        "lat": 54.5973,
+        "lng": 15.2551
+      },
+      "category": "climate",
+      "significance": 3,
+      "section": "environment"
+    },
+    {
+      "id": "sport/2026/may/08/ecb-england-men-test-cricket-schedule-south-africa-pakistan",
+      "headline": "England’s men to host more five-Test series but play some one-off games overseas",
+      "summary": "ECB announces England men's Test schedule with five-match series at home but one-off games overseas for ICC World Test Championship.",
+      "url": "https://www.theguardian.com/p/x522fa",
+      "thumbnail": "https://media.guim.co.uk/b4d24c70fcc184ed11769fb47bf5721e8bbb8898/601_63_4161_3329/500.jpg",
+      "published": "2026-05-08T10:12:36Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
     }
   ]
 }
