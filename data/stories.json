@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_at": "2026-05-09T11:05:31.583Z",
-    "story_count": 115,
-    "oldest_story": "2026-05-08T11:52:52Z",
+    "generated_at": "2026-05-09T11:59:11.671Z",
+    "story_count": 117,
+    "oldest_story": "2026-05-08T12:00:27Z",
     "newest_story": "2026-05-09T11:04:23Z",
     "window_hours": 24
   },
@@ -166,38 +166,6 @@
       "category": "climate",
       "significance": 2,
       "section": "environment"
-    },
-    {
-      "id": "football/2026/may/08/bournemouth-alex-jimenez-investigation-into-social-media-posts",
-      "headline": "Bournemouth drop Álex Jiménez amid investigation into social media posts",
-      "summary": "Bournemouth drops Jiménez from squad pending investigation into social media posts.",
-      "url": "https://www.theguardian.com/p/x527ap",
-      "thumbnail": "https://media.guim.co.uk/6111a37e19f1a95c68b36980b1360b6647347127/0_148_2052_1642/500.jpg",
-      "published": "2026-05-08T11:56:27Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "business/2026/may/08/british-airways-owner-issues-profit-warning-over-soaring-jet-fuel-costs",
-      "headline": "British Airways fares to rise in attempt to offset £1.7bn fuel cost hit  ",
-      "summary": "British Airways faces £1.7bn fuel cost hit from Iran war; fares to rise.",
-      "url": "https://www.theguardian.com/p/x5264d",
-      "thumbnail": "https://media.guim.co.uk/4f09964f071b79afe0a2a6465a794478179086dc/224_0_2276_1821/500.jpg",
-      "published": "2026-05-08T11:52:52Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "business"
     },
     {
       "id": "politics/2026/may/08/john-swinney-declares-victory-for-snp-in-holyrood-elections",
@@ -1846,6 +1814,70 @@
       "category": "tech",
       "significance": 2,
       "section": "technology"
+    },
+    {
+      "id": "sport/2026/may/09/wnba-growth-sustainable-franchise-valuations-valkyries",
+      "headline": "A 30th season and an $850m franchise: is the WNBA’s rocketing growth sustainable?",
+      "summary": "WNBA expands to 30th season with $850m Golden State Valkyries franchise amid women's sports growth.",
+      "url": "https://www.theguardian.com/p/x522jz",
+      "thumbnail": "https://media.guim.co.uk/dea13b5805a63092ad1356637d014a0283c1b72c/485_0_4831_3867/500.jpg",
+      "published": "2026-05-09T11:00:56Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "us-news/2026/may/09/activists-supreme-court-voting-rights-act",
+      "headline": "‘We’re going backwards’: Five civil rights activists slam the supreme court’s gutting of Voting Rights Act",
+      "summary": "Civil rights activists criticize Supreme Court's gutting of Voting Rights Act as discriminatory rollback.",
+      "url": "https://www.theguardian.com/p/x523d9",
+      "thumbnail": "https://media.guim.co.uk/1ee17eb9d513801fc38cd8f7ffb2fe3cf5206375/0_0_3000_2400/500.jpg",
+      "published": "2026-05-09T11:00:55Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/may/09/trump-counter-terrorism-policy-sebastian-gorka",
+      "headline": "‘Largely slop’: Trump’s new counterterrorism strategy is scant on substance but heavy on enemies",
+      "summary": "Trump counterterrorism strategy criticized as lacking substance, heavy on rhetorical escalation.",
+      "url": "https://www.theguardian.com/p/x528yb",
+      "thumbnail": "https://media.guim.co.uk/2550178499f395b2bb3322d71859d6334bb04060/433_0_4884_3910/500.jpg",
+      "published": "2026-05-09T11:00:55Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/may/09/new-orleans-pastor-guilty-sexually-molesting-teens",
+      "headline": "‘The worst kind of predator’: New Orleans pastor found guilty of sexually molesting two teen boys",
+      "summary": "New Orleans pastor convicted of sexually molesting two teen boys; faces 40 years imprisonment.",
+      "url": "https://www.theguardian.com/p/x5294x",
+      "thumbnail": "https://media.guim.co.uk/43533d6ad541f0fb84fa3fa687e03bdbd1ce9852/325_0_1620_1296/500.jpg",
+      "published": "2026-05-09T11:00:54Z",
+      "location": {
+        "name": "New Orleans",
+        "lat": 29.9511,
+        "lng": -90.2623
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "us-news"
     }
   ]
 }
