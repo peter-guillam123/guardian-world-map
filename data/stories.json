@@ -1,156 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-09T13:46:08.663Z",
+    "generated_at": "2026-05-09T14:40:39.088Z",
     "story_count": 117,
-    "oldest_story": "2026-05-08T13:55:10Z",
-    "newest_story": "2026-05-09T13:45:08Z",
+    "oldest_story": "2026-05-08T14:57:01Z",
+    "newest_story": "2026-05-09T14:29:16Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "politics/2026/may/08/john-swinney-declares-victory-for-snp-in-holyrood-elections",
-      "headline": "John Swinney declares victory for SNP in Holyrood elections",
-      "summary": "SNP declares victory in Holyrood elections as Labour comprehensively beaten in Scotland.",
-      "url": "https://www.theguardian.com/p/x527j8",
-      "thumbnail": "https://media.guim.co.uk/0a3390a58bf25cd6011ce607164a00433a3c8e03/589_92_3635_2909/500.jpg",
-      "published": "2026-05-08T14:24:31Z",
-      "location": {
-        "name": "Edinburgh",
-        "lat": 55.9533,
-        "lng": -3.1883
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "politics"
-    },
-    {
-      "id": "culture/2026/may/08/late-night-roundup-trump-iran-pope-rubio",
-      "headline": "Colbert on McDonald’s supply chain concerns: ‘Perhaps this will finally show Trump the true cost of war’",
-      "summary": "Late-night hosts discuss Trump administration's war in Iran and domestic policy impacts.",
-      "url": "https://www.theguardian.com/p/x527t6",
-      "thumbnail": "https://media.guim.co.uk/4c0daf325b3face6c35de50241aac1f82dcd1556/543_0_1462_1170/500.jpg",
-      "published": "2026-05-08T14:24:03Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "culture"
-    },
-    {
-      "id": "politics/2026/may/08/labour-elections-reform-surges-greens-lib-dems-wins",
-      "headline": "How Labour’s ‘terrible’ night unfolded as Reform surges and Greens and Lib Dems hail wins",
-      "summary": "Labour has terrible night as Reform surges; SNP retains Scotland, Plaid Cymru gains Wales.",
-      "url": "https://www.theguardian.com/p/x52745",
-      "thumbnail": "https://media.guim.co.uk/43dc1701b81ddd9a93e1853adba8ecbf12890997/311_0_2891_2313/500.jpg",
-      "published": "2026-05-08T14:19:04Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "politics"
-    },
-    {
-      "id": "politics/2026/may/08/local-elections-nigel-farage-gloats-keir-starmer-clings-on",
-      "headline": "Nige is on full gloat, while Keir clings on with a hunted look in his eyes",
-      "summary": "Local elections signal end of two-party politics with Reform surging under Farage leadership.",
-      "url": "https://www.theguardian.com/p/x527mg",
-      "thumbnail": "https://media.guim.co.uk/484385a30ecb6b674b9f4cd3b95ca18fe65dde01/0_0_5099_4079/500.jpg",
-      "published": "2026-05-08T14:15:51Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "politics"
-    },
-    {
-      "id": "us-news/2026/may/08/white-house-mark-hamill-ai-trump-picture-grave-post",
-      "headline": "White House calls Mark Hamill ‘sick’ after his post with AI image of Trump in a grave",
-      "summary": "White House brands Mark Hamill sick after AI image post of Trump in grave; actor apologizes.",
-      "url": "https://www.theguardian.com/p/x527gb",
-      "thumbnail": "https://media.guim.co.uk/1e4abe76f3352cd7033aa30779504e690c333a84/555_0_4210_3367/500.jpg",
-      "published": "2026-05-08T14:04:19Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "commentisfree/2026/may/08/ai-datacenters-democracy",
-      "headline": "The fight against AI datacenters isn’t just about tech – it’s about democracy",
-      "summary": "Opposition to AI datacenters reflects democratic concerns about corporate power and participation.",
-      "url": "https://www.theguardian.com/p/x5xjjz",
-      "thumbnail": "https://media.guim.co.uk/a41253b81fc5917ccace5d630d7fcae04c0a81ac/397_0_3973_3179/500.jpg",
-      "published": "2026-05-08T14:00:31Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "tech",
-      "significance": 2,
-      "section": "commentisfree"
-    },
-    {
-      "id": "tv-and-radio/2026/may/08/mia-review-bill-dubuque-paramount",
-      "headline": "MIA review – the creator of Ozark’s new drama is as subtle as being mauled by a 12ft alligator",
-      "summary": "Ozark creator's new Florida revenge thriller MIA swings between boring and ludicrous.",
-      "url": "https://www.theguardian.com/p/x52x8j",
-      "thumbnail": "https://media.guim.co.uk/06c1fb361f3acef3d57f9ff54c098f597c4bb057/93_282_3435_2748/500.jpg",
-      "published": "2026-05-08T14:00:30Z",
-      "location": {
-        "name": "Miami",
-        "lat": 25.7617,
-        "lng": -80.1918
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "tv-and-radio"
-    },
-    {
-      "id": "stage/2026/may/08/bullyache-a-good-man-is-hard-to-find-review-sadlers-wells-east-london",
-      "headline": "Bullyache: A Good Man Is Hard to Find review – banking bros face their reckoning in grim gameshow",
-      "summary": "Dance-theatre piece explores power dynamics and excess in bleak gameshow setting.",
-      "url": "https://www.theguardian.com/p/x526k2",
-      "thumbnail": "https://media.guim.co.uk/a71298f6596a4ef130ea5e4449f93a4e0982e5fb/837_225_1229_984/500.jpg",
-      "published": "2026-05-08T14:00:29Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "stage"
-    },
-    {
-      "id": "world/2026/may/08/turning-page-orban-rule-magyar-to-be-sworn-in-hungary-pm",
-      "headline": "Turning the page on Orbán’s rule: Magyar to be sworn in as Hungary PM",
-      "summary": "Péter Magyar sworn in as Hungary PM, ending Viktor Orbán's 16-year rule and illiberalism.",
-      "url": "https://www.theguardian.com/p/x5276q",
-      "thumbnail": "https://media.guim.co.uk/52009b368538f0980b8534e9a44765fe1d4dbea2/126_0_3700_2961/500.jpg",
-      "published": "2026-05-08T13:55:10Z",
-      "location": {
-        "name": "Budapest",
-        "lat": 47.4979,
-        "lng": 19.0402
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
     {
       "id": "sport/2026/may/08/liverpool-chelsea-womens-six-nations-clasico-guardian-sport-weekend",
       "headline": "Premier League crunch time, the clásico and international cricket – follow with us",
@@ -1878,6 +1734,150 @@
       "category": "politics",
       "significance": 3,
       "section": "australia-news"
+    },
+    {
+      "id": "us-news/2026/may/09/trump-media-and-technology-group-loses-406m-first-quarter-2026",
+      "headline": "Trump Media and Technology Group lost $406m in first three months of 2026",
+      "summary": "Trump Media and Technology Group lost $406m in Q1 2026 despite generating $870k revenue.",
+      "url": "https://www.theguardian.com/p/x52d4k",
+      "thumbnail": "https://media.guim.co.uk/7b3c29fda5653f08545209053082ff6cf19c043a/480_0_4800_3840/500.jpg",
+      "published": "2026-05-09T14:29:16Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "world/2026/may/09/danish-rightwing-leader-troeld-lund-poulsen-form-government-mette-frederiksen-fails-coalition",
+      "headline": "Danish rightwing leader asked to form government after Frederiksen fails to form coalition",
+      "summary": "Danish king asks rightwing politician Troels Lund Poulsen to form government after Frederiksen fails.",
+      "url": "https://www.theguardian.com/p/x52d62",
+      "thumbnail": "https://media.guim.co.uk/108820ef816ccc02cd3311e1f01c65295fcebe3a/1516_0_7196_5757/500.jpg",
+      "published": "2026-05-09T14:17:25Z",
+      "location": {
+        "name": "Copenhagen",
+        "lat": 55.6761,
+        "lng": 12.5683
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "football/2025/sep/15/premier-league-top-scorers-2025-26-who-is-leading-race-for-golden-boot",
+      "headline": "Premier League top scorers 2025-26: who is leading race for golden boot?",
+      "summary": "Erling Haaland leads Premier League golden boot race with 25 goals in 2025-26 season.",
+      "url": "https://www.theguardian.com/p/x386fa",
+      "thumbnail": "https://media.guim.co.uk/786467be59cb8fc0fca42497aebf4284f554bc5f/350_0_2732_2185/500.jpg",
+      "published": "2026-05-09T14:14:48Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "world/2026/may/09/neither-us-nor-iran-can-sustain-strait-of-hormuz-standoff-indefinitely",
+      "headline": "Neither US nor Iran can sustain strait of Hormuz standoff indefinitely",
+      "summary": "US-Iran Strait of Hormuz standoff unsustainable as economic crisis deepens for both sides.",
+      "url": "https://www.theguardian.com/p/x5275x",
+      "thumbnail": "https://media.guim.co.uk/ee104a647a8482ca44cea79880fb65ee2b4108a0/499_0_5002_4000/500.jpg",
+      "published": "2026-05-09T14:00:59Z",
+      "location": {
+        "name": "Strait of Hormuz",
+        "lat": 26.5667,
+        "lng": 56.2667
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "us-news/ng-interactive/2026/may/09/war-propaganda-leaflets-exhibit",
+      "headline": "‘Your homes will be destroyed, your family killed’: the US has dropped millions of war propaganda leaflets – but do they work?",
+      "summary": "Exhibit reveals millions of US military propaganda leaflets dropped in Iraq, Afghanistan, Libya.",
+      "url": "https://www.theguardian.com/p/x528gz",
+      "thumbnail": "https://media.guim.co.uk/5eece4e39a6232c97a063e8f4c42422dc9f1e55f/1_0_2999_2400/500.jpg",
+      "published": "2026-05-09T14:00:58Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "artanddesign/2026/may/09/female-nudity-art-stinks-key-takeways-venice-biennale-2026",
+      "headline": "Female nudity and art that stinks: key takeaways from Venice Biennale 2026",
+      "summary": "Venice Biennale 2026 preview features female nudity, protest art amid political tensions.",
+      "url": "https://www.theguardian.com/p/x5286c",
+      "thumbnail": "https://media.guim.co.uk/82ca9ddc7f23e4053b65877c9fbdb496faba6700/91_0_2911_2329/500.jpg",
+      "published": "2026-05-09T14:00:58Z",
+      "location": {
+        "name": "Venice",
+        "lat": 45.4408,
+        "lng": 12.3155
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "artanddesign"
+    },
+    {
+      "id": "football/2026/may/09/middlesbrough-southampton-championship-playoff-match-report",
+      "headline": "Southampton spy chance to advance after goalless draw at Middlesbrough",
+      "summary": "Southampton draw 0-0 at Middlesbrough in Championship playoff semi-final first leg.",
+      "url": "https://www.theguardian.com/p/x528xz",
+      "thumbnail": "https://media.guim.co.uk/6b0da349d0085574cbdc25d8b5fc71e33fe74d79/471_0_2940_2352/500.jpg",
+      "published": "2026-05-09T13:53:04Z",
+      "location": {
+        "name": "Middlesbrough",
+        "lat": 54.5745,
+        "lng": -1.2358
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/may/09/alexandria-ocasio-cortez-presidential-run",
+      "headline": "‘My ambition is to change the country,’ AOC says when asked about seeking higher office in 2028",
+      "summary": "AOC declines to confirm 2028 presidential run, says ambition is to change the country.",
+      "url": "https://www.theguardian.com/p/x52cpn",
+      "thumbnail": "https://media.guim.co.uk/532012e5600b6336ae2641a2691fbcc2b36e47c7/458_0_4583_3667/500.jpg",
+      "published": "2026-05-09T13:52:12Z",
+      "location": {
+        "name": "Chicago",
+        "lat": 41.8781,
+        "lng": -87.6298
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/may/09/liverpool-chelsea-premier-league-match-report",
+      "headline": "Fernández ends Chelsea’s run of defeats as lacklustre Liverpool are booed off",
+      "summary": "Chelsea draw 1-1 at Liverpool to end six-game losing streak before FA Cup final.",
+      "url": "https://www.theguardian.com/p/x528v7",
+      "thumbnail": "https://media.guim.co.uk/d5c474659b2928e0a9b7b3311147f6c617afaed5/438_0_1898_1518/500.jpg",
+      "published": "2026-05-09T13:46:07Z",
+      "location": {
+        "name": "Liverpool",
+        "lat": 53.4308,
+        "lng": -2.9606
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
     }
   ]
 }
