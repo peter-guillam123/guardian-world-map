@@ -1,156 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-09T01:20:10.708Z",
-    "story_count": 132,
-    "oldest_story": "2026-05-08T03:33:34Z",
-    "newest_story": "2026-05-09T01:07:17Z",
+    "generated_at": "2026-05-09T04:41:54.439Z",
+    "story_count": 126,
+    "oldest_story": "2026-05-08T05:20:36Z",
+    "newest_story": "2026-05-09T04:30:47Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "environment/2026/may/08/country-diary-a-lesson-in-camouflage-from-a-cucumber-spider",
-      "headline": "Country diary: A lesson in camouflage from a cucumber spider",
-      "summary": "Cucumber spider's camouflage observed during forest bathing class in Staunton Country Park.",
-      "url": "https://www.theguardian.com/p/x5vnpj",
-      "thumbnail": "https://media.guim.co.uk/ef9ae662caf154de1d52c2a89391dd0d783b3f86/402_0_3010_2408/500.jpg",
-      "published": "2026-05-08T04:30:35Z",
-      "location": {
-        "name": "Havant",
-        "lat": 50.86,
-        "lng": -0.98
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "environment"
-    },
-    {
-      "id": "politics/2026/may/08/labour-reform-uk-england-local-elections-2026-scotland-wales",
-      "headline": "Labour losses pile up in England local elections as Reform UK makes gains",
-      "summary": "Labour loses hundreds of councillors in local elections; Reform UK makes significant gains.",
-      "url": "https://www.theguardian.com/p/x5xn43",
-      "thumbnail": "https://media.guim.co.uk/e9af1f3f4460799ddb42a18aa30930145bfe7365/429_0_4291_3433/500.jpg",
-      "published": "2026-05-08T04:10:08Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "politics"
-    },
-    {
-      "id": "lifeandstyle/2026/may/08/experience-i-am-the-best-lightsaber-fighter-in-europe",
-      "headline": "Experience: I am the best lightsaber fighter in Europe",
-      "summary": "European lightsaber fighting champion from Paris suburbs reveals competitive tactics.",
-      "url": "https://www.theguardian.com/p/x4kz5x",
-      "thumbnail": "https://media.guim.co.uk/557f2faf8b4bfe404a6a46c9d513ef6b112dddf6/510_78_6119_4898/500.jpg",
-      "published": "2026-05-08T04:00:37Z",
-      "location": {
-        "name": "Paris",
-        "lat": 48.8566,
-        "lng": 2.3522
-      },
-      "category": "sport",
-      "significance": 1,
-      "section": "lifeandstyle"
-    },
-    {
-      "id": "world/2026/may/08/study-sheds-light-on-story-of-enslaved-boy-jersey-featured-in-1748-joshua-reynolds-portrait",
-      "headline": "Story of enslaved boy featured in 1748 Joshua Reynolds portrait emerges in new study",
-      "summary": "Study reveals life of enslaved boy 'Jersey' depicted in 1748 Joshua Reynolds portrait.",
-      "url": "https://www.theguardian.com/p/x5xmny",
-      "thumbnail": "https://media.guim.co.uk/ab072b125cf5bbc74c2c40b5a170ae58801b22a1/0_390_2823_2257/500.jpg",
-      "published": "2026-05-08T04:00:36Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "tv-and-radio/ng-interactive/2026/may/08/david-attenborough-100-most-spectacular-screen-moments",
-      "headline": "Happy centenary, David! Attenborough’s 100 most spectacular TV moments",
-      "summary": "David Attenborough celebrates 100th birthday; BBC retrospective of remarkable TV moments.",
-      "url": "https://www.theguardian.com/p/x5xhvh",
-      "thumbnail": "https://media.guim.co.uk/48690da5680ece499d0296121e50c7599ec5683f/0_0_3747_2997/500.jpg",
-      "published": "2026-05-08T04:00:35Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "tv-and-radio"
-    },
-    {
-      "id": "australia-news/2026/may/08/water-flows-nsw-wetlands-drought-gwydir-australia",
-      "headline": "Water flows to parched NSW wetlands could be turned back on within weeks as drought fears loom",
-      "summary": "NSW wetlands water flows could resume within weeks after drought-breaking legislation passes.",
-      "url": "https://www.theguardian.com/p/x524cg",
-      "thumbnail": "https://media.guim.co.uk/aa2a7ad7f166cea35acc9cc62fbe89f0fbf58194/0_0_5355_4284/500.jpg",
-      "published": "2026-05-08T03:45:27Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "australia-news/2026/may/08/is-linked-mother-daughter-charged-crimes-against-humanity-court-ntwnfb",
-      "headline": "IS-linked Australian mother and daughter remanded in custody over Syrian slavery charges",
-      "summary": "Australian mother and daughter charged with crimes against humanity over Syrian slavery.",
-      "url": "https://www.theguardian.com/p/x524yd",
-      "thumbnail": "https://media.guim.co.uk/7b6b17b3685767cab7dd5d82e8794e7837622057/347_0_1350_1080/500.jpg",
-      "published": "2026-05-08T03:41:34Z",
-      "location": {
-        "name": "Melbourne",
-        "lat": -37.8136,
-        "lng": 144.9631
-      },
-      "category": "conflict",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "world/2026/may/08/trump-iran-us-war-ceasefire-updates-explained-hormuz",
-      "headline": "From stalemate to strikes: A dizzying week of US-Iran negotiations over the strait of Hormuz",
-      "summary": "US-Iran negotiations escalate with Trump's Project Freedom as Strait of Hormuz tensions spike.",
-      "url": "https://www.theguardian.com/p/x524f6",
-      "thumbnail": "https://media.guim.co.uk/7a5117c75836dd50df1bac9fface6582a5a93f1e/706_0_5545_4438/500.jpg",
-      "published": "2026-05-08T03:39:35Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "australia-news/2026/may/08/communications-minister-anika-wells-repays-10000-in-incorrect-travel-expenses",
-      "headline": "Communications minister Anika Wells repays $10,000 in incorrect travel expenses ",
-      "summary": "Communications minister Anika Wells repays $10,000 in incorrect travel expense claims.",
-      "url": "https://www.theguardian.com/p/x5256a",
-      "thumbnail": "https://media.guim.co.uk/2767cf51962251efedc09643e6aa65848b910d39/370_0_2986_2389/500.jpg",
-      "published": "2026-05-08T03:33:34Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
     {
       "id": "business/live/2026/may/08/oil-us-iran-ceasefire-uk-house-prices-food-prices-jobs-report-pound-bonds-elections-latest-news-updates",
       "headline": "Oil back over $100 as US-Iran ceasefire comes under pressure; UK house prices drop – business live",
@@ -2118,6 +1974,54 @@
       "category": "conflict",
       "significance": 4,
       "section": "world"
+    },
+    {
+      "id": "environment/2026/may/09/country-diary-a-terrible-time-for-a-tractor-breakdown",
+      "headline": "Country diary: A terrible time for a tractor breakdown",
+      "summary": "Lincolnshire farmer's tractor breaks down during critical birdseed planting season in spring.",
+      "url": "https://www.theguardian.com/p/x5xhga",
+      "thumbnail": "https://media.guim.co.uk/6c056cad34eecc5338ef78359b225139ef94cf8b/128_0_3825_3060/500.jpg",
+      "published": "2026-05-09T04:30:47Z",
+      "location": {
+        "name": "Brigg, Lincolnshire",
+        "lat": 53.5701,
+        "lng": -0.4855
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "environment"
+    },
+    {
+      "id": "tv-and-radio/2026/may/09/adolescence-to-the-celebrity-traitors-who-will-win-the-tv-baftas-and-who-should",
+      "headline": "Adolescence to The Celebrity Traitors: who will win the TV Baftas … and who should?",
+      "summary": "Jack Thorne's drama \"Adolescence\" leads predictions for 2026 TV Bafta Awards ceremony.",
+      "url": "https://www.theguardian.com/p/x52vpn",
+      "thumbnail": "https://media.guim.co.uk/f84d8c186179e8c5542fbeb32ba462ea4186ca15/872_0_4393_3517/500.jpg",
+      "published": "2026-05-09T04:00:46Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "tv-and-radio"
+    },
+    {
+      "id": "artanddesign/2026/may/09/what-not-to-miss-at-the-2026-venice-biennale",
+      "headline": "What not to miss at the 2026 Venice Biennale",
+      "summary": "Florentina Holzinger's extreme performances headline 2026 Venice Biennale art exhibition.",
+      "url": "https://www.theguardian.com/p/x52vpt",
+      "thumbnail": "https://media.guim.co.uk/ef6f0463e04c1a75442ddb226fb81302c2b90887/0_1739_4027_3220/500.jpg",
+      "published": "2026-05-09T04:00:46Z",
+      "location": {
+        "name": "Venice",
+        "lat": 45.4408,
+        "lng": 12.3155
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "artanddesign"
     }
   ]
 }
