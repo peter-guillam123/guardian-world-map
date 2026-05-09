@@ -1,236 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-09T15:36:54.377Z",
-    "story_count": 104,
-    "oldest_story": "2026-05-08T15:37:43Z",
-    "newest_story": "2026-05-09T15:27:25Z",
+    "generated_at": "2026-05-09T16:34:42.534Z",
+    "story_count": 100,
+    "oldest_story": "2026-05-08T16:35:10Z",
+    "newest_story": "2026-05-09T16:31:36Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "sport/2026/may/08/liverpool-chelsea-womens-six-nations-clasico-guardian-sport-weekend",
-      "headline": "Premier League crunch time, the clásico and international cricket – follow with us",
-      "summary": "Premier League matches and international cricket provide weekend sports coverage with multiple fixtures across competitions.",
-      "url": "https://www.theguardian.com/p/x5267c",
-      "thumbnail": "https://media.guim.co.uk/1e4cd74acad97b37dc2cb714ce36d6093801e2ce/0_0_5000_4000/500.jpg",
-      "published": "2026-05-08T16:00:31Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "business/2026/may/08/uk-borrowing-costs-fall-pound-rises-keir-starmer-bond-yields",
-      "headline": "UK borrowing costs fall and pound rises as Starmer says he will remain as PM",
-      "summary": "UK borrowing costs fall and pound rises as PM Starmer vows to remain despite Labour's poor local election results.",
-      "url": "https://www.theguardian.com/p/x5282y",
-      "thumbnail": "https://media.guim.co.uk/5618fe7a43a5d7879155214d1284772ef16dc89c/371_0_4003_3202/500.jpg",
-      "published": "2026-05-08T15:58:33Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "business"
-    },
-    {
-      "id": "football/live/2026/may/08/weekend-football-countdown-live-news-previews",
-      "headline": "Slot expects another Liverpool transition, Bournemouth drop Jiménez amid investigation – football live",
-      "summary": "Women's FA Cup semi-finals feature Liverpool vs Brighton and Chelsea vs Manchester City this weekend.",
-      "url": "https://www.theguardian.com/p/x5xme4",
-      "thumbnail": "https://media.guim.co.uk/8e3f73fbb93379ae06b9e883932e03ecdbbde190/149_65_1701_1361/500.jpg",
-      "published": "2026-05-08T15:56:47Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "money/2026/may/08/retiring-in-comfort-and-good-health-now-seems-the-luxury-of-a-lucky-few",
-      "headline": "Retiring in comfort and good health now seems the luxury of a lucky few",
-      "summary": "Healthy life expectancy decline linked to deprivation and inequality as comfortable retirement becomes luxury for few.",
-      "url": "https://www.theguardian.com/p/x5vhd3",
-      "thumbnail": "https://media.guim.co.uk/d1c81b7f3026d271a41afc4feedc3876ea3af8e3/577_0_4355_3486/500.jpg",
-      "published": "2026-05-08T15:54:03Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "money"
-    },
-    {
-      "id": "culture/2026/may/08/reflections-on-the-festival-of-britain",
-      "headline": "Reflections on the Festival of Britain ",
-      "summary": "Festival of Britain legacy debated 75 years on with questions about art's role in bringing communities together.",
-      "url": "https://www.theguardian.com/p/x5xctd",
-      "thumbnail": "https://media.guim.co.uk/ef70ab9aead06c8781102865347b4d9d7554f9ec/257_61_3939_3150/500.jpg",
-      "published": "2026-05-08T15:50:52Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "culture"
-    },
-    {
-      "id": "commentisfree/2026/may/08/keir-starmer-2026-elections-britain-fragmented-results-labour-politics",
-      "headline": "Starmer will hope he’s dodged the axe for now – but these elections leave Britain more fragmented than ever",
-      "summary": "Local elections leave Britain fragmented with Starmer surviving pressure but old politics facing fundamental challenges.",
-      "url": "https://www.theguardian.com/p/x527kf",
-      "thumbnail": "https://media.guim.co.uk/ee40f0fa3675a019730a75702fb354d2b078d003/208_0_3387_2709/500.jpg",
-      "published": "2026-05-08T15:50:51Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "commentisfree"
-    },
-    {
-      "id": "football/2026/may/08/playoff-semi-final-efl-southampton-spying-middlesbrough",
-      "headline": "Middlesbrough fury at ‘spying’ row as ‘venomous’ welcome awaits Southampton",
-      "summary": "Middlesbrough accuses Southampton of spying ahead of Championship playoff semi-final at the Riverside.",
-      "url": "https://www.theguardian.com/p/x528xg",
-      "thumbnail": "https://media.guim.co.uk/a55aabaab96d7594650c1015de00fbd778fb6b32/464_0_4641_3713/500.jpg",
-      "published": "2026-05-08T15:50:07Z",
-      "location": {
-        "name": "Middlesbrough",
-        "lat": 54.5752,
-        "lng": -1.2355
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "artanddesign/2026/may/08/several-venice-biennale-pavilions-shut-in-protest-over-inclusion-of-israel",
-      "headline": "Several Venice Biennale pavilions shut in protest over inclusion of Israel",
-      "summary": "Venice Biennale pavilions close in protest over Israel's inclusion, with artists adding Palestine references.",
-      "url": "https://www.theguardian.com/p/x527p3",
-      "thumbnail": "https://media.guim.co.uk/99f1d097b2e2cf8c18652733f634f352e8e43d6e/0_0_3381_2704/500.jpg",
-      "published": "2026-05-08T15:50:03Z",
-      "location": {
-        "name": "Venice",
-        "lat": 45.4408,
-        "lng": 12.3155
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "artanddesign"
-    },
-    {
-      "id": "uk-news/2026/may/08/man-tells-court-he-was-threatened-into-setting-fire-to-car-linked-to-starmer",
-      "headline": "Man tells court he was threatened into setting fire to car linked to Starmer",
-      "summary": "Ukrainian man admits setting fire to car linked to PM Starmer after claiming coercion by Russian-speaking man.",
-      "url": "https://www.theguardian.com/p/x52838",
-      "thumbnail": "https://media.guim.co.uk/cd8cf693395da42c701b8f960a99c84d1f8d4dcf/0_0_3753_3004/500.jpg",
-      "published": "2026-05-08T15:49:37Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "culture/2026/may/08/tisio-peint-or-do-you-fancy-a-pint",
-      "headline": "‘Tisio peint? Or: Do you fancy a pint?",
-      "summary": "Welsh village of Llanymynech features pub straddling England-Wales border, mirroring Spike Milligan's fictional Puckoon.",
-      "url": "https://www.theguardian.com/p/x5xcf5",
-      "thumbnail": "https://media.guim.co.uk/e27d42d08a32c79032055028c9e9e72342e4fe07/134_0_4560_3648/500.jpg",
-      "published": "2026-05-08T15:47:36Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "culture"
-    },
-    {
-      "id": "society/2026/may/08/ash-scattering-is-a-risky-business",
-      "headline": "Ash scattering is a risky business",
-      "summary": "Readers share humorous and cautionary tales about scattering ashes in windy conditions.",
-      "url": "https://www.theguardian.com/p/x526pa",
-      "thumbnail": "https://media.guim.co.uk/f3d67f5a29d713b65d8bf884a43302d0d8d5b360/427_0_4266_3413/500.jpg",
-      "published": "2026-05-08T15:45:11Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "society"
-    },
-    {
-      "id": "politics/2026/may/08/liberal-democrats-lib-dems-ed-davey-elections",
-      "headline": "Lib Dems can counter extremes of Reform and Greens, Davey says",
-      "summary": "Liberal Democrats claim gains in local elections, positioning themselves against Reform UK and Green Party extremes.",
-      "url": "https://www.theguardian.com/p/x527mk",
-      "thumbnail": "https://media.guim.co.uk/3e5743595cfd58235a3698a30514e8bec8670d72/859_0_4505_3604/500.jpg",
-      "published": "2026-05-08T15:41:14Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "world/2026/may/08/tumbler-ridge-canada-school-shooting",
-      "headline": "Canadian high school where deadly mass shooting occurred to be torn down",
-      "summary": "Canadian school site of February mass shooting killing nine will be demolished following community consultations.",
-      "url": "https://www.theguardian.com/p/x528x8",
-      "thumbnail": "https://media.guim.co.uk/0c892bf8b2cb3267e29cd3767fd18441133dd49b/125_0_1250_1000/500.jpg",
-      "published": "2026-05-08T15:40:07Z",
-      "location": {
-        "name": "Tumbler Ridge",
-        "lat": 55.1167,
-        "lng": -120.8333
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "commentisfree/2026/may/08/local-election-results-our-panel-responds-nigel-farage-zack-polanski",
-      "headline": "What do the unfolding local election results mean? Our panel responds",
-      "summary": "UK local election results show two-party system collapse as Reform UK and Greens surge.",
-      "url": "https://www.theguardian.com/p/x5xmn2",
-      "thumbnail": "https://media.guim.co.uk/976ea17c6acea273a1ebf8a3bfd6d51e5643cb9c/7_0_3749_3000/500.jpg",
-      "published": "2026-05-08T15:37:43Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "commentisfree"
-    },
     {
       "id": "uk-news/2026/may/08/plaid-cymru-biggest-party-wales-senedd-labour-reform",
       "headline": "Plaid Cymru biggest party in Senedd, ending 100 years of Labour control",
@@ -1670,6 +1446,166 @@
       "category": "economy",
       "significance": 2,
       "section": "us-news"
+    },
+    {
+      "id": "politics/2026/may/09/why-welsh-voters-turned-their-backs-on-the-labour-party",
+      "headline": "Why Welsh voters turned their backs on the Labour party",
+      "summary": "Labour party experiences collapse in Welsh Senedd elections amid voter disengagement and public service struggles.",
+      "url": "https://www.theguardian.com/p/x52dt8",
+      "thumbnail": "https://media.guim.co.uk/f22744c6a91897c0c1437c6460214668aaaaa773/1360_0_4621_3698/500.jpg",
+      "published": "2026-05-09T16:31:36Z",
+      "location": {
+        "name": "Wales",
+        "lat": 52.13,
+        "lng": -3.7837
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "politics"
+    },
+    {
+      "id": "us-news/2026/may/09/trump-no-bid-contract-lincoln-memorial-reflecting-pool",
+      "headline": "No-bid contract to turn DC’s reflecting pool blue goes to firm with ties to Trump",
+      "summary": "Trump-linked firm awarded $6.9m no-bid contract to restore Lincoln Memorial's reflecting pool.",
+      "url": "https://www.theguardian.com/p/x52d8m",
+      "thumbnail": "https://media.guim.co.uk/893154cd40032250d12053df8f4f5c43a1ef0b6d/362_0_3491_2794/500.jpg",
+      "published": "2026-05-09T16:31:00Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "politics/2026/may/09/swinney-keen-to-work-with-fellow-nationalist-devolved-leaders-in-uk",
+      "headline": "Swinney keen to work with fellow nationalist devolved leaders in UK",
+      "summary": "SNP leader Swinney plans coordination with nationalist devolved leaders on cost of living opposition.",
+      "url": "https://www.theguardian.com/p/x52df3",
+      "thumbnail": "https://media.guim.co.uk/340d615d846569626be236c9786922502fba1cd4/240_0_2987_2388/500.jpg",
+      "published": "2026-05-09T16:24:42Z",
+      "location": {
+        "name": "Edinburgh",
+        "lat": 55.9533,
+        "lng": -3.1883
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "football/2026/may/09/fulham-bournemouth-premier-league-match-report",
+      "headline": "Bournemouth sink Fulham in 10-a-side contest to boost European hopes",
+      "summary": "Bournemouth defeat Fulham 1-0 in 10-a-side Premier League match to boost European qualification hopes.",
+      "url": "https://www.theguardian.com/p/x528xt",
+      "thumbnail": "https://media.guim.co.uk/968ced318bebda63623637534dad467ce3e553bc/404_0_4832_3866/500.jpg",
+      "published": "2026-05-09T16:18:01Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/may/09/sunderland-manchester-united-premier-league-match-report",
+      "headline": "Lammens holds Sunderland at bay as Manchester United struggle without Sesko",
+      "summary": "Manchester United draw 0-0 with Sunderland despite Champions League qualification, missing injured Sesko.",
+      "url": "https://www.theguardian.com/p/x528x6",
+      "thumbnail": "https://media.guim.co.uk/ef9dfc9179a31f7765707898415bd1e900f02ae5/825_179_3549_2840/500.jpg",
+      "published": "2026-05-09T16:05:52Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/may/09/spygate-playoff-row-championship-southampton-middlesbrough-hellberg-eckert",
+      "headline": "Spygate playoff row deepens as Boro’s Hellberg labels Southampton ‘cheats’",
+      "summary": "Southampton manager walks out of press conference over allegations of spying on Middlesbrough training session.",
+      "url": "https://www.theguardian.com/p/x52dh9",
+      "thumbnail": "https://media.guim.co.uk/404b3be0fb8c65cdf81005af4b1860f05b770eea/445_0_5000_4000/500.jpg",
+      "published": "2026-05-09T16:00:10Z",
+      "location": {
+        "name": "Middlesbrough",
+        "lat": 54.5752,
+        "lng": -1.2344
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "technology/2026/may/09/google-developers-significantly-misstate-carbon-emissions-of-proposed-uk-datacentres",
+      "headline": "Google developers significantly misstate carbon emissions of proposed UK datacentres",
+      "summary": "Google significantly understated carbon emissions by factor of five in UK AI datacentre planning documents.",
+      "url": "https://www.theguardian.com/p/x52892",
+      "thumbnail": "https://media.guim.co.uk/21cd8c4dd6b45f172b3127a755cd58f87745944b/908_7_1739_1392/500.jpg",
+      "published": "2026-05-09T16:00:01Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "tech",
+      "significance": 2,
+      "section": "technology"
+    },
+    {
+      "id": "technology/2026/may/09/elon-musk-sam-altman-openai-trial",
+      "headline": "What I saw at the Musk-OpenAI trial: petty billionaires, protests and a stern judge",
+      "summary": "Elon Musk and OpenAI's Sam Altman trial over AI's future unfolds amid courtroom drama in Oakland.",
+      "url": "https://www.theguardian.com/p/x529ym",
+      "thumbnail": "https://media.guim.co.uk/2ade2a1457d1646e9cb9c64d18c43a507ad8de53/0_0_5000_4000/500.jpg",
+      "published": "2026-05-09T16:00:01Z",
+      "location": {
+        "name": "Oakland",
+        "lat": 37.8044,
+        "lng": -122.2712
+      },
+      "category": "tech",
+      "significance": 3,
+      "section": "technology"
+    },
+    {
+      "id": "football/2026/may/09/arne-slot-rio-ngumoha-cramp-liverpool-chelsea-booed",
+      "headline": "Arne Slot says Rio Ngumoha had cramp after Liverpool starlet’s substitution is booed",
+      "summary": "Liverpool manager Slot defends Rio Ngumoha substitution after 1-1 Chelsea draw as fans boo.",
+      "url": "https://www.theguardian.com/p/x528vz",
+      "thumbnail": "https://media.guim.co.uk/6ececbeac5aaf0a630dea97dd5c3e1e6aae0467e/344_0_2861_2289/500.jpg",
+      "published": "2026-05-09T15:56:12Z",
+      "location": {
+        "name": "Liverpool",
+        "lat": 53.4308,
+        "lng": -2.9623
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "sport/2026/may/09/st-helens-wigan-rugby-league-challenge-cup-match-report",
+      "headline": "Wigan humilate scoreless St Helens to reach Challenge Cup final",
+      "summary": "Wigan demolish St Helens 32-0 in Challenge Cup semi-final to reach Wembley final.",
+      "url": "https://www.theguardian.com/p/x5286g",
+      "thumbnail": "https://media.guim.co.uk/b96f0d4dd521bbd4bf6f791cae3f763552c3fa34/419_0_3334_2667/500.jpg",
+      "published": "2026-05-09T15:46:35Z",
+      "location": {
+        "name": "Wigan",
+        "lat": 53.5433,
+        "lng": -2.6271
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
     }
   ]
 }
