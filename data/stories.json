@@ -1,188 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-09T09:58:01.065Z",
-    "story_count": 113,
-    "oldest_story": "2026-05-08T10:12:36Z",
-    "newest_story": "2026-05-09T09:55:24Z",
+    "generated_at": "2026-05-09T11:05:31.583Z",
+    "story_count": 115,
+    "oldest_story": "2026-05-08T11:52:52Z",
+    "newest_story": "2026-05-09T11:04:23Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "us-news/live/2026/may/08/donald-trump-republicans-tennessee-redistricting-maps-voting-rights-iran-latest-news-updates",
-      "headline": "Anger mounts after Tennessee Republicans redraw maps – US politics live",
-      "summary": "Tennessee Republicans eliminate state's only Black-majority congressional district.",
-      "url": "https://www.theguardian.com/p/x526ma",
-      "thumbnail": "https://media.guim.co.uk/17160e834465a8f0aee2d97121ae861d09aeaa34/701_0_5000_4000/500.jpg",
-      "published": "2026-05-08T11:01:39Z",
-      "location": {
-        "name": "Nashville",
-        "lat": 36.1627,
-        "lng": -86.7816
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/may/08/voting-rights-activists-louisiana-callais-black-voters",
-      "headline": "‘This is not democracy’: voting rights activists shocked by speed of US states moving to stifle Black voters",
-      "summary": "Southern states rapidly redraw congressional maps to suppress Black voter representation.",
-      "url": "https://www.theguardian.com/p/x52xhn",
-      "thumbnail": "https://media.guim.co.uk/c7015da53347a620b2cf2a43f3a0eda13ca58f23/0_0_3000_2400/500.jpg",
-      "published": "2026-05-08T11:00:27Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "music/2026/may/08/add-to-playlist-the-magnetic-uncanny-songwriting-of-frances-chang-and-the-weeks-best-new-tracks",
-      "headline": "Add to playlist: the magnetic, uncanny songwriting of Frances Chang and the week’s best new tracks",
-      "summary": "Frances Chang's uncanny songwriting and week's best new music tracks.",
-      "url": "https://www.theguardian.com/p/x5vtq5",
-      "thumbnail": "https://media.guim.co.uk/8fba859b0594e7ec1a3c03b3da08eb3c2cf6e348/0_555_3096_2477/500.jpg",
-      "published": "2026-05-08T11:00:27Z",
-      "location": {
-        "name": "Brooklyn",
-        "lat": 40.6782,
-        "lng": -73.9442
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "music"
-    },
-    {
-      "id": "us-news/2026/may/08/trump-administration-immigration-records",
-      "headline": "We sued the Trump administration for these immigration records ",
-      "summary": "Guardian sues Trump administration for immigration deportation dragnet records.",
-      "url": "https://www.theguardian.com/p/x5xnfy",
-      "thumbnail": "https://media.guim.co.uk/df6c5b63c354c29e267cd428d813e052b58d9048/1_0_2999_2400/500.jpg",
-      "published": "2026-05-08T11:00:26Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/may/08/supreme-court-voting-rights-act-misleading-data-doj",
-      "headline": "Supreme court’s Voting Rights Act ruling cited misleading data from DoJ ",
-      "summary": "Supreme Court's Voting Rights Act ruling based on misleading DoJ data analysis.",
-      "url": "https://www.theguardian.com/p/x5xt28",
-      "thumbnail": "https://media.guim.co.uk/cf1779d8600667cb714f39ef47c4452bf71a3510/0_0_1500_1200/500.jpg",
-      "published": "2026-05-08T11:00:26Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "environment/2026/may/08/everything-went-black-then-fire-poured-down-one-mans-terror-onboard-a-ship-hit-in-the-iran-war",
-      "headline": "‘Everything went black. Then fire poured down’: one man’s terror onboard a ship hit in the Iran war",
-      "summary": "Seafarer describes fatal strike on tanker MKD Vyom during US-Israel Iran conflict.",
-      "url": "https://www.theguardian.com/p/x5xtq6",
-      "thumbnail": "https://media.guim.co.uk/adef39aae47764ae5454360db09f23820e05a66d/154_0_1535_1228/500.jpg",
-      "published": "2026-05-08T11:00:26Z",
-      "location": {
-        "name": "Gulf of Oman",
-        "lat": 24.5,
-        "lng": 58.5
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "environment"
-    },
-    {
-      "id": "us-news/ng-interactive/2026/may/08/trump-administration-parents-arrested",
-      "headline": "Revealed: The Trump administration arrested the parents of at least 27,000 kids in seven months",
-      "summary": "Trump administration arrested parents of 27,000 children in seven months.",
-      "url": "https://www.theguardian.com/p/x5xp9t",
-      "thumbnail": "https://media.guim.co.uk/fe8050c7747c654d2594fe0c65572b84f88bf2be/375_0_2250_1800/500.jpg",
-      "published": "2026-05-08T11:00:25Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "football/2026/may/08/eli-junior-kroupi-bournemouth-next-jewel",
-      "headline": "How Eli Junior Kroupi became Bournemouth’s next jewel … and a World Cup bolter",
-      "summary": "Eli Junior Kroupi emerges as Bournemouth jewel with World Cup credentials.",
-      "url": "https://www.theguardian.com/p/x52xk9",
-      "thumbnail": "https://media.guim.co.uk/1ee5d0d04abcb9b4995a0f5fe02e23ac7c53375f/373_182_3260_2608/500.jpg",
-      "published": "2026-05-08T11:00:24Z",
-      "location": {
-        "name": "Bournemouth",
-        "lat": 50.7352,
-        "lng": -1.8391
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "politics/2026/may/08/future-of-uk-lies-eu-brexit-failure-european-greens-vula-tsetsi",
-      "headline": "Future of UK lies in the EU after Brexit ‘failure’, say European Greens ",
-      "summary": "European Greens urge UK to rejoin EU and reverse Brexit's failure.",
-      "url": "https://www.theguardian.com/p/x522yh",
-      "thumbnail": "https://media.guim.co.uk/ee98fb1b36f5a9c518837ab06373f0163c6bffd4/976_0_4367_3494/500.jpg",
-      "published": "2026-05-08T10:46:47Z",
-      "location": {
-        "name": "Brussels",
-        "lat": 50.8503,
-        "lng": 4.3517
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "environment/2026/may/08/airline-emissions-in-europe-top-pre-covid-levels-despite-pledge-to-decarbonise",
-      "headline": "Airline emissions in Europe top pre-Covid levels despite pledge to decarbonise",
-      "summary": "European airline emissions exceed pre-Covid levels despite decarbonization pledges, with Ryanair's carbon footprint up 50% since 2019.",
-      "url": "https://www.theguardian.com/p/x522da",
-      "thumbnail": "https://media.guim.co.uk/75a05f8a307067fa9a7bf8f025c1d60bea4f8d7a/496_0_1506_1205/500.jpg",
-      "published": "2026-05-08T10:30:25Z",
-      "location": {
-        "name": "Europe",
-        "lat": 54.5973,
-        "lng": 15.2551
-      },
-      "category": "climate",
-      "significance": 3,
-      "section": "environment"
-    },
-    {
-      "id": "sport/2026/may/08/ecb-england-men-test-cricket-schedule-south-africa-pakistan",
-      "headline": "England’s men to host more five-Test series but play some one-off games overseas",
-      "summary": "ECB announces England men's Test schedule with five-match series at home but one-off games overseas for ICC World Test Championship.",
-      "url": "https://www.theguardian.com/p/x522fa",
-      "thumbnail": "https://media.guim.co.uk/b4d24c70fcc184ed11769fb47bf5721e8bbb8898/601_63_4161_3329/500.jpg",
-      "published": "2026-05-08T10:12:36Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
     {
       "id": "artanddesign/2026/may/08/whitaker-malem-london-design-kim-kardashian-met-gala-breastplate",
       "headline": "Soft armour, pert nipples: how London design team made Kim Kardashian’s Met Gala breastplate",
@@ -1814,6 +1638,214 @@
       "category": "economy",
       "significance": 2,
       "section": "business"
+    },
+    {
+      "id": "sport/live/2026/may/09/nottinghamshire-v-surrey-worcs-v-durham-and-more-county-cricket-live",
+      "headline": "Nottinghamshire v Surrey, Worcs v Durham, and more: county cricket – live",
+      "summary": "County Championship cricket matches underway across England with live updates.",
+      "url": "https://www.theguardian.com/p/x528jk",
+      "thumbnail": "https://media.guim.co.uk/58b7bb71a92902a761647cdcead9c607fdc33823/46_0_4083_3267/500.jpg",
+      "published": "2026-05-09T11:04:23Z",
+      "location": {
+        "name": "Nottinghamshire",
+        "lat": 52.94,
+        "lng": -1.133
+      },
+      "category": "sport",
+      "significance": 1,
+      "section": "sport"
+    },
+    {
+      "id": "football/live/2026/may/09/middlesbrough-v-southampton-championship-playoff-semi-final-first-leg-live",
+      "headline": "Middlesbrough v Southampton: Championship playoff semi-final, first leg – live",
+      "summary": "Middlesbrough vs Southampton Championship playoff semi-final first leg at Riverside Stadium.",
+      "url": "https://www.theguardian.com/p/x52733",
+      "thumbnail": "https://media.guim.co.uk/de1a40fb397665f832e5270bfd3c76fbe9f3bbc0/477_0_4766_3813/500.jpg",
+      "published": "2026-05-09T11:02:18Z",
+      "location": {
+        "name": "Middlesbrough",
+        "lat": 54.5752,
+        "lng": -1.2381
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "film/2026/may/09/tv-film-studios-developers-datacentres-ai-boom",
+      "headline": "‘Peak TV is behind us’: UK developers pivot from building studios to datacentres amid AI boom",
+      "summary": "UK film studios pivot from content production to datacentre development amid AI boom.",
+      "url": "https://www.theguardian.com/p/x52xjy",
+      "thumbnail": "https://media.guim.co.uk/3d0dff2fafd3723349cf4c5bd8762640b0550b42/302_0_2696_2157/500.jpg",
+      "published": "2026-05-09T11:00:56Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "film"
+    },
+    {
+      "id": "fashion/2026/may/09/power-blazer-victoria-starmer-marks-key-political-moment-in-cream",
+      "headline": "Power blazer? Victoria Starmer marks key political moment in cream",
+      "summary": "Victoria Starmer wears cream blazer to polls as PM faces election pressure.",
+      "url": "https://www.theguardian.com/p/x526jc",
+      "thumbnail": "https://media.guim.co.uk/ddc72902de847be1db8a4d61d4ac13e7dc373be6/829_0_4144_3315/500.jpg",
+      "published": "2026-05-09T11:00:55Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "fashion"
+    },
+    {
+      "id": "culture/2026/may/09/joseph-fiennes-on-parenting-politics-and-banning-children-from-social-media-stand-up-keir-this-is-your-kids-generation",
+      "headline": "Joseph Fiennes on parenting, politics and banning children from social media: ‘Stand up, Keir, this is your kids’ generation’",
+      "summary": "Actor Joseph Fiennes discusses politics and parenting in Chelsea interview.",
+      "url": "https://www.theguardian.com/p/x5vcc5",
+      "thumbnail": "https://media.guim.co.uk/f48239c981872c6a236ad7cccfa2198580a591c9/0_1599_7760_6208/500.jpg",
+      "published": "2026-05-09T11:00:55Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "culture"
+    },
+    {
+      "id": "football/live/2026/may/09/liverpool-v-chelsea-premier-league-live",
+      "headline": "Liverpool v Chelsea: Premier League – live",
+      "summary": "Liverpool faces struggling Chelsea in Premier League match at Anfield.",
+      "url": "https://www.theguardian.com/p/x52vz7",
+      "thumbnail": "https://media.guim.co.uk/8d87a337fcb0bffa94d155b221d5d8d6a55e864a/432_0_4320_3456/500.jpg",
+      "published": "2026-05-09T11:00:40Z",
+      "location": {
+        "name": "Liverpool",
+        "lat": 53.4308,
+        "lng": -2.9606
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "politics/2026/may/09/starmer-brings-gordon-brown-harriet-harman-ease-pressure-resign",
+      "headline": "Starmer brings in Gordon Brown and Harriet Harman to ease pressure on him to resign",
+      "summary": "PM Starmer brings in Brown and Harman as advisers after Labour's election losses.",
+      "url": "https://www.theguardian.com/p/x52caz",
+      "thumbnail": "https://media.guim.co.uk/603f46c9c379a304ddeed34e58237fd6b421c759/370_0_1160_928/500.jpg",
+      "published": "2026-05-09T10:40:11Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "politics"
+    },
+    {
+      "id": "politics/2026/may/09/british-leader-keir-starmer-under-pressure-after-heavy-election-losses",
+      "headline": "British leader Keir Starmer under pressure after heavy election losses",
+      "summary": "Labour loses 1,400+ council seats in local elections, Starmer faces pressure to resign.",
+      "url": "https://www.theguardian.com/p/x52cv8",
+      "thumbnail": "https://media.guim.co.uk/65305ddfdb91c58a9464f0f22bfe88bdc0524ec3/0_0_6343_5075/500.jpg",
+      "published": "2026-05-09T10:15:16Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "politics"
+    },
+    {
+      "id": "tv-and-radio/2026/may/09/celebrity-traitors-has-seduced-stars",
+      "headline": "‘You don’t have to sell them on the idea’: how Celebrity Traitors has seduced the stars",
+      "summary": "Celebrity Traitors season two attracts high-profile cast to BBC reality show.",
+      "url": "https://www.theguardian.com/p/x52878",
+      "thumbnail": "https://media.guim.co.uk/c4087b16dae79bc462ba207296d738fe932b2543/289_0_3938_3150/500.jpg",
+      "published": "2026-05-09T10:00:54Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "tv-and-radio"
+    },
+    {
+      "id": "lifeandstyle/2026/may/09/william-shum-best-phone-picture-hong-kong-red-taxi",
+      "headline": "‘I waited half an hour for one of Hong Kong’s iconic red taxis to pass by’: William Shum’s best phone picture",
+      "summary": "Photographer captures Hong Kong's iconic red taxi in Yau Ma Tei district.",
+      "url": "https://www.theguardian.com/p/x4z648",
+      "thumbnail": "https://media.guim.co.uk/07aa847f2e1a272ec4b5a78cf0529c851d5978f6/0_1439_2066_1652/500.jpg",
+      "published": "2026-05-09T10:00:54Z",
+      "location": {
+        "name": "Hong Kong",
+        "lat": 22.3193,
+        "lng": 114.1694
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "lifeandstyle"
+    },
+    {
+      "id": "us-news/2026/may/09/marty-makary-fda-food-drug-administration",
+      "headline": "‘The FDA is a complete mess’: Trump makes fate of agency chief unclear as public trust plummits",
+      "summary": "Trump plans to fire FDA commissioner Marty Makary as agency credibility plummets.",
+      "url": "https://www.theguardian.com/p/x529ap",
+      "thumbnail": "https://media.guim.co.uk/b1363ec7e8a4c4618d979b095a6890cbd61454d5/195_0_1953_1562/500.jpg",
+      "published": "2026-05-09T10:00:54Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/apr/22/overlooked-moments-in-us-world-cup-history",
+      "headline": "Grisly injuries, a brutal murder and a vanished hero: the forgotten tales of US World Cup history",
+      "summary": "US World Cup history features grisly injuries, murder, and vanished hero.",
+      "url": "https://www.theguardian.com/p/x4p2mj",
+      "thumbnail": "https://media.guim.co.uk/e1acc0174d77d28c560b8fb1a786ed14bdaf1072/0_0_2500_2000/500.jpg",
+      "published": "2026-05-09T10:00:54Z",
+      "location": {
+        "name": "United States",
+        "lat": 37.0902,
+        "lng": -95.7129
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "technology/2026/may/09/who-is-louis-mosley-defending-palantir-critics",
+      "headline": "Who is Louis Mosley, the man tasked with defending Palantir against its critics?",
+      "summary": "Palantir UK boss Louis Mosley defends company against British public concerns.",
+      "url": "https://www.theguardian.com/p/x52xpt",
+      "thumbnail": "https://media.guim.co.uk/68b77cc72498b08c37a3a59ee8bcf158a0e85fe7/249_0_3445_2756/500.jpg",
+      "published": "2026-05-09T10:00:53Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "tech",
+      "significance": 2,
+      "section": "technology"
     }
   ]
 }
