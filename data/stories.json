@@ -1,28 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-09T22:10:40.980Z",
-    "story_count": 84,
-    "oldest_story": "2026-05-08T22:15:33Z",
-    "newest_story": "2026-05-09T20:25:24Z",
+    "generated_at": "2026-05-09T23:07:51.220Z",
+    "story_count": 85,
+    "oldest_story": "2026-05-09T01:07:17Z",
+    "newest_story": "2026-05-09T23:06:34Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "us-news/2026/may/08/charlie-kirk-courtroom-cameras-allowed",
-      "headline": "Cameras to be allowed in courtroom in Charlie Kirk killing case, judge rules",
-      "summary": "Utah judge allows courtroom cameras in murder trial of Tyler James Robinson, charged in Charlie Kirk assassination.",
-      "url": "https://www.theguardian.com/p/x529m5",
-      "thumbnail": "https://media.guim.co.uk/f8fa20e1964059386edc88066808df191bce54e3/411_0_4094_3277/500.jpg",
-      "published": "2026-05-08T22:15:33Z",
-      "location": {
-        "name": "Salt Lake City",
-        "lat": 40.7608,
-        "lng": -111.8913
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
     {
       "id": "world/2026/may/08/trump-russia-ukraine-three-day-ceasefire-9-may",
       "headline": "Russia and Ukraine confirm three-day ceasefire from 9 May",
@@ -1350,6 +1334,38 @@
       "category": "culture",
       "significance": 1,
       "section": "lifeandstyle"
+    },
+    {
+      "id": "australia-news/live/2026/may/10/politics-updates-farrer-byelection-one-nation-win-liberal-coalition-loss-reactions-pauline-hanson-angus-taylor-tim-wilson-insiders-anthony-albanese-labor-ntwnfb",
+      "headline": "Australia news live: Ley urges Liberals to accept Farrer loss to One Nation with ‘humility’, saying ‘voters never get it wrong’",
+      "summary": "One Nation wins Farrer byelection in major Coalition defeat; Liberal leader's future questioned.",
+      "url": "https://www.theguardian.com/p/x52f48",
+      "thumbnail": "https://media.guim.co.uk/4691880c9609631dce091ea02342f21377636b4a/0_0_2953_2362/500.jpg",
+      "published": "2026-05-09T23:06:34Z",
+      "location": {
+        "name": "Farrer",
+        "lat": -34.7751,
+        "lng": 147.0289
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "us-news/2026/may/09/betty-broderick-convicted-double-murder-ex-husband-wife-dead",
+      "headline": "Betty Broderick, convicted in 1989 killings of ex-husband and his new wife, dies aged 78",
+      "summary": "Betty Broderick, convicted of 1989 murders of ex-husband and his wife, dies at 78 in prison.",
+      "url": "https://www.theguardian.com/p/x52eqh",
+      "thumbnail": "https://media.guim.co.uk/dec01ec5944b3ab69841b53bf086f2c8675d324c/500_0_2500_2000/500.jpg",
+      "published": "2026-05-09T22:07:09Z",
+      "location": {
+        "name": "California",
+        "lat": 36.1162,
+        "lng": -119.6816
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "us-news"
     }
   ]
 }
