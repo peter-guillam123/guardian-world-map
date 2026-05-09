@@ -1,60 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-09T18:36:54.665Z",
-    "story_count": 86,
-    "oldest_story": "2026-05-08T18:42:10Z",
-    "newest_story": "2026-05-09T18:27:43Z",
+    "generated_at": "2026-05-09T19:44:19.244Z",
+    "story_count": 84,
+    "oldest_story": "2026-05-08T19:48:48Z",
+    "newest_story": "2026-05-09T18:38:29Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "politics/2026/may/08/keir-starmer-under-pressure-to-agree-exit-plan-after-election-mauling",
-      "headline": "Keir Starmer under pressure to agree exit plan after election mauling",
-      "summary": "Keir Starmer faces pressure to set exit timeline after Labour's crushing defeat in UK elections.",
-      "url": "https://www.theguardian.com/p/x5287a",
-      "thumbnail": "https://media.guim.co.uk/907af3e87a3c9174702d30a1ffcd8097777554bc/505_60_3649_2919/500.jpg",
-      "published": "2026-05-08T18:46:56Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "politics"
-    },
-    {
-      "id": "politics/ng-interactive/2026/may/08/2026-elections-mapped-labour-reform-uk-greens-scotland-wales-england-local",
-      "headline": "2026 elections mapped: how Labour lost ground in different directions",
-      "summary": "Labour loses ground across England, Scotland and Wales to Reform and Green parties in 2026 elections.",
-      "url": "https://www.theguardian.com/p/x4th2d",
-      "thumbnail": "https://media.guim.co.uk/2b754fcb49ad3526150d4482ca3052568744690d/375_0_3750_3000/500.jpg",
-      "published": "2026-05-08T18:43:36Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "politics"
-    },
-    {
-      "id": "politics/2026/may/08/labour-cracks-showing-back-yards-starmer-top-team",
-      "headline": "Cracks showing for Labour close to back yards of Starmer’s top team",
-      "summary": "Labour's election losses expose cracks in working-class heartlands and progressive base.",
-      "url": "https://www.theguardian.com/p/x527fn",
-      "thumbnail": "https://media.guim.co.uk/2fd6d1b268148d76a47faa0137d24ab90d8a3d82/1703_0_3075_2460/500.jpg",
-      "published": "2026-05-08T18:42:10Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "politics"
-    },
     {
       "id": "tv-and-radio/live/2026/may/08/david-attenboroughs-100-years-on-planet-earth-bbc-live",
       "headline": "David Attenborough’s 100 Years on Planet Earth – live",
@@ -118,22 +70,6 @@
       "category": "sport",
       "significance": 2,
       "section": "sport"
-    },
-    {
-      "id": "us-news/2026/may/08/pentagon-ufo-files",
-      "headline": "Pentagon releases first batch of previously secret files documenting reports of UFOs",
-      "summary": "Pentagon releases declassified UFO files including 1969 Buzz Aldrin lunar object account.",
-      "url": "https://www.theguardian.com/p/x527jv",
-      "thumbnail": "https://media.guim.co.uk/2f8ebc43e9fd1612b2aca9ed78b9321063374ef4/110_0_1080_864/500.jpg",
-      "published": "2026-05-08T19:06:38Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "tech",
-      "significance": 3,
-      "section": "us-news"
     },
     {
       "id": "us-news/2026/may/08/charlie-kirk-courtroom-cameras-allowed",
@@ -1382,6 +1318,38 @@
       "category": "politics",
       "significance": 2,
       "section": "politics"
+    },
+    {
+      "id": "football/2026/may/09/manchester-city-brentford-premier-league-match-report",
+      "headline": "Manchester City keep pressure on Arsenal as Jérémy Doku sparks defeat of Brentford",
+      "summary": "Manchester City defeats Brentford 3-0 to close gap on Arsenal in Premier League.",
+      "url": "https://www.theguardian.com/p/x528xc",
+      "thumbnail": "https://media.guim.co.uk/e1bb18500afeedd3fd89cb7bb7cf204492e4ec55/80_0_5110_4088/500.jpg",
+      "published": "2026-05-09T18:38:29Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "sport/2026/may/09/bobby-cox-dies-84-atlanta-braves",
+      "headline": "Bobby Cox, Hall of Fame manager and Atlanta Braves icon, dies at 84",
+      "summary": "Hall of Famer Bobby Cox, legendary Atlanta Braves manager, dies at 84.",
+      "url": "https://www.theguardian.com/p/x52e88",
+      "thumbnail": "https://media.guim.co.uk/6ac1f075f28995b446daf8571f0ab918a24c1ff7/324_0_3240_2592/500.jpg",
+      "published": "2026-05-09T18:37:22Z",
+      "location": {
+        "name": "Atlanta",
+        "lat": 33.749,
+        "lng": -84.388
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "sport"
     }
   ]
 }
