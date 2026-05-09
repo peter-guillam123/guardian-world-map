@@ -1,60 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-08T23:33:30.771Z",
-    "story_count": 134,
-    "oldest_story": "2026-05-08T00:20:20Z",
-    "newest_story": "2026-05-08T22:15:33Z",
+    "generated_at": "2026-05-09T01:20:10.708Z",
+    "story_count": 132,
+    "oldest_story": "2026-05-08T03:33:34Z",
+    "newest_story": "2026-05-09T01:07:17Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "us-news/2026/may/08/trump-ally-roger-stone-condemned-for-providing-lobbying-services-to-myanmars-military-junta",
-      "headline": "Trump-ally Roger Stone condemned for providing lobbying services to Myanmar’s military junta",
-      "summary": "Trump ally Roger Stone condemned for lobbying Myanmar's military junta for $50,000 monthly.",
-      "url": "https://www.theguardian.com/p/x5xqz9",
-      "thumbnail": "https://media.guim.co.uk/d1d0f234401a49db7d96e0eb9f1ccc89367da1a2/74_0_3333_2667/500.jpg",
-      "published": "2026-05-08T00:57:43Z",
-      "location": {
-        "name": "Myanmar",
-        "lat": 21.9162,
-        "lng": 95.956
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "world/2026/may/08/ukraine-war-briefing-distant-strike-on-russian-missile-ship-in-caspian-sea",
-      "headline": "Ukraine war briefing: Distant strike on Russian missile ship in Caspian Sea",
-      "summary": "Ukraine strikes Russian missile ship in Caspian Sea over 1,500km from Kyiv near Dagestan.",
-      "url": "https://www.theguardian.com/p/x524ev",
-      "thumbnail": "https://media.guim.co.uk/7959d3fd673771aac3ef7a0e556b59078327b6eb/0_445_4027_3222/500.jpg",
-      "published": "2026-05-08T00:47:47Z",
-      "location": {
-        "name": "Caspian Sea",
-        "lat": 43.2,
-        "lng": 51.5
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "artanddesign/2026/may/08/khaled-sabsabi-at-venice-biennale-2026-ntwnfb",
-      "headline": "Khaled Sabsabi is finally at the Venice Biennale: ‘Being here is already a win’",
-      "summary": "Australian artist Khaled Sabsabi exhibits two works at 61st Venice Biennale after controversy.",
-      "url": "https://www.theguardian.com/p/x524cn",
-      "thumbnail": "https://media.guim.co.uk/be7b228cc84e808e5c3fe96335cde9369b551c8b/310_0_3413_2732/500.jpg",
-      "published": "2026-05-08T00:20:20Z",
-      "location": {
-        "name": "Venice",
-        "lat": 45.4408,
-        "lng": 12.3155
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "artanddesign"
-    },
     {
       "id": "environment/2026/may/08/country-diary-a-lesson-in-camouflage-from-a-cucumber-spider",
       "headline": "Country diary: A lesson in camouflage from a cucumber spider",
@@ -2150,6 +2102,22 @@
       "category": "politics",
       "significance": 2,
       "section": "commentisfree"
+    },
+    {
+      "id": "world/2026/may/08/trump-russia-ukraine-three-day-ceasefire-9-may",
+      "headline": "Russia and Ukraine confirm three-day ceasefire from 9 May",
+      "summary": "Russia and Ukraine confirm three-day ceasefire from May 9 with prisoner swap agreement.",
+      "url": "https://www.theguardian.com/p/x529vc",
+      "thumbnail": "https://media.guim.co.uk/ba7b3efeb6b419aa5840ef82e2a4462d9f898bb4/564_0_5637_4509/500.jpg",
+      "published": "2026-05-09T01:07:17Z",
+      "location": {
+        "name": "Ukraine",
+        "lat": 48.3794,
+        "lng": 31.1656
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
     }
   ]
 }
