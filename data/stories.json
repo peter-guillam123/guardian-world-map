@@ -1,28 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-09T17:34:54.376Z",
-    "story_count": 90,
-    "oldest_story": "2026-05-08T17:42:55Z",
-    "newest_story": "2026-05-09T16:38:07Z",
+    "generated_at": "2026-05-09T18:36:54.665Z",
+    "story_count": 86,
+    "oldest_story": "2026-05-08T18:42:10Z",
+    "newest_story": "2026-05-09T18:27:43Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "uk-news/2026/may/08/plaid-cymru-biggest-party-wales-senedd-labour-reform",
-      "headline": "Plaid Cymru biggest party in Senedd, ending 100 years of Labour control",
-      "summary": "Plaid Cymru becomes largest party in Welsh Senedd, ending over 100 years of Labour control.",
-      "url": "https://www.theguardian.com/p/x52787",
-      "thumbnail": "https://media.guim.co.uk/29ce4e0a807d28aaf0d73414e1b549765286d21b/234_0_3352_2682/500.jpg",
-      "published": "2026-05-08T17:42:55Z",
-      "location": {
-        "name": "Wales",
-        "lat": 52.1307,
-        "lng": -3.7837
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "uk-news"
-    },
     {
       "id": "politics/2026/may/08/keir-starmer-under-pressure-to-agree-exit-plan-after-election-mauling",
       "headline": "Keir Starmer under pressure to agree exit plan after election mauling",
@@ -70,102 +54,6 @@
       "category": "politics",
       "significance": 3,
       "section": "politics"
-    },
-    {
-      "id": "politics/2026/may/08/reform-wins-across-northern-england-overturn-decades-labour-control",
-      "headline": "Reform wins across northern England overturn decades of Labour control",
-      "summary": "Reform UK gains control of northern England councils including Sunderland, overturning decades of Labour rule.",
-      "url": "https://www.theguardian.com/p/x528x4",
-      "thumbnail": "https://media.guim.co.uk/256791dee9551e869088e3418be7eb0df4864770/0_0_7200_5760/500.jpg",
-      "published": "2026-05-08T18:35:48Z",
-      "location": {
-        "name": "Sunderland",
-        "lat": 54.9053,
-        "lng": -1.3857
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "politics"
-    },
-    {
-      "id": "world/2026/may/07/marco-rubio-to-meet-pope-at-the-vatican-after-trump-attacks-on-pontiff",
-      "headline": "Vatican stresses need for peace as Rubio meets pope amid strained relations",
-      "summary": "Vatican stresses peace efforts as US Secretary of State Rubio meets Pope amid Trump tensions.",
-      "url": "https://www.theguardian.com/p/x5xm4j",
-      "thumbnail": "https://media.guim.co.uk/bba450fcfd2f896cfbfeab97e4f701779b731ad3/87_0_5906_4725/500.jpg",
-      "published": "2026-05-08T18:31:23Z",
-      "location": {
-        "name": "Vatican City",
-        "lat": 41.9029,
-        "lng": 12.4534
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "world/2026/may/08/americans-hantavirus-cdc-quarantine-nebraska",
-      "headline": "Americans on hantavirus cruise ship reportedly to be quarantined in US",
-      "summary": "CDC to quarantine American cruise ship passengers infected with hantavirus in Nebraska.",
-      "url": "https://www.theguardian.com/p/x528na",
-      "thumbnail": "https://media.guim.co.uk/a2c88bab741fbe4b0611f36b510cc84453baabe4/250_0_2500_2000/500.jpg",
-      "published": "2026-05-08T18:19:59Z",
-      "location": {
-        "name": "Canary Islands",
-        "lat": 28.2915,
-        "lng": -16.6291
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "sport/2026/may/08/ben-stokes-pair-wickets-red-ball-return-durham-worcestershire-cricket",
-      "headline": "Slimline Stokes makes impression with pair of wickets on red-ball return",
-      "summary": "Ben Stokes makes red-ball return for Durham, taking two wickets against Worcestershire.",
-      "url": "https://www.theguardian.com/p/x528ky",
-      "thumbnail": "https://media.guim.co.uk/5ac1d121b14253c7d8323ac11914397cd4bd5cc3/585_0_5852_4681/500.jpg",
-      "published": "2026-05-08T18:02:52Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 1,
-      "section": "sport"
-    },
-    {
-      "id": "football/2026/may/08/west-ham-on-brink-a-decade-since-david-sullivan-big-club-feelings",
-      "headline": "West Ham on brink a decade after David Sullivan announced his ‘big club’ feelings",
-      "summary": "West Ham faces relegation threat a decade after moving to London Stadium.",
-      "url": "https://www.theguardian.com/p/x527be",
-      "thumbnail": "https://media.guim.co.uk/3b79bfce826884a3eb1de089f42310022c721fe2/0_0_2500_2000/500.jpg",
-      "published": "2026-05-08T18:00:34Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/may/08/how-did-league-champions-liverpool-club-world-cup-winners-chelsea-fall-so-far",
-      "headline": "How did league champions Liverpool and Club World Cup winners Chelsea fall so far?",
-      "summary": "Liverpool and Chelsea, recent champions, face relegation crisis ahead of Saturday match.",
-      "url": "https://www.theguardian.com/p/x5xzee",
-      "thumbnail": "https://media.guim.co.uk/2df53ffe98dfebf43152bc85beec3f69f77b2f12/0_0_5000_4000/500.jpg",
-      "published": "2026-05-08T18:00:34Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
     },
     {
       "id": "tv-and-radio/live/2026/may/08/david-attenboroughs-100-years-on-planet-earth-bbc-live",
@@ -1446,6 +1334,54 @@
       "category": "sport",
       "significance": 1,
       "section": "sport"
+    },
+    {
+      "id": "us-news/2026/may/09/trumps-low-approval-ratings-republicans-self-destruction-democrats-senate",
+      "headline": "With Trump’s low approval rating and Republicans’ ‘self-destruction’, can Democrats take the Senate?",
+      "summary": "Democrats face challenges winning Senate despite Trump's low approval and Republican divisions.",
+      "url": "https://www.theguardian.com/p/x5xj3p",
+      "thumbnail": "https://media.guim.co.uk/305d45d20f0e09ae24fb3955be038e711747442e/333_0_3333_2667/500.jpg",
+      "published": "2026-05-09T18:27:43Z",
+      "location": {
+        "name": "Iowa",
+        "lat": 42.0115,
+        "lng": -93.2105
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "world/2026/may/09/hantavirus-ship-hondius-tenerife",
+      "headline": "UK passengers on hantavirus-hit ship will fly home after Tenerife screening",
+      "summary": "UK passengers from hantavirus-hit cruise ship to be flown home for hospital quarantine.",
+      "url": "https://www.theguardian.com/p/x52dna",
+      "thumbnail": "https://media.guim.co.uk/0420505aa0a5291ae0a65e64fb3e3e9a3d6b82b1/226_0_1800_1440/500.jpg",
+      "published": "2026-05-09T17:56:30Z",
+      "location": {
+        "name": "Tenerife",
+        "lat": 28.2916,
+        "lng": -16.3291
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "politics/2026/may/09/mps-from-labours-left-to-urge-ed-miliband-to-consider-leadership-bid",
+      "headline": "MPs from Labour’s left to urge Ed Miliband to consider leadership bid",
+      "summary": "Labour MPs urge Ed Miliband to challenge Keir Starmer following poor election results.",
+      "url": "https://www.theguardian.com/p/x52dkq",
+      "thumbnail": "https://media.guim.co.uk/4fc3113d945b04d8573f9da7933bd427532f0ff3/215_0_1529_1223/500.jpg",
+      "published": "2026-05-09T17:43:00Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
     }
   ]
 }
