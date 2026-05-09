@@ -1,140 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-09T08:47:52.229Z",
-    "story_count": 116,
-    "oldest_story": "2026-05-08T08:54:46Z",
-    "newest_story": "2026-05-09T08:47:40Z",
+    "generated_at": "2026-05-09T09:58:01.065Z",
+    "story_count": 113,
+    "oldest_story": "2026-05-08T10:12:36Z",
+    "newest_story": "2026-05-09T09:55:24Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "world/live/2026/may/08/ukraine-russia-ceasefire-accusations-strikes-rubio-meloni-hanavirus-latest-news-updates",
-      "headline": "Ukraine and Russia accuse each other of breaking proposed ceasefires ahead of Victory Day parade in Moscow – Europe live",
-      "summary": "Ukraine and Russia accuse each other of ceasefire violations ahead of Moscow Victory Day parade.",
-      "url": "https://www.theguardian.com/p/x526ag",
-      "thumbnail": "https://media.guim.co.uk/736de7529cf79266ce22103a3cfbd950f9a23ca8/1046_0_4144_3316/500.jpg",
-      "published": "2026-05-08T09:48:01Z",
-      "location": {
-        "name": "Moscow",
-        "lat": 55.7558,
-        "lng": 37.6173
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "australia-news/2026/may/08/nt-childrens-advocates-worried-governments-child-protection-review-too-narrow-want-more-support-for-children-ntwnfb",
-      "headline": "Indigenous advocates criticise NT government’s planned child protection review",
-      "summary": "Indigenous advocates criticize Northern Territory government's child protection review scope.",
-      "url": "https://www.theguardian.com/p/x525qy",
-      "thumbnail": "https://media.guim.co.uk/4b0c788ff14713b13a7acb7b49550dd2320a36a4/250_0_2500_2000/500.jpg",
-      "published": "2026-05-08T09:44:23Z",
-      "location": {
-        "name": "Darwin",
-        "lat": -12.4634,
-        "lng": 130.8456
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "politics/2026/may/08/pink-hair-and-red-herrings-viral-quiz-invites-you-to-guess-politicians-stripes-from-their-photos",
-      "headline": "Pink hair and red herrings: viral quiz invites you to guess politicians’ stripes from their photos",
-      "summary": "Viral quiz game challenges players to guess UK politicians' parties from their appearances.",
-      "url": "https://www.theguardian.com/p/x523dd",
-      "thumbnail": "https://media.guim.co.uk/ed0d43f200f7d26974c7c26d99c527316d30400d/3297_2146_1096_877/500.jpg",
-      "published": "2026-05-08T09:30:28Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 1,
-      "section": "politics"
-    },
-    {
-      "id": "sport/2026/may/08/supremacy-at-the-six-nations-is-englands-dominance-an-issue-for-womens-rugby",
-      "headline": "Supremacy at the Six Nations: is England’s dominance an issue for women’s rugby?",
-      "summary": "England women's rugby dominance raises questions about competitive balance in Six Nations.",
-      "url": "https://www.theguardian.com/p/x52xt3",
-      "thumbnail": "https://media.guim.co.uk/eb12f4b9985625d63f76924ce17a40d91781c24b/90_0_3124_2500/500.jpg",
-      "published": "2026-05-08T09:30:25Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "environment/2026/may/08/inequality-extra-deaths-heat-cold-europe-climate",
-      "headline": "Inequality causing 100,000 extra deaths a year from heat and cold in Europe",
-      "summary": "Research shows economic inequality causes 100,000 extra heat and cold deaths yearly in Europe.",
-      "url": "https://www.theguardian.com/p/x526c4",
-      "thumbnail": "https://media.guim.co.uk/d0af48edaa5f0059ada28c38fa4425d3680bf65e/734_0_4640_3712/500.jpg",
-      "published": "2026-05-08T09:29:38Z",
-      "location": {
-        "name": "Europe",
-        "lat": 54.526,
-        "lng": 15.2551
-      },
-      "category": "climate",
-      "significance": 3,
-      "section": "environment"
-    },
-    {
-      "id": "politics/2026/may/08/early-england-election-results-make-it-clear-we-are-in-an-era-of-five-party-politics",
-      "headline": "Early England election results make it clear: we are in an era of five-party politics",
-      "summary": "Early England election results show shift to five-party politics with Labour losses and Reform gains.",
-      "url": "https://www.theguardian.com/p/x526j4",
-      "thumbnail": "https://media.guim.co.uk/1defbcf636243299c5196a8f884182e28df0a8d8/1301_0_5901_4723/500.jpg",
-      "published": "2026-05-08T09:28:03Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "world/2026/may/08/hong-kong-dissident-nathan-law-china-spies-spying-uk",
-      "headline": "Hong Kong dissident Nathan Law on China spies in UK: ‘We’re not surprised’",
-      "summary": "Hong Kong dissident Nathan Law responds to conviction of two Chinese spies in UK.",
-      "url": "https://www.theguardian.com/p/x525qv",
-      "thumbnail": "https://media.guim.co.uk/623ce535795acec692a6b0aa3ac3242f2d555679/407_0_4020_3216/500.jpg",
-      "published": "2026-05-08T09:00:41Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "politics/2026/may/08/keir-starmer-local-election-losses-labour",
-      "headline": "Starmer vows to fight on as PM despite heavy local election losses for Labour ",
-      "summary": "PM Starmer vows to continue despite heavy Labour losses in local elections to Reform.",
-      "url": "https://www.theguardian.com/p/x52623",
-      "thumbnail": "https://media.guim.co.uk/6c5ff9a412bedad4ed5cc8ff4e5453eae014281c/1035_0_3738_2991/500.jpg",
-      "published": "2026-05-08T08:54:46Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "politics"
-    },
     {
       "id": "us-news/live/2026/may/08/donald-trump-republicans-tennessee-redistricting-maps-voting-rights-iran-latest-news-updates",
       "headline": "Anger mounts after Tennessee Republicans redraw maps – US politics live",
@@ -1862,6 +1734,86 @@
       "category": "conflict",
       "significance": 4,
       "section": "world"
+    },
+    {
+      "id": "world/2026/may/09/russia-putin-moscow-victory-day-parade-scaled-back",
+      "headline": "Russia will always be victorious, says Putin at scaled-back Victory Day parade",
+      "summary": "Putin declares Russia victorious at scaled-back Victory Day parade amid heavy security and Ukraine ceasefire.",
+      "url": "https://www.theguardian.com/p/x52c2p",
+      "thumbnail": "https://media.guim.co.uk/68e0a1d04d01282ae86a0a081f7bb7db35545277/246_0_6529_5224/500.jpg",
+      "published": "2026-05-09T09:55:24Z",
+      "location": {
+        "name": "Moscow",
+        "lat": 55.7558,
+        "lng": 37.6173
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "australia-news/2026/may/09/farrer-byelection-results-one-nation-michelle-milthorpe-coalition",
+      "headline": "Early results show One Nation on track to win Farrer byelection ",
+      "summary": "One Nation leads in Farrer byelection, on track for first lower house victory with David Farley.",
+      "url": "https://www.theguardian.com/p/x52bt8",
+      "thumbnail": "https://media.guim.co.uk/6934b46993ea6555bfe12fdc75d021c4456aced9/415_0_4093_3274/500.jpg",
+      "published": "2026-05-09T09:13:00Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "us-news/2026/may/09/trump-administration-immigration-judges",
+      "headline": "‘Everyone has a breaking point’: the immigration judges at the sharp end of Trump’s deportation drive",
+      "summary": "Immigration judges fired or departed under Trump deportation push, remaining judges report compliance pressure.",
+      "url": "https://www.theguardian.com/p/x5vzpm",
+      "thumbnail": "https://media.guim.co.uk/6ef3bf6d863a11206084de723db6bc0a7f0a3721/1_0_2999_2400/500.jpg",
+      "published": "2026-05-09T09:00:53Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/may/09/book-bans-schools",
+      "headline": "‘They’re trying to narrow the worldview of young people’: how book bans are on the rise in the US",
+      "summary": "Book bans rising in US schools, reshaping student access to literature and worldviews.",
+      "url": "https://www.theguardian.com/p/x5vzp9",
+      "thumbnail": "https://media.guim.co.uk/f14ea5276f90cfa2d8f5178ea1c4ebcf81be8c10/857_0_4378_3504/500.jpg",
+      "published": "2026-05-09T09:00:52Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "business/2026/may/09/city-guilds-london-institute-trustees-accused-of-stalling-inquiry-into-166m-sale",
+      "headline": "City & Guilds London Institute trustees accused of stalling inquiry into £166m sale",
+      "summary": "City & Guilds trustees accused of stalling inquiry into £166m vocational charity business sale.",
+      "url": "https://www.theguardian.com/p/x522gd",
+      "thumbnail": "https://media.guim.co.uk/b11f036735f33e3554d9860c0af21d79a43dbb43/0_0_5600_4480/500.jpg",
+      "published": "2026-05-09T09:00:52Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
     }
   ]
 }
