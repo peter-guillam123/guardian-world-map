@@ -1,60 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-10T14:56:32.835Z",
-    "story_count": 93,
-    "oldest_story": "2026-05-09T15:00:00Z",
-    "newest_story": "2026-05-10T14:45:55Z",
+    "generated_at": "2026-05-10T16:01:13.374Z",
+    "story_count": 102,
+    "oldest_story": "2026-05-09T16:05:52Z",
+    "newest_story": "2026-05-10T15:59:51Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/live/2026/may/09/manchester-city-v-brentford-premier-league-live",
-      "headline": "Manchester City v Brentford: Premier League – live",
-      "summary": "Manchester City faces Brentford in Premier League match to maintain pressure on Arsenal.",
-      "url": "https://www.theguardian.com/p/x52vn4",
-      "thumbnail": "https://media.guim.co.uk/d3266c006390167fc3dc358b03558e14a80c1b77/459_0_4808_3847/500.jpg",
-      "published": "2026-05-09T15:27:25Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4831,
-        "lng": -2.2006
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "sport/2026/may/09/italy-england-womens-six-nations-rugby-union-match-report",
-      "headline": "Marlie Packer terrorises Italy to keep England’s Six Nations defence on track",
-      "summary": "England women's rugby beats Italy 61-33 in Six Nations with Marlie Packer scoring four tries.",
-      "url": "https://www.theguardian.com/p/x5285t",
-      "thumbnail": "https://media.guim.co.uk/2b51724e85046fbe0910e91de8914d88d26e43e3/0_0_4167_3333/500.jpg",
-      "published": "2026-05-09T15:06:37Z",
-      "location": {
-        "name": "Rome",
-        "lat": 41.9028,
-        "lng": 12.4964
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "us-news/2026/may/09/los-angeles-subway-public-transportation",
-      "headline": "Riding the D in Los Angeles: city famous for traffic hopes new subway stations will be a ‘game changer’",
-      "summary": "LA opens new subway stations on D line for first time in 25 years ahead of World Cup and Olympics.",
-      "url": "https://www.theguardian.com/p/x52avb",
-      "thumbnail": "https://media.guim.co.uk/993e2a6cddc5b1cd160a13d3ebf3a210247bf596/236_0_4510_3608/500.jpg",
-      "published": "2026-05-09T15:00:00Z",
-      "location": {
-        "name": "Los Angeles",
-        "lat": 34.0522,
-        "lng": -118.2437
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "us-news"
-    },
     {
       "id": "politics/2026/may/09/why-welsh-voters-turned-their-backs-on-the-labour-party",
       "headline": "Why Welsh voters turned their backs on the Labour party",
@@ -134,86 +86,6 @@
       "category": "sport",
       "significance": 2,
       "section": "football"
-    },
-    {
-      "id": "football/2026/may/09/spygate-playoff-row-championship-southampton-middlesbrough-hellberg-eckert",
-      "headline": "Spygate playoff row deepens as Boro’s Hellberg labels Southampton ‘cheats’",
-      "summary": "Southampton manager walks out of press conference over allegations of spying on Middlesbrough training session.",
-      "url": "https://www.theguardian.com/p/x52dh9",
-      "thumbnail": "https://media.guim.co.uk/404b3be0fb8c65cdf81005af4b1860f05b770eea/445_0_5000_4000/500.jpg",
-      "published": "2026-05-09T16:00:10Z",
-      "location": {
-        "name": "Middlesbrough",
-        "lat": 54.5752,
-        "lng": -1.2344
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "technology/2026/may/09/google-developers-significantly-misstate-carbon-emissions-of-proposed-uk-datacentres",
-      "headline": "Google developers significantly misstate carbon emissions of proposed UK datacentres",
-      "summary": "Google significantly understated carbon emissions by factor of five in UK AI datacentre planning documents.",
-      "url": "https://www.theguardian.com/p/x52892",
-      "thumbnail": "https://media.guim.co.uk/21cd8c4dd6b45f172b3127a755cd58f87745944b/908_7_1739_1392/500.jpg",
-      "published": "2026-05-09T16:00:01Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "tech",
-      "significance": 2,
-      "section": "technology"
-    },
-    {
-      "id": "technology/2026/may/09/elon-musk-sam-altman-openai-trial",
-      "headline": "What I saw at the Musk-OpenAI trial: petty billionaires, protests and a stern judge",
-      "summary": "Elon Musk and OpenAI's Sam Altman trial over AI's future unfolds amid courtroom drama in Oakland.",
-      "url": "https://www.theguardian.com/p/x529ym",
-      "thumbnail": "https://media.guim.co.uk/2ade2a1457d1646e9cb9c64d18c43a507ad8de53/0_0_5000_4000/500.jpg",
-      "published": "2026-05-09T16:00:01Z",
-      "location": {
-        "name": "Oakland",
-        "lat": 37.8044,
-        "lng": -122.2712
-      },
-      "category": "tech",
-      "significance": 3,
-      "section": "technology"
-    },
-    {
-      "id": "football/2026/may/09/arne-slot-rio-ngumoha-cramp-liverpool-chelsea-booed",
-      "headline": "Arne Slot says Rio Ngumoha had cramp after Liverpool starlet’s substitution is booed",
-      "summary": "Liverpool manager Slot defends Rio Ngumoha substitution after 1-1 Chelsea draw as fans boo.",
-      "url": "https://www.theguardian.com/p/x528vz",
-      "thumbnail": "https://media.guim.co.uk/6ececbeac5aaf0a630dea97dd5c3e1e6aae0467e/344_0_2861_2289/500.jpg",
-      "published": "2026-05-09T15:56:12Z",
-      "location": {
-        "name": "Liverpool",
-        "lat": 53.4308,
-        "lng": -2.9623
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "sport/2026/may/09/st-helens-wigan-rugby-league-challenge-cup-match-report",
-      "headline": "Wigan humilate scoreless St Helens to reach Challenge Cup final",
-      "summary": "Wigan demolish St Helens 32-0 in Challenge Cup semi-final to reach Wembley final.",
-      "url": "https://www.theguardian.com/p/x5286g",
-      "thumbnail": "https://media.guim.co.uk/b96f0d4dd521bbd4bf6f791cae3f763552c3fa34/419_0_3334_2667/500.jpg",
-      "published": "2026-05-09T15:46:35Z",
-      "location": {
-        "name": "Wigan",
-        "lat": 53.5433,
-        "lng": -2.6271
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
     },
     {
       "id": "politics/2026/may/09/tyrone-scott-hackney-council-greens-paper-candidate",
@@ -1494,6 +1366,278 @@
       "category": "economy",
       "significance": 2,
       "section": "us-news"
+    },
+    {
+      "id": "politics/2026/may/10/starmer-faces-perilous-24-hours-streeting-readying-leadership-bid",
+      "headline": "Rayner warns Starmer to change direction as Streeting preparing leadership bid",
+      "summary": "Starmer faces leadership crisis as 40 Labour MPs call for resignation after election losses.",
+      "url": "https://www.theguardian.com/p/x52tjc",
+      "thumbnail": "https://media.guim.co.uk/2d59fdb903cc967a504f00d3980d0c0b65ec0d5d/807_86_4448_3560/500.jpg",
+      "published": "2026-05-10T15:59:51Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 4,
+      "section": "politics"
+    },
+    {
+      "id": "politics/2026/may/10/pm-must-resign-to-save-britains-future",
+      "headline": "PM must resign to save Britain’s future",
+      "summary": "Letters call for PM resignation to save Britain's future amid election defeat.",
+      "url": "https://www.theguardian.com/p/x52htn",
+      "thumbnail": "https://media.guim.co.uk/fca00a58ba9a78ccab8f555ea5284068e33c3c4c/0_1012_3100_2480/500.jpg",
+      "published": "2026-05-10T15:55:06Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "politics"
+    },
+    {
+      "id": "society/2026/may/10/renters-rights-act-could-worsen-court-delays-without-proper-funding",
+      "headline": "Renters’ Rights Act could worsen court delays without proper funding",
+      "summary": "Renters' Rights Act risks court delays without adequate funding and legal aid investment.",
+      "url": "https://www.theguardian.com/p/x52xe2",
+      "thumbnail": "https://media.guim.co.uk/10eb132f9482b8402c3c4524608fbed33f080f58/433_0_4240_3394/500.jpg",
+      "published": "2026-05-10T15:54:50Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "society"
+    },
+    {
+      "id": "environment/2026/may/10/fish-farms-and-pollution-in-scotland",
+      "headline": "Fish farms and pollution in Scotland",
+      "summary": "Scottish salmon farms granted permissions without environmental impact assessments.",
+      "url": "https://www.theguardian.com/p/x5xmg9",
+      "thumbnail": "https://media.guim.co.uk/ea32cd377d8b43c90b04401525770b72b5bec5b0/291_0_2889_2312/500.jpg",
+      "published": "2026-05-10T15:54:22Z",
+      "location": {
+        "name": "Edinburgh",
+        "lat": 55.9533,
+        "lng": -3.1883
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "environment"
+    },
+    {
+      "id": "education/2026/may/10/peggy-george-obituary",
+      "headline": "Peggy George obituary",
+      "summary": "Peggy George, influential Welsh history teacher, dies aged 93.",
+      "url": "https://www.theguardian.com/p/x4z7qg",
+      "thumbnail": "https://media.guim.co.uk/4e1bf52828d3a11d59505acddf1a967602619736/22_100_776_620/500.jpg",
+      "published": "2026-05-10T15:50:25Z",
+      "location": {
+        "name": "Swansea",
+        "lat": 51.6214,
+        "lng": -3.9435
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "education"
+    },
+    {
+      "id": "football/2026/may/10/crystal-palace-everton-premier-league-match-report",
+      "headline": "Everton’s European hopes hit after Mateta’s equaliser for Crystal Palace",
+      "summary": "Everton draws 2-2 with Crystal Palace, denting European qualification hopes.",
+      "url": "https://www.theguardian.com/p/x528b7",
+      "thumbnail": "https://media.guim.co.uk/93d71151b3b2c1e69f74b2d0d831419b5991c22f/177_425_5018_4017/500.jpg",
+      "published": "2026-05-10T15:11:38Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/may/10/nottingham-forest-newcastle-premier-league-match-report",
+      "headline": "Anderson stuns former club Newcastle with late equaliser as Forest step towards safety",
+      "summary": "Elliot Anderson's late equaliser helps Nottingham Forest towards safety.",
+      "url": "https://www.theguardian.com/p/x528a2",
+      "thumbnail": "https://media.guim.co.uk/d15dd6d2751e5e1fb19a0e8e0f04b9feda41af26/242_0_2399_1920/500.jpg",
+      "published": "2026-05-10T15:10:21Z",
+      "location": {
+        "name": "Nottingham",
+        "lat": 52.9397,
+        "lng": -1.1332
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "news/2026/may/10/thousands-attend-rally-against-antisemitism-outside-downing-street",
+      "headline": "Thousands attend rally against antisemitism outside Downing Street",
+      "summary": "Thousands rally against antisemitism outside Downing Street amid hate crime rise.",
+      "url": "https://www.theguardian.com/p/x52tta",
+      "thumbnail": "https://media.guim.co.uk/b4c49eb6a56c48a0f50cfbee06c6821a5057857d/695_0_7920_6336/500.jpg",
+      "published": "2026-05-10T15:09:55Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "news"
+    },
+    {
+      "id": "uk-news/2026/may/10/mike-ashley-peter-cowgill-video-sports-direct-jd-sports",
+      "headline": "Mike Ashley admits he was behind video that brought down JD Sports chair",
+      "summary": "Mike Ashley admits arranging surveillance footage that toppled JD Sports chair.",
+      "url": "https://www.theguardian.com/p/x52hk6",
+      "thumbnail": "https://media.guim.co.uk/005a9c23072ba5cd7e9721c948915528755e5588/537_50_1899_1519/500.jpg",
+      "published": "2026-05-10T15:09:54Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "football/2026/may/10/burnley-aston-villa-premier-league-match-report",
+      "headline": "Aston Villa frustrated by Zian Flemming strike as Burnley rally for rare point",
+      "summary": "Aston Villa draws 2-2 with relegated Burnley, damaging Champions League hopes.",
+      "url": "https://www.theguardian.com/p/x528ad",
+      "thumbnail": "https://media.guim.co.uk/40aa02f53aaca64d0e6e6e9d2daaa7dead81a651/510_244_3261_2610/500.jpg",
+      "published": "2026-05-10T15:04:10Z",
+      "location": {
+        "name": "Burnley",
+        "lat": 53.7952,
+        "lng": -2.2393
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "film/2026/may/10/marilyn-monroe-los-angeles-legal-saga",
+      "headline": "‘Forced to preserve a monument’: how the fate of Marilyn Monroe’s LA home became a legal saga",
+      "summary": "Marilyn Monroe's LA home where she died faces uncertain future in legal limbo.",
+      "url": "https://www.theguardian.com/p/x524g4",
+      "thumbnail": "https://media.guim.co.uk/a710e841b4869824ed2c017d5ea51bc95c01a866/133_0_2134_1707/500.jpg",
+      "published": "2026-05-10T15:00:30Z",
+      "location": {
+        "name": "Los Angeles",
+        "lat": 34.0522,
+        "lng": -118.2437
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "film"
+    },
+    {
+      "id": "news/datablog/2026/may/11/how-one-nation-won-in-farrer-the-maps-that-show-the-big-swings-across-the-seat",
+      "headline": "How One Nation won in Farrer: the maps that show the big swings across the seat",
+      "summary": "One Nation's David Farley wins Farrer byelection with largest swings in rural areas.",
+      "url": "https://www.theguardian.com/p/x52fgv",
+      "thumbnail": "https://media.guim.co.uk/a18e23102ac511a0ef24e5c8897dcea5405e9513/908_0_7857_6286/500.jpg",
+      "published": "2026-05-10T15:00:30Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "news"
+    },
+    {
+      "id": "australia-news/2026/may/11/mohammad-bagher-ghalibaf-iran-son-australia-links-melbourne-ntwnfb",
+      "headline": "Property, a visa and a university job: the Australian links forged by a powerful Iranian politician’s son in Melbourne",
+      "summary": "Iranian politician's son had property, visa and university job in Melbourne amid sanctions concerns.",
+      "url": "https://www.theguardian.com/p/x5xfmp",
+      "thumbnail": "https://media.guim.co.uk/b31a03d4f886a9480eae991dfdf0bcbb184cbf9d/434_374_4193_3354/500.jpg",
+      "published": "2026-05-10T15:00:30Z",
+      "location": {
+        "name": "Melbourne",
+        "lat": -37.8136,
+        "lng": 144.9631
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "australia-news"
+    },
+    {
+      "id": "stage/2026/may/11/australian-theatre-young-people-saplings-sydney-opera-house",
+      "headline": "These are the stories of Australian kids navigating the justice system right now",
+      "summary": "Playwright creates theatrical work based on stories of Australian youth in detention and justice centers.",
+      "url": "https://www.theguardian.com/p/x5xqd8",
+      "thumbnail": "https://media.guim.co.uk/3cf79b323a9af42bfb8ff8860b1534f9fb284e25/369_257_3012_2410/500.jpg",
+      "published": "2026-05-10T15:00:29Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "stage"
+    },
+    {
+      "id": "lifeandstyle/2026/may/11/learn-to-cycle-courses-booming-australian-adults",
+      "headline": "Learn-to-cycle courses are booming in Australia as adults saddle up for the ‘golden age’ of biking",
+      "summary": "Adult learn-to-cycle courses surge in Australia as more people embrace cycling hobby.",
+      "url": "https://www.theguardian.com/p/x5vg44",
+      "thumbnail": "https://media.guim.co.uk/6f25a9986cf59250eaefada629b2bb775b75b530/297_0_2948_2358/500.jpg",
+      "published": "2026-05-10T15:00:29Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "lifeandstyle"
+    },
+    {
+      "id": "sport/blog/2026/may/11/afl-western-australia-teams-west-coast-eagles-fremantle-dockers-contrast",
+      "headline": "Woeful rabble v flag contenders: a tale of two AFL clubs in Western Australia ",
+      "summary": "West Coast Eagles decline while Fremantle Dockers emerge as flag contenders in AFL season.",
+      "url": "https://www.theguardian.com/p/x52ff6",
+      "thumbnail": "https://media.guim.co.uk/7089a160b627cd7d9cd854fac54831b5f6c4c75b/152_0_4193_3355/500.jpg",
+      "published": "2026-05-10T15:00:28Z",
+      "location": {
+        "name": "Perth",
+        "lat": -31.9505,
+        "lng": 115.8605
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "society/2026/may/11/doctors-warned-andrea-could-die-without-safe-housing-then-discharged-her-to-sleep-on-the-streets-ntwnfb",
+      "headline": "Doctors warned Andrea could die without safe housing, then discharged her to sleep on the streets",
+      "summary": "First Nations woman faces two-year housing wait after discharge despite life-threatening homelessness.",
+      "url": "https://www.theguardian.com/p/x5xq4p",
+      "thumbnail": "https://media.guim.co.uk/b245bebefc4a7e29d19669d349a0fd6423f20a89/464_0_4640_3712/500.jpg",
+      "published": "2026-05-10T15:00:28Z",
+      "location": {
+        "name": "Perth",
+        "lat": -31.9505,
+        "lng": 115.8605
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "society"
     }
   ]
 }
