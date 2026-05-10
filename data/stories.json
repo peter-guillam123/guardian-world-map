@@ -1,140 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-10T16:01:13.374Z",
-    "story_count": 102,
-    "oldest_story": "2026-05-09T16:05:52Z",
-    "newest_story": "2026-05-10T15:59:51Z",
+    "generated_at": "2026-05-10T17:08:46.420Z",
+    "story_count": 106,
+    "oldest_story": "2026-05-09T17:43:00Z",
+    "newest_story": "2026-05-10T17:01:14Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "politics/2026/may/09/why-welsh-voters-turned-their-backs-on-the-labour-party",
-      "headline": "Why Welsh voters turned their backs on the Labour party",
-      "summary": "Labour party experiences collapse in Welsh Senedd elections amid voter disengagement and public service struggles.",
-      "url": "https://www.theguardian.com/p/x52dt8",
-      "thumbnail": "https://media.guim.co.uk/f22744c6a91897c0c1437c6460214668aaaaa773/1360_0_4621_3698/500.jpg",
-      "published": "2026-05-09T16:31:36Z",
-      "location": {
-        "name": "Wales",
-        "lat": 52.13,
-        "lng": -3.7837
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "politics"
-    },
-    {
-      "id": "us-news/2026/may/09/trump-no-bid-contract-lincoln-memorial-reflecting-pool",
-      "headline": "No-bid contract to turn DC’s reflecting pool blue goes to firm with ties to Trump",
-      "summary": "Trump-linked firm awarded $6.9m no-bid contract to restore Lincoln Memorial's reflecting pool.",
-      "url": "https://www.theguardian.com/p/x52d8m",
-      "thumbnail": "https://media.guim.co.uk/893154cd40032250d12053df8f4f5c43a1ef0b6d/362_0_3491_2794/500.jpg",
-      "published": "2026-05-09T16:31:00Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "politics/2026/may/09/swinney-keen-to-work-with-fellow-nationalist-devolved-leaders-in-uk",
-      "headline": "Swinney keen to work with fellow nationalist devolved leaders in UK",
-      "summary": "SNP leader Swinney plans coordination with nationalist devolved leaders on cost of living opposition.",
-      "url": "https://www.theguardian.com/p/x52df3",
-      "thumbnail": "https://media.guim.co.uk/340d615d846569626be236c9786922502fba1cd4/240_0_2987_2388/500.jpg",
-      "published": "2026-05-09T16:24:42Z",
-      "location": {
-        "name": "Edinburgh",
-        "lat": 55.9533,
-        "lng": -3.1883
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "football/2026/may/09/fulham-bournemouth-premier-league-match-report",
-      "headline": "Bournemouth sink Fulham in 10-a-side contest to boost European hopes",
-      "summary": "Bournemouth defeat Fulham 1-0 in 10-a-side Premier League match to boost European qualification hopes.",
-      "url": "https://www.theguardian.com/p/x528xt",
-      "thumbnail": "https://media.guim.co.uk/968ced318bebda63623637534dad467ce3e553bc/404_0_4832_3866/500.jpg",
-      "published": "2026-05-09T16:18:01Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/may/09/sunderland-manchester-united-premier-league-match-report",
-      "headline": "Lammens holds Sunderland at bay as Manchester United struggle without Sesko",
-      "summary": "Manchester United draw 0-0 with Sunderland despite Champions League qualification, missing injured Sesko.",
-      "url": "https://www.theguardian.com/p/x528x6",
-      "thumbnail": "https://media.guim.co.uk/ef9dfc9179a31f7765707898415bd1e900f02ae5/825_179_3549_2840/500.jpg",
-      "published": "2026-05-09T16:05:52Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4808,
-        "lng": -2.2426
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "politics/2026/may/09/tyrone-scott-hackney-council-greens-paper-candidate",
-      "headline": "‘I’ll talk to work on Monday’: what happens when a ‘paper candidate’ actually wins ",
-      "summary": "Green Party candidate Tyrone Scott wins surprise victory in Hackney local election.",
-      "url": "https://www.theguardian.com/p/x52dv9",
-      "thumbnail": "https://media.guim.co.uk/88a2c9116c8e828bb70bca8909973c36c867484d/0_311_3110_2488/500.jpg",
-      "published": "2026-05-09T16:38:07Z",
-      "location": {
-        "name": "Hackney",
-        "lat": 51.545,
-        "lng": -0.055
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "us-news/2026/may/09/defamation-lawsuit-dismissed-raymond-epps-fox-news-january-6",
-      "headline": "Federal judge dismisses former Trump supporter’s defamation suit against Fox News",
-      "summary": "Federal judge dismisses defamation suit by Raymond Epps against Fox News over January 6 coverage.",
-      "url": "https://www.theguardian.com/p/x52dfp",
-      "thumbnail": "https://media.guim.co.uk/947b22fef536aa9b45eff9a18dfcbd80fa4b1ba9/335_0_5000_4000/500.jpg",
-      "published": "2026-05-09T16:37:24Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "sport/2026/may/09/leicester-northampton-prem-rugby-union-match-report",
-      "headline": "Leicester hit Northampton for six as league leaders crumble in fiery derby",
-      "summary": "Leicester Tigers defeat Northampton Saints 41-17 in East Midlands rugby derby.",
-      "url": "https://www.theguardian.com/p/x52866",
-      "thumbnail": "https://media.guim.co.uk/f8d5d9f4d5d543c558cc8fa10cdbc15c5a632a97/420_0_2734_2187/500.jpg",
-      "published": "2026-05-09T16:37:15Z",
-      "location": {
-        "name": "Leicester",
-        "lat": 52.62,
-        "lng": -1.1425
-      },
-      "category": "sport",
-      "significance": 1,
-      "section": "sport"
-    },
     {
       "id": "us-news/2026/may/09/trumps-low-approval-ratings-republicans-self-destruction-democrats-senate",
       "headline": "With Trump’s low approval rating and Republicans’ ‘self-destruction’, can Democrats take the Senate?",
@@ -1638,6 +1510,198 @@
       "category": "health",
       "significance": 2,
       "section": "society"
+    },
+    {
+      "id": "football/2026/may/10/rochdale-return-to-football-league-in-shootout-after-boreham-wood-thriller",
+      "headline": "Rochdale return to Football League in shootout after Boreham Wood thriller",
+      "summary": "Rochdale return to Football League after penalty shootout victory over Boreham Wood.",
+      "url": "https://www.theguardian.com/p/x528cb",
+      "thumbnail": "https://media.guim.co.uk/e3b205ff79c316b5d5e190b5408ea149ba51cd4f/406_0_4716_3773/500.jpg",
+      "published": "2026-05-10T17:01:14Z",
+      "location": {
+        "name": "Boreham Wood",
+        "lat": 51.6471,
+        "lng": -0.2747
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "sport/2026/may/10/casper-ruud-jannik-sinner-beatable-record-masters-1000-italian-open",
+      "headline": "Ruud says Sinner is ‘beatable’ as world No 1 seeks record run at Italian Open",
+      "summary": "Jannik Sinner aims for record sixth consecutive Masters 1000 title at Italian Open.",
+      "url": "https://www.theguardian.com/p/x528h8",
+      "thumbnail": "https://media.guim.co.uk/d1af77f1be7a376ddfb5ac6c460fabf40c16428e/211_0_2651_2121/500.jpg",
+      "published": "2026-05-10T16:49:19Z",
+      "location": {
+        "name": "Rome",
+        "lat": 41.9028,
+        "lng": 12.4964
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "education/2026/may/10/margaret-alcorn-obituary",
+      "headline": "Margaret Alcorn obituary",
+      "summary": "Margaret Alcorn, Scottish education advocate and teacher development pioneer, dies aged 78.",
+      "url": "https://www.theguardian.com/p/x4z7mp",
+      "thumbnail": "https://media.guim.co.uk/eb458ea95f91655bbb820fe01e7017caf6b50bfb/151_610_1873_1498/500.jpg",
+      "published": "2026-05-10T16:47:28Z",
+      "location": {
+        "name": "Edinburgh",
+        "lat": 55.9533,
+        "lng": -3.1883
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "education"
+    },
+    {
+      "id": "business/2026/may/10/full-nationalisation-of-british-steel-expected-in-kings-speech",
+      "headline": "Full nationalisation of British Steel expected in King’s speech",
+      "summary": "Full nationalisation of British Steel expected in King's speech to safeguard blast furnaces.",
+      "url": "https://www.theguardian.com/p/x52t5b",
+      "thumbnail": "https://media.guim.co.uk/ae92298a992bb06eea9333a9e6c7c163fd7f2415/0_0_6126_4901/500.jpg",
+      "published": "2026-05-10T16:45:38Z",
+      "location": {
+        "name": "Scunthorpe",
+        "lat": 53.5823,
+        "lng": -0.6471
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "business"
+    },
+    {
+      "id": "politics/2026/may/10/plaid-cymru-leader-plans-minority-welsh-government-cooperation",
+      "headline": "Plaid Cymru leader plans minority Welsh government built on cooperation",
+      "summary": "Plaid Cymru leader plans minority Welsh government with cooperation from opposition parties.",
+      "url": "https://www.theguardian.com/p/x52tq2",
+      "thumbnail": "https://media.guim.co.uk/027e4eea42736a1aac45bf78f97b1f65b55229c2/296_84_2553_2042/500.jpg",
+      "published": "2026-05-10T16:45:16Z",
+      "location": {
+        "name": "Cardiff",
+        "lat": 51.4816,
+        "lng": -3.1791
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "politics"
+    },
+    {
+      "id": "world/2026/may/10/rhythm-nation-politicians-viral-dance-moves-mark-new-optimistic-era-for-hungary",
+      "headline": "Rhythm nation: politician’s viral dance moves mark new, optimistic era for Hungary",
+      "summary": "Péter Magyar ousts Viktor Orbán after 16 years; politician's viral dance marks optimistic era.",
+      "url": "https://www.theguardian.com/p/x52tnj",
+      "thumbnail": "https://media.guim.co.uk/8a2f27061069ab49a36e70e6a15b771726013769/902_623_4083_3268/500.jpg",
+      "published": "2026-05-10T16:42:24Z",
+      "location": {
+        "name": "Budapest",
+        "lat": 47.4979,
+        "lng": 19.0402
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "sport/2026/may/10/exeter-bath-prem-rugby-union-match-report",
+      "headline": "Campbell Ridl boosts Exeter’s Prem playoff push with victory over Bath",
+      "summary": "Exeter beats Bath 35-12 to strengthen playoff push in Premiership rugby.",
+      "url": "https://www.theguardian.com/p/x528g3",
+      "thumbnail": "https://media.guim.co.uk/1e66d069dba8f3781b5b43aa5c49a1cb98d88e8d/591_0_3679_2944/500.jpg",
+      "published": "2026-05-10T16:40:55Z",
+      "location": {
+        "name": "Exeter",
+        "lat": 50.7184,
+        "lng": -3.5339
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "commentisfree/2026/may/10/the-guardian-view-on-the-who-pandemic-treaty-the-wests-fantasy-negotiations-have-put-the-world-at-risk",
+      "headline": "The Guardian view on the WHO pandemic treaty: the west’s fantasy negotiations have put the world at risk",
+      "summary": "WHO pandemic treaty negotiations focus on vaccine equity after five years of deliberation.",
+      "url": "https://www.theguardian.com/p/x526fb",
+      "thumbnail": "https://media.guim.co.uk/eee1a11153d495a7f9e398ac87e39f4817ec0952/38_0_1667_1333/500.jpg",
+      "published": "2026-05-10T16:25:30Z",
+      "location": {
+        "name": "Geneva",
+        "lat": 46.2044,
+        "lng": 6.1432
+      },
+      "category": "health",
+      "significance": 3,
+      "section": "commentisfree"
+    },
+    {
+      "id": "us-news/2026/may/10/americans-hantavirus-cruise-ship-repatriated",
+      "headline": "Americans onboard hantavirus cruise ship to be repatriated to US",
+      "summary": "17 Americans from hantavirus cruise ship repatriated to quarantine center in Nebraska.",
+      "url": "https://www.theguardian.com/p/x52tyv",
+      "thumbnail": "https://media.guim.co.uk/143df928fbcad6278d5d77ede19a00e19d1da819/763_0_5503_4405/500.jpg",
+      "published": "2026-05-10T16:20:38Z",
+      "location": {
+        "name": "Nebraska",
+        "lat": 41.4925,
+        "lng": -99.9018
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "tv-and-radio/2026/may/10/bafta-tv-awards-2026-the-full-list-of-winners-live",
+      "headline": "Bafta TV awards 2026: the full list of winners – live!",
+      "summary": "Bafta TV awards 2026 celebrate British television with Adolescence among major winners.",
+      "url": "https://www.theguardian.com/p/x522f6",
+      "thumbnail": "https://media.guim.co.uk/869452beb82e5e13c8f72181d66169843ee4086e/105_132_1992_1593/500.jpg",
+      "published": "2026-05-10T16:15:18Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "tv-and-radio"
+    },
+    {
+      "id": "society/2026/may/10/steve-lismore-obituary",
+      "headline": "Steve Lismore obituary",
+      "summary": "Steve Lismore, civil servant and local politician, dies aged 71 in climbing accident.",
+      "url": "https://www.theguardian.com/p/x4px7b",
+      "thumbnail": "https://media.guim.co.uk/c4d65f46cc6c3793256c1593da4e747b585db172/0_355_3000_2400/500.jpg",
+      "published": "2026-05-10T16:11:57Z",
+      "location": {
+        "name": "Derbyshire",
+        "lat": 53.2411,
+        "lng": -1.4615
+      },
+      "category": "other",
+      "significance": 1,
+      "section": "society"
+    },
+    {
+      "id": "us-news/2026/may/10/south-dakota-sioux-oil-pipeline",
+      "headline": "After Standing Rock, could a canceled mine project offer a roadmap for opponents of a new oil pipeline in South Dakota?",
+      "summary": "Sioux Nation groups oppose graphite drilling project near sacred site in Black Hills.",
+      "url": "https://www.theguardian.com/p/x5xnkc",
+      "thumbnail": "https://media.guim.co.uk/c2457c4c35da97ff43c85b90c9ed36b150873da2/313_0_2973_2377/500.jpg",
+      "published": "2026-05-10T16:00:29Z",
+      "location": {
+        "name": "South Dakota",
+        "lat": 44.2998,
+        "lng": -99.4388
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
     }
   ]
 }
