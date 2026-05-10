@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-05-10T06:46:10.725Z",
-    "story_count": 90,
-    "oldest_story": "2026-05-09T08:37:55Z",
-    "newest_story": "2026-05-10T06:38:40Z",
+    "generated_at": "2026-05-10T08:46:53.101Z",
+    "story_count": 92,
+    "oldest_story": "2026-05-09T08:47:40Z",
+    "newest_story": "2026-05-10T08:45:53Z",
     "window_hours": 24
   },
   "stories": [
@@ -22,38 +22,6 @@
       "category": "politics",
       "significance": 3,
       "section": "politics"
-    },
-    {
-      "id": "football/live/2026/may/09/manchester-city-look-to-stay-in-title-hunt-liverpool-host-chelsea-efl-playoffs-buildup-matchday-live",
-      "headline": "Manchester City look to stay in title hunt, Liverpool host Chelsea, EFL playoffs buildup – matchday live",
-      "summary": "Manchester City face Brentford as they look to stay in Premier League title contention.",
-      "url": "https://www.theguardian.com/p/x5xz2a",
-      "thumbnail": "https://media.guim.co.uk/25d59101f25cc7052ed169d104c9229f843dde1a/0_0_5160_4128/500.jpg",
-      "published": "2026-05-09T08:40:01Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4808,
-        "lng": -2.2426
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "world/live/2026/may/09/peter-magyar-hungary-russia-ukraine-ceasefire-moscow-victory-day-parade-europe-latest-news-updates",
-      "headline": "Three-day Russia-Ukraine ceasefire begins as Moscow holds Victory Day parade – Europe live",
-      "summary": "Three-day Russia-Ukraine ceasefire begins during Moscow's Victory Day parade.",
-      "url": "https://www.theguardian.com/p/x52bpv",
-      "thumbnail": "https://media.guim.co.uk/450fdb266c90baffab17dc0c78602f28ab536b43/661_0_1800_1440/500.jpg",
-      "published": "2026-05-09T08:37:55Z",
-      "location": {
-        "name": "Moscow",
-        "lat": 55.7558,
-        "lng": 37.6173
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
     },
     {
       "id": "world/2026/may/09/russia-putin-moscow-victory-day-parade-scaled-back",
@@ -1446,6 +1414,70 @@
       "category": "climate",
       "significance": 2,
       "section": "environment"
+    },
+    {
+      "id": "world/live/2026/may/10/hantavirus-cruise-ship-rat-spain-tenerife-russia-ukraine-putin-zelenskyy-war-europe-latest-news-updates",
+      "headline": "Hantavirus-hit cruise ship arrives in Tenerife with Spanish passengers to be evacuated first – Europe live ",
+      "summary": "Hantavirus-hit cruise ship arrives in Tenerife for passenger evacuation after outbreak kills three.",
+      "url": "https://www.theguardian.com/p/x52h4p",
+      "thumbnail": "https://media.guim.co.uk/6e21973b30acf4e8d80f6f5840e7a4d8f3fcaf42/304_18_2430_1944/500.jpg",
+      "published": "2026-05-10T08:45:53Z",
+      "location": {
+        "name": "Tenerife",
+        "lat": 28.2916,
+        "lng": -16.3219
+      },
+      "category": "health",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "politics/live/2026/may/10/may-elections-keir-starmer-catherine-west-labour-leadership-nigel-farage-reform-conservatives-kemi-badenoch-richard-tice-bridget-phillipson-uk-politics-latest-news-updates",
+      "headline": "Labour MP challenges ministers to trigger leadership contest as PM vows to fight on – UK politics live",
+      "summary": "Labour MP challenges PM to trigger leadership contest as internal party tension mounts.",
+      "url": "https://www.theguardian.com/p/x52gng",
+      "thumbnail": "https://media.guim.co.uk/6317aa4b2e05084657ba7fcbb596505ce373c41d/0_0_5000_4000/500.png",
+      "published": "2026-05-10T08:45:31Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "football/live/2026/may/10/west-ham-v-arsenal-buildup-a-big-old-firm-derby-and-the-clasico-awaits-matchday-live",
+      "headline": "West Ham v Arsenal buildup, a big Old Firm derby, the clásico and more – matchday live",
+      "summary": "West Ham faces Arsenal in matchday buildup with Old Firm derby and clásico also scheduled.",
+      "url": "https://www.theguardian.com/p/x5xz3b",
+      "thumbnail": "https://media.guim.co.uk/3baae83cda116d4d339ce641683bb3413bdc750a/0_0_5000_4000/500.jpg",
+      "published": "2026-05-10T08:42:47Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 1,
+      "section": "football"
+    },
+    {
+      "id": "world/2026/may/10/hantavirus-cruise-ship-tenerife-evacuate-passengers-mv-hondius",
+      "headline": "Cruise ship hit by hantavirus arrives in Tenerife to evacuate passengers",
+      "summary": "MV Hondius cruise ship anchors offshore in Tenerife carrying 146 people for hantavirus evacuation.",
+      "url": "https://www.theguardian.com/p/x52h64",
+      "thumbnail": "https://media.guim.co.uk/6e21973b30acf4e8d80f6f5840e7a4d8f3fcaf42/304_18_2430_1944/500.jpg",
+      "published": "2026-05-10T08:21:26Z",
+      "location": {
+        "name": "Tenerife",
+        "lat": 28.2916,
+        "lng": -16.3219
+      },
+      "category": "health",
+      "significance": 3,
+      "section": "world"
     }
   ]
 }
