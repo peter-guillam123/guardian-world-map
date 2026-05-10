@@ -1,28 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-10T22:11:51.923Z",
+    "generated_at": "2026-05-10T23:11:06.408Z",
     "story_count": 106,
-    "oldest_story": "2026-05-09T23:06:34Z",
-    "newest_story": "2026-05-10T22:01:37Z",
+    "oldest_story": "2026-05-09T23:28:34Z",
+    "newest_story": "2026-05-10T22:39:18Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "australia-news/live/2026/may/10/politics-updates-farrer-byelection-one-nation-win-liberal-coalition-loss-reactions-pauline-hanson-angus-taylor-tim-wilson-insiders-anthony-albanese-labor-ntwnfb",
-      "headline": "Australia news live: Ley urges Liberals to accept Farrer loss to One Nation with ‘humility’, saying ‘voters never get it wrong’",
-      "summary": "One Nation wins Farrer byelection in major Coalition defeat; Liberal leader's future questioned.",
-      "url": "https://www.theguardian.com/p/x52f48",
-      "thumbnail": "https://media.guim.co.uk/4691880c9609631dce091ea02342f21377636b4a/0_0_2953_2362/500.jpg",
-      "published": "2026-05-09T23:06:34Z",
-      "location": {
-        "name": "Farrer",
-        "lat": -34.7751,
-        "lng": 147.0289
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
     {
       "id": "sport/2026/may/10/daniel-dubois-stops-fabio-wardley-wbo-heavyweight-title-boxing",
       "headline": "Daniel Dubois stops Fabio Wardley in bloody epic to win WBO heavyweight title",
@@ -1702,6 +1686,22 @@
       "category": "health",
       "significance": 2,
       "section": "society"
+    },
+    {
+      "id": "australia-news/2026/may/11/australia-charters-flight-to-bring-nationals-home-from-hantavirus-stricken-luxury-cruise",
+      "headline": "Australia charters flight to bring nationals home from hantavirus-stricken luxury cruise",
+      "summary": "Australia charters flight to repatriate nationals from hantavirus-stricken cruise ship via Perth.",
+      "url": "https://www.theguardian.com/p/x52kcd",
+      "thumbnail": "https://media.guim.co.uk/6265d750af05c85087ee39aca89d61d9d8e0ceb9/727_0_3636_2910/500.jpg",
+      "published": "2026-05-10T22:39:18Z",
+      "location": {
+        "name": "Perth",
+        "lat": -31.9505,
+        "lng": 115.8605
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "australia-news"
     }
   ]
 }
