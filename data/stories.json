@@ -1,28 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-10T00:04:00.262Z",
-    "story_count": 87,
-    "oldest_story": "2026-05-09T01:07:17Z",
-    "newest_story": "2026-05-09T23:29:39Z",
+    "generated_at": "2026-05-10T04:11:40.662Z",
+    "story_count": 89,
+    "oldest_story": "2026-05-09T04:30:47Z",
+    "newest_story": "2026-05-10T04:05:39Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "world/2026/may/08/trump-russia-ukraine-three-day-ceasefire-9-may",
-      "headline": "Russia and Ukraine confirm three-day ceasefire from 9 May",
-      "summary": "Russia and Ukraine confirm three-day ceasefire from May 9 with prisoner swap agreement.",
-      "url": "https://www.theguardian.com/p/x529vc",
-      "thumbnail": "https://media.guim.co.uk/ba7b3efeb6b419aa5840ef82e2a4462d9f898bb4/564_0_5637_4509/500.jpg",
-      "published": "2026-05-09T01:07:17Z",
-      "location": {
-        "name": "Ukraine",
-        "lat": 48.3794,
-        "lng": 31.1656
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
     {
       "id": "environment/2026/may/09/country-diary-a-terrible-time-for-a-tractor-breakdown",
       "headline": "Country diary: A terrible time for a tractor breakdown",
@@ -38,38 +22,6 @@
       "category": "culture",
       "significance": 1,
       "section": "environment"
-    },
-    {
-      "id": "tv-and-radio/2026/may/09/adolescence-to-the-celebrity-traitors-who-will-win-the-tv-baftas-and-who-should",
-      "headline": "Adolescence to The Celebrity Traitors: who will win the TV Baftas … and who should?",
-      "summary": "Jack Thorne's drama \"Adolescence\" leads predictions for 2026 TV Bafta Awards ceremony.",
-      "url": "https://www.theguardian.com/p/x52vpn",
-      "thumbnail": "https://media.guim.co.uk/f84d8c186179e8c5542fbeb32ba462ea4186ca15/872_0_4393_3517/500.jpg",
-      "published": "2026-05-09T04:00:46Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "tv-and-radio"
-    },
-    {
-      "id": "artanddesign/2026/may/09/what-not-to-miss-at-the-2026-venice-biennale",
-      "headline": "What not to miss at the 2026 Venice Biennale",
-      "summary": "Florentina Holzinger's extreme performances headline 2026 Venice Biennale art exhibition.",
-      "url": "https://www.theguardian.com/p/x52vpt",
-      "thumbnail": "https://media.guim.co.uk/ef6f0463e04c1a75442ddb226fb81302c2b90887/0_1739_4027_3220/500.jpg",
-      "published": "2026-05-09T04:00:46Z",
-      "location": {
-        "name": "Venice",
-        "lat": 45.4408,
-        "lng": 12.3155
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "artanddesign"
     },
     {
       "id": "money/2026/may/09/home-batteries-cutting-energy-bills-fuel-prices-electricity-costs",
@@ -1398,6 +1350,86 @@
       "category": "health",
       "significance": 2,
       "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/may/10/trump-news-at-a-glance-marco-rubio-hopes-for-serious-offer-from-iran-on-ceasefire-proposal",
+      "headline": "Trump news at a glance: Marco Rubio hopes for ‘serious offer’ from Iran on ceasefire proposal ",
+      "summary": "US Secretary of State Rubio seeks serious Iranian response to Middle East ceasefire proposal amid escalating tensions.",
+      "url": "https://www.theguardian.com/p/x52fmc",
+      "thumbnail": "https://media.guim.co.uk/6c53fe43e7eecddd1867fdd169f2f972ae5e6db9/501_331_1481_1185/500.jpg",
+      "published": "2026-05-10T04:05:39Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 4,
+      "section": "us-news"
+    },
+    {
+      "id": "news/ng-interactive/2026/may/10/tehran-taiwan-trade-donald-trump-xi-jinping-us-china-summit",
+      "headline": "Tehran, Taiwan, trade … what are the hazards facing Trump on Xi summit tightrope?",
+      "summary": "Trump prepares for rare China summit with Xi Jinping amid trade tensions and geopolitical uncertainties.",
+      "url": "https://www.theguardian.com/p/x526gk",
+      "thumbnail": "https://media.guim.co.uk/259f659263c47d09c2500112ff0d5656fdb3ca2b/0_0_2997_2397/500.jpg",
+      "published": "2026-05-10T04:00:15Z",
+      "location": {
+        "name": "Beijing",
+        "lat": 39.9042,
+        "lng": 116.4074
+      },
+      "category": "politics",
+      "significance": 4,
+      "section": "news"
+    },
+    {
+      "id": "world/2026/may/10/defence-sovereignty-europe-builds-low-cost-weapons-drones",
+      "headline": "Defence sovereignty: Europe races to build the low-cost weapons of future",
+      "summary": "European startups like Skycutter develop low-cost drone weapons for Ukraine as NATO questions mount.",
+      "url": "https://www.theguardian.com/p/x4znet",
+      "thumbnail": "https://media.guim.co.uk/f4caf8359cc92d806ce528712594d7bf74e4a1f5/576_0_5760_4608/500.jpg",
+      "published": "2026-05-10T04:00:15Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "tech",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "world/2026/may/10/hantavirus-is-not-easily-spread-but-is-global-heating-upping-our-exposure",
+      "headline": "Hantavirus is not easily spread, but is global heating upping our exposure?",
+      "summary": "Argentina faces hantavirus outbreak 30 years after first documented person-to-person transmission in Patagonia.",
+      "url": "https://www.theguardian.com/p/x5296y",
+      "thumbnail": "https://media.guim.co.uk/0616392ff75e2b45befd7603b0f24e546ac7c345/371_0_2915_2333/500.jpg",
+      "published": "2026-05-10T04:00:15Z",
+      "location": {
+        "name": "Buenos Aires",
+        "lat": -34.6037,
+        "lng": -58.3816
+      },
+      "category": "health",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "australia-news/2026/may/10/waking-up-in-one-nation-country-after-the-coalition-demolition-voters-wait-to-see-if-pauline-hansons-party-can-deliver",
+      "headline": "Waking up in One Nation country: after the Coalition demolition, voters wait to see if Pauline Hanson’s party can deliver",
+      "summary": "One Nation achieves first lower-house seat victory in Farrer electorate, signaling Coalition collapse in rural NSW.",
+      "url": "https://www.theguardian.com/p/x52d58",
+      "thumbnail": "https://media.guim.co.uk/8e564ea161a8518147f033596c419fe7c2367042/760_0_4005_3205/500.jpg",
+      "published": "2026-05-10T03:37:36Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
     }
   ]
 }
