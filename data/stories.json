@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-05-10T17:08:46.420Z",
-    "story_count": 106,
-    "oldest_story": "2026-05-09T17:43:00Z",
-    "newest_story": "2026-05-10T17:01:14Z",
+    "generated_at": "2026-05-10T18:06:01.713Z",
+    "story_count": 110,
+    "oldest_story": "2026-05-09T18:27:43Z",
+    "newest_story": "2026-05-10T18:04:28Z",
     "window_hours": 24
   },
   "stories": [
@@ -22,38 +22,6 @@
       "category": "politics",
       "significance": 2,
       "section": "us-news"
-    },
-    {
-      "id": "world/2026/may/09/hantavirus-ship-hondius-tenerife",
-      "headline": "UK passengers on hantavirus-hit ship will fly home after Tenerife screening",
-      "summary": "UK passengers from hantavirus-hit cruise ship to be flown home for hospital quarantine.",
-      "url": "https://www.theguardian.com/p/x52dna",
-      "thumbnail": "https://media.guim.co.uk/0420505aa0a5291ae0a65e64fb3e3e9a3d6b82b1/226_0_1800_1440/500.jpg",
-      "published": "2026-05-09T17:56:30Z",
-      "location": {
-        "name": "Tenerife",
-        "lat": 28.2916,
-        "lng": -16.3291
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "politics/2026/may/09/mps-from-labours-left-to-urge-ed-miliband-to-consider-leadership-bid",
-      "headline": "MPs from Labour’s left to urge Ed Miliband to consider leadership bid",
-      "summary": "Labour MPs urge Ed Miliband to challenge Keir Starmer following poor election results.",
-      "url": "https://www.theguardian.com/p/x52dkq",
-      "thumbnail": "https://media.guim.co.uk/4fc3113d945b04d8573f9da7933bd427532f0ff3/215_0_1529_1223/500.jpg",
-      "published": "2026-05-09T17:43:00Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
     },
     {
       "id": "football/2026/may/09/manchester-city-brentford-premier-league-match-report",
@@ -1702,6 +1670,102 @@
       "category": "politics",
       "significance": 3,
       "section": "us-news"
+    },
+    {
+      "id": "sport/2026/may/10/england-women-squeeze-past-new-zealand-in-first-odi-thanks-to-charlie-dean",
+      "headline": "England squeeze past New Zealand in first women’s ODI thanks to Charlie Dean",
+      "summary": "England women's cricket team beat New Zealand by 1 wicket in ODI opener at Chester-le-Street.",
+      "url": "https://www.theguardian.com/p/x528fn",
+      "thumbnail": "https://media.guim.co.uk/49337d4915713e824a4739ad10336719bb0c7b39/210_0_2263_1810/500.jpg",
+      "published": "2026-05-10T18:04:28Z",
+      "location": {
+        "name": "Chester-le-Street",
+        "lat": 54.4969,
+        "lng": -1.5844
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "football/2026/may/10/west-ham-arsenal-premier-league-match-report",
+      "headline": "Leandro Trossard gives Arsenal dramatic win with West Ham denied by huge VAR call",
+      "summary": "Arsenal defeated West Ham 1-0 in Premier League match with controversial VAR decision denying West Ham goal.",
+      "url": "https://www.theguardian.com/p/x528bj",
+      "thumbnail": "https://media.guim.co.uk/025ba7b36c7ce1a2210e1bb3cbace24f44161d4a/149_0_1485_1188/500.jpg",
+      "published": "2026-05-10T18:02:52Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/live/2026/may/10/barcelona-v-real-madrid-la-liga-title-on-the-line-in-clasico-live",
+      "headline": "Barcelona v Real Madrid: La Liga title on the line in clásico – live",
+      "summary": "Barcelona faces Real Madrid in La Liga title-deciding clásico, needing a point to clinch championship.",
+      "url": "https://www.theguardian.com/p/x528fy",
+      "thumbnail": "https://media.guim.co.uk/cb02e2bea52c6cb6e7beee34977c1cdf6cd8a27c/188_308_3315_2654/500.jpg",
+      "published": "2026-05-10T18:02:34Z",
+      "location": {
+        "name": "Barcelona",
+        "lat": 41.3851,
+        "lng": 2.1734
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/may/10/frontier-airlines-denver-transportation-safety",
+      "headline": "US transportation safety agency mulling investigation into fatal Frontier incident",
+      "summary": "NTSB investigates fatal Frontier Airlines incident involving person struck on Denver airport runway during departure.",
+      "url": "https://www.theguardian.com/p/x52j6d",
+      "thumbnail": "https://media.guim.co.uk/05b25230df2ad693feb8dda5dfbf2242e0bcad19/0_182_862_689/500.jpg",
+      "published": "2026-05-10T17:47:51Z",
+      "location": {
+        "name": "Denver",
+        "lat": 39.7392,
+        "lng": -104.9903
+      },
+      "category": "health",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "politics/2026/may/10/tories-life-support-so-why-badenoch-celebratory-mood",
+      "headline": "The Tories are still on life support – so why is Badenoch in celebratory mood? ",
+      "summary": "Conservative party shows cautious optimism despite losses in local elections under leader Kemi Badenoch.",
+      "url": "https://www.theguardian.com/p/x52j74",
+      "thumbnail": "https://media.guim.co.uk/be1913bb4b6c1be948649a8a6279710a56704899/1840_457_6100_4880/500.jpg",
+      "published": "2026-05-10T17:38:40Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "football/2026/may/10/chelsea-manchester-city-womens-fa-cup-semi-final-match-report",
+      "headline": "Manchester City’s Khadija Shaw sinks Chelsea in dramatic FA Cup semi-final",
+      "summary": "Manchester City overcomes 2-0 deficit to beat Chelsea 3-2 in Women's FA Cup semi-final with Khadija Shaw heroics.",
+      "url": "https://www.theguardian.com/p/x528ec",
+      "thumbnail": "https://media.guim.co.uk/cde7036859478d9a316b106ccf115d8e05808df3/414_0_2737_2190/500.jpg",
+      "published": "2026-05-10T17:20:28Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
     }
   ]
 }
