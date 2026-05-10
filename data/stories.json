@@ -1,92 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-10T04:11:40.662Z",
-    "story_count": 89,
-    "oldest_story": "2026-05-09T04:30:47Z",
-    "newest_story": "2026-05-10T04:05:39Z",
+    "generated_at": "2026-05-10T06:46:10.725Z",
+    "story_count": 90,
+    "oldest_story": "2026-05-09T08:37:55Z",
+    "newest_story": "2026-05-10T06:38:40Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "environment/2026/may/09/country-diary-a-terrible-time-for-a-tractor-breakdown",
-      "headline": "Country diary: A terrible time for a tractor breakdown",
-      "summary": "Lincolnshire farmer's tractor breaks down during critical birdseed planting season in spring.",
-      "url": "https://www.theguardian.com/p/x5xhga",
-      "thumbnail": "https://media.guim.co.uk/6c056cad34eecc5338ef78359b225139ef94cf8b/128_0_3825_3060/500.jpg",
-      "published": "2026-05-09T04:30:47Z",
-      "location": {
-        "name": "Brigg, Lincolnshire",
-        "lat": 53.5701,
-        "lng": -0.4855
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "environment"
-    },
-    {
-      "id": "money/2026/may/09/home-batteries-cutting-energy-bills-fuel-prices-electricity-costs",
-      "headline": "Home batteries: a ‘gamechanger’ for cutting energy bills?",
-      "summary": "Home batteries offer UK households potential energy bill savings amid rising fuel costs.",
-      "url": "https://www.theguardian.com/p/x5xta9",
-      "thumbnail": "https://media.guim.co.uk/94efa0a06caa79e09f86e2b1b0f853eb6e4e444e/578_0_4250_3400/500.jpg",
-      "published": "2026-05-09T06:00:49Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "money"
-    },
-    {
-      "id": "world/2026/may/09/tensions-emerge-bejamin-netanyahu-donald-trump-alliance",
-      "headline": "‘They have screwed each other pretty badly’: tensions emerge in Netanyahu-Trump alliance",
-      "summary": "Netanyahu insists on coordination with Trump amid reports of strained US-Israel relations.",
-      "url": "https://www.theguardian.com/p/x5287p",
-      "thumbnail": "https://media.guim.co.uk/4ceb29a473a210d13a9d205414f9d8ef9b28be12/0_0_2690_2153/500.jpg",
-      "published": "2026-05-09T06:00:49Z",
-      "location": {
-        "name": "Jerusalem",
-        "lat": 31.7683,
-        "lng": 35.2137
-      },
-      "category": "politics",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "world/2026/may/09/norway-oil-and-gas-production-shortages-middle-east-ukraine",
-      "headline": "‘We are talking about energy security for Europe’: Norway doubles down on oil and gas production",
-      "summary": "Norway commits to expanding oil and gas production to address European energy shortages.",
-      "url": "https://www.theguardian.com/p/x5vttt",
-      "thumbnail": "https://media.guim.co.uk/a2fb454022def2c6f9dfd2c0e7d4c88a528c9939/0_0_5200_4160/500.jpg",
-      "published": "2026-05-09T06:00:49Z",
-      "location": {
-        "name": "Oslo",
-        "lat": 59.9139,
-        "lng": 10.7522
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "travel/2026/may/09/27-of-the-best-beach-bars-in-europe-cocktails-seafood",
-      "headline": "Cocktails, sunsets and freshly caught seafood: 27 of the best beach bars and cafes in Europe",
-      "summary": "Guide highlights 27 best beach bars and cafes across Europe for dining and drinks.",
-      "url": "https://www.theguardian.com/p/x4n6ay",
-      "thumbnail": "https://media.guim.co.uk/4835c6e16d10059931eab1e5f455d685e843398d/0_0_4429_3543/500.jpg",
-      "published": "2026-05-09T06:00:49Z",
-      "location": {
-        "name": "Menorca",
-        "lat": 39.9333,
-        "lng": 4.3667
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "travel"
-    },
     {
       "id": "politics/live/2026/may/09/may-elections-results-keir-starmer-labour-nigel-farage-reform-uk-politics-latest-news-updates",
       "headline": "Pressure grows on Starmer as more Labour MPs call for resignation – UK politics live",
@@ -1430,6 +1350,102 @@
       "category": "politics",
       "significance": 2,
       "section": "australia-news"
+    },
+    {
+      "id": "uk-news/2026/may/10/downing-street-rally-asks-silent-majority-to-fight-antisemitism",
+      "headline": "Downing Street rally asks ‘silent majority’ to fight antisemitism",
+      "summary": "Political leaders invited to London rally opposing antisemitism as PM considers attending.",
+      "url": "https://www.theguardian.com/p/x52dgx",
+      "thumbnail": "https://media.guim.co.uk/c042cd5371b66e3d5431342724ad9203cb89cb15/1844_105_3156_2524/500.jpg",
+      "published": "2026-05-10T06:38:40Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "australia-news/2026/may/10/police-investigate-alleged-antisemitic-abuse-at-childrens-netball-game-in-sydney-ntwnfb",
+      "headline": "Woman charged after alleged antisemitic abuse at children’s netball game in Sydney",
+      "summary": "Woman charged after antisemitic abuse alleged at children's netball game in Maroubra.",
+      "url": "https://www.theguardian.com/p/x52fjx",
+      "thumbnail": "https://media.guim.co.uk/fe15f835aff4a29316f7842d35c83b865998a09d/438_0_4165_3333/500.jpg",
+      "published": "2026-05-10T06:27:19Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "other",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "money/2026/may/10/pension-scams-inheritance-tax-loopholes-iht-rules-savings",
+      "headline": "Pension scams: Britons warned over criminals offering inheritance tax loopholes",
+      "summary": "UK residents warned of pension scams exploiting inheritance tax loopholes confusion.",
+      "url": "https://www.theguardian.com/p/x52xkv",
+      "thumbnail": "https://media.guim.co.uk/7db7f214616397c9ba37515ab197e36e979e3ff5/498_0_5020_4016/500.jpg",
+      "published": "2026-05-10T06:00:18Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "money"
+    },
+    {
+      "id": "world/2026/may/10/cape-verde-tech-brain-drain",
+      "headline": "Cape Verde bets on tech to reverse postcolonial brain drain",
+      "summary": "Cape Verde archipelago invests in tech startups and digital infrastructure to reverse brain drain.",
+      "url": "https://www.theguardian.com/p/x4jc23",
+      "thumbnail": "https://media.guim.co.uk/35c03e114bfc9c8e6f22205aaf962f4d3ecca077/807_0_5541_4435/500.jpg",
+      "published": "2026-05-10T06:00:18Z",
+      "location": {
+        "name": "Cape Verde",
+        "lat": 16.7362,
+        "lng": -23.6385
+      },
+      "category": "tech",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "film/2026/may/10/bafta-doubles-down-on-preparations-for-sunday-tv-awards-after-n-word-fallout",
+      "headline": "Bafta doubles down on preparations for Sunday TV awards after N-word fallout",
+      "summary": "Bafta tightens TV awards procedures following February racial slur broadcast incident.",
+      "url": "https://www.theguardian.com/p/x52dep",
+      "thumbnail": "https://media.guim.co.uk/d34f242a7315661df65595af9a59c192f2fc3497/230_269_6070_4857/500.jpg",
+      "published": "2026-05-10T06:00:18Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "film"
+    },
+    {
+      "id": "environment/2026/may/10/a-long-road-ahead-could-community-car-sharing-help-uk-hit-climate-targets",
+      "headline": "‘A long road ahead’: could community car-sharing help UK hit climate targets?",
+      "summary": "Community electric car-sharing scheme in East Midlands supports emissions reduction efforts.",
+      "url": "https://www.theguardian.com/p/x5vmng",
+      "thumbnail": "https://media.guim.co.uk/ef410624d5cfcd348e5f16db0991d7f9f8478cf3/40_0_2400_1920/500.jpg",
+      "published": "2026-05-10T06:00:17Z",
+      "location": {
+        "name": "Leicestershire",
+        "lat": 52.6369,
+        "lng": -1.1398
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "environment"
     }
   ]
 }
