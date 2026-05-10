@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-05-10T21:24:56.341Z",
+    "generated_at": "2026-05-10T22:11:51.923Z",
     "story_count": 106,
-    "oldest_story": "2026-05-09T22:07:09Z",
-    "newest_story": "2026-05-10T21:24:24Z",
+    "oldest_story": "2026-05-09T23:06:34Z",
+    "newest_story": "2026-05-10T22:01:37Z",
     "window_hours": 24
   },
   "stories": [
@@ -22,22 +22,6 @@
       "category": "politics",
       "significance": 2,
       "section": "australia-news"
-    },
-    {
-      "id": "us-news/2026/may/09/betty-broderick-convicted-double-murder-ex-husband-wife-dead",
-      "headline": "Betty Broderick, convicted in 1989 killings of ex-husband and his new wife, dies aged 78",
-      "summary": "Betty Broderick, convicted of 1989 murders of ex-husband and his wife, dies at 78 in prison.",
-      "url": "https://www.theguardian.com/p/x52eqh",
-      "thumbnail": "https://media.guim.co.uk/dec01ec5944b3ab69841b53bf086f2c8675d324c/500_0_2500_2000/500.jpg",
-      "published": "2026-05-09T22:07:09Z",
-      "location": {
-        "name": "California",
-        "lat": 36.1162,
-        "lng": -119.6816
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "us-news"
     },
     {
       "id": "sport/2026/may/10/daniel-dubois-stops-fabio-wardley-wbo-heavyweight-title-boxing",
@@ -1702,6 +1686,22 @@
       "category": "sport",
       "significance": 3,
       "section": "football"
+    },
+    {
+      "id": "society/2026/may/10/experts-call-for-uk-four-day-week-as-study-links-long-work-hours-to-obesity",
+      "headline": "Experts call for UK four-day week as study links long work hours to obesity",
+      "summary": "Study links long work hours to obesity; experts call for UK four-day week.",
+      "url": "https://www.theguardian.com/p/x52d9a",
+      "thumbnail": "https://media.guim.co.uk/bce59ff9f64dabdae4c9e1be4c4f198e09499cca/1060_182_3980_3184/500.jpg",
+      "published": "2026-05-10T22:01:37Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "society"
     }
   ]
 }
