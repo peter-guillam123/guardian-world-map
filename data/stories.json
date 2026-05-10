@@ -1,204 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-10T10:03:29.357Z",
-    "story_count": 90,
-    "oldest_story": "2026-05-09T10:15:16Z",
-    "newest_story": "2026-05-10T10:02:37Z",
+    "generated_at": "2026-05-10T11:12:28.298Z",
+    "story_count": 87,
+    "oldest_story": "2026-05-09T12:42:07Z",
+    "newest_story": "2026-05-10T11:01:36Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "sport/live/2026/may/09/nottinghamshire-v-surrey-worcs-v-durham-and-more-county-cricket-live",
-      "headline": "Nottinghamshire v Surrey, Worcs v Durham, and more: county cricket – live",
-      "summary": "County Championship cricket matches underway across England with live updates.",
-      "url": "https://www.theguardian.com/p/x528jk",
-      "thumbnail": "https://media.guim.co.uk/58b7bb71a92902a761647cdcead9c607fdc33823/46_0_4083_3267/500.jpg",
-      "published": "2026-05-09T11:04:23Z",
-      "location": {
-        "name": "Nottinghamshire",
-        "lat": 52.94,
-        "lng": -1.133
-      },
-      "category": "sport",
-      "significance": 1,
-      "section": "sport"
-    },
-    {
-      "id": "football/live/2026/may/09/middlesbrough-v-southampton-championship-playoff-semi-final-first-leg-live",
-      "headline": "Middlesbrough v Southampton: Championship playoff semi-final, first leg – live",
-      "summary": "Middlesbrough vs Southampton Championship playoff semi-final first leg at Riverside Stadium.",
-      "url": "https://www.theguardian.com/p/x52733",
-      "thumbnail": "https://media.guim.co.uk/de1a40fb397665f832e5270bfd3c76fbe9f3bbc0/477_0_4766_3813/500.jpg",
-      "published": "2026-05-09T11:02:18Z",
-      "location": {
-        "name": "Middlesbrough",
-        "lat": 54.5752,
-        "lng": -1.2381
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "film/2026/may/09/tv-film-studios-developers-datacentres-ai-boom",
-      "headline": "‘Peak TV is behind us’: UK developers pivot from building studios to datacentres amid AI boom",
-      "summary": "UK film studios pivot from content production to datacentre development amid AI boom.",
-      "url": "https://www.theguardian.com/p/x52xjy",
-      "thumbnail": "https://media.guim.co.uk/3d0dff2fafd3723349cf4c5bd8762640b0550b42/302_0_2696_2157/500.jpg",
-      "published": "2026-05-09T11:00:56Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "film"
-    },
-    {
-      "id": "fashion/2026/may/09/power-blazer-victoria-starmer-marks-key-political-moment-in-cream",
-      "headline": "Power blazer? Victoria Starmer marks key political moment in cream",
-      "summary": "Victoria Starmer wears cream blazer to polls as PM faces election pressure.",
-      "url": "https://www.theguardian.com/p/x526jc",
-      "thumbnail": "https://media.guim.co.uk/ddc72902de847be1db8a4d61d4ac13e7dc373be6/829_0_4144_3315/500.jpg",
-      "published": "2026-05-09T11:00:55Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "fashion"
-    },
-    {
-      "id": "culture/2026/may/09/joseph-fiennes-on-parenting-politics-and-banning-children-from-social-media-stand-up-keir-this-is-your-kids-generation",
-      "headline": "Joseph Fiennes on parenting, politics and banning children from social media: ‘Stand up, Keir, this is your kids’ generation’",
-      "summary": "Actor Joseph Fiennes discusses politics and parenting in Chelsea interview.",
-      "url": "https://www.theguardian.com/p/x5vcc5",
-      "thumbnail": "https://media.guim.co.uk/f48239c981872c6a236ad7cccfa2198580a591c9/0_1599_7760_6208/500.jpg",
-      "published": "2026-05-09T11:00:55Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "culture"
-    },
-    {
-      "id": "football/live/2026/may/09/liverpool-v-chelsea-premier-league-live",
-      "headline": "Liverpool v Chelsea: Premier League – live",
-      "summary": "Liverpool faces struggling Chelsea in Premier League match at Anfield.",
-      "url": "https://www.theguardian.com/p/x52vz7",
-      "thumbnail": "https://media.guim.co.uk/8d87a337fcb0bffa94d155b221d5d8d6a55e864a/432_0_4320_3456/500.jpg",
-      "published": "2026-05-09T11:00:40Z",
-      "location": {
-        "name": "Liverpool",
-        "lat": 53.4308,
-        "lng": -2.9606
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "politics/2026/may/09/starmer-brings-gordon-brown-harriet-harman-ease-pressure-resign",
-      "headline": "Starmer brings in Gordon Brown and Harriet Harman to ease pressure on him to resign",
-      "summary": "PM Starmer brings in Brown and Harman as advisers after Labour's election losses.",
-      "url": "https://www.theguardian.com/p/x52caz",
-      "thumbnail": "https://media.guim.co.uk/603f46c9c379a304ddeed34e58237fd6b421c759/370_0_1160_928/500.jpg",
-      "published": "2026-05-09T10:40:11Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "politics"
-    },
-    {
-      "id": "politics/2026/may/09/british-leader-keir-starmer-under-pressure-after-heavy-election-losses",
-      "headline": "British leader Keir Starmer under pressure after heavy election losses",
-      "summary": "Labour loses 1,400+ council seats in local elections, Starmer faces pressure to resign.",
-      "url": "https://www.theguardian.com/p/x52cv8",
-      "thumbnail": "https://media.guim.co.uk/65305ddfdb91c58a9464f0f22bfe88bdc0524ec3/0_0_6343_5075/500.jpg",
-      "published": "2026-05-09T10:15:16Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "politics"
-    },
-    {
-      "id": "sport/2026/may/09/wnba-growth-sustainable-franchise-valuations-valkyries",
-      "headline": "A 30th season and an $850m franchise: is the WNBA’s rocketing growth sustainable?",
-      "summary": "WNBA expands to 30th season with $850m Golden State Valkyries franchise amid women's sports growth.",
-      "url": "https://www.theguardian.com/p/x522jz",
-      "thumbnail": "https://media.guim.co.uk/dea13b5805a63092ad1356637d014a0283c1b72c/485_0_4831_3867/500.jpg",
-      "published": "2026-05-09T11:00:56Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "us-news/2026/may/09/activists-supreme-court-voting-rights-act",
-      "headline": "‘We’re going backwards’: Five civil rights activists slam the supreme court’s gutting of Voting Rights Act",
-      "summary": "Civil rights activists criticize Supreme Court's gutting of Voting Rights Act as discriminatory rollback.",
-      "url": "https://www.theguardian.com/p/x523d9",
-      "thumbnail": "https://media.guim.co.uk/1ee17eb9d513801fc38cd8f7ffb2fe3cf5206375/0_0_3000_2400/500.jpg",
-      "published": "2026-05-09T11:00:55Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/may/09/trump-counter-terrorism-policy-sebastian-gorka",
-      "headline": "‘Largely slop’: Trump’s new counterterrorism strategy is scant on substance but heavy on enemies",
-      "summary": "Trump counterterrorism strategy criticized as lacking substance, heavy on rhetorical escalation.",
-      "url": "https://www.theguardian.com/p/x528yb",
-      "thumbnail": "https://media.guim.co.uk/2550178499f395b2bb3322d71859d6334bb04060/433_0_4884_3910/500.jpg",
-      "published": "2026-05-09T11:00:55Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/may/09/new-orleans-pastor-guilty-sexually-molesting-teens",
-      "headline": "‘The worst kind of predator’: New Orleans pastor found guilty of sexually molesting two teen boys",
-      "summary": "New Orleans pastor convicted of sexually molesting two teen boys; faces 40 years imprisonment.",
-      "url": "https://www.theguardian.com/p/x5294x",
-      "thumbnail": "https://media.guim.co.uk/43533d6ad541f0fb84fa3fa687e03bdbd1ce9852/325_0_1620_1296/500.jpg",
-      "published": "2026-05-09T11:00:54Z",
-      "location": {
-        "name": "New Orleans",
-        "lat": 29.9511,
-        "lng": -90.2623
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "us-news"
-    },
     {
       "id": "sport/live/2026/may/09/italy-v-england-womens-six-nations-rugby-union-live",
       "headline": "Italy v England: Women’s Six Nations rugby union – live",
@@ -1446,6 +1254,150 @@
       "category": "culture",
       "significance": 2,
       "section": "stage"
+    },
+    {
+      "id": "business/2026/may/10/saudi-aramco-profits-jump-despite-conflict-middle-east",
+      "headline": "Saudi Aramco profits jump despite conflict in Middle East ",
+      "summary": "Saudi Aramco profits surge 26% to £26.9bn despite Middle East conflict.",
+      "url": "https://www.theguardian.com/p/x52hbz",
+      "thumbnail": "https://media.guim.co.uk/ba3fe45039ee521cafc1541136a0167668baf35b/435_0_3333_2667/500.jpg",
+      "published": "2026-05-10T11:01:36Z",
+      "location": {
+        "name": "Saudi Arabia",
+        "lat": 23.8859,
+        "lng": 45.0792
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "business"
+    },
+    {
+      "id": "lifeandstyle/2026/may/10/dining-across-the-divide-maxine-fred-national-flags-refugees",
+      "headline": "Dining across the divide: ‘I don’t see why anybody would feel uncomfortable with national flags’",
+      "summary": "Debate on union jack flags and asylum routes highlights UK immigration divisions.",
+      "url": "https://www.theguardian.com/p/x4qx45",
+      "thumbnail": "https://media.guim.co.uk/d5eb2881f0d875ffaabb59870180d3f257fac2de/621_0_6520_5216/500.jpg",
+      "published": "2026-05-10T11:00:24Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "lifeandstyle"
+    },
+    {
+      "id": "media/2026/may/10/tmz-washington-dc-politics",
+      "headline": "How TMZ is finding its footing on the political scene, even after some misfires",
+      "summary": "TMZ establishes political coverage in Washington, hounding politicians and tracking Congress.",
+      "url": "https://www.theguardian.com/p/x5xtjx",
+      "thumbnail": "https://media.guim.co.uk/341bf041e3274b9c2672405c1ff0455c647d1525/250_0_2500_2000/500.jpg",
+      "published": "2026-05-10T11:00:24Z",
+      "location": {
+        "name": "Washington, DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "media"
+    },
+    {
+      "id": "news/2026/may/10/gullah-geechee-low-country",
+      "headline": "Gullah Geechee people set out to keep their family land. Unclear titles and surging taxes are pushing them out",
+      "summary": "Gullah Geechee Black community fights property disputes and rising taxes threatening ancestral land.",
+      "url": "https://www.theguardian.com/p/x5xd7n",
+      "thumbnail": "https://media.guim.co.uk/5c92dbf567d4935a88bd2600f44e2359f1da8f5e/265_0_7918_6336/500.jpg",
+      "published": "2026-05-10T11:00:24Z",
+      "location": {
+        "name": "Hilton Head Island, South Carolina",
+        "lat": 32.2163,
+        "lng": -80.7525
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "news"
+    },
+    {
+      "id": "commentisfree/2026/may/10/men-anti-trump-activist-groups",
+      "headline": "How do we get more men to join the anti-Trump resistance?",
+      "summary": "Anti-Trump activist group seeks to recruit more men as gender imbalance reaches 80% women.",
+      "url": "https://www.theguardian.com/p/x5xekp",
+      "thumbnail": "https://media.guim.co.uk/b22714c8f73329ffd44eaf981e8fb0932986eae0/636_0_4000_3202/500.jpg",
+      "published": "2026-05-10T11:00:23Z",
+      "location": {
+        "name": "Brooklyn, New York",
+        "lat": 40.6501,
+        "lng": -73.9496
+      },
+      "category": "politics",
+      "significance": 1,
+      "section": "commentisfree"
+    },
+    {
+      "id": "world/2026/may/10/vladimir-putin-suggests-ukraine-war-is-coming-to-an-end",
+      "headline": "Vladimir Putin suggests Ukraine war is ‘coming to an end’",
+      "summary": "Putin suggests Ukraine war 'coming to an end' amid scaled-back Victory Day parade.",
+      "url": "https://www.theguardian.com/p/x52fem",
+      "thumbnail": "https://media.guim.co.uk/b908e51e52fa831c7a058eed364e3eabce453dae/1155_503_3317_2655/500.jpg",
+      "published": "2026-05-10T10:56:11Z",
+      "location": {
+        "name": "Moscow",
+        "lat": 55.7558,
+        "lng": 37.6173
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "stage/2026/may/10/bank-of-dave-the-musical-review-lowry-salford-pippa-cleary",
+      "headline": "Bank of Dave: The Musical review – ebullient local hero story bursts into song",
+      "summary": "Bank of Dave musical celebrates Burnley businessman with bright musical adaptation.",
+      "url": "https://www.theguardian.com/p/x52hf6",
+      "thumbnail": "https://media.guim.co.uk/ab67a49f940d4cfd05fa6397187ffb91b4c3e05b/535_567_3909_3127/500.jpg",
+      "published": "2026-05-10T10:21:17Z",
+      "location": {
+        "name": "Salford",
+        "lat": 53.4875,
+        "lng": -2.2901
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "stage"
+    },
+    {
+      "id": "politics/2026/may/10/how-labour-remove-keir-starmer-four-routes-replace-leader-mps",
+      "headline": "How could Labour remove Keir Starmer? Four possible routes",
+      "summary": "Labour MPs explore four possible routes to remove Keir Starmer as party leader.",
+      "url": "https://www.theguardian.com/p/x5xnb4",
+      "thumbnail": "https://media.guim.co.uk/80e7ca3efd9a3f5b25fbc0010bcb32916390733c/455_0_4531_3624/500.jpg",
+      "published": "2026-05-10T10:17:36Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "politics"
+    },
+    {
+      "id": "business/2026/may/10/uk-living-wage-campaign-marks-25-years-of-success",
+      "headline": "From fringe issue to the heart of politics: the UK Living Wage campaign marks 25 years of success",
+      "summary": "UK Living Wage campaign marks 25 years, now targeting private care and supermarkets.",
+      "url": "https://www.theguardian.com/p/x526j2",
+      "thumbnail": "https://media.guim.co.uk/093caf7b32ea8a2fadc2806d5ae73810eb10a198/202_0_2061_1648/500.jpg",
+      "published": "2026-05-10T10:08:10Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
     }
   ]
 }
