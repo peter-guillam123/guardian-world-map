@@ -1,28 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-10T20:25:08.917Z",
-    "story_count": 103,
-    "oldest_story": "2026-05-09T20:25:24Z",
-    "newest_story": "2026-05-10T20:15:55Z",
+    "generated_at": "2026-05-10T21:24:56.341Z",
+    "story_count": 106,
+    "oldest_story": "2026-05-09T22:07:09Z",
+    "newest_story": "2026-05-10T21:24:24Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "us-news/2026/may/09/sean-duffy-great-american-road-trip-reality-show",
-      "headline": "Sean Duffy faces backlash for new family reality show: ‘unfocused and out of touch’",
-      "summary": "US transportation secretary Sean Duffy announces reality TV show amid fuel crisis backlash.",
-      "url": "https://www.theguardian.com/p/x52eae",
-      "thumbnail": "https://media.guim.co.uk/9f2f52fe0e8df469eff8805e4f52a87c707acbae/210_0_3000_2400/500.jpg",
-      "published": "2026-05-09T20:25:24Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
     {
       "id": "australia-news/live/2026/may/10/politics-updates-farrer-byelection-one-nation-win-liberal-coalition-loss-reactions-pauline-hanson-angus-taylor-tim-wilson-insiders-anthony-albanese-labor-ntwnfb",
       "headline": "Australia news live: Ley urges Liberals to accept Farrer loss to One Nation with ‘humility’, saying ‘voters never get it wrong’",
@@ -1653,6 +1637,70 @@
       },
       "category": "sport",
       "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "australia-news/live/2026/may/11/australia-politics-live-federal-budget-jim-chalmers-cost-of-living-deficit-farrer-byelection-coalition-one-nation-ntwnfb",
+      "headline": "Australia politics live: budget funds to speed up environmental approvals; Coalition deals with Farrer loss ",
+      "summary": "Federal budget allocates $500m to speed environmental approvals; One Nation wins Farrer byelection.",
+      "url": "https://www.theguardian.com/p/x52k4f",
+      "thumbnail": "https://media.guim.co.uk/e1dbe6a9a8937ae82a1ad0f766d4e5b1636b396e/767_0_6880_5504/500.jpg",
+      "published": "2026-05-10T21:24:24Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "football/2026/may/10/marcus-rashford-seals-title-for-barcelona-to-complete-week-to-forget-for-real-madrid",
+      "headline": "Marcus Rashford seals title for Barcelona to complete week to forget for Real Madrid",
+      "summary": "Marcus Rashford scores as Barcelona clinches La Liga title with 2-0 victory over Real Madrid.",
+      "url": "https://www.theguardian.com/p/x528eq",
+      "thumbnail": "https://media.guim.co.uk/97dc8a154b9ce68503406c5966eb0048996fb8c8/448_0_5002_4002/500.jpg",
+      "published": "2026-05-10T21:11:24Z",
+      "location": {
+        "name": "Barcelona",
+        "lat": 41.3851,
+        "lng": 2.1734
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "australia-news/2026/may/11/morning-mail-monday-ntwnfb",
+      "headline": "Morning Mail: Iranian politician’s Australian links revealed; how One Nation won in Farrer; the mystery of ‘gaping’ whales",
+      "summary": "Iranian politician's son gains Australian residency; One Nation surge analyzed in Farrer byelection.",
+      "url": "https://www.theguardian.com/p/x52j3f",
+      "thumbnail": "https://media.guim.co.uk/b31a03d4f886a9480eae991dfdf0bcbb184cbf9d/1_0_4998_4000/500.jpg",
+      "published": "2026-05-10T21:00:08Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "football/2026/may/10/west-ham-var-offers-up-title-deciding-moment-for-arsenal-and-digital-mess-generation",
+      "headline": "VAR offers up Arsenal’s title-deciding moment for digital mess generation",
+      "summary": "VAR decides crucial title moment in Arsenal-West Ham match; digital technology determines title race.",
+      "url": "https://www.theguardian.com/p/x528c4",
+      "thumbnail": "https://media.guim.co.uk/605c11daca445cb63ee04338d6c5831cee8603f1/217_0_2173_1738/500.jpg",
+      "published": "2026-05-10T20:35:17Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 3,
       "section": "football"
     }
   ]
