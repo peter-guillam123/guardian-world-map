@@ -1,108 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-10T08:46:53.101Z",
-    "story_count": 92,
-    "oldest_story": "2026-05-09T08:47:40Z",
-    "newest_story": "2026-05-10T08:45:53Z",
+    "generated_at": "2026-05-10T10:03:29.357Z",
+    "story_count": 90,
+    "oldest_story": "2026-05-09T10:15:16Z",
+    "newest_story": "2026-05-10T10:02:37Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "politics/live/2026/may/09/may-elections-results-keir-starmer-labour-nigel-farage-reform-uk-politics-latest-news-updates",
-      "headline": "Pressure grows on Starmer as more Labour MPs call for resignation – UK politics live",
-      "summary": "UK Labour MPs call for PM Starmer's resignation following poor election results.",
-      "url": "https://www.theguardian.com/p/x52bmz",
-      "thumbnail": "https://media.guim.co.uk/bb8abea2a6e9b3ef02fa311081959ca8f821d203/1657_0_5971_4777/500.jpg",
-      "published": "2026-05-09T08:47:40Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "politics"
-    },
-    {
-      "id": "world/2026/may/09/russia-putin-moscow-victory-day-parade-scaled-back",
-      "headline": "Russia will always be victorious, says Putin at scaled-back Victory Day parade",
-      "summary": "Putin declares Russia victorious at scaled-back Victory Day parade amid heavy security and Ukraine ceasefire.",
-      "url": "https://www.theguardian.com/p/x52c2p",
-      "thumbnail": "https://media.guim.co.uk/68e0a1d04d01282ae86a0a081f7bb7db35545277/246_0_6529_5224/500.jpg",
-      "published": "2026-05-09T09:55:24Z",
-      "location": {
-        "name": "Moscow",
-        "lat": 55.7558,
-        "lng": 37.6173
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "australia-news/2026/may/09/farrer-byelection-results-one-nation-michelle-milthorpe-coalition",
-      "headline": "Early results show One Nation on track to win Farrer byelection ",
-      "summary": "One Nation leads in Farrer byelection, on track for first lower house victory with David Farley.",
-      "url": "https://www.theguardian.com/p/x52bt8",
-      "thumbnail": "https://media.guim.co.uk/6934b46993ea6555bfe12fdc75d021c4456aced9/415_0_4093_3274/500.jpg",
-      "published": "2026-05-09T09:13:00Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "us-news/2026/may/09/trump-administration-immigration-judges",
-      "headline": "‘Everyone has a breaking point’: the immigration judges at the sharp end of Trump’s deportation drive",
-      "summary": "Immigration judges fired or departed under Trump deportation push, remaining judges report compliance pressure.",
-      "url": "https://www.theguardian.com/p/x5vzpm",
-      "thumbnail": "https://media.guim.co.uk/6ef3bf6d863a11206084de723db6bc0a7f0a3721/1_0_2999_2400/500.jpg",
-      "published": "2026-05-09T09:00:53Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/may/09/book-bans-schools",
-      "headline": "‘They’re trying to narrow the worldview of young people’: how book bans are on the rise in the US",
-      "summary": "Book bans rising in US schools, reshaping student access to literature and worldviews.",
-      "url": "https://www.theguardian.com/p/x5vzp9",
-      "thumbnail": "https://media.guim.co.uk/f14ea5276f90cfa2d8f5178ea1c4ebcf81be8c10/857_0_4378_3504/500.jpg",
-      "published": "2026-05-09T09:00:52Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "business/2026/may/09/city-guilds-london-institute-trustees-accused-of-stalling-inquiry-into-166m-sale",
-      "headline": "City & Guilds London Institute trustees accused of stalling inquiry into £166m sale",
-      "summary": "City & Guilds trustees accused of stalling inquiry into £166m vocational charity business sale.",
-      "url": "https://www.theguardian.com/p/x522gd",
-      "thumbnail": "https://media.guim.co.uk/b11f036735f33e3554d9860c0af21d79a43dbb43/0_0_5600_4480/500.jpg",
-      "published": "2026-05-09T09:00:52Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
     {
       "id": "sport/live/2026/may/09/nottinghamshire-v-surrey-worcs-v-durham-and-more-county-cricket-live",
       "headline": "Nottinghamshire v Surrey, Worcs v Durham, and more: county cricket – live",
@@ -230,86 +134,6 @@
       "category": "politics",
       "significance": 3,
       "section": "politics"
-    },
-    {
-      "id": "tv-and-radio/2026/may/09/celebrity-traitors-has-seduced-stars",
-      "headline": "‘You don’t have to sell them on the idea’: how Celebrity Traitors has seduced the stars",
-      "summary": "Celebrity Traitors season two attracts high-profile cast to BBC reality show.",
-      "url": "https://www.theguardian.com/p/x52878",
-      "thumbnail": "https://media.guim.co.uk/c4087b16dae79bc462ba207296d738fe932b2543/289_0_3938_3150/500.jpg",
-      "published": "2026-05-09T10:00:54Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "tv-and-radio"
-    },
-    {
-      "id": "lifeandstyle/2026/may/09/william-shum-best-phone-picture-hong-kong-red-taxi",
-      "headline": "‘I waited half an hour for one of Hong Kong’s iconic red taxis to pass by’: William Shum’s best phone picture",
-      "summary": "Photographer captures Hong Kong's iconic red taxi in Yau Ma Tei district.",
-      "url": "https://www.theguardian.com/p/x4z648",
-      "thumbnail": "https://media.guim.co.uk/07aa847f2e1a272ec4b5a78cf0529c851d5978f6/0_1439_2066_1652/500.jpg",
-      "published": "2026-05-09T10:00:54Z",
-      "location": {
-        "name": "Hong Kong",
-        "lat": 22.3193,
-        "lng": 114.1694
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "lifeandstyle"
-    },
-    {
-      "id": "us-news/2026/may/09/marty-makary-fda-food-drug-administration",
-      "headline": "‘The FDA is a complete mess’: Trump makes fate of agency chief unclear as public trust plummits",
-      "summary": "Trump plans to fire FDA commissioner Marty Makary as agency credibility plummets.",
-      "url": "https://www.theguardian.com/p/x529ap",
-      "thumbnail": "https://media.guim.co.uk/b1363ec7e8a4c4618d979b095a6890cbd61454d5/195_0_1953_1562/500.jpg",
-      "published": "2026-05-09T10:00:54Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "football/2026/apr/22/overlooked-moments-in-us-world-cup-history",
-      "headline": "Grisly injuries, a brutal murder and a vanished hero: the forgotten tales of US World Cup history",
-      "summary": "US World Cup history features grisly injuries, murder, and vanished hero.",
-      "url": "https://www.theguardian.com/p/x4p2mj",
-      "thumbnail": "https://media.guim.co.uk/e1acc0174d77d28c560b8fb1a786ed14bdaf1072/0_0_2500_2000/500.jpg",
-      "published": "2026-05-09T10:00:54Z",
-      "location": {
-        "name": "United States",
-        "lat": 37.0902,
-        "lng": -95.7129
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "technology/2026/may/09/who-is-louis-mosley-defending-palantir-critics",
-      "headline": "Who is Louis Mosley, the man tasked with defending Palantir against its critics?",
-      "summary": "Palantir UK boss Louis Mosley defends company against British public concerns.",
-      "url": "https://www.theguardian.com/p/x52xpt",
-      "thumbnail": "https://media.guim.co.uk/68b77cc72498b08c37a3a59ee8bcf158a0e85fe7/249_0_3445_2756/500.jpg",
-      "published": "2026-05-09T10:00:53Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "tech",
-      "significance": 2,
-      "section": "technology"
     },
     {
       "id": "sport/2026/may/09/wnba-growth-sustainable-franchise-valuations-valkyries",
@@ -1478,6 +1302,150 @@
       "category": "health",
       "significance": 3,
       "section": "world"
+    },
+    {
+      "id": "sport/live/2026/may/10/nottinghamshire-surrey-county-cricket-championship-live",
+      "headline": "Nottinghamshire v Surrey, Glamorgan v Somerset, and more: county cricket – live",
+      "summary": "County cricket: Nottinghamshire v Surrey and other Championship matches on day three.",
+      "url": "https://www.theguardian.com/p/x528cn",
+      "thumbnail": "https://media.guim.co.uk/5cef4dddc3819f73297819f4e5c5897cfe7fc907/0_0_2250_1800/500.jpg",
+      "published": "2026-05-10T10:02:37Z",
+      "location": {
+        "name": "Nottinghamshire",
+        "lat": 53.1837,
+        "lng": -1.1743
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "us-news/2026/may/10/mothers-resistance-protest-movements",
+      "headline": "‘I see every child like I see my children’: why US mothers are on the frontlines of resistance movements",
+      "summary": "US mothers lead resistance movements against gun violence, immigration, and childcare policies.",
+      "url": "https://www.theguardian.com/p/x5238k",
+      "thumbnail": "https://media.guim.co.uk/35f9502e8b56c67bea08a647c301ccf953cd5a17/0_0_3000_2400/500.jpg",
+      "published": "2026-05-10T10:00:23Z",
+      "location": {
+        "name": "Minneapolis",
+        "lat": 44.9778,
+        "lng": -93.265
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/may/10/pardoned-january-6-rioter-sentenced-virginia-burglary",
+      "headline": "Pardoned January 6 rioter sentenced to seven years for Virginia burglary",
+      "summary": "Pardoned January 6 rioter Zachary Alam sentenced to seven years for Virginia burglary.",
+      "url": "https://www.theguardian.com/p/x52e7e",
+      "thumbnail": "https://media.guim.co.uk/0906316f0b5f7b3c3b3a197cd50b7fa20436fbf5/500_0_5000_4000/500.jpg",
+      "published": "2026-05-10T10:00:23Z",
+      "location": {
+        "name": "Virginia",
+        "lat": 37.7693,
+        "lng": -78.1694
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "sport/live/2026/may/10/england-v-new-zealand-first-womens-cricket-odi-live",
+      "headline": "England v New Zealand: first women’s cricket ODI – live",
+      "summary": "England women face New Zealand in first ODI of summer at Durham.",
+      "url": "https://www.theguardian.com/p/x528jf",
+      "thumbnail": "https://media.guim.co.uk/7a9c21acc5e65f1944ada3da03b762378f3cde9c/0_0_1878_1502/500.jpg",
+      "published": "2026-05-10T10:00:22Z",
+      "location": {
+        "name": "Durham",
+        "lat": 54.7753,
+        "lng": -1.5823
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "world/2026/may/10/narges-mohammadi-nobel-laureate-smuggled-memoir-details-beatings-neglect-iranian-prisons",
+      "headline": "Nobel laureate’s smuggled memoir details beatings and neglect in Iranian prisons",
+      "summary": "Nobel laureate Narges Mohammadi's smuggled memoir documents torture and neglect in Iranian prisons.",
+      "url": "https://www.theguardian.com/p/x528be",
+      "thumbnail": "https://media.guim.co.uk/74cd5521d92974d4a6f02c950a727bf9aff79e23/305_0_1743_1394/500.jpg",
+      "published": "2026-05-10T10:00:22Z",
+      "location": {
+        "name": "Tehran",
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "football/live/2026/may/10/celtic-v-rangers-scottish-premiership-live",
+      "headline": "Celtic v Rangers: Scottish Premiership – live",
+      "summary": "Celtic face Rangers in final Old Firm derby with title race implications.",
+      "url": "https://www.theguardian.com/p/x528d7",
+      "thumbnail": "https://media.guim.co.uk/e44ad632cab6796b2d477c2fdcaf50a6fd7cca50/185_0_3191_2553/500.jpg",
+      "published": "2026-05-10T09:49:42Z",
+      "location": {
+        "name": "Glasgow",
+        "lat": 55.8642,
+        "lng": -4.2518
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "politics/2026/may/10/keir-starmer-challenge-wrong-bridget-phillipson-election-kicking",
+      "headline": "Phillipson: challenge to Starmer would be wrong despite election ‘kicking’",
+      "summary": "Labour education secretary Bridget Phillipson opposes party challenge to Keir Starmer's leadership.",
+      "url": "https://www.theguardian.com/p/x52hcz",
+      "thumbnail": "https://media.guim.co.uk/2aad623b669172707fd789448a6435de2a77fa44/304_27_2378_1902/500.jpg",
+      "published": "2026-05-10T09:36:09Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "lifeandstyle/2026/may/10/rhs-chelsea-flower-show-garden-england-edgelands-fringes-sarah-eberle",
+      "headline": "‘A weed is only a plant in the wrong place’: RHS Chelsea garden celebrates England’s edgelands",
+      "summary": "RHS Chelsea Flower Show garden celebrates England's neglected edgelands and fringe landscapes.",
+      "url": "https://www.theguardian.com/p/x5xhht",
+      "thumbnail": "https://media.guim.co.uk/e9ac723d017e9a77a4dbd4855518804663a8eb9a/286_0_1349_1080/500.jpg",
+      "published": "2026-05-10T09:00:21Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "lifeandstyle"
+    },
+    {
+      "id": "stage/2026/may/10/balletboyz-billy-elliot-ashley-banjo-diversity-male-dance",
+      "headline": "‘My dad cannot see me on stage doing this’: will the stigma around boys who dance ever shift?",
+      "summary": "BalletBoyz celebrates 25 years as stigma around male dancers persists despite cultural progress.",
+      "url": "https://www.theguardian.com/p/x4qcym",
+      "thumbnail": "https://media.guim.co.uk/68aa496f96631cef15aa6aa35f6f357d38ebc0d7/138_18_5501_4401/500.jpg",
+      "published": "2026-05-10T09:00:21Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "stage"
     }
   ]
 }
