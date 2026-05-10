@@ -1,60 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-10T18:06:01.713Z",
+    "generated_at": "2026-05-10T19:31:51.563Z",
     "story_count": 110,
-    "oldest_story": "2026-05-09T18:27:43Z",
-    "newest_story": "2026-05-10T18:04:28Z",
+    "oldest_story": "2026-05-09T20:00:05Z",
+    "newest_story": "2026-05-10T19:22:54Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "us-news/2026/may/09/trumps-low-approval-ratings-republicans-self-destruction-democrats-senate",
-      "headline": "With Trump’s low approval rating and Republicans’ ‘self-destruction’, can Democrats take the Senate?",
-      "summary": "Democrats face challenges winning Senate despite Trump's low approval and Republican divisions.",
-      "url": "https://www.theguardian.com/p/x5xj3p",
-      "thumbnail": "https://media.guim.co.uk/305d45d20f0e09ae24fb3955be038e711747442e/333_0_3333_2667/500.jpg",
-      "published": "2026-05-09T18:27:43Z",
-      "location": {
-        "name": "Iowa",
-        "lat": 42.0115,
-        "lng": -93.2105
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "football/2026/may/09/manchester-city-brentford-premier-league-match-report",
-      "headline": "Manchester City keep pressure on Arsenal as Jérémy Doku sparks defeat of Brentford",
-      "summary": "Manchester City defeats Brentford 3-0 to close gap on Arsenal in Premier League.",
-      "url": "https://www.theguardian.com/p/x528xc",
-      "thumbnail": "https://media.guim.co.uk/e1bb18500afeedd3fd89cb7bb7cf204492e4ec55/80_0_5110_4088/500.jpg",
-      "published": "2026-05-09T18:38:29Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4808,
-        "lng": -2.2426
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "sport/2026/may/09/bobby-cox-dies-84-atlanta-braves",
-      "headline": "Bobby Cox, Hall of Fame manager and Atlanta Braves icon, dies at 84",
-      "summary": "Hall of Famer Bobby Cox, legendary Atlanta Braves manager, dies at 84.",
-      "url": "https://www.theguardian.com/p/x52e88",
-      "thumbnail": "https://media.guim.co.uk/6ac1f075f28995b446daf8571f0ab918a24c1ff7/324_0_3240_2592/500.jpg",
-      "published": "2026-05-09T18:37:22Z",
-      "location": {
-        "name": "Atlanta",
-        "lat": 33.749,
-        "lng": -84.388
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "sport"
-    },
     {
       "id": "us-news/2026/may/09/sean-duffy-great-american-road-trip-reality-show",
       "headline": "Sean Duffy faces backlash for new family reality show: ‘unfocused and out of touch’",
@@ -1766,6 +1718,54 @@
       "category": "sport",
       "significance": 2,
       "section": "football"
+    },
+    {
+      "id": "tv-and-radio/2026/may/10/adolescence-dominates-bafta-tv-awards",
+      "headline": "Adolescence dominates Bafta TV awards",
+      "summary": "Netflix drama Adolescence wins best limited drama at Bafta TV awards.",
+      "url": "https://www.theguardian.com/p/x52jhd",
+      "thumbnail": "https://media.guim.co.uk/fde9808c6935e973941589db971f47d481b37c87/58_0_2948_2359/500.jpg",
+      "published": "2026-05-10T19:22:54Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "tv-and-radio"
+    },
+    {
+      "id": "stage/2026/may/10/foal-review-finborough-theatre-titas-halder",
+      "headline": "Foal review – British Asian’s search for belonging ripples between tenderness and rage",
+      "summary": "Titas Halder's solo play explores British Asian identity and racism at Finborough.",
+      "url": "https://www.theguardian.com/p/x52hgt",
+      "thumbnail": "https://media.guim.co.uk/675ddabee47000ef8adeeda53f6d30deefdf5502/1385_375_4115_3292/500.jpg",
+      "published": "2026-05-10T19:00:33Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "stage"
+    },
+    {
+      "id": "world/2026/may/10/hungary-peter-magyar-apologises-to-those-wronged-under-orban-in-first-speech-pm",
+      "headline": "Hungary’s new PM apologises to those wronged under Orbán in first speech",
+      "summary": "Hungary's new PM Péter Magyar apologizes for wrongs under Orbán regime.",
+      "url": "https://www.theguardian.com/p/x52j65",
+      "thumbnail": "https://media.guim.co.uk/aabc7421331215f7bda0b43b9e286c582607b480/38_90_1853_1483/500.jpg",
+      "published": "2026-05-10T18:21:57Z",
+      "location": {
+        "name": "Budapest",
+        "lat": 47.4979,
+        "lng": 19.0402
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
     }
   ]
 }
