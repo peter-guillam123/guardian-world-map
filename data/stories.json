@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-05-09T23:07:51.220Z",
-    "story_count": 85,
+    "generated_at": "2026-05-10T00:04:00.262Z",
+    "story_count": 87,
     "oldest_story": "2026-05-09T01:07:17Z",
-    "newest_story": "2026-05-09T23:06:34Z",
+    "newest_story": "2026-05-09T23:29:39Z",
     "window_hours": 24
   },
   "stories": [
@@ -1362,6 +1362,38 @@
         "name": "California",
         "lat": 36.1162,
         "lng": -119.6816
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "sport/2026/may/10/daniel-dubois-stops-fabio-wardley-wbo-heavyweight-title-boxing",
+      "headline": "Daniel Dubois stops Fabio Wardley in bloody epic to win WBO heavyweight title",
+      "summary": "Daniel Dubois wins WBO heavyweight title, stopping Fabio Wardley in 11th round.",
+      "url": "https://www.theguardian.com/p/x5284k",
+      "thumbnail": "https://media.guim.co.uk/1c5483d6d5cfeba7dda579dcdc09bea8cfbbffb3/298_0_2617_2094/500.jpg",
+      "published": "2026-05-09T23:29:39Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "us-news/2026/may/09/miami-fl-boat-explosion",
+      "headline": "At least 11 people sent to hospital after suspected boat explosion in Miami",
+      "summary": "At least 11 people hospitalized after suspected boat explosion at Miami sandbar.",
+      "url": "https://www.theguardian.com/p/x52f8n",
+      "thumbnail": "https://media.guim.co.uk/004e9fa4e87baa4c9e777bc2f4fe234b7f2c4519/489_0_2500_2000/500.jpg",
+      "published": "2026-05-09T23:28:34Z",
+      "location": {
+        "name": "Miami",
+        "lat": 25.7617,
+        "lng": -80.1918
       },
       "category": "health",
       "significance": 2,
