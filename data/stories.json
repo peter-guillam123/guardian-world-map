@@ -1,92 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-11T00:10:20.342Z",
-    "story_count": 105,
-    "oldest_story": "2026-05-10T03:37:36Z",
-    "newest_story": "2026-05-10T23:45:24Z",
+    "generated_at": "2026-05-11T04:38:33.529Z",
+    "story_count": 106,
+    "oldest_story": "2026-05-10T06:00:17Z",
+    "newest_story": "2026-05-11T04:30:45Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "us-news/2026/may/10/trump-news-at-a-glance-marco-rubio-hopes-for-serious-offer-from-iran-on-ceasefire-proposal",
-      "headline": "Trump news at a glance: Marco Rubio hopes for ‘serious offer’ from Iran on ceasefire proposal ",
-      "summary": "US Secretary of State Rubio seeks serious Iranian response to Middle East ceasefire proposal amid escalating tensions.",
-      "url": "https://www.theguardian.com/p/x52fmc",
-      "thumbnail": "https://media.guim.co.uk/6c53fe43e7eecddd1867fdd169f2f972ae5e6db9/501_331_1481_1185/500.jpg",
-      "published": "2026-05-10T04:05:39Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 4,
-      "section": "us-news"
-    },
-    {
-      "id": "news/ng-interactive/2026/may/10/tehran-taiwan-trade-donald-trump-xi-jinping-us-china-summit",
-      "headline": "Tehran, Taiwan, trade … what are the hazards facing Trump on Xi summit tightrope?",
-      "summary": "Trump prepares for rare China summit with Xi Jinping amid trade tensions and geopolitical uncertainties.",
-      "url": "https://www.theguardian.com/p/x526gk",
-      "thumbnail": "https://media.guim.co.uk/259f659263c47d09c2500112ff0d5656fdb3ca2b/0_0_2997_2397/500.jpg",
-      "published": "2026-05-10T04:00:15Z",
-      "location": {
-        "name": "Beijing",
-        "lat": 39.9042,
-        "lng": 116.4074
-      },
-      "category": "politics",
-      "significance": 4,
-      "section": "news"
-    },
-    {
-      "id": "world/2026/may/10/defence-sovereignty-europe-builds-low-cost-weapons-drones",
-      "headline": "Defence sovereignty: Europe races to build the low-cost weapons of future",
-      "summary": "European startups like Skycutter develop low-cost drone weapons for Ukraine as NATO questions mount.",
-      "url": "https://www.theguardian.com/p/x4znet",
-      "thumbnail": "https://media.guim.co.uk/f4caf8359cc92d806ce528712594d7bf74e4a1f5/576_0_5760_4608/500.jpg",
-      "published": "2026-05-10T04:00:15Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "tech",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "world/2026/may/10/hantavirus-is-not-easily-spread-but-is-global-heating-upping-our-exposure",
-      "headline": "Hantavirus is not easily spread, but is global heating upping our exposure?",
-      "summary": "Argentina faces hantavirus outbreak 30 years after first documented person-to-person transmission in Patagonia.",
-      "url": "https://www.theguardian.com/p/x5296y",
-      "thumbnail": "https://media.guim.co.uk/0616392ff75e2b45befd7603b0f24e546ac7c345/371_0_2915_2333/500.jpg",
-      "published": "2026-05-10T04:00:15Z",
-      "location": {
-        "name": "Buenos Aires",
-        "lat": -34.6037,
-        "lng": -58.3816
-      },
-      "category": "health",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "australia-news/2026/may/10/waking-up-in-one-nation-country-after-the-coalition-demolition-voters-wait-to-see-if-pauline-hansons-party-can-deliver",
-      "headline": "Waking up in One Nation country: after the Coalition demolition, voters wait to see if Pauline Hanson’s party can deliver",
-      "summary": "One Nation achieves first lower-house seat victory in Farrer electorate, signaling Coalition collapse in rural NSW.",
-      "url": "https://www.theguardian.com/p/x52d58",
-      "thumbnail": "https://media.guim.co.uk/8e564ea161a8518147f033596c419fe7c2367042/760_0_4005_3205/500.jpg",
-      "published": "2026-05-10T03:37:36Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
     {
       "id": "uk-news/2026/may/10/downing-street-rally-asks-silent-majority-to-fight-antisemitism",
       "headline": "Downing Street rally asks ‘silent majority’ to fight antisemitism",
@@ -1686,6 +1606,102 @@
       "category": "conflict",
       "significance": 4,
       "section": "us-news"
+    },
+    {
+      "id": "environment/2026/may/11/country-diary-nesting-mallard-owl-and-woodcock-this-is-the-human-shield-effect",
+      "headline": "Country diary: Nesting mallard, owl and woodcock – this is the ‘human shield’ effect",
+      "summary": "Wildlife thrives in garden due to 'human shield effect' from predators and disturbance.",
+      "url": "https://www.theguardian.com/p/x5x65a",
+      "thumbnail": "https://media.guim.co.uk/78eb51c09770788f9cddeedded92bdc2ef016ea8/82_0_1630_1304/500.jpg",
+      "published": "2026-05-11T04:30:45Z",
+      "location": {
+        "name": "Allendale, Northumberland",
+        "lat": 54.8456,
+        "lng": -2.4519
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "environment"
+    },
+    {
+      "id": "australia-news/2026/may/11/liberal-party-politician-tim-wilson-rejects-rightwing-alliance-one-nation-australia-ntwnfb",
+      "headline": "‘Never, ever’: Tim Wilson walks back comments on potential One Nation rightwing alliance ",
+      "summary": "Tim Wilson rejects potential One Nation coalition after previous comments suggested openness.",
+      "url": "https://www.theguardian.com/p/x52y2b",
+      "thumbnail": "https://media.guim.co.uk/7aa21b131bc4881629ccf9234b3f0516de1509d0/389_372_6415_5132/500.jpg",
+      "published": "2026-05-11T04:17:41Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "world/2026/may/11/greece-explosive-packed-drone-lefkada-western-coast",
+      "headline": "Greece scrambles to explain how explosive-packed drone landed in its waters",
+      "summary": "Explosive-packed drone detected in Greek waters, suspected to originate from Ukraine conflict.",
+      "url": "https://www.theguardian.com/p/x52j97",
+      "thumbnail": "https://media.guim.co.uk/86f60d3295082870c7774f76852454d0e590d02c/160_0_4552_3640/500.jpg",
+      "published": "2026-05-11T04:00:44Z",
+      "location": {
+        "name": "Lefkada, Greece",
+        "lat": 38.741,
+        "lng": 20.6819
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "world/2026/may/11/hantavirus-outbreak-cruise-ship-cases-quarantine-isolation-passengers-death-rate-spread-risk-explained",
+      "headline": "Hantavirus: what happens to cruise ship passengers now and will they quarantine?",
+      "summary": "Hantavirus-hit cruise ship MV Hondius passengers repatriated from Canary Islands.",
+      "url": "https://www.theguardian.com/p/x52knz",
+      "thumbnail": "https://media.guim.co.uk/d906290ce1177b75a73a5484a685b9eae967ed8e/432_0_5000_4000/500.jpg",
+      "published": "2026-05-11T03:53:07Z",
+      "location": {
+        "name": "Las Palmas, Spain",
+        "lat": 28.0029,
+        "lng": -15.5898
+      },
+      "category": "health",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "sport/2026/may/11/afl-addressing-racism-indigenous-drop-off-ntwnfb",
+      "headline": "AFL to plough funds into addressing racism as league grapples with Indigenous drop-off",
+      "summary": "AFL invests $300k to combat racism and culturally unsafe environments for Indigenous players.",
+      "url": "https://www.theguardian.com/p/x52yez",
+      "thumbnail": "https://media.guim.co.uk/4c68f39a83607b65704647c6423f8fa1c510d9d9/166_0_1785_1428/500.jpg",
+      "published": "2026-05-11T03:52:07Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "australia-news/2026/may/11/council-staff-pink-ops-allegedly-surveilled-workers-nsw-anti-corruption-watchdog-ntwnfb",
+      "headline": "Council staff dubbed the ‘Pink Ops’ allegedly promoted friends, NSW anti-corruption watchdog hears",
+      "summary": "NSW corruption inquiry investigates 'Pink Ops' council staff for nepotism and surveillance.",
+      "url": "https://www.theguardian.com/p/x52kpt",
+      "thumbnail": "https://media.guim.co.uk/b0148c41b1babf90e265bcf11f7ad3316d38101a/864_0_4320_3456/500.jpg",
+      "published": "2026-05-11T03:38:08Z",
+      "location": {
+        "name": "Parramatta, Australia",
+        "lat": -33.8152,
+        "lng": 151.0029
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
     }
   ]
 }
