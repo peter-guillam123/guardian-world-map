@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-05-11T22:43:44.491Z",
-    "story_count": 80,
+    "generated_at": "2026-05-11T23:42:44.799Z",
+    "story_count": 87,
     "oldest_story": "2026-05-10T23:45:24Z",
-    "newest_story": "2026-05-11T22:21:39Z",
+    "newest_story": "2026-05-11T23:10:07Z",
     "window_hours": 24
   },
   "stories": [
@@ -1286,6 +1286,118 @@
       "category": "culture",
       "significance": 2,
       "section": "books"
+    },
+    {
+      "id": "technology/2026/may/11/texas-sues-netflix-lawsuit",
+      "headline": "Texas accuses Netflix of spying on children in new lawsuit",
+      "summary": "Texas sues Netflix over alleged spying on children and deceptive data practices.",
+      "url": "https://www.theguardian.com/p/x52pj5",
+      "thumbnail": "https://media.guim.co.uk/fd2d7e03e2efc26b7bb61d735f1e3910fb236f71/458_0_4583_3667/500.jpg",
+      "published": "2026-05-11T23:10:07Z",
+      "location": {
+        "name": "Texas",
+        "lat": 31.9686,
+        "lng": -99.9018
+      },
+      "category": "tech",
+      "significance": 2,
+      "section": "technology"
+    },
+    {
+      "id": "world/2026/may/12/the-big-questions-hanging-over-the-trump-xi-meeting-in-china",
+      "headline": "The big questions hanging over the Trump-Xi meeting in China",
+      "summary": "Trump-Xi meeting in Beijing addresses Taiwan, tariffs, and Middle East tensions.",
+      "url": "https://www.theguardian.com/p/x5xqev",
+      "thumbnail": "https://media.guim.co.uk/45feaddbf50d54f174da8dcf69469fc26011d134/0_0_1900_1520/500.jpg",
+      "published": "2026-05-11T23:05:07Z",
+      "location": {
+        "name": "Beijing",
+        "lat": 39.9042,
+        "lng": 116.4074
+      },
+      "category": "politics",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "business/2026/may/12/uk-households-cut-spending-barclays-credit-card-iran-war",
+      "headline": "UK households cut back spending at fastest rate in 18 months, Barclays says",
+      "summary": "UK households cut spending fastest in 18 months amid Middle East conflict fears.",
+      "url": "https://www.theguardian.com/p/x52n23",
+      "thumbnail": "https://media.guim.co.uk/02271267fb2a63b8e2c4184eb991700714cbbcc8/1277_0_3536_2830/500.jpg",
+      "published": "2026-05-11T23:01:07Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "science/2026/may/12/arts-cultural-engagement-linked-slower-pace-biological-ageing-ucl-research",
+      "headline": "Arts and cultural engagement ‘linked to slower pace of biological ageing’",
+      "summary": "UCL research links arts engagement to slower biological aging and better health.",
+      "url": "https://www.theguardian.com/p/x52zz3",
+      "thumbnail": "https://media.guim.co.uk/d036010ea244c1d32243b66637564fb606d2e9c9/318_824_5539_4431/500.jpg",
+      "published": "2026-05-11T23:01:07Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "science"
+    },
+    {
+      "id": "education/2026/may/12/birmingham-city-university-urged-not-to-axe-black-studies-ma",
+      "headline": "Birmingham City University urged not to axe Black studies MA",
+      "summary": "Over 100 academics oppose Birmingham City University's closure of Black studies MA.",
+      "url": "https://www.theguardian.com/p/x52zva",
+      "thumbnail": "https://media.guim.co.uk/f5484f1e3c89e4576f79035efaaae33234ddccce/3274_596_4717_3773/500.jpg",
+      "published": "2026-05-11T23:01:07Z",
+      "location": {
+        "name": "Birmingham",
+        "lat": 52.5086,
+        "lng": -1.8753
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "education"
+    },
+    {
+      "id": "football/2026/may/11/de-zerbi-ready-for-relegation-fight-until-the-last-minute-after-leeds-frustrate-spurs",
+      "headline": "De Zerbi ready for relegation fight ‘until the last minute’ after Leeds frustrate Spurs",
+      "summary": "Tottenham fights relegation after 1-1 draw with Leeds in crucial match.",
+      "url": "https://www.theguardian.com/p/x52pqt",
+      "thumbnail": "https://media.guim.co.uk/1c4834ff97019474e1b1d3d9b93a581c1403f233/0_0_3968_3174/500.jpg",
+      "published": "2026-05-11T22:48:00Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "business/2026/may/11/buzzfeed-digital-media-deal-byron-allen",
+      "headline": "BuzzFeed sold to Byron Allen, who will take over as CEO in $120m deal",
+      "summary": "Byron Allen acquires BuzzFeed for $120m and becomes CEO of digital media company.",
+      "url": "https://www.theguardian.com/p/x52pkx",
+      "thumbnail": "https://media.guim.co.uk/f6bf01a866a0bf4e843d635121b361f3acb4601e/0_0_5000_4000/500.jpg",
+      "published": "2026-05-11T22:43:25Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
     }
   ]
 }
