@@ -1,44 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-10T23:11:06.408Z",
-    "story_count": 106,
-    "oldest_story": "2026-05-09T23:28:34Z",
-    "newest_story": "2026-05-10T22:39:18Z",
+    "generated_at": "2026-05-11T00:10:20.342Z",
+    "story_count": 105,
+    "oldest_story": "2026-05-10T03:37:36Z",
+    "newest_story": "2026-05-10T23:45:24Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "sport/2026/may/10/daniel-dubois-stops-fabio-wardley-wbo-heavyweight-title-boxing",
-      "headline": "Daniel Dubois stops Fabio Wardley in bloody epic to win WBO heavyweight title",
-      "summary": "Daniel Dubois wins WBO heavyweight title, stopping Fabio Wardley in 11th round.",
-      "url": "https://www.theguardian.com/p/x5284k",
-      "thumbnail": "https://media.guim.co.uk/1c5483d6d5cfeba7dda579dcdc09bea8cfbbffb3/298_0_2617_2094/500.jpg",
-      "published": "2026-05-09T23:29:39Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "us-news/2026/may/09/miami-fl-boat-explosion",
-      "headline": "At least 11 people sent to hospital after suspected boat explosion in Miami",
-      "summary": "At least 11 people hospitalized after suspected boat explosion at Miami sandbar.",
-      "url": "https://www.theguardian.com/p/x52f8n",
-      "thumbnail": "https://media.guim.co.uk/004e9fa4e87baa4c9e777bc2f4fe234b7f2c4519/489_0_2500_2000/500.jpg",
-      "published": "2026-05-09T23:28:34Z",
-      "location": {
-        "name": "Miami",
-        "lat": 25.7617,
-        "lng": -80.1918
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "us-news"
-    },
     {
       "id": "us-news/2026/may/10/trump-news-at-a-glance-marco-rubio-hopes-for-serious-offer-from-iran-on-ceasefire-proposal",
       "headline": "Trump news at a glance: Marco Rubio hopes for ‘serious offer’ from Iran on ceasefire proposal ",
@@ -1702,6 +1670,22 @@
       "category": "health",
       "significance": 2,
       "section": "australia-news"
+    },
+    {
+      "id": "us-news/2026/may/11/donald-trump-news-at-a-glance-latest-updates-today",
+      "headline": "Trump news at a glance: Trump wants to ‘go in’ to Iran to secure nuclear material, Netanyahu claims",
+      "summary": "Netanyahu claims war with Iran continues over nuclear material; Trump seeks to secure enriched uranium.",
+      "url": "https://www.theguardian.com/p/x52t66",
+      "thumbnail": "https://media.guim.co.uk/3ff730e045fec5b111ff754b69b5d55c7473cf36/0_0_4030_3224/500.jpg",
+      "published": "2026-05-10T23:45:24Z",
+      "location": {
+        "name": "Iran",
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "us-news"
     }
   ]
 }
