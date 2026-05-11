@@ -1,60 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-11T18:30:23.124Z",
-    "story_count": 70,
-    "oldest_story": "2026-05-10T19:00:33Z",
-    "newest_story": "2026-05-11T18:28:47Z",
+    "generated_at": "2026-05-11T20:22:05.892Z",
+    "story_count": 71,
+    "oldest_story": "2026-05-10T20:35:17Z",
+    "newest_story": "2026-05-11T20:15:30Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "tv-and-radio/2026/may/10/adolescence-dominates-bafta-tv-awards",
-      "headline": "Adolescence dominates Bafta TV awards",
-      "summary": "Netflix drama Adolescence wins best limited drama at Bafta TV awards.",
-      "url": "https://www.theguardian.com/p/x52jhd",
-      "thumbnail": "https://media.guim.co.uk/fde9808c6935e973941589db971f47d481b37c87/58_0_2948_2359/500.jpg",
-      "published": "2026-05-10T19:22:54Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "tv-and-radio"
-    },
-    {
-      "id": "stage/2026/may/10/foal-review-finborough-theatre-titas-halder",
-      "headline": "Foal review – British Asian’s search for belonging ripples between tenderness and rage",
-      "summary": "Titas Halder's solo play explores British Asian identity and racism at Finborough.",
-      "url": "https://www.theguardian.com/p/x52hgt",
-      "thumbnail": "https://media.guim.co.uk/675ddabee47000ef8adeeda53f6d30deefdf5502/1385_375_4115_3292/500.jpg",
-      "published": "2026-05-10T19:00:33Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "stage"
-    },
-    {
-      "id": "football/2026/may/10/mikel-artetas-relief-as-brave-var-decision-takes-arsenal-closer-to-title",
-      "headline": "Mikel Arteta’s relief as ‘brave’ VAR decision takes Arsenal closer to title",
-      "summary": "Arsenal moves closer to Premier League title after controversial VAR decision nullifies West Ham equalizer.",
-      "url": "https://www.theguardian.com/p/x528bz",
-      "thumbnail": "https://media.guim.co.uk/529f1ea859301cb888d259b3df118ea0098b4c33/170_0_1698_1358/500.jpg",
-      "published": "2026-05-10T20:15:55Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
     {
       "id": "australia-news/live/2026/may/11/australia-politics-live-federal-budget-jim-chalmers-cost-of-living-deficit-farrer-byelection-coalition-one-nation-ntwnfb",
       "headline": "Australia politics live: budget funds to speed up environmental approvals; Coalition deals with Farrer loss ",
@@ -1126,6 +1078,70 @@
       "category": "politics",
       "significance": 2,
       "section": "politics"
+    },
+    {
+      "id": "us-news/2026/may/09/los-angeles-subway-public-transportation",
+      "headline": "Riding the D in Los Angeles: city famous for traffic hopes new subway stations will be a ‘game changer’",
+      "summary": "LA's new subway stations on Wilshire Boulevard open after 25 years, ahead of World Cup and Olympics.",
+      "url": "https://www.theguardian.com/p/x52avb",
+      "thumbnail": "https://media.guim.co.uk/993e2a6cddc5b1cd160a13d3ebf3a210247bf596/236_0_4510_3608/500.jpg",
+      "published": "2026-05-11T20:15:30Z",
+      "location": {
+        "name": "Los Angeles",
+        "lat": 34.0522,
+        "lng": -118.2437
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/may/11/supreme-court-mifepristone-abortion-pill-temporary-extension",
+      "headline": "US supreme court temporarily extends access to mail-order abortion medication mifepristone",
+      "summary": "US Supreme Court temporarily extends nationwide access to mail-order abortion pill mifepristone.",
+      "url": "https://www.theguardian.com/p/x52zx4",
+      "thumbnail": "https://media.guim.co.uk/fcc3a4bea5e33e24d90197496dea940d0aac87e4/401_0_4213_3371/500.jpg",
+      "published": "2026-05-11T20:06:20Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "world/2026/may/11/french-womandoctors-hantavirus-symptoms-hv-hondius",
+      "headline": "French woman was told by doctors hantavirus symptoms were just anxiety",
+      "summary": "French woman evacuated from cruise ship with hantavirus was initially misdiagnosed with anxiety by doctors.",
+      "url": "https://www.theguardian.com/p/x52pxe",
+      "thumbnail": "https://media.guim.co.uk/9a81c040d389bfa2a4ae84ec722f6c0844bc09f3/1029_0_5851_4680/500.jpg",
+      "published": "2026-05-11T19:19:11Z",
+      "location": {
+        "name": "Spain",
+        "lat": 40.4637,
+        "lng": -3.7492
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "education/2026/may/11/gillian-pascall-obituary",
+      "headline": "Gillian Pascall obituary",
+      "summary": "Nottingham University sociology lecturer Gillian Pascall, feminist scholar, dies aged 79.",
+      "url": "https://www.theguardian.com/p/x4zn9y",
+      "thumbnail": "https://media.guim.co.uk/4ae118244c07341e5749a58cffe83835a03f394d/0_312_1500_1200/500.jpg",
+      "published": "2026-05-11T19:19:02Z",
+      "location": {
+        "name": "Nottingham",
+        "lat": 52.9545,
+        "lng": -1.1581
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "education"
     }
   ]
 }
