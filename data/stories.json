@@ -1,268 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-11T11:39:40.422Z",
-    "story_count": 95,
-    "oldest_story": "2026-05-10T12:00:25Z",
-    "newest_story": "2026-05-11T11:37:20Z",
+    "generated_at": "2026-05-11T14:10:10.578Z",
+    "story_count": 83,
+    "oldest_story": "2026-05-10T14:11:53Z",
+    "newest_story": "2026-05-11T14:04:52Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "society/2026/may/10/gps-and-hospitals-in-england-to-be-required-to-share-data-to-create-single-patient-records",
-      "headline": "GPs and hospitals in England to be required to share data to create single patient records",
-      "summary": "England to require GPs and hospitals to share patient data for unified medical records.",
-      "url": "https://www.theguardian.com/p/x52tvc",
-      "thumbnail": "https://media.guim.co.uk/1cba6dca96336694725679402cbf1349f38140f9/445_0_3561_2848/500.jpg",
-      "published": "2026-05-10T12:02:10Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "society"
-    },
-    {
-      "id": "football/2026/may/10/fifa-world-cup-terrorism-risk-iran-war",
-      "headline": "Fifa World Cup matches face heightened terror risk in US amid Iran conflict",
-      "summary": "2026 FIFA World Cup matches in US face heightened terrorism risks amid Iran conflict.",
-      "url": "https://www.theguardian.com/p/x522jm",
-      "thumbnail": "https://media.guim.co.uk/fb1ebf60a34afc96d106c58d8c4e2b4b7d300c41/312_0_3333_2667/500.jpg",
-      "published": "2026-05-10T12:00:26Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "business/2026/may/10/advisers-urge-jp-morgan-investors-to-vote-to-split-chair-and-ceo-positions",
-      "headline": "Advisers urge JP Morgan investors to vote to split chair and CEO positions ",
-      "summary": "Investor advisers urge JP Morgan shareholders to split Jamie Dimon's chair and CEO roles.",
-      "url": "https://www.theguardian.com/p/x5xmt2",
-      "thumbnail": "https://media.guim.co.uk/2fbee3fe53c7881cc057ed4bf69a296d7c701b14/567_0_4907_3926/500.jpg",
-      "published": "2026-05-10T12:00:25Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "us-news/2026/may/10/trump-administration-overdose-prevention-policies",
-      "headline": "How the Trump White House works against itself in its efforts to prevent overdoses",
-      "summary": "Trump administration's contradictory overdose prevention policies confuse experts on harm reduction.",
-      "url": "https://www.theguardian.com/p/x522mg",
-      "thumbnail": "https://media.guim.co.uk/a22b10ed72b43eadb0a6de16ee727ff0eac968db/250_0_2501_2001/500.jpg",
-      "published": "2026-05-10T12:00:25Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "world/2026/may/10/amazon-of-america-vitoria-regia-film-brazil-rainforest",
-      "headline": "‘Amazon of America’: film paints vision of a post-coup Brazil giving up rainforest",
-      "summary": "Film 'Vitória Régia' depicts imaginary post-coup Brazil surrendering Amazon to US.",
-      "url": "https://www.theguardian.com/p/x4ptx5",
-      "thumbnail": "https://media.guim.co.uk/b5132bd78ca48b4ff60b663feef93036d9c88015/591_0_1213_970/500.jpg",
-      "published": "2026-05-10T12:00:25Z",
-      "location": {
-        "name": "Brasília",
-        "lat": -15.7975,
-        "lng": -47.8919
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "football/live/2026/may/10/chelsea-v-manchester-city-womens-fa-cup-semi-final-live",
-      "headline": "Chelsea v Manchester City: Women’s FA Cup semi-final – live",
-      "summary": "Chelsea face Manchester City in Women's FA Cup semi-final at 3:30pm BST.",
-      "url": "https://www.theguardian.com/p/x528fp",
-      "thumbnail": "https://media.guim.co.uk/03967b7e2ac4e0463bbf69b47981f61c7ba34465/254_0_4584_3667/500.jpg",
-      "published": "2026-05-10T13:53:28Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "football/live/2026/may/10/nottingham-forest-v-newcastle-burnley-v-aston-villa-crystal-palace-v-everton-live",
-      "headline": "Nottingham Forest v Newcastle, Burnley v Aston Villa, Crystal Palace v Everton – live",
-      "summary": "Premier League triple-header: Forest vs Newcastle, Burnley vs Villa, Palace vs Everton.",
-      "url": "https://www.theguardian.com/p/x528fv",
-      "thumbnail": "https://media.guim.co.uk/18336e771a4280d72523c5256fddd3494a753105/343_0_3842_3074/500.jpg",
-      "published": "2026-05-10T13:50:03Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "uk-news/2026/may/10/two-arrested-arson-attack-former-synagogue-east-london",
-      "headline": "Two arrested over arson attack at former synagogue in east London",
-      "summary": "Two arrested over arson attack at former synagogue in Whitechapel, east London.",
-      "url": "https://www.theguardian.com/p/x52tdh",
-      "thumbnail": "https://media.guim.co.uk/dda6e5af456f39e4795b205c91e3e77056ae5ac4/26_0_4505_3605/500.jpg",
-      "published": "2026-05-10T13:49:16Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "conflict",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "tv-and-radio/2026/may/10/saturday-night-live-matt-damon-host",
-      "headline": "Saturday Night Live: Matt Damon is a stellar host of another standout episode",
-      "summary": "Matt Damon hosts SNL in standout episode featuring political comedy sketches.",
-      "url": "https://www.theguardian.com/p/x52tcx",
-      "thumbnail": "https://media.guim.co.uk/825edd6cebb3756e22b99d10e128782dbc5f2e3a/250_0_2500_2000/500.jpg",
-      "published": "2026-05-10T13:43:32Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "tv-and-radio"
-    },
-    {
-      "id": "football/2026/may/10/liverpool-brighton-womens-fa-cup-semi-final-match-report",
-      "headline": "Brighton’s Nadine Noordam sinks Liverpool in thrilling Women’s FA Cup semi",
-      "summary": "Brighton beats Liverpool 3-2 in Women's FA Cup semi with dramatic 95th-minute winner.",
-      "url": "https://www.theguardian.com/p/x528dq",
-      "thumbnail": "https://media.guim.co.uk/cd2feed72cd45702950d408c436cab64a84c9dfc/230_0_4050_3240/500.jpg",
-      "published": "2026-05-10T13:16:53Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/may/10/celtic-rangers-scottish-premiership-old-firm-match-report",
-      "headline": "Daizen Maeda’s brilliance takes Celtic past Rangers and puts Hearts on spot",
-      "summary": "Celtic defeats Rangers in Scottish Premiership with Daizen Maeda's overhead kick.",
-      "url": "https://www.theguardian.com/p/x528ej",
-      "thumbnail": "https://media.guim.co.uk/e0bcf730020d47e0d0219622fb843fd057295169/192_0_4664_3731/500.jpg",
-      "published": "2026-05-10T13:05:40Z",
-      "location": {
-        "name": "Glasgow",
-        "lat": 55.8642,
-        "lng": -4.2518
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "music/2026/may/10/super-furry-animals-review-barrowland-ballroom-glasgow-gruff-rhys",
-      "headline": "Super Furry Animals review – stirring reunion showcases immaculate songcraft",
-      "summary": "Super Furry Animals reunite for stirring performance at Barrowland Ballroom Glasgow.",
-      "url": "https://www.theguardian.com/p/x52hgx",
-      "thumbnail": "https://media.guim.co.uk/bb31373cb0d29e0cdd0257c0b3709d84a7ba7c7a/746_923_2784_2228/500.jpg",
-      "published": "2026-05-10T13:02:19Z",
-      "location": {
-        "name": "Glasgow",
-        "lat": 55.8642,
-        "lng": -4.2518
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "music"
-    },
-    {
-      "id": "society/2026/may/10/tenants-no-fault-eviction-notices-just-before-ban-england-section-21",
-      "headline": "‘Everyone was in tears’: the tenants given eviction notices just before ban in England",
-      "summary": "Tenants issued eviction notices hours before England's section 21 ban took effect.",
-      "url": "https://www.theguardian.com/p/x5xna9",
-      "thumbnail": "https://media.guim.co.uk/7e10ecc183245f13472c8975759f87f174519e86/406_0_5887_4712/500.jpg",
-      "published": "2026-05-10T13:00:27Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "society"
-    },
-    {
-      "id": "lifeandstyle/2026/may/10/shirley-ballas-looks-back-interview-mum-audrey-strictly-come-dancing",
-      "headline": "Shirley Ballas looks back: ‘I was crying about a breakup, so Mum smacked me round the face’",
-      "summary": "Shirley Ballas discusses dance career and family life with mother in interview.",
-      "url": "https://www.theguardian.com/p/x4pgjf",
-      "thumbnail": "https://media.guim.co.uk/4825a27c00521d4019e0ca5128e1fe2e13d96f24/0_343_3420_2734/500.jpg",
-      "published": "2026-05-10T13:00:27Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "lifeandstyle"
-    },
-    {
-      "id": "us-news/2026/may/10/fda-baby-formula-safety-claims-contradict-data",
-      "headline": "Health advocates warn government’s claims of baby formula safety contradict data",
-      "summary": "FDA baby formula safety claims contradicted by data showing contamination.",
-      "url": "https://www.theguardian.com/p/x5xzgq",
-      "thumbnail": "https://media.guim.co.uk/51aafaeba4bf8611e5721632eb004fbd7df05bdb/719_0_7161_5733/500.jpg",
-      "published": "2026-05-10T13:00:27Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "uk-news/2026/may/10/patsy-wylie-murder-northern-ireland-1944",
-      "headline": "Research sheds light on GI’s murder of seven-year-old girl in Northern Ireland in 1944",
-      "summary": "Research reveals details of 1944 murder of seven-year-old Patsy Wylie by US soldier William Harrison in Northern Ireland.",
-      "url": "https://www.theguardian.com/p/x527bh",
-      "thumbnail": "https://media.guim.co.uk/5cead2b702ed96db34918c71dceedaa3dbdfc73f/131_342_1233_986/500.jpg",
-      "published": "2026-05-10T13:00:26Z",
-      "location": {
-        "name": "County Tyrone",
-        "lat": 54.5973,
-        "lng": -6.9981
-      },
-      "category": "other",
-      "significance": 2,
-      "section": "uk-news"
-    },
     {
       "id": "football/live/2026/may/10/west-ham-united-v-arsenal-premier-league-live",
       "headline": "West Ham United v Arsenal: Premier League – live",
@@ -326,38 +70,6 @@
       "category": "culture",
       "significance": 1,
       "section": "stage"
-    },
-    {
-      "id": "business/2026/may/10/degree-complacency-supply-chains-prepared-impact-iran-war",
-      "headline": "‘Degree of complacency’: are supply chains prepared for impact of ongoing Iran war?",
-      "summary": "Supply chain disruptions from Iran war threaten Europe with energy shocks and recession warnings.",
-      "url": "https://www.theguardian.com/p/x5xmzh",
-      "thumbnail": "https://media.guim.co.uk/1f2dea92bf6e2c4b961b4167b3ad3604ed40c9da/418_0_4164_3333/500.jpg",
-      "published": "2026-05-10T14:00:27Z",
-      "location": {
-        "name": "Europe",
-        "lat": 54.526,
-        "lng": 15.2551
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "business"
-    },
-    {
-      "id": "us-news/2026/may/10/trump-tariff-refunds-small-business",
-      "headline": "Trump tariff refunds are actually happening – and businesses should pay attention",
-      "summary": "US government processes tariff refunds to importers after Supreme Court struck down Trump's tariff policies.",
-      "url": "https://www.theguardian.com/p/x528v4",
-      "thumbnail": "https://media.guim.co.uk/368e61bb87878f4cf5a5c29f8cbecb91a65a708d/67_0_4808_3847/500.jpg",
-      "published": "2026-05-10T14:00:27Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "us-news"
     },
     {
       "id": "politics/2026/may/10/starmer-faces-perilous-24-hours-streeting-readying-leadership-bid",
@@ -1526,6 +1238,102 @@
       "category": "politics",
       "significance": 3,
       "section": "politics"
+    },
+    {
+      "id": "us-news/2026/may/11/florida-university-shooting-chatgpt-openai",
+      "headline": "Family of Florida university shooting victim sues over suspect’s ChatGPT use",
+      "summary": "Family sues OpenAI over ChatGPT use by alleged FSU shooting gunman in April 2025.",
+      "url": "https://www.theguardian.com/p/x52njv",
+      "thumbnail": "https://media.guim.co.uk/7a6be31d782b5e73511010e8a49148c435116314/417_0_4165_3333/500.jpg",
+      "published": "2026-05-11T14:04:52Z",
+      "location": {
+        "name": "Tallahassee",
+        "lat": 30.4383,
+        "lng": -84.2807
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "politics/2026/may/11/people-barred-from-uk-for-far-right-rally",
+      "headline": "Seven people barred from coming to UK for far-right rally",
+      "summary": "UK bars seven people from entering country for far-right Tommy Robinson rally on May 16.",
+      "url": "https://www.theguardian.com/p/x52nay",
+      "thumbnail": "https://media.guim.co.uk/11d6f51fd8e8fa76241a57377e0da0146d4a32f3/299_0_4810_3848/500.jpg",
+      "published": "2026-05-11T13:57:35Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "music/2026/may/11/shakespeares-sisters-review-brighton-festival",
+      "headline": "Shakespeare’s Sisters review: brilliantly unexpected songs and prose give voice to the voiceless ",
+      "summary": "Shakespeare's Sisters festival in Brighton combines Bard's female characters with old and new music.",
+      "url": "https://www.theguardian.com/p/x52mqt",
+      "thumbnail": "https://media.guim.co.uk/e24c5434b9b24de41e88893be20e3fe1ee9e5b42/249_0_3219_2575/500.jpg",
+      "published": "2026-05-11T13:56:01Z",
+      "location": {
+        "name": "Brighton",
+        "lat": 50.8626,
+        "lng": -0.0821
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "music"
+    },
+    {
+      "id": "world/2026/may/11/evacuated-us-and-french-mv-hondius-cruise-ship-passengers-test-positive-for-hantavirus",
+      "headline": "Evacuated US and French MV Hondius passengers test positive for hantavirus",
+      "summary": "Two evacuated MV Hondius cruise ship passengers test positive for hantavirus in Spain outbreak.",
+      "url": "https://www.theguardian.com/p/x52mtb",
+      "thumbnail": "https://media.guim.co.uk/053da24587bcf353dcd581fec5e040be6a09c974/464_0_4640_3712/500.jpg",
+      "published": "2026-05-11T13:37:30Z",
+      "location": {
+        "name": "Madrid",
+        "lat": 40.4168,
+        "lng": -3.7038
+      },
+      "category": "health",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "football/2026/may/11/beth-mead-to-leave-arsenal-women",
+      "headline": "Beth Mead to leave Arsenal this summer after nine trophy-laden years",
+      "summary": "England forward Beth Mead leaves Arsenal Women after nine trophy-laden years with club.",
+      "url": "https://www.theguardian.com/p/x52nf3",
+      "thumbnail": "https://media.guim.co.uk/2229f889c9d7b70faa5ceb4a5ad932b774f994f5/478_183_2624_2099/500.jpg",
+      "published": "2026-05-11T13:00:55Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "stage/2026/may/11/albatross-review-uea-drama-studio-norwich",
+      "headline": "Albatross review – Antarctic researcher finds frosty reception back home",
+      "summary": "Albatross play at Norwich's UEA examines climate crisis through Antarctic researcher's homecoming.",
+      "url": "https://www.theguardian.com/p/x52hgp",
+      "thumbnail": "https://media.guim.co.uk/92b944b8d2ae1b141b872fafc8d875cb4758cb08/203_0_3597_2879/500.jpg",
+      "published": "2026-05-11T13:00:55Z",
+      "location": {
+        "name": "Norwich",
+        "lat": 52.6289,
+        "lng": 1.2974
+      },
+      "category": "climate",
+      "significance": 1,
+      "section": "stage"
     }
   ]
 }
