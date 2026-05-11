@@ -1,44 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-11T21:48:46.196Z",
-    "story_count": 77,
-    "oldest_story": "2026-05-10T22:01:37Z",
-    "newest_story": "2026-05-11T21:47:25Z",
+    "generated_at": "2026-05-11T22:43:44.491Z",
+    "story_count": 80,
+    "oldest_story": "2026-05-10T23:45:24Z",
+    "newest_story": "2026-05-11T22:21:39Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "society/2026/may/10/experts-call-for-uk-four-day-week-as-study-links-long-work-hours-to-obesity",
-      "headline": "Experts call for UK four-day week as study links long work hours to obesity",
-      "summary": "Study links long work hours to obesity; experts call for UK four-day week.",
-      "url": "https://www.theguardian.com/p/x52d9a",
-      "thumbnail": "https://media.guim.co.uk/bce59ff9f64dabdae4c9e1be4c4f198e09499cca/1060_182_3980_3184/500.jpg",
-      "published": "2026-05-10T22:01:37Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "society"
-    },
-    {
-      "id": "australia-news/2026/may/11/australia-charters-flight-to-bring-nationals-home-from-hantavirus-stricken-luxury-cruise",
-      "headline": "Australia charters flight to bring nationals home from hantavirus-stricken luxury cruise",
-      "summary": "Australia charters flight to repatriate nationals from hantavirus-stricken cruise ship via Perth.",
-      "url": "https://www.theguardian.com/p/x52kcd",
-      "thumbnail": "https://media.guim.co.uk/6265d750af05c85087ee39aca89d61d9d8e0ceb9/727_0_3636_2910/500.jpg",
-      "published": "2026-05-10T22:39:18Z",
-      "location": {
-        "name": "Perth",
-        "lat": -31.9505,
-        "lng": 115.8605
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "australia-news"
-    },
     {
       "id": "us-news/2026/may/11/donald-trump-news-at-a-glance-latest-updates-today",
       "headline": "Trump news at a glance: Trump wants to ‘go in’ to Iran to secure nuclear material, Netanyahu claims",
@@ -1238,6 +1206,86 @@
       "category": "sport",
       "significance": 2,
       "section": "sport"
+    },
+    {
+      "id": "football/2026/may/11/de-zerbis-impact-at-tottenham-is-stark-but-teams-fragile-self-destruction-remains",
+      "headline": "De Zerbi’s impact at Spurs is undeniable but team’s fragile self-destruction remains",
+      "summary": "Tottenham's De Zerbi struggles to end self-destructive pattern despite improved play, penalty concession costs vital win.",
+      "url": "https://www.theguardian.com/p/x52z44",
+      "thumbnail": "https://media.guim.co.uk/dc3d5b7d87d4faee2d52df4d37efc7180247d220/276_0_4888_3911/500.jpg",
+      "published": "2026-05-11T22:21:39Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/may/11/supreme-court-alabama-republicans-new-congressional-maps",
+      "headline": "Alabama can pursue electoral map that favors Republicans, supreme court rules",
+      "summary": "US Supreme Court allows Alabama Republicans' electoral map favoring their party, vacating lower court's racial discrimination ruling.",
+      "url": "https://www.theguardian.com/p/x52pn9",
+      "thumbnail": "https://media.guim.co.uk/de3c47cf559e5e12d7194fbb27eaa0e8233c9954/374_0_1868_1495/500.jpg",
+      "published": "2026-05-11T22:13:35Z",
+      "location": {
+        "name": "Alabama",
+        "lat": 32.8067,
+        "lng": -86.7113
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/may/11/california-governor-candidate-mocked-street-taco",
+      "headline": "California gubernatorial candidate Steve Hilton mocked for misidentifying a ‘street taco’",
+      "summary": "British political strategist Steve Hilton mocked for misidentifying street taco while campaigning for California governor.",
+      "url": "https://www.theguardian.com/p/x52pd5",
+      "thumbnail": "https://media.guim.co.uk/1deef080b02cec3006cd1a2f2ff342a28e7eeb08/509_0_5072_4060/500.jpg",
+      "published": "2026-05-11T22:12:36Z",
+      "location": {
+        "name": "California",
+        "lat": 36.1163,
+        "lng": -119.6674
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/may/11/musk-v-openai-altman-trial",
+      "headline": "‘A consistent pattern of lying’: Musk v OpenAI trial exposes what insiders think of Sam Altman ",
+      "summary": "Musk v OpenAI trial exposes internal conflicts and CEO Sam Altman's credibility issues within the AI company.",
+      "url": "https://www.theguardian.com/p/x52pen",
+      "thumbnail": "https://media.guim.co.uk/1da88e3be74feeb7fcc53953a395bbdb6b8bf588/264_0_2640_2112/500.jpg",
+      "published": "2026-05-11T22:01:44Z",
+      "location": {
+        "name": "San Francisco",
+        "lat": 37.7749,
+        "lng": -122.4194
+      },
+      "category": "tech",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "books/2026/may/11/sarah-wynn-williams-and-virginia-giuffre-jointly-win-freedom-to-publish-prize-at-british-book-awards",
+      "headline": "Sarah Wynn-Williams and Virginia Giuffre jointly win freedom to publish prize at British book awards",
+      "summary": "Meta whistleblower Sarah Wynn-Williams and Virginia Giuffre share British book award's Freedom to Publish prize.",
+      "url": "https://www.theguardian.com/p/x52zvj",
+      "thumbnail": "https://media.guim.co.uk/04faf0e5b2f341ef10a93f7abbad24416814eea6/166_0_2585_2068/500.jpg",
+      "published": "2026-05-11T22:00:06Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "books"
     }
   ]
 }
