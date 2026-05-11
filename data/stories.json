@@ -1,108 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-11T04:38:33.529Z",
-    "story_count": 106,
-    "oldest_story": "2026-05-10T06:00:17Z",
-    "newest_story": "2026-05-11T04:30:45Z",
+    "generated_at": "2026-05-11T08:17:37.232Z",
+    "story_count": 109,
+    "oldest_story": "2026-05-10T08:21:26Z",
+    "newest_story": "2026-05-11T08:14:30Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "uk-news/2026/may/10/downing-street-rally-asks-silent-majority-to-fight-antisemitism",
-      "headline": "Downing Street rally asks ‘silent majority’ to fight antisemitism",
-      "summary": "Political leaders invited to London rally opposing antisemitism as PM considers attending.",
-      "url": "https://www.theguardian.com/p/x52dgx",
-      "thumbnail": "https://media.guim.co.uk/c042cd5371b66e3d5431342724ad9203cb89cb15/1844_105_3156_2524/500.jpg",
-      "published": "2026-05-10T06:38:40Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "australia-news/2026/may/10/police-investigate-alleged-antisemitic-abuse-at-childrens-netball-game-in-sydney-ntwnfb",
-      "headline": "Woman charged after alleged antisemitic abuse at children’s netball game in Sydney",
-      "summary": "Woman charged after antisemitic abuse alleged at children's netball game in Maroubra.",
-      "url": "https://www.theguardian.com/p/x52fjx",
-      "thumbnail": "https://media.guim.co.uk/fe15f835aff4a29316f7842d35c83b865998a09d/438_0_4165_3333/500.jpg",
-      "published": "2026-05-10T06:27:19Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "other",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "money/2026/may/10/pension-scams-inheritance-tax-loopholes-iht-rules-savings",
-      "headline": "Pension scams: Britons warned over criminals offering inheritance tax loopholes",
-      "summary": "UK residents warned of pension scams exploiting inheritance tax loopholes confusion.",
-      "url": "https://www.theguardian.com/p/x52xkv",
-      "thumbnail": "https://media.guim.co.uk/7db7f214616397c9ba37515ab197e36e979e3ff5/498_0_5020_4016/500.jpg",
-      "published": "2026-05-10T06:00:18Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "money"
-    },
-    {
-      "id": "world/2026/may/10/cape-verde-tech-brain-drain",
-      "headline": "Cape Verde bets on tech to reverse postcolonial brain drain",
-      "summary": "Cape Verde archipelago invests in tech startups and digital infrastructure to reverse brain drain.",
-      "url": "https://www.theguardian.com/p/x4jc23",
-      "thumbnail": "https://media.guim.co.uk/35c03e114bfc9c8e6f22205aaf962f4d3ecca077/807_0_5541_4435/500.jpg",
-      "published": "2026-05-10T06:00:18Z",
-      "location": {
-        "name": "Cape Verde",
-        "lat": 16.7362,
-        "lng": -23.6385
-      },
-      "category": "tech",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "film/2026/may/10/bafta-doubles-down-on-preparations-for-sunday-tv-awards-after-n-word-fallout",
-      "headline": "Bafta doubles down on preparations for Sunday TV awards after N-word fallout",
-      "summary": "Bafta tightens TV awards procedures following February racial slur broadcast incident.",
-      "url": "https://www.theguardian.com/p/x52dep",
-      "thumbnail": "https://media.guim.co.uk/d34f242a7315661df65595af9a59c192f2fc3497/230_269_6070_4857/500.jpg",
-      "published": "2026-05-10T06:00:18Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "film"
-    },
-    {
-      "id": "environment/2026/may/10/a-long-road-ahead-could-community-car-sharing-help-uk-hit-climate-targets",
-      "headline": "‘A long road ahead’: could community car-sharing help UK hit climate targets?",
-      "summary": "Community electric car-sharing scheme in East Midlands supports emissions reduction efforts.",
-      "url": "https://www.theguardian.com/p/x5vmng",
-      "thumbnail": "https://media.guim.co.uk/ef410624d5cfcd348e5f16db0991d7f9f8478cf3/40_0_2400_1920/500.jpg",
-      "published": "2026-05-10T06:00:17Z",
-      "location": {
-        "name": "Leicestershire",
-        "lat": 52.6369,
-        "lng": -1.1398
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "environment"
-    },
     {
       "id": "world/live/2026/may/10/hantavirus-cruise-ship-rat-spain-tenerife-russia-ukraine-putin-zelenskyy-war-europe-latest-news-updates",
       "headline": "Hantavirus-hit cruise ship arrives in Tenerife with Spanish passengers to be evacuated first – Europe live ",
@@ -1700,6 +1604,150 @@
         "lng": 151.0029
       },
       "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "australia-news/2026/may/11/body-alleged-triple-murderer-julian-ingram-found-ntwnfb",
+      "headline": "Body believed to be alleged triple murderer Julian Ingram found near abandoned ute in ‘decomposed state’ ",
+      "summary": "Body believed to be alleged triple murderer Julian Ingram found near abandoned ute in decomposed state.",
+      "url": "https://www.theguardian.com/p/x52maj",
+      "thumbnail": "https://media.guim.co.uk/b8bb5991a9178e0d2b4d919add000edc5d7b1c49/0_0_5000_4000/500.jpg",
+      "published": "2026-05-11T08:14:30Z",
+      "location": {
+        "name": "Lake Cargelligo",
+        "lat": -33.9333,
+        "lng": 145.2833
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "world/live/2026/may/11/ukraine-russia-eu-ministers-brussels-putin-zelenskyy-hantavirus-spain-europe-latest-news-updates",
+      "headline": "EU ministers meet in Brussels as ‘new momentum’ gives Europe hope on Ukraine – Europe live",
+      "summary": "EU ministers meet in Brussels discussing Ukraine, Middle East, and western Balkans amid new momentum.",
+      "url": "https://www.theguardian.com/p/x52mdv",
+      "thumbnail": "https://media.guim.co.uk/aaa6f05df32437b4fedd67467c31c11bfaefe3c1/494_0_6440_5152/500.jpg",
+      "published": "2026-05-11T08:11:04Z",
+      "location": {
+        "name": "Brussels",
+        "lat": 50.8503,
+        "lng": 4.3517
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "world/2026/may/11/mv-hondius-passengers-from-hantavirus-cruise-ship-enter-isolation-facility-in-wirral",
+      "headline": "Passengers from Hantavirus cruise ship enter isolation facility in Wirral",
+      "summary": "Passengers from hantavirus-hit cruise ship MV Hondius enter isolation facility in Wirral after repatriation.",
+      "url": "https://www.theguardian.com/p/x52m8k",
+      "thumbnail": "https://media.guim.co.uk/790f21bbd947fa95a03b6daad31d11f7e08ba852/680_0_6833_5464/500.jpg",
+      "published": "2026-05-11T08:06:03Z",
+      "location": {
+        "name": "Wirral",
+        "lat": 53.3723,
+        "lng": -3.0269
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "politics/live/2026/may/11/keir-starmer-labour-leadership-speech-angela-rayner-wes-streeting-andy-burnham-catherine-west-may-elections-uk-politics-latest-news-updates",
+      "headline": "Starmer to say ‘incremental change won’t cut it’ in major make-or-break speech to avert leadership challenge – UK politics live ",
+      "summary": "Keir Starmer delivers make-or-break speech to avert leadership challenge after major election losses.",
+      "url": "https://www.theguardian.com/p/x52m95",
+      "thumbnail": "https://media.guim.co.uk/9fa7f0c264d7c6447b4c62f6871a86e09fe88eed/0_0_6497_5197/500.jpg",
+      "published": "2026-05-11T08:03:47Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "politics"
+    },
+    {
+      "id": "business/live/2026/may/11/uk-economy-job-losses-iran-war-oil-pound-bonds-politics-starmer-live-updates",
+      "headline": "UK government borrowing costs rise as pressure mounts on Starmer, and oil price jumps – business live",
+      "summary": "UK government borrowing costs rise amid Iran war fallout and political pressure on Starmer.",
+      "url": "https://www.theguardian.com/p/x52m3d",
+      "thumbnail": "https://media.guim.co.uk/98e19de079510726806654d39a452834e8686130/208_0_5000_4000/500.jpg",
+      "published": "2026-05-11T08:01:04Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "business"
+    },
+    {
+      "id": "film/2026/may/11/queer-as-punk-review-yihwen-chen",
+      "headline": "Queer as Punk review – joyous portrait of Malaysian LGBTQ+ rebels making noise",
+      "summary": "Documentary 'Queer as Punk' profiles Malaysian LGBTQ+ punk band Shh…Diam! fighting discrimination.",
+      "url": "https://www.theguardian.com/p/x526f5",
+      "thumbnail": "https://media.guim.co.uk/703513433f0deba8139bb7aa9ff4f8240d84890f/620_175_1676_1341/500.jpg",
+      "published": "2026-05-11T08:00:49Z",
+      "location": {
+        "name": "Malaysia",
+        "lat": 4.2105,
+        "lng": 101.6869
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "film"
+    },
+    {
+      "id": "business/2026/may/11/senate-kevin-warsh-federal-reserve-chair",
+      "headline": "US Senate expected to confirm Kevin Warsh as next Federal Reserve chair",
+      "summary": "US Senate expected to confirm Kevin Warsh as next Federal Reserve chair under Trump's influence.",
+      "url": "https://www.theguardian.com/p/x52896",
+      "thumbnail": "https://media.guim.co.uk/6c102ab2f5f8a76a5030fe143dcfb70a4d9589c3/437_0_4585_3668/500.jpg",
+      "published": "2026-05-11T08:00:49Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "business"
+    },
+    {
+      "id": "australia-news/2026/may/11/woolworths-worker-plumbers-crack-case-thrown-out-ntwnfb",
+      "headline": "No butts: case dismissed after Woolworths worker claims hurt feelings over plumber’s crack",
+      "summary": "Inquest probes 2021 death of 22-year-old Werribee man who gambled $895,000 through betting platforms.",
+      "url": "https://www.theguardian.com/p/x52mv3",
+      "thumbnail": "https://media.guim.co.uk/d6263bde0c9acf0cad4fa4d095e3400a761615fe/338_0_4493_3597/500.jpg",
+      "published": "2026-05-11T07:56:50Z",
+      "location": {
+        "name": "Melbourne",
+        "lat": -37.8136,
+        "lng": 144.9631
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "australia-news/2026/may/11/betting-gambling-man-dead-at-22-inquest-ntwnfb",
+      "headline": "Betting account on 18th birthday, dead at 22: inquest probes death of Melbourne man who gambled $895,000",
+      "summary": "Heathrow passenger numbers dip 5% in April as Iran war dampens international travel demand.",
+      "url": "https://www.theguardian.com/p/x52m5x",
+      "thumbnail": "https://media.guim.co.uk/6f522bdc2a1aa0a3ac8b9e5502dfd0e4260fc080/178_0_5355_4284/500.jpg",
+      "published": "2026-05-11T07:55:45Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
       "significance": 2,
       "section": "australia-news"
     }
