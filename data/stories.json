@@ -1,124 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-12T20:57:58.334Z",
-    "story_count": 123,
-    "oldest_story": "2026-05-11T21:00:51Z",
-    "newest_story": "2026-05-12T20:57:08Z",
+    "generated_at": "2026-05-12T22:19:41.624Z",
+    "story_count": 120,
+    "oldest_story": "2026-05-11T22:21:39Z",
+    "newest_story": "2026-05-12T22:04:03Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "australia-news/live/2026/may/12/budget-2026-live-updates-federal-treasurer-jim-chalmers-speech-time-tonight-latest-news-ntwnfb",
-      "headline": "News live: Australian passengers on MV Hondius to return via Netherlands; Jane Hume refuses to rule out Coalition alliance with One Nation ",
-      "summary": "Australian budget 2026 live updates with Coalition-One Nation alliance speculation.",
-      "url": "https://www.theguardian.com/p/x52n9q",
-      "thumbnail": "https://media.guim.co.uk/9fa6fb56424eea0de0bab97bc27776ebc472e987/142_0_2562_2050/500.jpg",
-      "published": "2026-05-11T21:47:25Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "us-news/2026/may/11/trump-renominates-cameron-hamilton-fema",
-      "headline": "Trump renominates Cameron Hamilton to lead disaster response agency Fema",
-      "summary": "Trump renominates Cameron Hamilton to lead FEMA after previous dismissal over agency abolition opposition.",
-      "url": "https://www.theguardian.com/p/x52pty",
-      "thumbnail": "https://media.guim.co.uk/9b82187cb9c9ee89751c9d26124f87eb0bafdce7/511_0_5000_4000/500.jpg",
-      "published": "2026-05-11T21:38:18Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "tv-and-radio/2026/may/11/children-of-the-blitz-review-bbc-wonderful-priceless-television",
-      "headline": "Children of the Blitz review – wonderful, priceless television ",
-      "summary": "BBC documentary 'Children of the Blitz' features survivors marking 85 years since WWII bombing campaign.",
-      "url": "https://www.theguardian.com/p/x528c2",
-      "thumbnail": "https://media.guim.co.uk/cf16a66230acc4cc34c5b4a290dd4e3f1680a155/0_496_3035_2428/500.jpg",
-      "published": "2026-05-11T21:30:05Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "tv-and-radio"
-    },
-    {
-      "id": "football/2026/may/11/championship-play-off-semi-final-second-leg-millwall-hull-match-report",
-      "headline": "Millwall’s curse continues as Mohamed Belloumi sends Hull into Championship playoff final",
-      "summary": "Hull City beats Millwall in Championship playoff semi-final; Millwall's fourth semi-final defeat in 35 years.",
-      "url": "https://www.theguardian.com/p/x52z6d",
-      "thumbnail": "https://media.guim.co.uk/8918edf19629198a8319b5b06bcab43523d33229/460_0_4601_3680/500.jpg",
-      "published": "2026-05-11T21:14:56Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/may/11/premier-league-tottenham-leeds-match-report",
-      "headline": "Calvert-Lewin denies Spurs with Leeds equaliser to leave survival in balance",
-      "summary": "Tottenham draws 1-1 with Leeds; Spurs remain in Premier League relegation battle.",
-      "url": "https://www.theguardian.com/p/x52z3m",
-      "thumbnail": "https://media.guim.co.uk/049afaf87b0e589cad82fa079a995421340a5e70/694_0_5011_4009/500.jpg",
-      "published": "2026-05-11T21:12:49Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "politics/2026/may/11/more-than-60-labour-mps-call-on-starmer-to-set-timetable-to-quit",
-      "headline": "Starmer’s survival on the line as cabinet ministers urge him to quit",
-      "summary": "Over 60 Labour MPs call for PM Keir Starmer to resign; cabinet ministers urge orderly departure.",
-      "url": "https://www.theguardian.com/p/x52zfz",
-      "thumbnail": "https://media.guim.co.uk/4eadd10f2687989c6cf521de2baf0441cc934527/154_0_5537_4430/500.jpg",
-      "published": "2026-05-11T21:09:25Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 4,
-      "section": "politics"
-    },
-    {
-      "id": "us-news/2026/may/11/amazon-stops-sales-high-speed-ebikes-california",
-      "headline": "Amazon halts sales of illegal high-speed ebikes in California after fatal crashes",
-      "summary": "Amazon halts high-speed ebike sales in California following fatal crashes and safety concerns.",
-      "url": "https://www.theguardian.com/p/x52p5d",
-      "thumbnail": "https://media.guim.co.uk/6ec58fcec4cdff51b6eaeee5a9402b92a62d5edc/456_0_4560_3648/500.jpg",
-      "published": "2026-05-11T21:00:51Z",
-      "location": {
-        "name": "San Francisco",
-        "lat": 37.7749,
-        "lng": -122.4194
-      },
-      "category": "tech",
-      "significance": 2,
-      "section": "us-news"
-    },
     {
       "id": "football/2026/may/11/de-zerbis-impact-at-tottenham-is-stark-but-teams-fragile-self-destruction-remains",
       "headline": "De Zerbi’s impact at Spurs is undeniable but team’s fragile self-destruction remains",
@@ -134,70 +22,6 @@
       "category": "sport",
       "significance": 2,
       "section": "football"
-    },
-    {
-      "id": "us-news/2026/may/11/supreme-court-alabama-republicans-new-congressional-maps",
-      "headline": "Alabama can pursue electoral map that favors Republicans, supreme court rules",
-      "summary": "US Supreme Court allows Alabama Republicans' electoral map favoring their party, vacating lower court's racial discrimination ruling.",
-      "url": "https://www.theguardian.com/p/x52pn9",
-      "thumbnail": "https://media.guim.co.uk/de3c47cf559e5e12d7194fbb27eaa0e8233c9954/374_0_1868_1495/500.jpg",
-      "published": "2026-05-11T22:13:35Z",
-      "location": {
-        "name": "Alabama",
-        "lat": 32.8067,
-        "lng": -86.7113
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/may/11/california-governor-candidate-mocked-street-taco",
-      "headline": "California gubernatorial candidate Steve Hilton mocked for misidentifying a ‘street taco’",
-      "summary": "British political strategist Steve Hilton mocked for misidentifying street taco while campaigning for California governor.",
-      "url": "https://www.theguardian.com/p/x52pd5",
-      "thumbnail": "https://media.guim.co.uk/1deef080b02cec3006cd1a2f2ff342a28e7eeb08/509_0_5072_4060/500.jpg",
-      "published": "2026-05-11T22:12:36Z",
-      "location": {
-        "name": "California",
-        "lat": 36.1163,
-        "lng": -119.6674
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/may/11/musk-v-openai-altman-trial",
-      "headline": "‘A consistent pattern of lying’: Musk v OpenAI trial exposes what insiders think of Sam Altman ",
-      "summary": "Musk v OpenAI trial exposes internal conflicts and CEO Sam Altman's credibility issues within the AI company.",
-      "url": "https://www.theguardian.com/p/x52pen",
-      "thumbnail": "https://media.guim.co.uk/1da88e3be74feeb7fcc53953a395bbdb6b8bf588/264_0_2640_2112/500.jpg",
-      "published": "2026-05-11T22:01:44Z",
-      "location": {
-        "name": "San Francisco",
-        "lat": 37.7749,
-        "lng": -122.4194
-      },
-      "category": "tech",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "books/2026/may/11/sarah-wynn-williams-and-virginia-giuffre-jointly-win-freedom-to-publish-prize-at-british-book-awards",
-      "headline": "Sarah Wynn-Williams and Virginia Giuffre jointly win freedom to publish prize at British book awards",
-      "summary": "Meta whistleblower Sarah Wynn-Williams and Virginia Giuffre share British book award's Freedom to Publish prize.",
-      "url": "https://www.theguardian.com/p/x52zvj",
-      "thumbnail": "https://media.guim.co.uk/04faf0e5b2f341ef10a93f7abbad24416814eea6/166_0_2585_2068/500.jpg",
-      "published": "2026-05-11T22:00:06Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "books"
     },
     {
       "id": "technology/2026/may/11/texas-sues-netflix-lawsuit",
@@ -1966,6 +1790,134 @@
       "url": "https://www.theguardian.com/p/x533be",
       "thumbnail": "https://media.guim.co.uk/1b16025168fdf89126a551ea03e806ad25fba86d/0_0_5000_4000/500.jpg",
       "published": "2026-05-12T19:54:48Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "politics"
+    },
+    {
+      "id": "us-news/2026/may/12/frontier-airlines-plane-suicide",
+      "headline": "Death of man struck by Frontier Airlines plane ruled suicide by medical examiner",
+      "summary": "Man struck by Frontier Airlines plane at Denver airport ruled suicide by medical examiner.",
+      "url": "https://www.theguardian.com/p/x53484",
+      "thumbnail": "https://media.guim.co.uk/67a26fabc7277d96cd4840d995fbfe02c5e98667/720_0_7200_5760/500.jpg",
+      "published": "2026-05-12T22:04:03Z",
+      "location": {
+        "name": "Denver",
+        "lat": 39.8561,
+        "lng": -104.6737
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/may/12/southampton-middlesbrough-championship-playoff-semi-final-match-report",
+      "headline": "Southampton in playoff final after freak winner settles Middlesbrough grudge match",
+      "summary": "Southampton advances to playoff final after extra-time victory over Middlesbrough.",
+      "url": "https://www.theguardian.com/p/x532jz",
+      "thumbnail": "https://media.guim.co.uk/219481584b8f278b3d83343dc400aa0928971d16/291_0_3585_2869/500.jpg",
+      "published": "2026-05-12T22:01:33Z",
+      "location": {
+        "name": "Southampton",
+        "lat": 50.906,
+        "lng": -1.3909
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "society/2026/may/12/capacity-lifts-elevators-weight-limits-obesity-safety-equity",
+      "headline": "Capacity of lifts not kept up with UK obesity levels, study shows",
+      "summary": "Study shows UK lift capacity has not kept up with rising obesity levels, raising safety concerns.",
+      "url": "https://www.theguardian.com/p/x5327t",
+      "thumbnail": "https://media.guim.co.uk/cf30e2313d606e934dd78e660a47c910903a484a/0_0_5156_4125/500.jpg",
+      "published": "2026-05-12T22:01:11Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "society"
+    },
+    {
+      "id": "us-news/2026/may/12/new-york-hospital-langone-transgender-care",
+      "headline": "New York hospital system receives subpoena over trans youth healthcare",
+      "summary": "NYU Langone Health subpoenaed by DOJ over gender-affirming care for transgender youth.",
+      "url": "https://www.theguardian.com/p/x534cd",
+      "thumbnail": "https://media.guim.co.uk/806fd90a593a7a25fb3b230347b5aabfbed3d8a9/560_0_5600_4480/500.jpg",
+      "published": "2026-05-12T21:52:01Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "health",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/may/12/south-carolina-republicans-defy-trump-redistricting",
+      "headline": "South Carolina Republicans defy Trump’s demands for redistricting",
+      "summary": "South Carolina Republicans defy Trump's demands to redraw congressional redistricting map.",
+      "url": "https://www.theguardian.com/p/x533ed",
+      "thumbnail": "https://media.guim.co.uk/799ad0d151bfb0918e3f97d06f3f594276d77eca/489_0_4868_3897/500.jpg",
+      "published": "2026-05-12T21:46:08Z",
+      "location": {
+        "name": "South Carolina",
+        "lat": 34.0007,
+        "lng": -81.0348
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/may/12/guardiola-wants-city-players-to-raise-their-game-rather-than-trust-flip-of-a-coin-officials",
+      "headline": "Guardiola wants City players to raise their game rather than trust ‘flip of a coin’ officials",
+      "summary": "Pep Guardiola criticizes officiating as 'flip of a coin,' urges Manchester City to perform better.",
+      "url": "https://www.theguardian.com/p/x532yk",
+      "thumbnail": "https://media.guim.co.uk/7bb608310ef99b06671efe957b3e10f494efa65a/449_187_2714_2171/500.jpg",
+      "published": "2026-05-12T21:35:28Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/may/12/real-madrid-president-florentino-perez-calls-for-elections-in-bizarre-rant-media",
+      "headline": "Real Madrid president Florentino Pérez calls for elections in bizarre rant ",
+      "summary": "Real Madrid president Florentino Pérez launches bizarre tirade at media, refuses to resign.",
+      "url": "https://www.theguardian.com/p/x5345x",
+      "thumbnail": "https://media.guim.co.uk/5d0bb240c565400424c8809b9622f35e609757ae/752_65_3871_3096/500.jpg",
+      "published": "2026-05-12T21:30:16Z",
+      "location": {
+        "name": "Madrid",
+        "lat": 40.4168,
+        "lng": -3.7038
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "politics/2026/may/12/starmer-bills-kings-speech",
+      "headline": "Starmer hopes to regain momentum with unveiling of dozens of bills in king’s speech",
+      "summary": "Prime Minister Starmer unveils 35 bills in King's Speech covering housing, immigration, energy.",
+      "url": "https://www.theguardian.com/p/x533bq",
+      "thumbnail": "https://media.guim.co.uk/6671d63eaff1334c8a42272f7e10bf6c506d61bf/219_0_4874_3901/500.jpg",
+      "published": "2026-05-12T21:30:15Z",
       "location": {
         "name": "London",
         "lat": 51.5074,
