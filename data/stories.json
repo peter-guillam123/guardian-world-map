@@ -1,156 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-12T17:35:18.668Z",
-    "story_count": 125,
-    "oldest_story": "2026-05-11T17:50:44Z",
-    "newest_story": "2026-05-12T17:32:33Z",
+    "generated_at": "2026-05-12T19:21:31.431Z",
+    "story_count": 121,
+    "oldest_story": "2026-05-11T20:06:20Z",
+    "newest_story": "2026-05-12T19:04:46Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/live/2026/may/11/millwall-v-hull-championship-playoff-semi-final-second-leg-live",
-      "headline": "Millwall v Hull: Championship playoff semi-final, second leg – live",
-      "summary": "Millwall face Hull in Championship playoff semi-final second leg for Premier League promotion.",
-      "url": "https://www.theguardian.com/p/x52t6c",
-      "thumbnail": "https://media.guim.co.uk/2fcabf6508f8bddb28f1759a5224d9e48e91b558/421_0_4864_3892/500.jpg",
-      "published": "2026-05-11T18:28:47Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "football/live/2026/may/11/tottenham-v-leeds-premier-league-live",
-      "headline": "Tottenham v Leeds: Premier League – live",
-      "summary": "Tottenham battle Leeds in Premier League as De Zerbi's side fight against relegation.",
-      "url": "https://www.theguardian.com/p/x52t74",
-      "thumbnail": "https://media.guim.co.uk/30790a16b69c59617e873f03d788d628dd5de4fa/181_0_4477_3581/500.jpg",
-      "published": "2026-05-11T18:23:26Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "world/live/2026/may/11/middle-east-crisis-iran-us-israel-donald-trump-rejects-iran-peace-proposal-latest-news-updates",
-      "headline": "Middle East crisis live: Trump says ceasefire is ‘on massive life support’ after rejecting Iran’s response to US peace proposal",
-      "summary": "Trump rejects Iran peace proposal, says ceasefire on 'life support' amid Middle East tensions.",
-      "url": "https://www.theguardian.com/p/x52kby",
-      "thumbnail": "https://media.guim.co.uk/2fe0197c2c61d02ea15eaa767362a0eac184abce/684_148_3795_3035/500.jpg",
-      "published": "2026-05-11T18:20:47Z",
-      "location": {
-        "name": "Tehran",
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "world/2026/may/11/drug-gang-attacks-force-hundreds-of-indigenous-families-to-flee-in-mexico",
-      "headline": "Drug gang attacks ‘force hundreds of Indigenous families to flee’ in Mexico",
-      "summary": "Drug gang violence forces hundreds of Indigenous families to flee homes in central Mexico.",
-      "url": "https://www.theguardian.com/p/x52zpc",
-      "thumbnail": "https://media.guim.co.uk/2bdb493ba4892e67b389282ef812e852ec34e9c9/579_0_4101_3280/500.jpg",
-      "published": "2026-05-11T18:15:20Z",
-      "location": {
-        "name": "Guerrero",
-        "lat": 17.4392,
-        "lng": -101.5453
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "world/2026/may/11/donald-trump-ceasefire-with-iran-on-life-support-reject-peace-proposals",
-      "headline": "Trump says ceasefire with Iran on ‘life support’ after rejecting peace proposals",
-      "summary": "Trump considers restarting naval escorts in Strait of Hormuz over Iranian blockade.",
-      "url": "https://www.theguardian.com/p/x52z84",
-      "thumbnail": "https://media.guim.co.uk/2cbc1f0da929176cc8b6ad15e35f6dc6b4602ae5/1292_470_5831_4665/500.jpg",
-      "published": "2026-05-11T18:13:40Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "football/2026/may/11/premier-league-set-to-reject-extended-powers-for-var-next-season",
-      "headline": "Premier League set to reject extended powers for VAR next season",
-      "summary": "Premier League rejects extended VAR powers for corners and second yellow cards next season.",
-      "url": "https://www.theguardian.com/p/x52zaa",
-      "thumbnail": "https://media.guim.co.uk/6ac949f025b363358b918c981d3b2541881b1642/557_0_4260_3408/500.jpg",
-      "published": "2026-05-11T18:00:01Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "world/2026/may/11/eu-announces-sanctions-against-violent-israel-settlers",
-      "headline": "EU announces sanctions against violent Israel settlers",
-      "summary": "EU agrees sanctions on violent Israeli settlers, breaking years-long deadlock over issue.",
-      "url": "https://www.theguardian.com/p/x52ztf",
-      "thumbnail": "https://media.guim.co.uk/bf0a0e165ba77716517430688a1ad187eaa3cf9f/644_0_6440_5152/500.jpg",
-      "published": "2026-05-11T17:54:21Z",
-      "location": {
-        "name": "Brussels",
-        "lat": 50.8503,
-        "lng": 4.3517
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "commentisfree/2026/may/11/the-guardian-view-on-labours-rebellion-starmer-faces-a-crisis-of-legitimacy",
-      "headline": "The Guardian view on Labour’s rebellion: Starmer faces a crisis of legitimacy",
-      "summary": "Labour MPs voice doubts over Starmer's survival as PM after disastrous local elections.",
-      "url": "https://www.theguardian.com/p/x52zyd",
-      "thumbnail": "https://media.guim.co.uk/1e9d2218969b1b0ba134b3fe01c7c15f9fed7a92/412_0_4129_3302/500.jpg",
-      "published": "2026-05-11T17:52:02Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "commentisfree"
-    },
-    {
-      "id": "commentisfree/2026/may/11/the-guardian-view-on-world-cup-ticket-prices-32000-youre-having-a-laugh-",
-      "headline": "The Guardian view on World Cup ticket prices: $33,000? You’re having a laugh…",
-      "summary": "World Cup 2026 ticket prices reach $33,000 amid FIFA's embrace of dynamic pricing.",
-      "url": "https://www.theguardian.com/p/x52zdt",
-      "thumbnail": "https://media.guim.co.uk/4b40fa14985186e16f84b6c2706a59181e91987a/333_0_3333_2667/500.jpg",
-      "published": "2026-05-11T17:50:44Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "commentisfree"
-    },
     {
       "id": "us-news/2026/may/09/los-angeles-subway-public-transportation",
       "headline": "Riding the D in Los Angeles: city famous for traffic hopes new subway stations will be a ‘game changer’",
@@ -182,38 +38,6 @@
       "category": "politics",
       "significance": 3,
       "section": "us-news"
-    },
-    {
-      "id": "world/2026/may/11/french-womandoctors-hantavirus-symptoms-hv-hondius",
-      "headline": "French woman was told by doctors hantavirus symptoms were just anxiety",
-      "summary": "French woman evacuated from cruise ship with hantavirus was initially misdiagnosed with anxiety by doctors.",
-      "url": "https://www.theguardian.com/p/x52pxe",
-      "thumbnail": "https://media.guim.co.uk/9a81c040d389bfa2a4ae84ec722f6c0844bc09f3/1029_0_5851_4680/500.jpg",
-      "published": "2026-05-11T19:19:11Z",
-      "location": {
-        "name": "Spain",
-        "lat": 40.4637,
-        "lng": -3.7492
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "education/2026/may/11/gillian-pascall-obituary",
-      "headline": "Gillian Pascall obituary",
-      "summary": "Nottingham University sociology lecturer Gillian Pascall, feminist scholar, dies aged 79.",
-      "url": "https://www.theguardian.com/p/x4zn9y",
-      "thumbnail": "https://media.guim.co.uk/4ae118244c07341e5749a58cffe83835a03f394d/0_312_1500_1200/500.jpg",
-      "published": "2026-05-11T19:19:02Z",
-      "location": {
-        "name": "Nottingham",
-        "lat": 52.9545,
-        "lng": -1.1581
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "education"
     },
     {
       "id": "australia-news/live/2026/may/12/budget-2026-live-updates-federal-treasurer-jim-chalmers-speech-time-tonight-latest-news-ntwnfb",
@@ -2006,6 +1830,118 @@
       "category": "politics",
       "significance": 2,
       "section": "politics"
+    },
+    {
+      "id": "world/2026/may/12/who-head-warns-countries-prepare-more-hantavirus-cases",
+      "headline": "WHO head tells countries to prepare for more hantavirus cases",
+      "summary": "WHO warns countries to prepare for more hantavirus cases as French woman on ship enters intensive care.",
+      "url": "https://www.theguardian.com/p/x53xb2",
+      "thumbnail": "https://media.guim.co.uk/90010f22902f97c3c36a1f1f68c7a1e96e32a39a/695_44_3055_2444/500.jpg",
+      "published": "2026-05-12T19:04:46Z",
+      "location": {
+        "name": "Paris",
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "category": "health",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "football/2026/may/12/mls-2026-salary-release-takeaways",
+      "headline": "$28.3m Messi is MLS’s top earner again, making more than twice as much as Son",
+      "summary": "Lionel Messi earns $28.3m as MLS's top earner, more than twice Son's salary in 2026.",
+      "url": "https://www.theguardian.com/p/x533jb",
+      "thumbnail": "https://media.guim.co.uk/031a2b343e55099e7d3ddb41146b8085f1a87412/701_0_6105_4886/500.jpg",
+      "published": "2026-05-12T18:54:18Z",
+      "location": {
+        "name": "United States",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/may/12/howard-webb-var-west-ham-arsenal-callum-wilson-pablo-david-raya",
+      "headline": "Howard Webb praises VAR process in ruling out West Ham equaliser against Arsenal",
+      "summary": "VAR overturns West Ham equaliser against Arsenal for Pablo's foul on Raya; Webb defends decision.",
+      "url": "https://www.theguardian.com/p/x5339v",
+      "thumbnail": "https://media.guim.co.uk/1b9f21a9c5298aca313ab30a64a26f6d7f351c7e/115_0_1145_916/500.jpg",
+      "published": "2026-05-12T18:31:07Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "sport/2026/may/12/memphis-grizzlies-forward-brandon-clarke-dies-at-age-of-29-he-was-the-gentlest-soul",
+      "headline": "Memphis Grizzlies forward Brandon Clarke dies at 29: ‘He was the gentlest soul’",
+      "summary": "NBA forward Brandon Clarke of Memphis Grizzlies dies at 29; cause unreported.",
+      "url": "https://www.theguardian.com/p/x533yx",
+      "thumbnail": "https://media.guim.co.uk/6a327f79d7c538c2c45f80f3c6639a55d43de124/407_126_2343_1874/500.jpg",
+      "published": "2026-05-12T18:25:22Z",
+      "location": {
+        "name": "Memphis",
+        "lat": 35.1495,
+        "lng": -90.049
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "us-news/2026/may/12/marty-makary-fda-trump-administration",
+      "headline": "Marty Makary departs FDA after clashes with Trump over fruit-flavored vapes",
+      "summary": "FDA Commissioner Marty Makary resigns after clashing with Trump over fruit-flavored vape regulations.",
+      "url": "https://www.theguardian.com/p/x529tf",
+      "thumbnail": "https://media.guim.co.uk/d022bc72719ab4490e53357a0e40837a189a09ca/571_0_5713_4571/500.jpg",
+      "published": "2026-05-12T18:20:46Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/may/12/jeffrey-epstein-survivor-palm-beach-hearing",
+      "headline": "Epstein survivors give tearful testimony in House field hearing in Palm Beach",
+      "summary": "Epstein survivors testify at House hearing, urging Trump not to pardon Ghislaine Maxwell.",
+      "url": "https://www.theguardian.com/p/x53292",
+      "thumbnail": "https://media.guim.co.uk/323c9d91250ed4d5ee0f876b7be9c236dbeec1f7/685_1266_3415_2731/500.jpg",
+      "published": "2026-05-12T18:19:55Z",
+      "location": {
+        "name": "Palm Beach",
+        "lat": 26.7057,
+        "lng": -80.0533
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "music/2026/may/12/man-sentenced-car-robbery-beyonce-music",
+      "headline": "Man sentenced to two years in prison for stealing unreleased Beyoncé music",
+      "summary": "Man sentenced to two years for stealing unreleased Beyoncé music from car in July 2025.",
+      "url": "https://www.theguardian.com/p/x533fc",
+      "thumbnail": "https://media.guim.co.uk/74136ce8a10a56ca51764bf8473ece75aa0206d0/250_0_2500_2000/500.jpg",
+      "published": "2026-05-12T18:14:51Z",
+      "location": {
+        "name": "Atlanta",
+        "lat": 33.749,
+        "lng": -84.388
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "music"
     }
   ]
 }
