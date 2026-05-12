@@ -1,44 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-12T19:21:31.431Z",
-    "story_count": 121,
-    "oldest_story": "2026-05-11T20:06:20Z",
-    "newest_story": "2026-05-12T19:04:46Z",
+    "generated_at": "2026-05-12T20:57:58.334Z",
+    "story_count": 123,
+    "oldest_story": "2026-05-11T21:00:51Z",
+    "newest_story": "2026-05-12T20:57:08Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "us-news/2026/may/09/los-angeles-subway-public-transportation",
-      "headline": "Riding the D in Los Angeles: city famous for traffic hopes new subway stations will be a ‘game changer’",
-      "summary": "LA's new subway stations on Wilshire Boulevard open after 25 years, ahead of World Cup and Olympics.",
-      "url": "https://www.theguardian.com/p/x52avb",
-      "thumbnail": "https://media.guim.co.uk/993e2a6cddc5b1cd160a13d3ebf3a210247bf596/236_0_4510_3608/500.jpg",
-      "published": "2026-05-11T20:15:30Z",
-      "location": {
-        "name": "Los Angeles",
-        "lat": 34.0522,
-        "lng": -118.2437
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/may/11/supreme-court-mifepristone-abortion-pill-temporary-extension",
-      "headline": "US supreme court temporarily extends access to mail-order abortion medication mifepristone",
-      "summary": "US Supreme Court temporarily extends nationwide access to mail-order abortion pill mifepristone.",
-      "url": "https://www.theguardian.com/p/x52zx4",
-      "thumbnail": "https://media.guim.co.uk/fcc3a4bea5e33e24d90197496dea940d0aac87e4/401_0_4213_3371/500.jpg",
-      "published": "2026-05-11T20:06:20Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
     {
       "id": "australia-news/live/2026/may/12/budget-2026-live-updates-federal-treasurer-jim-chalmers-speech-time-tonight-latest-news-ntwnfb",
       "headline": "News live: Australian passengers on MV Hondius to return via Netherlands; Jane Hume refuses to rule out Coalition alliance with One Nation ",
@@ -150,54 +118,6 @@
       "category": "tech",
       "significance": 2,
       "section": "us-news"
-    },
-    {
-      "id": "australia-news/2026/may/12/morning-mail-tuesday-ntwnfb",
-      "headline": "Morning Mail: budget’s $45bn bottom-line improvement, Starmer’s make-or-break moment, Trump’s ceasefire threat",
-      "summary": "Australian budget promises $45bn bottom-line improvement with major reforms under consideration.",
-      "url": "https://www.theguardian.com/p/x52mnm",
-      "thumbnail": "https://media.guim.co.uk/43a2bfdcb89b7876b80f2eb55770e1abfdd54c43/1086_574_6154_4923/500.jpg",
-      "published": "2026-05-11T20:57:02Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "us-news/2026/may/11/mahmoud-khalil-doj-case-fast-tracked",
-      "headline": "Mahmoud Khalil’s lawyer calls immigration case a ‘sham’ after revelation it was fast-tracked by DoJ",
-      "summary": "Palestinian activist Mahmoud Khalil's immigration case allegedly fast-tracked by DoJ; lawyer calls it 'sham'.",
-      "url": "https://www.theguardian.com/p/x52pfb",
-      "thumbnail": "https://media.guim.co.uk/e202deca98f996b88fcf85bbe17833519e4b135a/0_2339_4767_3811/500.jpg",
-      "published": "2026-05-11T20:53:36Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "sport/2026/may/11/iga-swiatek-naomi-osaka-italian-open-tennis",
-      "headline": "Iga Swiatek finds her flawless best to dismantle Naomi Osaka at Italian Open",
-      "summary": "Iga Swiatek defeats Naomi Osaka 6-2, 6-1 at Italian Open; advances to quarter-finals.",
-      "url": "https://www.theguardian.com/p/x52mq6",
-      "thumbnail": "https://media.guim.co.uk/d4fdbae2b64b91c03e74b8e5f42f23d4edc51974/868_0_3602_2881/500.jpg",
-      "published": "2026-05-11T20:47:22Z",
-      "location": {
-        "name": "Rome",
-        "lat": 41.9028,
-        "lng": 12.4964
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
     },
     {
       "id": "football/2026/may/11/de-zerbis-impact-at-tottenham-is-stark-but-teams-fragile-self-destruction-remains",
@@ -1942,6 +1862,118 @@
       "category": "culture",
       "significance": 2,
       "section": "music"
+    },
+    {
+      "id": "australia-news/live/2026/may/13/budget-2026-live-updates-reaction-jim-chalmers-tim-wilson-cost-of-living-capital-gains-negative-gearing-housing-tax-ntwnfb",
+      "headline": "Budget 2026 live updates: Coalition pledges to repeal Chalmers’ tax reforms amid mixed reception for ‘difficult’ budget",
+      "summary": "Australian budget 2026 faces mixed reception with Coalition pledging to repeal tax reforms on capital gains and negative gearing.",
+      "url": "https://www.theguardian.com/p/x53xy2",
+      "thumbnail": "https://media.guim.co.uk/676dd7cb285fca6e4de087b9393775b27ea34cc5/576_0_2953_2362/500.jpg",
+      "published": "2026-05-12T20:57:08Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "australia-news/2026/may/13/morning-mail-wednesday-ntwnfb",
+      "headline": "Chalmers sells budget as ‘road to reform’, Starmer fights on in UK, why the gothic look is back",
+      "summary": "Treasurer Chalmers presents budget as 'road to reform' tackling housing, inequality and cost of living.",
+      "url": "https://www.theguardian.com/p/x53xgm",
+      "thumbnail": "https://media.guim.co.uk/c1f7c8caeca24cfd026e6fe357ad8c95b30f7f38/676_0_6880_5504/500.jpg",
+      "published": "2026-05-12T20:52:51Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "technology/2026/may/12/sam-altman-openai-trial-elon-musk",
+      "headline": "Sam Altman defends OpenAI in courtroom showdown with Elon Musk",
+      "summary": "Sam Altman defends OpenAI against Elon Musk's lawsuit in high-stakes AI trial courtroom showdown.",
+      "url": "https://www.theguardian.com/p/x533nv",
+      "thumbnail": "https://media.guim.co.uk/32632f8e3e5cd1d4ffd991d30c5f14164f102b42/385_0_3853_3083/500.jpg",
+      "published": "2026-05-12T20:48:15Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "tech",
+      "significance": 3,
+      "section": "technology"
+    },
+    {
+      "id": "technology/2026/may/12/florida-students-boo-graduation-speaker-ai",
+      "headline": "Florida students boo graduation speaker who called AI ‘next Industrial Revolution’ ",
+      "summary": "University of Central Florida students boo graduation speaker for calling AI the 'next Industrial Revolution'.",
+      "url": "https://www.theguardian.com/p/x533j8",
+      "thumbnail": "https://media.guim.co.uk/54c841cdc6b0a4c66cb235c5a10e0241ef1cb62e/636_214_2112_1690/500.jpg",
+      "published": "2026-05-12T20:30:15Z",
+      "location": {
+        "name": "Orlando",
+        "lat": 28.5421,
+        "lng": -81.3723
+      },
+      "category": "tech",
+      "significance": 1,
+      "section": "technology"
+    },
+    {
+      "id": "film/2026/may/12/the-electric-kiss-review-cannes-film-festival-pierre-salvadori",
+      "headline": "The Electric Kiss review – belle époque seance comedy struggles to summon real magic",
+      "summary": "Pierre Salvadori's 'The Electric Kiss' reviewed as charming but underwhelming period farce at Cannes Film Festival.",
+      "url": "https://www.theguardian.com/p/x5276n",
+      "thumbnail": "https://media.guim.co.uk/d3d41f359f8807c6d37a475d90a99f79f687e406/0_51_7630_6100/500.jpg",
+      "published": "2026-05-12T20:02:09Z",
+      "location": {
+        "name": "Cannes",
+        "lat": 43.5528,
+        "lng": 7.0174
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "film"
+    },
+    {
+      "id": "politics/2026/may/12/despite-calls-to-step-down-keir-starmer-is-still-the-uks-prime-minister-for-now",
+      "headline": "How Keir Starmer lost authority over two days of confusion and drama",
+      "summary": "Keir Starmer faces mounting pressure to step down before state opening of parliament amid Labour leadership crisis.",
+      "url": "https://www.theguardian.com/p/x53xpm",
+      "thumbnail": "https://media.guim.co.uk/ffbbceff908024b1f70a5cda084347a19f72550a/682_0_6362_5089/500.jpg",
+      "published": "2026-05-12T20:00:09Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "politics"
+    },
+    {
+      "id": "politics/2026/may/12/starmer-given-a-lifeline-after-streeting-challenge-fails-to-materialise",
+      "headline": "Starmer given a lifeline after Streeting challenge fails to materialise",
+      "summary": "Starmer survives as Wes Streeting's leadership challenge fails to materialise due to insufficient support.",
+      "url": "https://www.theguardian.com/p/x533be",
+      "thumbnail": "https://media.guim.co.uk/1b16025168fdf89126a551ea03e806ad25fba86d/0_0_5000_4000/500.jpg",
+      "published": "2026-05-12T19:54:48Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "politics"
     }
   ]
 }
