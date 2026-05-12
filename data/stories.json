@@ -1,28 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-11T23:42:44.799Z",
-    "story_count": 87,
-    "oldest_story": "2026-05-10T23:45:24Z",
-    "newest_story": "2026-05-11T23:10:07Z",
+    "generated_at": "2026-05-12T01:26:27.395Z",
+    "story_count": 88,
+    "oldest_story": "2026-05-11T03:38:08Z",
+    "newest_story": "2026-05-12T01:22:06Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "us-news/2026/may/11/donald-trump-news-at-a-glance-latest-updates-today",
-      "headline": "Trump news at a glance: Trump wants to ‘go in’ to Iran to secure nuclear material, Netanyahu claims",
-      "summary": "Netanyahu claims war with Iran continues over nuclear material; Trump seeks to secure enriched uranium.",
-      "url": "https://www.theguardian.com/p/x52t66",
-      "thumbnail": "https://media.guim.co.uk/3ff730e045fec5b111ff754b69b5d55c7473cf36/0_0_4030_3224/500.jpg",
-      "published": "2026-05-10T23:45:24Z",
-      "location": {
-        "name": "Iran",
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "us-news"
-    },
     {
       "id": "environment/2026/may/11/country-diary-nesting-mallard-owl-and-woodcock-this-is-the-human-shield-effect",
       "headline": "Country diary: Nesting mallard, owl and woodcock – this is the ‘human shield’ effect",
@@ -1398,6 +1382,38 @@
       "category": "economy",
       "significance": 2,
       "section": "business"
+    },
+    {
+      "id": "us-news/2026/may/11/california-city-mayor-resigns-foreign-agent-charges",
+      "headline": "Mayor of California city resigns over charges of being a foreign agent of China",
+      "summary": "Mayor of Arcadia, California resigns after being charged with acting as illegal foreign agent for China.",
+      "url": "https://www.theguardian.com/p/x52q2g",
+      "thumbnail": "https://media.guim.co.uk/5826b401a96122bf3b6a513c659029db230167dc/0_220_2667_2132/500.jpg",
+      "published": "2026-05-12T01:22:06Z",
+      "location": {
+        "name": "Arcadia, California",
+        "lat": 34.1899,
+        "lng": -118.0353
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "australia-news/2026/may/12/adf-soldier-dies-parachute-training-jervis-bay",
+      "headline": "Soldier dies during parachute training incident at Jervis Bay – the second such death in two years",
+      "summary": "ADF soldier dies during parachute training at Jervis Bay, second death in two years.",
+      "url": "https://www.theguardian.com/p/x52qcg",
+      "thumbnail": "https://media.guim.co.uk/86e5e61a5db1331102f3d9aae99ea80c97ffce2b/1028_0_5966_4778/500.jpg",
+      "published": "2026-05-12T00:41:36Z",
+      "location": {
+        "name": "Jervis Bay, New South Wales",
+        "lat": -35.3522,
+        "lng": 150.7389
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "australia-news"
     }
   ]
 }
