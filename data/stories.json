@@ -1,172 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-12T10:43:06.130Z",
-    "story_count": 113,
-    "oldest_story": "2026-05-11T10:45:00Z",
-    "newest_story": "2026-05-12T10:36:33Z",
+    "generated_at": "2026-05-12T12:29:50.961Z",
+    "story_count": 117,
+    "oldest_story": "2026-05-11T13:00:55Z",
+    "newest_story": "2026-05-12T12:20:12Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "sport/live/2026/may/11/nottinghamshire-v-surrey-glamorgan-v-somerset-and-more-county-cricket-live",
-      "headline": "Nottinghamshire v Surrey, Glamorgan v Somerset, and more: county cricket – live",
-      "summary": "County Championship cricket matches underway across England with Leicestershire in trouble.",
-      "url": "https://www.theguardian.com/p/x52t8v",
-      "thumbnail": "https://media.guim.co.uk/bb3c0aa2a2281aa9c0c6577b29edd0e008db220d/163_0_2250_1800/500.jpg",
-      "published": "2026-05-11T11:37:20Z",
-      "location": {
-        "name": "Nottinghamshire",
-        "lat": 52.94,
-        "lng": -1.133
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "us-news/live/2026/may/11/trump-china-iran-trade-warsh-politics-live",
-      "headline": "Trump heads to China this week to meet Xi as Iran war and trade disputes loom over summit – US politics live ",
-      "summary": "Trump heads to China this week to meet Xi amid Iran war and trade disputes.",
-      "url": "https://www.theguardian.com/p/x52mqg",
-      "thumbnail": "https://media.guim.co.uk/181a4d5a5d858c869d5716765d2a9032808925de/444_0_4167_3333/500.jpg",
-      "published": "2026-05-11T11:36:29Z",
-      "location": {
-        "name": "Beijing",
-        "lat": 39.9042,
-        "lng": 116.4074
-      },
-      "category": "politics",
-      "significance": 4,
-      "section": "us-news"
-    },
-    {
-      "id": "politics/2026/may/11/labour-mp-keir-starmer-leadership-challenge-catherine-west",
-      "headline": "Catherine West backs down from Starmer challenge but urges him to go by September ",
-      "summary": "Catherine West backs down from Starmer leadership challenge but urges September departure.",
-      "url": "https://www.theguardian.com/p/x52m9e",
-      "thumbnail": "https://media.guim.co.uk/0c6b19c4a7cb21c2a5ab437bdb3fd3f2474801a5/511_0_2711_2169/500.jpg",
-      "published": "2026-05-11T11:23:17Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "politics"
-    },
-    {
-      "id": "film/2026/may/11/alan-cumming-criticises-bafta-after-n-word-outburst",
-      "headline": "‘Bad people’: Alan Cumming criticises Bafta after N-word outburst",
-      "summary": "Alan Cumming criticises BAFTA after N-word outburst during film awards ceremony.",
-      "url": "https://www.theguardian.com/p/x52mp5",
-      "thumbnail": "https://media.guim.co.uk/421f20409636b5a669e215744f05ec82cff23bd2/609_0_6570_5256/500.jpg",
-      "published": "2026-05-11T11:22:39Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "film"
-    },
-    {
-      "id": "environment/2026/may/11/norway-un-environment-programme-funding-plastics-treaty-talks",
-      "headline": "Norway puts UN project funding on hold raising fears for plastics treaty talks",
-      "summary": "Norway pauses UN Environment Programme funding raising fears for plastics treaty talks.",
-      "url": "https://www.theguardian.com/p/x52mmx",
-      "thumbnail": "https://media.guim.co.uk/e892047d12256d7f5049e0a7519c22fe46d2b235/14_45_6056_4844/500.jpg",
-      "published": "2026-05-11T11:20:08Z",
-      "location": {
-        "name": "Nairobi",
-        "lat": -1.2865,
-        "lng": 36.8172
-      },
-      "category": "climate",
-      "significance": 3,
-      "section": "environment"
-    },
-    {
-      "id": "football/2026/may/11/mls-weekend-wrap-new-england-revolution-james-rodriguez-minnesota-united",
-      "headline": "New England’s Revolution are a surprise contender: MLS weekend wrap",
-      "summary": "New England Revolution emerge as surprise MLS contender; James Rodríguez shines for Minnesota.",
-      "url": "https://www.theguardian.com/p/x52ydm",
-      "thumbnail": "https://media.guim.co.uk/6b9251bf84c14f0663d18d6d1627297e642093db/698_405_3449_2761/500.jpg",
-      "published": "2026-05-11T11:15:53Z",
-      "location": {
-        "name": "Boston",
-        "lat": 42.3601,
-        "lng": -71.0589
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/may/11/west-ham-complain-referee-disallowed-goal-arsenal-pgmo",
-      "headline": "West Ham to lodge complaint with referee chiefs over disallowed goal against Arsenal",
-      "summary": "West Ham to lodge complaint over disallowed goal against Arsenal with referees' body.",
-      "url": "https://www.theguardian.com/p/x52n8p",
-      "thumbnail": "https://media.guim.co.uk/d7b0cde4c6c74bf8719ffc01c6971bade1d6f05d/204_0_1194_955/500.jpg",
-      "published": "2026-05-11T11:10:39Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "artanddesign/2026/may/11/toddler-ceramics-fitzwilliam-museum-cambridge-family-friendly",
-      "headline": "Maracas in hand, my toddler wanders freely through a gallery of priceless ceramics ",
-      "summary": "Parent reflects on visiting galleries with toddler at Cambridge's Fitzwilliam Museum.",
-      "url": "https://www.theguardian.com/p/x5xcvh",
-      "thumbnail": "https://media.guim.co.uk/e1e2bffd4b6702e9946aaf3816ba9085d73af345/750_0_6452_5166/500.jpg",
-      "published": "2026-05-11T11:05:42Z",
-      "location": {
-        "name": "Cambridge",
-        "lat": 52.2038,
-        "lng": 0.1142
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "artanddesign"
-    },
-    {
-      "id": "world/2026/may/11/alberta-voter-data-breach-separatists-referendum",
-      "headline": "‘Truly terrifying’: Alberta voter data breach raises fears for Canada’s electoral integrity",
-      "summary": "Alberta voter data breach by separatist-linked group raises Canada's electoral integrity fears.",
-      "url": "https://www.theguardian.com/p/x5229p",
-      "thumbnail": "https://media.guim.co.uk/bd4eb8fb23dce71059293d13067c6125bf1276bc/349_0_3934_3149/500.jpg",
-      "published": "2026-05-11T11:00:53Z",
-      "location": {
-        "name": "Alberta",
-        "lat": 56.1304,
-        "lng": -117.2723
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "business/2026/may/11/eon-to-buy-ovo-deal-create-uk-biggest-energy-supplier",
-      "headline": "E.ON agrees to buy Ovo in deal to create UK’s biggest energy supplier",
-      "summary": "E.ON agrees to buy OVO creating UK's biggest energy supplier serving 9.6 million households.",
-      "url": "https://www.theguardian.com/p/x52mnv",
-      "thumbnail": "https://media.guim.co.uk/ba293507698df25d9e73244ec8b7749b11e5b4e5/365_0_4178_3345/500.jpg",
-      "published": "2026-05-11T10:45:00Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "business"
-    },
     {
       "id": "us-news/2026/may/11/florida-university-shooting-chatgpt-openai",
       "headline": "Family of Florida university shooting victim sues over suspect’s ChatGPT use",
@@ -1814,6 +1654,230 @@
       "category": "politics",
       "significance": 2,
       "section": "australia-news"
+    },
+    {
+      "id": "us-news/live/2026/may/12/donald-trump-china-iran-redistricting-jeffrey-epstein-latest-news-updates",
+      "headline": "Trump to head to China for high-stakes talks with Xi – US politics live",
+      "summary": "Trump to hold high-stakes talks with Xi amid trade truce and tensions over Iran, Taiwan, supply chains.",
+      "url": "https://www.theguardian.com/p/x53xyx",
+      "thumbnail": "https://media.guim.co.uk/fe6ebccf25d5863b84326776eb30f2a28693dab4/407_0_3323_2659/500.jpg",
+      "published": "2026-05-12T12:20:12Z",
+      "location": {
+        "name": "Beijing",
+        "lat": 39.9042,
+        "lng": 116.4074
+      },
+      "category": "politics",
+      "significance": 4,
+      "section": "us-news"
+    },
+    {
+      "id": "music/2026/may/12/cesaria-evora-cape-verdean-singer-miss-perfumado",
+      "headline": "‘We must keep her name alive’: Cesária Évora, the captivating Cape Verdean who went from restaurant singer to global star",
+      "summary": "Cape Verdean singer Cesária Évora celebrated for global success with morna ballads after lifetime of poverty.",
+      "url": "https://www.theguardian.com/p/x5226a",
+      "thumbnail": "https://media.guim.co.uk/76aeec6e0d84813ac616fcfe6527a7e34bbbfda5/185_109_1098_879/500.jpg",
+      "published": "2026-05-12T12:15:46Z",
+      "location": {
+        "name": "Cape Verde",
+        "lat": 16.7329,
+        "lng": -23.6345
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "music"
+    },
+    {
+      "id": "science/2026/may/12/lord-hunt-of-chesterton-obituary",
+      "headline": "Lord Hunt of Chesterton obituary",
+      "summary": "Met Office director Lord Hunt studied turbulence after Ferrybridge power station cooling tower collapse in 1965.",
+      "url": "https://www.theguardian.com/p/x532vg",
+      "thumbnail": "https://media.guim.co.uk/e333f0cb46d4d29ee3f2a8b1244eadfe92773792/316_0_4245_3398/500.jpg",
+      "published": "2026-05-12T12:14:12Z",
+      "location": {
+        "name": "West Yorkshire",
+        "lat": 53.7315,
+        "lng": -1.5197
+      },
+      "category": "other",
+      "significance": 1,
+      "section": "science"
+    },
+    {
+      "id": "sport/2026/may/12/rugby-sevens-star-kevin-wekesa-i-am-not-blaming-europeans-but-i-must-highlight-climate-injustices",
+      "headline": "Rugby sevens star Kevin Wekesa: ‘I am not blaming Europeans but I must highlight climate injustices’",
+      "summary": "Rugby sevens star Kevin Wekesa advocates for climate justice and sport's carbon footprint reduction.",
+      "url": "https://www.theguardian.com/p/x52nmk",
+      "thumbnail": "https://media.guim.co.uk/b6ab9df4601b592ba8c1cf398bffbbe1c80403fb/397_0_2662_2129/500.jpg",
+      "published": "2026-05-12T12:11:34Z",
+      "location": {
+        "name": "Kenya",
+        "lat": -0.0236,
+        "lng": 37.9062
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "commentisfree/2026/may/12/supreme-court-citizens-united-voting",
+      "headline": "The supreme court’s takedown of American democracy is complete",
+      "summary": "Analysis warns Supreme Court's Citizens United ruling dismantled American democracy and majority rule.",
+      "url": "https://www.theguardian.com/p/x52a5n",
+      "thumbnail": "https://media.guim.co.uk/d30da648a981e4994c6b2873311583448cb39efa/333_0_3333_2667/500.jpg",
+      "published": "2026-05-12T12:00:46Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "commentisfree"
+    },
+    {
+      "id": "us-news/2026/may/12/fentanyl-test-strips-samhsa-funding",
+      "headline": "Trump’s sudden cut in substance testing is ‘going to kill people’, experts warn",
+      "summary": "Trump administration restricts federal funding for fentanyl test strips, experts warn of fatal consequences.",
+      "url": "https://www.theguardian.com/p/x5xzgt",
+      "thumbnail": "https://media.guim.co.uk/8e9cf04f6c153c562b7ffd010013fe38b66843c3/252_0_2495_1996/500.jpg",
+      "published": "2026-05-12T12:00:46Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "health",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/may/12/trump-rollback-eto-pollution-epa",
+      "headline": "Trump’s rollback of toxic gas rules limits EPA’s authority to protect public health, analysis says",
+      "summary": "Trump rollback of ethylene oxide pollution rules limits EPA authority to protect public health.",
+      "url": "https://www.theguardian.com/p/x528dt",
+      "thumbnail": "https://media.guim.co.uk/b8b64494685d3e214c351bca28f6ea0744886de4/760_0_6600_5282/500.jpg",
+      "published": "2026-05-12T12:00:46Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/may/12/first-thing-democrats-grave-concerns-secretive-ice-deportation-flights",
+      "headline": "First Thing: Democrats express ‘grave concerns’ over secretive ICE deportation flights",
+      "summary": "House Democrats express grave concerns over Trump administration's secretive ICE deportation flights.",
+      "url": "https://www.theguardian.com/p/x53x28",
+      "thumbnail": "https://media.guim.co.uk/8a20ccf6e6158138b7be8c959b2e1860c4feb252/0_0_1280_1024/500.jpg",
+      "published": "2026-05-12T11:54:36Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/may/12/world-cup-2026-pundits-bbc-itv-thomas-frank-ange-postecoglou",
+      "headline": "Frank and Postecoglou going head to head as BBC and ITV pundits for World Cup",
+      "summary": "Former Tottenham managers Frank and Postecoglou to serve as rival World Cup pundits for BBC and ITV.",
+      "url": "https://www.theguardian.com/p/x53xq5",
+      "thumbnail": "https://media.guim.co.uk/1050a5ed6b2e40b90b32916db6eded7e06610fea/0_67_2454_1963/500.jpg",
+      "published": "2026-05-12T11:45:49Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "politics/2026/may/12/tony-worthington-obituary",
+      "headline": "Tony Worthington obituary",
+      "summary": "Labour MP Tony Worthington, Northern Ireland minister during Good Friday agreement, dies aged 84.",
+      "url": "https://www.theguardian.com/p/x52zty",
+      "thumbnail": "https://media.guim.co.uk/316d41006a6b3880f47ba5c4e953d4b1b221363e/497_0_4968_3974/500.jpg",
+      "published": "2026-05-12T11:45:38Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 1,
+      "section": "politics"
+    },
+    {
+      "id": "politics/2026/may/12/labour-mp-seat-burnham-allies-not-stand-aside-marie-rimmer",
+      "headline": "Burnham allies warn against quick ‘coronation’ of Streeting if Starmer quits",
+      "summary": "Burnham allies warn against quick Streeting coronation if Starmer quits Labour leadership.",
+      "url": "https://www.theguardian.com/p/x53x83",
+      "thumbnail": "https://media.guim.co.uk/ce5a9745954fde232c7564f234e2cbb20a871972/361_62_1459_1167/500.jpg",
+      "published": "2026-05-12T11:35:00Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "politics"
+    },
+    {
+      "id": "commentisfree/2026/may/12/andy-burnham-labour-reform-prime-minister-greater-manchester-mayor-westminster",
+      "headline": "Andy Burnham can save Labour and defeat Reform. He should be the next prime minister",
+      "summary": "Columnist argues Greater Manchester mayor Burnham should become next Labour PM to defeat Reform.",
+      "url": "https://www.theguardian.com/p/x53x6c",
+      "thumbnail": "https://media.guim.co.uk/a8fa0ba8115d3b0d63b8444ec133c7afd83678d3/0_0_4583_3667/500.jpg",
+      "published": "2026-05-12T11:31:52Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "commentisfree"
+    },
+    {
+      "id": "law/2026/may/12/palestine-action-trial-lawyer-wins-appeal-contempt-court-charge",
+      "headline": "Palestine Action trial lawyer wins appeal against contempt of court charge",
+      "summary": "Lawyer Rajiv Menon KC wins appeal against contempt of court charge from Palestine Action trial.",
+      "url": "https://www.theguardian.com/p/x53xkj",
+      "thumbnail": "https://media.guim.co.uk/6c3fe2b422002e81586155c32ffec772e1eeded5/383_469_4388_3512/500.jpg",
+      "published": "2026-05-12T11:24:59Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 1,
+      "section": "law"
+    },
+    {
+      "id": "world/2026/may/12/israel-special-tribunal-death-penalty-7-october-attack",
+      "headline": "Israeli MPs back special tribunal with death penalty powers for alleged 7 October attackers",
+      "summary": "Israeli parliament approves special tribunal with death penalty for 7 October Hamas attack suspects.",
+      "url": "https://www.theguardian.com/p/x53xyz",
+      "thumbnail": "https://media.guim.co.uk/d4478665df576dd167b70ac0c6d065c92b8402c5/885_0_6827_5464/500.jpg",
+      "published": "2026-05-12T11:23:39Z",
+      "location": {
+        "name": "Israel",
+        "lat": 31.7683,
+        "lng": 35.2137
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
     }
   ]
 }
