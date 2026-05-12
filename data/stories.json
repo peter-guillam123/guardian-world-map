@@ -1,252 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-12T15:26:34.990Z",
-    "story_count": 127,
-    "oldest_story": "2026-05-11T15:43:03Z",
-    "newest_story": "2026-05-12T15:17:45Z",
+    "generated_at": "2026-05-12T17:35:18.668Z",
+    "story_count": 125,
+    "oldest_story": "2026-05-11T17:50:44Z",
+    "newest_story": "2026-05-12T17:32:33Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/2026/may/11/benfica-jose-mourinho-marco-silva-real-madrid-fulham-chelsea",
-      "headline": "Benfica to target Fulham’s Marco Silva if they lose José Mourinho to Real Madrid",
-      "summary": "Benfica targets Fulham's Marco Silva as potential replacement for Mourinho if he joins Real Madrid.",
-      "url": "https://www.theguardian.com/p/x52zha",
-      "thumbnail": "https://media.guim.co.uk/dc26359ab43cc368a0b7aa2bbdd2cbdaeb8242d1/134_202_1934_1547/500.jpg",
-      "published": "2026-05-11T16:46:28Z",
-      "location": {
-        "name": "Lisbon",
-        "lat": 38.7223,
-        "lng": -9.1393
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "business/nils-pratley-on-finance/2026/may/11/british-steel-future-sale-subsidies-nationalisation",
-      "headline": "British Steel: more questions than answers on the future",
-      "summary": "British Steel faces full nationalisation with hard decisions ahead on sale and future subsidies.",
-      "url": "https://www.theguardian.com/p/x52nep",
-      "thumbnail": "https://media.guim.co.uk/dbd2464f46394622250b655cf0b29ab15e9f1398/401_0_6830_5465/500.jpg",
-      "published": "2026-05-11T16:41:08Z",
-      "location": {
-        "name": "Scunthorpe",
-        "lat": 53.5882,
-        "lng": -0.6521
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "business"
-    },
-    {
-      "id": "tv-and-radio/2026/may/11/john-oliver-trump-supreme-court-shadow-docket",
-      "headline": "John Oliver on Trump’s use of supreme court shadow dockets: ‘his go-to method to get his way’",
-      "summary": "John Oliver examines Trump's use of Supreme Court shadow dockets to bypass traditional legal processes.",
-      "url": "https://www.theguardian.com/p/x52npa",
-      "thumbnail": "https://media.guim.co.uk/11ab24ec8ffd2eadb9d4f67c39cc21a8f043bc95/303_0_2018_1614/500.jpg",
-      "published": "2026-05-11T16:38:35Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "tv-and-radio"
-    },
-    {
-      "id": "uk-news/2026/may/11/cruise-ship-passengers-mv-hondius-quarantined-hantavirus-arrowe-park-wirral",
-      "headline": "‘A little boring after two weeks’: what awaits MV Hondius passengers quarantined for hantavirus?",
-      "summary": "MV Hondius cruise ship passengers quarantined at Arrowe Park hospital for hantavirus exposure.",
-      "url": "https://www.theguardian.com/p/x52z2p",
-      "thumbnail": "https://media.guim.co.uk/99eb16d257ca12c2ea29d402862d7fcae3851b8e/0_0_3780_3024/500.jpg",
-      "published": "2026-05-11T16:35:17Z",
-      "location": {
-        "name": "Wirral",
-        "lat": 53.3723,
-        "lng": -3.1271
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "football/2026/may/11/scotland-title-race-celtic-hearts",
-      "headline": "Europe’s best title race is in Scotland: Explaining Hearts, Celtic and a decisive week",
-      "summary": "Scotland's title race between Celtic and Hearts offers compelling final stretch with potential last-day decider.",
-      "url": "https://www.theguardian.com/p/x52z6t",
-      "thumbnail": "https://media.guim.co.uk/2e1f7e89565774a5b7a6c3375e512d2bb7547b1c/0_141_3000_2400/500.jpg",
-      "published": "2026-05-11T16:30:59Z",
-      "location": {
-        "name": "Glasgow",
-        "lat": 55.8642,
-        "lng": -4.2518
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/may/11/barcelona-la-liga-champions-hansi-flick-father-real-madrid-clasico-la-liga-title",
-      "headline": "Flick turned Barcelona into a family – and runaway La Liga champions",
-      "summary": "Hansi Flick's Barcelona wins La Liga title on day he learned of father's death.",
-      "url": "https://www.theguardian.com/p/x52mnp",
-      "thumbnail": "https://media.guim.co.uk/c36ad1028fce15efdf1d5fff2e4ae933a5243644/380_0_2265_1812/500.jpg",
-      "published": "2026-05-11T15:57:58Z",
-      "location": {
-        "name": "Barcelona",
-        "lat": 41.3851,
-        "lng": 2.1734
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "education/2026/may/11/sats-curriculum-a-worry-for-pupils-and-parents",
-      "headline": "Sats curriculum a worry for pupils and parents",
-      "summary": "Readers express concerns about SATs curriculum anxiety for pupils and parents.",
-      "url": "https://www.theguardian.com/p/x527nq",
-      "thumbnail": "https://media.guim.co.uk/605c3879eee3e8eda7270ef56c0d7b1330cd8d9a/228_1168_2423_1938/500.jpg",
-      "published": "2026-05-11T15:51:38Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 1,
-      "section": "education"
-    },
-    {
-      "id": "books/2026/may/11/the-perils-of-judging-a-book-by-its-hard-cover",
-      "headline": "The perils of judging a book by its hard cover",
-      "summary": "Readers debate merits of hardback versus paperback books in publishing discussion.",
-      "url": "https://www.theguardian.com/p/x52xzd",
-      "thumbnail": "https://media.guim.co.uk/b9809f38c21343526e0d469a90146b84dd16dad8/500_0_5000_4000/500.jpg",
-      "published": "2026-05-11T15:51:04Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "books"
-    },
-    {
-      "id": "world/2026/may/11/britain-is-failing-to-protect-victims-of-modern-slavery",
-      "headline": "Britain is failing to protect victims of modern slavery",
-      "summary": "UK failing to protect modern slavery victims with record exploitation levels and inadequate investment.",
-      "url": "https://www.theguardian.com/p/x5xh7z",
-      "thumbnail": "https://media.guim.co.uk/6d9a6256c61488c906f0ad8f560bd12da7b5958b/729_0_3606_2885/500.jpg",
-      "published": "2026-05-11T15:50:26Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "science/2026/may/11/hamlet-knew-about-the-nocebo-effect",
-      "headline": "Hamlet knew about the nocebo effect ",
-      "summary": "Letter highlights Shakespeare's awareness of nocebo effect in Hamlet over 400 years ago.",
-      "url": "https://www.theguardian.com/p/x5xh89",
-      "thumbnail": "https://media.guim.co.uk/7b79421fa43b6d3f0f3f94c8c71b7aa05efb4973/0_154_2070_1656/500.jpg",
-      "published": "2026-05-11T15:50:03Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "science"
-    },
-    {
-      "id": "politics/2026/may/11/we-need-a-voting-system-that-serves-citizens-first-and-foremost",
-      "headline": "We need a voting system that serves citizens first and foremost",
-      "summary": "All-party group proposes voting system reform to prioritize citizens over Westminster interests.",
-      "url": "https://www.theguardian.com/p/x52tmf",
-      "thumbnail": "https://media.guim.co.uk/a4bdd7cf621b8ccec80c65f177a48ad460208715/185_0_4914_3932/500.jpg",
-      "published": "2026-05-11T15:49:49Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 1,
-      "section": "politics"
-    },
-    {
-      "id": "politics/2026/may/11/investment-is-key-to-the-renationalisation-debate",
-      "headline": "Investment is key to the renationalisation debate ",
-      "summary": "Investment levels matter more than ownership model in renationalisation debate for public services.",
-      "url": "https://www.theguardian.com/p/x5xzaa",
-      "thumbnail": "https://media.guim.co.uk/152671c47d0274017d7fd7be4f7ecc554983ebc1/323_0_3194_2555/500.jpg",
-      "published": "2026-05-11T15:49:14Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 1,
-      "section": "politics"
-    },
-    {
-      "id": "commentisfree/2026/may/11/almost-anyone-britain-next-prime-minister-blame-david-cameron",
-      "headline": "Does it seem as if almost anyone could be Britain’s next prime minister? Blame David Cameron",
-      "summary": "Commentary on how David Cameron's legacy has made the path to UK Prime Minister more accessible.",
-      "url": "https://www.theguardian.com/p/x52n8m",
-      "thumbnail": "https://media.guim.co.uk/295248fe20995c892ca75cc33471ed09cb029edd/308_0_2346_1877/500.jpg",
-      "published": "2026-05-11T15:43:21Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "commentisfree"
-    },
-    {
-      "id": "sport/2026/may/11/counties-face-points-deductions-for-financial-losses-under-strict-new-ecb-rules",
-      "headline": "Counties face points deductions for financial losses under strict new ECB rules",
-      "summary": "ECB introduces points deductions for cricket counties with repeated financial losses.",
-      "url": "https://www.theguardian.com/p/x52z6c",
-      "thumbnail": "https://media.guim.co.uk/0239e4f5d52264e7ed4a4c33a5fc82cdeb5a3158/466_0_4664_3731/500.jpg",
-      "published": "2026-05-11T15:43:08Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "media/2026/may/11/savannah-guthrie-wordle-tv-game-show",
-      "headline": "Savannah Guthrie will host Wordle TV game show",
-      "summary": "Savannah Guthrie to host new Wordle TV game show produced by Jimmy Fallon.",
-      "url": "https://www.theguardian.com/p/x52za2",
-      "thumbnail": "https://media.guim.co.uk/0637fe01270654fee06950685bf6638fe95c6eca/979_759_3320_2656/500.jpg",
-      "published": "2026-05-11T15:43:03Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "media"
-    },
     {
       "id": "football/live/2026/may/11/millwall-v-hull-championship-playoff-semi-final-second-leg-live",
       "headline": "Millwall v Hull: Championship playoff semi-final, second leg – live",
@@ -390,54 +150,6 @@
       "category": "sport",
       "significance": 2,
       "section": "commentisfree"
-    },
-    {
-      "id": "world/2026/may/11/why-is-putin-now-talking-about-the-war-in-ukraine-coming-to-an-end",
-      "headline": "Why is Putin now talking about the war in Ukraine ‘coming to an end’?",
-      "summary": "Putin suggests Ukraine war 'coming to an end' as Russia loses battlefield momentum.",
-      "url": "https://www.theguardian.com/p/x52njb",
-      "thumbnail": "https://media.guim.co.uk/4ea910898f9be93cb9cba3a91da0197a915d6cba/190_0_4529_3622/500.jpg",
-      "published": "2026-05-11T17:32:32Z",
-      "location": {
-        "name": "Moscow",
-        "lat": 55.7558,
-        "lng": 37.6173
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "tv-and-radio/2026/may/11/flight-of-the-conchords-us-reunion",
-      "headline": "Flight of the Conchords’ US reunion brings needed joy: ‘Grateful you accepted people from outside your country’",
-      "summary": "Flight of the Conchords reunite in US after eight years with updated satirical material.",
-      "url": "https://www.theguardian.com/p/x52hte",
-      "thumbnail": "https://media.guim.co.uk/781c9b0d12e131d56021645a441c5a83843912e2/646_536_6388_5111/500.jpg",
-      "published": "2026-05-11T17:24:50Z",
-      "location": {
-        "name": "Los Angeles",
-        "lat": 34.0522,
-        "lng": -118.2437
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "tv-and-radio"
-    },
-    {
-      "id": "politics/2026/may/11/newly-elected-reform-councillor-resigns-stuart-prior-social-media",
-      "headline": "Newly elected Reform councillor resigns after social media claims",
-      "summary": "Newly elected Reform councillor resigns after offensive social media posts surface.",
-      "url": "https://www.theguardian.com/p/x52j6b",
-      "thumbnail": "https://media.guim.co.uk/5cd756d5892003589a91f111f0d4fc5c77992eaf/500_0_5000_4000/500.jpg",
-      "published": "2026-05-11T17:23:57Z",
-      "location": {
-        "name": "Essex",
-        "lat": 51.8787,
-        "lng": 0.5206
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
     },
     {
       "id": "us-news/2026/may/09/los-angeles-subway-public-transportation",
@@ -2037,6 +1749,262 @@
       },
       "category": "politics",
       "significance": 3,
+      "section": "politics"
+    },
+    {
+      "id": "uk-news/2026/may/12/police-shoot-man-dead-in-bedford-after-overnight-standoff",
+      "headline": "Police shoot man dead in Bedford after overnight standoff",
+      "summary": "Man shot dead by police after barricading himself in Bedford home overnight.",
+      "url": "https://www.theguardian.com/p/x533ct",
+      "thumbnail": "https://media.guim.co.uk/41f07c9a72f54a4f47459d8dbf0d402bd7d57a60/601_0_6014_4811/500.jpg",
+      "published": "2026-05-12T17:32:33Z",
+      "location": {
+        "name": "Bedford",
+        "lat": 52.1356,
+        "lng": -0.4613
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "football/live/2026/may/12/southampton-v-middlesbrough-championship-playoff-semi-final-second-leg-live",
+      "headline": "Southampton v Middlesbrough: Championship playoff semi-final, second leg – live",
+      "summary": "Southampton face Middlesbrough in Championship playoff semi-final second leg at St Mary's.",
+      "url": "https://www.theguardian.com/p/x52hze",
+      "thumbnail": "https://media.guim.co.uk/ff3ed7813cdd11b4fd6b3c2e4f211886b4d0b84f/271_0_3897_3119/500.jpg",
+      "published": "2026-05-12T17:30:06Z",
+      "location": {
+        "name": "Southampton",
+        "lat": 50.9061,
+        "lng": -1.3911
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/may/12/north-carolina-state-commencement-speaker-paying-off-student-loans",
+      "headline": "US university’s commencement speaker reveals he will pay off students’ final-year loans",
+      "summary": "NC State commencement speaker pledges to pay off textile graduates' final-year student loans.",
+      "url": "https://www.theguardian.com/p/x533ak",
+      "thumbnail": "https://media.guim.co.uk/7648f5b0c7f80b1b09449476f85b3bf50db0f677/303_0_1407_1126/500.jpg",
+      "published": "2026-05-12T17:24:26Z",
+      "location": {
+        "name": "Raleigh",
+        "lat": 35.7796,
+        "lng": -78.6382
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "education/2026/may/12/thousands-of-university-of-nottingham-staff-told-they-are-at-risk-of-redundancy",
+      "headline": "Thousands of University of Nottingham staff told they are at risk of redundancy",
+      "summary": "University of Nottingham notifies 2,700 staff of redundancy risk due to financial crisis by 2031.",
+      "url": "https://www.theguardian.com/p/x5336a",
+      "thumbnail": "https://media.guim.co.uk/0bdba4b506c225e0099bf1f1eee047b31535d1dd/436_0_3767_3012/500.jpg",
+      "published": "2026-05-12T17:21:36Z",
+      "location": {
+        "name": "Nottingham",
+        "lat": 52.9355,
+        "lng": -1.1881
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "education"
+    },
+    {
+      "id": "film/2026/may/12/film-world-must-not-resist-artificial-intelligence-demi-moore",
+      "headline": "Film industry cannot fight rise of artificial intelligence, says Demi Moore",
+      "summary": "Demi Moore urges film industry to embrace AI rather than resist it at Cannes Film Festival.",
+      "url": "https://www.theguardian.com/p/x5338g",
+      "thumbnail": "https://media.guim.co.uk/693eec11e4bc3c039912ea238a77a5110763560e/427_0_4535_3628/500.jpg",
+      "published": "2026-05-12T17:20:17Z",
+      "location": {
+        "name": "Cannes",
+        "lat": 43.5528,
+        "lng": 7.0176
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "film"
+    },
+    {
+      "id": "education/2026/may/12/robert-smith-obituary",
+      "headline": "Robert Smith obituary",
+      "summary": "Obituary: Robert Smith, Imperial College pharmacology professor, dies aged 92.",
+      "url": "https://www.theguardian.com/p/x5vtth",
+      "thumbnail": "https://media.guim.co.uk/db900e527731736d917a26f453b584bb19fb1597/0_623_2913_2329/500.jpg",
+      "published": "2026-05-12T17:09:58Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 1,
+      "section": "education"
+    },
+    {
+      "id": "football/2026/may/12/arsenal-ben-white-to-miss-remainder-of-season-and-world-cup-with-knee-injury",
+      "headline": "Arsenal’s Ben White ruled out for rest of season and facing World Cup woe",
+      "summary": "Arsenal defender Ben White ruled out for season and faces World Cup woe with knee injury.",
+      "url": "https://www.theguardian.com/p/x53396",
+      "thumbnail": "https://media.guim.co.uk/4e9fbde20f7ed0a7f76b30b121616e8776bb6682/418_0_4026_3221/500.jpg",
+      "published": "2026-05-12T16:56:39Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "politics/2026/may/12/agendas-labour-mps-calling-for-starmer-to-step-down",
+      "headline": "What are the agendas of Labour MPs calling for Starmer to step down?",
+      "summary": "Over 80 Labour MPs call for PM Starmer to step down following disappointing May election results.",
+      "url": "https://www.theguardian.com/p/x533xd",
+      "thumbnail": "https://media.guim.co.uk/aec002797933d0c98cd9239a5d0e4563e4bbd5ec/776_0_3880_3104/500.jpg",
+      "published": "2026-05-12T16:51:18Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "politics"
+    },
+    {
+      "id": "us-news/2026/may/12/nebraska-house-senate-democratic-primary-election",
+      "headline": "Nebraskans head to the polls as Democrats vote in primaries ahead of House and Senate races",
+      "summary": "Nebraska Democrats hold primaries for House and Senate races with GOP seat potentially flipping.",
+      "url": "https://www.theguardian.com/p/x52pe8",
+      "thumbnail": "https://media.guim.co.uk/7fd513beaeea1dbdda6683e56e815a308f970cfe/0_0_1800_1440/500.jpg",
+      "published": "2026-05-12T16:48:55Z",
+      "location": {
+        "name": "Lincoln",
+        "lat": 40.8258,
+        "lng": -96.6852
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "world/2026/may/12/russian-ship-ursa-major-sank-spain-nuclear-reactors-north-korea",
+      "headline": "Russian ship that sank near Spain may have been carrying nuclear reactors to North Korea ",
+      "summary": "Russian cargo ship Ursa Major may have carried nuclear reactors to North Korea before sinking.",
+      "url": "https://www.theguardian.com/p/x532hy",
+      "thumbnail": "https://media.guim.co.uk/faadbfc2187e62e8da819cd2ab2e5b80f58020a3/246_0_4386_3511/500.jpg",
+      "published": "2026-05-12T16:44:27Z",
+      "location": {
+        "name": "Spain",
+        "lat": 40.4637,
+        "lng": -3.7492
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "world/2026/may/12/bosnia-and-herzegovina-vulnerable-policy-clash-us-representative-says",
+      "headline": "Bosnia and Herzegovina left vulnerable by policy clash with US, representative says",
+      "summary": "UN official warns Bosnia faces destruction from US-Russia policy clash over Trump business interests.",
+      "url": "https://www.theguardian.com/p/x53xx6",
+      "thumbnail": "https://media.guim.co.uk/867548fbe9e08e1c81d8c1f784a78f6b73263b61/29_241_3099_2480/500.jpg",
+      "published": "2026-05-12T16:40:41Z",
+      "location": {
+        "name": "Sarajevo",
+        "lat": 43.8564,
+        "lng": 18.4131
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "world/2026/may/12/uae-secret-attack-iran-risks-gulf-states-regional-conflict",
+      "headline": "UAE’s secret attack on Iran risks drawing Gulf states into the war",
+      "summary": "UAE's secret attack on Iran risks escalating Gulf state involvement in regional conflict.",
+      "url": "https://www.theguardian.com/p/x532qc",
+      "thumbnail": "https://media.guim.co.uk/98b3d774a2b260543f941470e1e0b3fb0d5f31ba/341_0_3936_3149/500.jpg",
+      "published": "2026-05-12T16:37:27Z",
+      "location": {
+        "name": "Dubai",
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "politics/2026/may/12/are-working-class-voters-lost-to-labour-for-good",
+      "headline": "Are working-class voters lost to Labour for good?",
+      "summary": "Readers debate Labour's appeal to working-class voters and Reform UK's electoral surge.",
+      "url": "https://www.theguardian.com/p/x52txt",
+      "thumbnail": "https://media.guim.co.uk/a3f7338d0b336e98f76cae5226e0e324dbc2d29f/553_0_5589_4471/500.jpg",
+      "published": "2026-05-12T16:32:47Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "politics/2026/may/12/labour-mps-channel-tory-psychodrama-starmer-hiding-in-plain-sight",
+      "headline": "Labour MPs channel Tory psychodrama as Starmer keeps hiding in plain sight",
+      "summary": "Labour MPs plot against PM Starmer amid internal party turmoil over leadership succession.",
+      "url": "https://www.theguardian.com/p/x533vn",
+      "thumbnail": "https://media.guim.co.uk/a665de3d47a6ac13ab4caac2922929939c712fb8/0_0_4583_3668/500.jpg",
+      "published": "2026-05-12T16:32:10Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "politics"
+    },
+    {
+      "id": "uk-news/2026/may/12/trams-are-the-best-way-to-get-britain-moving",
+      "headline": "Trams are the best way to get Britain moving",
+      "summary": "Expert urges UK policymakers to adopt trams as cost-effective solution for urban congestion.",
+      "url": "https://www.theguardian.com/p/x5283p",
+      "thumbnail": "https://media.guim.co.uk/f0de673ccab906c50412495333a96cc47647a454/210_0_2055_1644/500.jpg",
+      "published": "2026-05-12T16:29:55Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "politics/2026/may/12/muslims-in-britain-are-politically-engaged-but-they-do-not-vote-as-a-bloc",
+      "headline": "Muslims in Britain are politically engaged, but they do not vote as a bloc",
+      "summary": "Study shows British Muslims are politically engaged across parties, contradicting voting bloc stereotype.",
+      "url": "https://www.theguardian.com/p/x52857",
+      "thumbnail": "https://media.guim.co.uk/14f9072e48b39f9564dc108c7d1e75fb0f68c7b1/871_0_5000_4000/500.jpg",
+      "published": "2026-05-12T16:29:02Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
       "section": "politics"
     }
   ]
