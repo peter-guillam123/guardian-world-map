@@ -1,124 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-13T18:11:26.092Z",
-    "story_count": 94,
-    "oldest_story": "2026-05-12T18:14:51Z",
-    "newest_story": "2026-05-13T18:08:29Z",
+    "generated_at": "2026-05-13T20:12:11.338Z",
+    "story_count": 88,
+    "oldest_story": "2026-05-12T20:30:15Z",
+    "newest_story": "2026-05-13T20:10:15Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "world/2026/may/12/who-head-warns-countries-prepare-more-hantavirus-cases",
-      "headline": "WHO head tells countries to prepare for more hantavirus cases",
-      "summary": "WHO warns countries to prepare for more hantavirus cases as French woman on ship enters intensive care.",
-      "url": "https://www.theguardian.com/p/x53xb2",
-      "thumbnail": "https://media.guim.co.uk/90010f22902f97c3c36a1f1f68c7a1e96e32a39a/695_44_3055_2444/500.jpg",
-      "published": "2026-05-12T19:04:46Z",
-      "location": {
-        "name": "Paris",
-        "lat": 48.8566,
-        "lng": 2.3522
-      },
-      "category": "health",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "football/2026/may/12/mls-2026-salary-release-takeaways",
-      "headline": "$28.3m Messi is MLS’s top earner again, making more than twice as much as Son",
-      "summary": "Lionel Messi earns $28.3m as MLS's top earner, more than twice Son's salary in 2026.",
-      "url": "https://www.theguardian.com/p/x533jb",
-      "thumbnail": "https://media.guim.co.uk/031a2b343e55099e7d3ddb41146b8085f1a87412/701_0_6105_4886/500.jpg",
-      "published": "2026-05-12T18:54:18Z",
-      "location": {
-        "name": "United States",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/may/12/howard-webb-var-west-ham-arsenal-callum-wilson-pablo-david-raya",
-      "headline": "Howard Webb praises VAR process in ruling out West Ham equaliser against Arsenal",
-      "summary": "VAR overturns West Ham equaliser against Arsenal for Pablo's foul on Raya; Webb defends decision.",
-      "url": "https://www.theguardian.com/p/x5339v",
-      "thumbnail": "https://media.guim.co.uk/1b9f21a9c5298aca313ab30a64a26f6d7f351c7e/115_0_1145_916/500.jpg",
-      "published": "2026-05-12T18:31:07Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "sport/2026/may/12/memphis-grizzlies-forward-brandon-clarke-dies-at-age-of-29-he-was-the-gentlest-soul",
-      "headline": "Memphis Grizzlies forward Brandon Clarke dies at 29: ‘He was the gentlest soul’",
-      "summary": "NBA forward Brandon Clarke of Memphis Grizzlies dies at 29; cause unreported.",
-      "url": "https://www.theguardian.com/p/x533yx",
-      "thumbnail": "https://media.guim.co.uk/6a327f79d7c538c2c45f80f3c6639a55d43de124/407_126_2343_1874/500.jpg",
-      "published": "2026-05-12T18:25:22Z",
-      "location": {
-        "name": "Memphis",
-        "lat": 35.1495,
-        "lng": -90.049
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "us-news/2026/may/12/marty-makary-fda-trump-administration",
-      "headline": "Marty Makary departs FDA after clashes with Trump over fruit-flavored vapes",
-      "summary": "FDA Commissioner Marty Makary resigns after clashing with Trump over fruit-flavored vape regulations.",
-      "url": "https://www.theguardian.com/p/x529tf",
-      "thumbnail": "https://media.guim.co.uk/d022bc72719ab4490e53357a0e40837a189a09ca/571_0_5713_4571/500.jpg",
-      "published": "2026-05-12T18:20:46Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/may/12/jeffrey-epstein-survivor-palm-beach-hearing",
-      "headline": "Epstein survivors give tearful testimony in House field hearing in Palm Beach",
-      "summary": "Epstein survivors testify at House hearing, urging Trump not to pardon Ghislaine Maxwell.",
-      "url": "https://www.theguardian.com/p/x53292",
-      "thumbnail": "https://media.guim.co.uk/323c9d91250ed4d5ee0f876b7be9c236dbeec1f7/685_1266_3415_2731/500.jpg",
-      "published": "2026-05-12T18:19:55Z",
-      "location": {
-        "name": "Palm Beach",
-        "lat": 26.7057,
-        "lng": -80.0533
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "music/2026/may/12/man-sentenced-car-robbery-beyonce-music",
-      "headline": "Man sentenced to two years in prison for stealing unreleased Beyoncé music",
-      "summary": "Man sentenced to two years for stealing unreleased Beyoncé music from car in July 2025.",
-      "url": "https://www.theguardian.com/p/x533fc",
-      "thumbnail": "https://media.guim.co.uk/74136ce8a10a56ca51764bf8473ece75aa0206d0/250_0_2500_2000/500.jpg",
-      "published": "2026-05-12T18:14:51Z",
-      "location": {
-        "name": "Atlanta",
-        "lat": 33.749,
-        "lng": -84.388
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "music"
-    },
     {
       "id": "australia-news/live/2026/may/13/budget-2026-live-updates-reaction-jim-chalmers-tim-wilson-cost-of-living-capital-gains-negative-gearing-housing-tax-ntwnfb",
       "headline": "Budget 2026 live updates: Coalition pledges to repeal Chalmers’ tax reforms amid mixed reception for ‘difficult’ budget",
@@ -182,54 +70,6 @@
       "category": "tech",
       "significance": 1,
       "section": "technology"
-    },
-    {
-      "id": "film/2026/may/12/the-electric-kiss-review-cannes-film-festival-pierre-salvadori",
-      "headline": "The Electric Kiss review – belle époque seance comedy struggles to summon real magic",
-      "summary": "Pierre Salvadori's 'The Electric Kiss' reviewed as charming but underwhelming period farce at Cannes Film Festival.",
-      "url": "https://www.theguardian.com/p/x5276n",
-      "thumbnail": "https://media.guim.co.uk/d3d41f359f8807c6d37a475d90a99f79f687e406/0_51_7630_6100/500.jpg",
-      "published": "2026-05-12T20:02:09Z",
-      "location": {
-        "name": "Cannes",
-        "lat": 43.5528,
-        "lng": 7.0174
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "film"
-    },
-    {
-      "id": "politics/2026/may/12/despite-calls-to-step-down-keir-starmer-is-still-the-uks-prime-minister-for-now",
-      "headline": "How Keir Starmer lost authority over two days of confusion and drama",
-      "summary": "Keir Starmer faces mounting pressure to step down before state opening of parliament amid Labour leadership crisis.",
-      "url": "https://www.theguardian.com/p/x53xpm",
-      "thumbnail": "https://media.guim.co.uk/ffbbceff908024b1f70a5cda084347a19f72550a/682_0_6362_5089/500.jpg",
-      "published": "2026-05-12T20:00:09Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "politics"
-    },
-    {
-      "id": "politics/2026/may/12/starmer-given-a-lifeline-after-streeting-challenge-fails-to-materialise",
-      "headline": "Starmer given a lifeline after Streeting challenge fails to materialise",
-      "summary": "Starmer survives as Wes Streeting's leadership challenge fails to materialise due to insufficient support.",
-      "url": "https://www.theguardian.com/p/x533be",
-      "thumbnail": "https://media.guim.co.uk/1b16025168fdf89126a551ea03e806ad25fba86d/0_0_5000_4000/500.jpg",
-      "published": "2026-05-12T19:54:48Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "politics"
     },
     {
       "id": "us-news/2026/may/12/frontier-airlines-plane-suicide",
@@ -1510,6 +1350,70 @@
       "category": "culture",
       "significance": 2,
       "section": "film"
+    },
+    {
+      "id": "business/2026/may/13/kevin-warsh-federal-reserve-chair",
+      "headline": "US Senate confirms Kevin Warsh as Federal Reserve chair, replacing Jerome Powell",
+      "summary": "US Senate confirms Kevin Warsh as Federal Reserve chair, replacing Jerome Powell.",
+      "url": "https://www.theguardian.com/p/x533fm",
+      "thumbnail": "https://media.guim.co.uk/b2a6b4a4a76e13e3f25df504b859420521656ff4/333_0_3333_2667/500.jpg",
+      "published": "2026-05-13T20:10:15Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 4,
+      "section": "business"
+    },
+    {
+      "id": "us-news/2026/may/13/georgia-brian-kemp-electoral-maps-session",
+      "headline": " Georgia’s Republican governor calls for special session to redraw electoral maps",
+      "summary": "Georgia Governor Brian Kemp calls special session to redraw electoral maps.",
+      "url": "https://www.theguardian.com/p/x539ad",
+      "thumbnail": "https://media.guim.co.uk/5e651539f12085ed2a89dd2ccb329613b149f7d5/255_0_3327_2660/500.jpg",
+      "published": "2026-05-13T20:02:54Z",
+      "location": {
+        "name": "Atlanta",
+        "lat": 33.749,
+        "lng": -84.388
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/may/13/trump-iran-senate-war-powers",
+      "headline": "Senate rejects latest Democratic effort to end Iran war by wafer-thin margin",
+      "summary": "Senate rejects Democratic effort to end Iran war by narrow 49-50 margin.",
+      "url": "https://www.theguardian.com/p/x539b7",
+      "thumbnail": "https://media.guim.co.uk/6c9f1d353e3b395a3cfd3672466cd02056259bbe/560_0_5600_4480/500.jpg",
+      "published": "2026-05-13T19:46:31Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "uk-news/2026/may/13/valdo-calocane-brother-inquiry-mental-ill-health",
+      "headline": "Valdo Calocane brother tells inquiry he felt powerless over killer’s mental ill health",
+      "summary": "Brother of Nottingham killer Valdo Calocane tells inquiry he felt powerless over his mental health.",
+      "url": "https://www.theguardian.com/p/x538z4",
+      "thumbnail": "https://media.guim.co.uk/5573563006c32167f29331df37e9f03afbceda27/614_108_2513_2011/500.jpg",
+      "published": "2026-05-13T19:25:07Z",
+      "location": {
+        "name": "Nottingham",
+        "lat": 52.9549,
+        "lng": -1.1084
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "uk-news"
     }
   ]
 }
