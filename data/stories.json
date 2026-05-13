@@ -1,76 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-13T20:12:11.338Z",
-    "story_count": 88,
-    "oldest_story": "2026-05-12T20:30:15Z",
-    "newest_story": "2026-05-13T20:10:15Z",
+    "generated_at": "2026-05-13T21:47:09.591Z",
+    "story_count": 87,
+    "oldest_story": "2026-05-12T21:52:01Z",
+    "newest_story": "2026-05-13T21:41:29Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "australia-news/live/2026/may/13/budget-2026-live-updates-reaction-jim-chalmers-tim-wilson-cost-of-living-capital-gains-negative-gearing-housing-tax-ntwnfb",
-      "headline": "Budget 2026 live updates: Coalition pledges to repeal Chalmers’ tax reforms amid mixed reception for ‘difficult’ budget",
-      "summary": "Australian budget 2026 faces mixed reception with Coalition pledging to repeal tax reforms on capital gains and negative gearing.",
-      "url": "https://www.theguardian.com/p/x53xy2",
-      "thumbnail": "https://media.guim.co.uk/676dd7cb285fca6e4de087b9393775b27ea34cc5/576_0_2953_2362/500.jpg",
-      "published": "2026-05-12T20:57:08Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "australia-news/2026/may/13/morning-mail-wednesday-ntwnfb",
-      "headline": "Chalmers sells budget as ‘road to reform’, Starmer fights on in UK, why the gothic look is back",
-      "summary": "Treasurer Chalmers presents budget as 'road to reform' tackling housing, inequality and cost of living.",
-      "url": "https://www.theguardian.com/p/x53xgm",
-      "thumbnail": "https://media.guim.co.uk/c1f7c8caeca24cfd026e6fe357ad8c95b30f7f38/676_0_6880_5504/500.jpg",
-      "published": "2026-05-12T20:52:51Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "technology/2026/may/12/sam-altman-openai-trial-elon-musk",
-      "headline": "Sam Altman defends OpenAI in courtroom showdown with Elon Musk",
-      "summary": "Sam Altman defends OpenAI against Elon Musk's lawsuit in high-stakes AI trial courtroom showdown.",
-      "url": "https://www.theguardian.com/p/x533nv",
-      "thumbnail": "https://media.guim.co.uk/32632f8e3e5cd1d4ffd991d30c5f14164f102b42/385_0_3853_3083/500.jpg",
-      "published": "2026-05-12T20:48:15Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "tech",
-      "significance": 3,
-      "section": "technology"
-    },
-    {
-      "id": "technology/2026/may/12/florida-students-boo-graduation-speaker-ai",
-      "headline": "Florida students boo graduation speaker who called AI ‘next Industrial Revolution’ ",
-      "summary": "University of Central Florida students boo graduation speaker for calling AI the 'next Industrial Revolution'.",
-      "url": "https://www.theguardian.com/p/x533j8",
-      "thumbnail": "https://media.guim.co.uk/54c841cdc6b0a4c66cb235c5a10e0241ef1cb62e/636_214_2112_1690/500.jpg",
-      "published": "2026-05-12T20:30:15Z",
-      "location": {
-        "name": "Orlando",
-        "lat": 28.5421,
-        "lng": -81.3723
-      },
-      "category": "tech",
-      "significance": 1,
-      "section": "technology"
-    },
     {
       "id": "us-news/2026/may/12/frontier-airlines-plane-suicide",
       "headline": "Death of man struck by Frontier Airlines plane ruled suicide by medical examiner",
@@ -134,70 +70,6 @@
       "category": "health",
       "significance": 3,
       "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/may/12/south-carolina-republicans-defy-trump-redistricting",
-      "headline": "South Carolina Republicans defy Trump’s demands for redistricting",
-      "summary": "South Carolina Republicans defy Trump's demands to redraw congressional redistricting map.",
-      "url": "https://www.theguardian.com/p/x533ed",
-      "thumbnail": "https://media.guim.co.uk/799ad0d151bfb0918e3f97d06f3f594276d77eca/489_0_4868_3897/500.jpg",
-      "published": "2026-05-12T21:46:08Z",
-      "location": {
-        "name": "South Carolina",
-        "lat": 34.0007,
-        "lng": -81.0348
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "football/2026/may/12/guardiola-wants-city-players-to-raise-their-game-rather-than-trust-flip-of-a-coin-officials",
-      "headline": "Guardiola wants City players to raise their game rather than trust ‘flip of a coin’ officials",
-      "summary": "Pep Guardiola criticizes officiating as 'flip of a coin,' urges Manchester City to perform better.",
-      "url": "https://www.theguardian.com/p/x532yk",
-      "thumbnail": "https://media.guim.co.uk/7bb608310ef99b06671efe957b3e10f494efa65a/449_187_2714_2171/500.jpg",
-      "published": "2026-05-12T21:35:28Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4808,
-        "lng": -2.2426
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/may/12/real-madrid-president-florentino-perez-calls-for-elections-in-bizarre-rant-media",
-      "headline": "Real Madrid president Florentino Pérez calls for elections in bizarre rant ",
-      "summary": "Real Madrid president Florentino Pérez launches bizarre tirade at media, refuses to resign.",
-      "url": "https://www.theguardian.com/p/x5345x",
-      "thumbnail": "https://media.guim.co.uk/5d0bb240c565400424c8809b9622f35e609757ae/752_65_3871_3096/500.jpg",
-      "published": "2026-05-12T21:30:16Z",
-      "location": {
-        "name": "Madrid",
-        "lat": 40.4168,
-        "lng": -3.7038
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "politics/2026/may/12/starmer-bills-kings-speech",
-      "headline": "Starmer hopes to regain momentum with unveiling of dozens of bills in king’s speech",
-      "summary": "Prime Minister Starmer unveils 35 bills in King's Speech covering housing, immigration, energy.",
-      "url": "https://www.theguardian.com/p/x533bq",
-      "thumbnail": "https://media.guim.co.uk/6671d63eaff1334c8a42272f7e10bf6c506d61bf/219_0_4874_3901/500.jpg",
-      "published": "2026-05-12T21:30:15Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "politics"
     },
     {
       "id": "us-news/2026/may/12/kash-patel-congressional-hearing",
@@ -1414,6 +1286,118 @@
       "category": "health",
       "significance": 2,
       "section": "uk-news"
+    },
+    {
+      "id": "australia-news/live/2026/may/14/budget-reply-angus-taylor-anthony-albanese-jim-chalmers-tax-reform-property-investment-negative-gearing-capital-gains-housing-ntwnfb",
+      "headline": "Australia politics live: Albanese denies tax reforms aimed at courting votes from growing gen Z cohort",
+      "summary": "Albanese denies tax reforms aimed at courting Gen Z votes ahead of Angus Taylor's budget reply speech.",
+      "url": "https://www.theguardian.com/p/x5373k",
+      "thumbnail": "https://media.guim.co.uk/c5973661855c8d87cc0b758c6b07a74dffea87d6/1082_0_6262_5013/500.jpg",
+      "published": "2026-05-13T21:41:29Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "politics/2026/may/13/starmer-sets-out-changes-to-education-health-and-courts-in-kings-speech",
+      "headline": "Keir Starmer sets out changes to education, health and courts in king’s speech",
+      "summary": "King Charles unveils government agenda as Starmer faces internal Labour leadership challenges.",
+      "url": "https://www.theguardian.com/p/x53784",
+      "thumbnail": "https://media.guim.co.uk/3efc076699c2d5fb06e91a9f3b29c84bb8c6b5f7/0_0_3745_2996/500.jpg",
+      "published": "2026-05-13T21:32:36Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "us-news/2026/may/13/jd-vance-anti-fraud-medicare-medicaid",
+      "headline": "JD Vance threatens health funding to states that don’t comply with White House anti-fraud effort",
+      "summary": "JD Vance threatens to cut Medicare/Medicaid funding to states refusing fraud compliance measures.",
+      "url": "https://www.theguardian.com/p/x539jf",
+      "thumbnail": "https://media.guim.co.uk/1397f73633bd1488bad6b2b3f8c007e0804d7e25/485_0_4853_3883/500.jpg",
+      "published": "2026-05-13T21:20:28Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "health",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/may/13/scottish-premiership-hearts-falkirk-match-report",
+      "headline": "Hearts see off Falkirk but Celtic’s late show sets up final-day title decider",
+      "summary": "Hearts beat Falkirk 3-0 but must wait for title as Celtic's win sets up final-day decider.",
+      "url": "https://www.theguardian.com/p/x5378t",
+      "thumbnail": "https://media.guim.co.uk/56791fd813b0036bcee496c830c5715d1d494c62/105_0_2597_2077/500.jpg",
+      "published": "2026-05-13T21:11:55Z",
+      "location": {
+        "name": "Edinburgh",
+        "lat": 55.9533,
+        "lng": -3.1883
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/may/13/stacey-abrams-redistricting-voter-maps-republicans-voting-rights-act",
+      "headline": "Republican redistricting effort is ‘evil incarnate’, Stacey Abrams tells new Guardian podcast",
+      "summary": "Stacey Abrams calls Republican redistricting efforts 'evil incarnate' in new Guardian podcast interview.",
+      "url": "https://www.theguardian.com/p/x539v2",
+      "thumbnail": "https://media.guim.co.uk/ed6507f7d68099ee753f946350ec58723b5b173b/506_0_5046_4039/500.jpg",
+      "published": "2026-05-13T21:01:07Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/may/13/premier-league-manchester-city-crystal-palace-match-report",
+      "headline": "Foden inspires Manchester City’s win against Crystal Palace to close gap at top",
+      "summary": "Manchester City beats Crystal Palace 3-0 to close gap on Arsenal to two points.",
+      "url": "https://www.theguardian.com/p/x5377z",
+      "thumbnail": "https://media.guim.co.uk/134600afeb8f28d65f968b325376fc809d810945/227_0_2273_1818/500.jpg",
+      "published": "2026-05-13T20:59:57Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "australia-news/2026/may/14/morning-mail-thursday-ntwnfb",
+      "headline": "Morning Mail: Coalition ties immigration intake to housing build, Trump in China, farewell to rent-vesting?",
+      "summary": "Coalition proposes tying immigration intake to housing supply in Angus Taylor's budget reply speech.",
+      "url": "https://www.theguardian.com/p/x537xn",
+      "thumbnail": "https://media.guim.co.uk/658bb637c7ad8624d6029133c8f0673c296340fe/447_0_4475_3580/500.jpg",
+      "published": "2026-05-13T20:51:44Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
     }
   ]
 }
