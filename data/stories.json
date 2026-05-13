@@ -1,76 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-13T21:47:09.591Z",
-    "story_count": 87,
-    "oldest_story": "2026-05-12T21:52:01Z",
-    "newest_story": "2026-05-13T21:41:29Z",
+    "generated_at": "2026-05-13T22:53:18.858Z",
+    "story_count": 89,
+    "oldest_story": "2026-05-12T23:01:13Z",
+    "newest_story": "2026-05-13T22:36:29Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "us-news/2026/may/12/frontier-airlines-plane-suicide",
-      "headline": "Death of man struck by Frontier Airlines plane ruled suicide by medical examiner",
-      "summary": "Man struck by Frontier Airlines plane at Denver airport ruled suicide by medical examiner.",
-      "url": "https://www.theguardian.com/p/x53484",
-      "thumbnail": "https://media.guim.co.uk/67a26fabc7277d96cd4840d995fbfe02c5e98667/720_0_7200_5760/500.jpg",
-      "published": "2026-05-12T22:04:03Z",
-      "location": {
-        "name": "Denver",
-        "lat": 39.8561,
-        "lng": -104.6737
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "football/2026/may/12/southampton-middlesbrough-championship-playoff-semi-final-match-report",
-      "headline": "Southampton in playoff final after freak winner settles Middlesbrough grudge match",
-      "summary": "Southampton advances to playoff final after extra-time victory over Middlesbrough.",
-      "url": "https://www.theguardian.com/p/x532jz",
-      "thumbnail": "https://media.guim.co.uk/219481584b8f278b3d83343dc400aa0928971d16/291_0_3585_2869/500.jpg",
-      "published": "2026-05-12T22:01:33Z",
-      "location": {
-        "name": "Southampton",
-        "lat": 50.906,
-        "lng": -1.3909
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "society/2026/may/12/capacity-lifts-elevators-weight-limits-obesity-safety-equity",
-      "headline": "Capacity of lifts not kept up with UK obesity levels, study shows",
-      "summary": "Study shows UK lift capacity has not kept up with rising obesity levels, raising safety concerns.",
-      "url": "https://www.theguardian.com/p/x5327t",
-      "thumbnail": "https://media.guim.co.uk/cf30e2313d606e934dd78e660a47c910903a484a/0_0_5156_4125/500.jpg",
-      "published": "2026-05-12T22:01:11Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "society"
-    },
-    {
-      "id": "us-news/2026/may/12/new-york-hospital-langone-transgender-care",
-      "headline": "New York hospital system receives subpoena over trans youth healthcare",
-      "summary": "NYU Langone Health subpoenaed by DOJ over gender-affirming care for transgender youth.",
-      "url": "https://www.theguardian.com/p/x534cd",
-      "thumbnail": "https://media.guim.co.uk/806fd90a593a7a25fb3b230347b5aabfbed3d8a9/560_0_5600_4480/500.jpg",
-      "published": "2026-05-12T21:52:01Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "health",
-      "significance": 3,
-      "section": "us-news"
-    },
     {
       "id": "us-news/2026/may/12/kash-patel-congressional-hearing",
       "headline": "Kash Patel denies excessive drinking allegations as ‘total farce’ in Senate hearing",
@@ -134,22 +70,6 @@
       "category": "economy",
       "significance": 2,
       "section": "news"
-    },
-    {
-      "id": "australia-news/commentisfree/2026/may/13/budget-2026-labor-measures-voters",
-      "headline": "Labor’s budget resembled a seven-course degustation. It was welcome, but why don’t voters feel sated?",
-      "summary": "Labor's 2026 budget offers tax reforms but falls short on voter satisfaction.",
-      "url": "https://www.theguardian.com/p/x534b9",
-      "thumbnail": "https://media.guim.co.uk/7b6e0c5aa2f1f355477a63c534058892ce314f4a/758_1161_4940_3954/500.jpg",
-      "published": "2026-05-12T22:36:50Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "australia-news"
     },
     {
       "id": "us-news/2026/may/12/trump-news-latest-updates-today",
@@ -1398,6 +1318,118 @@
       "category": "politics",
       "significance": 2,
       "section": "australia-news"
+    },
+    {
+      "id": "us-news/2026/may/13/howard-lutnick-jeffrey-epstein-interview-transcript",
+      "headline": "Howard Lutnick said he had three ‘meaningless and inconsequential’ meetings with Epstein",
+      "summary": "Commerce Secretary Lutnick denies meaningful relationship with disgraced financier Epstein in House testimony.",
+      "url": "https://www.theguardian.com/p/x539hv",
+      "thumbnail": "https://media.guim.co.uk/8030c9206b7e85575112cf3ba3102ee0a2418611/683_0_6827_5464/500.jpg",
+      "published": "2026-05-13T22:36:29Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2025/sep/15/premier-league-top-scorers-2025-26-who-is-leading-race-for-golden-boot",
+      "headline": "Premier League top scorers 2025-26: who is leading race for golden boot?",
+      "summary": "Erling Haaland leads Premier League goalscoring race with 26 goals this season.",
+      "url": "https://www.theguardian.com/p/x386fa",
+      "thumbnail": "https://media.guim.co.uk/dcdad426597084e37fb0bb1e0b633733a176badc/308_0_2046_1638/500.jpg",
+      "published": "2026-05-13T22:35:35Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "business/grogonomics/2026/may/14/cgt-capital-gains-tax-australian-workers-hard-done-by-budget-tax-reforms-fairness",
+      "headline": "Australian workers have been hard done by and tax reforms in the budget only begin to return some fairness",
+      "summary": "Australian budget tax reforms attempt to restore fairness for wage earners versus investment income beneficiaries.",
+      "url": "https://www.theguardian.com/p/x53653",
+      "thumbnail": "https://media.guim.co.uk/5ef4cad0fb323e8b9cfd5fb9a09c5f7c2b7c2179/1150_0_5614_4493/500.jpg",
+      "published": "2026-05-13T22:29:38Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "us-news/2026/may/13/influencer-detained-tennessee-alleged-confrontation-gunfire",
+      "headline": "Influencer detained in Tennessee over alleged confrontation involving gunfire",
+      "summary": "Influencer Chud the Builder detained after alleged shooting outside Tennessee courthouse.",
+      "url": "https://www.theguardian.com/p/x53a28",
+      "thumbnail": "https://media.guim.co.uk/9b847195bfe8d40974a568cf8927917a702ae726/720_0_7200_5760/500.jpg",
+      "published": "2026-05-13T22:29:01Z",
+      "location": {
+        "name": "Clarksville",
+        "lat": 36.5297,
+        "lng": -87.3595
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/may/13/selfless-silva-gives-latest-reminder-of-why-manchester-city-will-miss-him-so-much",
+      "headline": "Selfless Silva gives latest reminder of why Manchester City will miss him so much",
+      "summary": "Bernardo Silva delivers outstanding performance in penultimate Manchester City match before departure.",
+      "url": "https://www.theguardian.com/p/x5378d",
+      "thumbnail": "https://media.guim.co.uk/3a6974b37492840bdd99e9f034284d350570ff6f/321_0_3446_2757/500.jpg",
+      "published": "2026-05-13T22:21:59Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "society/2026/may/13/weight-gain-adulthood-raises-cancer-risk-by-up-to-five-times-research",
+      "headline": "Weight gain as adult increases cancer risk by up to five times, research shows",
+      "summary": "Swedish study of 600,000 patients shows weight gain in adulthood increases cancer risk up to fivefold.",
+      "url": "https://www.theguardian.com/p/x537dd",
+      "thumbnail": "https://media.guim.co.uk/a371bc52675ea30ed059b37dcf088846f600403f/300_0_2957_2365/500.jpg",
+      "published": "2026-05-13T22:01:08Z",
+      "location": {
+        "name": "Stockholm",
+        "lat": 59.3293,
+        "lng": 18.0686
+      },
+      "category": "health",
+      "significance": 3,
+      "section": "society"
+    },
+    {
+      "id": "football/2026/may/13/european-football-khvicha-kvaratskhelia-powers-psg-to-ligue-1-title-at-lens",
+      "headline": "European football: Kvaratskhelia powers PSG to Ligue 1 title at Lens",
+      "summary": "PSG clinches fifth consecutive Ligue 1 title with 2-0 victory over Lens.",
+      "url": "https://www.theguardian.com/p/x53av9",
+      "thumbnail": "https://media.guim.co.uk/0c743d6371344eb8a3e8d104b6755d434c744834/705_0_5687_4548/500.jpg",
+      "published": "2026-05-13T21:56:55Z",
+      "location": {
+        "name": "Paris",
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
     }
   ]
 }
