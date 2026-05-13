@@ -1,76 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-13T22:53:18.858Z",
-    "story_count": 89,
-    "oldest_story": "2026-05-12T23:01:13Z",
-    "newest_story": "2026-05-13T22:36:29Z",
+    "generated_at": "2026-05-13T23:59:11.974Z",
+    "story_count": 88,
+    "oldest_story": "2026-05-13T01:00:12Z",
+    "newest_story": "2026-05-13T23:01:10Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "us-news/2026/may/12/kash-patel-congressional-hearing",
-      "headline": "Kash Patel denies excessive drinking allegations as ‘total farce’ in Senate hearing",
-      "summary": "FBI director Kash Patel denies drinking allegations in Senate hearing amid Democratic scrutiny.",
-      "url": "https://www.theguardian.com/p/x533q9",
-      "thumbnail": "https://media.guim.co.uk/6a73e0ac791bac100561f5c3720aef6754260290/256_0_2553_2043/500.jpg",
-      "published": "2026-05-12T23:27:51Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "environment/2026/may/13/labour-must-fulfil-promise-to-introduce-clean-air-act-charities-urge",
-      "headline": "Labour must fulfil promise to introduce clean air act, charities urge",
-      "summary": "Labour charities urge clean air act with wood burning ban ahead of King's Speech.",
-      "url": "https://www.theguardian.com/p/x5339t",
-      "thumbnail": "https://media.guim.co.uk/9842b09cdc5bee85f2faf612a76190bd7543b35e/366_0_5000_4000/500.jpg",
-      "published": "2026-05-12T23:02:12Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "environment"
-    },
-    {
-      "id": "society/2026/may/13/older-people-risk-mental-decline-if-they-do-long-hours-of-caring-uk-study-shows",
-      "headline": "Older people risk mental decline if they do long hours of caring, UK study shows",
-      "summary": "UK study shows 50+ hours weekly caring causes mental decline in older people.",
-      "url": "https://www.theguardian.com/p/x533hj",
-      "thumbnail": "https://media.guim.co.uk/1ffd1727ef2aedf97634d2c59600e7763cf29429/54_0_3376_2700/500.jpg",
-      "published": "2026-05-12T23:01:13Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "society"
-    },
-    {
-      "id": "news/2026/may/13/three-quarters-uk-millionaires-willing-pay-more-tax-research-finds",
-      "headline": "Three-quarters of UK millionaires would be happy to pay more tax, research finds",
-      "summary": "Three-quarters of UK millionaires willing to pay more tax for public services.",
-      "url": "https://www.theguardian.com/p/x5323a",
-      "thumbnail": "https://media.guim.co.uk/4904db7092674b5b7d5de66b59dfcf51f5141a7f/472_0_4267_3415/500.jpg",
-      "published": "2026-05-12T23:01:13Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "news"
-    },
     {
       "id": "us-news/2026/may/12/trump-news-latest-updates-today",
       "headline": "Trump news at a glance: despite presidential pressure, some Republicans in South Carolina take stand against redistricting",
@@ -1430,6 +1366,54 @@
       "category": "sport",
       "significance": 2,
       "section": "football"
+    },
+    {
+      "id": "environment/2026/may/14/typical-english-roast-dinner-potentially-drenched-in-102-pesticides-says-report",
+      "headline": "Typical English roast dinner potentially ‘drenched’ in 102 pesticides, says report",
+      "summary": "Greenpeace report finds English roast dinners may contain up to 102 pesticides including EU-banned chemicals.",
+      "url": "https://www.theguardian.com/p/x53376",
+      "thumbnail": "https://media.guim.co.uk/0d03d90bf19b6bda46f3e0de52de911dce95b589/126_0_3780_3024/500.jpg",
+      "published": "2026-05-13T23:01:10Z",
+      "location": {
+        "name": "United Kingdom",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "environment"
+    },
+    {
+      "id": "business/2026/may/14/housing-market-in-england-and-wales-weakening-due-to-iran-war-say-estate-agents",
+      "headline": "Housing market in England and Wales weakening due to Iran war, say estate agents",
+      "summary": "England and Wales housing market weakens as Iran conflict triggers mortgage rate and inflation concerns.",
+      "url": "https://www.theguardian.com/p/x536pz",
+      "thumbnail": "https://media.guim.co.uk/3292f81167f9b914510c4388d5d6d87a3d66443b/531_0_4269_3415/500.jpg",
+      "published": "2026-05-13T23:01:10Z",
+      "location": {
+        "name": "United Kingdom",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "society/2026/may/14/nhs-drugs-go-ahead-offers-lifeline-to-children-with-rare-muscle-wasting-disease",
+      "headline": "NHS drugs go-ahead offers lifeline to children with rare muscle-wasting disease",
+      "summary": "NHS approves two drugs for children with rare spinal muscular atrophy disease, offering new treatment hope.",
+      "url": "https://www.theguardian.com/p/x53977",
+      "thumbnail": "https://media.guim.co.uk/4469d7ef4c102c8e0614f2bacdb8ade20255e3d6/0_94_843_674/500.jpg",
+      "published": "2026-05-13T23:01:10Z",
+      "location": {
+        "name": "United Kingdom",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "society"
     }
   ]
 }
