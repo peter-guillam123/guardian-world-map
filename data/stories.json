@@ -1,44 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-12T23:33:46.974Z",
+    "generated_at": "2026-05-13T01:26:24.567Z",
     "story_count": 117,
-    "oldest_story": "2026-05-12T00:41:36Z",
-    "newest_story": "2026-05-12T23:27:51Z",
+    "oldest_story": "2026-05-12T04:00:13Z",
+    "newest_story": "2026-05-13T01:00:15Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "us-news/2026/may/11/california-city-mayor-resigns-foreign-agent-charges",
-      "headline": "Mayor of California city resigns over charges of being a foreign agent of China",
-      "summary": "Mayor of Arcadia, California resigns after being charged with acting as illegal foreign agent for China.",
-      "url": "https://www.theguardian.com/p/x52q2g",
-      "thumbnail": "https://media.guim.co.uk/5826b401a96122bf3b6a513c659029db230167dc/0_220_2667_2132/500.jpg",
-      "published": "2026-05-12T01:22:06Z",
-      "location": {
-        "name": "Arcadia, California",
-        "lat": 34.1899,
-        "lng": -118.0353
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "australia-news/2026/may/12/adf-soldier-dies-parachute-training-jervis-bay",
-      "headline": "Soldier dies during parachute training incident at Jervis Bay – the second such death in two years",
-      "summary": "ADF soldier dies during parachute training at Jervis Bay, second death in two years.",
-      "url": "https://www.theguardian.com/p/x52qcg",
-      "thumbnail": "https://media.guim.co.uk/86e5e61a5db1331102f3d9aae99ea80c97ffce2b/1028_0_5966_4778/500.jpg",
-      "published": "2026-05-12T00:41:36Z",
-      "location": {
-        "name": "Jervis Bay, New South Wales",
-        "lat": -35.3522,
-        "lng": 150.7389
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "australia-news"
-    },
     {
       "id": "world/2026/may/12/teen-bedroom-art-installation-shines-spotlight-on-ukraines-stolen-children",
       "headline": "Teen bedroom art installation shines spotlight on Ukraine’s stolen children",
@@ -1878,6 +1846,38 @@
       "category": "economy",
       "significance": 2,
       "section": "australia-news"
+    },
+    {
+      "id": "us-news/2026/may/12/trump-news-latest-updates-today",
+      "headline": "Trump news at a glance: despite presidential pressure, some Republicans in South Carolina take stand against redistricting",
+      "summary": "Five Republicans join Democrats to reject Trump-backed redistricting proposal in South Carolina.",
+      "url": "https://www.theguardian.com/p/x5325a",
+      "thumbnail": "https://media.guim.co.uk/1c0893ebf6d416b4a305e7ad247a490107a9e697/560_0_5600_4480/500.jpg",
+      "published": "2026-05-13T01:00:15Z",
+      "location": {
+        "name": "South Carolina",
+        "lat": 34.0007,
+        "lng": -81.1637
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "world/2026/may/13/ukraine-war-briefing-deadly-russian-bombing-spree-end-of-ceasefire",
+      "headline": "Ukraine war briefing: Deadly Russian bombing spree marks end of ceasefire",
+      "summary": "Russian bombing kills six in Dnipropetrovsk as three-day ceasefire ends in Ukraine war.",
+      "url": "https://www.theguardian.com/p/x534pc",
+      "thumbnail": "https://media.guim.co.uk/f18cd3660373e0184617b4b523aa28b375234d8a/269_0_2735_2188/500.jpg",
+      "published": "2026-05-13T01:00:12Z",
+      "location": {
+        "name": "Dnipropetrovsk",
+        "lat": 48.4647,
+        "lng": 35.0597
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "world"
     }
   ]
 }
