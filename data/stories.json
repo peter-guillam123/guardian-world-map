@@ -1,268 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-13T13:25:19.487Z",
-    "story_count": 97,
-    "oldest_story": "2026-05-12T14:19:22Z",
-    "newest_story": "2026-05-13T13:16:31Z",
+    "generated_at": "2026-05-13T16:04:11.963Z",
+    "story_count": 100,
+    "oldest_story": "2026-05-12T16:29:02Z",
+    "newest_story": "2026-05-13T16:03:27Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "film/2026/may/12/french-film-risk-from-far-right-juliette-binoche-actors-directors",
-      "headline": "French film industry at risk from the far right, say actors and directors",
-      "summary": "600 French cinema figures warn against far-right influence at Cannes Film Festival.",
-      "url": "https://www.theguardian.com/p/x53267",
-      "thumbnail": "https://media.guim.co.uk/eb9bf8b6c5be9100ed6143e903a2d1ec83032692/0_0_1667_1333/500.jpg",
-      "published": "2026-05-12T15:17:45Z",
-      "location": {
-        "name": "Cannes",
-        "lat": 43.5528,
-        "lng": 7.0174
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "film"
-    },
-    {
-      "id": "media/2026/may/12/bbc-staff-fear-meagre-pay-rise-after-bosses-forgo-own-increase",
-      "headline": "BBC staff fear meagre pay rise after bosses forgo own increase",
-      "summary": "BBC staff fear meagre pay rise after executives forgo increase amid job cuts.",
-      "url": "https://www.theguardian.com/p/x532th",
-      "thumbnail": "https://media.guim.co.uk/1c301ef16e8124515fa6f47a2ff98016f56436cd/338_0_4637_3712/500.jpg",
-      "published": "2026-05-12T15:13:15Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "media"
-    },
-    {
-      "id": "sport/2026/may/12/andy-murray-jack-drapers-coaching-team-wimbledon-tennis",
-      "headline": "Andy Murray returning to tennis on Draper’s coaching team for Wimbledon tilt",
-      "summary": "Andy Murray joins Jack Draper's coaching team for Wimbledon grass-court season.",
-      "url": "https://www.theguardian.com/p/x532zf",
-      "thumbnail": "https://media.guim.co.uk/7ce7ad67c4a664fc89281af4a0a8fde856ec6d60/415_0_4303_3443/500.jpg",
-      "published": "2026-05-12T15:13:09Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "business/2026/may/12/us-inflation-april-iran-war",
-      "headline": "US inflation jumped to 3.8% in April as war with Iran continues to drive up prices",
-      "summary": "US inflation jumps to 3.8% in April as Iran war continues driving up energy prices.",
-      "url": "https://www.theguardian.com/p/x52pag",
-      "thumbnail": "https://media.guim.co.uk/8ff5143dc9941304388d58a08f583b1dc539c76e/373_0_3732_2987/500.jpg",
-      "published": "2026-05-12T15:09:45Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "business"
-    },
-    {
-      "id": "media/2026/may/12/broadcasters-must-react-threat-creator-journalism-says-ex-head-bbc-news",
-      "headline": "Broadcasters must react to threat from ‘creator journalism’, says ex-head of BBC News",
-      "summary": "Former BBC News head warns broadcasters must adapt to threat from creator journalism.",
-      "url": "https://www.theguardian.com/p/x532yh",
-      "thumbnail": "https://media.guim.co.uk/d7c7c7ff728dfdf3a7a2b2b91c865c7307c34659/626_0_3278_2622/500.jpg",
-      "published": "2026-05-12T15:06:15Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "media"
-    },
-    {
-      "id": "culture/2026/may/12/stephen-colbert-trump-statue-iran-peace-plan",
-      "headline": "Stephen Colbert on Trump’s 22ft gold statue at his golf club: ‘recreational idolatry’",
-      "summary": "Stephen Colbert mocks Trump's 22ft gold statue and discusses Iran peace plan.",
-      "url": "https://www.theguardian.com/p/x532dt",
-      "thumbnail": "https://media.guim.co.uk/1368536633867c43b80910b82ca67d93fca14126/481_0_1685_1348/500.jpg",
-      "published": "2026-05-12T15:05:50Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "culture"
-    },
-    {
-      "id": "australia-news/ng-interactive/2026/may/12/complete-2026-australian-budget-choose-news-coverage-that-matters-to-you",
-      "headline": "The complete 2026 Australian budget: choose the news coverage that matters to you",
-      "summary": "Australian 2026 budget covers CGT reform and housing market accessibility changes.",
-      "url": "https://www.theguardian.com/p/x4q5xg",
-      "thumbnail": "https://media.guim.co.uk/30ba06982e6067f9b2e44b65b260a17308125d2e/0_0_1000_800/500.jpg",
-      "published": "2026-05-12T15:00:51Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "culture/2026/may/12/tomorrow-when-the-war-began-2010-australian-teen-movie-classic",
-      "headline": "Tomorrow, When the War Began: a film made in a lab for 2010s Australian teens",
-      "summary": "2010 Australian film 'Tomorrow, When the War Began' examined as teen coming-of-age classic.",
-      "url": "https://www.theguardian.com/p/x5vfxe",
-      "thumbnail": "https://media.guim.co.uk/a1aa454157cc8b295c739d5dee601d5155d43058/182_0_1655_1324/500.jpg",
-      "published": "2026-05-12T15:00:51Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "culture"
-    },
-    {
-      "id": "fashion/ng-interactive/2026/may/13/gothic-is-back-australian-fashion-week-2026-emerging-designers",
-      "headline": "‘Holiday dressing in black’ – why Australian gothic is back in fashion",
-      "summary": "Gothic fashion returns at Australian Fashion Week with emerging female designers.",
-      "url": "https://www.theguardian.com/p/x52qjm",
-      "thumbnail": "https://media.guim.co.uk/12efb8f5c2e4db7f225800923a7fbf510b699071/285_0_10920_8736/500.jpg",
-      "published": "2026-05-12T15:00:50Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "fashion"
-    },
-    {
-      "id": "australia-news/2026/may/13/australia-federal-budget-2026-funding-for-jewish-security-bondi-ntwnfb",
-      "headline": "Budget earmarks more than $600m for Bondi attack response, with half going to Australia’s Jewish community ",
-      "summary": "2026 budget allocates $600m for Bondi attack response, half for Jewish community security.",
-      "url": "https://www.theguardian.com/p/x53xhk",
-      "thumbnail": "https://media.guim.co.uk/4c4fde0f68aa0b39100f5b19630c2f47c3f56a95/41_0_2626_2100/500.jpg",
-      "published": "2026-05-12T15:00:50Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "world/2026/may/12/what-is-hantavirus-why-cruise-passengers-long-quarantine",
-      "headline": "What is hantavirus, and why will cruise passengers spend so long in quarantine?",
-      "summary": "Hantavirus cruise outbreak results in three deaths; 42-day quarantine recommended for passengers.",
-      "url": "https://www.theguardian.com/p/x53vb2",
-      "thumbnail": "https://media.guim.co.uk/08ec5cc3de7ffa93968accb5ed32c1f97a6b3cd8/296_0_2908_2328/500.jpg",
-      "published": "2026-05-12T15:00:50Z",
-      "location": {
-        "name": "Las Palmas",
-        "lat": 28.0469,
-        "lng": -15.5968
-      },
-      "category": "health",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "politics/2026/may/12/labour-mps-sign-statement-against-starmer-leadership-challenge",
-      "headline": "More than 100 Labour MPs sign statement against Starmer leadership challenge",
-      "summary": "Over 100 Labour MPs sign statement backing Starmer amid leadership challenge calls.",
-      "url": "https://www.theguardian.com/p/x532nd",
-      "thumbnail": "https://media.guim.co.uk/d538cdcbce126b9407e0f080351f05f64c3c2830/1701_613_3799_3039/500.jpg",
-      "published": "2026-05-12T15:00:22Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "politics"
-    },
-    {
-      "id": "tv-and-radio/2026/may/12/sam-battle-look-mum-no-computer-uk-eurovision-music-museum",
-      "headline": "Fire up the Furby synth! Meet UK Eurovision entry Look Mum No Computer at his mind-boggling music museum",
-      "summary": "UK Eurovision entry Look Mum No Computer showcases retro music museum and Megadrone synth.",
-      "url": "https://www.theguardian.com/p/x528a8",
-      "thumbnail": "https://media.guim.co.uk/4fc82deb94df3a45f7c4830759c99f1a656f4000/312_0_9375_7500/500.jpg",
-      "published": "2026-05-12T14:42:14Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "tv-and-radio"
-    },
-    {
-      "id": "football/2026/may/12/tottenham-hotspur-relegation-battle-football-daily-newsletter",
-      "headline": "Tottenham’s fabled penchant for self-sabotage is still very much to the fore",
-      "summary": "Tottenham continues relegation battle struggle showing familiar pattern of self-sabotage.",
-      "url": "https://www.theguardian.com/p/x53xn2",
-      "thumbnail": "https://media.guim.co.uk/deb013377c17ddf4a065434b7c8a4d678647deb3/1216_0_6884_5506/500.jpg",
-      "published": "2026-05-12T14:28:10Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "sport/2026/may/12/snookering-you-again-big-break-to-return-with-stephen-hendry-on-trick-shot-duties",
-      "headline": "Snookering you again: Big Break to return with Stephen Hendry on trick-shot duties",
-      "summary": "BBC revives Big Break gameshow after 24 years with Stephen Hendry and Paddy McGuinness.",
-      "url": "https://www.theguardian.com/p/x532df",
-      "thumbnail": "https://media.guim.co.uk/cc03f5fd27672559e7b2f8d02de736e5cee41cf3/172_0_1360_1088/500.jpg",
-      "published": "2026-05-12T14:27:43Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "politics/2026/may/12/rhun-ap-iorwerth-plaid-cymru-sworn-in-as-first-minister-of-wales",
-      "headline": "Plaid Cymru’s Rhun ap Iorwerth voted first minister of Wales",
-      "summary": "Plaid Cymru's Rhun ap Iorwerth becomes First Minister, ending Labour's 100-year Welsh rule.",
-      "url": "https://www.theguardian.com/p/x532be",
-      "thumbnail": "https://media.guim.co.uk/7e025225553ab72bb8c7c0bdb687187b5fd4c81a/465_0_4648_3719/500.jpg",
-      "published": "2026-05-12T14:19:22Z",
-      "location": {
-        "name": "Cardiff",
-        "lat": 51.4816,
-        "lng": -3.1791
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "politics"
-    },
     {
       "id": "uk-news/2026/may/12/police-shoot-man-dead-in-bedford-after-overnight-standoff",
       "headline": "Police shoot man dead in Bedford after overnight standoff",
@@ -1556,6 +1300,310 @@
         "lng": -2.2426
       },
       "category": "culture",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "politics/2026/may/13/nigel-farage-inquiry-gift-crypto-billionaire-reform-uk-christopher-harborne",
+      "headline": "Nigel Farage faces inquiry over £5m gift from crypto billionaire",
+      "summary": "Nigel Farage faces parliamentary standards inquiry over undeclared £5m crypto billionaire gift.",
+      "url": "https://www.theguardian.com/p/x52mk4",
+      "thumbnail": "https://media.guim.co.uk/91b28fe594c9aa41c089de3daf4afc1b38ecd505/598_0_2990_2392/500.jpg",
+      "published": "2026-05-13T16:03:27Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "politics"
+    },
+    {
+      "id": "society/2026/may/13/one-in-seven-prefer-ai-chatbots-to-seeing-doctor-uk-study",
+      "headline": "One in seven prefer consulting AI chatbots to seeing a doctor, UK study shows",
+      "summary": "UK study finds one in seven people prefer AI chatbots to GPs for medical advice.",
+      "url": "https://www.theguardian.com/p/x536td",
+      "thumbnail": "https://media.guim.co.uk/afbfee4ff0412a020c6abe8ab5b6bd254f59748f/484_0_6880_5504/500.jpg",
+      "published": "2026-05-13T15:55:17Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "society"
+    },
+    {
+      "id": "politics/2026/may/13/eu-proposal-cross-border-europe-train-bookings",
+      "headline": "EU proposes end to ‘five tabs, three apps and a prayer’ for cross-border train bookings ",
+      "summary": "EU proposes unified cross-border train ticketing system across multiple European operators.",
+      "url": "https://www.theguardian.com/p/x537fd",
+      "thumbnail": "https://media.guim.co.uk/85443aa8501f81b00697de6765c457748b84fdd5/288_0_3539_2832/500.jpg",
+      "published": "2026-05-13T15:49:11Z",
+      "location": {
+        "name": "Brussels",
+        "lat": 50.8503,
+        "lng": 4.3517
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "world/2026/may/13/magnus-walrus-scotland-norway",
+      "headline": "Magnus the wandering walrus leaves Scotland for Norway",
+      "summary": "Magnus the walrus departs Scotland for Norway after 400-mile North Sea swim.",
+      "url": "https://www.theguardian.com/p/x538xd",
+      "thumbnail": "https://media.guim.co.uk/6c8923892fff0326e0017fbe821a0b3ce7656b00/147_20_3923_3138/500.jpg",
+      "published": "2026-05-13T15:39:25Z",
+      "location": {
+        "name": "Orkney",
+        "lat": 59,
+        "lng": -2.8
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "world"
+    },
+    {
+      "id": "us-news/2026/may/13/man-arrested-rock-singer-death-1993",
+      "headline": "US man accused of killing rock singer in 1993 arrested after decades on the run",
+      "summary": "US man arrested in Panama for 1993 rock singer murder after 30+ years fugitive.",
+      "url": "https://www.theguardian.com/p/x538ad",
+      "thumbnail": "https://media.guim.co.uk/f2a6c6d1d055890e22c466c5eee5fbff88ca99da/371_0_3713_2971/500.jpg",
+      "published": "2026-05-13T15:34:08Z",
+      "location": {
+        "name": "Panama",
+        "lat": 8.9824,
+        "lng": -79.5199
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "politics/2026/may/13/the-key-questions-for-nigel-farage-over-5m-gift-from-crypto-billionaire",
+      "headline": "The key questions for Nigel Farage over £5m gift from crypto-billionaire",
+      "summary": "Analysis of key questions surrounding Nigel Farage's £5m crypto gift declaration.",
+      "url": "https://www.theguardian.com/p/x52n79",
+      "thumbnail": "https://media.guim.co.uk/abc91ea6c0b9a47b74af8d7476dd17ef6832e1a7/497_73_4645_3718/500.jpg",
+      "published": "2026-05-13T15:13:40Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "politics"
+    },
+    {
+      "id": "world/2026/may/13/marine-le-pen-party-national-rally-kylian-mbappe-criticism",
+      "headline": "Marine Le Pen’s party hits back at Kylian Mbappé comments",
+      "summary": "Marine Le Pen's far-right party responds to Kylian Mbappé's concerns about election.",
+      "url": "https://www.theguardian.com/p/x5387f",
+      "thumbnail": "https://media.guim.co.uk/37d40aca36282b282a6aa78f455e861cb4313768/81_1_2766_2212/500.jpg",
+      "published": "2026-05-13T15:08:46Z",
+      "location": {
+        "name": "Paris",
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "culture/2026/may/13/stephen-colbert-trump-social-media-rant",
+      "headline": "Stephen Colbert on Trump’s social media rants: ‘A waterfall of paranoid madness’",
+      "summary": "Late-night hosts critique Trump's social media activity and economic management.",
+      "url": "https://www.theguardian.com/p/x537qd",
+      "thumbnail": "https://media.guim.co.uk/7237216fa6061ee257b57a8698e17677d356d748/36_0_1340_1072/500.jpg",
+      "published": "2026-05-13T15:03:16Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "culture"
+    },
+    {
+      "id": "sport/2026/may/13/australian-nba-star-dyson-daniels-on-his-breakout-season-missing-three-pointers-and-investing-tips",
+      "headline": "Australian NBA star Dyson Daniels on his breakout season, missing three-pointers… and investing tips",
+      "summary": "Australian NBA star Dyson Daniels discusses Hawks breakout season performance.",
+      "url": "https://www.theguardian.com/p/x536tk",
+      "thumbnail": "https://media.guim.co.uk/542b365b878bb130c0007e1c3eca9f13a15cf524/57_0_1997_1598/500.jpg",
+      "published": "2026-05-13T15:01:45Z",
+      "location": {
+        "name": "Atlanta",
+        "lat": 33.749,
+        "lng": -84.388
+      },
+      "category": "sport",
+      "significance": 1,
+      "section": "sport"
+    },
+    {
+      "id": "us-news/2026/may/13/alex-murdaugh-murder-convictions-overturned",
+      "headline": "Alex Murdaugh’s murder convictions overturned by South Carolina supreme court",
+      "summary": "South Carolina court overturns Alex Murdaugh murder convictions due to jury interference.",
+      "url": "https://www.theguardian.com/p/x538cf",
+      "thumbnail": "https://media.guim.co.uk/b3bb000ca6d19370517a4e30fe416ba0ee70916e/227_0_1666_1333/500.jpg",
+      "published": "2026-05-13T15:00:42Z",
+      "location": {
+        "name": "South Carolina",
+        "lat": 34.0007,
+        "lng": -81.0348
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "film/2026/may/14/life-could-be-a-dream-film-movie-review",
+      "headline": "Life Could Be a Dream review – a powerful, polished Australian film about domestic abuse",
+      "summary": "Australian film 'Life Could Be a Dream' examines domestic abuse through mother-son story.",
+      "url": "https://www.theguardian.com/p/x53vbg",
+      "thumbnail": "https://media.guim.co.uk/0f1c6f3647c9a0769e6dfee4cab42d3343aca1a6/752_54_2573_2058/500.jpg",
+      "published": "2026-05-13T15:00:04Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "film"
+    },
+    {
+      "id": "fashion/2026/may/14/australian-fashion-week-welcomes-a-new-wave-of-maturity-landing-on-the-industrys-runways",
+      "headline": "Australian fashion week welcomes a new wave of maturity landing on the industry’s runways",
+      "summary": "Australian Fashion Week showcases increased visibility of older women on runways.",
+      "url": "https://www.theguardian.com/p/x53v4v",
+      "thumbnail": "https://media.guim.co.uk/50bb914cb27cf05e573bfedb1ef1f0c050b02214/311_0_3600_2880/500.jpg",
+      "published": "2026-05-13T15:00:03Z",
+      "location": {
+        "name": "Melbourne",
+        "lat": -37.8136,
+        "lng": 144.9631
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "fashion"
+    },
+    {
+      "id": "news/2026/may/14/palestinian-peak-body-refused-leave-appear-at-royal-commission-antisemitism-social-cohesion-ntwnfb",
+      "headline": "Palestinian peak body refused leave to appear at royal commission on antisemitism and social cohesion ",
+      "summary": "Palestinian advocacy group excluded from Australian royal commission on antisemitism.",
+      "url": "https://www.theguardian.com/p/x535je",
+      "thumbnail": "https://media.guim.co.uk/d84579fd692e6a065e1f80f9cbe0875d74ac0f4d/785_0_5639_4511/500.jpg",
+      "published": "2026-05-13T15:00:03Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "news"
+    },
+    {
+      "id": "australia-news/2026/may/14/has-labor-killed-rentvesting-housing-australia-capital-gains-tax-negative-gearing-reform",
+      "headline": "Has Labor’s tax reform killed ‘rent-vesting’ for young Australians seeking a foothold in the housing market?",
+      "summary": "Labor's tax reforms may eliminate 'rent-vesting' strategy for young Australian homebuyers.",
+      "url": "https://www.theguardian.com/p/x535vq",
+      "thumbnail": "https://media.guim.co.uk/52df7a24737e7e3572cb6a647c58206bc15b6383/399_0_4680_3746/500.jpg",
+      "published": "2026-05-13T15:00:03Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "australia-news/2026/may/14/man-dies-long-bay-sydney-prison-watchdog-wanted-shut",
+      "headline": "Man dies in Sydney prison unit that watchdog wanted shut down because it ‘cannot provide a safe environment’",
+      "summary": "19-year-old inmate dies in Sydney prison unit previously flagged as unsafe by watchdog.",
+      "url": "https://www.theguardian.com/p/x53vzy",
+      "thumbnail": "https://media.guim.co.uk/641c17fa0fa988b8fe0d3958f55f49e3a9450372/527_0_3920_3136/500.jpg",
+      "published": "2026-05-13T15:00:03Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "environment/2026/may/14/wa-western-australia-climate-targets-at-risk",
+      "headline": "New revelations show WA is putting Australia’s climate targets at risk. Will Anthony Albanese do anything about it?",
+      "summary": "Western Australia's climate policies threaten Australia's federal climate targets, analysis reveals.",
+      "url": "https://www.theguardian.com/p/x532vq",
+      "thumbnail": "https://media.guim.co.uk/a30d25f486525ebee6f28648c75bf91489dba2e7/358_22_3105_2485/500.jpg",
+      "published": "2026-05-13T15:00:02Z",
+      "location": {
+        "name": "Perth",
+        "lat": -31.9505,
+        "lng": 115.8605
+      },
+      "category": "climate",
+      "significance": 3,
+      "section": "environment"
+    },
+    {
+      "id": "artanddesign/2026/may/14/2026-archibald-prize-runners-up-portraits-didnt-make-cut",
+      "headline": "Think you have strong opinions about the 2026 Archibald prize? Check out the portraits that didn’t make the cut",
+      "summary": "2026 Archibald Prize runner-up portraits display diverse artistic vision rejected by judges.",
+      "url": "https://www.theguardian.com/p/x53v64",
+      "thumbnail": "https://media.guim.co.uk/609aeb1bbc03b8f6b267102018ea7d7f30a2e030/111_0_6880_5504/500.jpg",
+      "published": "2026-05-13T15:00:02Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "artanddesign"
+    },
+    {
+      "id": "australia-news/2026/may/13/why-budget-rhetoric-wont-match-reality-for-many-younger-australians",
+      "headline": "Why budget rhetoric won’t match reality for many younger Australians ",
+      "summary": "Budget tax reforms favour older Australians over younger generation despite fairness claims.",
+      "url": "https://www.theguardian.com/p/x5374j",
+      "thumbnail": "https://media.guim.co.uk/b910c50614324ad60a763066cd494184b879e9e4/383_0_6880_5504/500.jpg",
+      "published": "2026-05-13T15:00:01Z",
+      "location": {
+        "name": "Canberra",
+        "lat": -35.2809,
+        "lng": 149.13
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "world/2026/may/13/china-court-awards-compensation-sacked-worker-replaced-by-ai",
+      "headline": "Chinese court awards compensation to sacked worker replaced by AI",
+      "summary": "Chinese court awards £28k compensation to worker replaced by AI, balancing innovation with job security.",
+      "url": "https://www.theguardian.com/p/x537th",
+      "thumbnail": "https://media.guim.co.uk/13a6102d7aa5db9a583656d45a2598be578f4cc8/913_0_5000_4000/500.jpg",
+      "published": "2026-05-13T14:58:57Z",
+      "location": {
+        "name": "Hangzhou",
+        "lat": 30.2741,
+        "lng": 120.1551
+      },
+      "category": "tech",
       "significance": 2,
       "section": "world"
     }
