@@ -1,236 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-13T11:01:15.808Z",
-    "story_count": 103,
-    "oldest_story": "2026-05-12T11:23:39Z",
-    "newest_story": "2026-05-13T11:00:13Z",
+    "generated_at": "2026-05-13T13:25:19.487Z",
+    "story_count": 97,
+    "oldest_story": "2026-05-12T14:19:22Z",
+    "newest_story": "2026-05-13T13:16:31Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "us-news/live/2026/may/12/donald-trump-china-iran-redistricting-jeffrey-epstein-latest-news-updates",
-      "headline": "Trump to head to China for high-stakes talks with Xi – US politics live",
-      "summary": "Trump to hold high-stakes talks with Xi amid trade truce and tensions over Iran, Taiwan, supply chains.",
-      "url": "https://www.theguardian.com/p/x53xyx",
-      "thumbnail": "https://media.guim.co.uk/fe6ebccf25d5863b84326776eb30f2a28693dab4/407_0_3323_2659/500.jpg",
-      "published": "2026-05-12T12:20:12Z",
-      "location": {
-        "name": "Beijing",
-        "lat": 39.9042,
-        "lng": 116.4074
-      },
-      "category": "politics",
-      "significance": 4,
-      "section": "us-news"
-    },
-    {
-      "id": "music/2026/may/12/cesaria-evora-cape-verdean-singer-miss-perfumado",
-      "headline": "‘We must keep her name alive’: Cesária Évora, the captivating Cape Verdean who went from restaurant singer to global star",
-      "summary": "Cape Verdean singer Cesária Évora celebrated for global success with morna ballads after lifetime of poverty.",
-      "url": "https://www.theguardian.com/p/x5226a",
-      "thumbnail": "https://media.guim.co.uk/76aeec6e0d84813ac616fcfe6527a7e34bbbfda5/185_109_1098_879/500.jpg",
-      "published": "2026-05-12T12:15:46Z",
-      "location": {
-        "name": "Cape Verde",
-        "lat": 16.7329,
-        "lng": -23.6345
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "music"
-    },
-    {
-      "id": "science/2026/may/12/lord-hunt-of-chesterton-obituary",
-      "headline": "Lord Hunt of Chesterton obituary",
-      "summary": "Met Office director Lord Hunt studied turbulence after Ferrybridge power station cooling tower collapse in 1965.",
-      "url": "https://www.theguardian.com/p/x532vg",
-      "thumbnail": "https://media.guim.co.uk/e333f0cb46d4d29ee3f2a8b1244eadfe92773792/316_0_4245_3398/500.jpg",
-      "published": "2026-05-12T12:14:12Z",
-      "location": {
-        "name": "West Yorkshire",
-        "lat": 53.7315,
-        "lng": -1.5197
-      },
-      "category": "other",
-      "significance": 1,
-      "section": "science"
-    },
-    {
-      "id": "sport/2026/may/12/rugby-sevens-star-kevin-wekesa-i-am-not-blaming-europeans-but-i-must-highlight-climate-injustices",
-      "headline": "Rugby sevens star Kevin Wekesa: ‘I am not blaming Europeans but I must highlight climate injustices’",
-      "summary": "Rugby sevens star Kevin Wekesa advocates for climate justice and sport's carbon footprint reduction.",
-      "url": "https://www.theguardian.com/p/x52nmk",
-      "thumbnail": "https://media.guim.co.uk/b6ab9df4601b592ba8c1cf398bffbbe1c80403fb/397_0_2662_2129/500.jpg",
-      "published": "2026-05-12T12:11:34Z",
-      "location": {
-        "name": "Kenya",
-        "lat": -0.0236,
-        "lng": 37.9062
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "commentisfree/2026/may/12/supreme-court-citizens-united-voting",
-      "headline": "The supreme court’s takedown of American democracy is complete",
-      "summary": "Analysis warns Supreme Court's Citizens United ruling dismantled American democracy and majority rule.",
-      "url": "https://www.theguardian.com/p/x52a5n",
-      "thumbnail": "https://media.guim.co.uk/d30da648a981e4994c6b2873311583448cb39efa/333_0_3333_2667/500.jpg",
-      "published": "2026-05-12T12:00:46Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "commentisfree"
-    },
-    {
-      "id": "us-news/2026/may/12/fentanyl-test-strips-samhsa-funding",
-      "headline": "Trump’s sudden cut in substance testing is ‘going to kill people’, experts warn",
-      "summary": "Trump administration restricts federal funding for fentanyl test strips, experts warn of fatal consequences.",
-      "url": "https://www.theguardian.com/p/x5xzgt",
-      "thumbnail": "https://media.guim.co.uk/8e9cf04f6c153c562b7ffd010013fe38b66843c3/252_0_2495_1996/500.jpg",
-      "published": "2026-05-12T12:00:46Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "health",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/may/12/trump-rollback-eto-pollution-epa",
-      "headline": "Trump’s rollback of toxic gas rules limits EPA’s authority to protect public health, analysis says",
-      "summary": "Trump rollback of ethylene oxide pollution rules limits EPA authority to protect public health.",
-      "url": "https://www.theguardian.com/p/x528dt",
-      "thumbnail": "https://media.guim.co.uk/b8b64494685d3e214c351bca28f6ea0744886de4/760_0_6600_5282/500.jpg",
-      "published": "2026-05-12T12:00:46Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/may/12/first-thing-democrats-grave-concerns-secretive-ice-deportation-flights",
-      "headline": "First Thing: Democrats express ‘grave concerns’ over secretive ICE deportation flights",
-      "summary": "House Democrats express grave concerns over Trump administration's secretive ICE deportation flights.",
-      "url": "https://www.theguardian.com/p/x53x28",
-      "thumbnail": "https://media.guim.co.uk/8a20ccf6e6158138b7be8c959b2e1860c4feb252/0_0_1280_1024/500.jpg",
-      "published": "2026-05-12T11:54:36Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "football/2026/may/12/world-cup-2026-pundits-bbc-itv-thomas-frank-ange-postecoglou",
-      "headline": "Frank and Postecoglou going head to head as BBC and ITV pundits for World Cup",
-      "summary": "Former Tottenham managers Frank and Postecoglou to serve as rival World Cup pundits for BBC and ITV.",
-      "url": "https://www.theguardian.com/p/x53xq5",
-      "thumbnail": "https://media.guim.co.uk/1050a5ed6b2e40b90b32916db6eded7e06610fea/0_67_2454_1963/500.jpg",
-      "published": "2026-05-12T11:45:49Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "politics/2026/may/12/tony-worthington-obituary",
-      "headline": "Tony Worthington obituary",
-      "summary": "Labour MP Tony Worthington, Northern Ireland minister during Good Friday agreement, dies aged 84.",
-      "url": "https://www.theguardian.com/p/x52zty",
-      "thumbnail": "https://media.guim.co.uk/316d41006a6b3880f47ba5c4e953d4b1b221363e/497_0_4968_3974/500.jpg",
-      "published": "2026-05-12T11:45:38Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 1,
-      "section": "politics"
-    },
-    {
-      "id": "politics/2026/may/12/labour-mp-seat-burnham-allies-not-stand-aside-marie-rimmer",
-      "headline": "Burnham allies warn against quick ‘coronation’ of Streeting if Starmer quits",
-      "summary": "Burnham allies warn against quick Streeting coronation if Starmer quits Labour leadership.",
-      "url": "https://www.theguardian.com/p/x53x83",
-      "thumbnail": "https://media.guim.co.uk/ce5a9745954fde232c7564f234e2cbb20a871972/361_62_1459_1167/500.jpg",
-      "published": "2026-05-12T11:35:00Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4808,
-        "lng": -2.2426
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "politics"
-    },
-    {
-      "id": "commentisfree/2026/may/12/andy-burnham-labour-reform-prime-minister-greater-manchester-mayor-westminster",
-      "headline": "Andy Burnham can save Labour and defeat Reform. He should be the next prime minister",
-      "summary": "Columnist argues Greater Manchester mayor Burnham should become next Labour PM to defeat Reform.",
-      "url": "https://www.theguardian.com/p/x53x6c",
-      "thumbnail": "https://media.guim.co.uk/a8fa0ba8115d3b0d63b8444ec133c7afd83678d3/0_0_4583_3667/500.jpg",
-      "published": "2026-05-12T11:31:52Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4808,
-        "lng": -2.2426
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "commentisfree"
-    },
-    {
-      "id": "law/2026/may/12/palestine-action-trial-lawyer-wins-appeal-contempt-court-charge",
-      "headline": "Palestine Action trial lawyer wins appeal against contempt of court charge",
-      "summary": "Lawyer Rajiv Menon KC wins appeal against contempt of court charge from Palestine Action trial.",
-      "url": "https://www.theguardian.com/p/x53xkj",
-      "thumbnail": "https://media.guim.co.uk/6c3fe2b422002e81586155c32ffec772e1eeded5/383_469_4388_3512/500.jpg",
-      "published": "2026-05-12T11:24:59Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 1,
-      "section": "law"
-    },
-    {
-      "id": "world/2026/may/12/israel-special-tribunal-death-penalty-7-october-attack",
-      "headline": "Israeli MPs back special tribunal with death penalty powers for alleged 7 October attackers",
-      "summary": "Israeli parliament approves special tribunal with death penalty for 7 October Hamas attack suspects.",
-      "url": "https://www.theguardian.com/p/x53xyz",
-      "thumbnail": "https://media.guim.co.uk/d4478665df576dd167b70ac0c6d065c92b8402c5/885_0_6827_5464/500.jpg",
-      "published": "2026-05-12T11:23:39Z",
-      "location": {
-        "name": "Israel",
-        "lat": 31.7683,
-        "lng": 35.2137
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
     {
       "id": "film/2026/may/12/french-film-risk-from-far-right-juliette-binoche-actors-directors",
       "headline": "French film industry at risk from the far right, say actors and directors",
@@ -1654,6 +1430,134 @@
       "category": "sport",
       "significance": 1,
       "section": "sport"
+    },
+    {
+      "id": "sport/live/2026/may/13/england-v-new-zealand-second-womens-one-day-international-live",
+      "headline": "England v New Zealand: start of second women’s cricket ODI delayed by rain – live",
+      "summary": "England v New Zealand women's cricket ODI delayed by rain at Northampton.",
+      "url": "https://www.theguardian.com/p/x53xcb",
+      "thumbnail": "https://media.guim.co.uk/5aa92e316c3e62e3fb43f79d6397cbab6f15086c/0_0_5000_4000/500.jpg",
+      "published": "2026-05-13T13:16:31Z",
+      "location": {
+        "name": "Northampton",
+        "lat": 52.2394,
+        "lng": -0.8952
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "world/2026/may/13/russia-targets-ukraine-with-more-than-200-drones-in-daytime-assault",
+      "headline": "Russia targets Ukraine with more than 200 drones in daytime assault",
+      "summary": "Russia launches 200+ drone attack on Ukraine amid ceasefire breakdown and Trump peace claims.",
+      "url": "https://www.theguardian.com/p/x537ef",
+      "thumbnail": "https://media.guim.co.uk/59e6389a375fcae6d03c9821f6dccd14636636ac/668_0_3519_2817/500.jpg",
+      "published": "2026-05-13T13:07:13Z",
+      "location": {
+        "name": "Ukraine",
+        "lat": 48.3794,
+        "lng": 31.1656
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "capture-more-with-samsung/2026/may/13/how-ai-phone-cameras-are-changing-content-creation-for-gamers",
+      "headline": "I’m a gaming influencer – and this AI-powered phone camera is changing the way I create content",
+      "summary": "Trump lands in Beijing for high-stakes summit with Xi Jinping on trade, AI and Taiwan.",
+      "url": "https://www.theguardian.com/p/x4pzvz",
+      "thumbnail": "https://media.guim.co.uk/eaf27c8d198f69e98c9bd7c4104c0dc921c2aaf2/590_55_2877_2302/500.jpg",
+      "published": "2026-05-13T12:58:08Z",
+      "location": {
+        "name": "Beijing",
+        "lat": 39.9042,
+        "lng": 116.4074
+      },
+      "category": "politics",
+      "significance": 4,
+      "section": "capture-more-with-samsung"
+    },
+    {
+      "id": "world/2026/may/13/trump-china-summit-xi-jinping-talks",
+      "headline": "Trump lands in China for high-stakes summit with Xi Jinping, as Iran war looms over talks",
+      "summary": "Kyle Diamantas becomes acting FDA commissioner after Trump appoints ex-corporate lawyer.",
+      "url": "https://www.theguardian.com/p/x53566",
+      "thumbnail": "https://media.guim.co.uk/b54e53550ab91876a33194fd284a7786f5bd1832/456_0_6278_5023/500.jpg",
+      "published": "2026-05-13T12:38:34Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "us-news/2026/may/13/kyle-diamantas-new-acting-fda-commissioner",
+      "headline": "What to know about Kyle Diamantas, the new acting FDA commissioner",
+      "summary": "Beijing tightens security for Trump visit amid scepticism over US-China relations.",
+      "url": "https://www.theguardian.com/p/x535ge",
+      "thumbnail": "https://media.guim.co.uk/44ea29ab012089428a2b2c8b808a2641ae929b8b/0_66_900_720/500.jpg",
+      "published": "2026-05-13T12:35:56Z",
+      "location": {
+        "name": "Beijing",
+        "lat": 39.9042,
+        "lng": 116.4074
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "world/2026/may/13/trump-visit-beijing-china-scepticism-security",
+      "headline": "Scepticism and tight security as Beijing braces for Trump visit",
+      "summary": "Coalition proposes linking immigration limits to new housing builds in budget reply.",
+      "url": "https://www.theguardian.com/p/x536mg",
+      "thumbnail": "https://media.guim.co.uk/649a56ef85f3057c20b720a12c018c8ea4ee7194/816_0_5013_4009/500.jpg",
+      "published": "2026-05-13T12:30:01Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "australia-news/2026/may/13/coalition-immigration-policy-housing-budget-reply-angus-taylor",
+      "headline": "Coalition to link immigration limits to new builds as Taylor says ‘migration has run miles ahead of housing’",
+      "summary": "Gunshots fired in Philippine senate as ICC-wanted senator Ronald dela Rosa evades arrest.",
+      "url": "https://www.theguardian.com/p/x536f6",
+      "thumbnail": "https://media.guim.co.uk/337dc21629c3bd5c1f9d10d0d627268540cdc7b8/295_0_2953_2362/500.jpg",
+      "published": "2026-05-13T12:30:00Z",
+      "location": {
+        "name": "Manila",
+        "lat": 14.5995,
+        "lng": 120.9842
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "australia-news"
+    },
+    {
+      "id": "world/2026/may/13/gunshots-philippines-senate-senator-ronald-dela-rosa",
+      "headline": "Gunshots in Philippines senate where senator is holed up to evade arrest",
+      "summary": "ENO Manchester debut features Angel's Bone, Du Yun's unsettling human trafficking allegory.",
+      "url": "https://www.theguardian.com/p/x537k9",
+      "thumbnail": "https://media.guim.co.uk/06f88af2b3c4aabc93fb9fdfe9982717bae809a2/409_0_3013_2411/500.jpg",
+      "published": "2026-05-13T12:23:09Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "world"
     }
   ]
 }
