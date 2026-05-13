@@ -1,268 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-13T16:04:11.963Z",
-    "story_count": 100,
-    "oldest_story": "2026-05-12T16:29:02Z",
-    "newest_story": "2026-05-13T16:03:27Z",
+    "generated_at": "2026-05-13T18:11:26.092Z",
+    "story_count": 94,
+    "oldest_story": "2026-05-12T18:14:51Z",
+    "newest_story": "2026-05-13T18:08:29Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "uk-news/2026/may/12/police-shoot-man-dead-in-bedford-after-overnight-standoff",
-      "headline": "Police shoot man dead in Bedford after overnight standoff",
-      "summary": "Man shot dead by police after barricading himself in Bedford home overnight.",
-      "url": "https://www.theguardian.com/p/x533ct",
-      "thumbnail": "https://media.guim.co.uk/41f07c9a72f54a4f47459d8dbf0d402bd7d57a60/601_0_6014_4811/500.jpg",
-      "published": "2026-05-12T17:32:33Z",
-      "location": {
-        "name": "Bedford",
-        "lat": 52.1356,
-        "lng": -0.4613
-      },
-      "category": "conflict",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "football/live/2026/may/12/southampton-v-middlesbrough-championship-playoff-semi-final-second-leg-live",
-      "headline": "Southampton v Middlesbrough: Championship playoff semi-final, second leg – live",
-      "summary": "Southampton face Middlesbrough in Championship playoff semi-final second leg at St Mary's.",
-      "url": "https://www.theguardian.com/p/x52hze",
-      "thumbnail": "https://media.guim.co.uk/ff3ed7813cdd11b4fd6b3c2e4f211886b4d0b84f/271_0_3897_3119/500.jpg",
-      "published": "2026-05-12T17:30:06Z",
-      "location": {
-        "name": "Southampton",
-        "lat": 50.9061,
-        "lng": -1.3911
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "us-news/2026/may/12/north-carolina-state-commencement-speaker-paying-off-student-loans",
-      "headline": "US university’s commencement speaker reveals he will pay off students’ final-year loans",
-      "summary": "NC State commencement speaker pledges to pay off textile graduates' final-year student loans.",
-      "url": "https://www.theguardian.com/p/x533ak",
-      "thumbnail": "https://media.guim.co.uk/7648f5b0c7f80b1b09449476f85b3bf50db0f677/303_0_1407_1126/500.jpg",
-      "published": "2026-05-12T17:24:26Z",
-      "location": {
-        "name": "Raleigh",
-        "lat": 35.7796,
-        "lng": -78.6382
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "education/2026/may/12/thousands-of-university-of-nottingham-staff-told-they-are-at-risk-of-redundancy",
-      "headline": "Thousands of University of Nottingham staff told they are at risk of redundancy",
-      "summary": "University of Nottingham notifies 2,700 staff of redundancy risk due to financial crisis by 2031.",
-      "url": "https://www.theguardian.com/p/x5336a",
-      "thumbnail": "https://media.guim.co.uk/0bdba4b506c225e0099bf1f1eee047b31535d1dd/436_0_3767_3012/500.jpg",
-      "published": "2026-05-12T17:21:36Z",
-      "location": {
-        "name": "Nottingham",
-        "lat": 52.9355,
-        "lng": -1.1881
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "education"
-    },
-    {
-      "id": "film/2026/may/12/film-world-must-not-resist-artificial-intelligence-demi-moore",
-      "headline": "Film industry cannot fight rise of artificial intelligence, says Demi Moore",
-      "summary": "Demi Moore urges film industry to embrace AI rather than resist it at Cannes Film Festival.",
-      "url": "https://www.theguardian.com/p/x5338g",
-      "thumbnail": "https://media.guim.co.uk/693eec11e4bc3c039912ea238a77a5110763560e/427_0_4535_3628/500.jpg",
-      "published": "2026-05-12T17:20:17Z",
-      "location": {
-        "name": "Cannes",
-        "lat": 43.5528,
-        "lng": 7.0176
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "film"
-    },
-    {
-      "id": "education/2026/may/12/robert-smith-obituary",
-      "headline": "Robert Smith obituary",
-      "summary": "Obituary: Robert Smith, Imperial College pharmacology professor, dies aged 92.",
-      "url": "https://www.theguardian.com/p/x5vtth",
-      "thumbnail": "https://media.guim.co.uk/db900e527731736d917a26f453b584bb19fb1597/0_623_2913_2329/500.jpg",
-      "published": "2026-05-12T17:09:58Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "health",
-      "significance": 1,
-      "section": "education"
-    },
-    {
-      "id": "football/2026/may/12/arsenal-ben-white-to-miss-remainder-of-season-and-world-cup-with-knee-injury",
-      "headline": "Arsenal’s Ben White ruled out for rest of season and facing World Cup woe",
-      "summary": "Arsenal defender Ben White ruled out for season and faces World Cup woe with knee injury.",
-      "url": "https://www.theguardian.com/p/x53396",
-      "thumbnail": "https://media.guim.co.uk/4e9fbde20f7ed0a7f76b30b121616e8776bb6682/418_0_4026_3221/500.jpg",
-      "published": "2026-05-12T16:56:39Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "politics/2026/may/12/agendas-labour-mps-calling-for-starmer-to-step-down",
-      "headline": "What are the agendas of Labour MPs calling for Starmer to step down?",
-      "summary": "Over 80 Labour MPs call for PM Starmer to step down following disappointing May election results.",
-      "url": "https://www.theguardian.com/p/x533xd",
-      "thumbnail": "https://media.guim.co.uk/aec002797933d0c98cd9239a5d0e4563e4bbd5ec/776_0_3880_3104/500.jpg",
-      "published": "2026-05-12T16:51:18Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "politics"
-    },
-    {
-      "id": "us-news/2026/may/12/nebraska-house-senate-democratic-primary-election",
-      "headline": "Nebraskans head to the polls as Democrats vote in primaries ahead of House and Senate races",
-      "summary": "Nebraska Democrats hold primaries for House and Senate races with GOP seat potentially flipping.",
-      "url": "https://www.theguardian.com/p/x52pe8",
-      "thumbnail": "https://media.guim.co.uk/7fd513beaeea1dbdda6683e56e815a308f970cfe/0_0_1800_1440/500.jpg",
-      "published": "2026-05-12T16:48:55Z",
-      "location": {
-        "name": "Lincoln",
-        "lat": 40.8258,
-        "lng": -96.6852
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "world/2026/may/12/russian-ship-ursa-major-sank-spain-nuclear-reactors-north-korea",
-      "headline": "Russian ship that sank near Spain may have been carrying nuclear reactors to North Korea ",
-      "summary": "Russian cargo ship Ursa Major may have carried nuclear reactors to North Korea before sinking.",
-      "url": "https://www.theguardian.com/p/x532hy",
-      "thumbnail": "https://media.guim.co.uk/faadbfc2187e62e8da819cd2ab2e5b80f58020a3/246_0_4386_3511/500.jpg",
-      "published": "2026-05-12T16:44:27Z",
-      "location": {
-        "name": "Spain",
-        "lat": 40.4637,
-        "lng": -3.7492
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "world/2026/may/12/bosnia-and-herzegovina-vulnerable-policy-clash-us-representative-says",
-      "headline": "Bosnia and Herzegovina left vulnerable by policy clash with US, representative says",
-      "summary": "UN official warns Bosnia faces destruction from US-Russia policy clash over Trump business interests.",
-      "url": "https://www.theguardian.com/p/x53xx6",
-      "thumbnail": "https://media.guim.co.uk/867548fbe9e08e1c81d8c1f784a78f6b73263b61/29_241_3099_2480/500.jpg",
-      "published": "2026-05-12T16:40:41Z",
-      "location": {
-        "name": "Sarajevo",
-        "lat": 43.8564,
-        "lng": 18.4131
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "world/2026/may/12/uae-secret-attack-iran-risks-gulf-states-regional-conflict",
-      "headline": "UAE’s secret attack on Iran risks drawing Gulf states into the war",
-      "summary": "UAE's secret attack on Iran risks escalating Gulf state involvement in regional conflict.",
-      "url": "https://www.theguardian.com/p/x532qc",
-      "thumbnail": "https://media.guim.co.uk/98b3d774a2b260543f941470e1e0b3fb0d5f31ba/341_0_3936_3149/500.jpg",
-      "published": "2026-05-12T16:37:27Z",
-      "location": {
-        "name": "Dubai",
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "politics/2026/may/12/are-working-class-voters-lost-to-labour-for-good",
-      "headline": "Are working-class voters lost to Labour for good?",
-      "summary": "Readers debate Labour's appeal to working-class voters and Reform UK's electoral surge.",
-      "url": "https://www.theguardian.com/p/x52txt",
-      "thumbnail": "https://media.guim.co.uk/a3f7338d0b336e98f76cae5226e0e324dbc2d29f/553_0_5589_4471/500.jpg",
-      "published": "2026-05-12T16:32:47Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "politics/2026/may/12/labour-mps-channel-tory-psychodrama-starmer-hiding-in-plain-sight",
-      "headline": "Labour MPs channel Tory psychodrama as Starmer keeps hiding in plain sight",
-      "summary": "Labour MPs plot against PM Starmer amid internal party turmoil over leadership succession.",
-      "url": "https://www.theguardian.com/p/x533vn",
-      "thumbnail": "https://media.guim.co.uk/a665de3d47a6ac13ab4caac2922929939c712fb8/0_0_4583_3668/500.jpg",
-      "published": "2026-05-12T16:32:10Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "politics"
-    },
-    {
-      "id": "uk-news/2026/may/12/trams-are-the-best-way-to-get-britain-moving",
-      "headline": "Trams are the best way to get Britain moving",
-      "summary": "Expert urges UK policymakers to adopt trams as cost-effective solution for urban congestion.",
-      "url": "https://www.theguardian.com/p/x5283p",
-      "thumbnail": "https://media.guim.co.uk/f0de673ccab906c50412495333a96cc47647a454/210_0_2055_1644/500.jpg",
-      "published": "2026-05-12T16:29:55Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "politics/2026/may/12/muslims-in-britain-are-politically-engaged-but-they-do-not-vote-as-a-bloc",
-      "headline": "Muslims in Britain are politically engaged, but they do not vote as a bloc",
-      "summary": "Study shows British Muslims are politically engaged across parties, contradicting voting bloc stereotype.",
-      "url": "https://www.theguardian.com/p/x52857",
-      "thumbnail": "https://media.guim.co.uk/14f9072e48b39f9564dc108c7d1e75fb0f68c7b1/871_0_5000_4000/500.jpg",
-      "published": "2026-05-12T16:29:02Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
     {
       "id": "world/2026/may/12/who-head-warns-countries-prepare-more-hantavirus-cases",
       "headline": "WHO head tells countries to prepare for more hantavirus cases",
@@ -1606,6 +1350,166 @@
       "category": "tech",
       "significance": 2,
       "section": "world"
+    },
+    {
+      "id": "politics/2026/may/13/hold-the-line-burnham-tells-allies-in-parliament-he-still-has-options-to-return",
+      "headline": "‘Hold the line’: Burnham tells allies in parliament he still has options to return",
+      "summary": "Andy Burnham reassures supporters he has options to return to parliament after expected seats fail to materialize.",
+      "url": "https://www.theguardian.com/p/x5385a",
+      "thumbnail": "https://media.guim.co.uk/a526a0bfe35da7067430db54bf2b44e70d505c5b/0_0_2334_1866/500.jpg",
+      "published": "2026-05-13T18:08:29Z",
+      "location": {
+        "name": "Greater Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "football/live/2026/may/13/manchester-city-v-crystal-palace-premier-league-live",
+      "headline": "Manchester City v Crystal Palace: Premier League – live",
+      "summary": "Manchester City faces Crystal Palace in Premier League match at Etihad Stadium in title race pressure.",
+      "url": "https://www.theguardian.com/p/x53xmt",
+      "thumbnail": "https://media.guim.co.uk/dad7b493ff41181b75a995e4979f02833dea408a/230_0_2918_2335/500.jpg",
+      "published": "2026-05-13T18:06:46Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/live/2026/may/13/hearts-v-falkirk-motherwell-v-celtic-scottish-premiership-live",
+      "headline": "Hearts v Falkirk, Motherwell v Celtic: Scottish Premiership – live",
+      "summary": "Hearts and Celtic play in crucial Scottish Premiership matches on pivotal night for league standings.",
+      "url": "https://www.theguardian.com/p/x53xff",
+      "thumbnail": "https://media.guim.co.uk/e196eeb28b6aa676d656e74c6c7d74ecd308b29e/573_1175_2656_2125/500.jpg",
+      "published": "2026-05-13T18:05:48Z",
+      "location": {
+        "name": "Edinburgh",
+        "lat": 55.9533,
+        "lng": -3.1883
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "uk-news/2026/may/13/londons-answer-to-new-yorks-high-line-camden-scrapped",
+      "headline": "Camden Highline, London’s answer to New York park, is scrapped",
+      "summary": "Camden Highline project scrapped after nearly a decade due to high costs and energy crisis concerns.",
+      "url": "https://www.theguardian.com/p/x538j3",
+      "thumbnail": "https://media.guim.co.uk/56b9f710cf01df464a1702d4258b24fdd6b3afda/167_0_2667_2133/500.jpg",
+      "published": "2026-05-13T17:53:45Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "politics/2026/may/13/starmer-kings-speech-fails-quell-labour-mutiny",
+      "headline": "‘It’s more incrementalism’: Starmer’s safe king’s speech fails to quell mutiny",
+      "summary": "Starmer's second king's speech fails to quell Labour mutiny with critics calling policies incrementalist missteps.",
+      "url": "https://www.theguardian.com/p/x538g7",
+      "thumbnail": "https://media.guim.co.uk/10756d94fc3d373d439f98a090967a7ef734d084/0_0_2690_2152/500.jpg",
+      "published": "2026-05-13T17:53:21Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "football/2026/may/13/middlesbrough-to-train-for-playoff-final-in-case-southampton-over-spygate",
+      "headline": "Middlesbrough to train for playoff final in case Southampton are expelled over spygate",
+      "summary": "Middlesbrough prepares for potential playoff final while pushing for Southampton's expulsion over training spygate.",
+      "url": "https://www.theguardian.com/p/x538qm",
+      "thumbnail": "https://media.guim.co.uk/63ed88c4f7faa91e7cbb38209b32f02524db963b/532_0_4738_3790/500.jpg",
+      "published": "2026-05-13T17:50:13Z",
+      "location": {
+        "name": "Middlesbrough",
+        "lat": 54.5745,
+        "lng": -1.2313
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/may/13/alabama-prison-birth-lawsuit",
+      "headline": "Alabama woman sues alleging she gave birth on prison floor as guards watched",
+      "summary": "Alabama woman sues over alleged civil rights violations after giving birth on prison floor in May 2024.",
+      "url": "https://www.theguardian.com/p/x538mq",
+      "thumbnail": "https://media.guim.co.uk/cd27ce4d3c35865ecb6a0e6ca239f75870fd9c51/0_411_1080_863/500.jpg",
+      "published": "2026-05-13T17:47:32Z",
+      "location": {
+        "name": "Alabama",
+        "lat": 32.8067,
+        "lng": -86.7113
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "uk-news/2026/may/13/met-warns-hate-speech-unite-the-kingdom-palestine-marches",
+      "headline": "Met warns about hate speech at Unite the Kingdom and Palestine marches",
+      "summary": "Metropolitan police warn organizers of Unite the Kingdom and Palestine marches about hate speech accountability.",
+      "url": "https://www.theguardian.com/p/x538em",
+      "thumbnail": "https://media.guim.co.uk/72d18e80835fca25c199c7104f8beb8459f72557/826_0_5000_4000/500.jpg",
+      "published": "2026-05-13T17:27:13Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "commentisfree/2026/may/13/the-guardian-view-on-irans-repression-political-prisoners-such-as-narges-mohammadi-need-freedom-not-bombs",
+      "headline": "The Guardian view on Iran’s repression: political prisoners such as Narges Mohammadi need freedom not bombs",
+      "summary": "Editorial calls for release of critically ill Nobel laureate Narges Mohammadi from Iranian regime imprisonment.",
+      "url": "https://www.theguardian.com/p/x537mj",
+      "thumbnail": "https://media.guim.co.uk/56d3e8879b059d5f7c7d90ba293d5e74596db2b5/108_0_1837_1469/500.jpg",
+      "published": "2026-05-13T17:20:01Z",
+      "location": {
+        "name": "Iran",
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "commentisfree"
+    },
+    {
+      "id": "film/2026/may/13/butterfly-jam-review-barry-keoghan-cant-save-this-new-jersey-misstep",
+      "headline": "Butterfly Jam review – Barry Keoghan can’t save this New Jersey misstep",
+      "summary": "Barry Keoghan stars in Kantemir Balagov's clunky third film 'Butterfly Jam' at Cannes Film Festival.",
+      "url": "https://www.theguardian.com/p/x537n8",
+      "thumbnail": "https://media.guim.co.uk/a9edb2ba9fc7a58e01619031443d1cfd7d64ddbf/639_259_798_638/500.jpg",
+      "published": "2026-05-13T17:16:24Z",
+      "location": {
+        "name": "Cannes",
+        "lat": 43.5528,
+        "lng": 7.0176
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "film"
     }
   ]
 }
