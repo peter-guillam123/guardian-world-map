@@ -1,140 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-13T01:26:24.567Z",
-    "story_count": 117,
-    "oldest_story": "2026-05-12T04:00:13Z",
-    "newest_story": "2026-05-13T01:00:15Z",
+    "generated_at": "2026-05-13T05:29:55.115Z",
+    "story_count": 119,
+    "oldest_story": "2026-05-12T07:00:00Z",
+    "newest_story": "2026-05-13T05:20:20Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "world/2026/may/12/teen-bedroom-art-installation-shines-spotlight-on-ukraines-stolen-children",
-      "headline": "Teen bedroom art installation shines spotlight on Ukraine’s stolen children",
-      "summary": "Art installation highlights over 20,500 Ukrainian children allegedly taken to Russia since conflict began.",
-      "url": "https://www.theguardian.com/p/x52nmg",
-      "thumbnail": "https://media.guim.co.uk/8cb293c10ee9df5816e11e4e62151e5462ee704c/0_0_3780_3024/500.jpg",
-      "published": "2026-05-12T05:00:15Z",
-      "location": {
-        "name": "Ukraine",
-        "lat": 48.3794,
-        "lng": 31.1656
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "global-development/2026/may/12/china-first-electric-car-plant-europe-allegations-worker-abuse",
-      "headline": "Seven-day weeks and ‘debt bondage’: China’s first electric car plant in Europe mired in allegations of worker abuse",
-      "summary": "BYD's Hungarian electric car plant faces allegations of worker abuse and labour law violations.",
-      "url": "https://www.theguardian.com/p/x522km",
-      "thumbnail": "https://media.guim.co.uk/75459e00d45e38b9b08f1e0cee0433896226acc5/0_0_3937_3151/500.jpg",
-      "published": "2026-05-12T05:00:15Z",
-      "location": {
-        "name": "Szeged",
-        "lat": 46.253,
-        "lng": 20.1461
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "global-development"
-    },
-    {
-      "id": "australia-news/2026/may/12/canberra-teenager-charged-planning-terrorist-attack-ntwnfb",
-      "headline": "Canberra teenager charged over allegedly planning ACT terror attack ",
-      "summary": "Seventeen-year-old Canberra teenager becomes first person charged with planning ACT terror attack.",
-      "url": "https://www.theguardian.com/p/x53v7v",
-      "thumbnail": "https://media.guim.co.uk/1a4d5e80474b1c8248ba2049959bdb88ae09341f/2389_337_3603_2883/500.jpg",
-      "published": "2026-05-12T04:49:07Z",
-      "location": {
-        "name": "Canberra",
-        "lat": -35.2809,
-        "lng": 149.13
-      },
-      "category": "conflict",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "environment/2026/may/12/country-diary-no-mow-may-is-back-on-track-and-the-results-are-wonderful",
-      "headline": "Country diary: No Mow May is back on track – and the results are wonderful",
-      "summary": "No Mow May initiative in Liverpool reveals 21 plant species thriving on unmowed roadside verges.",
-      "url": "https://www.theguardian.com/p/x52vq7",
-      "thumbnail": "https://media.guim.co.uk/aadceb60824f05c8f1143024d1f360aa58e89df3/0_79_810_648/500.jpg",
-      "published": "2026-05-12T04:31:14Z",
-      "location": {
-        "name": "Liverpool",
-        "lat": 53.4084,
-        "lng": -2.9916
-      },
-      "category": "climate",
-      "significance": 1,
-      "section": "environment"
-    },
-    {
-      "id": "film/2026/may/12/cannes-film-festival-comeback-auteurs-hollywood-retreats",
-      "headline": "Cannes spotlight reverts to auteurs as Hollywood retreats from film festival ",
-      "summary": "Cannes Film Festival refocuses on international auteur cinema as major Hollywood studios reduce attendance.",
-      "url": "https://www.theguardian.com/p/x522z8",
-      "thumbnail": "https://media.guim.co.uk/e98567593373be5f051cafc39d086d3927f8248b/187_0_5833_4667/500.jpg",
-      "published": "2026-05-12T04:00:15Z",
-      "location": {
-        "name": "Cannes",
-        "lat": 43.5528,
-        "lng": 7.0176
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "film"
-    },
-    {
-      "id": "global-development/2026/may/12/koovagam-india-festival-transgender-women-recognition-law",
-      "headline": "‘It’s like a trans-Barbie world!’: the Indian festival where transgender women can celebrate without fear",
-      "summary": "Annual Indian festival celebrates transgender women amid controversial changes to gender recognition law.",
-      "url": "https://www.theguardian.com/p/x5xbbp",
-      "thumbnail": "https://media.guim.co.uk/1b5966e2df8a4da1ad930a2ae445e4e090cd1182/706_259_5016_4013/500.jpg",
-      "published": "2026-05-12T04:00:13Z",
-      "location": {
-        "name": "Koovagam",
-        "lat": 11.8724,
-        "lng": 79.5745
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "global-development"
-    },
-    {
-      "id": "tv-and-radio/2026/may/12/vienna-boycotts-blackouts-buildup-eurovision-song-contest-2026-israel",
-      "headline": "Woe Vienna? Boycotts and blackouts mar buildup as Eurovision 2026 begins",
-      "summary": "Eurovision 2026 in Vienna overshadowed by boycotts and protests over Israel participation.",
-      "url": "https://www.theguardian.com/p/x5xkxc",
-      "thumbnail": "https://media.guim.co.uk/2af9287ff0632ced7fd1861aaecadbb9d79a35c2/281_0_2760_2208/500.jpg",
-      "published": "2026-05-12T04:00:13Z",
-      "location": {
-        "name": "Vienna",
-        "lat": 48.2082,
-        "lng": 16.3738
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "tv-and-radio"
-    },
-    {
-      "id": "society/2026/may/12/more-than-6000-children-treated-at-obesity-clinics-in-england-figures-show",
-      "headline": "More than 6,000 children treated at obesity clinics in England, figures show",
-      "summary": "Over 6,000 children, including four-year-olds, treated at NHS obesity clinics in England since 2021.",
-      "url": "https://www.theguardian.com/p/x52hvq",
-      "thumbnail": "https://media.guim.co.uk/33902e1ff8b12ab0743fbd7f2534f929985f6bca/232_0_4449_3559/500.jpg",
-      "published": "2026-05-12T04:00:13Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "society"
-    },
     {
       "id": "world/live/2026/may/12/middle-east-crisis-us-iran-israel-donald-trump-ceasefire-peace-plan-latest-news-updates",
       "headline": "Middle East crisis live: Trump says Iran ceasefire is on ‘massive life support’ ",
@@ -1878,6 +1750,166 @@
       "category": "conflict",
       "significance": 3,
       "section": "world"
+    },
+    {
+      "id": "tv-and-radio/2026/may/13/tv-tonight-a-stirring-exploration-of-some-grim-goings-on-in-ruislip",
+      "headline": "TV tonight: a stirring exploration of some grim goings on in Ruislip",
+      "summary": "Channel 4 documentary explores troubling case of drug dealer and sexual assaults in Ruislip.",
+      "url": "https://www.theguardian.com/p/x52xv4",
+      "thumbnail": "https://media.guim.co.uk/d96f7981b6e6307da78c5483ac2de582c99ab8dc/285_0_1350_1080/500.jpg",
+      "published": "2026-05-13T05:20:20Z",
+      "location": {
+        "name": "Ruislip",
+        "lat": 51.574,
+        "lng": -0.4294
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "tv-and-radio"
+    },
+    {
+      "id": "australia-news/2026/may/13/trump-tower-australia-gold-coast-scrapped-ntwnfb",
+      "headline": "Plan for $1.5bn Trump Tower on Gold Coast scrapped because brand ‘toxic to Australians’",
+      "summary": "$1.5bn Trump Tower development on Gold Coast scrapped due to brand toxicity.",
+      "url": "https://www.theguardian.com/p/x534ph",
+      "thumbnail": "https://media.guim.co.uk/9f666b55c7071825dcf9bea4d5a40772129513d1/100_0_700_560/500.jpg",
+      "published": "2026-05-13T05:13:54Z",
+      "location": {
+        "name": "Gold Coast",
+        "lat": -28.0028,
+        "lng": 153.4314
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "australia-news/2026/may/13/retired-strathfield-dentist-patients-hiv-hepatitis-risk-ntwnfb",
+      "headline": "Health alert issued urging thousands of patients of retired Sydney dentist to get tested for HIV and hepatitis",
+      "summary": "Health alert issued for thousands of patients of retired Sydney dentist over HIV and hepatitis risk.",
+      "url": "https://www.theguardian.com/p/x535gj",
+      "thumbnail": "https://media.guim.co.uk/402cb08c77fe995984b184b9cbbeec34c37087e7/266_0_2340_1872/500.jpg",
+      "published": "2026-05-13T05:02:05Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "politics/2026/may/13/labour-unions-keir-starmer-leader-election",
+      "headline": "Labour-supporting unions predict Starmer will not lead party into next election",
+      "summary": "Labour-supporting unions predict Keir Starmer will not lead party into next election.",
+      "url": "https://www.theguardian.com/p/x534bv",
+      "thumbnail": "https://media.guim.co.uk/0c5aadb551be7b5623a6ca37d4dfc85aaa5aa650/563_0_4539_3631/500.jpg",
+      "published": "2026-05-13T05:00:21Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "politics"
+    },
+    {
+      "id": "food/2026/may/13/south-asian-coconut-dal-cheesy-pickle-toasties-carrot-halva-recipes-cakes-ravinder-bhogal",
+      "headline": "Coconut dal, cheesy pickle toasties, carrot halva cakes: Ravinder Bhogal’s tastes of home – recipes",
+      "summary": "Ravinder Bhogal shares south Asian recipes including coconut dal and carrot halva cakes.",
+      "url": "https://www.theguardian.com/p/x4kvpy",
+      "thumbnail": "https://media.guim.co.uk/15cd07b74401ece9ed044941a72c9f87205f7b4d/272_1049_5059_4045/500.jpg",
+      "published": "2026-05-13T05:00:20Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "food"
+    },
+    {
+      "id": "environment/2026/may/13/birdwatch-missing-breakfast-to-meet-a-copperback-quail-thrush-in-australia",
+      "headline": "Birdwatch: missing breakfast to meet a copperback quail-thrush in Australia",
+      "summary": "Birdwatcher encounters copperback quail-thrush in Mallee forest near Adelaide, Australia.",
+      "url": "https://www.theguardian.com/p/x5vx75",
+      "thumbnail": "https://media.guim.co.uk/9e171696556a8b96f12aa226f4826c4ab2c5a483/516_300_4794_3836/500.jpg",
+      "published": "2026-05-13T05:00:20Z",
+      "location": {
+        "name": "Adelaide",
+        "lat": -34.9285,
+        "lng": 138.6007
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "environment"
+    },
+    {
+      "id": "global-development/2026/may/13/south-sudan-hospital-msf-bombed-healthcare-attacks-jonglei",
+      "headline": "On Monday morning it was a busy South Sudan hospital. By Tuesday night it was a bombed-out shell",
+      "summary": "MSF hospital in South Sudan bombed, burned and looted amid escalating healthcare attacks.",
+      "url": "https://www.theguardian.com/p/x5xbhh",
+      "thumbnail": "https://media.guim.co.uk/bc33587e3c4a093a8a872dd153cba424b61e5613/289_0_4860_3888/500.jpg",
+      "published": "2026-05-13T05:00:20Z",
+      "location": {
+        "name": "Juba",
+        "lat": 4.8517,
+        "lng": 31.5825
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "global-development"
+    },
+    {
+      "id": "lifeandstyle/2026/may/13/chelsea-flower-show-garden-designers-clash-over-ai",
+      "headline": "Chelsea flower show garden designers clash over use of AI ",
+      "summary": "Chelsea flower show designers clash over AI use in garden design automation app.",
+      "url": "https://www.theguardian.com/p/x53xhg",
+      "thumbnail": "https://media.guim.co.uk/68b2a38f7656bd74945de04ae30ce781bfac6b5d/957_196_4183_3346/500.jpg",
+      "published": "2026-05-13T05:00:19Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "tech",
+      "significance": 2,
+      "section": "lifeandstyle"
+    },
+    {
+      "id": "environment/2026/may/13/country-diary-taking-the-tough-route-to-a-hilltop-view",
+      "headline": "Country diary: Taking the tough route to a hilltop view",
+      "summary": "Country diary describes bouldering on volcanic rock in Preseli Hills, Pembrokeshire.",
+      "url": "https://www.theguardian.com/p/x5vtzv",
+      "thumbnail": "https://media.guim.co.uk/813c71b0cc30f6880c0abeb68f36d641825cb1bb/500_0_5000_4000/500.jpg",
+      "published": "2026-05-13T04:30:19Z",
+      "location": {
+        "name": "Pembrokeshire",
+        "lat": 51.8829,
+        "lng": -5.1667
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "environment"
+    },
+    {
+      "id": "australia-news/2026/may/13/nsw-police-drop-charges-against-isaac-herzog-protesters-ntwnfb",
+      "headline": "NSW police to drop charges against Isaac Herzog protesters laid using unlawful public assembly restrictions",
+      "summary": "NSW police to drop charges against Isaac Herzog protesters laid under unlawful restrictions.",
+      "url": "https://www.theguardian.com/p/x535az",
+      "thumbnail": "https://media.guim.co.uk/e5f3943302e5a0ab9b00b0fdfa9b1ee1d9425fa5/1254_0_6370_5096/500.jpg",
+      "published": "2026-05-13T04:23:08Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
     }
   ]
 }
