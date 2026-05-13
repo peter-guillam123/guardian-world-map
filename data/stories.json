@@ -1,316 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-13T05:29:55.115Z",
-    "story_count": 119,
-    "oldest_story": "2026-05-12T07:00:00Z",
-    "newest_story": "2026-05-13T05:20:20Z",
+    "generated_at": "2026-05-13T08:18:01.010Z",
+    "story_count": 108,
+    "oldest_story": "2026-05-12T09:35:25Z",
+    "newest_story": "2026-05-13T08:15:38Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "world/live/2026/may/12/middle-east-crisis-us-iran-israel-donald-trump-ceasefire-peace-plan-latest-news-updates",
-      "headline": "Middle East crisis live: Trump says Iran ceasefire is on ‘massive life support’ ",
-      "summary": "Trump rejects Iran ceasefire proposal as 'garbage' amid nuclear standoff.",
-      "url": "https://www.theguardian.com/p/x53vye",
-      "thumbnail": "https://media.guim.co.uk/3d7be290c51a2db4ec2f6ab612c7fff4ad153480/686_0_5563_4451/500.jpg",
-      "published": "2026-05-12T08:02:05Z",
-      "location": {
-        "name": "Iran",
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "books/2026/may/12/high-and-low-by-amanda-craig-review-will-britain-boil-over",
-      "headline": "High and Low by Amanda Craig review – will Britain boil over?",
-      "summary": "Amanda Craig's satire explores class divide in gentrifying North London.",
-      "url": "https://www.theguardian.com/p/x5v29y",
-      "thumbnail": "https://media.guim.co.uk/aa40ffd392be6a0c80870594fff87f089902268f/0_0_2500_2000/500.jpg",
-      "published": "2026-05-12T08:00:18Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "books"
-    },
-    {
-      "id": "business/2026/may/12/labour-economy-mps-tribune-group-keir-starmer",
-      "headline": "Labour must offer more than ‘better managed decline’ on economy, MPs urge",
-      "summary": "Labour MPs urge economic strategy renewal beyond 'managed decline.'",
-      "url": "https://www.theguardian.com/p/x52z3d",
-      "thumbnail": "https://media.guim.co.uk/fd84be3875e9650f52096dcd3765d8fc1f4b3e2b/428_0_4393_3514/500.jpg",
-      "published": "2026-05-12T08:00:18Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "business"
-    },
-    {
-      "id": "business/2026/may/12/britons-changing-holiday-plans-iran-war-flight-cancellations-petrol-shortages",
-      "headline": "‘There’s too much risk’: Britons on changing holiday plans amid Iran war",
-      "summary": "Iran war prompts Britons to shift holidays to rail and bus travel.",
-      "url": "https://www.theguardian.com/p/x5vc24",
-      "thumbnail": "https://media.guim.co.uk/8cf1e4653706cc2ba97fbcd6cef35632aebaf212/95_0_3790_3032/500.jpg",
-      "published": "2026-05-12T08:00:18Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "business"
-    },
-    {
-      "id": "film/2026/may/12/ciao-ufo-review-hong-kong-tear-jerker-is-less-et-than-time-hopping-chronicle-of-housing-estate-kids",
-      "headline": "Ciao UFO review – Hong Kong tear-jerker is less ET than time-hopping chronicle of housing estate kids",
-      "summary": "Patrick Leung's Ciao UFO chronicles Hong Kong housing estate lives.",
-      "url": "https://www.theguardian.com/p/x52j6g",
-      "thumbnail": "https://media.guim.co.uk/3317cf8afac25140d344ed0ee271562cc5948cc0/693_0_6126_4903/500.jpg",
-      "published": "2026-05-12T08:00:18Z",
-      "location": {
-        "name": "Hong Kong",
-        "lat": 22.3193,
-        "lng": 114.1694
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "film"
-    },
-    {
-      "id": "business/2026/may/12/carillion-finance-directors-banned-frc",
-      "headline": "Five former Carillion executives banned by accountancy regulator",
-      "summary": "Five Carillion executives banned by UK accountancy regulator.",
-      "url": "https://www.theguardian.com/p/x53vm7",
-      "thumbnail": "https://media.guim.co.uk/078b9b52131087735ad0da9fdf6b5e6e2fb36606/51_0_3333_2667/500.jpg",
-      "published": "2026-05-12T08:00:16Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "football/2025/sep/15/premier-league-top-scorers-2025-26-who-is-leading-race-for-golden-boot",
-      "headline": "Premier League top scorers 2025-26: who is leading race for golden boot?",
-      "summary": "Erling Haaland leads Premier League goalscoring race.",
-      "url": "https://www.theguardian.com/p/x386fa",
-      "thumbnail": "https://media.guim.co.uk/dcdad426597084e37fb0bb1e0b633733a176badc/308_0_2046_1638/500.jpg",
-      "published": "2026-05-12T07:57:42Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "world/live/2026/may/12/europe-defence-ukraine-russia-hungary-latest-news-updates",
-      "headline": "EU defence ministers meet for talks on Ukraine – Europe live",
-      "summary": "EU defence ministers meet on Ukraine, defence manufacturing, Middle East.",
-      "url": "https://www.theguardian.com/p/x53xxk",
-      "thumbnail": "https://media.guim.co.uk/57dc0536b75ab98ecd0dfaaf69f4977258d804f8/87_155_1007_805/500.jpg",
-      "published": "2026-05-12T07:57:33Z",
-      "location": {
-        "name": "Brussels",
-        "lat": 50.8503,
-        "lng": 4.3517
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "business/live/2026/may/12/uk-bond-yields-borrowing-costs-pound-falls-oil-inflation-live-updates",
-      "headline": "UK long-term borrowing costs hit highest since 1998 as Starmer faces pressure to stand down – business live",
-      "summary": "UK borrowing costs hit 1998 high as Starmer faces resignation pressure.",
-      "url": "https://www.theguardian.com/p/x53vhj",
-      "thumbnail": "https://media.guim.co.uk/dbfb82dd9f42a6b85a47b9afd6250edb90434984/161_0_4167_3335/500.jpg",
-      "published": "2026-05-12T07:53:56Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 4,
-      "section": "business"
-    },
-    {
-      "id": "politics/live/2026/may/12/keir-starmer-prime-minister-resignation-labour-leadership-cabinet-meeting-yvette-cooper-shabana-mahmood-andy-burnham-wes-streeting-uk-politics-latest-news-updates",
-      "headline": "Minister says Starmer is ‘listening’ but refuses to say if PM will stay on ahead of critical cabinet meeting – UK politics live ",
-      "summary": "Starmer 'listening' but refuses to confirm if he'll stay PM.",
-      "url": "https://www.theguardian.com/p/x53vj2",
-      "thumbnail": "https://media.guim.co.uk/39b53edc87d083379f1f151a6ff11de1b81780e6/327_0_4529_3624/500.jpg",
-      "published": "2026-05-12T07:52:53Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 4,
-      "section": "politics"
-    },
-    {
-      "id": "uk-news/2026/may/12/lorry-gets-stuck-in-hole-walton-somerset",
-      "headline": "Lorry gets stuck in hole it was sent to fix in Somerset",
-      "summary": "Lorry sent to fix sinkhole becomes stuck in same hole.",
-      "url": "https://www.theguardian.com/p/x53vz7",
-      "thumbnail": "https://media.guim.co.uk/55556e83b5b7a5ba82093ad6933b59d10db113c3/631_0_4164_3333/500.jpg",
-      "published": "2026-05-12T07:38:15Z",
-      "location": {
-        "name": "Somerset",
-        "lat": 51.1667,
-        "lng": -2.6833
-      },
-      "category": "other",
-      "significance": 1,
-      "section": "uk-news"
-    },
-    {
-      "id": "politics/2026/may/12/darren-jones-keir-starmer-future-labour-leader",
-      "headline": "Close Starmer ally declines to say if he will lead Labour into next election",
-      "summary": "Botswana rises to men's sprinting top despite population of 2.5m.",
-      "url": "https://www.theguardian.com/p/x53vp3",
-      "thumbnail": "https://media.guim.co.uk/42ff8db6648e4c901942fb7354d1054c73eb99ad/266_606_3792_3034/500.jpg",
-      "published": "2026-05-12T07:24:10Z",
-      "location": {
-        "name": "Gaborone",
-        "lat": -24.6282,
-        "lng": 25.9123
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "world/2026/may/12/gaborone-gold-rush-botswana-sprinting-athletics",
-      "headline": "Gaborone gold rush: how Botswana rose to the top of men’s sprinting",
-      "summary": "Olympic cyclist Katie Archibald retires to become nurse.",
-      "url": "https://www.theguardian.com/p/x527tt",
-      "thumbnail": "https://media.guim.co.uk/58631b3978281c186bf828d106951ace8bda8298/0_0_3713_2971/500.jpg",
-      "published": "2026-05-12T07:17:30Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "commentisfree/2026/may/12/reform-scotland-elections-hostility-right-leftwing-identity-myth",
-      "headline": "Scotland’s elections confirmed that our nation’s leftwing identity is part myth, part reality",
-      "summary": "Scotland's elections show nation's leftwing identity partly myth as Reform surges in postindustrial areas.",
-      "url": "https://www.theguardian.com/p/x52nf8",
-      "thumbnail": "https://media.guim.co.uk/fe1dbb4049ae196f62d970a4e2578f5b5ee327b6/302_0_2750_2200/500.jpg",
-      "published": "2026-05-12T07:00:17Z",
-      "location": {
-        "name": "Edinburgh",
-        "lat": 55.9533,
-        "lng": -3.1883
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "commentisfree"
-    },
-    {
-      "id": "technology/2026/may/12/trump-china-ai-big-tech-xi-jinping",
-      "headline": "Trump heads to China to spread the gospel of American tech while emulating Xi Jinping on AI",
-      "summary": "Trump heads to China with tech CEOs including Cook and Musk to discuss AI and technology with Xi.",
-      "url": "https://www.theguardian.com/p/x52p5m",
-      "thumbnail": "https://media.guim.co.uk/8d4a09d5769f37d40b50f9cebd042507a166af8e/464_0_4640_3712/500.jpg",
-      "published": "2026-05-12T07:00:17Z",
-      "location": {
-        "name": "Beijing",
-        "lat": 39.9042,
-        "lng": 116.4074
-      },
-      "category": "tech",
-      "significance": 3,
-      "section": "technology"
-    },
-    {
-      "id": "sport/2026/may/12/physical-exercise-pe-school-trauma-curriculum-activity-levels-uk",
-      "headline": "Too many of us were traumatised by sport at school – but it’s never too late to change",
-      "summary": "Study reveals millions put off sport by school PE trauma, but activity brings camaraderie and joy.",
-      "url": "https://www.theguardian.com/p/x5xd8c",
-      "thumbnail": "https://media.guim.co.uk/b260fc5a6574f78f374c31b0d78bfc0c7047a02d/620_0_5600_4480/500.jpg",
-      "published": "2026-05-12T07:00:17Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "football/2026/may/12/fifa-failure-to-agree-world-cup-2026-broadcasting-deals-china-india-gianni-infantino",
-      "headline": "Fifa’s failure to agree World Cup TV deals in China and India a headache for Infantino",
-      "summary": "FIFA struggles to secure World Cup broadcasting deals with China and India a month before tournament.",
-      "url": "https://www.theguardian.com/p/x52zc3",
-      "thumbnail": "https://media.guim.co.uk/7d06764121dced64fd4d5ecc8b7240dbbde21664/458_0_4583_3667/500.jpg",
-      "published": "2026-05-12T07:00:17Z",
-      "location": {
-        "name": "New Delhi",
-        "lat": 28.6139,
-        "lng": 77.209
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "stage/2026/may/12/sunset-boulevard-the-backstage-cut-review-perth-theatre",
-      "headline": "Sunset Boulevard: The Backstage Cut review – does Norma Desmond really need another closeup?",
-      "summary": "Perth theatre's Sunset Boulevard adaptation offers little beyond fine performances despite camp flourish.",
-      "url": "https://www.theguardian.com/p/x52hft",
-      "thumbnail": "https://media.guim.co.uk/d32ea88f97162339413fdcfd7ec85139ac21819b/1336_0_6676_5341/500.jpg",
-      "published": "2026-05-12T07:00:17Z",
-      "location": {
-        "name": "Perth",
-        "lat": -31.9505,
-        "lng": 115.8605
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "stage"
-    },
-    {
-      "id": "australia-news/2026/may/12/afternoon-update-tuesday-ntwnfb",
-      "headline": "Afternoon Update: One Nation casts shadow over budget; soldier dies in training incident; and coexisting with dingoes",
-      "summary": "One Nation influences Australian budget as Treasurer acknowledges economic anxiety driving populist support.",
-      "url": "https://www.theguardian.com/p/x53vvx",
-      "thumbnail": "https://media.guim.co.uk/914d01bab3a239cf3e1b06c1826fc191101f1a0e/581_0_2953_2362/500.jpg",
-      "published": "2026-05-12T07:00:00Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
     {
       "id": "artanddesign/2026/may/12/bold-tendencies-car-park-that-changed-british-art",
       "headline": "The car park that changed British art: Bold Tendencies at 20",
@@ -1910,6 +1606,134 @@
       "category": "politics",
       "significance": 2,
       "section": "australia-news"
+    },
+    {
+      "id": "business/live/2026/may/13/uk-bond-market-yields-political-turmoil-oil-inflation-housing-market-live-updates",
+      "headline": "UK government borrowing costs falling as Starmer holds on to power – business live",
+      "summary": "UK bond yields drop as PM Starmer retains power amid leadership challenge.",
+      "url": "https://www.theguardian.com/p/x536av",
+      "thumbnail": "https://media.guim.co.uk/87f1076bea598c0ee0b11e026e5dd59502264994/94_0_4300_3440/500.jpg",
+      "published": "2026-05-13T08:15:38Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "business"
+    },
+    {
+      "id": "politics/live/2026/may/13/keir-starmer-labour-party-prime-minister-leadership-wes-streeting-kings-speech-latest-news-updates",
+      "headline": "Wes Streeting leaves No 10 after planned talks with Keir Starmer last less than 20 minutes - UK politics live",
+      "summary": "Health Secretary Streeting meets PM Starmer but stops short of formal leadership challenge.",
+      "url": "https://www.theguardian.com/p/x536dn",
+      "thumbnail": "https://media.guim.co.uk/3688e9f34781d0439d0dac1682eac8583179755d/276_172_4222_3378/500.jpg",
+      "published": "2026-05-13T08:13:57Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "politics"
+    },
+    {
+      "id": "film/2026/may/13/northern-soul-still-burning-review-thumping-celebration-of-the-legendary-underground-club-scene",
+      "headline": "Northern Soul: Still Burning review – thumping celebration of the legendary underground club scene",
+      "summary": "Documentary celebrates legendary northern soul underground club scene of 1960s-1970s.",
+      "url": "https://www.theguardian.com/p/x522f7",
+      "thumbnail": "https://media.guim.co.uk/398893a522da535701f08b28c4c90b1cf19b7874/390_0_3988_3189/500.jpg",
+      "published": "2026-05-13T08:00:24Z",
+      "location": {
+        "name": "Wigan",
+        "lat": 53.5454,
+        "lng": -2.629
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "film"
+    },
+    {
+      "id": "politics/2026/may/13/voters-england-pick-names-nearer-top-ballot-data-suggests",
+      "headline": "Easy as ABC: voters in England tend to pick names nearer top of ballot, data suggests",
+      "summary": "English local election analysis reveals 'alphabet effect' with top-listed candidates gaining votes.",
+      "url": "https://www.theguardian.com/p/x52z7z",
+      "thumbnail": "https://media.guim.co.uk/99b5beb10ca9f4822a70f5496743474ad7f0eef6/411_0_4653_3725/500.jpg",
+      "published": "2026-05-13T08:00:24Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "football/2026/may/13/manchester-city-women-new-training-facility",
+      "headline": "Personalised chopsticks and underwater treadmills: Manchester City Women find new ways to win",
+      "summary": "Manchester City Women inaugurate £10m state-of-the-art training facility with innovative amenities.",
+      "url": "https://www.theguardian.com/p/x533t2",
+      "thumbnail": "https://media.guim.co.uk/4f7820b2d1b5c3fef815ab4b3a29e5d20cbb8999/314_890_2491_1994/500.jpg",
+      "published": "2026-05-13T08:00:24Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "world/live/2026/may/13/ukraine-russia-war-sergei-lavrov-mark-rutte-bucharest-europe-latest-news-updates",
+      "headline": "Russian foreign minister says ‘nothing is happening’ in US talks on Ukraine and peace process is stuck – Europe live ",
+      "summary": "Russian FM says US-Ukraine peace talks stalled as Bucharest Nine meets NATO secretary.",
+      "url": "https://www.theguardian.com/p/x536gb",
+      "thumbnail": "https://media.guim.co.uk/7b4c9794df0ac2ccb990fbde8d6ae69f03c1bf2a/1136_811_4876_3900/500.jpg",
+      "published": "2026-05-13T07:57:57Z",
+      "location": {
+        "name": "Bucharest",
+        "lat": 44.4268,
+        "lng": 26.1025
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "stage/2026/may/13/jamaican-musical-the-harder-they-come-suzan-lori-parks-perry-henzell-jimmy-cliff-stratford-east",
+      "headline": "‘What’s this groove becoming?!’ How The Harder They Come captured 70s Jamaica and blazed on to stage",
+      "summary": "Musical adaptation of 70s Jamaican film 'The Harder They Come' returns after reggae icon's death.",
+      "url": "https://www.theguardian.com/p/x5xza4",
+      "thumbnail": "https://media.guim.co.uk/9afc3939ec60aac3dc4798d163053bf78af043ac/669_0_6663_5333/500.jpg",
+      "published": "2026-05-13T07:46:31Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "stage"
+    },
+    {
+      "id": "technology/2026/may/13/nvidia-jensen-huang-joins-trump-as-tech-dominates-china-trip",
+      "headline": "Nvidia’s Jensen Huang joins Trump as tech dominates China trip",
+      "summary": "Nvidia CEO Jensen Huang joins Trump's China delegation alongside Musk and Cook for trade mission.",
+      "url": "https://www.theguardian.com/p/x536aj",
+      "thumbnail": "https://media.guim.co.uk/09e8ebedefc1bb9bac94ec3c7c55104f1079452e/1585_596_4221_3379/500.jpg",
+      "published": "2026-05-13T07:41:26Z",
+      "location": {
+        "name": "Beijing",
+        "lat": 39.9042,
+        "lng": 116.4074
+      },
+      "category": "tech",
+      "significance": 3,
+      "section": "technology"
     }
   ]
 }
