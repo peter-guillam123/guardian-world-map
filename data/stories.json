@@ -1,76 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-14T19:21:36.367Z",
-    "story_count": 116,
-    "oldest_story": "2026-05-13T19:25:07Z",
-    "newest_story": "2026-05-14T19:05:30Z",
+    "generated_at": "2026-05-14T20:51:42.442Z",
+    "story_count": 117,
+    "oldest_story": "2026-05-13T20:51:44Z",
+    "newest_story": "2026-05-14T20:46:23Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "business/2026/may/13/kevin-warsh-federal-reserve-chair",
-      "headline": "US Senate confirms Kevin Warsh as Federal Reserve chair, replacing Jerome Powell",
-      "summary": "US Senate confirms Kevin Warsh as Federal Reserve chair, replacing Jerome Powell.",
-      "url": "https://www.theguardian.com/p/x533fm",
-      "thumbnail": "https://media.guim.co.uk/b2a6b4a4a76e13e3f25df504b859420521656ff4/333_0_3333_2667/500.jpg",
-      "published": "2026-05-13T20:10:15Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 4,
-      "section": "business"
-    },
-    {
-      "id": "us-news/2026/may/13/georgia-brian-kemp-electoral-maps-session",
-      "headline": " Georgia’s Republican governor calls for special session to redraw electoral maps",
-      "summary": "Georgia Governor Brian Kemp calls special session to redraw electoral maps.",
-      "url": "https://www.theguardian.com/p/x539ad",
-      "thumbnail": "https://media.guim.co.uk/5e651539f12085ed2a89dd2ccb329613b149f7d5/255_0_3327_2660/500.jpg",
-      "published": "2026-05-13T20:02:54Z",
-      "location": {
-        "name": "Atlanta",
-        "lat": 33.749,
-        "lng": -84.388
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/may/13/trump-iran-senate-war-powers",
-      "headline": "Senate rejects latest Democratic effort to end Iran war by wafer-thin margin",
-      "summary": "Senate rejects Democratic effort to end Iran war by narrow 49-50 margin.",
-      "url": "https://www.theguardian.com/p/x539b7",
-      "thumbnail": "https://media.guim.co.uk/6c9f1d353e3b395a3cfd3672466cd02056259bbe/560_0_5600_4480/500.jpg",
-      "published": "2026-05-13T19:46:31Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "uk-news/2026/may/13/valdo-calocane-brother-inquiry-mental-ill-health",
-      "headline": "Valdo Calocane brother tells inquiry he felt powerless over killer’s mental ill health",
-      "summary": "Brother of Nottingham killer Valdo Calocane tells inquiry he felt powerless over his mental health.",
-      "url": "https://www.theguardian.com/p/x538z4",
-      "thumbnail": "https://media.guim.co.uk/5573563006c32167f29331df37e9f03afbceda27/614_108_2513_2011/500.jpg",
-      "published": "2026-05-13T19:25:07Z",
-      "location": {
-        "name": "Nottingham",
-        "lat": 52.9549,
-        "lng": -1.1084
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "uk-news"
-    },
     {
       "id": "australia-news/live/2026/may/14/budget-reply-angus-taylor-anthony-albanese-jim-chalmers-tax-reform-property-investment-negative-gearing-capital-gains-housing-ntwnfb",
       "headline": "Australia politics live: Albanese denies tax reforms aimed at courting votes from growing gen Z cohort",
@@ -1862,6 +1798,86 @@
       "category": "tech",
       "significance": 2,
       "section": "technology"
+    },
+    {
+      "id": "australia-news/2026/may/15/morning-mail-friday-ntwnfb",
+      "headline": "Taylor maps out tax plan, Coles case could end ‘fake discounts’, UK politics in turmoil",
+      "summary": "Opposition leader Taylor pledges tax bracket indexation; Coles faces fines after court defeat on fake discounts.",
+      "url": "https://www.theguardian.com/p/x53cjm",
+      "thumbnail": "https://media.guim.co.uk/a4d312bae3d31d73b8a42bc27199abf32df22fe4/559_0_5595_4476/500.jpg",
+      "published": "2026-05-14T20:46:23Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "us-news/2026/may/14/dana-williamson-california-democrat-strategist-fraud",
+      "headline": "Top California Democratic strategist pleads guilty to $225,000 fraud charges",
+      "summary": "California Democratic strategist Dana Williamson pleads guilty to $225,000 fraud in campaign funds theft.",
+      "url": "https://www.theguardian.com/p/x53f6y",
+      "thumbnail": "https://media.guim.co.uk/c655763a3dee0a84bb16479fc8d30877baf654ac/418_0_4164_3333/500.jpg",
+      "published": "2026-05-14T20:43:27Z",
+      "location": {
+        "name": "Sacramento",
+        "lat": 38.5816,
+        "lng": -121.4944
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "australia-news/live/2026/may/15/australia-news-live-delta-goodrem-eurovision-budget-reply-angus-taylor-immigration-income-tax-bracket-creep-jim-chalmers-inflation-ntwnfb",
+      "headline": "Australia news live: Delta Goodrem hits the stage in Eurovision semi; Angus Taylor accused of ‘dog whistle’ budget reply",
+      "summary": "Delta Goodrem performs at Eurovision; Taylor accused of 'dog whistle' immigration rhetoric in budget reply.",
+      "url": "https://www.theguardian.com/p/x53d6h",
+      "thumbnail": "https://media.guim.co.uk/f431f0955d0223fa6f9fdf3ef4d25cf3b8d2f46e/37_0_3898_3119/500.jpg",
+      "published": "2026-05-14T20:43:25Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "books/2026/may/15/songwriters-on-the-run-by-robert-forster-review-go-betweens-frontman-hits-a-dud-note",
+      "headline": "Songwriters on the Run by Robert Forster review – Go-Betweens frontman hits a dud note ",
+      "summary": "Robert Forster's novel Songwriters on the Run receives critical panning for weak prose and dialogue.",
+      "url": "https://www.theguardian.com/p/x52v7m",
+      "thumbnail": "https://media.guim.co.uk/769b0bc6a3579de08b4ca1985cc4814a36f4a9b3/1_0_4998_4000/500.png",
+      "published": "2026-05-14T20:00:16Z",
+      "location": {
+        "name": "Brisbane",
+        "lat": -27.4698,
+        "lng": 153.0251
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "books"
+    },
+    {
+      "id": "us-news/2026/may/14/napa-california-mushrooms",
+      "headline": "Three more people sick in California amid ‘unprecedented outbreak’ due to toxic mushrooms",
+      "summary": "California reports 47 cases of toxic mushroom poisoning since November in unprecedented outbreak.",
+      "url": "https://www.theguardian.com/p/x53fxq",
+      "thumbnail": "https://media.guim.co.uk/03d20a316e1f048382ecf54744a4198f83f6adef/331_0_3313_2650/500.jpg",
+      "published": "2026-05-14T19:56:32Z",
+      "location": {
+        "name": "Napa",
+        "lat": 38.2975,
+        "lng": -122.2869
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "us-news"
     }
   ]
 }
