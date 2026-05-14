@@ -1,124 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-14T20:51:42.442Z",
-    "story_count": 117,
-    "oldest_story": "2026-05-13T20:51:44Z",
-    "newest_story": "2026-05-14T20:46:23Z",
+    "generated_at": "2026-05-14T22:11:51.095Z",
+    "story_count": 116,
+    "oldest_story": "2026-05-13T22:21:59Z",
+    "newest_story": "2026-05-14T21:58:29Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "australia-news/live/2026/may/14/budget-reply-angus-taylor-anthony-albanese-jim-chalmers-tax-reform-property-investment-negative-gearing-capital-gains-housing-ntwnfb",
-      "headline": "Australia politics live: Albanese denies tax reforms aimed at courting votes from growing gen Z cohort",
-      "summary": "Albanese denies tax reforms aimed at courting Gen Z votes ahead of Angus Taylor's budget reply speech.",
-      "url": "https://www.theguardian.com/p/x5373k",
-      "thumbnail": "https://media.guim.co.uk/c5973661855c8d87cc0b758c6b07a74dffea87d6/1082_0_6262_5013/500.jpg",
-      "published": "2026-05-13T21:41:29Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "politics/2026/may/13/starmer-sets-out-changes-to-education-health-and-courts-in-kings-speech",
-      "headline": "Keir Starmer sets out changes to education, health and courts in king’s speech",
-      "summary": "King Charles unveils government agenda as Starmer faces internal Labour leadership challenges.",
-      "url": "https://www.theguardian.com/p/x53784",
-      "thumbnail": "https://media.guim.co.uk/3efc076699c2d5fb06e91a9f3b29c84bb8c6b5f7/0_0_3745_2996/500.jpg",
-      "published": "2026-05-13T21:32:36Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "us-news/2026/may/13/jd-vance-anti-fraud-medicare-medicaid",
-      "headline": "JD Vance threatens health funding to states that don’t comply with White House anti-fraud effort",
-      "summary": "JD Vance threatens to cut Medicare/Medicaid funding to states refusing fraud compliance measures.",
-      "url": "https://www.theguardian.com/p/x539jf",
-      "thumbnail": "https://media.guim.co.uk/1397f73633bd1488bad6b2b3f8c007e0804d7e25/485_0_4853_3883/500.jpg",
-      "published": "2026-05-13T21:20:28Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "health",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "football/2026/may/13/scottish-premiership-hearts-falkirk-match-report",
-      "headline": "Hearts see off Falkirk but Celtic’s late show sets up final-day title decider",
-      "summary": "Hearts beat Falkirk 3-0 but must wait for title as Celtic's win sets up final-day decider.",
-      "url": "https://www.theguardian.com/p/x5378t",
-      "thumbnail": "https://media.guim.co.uk/56791fd813b0036bcee496c830c5715d1d494c62/105_0_2597_2077/500.jpg",
-      "published": "2026-05-13T21:11:55Z",
-      "location": {
-        "name": "Edinburgh",
-        "lat": 55.9533,
-        "lng": -3.1883
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "us-news/2026/may/13/stacey-abrams-redistricting-voter-maps-republicans-voting-rights-act",
-      "headline": "Republican redistricting effort is ‘evil incarnate’, Stacey Abrams tells new Guardian podcast",
-      "summary": "Stacey Abrams calls Republican redistricting efforts 'evil incarnate' in new Guardian podcast interview.",
-      "url": "https://www.theguardian.com/p/x539v2",
-      "thumbnail": "https://media.guim.co.uk/ed6507f7d68099ee753f946350ec58723b5b173b/506_0_5046_4039/500.jpg",
-      "published": "2026-05-13T21:01:07Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "football/2026/may/13/premier-league-manchester-city-crystal-palace-match-report",
-      "headline": "Foden inspires Manchester City’s win against Crystal Palace to close gap at top",
-      "summary": "Manchester City beats Crystal Palace 3-0 to close gap on Arsenal to two points.",
-      "url": "https://www.theguardian.com/p/x5377z",
-      "thumbnail": "https://media.guim.co.uk/134600afeb8f28d65f968b325376fc809d810945/227_0_2273_1818/500.jpg",
-      "published": "2026-05-13T20:59:57Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "australia-news/2026/may/14/morning-mail-thursday-ntwnfb",
-      "headline": "Morning Mail: Coalition ties immigration intake to housing build, Trump in China, farewell to rent-vesting?",
-      "summary": "Coalition proposes tying immigration intake to housing supply in Angus Taylor's budget reply speech.",
-      "url": "https://www.theguardian.com/p/x537xn",
-      "thumbnail": "https://media.guim.co.uk/658bb637c7ad8624d6029133c8f0673c296340fe/447_0_4475_3580/500.jpg",
-      "published": "2026-05-13T20:51:44Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
     {
       "id": "us-news/2026/may/13/howard-lutnick-jeffrey-epstein-interview-transcript",
       "headline": "Howard Lutnick said he had three ‘meaningless and inconsequential’ meetings with Epstein",
@@ -194,38 +82,6 @@
         "name": "Manchester",
         "lat": 53.4808,
         "lng": -2.2426
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "society/2026/may/13/weight-gain-adulthood-raises-cancer-risk-by-up-to-five-times-research",
-      "headline": "Weight gain as adult increases cancer risk by up to five times, research shows",
-      "summary": "Swedish study of 600,000 patients shows weight gain in adulthood increases cancer risk up to fivefold.",
-      "url": "https://www.theguardian.com/p/x537dd",
-      "thumbnail": "https://media.guim.co.uk/a371bc52675ea30ed059b37dcf088846f600403f/300_0_2957_2365/500.jpg",
-      "published": "2026-05-13T22:01:08Z",
-      "location": {
-        "name": "Stockholm",
-        "lat": 59.3293,
-        "lng": 18.0686
-      },
-      "category": "health",
-      "significance": 3,
-      "section": "society"
-    },
-    {
-      "id": "football/2026/may/13/european-football-khvicha-kvaratskhelia-powers-psg-to-ligue-1-title-at-lens",
-      "headline": "European football: Kvaratskhelia powers PSG to Ligue 1 title at Lens",
-      "summary": "PSG clinches fifth consecutive Ligue 1 title with 2-0 victory over Lens.",
-      "url": "https://www.theguardian.com/p/x53av9",
-      "thumbnail": "https://media.guim.co.uk/0c743d6371344eb8a3e8d104b6755d434c744834/705_0_5687_4548/500.jpg",
-      "published": "2026-05-13T21:56:55Z",
-      "location": {
-        "name": "Paris",
-        "lat": 48.8566,
-        "lng": 2.3522
       },
       "category": "sport",
       "significance": 2,
@@ -1876,6 +1732,134 @@
         "lng": -122.2869
       },
       "category": "health",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "world/2026/may/14/flavio-bolsonaro-banker-film-jair-bolsonaro",
+      "headline": "Tape shows Bolsonaro son asking jailed banker for $26.8m to fund film on father",
+      "summary": "Flávio Bolsonaro caught seeking $26.8m from jailed banker for father's film, damaging presidential bid.",
+      "url": "https://www.theguardian.com/p/x53e3t",
+      "thumbnail": "https://media.guim.co.uk/02504fb546aa7328acf6e6b1cd1d2c7d3d81ca6c/279_0_4241_3395/500.jpg",
+      "published": "2026-05-14T21:58:29Z",
+      "location": {
+        "name": "Brasília",
+        "lat": -15.8267,
+        "lng": -47.8822
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "film/2026/may/14/parallel-tales-review-isabelle-huppert-sexual-fantasy-for-vincent-cassel-in-asghar-farhadis-latest",
+      "headline": "Parallel Tales review – Isabelle Huppert pens furtive sexual fantasy for Vincent Cassel in Asghar Farhadi’s latest",
+      "summary": "Asghar Farhadi's meta-drama at Cannes features Isabelle Huppert and Catherine Deneuve.",
+      "url": "https://www.theguardian.com/p/x53e3f",
+      "thumbnail": "https://media.guim.co.uk/11afd0cde5a451933530fa50e60050e574c3090b/477_0_2363_1890/500.jpg",
+      "published": "2026-05-14T21:50:18Z",
+      "location": {
+        "name": "Cannes",
+        "lat": 43.5528,
+        "lng": 7.0174
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "film"
+    },
+    {
+      "id": "tv-and-radio/2026/may/15/delta-goodrem-eurovision-2026-performance-watch-australia-grand-final-eclipse",
+      "headline": "Eurovision 2026: Delta Goodrem sends Australia to the grand final with note-perfect performance",
+      "summary": "Delta Goodrem's crystalline Eurovision performance qualifies Australia for 2026 grand final.",
+      "url": "https://www.theguardian.com/p/x53fjq",
+      "thumbnail": "https://media.guim.co.uk/61a667ce16bc0137f0c60e706bbbcb9e729aa21e/789_0_5947_4760/500.jpg",
+      "published": "2026-05-14T21:38:41Z",
+      "location": {
+        "name": "Vienna",
+        "lat": 48.2082,
+        "lng": 16.3738
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "tv-and-radio"
+    },
+    {
+      "id": "us-news/2026/may/14/supreme-court-mifepristone-abortion-pill-upheld",
+      "headline": "Supreme court allows abortion pill mifepristone to continue to be available by mail",
+      "summary": "Supreme Court upholds nationwide mail-order access to abortion pill mifepristone.",
+      "url": "https://www.theguardian.com/p/x538f4",
+      "thumbnail": "https://media.guim.co.uk/d1fce7dfb05c391c6f87abfceb9fc8a4301bf598/620_0_4714_3773/500.jpg",
+      "published": "2026-05-14T21:38:21Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "health",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "uk-news/2026/may/14/uk-ministers-accused-weakening-legal-protections-torture-victims-seeking-asylum",
+      "headline": "UK ministers accused of weakening legal protections for torture victims seeking asylum",
+      "summary": "UK accused of weakening torture victim protections in asylum deportation law changes.",
+      "url": "https://www.theguardian.com/p/x53evh",
+      "thumbnail": "https://media.guim.co.uk/16183b6282b112e98bc9929d40a525e02d6c492e/0_635_3543_2834/500.jpg",
+      "published": "2026-05-14T21:30:18Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "world/2026/may/14/us-china-delegation-photo-no-women",
+      "headline": "Photo of US-China delegation criticized over absence of women: ‘masculine, militarized and exclusionary’",
+      "summary": "Trump-Xi delegation photo criticized for lack of women, signaling exclusion from global decision-making.",
+      "url": "https://www.theguardian.com/p/x53fd6",
+      "thumbnail": "https://media.guim.co.uk/65be1bc0fd1e0f083b2b63f327f4dee8d7a4e884/500_0_5000_4000/500.jpg",
+      "published": "2026-05-14T21:15:54Z",
+      "location": {
+        "name": "Beijing",
+        "lat": 39.9042,
+        "lng": 116.4074
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "us-news/2026/may/14/louisiana-senate-bill-black-congressional-districts",
+      "headline": "Louisiana senate passes bill to eliminate one of two majority-Black congressional districts",
+      "summary": "Louisiana Senate passes bill eliminating one of two majority-Black congressional districts.",
+      "url": "https://www.theguardian.com/p/x53ffb",
+      "thumbnail": "https://media.guim.co.uk/fb3d17d5d4e120b4f255563ecf79cc7a5dbdb420/720_0_7200_5760/500.jpg",
+      "published": "2026-05-14T21:14:43Z",
+      "location": {
+        "name": "Baton Rouge",
+        "lat": 30.4515,
+        "lng": -91.1871
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/may/14/alito-stock-conflicts-senate-investigation",
+      "headline": "Watchdog groups urge Senate to investigate Samuel Alito over oil stock conflicts",
+      "summary": "Watchdog groups urge Senate to investigate Justice Alito's oil stock conflicts of interest.",
+      "url": "https://www.theguardian.com/p/x53evc",
+      "thumbnail": "https://media.guim.co.uk/d451cfc588ceb00bd2b0ddadcc0ac01ca82a3a0b/616_0_6164_4934/500.jpg",
+      "published": "2026-05-14T21:06:28Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
       "significance": 2,
       "section": "us-news"
     }
