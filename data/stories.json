@@ -1,140 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-14T07:21:58.214Z",
-    "story_count": 91,
-    "oldest_story": "2026-05-13T07:41:26Z",
-    "newest_story": "2026-05-14T07:18:28Z",
+    "generated_at": "2026-05-14T09:43:54.807Z",
+    "story_count": 97,
+    "oldest_story": "2026-05-13T09:54:13Z",
+    "newest_story": "2026-05-14T09:43:27Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "business/live/2026/may/13/uk-bond-market-yields-political-turmoil-oil-inflation-housing-market-live-updates",
-      "headline": "UK government borrowing costs falling as Starmer holds on to power – business live",
-      "summary": "UK bond yields drop as PM Starmer retains power amid leadership challenge.",
-      "url": "https://www.theguardian.com/p/x536av",
-      "thumbnail": "https://media.guim.co.uk/87f1076bea598c0ee0b11e026e5dd59502264994/94_0_4300_3440/500.jpg",
-      "published": "2026-05-13T08:15:38Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "business"
-    },
-    {
-      "id": "politics/live/2026/may/13/keir-starmer-labour-party-prime-minister-leadership-wes-streeting-kings-speech-latest-news-updates",
-      "headline": "Wes Streeting leaves No 10 after planned talks with Keir Starmer last less than 20 minutes - UK politics live",
-      "summary": "Health Secretary Streeting meets PM Starmer but stops short of formal leadership challenge.",
-      "url": "https://www.theguardian.com/p/x536dn",
-      "thumbnail": "https://media.guim.co.uk/3688e9f34781d0439d0dac1682eac8583179755d/276_172_4222_3378/500.jpg",
-      "published": "2026-05-13T08:13:57Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "politics"
-    },
-    {
-      "id": "film/2026/may/13/northern-soul-still-burning-review-thumping-celebration-of-the-legendary-underground-club-scene",
-      "headline": "Northern Soul: Still Burning review – thumping celebration of the legendary underground club scene",
-      "summary": "Documentary celebrates legendary northern soul underground club scene of 1960s-1970s.",
-      "url": "https://www.theguardian.com/p/x522f7",
-      "thumbnail": "https://media.guim.co.uk/398893a522da535701f08b28c4c90b1cf19b7874/390_0_3988_3189/500.jpg",
-      "published": "2026-05-13T08:00:24Z",
-      "location": {
-        "name": "Wigan",
-        "lat": 53.5454,
-        "lng": -2.629
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "film"
-    },
-    {
-      "id": "politics/2026/may/13/voters-england-pick-names-nearer-top-ballot-data-suggests",
-      "headline": "Easy as ABC: voters in England tend to pick names nearer top of ballot, data suggests",
-      "summary": "English local election analysis reveals 'alphabet effect' with top-listed candidates gaining votes.",
-      "url": "https://www.theguardian.com/p/x52z7z",
-      "thumbnail": "https://media.guim.co.uk/99b5beb10ca9f4822a70f5496743474ad7f0eef6/411_0_4653_3725/500.jpg",
-      "published": "2026-05-13T08:00:24Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "football/2026/may/13/manchester-city-women-new-training-facility",
-      "headline": "Personalised chopsticks and underwater treadmills: Manchester City Women find new ways to win",
-      "summary": "Manchester City Women inaugurate £10m state-of-the-art training facility with innovative amenities.",
-      "url": "https://www.theguardian.com/p/x533t2",
-      "thumbnail": "https://media.guim.co.uk/4f7820b2d1b5c3fef815ab4b3a29e5d20cbb8999/314_890_2491_1994/500.jpg",
-      "published": "2026-05-13T08:00:24Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4808,
-        "lng": -2.2426
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "world/live/2026/may/13/ukraine-russia-war-sergei-lavrov-mark-rutte-bucharest-europe-latest-news-updates",
-      "headline": "Russian foreign minister says ‘nothing is happening’ in US talks on Ukraine and peace process is stuck – Europe live ",
-      "summary": "Russian FM says US-Ukraine peace talks stalled as Bucharest Nine meets NATO secretary.",
-      "url": "https://www.theguardian.com/p/x536gb",
-      "thumbnail": "https://media.guim.co.uk/7b4c9794df0ac2ccb990fbde8d6ae69f03c1bf2a/1136_811_4876_3900/500.jpg",
-      "published": "2026-05-13T07:57:57Z",
-      "location": {
-        "name": "Bucharest",
-        "lat": 44.4268,
-        "lng": 26.1025
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "stage/2026/may/13/jamaican-musical-the-harder-they-come-suzan-lori-parks-perry-henzell-jimmy-cliff-stratford-east",
-      "headline": "‘What’s this groove becoming?!’ How The Harder They Come captured 70s Jamaica and blazed on to stage",
-      "summary": "Musical adaptation of 70s Jamaican film 'The Harder They Come' returns after reggae icon's death.",
-      "url": "https://www.theguardian.com/p/x5xza4",
-      "thumbnail": "https://media.guim.co.uk/9afc3939ec60aac3dc4798d163053bf78af043ac/669_0_6663_5333/500.jpg",
-      "published": "2026-05-13T07:46:31Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "stage"
-    },
-    {
-      "id": "technology/2026/may/13/nvidia-jensen-huang-joins-trump-as-tech-dominates-china-trip",
-      "headline": "Nvidia’s Jensen Huang joins Trump as tech dominates China trip",
-      "summary": "Nvidia CEO Jensen Huang joins Trump's China delegation alongside Musk and Cook for trade mission.",
-      "url": "https://www.theguardian.com/p/x536aj",
-      "thumbnail": "https://media.guim.co.uk/09e8ebedefc1bb9bac94ec3c7c55104f1079452e/1585_596_4221_3379/500.jpg",
-      "published": "2026-05-13T07:41:26Z",
-      "location": {
-        "name": "Beijing",
-        "lat": 39.9042,
-        "lng": 116.4074
-      },
-      "category": "tech",
-      "significance": 3,
-      "section": "technology"
-    },
     {
       "id": "sport/2026/may/13/emilio-gay-james-rew-sonny-baker-england-test-squad-new-zealand-cricket-series",
       "headline": "Gay, Rew and Baker called up to England Test squad and Robinson in from cold",
@@ -1458,6 +1330,230 @@
         "name": "Sydney",
         "lat": -33.8688,
         "lng": 151.2093
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "sport/live/2026/may/14/womens-state-of-origin-game-2-queensland-maroons-v-nsw-blues-live",
+      "headline": "Queensland Maroons v NSW Blues: Women’s State of Origin game 2 – live ",
+      "summary": "Women's State of Origin game 2 between Queensland Maroons and NSW Blues at Suncorp Stadium.",
+      "url": "https://www.theguardian.com/p/x53bke",
+      "thumbnail": "https://media.guim.co.uk/542911c2a1fef8122873b3c8d684dfc91e8036bb/559_0_3959_3168/500.jpg",
+      "published": "2026-05-14T09:43:27Z",
+      "location": {
+        "name": "Brisbane",
+        "lat": -27.4698,
+        "lng": 153.0251
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "politics/live/2026/may/14/angela-rayner-says-starmer-should-reflect-on-stepping-aside-after-hmrc-clears-her-over-tax-affairs-uk-politics-live",
+      "headline": "Angela Rayner says Starmer should ‘reflect on’ stepping aside after HMRC clears her over tax affairs - UK politics live",
+      "summary": "Angela Rayner cleared by HMRC, signals willingness to contest Labour leadership if Starmer steps aside.",
+      "url": "https://www.theguardian.com/p/x53c4p",
+      "thumbnail": "https://media.guim.co.uk/4be62bd395a62c1075bb50067b9eb648d53a62f8/813_0_3221_2577/500.jpg",
+      "published": "2026-05-14T09:42:41Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "australia-news/2026/may/14/angus-taylor-budget-reply-coalition-plan-index-tax-brackets-inflation-resource-windfalls-fund",
+      "headline": "Angus Taylor vows to index tax brackets to inflation and invest resource windfalls into fund, in budget reply ",
+      "summary": "Opposition leader Angus Taylor vows to index tax brackets to inflation and fund commodity windfalls.",
+      "url": "https://www.theguardian.com/p/x53cd7",
+      "thumbnail": "https://media.guim.co.uk/5989d2202f6da54e35d77473ca6b6527597b8ea7/1850_721_4894_3915/500.jpg",
+      "published": "2026-05-14T09:30:22Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "world/live/2026/may/14/russia-ukraine-strikes-poland-defence-talks-latest-news-updates",
+      "headline": "Latvia prime minister resigns days after ‘stray’ drone incursion – Europe live",
+      "summary": "Latvia's prime minister Evika Siliņa resigns over frustration with drone incursion response and late alerts.",
+      "url": "https://www.theguardian.com/p/x53ca9",
+      "thumbnail": "https://media.guim.co.uk/04492c26127c4e3614378d2b5ac1a8bcd1431da8/255_0_2553_2043/500.jpg",
+      "published": "2026-05-14T09:25:18Z",
+      "location": {
+        "name": "Riga",
+        "lat": 56.9496,
+        "lng": 24.1052
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "australia-news/2026/may/14/hantavirus-australia-cases-cruise-ship-netherlands-to-perth-passengers-full-ppe",
+      "headline": "Australians from hantavirus cruise ship fly out of Netherlands in full PPE after plane and crew secured",
+      "summary": "Six Australians from hantavirus cruise ship return to Western Australia after testing negative.",
+      "url": "https://www.theguardian.com/p/x535zn",
+      "thumbnail": "https://media.guim.co.uk/231e55f4c1355d3f364c10b8d2a8bc645f5817f0/260_0_4583_3668/500.jpg",
+      "published": "2026-05-14T09:20:16Z",
+      "location": {
+        "name": "Perth",
+        "lat": -31.9505,
+        "lng": 115.8605
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "world/2026/may/14/philippines-senator-ronald-dela-rosa-wanted-by-icc-fled",
+      "headline": "Philippine politician wanted by ICC flees senate after days holed up in building",
+      "summary": "Philippine senator Ronald dela Rosa, wanted by ICC for Duterte drug war role, flees senate building.",
+      "url": "https://www.theguardian.com/p/x53bh9",
+      "thumbnail": "https://media.guim.co.uk/2e5a1891519f706db683f1b26212d5b7a2a47493/676_0_5160_4128/500.jpg",
+      "published": "2026-05-14T09:16:09Z",
+      "location": {
+        "name": "Manila",
+        "lat": 14.5994,
+        "lng": 120.9842
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "fashion/2026/may/14/anderson-designer-dior-hollywood-los-angeles",
+      "headline": "Anderson juices up the vibes for Dior with spotlight on Hollywood ",
+      "summary": "Designer Jonathan Anderson stages Dior show in Los Angeles to deepen label's Hollywood cinema presence.",
+      "url": "https://www.theguardian.com/p/x53c9x",
+      "thumbnail": "https://media.guim.co.uk/c0301dcef62d9565809d72a2a4c713d4b3348634/971_127_4425_3540/500.jpg",
+      "published": "2026-05-14T09:13:18Z",
+      "location": {
+        "name": "Los Angeles",
+        "lat": 34.0522,
+        "lng": -118.2437
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "fashion"
+    },
+    {
+      "id": "commentisfree/2026/may/14/free-pass-antisemitism-left-right-nigel-farage-zack-polanski-jewish",
+      "headline": "No one should get a free pass on antisemitism – so why does the right?",
+      "summary": "Opinion piece examines inconsistent scrutiny of antisemitism across political left and right in UK.",
+      "url": "https://www.theguardian.com/p/x5327e",
+      "thumbnail": "https://media.guim.co.uk/33e5a6f63c7a50a661ac79cc810b4682bef5efcc/496_0_4915_3933/500.jpg",
+      "published": "2026-05-14T09:00:23Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "commentisfree"
+    },
+    {
+      "id": "sport/2026/may/14/indycar-shirt-trump-penske",
+      "headline": "IndyCar’s ‘One Nation, One Race’ controversy is no surprise amid its rightward drift",
+      "summary": "IndyCar withdraws controversial 'One Nation, One Race' shirt amid backlash and rightward drift concerns.",
+      "url": "https://www.theguardian.com/p/x539df",
+      "thumbnail": "https://media.guim.co.uk/9699b6939a1e01ab3328611bde19a3296f3caee5/0_66_1200_960/500.jpg",
+      "published": "2026-05-14T09:00:23Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "sport",
+      "significance": 1,
+      "section": "sport"
+    },
+    {
+      "id": "us-news/2026/may/14/chicago-knight-rider-kitt-car-new-york-speeding-ticket",
+      "headline": "Chicago Knight Rider car framed for speeding in New York City",
+      "summary": "Knight Rider's Kitt car replica receives speeding ticket in Brooklyn despite being displayed at Chicago museum.",
+      "url": "https://www.theguardian.com/p/x5396e",
+      "thumbnail": "https://media.guim.co.uk/0d3c989b45814e97133dfb86207711c49bb5ea0b/289_0_2506_2005/500.jpg",
+      "published": "2026-05-14T09:00:23Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "us-news"
+    },
+    {
+      "id": "technology/2026/may/14/gossip-goblin-ai-film-making-new-era-hollywood",
+      "headline": "‘There are no rules’: spotlight on Gossip Goblin as AI film-making enters new era",
+      "summary": "AI film-making studio in Stockholm explores new creative era as Hollywood shows growing interest.",
+      "url": "https://www.theguardian.com/p/x52t2t",
+      "thumbnail": "https://media.guim.co.uk/0234950112c22adbc6f8b75b39cc260ee23940a7/2690_0_5320_4256/500.jpg",
+      "published": "2026-05-14T09:00:22Z",
+      "location": {
+        "name": "Stockholm",
+        "lat": 59.3293,
+        "lng": 18.0686
+      },
+      "category": "tech",
+      "significance": 2,
+      "section": "technology"
+    },
+    {
+      "id": "film/2026/may/14/teenage-sex-and-death-at-camp-miasma-review-seductive-gillian-anderson-fulfils-a-rapturous-slasher-fan-obsession",
+      "headline": "Teenage Sex and Death at Camp Miasma review – Gillian Anderson superb in queer slasher spectacular",
+      "summary": "Jane Schoenbrun's 'Teenage Sex and Death at Camp Miasma' features Gillian Anderson in queer slasher film.",
+      "url": "https://www.theguardian.com/p/x53c5e",
+      "thumbnail": "https://media.guim.co.uk/a581616319d92190423bb479f72365498f037abe/982_0_3945_3159/500.jpg",
+      "published": "2026-05-14T08:55:19Z",
+      "location": {
+        "name": "Cannes",
+        "lat": 43.5528,
+        "lng": 7.0174
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "film"
+    },
+    {
+      "id": "business/2026/may/14/rachel-reeves-uk-economy-gdp-boost",
+      "headline": "Reeves says ‘if economy ain’t broke, don’t fix it’ - as fight to keep her job goes on",
+      "summary": "UK economy records surprise 0.3% growth in March; Chancellor Reeves cites boost amid leadership turmoil.",
+      "url": "https://www.theguardian.com/p/x53c2x",
+      "thumbnail": "https://media.guim.co.uk/99de29eb3b61c69d6790cf4d96751bcfbecafbd1/399_0_4203_3362/500.jpg",
+      "published": "2026-05-14T08:53:44Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "business"
+    },
+    {
+      "id": "world/2026/may/14/inevitable-jet-fuel-shortages-will-drive-up-air-fares-this-summer-says-willie-walsh",
+      "headline": "‘Inevitable’ jet fuel shortages will drive up air fares this summer, says Willie Walsh",
+      "summary": "IATA chief warns of inevitable air fare increases this summer due to jet fuel shortages from Iran war.",
+      "url": "https://www.theguardian.com/p/x53c4h",
+      "thumbnail": "https://media.guim.co.uk/16901be47fa714a5b078122c07c38cea4bc40a83/463_0_2500_2000/500.jpg",
+      "published": "2026-05-14T08:35:06Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
       },
       "category": "economy",
       "significance": 2,
