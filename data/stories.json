@@ -1,44 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-13T23:59:11.974Z",
-    "story_count": 88,
-    "oldest_story": "2026-05-13T01:00:12Z",
-    "newest_story": "2026-05-13T23:01:10Z",
+    "generated_at": "2026-05-14T04:08:26.774Z",
+    "story_count": 93,
+    "oldest_story": "2026-05-13T04:23:08Z",
+    "newest_story": "2026-05-14T04:07:45Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "us-news/2026/may/12/trump-news-latest-updates-today",
-      "headline": "Trump news at a glance: despite presidential pressure, some Republicans in South Carolina take stand against redistricting",
-      "summary": "Five Republicans join Democrats to reject Trump-backed redistricting proposal in South Carolina.",
-      "url": "https://www.theguardian.com/p/x5325a",
-      "thumbnail": "https://media.guim.co.uk/1c0893ebf6d416b4a305e7ad247a490107a9e697/560_0_5600_4480/500.jpg",
-      "published": "2026-05-13T01:00:15Z",
-      "location": {
-        "name": "South Carolina",
-        "lat": 34.0007,
-        "lng": -81.1637
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "world/2026/may/13/ukraine-war-briefing-deadly-russian-bombing-spree-end-of-ceasefire",
-      "headline": "Ukraine war briefing: Deadly Russian bombing spree marks end of ceasefire",
-      "summary": "Russian bombing kills six in Dnipropetrovsk as three-day ceasefire ends in Ukraine war.",
-      "url": "https://www.theguardian.com/p/x534pc",
-      "thumbnail": "https://media.guim.co.uk/f18cd3660373e0184617b4b523aa28b375234d8a/269_0_2735_2188/500.jpg",
-      "published": "2026-05-13T01:00:12Z",
-      "location": {
-        "name": "Dnipropetrovsk",
-        "lat": 48.4647,
-        "lng": 35.0597
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "world"
-    },
     {
       "id": "tv-and-radio/2026/may/13/tv-tonight-a-stirring-exploration-of-some-grim-goings-on-in-ruislip",
       "headline": "TV tonight: a stirring exploration of some grim goings on in Ruislip",
@@ -1414,6 +1382,118 @@
       "category": "health",
       "significance": 2,
       "section": "society"
+    },
+    {
+      "id": "us-news/live/2026/may/14/donald-trump-china-xi-jinping-live-updates-talks-meeting-summit-visit-beijing-latest-news",
+      "headline": "Trump-Xi summit live: US president says relationship with China will be ‘better than ever’ as key meeting begins",
+      "summary": "Trump and Xi Jinping begin high-stakes summit in Beijing amid tensions over trade, AI, and Iran war.",
+      "url": "https://www.theguardian.com/p/x534hb",
+      "thumbnail": "https://media.guim.co.uk/73cf02a2904557f5327bfe2f3245f02a97fd772b/1196_0_6880_5504/500.jpg",
+      "published": "2026-05-14T04:07:45Z",
+      "location": {
+        "name": "Beijing",
+        "lat": 39.9042,
+        "lng": 116.4074
+      },
+      "category": "politics",
+      "significance": 4,
+      "section": "us-news"
+    },
+    {
+      "id": "news/datablog/ng-interactive/2026/may/14/world-cup-us-canada-mexico-how-hot-will-it-be-dangerous-for-players-fans-temperature",
+      "headline": "How hot will it be at the 2026 World Cup and is it dangerous for players and fans?",
+      "summary": "2026 World Cup in North America faces heat safety risks, with Miami venues most vulnerable to dangerous temperatures.",
+      "url": "https://www.theguardian.com/p/x4mxfy",
+      "thumbnail": "https://media.guim.co.uk/fe9e73ce57d37556abd83815f4e35c9f1c19898a/0_0_2500_2000/500.jpg",
+      "published": "2026-05-14T04:00:18Z",
+      "location": {
+        "name": "Miami",
+        "lat": 25.7617,
+        "lng": -80.1918
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "news"
+    },
+    {
+      "id": "world/2026/may/14/secret-mission-palestinian-refugee-archive-unrwa-israel",
+      "headline": "The secret mission to rescue the UN’s vital Palestinian refugee archive",
+      "summary": "UNRWA conducted secret 10-month mission to rescue millions of Palestinian refugee documents from Gaza and East Jerusalem.",
+      "url": "https://www.theguardian.com/p/x4znqt",
+      "thumbnail": "https://media.guim.co.uk/35e2a90b1f3f7e8e3150b5a73241ae3862af2097/251_0_1675_1340/500.jpg",
+      "published": "2026-05-14T04:00:16Z",
+      "location": {
+        "name": "Gaza",
+        "lat": 31.9254,
+        "lng": 35.2275
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "commentisfree/2026/may/14/europe-big-problems-japan-taiwan-care-systems",
+      "headline": "For three years I scoured the world for answers to Europe’s big problems – here’s what I found",
+      "summary": "Japan and Taiwan's care systems offer solutions to Europe's aging population challenges through innovative planning.",
+      "url": "https://www.theguardian.com/p/x52zfk",
+      "thumbnail": "https://media.guim.co.uk/0e04df341c4d5a484d4c76b18b04aac144f129bd/12_0_3477_2781/500.jpg",
+      "published": "2026-05-14T04:00:16Z",
+      "location": {
+        "name": "Tokyo",
+        "lat": 35.6762,
+        "lng": 139.6503
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "commentisfree"
+    },
+    {
+      "id": "world/2026/may/14/ahmed-al-doush-wife-pleads-saudi-arabia-for-his-release-social-media-posts",
+      "headline": "Wife of Briton pleads for Saudi Arabia to release him from ‘arbitrary detention’",
+      "summary": "Wife of detained British national Ahmed al-Doush pleads for his release from arbitrary Saudi detention since 2024.",
+      "url": "https://www.theguardian.com/p/x536jy",
+      "thumbnail": "https://media.guim.co.uk/dd3f4a70c6998bf594fffc12a87eb16c05258554/0_0_1628_1303/500.jpg",
+      "published": "2026-05-14T04:00:16Z",
+      "location": {
+        "name": "Riyadh",
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "environment/2026/may/14/choughs-reappear-tintagel-castle-cornwall-king-arthur",
+      "headline": "Choughs reappear at Tintagel Castle in Cornwall after decades of absence",
+      "summary": "Rare choughs return to Tintagel Castle in Cornwall after decades, linked to King Arthur mythology.",
+      "url": "https://www.theguardian.com/p/x5337j",
+      "thumbnail": "https://media.guim.co.uk/5869559c45dc3e89c281adf48fd8e65591378283/188_311_1347_1077/500.jpg",
+      "published": "2026-05-14T04:00:16Z",
+      "location": {
+        "name": "Tintagel",
+        "lat": 50.6632,
+        "lng": -4.7495
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "environment"
+    },
+    {
+      "id": "global-development/2026/may/14/india-gen-z-trend-secondhand-fashion-jobs",
+      "headline": "‘A passion, but also a gamble’: why India’s gen Z are cashing in on the trend for secondhand fashion",
+      "summary": "Gen Z Indians turn secondhand fashion online sales into income amid job scarcity and rising living costs.",
+      "url": "https://www.theguardian.com/p/x5vh4q",
+      "thumbnail": "https://media.guim.co.uk/6104f06710590f6aed7c6ebed387b7a4cba29390/203_0_4219_3376/500.jpg",
+      "published": "2026-05-14T03:00:14Z",
+      "location": {
+        "name": "India",
+        "lat": 20.5937,
+        "lng": 78.9629
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "global-development"
     }
   ]
 }
