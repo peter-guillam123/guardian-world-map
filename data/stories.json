@@ -1,172 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-14T09:43:54.807Z",
-    "story_count": 97,
-    "oldest_story": "2026-05-13T09:54:13Z",
-    "newest_story": "2026-05-14T09:43:27Z",
+    "generated_at": "2026-05-14T11:30:04.569Z",
+    "story_count": 102,
+    "oldest_story": "2026-05-13T12:23:09Z",
+    "newest_story": "2026-05-14T11:26:23Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "sport/2026/may/13/emilio-gay-james-rew-sonny-baker-england-test-squad-new-zealand-cricket-series",
-      "headline": "Gay, Rew and Baker called up to England Test squad and Robinson in from cold",
-      "summary": "England names uncapped trio and Robinson's return for New Zealand Test series.",
-      "url": "https://www.theguardian.com/p/x5375e",
-      "thumbnail": "https://media.guim.co.uk/054a8ede5a070de28efb7ac501171a15de31a7d1/389_112_2488_1990/500.jpg",
-      "published": "2026-05-13T11:00:13Z",
-      "location": {
-        "name": "New Zealand",
-        "lat": -40.9006,
-        "lng": 174.886
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "global-development/2026/may/13/official-marking-land-brazil-uncontacted-kawahiva",
-      "headline": "Official marking of land for Brazil’s uncontacted Kawahiva people begins after 27-year wait",
-      "summary": "Brazil begins demarcating 410,000 hectares for uncontacted Kawahiva Indigenous people.",
-      "url": "https://www.theguardian.com/p/x52mmd",
-      "thumbnail": "https://media.guim.co.uk/9140a07cda7679986db98d91f7a0a3724a2890af/292_0_1204_963/500.jpg",
-      "published": "2026-05-13T11:00:08Z",
-      "location": {
-        "name": "Brazil",
-        "lat": -14.235,
-        "lng": -51.9253
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "global-development"
-    },
-    {
-      "id": "politics/2026/may/13/wes-streeting-plans-to-resign-and-mount-leadership-challenge-allies-say",
-      "headline": "Wes Streeting plans to resign and mount leadership challenge, allies say",
-      "summary": "Wes Streeting plans resignation and leadership challenge against Keir Starmer.",
-      "url": "https://www.theguardian.com/p/x537an",
-      "thumbnail": "https://media.guim.co.uk/d95d1ee8a08f82fe97d6cc706c9a8f3a41578179/142_0_5566_4454/500.jpg",
-      "published": "2026-05-13T10:56:47Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "politics"
-    },
-    {
-      "id": "technology/2026/may/13/datacentres-electricity-consumption-uk-us-ai",
-      "headline": "Datacentres using 6% of electricity supply in UK and US, research says",
-      "summary": "Datacentres consume 6% of UK and US electricity with AI driving 15% global rise.",
-      "url": "https://www.theguardian.com/p/x533km",
-      "thumbnail": "https://media.guim.co.uk/b06cb76a8d1930cd7908c77e28a524a5ece8ed02/1345_0_6723_5381/500.jpg",
-      "published": "2026-05-13T10:48:13Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "tech",
-      "significance": 2,
-      "section": "technology"
-    },
-    {
-      "id": "politics/2026/may/13/keir-starmer-wes-streeting-meeting-labour-leadership-crisis",
-      "headline": "Starmer holds 16-minute meeting with Streeting amid leadership crisis",
-      "summary": "Starmer holds 16-minute meeting with Streeting amid Labour leadership crisis.",
-      "url": "https://www.theguardian.com/p/x536hj",
-      "thumbnail": "https://media.guim.co.uk/9cf398e7e82086d5b15ac48dbf8642912e12fafb/718_0_4733_3787/500.jpg",
-      "published": "2026-05-13T10:30:29Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "politics"
-    },
-    {
-      "id": "music/2026/may/13/kanye-west-loses-lawsuit-uncleared-sample-stadium-fan-listening-party",
-      "headline": "Kanye West loses lawsuit over uncleared sample played at stadium fan event",
-      "summary": "Kanye West loses copyright lawsuit over uncleared sample at 2021 listening party.",
-      "url": "https://www.theguardian.com/p/x536jb",
-      "thumbnail": "https://media.guim.co.uk/11e8343ebd471fc2402a544d5093fe7a3f2d721e/300_0_3000_2400/500.jpg",
-      "published": "2026-05-13T10:25:42Z",
-      "location": {
-        "name": "Atlanta",
-        "lat": 33.749,
-        "lng": -84.388
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "music"
-    },
-    {
-      "id": "artanddesign/2026/may/13/zineb-sedira-review-a-chic-ode-to-revolutionary-cinema-brainy-boozers-and-exceptional-berets",
-      "headline": "Zineb Sedira review: A chic ode to revolutionary cinema, brainy boozers – and exceptional berets",
-      "summary": "Zineb Sedira's Tate Britain exhibition explores radical 1960s-70s cinema as weapon.",
-      "url": "https://www.theguardian.com/p/x5334d",
-      "thumbnail": "https://media.guim.co.uk/e50286d794c9f281681432e8c9d2a3ad3b51c53b/269_0_6713_5370/500.jpg",
-      "published": "2026-05-13T10:10:32Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "artanddesign"
-    },
-    {
-      "id": "world/2026/may/13/neuty-the-nutria-dies-cancer",
-      "headline": "Neuty the nutria, viral pet rodent whose family fought a state to keep him, dies of cancer",
-      "summary": "Neuty the nutria, viral Louisiana pet rodent, dies of cancer after family legal battle.",
-      "url": "https://www.theguardian.com/p/x533q3",
-      "thumbnail": "https://media.guim.co.uk/2634023b30e939a94c31888ff305866346c84548/285_0_1350_1080/500.jpg",
-      "published": "2026-05-13T10:00:07Z",
-      "location": {
-        "name": "New Orleans",
-        "lat": 29.9511,
-        "lng": -90.2623
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "world"
-    },
-    {
-      "id": "film/2026/may/13/normal-review-ben-wheatley-bob-odenkirk",
-      "headline": "Normal review – Fargo meets The Firm in cheerfully weird Bob Odenkirk small-town thriller",
-      "summary": "Bob Odenkirk stars in Ben Wheatley's dark Minnesota thriller 'Normal'.",
-      "url": "https://www.theguardian.com/p/x522yg",
-      "thumbnail": "https://media.guim.co.uk/29e650a77e83d36a112f46e689adccc79a10cf72/153_0_1250_1000/500.jpg",
-      "published": "2026-05-13T10:00:06Z",
-      "location": {
-        "name": "Minnesota",
-        "lat": 45.6945,
-        "lng": -93.9196
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "film"
-    },
-    {
-      "id": "sport/2026/may/13/oswestry-cc-boasts-10-mother-daughter-pairs-cricket-the-spin",
-      "headline": "‘We have a hoot on the field’: Oswestry CC boasts 10 mother-daughter pairs",
-      "summary": "Oswestry CC women's section features 10 mother-daughter pairs since 2018 launch.",
-      "url": "https://www.theguardian.com/p/x53x48",
-      "thumbnail": "https://media.guim.co.uk/dd3e9a2f74bfb9bf768ca45f5d87427c117ce571/654_0_7200_5760/500.jpg",
-      "published": "2026-05-13T09:54:13Z",
-      "location": {
-        "name": "Oswestry",
-        "lat": 52.8628,
-        "lng": -3.3034
-      },
-      "category": "sport",
-      "significance": 1,
-      "section": "sport"
-    },
     {
       "id": "sport/live/2026/may/13/england-v-new-zealand-second-womens-one-day-international-live",
       "headline": "England v New Zealand: start of second women’s cricket ODI delayed by rain – live",
@@ -1558,6 +1398,246 @@
       "category": "economy",
       "significance": 2,
       "section": "business"
+    },
+    {
+      "id": "tv-and-radio/2026/may/14/ultimate-eurovision-quiz-2026",
+      "headline": "Take the ultimate Eurovision quiz! Can you avoid nil points?",
+      "summary": "Eurovision 2026 grand final takes place in Vienna with quiz testing knowledge of Europe's pop spectacle.",
+      "url": "https://www.theguardian.com/p/x5xtbk",
+      "thumbnail": "https://media.guim.co.uk/03e23508c5430c56a467b6181cc4ed17eed52cbd/124_0_1868_1494/500.jpg",
+      "published": "2026-05-14T11:26:23Z",
+      "location": {
+        "name": "Vienna",
+        "lat": 48.2082,
+        "lng": 16.3738
+      },
+      "category": "culture",
+      "significance": 3,
+      "section": "tv-and-radio"
+    },
+    {
+      "id": "education/2026/may/14/kings-college-london-to-merge-with-cranfield-university",
+      "headline": "King’s College London to merge with Cranfield University",
+      "summary": "King's College London agrees to merge with Cranfield University to create UK's second-largest university.",
+      "url": "https://www.theguardian.com/p/x53cnj",
+      "thumbnail": "https://media.guim.co.uk/4feb024a730f2d455190937a35f38cc26956c4e2/743_0_4284_3426/500.jpg",
+      "published": "2026-05-14T11:18:49Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "education"
+    },
+    {
+      "id": "business/2026/may/14/hedge-fund-proposes-1bn-buyout-of-spire-uk-biggest-private-hospital-operator",
+      "headline": "Hedge fund proposes £1bn buyout of UK’s biggest private hospital operator",
+      "summary": "Hedge fund Toscafund proposes £1bn buyout of Spire Healthcare, UK's largest private hospital operator.",
+      "url": "https://www.theguardian.com/p/x53ceq",
+      "thumbnail": "https://media.guim.co.uk/40a1fb05d72adef16738152a83e2bd02911be78c/292_0_2917_2333/500.jpg",
+      "published": "2026-05-14T11:12:03Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "politics/2026/may/14/streeting-in-standoff-with-no-10-as-allies-claim-things-are-shifting",
+      "headline": "Streeting in standoff with No 10 as allies claim ‘things are shifting’",
+      "summary": "Health Secretary Wes Streeting locked in standoff with PM Keir Starmer over potential leadership challenge.",
+      "url": "https://www.theguardian.com/p/x53d4h",
+      "thumbnail": "https://media.guim.co.uk/c937642fc973355092a8620b3ebe65fa8ac7ea8c/397_0_3911_3128/500.jpg",
+      "published": "2026-05-14T11:01:30Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "politics"
+    },
+    {
+      "id": "us-news/2026/may/14/ice-checks-police-cincinnati-schools",
+      "headline": "Unauthorized ICE ‘wellness checks’ by police at Ohio schools draw outrage ",
+      "summary": "ICE conducts unauthorized wellness checks at Cincinnati schools, drawing outrage from community groups.",
+      "url": "https://www.theguardian.com/p/x529jx",
+      "thumbnail": "https://media.guim.co.uk/6dbbdf104d4e1890bf391f858757f5b5a7943a44/449_0_4501_3600/500.jpg",
+      "published": "2026-05-14T11:00:26Z",
+      "location": {
+        "name": "Cincinnati",
+        "lat": 39.1582,
+        "lng": -84.4615
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "stage/2026/may/14/ian-mckellen-king-lear-yard-theatre-east-london",
+      "headline": "Fit for a king: Ian McKellen to play Lear at newly rebuilt Yard theatre in east London",
+      "summary": "Ian McKellen returns to theatre as King Lear at newly rebuilt Yard Theatre in east London.",
+      "url": "https://www.theguardian.com/p/x536kh",
+      "thumbnail": "https://media.guim.co.uk/533c0122da9effff4b8fe9689edd57892f37024d/294_0_2652_2122/500.jpg",
+      "published": "2026-05-14T11:00:25Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "stage"
+    },
+    {
+      "id": "world/2026/may/14/un-equatorial-guinea-us-deportees",
+      "headline": "UN urges Equatorial Guinea to halt plans to return US deportees to home countries",
+      "summary": "UN urges Equatorial Guinea to halt returning US deportees facing political violence and torture.",
+      "url": "https://www.theguardian.com/p/x53a2n",
+      "thumbnail": "https://media.guim.co.uk/8b16c976f04e2ef07186becf8de728c6c5757d81/720_0_7200_5760/500.jpg",
+      "published": "2026-05-14T11:00:25Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "games/2026/may/14/players-debate-uk-politicians-pokemon-style-online-game-politidex",
+      "headline": "Gotta catch an MP! Players ‘debate’ UK politicians in Pokémon-style game ",
+      "summary": "Politidex app allows players to debate UK politicians in Pokémon-style online game format.",
+      "url": "https://www.theguardian.com/p/x52z22",
+      "thumbnail": "https://media.guim.co.uk/350efdf38555b9c932673f23485cc086bf0e6fbd/0_12_3132_2506/500.jpg",
+      "published": "2026-05-14T10:41:26Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "tech",
+      "significance": 1,
+      "section": "games"
+    },
+    {
+      "id": "artanddesign/2026/may/14/go-big-or-go-home-how-the-lost-giants-revived-the-ancient-art-of-goliath-making",
+      "headline": "Go big or go home: how The Lost Giants revived the ancient art of goliath-making",
+      "summary": "Cornish art collective The Lost Giants revives ancient art of creating enormous public effigies.",
+      "url": "https://www.theguardian.com/p/x532fk",
+      "thumbnail": "https://media.guim.co.uk/5533587a20b00363a37c8c5eb9fe56d35e2aaafb/0_246_1463_1170/500.jpg",
+      "published": "2026-05-14T10:37:21Z",
+      "location": {
+        "name": "Cornwall",
+        "lat": 50.2768,
+        "lng": -4.759
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "artanddesign"
+    },
+    {
+      "id": "politics/2026/may/14/labour-leadership-rules-not-tweaked-andy-burnham-run-pm-nec-member",
+      "headline": "Leadership rules should ‘not be tweaked’ to let Burnham run for PM, Labour NEC member says",
+      "summary": "Labour NEC member warns against tweaking leadership rules to allow Andy Burnham's PM candidacy.",
+      "url": "https://www.theguardian.com/p/x53cma",
+      "thumbnail": "https://media.guim.co.uk/bba14c0c12ba9683911995f6490e8422c935eaae/500_0_5000_4000/500.jpg",
+      "published": "2026-05-14T10:34:26Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "sport/2026/may/14/cricket-australia-in-talks-with-amazon-and-dazn-over-ashes-broadcast-rights",
+      "headline": "Cricket Australia in talks with Amazon and Dazn over Ashes broadcast rights",
+      "summary": "Cricket Australia negotiates UK broadcast rights for Ashes series with Amazon and Dazn.",
+      "url": "https://www.theguardian.com/p/x53cmj",
+      "thumbnail": "https://media.guim.co.uk/f7eb98c903f6b8db489f4008af621e15b52db439/746_0_6212_4970/500.jpg",
+      "published": "2026-05-14T10:30:40Z",
+      "location": {
+        "name": "Australia",
+        "lat": -25.2744,
+        "lng": 133.7751
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "world/2026/may/14/brazil-atlantic-forest-deforestation-record",
+      "headline": "Brazil’s Atlantic forest records lowest deforestation in 40 years",
+      "summary": "Brazil's Atlantic forest records lowest deforestation level in 40 years of monitoring.",
+      "url": "https://www.theguardian.com/p/x5344y",
+      "thumbnail": "https://media.guim.co.uk/0ef39889425fc1d20713fc0691061cd09d9cf944/315_0_3560_2848/500.jpg",
+      "published": "2026-05-14T10:29:49Z",
+      "location": {
+        "name": "Brazil",
+        "lat": -14.235,
+        "lng": -51.9253
+      },
+      "category": "climate",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "football/2026/may/14/arne-slot-every-reason-to-believe-be-at-liverpool-next-season",
+      "headline": "Arne Slot says he has ‘every reason to believe’ he will be at Liverpool next season",
+      "summary": "Arne Slot expresses confidence he will remain Liverpool manager for next season.",
+      "url": "https://www.theguardian.com/p/x53dxe",
+      "thumbnail": "https://media.guim.co.uk/ac199cb51ee23853cef60b47196f5bae94edd63e/688_0_5296_4237/500.jpg",
+      "published": "2026-05-14T10:21:12Z",
+      "location": {
+        "name": "Liverpool",
+        "lat": 53.4308,
+        "lng": -2.9606
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "business/2026/may/14/burberrys-handbag-cotswolds-hits-sweet-spot-americans",
+      "headline": "Burberry’s £2,000 Cotswolds handbag hits ‘a sweet spot’ with Americans",
+      "summary": "Burberry's £2,000 Cotswolds handbag boosts sales as region gains popularity with Americans.",
+      "url": "https://www.theguardian.com/p/x53ce9",
+      "thumbnail": "https://media.guim.co.uk/8dcf84da38fd30395dd1b564beb1cf3a84158ee6/455_0_2490_1993/500.jpg",
+      "published": "2026-05-14T10:20:57Z",
+      "location": {
+        "name": "Cotswolds",
+        "lat": 51.833,
+        "lng": -1.8433
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "football/2026/may/14/mikel-arteta-arsenal-jurrien-timber-champions-league-final",
+      "headline": "Arteta hoping Timber will win fitness race for Champions League final",
+      "summary": "Mikel Arteta hopeful Jurriën Timber recovers in time for Arsenal's Champions League final.",
+      "url": "https://www.theguardian.com/p/x53cpq",
+      "thumbnail": "https://media.guim.co.uk/66600bce3d3ce3b9cde76884c3a799140783cf5e/505_292_4604_3683/500.jpg",
+      "published": "2026-05-14T10:20:07Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
     }
   ]
 }
