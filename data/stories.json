@@ -1,140 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-14T11:30:04.569Z",
-    "story_count": 102,
-    "oldest_story": "2026-05-13T12:23:09Z",
-    "newest_story": "2026-05-14T11:26:23Z",
+    "generated_at": "2026-05-14T13:17:27.580Z",
+    "story_count": 104,
+    "oldest_story": "2026-05-13T14:58:57Z",
+    "newest_story": "2026-05-14T13:16:18Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "sport/live/2026/may/13/england-v-new-zealand-second-womens-one-day-international-live",
-      "headline": "England v New Zealand: start of second women’s cricket ODI delayed by rain – live",
-      "summary": "England v New Zealand women's cricket ODI delayed by rain at Northampton.",
-      "url": "https://www.theguardian.com/p/x53xcb",
-      "thumbnail": "https://media.guim.co.uk/5aa92e316c3e62e3fb43f79d6397cbab6f15086c/0_0_5000_4000/500.jpg",
-      "published": "2026-05-13T13:16:31Z",
-      "location": {
-        "name": "Northampton",
-        "lat": 52.2394,
-        "lng": -0.8952
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "world/2026/may/13/russia-targets-ukraine-with-more-than-200-drones-in-daytime-assault",
-      "headline": "Russia targets Ukraine with more than 200 drones in daytime assault",
-      "summary": "Russia launches 200+ drone attack on Ukraine amid ceasefire breakdown and Trump peace claims.",
-      "url": "https://www.theguardian.com/p/x537ef",
-      "thumbnail": "https://media.guim.co.uk/59e6389a375fcae6d03c9821f6dccd14636636ac/668_0_3519_2817/500.jpg",
-      "published": "2026-05-13T13:07:13Z",
-      "location": {
-        "name": "Ukraine",
-        "lat": 48.3794,
-        "lng": 31.1656
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "capture-more-with-samsung/2026/may/13/how-ai-phone-cameras-are-changing-content-creation-for-gamers",
-      "headline": "I’m a gaming influencer – and this AI-powered phone camera is changing the way I create content",
-      "summary": "Trump lands in Beijing for high-stakes summit with Xi Jinping on trade, AI and Taiwan.",
-      "url": "https://www.theguardian.com/p/x4pzvz",
-      "thumbnail": "https://media.guim.co.uk/eaf27c8d198f69e98c9bd7c4104c0dc921c2aaf2/590_55_2877_2302/500.jpg",
-      "published": "2026-05-13T12:58:08Z",
-      "location": {
-        "name": "Beijing",
-        "lat": 39.9042,
-        "lng": 116.4074
-      },
-      "category": "politics",
-      "significance": 4,
-      "section": "capture-more-with-samsung"
-    },
-    {
-      "id": "world/2026/may/13/trump-china-summit-xi-jinping-talks",
-      "headline": "Trump lands in China for high-stakes summit with Xi Jinping, as Iran war looms over talks",
-      "summary": "Kyle Diamantas becomes acting FDA commissioner after Trump appoints ex-corporate lawyer.",
-      "url": "https://www.theguardian.com/p/x53566",
-      "thumbnail": "https://media.guim.co.uk/b54e53550ab91876a33194fd284a7786f5bd1832/456_0_6278_5023/500.jpg",
-      "published": "2026-05-13T12:38:34Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "us-news/2026/may/13/kyle-diamantas-new-acting-fda-commissioner",
-      "headline": "What to know about Kyle Diamantas, the new acting FDA commissioner",
-      "summary": "Beijing tightens security for Trump visit amid scepticism over US-China relations.",
-      "url": "https://www.theguardian.com/p/x535ge",
-      "thumbnail": "https://media.guim.co.uk/44ea29ab012089428a2b2c8b808a2641ae929b8b/0_66_900_720/500.jpg",
-      "published": "2026-05-13T12:35:56Z",
-      "location": {
-        "name": "Beijing",
-        "lat": 39.9042,
-        "lng": 116.4074
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "world/2026/may/13/trump-visit-beijing-china-scepticism-security",
-      "headline": "Scepticism and tight security as Beijing braces for Trump visit",
-      "summary": "Coalition proposes linking immigration limits to new housing builds in budget reply.",
-      "url": "https://www.theguardian.com/p/x536mg",
-      "thumbnail": "https://media.guim.co.uk/649a56ef85f3057c20b720a12c018c8ea4ee7194/816_0_5013_4009/500.jpg",
-      "published": "2026-05-13T12:30:01Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "australia-news/2026/may/13/coalition-immigration-policy-housing-budget-reply-angus-taylor",
-      "headline": "Coalition to link immigration limits to new builds as Taylor says ‘migration has run miles ahead of housing’",
-      "summary": "Gunshots fired in Philippine senate as ICC-wanted senator Ronald dela Rosa evades arrest.",
-      "url": "https://www.theguardian.com/p/x536f6",
-      "thumbnail": "https://media.guim.co.uk/337dc21629c3bd5c1f9d10d0d627268540cdc7b8/295_0_2953_2362/500.jpg",
-      "published": "2026-05-13T12:30:00Z",
-      "location": {
-        "name": "Manila",
-        "lat": 14.5995,
-        "lng": 120.9842
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "australia-news"
-    },
-    {
-      "id": "world/2026/may/13/gunshots-philippines-senate-senator-ronald-dela-rosa",
-      "headline": "Gunshots in Philippines senate where senator is holed up to evade arrest",
-      "summary": "ENO Manchester debut features Angel's Bone, Du Yun's unsettling human trafficking allegory.",
-      "url": "https://www.theguardian.com/p/x537k9",
-      "thumbnail": "https://media.guim.co.uk/06f88af2b3c4aabc93fb9fdfe9982717bae809a2/409_0_3013_2411/500.jpg",
-      "published": "2026-05-13T12:23:09Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4808,
-        "lng": -2.2426
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "world"
-    },
     {
       "id": "politics/2026/may/13/nigel-farage-inquiry-gift-crypto-billionaire-reform-uk-christopher-harborne",
       "headline": "Nigel Farage faces inquiry over £5m gift from crypto billionaire",
@@ -1637,6 +1509,166 @@
       },
       "category": "sport",
       "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "sport/live/2026/may/14/us-pga-championship-day-one-live",
+      "headline": "US PGA Championship, day one – live",
+      "summary": "US PGA Championship first round underway at Aronimink Golf Club in Pennsylvania with live updates.",
+      "url": "https://www.theguardian.com/p/x532gk",
+      "thumbnail": "https://media.guim.co.uk/845ea2b47e9ea2136bfedb49c7f9041ec4713640/625_0_5058_4047/500.jpg",
+      "published": "2026-05-14T13:16:18Z",
+      "location": {
+        "name": "Aronimink Golf Club, Pennsylvania",
+        "lat": 39.9526,
+        "lng": -75.1894
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "world/2026/may/14/iran-strait-of-hormuz-navy-uae",
+      "headline": "Iran says ships entering strait of Hormuz must cooperate after vessel seized",
+      "summary": "Iran seizes vessel outside UAE port; foreign minister demands ships cooperate with Iranian navy in Strait.",
+      "url": "https://www.theguardian.com/p/x53dvy",
+      "thumbnail": "https://media.guim.co.uk/b4248f32cdbd635b9e3a1624e73962d802d3cde9/111_0_1319_1056/500.jpg",
+      "published": "2026-05-14T13:11:37Z",
+      "location": {
+        "name": "Strait of Hormuz",
+        "lat": 26.55,
+        "lng": 56.2667
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "us-news/2026/may/14/trump-presidential-library-miami-lawsuit",
+      "headline": "Miami residents sue over land for Trump presidential library",
+      "summary": "Miami residents sue Trump and Florida over waterfront land transfer for presidential library.",
+      "url": "https://www.theguardian.com/p/x53def",
+      "thumbnail": "https://media.guim.co.uk/284903a4e3789b7e54863706f50906d955136a58/505_0_3250_2600/500.jpg",
+      "published": "2026-05-14T13:10:26Z",
+      "location": {
+        "name": "Miami, Florida",
+        "lat": 25.7617,
+        "lng": -80.1918
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "politics/2026/may/14/nigel-farage-bought-property-after-receiving-gift-christopher-harborne-reform-uk",
+      "headline": "Nigel Farage bought £1.4m property shortly after receiving £5m gift",
+      "summary": "Nigel Farage bought £1.4m property shortly after receiving £5m gift from crypto billionaire.",
+      "url": "https://www.theguardian.com/p/x53dc6",
+      "thumbnail": "https://media.guim.co.uk/0ebec36d7a1aab5eed359a6ec0969fee94298559/0_100_2080_1664/500.jpg",
+      "published": "2026-05-14T12:51:17Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "politics/2026/may/14/starmer-profile-boost-streeting-ilford-north-seat-labour-leadership",
+      "headline": "‘Is he getting rid of Starmer?’ Profile boost for Streeting in Ilford North seat",
+      "summary": "Wes Streeting gains profile boost in Ilford North despite slim 528-vote majority in leadership speculation.",
+      "url": "https://www.theguardian.com/p/x53d54",
+      "thumbnail": "https://media.guim.co.uk/48cf83306c058c6b44180583d41e7e35f30a32a8/896_0_4609_3687/500.jpg",
+      "published": "2026-05-14T12:49:42Z",
+      "location": {
+        "name": "Ilford North",
+        "lat": 51.5582,
+        "lng": 0.0992
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "commentisfree/2026/may/14/jeremy-bamber-prison-media-jail-banned",
+      "headline": "I’ve been writing to Jeremy Bamber for years, but suddenly the prison has stopped me. Why?",
+      "summary": "Prison blocks journalist Simon Hattenstone from corresponding with prisoner Jeremy Bamber after 41 years.",
+      "url": "https://www.theguardian.com/p/x52zxd",
+      "thumbnail": "https://media.guim.co.uk/ef3db629df0799a25431f5aacee06b8386d99371/0_87_2034_1626/500.jpg",
+      "published": "2026-05-14T12:37:05Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 1,
+      "section": "commentisfree"
+    },
+    {
+      "id": "uk-news/2026/may/14/prince-harry-calls-rising-antisemitism-in-britain-deeply-troubling",
+      "headline": "Prince Harry calls rising antisemitism in Britain ‘deeply troubling’",
+      "summary": "Prince Harry calls rising antisemitism in Britain 'deeply troubling' amid Middle East tensions.",
+      "url": "https://www.theguardian.com/p/x53d7f",
+      "thumbnail": "https://media.guim.co.uk/46d5cb01c2312d499039f65976bbb3661030ce0a/0_0_6527_5222/500.jpg",
+      "published": "2026-05-14T12:30:24Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "environment/2026/may/14/seafood-company-abuse-claims-fish-farming",
+      "headline": "Salmon farm faces new cruelty claims as Trump seeks to supersize fish farming",
+      "summary": "New cruelty claims against salmon farm as Trump administration pushes industrial-scale fish farming expansion.",
+      "url": "https://www.theguardian.com/p/x53469",
+      "thumbnail": "https://media.guim.co.uk/1161b4bfcb95360c51f4b07484ba1c98814b4525/0_0_1280_1024/500.jpg",
+      "published": "2026-05-14T12:30:07Z",
+      "location": {
+        "name": "Maine",
+        "lat": 45.2538,
+        "lng": -69.4455
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "environment"
+    },
+    {
+      "id": "us-news/2026/may/14/first-thing-xi-trump-meeting-china-taiwan",
+      "headline": "First Thing: Xi warns Trump of ‘clashes and even conflicts’ with US over Taiwan",
+      "summary": "Xi warns Trump of potential 'clashes and conflicts' over Taiwan in two-hour meeting at Great Hall.",
+      "url": "https://www.theguardian.com/p/x53794",
+      "thumbnail": "https://media.guim.co.uk/4e5ea60a1a22e459ab5a0a9e0c6f9d47b99fdc11/171_0_1981_1584/500.jpg",
+      "published": "2026-05-14T12:26:48Z",
+      "location": {
+        "name": "Beijing",
+        "lat": 39.9042,
+        "lng": 116.4074
+      },
+      "category": "politics",
+      "significance": 4,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/may/14/inter-double-coppa-italia-final-mismatch-lazio-cristian-chivu",
+      "headline": "Inter’s latest double was never a given despite Coppa Italia final mismatch",
+      "summary": "Inter Milan wins Coppa Italia final against Lazio; Cristian Chivu's coaching influence key to double.",
+      "url": "https://www.theguardian.com/p/x53d5m",
+      "thumbnail": "https://media.guim.co.uk/9d73ebc05cd1e967861dcd9414c8156e6e952699/443_0_5618_4495/500.jpg",
+      "published": "2026-05-14T12:15:55Z",
+      "location": {
+        "name": "Rome",
+        "lat": 41.9028,
+        "lng": 12.4964
+      },
+      "category": "sport",
+      "significance": 2,
       "section": "football"
     }
   ]
