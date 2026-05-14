@@ -1,140 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-14T22:11:51.095Z",
-    "story_count": 116,
-    "oldest_story": "2026-05-13T22:21:59Z",
-    "newest_story": "2026-05-14T21:58:29Z",
+    "generated_at": "2026-05-14T23:13:35.158Z",
+    "story_count": 113,
+    "oldest_story": "2026-05-14T03:00:14Z",
+    "newest_story": "2026-05-14T23:01:20Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "us-news/2026/may/13/howard-lutnick-jeffrey-epstein-interview-transcript",
-      "headline": "Howard Lutnick said he had three ‘meaningless and inconsequential’ meetings with Epstein",
-      "summary": "Commerce Secretary Lutnick denies meaningful relationship with disgraced financier Epstein in House testimony.",
-      "url": "https://www.theguardian.com/p/x539hv",
-      "thumbnail": "https://media.guim.co.uk/8030c9206b7e85575112cf3ba3102ee0a2418611/683_0_6827_5464/500.jpg",
-      "published": "2026-05-13T22:36:29Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "football/2025/sep/15/premier-league-top-scorers-2025-26-who-is-leading-race-for-golden-boot",
-      "headline": "Premier League top scorers 2025-26: who is leading race for golden boot?",
-      "summary": "Erling Haaland leads Premier League goalscoring race with 26 goals this season.",
-      "url": "https://www.theguardian.com/p/x386fa",
-      "thumbnail": "https://media.guim.co.uk/dcdad426597084e37fb0bb1e0b633733a176badc/308_0_2046_1638/500.jpg",
-      "published": "2026-05-13T22:35:35Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "business/grogonomics/2026/may/14/cgt-capital-gains-tax-australian-workers-hard-done-by-budget-tax-reforms-fairness",
-      "headline": "Australian workers have been hard done by and tax reforms in the budget only begin to return some fairness",
-      "summary": "Australian budget tax reforms attempt to restore fairness for wage earners versus investment income beneficiaries.",
-      "url": "https://www.theguardian.com/p/x53653",
-      "thumbnail": "https://media.guim.co.uk/5ef4cad0fb323e8b9cfd5fb9a09c5f7c2b7c2179/1150_0_5614_4493/500.jpg",
-      "published": "2026-05-13T22:29:38Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "us-news/2026/may/13/influencer-detained-tennessee-alleged-confrontation-gunfire",
-      "headline": "Influencer detained in Tennessee over alleged confrontation involving gunfire",
-      "summary": "Influencer Chud the Builder detained after alleged shooting outside Tennessee courthouse.",
-      "url": "https://www.theguardian.com/p/x53a28",
-      "thumbnail": "https://media.guim.co.uk/9b847195bfe8d40974a568cf8927917a702ae726/720_0_7200_5760/500.jpg",
-      "published": "2026-05-13T22:29:01Z",
-      "location": {
-        "name": "Clarksville",
-        "lat": 36.5297,
-        "lng": -87.3595
-      },
-      "category": "conflict",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "football/2026/may/13/selfless-silva-gives-latest-reminder-of-why-manchester-city-will-miss-him-so-much",
-      "headline": "Selfless Silva gives latest reminder of why Manchester City will miss him so much",
-      "summary": "Bernardo Silva delivers outstanding performance in penultimate Manchester City match before departure.",
-      "url": "https://www.theguardian.com/p/x5378d",
-      "thumbnail": "https://media.guim.co.uk/3a6974b37492840bdd99e9f034284d350570ff6f/321_0_3446_2757/500.jpg",
-      "published": "2026-05-13T22:21:59Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4808,
-        "lng": -2.2426
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "environment/2026/may/14/typical-english-roast-dinner-potentially-drenched-in-102-pesticides-says-report",
-      "headline": "Typical English roast dinner potentially ‘drenched’ in 102 pesticides, says report",
-      "summary": "Greenpeace report finds English roast dinners may contain up to 102 pesticides including EU-banned chemicals.",
-      "url": "https://www.theguardian.com/p/x53376",
-      "thumbnail": "https://media.guim.co.uk/0d03d90bf19b6bda46f3e0de52de911dce95b589/126_0_3780_3024/500.jpg",
-      "published": "2026-05-13T23:01:10Z",
-      "location": {
-        "name": "United Kingdom",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "environment"
-    },
-    {
-      "id": "business/2026/may/14/housing-market-in-england-and-wales-weakening-due-to-iran-war-say-estate-agents",
-      "headline": "Housing market in England and Wales weakening due to Iran war, say estate agents",
-      "summary": "England and Wales housing market weakens as Iran conflict triggers mortgage rate and inflation concerns.",
-      "url": "https://www.theguardian.com/p/x536pz",
-      "thumbnail": "https://media.guim.co.uk/3292f81167f9b914510c4388d5d6d87a3d66443b/531_0_4269_3415/500.jpg",
-      "published": "2026-05-13T23:01:10Z",
-      "location": {
-        "name": "United Kingdom",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "society/2026/may/14/nhs-drugs-go-ahead-offers-lifeline-to-children-with-rare-muscle-wasting-disease",
-      "headline": "NHS drugs go-ahead offers lifeline to children with rare muscle-wasting disease",
-      "summary": "NHS approves two drugs for children with rare spinal muscular atrophy disease, offering new treatment hope.",
-      "url": "https://www.theguardian.com/p/x53977",
-      "thumbnail": "https://media.guim.co.uk/4469d7ef4c102c8e0614f2bacdb8ade20255e3d6/0_94_843_674/500.jpg",
-      "published": "2026-05-13T23:01:10Z",
-      "location": {
-        "name": "United Kingdom",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "society"
-    },
     {
       "id": "us-news/live/2026/may/14/donald-trump-china-xi-jinping-live-updates-talks-meeting-summit-visit-beijing-latest-news",
       "headline": "Trump-Xi summit live: US president says relationship with China will be ‘better than ever’ as key meeting begins",
@@ -1862,6 +1734,86 @@
       "category": "politics",
       "significance": 2,
       "section": "us-news"
+    },
+    {
+      "id": "football/2026/may/15/premier-league-and-fa-cup-final-10-things-to-look-out-for-this-weekend",
+      "headline": "Premier League and FA Cup final: 10 things to look out for this weekend",
+      "summary": "Manchester City face Chelsea in FA Cup final as Guardiola pursues 17th trophy.",
+      "url": "https://www.theguardian.com/p/x5389h",
+      "thumbnail": "https://media.guim.co.uk/473b6a619b0df0561bd82f3e1b5c47b55a8593bd/0_0_5000_4000/500.jpg",
+      "published": "2026-05-14T23:01:20Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "society/2026/may/15/nspcc-sharp-rise-children-blackmailed-over-sexual-images-uk",
+      "headline": "NSPCC reports sharp rise in children being blackmailed over sexual images in UK",
+      "summary": "NSPCC reports 36% rise in child blackmail over sexual images in UK.",
+      "url": "https://www.theguardian.com/p/x539vv",
+      "thumbnail": "https://media.guim.co.uk/3bcdb8e9e7dc7bdbf8f64cbf171ef77c6b917526/829_0_5093_4075/500.jpg",
+      "published": "2026-05-14T23:01:20Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "society"
+    },
+    {
+      "id": "world/2026/may/14/renowned-feminist-artist-and-film-maker-valie-export-dies-aged-85",
+      "headline": "Renowned feminist artist and film-maker Valie Export dies aged 85",
+      "summary": "Renowned feminist artist Valie Export dies at 85 in Vienna.",
+      "url": "https://www.theguardian.com/p/x53fda",
+      "thumbnail": "https://media.guim.co.uk/a9c8d5c92ac57236788b0c9abd56c9f5874e6af1/813_0_4646_3720/500.jpg",
+      "published": "2026-05-14T22:46:31Z",
+      "location": {
+        "name": "Vienna",
+        "lat": 48.2082,
+        "lng": 16.3738
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "society/2026/may/14/meningitis-outbreak-berkshire",
+      "headline": "One dead and two more ill after meningitis outbreak in Berkshire ",
+      "summary": "One dead, two ill in meningitis outbreak in Berkshire's Reading.",
+      "url": "https://www.theguardian.com/p/x53ey5",
+      "thumbnail": "https://media.guim.co.uk/e2920d2fd1b821ada4e1bcac4174619c485f1556/250_0_7500_6000/500.jpg",
+      "published": "2026-05-14T22:35:57Z",
+      "location": {
+        "name": "Reading",
+        "lat": 51.4545,
+        "lng": -0.9781
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "society"
+    },
+    {
+      "id": "world/2026/may/14/israel-sue-new-york-times-sexual-abuse-palestinian-prisoners",
+      "headline": "Israel says it will sue New York Times over article on sexual abuse of Palestinian prisoners ",
+      "summary": "Israel threatens defamation suit against New York Times over Palestinian abuse allegations.",
+      "url": "https://www.theguardian.com/p/x53ee2",
+      "thumbnail": "https://media.guim.co.uk/4310caea88cdbf16a94dc6abc9c5722a77bd2bc8/466_0_4644_3717/500.jpg",
+      "published": "2026-05-14T22:16:02Z",
+      "location": {
+        "name": "Jerusalem",
+        "lat": 31.7683,
+        "lng": 35.2137
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
     }
   ]
 }
