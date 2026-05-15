@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-05-14T23:13:35.158Z",
-    "story_count": 113,
+    "generated_at": "2026-05-15T00:12:47.725Z",
+    "story_count": 115,
     "oldest_story": "2026-05-14T03:00:14Z",
-    "newest_story": "2026-05-14T23:01:20Z",
+    "newest_story": "2026-05-15T00:07:22Z",
     "window_hours": 24
   },
   "stories": [
@@ -1814,6 +1814,38 @@
       "category": "politics",
       "significance": 3,
       "section": "world"
+    },
+    {
+      "id": "world/live/2026/may/15/trump-china-visit-live-updates-xi-jinping-talks-meeting-summit-latest-news",
+      "headline": "Trump China visit live: Rubio hoping for ‘positive response’ to appeal for release of Hong Kong activist Jimmy Lai",
+      "summary": "Trump and Xi hold summit talks on Taiwan, trade, and Jimmy Lai's release as tensions persist.",
+      "url": "https://www.theguardian.com/p/x53fnk",
+      "thumbnail": "https://media.guim.co.uk/a35bed9d2566ed603871f49f1430ee981c678936/410_0_4216_3372/500.jpg",
+      "published": "2026-05-15T00:07:22Z",
+      "location": {
+        "name": "Beijing",
+        "lat": 39.9042,
+        "lng": 116.4074
+      },
+      "category": "politics",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "environment/2026/may/15/australia-housing-affordability-homelessness-fossil-fuel-future-research",
+      "headline": "Australia’s housing affordability expected to worsen and homelessness soar under fossil-fuelled future",
+      "summary": "Australian housing affordability to worsen and homelessness quadruple unless emissions cut, research warns.",
+      "url": "https://www.theguardian.com/p/x53ah9",
+      "thumbnail": "https://media.guim.co.uk/8304b03b67eca1e8f14ab9824e0cd3822be29c9c/106_0_4164_3333/500.jpg",
+      "published": "2026-05-15T00:00:21Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "climate",
+      "significance": 3,
+      "section": "environment"
     }
   ]
 }
