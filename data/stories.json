@@ -1,188 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-15T18:09:08.716Z",
-    "story_count": 102,
-    "oldest_story": "2026-05-14T18:12:24Z",
-    "newest_story": "2026-05-15T18:08:49Z",
+    "generated_at": "2026-05-15T19:54:45.070Z",
+    "story_count": 97,
+    "oldest_story": "2026-05-14T19:56:32Z",
+    "newest_story": "2026-05-15T19:32:17Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/2026/may/14/chelsea-sam-kerr-leave-stamford-bridge-at-the-end-of-the-season-wsl",
-      "headline": "Chelsea’s Sam Kerr confirms she will leave Stamford Bridge at the end of the season",
-      "summary": "Sam Kerr confirms departure from Chelsea after six and a half years at end of season.",
-      "url": "https://www.theguardian.com/p/x53eyp",
-      "thumbnail": "https://media.guim.co.uk/8445e134444ce77c9fdfe50dd3042352f8a01c78/969_56_4066_3253/500.jpg",
-      "published": "2026-05-14T19:05:30Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "artanddesign/2026/may/14/peterborough-artist-rene-matic-wins-deutsche-borse-photography-prize",
-      "headline": "Peterborough artist Rene Matić wins Deutsche Börse photography prize",
-      "summary": "Peterborough artist Rene Matić wins prestigious Deutsche Börse Photography Prize 2026.",
-      "url": "https://www.theguardian.com/p/x538xz",
-      "thumbnail": "https://media.guim.co.uk/ddf7ba4cbbb267e9352060cf249aa917c6a75810/662_0_3118_2494/500.jpg",
-      "published": "2026-05-14T19:00:15Z",
-      "location": {
-        "name": "Peterborough",
-        "lat": 52.5749,
-        "lng": -0.2498
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "artanddesign"
-    },
-    {
-      "id": "stage/2026/may/14/black-diamonds-and-the-blue-brazil-review-royal-lyceum-edinburgh",
-      "headline": "Black Diamonds and the Blue Brazil review – a daughter waits to fulfil her football fan father’s final wish",
-      "summary": "Royal Lyceum stages Black Diamonds and the Blue Brazil, exploring coal mining and football heritage.",
-      "url": "https://www.theguardian.com/p/x53c84",
-      "thumbnail": "https://media.guim.co.uk/065dfadfb485e8c231117940bcd0ec9658d98ef0/1454_827_4581_3665/500.jpg",
-      "published": "2026-05-14T19:00:15Z",
-      "location": {
-        "name": "Edinburgh",
-        "lat": 55.9533,
-        "lng": -3.1883
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "stage"
-    },
-    {
-      "id": "world/2026/may/14/israel-nationalists-jerusalem-day-march-anniversary-protest",
-      "headline": "‘God gave us this city’: Israeli nationalists join Jerusalem Day protest to mark city’s capture",
-      "summary": "Israeli nationalists march through Old City on Jerusalem Day anniversary amid escalating tensions.",
-      "url": "https://www.theguardian.com/p/x53ek6",
-      "thumbnail": "https://media.guim.co.uk/76cccdba8fe3cb8e4bccc8e9a5760f4c1077e45b/549_0_5000_4000/500.jpg",
-      "published": "2026-05-14T18:51:47Z",
-      "location": {
-        "name": "Jerusalem",
-        "lat": 31.7683,
-        "lng": 35.2137
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "politics/2026/may/14/who-is-josh-simons-labour-mp-andy-burnham",
-      "headline": "Who is Josh Simons, the Labour MP who quit for Andy Burnham?",
-      "summary": "Labour MP Josh Simons resigns to allow Andy Burnham parliamentary bid in leadership contest.",
-      "url": "https://www.theguardian.com/p/x53eh4",
-      "thumbnail": "https://media.guim.co.uk/8d5c1cf5e1bf6dabe2e1f2885669f771ed29f7cb/345_263_3792_3033/500.jpg",
-      "published": "2026-05-14T18:48:28Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "books/2026/may/14/american-poet-sasha-debevec-mckenney-wins-dylan-thomas-prize-joy-is-my-middle-name",
-      "headline": "American poet Sasha Debevec-McKenney wins Dylan Thomas prize for ‘blistering’ debut poetry collection ",
-      "summary": "American poet Sasha Debevec-McKenney wins Dylan Thomas Prize for debut collection on race and identity.",
-      "url": "https://www.theguardian.com/p/x53xm6",
-      "thumbnail": "https://media.guim.co.uk/3bbbb941804746dc04c415091a02a9bb506efd5a/208_0_2083_1666/500.jpg",
-      "published": "2026-05-14T18:30:14Z",
-      "location": {
-        "name": "Swansea",
-        "lat": 51.6211,
-        "lng": -3.9435
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "books"
-    },
-    {
-      "id": "us-news/2026/may/14/house-congress-sexual-misconduct",
-      "headline": "US House leaders announce bipartisan effort to combat sexual misconduct in Congress",
-      "summary": "US House leaders announce bipartisan taskforce to combat sexual misconduct in Congress.",
-      "url": "https://www.theguardian.com/p/x53eh3",
-      "thumbnail": "https://media.guim.co.uk/64a9009eb98f339578f8097782d2422476052754/0_0_5000_4000/500.jpg",
-      "published": "2026-05-14T18:30:12Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "commentisfree/2026/may/14/the-guardian-view-on-life-after-orban-peter-magyars-fast-start-bodes-well-for-hungary-and-for-europe",
-      "headline": "The Guardian view on life after Orbán: Péter Magyar’s fast start bodes well for Hungary and for Europe",
-      "summary": "Peter Magyar's new pro-EU Hungarian government makes immediate impact in Brussels post-Orbán.",
-      "url": "https://www.theguardian.com/p/x536qq",
-      "thumbnail": "https://media.guim.co.uk/ba06f54c3c589c4f587af0cd66409f8cabcb147b/688_0_6880_5504/500.jpg",
-      "published": "2026-05-14T18:19:31Z",
-      "location": {
-        "name": "Budapest",
-        "lat": 47.4979,
-        "lng": 19.0402
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "commentisfree"
-    },
-    {
-      "id": "politics/2026/may/14/labour-mp-to-stand-down-to-allow-burnham-run-for-byelection-amid-leadership-row",
-      "headline": "Labour MP to stand down to allow Burnham run for byelection amid leadership row",
-      "summary": "Andy Burnham secures route to parliament through Makerfield byelection to challenge Starmer.",
-      "url": "https://www.theguardian.com/p/x53e9d",
-      "thumbnail": "https://media.guim.co.uk/074f45cb80cbaae237a716fc2c4f867e2540c4da/0_0_5906_4724/500.jpg",
-      "published": "2026-05-14T18:16:41Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "us-news/2026/may/11/liban-mohamed-utah-democratic-primary-house",
-      "headline": "The son of Somali immigrants shaking up Utah’s Democratic primary",
-      "summary": "Liban Mohamed, son of Somali immigrants, emerges as progressive challenger in Utah Democratic primary.",
-      "url": "https://www.theguardian.com/p/x5275q",
-      "thumbnail": "https://media.guim.co.uk/264dd3c48697a42891d20f744bd906cdf703b8ae/107_1759_4053_3239/500.jpg",
-      "published": "2026-05-14T18:15:21Z",
-      "location": {
-        "name": "Salt Lake City",
-        "lat": 40.7608,
-        "lng": -111.891
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "technology/2026/may/14/sam-altman-elon-musk-openai-lawsuit",
-      "headline": "Closing arguments begin in high-stakes Musk v OpenAI courtroom showdown",
-      "summary": "Closing arguments conclude in Elon Musk's high-stakes lawsuit against Sam Altman and OpenAI.",
-      "url": "https://www.theguardian.com/p/x53eff",
-      "thumbnail": "https://media.guim.co.uk/855b58d5c601367f4c5089ffe6d54eb88decef3c/314_0_3179_2544/500.jpg",
-      "published": "2026-05-14T18:12:24Z",
-      "location": {
-        "name": "San Francisco",
-        "lat": 37.7749,
-        "lng": -122.4194
-      },
-      "category": "tech",
-      "significance": 2,
-      "section": "technology"
-    },
     {
       "id": "australia-news/2026/may/15/morning-mail-friday-ntwnfb",
       "headline": "Taylor maps out tax plan, Coles case could end ‘fake discounts’, UK politics in turmoil",
@@ -1638,6 +1462,102 @@
       "category": "politics",
       "significance": 4,
       "section": "commentisfree"
+    },
+    {
+      "id": "society/2026/may/15/father-tribute-to-son-who-died-after-contracting-meningitis",
+      "headline": "Father pays tribute to ‘kind-hearted’ son who died after contracting meningitis",
+      "summary": "College student dies from meningitis in Berkshire outbreak affecting three cases.",
+      "url": "https://www.theguardian.com/p/x53ky6",
+      "thumbnail": "https://media.guim.co.uk/8e69f4d7b5c9651001da381ab0968c0e985c8e95/147_44_941_752/500.jpg",
+      "published": "2026-05-15T19:32:17Z",
+      "location": {
+        "name": "Berkshire",
+        "lat": 51.4545,
+        "lng": -0.873
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "society"
+    },
+    {
+      "id": "us-news/2026/may/15/george-town-ice-detention-center-lawsuit",
+      "headline": "Georgia town sues over ICE plan for vast immigration detention center",
+      "summary": "Georgia town sues to block 10,000-capacity ICE detention center citing service burden.",
+      "url": "https://www.theguardian.com/p/x53kjn",
+      "thumbnail": "https://media.guim.co.uk/d14e3cf571c757e142d1485573471dc988ef5390/488_0_4863_3893/500.jpg",
+      "published": "2026-05-15T19:22:53Z",
+      "location": {
+        "name": "Social Circle",
+        "lat": 33.5821,
+        "lng": -83.6244
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/may/15/real-madrid-jose-mourinho-saviour-la-liga",
+      "headline": "Thirteen years in the making: Madrid’s search for a saviour set to end in Mourinho return",
+      "summary": "José Mourinho set to return to Real Madrid after 13 years away from Bernabéu.",
+      "url": "https://www.theguardian.com/p/x53kbt",
+      "thumbnail": "https://media.guim.co.uk/131bc11ed4ab443c93f6e3afc62fd63d061d0312/383_0_1922_1537/500.jpg",
+      "published": "2026-05-15T19:04:29Z",
+      "location": {
+        "name": "Madrid",
+        "lat": 40.4168,
+        "lng": -3.7038
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "stage/2026/may/15/eclipse-review-minerva-theatre-chichester-john-morton",
+      "headline": "Eclipse review – W1A creator’s dark comedy about matters of life and death in Devon",
+      "summary": "W1A creator John Morton debuts as playwright with dark comedy at Minerva Theatre.",
+      "url": "https://www.theguardian.com/p/x53t3q",
+      "thumbnail": "https://media.guim.co.uk/9c1ff413cff7f108dbd50e7135db0fd1e2796eb3/496_288_2474_1979/500.jpg",
+      "published": "2026-05-15T19:00:48Z",
+      "location": {
+        "name": "Chichester",
+        "lat": 50.8353,
+        "lng": -0.7871
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "stage"
+    },
+    {
+      "id": "football/2026/may/15/underdogs-chelsea-have-shot-at-glory-at-end-of-season-of-disruption",
+      "headline": "Underdogs Chelsea have shot at glory at end of season of disruption",
+      "summary": "Chelsea underdogs face Manchester City in FA Cup final after season of disruption.",
+      "url": "https://www.theguardian.com/p/x53dj8",
+      "thumbnail": "https://media.guim.co.uk/be47cfc834afc141190ba553a52a67e98714974d/183_0_1834_1467/500.jpg",
+      "published": "2026-05-15T19:00:48Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "politics/2026/may/15/how-team-burnham-finally-cleared-the-first-of-many-hurdles-on-route-to-westminster",
+      "headline": "How team Burnham finally cleared the first of many hurdles on route to Westminster",
+      "summary": "Andy Burnham clears parliamentary hurdle in continued bid for Labour leadership role.",
+      "url": "https://www.theguardian.com/p/x53jpt",
+      "thumbnail": "https://media.guim.co.uk/9d766e20640879ddb36aacef2226978fc1452a1a/54_238_922_737/500.jpg",
+      "published": "2026-05-15T18:46:45Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
     }
   ]
 }
