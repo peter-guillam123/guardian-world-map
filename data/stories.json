@@ -1,172 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-15T12:12:06.539Z",
+    "generated_at": "2026-05-15T14:37:59.960Z",
     "story_count": 108,
-    "oldest_story": "2026-05-14T12:15:55Z",
-    "newest_story": "2026-05-15T12:10:02Z",
+    "oldest_story": "2026-05-14T14:50:10Z",
+    "newest_story": "2026-05-15T14:27:24Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "sport/live/2026/may/14/us-pga-championship-day-one-live",
-      "headline": "US PGA Championship, day one – live",
-      "summary": "US PGA Championship first round underway at Aronimink Golf Club in Pennsylvania with live updates.",
-      "url": "https://www.theguardian.com/p/x532gk",
-      "thumbnail": "https://media.guim.co.uk/845ea2b47e9ea2136bfedb49c7f9041ec4713640/625_0_5058_4047/500.jpg",
-      "published": "2026-05-14T13:16:18Z",
-      "location": {
-        "name": "Aronimink Golf Club, Pennsylvania",
-        "lat": 39.9526,
-        "lng": -75.1894
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "world/2026/may/14/iran-strait-of-hormuz-navy-uae",
-      "headline": "Iran says ships entering strait of Hormuz must cooperate after vessel seized",
-      "summary": "Iran seizes vessel outside UAE port; foreign minister demands ships cooperate with Iranian navy in Strait.",
-      "url": "https://www.theguardian.com/p/x53dvy",
-      "thumbnail": "https://media.guim.co.uk/b4248f32cdbd635b9e3a1624e73962d802d3cde9/111_0_1319_1056/500.jpg",
-      "published": "2026-05-14T13:11:37Z",
-      "location": {
-        "name": "Strait of Hormuz",
-        "lat": 26.55,
-        "lng": 56.2667
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "us-news/2026/may/14/trump-presidential-library-miami-lawsuit",
-      "headline": "Miami residents sue over land for Trump presidential library",
-      "summary": "Miami residents sue Trump and Florida over waterfront land transfer for presidential library.",
-      "url": "https://www.theguardian.com/p/x53def",
-      "thumbnail": "https://media.guim.co.uk/284903a4e3789b7e54863706f50906d955136a58/505_0_3250_2600/500.jpg",
-      "published": "2026-05-14T13:10:26Z",
-      "location": {
-        "name": "Miami, Florida",
-        "lat": 25.7617,
-        "lng": -80.1918
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "politics/2026/may/14/nigel-farage-bought-property-after-receiving-gift-christopher-harborne-reform-uk",
-      "headline": "Nigel Farage bought £1.4m property shortly after receiving £5m gift",
-      "summary": "Nigel Farage bought £1.4m property shortly after receiving £5m gift from crypto billionaire.",
-      "url": "https://www.theguardian.com/p/x53dc6",
-      "thumbnail": "https://media.guim.co.uk/0ebec36d7a1aab5eed359a6ec0969fee94298559/0_100_2080_1664/500.jpg",
-      "published": "2026-05-14T12:51:17Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "politics/2026/may/14/starmer-profile-boost-streeting-ilford-north-seat-labour-leadership",
-      "headline": "‘Is he getting rid of Starmer?’ Profile boost for Streeting in Ilford North seat",
-      "summary": "Wes Streeting gains profile boost in Ilford North despite slim 528-vote majority in leadership speculation.",
-      "url": "https://www.theguardian.com/p/x53d54",
-      "thumbnail": "https://media.guim.co.uk/48cf83306c058c6b44180583d41e7e35f30a32a8/896_0_4609_3687/500.jpg",
-      "published": "2026-05-14T12:49:42Z",
-      "location": {
-        "name": "Ilford North",
-        "lat": 51.5582,
-        "lng": 0.0992
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "commentisfree/2026/may/14/jeremy-bamber-prison-media-jail-banned",
-      "headline": "I’ve been writing to Jeremy Bamber for years, but suddenly the prison has stopped me. Why?",
-      "summary": "Prison blocks journalist Simon Hattenstone from corresponding with prisoner Jeremy Bamber after 41 years.",
-      "url": "https://www.theguardian.com/p/x52zxd",
-      "thumbnail": "https://media.guim.co.uk/ef3db629df0799a25431f5aacee06b8386d99371/0_87_2034_1626/500.jpg",
-      "published": "2026-05-14T12:37:05Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 1,
-      "section": "commentisfree"
-    },
-    {
-      "id": "uk-news/2026/may/14/prince-harry-calls-rising-antisemitism-in-britain-deeply-troubling",
-      "headline": "Prince Harry calls rising antisemitism in Britain ‘deeply troubling’",
-      "summary": "Prince Harry calls rising antisemitism in Britain 'deeply troubling' amid Middle East tensions.",
-      "url": "https://www.theguardian.com/p/x53d7f",
-      "thumbnail": "https://media.guim.co.uk/46d5cb01c2312d499039f65976bbb3661030ce0a/0_0_6527_5222/500.jpg",
-      "published": "2026-05-14T12:30:24Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "environment/2026/may/14/seafood-company-abuse-claims-fish-farming",
-      "headline": "Salmon farm faces new cruelty claims as Trump seeks to supersize fish farming",
-      "summary": "New cruelty claims against salmon farm as Trump administration pushes industrial-scale fish farming expansion.",
-      "url": "https://www.theguardian.com/p/x53469",
-      "thumbnail": "https://media.guim.co.uk/1161b4bfcb95360c51f4b07484ba1c98814b4525/0_0_1280_1024/500.jpg",
-      "published": "2026-05-14T12:30:07Z",
-      "location": {
-        "name": "Maine",
-        "lat": 45.2538,
-        "lng": -69.4455
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "environment"
-    },
-    {
-      "id": "us-news/2026/may/14/first-thing-xi-trump-meeting-china-taiwan",
-      "headline": "First Thing: Xi warns Trump of ‘clashes and even conflicts’ with US over Taiwan",
-      "summary": "Xi warns Trump of potential 'clashes and conflicts' over Taiwan in two-hour meeting at Great Hall.",
-      "url": "https://www.theguardian.com/p/x53794",
-      "thumbnail": "https://media.guim.co.uk/4e5ea60a1a22e459ab5a0a9e0c6f9d47b99fdc11/171_0_1981_1584/500.jpg",
-      "published": "2026-05-14T12:26:48Z",
-      "location": {
-        "name": "Beijing",
-        "lat": 39.9042,
-        "lng": 116.4074
-      },
-      "category": "politics",
-      "significance": 4,
-      "section": "us-news"
-    },
-    {
-      "id": "football/2026/may/14/inter-double-coppa-italia-final-mismatch-lazio-cristian-chivu",
-      "headline": "Inter’s latest double was never a given despite Coppa Italia final mismatch",
-      "summary": "Inter Milan wins Coppa Italia final against Lazio; Cristian Chivu's coaching influence key to double.",
-      "url": "https://www.theguardian.com/p/x53d5m",
-      "thumbnail": "https://media.guim.co.uk/9d73ebc05cd1e967861dcd9414c8156e6e952699/443_0_5618_4495/500.jpg",
-      "published": "2026-05-14T12:15:55Z",
-      "location": {
-        "name": "Rome",
-        "lat": 41.9028,
-        "lng": 12.4964
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
     {
       "id": "world/2026/may/14/taiwan-trump-silence-xi-meeting-best-outcome",
       "headline": "For anxious Taiwan, Trump’s silence after Xi talks is best possible outcome",
@@ -438,22 +278,6 @@
       "category": "culture",
       "significance": 1,
       "section": "culture"
-    },
-    {
-      "id": "world/2026/may/14/ukraine-second-day-large-scale-russian-missile-drone-strikes",
-      "headline": "Ukraine hit by second day of large-scale Russian missile and drone strikes ",
-      "summary": "Russia launches second day of massive missile and drone strikes on Ukraine, killing at least 8.",
-      "url": "https://www.theguardian.com/p/x53cnk",
-      "thumbnail": "https://media.guim.co.uk/28ebba6e9386edb40d1b2d1b23e0662d8afa93d6/827_0_5040_4032/500.jpg",
-      "published": "2026-05-14T14:29:37Z",
-      "location": {
-        "name": "Kyiv",
-        "lat": 50.4501,
-        "lng": 30.5234
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "world"
     },
     {
       "id": "film/2026/may/14/fatherland-review-sandra-huller-thomas-mann-pawel-pawlikowski-cannes-film-festivali",
@@ -1734,6 +1558,182 @@
       "category": "politics",
       "significance": 2,
       "section": "politics"
+    },
+    {
+      "id": "tv-and-radio/2026/may/15/rivals-actor-katherine-parkinson-lauds-series-for-depicting-womens-view-of-sex",
+      "headline": "Rivals actor Katherine Parkinson lauds series for depicting women’s view of sex",
+      "summary": "Katherine Parkinson praises Rivals series for depicting women's perspective on sex.",
+      "url": "https://www.theguardian.com/p/x53tfj",
+      "thumbnail": "https://media.guim.co.uk/58599835666e95a85e503fd1e11393d7fe7b6131/1233_0_7000_5600/500.jpg",
+      "published": "2026-05-15T14:27:24Z",
+      "location": {
+        "name": "Bristol",
+        "lat": 51.4545,
+        "lng": -2.5879
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "tv-and-radio"
+    },
+    {
+      "id": "uk-news/2026/may/15/far-right-activists-barred-uk-tommy-robinson-rally",
+      "headline": "Far-right activists barred from UK ahead of Tommy Robinson rally",
+      "summary": "Far-right activists barred from UK ahead of Tommy Robinson rally as Starmer condemns him.",
+      "url": "https://www.theguardian.com/p/x53tqj",
+      "thumbnail": "https://media.guim.co.uk/4cb7f9a49610f5fdff168a01e2cafb645fd9b5a5/0_0_5000_4000/500.jpg",
+      "published": "2026-05-15T14:22:36Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "culture/2026/may/15/seth-meyers-trump-xi-jinping-china-visit",
+      "headline": "Seth Meyers on Trump sucking up to Xi: ‘What happened to standing up to China?’",
+      "summary": "Late-night hosts mock Trump's fawning China trip and friendly overtures to Xi Jinping.",
+      "url": "https://www.theguardian.com/p/x53j9m",
+      "thumbnail": "https://media.guim.co.uk/499882f9d5190c12cfa52736ab057a4f917733ec/254_0_1332_1066/500.jpg",
+      "published": "2026-05-15T14:17:31Z",
+      "location": {
+        "name": "Beijing",
+        "lat": 39.9042,
+        "lng": 116.4074
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "culture"
+    },
+    {
+      "id": "football/2026/may/15/hearts-eye-immortality-but-oneill-renaissance-story-presents-formidable-obstacle",
+      "headline": "Hearts eye immortality but O’Neill revival story makes Celtic a formidable obstacle",
+      "summary": "Hearts aim for immortality but Celtic with O'Neill revival remain title favorites.",
+      "url": "https://www.theguardian.com/p/x53j65",
+      "thumbnail": "https://media.guim.co.uk/0c60d78259c69b74c1b904e47b873760281758a7/159_0_2500_2000/500.jpg",
+      "published": "2026-05-15T14:08:39Z",
+      "location": {
+        "name": "Glasgow",
+        "lat": 55.8642,
+        "lng": -4.2518
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "fashion/2026/may/15/older-women-spotlight-cannes-film-festival-red-carpet-diversity",
+      "headline": "‘Super-glamorous’: older women in the spotlight at Cannes film festival",
+      "summary": "Older women including Joan Collins and Jane Fonda dominate Cannes red carpet fashion.",
+      "url": "https://www.theguardian.com/p/x53tjt",
+      "thumbnail": "https://media.guim.co.uk/caf565cd9dcc8918c78083ee63374d2c5496dace/0_0_5975_4780/500.jpg",
+      "published": "2026-05-15T14:02:05Z",
+      "location": {
+        "name": "Cannes",
+        "lat": 43.5531,
+        "lng": 7.0157
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "lifeandstyle"
+    },
+    {
+      "id": "thefilter/2026/may/15/womens-summer-wardrobe-updates-uk",
+      "headline": "Jess Cartner-Morley’s 52 women’s summer wardrobe updates for under £100",
+      "summary": "Jess Cartner-Morley offers 52 women's summer wardrobe updates for under £100.",
+      "url": "https://www.theguardian.com/p/x5xmnv",
+      "thumbnail": "https://media.guim.co.uk/bbfca3d522a78838ad230adfebd691ddb98c9339/0_0_5000_4000/500.jpg",
+      "published": "2026-05-15T14:00:42Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "thefilter"
+    },
+    {
+      "id": "us-news/2026/may/15/bennie-thompson-voting-rights-act",
+      "headline": "Voting Rights Act ruling is ‘red meat’ to Republicans in south, says Black lawmaker targeted by gerrymander",
+      "summary": "Mississippi Republicans threaten to redraw Bennie Thompson's district after VRA ruling.",
+      "url": "https://www.theguardian.com/p/x53e4k",
+      "thumbnail": "https://media.guim.co.uk/89036b8e08de33af18876096da2e647b9ca6b387/694_0_6941_5553/500.jpg",
+      "published": "2026-05-15T14:00:42Z",
+      "location": {
+        "name": "Jackson",
+        "lat": 32.2988,
+        "lng": -90.1848
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "artanddesign/2026/may/15/rene-matic-deutsche-borse-photography-prize-photographers-gallery",
+      "headline": "Mounting Rene Matić’s snapshots in Perspex isn’t really enough to make them interesting",
+      "summary": "Rene Matić's Deutsche Börse prize-winning photos lack depth at Photographers' Gallery.",
+      "url": "https://www.theguardian.com/p/x53ttp",
+      "thumbnail": "https://media.guim.co.uk/ac7068c69fbc5539129ed3a6d53cb7346cfc7076/1901_1119_5428_4345/500.jpg",
+      "published": "2026-05-15T13:43:36Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "artanddesign"
+    },
+    {
+      "id": "music/2026/may/15/bbc-national-orchestra-wales-bloch-eberle-review-hoddinott-hall-cardiff",
+      "headline": "BBCNOW/Bloch/Eberle review – this was a riveting and beguiling concert",
+      "summary": "BBC National Orchestra of Wales performs riveting Beethoven concert with violin soloist.",
+      "url": "https://www.theguardian.com/p/x53tf4",
+      "thumbnail": "https://media.guim.co.uk/c8312f250306280bbc541c26086123ed6c9e4cc8/477_0_4680_3744/500.jpg",
+      "published": "2026-05-15T13:40:50Z",
+      "location": {
+        "name": "Cardiff",
+        "lat": 51.4816,
+        "lng": -3.1791
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "music"
+    },
+    {
+      "id": "us-news/2026/may/15/what-was-achieved-trump-xi-summit-beijing",
+      "headline": "What was actually achieved at Trump and Xi’s ‘stalemate summit’ in Beijing?",
+      "summary": "Trump-Xi summit in Beijing yields little clarity despite claims of resolving problems.",
+      "url": "https://www.theguardian.com/p/x53hbh",
+      "thumbnail": "https://media.guim.co.uk/2ef66b1554633256a71f05bd85dfb9f018d708b1/459_0_4583_3667/500.jpg",
+      "published": "2026-05-15T13:37:46Z",
+      "location": {
+        "name": "Beijing",
+        "lat": 39.9042,
+        "lng": 116.4074
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/may/15/manchester-city-chelsea-fa-cup-final-football-daily-newsletter",
+      "headline": "Manchester City’s page-turning narrative in a tale of two cup finals",
+      "summary": "Manchester City face Chelsea in FA Cup final with contrasting narratives.",
+      "url": "https://www.theguardian.com/p/x53tck",
+      "thumbnail": "https://media.guim.co.uk/25383b362eb6d653c76993558e696f2e9dc4501b/287_0_4914_3930/500.jpg",
+      "published": "2026-05-15T13:34:17Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
     }
   ]
 }
