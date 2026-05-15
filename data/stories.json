@@ -1,92 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-15T22:11:12.469Z",
-    "story_count": 96,
-    "oldest_story": "2026-05-14T22:16:02Z",
-    "newest_story": "2026-05-15T22:04:25Z",
+    "generated_at": "2026-05-15T23:13:34.833Z",
+    "story_count": 93,
+    "oldest_story": "2026-05-15T00:00:21Z",
+    "newest_story": "2026-05-15T22:31:16Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/2026/may/15/premier-league-and-fa-cup-final-10-things-to-look-out-for-this-weekend",
-      "headline": "Premier League and FA Cup final: 10 things to look out for this weekend",
-      "summary": "Manchester City face Chelsea in FA Cup final as Guardiola pursues 17th trophy.",
-      "url": "https://www.theguardian.com/p/x5389h",
-      "thumbnail": "https://media.guim.co.uk/473b6a619b0df0561bd82f3e1b5c47b55a8593bd/0_0_5000_4000/500.jpg",
-      "published": "2026-05-14T23:01:20Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "society/2026/may/15/nspcc-sharp-rise-children-blackmailed-over-sexual-images-uk",
-      "headline": "NSPCC reports sharp rise in children being blackmailed over sexual images in UK",
-      "summary": "NSPCC reports 36% rise in child blackmail over sexual images in UK.",
-      "url": "https://www.theguardian.com/p/x539vv",
-      "thumbnail": "https://media.guim.co.uk/3bcdb8e9e7dc7bdbf8f64cbf171ef77c6b917526/829_0_5093_4075/500.jpg",
-      "published": "2026-05-14T23:01:20Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "society"
-    },
-    {
-      "id": "world/2026/may/14/renowned-feminist-artist-and-film-maker-valie-export-dies-aged-85",
-      "headline": "Renowned feminist artist and film-maker Valie Export dies aged 85",
-      "summary": "Renowned feminist artist Valie Export dies at 85 in Vienna.",
-      "url": "https://www.theguardian.com/p/x53fda",
-      "thumbnail": "https://media.guim.co.uk/a9c8d5c92ac57236788b0c9abd56c9f5874e6af1/813_0_4646_3720/500.jpg",
-      "published": "2026-05-14T22:46:31Z",
-      "location": {
-        "name": "Vienna",
-        "lat": 48.2082,
-        "lng": 16.3738
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "society/2026/may/14/meningitis-outbreak-berkshire",
-      "headline": "One dead and two more ill after meningitis outbreak in Berkshire ",
-      "summary": "One dead, two ill in meningitis outbreak in Berkshire's Reading.",
-      "url": "https://www.theguardian.com/p/x53ey5",
-      "thumbnail": "https://media.guim.co.uk/e2920d2fd1b821ada4e1bcac4174619c485f1556/250_0_7500_6000/500.jpg",
-      "published": "2026-05-14T22:35:57Z",
-      "location": {
-        "name": "Reading",
-        "lat": 51.4545,
-        "lng": -0.9781
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "society"
-    },
-    {
-      "id": "world/2026/may/14/israel-sue-new-york-times-sexual-abuse-palestinian-prisoners",
-      "headline": "Israel says it will sue New York Times over article on sexual abuse of Palestinian prisoners ",
-      "summary": "Israel threatens defamation suit against New York Times over Palestinian abuse allegations.",
-      "url": "https://www.theguardian.com/p/x53ee2",
-      "thumbnail": "https://media.guim.co.uk/4310caea88cdbf16a94dc6abc9c5722a77bd2bc8/466_0_4644_3717/500.jpg",
-      "published": "2026-05-14T22:16:02Z",
-      "location": {
-        "name": "Jerusalem",
-        "lat": 31.7683,
-        "lng": 35.2137
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
     {
       "id": "world/live/2026/may/15/trump-china-visit-live-updates-xi-jinping-talks-meeting-summit-latest-news",
       "headline": "Trump China visit live: Rubio hoping for ‘positive response’ to appeal for release of Hong Kong activist Jimmy Lai",
@@ -1542,6 +1462,38 @@
       "category": "sport",
       "significance": 1,
       "section": "sport"
+    },
+    {
+      "id": "us-news/2026/may/15/iraqi-terror-attacks-arrested-charged",
+      "headline": "Iraqi accused of multiple terror attacks in US and Europe arrested and charged",
+      "summary": "Iraqi national charged with involvement in nearly 20 terror attacks across US and Europe.",
+      "url": "https://www.theguardian.com/p/x53y85",
+      "thumbnail": "https://media.guim.co.uk/e65831b08dfa3f7a8356435fd2f1adcc9d6aab7f/142_0_1214_972/500.jpg",
+      "published": "2026-05-15T22:31:16Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/may/15/arne-slot-liverpool-fans-damaging-defeat-aston-villa",
+      "headline": "‘Damaging’: Arne Slot accepts Liverpool’s form has ruined fans’ confidence",
+      "summary": "Liverpool loses 4-2 to Aston Villa, damaging Champions League hopes under Arne Slot.",
+      "url": "https://www.theguardian.com/p/x53ya3",
+      "thumbnail": "https://media.guim.co.uk/1b976b4bdc87502ef0856834b2b216d02243b3dd/493_55_2698_2159/500.jpg",
+      "published": "2026-05-15T22:28:01Z",
+      "location": {
+        "name": "Liverpool",
+        "lat": 53.4308,
+        "lng": -2.9626
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
     }
   ]
 }
