@@ -1,124 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-15T21:08:35.573Z",
-    "story_count": 95,
-    "oldest_story": "2026-05-14T21:14:43Z",
-    "newest_story": "2026-05-15T21:06:25Z",
+    "generated_at": "2026-05-15T22:11:12.469Z",
+    "story_count": 96,
+    "oldest_story": "2026-05-14T22:16:02Z",
+    "newest_story": "2026-05-15T22:04:25Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "world/2026/may/14/flavio-bolsonaro-banker-film-jair-bolsonaro",
-      "headline": "Tape shows Bolsonaro son asking jailed banker for $26.8m to fund film on father",
-      "summary": "Flávio Bolsonaro caught seeking $26.8m from jailed banker for father's film, damaging presidential bid.",
-      "url": "https://www.theguardian.com/p/x53e3t",
-      "thumbnail": "https://media.guim.co.uk/02504fb546aa7328acf6e6b1cd1d2c7d3d81ca6c/279_0_4241_3395/500.jpg",
-      "published": "2026-05-14T21:58:29Z",
-      "location": {
-        "name": "Brasília",
-        "lat": -15.8267,
-        "lng": -47.8822
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "film/2026/may/14/parallel-tales-review-isabelle-huppert-sexual-fantasy-for-vincent-cassel-in-asghar-farhadis-latest",
-      "headline": "Parallel Tales review – Isabelle Huppert pens furtive sexual fantasy for Vincent Cassel in Asghar Farhadi’s latest",
-      "summary": "Asghar Farhadi's meta-drama at Cannes features Isabelle Huppert and Catherine Deneuve.",
-      "url": "https://www.theguardian.com/p/x53e3f",
-      "thumbnail": "https://media.guim.co.uk/11afd0cde5a451933530fa50e60050e574c3090b/477_0_2363_1890/500.jpg",
-      "published": "2026-05-14T21:50:18Z",
-      "location": {
-        "name": "Cannes",
-        "lat": 43.5528,
-        "lng": 7.0174
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "film"
-    },
-    {
-      "id": "tv-and-radio/2026/may/15/delta-goodrem-eurovision-2026-performance-watch-australia-grand-final-eclipse",
-      "headline": "Eurovision 2026: Delta Goodrem sends Australia to the grand final with note-perfect performance",
-      "summary": "Delta Goodrem's crystalline Eurovision performance qualifies Australia for 2026 grand final.",
-      "url": "https://www.theguardian.com/p/x53fjq",
-      "thumbnail": "https://media.guim.co.uk/61a667ce16bc0137f0c60e706bbbcb9e729aa21e/789_0_5947_4760/500.jpg",
-      "published": "2026-05-14T21:38:41Z",
-      "location": {
-        "name": "Vienna",
-        "lat": 48.2082,
-        "lng": 16.3738
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "tv-and-radio"
-    },
-    {
-      "id": "us-news/2026/may/14/supreme-court-mifepristone-abortion-pill-upheld",
-      "headline": "Supreme court allows abortion pill mifepristone to continue to be available by mail",
-      "summary": "Supreme Court upholds nationwide mail-order access to abortion pill mifepristone.",
-      "url": "https://www.theguardian.com/p/x538f4",
-      "thumbnail": "https://media.guim.co.uk/d1fce7dfb05c391c6f87abfceb9fc8a4301bf598/620_0_4714_3773/500.jpg",
-      "published": "2026-05-14T21:38:21Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "health",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "uk-news/2026/may/14/uk-ministers-accused-weakening-legal-protections-torture-victims-seeking-asylum",
-      "headline": "UK ministers accused of weakening legal protections for torture victims seeking asylum",
-      "summary": "UK accused of weakening torture victim protections in asylum deportation law changes.",
-      "url": "https://www.theguardian.com/p/x53evh",
-      "thumbnail": "https://media.guim.co.uk/16183b6282b112e98bc9929d40a525e02d6c492e/0_635_3543_2834/500.jpg",
-      "published": "2026-05-14T21:30:18Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "world/2026/may/14/us-china-delegation-photo-no-women",
-      "headline": "Photo of US-China delegation criticized over absence of women: ‘masculine, militarized and exclusionary’",
-      "summary": "Trump-Xi delegation photo criticized for lack of women, signaling exclusion from global decision-making.",
-      "url": "https://www.theguardian.com/p/x53fd6",
-      "thumbnail": "https://media.guim.co.uk/65be1bc0fd1e0f083b2b63f327f4dee8d7a4e884/500_0_5000_4000/500.jpg",
-      "published": "2026-05-14T21:15:54Z",
-      "location": {
-        "name": "Beijing",
-        "lat": 39.9042,
-        "lng": 116.4074
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "us-news/2026/may/14/louisiana-senate-bill-black-congressional-districts",
-      "headline": "Louisiana senate passes bill to eliminate one of two majority-Black congressional districts",
-      "summary": "Louisiana Senate passes bill eliminating one of two majority-Black congressional districts.",
-      "url": "https://www.theguardian.com/p/x53ffb",
-      "thumbnail": "https://media.guim.co.uk/fb3d17d5d4e120b4f255563ecf79cc7a5dbdb420/720_0_7200_5760/500.jpg",
-      "published": "2026-05-14T21:14:43Z",
-      "location": {
-        "name": "Baton Rouge",
-        "lat": 30.4515,
-        "lng": -91.1871
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
     {
       "id": "football/2026/may/15/premier-league-and-fa-cup-final-10-things-to-look-out-for-this-weekend",
       "headline": "Premier League and FA Cup final: 10 things to look out for this weekend",
@@ -1526,6 +1414,134 @@
       "category": "other",
       "significance": 1,
       "section": "news"
+    },
+    {
+      "id": "politics/2026/may/15/neo-nazi-obsessed-teen-jailed-for-trying-to-kill-kurdish-man-in-bristol-with-axe",
+      "headline": "Neo-Nazi obsessed teen jailed for trying to kill Kurdish man in Bristol with axe",
+      "summary": "Neo-Nazi teen jailed 15+ years for axe attack on Kurdish barber in Bristol.",
+      "url": "https://www.theguardian.com/p/x53yac",
+      "thumbnail": "https://media.guim.co.uk/ef90228cd91038b433059da0b2a8481036ee2986/0_304_1347_1077/500.jpg",
+      "published": "2026-05-15T22:04:25Z",
+      "location": {
+        "name": "Bristol",
+        "lat": 51.4545,
+        "lng": -2.5879
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "us-news/2026/may/15/trump-texas-detransition-clinic",
+      "headline": "Texas children’s hospital to create first detransition clinic in win for Trump",
+      "summary": "Texas children's hospital creates detransition clinic, stops gender-affirming care.",
+      "url": "https://www.theguardian.com/p/x53y2p",
+      "thumbnail": "https://media.guim.co.uk/c25c00e7f31c07f11ad3aa692c239b805ef8486a/268_0_4464_3570/500.jpg",
+      "published": "2026-05-15T21:59:27Z",
+      "location": {
+        "name": "Texas",
+        "lat": 31.9686,
+        "lng": -99.9018
+      },
+      "category": "health",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/may/15/pep-guardiola-swears-not-leaving-manchester-city-before-contract-ends-fa-cup-final",
+      "headline": "Pep Guardiola swears he’s not leaving Manchester City before contract ends",
+      "summary": "Pep Guardiola vows to stay at Manchester City until contract end in 2027.",
+      "url": "https://www.theguardian.com/p/x53jya",
+      "thumbnail": "https://media.guim.co.uk/2e4b9eabf775bc48b3f8e5c3322b6d77b5689061/440_434_4009_3207/500.jpg",
+      "published": "2026-05-15T21:56:57Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/may/15/abortion-veterans-affairs-lawsuit-trump-administration",
+      "headline": "Veterans group sues Trump administration over ban on abortion services",
+      "summary": "Veterans group sues Trump administration over ban on abortion services.",
+      "url": "https://www.theguardian.com/p/x53y4n",
+      "thumbnail": "https://media.guim.co.uk/03a61ebb18c00f8b638f442fa3e3cd39f2812068/333_0_3333_2667/500.jpg",
+      "published": "2026-05-15T21:49:42Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "health",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/may/15/seamus-coleman-finish-everton-player-season-end",
+      "headline": "Séamus Coleman to finish as Everton player at end of season after 17-year stay",
+      "summary": "Séamus Coleman ends 17-year Everton career at season end next month.",
+      "url": "https://www.theguardian.com/p/x53th9",
+      "thumbnail": "https://media.guim.co.uk/4c15788cad84dba2ae0539e23024fcc1360c9247/562_0_4640_3712/500.jpg",
+      "published": "2026-05-15T21:36:16Z",
+      "location": {
+        "name": "Liverpool",
+        "lat": 53.4309,
+        "lng": -2.9611
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/may/15/pentagon-civilian-death-program",
+      "headline": "Pentagon quietly shut legally required program to prevent civilian deaths by military, watchdog finds",
+      "summary": "Pentagon dismantled civilian harm prevention program, watchdog reveals.",
+      "url": "https://www.theguardian.com/p/x53kt9",
+      "thumbnail": "https://media.guim.co.uk/78aff46fd1b7569dd9e0fc523f31d40a16b48f4e/281_0_3637_2908/500.jpg",
+      "published": "2026-05-15T21:34:30Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "tv-and-radio/2026/may/15/smoggie-queens-review-lgbtq-return-phil-dunning-bbc-three",
+      "headline": "Smoggie Queens review – TV that makes you feel part of a fabulous secret club",
+      "summary": "Smoggie Queens: quirky drag queen sitcom returns to BBC Three.",
+      "url": "https://www.theguardian.com/p/x53xgh",
+      "thumbnail": "https://media.guim.co.uk/f46d45808587478f6bef0f8a71e60672648c909f/315_0_3535_2828/500.jpg",
+      "published": "2026-05-15T21:30:51Z",
+      "location": {
+        "name": "Middlesbrough",
+        "lat": 54.5745,
+        "lng": -1.2393
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "tv-and-radio"
+    },
+    {
+      "id": "sport/2026/may/15/rugby-league-wigan-leeds-super-league-match-report",
+      "headline": "Wigan make laboured Leeds pay in statement Super League drubbing",
+      "summary": "Wigan dominates Leeds 24-4 in Super League statement victory.",
+      "url": "https://www.theguardian.com/p/x53ke5",
+      "thumbnail": "https://media.guim.co.uk/70310c0eab45c964cf98fa4af221c60818743ae0/471_0_3908_3127/500.jpg",
+      "published": "2026-05-15T21:08:10Z",
+      "location": {
+        "name": "Wigan",
+        "lat": 53.5465,
+        "lng": -2.6282
+      },
+      "category": "sport",
+      "significance": 1,
+      "section": "sport"
     }
   ]
 }
