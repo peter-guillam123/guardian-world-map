@@ -1,140 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-15T04:30:40.853Z",
-    "story_count": 114,
-    "oldest_story": "2026-05-14T06:19:40Z",
-    "newest_story": "2026-05-15T04:30:27Z",
+    "generated_at": "2026-05-15T07:43:31.456Z",
+    "story_count": 113,
+    "oldest_story": "2026-05-14T08:35:06Z",
+    "newest_story": "2026-05-15T07:34:15Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "business/live/2026/may/14/uk-gdp-report-economic-growth-iran-war-rachel-reeves-bond-yields-live-updates",
-      "headline": "Rachel Reeves insists government has ‘right economic plan’ after UK growth beats forecasts in March – business live",
-      "summary": "UK economy grows 0.3% in March, beating forecasts; Chancellor says government has right economic plan.",
-      "url": "https://www.theguardian.com/p/x53bfj",
-      "thumbnail": "https://media.guim.co.uk/b026c486faf7b1c98d95e45ac98ccb5c3c9a5327/5_0_2037_1629/500.jpg",
-      "published": "2026-05-14T07:18:28Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "world/2026/may/14/trump-xi-jinping-meet-beijing-ahead-of-summit-trade-iran-war-ai-talks",
-      "headline": "Trump and Xi meet in Beijing for key summit, with trade, Iran and AI on table",
-      "summary": "Trump and Xi meet in Beijing for summit on trade, Iran war, and AI negotiations.",
-      "url": "https://www.theguardian.com/p/x53aq5",
-      "thumbnail": "https://media.guim.co.uk/7dc321aa998afb12072ea69bd7b2df29d90c15bd/265_0_2111_1688/500.jpg",
-      "published": "2026-05-14T07:05:07Z",
-      "location": {
-        "name": "Beijing",
-        "lat": 39.9042,
-        "lng": 116.4074
-      },
-      "category": "politics",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "football/2026/may/14/why-are-we-getting-more-not-less-var-arsenal-west-ham-title-race",
-      "headline": "Why are we getting more, not less, VAR? Football will not kill its golden goose",
-      "summary": "Analysis of why VAR usage continues to increase despite controversy in football.",
-      "url": "https://www.theguardian.com/p/x538mm",
-      "thumbnail": "https://media.guim.co.uk/3ad18f30c119ac7295cf317209541d338d83b861/0_0_1930_1544/500.jpg",
-      "published": "2026-05-14T07:00:20Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "world/2026/may/14/un-members-prepare-for-pivotal-vote-on-landmark-icj-climate-justice-ruling",
-      "headline": "UN members prepare for pivotal vote on landmark ICJ climate justice ruling",
-      "summary": "UN to vote on landmark ICJ climate justice ruling establishing legal responsibility for emissions cuts.",
-      "url": "https://www.theguardian.com/p/x53xcn",
-      "thumbnail": "https://media.guim.co.uk/8224237cc1c696dca72ceba8b6f39e3b28a14852/384_0_3837_3070/500.jpg",
-      "published": "2026-05-14T07:00:20Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "climate",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "tv-and-radio/2026/may/14/nemesis-review-a-ridiculously-entertaining-cop-show-packed-with-stars-of-the-wire",
-      "headline": "Nemesis review – a ridiculously entertaining cop show packed with stars of The Wire",
-      "summary": "Netflix drama Nemesis features Wire stars in entertaining cop show about maverick detective.",
-      "url": "https://www.theguardian.com/p/x532hx",
-      "thumbnail": "https://media.guim.co.uk/6dea83c3f2a55e31b673b275e09399c2fefb46cf/290_0_3000_2400/500.jpg",
-      "published": "2026-05-14T07:00:19Z",
-      "location": {
-        "name": "Los Angeles",
-        "lat": 34.0522,
-        "lng": -118.2437
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "tv-and-radio"
-    },
-    {
-      "id": "australia-news/2026/may/14/modern-antisemitism-old-jewish-stereotypes-tropes-australia-royal-commission-ntwnfb",
-      "headline": "Modern antisemitism built on old Jewish stereotypes and tropes, royal commission told",
-      "summary": "UK expert tells Australian royal commission how modern antisemitism builds on old Jewish stereotypes.",
-      "url": "https://www.theguardian.com/p/x53b4f",
-      "thumbnail": "https://media.guim.co.uk/49ca7899c345bf938df0255fc7b34b8e24b8fac3/0_225_5667_4534/500.jpg",
-      "published": "2026-05-14T06:40:24Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "business/2026/may/14/uk-economy-records-surprise-growth-first-month-iran-war-ons-data",
-      "headline": "UK economy records surprise 0.3% growth in first month of the Iran war",
-      "summary": "UK economy grows 0.3% in March despite Iran war, showing resilience amid rising fuel costs.",
-      "url": "https://www.theguardian.com/p/x537g9",
-      "thumbnail": "https://media.guim.co.uk/ec3d4875f32a64b66ffd71bc8ce800da5c0ca601/6_0_4802_3841/500.jpg",
-      "published": "2026-05-14T06:34:30Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "business/2026/may/14/coles-supermarket-down-misleading-commercial-interests-above-customers",
-      "headline": "Coles put commercial interests above its customers – and was caught red-handed",
-      "summary": "Coles supermarket found to have misled customers with fake discount promotions in federal court.",
-      "url": "https://www.theguardian.com/p/x53baz",
-      "thumbnail": "https://media.guim.co.uk/20375b114cff472d29353b1e808557276ba44cd1/1188_768_1714_1372/500.jpg",
-      "published": "2026-05-14T06:19:40Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
     {
       "id": "sport/live/2026/may/14/womens-state-of-origin-game-2-queensland-maroons-v-nsw-blues-live",
       "headline": "Queensland Maroons v NSW Blues: Women’s State of Origin game 2 – live ",
@@ -1830,6 +1702,118 @@
       "category": "politics",
       "significance": 2,
       "section": "australia-news"
+    },
+    {
+      "id": "politics/2026/may/15/keir-starmer-ally-steve-reed-admits-pm-is-unpopular",
+      "headline": "Starmer loyalist warns against ‘copying Tories’ but admits PM is unpopular",
+      "summary": "Starmer ally Steve Reed admits PM is unpopular but warns against changing leaders.",
+      "url": "https://www.theguardian.com/p/x53hkb",
+      "thumbnail": "https://media.guim.co.uk/39a8348810f4e11334c42fb216973c289f2ba9fb/276_0_4120_3296/500.jpg",
+      "published": "2026-05-15T07:34:15Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "business/live/2026/may/15/rich-list-sunday-times-billionaires-reform-donor-christopher-harborne-hinduja-radcliffe-dyson-beckham-live-updates",
+      "headline": "UK borrowing costs rise and sterling falls as City traders brace for Burnham; Reform donor Christopher Harborne joins UK rich list – Business live",
+      "summary": "UK borrowing costs rise as traders react to Burnham potential Labour leadership bid.",
+      "url": "https://www.theguardian.com/p/x53dgn",
+      "thumbnail": "https://media.guim.co.uk/d49c07306809306def4449b4590324a12040c351/1229_0_4019_3216/500.jpg",
+      "published": "2026-05-15T07:32:07Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "sport/2026/may/15/chess-niemann-puts-controversy-aside-and-wins-50000-first-prize-in-warsaw",
+      "headline": "Chess: Niemann puts controversy aside and wins $50,000 first prize in Warsaw",
+      "summary": "US grandmaster Hans Niemann wins $50,000 prize at Warsaw chess tournament.",
+      "url": "https://www.theguardian.com/p/x53e9g",
+      "thumbnail": "https://media.guim.co.uk/e2991d08053c8d8b7be4fec1c801e5429d0b7cb3/126_0_3221_2577/500.jpg",
+      "published": "2026-05-15T07:00:31Z",
+      "location": {
+        "name": "Warsaw",
+        "lat": 52.2297,
+        "lng": 21.0122
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "commentisfree/2026/may/15/labour-one-term-mindset-party-legacy",
+      "headline": "Forget the three-term project now: crisis-hit Labour needs a one-term mindset and priorities to match",
+      "summary": "Labour must adopt one-term mindset to secure progressive legacy amid crisis.",
+      "url": "https://www.theguardian.com/p/x53ctc",
+      "thumbnail": "https://media.guim.co.uk/7a12a05e6cc40d94ffb4941ca5cdd144b0ae1a39/436_0_4033_3226/500.jpg",
+      "published": "2026-05-15T07:00:30Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "commentisfree"
+    },
+    {
+      "id": "music/2026/may/15/suzette-charles-miss-america-bill-cosby-debut-album",
+      "headline": "‘I had to start living for me’: Suzette Charles on winning Miss America, confronting Bill Cosby and releasing her debut album 33 years late",
+      "summary": "Miss America 1984 Suzette Charles releases debut album 33 years after expected launch.",
+      "url": "https://www.theguardian.com/p/x5xh82",
+      "thumbnail": "https://media.guim.co.uk/a763fda85ca5923055d2dcd1fc2b11596431bc62/172_0_1476_1181/500.jpg",
+      "published": "2026-05-15T07:00:30Z",
+      "location": {
+        "name": "United States",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "music"
+    },
+    {
+      "id": "football/2026/may/15/handle-with-care-why-the-iconic-fa-cup-is-more-than-just-a-silver-trophy",
+      "headline": "Handle with care: why the iconic FA Cup is more than just a silver trophy ",
+      "summary": "FA Cup trophy embodies over 150 years of football heritage ahead of final.",
+      "url": "https://www.theguardian.com/p/x53cpp",
+      "thumbnail": "https://media.guim.co.uk/c35de2f1f1d2d952cd4e1140b57d0b384de051c3/0_0_5000_4000/500.jpg",
+      "published": "2026-05-15T07:00:30Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 1,
+      "section": "football"
+    },
+    {
+      "id": "business/2026/may/15/british-gas-prepayment-meters-compensation-customers",
+      "headline": "British Gas customers to receive up to £112m over prepayment meter scandal",
+      "summary": "British Gas to pay £112m compensation for forcibly fitting prepayment meters.",
+      "url": "https://www.theguardian.com/p/x53ffe",
+      "thumbnail": "https://media.guim.co.uk/a81f2088c598ca502c5096dd80c9c38834835b58/690_4_4212_3371/500.jpg",
+      "published": "2026-05-15T06:53:10Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
     }
   ]
 }
