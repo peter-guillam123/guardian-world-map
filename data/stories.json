@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-05-16T19:35:23.463Z",
-    "story_count": 81,
-    "oldest_story": "2026-05-15T20:00:49Z",
-    "newest_story": "2026-05-16T19:23:42Z",
+    "generated_at": "2026-05-16T20:26:43.730Z",
+    "story_count": 87,
+    "oldest_story": "2026-05-15T21:01:36Z",
+    "newest_story": "2026-05-16T20:01:02Z",
     "window_hours": 24
   },
   "stories": [
@@ -54,22 +54,6 @@
       "category": "culture",
       "significance": 2,
       "section": "us-news"
-    },
-    {
-      "id": "news/2026/may/15/corrections-and-clarifications",
-      "headline": "Corrections and clarifications",
-      "summary": "Corrections issued for review of Willy's restaurant in Margate regarding opening hours.",
-      "url": "https://www.theguardian.com/p/x53tat",
-      "thumbnail": null,
-      "published": "2026-05-15T20:00:49Z",
-      "location": {
-        "name": "Margate",
-        "lat": 51.3867,
-        "lng": 1.3792
-      },
-      "category": "other",
-      "significance": 1,
-      "section": "news"
     },
     {
       "id": "politics/2026/may/15/neo-nazi-obsessed-teen-jailed-for-trying-to-kill-kurdish-man-in-bristol-with-axe",
@@ -1302,6 +1286,118 @@
       "category": "sport",
       "significance": 2,
       "section": "football"
+    },
+    {
+      "id": "world/2026/may/16/london-pro-palestine-rally-same-day-as-far-right-protest-jeremy-corbyn",
+      "headline": "Tens of thousands attend London pro-Palestine rally to mark Nakba Day",
+      "summary": "Tens of thousands attend London pro-Palestine rally on Nakba Day amid heavy police presence.",
+      "url": "https://www.theguardian.com/p/x53ppg",
+      "thumbnail": "https://media.guim.co.uk/c3de181daeba32a680398007c55bb44eb40202e8/171_0_1706_1365/500.jpg",
+      "published": "2026-05-16T20:01:02Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "australia-news/2026/may/17/liberal-party-corroded-by-hate-mp-says-amid-concerns-of-dog-whistling-on-immigration",
+      "headline": "Liberal party ‘corroded by hate’ MP says amid concerns of ‘dog whistling’ on immigration",
+      "summary": "Liberal MPs express concern over immigration policy, claim One Nation controls party agenda.",
+      "url": "https://www.theguardian.com/p/x53hnt",
+      "thumbnail": "https://media.guim.co.uk/2aacd6d71bc99a6ad397016e19e39923e7d39c1c/590_0_2952_2362/500.jpg",
+      "published": "2026-05-16T20:00:20Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "artanddesign/2026/may/17/surfers-say-that-board-is-so-sick-the-french-artist-redesigning-the-surfboard-like-youve-never-seen-before",
+      "headline": "‘Surfers say, that board is so sick!’ The French artist redesigning the surfboard like you’ve never seen before",
+      "summary": "French artist Lucas Lecacheur redesigns surfboards with unconventional shapes like stingrays.",
+      "url": "https://www.theguardian.com/p/x53ghm",
+      "thumbnail": "https://media.guim.co.uk/a50102e3de66c023a830d1f4cc54eff6f60ff104/1325_0_6827_5464/500.jpg",
+      "published": "2026-05-16T20:00:20Z",
+      "location": {
+        "name": "Melbourne",
+        "lat": -37.8136,
+        "lng": 144.9631
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "artanddesign"
+    },
+    {
+      "id": "culture/2026/may/17/flying-lotus-interview-chaotic-questions",
+      "headline": "Flying Lotus: ‘People kept saying, “You can’t make hip-hop with a laptop”. Those comments were my fuel’",
+      "summary": "Producer Flying Lotus discusses music, Blade Runner obsession ahead of Australian tour.",
+      "url": "https://www.theguardian.com/p/x53gee",
+      "thumbnail": "https://media.guim.co.uk/b488f9ee856bcc9d012edbe4765214154062a5cc/1214_0_3608_2890/500.jpg",
+      "published": "2026-05-16T20:00:19Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "culture"
+    },
+    {
+      "id": "world/2026/may/17/australia-aukus-spending-delays-nuclear-submarines",
+      "headline": "As Aukus spending and delays blow out, will Australia’s nuclear submarines ever materialise?",
+      "summary": "Australia's $368bn AUKUS nuclear submarine deal faces delays as US falls behind production.",
+      "url": "https://www.theguardian.com/p/x53gjn",
+      "thumbnail": "https://media.guim.co.uk/3a0c2288de6f707b37022de26afc39faac22cedb/197_0_6827_5464/500.jpg",
+      "published": "2026-05-16T20:00:19Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "australia-news/commentisfree/2026/may/17/australia-federal-budget-jim-chalmers-fairness-one-nation-threat-ntwnfb",
+      "headline": "Jim Chalmers wants to make Australia more fair – but is it enough to stave off the threat from One Nation?",
+      "summary": "Jim Chalmers' fairness budget attempts to counter One Nation threat to Labor support.",
+      "url": "https://www.theguardian.com/p/x53bhv",
+      "thumbnail": "https://media.guim.co.uk/220080207f04f80e2d16d5c44b97dadc1b5b6759/688_0_6880_5504/500.jpg",
+      "published": "2026-05-16T20:00:18Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "sport/2026/may/16/minnesota-timberwolves-nba-playoffs-san-antonio-spurs",
+      "headline": "The Minnesota Timberwolves’ motley crew brought a burst of fun to the NBA playoffs",
+      "summary": "Minnesota Timberwolves exit NBA playoffs but established themselves as entertaining team.",
+      "url": "https://www.theguardian.com/p/x53qvt",
+      "thumbnail": "https://media.guim.co.uk/4caa2190a67625564a1cd8e4842f966c67ede586/253_0_2533_2027/500.jpg",
+      "published": "2026-05-16T19:51:14Z",
+      "location": {
+        "name": "Minneapolis",
+        "lat": 44.9778,
+        "lng": -93.265
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
     }
   ]
 }
