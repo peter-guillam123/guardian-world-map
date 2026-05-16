@@ -1,60 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-16T20:26:43.730Z",
-    "story_count": 87,
-    "oldest_story": "2026-05-15T21:01:36Z",
+    "generated_at": "2026-05-16T21:27:16.277Z",
+    "story_count": 83,
+    "oldest_story": "2026-05-15T21:30:51Z",
     "newest_story": "2026-05-16T20:01:02Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/2026/may/15/aston-villa-liverpool-premier-league-match-report",
-      "headline": "Aston Villa back in Champions League as Watkins double sinks Liverpool",
-      "summary": "Aston Villa secures Champions League qualification with 4-2 victory over Liverpool.",
-      "url": "https://www.theguardian.com/p/x53kc9",
-      "thumbnail": "https://media.guim.co.uk/d6127c1c9ba33cf8c7825b2869d22cf02c06ebba/510_0_3859_3088/500.jpg",
-      "published": "2026-05-15T21:06:25Z",
-      "location": {
-        "name": "Birmingham",
-        "lat": 52.5086,
-        "lng": -1.8853
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "us-news/2026/may/15/colorado-governor-tina-peters",
-      "headline": "Colorado governor commutes sentence of election denier Tina Peters",
-      "summary": "Colorado governor commutes sentence of election denier Tina Peters convicted of voting system breach.",
-      "url": "https://www.theguardian.com/p/x4gefy",
-      "thumbnail": "https://media.guim.co.uk/10855449adefbd5f0b98903672c656446b013ac5/300_447_2442_1953/500.jpg",
-      "published": "2026-05-15T21:03:27Z",
-      "location": {
-        "name": "Colorado",
-        "lat": 39.0598,
-        "lng": -105.3111
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/may/15/tennessee-book-ban-alex-haley-roots",
-      "headline": "Tennessee school district bans Alex Haley’s Roots under 2022 state law",
-      "summary": "Tennessee school district bans Alex Haley's Roots under state law, removing acclaimed slave trade novel.",
-      "url": "https://www.theguardian.com/p/x53kfc",
-      "thumbnail": "https://media.guim.co.uk/f4bcc8d8bcb71854fbd2753536a36e40d0843e67/0_254_4057_3244/500.jpg",
-      "published": "2026-05-15T21:01:36Z",
-      "location": {
-        "name": "Tennessee",
-        "lat": 35.7478,
-        "lng": -86.6923
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "us-news"
-    },
     {
       "id": "politics/2026/may/15/neo-nazi-obsessed-teen-jailed-for-trying-to-kill-kurdish-man-in-bristol-with-axe",
       "headline": "Neo-Nazi obsessed teen jailed for trying to kill Kurdish man in Bristol with axe",
@@ -166,22 +118,6 @@
       "category": "culture",
       "significance": 1,
       "section": "tv-and-radio"
-    },
-    {
-      "id": "sport/2026/may/15/rugby-league-wigan-leeds-super-league-match-report",
-      "headline": "Wigan make laboured Leeds pay in statement Super League drubbing",
-      "summary": "Wigan dominates Leeds 24-4 in Super League statement victory.",
-      "url": "https://www.theguardian.com/p/x53ke5",
-      "thumbnail": "https://media.guim.co.uk/70310c0eab45c964cf98fa4af221c60818743ae0/471_0_3908_3127/500.jpg",
-      "published": "2026-05-15T21:08:10Z",
-      "location": {
-        "name": "Wigan",
-        "lat": 53.5465,
-        "lng": -2.6282
-      },
-      "category": "sport",
-      "significance": 1,
-      "section": "sport"
     },
     {
       "id": "us-news/2026/may/15/iraqi-terror-attacks-arrested-charged",
