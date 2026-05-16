@@ -1,124 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-16T17:17:42.310Z",
-    "story_count": 83,
-    "oldest_story": "2026-05-15T17:27:33Z",
-    "newest_story": "2026-05-16T17:16:57Z",
+    "generated_at": "2026-05-16T18:11:52.856Z",
+    "story_count": 81,
+    "oldest_story": "2026-05-15T18:46:45Z",
+    "newest_story": "2026-05-16T17:58:28Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/live/2026/may/15/aston-villa-v-liverpool-premier-league-live-score-updates",
-      "headline": "Aston Villa v Liverpool: Premier League – live",
-      "summary": "Aston Villa host Liverpool in Premier League match with Champions League qualification hopes at stake.",
-      "url": "https://www.theguardian.com/p/x538x6",
-      "thumbnail": "https://media.guim.co.uk/5e7f624aa958d982399d70863dfcbf9c6a39fe0c/717_20_4975_3980/500.jpg",
-      "published": "2026-05-15T18:08:49Z",
-      "location": {
-        "name": "Birmingham",
-        "lat": 52.5086,
-        "lng": -1.8853
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "society/2026/may/15/young-at-london-job-show-barriers-to-work-uk-youth-unemployment",
-      "headline": "‘It makes me feel quite dehumanised’: young at London career fair lay bare barriers to a job",
-      "summary": "Youth unemployment barriers exposed at London career fair as UK jobless rates rise among young people.",
-      "url": "https://www.theguardian.com/p/x53jh3",
-      "thumbnail": "https://media.guim.co.uk/e12b584d7ed45a62b4056ef8342935e905a427e9/418_0_4800_3840/500.jpg",
-      "published": "2026-05-15T18:07:09Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "society"
-    },
-    {
-      "id": "politics/2026/may/15/andy-burnham-pm-labour-autumn-conference",
-      "headline": "Andy Burnham will push to become PM before Labour conference, allies say",
-      "summary": "Andy Burnham targets Labour PM role ahead of autumn conference in Liverpool, enters byelection race.",
-      "url": "https://www.theguardian.com/p/x53thk",
-      "thumbnail": "https://media.guim.co.uk/ee93e1d0e34e1351dcda07ab92c2ba563f8159b5/545_54_4479_3584/500.jpg",
-      "published": "2026-05-15T17:56:16Z",
-      "location": {
-        "name": "Liverpool",
-        "lat": 53.4084,
-        "lng": -2.9916
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "world/2026/may/15/harvey-weinsteins-new-york-mistrial",
-      "headline": "Harvey Weinstein’s New York retrial ends in mistrial with jury deadlocked",
-      "summary": "Harvey Weinstein's New York rape retrial ends in mistrial after jury deadlock on charges.",
-      "url": "https://www.theguardian.com/p/x53kbz",
-      "thumbnail": "https://media.guim.co.uk/8f327acfdd6f5bfcb0c11d264956c665c8d59aa3/500_0_5000_4000/500.jpg",
-      "published": "2026-05-15T17:41:24Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "world/2026/may/15/raul-castro-indictment-cuba-trump",
-      "headline": "Threatened indictment of Raúl Castro ratchets up US pressure on Cuba",
-      "summary": "Trump administration threatens indictment of Raúl Castro as US pressure on Cuba intensifies amid fuel crisis.",
-      "url": "https://www.theguardian.com/p/x53k4t",
-      "thumbnail": "https://media.guim.co.uk/51afd61cb85427ed4b52ddd27d8ec0d0252dce4a/331_0_5136_4108/500.jpg",
-      "published": "2026-05-15T17:31:49Z",
-      "location": {
-        "name": "Havana",
-        "lat": 23.1136,
-        "lng": -82.3666
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "world/2026/may/15/uk-joins-european-deal-to-send-rejected-asylum-seekers-to-third-country-hubs",
-      "headline": "UK joins European deal to send rejected asylum seekers to third-country hubs",
-      "summary": "All 46 Council of Europe members sign agreement to send rejected asylum seekers to third-country hubs.",
-      "url": "https://www.theguardian.com/p/x53tn9",
-      "thumbnail": "https://media.guim.co.uk/fb47d9b47af34c664011d7647e281fc8bb185d2d/484_0_4840_3872/500.jpg",
-      "published": "2026-05-15T17:30:06Z",
-      "location": {
-        "name": "Strasbourg",
-        "lat": 48.5734,
-        "lng": 7.7521
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "politics/2026/may/15/from-blair-to-burnham-jogging-as-political-metaphor-has-just-run-and-run",
-      "headline": "From Blair to Burnham, jogging as political metaphor has just run and run",
-      "summary": "Andy Burnham jogging for parliament announcement continues long tradition of political metaphors.",
-      "url": "https://www.theguardian.com/p/x53jdb",
-      "thumbnail": "https://media.guim.co.uk/f4a606ffb09e83416876a4e6ca941e2c782f2615/0_0_5000_4000/500.jpg",
-      "published": "2026-05-15T17:27:33Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4808,
-        "lng": -2.2426
-      },
-      "category": "politics",
-      "significance": 1,
-      "section": "politics"
-    },
     {
       "id": "society/2026/may/15/father-tribute-to-son-who-died-after-contracting-meningitis",
       "headline": "Father pays tribute to ‘kind-hearted’ son who died after contracting meningitis",
@@ -1334,6 +1222,86 @@
       "category": "sport",
       "significance": 3,
       "section": "football"
+    },
+    {
+      "id": "tv-and-radio/live/2026/may/16/eurovision-song-contest-2026-live",
+      "headline": "Eurovision song contest 2026 – live",
+      "summary": "Eurovision Song Contest 2026 grand final held in Vienna with glitter, drama, and pyrotechnics.",
+      "url": "https://www.theguardian.com/p/x53ek8",
+      "thumbnail": "https://media.guim.co.uk/7efd72d6471cdee0ecd6bd5a684cfd122b402788/354_0_5000_4000/500.jpg",
+      "published": "2026-05-16T17:58:28Z",
+      "location": {
+        "name": "Vienna",
+        "lat": 48.2082,
+        "lng": 16.3738
+      },
+      "category": "culture",
+      "significance": 3,
+      "section": "tv-and-radio"
+    },
+    {
+      "id": "sport/2026/may/16/harlequins-exeter-prem-rugby-union-match-report",
+      "headline": "Free-flowing Harlequins dent Exeter playoff hopes with comeback win",
+      "summary": "Harlequins stage comeback to beat Exeter 41-24 in Premiership playoff race.",
+      "url": "https://www.theguardian.com/p/x53978",
+      "thumbnail": "https://media.guim.co.uk/c5594fa0b7e884073007407f4258ece1d51a22ee/339_0_6018_4815/500.jpg",
+      "published": "2026-05-16T17:44:24Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "football/2026/may/16/xabi-alonso-agrees-deal-in-principle-to-become-chelsea-head-coach",
+      "headline": "Xabi Alonso agrees deal in principle to become Chelsea head coach",
+      "summary": "Xabi Alonso agrees in-principle deal to become Chelsea's new head coach on four years.",
+      "url": "https://www.theguardian.com/p/x53pfh",
+      "thumbnail": "https://media.guim.co.uk/3b6b18635dcdf1d2b7e98b7eb4307473777fc71b/195_5_1193_954/500.jpg",
+      "published": "2026-05-16T17:37:08Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/may/16/manchester-citys-fa-cup-glory-where-final-against-chelsea-was-won-and-lost",
+      "headline": "Manchester City’s FA Cup glory: where final against Chelsea was won and lost",
+      "summary": "Manchester City wins FA Cup final against Chelsea; Semenyo scores stunning backheel goal.",
+      "url": "https://www.theguardian.com/p/x5392z",
+      "thumbnail": "https://media.guim.co.uk/3d0a61f4134aa31fadc4f9406eae0fbb7bcd7b5b/0_0_2505_2004/500.jpg",
+      "published": "2026-05-16T17:31:38Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "environment/2026/may/16/timmy-the-whale-confirmed-dead-by-danish-authorities",
+      "headline": "Timmy the whale confirmed dead by Danish authorities",
+      "summary": "Timmy the humpback whale confirmed dead after controversial North Sea rescue attempt.",
+      "url": "https://www.theguardian.com/p/x53pa8",
+      "thumbnail": "https://media.guim.co.uk/1658429f3002f18904cb298b64633d8442b81980/296_0_1350_1080/500.jpg",
+      "published": "2026-05-16T17:22:22Z",
+      "location": {
+        "name": "Copenhagen",
+        "lat": 55.6761,
+        "lng": 12.5683
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "environment"
     }
   ]
 }
