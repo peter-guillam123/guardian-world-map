@@ -1,44 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-16T22:25:00.036Z",
+    "generated_at": "2026-05-16T23:29:12.240Z",
     "story_count": 76,
-    "oldest_story": "2026-05-15T22:28:01Z",
-    "newest_story": "2026-05-16T20:01:02Z",
+    "oldest_story": "2026-05-15T23:30:53Z",
+    "newest_story": "2026-05-16T23:24:38Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "us-news/2026/may/15/iraqi-terror-attacks-arrested-charged",
-      "headline": "Iraqi accused of multiple terror attacks in US and Europe arrested and charged",
-      "summary": "Iraqi national charged with involvement in nearly 20 terror attacks across US and Europe.",
-      "url": "https://www.theguardian.com/p/x53y85",
-      "thumbnail": "https://media.guim.co.uk/e65831b08dfa3f7a8356435fd2f1adcc9d6aab7f/142_0_1214_972/500.jpg",
-      "published": "2026-05-15T22:31:16Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "football/2026/may/15/arne-slot-liverpool-fans-damaging-defeat-aston-villa",
-      "headline": "‘Damaging’: Arne Slot accepts Liverpool’s form has ruined fans’ confidence",
-      "summary": "Liverpool loses 4-2 to Aston Villa, damaging Champions League hopes under Arne Slot.",
-      "url": "https://www.theguardian.com/p/x53ya3",
-      "thumbnail": "https://media.guim.co.uk/1b976b4bdc87502ef0856834b2b216d02243b3dd/493_55_2698_2159/500.jpg",
-      "published": "2026-05-15T22:28:01Z",
-      "location": {
-        "name": "Liverpool",
-        "lat": 53.4308,
-        "lng": -2.9626
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
     {
       "id": "world/2026/may/16/trumps-lack-of-focus-on-human-rights-in-china-is-big-departure-for-us-diplomacy",
       "headline": "Trump’s lack of focus on human rights in China is big departure for US diplomacy",
@@ -53,22 +21,6 @@
       },
       "category": "politics",
       "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "world/2026/may/16/dela-rosa-week-chaos-philippines",
-      "headline": "Where is Dela Rosa? Philippine senator outmanoeuvres president in evading arrest",
-      "summary": "Philippine senator Dela Rosa evades arrest in chaotic week, embarrassing government enforcement efforts.",
-      "url": "https://www.theguardian.com/p/x53hd7",
-      "thumbnail": "https://media.guim.co.uk/27cdc4abe33f967cc09c8399af2eee8c0f9afc0b/720_0_7200_5760/500.jpg",
-      "published": "2026-05-15T23:01:53Z",
-      "location": {
-        "name": "Manila",
-        "lat": 14.5995,
-        "lng": 120.9842
-      },
-      "category": "politics",
-      "significance": 3,
       "section": "world"
     },
     {
@@ -1222,6 +1174,54 @@
       "category": "sport",
       "significance": 2,
       "section": "sport"
+    },
+    {
+      "id": "australia-news/live/2026/may/17/australia-news-live-stafford-queensland-labor-lnp-jim-chalmers-federal-budget-anthony-albanese-angus-taylor-aukus-coalition-ntwnfb",
+      "headline": "Australia news live: Queensland Labor ahead in Stafford byelection despite large swing",
+      "summary": "Queensland Labor maintains lead in Stafford byelection despite significant swing against them.",
+      "url": "https://www.theguardian.com/p/x53qyt",
+      "thumbnail": "https://media.guim.co.uk/e85f0b8b01017b4075ce68e08ddbabfb645560b0/493_0_4312_3450/500.jpg",
+      "published": "2026-05-16T23:24:38Z",
+      "location": {
+        "name": "Stafford, Queensland",
+        "lat": -27.5598,
+        "lng": 152.9892
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "world/2026/may/17/bulgaria-wins-70th-eurovision-contest-dara-bangaranga",
+      "headline": "Bulgaria wins 70th Eurovision contest with Dara and Bangaranga",
+      "summary": "Bulgaria wins Eurovision 2026 with Dara's 'Bangaranga'; five countries boycott over Israel participation.",
+      "url": "https://www.theguardian.com/p/x53xp2",
+      "thumbnail": "https://media.guim.co.uk/a469e55a224967e7c4b946045be638c4e749e999/653_261_2794_2235/500.jpg",
+      "published": "2026-05-16T23:20:16Z",
+      "location": {
+        "name": "Vienna",
+        "lat": 48.2082,
+        "lng": 16.3738
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "us-news/2026/may/16/california-turtle-trafficking",
+      "headline": "Shell-shocked: California man arrested for attempting to traffic wild turtles",
+      "summary": "California man arrested for attempting to traffic 292 wild loggerhead musk turtles to Thailand.",
+      "url": "https://www.theguardian.com/p/x53qfe",
+      "thumbnail": "https://media.guim.co.uk/052ca34f8493e772d17e6a90569a3dd1d1c16e3a/127_0_5750_4601/500.jpg",
+      "published": "2026-05-16T22:21:53Z",
+      "location": {
+        "name": "California",
+        "lat": 36.1163,
+        "lng": -119.6816
+      },
+      "category": "other",
+      "significance": 1,
+      "section": "us-news"
     }
   ]
 }
