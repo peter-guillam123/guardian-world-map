@@ -1,44 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-15T23:13:34.833Z",
+    "generated_at": "2026-05-16T00:10:39.753Z",
     "story_count": 93,
-    "oldest_story": "2026-05-15T00:00:21Z",
-    "newest_story": "2026-05-15T22:31:16Z",
+    "oldest_story": "2026-05-15T03:40:43Z",
+    "newest_story": "2026-05-15T23:30:53Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "world/live/2026/may/15/trump-china-visit-live-updates-xi-jinping-talks-meeting-summit-latest-news",
-      "headline": "Trump China visit live: Rubio hoping for ‘positive response’ to appeal for release of Hong Kong activist Jimmy Lai",
-      "summary": "Trump and Xi hold summit talks on Taiwan, trade, and Jimmy Lai's release as tensions persist.",
-      "url": "https://www.theguardian.com/p/x53fnk",
-      "thumbnail": "https://media.guim.co.uk/a35bed9d2566ed603871f49f1430ee981c678936/410_0_4216_3372/500.jpg",
-      "published": "2026-05-15T00:07:22Z",
-      "location": {
-        "name": "Beijing",
-        "lat": 39.9042,
-        "lng": 116.4074
-      },
-      "category": "politics",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "environment/2026/may/15/australia-housing-affordability-homelessness-fossil-fuel-future-research",
-      "headline": "Australia’s housing affordability expected to worsen and homelessness soar under fossil-fuelled future",
-      "summary": "Australian housing affordability to worsen and homelessness quadruple unless emissions cut, research warns.",
-      "url": "https://www.theguardian.com/p/x53ah9",
-      "thumbnail": "https://media.guim.co.uk/8304b03b67eca1e8f14ab9824e0cd3822be29c9c/106_0_4164_3333/500.jpg",
-      "published": "2026-05-15T00:00:21Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "climate",
-      "significance": 3,
-      "section": "environment"
-    },
     {
       "id": "environment/2026/may/15/country-diary-charmed-once-again-by-the-unscrupulous-cuckoo",
       "headline": "Country diary: Charmed once again by the unscrupulous cuckoo",
@@ -1494,6 +1462,38 @@
       "category": "sport",
       "significance": 2,
       "section": "football"
+    },
+    {
+      "id": "world/2026/may/16/trumps-lack-of-focus-on-human-rights-in-china-is-big-departure-for-us-diplomacy",
+      "headline": "Trump’s lack of focus on human rights in China is big departure for US diplomacy",
+      "summary": "Trump prioritizes trade over human rights in China visit, marking shift in US diplomatic approach.",
+      "url": "https://www.theguardian.com/p/x53ttv",
+      "thumbnail": "https://media.guim.co.uk/3536c46bf5604c5fa8d0d69efc3e07f3301c3a98/134_0_1706_1365/500.jpg",
+      "published": "2026-05-15T23:30:53Z",
+      "location": {
+        "name": "Beijing",
+        "lat": 39.9042,
+        "lng": 116.4074
+      },
+      "category": "politics",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "world/2026/may/16/dela-rosa-week-chaos-philippines",
+      "headline": "Where is Dela Rosa? Philippine senator outmanoeuvres president in evading arrest",
+      "summary": "Philippine senator Dela Rosa evades arrest in chaotic week, embarrassing government enforcement efforts.",
+      "url": "https://www.theguardian.com/p/x53hd7",
+      "thumbnail": "https://media.guim.co.uk/27cdc4abe33f967cc09c8399af2eee8c0f9afc0b/720_0_7200_5760/500.jpg",
+      "published": "2026-05-15T23:01:53Z",
+      "location": {
+        "name": "Manila",
+        "lat": 14.5995,
+        "lng": 120.9842
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
     }
   ]
 }
