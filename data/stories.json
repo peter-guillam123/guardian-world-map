@@ -1,28 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-16T12:09:25.925Z",
-    "story_count": 95,
-    "oldest_story": "2026-05-15T12:10:02Z",
-    "newest_story": "2026-05-16T12:00:10Z",
+    "generated_at": "2026-05-16T14:01:21.390Z",
+    "story_count": 92,
+    "oldest_story": "2026-05-15T14:02:05Z",
+    "newest_story": "2026-05-16T13:45:25Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "sport/live/2026/may/15/us-pga-championship-day-two-golf-live",
-      "headline": "US PGA Championship 2026 golf: day two – live updates",
-      "summary": "US PGA Championship second round underway at Aronimink Golf Club with live leaderboard updates.",
-      "url": "https://www.theguardian.com/p/x537p8",
-      "thumbnail": "https://media.guim.co.uk/4bbba3b3c92b6794f91c3aea9943bf4491596ead/250_0_4278_3422/500.jpg",
-      "published": "2026-05-15T12:10:02Z",
-      "location": {
-        "name": "Philadelphia",
-        "lat": 39.9526,
-        "lng": -75.1652
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
     {
       "id": "tv-and-radio/2026/may/15/rivals-actor-katherine-parkinson-lauds-series-for-depicting-womens-view-of-sex",
       "headline": "Rivals actor Katherine Parkinson lauds series for depicting women’s view of sex",
@@ -102,102 +86,6 @@
       "category": "culture",
       "significance": 2,
       "section": "lifeandstyle"
-    },
-    {
-      "id": "thefilter/2026/may/15/womens-summer-wardrobe-updates-uk",
-      "headline": "Jess Cartner-Morley’s 52 women’s summer wardrobe updates for under £100",
-      "summary": "Jess Cartner-Morley offers 52 women's summer wardrobe updates for under £100.",
-      "url": "https://www.theguardian.com/p/x5xmnv",
-      "thumbnail": "https://media.guim.co.uk/bbfca3d522a78838ad230adfebd691ddb98c9339/0_0_5000_4000/500.jpg",
-      "published": "2026-05-15T14:00:42Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "thefilter"
-    },
-    {
-      "id": "us-news/2026/may/15/bennie-thompson-voting-rights-act",
-      "headline": "Voting Rights Act ruling is ‘red meat’ to Republicans in south, says Black lawmaker targeted by gerrymander",
-      "summary": "Mississippi Republicans threaten to redraw Bennie Thompson's district after VRA ruling.",
-      "url": "https://www.theguardian.com/p/x53e4k",
-      "thumbnail": "https://media.guim.co.uk/89036b8e08de33af18876096da2e647b9ca6b387/694_0_6941_5553/500.jpg",
-      "published": "2026-05-15T14:00:42Z",
-      "location": {
-        "name": "Jackson",
-        "lat": 32.2988,
-        "lng": -90.1848
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "artanddesign/2026/may/15/rene-matic-deutsche-borse-photography-prize-photographers-gallery",
-      "headline": "Mounting Rene Matić’s snapshots in Perspex isn’t really enough to make them interesting",
-      "summary": "Rene Matić's Deutsche Börse prize-winning photos lack depth at Photographers' Gallery.",
-      "url": "https://www.theguardian.com/p/x53ttp",
-      "thumbnail": "https://media.guim.co.uk/ac7068c69fbc5539129ed3a6d53cb7346cfc7076/1901_1119_5428_4345/500.jpg",
-      "published": "2026-05-15T13:43:36Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "artanddesign"
-    },
-    {
-      "id": "music/2026/may/15/bbc-national-orchestra-wales-bloch-eberle-review-hoddinott-hall-cardiff",
-      "headline": "BBCNOW/Bloch/Eberle review – this was a riveting and beguiling concert",
-      "summary": "BBC National Orchestra of Wales performs riveting Beethoven concert with violin soloist.",
-      "url": "https://www.theguardian.com/p/x53tf4",
-      "thumbnail": "https://media.guim.co.uk/c8312f250306280bbc541c26086123ed6c9e4cc8/477_0_4680_3744/500.jpg",
-      "published": "2026-05-15T13:40:50Z",
-      "location": {
-        "name": "Cardiff",
-        "lat": 51.4816,
-        "lng": -3.1791
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "music"
-    },
-    {
-      "id": "us-news/2026/may/15/what-was-achieved-trump-xi-summit-beijing",
-      "headline": "What was actually achieved at Trump and Xi’s ‘stalemate summit’ in Beijing?",
-      "summary": "Trump-Xi summit in Beijing yields little clarity despite claims of resolving problems.",
-      "url": "https://www.theguardian.com/p/x53hbh",
-      "thumbnail": "https://media.guim.co.uk/2ef66b1554633256a71f05bd85dfb9f018d708b1/459_0_4583_3667/500.jpg",
-      "published": "2026-05-15T13:37:46Z",
-      "location": {
-        "name": "Beijing",
-        "lat": 39.9042,
-        "lng": 116.4074
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "football/2026/may/15/manchester-city-chelsea-fa-cup-final-football-daily-newsletter",
-      "headline": "Manchester City’s page-turning narrative in a tale of two cup finals",
-      "summary": "Manchester City face Chelsea in FA Cup final with contrasting narratives.",
-      "url": "https://www.theguardian.com/p/x53tck",
-      "thumbnail": "https://media.guim.co.uk/25383b362eb6d653c76993558e696f2e9dc4501b/287_0_4914_3930/500.jpg",
-      "published": "2026-05-15T13:34:17Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
     },
     {
       "id": "sport/2026/may/15/brendon-mccullums-england-head-to-training-camp-with-post-ashes-identity-still-a-mystery",
@@ -1526,6 +1414,70 @@
       "category": "culture",
       "significance": 2,
       "section": "film"
+    },
+    {
+      "id": "football/2026/may/16/celtic-stun-hearts-at-the-last-in-dramatic-final-day-shootout-to-retain-scottish-title",
+      "headline": "Celtic stun Hearts at the last in dramatic final-day shootout to retain Scottish title",
+      "summary": "Celtic wins Scottish Premiership title with dramatic late goals against Hearts on final day.",
+      "url": "https://www.theguardian.com/p/x5394k",
+      "thumbnail": "https://media.guim.co.uk/e66e2c9e7c721c94f2d2bf360d07301fedb4654f/117_0_3167_2533/500.jpg",
+      "published": "2026-05-16T13:45:25Z",
+      "location": {
+        "name": "Glasgow",
+        "lat": 55.8642,
+        "lng": -4.2518
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "uk-news/2026/may/16/two-men-arrested-after-man-run-over-by-van-in-birmingham-near-flag-protest",
+      "headline": "Two men arrested in London after man run over by van in Birmingham",
+      "summary": "Two men arrested after man run over by van during flag removal incident in Birmingham.",
+      "url": "https://www.theguardian.com/p/x53z9x",
+      "thumbnail": "https://media.guim.co.uk/ca1cbd95a7e5861fa0c1053e290c4599f1ecf304/2987_1588_4653_3722/500.jpg",
+      "published": "2026-05-16T13:39:12Z",
+      "location": {
+        "name": "Birmingham",
+        "lat": 52.5086,
+        "lng": -1.8755
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "uk-news/2026/may/16/soldier-dies-falling-from-horse-royal-windsor-show",
+      "headline": "Soldier dies after falling from horse at Royal Windsor Horse Show",
+      "summary": "Soldier from King's Troop Royal Horse Artillery dies after falling from horse at Windsor Show.",
+      "url": "https://www.theguardian.com/p/x53zez",
+      "thumbnail": "https://media.guim.co.uk/a20a8692f2c87f9d9c859edf81c3bad39ee15e64/375_0_3750_3000/500.jpg",
+      "published": "2026-05-16T13:02:40Z",
+      "location": {
+        "name": "Windsor",
+        "lat": 51.4769,
+        "lng": -0.6105
+      },
+      "category": "other",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "us-news/2026/may/16/lauren-boebert-trump-funds-colorado-drink-water-funds-tina-peters",
+      "headline": "Lauren Boebert suggests Trump withheld funds to Colorado over prosecution of election denier",
+      "summary": "Boebert suggests Trump withheld water funds over Colorado's prosecution of election denier Peters.",
+      "url": "https://www.theguardian.com/p/x53zgt",
+      "thumbnail": "https://media.guim.co.uk/be10a4f682823163c3ef4a160bb20501a206b2a3/2_0_5175_4143/500.jpg",
+      "published": "2026-05-16T13:02:18Z",
+      "location": {
+        "name": "Colorado",
+        "lat": 39.0598,
+        "lng": -105.3111
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
     }
   ]
 }
