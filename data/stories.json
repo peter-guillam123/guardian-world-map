@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-05-16T00:10:39.753Z",
-    "story_count": 93,
-    "oldest_story": "2026-05-15T03:40:43Z",
-    "newest_story": "2026-05-15T23:30:53Z",
+    "generated_at": "2026-05-16T04:05:03.565Z",
+    "story_count": 92,
+    "oldest_story": "2026-05-15T04:11:00Z",
+    "newest_story": "2026-05-16T04:00:02Z",
     "window_hours": 24
   },
   "stories": [
@@ -37,70 +37,6 @@
       },
       "category": "climate",
       "significance": 3,
-      "section": "australia-news"
-    },
-    {
-      "id": "lifeandstyle/2026/may/15/experience-i-smuggled-myself-out-of-the-uk",
-      "headline": "Experience: I smuggled myself out of the UK",
-      "summary": "Iraqi refugee recounts dangerous 2011 smuggling journey to UK hidden in lorry for 12 hours.",
-      "url": "https://www.theguardian.com/p/x4kz3e",
-      "thumbnail": "https://media.guim.co.uk/f955fda929271cff99a290e667da09b12e6187c1/0_0_6253_5002/500.jpg",
-      "published": "2026-05-15T04:00:27Z",
-      "location": {
-        "name": "Erbil, Iraq",
-        "lat": 36.1914,
-        "lng": 44.0085
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "lifeandstyle"
-    },
-    {
-      "id": "business/2026/may/15/eu-carmakers-chinese-rivals-market-shifts",
-      "headline": "EU carmakers pave way for Chinese rivals as balance in market shifts",
-      "summary": "Chinese carmakers advance in Europe as EU manufacturers retreat and seek to offload factories amid market shift.",
-      "url": "https://www.theguardian.com/p/x5389x",
-      "thumbnail": "https://media.guim.co.uk/96c2bf2f423f391e3361f51edaf2c42bc96560b9/10_0_6371_5097/500.jpg",
-      "published": "2026-05-15T04:00:26Z",
-      "location": {
-        "name": "Brussels, Belgium",
-        "lat": 50.8503,
-        "lng": 4.3517
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "business"
-    },
-    {
-      "id": "tv-and-radio/2026/may/15/your-honey-pot-its-bare-farewell-to-outlander-tvs-most-delightfully-ludicrous-bonkbuster",
-      "headline": " ‘Your honey pot? It’s bare!’ Farewell to Outlander, TV’s most delightfully ludicrous bonkbuster",
-      "summary": "Outlander concludes 12-year run as TV's most popular time-travel romance and 'bonkbuster' series.",
-      "url": "https://www.theguardian.com/p/x53ddz",
-      "thumbnail": "https://media.guim.co.uk/d2c58100312e8352c550279908f841c36c8b258a/600_0_2842_2275/500.jpg",
-      "published": "2026-05-15T04:00:26Z",
-      "location": {
-        "name": "Inverness, Scotland",
-        "lat": 57.4778,
-        "lng": -4.2247
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "tv-and-radio"
-    },
-    {
-      "id": "australia-news/2026/may/15/pauline-hanson-one-nation-claimed-for-private-charter-claimed-at-no-cost-to-taxpayer-ntwnfb",
-      "headline": "Pauline Hanson claimed $16,000 for private charter despite claiming floods tour was at ‘no cost to taxpayer’",
-      "summary": "Pauline Hanson claimed $16,000 private charter for flood tour despite saying it cost taxpayers nothing.",
-      "url": "https://www.theguardian.com/p/x53c6n",
-      "thumbnail": "https://media.guim.co.uk/9579635c45acb19f533cb645b2c375a35aad43d1/0_0_5000_4000/500.jpg",
-      "published": "2026-05-15T03:40:43Z",
-      "location": {
-        "name": "Mount Isa, Queensland",
-        "lat": -20.7349,
-        "lng": 139.4899
-      },
-      "category": "politics",
-      "significance": 2,
       "section": "australia-news"
     },
     {
@@ -1494,6 +1430,54 @@
       "category": "politics",
       "significance": 3,
       "section": "world"
+    },
+    {
+      "id": "world/2026/may/16/jewish-culture-month-festival-uk-green-pickle",
+      "headline": "Giant green pickle tells us UK’s Jewish culture month has begun",
+      "summary": "UK's inaugural Jewish culture month festival launches with events spanning food, music, literature and fashion.",
+      "url": "https://www.theguardian.com/p/x53f84",
+      "thumbnail": "https://media.guim.co.uk/ad7ca778e5de6354c9cc07068092879765f101aa/699_96_6707_5368/500.jpg",
+      "published": "2026-05-16T04:00:02Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "environment/2026/may/16/who-should-declare-climate-crisis-global-public-health-emergency-experts-say",
+      "headline": "Declare climate crisis a global public health emergency, experts tell WHO",
+      "summary": "International experts urge WHO to declare climate crisis a global public health emergency to prevent millions of deaths.",
+      "url": "https://www.theguardian.com/p/x53dg4",
+      "thumbnail": "https://media.guim.co.uk/911038b467e7af3936f236e1cd375d6c0f16544c/260_0_3333_2667/500.jpg",
+      "published": "2026-05-16T04:00:00Z",
+      "location": {
+        "name": "Geneva",
+        "lat": 46.2044,
+        "lng": 6.1432
+      },
+      "category": "health",
+      "significance": 4,
+      "section": "environment"
+    },
+    {
+      "id": "us-news/2026/may/16/fda-tracy-beth-hoeg-drug-chief-departs",
+      "headline": "FDA turmoil deepens as top drug chief departs claiming she was fired",
+      "summary": "FDA's top drug regulator Tracy Beth Høeg claims she was fired after declining to resign amid agency turmoil.",
+      "url": "https://www.theguardian.com/p/x53mfp",
+      "thumbnail": "https://media.guim.co.uk/60e717e523062b6beffa7e217acc16121bcbf4b9/512_105_2971_2379/500.jpg",
+      "published": "2026-05-16T03:48:44Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
     }
   ]
 }
