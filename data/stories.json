@@ -1,108 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-17T05:30:55.006Z",
-    "story_count": 80,
-    "oldest_story": "2026-05-16T06:00:02Z",
-    "newest_story": "2026-05-17T05:00:31Z",
+    "generated_at": "2026-05-17T07:58:45.446Z",
+    "story_count": 79,
+    "oldest_story": "2026-05-16T08:01:04Z",
+    "newest_story": "2026-05-17T07:58:06Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/live/2026/may/16/melbourne-city-v-wellington-phoenix-a-league-women-grand-final-football-live",
-      "headline": "Melbourne City v Wellington Phoenix: A-League Women grand final – live",
-      "summary": "Melbourne City seeks historic treble in A-League Women grand final against Wellington Phoenix.",
-      "url": "https://www.theguardian.com/p/x53gem",
-      "thumbnail": "https://media.guim.co.uk/487c472eb7f04118c4ce266b9a6c7b06826de200/751_0_2999_2399/500.jpg",
-      "published": "2026-05-16T06:30:40Z",
-      "location": {
-        "name": "Melbourne",
-        "lat": -37.8136,
-        "lng": 144.9631
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "australia-news/2026/may/16/teenager-isla-bells-body-was-found-in-a-melbourne-tip-18-months-ago-today-friends-and-family-demanded-justice-ntwnfb",
-      "headline": "Teenager Isla Bell’s body was found in a Melbourne tip 18 months ago. Today friends and family demanded ‘justice’",
-      "summary": "Supporters protest prosecutors dropping manslaughter charge in Isla Bell murder case 18 months after body found in tip.",
-      "url": "https://www.theguardian.com/p/x53yta",
-      "thumbnail": "https://media.guim.co.uk/508f05ac4cd9584743e6a331a2069f7b247c7f47/0_0_5021_4016/500.jpg",
-      "published": "2026-05-16T06:08:06Z",
-      "location": {
-        "name": "Melbourne",
-        "lat": -37.8136,
-        "lng": 144.9631
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "travel/2026/may/16/30-uk-holiday-cottages-with-the-wow-factor",
-      "headline": "Swimming pools, fabulous views and radical architecture: 30 UK holiday cottages with the wow factor",
-      "summary": "Thirty UK holiday cottages showcase pools, views and radical architecture for memorable staycations.",
-      "url": "https://www.theguardian.com/p/x4qxk9",
-      "thumbnail": "https://media.guim.co.uk/0cfa04e269696ae3ff640c2239b82e1cf999086e/956_0_5600_4480/500.jpg",
-      "published": "2026-05-16T06:00:03Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "travel"
-    },
-    {
-      "id": "politics/2026/may/16/jeremy-corbyn-target-labour-coup-keir-starmer-andy-burnham-wes-streeting-angela-rayner-leadership",
-      "headline": "‘An hour of abuse’: Jeremy Corbyn on Labour coups, and whether he feels sorry for Starmer",
-      "summary": "Jeremy Corbyn discusses Labour leadership turmoil and sympathizes with Keir Starmer's political struggles.",
-      "url": "https://www.theguardian.com/p/x53jha",
-      "thumbnail": "https://media.guim.co.uk/35e03d772e383f278425b0c7e61edd8b7ad81137/1321_327_4151_3321/500.jpg",
-      "published": "2026-05-16T06:00:03Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "money/2026/may/16/uk-insurance-cover-chinese-evs-jaecoo-byd-xpeng",
-      "headline": "UK drivers struggle to get insurance for Chinese EVs such as Jaecoo",
-      "summary": "UK insurers hesitant covering Chinese EVs with limited options or higher premiums than equivalent petrol cars.",
-      "url": "https://www.theguardian.com/p/x5xtf7",
-      "thumbnail": "https://media.guim.co.uk/86ea5248f33d1135045751b38c43771b7aa9f9e8/651_193_2833_2268/500.jpg",
-      "published": "2026-05-16T06:00:02Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "money"
-    },
-    {
-      "id": "society/2026/may/16/record-numbers-of-uk-renters-crowdfunding-to-cover-bills",
-      "headline": "Record numbers of UK renters crowdfunding to cover bills",
-      "summary": "Record UK renters use crowdfunding for rent with GoFundMe donations up 60% since 2022.",
-      "url": "https://www.theguardian.com/p/x52x5e",
-      "thumbnail": "https://media.guim.co.uk/feda1d88054c99210f5d16271b54da5864049c02/0_311_4284_3427/500.jpg",
-      "published": "2026-05-16T06:00:02Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "society"
-    },
     {
       "id": "football/live/2026/may/16/fa-cup-final-buildup-scottish-premiership-title-decider-wsl-finale-matchday-live",
       "headline": "Scottish Premiership title decider, FA Cup final buildup and WSL finale – matchday live",
@@ -1286,6 +1190,86 @@
       "category": "politics",
       "significance": 2,
       "section": "us-news"
+    },
+    {
+      "id": "politics/live/2026/may/17/labour-leadership-keir-starmer-andy-burnham-wes-streeting-uk-politics-live",
+      "headline": "Labour leadership talk ‘froth and nonsense’, says senior minister – UK politics live",
+      "summary": "Labour minister denies leadership speculation around Starmer amid Burnham and Streeting talk.",
+      "url": "https://www.theguardian.com/p/x54xtk",
+      "thumbnail": "https://media.guim.co.uk/a15c3d426bf3ab77265f232394e5eccb3f7f96af/0_0_5000_4000/500.jpg",
+      "published": "2026-05-17T07:58:06Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "football/live/2026/may/17/fa-cup-final-scottish-premiership-wsl-reaction-premier-league-buildup-matchday-live",
+      "headline": "Premier League buildup, Celtic v Hearts fallout, FA Cup final reaction, and more – matchday live",
+      "summary": "Manchester City wins FA Cup final 1-0 over Chelsea with Antoine Semenyo's goal.",
+      "url": "https://www.theguardian.com/p/x538g4",
+      "thumbnail": "https://media.guim.co.uk/e3b02965b35821cc3d744bf7c63bcafabc65774c/0_0_5000_4000/500.jpg",
+      "published": "2026-05-17T07:47:10Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "politics/2026/may/17/it-was-always-the-way-to-vote-labour-here-partys-proud-welsh-heartland-makes-a-clean-break-of-it",
+      "headline": "‘It was always the way to vote Labour here’: party’s proud Welsh heartland makes a clean break of it",
+      "summary": "Labour's Welsh heartland Tredegar sends no delegates to Senedd in historic shift.",
+      "url": "https://www.theguardian.com/p/x53epg",
+      "thumbnail": "https://media.guim.co.uk/d41815465c92c9e963f1847be4a5187ab3155065/0_0_6714_5375/500.jpg",
+      "published": "2026-05-17T07:00:32Z",
+      "location": {
+        "name": "Tredegar",
+        "lat": 51.7842,
+        "lng": -3.1708
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "uk-news/2026/may/17/yvette-cooper-palestine-action-article-despite-cps-warning-trial",
+      "headline": "Yvette Cooper wrote Palestine Action article despite CPS warning it could affect trial",
+      "summary": "Cooper wrote Palestine Action column despite CPS warning it could prejudice activists' trial.",
+      "url": "https://www.theguardian.com/p/x53dy9",
+      "thumbnail": "https://media.guim.co.uk/8c7a8cade58e1d23f73891c18a9aac0bb96d2333/442_11_4071_3256/500.jpg",
+      "published": "2026-05-17T07:00:32Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "australia-news/2026/may/17/steven-mattaboni-named-as-victim-of-rottnest-island-shark-attack",
+      "headline": "‘Fiercely loyal, endlessly generous’ father named as victim of Rottnest Island shark attack",
+      "summary": "Perth surveyor Steven Mattaboni killed in fatal shark attack at Rottnest Island, Western Australia.",
+      "url": "https://www.theguardian.com/p/x54xb5",
+      "thumbnail": "https://media.guim.co.uk/48480aa7b3cc7e55c64addf0516e73bec76146fe/241_0_1136_910/500.png",
+      "published": "2026-05-17T06:53:54Z",
+      "location": {
+        "name": "Rottnest Island",
+        "lat": -32.0011,
+        "lng": 115.4929
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "australia-news"
     }
   ]
 }
