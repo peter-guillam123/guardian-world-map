@@ -1,76 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-17T15:07:27.594Z",
-    "story_count": 82,
-    "oldest_story": "2026-05-16T15:10:19Z",
-    "newest_story": "2026-05-17T15:07:13Z",
+    "generated_at": "2026-05-17T16:10:44.048Z",
+    "story_count": 84,
+    "oldest_story": "2026-05-16T16:22:06Z",
+    "newest_story": "2026-05-17T16:04:47Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "us-news/2026/may/16/trump-irs-lawsuit-compensation-fund",
-      "headline": "Trump may settle his lawsuit against IRS for $1.7bn fund to compensate allies",
-      "summary": "Trump administration may settle $10bn IRS lawsuit, paying billions to president and allies from taxpayer funds.",
-      "url": "https://www.theguardian.com/p/x53y2y",
-      "thumbnail": "https://media.guim.co.uk/12b29e36880c3213ad1ac7ea908e95e85fd91be1/0_0_5000_4000/500.jpg",
-      "published": "2026-05-16T16:00:13Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 4,
-      "section": "us-news"
-    },
-    {
-      "id": "politics/2026/may/16/andy-burnham-energy-water-under-public-control-keir-starmer",
-      "headline": "‘We need a different path’: Andy Burnham vows to put energy and water under public control",
-      "summary": "Andy Burnham pledges mass renationalization of energy and water if he becomes UK prime minister.",
-      "url": "https://www.theguardian.com/p/x53zyz",
-      "thumbnail": "https://media.guim.co.uk/bf0f4d3fe009178469f4c44167b12a3e857fd72a/615_0_6145_4916/500.jpg",
-      "published": "2026-05-16T15:48:21Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4808,
-        "lng": -2.2426
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "football/2026/may/16/mohamed-salah-criticises-crumbling-liverpools-season-and-demands-return-to-heavy-metal-football",
-      "headline": "Mohamed Salah criticises ‘crumbling’ Liverpool and demands return to ‘heavy metal’ football",
-      "summary": "Mohamed Salah criticizes crumbling Liverpool after 4-2 loss, hints at departure from the club.",
-      "url": "https://www.theguardian.com/p/x53p5x",
-      "thumbnail": "https://media.guim.co.uk/0f098589fc51a90d6600c96b729a2725dc02585a/70_107_1366_1093/500.jpg",
-      "published": "2026-05-16T15:41:05Z",
-      "location": {
-        "name": "Liverpool",
-        "lat": 53.4308,
-        "lng": -2.9626
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "us-news/2026/may/16/kash-patel-snorkeling-uss-arizona-memorial-hawaii",
-      "headline": "Kash Patel faces scrutiny over snorkeling outing at USS Arizona memorial in Hawaii",
-      "summary": "FBI director Kash Patel faces scrutiny for snorkeling at USS Arizona memorial in Hawaii.",
-      "url": "https://www.theguardian.com/p/x53zfq",
-      "thumbnail": "https://media.guim.co.uk/6dbd635ea67d57568403d302e85bd8c2e91baeec/317_0_7920_6336/500.jpg",
-      "published": "2026-05-16T15:10:19Z",
-      "location": {
-        "name": "Honolulu",
-        "lat": 21.3099,
-        "lng": -157.8581
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
     {
       "id": "sport/live/2026/may/16/us-pga-championship-day-three-golf-live",
       "headline": "US PGA Championship 2026 golf, day three – live updates",
@@ -1318,6 +1254,102 @@
       "category": "politics",
       "significance": 2,
       "section": "uk-news"
+    },
+    {
+      "id": "football/live/2026/may/17/newcastle-v-west-ham-premier-league-live",
+      "headline": "Newcastle v West Ham: Premier League – live",
+      "summary": "Newcastle face West Ham in crucial Premier League match at 5:30pm BST.",
+      "url": "https://www.theguardian.com/p/x538eq",
+      "thumbnail": "https://media.guim.co.uk/443456465ea93070994ee40b3e2e4cf9a69e79a1/407_0_3330_2665/500.jpg",
+      "published": "2026-05-17T16:04:47Z",
+      "location": {
+        "name": "Newcastle",
+        "lat": 54.9754,
+        "lng": -1.6213
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/may/17/from-wiltshire-to-wembley-semenyo-surreal-journey-hits-new-heights",
+      "headline": "From Wiltshire to Wembley: Semenyo’s ‘surreal’ journey hits new heights",
+      "summary": "Manchester City's Semenyo completes remarkable rise from Bath City loans to Wembley.",
+      "url": "https://www.theguardian.com/p/x543xg",
+      "thumbnail": "https://media.guim.co.uk/64222e29d8b4d048d021bcf89b3921c440a3c7b5/0_0_2917_2333/500.jpg",
+      "published": "2026-05-17T16:00:43Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "film/2026/may/17/adam-driver-response-lena-dunham-allegations-book-cannes-film-festival",
+      "headline": "Adam Driver saving response to Lena Dunham allegations ‘for my book’",
+      "summary": "Adam Driver addresses Lena Dunham allegations at Cannes Film Festival press conference.",
+      "url": "https://www.theguardian.com/p/x543b2",
+      "thumbnail": "https://media.guim.co.uk/8060cf3f74a0caa497a39d6beb51062ad3249856/949_5_3997_3198/500.jpg",
+      "published": "2026-05-17T15:56:26Z",
+      "location": {
+        "name": "Cannes",
+        "lat": 43.5525,
+        "lng": 7.0176
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "film"
+    },
+    {
+      "id": "film/2026/may/17/moulin-review-laszlo-nemes-jean-moulin-rfrench-resistance-klaus-barbie",
+      "headline": "Moulin review – László Nemes’s resistance hero drama is chilling, stirring and surprisingly conventional",
+      "summary": "László Nemes's Jean Moulin drama explores French Resistance hero's torture by Klaus Barbie.",
+      "url": "https://www.theguardian.com/p/x543cz",
+      "thumbnail": "https://media.guim.co.uk/ec8d732869fbb70aa13ed88ff01e5af69b5e4618/446_0_3878_3104/500.jpg",
+      "published": "2026-05-17T15:55:57Z",
+      "location": {
+        "name": "Cannes",
+        "lat": 43.5525,
+        "lng": 7.0176
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "film"
+    },
+    {
+      "id": "stage/2026/may/17/letter-paul-seed-obituary",
+      "headline": "Letter: Paul Seed obituary",
+      "summary": "Letter recalls Paul Seed's theatrical contributions at Manchester Grammar School.",
+      "url": "https://www.theguardian.com/p/x543h5",
+      "thumbnail": "https://media.guim.co.uk/79705605652765d76e94d3c4859fdb60428c5deb/0_9_2126_1700/500.jpg",
+      "published": "2026-05-17T15:44:33Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "stage"
+    },
+    {
+      "id": "us-news/2026/may/17/tom-steyer-billionaire-candidate-democrats",
+      "headline": "A ‘tax-the-rich’ billionaire candidate? Democrats are intrigued",
+      "summary": "Billionaire Tom Steyer campaigns for California governor on tax-the-rich platform.",
+      "url": "https://www.theguardian.com/p/x53zdj",
+      "thumbnail": "https://media.guim.co.uk/9376b4bac6969f8774ab340b19bb86886ea8a198/158_0_6471_5178/500.jpg",
+      "published": "2026-05-17T15:06:55Z",
+      "location": {
+        "name": "California",
+        "lat": 36.1163,
+        "lng": -119.6674
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
     }
   ]
 }
