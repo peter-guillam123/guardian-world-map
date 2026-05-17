@@ -1,140 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-17T11:18:42.864Z",
-    "story_count": 69,
-    "oldest_story": "2026-05-16T11:25:08Z",
-    "newest_story": "2026-05-17T11:17:51Z",
+    "generated_at": "2026-05-17T12:09:18.625Z",
+    "story_count": 66,
+    "oldest_story": "2026-05-16T13:02:18Z",
+    "newest_story": "2026-05-17T12:00:38Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/live/2026/may/16/chelsea-v-manchester-city-fa-cup-final-live",
-      "headline": "Chelsea v Manchester City: FA Cup final – live",
-      "summary": "Chelsea face Manchester City in FA Cup final at Wembley Stadium.",
-      "url": "https://www.theguardian.com/p/x5388n",
-      "thumbnail": "https://media.guim.co.uk/9a99c0f6bdd068ab9a4f1125598a87da5b43f0e1/564_112_2319_1856/500.jpg",
-      "published": "2026-05-16T12:00:10Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "commentisfree/2026/may/16/pity-the-poor-ai-datacenters-facing-discrimination",
-      "headline": "Pity the poor AI datacenters facing ‘discrimination’",
-      "summary": "AI datacenters face local resistance over resource consumption and environmental impact.",
-      "url": "https://www.theguardian.com/p/x53y5k",
-      "thumbnail": "https://media.guim.co.uk/db2dc0d94ca0ddb4e49eef6f8e2a384e6c13be29/609_0_4350_3480/500.jpg",
-      "published": "2026-05-16T12:00:10Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "tech",
-      "significance": 2,
-      "section": "commentisfree"
-    },
-    {
-      "id": "film/2026/may/16/harlem-renaissance-documentary-once-upon-time-william-greaves",
-      "headline": "Harlem Renaissance documentary finally gets global premiere 50 years after cameras rolled",
-      "summary": "Harlem Renaissance documentary by William Greaves premieres at Cannes after 50 years.",
-      "url": "https://www.theguardian.com/p/x5vjym",
-      "thumbnail": "https://media.guim.co.uk/0719ce9c2e3efb2d94c996114d8af48a901e3f7d/654_0_2700_2160/500.jpg",
-      "published": "2026-05-16T12:00:09Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "film"
-    },
-    {
-      "id": "world/2026/may/16/peacock-italy-punta-marina-tensions",
-      "headline": "Peacock ‘invasion’ of Italian seaside town ruffles feathers",
-      "summary": "Italian seaside town appoints peacock rangers to manage tensions over bird population.",
-      "url": "https://www.theguardian.com/p/x53heb",
-      "thumbnail": "https://media.guim.co.uk/77cc4d3fafd7461bdf0da9ae1d9c5bc9d37d54ca/1019_0_5200_4160/500.jpg",
-      "published": "2026-05-16T12:00:08Z",
-      "location": {
-        "name": "Punta Marina",
-        "lat": 44.3569,
-        "lng": 12.2617
-      },
-      "category": "other",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "world/2026/may/16/maldives-scuba-divers-italy-drowned-cave",
-      "headline": "Divers in Maldives resume search for Italian scuba divers who drowned in cave",
-      "summary": "Rescue teams resume search for four Italian scuba divers drowned in Vaavu Atoll cave.",
-      "url": "https://www.theguardian.com/p/x53zxj",
-      "thumbnail": "https://media.guim.co.uk/ed37d9ed43ddec00912b3aae6568e726990550ac/308_0_1539_1232/500.jpg",
-      "published": "2026-05-16T11:45:36Z",
-      "location": {
-        "name": "Maldives",
-        "lat": 4.1694,
-        "lng": 73.5093
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "film/2026/may/16/clarissa-review-virginia-woolf-mrs-dalloway-nigeria",
-      "headline": "Clarissa review – Sophie Okonedo mesmeric as Virginia Woolf’s Mrs Dalloway decamps to Nigeria ",
-      "summary": "Sophie Okoneko stars in Cannes-screened drama adapting Virginia Woolf's Mrs Dalloway.",
-      "url": "https://www.theguardian.com/p/x53274",
-      "thumbnail": "https://media.guim.co.uk/afb3c1517af051b6dded1fbd7b29bc7810875baa/496_0_1195_956/500.jpg",
-      "published": "2026-05-16T11:45:08Z",
-      "location": {
-        "name": "Nigeria",
-        "lat": 9.082,
-        "lng": 8.6753
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "film"
-    },
-    {
-      "id": "politics/2026/may/16/mick-jagger-eric-clapton-win-battle-stop-29-storey-block-thames",
-      "headline": "Mick Jagger and Eric Clapton win battle to stop 29-storey block being built by Thames",
-      "summary": "Mick Jagger and Eric Clapton win planning battle against 29-storey Thames development.",
-      "url": "https://www.theguardian.com/p/x53z5n",
-      "thumbnail": "https://media.guim.co.uk/d9ccf95784b7840d11ebe01590b2f7790ccd207e/280_0_1295_1036/500.jpg",
-      "published": "2026-05-16T11:35:05Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "film/2026/may/16/la-gradiva-review-stunning-coming-of-age-story-of-young-love-and-sexual-tension",
-      "headline": "La Gradiva review – stunning coming-of-age story of young love and sexual tension",
-      "summary": "French students and teacher featured in coming-of-age film set in Pompeii and Naples.",
-      "url": "https://www.theguardian.com/p/x52eek",
-      "thumbnail": "https://media.guim.co.uk/f3204196b0c8d1c5a172565871f869c0c34b4aa1/888_0_3281_2625/500.jpg",
-      "published": "2026-05-16T11:25:08Z",
-      "location": {
-        "name": "Italy",
-        "lat": 41.8719,
-        "lng": 12.5674
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "film"
-    },
     {
       "id": "football/2026/may/16/celtic-stun-hearts-at-the-last-in-dramatic-final-day-shootout-to-retain-scottish-title",
       "headline": "Celtic stun Hearts at the last in dramatic final-day shootout to retain Scottish title",
@@ -1110,6 +982,86 @@
       "category": "sport",
       "significance": 2,
       "section": "football"
+    },
+    {
+      "id": "environment/2026/may/17/north-america-bees-early-swarm-season",
+      "headline": "Experts sound alarm as North America’s bees start swarm season unusually early",
+      "summary": "North American bee swarm season starts 17 days early due to warm winter and climate crisis impacts.",
+      "url": "https://www.theguardian.com/p/x53kxf",
+      "thumbnail": "https://media.guim.co.uk/e8089c874219f0e1f7ef79c49b49ac275dca665d/468_0_4680_3744/500.jpg",
+      "published": "2026-05-17T12:00:38Z",
+      "location": {
+        "name": "North America",
+        "lat": 45,
+        "lng": -95
+      },
+      "category": "climate",
+      "significance": 3,
+      "section": "environment"
+    },
+    {
+      "id": "us-news/2026/may/17/james-clyburn-south-carolina-redistricting",
+      "headline": "‘Jim Crow 2.0’: South Carolina’s Republicans move to oust state’s only Black congressman since 1897",
+      "summary": "South Carolina Republicans propose redistricting that could oust James Clyburn, state's only Black congressman since 1897.",
+      "url": "https://www.theguardian.com/p/x53k2z",
+      "thumbnail": "https://media.guim.co.uk/026657efc9c241d965e8e0a3855b79b69ebdffe9/392_0_3919_3136/500.jpg",
+      "published": "2026-05-17T12:00:38Z",
+      "location": {
+        "name": "South Carolina",
+        "lat": 34.0007,
+        "lng": -81.1637
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "business/2026/may/17/leadership-labour-must-tackle-issue-social-care-head-on",
+      "headline": "Whatever happens with the leadership, Labour must tackle the issue of social care head-on",
+      "summary": "Labour must confront Britain's social care crisis and aging population challenges head-on.",
+      "url": "https://www.theguardian.com/p/x53j6a",
+      "thumbnail": "https://media.guim.co.uk/19bfb0dfa3a2cf8477d712d76767709c2e4316e2/2063_332_1312_1051/500.jpg",
+      "published": "2026-05-17T11:52:06Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "stage/2026/may/17/mother-courage-and-her-children-review-shakespeares-globe-michelle-terry-bertolt-brecht",
+      "headline": "Mother Courage and her Children review – moving, funny and savage portrait of life during wartime",
+      "summary": "Michelle Terry's humane performance in Brecht's Mother Courage at Shakespeare's Globe theatre.",
+      "url": "https://www.theguardian.com/p/x542dt",
+      "thumbnail": "https://media.guim.co.uk/d14b092bd30fe873d243f9952db07d643cd86b30/315_0_3146_2517/500.jpg",
+      "published": "2026-05-17T11:45:49Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "stage"
+    },
+    {
+      "id": "commentisfree/2026/may/17/trump-ftc-media-matters",
+      "headline": "Trump’s trade commission is using fear to silence dissent",
+      "summary": "Trump's FTC uses intimidation tactics to settle case with Media Matters watchdog organization.",
+      "url": "https://www.theguardian.com/p/x53abp",
+      "thumbnail": "https://media.guim.co.uk/feedd7fc0616db9bd67124be8dfade1021ce117a/299_0_6880_5504/500.jpg",
+      "published": "2026-05-17T11:00:38Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "commentisfree"
     }
   ]
 }
