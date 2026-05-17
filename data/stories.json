@@ -1,44 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-17T22:34:48.792Z",
-    "story_count": 94,
-    "oldest_story": "2026-05-16T23:20:16Z",
-    "newest_story": "2026-05-17T21:34:52Z",
+    "generated_at": "2026-05-17T23:39:27.927Z",
+    "story_count": 98,
+    "oldest_story": "2026-05-17T00:33:22Z",
+    "newest_story": "2026-05-17T23:14:08Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "australia-news/live/2026/may/17/australia-news-live-stafford-queensland-labor-lnp-jim-chalmers-federal-budget-anthony-albanese-angus-taylor-aukus-coalition-ntwnfb",
-      "headline": "Australia news live: Queensland Labor ahead in Stafford byelection despite large swing",
-      "summary": "Queensland Labor maintains lead in Stafford byelection despite significant swing against them.",
-      "url": "https://www.theguardian.com/p/x53qyt",
-      "thumbnail": "https://media.guim.co.uk/e85f0b8b01017b4075ce68e08ddbabfb645560b0/493_0_4312_3450/500.jpg",
-      "published": "2026-05-16T23:24:38Z",
-      "location": {
-        "name": "Stafford, Queensland",
-        "lat": -27.5598,
-        "lng": 152.9892
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "world/2026/may/17/bulgaria-wins-70th-eurovision-contest-dara-bangaranga",
-      "headline": "Bulgaria wins 70th Eurovision contest with Dara and Bangaranga",
-      "summary": "Bulgaria wins Eurovision 2026 with Dara's 'Bangaranga'; five countries boycott over Israel participation.",
-      "url": "https://www.theguardian.com/p/x53xp2",
-      "thumbnail": "https://media.guim.co.uk/a469e55a224967e7c4b946045be638c4e749e999/653_261_2794_2235/500.jpg",
-      "published": "2026-05-16T23:20:16Z",
-      "location": {
-        "name": "Vienna",
-        "lat": 48.2082,
-        "lng": 16.3738
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "world"
-    },
     {
       "id": "world/2026/may/16/israeli-strikes-southern-lebanon-hours-after-extension-of-ceasefire",
       "headline": "Israeli strikes kill six in southern Lebanon hours after extension of ceasefire",
@@ -1510,6 +1478,102 @@
       "category": "sport",
       "significance": 2,
       "section": "football"
+    },
+    {
+      "id": "sport/2026/may/18/aaron-rai-us-pga-championship-title-win-jon-rahm-rory-mcilroy",
+      "headline": "Aaron Rai becomes first English golfer to win US PGA Championship since 1919",
+      "summary": "Aaron Rai wins US PGA Championship, first English golfer to triumph since 1919.",
+      "url": "https://www.theguardian.com/p/x539fp",
+      "thumbnail": "https://media.guim.co.uk/5b4e77677ebec542e25bafc102f11af007146c17/629_0_3897_3118/500.jpg",
+      "published": "2026-05-17T23:14:08Z",
+      "location": {
+        "name": "Philadelphia",
+        "lat": 39.9526,
+        "lng": -75.1652
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "sport"
+    },
+    {
+      "id": "society/2026/may/18/campaigners-threaten-legal-action-over-uk-us-deal-on-prices-nhs-pays-for-drugs",
+      "headline": "Campaigners threaten legal action over UK-US deal on prices NHS pays for drugs ",
+      "summary": "Campaigners threaten legal action over UK-US drug pricing deal affecting NHS costs.",
+      "url": "https://www.theguardian.com/p/x54465",
+      "thumbnail": "https://media.guim.co.uk/882fb103cf7b13488a8e91ae9d24c2bd7e5b93fb/778_0_4033_3227/500.jpg",
+      "published": "2026-05-17T23:01:52Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "society"
+    },
+    {
+      "id": "business/2026/may/18/uk-firms-halt-investments-and-hiring-as-iran-war-pushes-up-costs-bosses-warn",
+      "headline": "UK firms halt investments and hiring as Iran war pushes up costs, bosses warn",
+      "summary": "UK firms halt investment and hiring as Iran war drives up economic costs.",
+      "url": "https://www.theguardian.com/p/x542t3",
+      "thumbnail": "https://media.guim.co.uk/0646a80e9fe385ac054e18903fde96056aeccce0/656_69_4484_3590/500.jpg",
+      "published": "2026-05-17T23:01:52Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "money/2026/may/18/pensions-commission-warns-retirement-savings-gender-gap-uk",
+      "headline": "Government-backed Pensions Commission calls for action on gender savings gap",
+      "summary": "Pensions Commission warns British women have half the retirement savings of men.",
+      "url": "https://www.theguardian.com/p/x542cx",
+      "thumbnail": "https://media.guim.co.uk/b89d2c5241fa46025528e4e229cfd3e8caa07327/247_31_4775_3820/500.jpg",
+      "published": "2026-05-17T23:01:51Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "money"
+    },
+    {
+      "id": "law/2026/may/18/david-lammy-promises-cut-in-children-jailed-awaiting-trial",
+      "headline": "David Lammy promises 25% cut in number of children jailed while they await trial",
+      "summary": "Justice Secretary David Lammy pledges 25% cut in children jailed awaiting trial.",
+      "url": "https://www.theguardian.com/p/x5432m",
+      "thumbnail": "https://media.guim.co.uk/0a6662f1e215d50754ad7c350a91916ea98130d7/427_0_4267_3414/500.jpg",
+      "published": "2026-05-17T23:01:51Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "law"
+    },
+    {
+      "id": "film/2026/may/18/garance-review-adele-exarchopoulos-gives-it-her-all-in-ripe-but-flimsy-portrait-of-alcohol-addiction",
+      "headline": "Garance review – Adèle Exarchopoulos gives it her all in ripe but flimsy portrait of alcohol addiction",
+      "summary": "Adèle Exarchopoulos stars in Garance, film exploring alcohol addiction at Cannes.",
+      "url": "https://www.theguardian.com/p/x544mt",
+      "thumbnail": "https://media.guim.co.uk/fcb93d3cdcdee9729c13c6f83f01ce20b7dd3a47/529_122_1440_1152/500.jpg",
+      "published": "2026-05-17T22:59:52Z",
+      "location": {
+        "name": "Cannes",
+        "lat": 43.5528,
+        "lng": 7.0176
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "film"
     }
   ]
 }
