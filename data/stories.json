@@ -1,76 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-17T12:09:18.625Z",
-    "story_count": 66,
-    "oldest_story": "2026-05-16T13:02:18Z",
-    "newest_story": "2026-05-17T12:00:38Z",
+    "generated_at": "2026-05-17T13:57:49.286Z",
+    "story_count": 70,
+    "oldest_story": "2026-05-16T14:10:01Z",
+    "newest_story": "2026-05-17T13:52:25Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/2026/may/16/celtic-stun-hearts-at-the-last-in-dramatic-final-day-shootout-to-retain-scottish-title",
-      "headline": "Celtic stun Hearts at the last in dramatic final-day shootout to retain Scottish title",
-      "summary": "Celtic wins Scottish Premiership title with dramatic late goals against Hearts on final day.",
-      "url": "https://www.theguardian.com/p/x5394k",
-      "thumbnail": "https://media.guim.co.uk/e66e2c9e7c721c94f2d2bf360d07301fedb4654f/117_0_3167_2533/500.jpg",
-      "published": "2026-05-16T13:45:25Z",
-      "location": {
-        "name": "Glasgow",
-        "lat": 55.8642,
-        "lng": -4.2518
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "uk-news/2026/may/16/two-men-arrested-after-man-run-over-by-van-in-birmingham-near-flag-protest",
-      "headline": "Two men arrested in London after man run over by van in Birmingham",
-      "summary": "Two men arrested after man run over by van during flag removal incident in Birmingham.",
-      "url": "https://www.theguardian.com/p/x53z9x",
-      "thumbnail": "https://media.guim.co.uk/ca1cbd95a7e5861fa0c1053e290c4599f1ecf304/2987_1588_4653_3722/500.jpg",
-      "published": "2026-05-16T13:39:12Z",
-      "location": {
-        "name": "Birmingham",
-        "lat": 52.5086,
-        "lng": -1.8755
-      },
-      "category": "conflict",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "uk-news/2026/may/16/soldier-dies-falling-from-horse-royal-windsor-show",
-      "headline": "Soldier dies after falling from horse at Royal Windsor Horse Show",
-      "summary": "Soldier from King's Troop Royal Horse Artillery dies after falling from horse at Windsor Show.",
-      "url": "https://www.theguardian.com/p/x53zez",
-      "thumbnail": "https://media.guim.co.uk/a20a8692f2c87f9d9c859edf81c3bad39ee15e64/375_0_3750_3000/500.jpg",
-      "published": "2026-05-16T13:02:40Z",
-      "location": {
-        "name": "Windsor",
-        "lat": 51.4769,
-        "lng": -0.6105
-      },
-      "category": "other",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "us-news/2026/may/16/lauren-boebert-trump-funds-colorado-drink-water-funds-tina-peters",
-      "headline": "Lauren Boebert suggests Trump withheld funds to Colorado over prosecution of election denier",
-      "summary": "Boebert suggests Trump withheld water funds over Colorado's prosecution of election denier Peters.",
-      "url": "https://www.theguardian.com/p/x53zgt",
-      "thumbnail": "https://media.guim.co.uk/be10a4f682823163c3ef4a160bb20501a206b2a3/2_0_5175_4143/500.jpg",
-      "published": "2026-05-16T13:02:18Z",
-      "location": {
-        "name": "Colorado",
-        "lat": 39.0598,
-        "lng": -105.3111
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
     {
       "id": "politics/2026/may/16/wes-streeting-launches-scathing-attack-keir-starmer-vision-leadership",
       "headline": "Wes Streeting confirms he will stand if Labour leadership race is triggered",
@@ -1062,6 +998,134 @@
       "category": "politics",
       "significance": 3,
       "section": "commentisfree"
+    },
+    {
+      "id": "football/live/2026/may/17/brentford-v-crystal-palace-leeds-v-brighton-premier-league-clockwatch-live",
+      "headline": "Brentford v Crystal Palace, Leeds v Brighton, Everton v Sunderland: Premier League – live",
+      "summary": "Premier League live coverage of Brentford v Crystal Palace, Leeds v Brighton and other Sunday matches.",
+      "url": "https://www.theguardian.com/p/x538ed",
+      "thumbnail": "https://media.guim.co.uk/f353f63936139848d466a65922632af3fcc8a52b/431_0_4191_3353/500.jpg",
+      "published": "2026-05-17T13:52:25Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "music/2026/may/17/anne-sophie-mutter-review-barbican-star-violinist",
+      "headline": "Anne-Sophie Mutter review – star violinist celebrates 50 years in brilliant style",
+      "summary": "Anne-Sophie Mutter celebrates 50 years as violinist with performance at the Barbican in London.",
+      "url": "https://www.theguardian.com/p/x542nz",
+      "thumbnail": "https://media.guim.co.uk/28990cfd25f2d42567cfefffc2f4b516527ae8a9/19_198_3730_2984/500.jpg",
+      "published": "2026-05-17T13:46:24Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "music"
+    },
+    {
+      "id": "football/2026/may/17/manchester-united-nottingham-forest-premier-league-match-report",
+      "headline": "Bruno Fernandes equals assist record as Manchester United hold off battling Forest",
+      "summary": "Manchester United defeat Nottingham Forest 3-2 in Premier League match with Bruno Fernandes assist record.",
+      "url": "https://www.theguardian.com/p/x539a9",
+      "thumbnail": "https://media.guim.co.uk/935e58f99838e18b0113733c85e8e4e67f5fc55b/255_0_2647_2117/500.jpg",
+      "published": "2026-05-17T13:36:25Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4631,
+        "lng": -2.2913
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "society/2026/may/17/terminally-ill-people-rankin-london-demand-revival-assisted-dying-bill",
+      "headline": "‘I want my choice’: terminally ill people join Rankin to demand revival of assisted dying bill",
+      "summary": "Photographer Rankin collaborates on campaign to revive assisted dying bill for terminally ill people.",
+      "url": "https://www.theguardian.com/p/x53kxq",
+      "thumbnail": "https://media.guim.co.uk/c6456c0300cb61c65c133c31e3f8fa95f669f887/0_0_5000_4000/500.jpg",
+      "published": "2026-05-17T13:08:25Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "society"
+    },
+    {
+      "id": "us-news/ng-interactive/2026/may/17/america-china-energy-oil-renewables",
+      "headline": "The American epoch of oil is collapsing. What comes next could be ugly",
+      "summary": "US oil era declining as China dominates global energy transition away from fossil fuels.",
+      "url": "https://www.theguardian.com/p/x52879",
+      "thumbnail": "https://media.guim.co.uk/356717d663c73160b1df7704cce1e067fd4fd270/1_0_2999_2400/500.jpg",
+      "published": "2026-05-17T13:00:41Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "lifeandstyle/2026/may/17/ellie-simmonds-looks-back-interview-paralympic-swimmer-retired",
+      "headline": "Ellie Simmonds looks back: ‘Without swimming, my mum says I would probably have ended up in jail!’",
+      "summary": "Paralympic swimmer Ellie Simmonds reflects on retirement, childhood and her career achievements.",
+      "url": "https://www.theguardian.com/p/x5vhnz",
+      "thumbnail": "https://media.guim.co.uk/a1b1df3add22501b991c4b1e820dfb058a811937/1198_26_5143_4116/500.jpg",
+      "published": "2026-05-17T13:00:41Z",
+      "location": {
+        "name": "Walsall",
+        "lat": 52.5835,
+        "lng": -2.028
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "lifeandstyle"
+    },
+    {
+      "id": "us-news/2026/may/17/brent-daniel-sikkema-trial-murder-for-hire-trial",
+      "headline": "Did a hitman kill a New York gallerist? Art world rocked by murder-for-hire trial",
+      "summary": "Art gallerist Brent Sikkema allegedly killed by hired hitman; estranged husband Daniel Sikkema accused.",
+      "url": "https://www.theguardian.com/p/x53kvb",
+      "thumbnail": "https://media.guim.co.uk/bb61685bd202fb88412321f1705af00d5710a989/1652_0_1606_1285/500.jpg",
+      "published": "2026-05-17T13:00:40Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "world/2026/may/17/roma-rights-hungary-new-government-magyar-orban",
+      "headline": "‘The real work begins now’: Roma take centre stage as Hungary brings in new government",
+      "summary": "New Hungarian government under Péter Magyar promises Roma rights improvements after Orbán era.",
+      "url": "https://www.theguardian.com/p/x538qy",
+      "thumbnail": "https://media.guim.co.uk/5940474858bf59eb713ade95d3f1793efab6e443/527_0_3276_2621/500.jpg",
+      "published": "2026-05-17T13:00:39Z",
+      "location": {
+        "name": "Budapest",
+        "lat": 47.4979,
+        "lng": 19.0402
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "world"
     }
   ]
 }
