@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-05-17T20:34:08.865Z",
-    "story_count": 89,
+    "generated_at": "2026-05-17T21:35:20.895Z",
+    "story_count": 94,
     "oldest_story": "2026-05-16T22:21:53Z",
-    "newest_story": "2026-05-17T20:00:48Z",
+    "newest_story": "2026-05-17T21:34:52Z",
     "window_hours": 24
   },
   "stories": [
@@ -1430,6 +1430,86 @@
       "category": "politics",
       "significance": 2,
       "section": "us-news"
+    },
+    {
+      "id": "australia-news/live/2026/may/18/australia-news-live-nsw-victoria-queensland-politics-labor-liberal-coalition-melbourne-sydney-brisbane-economy-weather-ntwnfb",
+      "headline": "Australia news live: NSW police make 993 arrests in four-day domestic violence sweep",
+      "summary": "NSW police make 993 arrests in four-day domestic violence operation across Australia.",
+      "url": "https://www.theguardian.com/p/x544mh",
+      "thumbnail": "https://media.guim.co.uk/1ceb0a72c9379ac44245748d403ceaf88c4d95ac/408_0_2040_1632/500.jpg",
+      "published": "2026-05-17T21:34:52Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "uk-news/2026/may/17/crime-serious-barrier-uk-growth-business-leaders",
+      "headline": "Crime increasingly a ‘serious barrier’ to UK growth, say business leaders",
+      "summary": "UK business leaders warn crime is serious barrier to economic growth amid rising theft and fraud.",
+      "url": "https://www.theguardian.com/p/x542ch",
+      "thumbnail": "https://media.guim.co.uk/fa374aa499252ac9dedb9c151006ac34eb0aafc7/1281_925_1959_1567/500.jpg",
+      "published": "2026-05-17T21:30:49Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "us-news/2026/may/17/minnesota-national-guard-wildfires",
+      "headline": "Minnesota deploys national guard to help fight wildfires in northern region",
+      "summary": "Minnesota deploys national guard to combat unpredictable wildfires in northern region.",
+      "url": "https://www.theguardian.com/p/x544d3",
+      "thumbnail": "https://media.guim.co.uk/a0df37993fc787fc2239a94671bd8da3e80d5e09/0_0_900_720/500.jpg",
+      "published": "2026-05-17T21:10:28Z",
+      "location": {
+        "name": "Minneapolis",
+        "lat": 44.9778,
+        "lng": -93.265
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "australia-news/2026/may/18/morning-mail-monday-ntwnfb",
+      "headline": "Morning Mail: big tobacco accused of scare tactics, how supermarkets swap discounts, and Ebola fears rise",
+      "summary": "Health experts accuse big tobacco of scaremongering over illicit trade to weaken regulations.",
+      "url": "https://www.theguardian.com/p/x543k8",
+      "thumbnail": "https://media.guim.co.uk/952ec6cfa98f7696be75c0304a53ca83ec1eda2e/217_0_3090_2473/500.jpg",
+      "published": "2026-05-17T20:49:13Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "football/2026/may/17/a-bad-day-nuno-says-west-ham-owe-their-fans-respect-and-dignity",
+      "headline": "‘A bad day’: Nuno says West Ham owe their fans ‘respect and dignity’",
+      "summary": "West Ham on brink of relegation after defeat at Newcastle under Nuno Espírito Santo.",
+      "url": "https://www.theguardian.com/p/x53ex7",
+      "thumbnail": "https://media.guim.co.uk/166b6e9561dc3169e76f58c8f8f098a3d934b0a1/51_0_1075_860/500.jpg",
+      "published": "2026-05-17T20:33:38Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
     }
   ]
 }
