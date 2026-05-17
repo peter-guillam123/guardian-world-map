@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-05-17T16:10:44.048Z",
-    "story_count": 84,
-    "oldest_story": "2026-05-16T16:22:06Z",
-    "newest_story": "2026-05-17T16:04:47Z",
+    "generated_at": "2026-05-17T17:16:56.022Z",
+    "story_count": 93,
+    "oldest_story": "2026-05-16T17:16:57Z",
+    "newest_story": "2026-05-17T17:13:35Z",
     "window_hours": 24
   },
   "stories": [
@@ -22,70 +22,6 @@
       "category": "sport",
       "significance": 2,
       "section": "sport"
-    },
-    {
-      "id": "world/2026/may/16/people-injured-car-crowd-modena-northern-italy",
-      "headline": "Seven people injured after man drives car into pedestrians in northern Italy",
-      "summary": "Car rammed into pedestrians in Modena, Italy; seven injured, driver arrested.",
-      "url": "https://www.theguardian.com/p/x53pfy",
-      "thumbnail": "https://media.guim.co.uk/82e0e7ad36ad04323a717fc1367d2bdd6aea553c/1674_0_4326_3461/500.jpg",
-      "published": "2026-05-16T17:10:25Z",
-      "location": {
-        "name": "Modena",
-        "lat": 44.6469,
-        "lng": 10.9252
-      },
-      "category": "conflict",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "film/2026/may/16/john-lennon-last-interview-review-steven-soderbergh",
-      "headline": "John Lennon: The Last Interview review – Soderbergh imagines there’s no people with bland AI clipshow",
-      "summary": "Soderbergh's John Lennon documentary marred by pointless AI-generated content.",
-      "url": "https://www.theguardian.com/p/x53p5z",
-      "thumbnail": "https://media.guim.co.uk/cc5f4a4cac3c884ec30df1c1f1d3eaafc6a3e6a4/179_0_985_788/500.jpg",
-      "published": "2026-05-16T16:36:08Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "film"
-    },
-    {
-      "id": "football/2026/may/16/fa-cup-final-player-ratings-chelsea-0-1-manchester-city",
-      "headline": "FA Cup final player ratings: Chelsea 0-1 Manchester City",
-      "summary": "Manchester City beats Chelsea 1-0 in FA Cup final; Semenyo scores stunning goal.",
-      "url": "https://www.theguardian.com/p/x539vq",
-      "thumbnail": "https://media.guim.co.uk/f5e4a92707e1064bd8a212a5f2db09ae435a3ee8/1593_493_3838_3070/500.jpg",
-      "published": "2026-05-16T16:32:09Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/may/16/manchester-city-win-fa-cup-final-as-semenyo-magic-sinks-chelsea",
-      "headline": "Manchester City win FA Cup final as Semenyo’s moment of magic floors Chelsea",
-      "summary": "Semenyo's audacious flick gives Manchester City FA Cup victory over Chelsea.",
-      "url": "https://www.theguardian.com/p/x539vk",
-      "thumbnail": "https://media.guim.co.uk/bc76a1929397ab1d30a6522717bca445c3973850/0_0_5000_4000/500.jpg",
-      "published": "2026-05-16T16:22:06Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
     },
     {
       "id": "tv-and-radio/live/2026/may/16/eurovision-song-contest-2026-live",
@@ -1350,6 +1286,214 @@
       "category": "politics",
       "significance": 2,
       "section": "us-news"
+    },
+    {
+      "id": "sport/live/2026/may/17/us-pga-championship-2026-day-four-golf-live",
+      "headline": "US PGA Championship 2026, day four – live updates",
+      "summary": "US PGA Championship 2026 final round at Aronimink Golf Club with live leaderboard updates.",
+      "url": "https://www.theguardian.com/p/x53844",
+      "thumbnail": "https://media.guim.co.uk/0578ee34c4288af7aee0f9fa09a803a47a5924a4/0_0_3566_2852/500.jpg",
+      "published": "2026-05-17T17:13:35Z",
+      "location": {
+        "name": "Philadelphia",
+        "lat": 39.9526,
+        "lng": -75.1652
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "sport/2026/may/17/scott-hastings-scotland-rugby-union-great-dies-aged-61",
+      "headline": "Scott Hastings, Scotland rugby union great, dies aged 61",
+      "summary": "Scott Hastings, legendary Scotland rugby union centre, dies aged 61.",
+      "url": "https://www.theguardian.com/p/x543mz",
+      "thumbnail": "https://media.guim.co.uk/420420bd454daba25888ec1aa3a7e41447847189/0_0_1451_1160/500.jpg",
+      "published": "2026-05-17T16:47:17Z",
+      "location": {
+        "name": "Scotland",
+        "lat": 56.4907,
+        "lng": -3.4746
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "politics/2026/may/17/explainer-uk-eu-relationship-brexit-bid-rejoining",
+      "headline": "Where does UK-EU relationship stand and how might bid to rejoin bloc be received?",
+      "summary": "Labour leadership contenders debate UK-EU relationship and potential rejoining of EU bloc.",
+      "url": "https://www.theguardian.com/p/x542dd",
+      "thumbnail": "https://media.guim.co.uk/9bd548436f97d326a52eddc7c390215a15a14dab/0_0_6005_4805/500.jpg",
+      "published": "2026-05-17T16:29:12Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "commentisfree/2026/may/17/the-guardian-view-on-cuba-trump-says-he-can-do-anything-i-want-to-the-island-it-doesnt-belong-to-him",
+      "headline": "The Guardian view on Cuba: Trump says he can do ‘anything I want’ to the island. It doesn’t belong to him",
+      "summary": "Trump intensifies economic blockade on Cuba, causing humanitarian crisis and blackouts.",
+      "url": "https://www.theguardian.com/p/x54xn7",
+      "thumbnail": "https://media.guim.co.uk/85d12e4a05623ad60a59f9886e34a0f51ecacf65/244_0_2435_1948/500.jpg",
+      "published": "2026-05-17T16:26:57Z",
+      "location": {
+        "name": "Cuba",
+        "lat": 21.5218,
+        "lng": -77.7812
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "commentisfree"
+    },
+    {
+      "id": "world/2026/may/17/the-uae-must-be-held-responsible-for-its-part-in-sudans-crisis",
+      "headline": "The UAE must be held responsible for its part in Sudan’s crisis",
+      "summary": "UAE held responsible for complicity in Sudan's ongoing war crisis.",
+      "url": "https://www.theguardian.com/p/x53xhy",
+      "thumbnail": "https://media.guim.co.uk/52116a56dac8b66565e29ac38e53b00a0fcba377/390_0_4643_3716/500.jpg",
+      "published": "2026-05-17T16:19:04Z",
+      "location": {
+        "name": "Sudan",
+        "lat": 15.5007,
+        "lng": 32.5599
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "sport/2026/may/17/sale-leicester-prem-rugby-union-match-report",
+      "headline": "Leicester set sights on top two after running riot at Sale to seal Prem playoff place",
+      "summary": "Leicester defeats Sale 47-33 to seal Premiership Rugby playoff place with dominant display.",
+      "url": "https://www.theguardian.com/p/x539fh",
+      "thumbnail": "https://media.guim.co.uk/2ffe8725a5ec79ee2fc4a049e4fcae1b76a8571c/154_0_2271_1816/500.jpg",
+      "published": "2026-05-17T16:19:02Z",
+      "location": {
+        "name": "Leicester",
+        "lat": 52.6202,
+        "lng": -1.1425
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "news/2026/may/17/instead-of-opting-in-millionaires-should-have-to-opt-out-of-paying-extra-tax",
+      "headline": "Instead of opting in, millionaires should have to opt out of paying extra tax",
+      "summary": "Three-quarters of UK millionaires willing to pay more tax if opt-out rather than opt-in.",
+      "url": "https://www.theguardian.com/p/x53jza",
+      "thumbnail": "https://media.guim.co.uk/dbb11a2b0be3696c8f483e7f1c970c605a1fbb4b/0_0_4179_3342/500.jpg",
+      "published": "2026-05-17T16:18:52Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "news"
+    },
+    {
+      "id": "music/2026/may/17/northern-soul-acts-from-the-us-came-to-wigan-and-some-even-settled-in-england",
+      "headline": "Northern soul acts from the US came to Wigan – and some even settled in England",
+      "summary": "US Northern soul acts performed at legendary Wigan Casino and some settled in England.",
+      "url": "https://www.theguardian.com/p/x53d83",
+      "thumbnail": "https://media.guim.co.uk/85e55247e716940c49fc9769cf3d16f56551188f/139_0_1579_1262/500.jpg",
+      "published": "2026-05-17T16:18:42Z",
+      "location": {
+        "name": "Wigan",
+        "lat": 53.5451,
+        "lng": -2.6309
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "music"
+    },
+    {
+      "id": "politics/2026/may/17/why-i-deserve-a-share-of-farage-5m-gift",
+      "headline": "Why I deserve a share of Farage’s £5m gift",
+      "summary": "Letters: Nigel Farage's lookalike discusses £5m crypto billionaire gift and personal security.",
+      "url": "https://www.theguardian.com/p/x542em",
+      "thumbnail": "https://media.guim.co.uk/46074d15de19e768d76914882b91c64c6fb20164/338_0_3760_3008/500.jpg",
+      "published": "2026-05-17T16:18:38Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 1,
+      "section": "politics"
+    },
+    {
+      "id": "football/2025/sep/15/premier-league-top-scorers-2025-26-who-is-leading-race-for-golden-boot",
+      "headline": "Premier League top scorers 2025-26: who is leading race for golden boot?",
+      "summary": "Erling Haaland leads Premier League golden boot race with 26 goals in 2025-26 season.",
+      "url": "https://www.theguardian.com/p/x386fa",
+      "thumbnail": "https://media.guim.co.uk/dcdad426597084e37fb0bb1e0b633733a176badc/308_0_2046_1638/500.jpg",
+      "published": "2026-05-17T16:17:47Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/may/17/brentford-crystal-palace-premier-league-match-report",
+      "headline": "Dango Ouattara salvages point for Brentford and denies Crystal Palace",
+      "summary": "Dango Ouattara scores twice as Brentford draws 2-2 with Crystal Palace in Premier League.",
+      "url": "https://www.theguardian.com/p/x539af",
+      "thumbnail": "https://media.guim.co.uk/fabacda39f1bba2483fd4fea323da0bfd6d93d74/272_0_3845_3076/500.jpg",
+      "published": "2026-05-17T16:15:13Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/may/17/everton-sunderland-premier-league-match-report",
+      "headline": "Enzo Le Fée and Wilson Isidor save the day for Sunderland at Everton",
+      "summary": "Sunderland defeats Everton 3-1 to eliminate their European qualification hopes.",
+      "url": "https://www.theguardian.com/p/x539bx",
+      "thumbnail": "https://media.guim.co.uk/987fe3492199da07fc336be98204014b3391ff9d/291_0_5000_4000/500.jpg",
+      "published": "2026-05-17T16:14:45Z",
+      "location": {
+        "name": "Liverpool",
+        "lat": 53.4308,
+        "lng": -2.9606
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/may/17/leeds-brighton-premier-league-match-report",
+      "headline": "Calvert-Lewin pounces late for Leeds to hit Brighton’s European ambitions",
+      "summary": "Calvert-Lewin's late goal gives Leeds 1-0 win over Brighton in Premier League match.",
+      "url": "https://www.theguardian.com/p/x539b6",
+      "thumbnail": "https://media.guim.co.uk/c08bf3bb3fa7cc15557d89b6df586cc19e01c589/387_0_2872_2298/500.jpg",
+      "published": "2026-05-17T16:10:33Z",
+      "location": {
+        "name": "Leeds",
+        "lat": 53.8008,
+        "lng": -1.5491
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
     }
   ]
 }
