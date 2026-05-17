@@ -1,60 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-17T13:57:49.286Z",
-    "story_count": 70,
-    "oldest_story": "2026-05-16T14:10:01Z",
-    "newest_story": "2026-05-17T13:52:25Z",
+    "generated_at": "2026-05-17T15:07:27.594Z",
+    "story_count": 82,
+    "oldest_story": "2026-05-16T15:10:19Z",
+    "newest_story": "2026-05-17T15:07:13Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "politics/2026/may/16/wes-streeting-launches-scathing-attack-keir-starmer-vision-leadership",
-      "headline": "Wes Streeting confirms he will stand if Labour leadership race is triggered",
-      "summary": "Ex-health secretary Wes Streeting confirms Labour leadership bid, proposes new EU relationship.",
-      "url": "https://www.theguardian.com/p/x53zhc",
-      "thumbnail": "https://media.guim.co.uk/7cf8329e4fa2ba5a7cc3277f4df541c98557b5ef/673_107_1625_1300/500.jpg",
-      "published": "2026-05-16T15:06:19Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "politics"
-    },
-    {
-      "id": "us-news/2026/may/16/what-we-learned-elon-musk-sam-altman",
-      "headline": "What we learned from the cringey courtroom drama between Elon Musk and Sam Altman",
-      "summary": "Jury deliberates in Musk-Altman OpenAI feud after courtroom drama over theft allegations.",
-      "url": "https://www.theguardian.com/p/x53y88",
-      "thumbnail": "https://media.guim.co.uk/0cb80ed35b49dd77fc0dda2d0380182dbf4f0131/0_0_5000_4000/500.jpg",
-      "published": "2026-05-16T15:00:12Z",
-      "location": {
-        "name": "San Francisco",
-        "lat": 37.7749,
-        "lng": -122.4194
-      },
-      "category": "tech",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "football/2026/may/16/shaw-doubles-up-as-manchester-city-mark-wsl-title-by-thrashing-west-ham",
-      "headline": "Manchester City mark WSL title by thrashing West Ham as Shaw doubles up",
-      "summary": "Manchester City wins first WSL title in 10 years with 4-1 victory over West Ham.",
-      "url": "https://www.theguardian.com/p/x5395c",
-      "thumbnail": "https://media.guim.co.uk/29265adc54425ec72c40b6840a4cede17fb62a9d/588_0_5000_4000/500.jpg",
-      "published": "2026-05-16T14:10:01Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4808,
-        "lng": -2.2426
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
     {
       "id": "us-news/2026/may/16/trump-irs-lawsuit-compensation-fund",
       "headline": "Trump may settle his lawsuit against IRS for $1.7bn fund to compensate allies",
@@ -1126,6 +1078,246 @@
       "category": "politics",
       "significance": 2,
       "section": "world"
+    },
+    {
+      "id": "sport/live/2026/may/17/france-v-england-womens-six-nations-2026-finale-rugby-union-live",
+      "headline": "France v England: Women’s Six Nations 2026 finale – rugby union live",
+      "summary": "France faces England in Women's Six Nations 2026 finale rugby match in Bordeaux.",
+      "url": "https://www.theguardian.com/p/x538dz",
+      "thumbnail": "https://media.guim.co.uk/283ddfdee5b4ed6315ffc775dfb24fe3da842cf1/202_0_5715_4574/500.jpg",
+      "published": "2026-05-17T15:07:13Z",
+      "location": {
+        "name": "Bordeaux",
+        "lat": 44.8378,
+        "lng": -0.5792
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "sport"
+    },
+    {
+      "id": "education/2026/may/17/sons-scholars-facing-death-penalty-cambrige-judge-business-school-saudi-defence-ministry",
+      "headline": "Sons of jailed Saudi scholars urge Cambridge to drop plans to train Riyadh’s defence staff",
+      "summary": "Families of jailed Saudi scholars urge Cambridge to drop defense ministry training plans.",
+      "url": "https://www.theguardian.com/p/x542np",
+      "thumbnail": "https://media.guim.co.uk/4041b1ff83d02e6f7b37e1bcd8386c7c49cfb0d4/0_0_3518_2815/500.jpg",
+      "published": "2026-05-17T15:01:34Z",
+      "location": {
+        "name": "Cambridge",
+        "lat": 52.2043,
+        "lng": 0.1192
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "education"
+    },
+    {
+      "id": "sport/blog/2026/may/18/melbourne-hawthorn-afl-steven-king-future",
+      "headline": "Gee, Melbourne are great to watch. Steven King saw the future and ran with it",
+      "summary": "Melbourne defeats Hawthorn in AFL showing serious competitive improvement under new coach.",
+      "url": "https://www.theguardian.com/p/x54xbm",
+      "thumbnail": "https://media.guim.co.uk/1ccef20995f2ba00e487c2693c0416fb0beb0084/532_0_3331_2664/500.jpg",
+      "published": "2026-05-17T15:00:44Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "australia-news/2026/may/18/big-tobacco-is-exploiting-fears-of-the-illicit-market-to-unwind-health-gains-australian-experts-warn",
+      "headline": "Big tobacco is exploiting fears of the illicit market to unwind health gains, Australian experts warn",
+      "summary": "Health experts warn big tobacco exploiting illicit market fears to unwind Australian health policies.",
+      "url": "https://www.theguardian.com/p/x54x2v",
+      "thumbnail": "https://media.guim.co.uk/a69ac5a7306840be447df19fc0784d02588b8244/48_0_4280_3425/500.jpg",
+      "published": "2026-05-17T15:00:44Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "business/2026/may/18/toothbrushes-ice-cream-and-frozen-pizza-data-reveals-how-coles-and-woolworths-switch-promotions-in-sync",
+      "headline": "Toothbrushes, ice-cream and frozen pizza: data reveals how Coles and Woolworths switch promotions in sync",
+      "summary": "Coles and Woolworths reveal synchronized promotional switching on supermarket products.",
+      "url": "https://www.theguardian.com/p/x53g83",
+      "thumbnail": "https://media.guim.co.uk/2d03ecf1ae3d568ff3bd7234f208636d654c905f/1537_1360_4308_3448/500.jpg",
+      "published": "2026-05-17T15:00:44Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "environment/2026/may/18/can-electric-trucks-win-over-australias-fossil-fuel-die-hards-or-is-diesel-here-for-the-long-haul",
+      "headline": "Can electric trucks win over Australia’s fossil fuel die hards? Or is diesel here for the long haul? ",
+      "summary": "Australia debates electric trucks versus diesel fuel as government invests in fuel storage.",
+      "url": "https://www.theguardian.com/p/x5xkgk",
+      "thumbnail": "https://media.guim.co.uk/0d5a111c2c3e8480a50a7525f9bdc8062973ed92/766_59_2627_2101/500.jpg",
+      "published": "2026-05-17T15:00:43Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "environment"
+    },
+    {
+      "id": "australia-news/2026/may/18/want-to-buy-a-house-in-sydney-be-prepared-to-pay-nearly-120k-over-the-advertised-price",
+      "headline": "Want to buy a house in Sydney? Be prepared to pay nearly $120k over the advertised price",
+      "summary": "Sydney house buyers face nearly $120k premium over advertised prices due to underquoting.",
+      "url": "https://www.theguardian.com/p/x53h2y",
+      "thumbnail": "https://media.guim.co.uk/5f8c3f11a928fecdabfaf2c85ac9bc882f3efb36/530_0_6145_4919/500.jpg",
+      "published": "2026-05-17T15:00:43Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "lifeandstyle/2026/may/18/kindness-strangers-being-followed-taxi-driver-got-me-home-safely",
+      "headline": "The kindness of strangers: A driver warned me I was being followed, then made sure I got home safely",
+      "summary": "Personal story of taxi driver warning woman she was being followed and ensuring safe arrival.",
+      "url": "https://www.theguardian.com/p/x535c6",
+      "thumbnail": "https://media.guim.co.uk/eca5b23fd39a5c86d2bbb318c96d84b32778bb29/688_79_2994_2398/500.jpg",
+      "published": "2026-05-17T15:00:42Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "lifeandstyle"
+    },
+    {
+      "id": "environment/2026/may/18/fracking-south-australia-limestone-coast-peter-malinauskas-labor-broken-promise",
+      "headline": "‘Disastrous’ plan to allow fracking on South Australia’s Limestone Coast is a broken promise, locals say",
+      "summary": "South Australia overturns fracking moratorium on Limestone Coast, breaking election promise.",
+      "url": "https://www.theguardian.com/p/x53g9y",
+      "thumbnail": "https://media.guim.co.uk/c601829574c2845c8cb9f283fdb35ee3004cc528/680_0_6796_5437/500.jpg",
+      "published": "2026-05-17T15:00:42Z",
+      "location": {
+        "name": "Adelaide",
+        "lat": -34.9285,
+        "lng": 138.6007
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "environment"
+    },
+    {
+      "id": "artanddesign/2026/may/17/printmaking-manet-van-gogh-whistler-bath-exhibition",
+      "headline": "Printmaking skills of Manet, Van Gogh and more celebrated in Bath show",
+      "summary": "Bath exhibition celebrates printmaking skills of Manet, Van Gogh and post-impressionist artists.",
+      "url": "https://www.theguardian.com/p/x53thc",
+      "thumbnail": "https://media.guim.co.uk/56fa27e3310eea81228e18d97af570beff971c8a/694_156_4359_3487/500.jpg",
+      "published": "2026-05-17T15:00:41Z",
+      "location": {
+        "name": "Bath",
+        "lat": 51.3788,
+        "lng": -2.3613
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "artanddesign"
+    },
+    {
+      "id": "tv-and-radio/2026/may/17/saturday-night-live-will-ferrell-host-finale",
+      "headline": "Saturday Night Live: Will Ferrell plays Jeffrey Epstein in a strong season finale",
+      "summary": "Will Ferrell hosts SNL season finale with strong comedy performances and new cast members.",
+      "url": "https://www.theguardian.com/p/x5433j",
+      "thumbnail": "https://media.guim.co.uk/8ffd25f9d4dba511f15f6be8d8fa97504adab3f8/97_0_834_667/500.jpg",
+      "published": "2026-05-17T14:59:00Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "tv-and-radio"
+    },
+    {
+      "id": "environment/2026/may/17/german-minister-defends-decision-rescue-stranded-whale-timmy",
+      "headline": "German minister defends decision to allow attempt to rescue whale Timmy",
+      "summary": "German minister defends risky rescue attempt of stranded humpback whale Timmy on sandbank.",
+      "url": "https://www.theguardian.com/p/x54375",
+      "thumbnail": "https://media.guim.co.uk/a69edd79620d278853a4945abecd317ac7b8d830/570_0_1350_1080/500.jpg",
+      "published": "2026-05-17T14:56:47Z",
+      "location": {
+        "name": "Hamburg",
+        "lat": 53.5511,
+        "lng": 9.9937
+      },
+      "category": "other",
+      "significance": 2,
+      "section": "environment"
+    },
+    {
+      "id": "uk-news/2026/may/17/arrests-unite-the-kingdom-rally-pro-palestine-march-london",
+      "headline": "Police arrest 43 during Unite the Kingdom rally and pro-Palestine march in London",
+      "summary": "Police arrest 43 during Tommy Robinson rally and pro-Palestine march in London.",
+      "url": "https://www.theguardian.com/p/x542q2",
+      "thumbnail": "https://media.guim.co.uk/a0fae41ea85fbc902d49f92d545394021b23c553/421_0_4164_3331/500.jpg",
+      "published": "2026-05-17T14:23:42Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "football/2026/may/17/grim-denouement-of-stunning-scottish-premiership-title-race-must-prompt-shift-in-attitudes",
+      "headline": "Grim denouement of stunning Scottish Premiership title race must prompt shift in attitudes",
+      "summary": "Scottish Premiership title race conclusion raises questions about league's discipline toward major clubs.",
+      "url": "https://www.theguardian.com/p/x5432h",
+      "thumbnail": "https://media.guim.co.uk/6c55a32b8e267540b3d9a4040849df3301a7c31b/0_189_2901_2321/500.jpg",
+      "published": "2026-05-17T14:02:20Z",
+      "location": {
+        "name": "Glasgow",
+        "lat": 55.8642,
+        "lng": -4.2518
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "uk-news/2026/may/17/met-police-officers-accused-of-sleeping-while-on-duty-protecting-royal-family-windsor-castle",
+      "headline": "Met police officers accused of sleeping while on duty protecting royal family",
+      "summary": "Metropolitan Police investigates officers accused of sleeping while on duty at Windsor Castle.",
+      "url": "https://www.theguardian.com/p/x54249",
+      "thumbnail": "https://media.guim.co.uk/d510c47ed374ce94bf773559517068e2a44b8024/1127_2_5196_4157/500.jpg",
+      "published": "2026-05-17T13:57:35Z",
+      "location": {
+        "name": "Windsor",
+        "lat": 51.4769,
+        "lng": -0.6065
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "uk-news"
     }
   ]
 }
