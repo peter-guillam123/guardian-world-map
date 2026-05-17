@@ -1,28 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-16T23:29:12.240Z",
-    "story_count": 76,
-    "oldest_story": "2026-05-15T23:30:53Z",
-    "newest_story": "2026-05-16T23:24:38Z",
+    "generated_at": "2026-05-17T01:27:08.874Z",
+    "story_count": 78,
+    "oldest_story": "2026-05-16T03:48:44Z",
+    "newest_story": "2026-05-17T01:09:47Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "world/2026/may/16/trumps-lack-of-focus-on-human-rights-in-china-is-big-departure-for-us-diplomacy",
-      "headline": "Trump’s lack of focus on human rights in China is big departure for US diplomacy",
-      "summary": "Trump prioritizes trade over human rights in China visit, marking shift in US diplomatic approach.",
-      "url": "https://www.theguardian.com/p/x53ttv",
-      "thumbnail": "https://media.guim.co.uk/3536c46bf5604c5fa8d0d69efc3e07f3301c3a98/134_0_1706_1365/500.jpg",
-      "published": "2026-05-15T23:30:53Z",
-      "location": {
-        "name": "Beijing",
-        "lat": 39.9042,
-        "lng": 116.4074
-      },
-      "category": "politics",
-      "significance": 4,
-      "section": "world"
-    },
     {
       "id": "world/2026/may/16/jewish-culture-month-festival-uk-green-pickle",
       "headline": "Giant green pickle tells us UK’s Jewish culture month has begun",
@@ -1221,6 +1205,54 @@
       },
       "category": "other",
       "significance": 1,
+      "section": "us-news"
+    },
+    {
+      "id": "world/2026/may/16/israeli-strikes-southern-lebanon-hours-after-extension-of-ceasefire",
+      "headline": "Israeli strikes kill six in southern Lebanon hours after extension of ceasefire",
+      "summary": "Israeli airstrikes kill six in southern Lebanon hours after ceasefire extension agreed.",
+      "url": "https://www.theguardian.com/p/x53zqt",
+      "thumbnail": "https://media.guim.co.uk/054eff53d9d886e6e107709654eeef24cfbc727b/736_0_5600_4480/500.jpg",
+      "published": "2026-05-17T01:09:47Z",
+      "location": {
+        "name": "Southern Lebanon",
+        "lat": 33.2232,
+        "lng": 35.1856
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "australia-news/2026/may/16/stafford-byelection-tipped-to-swing-towards-lnp-as-danger-looms-for-steven-miles-leadership-of-queensland-labor",
+      "headline": "LNP falls ‘agonisingly short’ in Stafford byelection as Labor suffers swing against it ",
+      "summary": "Labor retains Stafford byelection despite 8% swing as Steven Miles faces leadership pressure.",
+      "url": "https://www.theguardian.com/p/x53m5k",
+      "thumbnail": "https://media.guim.co.uk/e85f0b8b01017b4075ce68e08ddbabfb645560b0/493_0_4312_3450/500.jpg",
+      "published": "2026-05-17T00:45:04Z",
+      "location": {
+        "name": "Brisbane",
+        "lat": -27.4698,
+        "lng": 153.0251
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "us-news/2026/may/17/trump-news-at-a-glance-irs-billions-taxpayer-dollars-could-paid-president-and-allies",
+      "headline": "Trump news at a glance: billions of taxpayer dollars could go to president and his allies in unprecedented move",
+      "summary": "Trump seeks $10bn settlement with IRS in unprecedented case involving taxpayer compensation fund.",
+      "url": "https://www.theguardian.com/p/x54v39",
+      "thumbnail": "https://media.guim.co.uk/5b19ca08147b01e60a0148141145608de0891bd5/1016_208_5892_4714/500.jpg",
+      "published": "2026-05-17T00:33:22Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
       "section": "us-news"
     }
   ]
