@@ -1,60 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-17T01:27:08.874Z",
-    "story_count": 78,
-    "oldest_story": "2026-05-16T03:48:44Z",
-    "newest_story": "2026-05-17T01:09:47Z",
+    "generated_at": "2026-05-17T05:30:55.006Z",
+    "story_count": 80,
+    "oldest_story": "2026-05-16T06:00:02Z",
+    "newest_story": "2026-05-17T05:00:31Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "world/2026/may/16/jewish-culture-month-festival-uk-green-pickle",
-      "headline": "Giant green pickle tells us UK’s Jewish culture month has begun",
-      "summary": "UK's inaugural Jewish culture month festival launches with events spanning food, music, literature and fashion.",
-      "url": "https://www.theguardian.com/p/x53f84",
-      "thumbnail": "https://media.guim.co.uk/ad7ca778e5de6354c9cc07068092879765f101aa/699_96_6707_5368/500.jpg",
-      "published": "2026-05-16T04:00:02Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "environment/2026/may/16/who-should-declare-climate-crisis-global-public-health-emergency-experts-say",
-      "headline": "Declare climate crisis a global public health emergency, experts tell WHO",
-      "summary": "International experts urge WHO to declare climate crisis a global public health emergency to prevent millions of deaths.",
-      "url": "https://www.theguardian.com/p/x53dg4",
-      "thumbnail": "https://media.guim.co.uk/911038b467e7af3936f236e1cd375d6c0f16544c/260_0_3333_2667/500.jpg",
-      "published": "2026-05-16T04:00:00Z",
-      "location": {
-        "name": "Geneva",
-        "lat": 46.2044,
-        "lng": 6.1432
-      },
-      "category": "health",
-      "significance": 4,
-      "section": "environment"
-    },
-    {
-      "id": "us-news/2026/may/16/fda-tracy-beth-hoeg-drug-chief-departs",
-      "headline": "FDA turmoil deepens as top drug chief departs claiming she was fired",
-      "summary": "FDA's top drug regulator Tracy Beth Høeg claims she was fired after declining to resign amid agency turmoil.",
-      "url": "https://www.theguardian.com/p/x53mfp",
-      "thumbnail": "https://media.guim.co.uk/60e717e523062b6beffa7e217acc16121bcbf4b9/512_105_2971_2379/500.jpg",
-      "published": "2026-05-16T03:48:44Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
     {
       "id": "football/live/2026/may/16/melbourne-city-v-wellington-phoenix-a-league-women-grand-final-football-live",
       "headline": "Melbourne City v Wellington Phoenix: A-League Women grand final – live",
@@ -1253,6 +1205,86 @@
       },
       "category": "politics",
       "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "politics/2026/may/17/the-ungovernable-country-why-britain-keeps-losing-prime-ministers",
+      "headline": "The ungovernable country? Why Britain keeps losing prime ministers",
+      "summary": "Britain's rapid succession of prime minister departures raises questions about governability.",
+      "url": "https://www.theguardian.com/p/x53zeg",
+      "thumbnail": "https://media.guim.co.uk/59c2d4a0431bf69f7cc1b486cf87fa5e6abe9268/1_0_4722_3780/500.jpg",
+      "published": "2026-05-17T05:00:31Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "politics"
+    },
+    {
+      "id": "food/2026/may/17/auguste-london-e8-restaurant-review-grace-dent",
+      "headline": "Auguste, London E8: ‘Some fleeting moments of greatness’ – restaurant review",
+      "summary": "New Italian restaurant Auguste in Hackney receives mixed review for small plates approach.",
+      "url": "https://www.theguardian.com/p/x52x9d",
+      "thumbnail": "https://media.guim.co.uk/8635d24f57208c32b2a9df899284dcfb8fcafdd7/757_0_5733_4587/500.jpg",
+      "published": "2026-05-17T05:00:30Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "food"
+    },
+    {
+      "id": "world/ng-interactive/2026/may/17/feels-like-an-illusion-how-trump-seizing-maduro-has-changed-little-in-venezuela",
+      "headline": "‘Feels like an illusion’: how Trump seizing Maduro has changed little in Venezuela",
+      "summary": "Trump's seizure of Maduro brings limited change to Venezuela's political landscape.",
+      "url": "https://www.theguardian.com/p/x5323d",
+      "thumbnail": "https://media.guim.co.uk/9f7760b79293f5981959de75c3f0925bef2686af/495_0_3333_2667/500.jpg",
+      "published": "2026-05-17T05:00:29Z",
+      "location": {
+        "name": "Caracas",
+        "lat": 10.4806,
+        "lng": -66.9036
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "business/2026/may/17/qantas-passenger-banned-alleged-biting-flight-attendant-melbourne-tahiti-dallas-ntwnfb",
+      "headline": "Passenger banned from Qantas after allegedly biting attendant on flight from Australia to US ",
+      "summary": "Qantas passenger banned after allegedly biting flight attendant; flight diverted to Tahiti.",
+      "url": "https://www.theguardian.com/p/x54vk8",
+      "thumbnail": "https://media.guim.co.uk/f0a3219add598b4fac2035fa203b2720bc096d76/537_520_4774_3820/500.jpg",
+      "published": "2026-05-17T04:44:21Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "us-news/2026/may/17/republican-louisiana-senator-bill-cassidy-results-primary-trump",
+      "headline": "Republican Louisiana senator Bill Cassidy loses primary after Trump intervenes to oust him",
+      "summary": "Louisiana Senator Bill Cassidy loses primary after Trump's intervention over January 6 vote.",
+      "url": "https://www.theguardian.com/p/x53kvm",
+      "thumbnail": "https://media.guim.co.uk/bcba09978a7836c57e11ef092ba30148356f19f9/889_88_6059_4849/500.jpg",
+      "published": "2026-05-17T04:37:16Z",
+      "location": {
+        "name": "Baton Rouge",
+        "lat": 30.4515,
+        "lng": -91.1871
+      },
+      "category": "politics",
+      "significance": 2,
       "section": "us-news"
     }
   ]
