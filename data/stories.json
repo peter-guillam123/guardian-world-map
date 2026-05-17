@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_at": "2026-05-17T21:35:20.895Z",
+    "generated_at": "2026-05-17T22:34:48.792Z",
     "story_count": 94,
-    "oldest_story": "2026-05-16T22:21:53Z",
+    "oldest_story": "2026-05-16T23:20:16Z",
     "newest_story": "2026-05-17T21:34:52Z",
     "window_hours": 24
   },
@@ -38,22 +38,6 @@
       "category": "culture",
       "significance": 2,
       "section": "world"
-    },
-    {
-      "id": "us-news/2026/may/16/california-turtle-trafficking",
-      "headline": "Shell-shocked: California man arrested for attempting to traffic wild turtles",
-      "summary": "California man arrested for attempting to traffic 292 wild loggerhead musk turtles to Thailand.",
-      "url": "https://www.theguardian.com/p/x53qfe",
-      "thumbnail": "https://media.guim.co.uk/052ca34f8493e772d17e6a90569a3dd1d1c16e3a/127_0_5750_4601/500.jpg",
-      "published": "2026-05-16T22:21:53Z",
-      "location": {
-        "name": "California",
-        "lat": 36.1163,
-        "lng": -119.6816
-      },
-      "category": "other",
-      "significance": 1,
-      "section": "us-news"
     },
     {
       "id": "world/2026/may/16/israeli-strikes-southern-lebanon-hours-after-extension-of-ceasefire",
@@ -1506,6 +1490,22 @@
         "name": "London",
         "lat": 51.5074,
         "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/may/17/inter-poised-as-curtis-jones-enters-final-year-of-liverpool-contract",
+      "headline": "Inter poised as Curtis Jones enters final year of Liverpool contract",
+      "summary": "Inter Milan eyes Liverpool midfielder Curtis Jones as his contract enters final year.",
+      "url": "https://www.theguardian.com/p/x5433f",
+      "thumbnail": "https://media.guim.co.uk/e56ae270e25683bf8b189658ce12f330a9a95067/2_0_2504_2002/500.jpg",
+      "published": "2026-05-17T21:30:49Z",
+      "location": {
+        "name": "Liverpool",
+        "lat": 53.4308,
+        "lng": -2.9626
       },
       "category": "sport",
       "significance": 2,
