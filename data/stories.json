@@ -1,92 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-18T17:15:07.743Z",
-    "story_count": 81,
-    "oldest_story": "2026-05-17T17:24:42Z",
-    "newest_story": "2026-05-18T17:10:06Z",
+    "generated_at": "2026-05-18T19:07:24.941Z",
+    "story_count": 79,
+    "oldest_story": "2026-05-17T19:33:31Z",
+    "newest_story": "2026-05-18T19:07:03Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "sport/2026/may/17/england-win-eighth-successive-womens-six-nations-after-powering-to-victory-over-france",
-      "headline": "England win eighth successive Women’s Six Nations after powering to victory over France",
-      "summary": "England wins eighth consecutive Women's Six Nations title with 43-28 victory over France.",
-      "url": "https://www.theguardian.com/p/x539fv",
-      "thumbnail": "https://media.guim.co.uk/2c9f50b417736e6568c210e770d62ad8701b0b09/416_27_4154_3323/500.jpg",
-      "published": "2026-05-17T17:44:30Z",
-      "location": {
-        "name": "Bordeaux",
-        "lat": 44.8378,
-        "lng": -0.5792
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "sport"
-    },
-    {
-      "id": "world/2026/may/17/what-is-ebola-why-who-says-drc-uganda-outbreak-global-health-emergency",
-      "headline": "What is Ebola and why is WHO treating outbreak as global health emergency?",
-      "summary": "WHO declares Ebola outbreak in DRC and Uganda a global health emergency with 246 cases.",
-      "url": "https://www.theguardian.com/p/x542xh",
-      "thumbnail": "https://media.guim.co.uk/e868c02c4111ba0ac2c7aa889cefdea5b738f580/456_0_4560_3648/500.jpg",
-      "published": "2026-05-17T17:37:38Z",
-      "location": {
-        "name": "Democratic Republic of Congo",
-        "lat": -4.0383,
-        "lng": 21.7587
-      },
-      "category": "health",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "sport/2026/may/17/jannik-sinner-overpowers-casper-ruud-to-make-history-with-italian-open-title",
-      "headline": "Jannik Sinner overpowers Casper Ruud to make history with Italian Open title",
-      "summary": "Jannik Sinner wins Italian Open, first Italian man to claim title in 50 years.",
-      "url": "https://www.theguardian.com/p/x539gh",
-      "thumbnail": "https://media.guim.co.uk/2900bf8c4fe20f5134c46d56672a9fb769de4046/679_201_4044_3235/500.jpg",
-      "published": "2026-05-17T17:27:24Z",
-      "location": {
-        "name": "Rome",
-        "lat": 41.9028,
-        "lng": 12.4964
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "us-news/2026/may/17/trump-thomas-massie-primary",
-      "headline": "Trump attacks Massie as Republican critic describes ‘desperate’ attempts to oust him from primary",
-      "summary": "Trump attacks congressman Thomas Massie ahead of Kentucky Republican primary election.",
-      "url": "https://www.theguardian.com/p/x543jk",
-      "thumbnail": "https://media.guim.co.uk/a66a935e60878e7844fa2d1051c9f0144b334d9c/293_0_3340_2672/500.jpg",
-      "published": "2026-05-17T17:27:19Z",
-      "location": {
-        "name": "Kentucky",
-        "lat": 37.6681,
-        "lng": -84.6701
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "uk-news/2026/may/17/london-mayor-sadiq-khan-plans-north-of-england-olympics",
-      "headline": "London mayor criticises plans for north of England bid to host Olympics",
-      "summary": "London mayor Khan criticises north England Olympic bid as missed opportunity for capital.",
-      "url": "https://www.theguardian.com/p/x543yk",
-      "thumbnail": "https://media.guim.co.uk/ec14a0d89287e63f36d2d1d945f495ed1556437c/0_0_6827_5464/500.jpg",
-      "published": "2026-05-17T17:24:42Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "uk-news"
-    },
     {
       "id": "world/2026/may/17/uae-blames-iran-or-its-proxies-for-drone-strike-fire-near-nuclear-plant",
       "headline": "UAE blames Iran or its proxies for drone strike fire near nuclear plant",
@@ -102,102 +22,6 @@
       "category": "conflict",
       "significance": 4,
       "section": "world"
-    },
-    {
-      "id": "film/2026/may/17/maverick-the-epic-adventures-of-david-lean-review-a-dashing-retrospective-for-a-cinematic-titan",
-      "headline": "Maverick: The Epic Adventures of David Lean review – a dashing retrospective for a cinematic titan",
-      "summary": "David Lean documentary 'Maverick' premieres at Cannes Film Festival, celebrating legendary British director.",
-      "url": "https://www.theguardian.com/p/x5337h",
-      "thumbnail": "https://media.guim.co.uk/dc5a79c9474d7369ab8eb6a4664c806bdd7cc9a1/53_0_3494_2795/500.jpg",
-      "published": "2026-05-17T19:00:47Z",
-      "location": {
-        "name": "Cannes",
-        "lat": 43.5528,
-        "lng": 7.0174
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "film"
-    },
-    {
-      "id": "stage/2026/may/17/farm-fatale-review-scarecrows-southbank-centre",
-      "headline": "Farm Fatale review – freaky scarecrows make hay out of climate crisis",
-      "summary": "Philippe Quesne's 'Farm Fatale' at Southbank Centre uses scarecrows to explore climate crisis through art.",
-      "url": "https://www.theguardian.com/p/x542nf",
-      "thumbnail": "https://media.guim.co.uk/9e338cf76c772fae0e7883f0a727e25f106daf69/48_0_5000_4000/500.jpg",
-      "published": "2026-05-17T19:00:46Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "stage"
-    },
-    {
-      "id": "football/2026/may/17/man-citys-dribbles-to-wolves-counterpress-each-premier-league-teams-strongest-trait-this-season",
-      "headline": "Man City’s dribbles to Wolves’ counterpress: each Premier League team’s strongest trait this season",
-      "summary": "Analysis of Premier League teams' strongest traits as season concludes, highlighting Man City dribbles and Wolves.",
-      "url": "https://www.theguardian.com/p/x543t2",
-      "thumbnail": "https://media.guim.co.uk/6c80ce65e6652d02527c27b6395a0121507f2572/414_0_4135_3308/500.jpg",
-      "published": "2026-05-17T19:00:46Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/may/17/newcastle-west-ham-premier-league-match-report",
-      "headline": "Osula at the double as Newcastle push brittle West Ham closer to the brink",
-      "summary": "Newcastle defeats West Ham 3-1 with Will Osula double, leaving Hammers facing relegation threat.",
-      "url": "https://www.theguardian.com/p/x539bt",
-      "thumbnail": "https://media.guim.co.uk/cf816a9c6ebbc2dd5143962a1ed94f448bc324f7/122_12_1042_834/500.jpg",
-      "published": "2026-05-17T18:46:24Z",
-      "location": {
-        "name": "Newcastle",
-        "lat": 54.9783,
-        "lng": -1.6178
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "politics/2026/may/17/andy-burnham-faces-perilous-race-to-win-makerfield-byelection-allies-say",
-      "headline": "Andy Burnham faces perilous race to win Makerfield byelection, allies say",
-      "summary": "Andy Burnham faces tight Makerfield byelection race against Reform amid immigration and Brexit focus.",
-      "url": "https://www.theguardian.com/p/x543jv",
-      "thumbnail": "https://media.guim.co.uk/86ce8d5ef83851d5a67e2c5711d3258c70e464aa/354_0_2790_2232/500.jpg",
-      "published": "2026-05-17T18:39:21Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "film/2026/may/17/frances-top-film-producer-says-it-will-blacklist-figures-who-petitioned-against-rightwing-billionaire",
-      "headline": "France’s top film producer says it will blacklist figures who petitioned against rightwing billionaire",
-      "summary": "Canal+ head threatens blacklist of cinema figures who petitioned against billionaire Vincent Bolloré's influence.",
-      "url": "https://www.theguardian.com/p/x543m5",
-      "thumbnail": "https://media.guim.co.uk/eb9bf8b6c5be9100ed6143e903a2d1ec83032692/0_0_1666_1333/500.jpg",
-      "published": "2026-05-17T18:37:05Z",
-      "location": {
-        "name": "Paris",
-        "lat": 48.8566,
-        "lng": 2.3522
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "film"
     },
     {
       "id": "tv-and-radio/2026/may/17/death-valley-review-timothy-spall-bbc-one-iplayer",
@@ -1302,6 +1126,150 @@
       "category": "sport",
       "significance": 2,
       "section": "football"
+    },
+    {
+      "id": "football/live/2026/may/18/arsenal-v-burnley-premier-league-live",
+      "headline": "Arsenal v Burnley: Premier League – live",
+      "summary": "Arsenal hosts Burnley in Premier League match at Emirates Stadium seeking title gains.",
+      "url": "https://www.theguardian.com/p/x53d3z",
+      "thumbnail": "https://media.guim.co.uk/9cc4f6efe848124ee0f7a3a03bd7083a2a21cd84/614_2_4675_3740/500.jpg",
+      "published": "2026-05-18T19:07:03Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "media/2026/may/18/women-allege-they-were-raped-during-filming-married-at-first-sight-uk",
+      "headline": "Two women allege they were raped during filming of Married at First Sight UK",
+      "summary": "Women allege rape during filming of Channel 4's Married at First Sight UK show.",
+      "url": "https://www.theguardian.com/p/x549jx",
+      "thumbnail": "https://media.guim.co.uk/85af9521062e8d938c470283b0273f8f43807034/0_0_4599_3679/500.jpg",
+      "published": "2026-05-18T18:55:11Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 3,
+      "section": "media"
+    },
+    {
+      "id": "us-news/2026/may/18/us-ebola-virus-congo-uganda",
+      "headline": "US says American contracted Ebola in Congo as CDC announces new travel screening measures",
+      "summary": "American contracted Ebola in Congo; CDC announces new travel screening measures.",
+      "url": "https://www.theguardian.com/p/x549cv",
+      "thumbnail": "https://media.guim.co.uk/df16f8faaf3d8db0810b57c80fe09da963d3e464/1079_537_2322_1858/500.jpg",
+      "published": "2026-05-18T18:48:53Z",
+      "location": {
+        "name": "Democratic Republic of the Congo",
+        "lat": -4.0383,
+        "lng": 21.7587
+      },
+      "category": "health",
+      "significance": 4,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/may/18/bryan-mbeumo-handball-decision-howard-webb-manchester-united-nottingham-forest-michael-salibsury",
+      "headline": "Mbeumo handball decision was wrong, Howard Webb tells Nottingham Forest",
+      "summary": "Referee chief admits handball goal in Man United win over Nottingham Forest was wrong.",
+      "url": "https://www.theguardian.com/p/x549t2",
+      "thumbnail": "https://media.guim.co.uk/d2ce5cde5bf9bccc80568d34f6fdc7766678b37e/416_0_3145_2516/500.jpg",
+      "published": "2026-05-18T18:47:30Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "world/2026/may/18/no-tailor-made-deal-uk-eu-brexit-officials-rejoin",
+      "headline": "No ‘tailor-made’ deal for UK if it wants to rejoin bloc, say former EU Brexit officials",
+      "summary": "Former EU officials say UK would face no special deals if seeking EU rejoin.",
+      "url": "https://www.theguardian.com/p/x548m7",
+      "thumbnail": "https://media.guim.co.uk/e451cc010356ba262bcae2b7863f16e3b99aee7a/196_0_2525_2019/500.jpg",
+      "published": "2026-05-18T18:45:09Z",
+      "location": {
+        "name": "Brussels",
+        "lat": 50.8503,
+        "lng": 4.3517
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "technology/2026/may/18/sam-altman-trial-victory-elon-musk-openai",
+      "headline": "Jury hands victory to Sam Altman and OpenAI in battle with Elon Musk",
+      "summary": "Jury rules Sam Altman and OpenAI not liable in legal battle with Elon Musk.",
+      "url": "https://www.theguardian.com/p/x5497v",
+      "thumbnail": "https://media.guim.co.uk/e58e6018ecf5d31f073cbecec654aa2d8ffd0a7b/0_0_3000_2400/500.jpg",
+      "published": "2026-05-18T18:35:18Z",
+      "location": {
+        "name": "Oakland",
+        "lat": 37.8044,
+        "lng": -122.2712
+      },
+      "category": "tech",
+      "significance": 3,
+      "section": "technology"
+    },
+    {
+      "id": "politics/2026/may/18/andy-burnham-vows-change-labour-direct-challenge-keir-starmer",
+      "headline": "Andy Burnham vows to ‘change Labour’ in direct challenge to Keir Starmer",
+      "summary": "Andy Burnham vows to change Labour party in challenge to Keir Starmer's leadership.",
+      "url": "https://www.theguardian.com/p/x54963",
+      "thumbnail": "https://media.guim.co.uk/f160846d4e4d4bf24b21d452c27c51522527fc28/179_0_2057_1645/500.jpg",
+      "published": "2026-05-18T18:33:20Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "world/2026/may/18/ituri-eastern-drc-ebola-outbreak-panic-fear",
+      "headline": "‘It is heartbreaking’: panic in eastern DRC over return of Ebola",
+      "summary": "Ebola outbreak returns to eastern DRC's Ituri province after six years, spreading panic.",
+      "url": "https://www.theguardian.com/p/x549dq",
+      "thumbnail": "https://media.guim.co.uk/3b5db70e6c2cac94257b35b6d58e807c6ab16ce3/418_0_5000_4000/500.jpg",
+      "published": "2026-05-18T18:33:12Z",
+      "location": {
+        "name": "Democratic Republic of the Congo",
+        "lat": -4.0383,
+        "lng": 21.7587
+      },
+      "category": "health",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "commentisfree/2026/may/18/the-guardian-view-on-a-new-national-conversation-whether-this-works-will-depend-on-who-is-listening",
+      "headline": "The Guardian view on a new National Conversation: whether this works will depend on who is listening",
+      "summary": "UK National Conversation seeks community input on local issues post-2024 riots.",
+      "url": "https://www.theguardian.com/p/x547qv",
+      "thumbnail": "https://media.guim.co.uk/3e41a75792ecc4f536aaaadf3e222a717ac710b1/81_13_507_405/500.jpg",
+      "published": "2026-05-18T18:01:49Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 1,
+      "section": "commentisfree"
     }
   ]
 }
