@@ -1,92 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-18T01:49:54.042Z",
-    "story_count": 95,
-    "oldest_story": "2026-05-17T04:37:16Z",
-    "newest_story": "2026-05-17T23:14:08Z",
+    "generated_at": "2026-05-18T06:05:11.141Z",
+    "story_count": 100,
+    "oldest_story": "2026-05-17T06:53:54Z",
+    "newest_story": "2026-05-18T06:00:03Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "politics/2026/may/17/the-ungovernable-country-why-britain-keeps-losing-prime-ministers",
-      "headline": "The ungovernable country? Why Britain keeps losing prime ministers",
-      "summary": "Britain's rapid succession of prime minister departures raises questions about governability.",
-      "url": "https://www.theguardian.com/p/x53zeg",
-      "thumbnail": "https://media.guim.co.uk/59c2d4a0431bf69f7cc1b486cf87fa5e6abe9268/1_0_4722_3780/500.jpg",
-      "published": "2026-05-17T05:00:31Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "politics"
-    },
-    {
-      "id": "food/2026/may/17/auguste-london-e8-restaurant-review-grace-dent",
-      "headline": "Auguste, London E8: ‘Some fleeting moments of greatness’ – restaurant review",
-      "summary": "New Italian restaurant Auguste in Hackney receives mixed review for small plates approach.",
-      "url": "https://www.theguardian.com/p/x52x9d",
-      "thumbnail": "https://media.guim.co.uk/8635d24f57208c32b2a9df899284dcfb8fcafdd7/757_0_5733_4587/500.jpg",
-      "published": "2026-05-17T05:00:30Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "food"
-    },
-    {
-      "id": "world/ng-interactive/2026/may/17/feels-like-an-illusion-how-trump-seizing-maduro-has-changed-little-in-venezuela",
-      "headline": "‘Feels like an illusion’: how Trump seizing Maduro has changed little in Venezuela",
-      "summary": "Trump's seizure of Maduro brings limited change to Venezuela's political landscape.",
-      "url": "https://www.theguardian.com/p/x5323d",
-      "thumbnail": "https://media.guim.co.uk/9f7760b79293f5981959de75c3f0925bef2686af/495_0_3333_2667/500.jpg",
-      "published": "2026-05-17T05:00:29Z",
-      "location": {
-        "name": "Caracas",
-        "lat": 10.4806,
-        "lng": -66.9036
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "business/2026/may/17/qantas-passenger-banned-alleged-biting-flight-attendant-melbourne-tahiti-dallas-ntwnfb",
-      "headline": "Passenger banned from Qantas after allegedly biting attendant on flight from Australia to US ",
-      "summary": "Qantas passenger banned after allegedly biting flight attendant; flight diverted to Tahiti.",
-      "url": "https://www.theguardian.com/p/x54vk8",
-      "thumbnail": "https://media.guim.co.uk/f0a3219add598b4fac2035fa203b2720bc096d76/537_520_4774_3820/500.jpg",
-      "published": "2026-05-17T04:44:21Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "us-news/2026/may/17/republican-louisiana-senator-bill-cassidy-results-primary-trump",
-      "headline": "Republican Louisiana senator Bill Cassidy loses primary after Trump intervenes to oust him",
-      "summary": "Louisiana Senator Bill Cassidy loses primary after Trump's intervention over January 6 vote.",
-      "url": "https://www.theguardian.com/p/x53kvm",
-      "thumbnail": "https://media.guim.co.uk/bcba09978a7836c57e11ef092ba30148356f19f9/889_88_6059_4849/500.jpg",
-      "published": "2026-05-17T04:37:16Z",
-      "location": {
-        "name": "Baton Rouge",
-        "lat": 30.4515,
-        "lng": -91.1871
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
     {
       "id": "politics/live/2026/may/17/labour-leadership-keir-starmer-andy-burnham-wes-streeting-uk-politics-live",
       "headline": "Labour leadership talk ‘froth and nonsense’, says senior minister – UK politics live",
@@ -1526,6 +1446,166 @@
       "category": "culture",
       "significance": 2,
       "section": "film"
+    },
+    {
+      "id": "travel/2026/may/18/montenegro-hotel-designed-for-fitness-and-wellbeing",
+      "headline": "After three days here I felt like an Olympic athlete: the Montenegro hotel designed for fitness and wellbeing",
+      "summary": "Montenegro hotel offers fitness and wellness facilities with outdoor activities in scenic Bay of Kotor.",
+      "url": "https://www.theguardian.com/p/x52ne5",
+      "thumbnail": "https://media.guim.co.uk/3ba35978555f2244b753fa4197350adc87307813/128_0_1920_1536/500.jpg",
+      "published": "2026-05-18T06:00:03Z",
+      "location": {
+        "name": "Bay of Kotor",
+        "lat": 42.4669,
+        "lng": 18.7694
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "travel"
+    },
+    {
+      "id": "money/2026/may/18/ba-no-show-clause-flights-british-airways",
+      "headline": "BA’s ‘no-show’ clause cost me £9,000 for new flights",
+      "summary": "British Airways 'no-show' clause cancels entire Mexico journey costing passenger £9,000 for missed transfer.",
+      "url": "https://www.theguardian.com/p/x53xy5",
+      "thumbnail": "https://media.guim.co.uk/c51d5b6006e15de6fbbaa5e33c9ff23c7f15a020/72_0_2918_2334/500.jpg",
+      "published": "2026-05-18T06:00:02Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "money"
+    },
+    {
+      "id": "society/2026/may/18/national-conversation-project-britain-community-social-cohesion",
+      "headline": "National Conversation project launches as Britain risks ‘being torn apart by differences’ ",
+      "summary": "National Conversation commission led by Sajid Javid and Jon Cruddas launches to rebuild British social cohesion.",
+      "url": "https://www.theguardian.com/p/x53jtj",
+      "thumbnail": "https://media.guim.co.uk/cfde458861a7417a15e87568c98451e488f51ac0/647_0_6827_5464/500.jpg",
+      "published": "2026-05-18T06:00:02Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "society"
+    },
+    {
+      "id": "film/2026/may/18/relentless-memory-review-a-vital-oral-history-of-the-plight-of-the-mapuche-people",
+      "headline": "Relentless Memory review – a vital oral history of the plight of the Mapuche people",
+      "summary": "Documentary 'Relentless Memory' chronicles Mapuche Indigenous people's resistance and persecution in South America.",
+      "url": "https://www.theguardian.com/p/x53k5g",
+      "thumbnail": "https://media.guim.co.uk/42779423038284dbd26df3a76abf47377d4dfb9b/570_0_2700_2160/500.jpg",
+      "published": "2026-05-18T06:00:01Z",
+      "location": {
+        "name": "Chile",
+        "lat": -35.6751,
+        "lng": -71.543
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "film"
+    },
+    {
+      "id": "tv-and-radio/2026/may/18/tv-tonight-a-sparky-new-history-series-with-lucy-worsley",
+      "headline": "TV tonight: a sparky new history series with Lucy Worsley ",
+      "summary": "Lucy Worsley presents untold British perspective on American Revolution in BBC Two history series.",
+      "url": "https://www.theguardian.com/p/x53cmy",
+      "thumbnail": "https://media.guim.co.uk/41ee2c1dced5393ca1a93ec0eeeb9878e479a801/805_0_3043_2435/500.jpg",
+      "published": "2026-05-18T05:20:00Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "tv-and-radio"
+    },
+    {
+      "id": "commentisfree/2026/may/18/reform-uk-neighbours-immigration-ethnic-minorities",
+      "headline": "The result of normalising Reform’s ideas? Neighbour is turned against neighbour",
+      "summary": "Normalising Reform UK ideas creates friction between neighbours over immigration and ethnic minority policies.",
+      "url": "https://www.theguardian.com/p/x542e7",
+      "thumbnail": "https://media.guim.co.uk/469b4c79166e31c3cb2fc7934fd707972ba574a1/0_0_5000_4000/500.jpg",
+      "published": "2026-05-18T05:00:03Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "commentisfree"
+    },
+    {
+      "id": "uk-news/2026/may/18/when-your-signal-goes-down-somethings-going-on-life-next-to-a-us-air-base-in-the-uk",
+      "headline": "‘When your signal goes down, something’s going on’: life next to a US air base in the UK",
+      "summary": "RAF Lakenheath neighbours contend with US military operations, sonic booms and activist protests.",
+      "url": "https://www.theguardian.com/p/x5v272",
+      "thumbnail": "https://media.guim.co.uk/43b15d9d1fd701f31549d58c479bef91d9c748ee/0_0_6355_5084/500.jpg",
+      "published": "2026-05-18T05:00:02Z",
+      "location": {
+        "name": "Suffolk",
+        "lat": 52.2319,
+        "lng": 1.1457
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "artanddesign/2026/may/18/national-museum-cardiff-can-a-child-really-learn-anything-in-a-gallery",
+      "headline": "After dinosaurs, it’s spot the dog! But can a child really learn anything in a gallery? ",
+      "summary": "National Museum Cardiff engages children through play while fostering art appreciation and critical thinking skills.",
+      "url": "https://www.theguardian.com/p/x5xh2p",
+      "thumbnail": "https://media.guim.co.uk/4f6b78b006559cc1fe04e73e9b8300a3cdb467d4/0_2158_3811_3047/500.jpg",
+      "published": "2026-05-18T05:00:01Z",
+      "location": {
+        "name": "Cardiff",
+        "lat": 51.4816,
+        "lng": -3.1791
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "artanddesign"
+    },
+    {
+      "id": "society/2026/may/18/nhs-nurses-believe-lack-of-staff-putting-patients-at-risk-survey-finds",
+      "headline": "Two-thirds of NHS nurses believe lack of staff is putting patients at risk, survey finds",
+      "summary": "Survey finds two-thirds of NHS nurses believe understaffing endangers patients amid growing healthcare demands.",
+      "url": "https://www.theguardian.com/p/x543qb",
+      "thumbnail": "https://media.guim.co.uk/888d14a91d3042e862822041d0aa9f86561c3cec/168_0_2664_2132/500.jpg",
+      "published": "2026-05-18T05:00:01Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "society"
+    },
+    {
+      "id": "politics/2026/may/18/uk-ambassador-japan-corin-robertson-mandelson-inquiry",
+      "headline": "UK’s next ambassador to Japan may be called to give evidence in Mandelson inquiry",
+      "summary": "UK's next Japan ambassador may testify in Mandelson security clearance inquiry.",
+      "url": "https://www.theguardian.com/p/x53793",
+      "thumbnail": "https://media.guim.co.uk/aa4e69cb7d28fcf21f02d8ac8c042916e7bcd13d/100_0_1000_800/500.jpg",
+      "published": "2026-05-18T05:00:01Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
     }
   ]
 }
