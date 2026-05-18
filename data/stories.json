@@ -1,316 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-18T10:39:37.609Z",
-    "story_count": 103,
-    "oldest_story": "2026-05-17T10:51:35Z",
-    "newest_story": "2026-05-18T10:33:52Z",
+    "generated_at": "2026-05-18T14:19:11.238Z",
+    "story_count": 97,
+    "oldest_story": "2026-05-17T14:23:42Z",
+    "newest_story": "2026-05-18T14:18:09Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/live/2026/may/17/manchester-united-v-nottingham-forest-premier-league-live",
-      "headline": "Manchester United v Nottingham Forest: Premier League – live",
-      "summary": "Manchester United faces Nottingham Forest in Premier League match at Old Trafford.",
-      "url": "https://www.theguardian.com/p/x538gv",
-      "thumbnail": "https://media.guim.co.uk/ce1845ea0194e1da7d5fadd137e721071d703ec7/314_0_4955_3964/500.jpg",
-      "published": "2026-05-17T11:17:51Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4631,
-        "lng": -2.2913
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "us-news/2026/may/17/pandemic-preparedness-after-covid",
-      "headline": "‘We’re not ready’: US lags on pandemic preparedness after Covid, experts say",
-      "summary": "US experts warn of declining pandemic preparedness amid funding cuts and misinformation.",
-      "url": "https://www.theguardian.com/p/x53jfy",
-      "thumbnail": "https://media.guim.co.uk/3301d18c855dc0bbdb14c7ec2d8ab4d3a6188ad1/734_0_5200_4160/500.jpg",
-      "published": "2026-05-17T11:00:37Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/may/17/hemp-ban-medicare-medicaid",
-      "headline": "How US hemp ban could criminalize CBD products – and derail Medicare plan",
-      "summary": "Congressional hemp ban threatens Medicare pilot program for CBD product reimbursement.",
-      "url": "https://www.theguardian.com/p/x53jzh",
-      "thumbnail": "https://media.guim.co.uk/9bf85315e6ac15c3c6662b0c6dfd5292ea07b9e2/1000_0_5000_4000/500.jpg",
-      "published": "2026-05-17T11:00:37Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "lifeandstyle/2026/may/17/dining-across-the-divide-keith-amanda-keir-starmer-dead-man-walking",
-      "headline": "Dining across the divide: ‘I think Starmer is a dead man walking. She wasn’t sold on that’",
-      "summary": "Scientist and lawyer discuss UK politics and monarchy in dining across the divide feature.",
-      "url": "https://www.theguardian.com/p/x5vx3y",
-      "thumbnail": "https://media.guim.co.uk/97bf0f2bbebd8c4d8c6dd497a82c5519656905da/394_0_7200_5760/500.jpg",
-      "published": "2026-05-17T11:00:37Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 1,
-      "section": "lifeandstyle"
-    },
-    {
-      "id": "us-news/ng-interactive/2026/may/17/comedian-charlie-berens-ai-datacenters",
-      "headline": "‘Nobody’s negotiating for the people here’: comedian Charlie Berens takes on AI datacenters ",
-      "summary": "Comedian Charlie Berens protests against massive AI datacenter campus in Wisconsin.",
-      "url": "https://www.theguardian.com/p/x53fb2",
-      "thumbnail": "https://media.guim.co.uk/1944a9066b442611222ed415ba637d6839bcdde8/1919_1334_5533_4426/500.jpg",
-      "published": "2026-05-17T11:00:36Z",
-      "location": {
-        "name": "Wisconsin",
-        "lat": 44.2685,
-        "lng": -89.6165
-      },
-      "category": "tech",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "politics/2026/may/17/culture-secretary-lisa-nandy-says-wes-streeting-rejoin-eu-call-odd",
-      "headline": "Culture secretary says Streeting’s call for UK to rejoin EU is ‘odd’",
-      "summary": "Culture secretary Lisa Nandy criticizes Labour rival's call for UK to rejoin EU.",
-      "url": "https://www.theguardian.com/p/x5424a",
-      "thumbnail": "https://media.guim.co.uk/b0fd749f6fba021c506117f5a512717fbebde2e1/503_0_5000_4000/500.jpg",
-      "published": "2026-05-17T10:51:35Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "environment/2026/may/17/north-america-bees-early-swarm-season",
-      "headline": "Experts sound alarm as North America’s bees start swarm season unusually early",
-      "summary": "North American bee swarm season starts 17 days early due to warm winter and climate crisis impacts.",
-      "url": "https://www.theguardian.com/p/x53kxf",
-      "thumbnail": "https://media.guim.co.uk/e8089c874219f0e1f7ef79c49b49ac275dca665d/468_0_4680_3744/500.jpg",
-      "published": "2026-05-17T12:00:38Z",
-      "location": {
-        "name": "North America",
-        "lat": 45,
-        "lng": -95
-      },
-      "category": "climate",
-      "significance": 3,
-      "section": "environment"
-    },
-    {
-      "id": "us-news/2026/may/17/james-clyburn-south-carolina-redistricting",
-      "headline": "‘Jim Crow 2.0’: South Carolina’s Republicans move to oust state’s only Black congressman since 1897",
-      "summary": "South Carolina Republicans propose redistricting that could oust James Clyburn, state's only Black congressman since 1897.",
-      "url": "https://www.theguardian.com/p/x53k2z",
-      "thumbnail": "https://media.guim.co.uk/026657efc9c241d965e8e0a3855b79b69ebdffe9/392_0_3919_3136/500.jpg",
-      "published": "2026-05-17T12:00:38Z",
-      "location": {
-        "name": "South Carolina",
-        "lat": 34.0007,
-        "lng": -81.1637
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "business/2026/may/17/leadership-labour-must-tackle-issue-social-care-head-on",
-      "headline": "Whatever happens with the leadership, Labour must tackle the issue of social care head-on",
-      "summary": "Labour must confront Britain's social care crisis and aging population challenges head-on.",
-      "url": "https://www.theguardian.com/p/x53j6a",
-      "thumbnail": "https://media.guim.co.uk/19bfb0dfa3a2cf8477d712d76767709c2e4316e2/2063_332_1312_1051/500.jpg",
-      "published": "2026-05-17T11:52:06Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "stage/2026/may/17/mother-courage-and-her-children-review-shakespeares-globe-michelle-terry-bertolt-brecht",
-      "headline": "Mother Courage and her Children review – moving, funny and savage portrait of life during wartime",
-      "summary": "Michelle Terry's humane performance in Brecht's Mother Courage at Shakespeare's Globe theatre.",
-      "url": "https://www.theguardian.com/p/x542dt",
-      "thumbnail": "https://media.guim.co.uk/d14b092bd30fe873d243f9952db07d643cd86b30/315_0_3146_2517/500.jpg",
-      "published": "2026-05-17T11:45:49Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "stage"
-    },
-    {
-      "id": "commentisfree/2026/may/17/trump-ftc-media-matters",
-      "headline": "Trump’s trade commission is using fear to silence dissent",
-      "summary": "Trump's FTC uses intimidation tactics to settle case with Media Matters watchdog organization.",
-      "url": "https://www.theguardian.com/p/x53abp",
-      "thumbnail": "https://media.guim.co.uk/feedd7fc0616db9bd67124be8dfade1021ce117a/299_0_6880_5504/500.jpg",
-      "published": "2026-05-17T11:00:38Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "commentisfree"
-    },
-    {
-      "id": "football/live/2026/may/17/brentford-v-crystal-palace-leeds-v-brighton-premier-league-clockwatch-live",
-      "headline": "Brentford v Crystal Palace, Leeds v Brighton, Everton v Sunderland: Premier League – live",
-      "summary": "Premier League live coverage of Brentford v Crystal Palace, Leeds v Brighton and other Sunday matches.",
-      "url": "https://www.theguardian.com/p/x538ed",
-      "thumbnail": "https://media.guim.co.uk/f353f63936139848d466a65922632af3fcc8a52b/431_0_4191_3353/500.jpg",
-      "published": "2026-05-17T13:52:25Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "music/2026/may/17/anne-sophie-mutter-review-barbican-star-violinist",
-      "headline": "Anne-Sophie Mutter review – star violinist celebrates 50 years in brilliant style",
-      "summary": "Anne-Sophie Mutter celebrates 50 years as violinist with performance at the Barbican in London.",
-      "url": "https://www.theguardian.com/p/x542nz",
-      "thumbnail": "https://media.guim.co.uk/28990cfd25f2d42567cfefffc2f4b516527ae8a9/19_198_3730_2984/500.jpg",
-      "published": "2026-05-17T13:46:24Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "music"
-    },
-    {
-      "id": "football/2026/may/17/manchester-united-nottingham-forest-premier-league-match-report",
-      "headline": "Bruno Fernandes equals assist record as Manchester United hold off battling Forest",
-      "summary": "Manchester United defeat Nottingham Forest 3-2 in Premier League match with Bruno Fernandes assist record.",
-      "url": "https://www.theguardian.com/p/x539a9",
-      "thumbnail": "https://media.guim.co.uk/935e58f99838e18b0113733c85e8e4e67f5fc55b/255_0_2647_2117/500.jpg",
-      "published": "2026-05-17T13:36:25Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4631,
-        "lng": -2.2913
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "society/2026/may/17/terminally-ill-people-rankin-london-demand-revival-assisted-dying-bill",
-      "headline": "‘I want my choice’: terminally ill people join Rankin to demand revival of assisted dying bill",
-      "summary": "Photographer Rankin collaborates on campaign to revive assisted dying bill for terminally ill people.",
-      "url": "https://www.theguardian.com/p/x53kxq",
-      "thumbnail": "https://media.guim.co.uk/c6456c0300cb61c65c133c31e3f8fa95f669f887/0_0_5000_4000/500.jpg",
-      "published": "2026-05-17T13:08:25Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "society"
-    },
-    {
-      "id": "us-news/ng-interactive/2026/may/17/america-china-energy-oil-renewables",
-      "headline": "The American epoch of oil is collapsing. What comes next could be ugly",
-      "summary": "US oil era declining as China dominates global energy transition away from fossil fuels.",
-      "url": "https://www.theguardian.com/p/x52879",
-      "thumbnail": "https://media.guim.co.uk/356717d663c73160b1df7704cce1e067fd4fd270/1_0_2999_2400/500.jpg",
-      "published": "2026-05-17T13:00:41Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "lifeandstyle/2026/may/17/ellie-simmonds-looks-back-interview-paralympic-swimmer-retired",
-      "headline": "Ellie Simmonds looks back: ‘Without swimming, my mum says I would probably have ended up in jail!’",
-      "summary": "Paralympic swimmer Ellie Simmonds reflects on retirement, childhood and her career achievements.",
-      "url": "https://www.theguardian.com/p/x5vhnz",
-      "thumbnail": "https://media.guim.co.uk/a1b1df3add22501b991c4b1e820dfb058a811937/1198_26_5143_4116/500.jpg",
-      "published": "2026-05-17T13:00:41Z",
-      "location": {
-        "name": "Walsall",
-        "lat": 52.5835,
-        "lng": -2.028
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "lifeandstyle"
-    },
-    {
-      "id": "us-news/2026/may/17/brent-daniel-sikkema-trial-murder-for-hire-trial",
-      "headline": "Did a hitman kill a New York gallerist? Art world rocked by murder-for-hire trial",
-      "summary": "Art gallerist Brent Sikkema allegedly killed by hired hitman; estranged husband Daniel Sikkema accused.",
-      "url": "https://www.theguardian.com/p/x53kvb",
-      "thumbnail": "https://media.guim.co.uk/bb61685bd202fb88412321f1705af00d5710a989/1652_0_1606_1285/500.jpg",
-      "published": "2026-05-17T13:00:40Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "conflict",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "world/2026/may/17/roma-rights-hungary-new-government-magyar-orban",
-      "headline": "‘The real work begins now’: Roma take centre stage as Hungary brings in new government",
-      "summary": "New Hungarian government under Péter Magyar promises Roma rights improvements after Orbán era.",
-      "url": "https://www.theguardian.com/p/x538qy",
-      "thumbnail": "https://media.guim.co.uk/5940474858bf59eb713ade95d3f1793efab6e443/527_0_3276_2621/500.jpg",
-      "published": "2026-05-17T13:00:39Z",
-      "location": {
-        "name": "Budapest",
-        "lat": 47.4979,
-        "lng": 19.0402
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "world"
-    },
     {
       "id": "sport/live/2026/may/17/france-v-england-womens-six-nations-2026-finale-rugby-union-live",
       "headline": "France v England: Women’s Six Nations 2026 finale – rugby union live",
@@ -514,38 +210,6 @@
         "name": "London",
         "lat": 51.5074,
         "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "football/2026/may/17/grim-denouement-of-stunning-scottish-premiership-title-race-must-prompt-shift-in-attitudes",
-      "headline": "Grim denouement of stunning Scottish Premiership title race must prompt shift in attitudes",
-      "summary": "Scottish Premiership title race conclusion raises questions about league's discipline toward major clubs.",
-      "url": "https://www.theguardian.com/p/x5432h",
-      "thumbnail": "https://media.guim.co.uk/6c55a32b8e267540b3d9a4040849df3301a7c31b/0_189_2901_2321/500.jpg",
-      "published": "2026-05-17T14:02:20Z",
-      "location": {
-        "name": "Glasgow",
-        "lat": 55.8642,
-        "lng": -4.2518
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "uk-news/2026/may/17/met-police-officers-accused-of-sleeping-while-on-duty-protecting-royal-family-windsor-castle",
-      "headline": "Met police officers accused of sleeping while on duty protecting royal family",
-      "summary": "Metropolitan Police investigates officers accused of sleeping while on duty at Windsor Castle.",
-      "url": "https://www.theguardian.com/p/x54249",
-      "thumbnail": "https://media.guim.co.uk/d510c47ed374ce94bf773559517068e2a44b8024/1127_2_5196_4157/500.jpg",
-      "published": "2026-05-17T13:57:35Z",
-      "location": {
-        "name": "Windsor",
-        "lat": 51.4769,
-        "lng": -0.6065
       },
       "category": "politics",
       "significance": 2,
@@ -1654,6 +1318,246 @@
       "category": "culture",
       "significance": 2,
       "section": "books"
+    },
+    {
+      "id": "us-news/live/2026/may/18/donald-trump-redistricting-south-carolina-iran-healthcare-latest-news-updates",
+      "headline": "Trump reportedly withdraws $10bn lawsuit against IRS amid talks of deal to compensate allies – US politics live",
+      "summary": "Trump withdraws $10bn IRS lawsuit amid settlement talks to compensate allies.",
+      "url": "https://www.theguardian.com/p/x547me",
+      "thumbnail": "https://media.guim.co.uk/37195199d4cfa48b3cbdce5b0364ff0113e7468d/72_0_1835_1469/500.jpg",
+      "published": "2026-05-18T14:18:09Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/may/18/luigi-mangione-trial-new-york-united-healthcare-ceo",
+      "headline": "Some items in Luigi Mangione’s backpack won’t be used as evidence in trial, judge rules",
+      "summary": "Judge rules evidence from Luigi Mangione's arrest inadmissible in murder trial.",
+      "url": "https://www.theguardian.com/p/x53pe7",
+      "thumbnail": "https://media.guim.co.uk/f6ce318c81fe3ec73bd18023bedf7cbbb64d720c/768_415_1982_1585/500.jpg",
+      "published": "2026-05-18T14:14:42Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/may/18/trump-dismiss-10-billion-dollar-irs-lawsuit",
+      "headline": "Trump moves to dismiss $10bn lawsuit against IRS amid reports he’s considering settlement",
+      "summary": "Trump files to dismiss $10bn IRS lawsuit as settlement discussions progress.",
+      "url": "https://www.theguardian.com/p/x548jm",
+      "thumbnail": "https://media.guim.co.uk/7162eeaa1cdc18dd64d9b341ff53bbd9002910c6/0_0_4572_3657/500.jpg",
+      "published": "2026-05-18T14:14:24Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "sport/live/2026/may/18/hampshire-v-notts-yorkshire-v-surrey-and-more-county-cricket-day-four-live",
+      "headline": "Warwickshire tributes for MJK Smith, Yorkshire beat Surrey: county cricket day four – live",
+      "summary": "County cricket updates: Yorkshire beats Surrey, tributes for MJK Smith.",
+      "url": "https://www.theguardian.com/p/x53826",
+      "thumbnail": "https://media.guim.co.uk/08f0a249a2d923f38c031f2ef6803c7d7603b304/40_0_5749_4599/500.jpg",
+      "published": "2026-05-18T14:13:13Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "world/2026/may/18/xi-jinping-vladimir-putin-china-russia-four-days-after-donald-trump-us-visit",
+      "headline": "Xi Jinping prepares to welcome Vladimir Putin to China, four days after hosting Donald Trump ",
+      "summary": "Xi Jinping prepares Putin visit days after Trump summit amid Western concerns.",
+      "url": "https://www.theguardian.com/p/x546xz",
+      "thumbnail": "https://media.guim.co.uk/efad3ca00ee424b2643123a9f8c1582e85d097c9/0_0_1803_1442/500.jpg",
+      "published": "2026-05-18T14:10:44Z",
+      "location": {
+        "name": "Beijing",
+        "lat": 39.9042,
+        "lng": 116.4074
+      },
+      "category": "politics",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "science/2026/may/19/dingo-burial-site-first-nations-people-relationship-to-animals",
+      "headline": "Signs of ‘feeding’ ritual at dingo burial site shed new light on bond between First Nations people and canines",
+      "summary": "Ancient dingo burial site reveals First Nations ritual care practices.",
+      "url": "https://www.theguardian.com/p/x545zz",
+      "thumbnail": "https://media.guim.co.uk/7fef4223e3684427188374586c52fe5486fdbe2c/126_0_3780_3024/500.jpg",
+      "published": "2026-05-18T14:01:49Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "science"
+    },
+    {
+      "id": "world/2026/may/18/mexico-city-axolotl-murals-purple-mayor-world-cup",
+      "headline": "Purple pain: backlash over Mexico City’s ‘axolotlisation’ for World Cup",
+      "summary": "Purple axolotl murals for World Cup spark criticism over resource waste.",
+      "url": "https://www.theguardian.com/p/x547kx",
+      "thumbnail": "https://media.guim.co.uk/a1468731a2783a377fdfb26282c98a592f8eaf20/149_0_4439_3551/500.jpg",
+      "published": "2026-05-18T14:00:49Z",
+      "location": {
+        "name": "Mexico City",
+        "lat": 19.4326,
+        "lng": -99.1332
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "football/2026/may/18/champions-league-final-will-not-be-free-to-watch-in-uk-arsenal-psg-europa-conference",
+      "headline": "Champions League final will not be free to watch in UK for first time in modern era",
+      "summary": "Champions League final not free-to-watch in UK for first time in modern era.",
+      "url": "https://www.theguardian.com/p/x5489k",
+      "thumbnail": "https://media.guim.co.uk/9db457f54c56913bd324740f38b5f262a0c2fc29/1236_0_4864_3891/500.jpg",
+      "published": "2026-05-18T14:00:49Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "film/2026/may/18/hope-review-non-stop-gonzo-alien-battling-is-top-quality-entertainment",
+      "headline": "Hope review – non-stop gonzo alien battling is top-quality entertainment",
+      "summary": "Hope review: Korean sci-fi action film delivers spectacle at Cannes festival.",
+      "url": "https://www.theguardian.com/p/x547n5",
+      "thumbnail": "https://media.guim.co.uk/03bece2331f0449af7ecabfa90b56831e7fb12d1/375_0_1016_814/500.jpg",
+      "published": "2026-05-18T13:47:44Z",
+      "location": {
+        "name": "Cannes",
+        "lat": 43.5528,
+        "lng": 7.0176
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "film"
+    },
+    {
+      "id": "culture/2026/may/18/how-we-made-letter-to-brezhnev-russians-rambo-kirkby",
+      "headline": "‘The film humanised Russians at a time when Rambo was killing them’: how we made Letter to Brezhnev",
+      "summary": "Letter to Brezhnev retrospective on Cold War romance film's cultural impact.",
+      "url": "https://www.theguardian.com/p/x533xg",
+      "thumbnail": "https://media.guim.co.uk/5d2fabb0820d20c46211cebaa5d1d4c4890fe6af/0_221_3238_2589/500.jpg",
+      "published": "2026-05-18T13:37:27Z",
+      "location": {
+        "name": "Liverpool",
+        "lat": 53.4084,
+        "lng": -2.9916
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "film"
+    },
+    {
+      "id": "politics/2026/may/18/andy-burnham-says-he-will-not-try-to-return-uk-to-eu",
+      "headline": "Andy Burnham says he will not try to return UK to EU",
+      "summary": "Andy Burnham rules out EU return, commits to domestic focus in campaign.",
+      "url": "https://www.theguardian.com/p/x548ee",
+      "thumbnail": "https://media.guim.co.uk/7c653b037fe3a6271057e292e4c1c64810417730/917_0_4583_3667/500.jpg",
+      "published": "2026-05-18T13:33:14Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "politics/2026/may/18/rejoin-reset-swiss-how-uk-try-unpick-brexit",
+      "headline": "Rejoin, reset or go Swiss-style? How the UK could try to unpick Brexit",
+      "summary": "Analysis of UK Brexit reversal options as Streeting hints at EU rejoining.",
+      "url": "https://www.theguardian.com/p/x5488k",
+      "thumbnail": "https://media.guim.co.uk/29f6634991ade1db1a7260c45077e5604e59b49d/555_0_3007_2406/500.jpg",
+      "published": "2026-05-18T13:23:35Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "politics"
+    },
+    {
+      "id": "us-news/2026/may/18/austin-shootings-injuries",
+      "headline": "Three youths in custody after Austin shootings injure four people",
+      "summary": "Three youths arrested after spree of 10 random shootings in Austin injure four people.",
+      "url": "https://www.theguardian.com/p/x5489h",
+      "thumbnail": "https://media.guim.co.uk/bb2bbe25ed598ac3ceb276f10c4f092374c108f7/570_0_1350_1080/500.jpg",
+      "published": "2026-05-18T13:20:57Z",
+      "location": {
+        "name": "Austin",
+        "lat": 30.2672,
+        "lng": -97.7431
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "uk-news/2026/may/18/london-tube-strikes-underground-tfl-called-off",
+      "headline": "London tube strikes called off at last minute",
+      "summary": "RMT union suspends planned London Underground strikes at last minute.",
+      "url": "https://www.theguardian.com/p/x548ep",
+      "thumbnail": "https://media.guim.co.uk/4fd5ccf8189e0411e8bf838c51e40432d08d8a6e/37_0_6443_5155/500.jpg",
+      "published": "2026-05-18T13:20:00Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "us-news/2026/may/18/eric-schmidt-ai-university-commencement-speech-booed",
+      "headline": "Ex-Google CEO Eric Schmidt booed after AI remarks at Arizona commencement",
+      "summary": "Ex-Google CEO Eric Schmidt booed at Arizona commencement for AI remarks amid job fears.",
+      "url": "https://www.theguardian.com/p/x5483k",
+      "thumbnail": "https://media.guim.co.uk/f978d3f20a634ae27276047862cce2e5f1c4a6b9/316_0_3332_2666/500.jpg",
+      "published": "2026-05-18T13:15:46Z",
+      "location": {
+        "name": "Arizona",
+        "lat": 33.7298,
+        "lng": -111.4312
+      },
+      "category": "tech",
+      "significance": 2,
+      "section": "us-news"
     }
   ]
 }
