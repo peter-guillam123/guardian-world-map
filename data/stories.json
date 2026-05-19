@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-05-19T00:18:54.310Z",
-    "story_count": 85,
+    "generated_at": "2026-05-19T04:38:39.481Z",
+    "story_count": 92,
     "oldest_story": "2026-05-18T05:00:01Z",
-    "newest_story": "2026-05-18T23:47:50Z",
+    "newest_story": "2026-05-19T04:32:07Z",
     "window_hours": 24
   },
   "stories": [
@@ -1366,6 +1366,118 @@
       "category": "tech",
       "significance": 3,
       "section": "technology"
+    },
+    {
+      "id": "australia-news/2026/may/19/private-health-insurance-rebates-older-australians-labor-budget",
+      "headline": "Plan to reduce private health rebates for older Australians to have ‘almost no impact’ on hospital system, expert says",
+      "summary": "Labor reduces private health rebates for seniors, adding $250 yearly cost for 3M older Australians.",
+      "url": "https://www.theguardian.com/p/x54bca",
+      "thumbnail": "https://media.guim.co.uk/17290b5eb5dd29aa8aceb65b8936c7af864ad353/952_0_5073_4060/500.jpg",
+      "published": "2026-05-19T04:32:07Z",
+      "location": {
+        "name": "Australia",
+        "lat": -25.2744,
+        "lng": 133.7751
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "environment/2026/may/19/country-diary-a-truly-sunny-spring-for-buttercups-and-dandelions",
+      "headline": "Country diary: A truly golden spring for buttercups and dandelions",
+      "summary": "Spring brings abundance of buttercups and dandelions to Derbyshire countryside.",
+      "url": "https://www.theguardian.com/p/x53748",
+      "thumbnail": "https://media.guim.co.uk/a642d57bd7e2b3de5fc32f63db9f0f30ae4a8810/356_0_3549_2841/500.jpg",
+      "published": "2026-05-19T04:30:00Z",
+      "location": {
+        "name": "Snitterton",
+        "lat": 53.1611,
+        "lng": -1.6878
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "environment"
+    },
+    {
+      "id": "australia-news/2026/may/19/nsw-police-avoid-mental-health-incidents-intervention",
+      "headline": "NSW police to avoid mental health incidents under UK model after spate of fatal shootings",
+      "summary": "NSW police adopt UK model to avoid mental health crises, diverting from armed response.",
+      "url": "https://www.theguardian.com/p/x54b3e",
+      "thumbnail": "https://media.guim.co.uk/a6c98f42b3e7129f92821ea68bed0d9cca792a4a/613_0_4869_3897/500.jpg",
+      "published": "2026-05-19T04:14:49Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "world/2026/may/19/libya-militia-commander-refugees-international-criminal-court",
+      "headline": "‘Huge milestone’ as Libyan militia commander accused of torture to appear at ICC",
+      "summary": "Libyan militia commander appears at ICC for torture and enslavement of refugees.",
+      "url": "https://www.theguardian.com/p/x53dbk",
+      "thumbnail": "https://media.guim.co.uk/a5f3ce2be2d4d44dbc19c79ce98d8171a1b445b9/260_323_3075_2461/500.jpg",
+      "published": "2026-05-19T04:00:02Z",
+      "location": {
+        "name": "The Hague",
+        "lat": 52.0705,
+        "lng": 4.3007
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "lifeandstyle/2026/may/19/should-you-be-able-to-take-your-dog-everywhere",
+      "headline": "‘She compared her dachshund to my newborn baby’: should you be able to take your dog everywhere?",
+      "summary": "Debate over allowing dogs in restaurants, offices, and public spaces grows in UK.",
+      "url": "https://www.theguardian.com/p/x53j7f",
+      "thumbnail": "https://media.guim.co.uk/3136660981b49e64a1caf140186930fb16656ac1/0_599_3116_2492/500.jpg",
+      "published": "2026-05-19T04:00:01Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "lifeandstyle"
+    },
+    {
+      "id": "uk-news/2026/may/19/israel-survivor-appeal-7-october-nova-exhibition-london",
+      "headline": "‘Come in for one minute’: Israeli survivor’s appeal to doubters as 7 October exhibition opens in London",
+      "summary": "Nova music festival 7 October exhibition opens in London with heavy security.",
+      "url": "https://www.theguardian.com/p/x548ge",
+      "thumbnail": "https://media.guim.co.uk/6011368c1b3fd78b948ecb6b15315076b0cb7d8e/729_0_6832_5464/500.jpg",
+      "published": "2026-05-19T04:00:01Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "uk-news/2026/may/19/belfast-harbour-invest-ni-economy-port-ferry-cruise-ship",
+      "headline": "Belfast harbour operator to invest £1.3bn as NI economy grows",
+      "summary": "Belfast harbour operator plans £1.3bn investment over 25 years for expansion.",
+      "url": "https://www.theguardian.com/p/x53jtp",
+      "thumbnail": "https://media.guim.co.uk/e62a91f917175035046c911911be26635a1e1b62/211_0_3698_2962/500.jpg",
+      "published": "2026-05-19T04:00:00Z",
+      "location": {
+        "name": "Belfast",
+        "lat": 54.6074,
+        "lng": -5.9307
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "uk-news"
     }
   ]
 }
