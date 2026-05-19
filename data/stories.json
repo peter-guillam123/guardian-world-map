@@ -1,124 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-19T21:03:31.008Z",
+    "generated_at": "2026-05-19T22:36:58.774Z",
     "story_count": 95,
-    "oldest_story": "2026-05-18T21:07:58Z",
-    "newest_story": "2026-05-19T21:02:33Z",
+    "oldest_story": "2026-05-18T22:56:37Z",
+    "newest_story": "2026-05-19T22:22:33Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "australia-news/live/2026/may/19/australia-news-live-queensland-weather-rain-flash-flood-victoria-infrastructure-environment-climate-jim-chalmers-budget-cost-of-living-tax-housing-anthony-albanese-angus-taylor-ntwnfb",
-      "headline": "Australia news live: flash flooding hits Queensland roads; $57bn of Victoria infrastructure threatened by climate hazards",
-      "summary": "Flash flooding hits Queensland roads; $57bn Victoria infrastructure threatened by climate hazards.",
-      "url": "https://www.theguardian.com/p/x54ab2",
-      "thumbnail": "https://media.guim.co.uk/aa3266d889856d7a20ecdb6a60c3d7e37873b70d/0_321_2284_1827/500.jpg",
-      "published": "2026-05-18T21:53:13Z",
-      "location": {
-        "name": "Queensland",
-        "lat": -27.4998,
-        "lng": 153.0156
-      },
-      "category": "climate",
-      "significance": 3,
-      "section": "australia-news"
-    },
-    {
-      "id": "world/2026/may/18/dodgy-shops-handling-criminal-cash-targeted-by-new-unit",
-      "headline": "‘Dodgy’ shops handling criminal cash targeted by new unit",
-      "summary": "New specialist unit targets retail shops suspected of laundering £1bn annually in criminal money.",
-      "url": "https://www.theguardian.com/p/x548gb",
-      "thumbnail": "https://media.guim.co.uk/639c3acdd51ab4b03de471f7c3970c2701158067/435_0_4347_3478/500.jpg",
-      "published": "2026-05-18T21:30:53Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "football/2026/may/18/roberto-de-zerbi-tottenham-chelsea-premier-league-relegation-battle",
-      "headline": "Rivals wanting Tottenham relegated can be ‘big motivation’, insists De Zerbi",
-      "summary": "Tottenham manager De Zerbi urges players to beat Chelsea to secure Premier League safety.",
-      "url": "https://www.theguardian.com/p/x5496e",
-      "thumbnail": "https://media.guim.co.uk/7f6aa858af5edd1ae970af8ab5f05a054d3d6d94/47_0_1708_1366/500.jpg",
-      "published": "2026-05-18T21:30:52Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/may/18/pep-guardiola-manchester-city-bournemouth-premier-league-title-race",
-      "headline": "Like pulling teeth? Guardiola compares Manchester City’s trip to Bournemouth to dentist visit",
-      "summary": "Guardiola warns Manchester City's Bournemouth trip will be like dentist visit in title race.",
-      "url": "https://www.theguardian.com/p/x548gf",
-      "thumbnail": "https://media.guim.co.uk/707808657d2b4e2ed11854a2391620170172e5e3/136_0_2400_1920/500.jpg",
-      "published": "2026-05-18T21:30:52Z",
-      "location": {
-        "name": "Bournemouth",
-        "lat": 50.7353,
-        "lng": -1.8384
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/may/18/pep-guardiola-departure-manchester-city-end-of-premier-league-season",
-      "headline": "Pep Guardiola expected to leave Manchester City at end of the season",
-      "summary": "Pep Guardiola expected to leave Manchester City at season's end after 10 trophy-filled years.",
-      "url": "https://www.theguardian.com/p/x5vnvc",
-      "thumbnail": "https://media.guim.co.uk/f661b090d70a93151558a0262d818e7435a4d34e/0_239_2921_2336/500.jpg",
-      "published": "2026-05-18T21:28:19Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4808,
-        "lng": -2.2426
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/may/18/arsenal-burnley-premier-league-match-report",
-      "headline": "Kai Havertz header edges nervy Arsenal past Burnley and one step from title",
-      "summary": "Kai Havertz header edges Arsenal past Burnley, moving Gunners closer to Premier League title.",
-      "url": "https://www.theguardian.com/p/x548cn",
-      "thumbnail": "https://media.guim.co.uk/535ac0f8fdc14d7a1a1207239b871b083ff86ad2/906_0_4528_3623/500.jpg",
-      "published": "2026-05-18T21:12:08Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "world/2026/may/18/iran-new-proposal-deal-to-end-war-us-israel",
-      "headline": "Iran makes new proposal for deal to end war, regional officials say",
-      "summary": "Iran makes new proposal to end Middle East war; Trump pauses military strike plans.",
-      "url": "https://www.theguardian.com/p/x5492p",
-      "thumbnail": "https://media.guim.co.uk/d6aceb796aec439b0943642653eb268ba176cc4f/672_0_4167_3333/500.jpg",
-      "published": "2026-05-18T21:07:58Z",
-      "location": {
-        "name": "Tehran",
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
     {
       "id": "stage/2026/may/19/equus-peter-shaffer-menier-chocolate-factory-london",
       "headline": "Equus review – desire and desperation in Peter Shaffer’s tale of sex, gods and horses",
@@ -230,22 +118,6 @@
       "category": "sport",
       "significance": 2,
       "section": "football"
-    },
-    {
-      "id": "us-news/2026/may/18/trumprx-site-prescription-drugs",
-      "headline": "President says he’s adding ‘over 600’ prescription drugs to TrumpRx site ",
-      "summary": "Trump expands TrumpRx discount prescription drug program from 100 to over 600 medications.",
-      "url": "https://www.theguardian.com/p/x54ag8",
-      "thumbnail": "https://media.guim.co.uk/cc5e58dfa051dca958cb46684d5bd3731314a738/640_0_6400_5120/500.jpg",
-      "published": "2026-05-18T22:27:13Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "us-news"
     },
     {
       "id": "world/2026/may/19/japan-naphtha-shortage-explainer-iran-crisis",
@@ -1525,6 +1397,134 @@
       },
       "category": "sport",
       "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/may/19/senate-war-powers-resolution-trump",
+      "headline": "US Senate votes to advance resolution to curb Trump’s Iran war powers",
+      "summary": "US Senate advances war powers resolution to curb Trump's Iran war authority without congressional approval.",
+      "url": "https://www.theguardian.com/p/x54gb5",
+      "thumbnail": "https://media.guim.co.uk/d9bb50eb8fb95ce736426122dfae04afac8cc255/445_0_4445_3556/500.jpg",
+      "published": "2026-05-19T22:22:33Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/may/19/arsenal-win-premier-league-title-mikel-arteta-2025-26",
+      "headline": "Bridesmaids no more: Arsenal’s faith in Mikel Arteta rewarded with the ultimate prize",
+      "summary": "Arsenal wins Premier League title under Mikel Arteta, ending long drought since 2003-04 Invincibles season.",
+      "url": "https://www.theguardian.com/p/x54f9h",
+      "thumbnail": "https://media.guim.co.uk/ec0080e06a3d3a2230b94a2914d08dcc2e20b888/0_0_2500_2000/500.jpg",
+      "published": "2026-05-19T22:00:14Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/may/19/san-diego-mosque-shooting",
+      "headline": "Teenagers behind mass shooting in San Diego rushed at mosque ‘fully armored’",
+      "summary": "Two armed teenagers carried out mass shooting at San Diego mosque; firearms traced to parent's registration.",
+      "url": "https://www.theguardian.com/p/x54gvx",
+      "thumbnail": "https://media.guim.co.uk/e39fc997742c007062ad28ae44cc38fec5c96dba/483_0_3758_3007/500.jpg",
+      "published": "2026-05-19T21:53:24Z",
+      "location": {
+        "name": "San Diego",
+        "lat": 32.7157,
+        "lng": -117.1611
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "australia-news/2026/may/20/morning-mail-wednesday-ntwnfb",
+      "headline": "Morning Mail: scientists sound alarm over CSIRO job losses, fears grow over Ebola outbreak, Arsenal crowned Premier League champions",
+      "summary": "Scientists warn CSIRO job cuts threaten climate modelling capabilities vital for Australia's global climate reporting.",
+      "url": "https://www.theguardian.com/p/x54f29",
+      "thumbnail": "https://media.guim.co.uk/07102f22681fd9dcf8b3340a9edb3a909c94f718/0_0_6065_4853/500.jpg",
+      "published": "2026-05-19T21:35:26Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "football/2026/may/19/southampton-kicked-out-of-championship-playoff-final-docked-four-points-for-spying",
+      "headline": "Southampton may face legal challenge from own players after being kicked out of playoff final",
+      "summary": "Southampton expelled from Championship playoff final for spying; Middlesbrough reinstated to face Hull.",
+      "url": "https://www.theguardian.com/p/x54cg9",
+      "thumbnail": "https://media.guim.co.uk/15e3c809bd9530a36c009e86bbc758e74fc6a505/441_0_3958_3166/500.jpg",
+      "published": "2026-05-19T21:32:01Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/may/19/arsenals-premier-league-title-winners-2025-26-player-by-player-ratings",
+      "headline": "Arsenal’s Premier League title winners 2025-26: player-by-player ratings",
+      "summary": "Arsenal's defensive strength and David Raya's goalkeeper excellence key to Premier League title win.",
+      "url": "https://www.theguardian.com/p/x54egf",
+      "thumbnail": "https://media.guim.co.uk/ca3864508042cb065c279faf8b4b190b93010214/405_361_4172_3338/500.jpg",
+      "published": "2026-05-19T21:30:14Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "culture/2026/may/19/international-booker-prize-goes-to-novel-originally-written-in-mandarin-chinese-for-the-first-time",
+      "headline": "International Booker prize goes to novel originally written in Mandarin Chinese for the first time",
+      "summary": "Taiwan Travelogue becomes first Mandarin Chinese original to win International Booker Prize.",
+      "url": "https://www.theguardian.com/p/x54dmx",
+      "thumbnail": "https://media.guim.co.uk/5efdbba554cda87390882b400b04768dd3baa11b/659_0_6594_5278/500.jpg",
+      "published": "2026-05-19T21:30:14Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "culture"
+    },
+    {
+      "id": "football/2026/may/19/chelsea-tottenham-premier-league-match-report",
+      "headline": "Fernández and Chelsea sink Spurs as survival battle goes to the final day",
+      "summary": "Chelsea defeats Tottenham 2-1; Spurs' relegation battle extends to final day with survival still uncertain.",
+      "url": "https://www.theguardian.com/p/x54f3z",
+      "thumbnail": "https://media.guim.co.uk/97864d2c91b2ce3623832321f3f51f15d40979c7/352_0_3540_2832/500.jpg",
+      "published": "2026-05-19T21:29:24Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
       "section": "football"
     }
   ]
