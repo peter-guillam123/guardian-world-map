@@ -1,284 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-19T14:15:24.845Z",
-    "story_count": 84,
-    "oldest_story": "2026-05-18T14:18:09Z",
-    "newest_story": "2026-05-19T14:00:06Z",
+    "generated_at": "2026-05-19T17:21:22.654Z",
+    "story_count": 91,
+    "oldest_story": "2026-05-18T18:01:49Z",
+    "newest_story": "2026-05-19T17:18:51Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "us-news/live/2026/may/18/donald-trump-redistricting-south-carolina-iran-healthcare-latest-news-updates",
-      "headline": "Trump reportedly withdraws $10bn lawsuit against IRS amid talks of deal to compensate allies – US politics live",
-      "summary": "Trump withdraws $10bn IRS lawsuit amid settlement talks to compensate allies.",
-      "url": "https://www.theguardian.com/p/x547me",
-      "thumbnail": "https://media.guim.co.uk/37195199d4cfa48b3cbdce5b0364ff0113e7468d/72_0_1835_1469/500.jpg",
-      "published": "2026-05-18T14:18:09Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "sport/2026/may/18/scott-hastings-obituary",
-      "headline": "Scott Hastings obituary",
-      "summary": "Scott Hastings, Scotland's most-capped rugby centre and 1990 Grand Slam winner, dies.",
-      "url": "https://www.theguardian.com/p/x549a6",
-      "thumbnail": "https://media.guim.co.uk/746ced90516238b16a92972506baeb0f810af70b/0_88_1410_1128/500.jpg",
-      "published": "2026-05-18T17:10:06Z",
-      "location": {
-        "name": "Scotland",
-        "lat": 56.4907,
-        "lng": -3.4179
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "world/2026/may/18/greenland-us-doctor-visit-trump-envoy-deeply-problematic",
-      "headline": "Greenland decries US doctor’s visit with Trump envoy as ‘deeply problematic’",
-      "summary": "Greenland rebukes US doctor visit with Trump envoy as 'deeply problematic' geopolitical move.",
-      "url": "https://www.theguardian.com/p/x5494v",
-      "thumbnail": "https://media.guim.co.uk/1a5440f377e8a1f5d75b92fce88cff420ab5da7a/51_0_4393_3515/500.jpg",
-      "published": "2026-05-18T17:06:25Z",
-      "location": {
-        "name": "Nuuk",
-        "lat": 64.1814,
-        "lng": -51.6941
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "world/2026/may/18/mexico-officials-surrender-alleged-cartel-ties",
-      "headline": "Pressure on Mexico after two ex-officials surrender to US over alleged cartel ties",
-      "summary": "Two Mexican officials surrender to US over alleged Sinaloa cartel ties amid pressure on President Sheinbaum.",
-      "url": "https://www.theguardian.com/p/x54997",
-      "thumbnail": "https://media.guim.co.uk/e4bd6c0f89583f7db93d2b85f6663a53c5a9f69f/490_0_3298_2638/500.jpg",
-      "published": "2026-05-18T17:06:10Z",
-      "location": {
-        "name": "Mexico City",
-        "lat": 19.4326,
-        "lng": -99.1332
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "sport/2026/may/18/england-play-tetris-to-build-pyramid-towards-extending-global-dominance",
-      "headline": "England play Tetris to build pyramid towards extending global dominance",
-      "summary": "England Women's rugby team wins eighth consecutive Six Nations, building towards 2029 World Cup defence.",
-      "url": "https://www.theguardian.com/p/x547ch",
-      "thumbnail": "https://media.guim.co.uk/75fa3cd1a176871514826e7d4eb72a0884942229/1219_0_3754_3003/500.jpg",
-      "published": "2026-05-18T17:00:47Z",
-      "location": {
-        "name": "England",
-        "lat": 52.3555,
-        "lng": -1.1743
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "lifeandstyle/2026/may/18/a-soft-spot-for-hardware-stores-cant-sustain-them",
-      "headline": "A soft spot for hardware stores can’t sustain them",
-      "summary": "Letters debate challenges facing independent hardware stores competing against large chain retailers.",
-      "url": "https://www.theguardian.com/p/x54265",
-      "thumbnail": "https://media.guim.co.uk/f5682aa946f42b4efe3ff1d90264f95eb13b5b6d/60_0_2812_2250/500.jpg",
-      "published": "2026-05-18T17:00:46Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 1,
-      "section": "lifeandstyle"
-    },
-    {
-      "id": "business/2026/may/18/i-warned-that-putting-post-offices-into-wh-smith-branches-would-put-them-at-risk",
-      "headline": "I warned that putting post offices into WH Smith branches would put them at risk",
-      "summary": "Post office in Middleton threatened as WH Smith store closures endanger local postal access.",
-      "url": "https://www.theguardian.com/p/x542y7",
-      "thumbnail": "https://media.guim.co.uk/734d87a42d85d5449641e4c3b737d2b466ab95c8/11_0_2670_2136/500.jpg",
-      "published": "2026-05-18T17:00:41Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4808,
-        "lng": -2.2426
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "culture/2026/may/18/arts-engagement-benefits-young-and-old",
-      "headline": "Arts engagement benefits young and old",
-      "summary": "Letters highlight health benefits of arts engagement for young people and call for equal access.",
-      "url": "https://www.theguardian.com/p/x54357",
-      "thumbnail": "https://media.guim.co.uk/d3c460cfe1477753475b9d86ecbd13c17f298832/604_0_6020_4819/500.jpg",
-      "published": "2026-05-18T17:00:36Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "culture"
-    },
-    {
-      "id": "education/2026/may/18/weighing-up-the-value-of-sats",
-      "headline": "Weighing up the value of Sats",
-      "summary": "Brief letters discuss SATs exams, buses, northern politics, and other varied public concerns.",
-      "url": "https://www.theguardian.com/p/x548ec",
-      "thumbnail": "https://media.guim.co.uk/5416bcbc3390dd499ee76ca4e7ba1963c3249542/406_0_4288_3431/500.jpg",
-      "published": "2026-05-18T17:00:32Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 1,
-      "section": "education"
-    },
-    {
-      "id": "politics/2026/may/18/andy-burnham-stance-fiscal-rules-bond-markets-analysis",
-      "headline": "Andy Burnham’s change in tack on fiscal rules and bond markets is understandable",
-      "summary": "Andy Burnham moderates fiscal stance to reassure City investors in potential Labour leadership bid.",
-      "url": "https://www.theguardian.com/p/x547na",
-      "thumbnail": "https://media.guim.co.uk/4d13b8b7db79a51b683787947fd96bc9a768ddba/1247_673_3505_2804/500.jpg",
-      "published": "2026-05-18T16:58:37Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4808,
-        "lng": -2.2426
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "business/nils-pratley-on-finance/2026/may/18/whitbread-reset-slow-angry-us-hedge-fund",
-      "headline": "Whitbread’s reset is slow. But angry US hedge fund doesn’t have a better idea",
-      "summary": "Whitbread's five-year reset plan is sensible but disappoints market despite US hedge fund pressure.",
-      "url": "https://www.theguardian.com/p/x548xt",
-      "thumbnail": "https://media.guim.co.uk/c3bba40d14d4f1c1b50c3bac62500a73eaf2c3bf/1365_0_6827_5464/500.jpg",
-      "published": "2026-05-18T16:56:09Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "business/2026/may/18/ceo-starbucks-in-south-korea-fired-over-controversial-ad-campaign",
-      "headline": "Starbucks Korea CEO resigns over ad evoking massacre of pro-democracy protesters",
-      "summary": "Starbucks Korea CEO fired over 'Tank Day' campaign evoking pro-democracy massacre protests.",
-      "url": "https://www.theguardian.com/p/x5493f",
-      "thumbnail": "https://media.guim.co.uk/0b1155ff1abba2f4441791cd4ae4e52cf20f34e7/231_0_4573_3660/500.jpg",
-      "published": "2026-05-18T16:50:11Z",
-      "location": {
-        "name": "Seoul",
-        "lat": 37.5665,
-        "lng": 126.978
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "football/2026/may/18/canadas-sports-minister-hopes-world-cup-can-lead-to-trade-agreement-with-us-and-mexico",
-      "headline": "Canada’s sports minister hopes World Cup can lead to trade agreement with US and Mexico",
-      "summary": "Canada's sports minister hopes 2026 World Cup hosting can facilitate trilateral trade agreement.",
-      "url": "https://www.theguardian.com/p/x548yj",
-      "thumbnail": "https://media.guim.co.uk/f0365c37de9be23806cd8b3689801499d2a3d8e1/0_621_5770_4619/500.jpg",
-      "published": "2026-05-18T16:45:39Z",
-      "location": {
-        "name": "Ottawa",
-        "lat": 45.4215,
-        "lng": -75.6972
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "technology/2026/may/18/tech-firms-uk-rules-intimate-image-abuse",
-      "headline": "Tech firms face tougher UK rules on intimate image abuse",
-      "summary": "Ofcom updates codes to combat intimate image abuse and AI-generated deepfakes on tech platforms.",
-      "url": "https://www.theguardian.com/p/x549vf",
-      "thumbnail": "https://media.guim.co.uk/92f6b258a4472ae40c2889913a6ee4b7b6e9ca90/552_0_2915_2332/500.jpg",
-      "published": "2026-05-18T16:39:37Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "tech",
-      "significance": 2,
-      "section": "technology"
-    },
-    {
-      "id": "politics/2026/may/18/starmer-message-makerfield-vote-labour-because-you-hate-me",
-      "headline": "Starmer’s message to voters in Makerfield: vote Labour because you hate me",
-      "summary": "Starmer's unpopularity becomes focal point for Labour's Makerfield byelection campaign strategy.",
-      "url": "https://www.theguardian.com/p/x549vz",
-      "thumbnail": "https://media.guim.co.uk/a10a8e7945f386a5eed7302a2df00e14fe7ac3f6/385_0_5000_4000/500.jpg",
-      "published": "2026-05-18T16:34:09Z",
-      "location": {
-        "name": "Makerfield",
-        "lat": 53.5419,
-        "lng": -2.6542
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "business/2026/may/18/nextera-dominion-merger-us-energy",
-      "headline": "NextEra to buy Dominion in $67bn deal creating US utility giant",
-      "summary": "NextEra to acquire Dominion Energy in $67bn deal creating world's largest regulated utility.",
-      "url": "https://www.theguardian.com/p/x5492f",
-      "thumbnail": "https://media.guim.co.uk/9f7437a42674ead1bee1b2525dac0b56b2bef544/349_0_2651_2120/500.jpg",
-      "published": "2026-05-18T16:25:05Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "economy",
-      "significance": 4,
-      "section": "business"
-    },
-    {
-      "id": "football/2026/may/18/luis-castro-levante-la-liga-relegation-battle",
-      "headline": "Luís Castro eclipses famous namesake after taking Levante to verge of safety",
-      "summary": "Coach Luís Castro leads Levante's remarkable turnaround in La Liga relegation battle.",
-      "url": "https://www.theguardian.com/p/x547d8",
-      "thumbnail": "https://media.guim.co.uk/7aba0b84237373b4c2d9728133f02ddbdfdfb573/369_0_3962_3169/500.jpg",
-      "published": "2026-05-18T16:14:43Z",
-      "location": {
-        "name": "Valencia",
-        "lat": 39.4699,
-        "lng": -0.3763
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
     {
       "id": "football/live/2026/may/18/arsenal-v-burnley-premier-league-live",
       "headline": "Arsenal v Burnley: Premier League – live",
@@ -1350,6 +1078,390 @@
       "category": "politics",
       "significance": 2,
       "section": "world"
+    },
+    {
+      "id": "football/live/2026/may/19/bournemouth-v-manchester-city-premier-league-live-pep-guardiola-arsenal",
+      "headline": "Bournemouth v Manchester City: Arsenal can win Premier League if visitors slip up as Guardiola heads for exit – live",
+      "summary": "Bournemouth host Manchester City in Premier League title decider with Guardiola set to depart.",
+      "url": "https://www.theguardian.com/p/x547ze",
+      "thumbnail": "https://media.guim.co.uk/1c53d80070737c8581fd30f65b4ff9dccc40e4c3/618_257_2625_2099/500.jpg",
+      "published": "2026-05-19T17:18:51Z",
+      "location": {
+        "name": "Bournemouth",
+        "lat": 50.7352,
+        "lng": -1.8391
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "world/2026/may/19/jonathan-andic-son-mango-isak-andic-arrested-death-father-spain",
+      "headline": "Son of Mango fashion chain founder arrested in Spain over father’s death",
+      "summary": "Mango founder's son arrested on €1m bail over father's death in Catalonia ravine fall.",
+      "url": "https://www.theguardian.com/p/x54dv7",
+      "thumbnail": "https://media.guim.co.uk/96159ee9972bd8701a20ecb64380de392d483529/765_0_4863_3890/500.jpg",
+      "published": "2026-05-19T17:14:23Z",
+      "location": {
+        "name": "Barcelona",
+        "lat": 41.3851,
+        "lng": 2.1734
+      },
+      "category": "other",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "sport/2026/may/19/borthwick-delays-call-on-resting-itoje-until-final-england-squad-announced-in-june",
+      "headline": "Borthwick delays call on resting Itoje until final England squad announced in June",
+      "summary": "England rugby coach Borthwick may rest captain Itoje for summer Nations Championship games.",
+      "url": "https://www.theguardian.com/p/x54dht",
+      "thumbnail": "https://media.guim.co.uk/4354841d081146e9774ee69084ae87b0c7753b13/405_119_2431_1944/500.jpg",
+      "published": "2026-05-19T17:13:45Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "world/2026/may/19/toronto-police-sexual-assault-charge-barcelona",
+      "headline": "Three Toronto police officers charged with sexual assault in Barcelona",
+      "summary": "Three off-duty Toronto police officers charged with sexual assault in Barcelona taxi incident.",
+      "url": "https://www.theguardian.com/p/x54egt",
+      "thumbnail": "https://media.guim.co.uk/c85210e4255daa97f24ba84c09bb6f2806b1c174/859_0_5001_4000/500.jpg",
+      "published": "2026-05-19T17:13:14Z",
+      "location": {
+        "name": "Barcelona",
+        "lat": 41.3851,
+        "lng": 2.1734
+      },
+      "category": "other",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "business/2026/may/19/uk-supermarkets-urged-to-consider-voluntary-price-caps-on-essential-foods",
+      "headline": "UK supermarkets urged to consider voluntary price caps on essential foods",
+      "summary": "UK government urges supermarkets to voluntarily cap essential food prices amid inflation.",
+      "url": "https://www.theguardian.com/p/x54fx7",
+      "thumbnail": "https://media.guim.co.uk/7f1a1e5425aa78f613290942e7e2e96f469d0ea3/550_0_4211_3370/500.jpg",
+      "published": "2026-05-19T17:11:46Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "uk-news/2026/may/19/grenfell-fire-police-criminal-charges-companies-individuals",
+      "headline": "Police to seek criminal charges against 77 companies and people over Grenfell fire",
+      "summary": "Scotland Yard seeks criminal charges against 77 entities over Grenfell Tower fire deaths.",
+      "url": "https://www.theguardian.com/p/x54dp6",
+      "thumbnail": "https://media.guim.co.uk/bb50932155e352c43413929e3f14dba3ebbe91fd/416_0_4689_3750/500.jpg",
+      "published": "2026-05-19T17:09:45Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "other",
+      "significance": 3,
+      "section": "uk-news"
+    },
+    {
+      "id": "us-news/2026/may/19/todd-blanche-doj-ghislaine-maxwell",
+      "headline": "Todd Blanche says he would not recommend a pardon for Ghislaine Maxwell",
+      "summary": "Acting AG Blanche says he would not recommend pardon for Ghislaine Maxwell.",
+      "url": "https://www.theguardian.com/p/x54en8",
+      "thumbnail": "https://media.guim.co.uk/ef2333e636f54ccd0bc6c71dd17e8c685c2207d0/416_0_4168_3334/500.jpg",
+      "published": "2026-05-19T17:06:05Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "business/2026/may/19/billionaire-trump-donor-in-line-to-make-millions-from-thames-water-bid",
+      "headline": "Billionaire Trump donor in line to make millions from Thames Water bid",
+      "summary": "Trump donor Paul Singer's hedge fund consortium in talks to rescue Thames Water.",
+      "url": "https://www.theguardian.com/p/x54dbg",
+      "thumbnail": "https://media.guim.co.uk/173c68b36056c420b5e87b7c83f0896a07ad3a0c/0_0_4583_3667/500.jpg",
+      "published": "2026-05-19T17:05:35Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "tv-and-radio/2026/may/19/moldovan-public-tv-chief-resigns-over-eurovision-neighbourhood-voting",
+      "headline": "Moldovan public TV chief resigns over Eurovision ‘neighbourhood voting’",
+      "summary": "Moldovan TV chief resigns over Eurovision jury's low score for neighboring Romania.",
+      "url": "https://www.theguardian.com/p/x54e9a",
+      "thumbnail": "https://media.guim.co.uk/212a4c624c064fe55fb95a6bd6cae211d02debf2/3642_696_2016_1613/500.jpg",
+      "published": "2026-05-19T17:05:16Z",
+      "location": {
+        "name": "Chișinău",
+        "lat": 47.167,
+        "lng": 27.6012
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "tv-and-radio"
+    },
+    {
+      "id": "science/2026/may/19/artificial-eggshell-giant-flightless-moa-deextinction",
+      "headline": "Artificial eggshell comes first in attempt to revive giant flightless moa",
+      "summary": "De-extinction firm Colossal develops artificial eggshell technology to revive giant moa.",
+      "url": "https://www.theguardian.com/p/x54ekp",
+      "thumbnail": "https://media.guim.co.uk/6700a0b03a8fbcbc75d275a2f5d64341d02ac551/64_0_3772_3018/500.jpg",
+      "published": "2026-05-19T17:05:12Z",
+      "location": {
+        "name": "New Zealand",
+        "lat": -40.9006,
+        "lng": 174.886
+      },
+      "category": "tech",
+      "significance": 2,
+      "section": "science"
+    },
+    {
+      "id": "us-news/2026/may/19/trump-endorses-republican-ken-paxton-senate",
+      "headline": "Trump endorses attorney general Ken Paxton in Texas Senate primary",
+      "summary": "Trump endorses Texas AG Ken Paxton as MAGA candidate against Senator John Cornyn.",
+      "url": "https://www.theguardian.com/p/x54f6g",
+      "thumbnail": "https://media.guim.co.uk/bf85a658bdb28919b1670715825ecc74e9b4a7ea/455_0_4561_3648/500.jpg",
+      "published": "2026-05-19T17:03:26Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "tv-and-radio/2026/may/19/a-potential-stroke-of-genius-could-the-new-hosts-save-strictly-come-dancing-emma-willis-johannes-radebe-josh-widdicombe",
+      "headline": "‘A potential stroke of genius’: could the new hosts save Strictly Come Dancing?",
+      "summary": "BBC names new Strictly Come Dancing hosts including Emma Willis and Johannes Radebe.",
+      "url": "https://www.theguardian.com/p/x54fxj",
+      "thumbnail": "https://media.guim.co.uk/acd5336fd73ef8af0b5ec0a43c85570a9007035c/878_0_5767_4614/500.jpg",
+      "published": "2026-05-19T17:01:49Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "tv-and-radio"
+    },
+    {
+      "id": "politics/2026/may/19/delusional-desperate-and-mostly-called-david-brexiters-gather-to-lament-the-great-betratal",
+      "headline": "Delusional, desperate and mostly called David, Brexiters gather to lament the Great Betrayal",
+      "summary": "Brexit Unleashed conference sees Brexiters lament perceived betrayal of referendum result.",
+      "url": "https://www.theguardian.com/p/x54ezn",
+      "thumbnail": "https://media.guim.co.uk/e7b6e0c5f801ad779daf3efc08390dc07978915c/526_0_2917_2333/500.jpg",
+      "published": "2026-05-19T16:59:17Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 1,
+      "section": "politics"
+    },
+    {
+      "id": "us-news/2026/may/19/ketanji-brown-jackson-supreme-court-criticism",
+      "headline": "Ketanji Brown Jackson rebukes US supreme court over its recent controversial rulings",
+      "summary": "Justice Ketanji Brown Jackson criticizes US Supreme Court's controversial conservative rulings.",
+      "url": "https://www.theguardian.com/p/x54eqh",
+      "thumbnail": "https://media.guim.co.uk/fd9fb873dd3e5a9520a49d63f8ead745a89d7b44/564_0_4330_3463/500.jpg",
+      "published": "2026-05-19T16:57:16Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "media/2026/may/19/married-at-first-sight-rape-allegations-spotlight-welfare-contestants",
+      "headline": "Married at First Sight rape allegations cast spotlight on welfare of contestants",
+      "summary": "Rape allegations against Married at First Sight UK spark debate over contestant welfare in reality TV.",
+      "url": "https://www.theguardian.com/p/x54ejt",
+      "thumbnail": "https://media.guim.co.uk/8b2bb97ffc5b0eaae908d881ad91d4af55cbe5fc/395_0_5031_4024/500.jpg",
+      "published": "2026-05-19T16:51:25Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "media"
+    },
+    {
+      "id": "news/2026/may/19/antisemitism-must-be-challenged-on-all-sides",
+      "headline": "Antisemitism must be challenged on all sides",
+      "summary": "Letters debate uneven media treatment of antisemitism following London rally.",
+      "url": "https://www.theguardian.com/p/x5428v",
+      "thumbnail": "https://media.guim.co.uk/dec5f55f39da50b9545720c9f185055aaab64caa/365_0_2921_2336/500.jpg",
+      "published": "2026-05-19T16:49:38Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "news"
+    },
+    {
+      "id": "uk-news/2026/may/19/call-him-stephen-yaxley-lennon-not-tommy-robinson",
+      "headline": "Call him Stephen Yaxley-Lennon, not Tommy Robinson",
+      "summary": "Letter argues media should use far-right activist's real name to undermine his manufactured persona.",
+      "url": "https://www.theguardian.com/p/x542kp",
+      "thumbnail": "https://media.guim.co.uk/ab9f3fe0618c345f0b0df34a0165b9121fc80a63/0_0_2451_1961/500.jpg",
+      "published": "2026-05-19T16:49:25Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "lifeandstyle/2026/may/19/fourscore-candles-for-a-hardware-legend",
+      "headline": "Fourscore candles for a hardware legend",
+      "summary": "Cornish hardware shop owner Colin Colenso marks 50 years of service as retirement looms.",
+      "url": "https://www.theguardian.com/p/x54e92",
+      "thumbnail": "https://media.guim.co.uk/9385ef37578d73ffa5287d97c3ee8c0f14aa4c9a/64_0_4680_3744/500.jpg",
+      "published": "2026-05-19T16:49:12Z",
+      "location": {
+        "name": "St Ives",
+        "lat": 50.2128,
+        "lng": -5.4785
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "lifeandstyle"
+    },
+    {
+      "id": "us-news/2026/may/19/san-diego-mosque-shooting-reaction",
+      "headline": "‘It doesn’t feel real’: witnesses describe shock and disbelief after San Diego mosque attack",
+      "summary": "Three killed in shooting at San Diego's largest mosque in attack investigated as hate crime.",
+      "url": "https://www.theguardian.com/p/x54ezb",
+      "thumbnail": "https://media.guim.co.uk/74020d0f2f81a5e088d51c77f48ed931fc819d61/413_26_1874_1499/500.jpg",
+      "published": "2026-05-19T16:41:46Z",
+      "location": {
+        "name": "San Diego",
+        "lat": 32.7157,
+        "lng": -117.1611
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "uk-news/2026/may/19/this-place-is-totally-dead-life-after-the-crackdown-on-manchesters-counterfeit-capital",
+      "headline": "‘This place is totally dead’: life after the crackdown on Manchester’s counterfeit capital",
+      "summary": "Police crackdown transforms Cheetham Hill from counterfeit goods hub into quiet neighborhood.",
+      "url": "https://www.theguardian.com/p/x54dz8",
+      "thumbnail": "https://media.guim.co.uk/926dde1ec1602ab80eb8488b6822fb17b143e2f3/0_0_2917_2334/500.jpg",
+      "published": "2026-05-19T16:41:45Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "world/2026/may/19/woman-shot-dead-by-police-jamaica-protest",
+      "headline": "Woman shot dead by police in Jamaica at protest over previous police shooting",
+      "summary": "Woman shot dead by police in Jamaica during protest over previous police shooting.",
+      "url": "https://www.theguardian.com/p/x54dhq",
+      "thumbnail": "https://media.guim.co.uk/d9b905dffd14a173425b90dd7580a2357fd659ae/55_0_726_581/500.jpg",
+      "published": "2026-05-19T16:41:20Z",
+      "location": {
+        "name": "Kingston",
+        "lat": 18.0179,
+        "lng": -76.8099
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "us-news/2026/may/19/trades-eli-lilly-shares-trump-drugmaker",
+      "headline": "Trades of Eli Lilly shares were made on Trump’s behalf as drugmaker benefited from his policies",
+      "summary": "Trump's financial filings reveal $220m-$750m in trades including Eli Lilly shares as firm benefits from policies.",
+      "url": "https://www.theguardian.com/p/x54evm",
+      "thumbnail": "https://media.guim.co.uk/21c6652b93423c258b11032eb1efaa9eb3149bc1/269_426_2930_2343/500.jpg",
+      "published": "2026-05-19T16:38:33Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "stage/2026/may/19/john-kearns-tilting-at-windmills-review",
+      "headline": "John Kearns: Tilting at Windmills review – a handful of dust (and prawn cocktail crisps) in riff on TS Eliot",
+      "summary": "Comedian John Kearns explores relationship breakup through TS Eliot's Waste Land in new show.",
+      "url": "https://www.theguardian.com/p/x54dhc",
+      "thumbnail": "https://media.guim.co.uk/4c7b4a5fbe14a4dec9e539e2d6cbec31d7d799c4/118_317_1687_1350/500.jpg",
+      "published": "2026-05-19T16:30:35Z",
+      "location": {
+        "name": "York",
+        "lat": 53.9576,
+        "lng": -1.0829
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "stage"
+    },
+    {
+      "id": "us-news/2026/may/19/new-york-hotel-workers-world-cup-union-deal",
+      "headline": "New York hotel workers union reaches deal to avoid strike ahead of World Cup",
+      "summary": "New York hotel union secures deal raising housekeeper pay above $100,000 before World Cup.",
+      "url": "https://www.theguardian.com/p/x54ecc",
+      "thumbnail": "https://media.guim.co.uk/9a9fe05a4c82cd376d196edfc78ae39548c08353/685_0_6863_5489/500.jpg",
+      "published": "2026-05-19T16:14:44Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "us-news"
     }
   ]
 }
