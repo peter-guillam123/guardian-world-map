@@ -1,76 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-19T19:24:45.157Z",
-    "story_count": 93,
-    "oldest_story": "2026-05-18T20:03:08Z",
-    "newest_story": "2026-05-19T19:23:18Z",
+    "generated_at": "2026-05-19T21:03:31.008Z",
+    "story_count": 95,
+    "oldest_story": "2026-05-18T21:07:58Z",
+    "newest_story": "2026-05-19T21:02:33Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "us-news/2026/may/18/new-york-times-pentagon-press-restrictions-lawsuit",
-      "headline": "New York Times sues Pentagon again over ‘utterly unreasonable’ press restrictions",
-      "summary": "New York Times sues Pentagon over unconstitutional press restrictions requiring journalist escorts.",
-      "url": "https://www.theguardian.com/p/x549zn",
-      "thumbnail": "https://media.guim.co.uk/e836b3c9d9a0ed03c33364b86e05b0fe9c173305/342_0_3423_2739/500.jpg",
-      "published": "2026-05-18T20:22:52Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/may/18/trump-administration-epa-pfas-water",
-      "headline": "Trump officials plan to repeal limits on ‘forever chemicals’ in drinking water",
-      "summary": "Trump EPA plans to repeal Biden-era drinking water limits on PFAS forever chemicals.",
-      "url": "https://www.theguardian.com/p/x54a2m",
-      "thumbnail": "https://media.guim.co.uk/d99cf8597347c3ab85ffd4e6d88db282aca50d8a/310_0_2695_2156/500.jpg",
-      "published": "2026-05-18T20:19:34Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "uk-news/2026/may/18/jewish-man-in-hospital-after-attack-by-group-of-men-in-golders-green",
-      "headline": "Jewish man in hospital after attack by group of men in Golders Green ",
-      "summary": "Jewish man attacked by group of men in Golders Green, north London assault.",
-      "url": "https://www.theguardian.com/p/x549q7",
-      "thumbnail": "https://media.guim.co.uk/c9571475a74d58e7280c46440c3f0bc5377a1d43/244_0_4100_3280/500.jpg",
-      "published": "2026-05-18T20:05:52Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "conflict",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "us-news/2026/may/18/ice-officer-charged-minnesota-shooting",
-      "headline": "ICE officer charged over shooting of Venezuelan man in Minnesota",
-      "summary": "ICE officer charged with assault for shooting Venezuelan man during immigration enforcement.",
-      "url": "https://www.theguardian.com/p/x549ym",
-      "thumbnail": "https://media.guim.co.uk/5e6593b4c336ecc6bb6cee1a04babbea00bf8ac3/250_0_2500_2000/500.jpg",
-      "published": "2026-05-18T20:03:08Z",
-      "location": {
-        "name": "Minnesota",
-        "lat": 45.6945,
-        "lng": -93.9196
-      },
-      "category": "conflict",
-      "significance": 2,
-      "section": "us-news"
-    },
     {
       "id": "australia-news/live/2026/may/19/australia-news-live-queensland-weather-rain-flash-flood-victoria-infrastructure-environment-climate-jim-chalmers-budget-cost-of-living-tax-housing-anthony-albanese-angus-taylor-ntwnfb",
       "headline": "Australia news live: flash flooding hits Queensland roads; $57bn of Victoria infrastructure threatened by climate hazards",
@@ -1494,6 +1430,102 @@
       "category": "sport",
       "significance": 2,
       "section": "us-news"
+    },
+    {
+      "id": "football/live/2026/may/19/arsenal-premier-league-champions-first-time-in-22-years-live-reaction",
+      "headline": "Arsenal crowned Premier League champions for first time in 22 years – live reaction",
+      "summary": "Arsenal win Premier League title for first time in 22 years after Manchester City draws.",
+      "url": "https://www.theguardian.com/p/x54e5p",
+      "thumbnail": "https://media.guim.co.uk/493fd40950171eb52e9e90e118c8beafa5e50807/120_0_4509_3607/500.jpg",
+      "published": "2026-05-19T21:02:33Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "australia-news/live/2026/may/20/federal-budget-tim-wilson-reply-national-press-club-coalition-liberal-national-angus-taylor-labor-anthony-albanese-jim-chalmers-ntwnfb",
+      "headline": "Australia news live: Peter Hollingworth dies aged 91; one dead and four injured in Sydney shooting",
+      "summary": "Former governor general Peter Hollingworth dies; shooting incident in Sydney leaves one dead.",
+      "url": "https://www.theguardian.com/p/x54fzm",
+      "thumbnail": "https://media.guim.co.uk/6930ea747341219ad0344a33f5c44a71470fa812/514_0_1723_1379/500.jpg",
+      "published": "2026-05-19T20:54:55Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "football/2026/may/19/kroupi-goal-hands-title-to-arsenal-as-bournemouth-hold-off-late-city-rally",
+      "headline": "Kroupi goal hands title to Arsenal as Bournemouth hold off late City rally",
+      "summary": "Kroupi's goal secures Arsenal Premier League title as Bournemouth holds Manchester City 1-1.",
+      "url": "https://www.theguardian.com/p/x54f3h",
+      "thumbnail": "https://media.guim.co.uk/b697904df0f040705ff61e079b089c3f7876fc51/373_0_2806_2246/500.jpg",
+      "published": "2026-05-19T20:37:24Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/may/19/simi-valley-california-wildfire-evacuation",
+      "headline": "Thousands under evacuation orders in southern California as wildfire threatens homes",
+      "summary": "Over 17,000 evacuated in southern California as Sandy wildfire threatens Simi Valley homes.",
+      "url": "https://www.theguardian.com/p/x54fkx",
+      "thumbnail": "https://media.guim.co.uk/b95c2a939233aca50848bf1b62a90d7954b6cc9f/350_0_3500_2800/500.jpg",
+      "published": "2026-05-19T20:27:57Z",
+      "location": {
+        "name": "Simi Valley",
+        "lat": 34.2694,
+        "lng": -118.7814
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/may/19/jd-vance-uk-anti-immigration-rally-comments",
+      "headline": "JD Vance urges UK anti-immigration activists to ‘keep on going’",
+      "summary": "US Vice President JD Vance backs UK anti-immigration activists at Tommy Robinson rally.",
+      "url": "https://www.theguardian.com/p/x54fmt",
+      "thumbnail": "https://media.guim.co.uk/aeef7f2a2c35ef2bbe5d4f863fc6a6b7d98f26e5/465_0_7020_5617/500.jpg",
+      "published": "2026-05-19T20:27:47Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/may/19/arsenal-premier-league-champions-manchester-city-bournemouth",
+      "headline": "Arsenal crowned Premier League champions after Manchester City draw",
+      "summary": "Arsenal crowned Premier League champions, first title since 2004 Invincibles season.",
+      "url": "https://www.theguardian.com/p/x54e2k",
+      "thumbnail": "https://media.guim.co.uk/3b42580a72de9c6d128619e936abbb767f549304/0_114_5560_4448/500.jpg",
+      "published": "2026-05-19T20:24:44Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
     }
   ]
 }
