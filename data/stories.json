@@ -1,28 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-18T23:10:58.543Z",
-    "story_count": 83,
-    "oldest_story": "2026-05-17T23:14:08Z",
-    "newest_story": "2026-05-18T23:01:01Z",
+    "generated_at": "2026-05-19T00:18:54.310Z",
+    "story_count": 85,
+    "oldest_story": "2026-05-18T05:00:01Z",
+    "newest_story": "2026-05-18T23:47:50Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "sport/2026/may/18/aaron-rai-us-pga-championship-title-win-jon-rahm-rory-mcilroy",
-      "headline": "Aaron Rai becomes first English golfer to win US PGA Championship since 1919",
-      "summary": "Aaron Rai wins US PGA Championship, first English golfer to triumph since 1919.",
-      "url": "https://www.theguardian.com/p/x539fp",
-      "thumbnail": "https://media.guim.co.uk/5b4e77677ebec542e25bafc102f11af007146c17/629_0_3897_3118/500.jpg",
-      "published": "2026-05-17T23:14:08Z",
-      "location": {
-        "name": "Philadelphia",
-        "lat": 39.9526,
-        "lng": -75.1652
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "sport"
-    },
     {
       "id": "travel/2026/may/18/montenegro-hotel-designed-for-fitness-and-wellbeing",
       "headline": "After three days here I felt like an Olympic athlete: the Montenegro hotel designed for fitness and wellbeing",
@@ -1334,6 +1318,54 @@
       "category": "health",
       "significance": 2,
       "section": "us-news"
+    },
+    {
+      "id": "world/2026/may/19/japan-naphtha-shortage-explainer-iran-crisis",
+      "headline": "‘Remain calm’: Japan is gripped by fears of a naphtha shortage. What is it and why are people worried?",
+      "summary": "Japan faces naphtha shortage fears due to Middle East blockade, threatening economic stability and inflation.",
+      "url": "https://www.theguardian.com/p/x54684",
+      "thumbnail": "https://media.guim.co.uk/95355d6e51169e5e66e9f9d4d1c6238c279a4d09/119_0_4388_3510/500.jpg",
+      "published": "2026-05-18T23:47:50Z",
+      "location": {
+        "name": "Japan",
+        "lat": 36.2048,
+        "lng": 138.2529
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "us-news/2026/may/18/california-national-park-fire-santa-rosa-island",
+      "headline": "California island fire linked to sailor’s distress flare scorches 10,000 acres",
+      "summary": "Wildfire on California's Santa Rosa Island becomes state's largest this year, burning over 10,000 acres.",
+      "url": "https://www.theguardian.com/p/x54anf",
+      "thumbnail": "https://media.guim.co.uk/2476d8aaacfc2ea615f594b0f5de34d4e5be3e51/0_125_874_699/500.jpg",
+      "published": "2026-05-18T23:45:09Z",
+      "location": {
+        "name": "Santa Rosa Island",
+        "lat": 34.0317,
+        "lng": -120.1625
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "technology/2026/may/18/altman-trial-victory-musk-openai",
+      "headline": "How Sam Altman’s victory over Elon Musk clears way for OpenAI’s trillion-dollar ambitions",
+      "summary": "Jury rules in favor of Sam Altman and OpenAI in trial against Elon Musk over unjust enrichment claims.",
+      "url": "https://www.theguardian.com/p/x54avq",
+      "thumbnail": "https://media.guim.co.uk/753fb9c96e9d1ed755f9f42ba5c2e409e546b582/0_0_5000_4000/500.jpg",
+      "published": "2026-05-18T23:36:31Z",
+      "location": {
+        "name": "Oakland",
+        "lat": 37.8044,
+        "lng": -122.2712
+      },
+      "category": "tech",
+      "significance": 3,
+      "section": "technology"
     }
   ]
 }
