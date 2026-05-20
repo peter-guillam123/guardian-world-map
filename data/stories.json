@@ -1,108 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-20T18:30:49.465Z",
-    "story_count": 91,
-    "oldest_story": "2026-05-19T18:31:00Z",
-    "newest_story": "2026-05-20T18:30:35Z",
+    "generated_at": "2026-05-20T20:37:51.255Z",
+    "story_count": 86,
+    "oldest_story": "2026-05-19T20:54:55Z",
+    "newest_story": "2026-05-20T20:29:11Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/live/2026/may/19/chelsea-v-tottenham-premier-league-live-west-ham",
-      "headline": "Chelsea v Tottenham: Premier League – live",
-      "summary": "Chelsea face Tottenham in Premier League match with West Ham's survival at stake.",
-      "url": "https://www.theguardian.com/p/x547gv",
-      "thumbnail": "https://media.guim.co.uk/b6642537a87d999c3cdd024ab248a24f102adc4b/1601_573_1819_1455/500.jpg",
-      "published": "2026-05-19T19:23:18Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "film/2026/may/19/bitter-christmas-review-almodovar-cannes-film-festival",
-      "headline": "Bitter Christmas review – grief, loss and artistic betrayal in Almodóvar’s film within a film ",
-      "summary": "Almodóvar's 'Bitter Christmas' explores grief and artistic betrayal at Cannes Film Festival.",
-      "url": "https://www.theguardian.com/p/x52tdc",
-      "thumbnail": "https://media.guim.co.uk/4c63de9c3ac390d7af7d7ce19f119843844340e1/1383_0_6538_5231/500.jpg",
-      "published": "2026-05-19T18:52:11Z",
-      "location": {
-        "name": "Cannes",
-        "lat": 43.559,
-        "lng": 7.0236
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "film"
-    },
-    {
-      "id": "world/2026/may/19/trump-iran-analysis",
-      "headline": "Trump turns to Middle East allies as deal to end Iran war proves elusive",
-      "summary": "Trump seeks Middle East deal to end Iran war as negotiations remain elusive.",
-      "url": "https://www.theguardian.com/p/x54eth",
-      "thumbnail": "https://media.guim.co.uk/79525245999e89f55d349deb287b27f4a2bfa79d/680_293_4833_3867/500.jpg",
-      "published": "2026-05-19T18:45:25Z",
-      "location": {
-        "name": "Tehran",
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "politics/2026/may/19/nigel-farage-reform-uk-disappearance-politics",
-      "headline": "Has anybody seen Nigel? Speculation swirls as Farage performs disappearing act",
-      "summary": "Nigel Farage absent from campaign as Reform UK eyes key Makerfield byelection.",
-      "url": "https://www.theguardian.com/p/x54dpd",
-      "thumbnail": "https://media.guim.co.uk/3016d00918087228aa3505068d2edd6b6764fe70/458_0_4583_3668/500.jpg",
-      "published": "2026-05-19T18:45:12Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "media/2026/may/19/alleged-rapes-married-at-first-sight-uk-must-be-investigated-dcms-channel-4",
-      "headline": "Married at First Sight contestants urged to contact police over rape allegations",
-      "summary": "Police urge Married at First Sight UK contestants to report rape and assault allegations.",
-      "url": "https://www.theguardian.com/p/x54cdb",
-      "thumbnail": "https://media.guim.co.uk/e27bfb7333ecd33f6f9b83e203aa43c97258eb86/324_0_3248_2598/500.jpg",
-      "published": "2026-05-19T18:44:59Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "media"
-    },
-    {
-      "id": "us-news/2026/may/19/cracked-part-flagged-ups-plane-crash-kentucky",
-      "headline": "Cracked part had been flagged ahead of Kentucky plane crash that killed 15 people",
-      "summary": "Cracked wing mount flagged before UPS plane crash in Kentucky that killed 15 people.",
-      "url": "https://www.theguardian.com/p/x54f6n",
-      "thumbnail": "https://media.guim.co.uk/d3f5ba198c9dc9b53d4b5a8ece87462f0432d702/211_0_5001_4000/500.jpg",
-      "published": "2026-05-19T18:31:00Z",
-      "location": {
-        "name": "Louisville",
-        "lat": 38.2527,
-        "lng": -85.7585
-      },
-      "category": "health",
-      "significance": 3,
-      "section": "us-news"
-    },
     {
       "id": "football/live/2026/may/19/arsenal-premier-league-champions-first-time-in-22-years-live-reaction",
       "headline": "Arsenal crowned Premier League champions for first time in 22 years – live reaction",
@@ -134,70 +38,6 @@
       "category": "politics",
       "significance": 2,
       "section": "australia-news"
-    },
-    {
-      "id": "football/2026/may/19/kroupi-goal-hands-title-to-arsenal-as-bournemouth-hold-off-late-city-rally",
-      "headline": "Kroupi goal hands title to Arsenal as Bournemouth hold off late City rally",
-      "summary": "Kroupi's goal secures Arsenal Premier League title as Bournemouth holds Manchester City 1-1.",
-      "url": "https://www.theguardian.com/p/x54f3h",
-      "thumbnail": "https://media.guim.co.uk/b697904df0f040705ff61e079b089c3f7876fc51/373_0_2806_2246/500.jpg",
-      "published": "2026-05-19T20:37:24Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "us-news/2026/may/19/simi-valley-california-wildfire-evacuation",
-      "headline": "Thousands under evacuation orders in southern California as wildfire threatens homes",
-      "summary": "Over 17,000 evacuated in southern California as Sandy wildfire threatens Simi Valley homes.",
-      "url": "https://www.theguardian.com/p/x54fkx",
-      "thumbnail": "https://media.guim.co.uk/b95c2a939233aca50848bf1b62a90d7954b6cc9f/350_0_3500_2800/500.jpg",
-      "published": "2026-05-19T20:27:57Z",
-      "location": {
-        "name": "Simi Valley",
-        "lat": 34.2694,
-        "lng": -118.7814
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/may/19/jd-vance-uk-anti-immigration-rally-comments",
-      "headline": "JD Vance urges UK anti-immigration activists to ‘keep on going’",
-      "summary": "US Vice President JD Vance backs UK anti-immigration activists at Tommy Robinson rally.",
-      "url": "https://www.theguardian.com/p/x54fmt",
-      "thumbnail": "https://media.guim.co.uk/aeef7f2a2c35ef2bbe5d4f863fc6a6b7d98f26e5/465_0_7020_5617/500.jpg",
-      "published": "2026-05-19T20:27:47Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "football/2026/may/19/arsenal-premier-league-champions-manchester-city-bournemouth",
-      "headline": "Arsenal crowned Premier League champions after Manchester City draw",
-      "summary": "Arsenal crowned Premier League champions, first title since 2004 Invincibles season.",
-      "url": "https://www.theguardian.com/p/x54e2k",
-      "thumbnail": "https://media.guim.co.uk/3b42580a72de9c6d128619e936abbb767f549304/0_114_5560_4448/500.jpg",
-      "published": "2026-05-19T20:24:44Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
     },
     {
       "id": "us-news/2026/may/19/senate-war-powers-resolution-trump",
@@ -1462,6 +1302,86 @@
       "category": "tech",
       "significance": 2,
       "section": "media"
+    },
+    {
+      "id": "australia-news/2026/may/21/man-charged-with-stealing-camera-equipment-from-bondi-shooting-victim-in-aftermath-of-terror-attack-ntwnfb",
+      "headline": "Man charged with stealing camera equipment from Bondi shooting victim in aftermath of terror attack",
+      "summary": "Man charged with stealing camera equipment from Bondi shooting terror attack victim.",
+      "url": "https://www.theguardian.com/p/x54yte",
+      "thumbnail": "https://media.guim.co.uk/07c278d4a1a6be3b3ae18615247b5ff7c72c60f4/1141_0_6880_5504/500.jpg",
+      "published": "2026-05-20T20:29:11Z",
+      "location": {
+        "name": "Bondi Beach, Sydney",
+        "lat": -33.8912,
+        "lng": 151.2753
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "australia-news"
+    },
+    {
+      "id": "world/2026/may/20/bolivia-protests-coup-paz-pereira",
+      "headline": "Bolivia rocked by protests as US warns of ‘coup d’état’",
+      "summary": "Bolivia rocked by second week of protests as US warns of potential coup d'état.",
+      "url": "https://www.theguardian.com/p/x54kep",
+      "thumbnail": "https://media.guim.co.uk/93b903de5e560b1248bb63863effa0c14c5289e0/150_0_1502_1201/500.jpg",
+      "published": "2026-05-20T20:28:28Z",
+      "location": {
+        "name": "La Paz",
+        "lat": -16.5898,
+        "lng": -68.1506
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "uk-news/2026/may/20/murder-inquiry-fatal-assault-london-bus-driver",
+      "headline": "Murder inquiry launched after fatal assault on London bus driver",
+      "summary": "Murder inquiry launched after bus driver fatally assaulted near Battersea Bridge.",
+      "url": "https://www.theguardian.com/p/x54yg3",
+      "thumbnail": "https://media.guim.co.uk/cb9a781cc989c3436236357b067dbe05dc9068d3/0_314_704_563/500.jpg",
+      "published": "2026-05-20T20:16:37Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "us-news/2026/may/20/trump-administration-climate-pollution-lawsuit",
+      "headline": "Young Americans demand court halt Trump’s biggest rollbacks of pollution protections",
+      "summary": "Young Americans sue Trump administration to halt rollback of pollution protection rules.",
+      "url": "https://www.theguardian.com/p/x53jmj",
+      "thumbnail": "https://media.guim.co.uk/95bc2258ac2ca6b318a5c62b762db860a3e502fe/1463_1035_3350_2680/500.jpg",
+      "published": "2026-05-20T20:04:02Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "climate",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/may/20/new-york-laguardia-airport-sinkhole",
+      "headline": "Sinkhole shuts down runway at New York LaGuardia airport",
+      "summary": "Sinkhole discovered at LaGuardia airport shuts down runway; repairs underway.",
+      "url": "https://www.theguardian.com/p/x54yaa",
+      "thumbnail": "https://media.guim.co.uk/7eede822564020ad1b70282173ee29b8c9352cdc/418_0_4164_3333/500.jpg",
+      "published": "2026-05-20T19:31:45Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7769,
+        "lng": -73.874
+      },
+      "category": "other",
+      "significance": 2,
+      "section": "us-news"
     }
   ]
 }
