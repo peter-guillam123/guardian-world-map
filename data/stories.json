@@ -1,172 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-20T22:16:37.239Z",
-    "story_count": 85,
-    "oldest_story": "2026-05-19T22:22:33Z",
-    "newest_story": "2026-05-20T22:06:27Z",
+    "generated_at": "2026-05-20T23:44:06.381Z",
+    "story_count": 78,
+    "oldest_story": "2026-05-20T00:44:34Z",
+    "newest_story": "2026-05-20T23:01:54Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "us-news/2026/may/19/senate-war-powers-resolution-trump",
-      "headline": "US Senate votes to advance resolution to curb Trump’s Iran war powers",
-      "summary": "US Senate advances war powers resolution to curb Trump's Iran war authority without congressional approval.",
-      "url": "https://www.theguardian.com/p/x54gb5",
-      "thumbnail": "https://media.guim.co.uk/d9bb50eb8fb95ce736426122dfae04afac8cc255/445_0_4445_3556/500.jpg",
-      "published": "2026-05-19T22:22:33Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/may/19/los-angeles-altadena-fire-discrimination",
-      "headline": "Firm finds LA county officials did not discriminate in response to Eaton fire",
-      "summary": "LA County fire officials cleared of discrimination claims in Eaton fire response to Altadena.",
-      "url": "https://www.theguardian.com/p/x54gbf",
-      "thumbnail": "https://media.guim.co.uk/eac6fa388829e9ad930ee2479eb5d9ce4aa813d6/734_0_7204_5766/500.jpg",
-      "published": "2026-05-19T23:11:33Z",
-      "location": {
-        "name": "Altadena",
-        "lat": 34.2308,
-        "lng": -118.1585
-      },
-      "category": "conflict",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "football/2026/may/20/de-zerbi-tells-spurs-to-play-for-their-dignity-in-final-day-relegation-battle",
-      "headline": "De Zerbi tells Spurs to play for their ‘dignity’ in final-day relegation battle",
-      "summary": "Tottenham face final-day relegation battle against Everton after Chelsea defeat.",
-      "url": "https://www.theguardian.com/p/x54gd3",
-      "thumbnail": "https://media.guim.co.uk/d4f02dc968fd2057dfa176a12e01fb940574f240/210_0_2028_1622/500.jpg",
-      "published": "2026-05-19T23:04:49Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "environment/2026/may/20/uk-built-for-climate-that-no-longer-exists-and-needs-urgent-changes-to-survive-global-heating-report-warns",
-      "headline": "UK ‘built for climate that no longer exists’ and needs urgent changes to survive global heating, report warns",
-      "summary": "UK climate report warns nation needs air conditioning and urgent adaptation for 40C temperatures by 2050.",
-      "url": "https://www.theguardian.com/p/x54dkg",
-      "thumbnail": "https://media.guim.co.uk/c2b5f53096aed408054519c1eb227f737f8ff2b4/1119_0_5840_4672/500.jpg",
-      "published": "2026-05-19T23:01:17Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "climate",
-      "significance": 3,
-      "section": "environment"
-    },
-    {
-      "id": "environment/2026/may/20/humpback-whale-journey-15000km-brazil-hervey-bay-australia",
-      "headline": "Twenty-two years and 15,000km later: fluke discovery sets new record for humpback whale journey",
-      "summary": "Humpback whale sets record with 15,000km journey from Brazil to Australia over 22 years.",
-      "url": "https://www.theguardian.com/p/x54c37",
-      "thumbnail": "https://media.guim.co.uk/656c221d194b3f6f3f1317e2fc041a4dabd635d6/100_0_2237_1790/500.jpg",
-      "published": "2026-05-19T23:01:17Z",
-      "location": {
-        "name": "Hervey Bay",
-        "lat": -25.2844,
-        "lng": 152.9678
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "environment"
-    },
-    {
-      "id": "artanddesign/2026/may/20/winston-churchill-painter-review-wallace-collection-london-wartime",
-      "headline": "Winston Churchill: The Painter review – We will daub them on the beaches",
-      "summary": "Wallace Collection exhibits Winston Churchill's amateur paintings created during wartime stress relief.",
-      "url": "https://www.theguardian.com/p/x54d74",
-      "thumbnail": "https://media.guim.co.uk/35bda8fee7fcbd9fc5c7329defdfa4fa3948db45/0_41_2460_1968/500.jpg",
-      "published": "2026-05-19T23:01:16Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "artanddesign"
-    },
-    {
-      "id": "science/2026/may/20/britain-must-think-like-a-hot-country-otherwise-inequalities-will-only-grow",
-      "headline": "Britain must think like a hot country – otherwise inequalities will only grow",
-      "summary": "UK must adopt hot country climate policies to prevent rising heat-related social inequality.",
-      "url": "https://www.theguardian.com/p/x54ezm",
-      "thumbnail": "https://media.guim.co.uk/62a3090a0ccfdf311332dd5314f7fee363349910/431_0_5000_4000/500.jpg",
-      "published": "2026-05-19T23:01:16Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "climate",
-      "significance": 3,
-      "section": "science"
-    },
-    {
-      "id": "business/2026/may/20/spending-watchdog-warns-38bn-cost-of-sizewell-c-nuclear-plant-is-risky",
-      "headline": "Spending watchdog warns £38bn cost of Sizewell C nuclear plant is ‘risky’",
-      "summary": "National Audit Office warns £38bn Sizewell C nuclear plant cost 'risky' with uncertain benefits until 2064.",
-      "url": "https://www.theguardian.com/p/x54dn3",
-      "thumbnail": "https://media.guim.co.uk/686e0008cd45b07a22346d954f298ad290797b58/279_0_5000_4000/500.jpg",
-      "published": "2026-05-19T23:01:16Z",
-      "location": {
-        "name": "Sizewell",
-        "lat": 52.2215,
-        "lng": 1.6205
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "football/2026/may/19/weve-done-it-euphoria-as-arsenal-clinch-first-league-title-in-a-generation",
-      "headline": "‘We’ve done it’: euphoria as Arsenal win first Premier League in a generation",
-      "summary": "Arsenal win first Premier League title in 22 years, ending long championship drought.",
-      "url": "https://www.theguardian.com/p/x54gc7",
-      "thumbnail": "https://media.guim.co.uk/0d9438013db32379ad44b7b601dd8fcec9a1ffcc/853_62_4622_3698/500.jpg",
-      "published": "2026-05-19T22:53:01Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/may/19/pep-guardiola-exit-manchester-city-arsenal-bournemouth",
-      "headline": "Pep Guardiola refuses to confirm expected departure from Manchester City",
-      "summary": "Pep Guardiola refuses to confirm expected departure from Manchester City after 10-year reign.",
-      "url": "https://www.theguardian.com/p/x54gbj",
-      "thumbnail": "https://media.guim.co.uk/cbe064b136d831ed971a45c3f229923efee7a931/438_0_4835_3868/500.jpg",
-      "published": "2026-05-19T22:35:20Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4808,
-        "lng": -2.2426
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
     {
       "id": "us-news/2026/may/19/kentucky-republican-primary-trump-massie",
       "headline": "Trump critic Thomas Massie defeated in Kentucky Republican House primary",
@@ -1366,6 +1206,54 @@
       "category": "sport",
       "significance": 2,
       "section": "sport"
+    },
+    {
+      "id": "business/2026/may/21/manchester-centre-for-cities-deprivation-andy-burnham",
+      "headline": "Manchester shows biggest fall in inner-city deprivation in boost for Burnham",
+      "summary": "Manchester records biggest fall in inner-city deprivation in Britain between 2010-2025.",
+      "url": "https://www.theguardian.com/p/x54kgv",
+      "thumbnail": "https://media.guim.co.uk/0033c0922f7be423d54155af1ebc795c606f94d7/1048_0_7200_5760/500.jpg",
+      "published": "2026-05-20T23:01:54Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "football/2026/may/20/we-are-not-going-to-stop-unai-emery-aston-villa-europa-champions-league",
+      "headline": "‘We are not going to stop’: Emery urges Aston Villa to set sights on Europe’s elite",
+      "summary": "Aston Villa wins Europa League title under Unai Emery, vows to reach Champions League elite.",
+      "url": "https://www.theguardian.com/p/x54mvk",
+      "thumbnail": "https://media.guim.co.uk/4265406564954612e9ba3b3599f28254a5ccf892/344_0_3585_2868/500.jpg",
+      "published": "2026-05-20T22:58:08Z",
+      "location": {
+        "name": "Birmingham",
+        "lat": 52.5086,
+        "lng": -1.8845
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "world/2026/may/20/cuba-raul-castro-indictment",
+      "headline": "US indicts former Cuban president Raúl Castro as it seeks to oust regime",
+      "summary": "US indicts 94-year-old former Cuban president Raúl Castro for shooting down exile planes in 1996.",
+      "url": "https://www.theguardian.com/p/x54k8e",
+      "thumbnail": "https://media.guim.co.uk/9760f9dade46512972889809a66ebc356af9c30c/250_0_2501_2000/500.jpg",
+      "published": "2026-05-20T22:40:24Z",
+      "location": {
+        "name": "Miami",
+        "lat": 25.7617,
+        "lng": -80.1918
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
     }
   ]
 }
