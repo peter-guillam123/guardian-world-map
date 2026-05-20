@@ -1,124 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-20T01:51:11.730Z",
-    "story_count": 96,
-    "oldest_story": "2026-05-19T04:00:00Z",
-    "newest_story": "2026-05-20T01:37:25Z",
+    "generated_at": "2026-05-20T06:02:40.812Z",
+    "story_count": 100,
+    "oldest_story": "2026-05-19T07:07:42Z",
+    "newest_story": "2026-05-20T06:00:28Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "australia-news/2026/may/19/private-health-insurance-rebates-older-australians-labor-budget",
-      "headline": "Plan to reduce private health rebates for older Australians to have ‘almost no impact’ on hospital system, expert says",
-      "summary": "Labor reduces private health rebates for seniors, adding $250 yearly cost for 3M older Australians.",
-      "url": "https://www.theguardian.com/p/x54bca",
-      "thumbnail": "https://media.guim.co.uk/17290b5eb5dd29aa8aceb65b8936c7af864ad353/952_0_5073_4060/500.jpg",
-      "published": "2026-05-19T04:32:07Z",
-      "location": {
-        "name": "Australia",
-        "lat": -25.2744,
-        "lng": 133.7751
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "environment/2026/may/19/country-diary-a-truly-sunny-spring-for-buttercups-and-dandelions",
-      "headline": "Country diary: A truly golden spring for buttercups and dandelions",
-      "summary": "Spring brings abundance of buttercups and dandelions to Derbyshire countryside.",
-      "url": "https://www.theguardian.com/p/x53748",
-      "thumbnail": "https://media.guim.co.uk/a642d57bd7e2b3de5fc32f63db9f0f30ae4a8810/356_0_3549_2841/500.jpg",
-      "published": "2026-05-19T04:30:00Z",
-      "location": {
-        "name": "Snitterton",
-        "lat": 53.1611,
-        "lng": -1.6878
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "environment"
-    },
-    {
-      "id": "australia-news/2026/may/19/nsw-police-avoid-mental-health-incidents-intervention",
-      "headline": "NSW police to avoid mental health incidents under UK model after spate of fatal shootings",
-      "summary": "NSW police adopt UK model to avoid mental health crises, diverting from armed response.",
-      "url": "https://www.theguardian.com/p/x54b3e",
-      "thumbnail": "https://media.guim.co.uk/a6c98f42b3e7129f92821ea68bed0d9cca792a4a/613_0_4869_3897/500.jpg",
-      "published": "2026-05-19T04:14:49Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "world/2026/may/19/libya-militia-commander-refugees-international-criminal-court",
-      "headline": "‘Huge milestone’ as Libyan militia commander accused of torture to appear at ICC",
-      "summary": "Libyan militia commander appears at ICC for torture and enslavement of refugees.",
-      "url": "https://www.theguardian.com/p/x53dbk",
-      "thumbnail": "https://media.guim.co.uk/a5f3ce2be2d4d44dbc19c79ce98d8171a1b445b9/260_323_3075_2461/500.jpg",
-      "published": "2026-05-19T04:00:02Z",
-      "location": {
-        "name": "The Hague",
-        "lat": 52.0705,
-        "lng": 4.3007
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "lifeandstyle/2026/may/19/should-you-be-able-to-take-your-dog-everywhere",
-      "headline": "‘She compared her dachshund to my newborn baby’: should you be able to take your dog everywhere?",
-      "summary": "Debate over allowing dogs in restaurants, offices, and public spaces grows in UK.",
-      "url": "https://www.theguardian.com/p/x53j7f",
-      "thumbnail": "https://media.guim.co.uk/3136660981b49e64a1caf140186930fb16656ac1/0_599_3116_2492/500.jpg",
-      "published": "2026-05-19T04:00:01Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "lifeandstyle"
-    },
-    {
-      "id": "uk-news/2026/may/19/israel-survivor-appeal-7-october-nova-exhibition-london",
-      "headline": "‘Come in for one minute’: Israeli survivor’s appeal to doubters as 7 October exhibition opens in London",
-      "summary": "Nova music festival 7 October exhibition opens in London with heavy security.",
-      "url": "https://www.theguardian.com/p/x548ge",
-      "thumbnail": "https://media.guim.co.uk/6011368c1b3fd78b948ecb6b15315076b0cb7d8e/729_0_6832_5464/500.jpg",
-      "published": "2026-05-19T04:00:01Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "uk-news/2026/may/19/belfast-harbour-invest-ni-economy-port-ferry-cruise-ship",
-      "headline": "Belfast harbour operator to invest £1.3bn as NI economy grows",
-      "summary": "Belfast harbour operator plans £1.3bn investment over 25 years for expansion.",
-      "url": "https://www.theguardian.com/p/x53jtp",
-      "thumbnail": "https://media.guim.co.uk/e62a91f917175035046c911911be26635a1e1b62/211_0_3698_2962/500.jpg",
-      "published": "2026-05-19T04:00:00Z",
-      "location": {
-        "name": "Belfast",
-        "lat": 54.6074,
-        "lng": -5.9307
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "uk-news"
-    },
     {
       "id": "politics/live/2026/may/19/labour-leadership-keir-starmer-andy-burnham-iran-hs2-energy-latest-news-updates",
       "headline": "Labour likely to win next election with Burnham as leader, say party members – UK politics live",
@@ -1542,6 +1430,182 @@
       "category": "conflict",
       "significance": 3,
       "section": "world"
+    },
+    {
+      "id": "society/2026/may/20/children-mental-health-crisis-three-days-ae-specialist-bed-england",
+      "headline": "Children in mental health crisis waiting up to three days in A&E for specialist bed in England",
+      "summary": "Children in mental health crisis wait up to three days in A&E for specialist beds in England.",
+      "url": "https://www.theguardian.com/p/x54fcg",
+      "thumbnail": "https://media.guim.co.uk/32f431414f79e2d15c3e56062a371b138da274ee/282_0_3624_2901/500.jpg",
+      "published": "2026-05-20T06:00:28Z",
+      "location": {
+        "name": "England",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 3,
+      "section": "society"
+    },
+    {
+      "id": "technology/2026/may/20/ai-engineer-says-google-unfairly-sacked-him-after-he-protested-against-work-for-israel",
+      "headline": "AI engineer says Google unfairly sacked him after he protested against work for Israel",
+      "summary": "Google AI engineer claims unfair dismissal after protesting work for Israeli government.",
+      "url": "https://www.theguardian.com/p/x54efc",
+      "thumbnail": "https://media.guim.co.uk/f80f7c0faa77addae41acd9052268a4cf4515372/964_0_4822_3859/500.jpg",
+      "published": "2026-05-20T06:00:26Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "tech",
+      "significance": 2,
+      "section": "technology"
+    },
+    {
+      "id": "travel/2026/may/20/train-jorney-yorkshire-dales-explorer-yorkshire-three-peaks",
+      "headline": "‘A landscape raw and wild’: by train to the heart of the Yorkshire Three Peaks",
+      "summary": "Yorkshire Dales Explorer train journey offers scenic walking route alternative to Settle-Carlisle line.",
+      "url": "https://www.theguardian.com/p/x5xzxg",
+      "thumbnail": "https://media.guim.co.uk/cd4aa4c5d4c93b8b259bcfde7845e259f02e70a6/114_0_3780_3024/500.jpg",
+      "published": "2026-05-20T06:00:25Z",
+      "location": {
+        "name": "Yorkshire Dales",
+        "lat": 54.1913,
+        "lng": -2.2391
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "travel"
+    },
+    {
+      "id": "world/2026/may/20/donald-trump-gaza-reconstruction-promises-stall",
+      "headline": "‘The door to the future of Gaza is still closed’: Trump’s reconstruction promises stall",
+      "summary": "Gaza reconstruction stalls as diplomatic impasse leaves pledged funds uncommitted post-ceasefire.",
+      "url": "https://www.theguardian.com/p/x54d5y",
+      "thumbnail": "https://media.guim.co.uk/f7ee4dc70b08b42b285fe142c06f948b0220a534/3_111_3620_2897/500.jpg",
+      "published": "2026-05-20T06:00:24Z",
+      "location": {
+        "name": "Gaza",
+        "lat": 31.9454,
+        "lng": 35.3382
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "environment/2026/may/20/youngest-australian-to-climb-mount-everest-teenager-18-bianca-adler-melbourne",
+      "headline": "Melbourne teenager Bianca Adler becomes youngest Australian to climb Mount Everest ",
+      "summary": "18-year-old Bianca Adler becomes youngest Australian to summit Mount Everest.",
+      "url": "https://www.theguardian.com/p/x54hhy",
+      "thumbnail": "https://media.guim.co.uk/8fb080d210c5d2ab61b524a892ad5aa05a6db4fc/124_0_2751_2201/500.jpg",
+      "published": "2026-05-20T05:50:20Z",
+      "location": {
+        "name": "Melbourne",
+        "lat": -37.8136,
+        "lng": 144.9631
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "environment"
+    },
+    {
+      "id": "world/2026/may/19/wednesday-briefing-why-millions-of-britons-face-a-pension-cliff-edge",
+      "headline": "Wednesday briefing: Why millions of Britons face a pension cliff edge",
+      "summary": "Report warns 15 million Britons face pension cliff edge due to inadequate retirement savings.",
+      "url": "https://www.theguardian.com/p/x54czx",
+      "thumbnail": "https://media.guim.co.uk/e3016bc1b65fc8ea62de979bfbf539777db3f2df/468_0_4256_3407/500.jpg",
+      "published": "2026-05-20T05:48:28Z",
+      "location": {
+        "name": "United Kingdom",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "sport/2026/may/20/football-australia-finances-restructure-redundancies-mixed-signals",
+      "headline": "An SOS or a timely reset? Football Australia sends mixed signals over latest financial woes",
+      "summary": "Football Australia faces more redundancies amid unclear financial restructuring amid mixed signals.",
+      "url": "https://www.theguardian.com/p/x54ha2",
+      "thumbnail": "https://media.guim.co.uk/703780c23788a06a6d94279b27234b528182e7d7/810_155_2389_1910/500.jpg",
+      "published": "2026-05-20T05:22:59Z",
+      "location": {
+        "name": "Australia",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "sport/2026/may/20/afl-scott-pendlebury-collingwood-legacy",
+      "headline": "From the Pocket: The unflappable Scott Pendlebury keeps it steady through the ages",
+      "summary": "Scott Pendlebury's longevity in AFL reflects exceptional temperament and consistency.",
+      "url": "https://www.theguardian.com/p/x545tz",
+      "thumbnail": "https://media.guim.co.uk/9f2ceebb4a466d60cd9ec5295eb2507e46bffe95/789_949_4047_3239/500.jpg",
+      "published": "2026-05-20T05:06:17Z",
+      "location": {
+        "name": "Australia",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "education/2026/may/20/attainment-at-all-costs-approach-send-changes-schools-england",
+      "headline": "‘Attainment at all costs’ approach could undermine Send changes, school leaders in England say",
+      "summary": "School leaders warn academic attainment policies could undermine special needs provision reforms.",
+      "url": "https://www.theguardian.com/p/x54f42",
+      "thumbnail": "https://media.guim.co.uk/a31771797040e21a3a2464dff3a3d9798a9d825a/159_0_2536_2029/500.jpg",
+      "published": "2026-05-20T05:00:24Z",
+      "location": {
+        "name": "England",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "education"
+    },
+    {
+      "id": "commentisfree/2026/may/20/global-power-britain-brexit",
+      "headline": "The balance of global power is shifting fast, but Britain is stuck in the same old Brexit rut",
+      "summary": "Britain remains trapped in Brexit debate while global power balance shifts toward China.",
+      "url": "https://www.theguardian.com/p/x54eax",
+      "thumbnail": "https://media.guim.co.uk/99fa352eca34991123495dd4847ba079cc5754db/169_0_3335_2668/500.jpg",
+      "published": "2026-05-20T05:00:23Z",
+      "location": {
+        "name": "United Kingdom",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "commentisfree"
+    },
+    {
+      "id": "food/2026/may/20/english-wine-win-gold-medals-international-wine-challenge",
+      "headline": "‘A world-class producer’: English wines toast record gold medal haul",
+      "summary": "English wines achieve record gold medals at International Wine Challenge with Kent leading.",
+      "url": "https://www.theguardian.com/p/x54e9f",
+      "thumbnail": "https://media.guim.co.uk/1a27a195bb3adf4dd31c26cb06c93d23e81ea773/299_902_3851_3081/500.jpg",
+      "published": "2026-05-20T05:00:23Z",
+      "location": {
+        "name": "Kent",
+        "lat": 51.3962,
+        "lng": 0.5581
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "food"
     }
   ]
 }
