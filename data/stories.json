@@ -1,44 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-19T23:44:47.253Z",
+    "generated_at": "2026-05-20T01:51:11.730Z",
     "story_count": 96,
-    "oldest_story": "2026-05-18T23:45:09Z",
-    "newest_story": "2026-05-19T23:11:33Z",
+    "oldest_story": "2026-05-19T04:00:00Z",
+    "newest_story": "2026-05-20T01:37:25Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "world/2026/may/19/japan-naphtha-shortage-explainer-iran-crisis",
-      "headline": "‘Remain calm’: Japan is gripped by fears of a naphtha shortage. What is it and why are people worried?",
-      "summary": "Japan faces naphtha shortage fears due to Middle East blockade, threatening economic stability and inflation.",
-      "url": "https://www.theguardian.com/p/x54684",
-      "thumbnail": "https://media.guim.co.uk/95355d6e51169e5e66e9f9d4d1c6238c279a4d09/119_0_4388_3510/500.jpg",
-      "published": "2026-05-18T23:47:50Z",
-      "location": {
-        "name": "Japan",
-        "lat": 36.2048,
-        "lng": 138.2529
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "us-news/2026/may/18/california-national-park-fire-santa-rosa-island",
-      "headline": "California island fire linked to sailor’s distress flare scorches 10,000 acres",
-      "summary": "Wildfire on California's Santa Rosa Island becomes state's largest this year, burning over 10,000 acres.",
-      "url": "https://www.theguardian.com/p/x54anf",
-      "thumbnail": "https://media.guim.co.uk/2476d8aaacfc2ea615f594b0f5de34d4e5be3e51/0_125_874_699/500.jpg",
-      "published": "2026-05-18T23:45:09Z",
-      "location": {
-        "name": "Santa Rosa Island",
-        "lat": 34.0317,
-        "lng": -120.1625
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "us-news"
-    },
     {
       "id": "australia-news/2026/may/19/private-health-insurance-rebates-older-australians-labor-budget",
       "headline": "Plan to reduce private health rebates for older Australians to have ‘almost no impact’ on hospital system, expert says",
@@ -1542,6 +1510,38 @@
       "category": "sport",
       "significance": 2,
       "section": "football"
+    },
+    {
+      "id": "us-news/2026/may/19/kentucky-republican-primary-trump-massie",
+      "headline": "Trump critic Thomas Massie defeated in Kentucky Republican House primary",
+      "summary": "Trump-backed Ed Gallrein defeats Republican congressman Thomas Massie in Kentucky House primary.",
+      "url": "https://www.theguardian.com/p/x53md7",
+      "thumbnail": "https://media.guim.co.uk/ec1d6d260c669b48098e84b25037608dc9ac5268/395_0_4018_3214/500.jpg",
+      "published": "2026-05-20T01:37:25Z",
+      "location": {
+        "name": "Kentucky",
+        "lat": 37.6681,
+        "lng": -84.6701
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "world/2026/may/20/ukraine-war-briefing-britain-to-buy-diesel-and-jet-fuel-made-from-russian-crude-oil",
+      "headline": "Ukraine war briefing: Britain to buy diesel and jet fuel made from Russian crude oil",
+      "summary": "Britain exempts Russian oil refined elsewhere; funeral held in Kyiv for bombing victims on day 1,547.",
+      "url": "https://www.theguardian.com/p/x54gfe",
+      "thumbnail": "https://media.guim.co.uk/ea7b18db96075422d7c142d590bf37929879e8d7/211_0_4578_3662/500.jpg",
+      "published": "2026-05-20T00:44:34Z",
+      "location": {
+        "name": "Kyiv",
+        "lat": 50.4501,
+        "lng": 30.5234
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "world"
     }
   ]
 }
