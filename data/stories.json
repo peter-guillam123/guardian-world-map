@@ -1,172 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-20T12:25:02.043Z",
-    "story_count": 106,
-    "oldest_story": "2026-05-19T13:08:18Z",
-    "newest_story": "2026-05-20T12:23:11Z",
+    "generated_at": "2026-05-20T16:07:02.390Z",
+    "story_count": 110,
+    "oldest_story": "2026-05-19T16:14:44Z",
+    "newest_story": "2026-05-20T16:00:36Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/2026/may/19/pep-guardiola-manchester-city-exit-premier-league-football",
-      "headline": "Guardiola’s relentless drive for perfection created dynasty at Manchester City",
-      "summary": "Pep Guardiola departs Manchester City after building a decade-long dynasty through tactical excellence.",
-      "url": "https://www.theguardian.com/p/x5xndv",
-      "thumbnail": "https://media.guim.co.uk/ff0815d6beb4c95651be966167409a1a7c56caf6/249_98_1085_868/500.jpg",
-      "published": "2026-05-19T14:00:06Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4808,
-        "lng": -2.2426
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "books/2026/may/19/sally-rooney-intermezzo-hebrew-tranlsation",
-      "headline": "Sally Rooney to publish Hebrew translation of novel with BDS-compliant publisher",
-      "summary": "Sally Rooney publishes Hebrew translation of Intermezzo through BDS-compliant publisher.",
-      "url": "https://www.theguardian.com/p/x549kd",
-      "thumbnail": "https://media.guim.co.uk/90e253e9f2bd194ad9f0db10e77d478144c87485/0_0_5868_4694/500.jpg",
-      "published": "2026-05-19T14:00:05Z",
-      "location": {
-        "name": "Dublin",
-        "lat": 53.3498,
-        "lng": -6.2603
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "books"
-    },
-    {
-      "id": "commentisfree/2026/may/19/republican-party-erase-black-representation-november-election",
-      "headline": "The Republican project isn’t to win in November. It’s to make November cease to matter",
-      "summary": "Republican electoral maps erase Black congressional representation ahead of November election.",
-      "url": "https://www.theguardian.com/p/x549zf",
-      "thumbnail": "https://media.guim.co.uk/9a7fc9cc54d597614d135479fe5fceb8b5cb6b62/458_0_4583_3667/500.jpg",
-      "published": "2026-05-19T14:00:05Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "commentisfree"
-    },
-    {
-      "id": "football/2026/may/19/uefa-champions-league-final-more-viewers-despite-no-free-to-air-coverage",
-      "headline": "Uefa expects more viewers for Champions League final despite no free-to-air coverage",
-      "summary": "UEFA expects higher UK viewership for Champions League final despite pay-per-view restrictions.",
-      "url": "https://www.theguardian.com/p/x54dpa",
-      "thumbnail": "https://media.guim.co.uk/3bc70a64d1236a7df1ee619c66854dacf52db478/370_0_6693_5355/500.jpg",
-      "published": "2026-05-19T14:00:04Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "politics/2026/may/19/stop-anonymous-briefings-respect-labour-cooper-reynolds",
-      "headline": "Stop the anonymous briefings and show respect, two ministers tell Labour MPs",
-      "summary": "Labour cabinet ministers warn against anonymous briefings ahead of probable leadership contest.",
-      "url": "https://www.theguardian.com/p/x54e5y",
-      "thumbnail": "https://media.guim.co.uk/6ae445c8b51a60c8ba55663b9094e9e081bad7b1/180_22_1298_1038/500.jpg",
-      "published": "2026-05-19T13:56:18Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "commentisfree/2026/may/19/when-i-look-zohran-mamdani-jealous-of-new-yorkers",
-      "headline": "When I look at what Zohran Mamdani is doing as mayor, I’m jealous of New Yorkers",
-      "summary": "Mayor Zohran Mamdani praised for effective governance on libraries, childcare, and infrastructure.",
-      "url": "https://www.theguardian.com/p/x54cyz",
-      "thumbnail": "https://media.guim.co.uk/62a9ddc39910e844a53d8a467704641c9bcbd6e8/479_0_3735_2988/500.jpg",
-      "published": "2026-05-19T13:46:44Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "commentisfree"
-    },
-    {
-      "id": "commentisfree/2026/may/19/ebola-drc-needs-worlds-attention-rare-strain-congo-dangerous",
-      "headline": "Ebola in the DRC needs the world’s attention now – if your neighbour’s house is on fire, you don’t wait and watch",
-      "summary": "WHO declares rare Ebola strain in DRC a public health emergency of international concern.",
-      "url": "https://www.theguardian.com/p/x54dxk",
-      "thumbnail": "https://media.guim.co.uk/e8808a1de26c4d958e14bc226f4efa46c931968d/0_264_3527_2822/500.jpg",
-      "published": "2026-05-19T13:30:04Z",
-      "location": {
-        "name": "Democratic Republic of the Congo",
-        "lat": -4.0383,
-        "lng": 21.7587
-      },
-      "category": "health",
-      "significance": 4,
-      "section": "commentisfree"
-    },
-    {
-      "id": "world/2026/may/19/vladimir-putin-beijing-china-state-visit-xi-jinping-russia",
-      "headline": "Vladimir Putin to arrive in Beijing for state visit hot on heels of Trump",
-      "summary": "Putin arrives in Beijing for state visit as Russia-China relations reach unprecedented level.",
-      "url": "https://www.theguardian.com/p/x54c94",
-      "thumbnail": "https://media.guim.co.uk/38d5f73a88bafd0a5c4d948ecb3d69736a12efb8/398_0_4211_3367/500.jpg",
-      "published": "2026-05-19T13:24:43Z",
-      "location": {
-        "name": "Beijing",
-        "lat": 39.9042,
-        "lng": 116.4074
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "business/2026/may/19/hs2-bill-could-rise-102bn-pounds-first-trains-delayed-until-2039-government-admits",
-      "headline": "HS2 bill could rise to £102bn with first trains delayed until 2039, government admits",
-      "summary": "HS2 costs soar to £102.7bn with first trains delayed until 2039, government admits.",
-      "url": "https://www.theguardian.com/p/x54dq8",
-      "thumbnail": "https://media.guim.co.uk/73f7dd8f5e22949c4f5c812fd03dd7ee8f68ad9e/683_0_6827_5464/500.jpg",
-      "published": "2026-05-19T13:20:16Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "business"
-    },
-    {
-      "id": "world/2026/may/19/spanish-ex-pm-criminal-investigation-bailout-airline-rodriguez-zapatero",
-      "headline": "Former Spanish PM under criminal investigation as €53m bailout of airline examined",
-      "summary": "Former Spanish PM Zapatero under investigation for alleged influence-peddling in airline bailout.",
-      "url": "https://www.theguardian.com/p/x54d4v",
-      "thumbnail": "https://media.guim.co.uk/79ba5f7db270a73a7bff59d4edbfd02c115e4425/544_0_4928_3945/500.jpg",
-      "published": "2026-05-19T13:08:18Z",
-      "location": {
-        "name": "Madrid",
-        "lat": 40.4168,
-        "lng": -3.7038
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "world"
-    },
     {
       "id": "football/live/2026/may/19/bournemouth-v-manchester-city-premier-league-live-pep-guardiola-arsenal",
       "headline": "Bournemouth v Manchester City: Arsenal can win Premier League if visitors slip up as Guardiola heads for exit – live",
@@ -1702,6 +1542,230 @@
       "category": "politics",
       "significance": 3,
       "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/may/20/progressive-chris-rabb-wins-pennsylvania",
+      "headline": "Progressive Chris Rabb wins closely watched Democratic primary in Pennsylvania: ‘We are indomitable’",
+      "summary": "Progressive Chris Rabb wins Pennsylvania Democratic primary, bolstering party's left flank.",
+      "url": "https://www.theguardian.com/p/x54kda",
+      "thumbnail": "https://media.guim.co.uk/9031f9ec9fae32e032bc55d4598fff59f4e3dc1d/1417_448_6132_4904/500.jpg",
+      "published": "2026-05-20T16:00:36Z",
+      "location": {
+        "name": "Philadelphia",
+        "lat": 39.9526,
+        "lng": -75.1652
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/may/20/jan-6-police-sue-trump-anti-weaponization-fund",
+      "headline": "January 6 police officers sue Trump over $1.8bn fund, alleging ‘presidential corruption’",
+      "summary": "Capitol police officers sue Trump over $1.8bn fund allegedly rewarding January 6 rioters.",
+      "url": "https://www.theguardian.com/p/x54k99",
+      "thumbnail": "https://media.guim.co.uk/8ef324e85f974360ed10da01260455d911ffd4de/1677_936_3832_3064/500.jpg",
+      "published": "2026-05-20T15:38:13Z",
+      "location": {
+        "name": "Washington, DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "sport/2026/may/20/hakeem-jeffries-naacp-college-sports-boycott",
+      "headline": "‘A Jackie Robinson moment’: Jeffries echoes NAACP calls for college sports boycott over voting rights",
+      "summary": "House Democrat calls for college sports boycott over voting rights restrictions.",
+      "url": "https://www.theguardian.com/p/x54k8c",
+      "thumbnail": "https://media.guim.co.uk/21714c5fb93ffd3754e7a8ec7a4efe05f4043ddf/956_0_9517_7618/500.jpg",
+      "published": "2026-05-20T15:17:17Z",
+      "location": {
+        "name": "Washington, DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "australia-news/2026/may/21/neo-nazi-group-told-by-aec-it-cant-become-a-political-party-while-it-hides-identities-of-members-ntwnfb",
+      "headline": "Neo-Nazi group told by AEC it can’t become a political party while it hides identities of members",
+      "summary": "Australian Electoral Commission blocks neo-Nazi group from forming political party.",
+      "url": "https://www.theguardian.com/p/x54gnf",
+      "thumbnail": "https://media.guim.co.uk/dcdd0aac855ce9a46ec310dd071a471b42fc053a/203_1715_2847_2278/500.jpg",
+      "published": "2026-05-20T15:00:47Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "society/2026/may/20/immunotherapy-drug-tocilizumab-potential-treatment-depression-uk-trial",
+      "headline": "Immunotherapy could be used to treat depression, early trial suggests",
+      "summary": "UK trial finds immunotherapy drug tocilizumab may treat antidepressant-resistant depression.",
+      "url": "https://www.theguardian.com/p/x54d66",
+      "thumbnail": "https://media.guim.co.uk/d45af1937d3957f1c40f3fc2107df33f23eec116/583_0_2917_2333/500.jpg",
+      "published": "2026-05-20T15:00:47Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "society"
+    },
+    {
+      "id": "football/2026/may/21/australia-football-team-socceroos-african-heritage-diversity",
+      "headline": "Socceroos’ African heritage offers timely reminder of Australia’s diversity ",
+      "summary": "Socceroos' African heritage highlights Australia's diversity ahead of World Cup.",
+      "url": "https://www.theguardian.com/p/x546b4",
+      "thumbnail": "https://media.guim.co.uk/c1b44a9201fec1ef5b20c331798fc8d834f41b38/684_0_3420_2737/500.jpg",
+      "published": "2026-05-20T15:00:47Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "lifeandstyle/2026/may/20/childrens-society-garden-chelsea-prickly-teenagers-imperfections",
+      "headline": "‘Imperfections are what gives us character’: a prickly garden to help teenagers blossom",
+      "summary": "Children's Society garden wins gold at Chelsea Flower Show with imperfection message.",
+      "url": "https://www.theguardian.com/p/x54tgz",
+      "thumbnail": "https://media.guim.co.uk/a1ebafd726dd625bf33a2604620a8c989f30e928/0_0_4680_3744/500.jpg",
+      "published": "2026-05-20T15:00:46Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "lifeandstyle"
+    },
+    {
+      "id": "lifeandstyle/2026/may/21/tiny-homes-design-ideas-advice-professionals-small-living-spaces",
+      "headline": "Open plan is not the answer: design professionals on the dos and don’ts of small space living",
+      "summary": "Design experts share lessons on maximizing small living spaces in tiny homes.",
+      "url": "https://www.theguardian.com/p/x54h2v",
+      "thumbnail": "https://media.guim.co.uk/e798d1c62957ea86d54b51a0f3b92fe56094e18b/0_0_1352_1081/500.jpg",
+      "published": "2026-05-20T15:00:46Z",
+      "location": {
+        "name": "Melbourne",
+        "lat": -37.8136,
+        "lng": 144.9631
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "lifeandstyle"
+    },
+    {
+      "id": "australia-news/2026/may/21/indefensible-alleged-child-abuse-survivor-takes-on-albanese-government-over-25bn-nauru-deal",
+      "headline": "‘Indefensible’: alleged child abuse survivor takes on Albanese government over $2.5bn Nauru deal ",
+      "summary": "Abuse survivor challenges Australian government's $2.5bn Nauru deportation deal.",
+      "url": "https://www.theguardian.com/p/x54hzm",
+      "thumbnail": "https://media.guim.co.uk/6c2533f90218e2e8f311e2b336a4e2f478c7e821/95_0_1875_1500/500.jpg",
+      "published": "2026-05-20T15:00:46Z",
+      "location": {
+        "name": "Nauru",
+        "lat": -0.5228,
+        "lng": 166.9315
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "australia-news/2026/may/21/australia-house-prices-labor-federal-budget-negative-gearing-cgt-capital-gains-tax",
+      "headline": "How Labor’s budget hit the brakes on Australia’s housing market",
+      "summary": "Labor budget changes expected to cause first Australian house price slump since 2022.",
+      "url": "https://www.theguardian.com/p/x545tg",
+      "thumbnail": "https://media.guim.co.uk/032e2956d5ea6e0ff704d136592b30ffc2e9d6aa/411_0_2109_1688/500.jpg",
+      "published": "2026-05-20T15:00:45Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "australia-news/2026/may/21/keating-lashes-coalition-startup-sector-claims-cgt-capital-gains-tax-tech-startups-canva",
+      "headline": "‘Marginal change’: Keating lashes Coalition, John Howard and startup sector over CGT claims",
+      "summary": "Keating criticizes Coalition and startup sector over capital gains tax reform claims.",
+      "url": "https://www.theguardian.com/p/x54t4x",
+      "thumbnail": "https://media.guim.co.uk/672f59241ffd75c1e6d46d04d21cc461ce237cc7/887_0_4640_3712/500.jpg",
+      "published": "2026-05-20T15:00:45Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "australia-news/2026/may/21/ato-australian-tax-office-fined-97-year-old-woman-late-tr-return-after-husband-death",
+      "headline": "ATO issues $1,650 fine to 97-year-old woman who had not ‘prioritised tax obligations’ after husband’s death",
+      "summary": "ATO apologizes after fining 97-year-old widow $1,650 following husband's death.",
+      "url": "https://www.theguardian.com/p/x54gt8",
+      "thumbnail": "https://media.guim.co.uk/114283e581238d5db3cc9e969d2d9340c142ec87/2181_1688_2339_1871/500.jpg",
+      "published": "2026-05-20T15:00:44Z",
+      "location": {
+        "name": "Brisbane",
+        "lat": -27.4698,
+        "lng": 153.0251
+      },
+      "category": "politics",
+      "significance": 1,
+      "section": "australia-news"
+    },
+    {
+      "id": "business/grogonomics/2026/may/21/labor-budget-changes-death-taxes-scare-campaigns-truth",
+      "headline": "Death, taxes and scare campaigns: here’s the truth about Labor’s budget changes",
+      "summary": "Analysis debunks conservative scare campaigns about Labor's budget tax reforms.",
+      "url": "https://www.theguardian.com/p/x54heb",
+      "thumbnail": "https://media.guim.co.uk/984aef730e53d5c88a64477363ad15d8f3c1f632/807_0_4640_3712/500.jpg",
+      "published": "2026-05-20T15:00:44Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "stage/2026/may/20/uncaged-review-the-mount-without-bristol",
+      "headline": "Uncaged+ review – elegant sketches of Lee Krasner and her life with Jackson Pollock",
+      "summary": "Dance review of Uncaged+ production featuring Lee Krasner and Jackson Pollock at The Mount Without.",
+      "url": "https://www.theguardian.com/p/x54jvq",
+      "thumbnail": "https://media.guim.co.uk/65078ec8541fa061f510e26074ee9f52e79ff30b/1103_482_3967_3174/500.jpg",
+      "published": "2026-05-20T14:57:28Z",
+      "location": {
+        "name": "Bristol",
+        "lat": 51.4545,
+        "lng": -2.5879
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "stage"
     }
   ]
 }
