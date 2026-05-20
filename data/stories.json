@@ -1,172 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-20T06:02:40.812Z",
-    "story_count": 100,
-    "oldest_story": "2026-05-19T07:07:42Z",
-    "newest_story": "2026-05-20T06:00:28Z",
+    "generated_at": "2026-05-20T09:52:41.550Z",
+    "story_count": 105,
+    "oldest_story": "2026-05-19T10:26:25Z",
+    "newest_story": "2026-05-20T09:51:56Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "politics/live/2026/may/19/labour-leadership-keir-starmer-andy-burnham-iran-hs2-energy-latest-news-updates",
-      "headline": "Labour likely to win next election with Burnham as leader, say party members – UK politics live",
-      "summary": "YouGov poll shows Labour members believe Burnham could win next election over Starmer.",
-      "url": "https://www.theguardian.com/p/x54cgn",
-      "thumbnail": "https://media.guim.co.uk/8571da203bd22674d7d164bb1be6cd4989fa3655/425_0_4507_3607/500.jpg",
-      "published": "2026-05-19T08:16:48Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "world/live/2026/may/19/us-israel-iran-war-trump-peace-attacks-gulf-allies-strikes-hormuz-latest-news-updates",
-      "headline": "Middle East crisis live: Trump claims Iran attack ‘on hold’ due to request from Gulf allies",
-      "summary": "Trump claims Iran attack postponed after Gulf allies request amid ongoing Middle East crisis.",
-      "url": "https://www.theguardian.com/p/x54cfg",
-      "thumbnail": "https://media.guim.co.uk/ce9eb9c7931c9ddcdd031a149b49f5eabc309b28/97_0_3359_2687/500.jpg",
-      "published": "2026-05-19T08:02:40Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "world/live/2026/may/19/europe-ukraine-russia-belarus-nuclear-drills-un-security-council-eu-us-hungary-peter-magyar-poland-nato-latest-news-updates",
-      "headline": "UN security council meets over Ukraine as Russia and Belarus hold nuclear drills – Europe live",
-      "summary": "UN security council meets on Ukraine as Russia and Belarus conduct nuclear weapons drills.",
-      "url": "https://www.theguardian.com/p/x54ckc",
-      "thumbnail": "https://media.guim.co.uk/7e400cafd7ec7d9a375d51a825dc1e86077b135c/35_131_1018_814/500.jpg",
-      "published": "2026-05-19T08:01:59Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "global-development/2026/may/19/calls-for-release-of-sierra-leonean-singer-jailed-in-crackdown-on-free-speech",
-      "headline": "Calls for release of Sierra Leonean singer jailed in ‘crackdown on free speech’",
-      "summary": "Sierra Leonean singer Zainab Sheriff jailed four years in government crackdown on free speech.",
-      "url": "https://www.theguardian.com/p/x5v22g",
-      "thumbnail": "https://media.guim.co.uk/15a5570eea7f531ac5d76a9961ef4f95d785bfd7/66_0_1434_1147/500.jpg",
-      "published": "2026-05-19T08:00:06Z",
-      "location": {
-        "name": "Freetown",
-        "lat": 8.4606,
-        "lng": -13.2317
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "global-development"
-    },
-    {
-      "id": "film/2026/may/19/a-few-feet-away-review-buenos-aires-slacker-tries-to-balance-app-life-and-real-sex-in-vivid-hookup-drama",
-      "headline": "A Few Feet Away review – Buenos Aires slacker tries to balance app life and real sex in vivid hookup drama",
-      "summary": "A Few Feet Away explores dating app culture and intimacy panic of Buenos Aires young man.",
-      "url": "https://www.theguardian.com/p/x53kch",
-      "thumbnail": "https://media.guim.co.uk/a2674ed430e3f88936f64de8a56a271e3f962d3b/182_0_431_345/master/431.jpg",
-      "published": "2026-05-19T08:00:05Z",
-      "location": {
-        "name": "Buenos Aires",
-        "lat": -34.6037,
-        "lng": -58.3816
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "film"
-    },
-    {
-      "id": "artanddesign/2026/may/19/tate-britain-james-mcneill-whistler-blockbuster",
-      "headline": "James McNeill Whistler review – a luscious, seductive blockbuster for the painter who scandalised Britain",
-      "summary": "Tate Britain exhibits James McNeill Whistler's pioneering paintings challenging aesthetic conventions.",
-      "url": "https://www.theguardian.com/p/x548pq",
-      "thumbnail": "https://media.guim.co.uk/0da27343e7018fbeff8b859f0f1bd4ebc9cc61c6/0_105_3600_2880/500.jpg",
-      "published": "2026-05-19T08:00:05Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "artanddesign"
-    },
-    {
-      "id": "business/live/2026/may/19/uk-wage-growth-unemployment-rate-markets-business-live-news",
-      "headline": "UK wage growth slows and unemployment rate rises as companies react to Iran war – business live",
-      "summary": "UK unemployment rises to 5% and wage growth slows as Iran war impacts businesses.",
-      "url": "https://www.theguardian.com/p/x54ccy",
-      "thumbnail": "https://media.guim.co.uk/6a43218ea0bfaa1ad942d9c293fa448f65bf2b8e/394_0_3939_3151/500.jpg",
-      "published": "2026-05-19T07:53:53Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "business/2026/may/19/uk-unemployment-iran-war-pay-growth",
-      "headline": "UK unemployment unexpectedly rises to 5% as firms squeezed by Iran war",
-      "summary": "UK unemployment unexpectedly rises to 5% as firms squeezed by Iran war impacts.",
-      "url": "https://www.theguardian.com/p/x5485a",
-      "thumbnail": "https://media.guim.co.uk/f4dc200e143a4d8dc87044e874c5441ac45f9b5d/508_0_2921_2336/500.jpg",
-      "published": "2026-05-19T07:44:06Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "music/2026/may/19/pianist-jayson-gillham-mso-gaza-trial-executive-comment-crappy-situation-ntwnfb",
-      "headline": "Jayson Gillham: MSO executive suggested cancelling pianist’s concert before seeing Gaza comments, court hears",
-      "summary": "MSO executive suggested cancelling pianist Jayson Gillham's concert before reading Gaza comments.",
-      "url": "https://www.theguardian.com/p/x54c3v",
-      "thumbnail": "https://media.guim.co.uk/2bb66ff7a81feb40fb72572ee05aebbb1209ac9b/0_0_3458_2767/500.jpg",
-      "published": "2026-05-19T07:13:44Z",
-      "location": {
-        "name": "Melbourne",
-        "lat": -37.8136,
-        "lng": 144.9631
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "music"
-    },
-    {
-      "id": "business/2026/may/19/rachel-reeves-iran-war-economy-unemployment",
-      "headline": "No feelgood factor for Reeves as Iran war snuffs out economic upturn",
-      "summary": "Iran war snuffs out economic upturn with rising unemployment and weak pay growth for UK.",
-      "url": "https://www.theguardian.com/p/x54cec",
-      "thumbnail": "https://media.guim.co.uk/1f81c51b39c37a2cc5661653add8f9ead00c6f2f/488_0_4269_3416/500.jpg",
-      "published": "2026-05-19T07:07:42Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
     {
       "id": "football/2026/may/19/scotland-world-cup-squad-ross-stewart-steve-clarke-craig-gordon",
       "headline": "Scotland World Cup squad: striker Ross Stewart selected after four-year absence",
@@ -1606,6 +1446,246 @@
       "category": "culture",
       "significance": 2,
       "section": "food"
+    },
+    {
+      "id": "world/live/2026/may/20/lithuania-ukraine-belarus-estonia-baltcis-drones-air-alert-europe-vladimir-putin-xi-jinping-china-eu-nato-latest-news-updates",
+      "headline": "Lithuania lifts air alert after suspected drones approaching from Belarus diverted - Europe live ",
+      "summary": "Lithuania lifts air alert after suspected drones from Belarus diverted amid NATO drone incidents.",
+      "url": "https://www.theguardian.com/p/x54tg3",
+      "thumbnail": "https://media.guim.co.uk/f384a8b6734ea640b3d09136ced8d8dd5c8d81d3/773_0_2813_2252/500.jpg",
+      "published": "2026-05-20T09:51:56Z",
+      "location": {
+        "name": "Lithuania",
+        "lat": 54.8973,
+        "lng": 23.836
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "world/live/2026/may/20/us-iran-israel-lebanon-gaza-trump-oil-hormuz-latest-news-updates",
+      "headline": "Middle East crisis live: Iran’s Revolutionary Guards warns of war ‘beyond the region’ if US resumes attacks",
+      "summary": "Iran's Revolutionary Guards warns of war beyond region if US resumes attacks amid Middle East tensions.",
+      "url": "https://www.theguardian.com/p/x54hzp",
+      "thumbnail": "https://media.guim.co.uk/80dbdfcf0c636efd4075288d529c429738059a8c/53_0_4787_3829/500.jpg",
+      "published": "2026-05-20T09:51:30Z",
+      "location": {
+        "name": "Iran",
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "business/live/2026/may/20/uk-inflation-eases-lower-electricity-gas-bills-iran-war-business-latest-news-updates",
+      "headline": "UK inflation eases more than expected to 2.8%, led by lower electricity and gas bills – business live",
+      "summary": "UK inflation eases to 2.8% as electricity, gas bills drop; reduces June rate hike chances.",
+      "url": "https://www.theguardian.com/p/x54t55",
+      "thumbnail": "https://media.guim.co.uk/b2bc850cc5eb081069a06fa437569339886335bf/373_0_2254_1803/500.jpg",
+      "published": "2026-05-20T09:44:20Z",
+      "location": {
+        "name": "United Kingdom",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "uk-news/2026/may/20/black-cab-rapist-john-worboys-victims-carrie-johnson",
+      "headline": "There could be 1,000 or more victims of black-cab rapist John Worboys, says Carrie Johnson",
+      "summary": "Carrie Johnson says black-cab rapist John Worboys may have up to 1,000 victims.",
+      "url": "https://www.theguardian.com/p/x54tnt",
+      "thumbnail": "https://media.guim.co.uk/dcfe1703f6d7e916d8d76b0cae2f3f693148f483/0_486_1888_1510/500.jpg",
+      "published": "2026-05-20T09:38:00Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "politics/live/2026/may/20/keir-starmer-wes-streeting-labour-leadership-kemi-badenoch-pmqs-conservatives-reform-uk-politics-latest-news-updates",
+      "headline": "Minister defends relaxing some Russian oil sanctions with Starmer set to face PMQs grilling – UK politics live",
+      "summary": "UK government defends relaxing Russian oil sanctions as Starmer faces PMQs grilling.",
+      "url": "https://www.theguardian.com/p/x54tbj",
+      "thumbnail": "https://media.guim.co.uk/9a6b3a080ffa690bff9bc579e737d620fda45522/338_0_3118_2496/500.jpg",
+      "published": "2026-05-20T09:26:41Z",
+      "location": {
+        "name": "United Kingdom",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "business/2026/may/20/germany-urged-stop-admiring-beijing-china-deindustrialisation",
+      "headline": "Germany urged to stop admiring Beijing and wake up to ‘China Shock 2.0’",
+      "summary": "Germany warned of 'China Shock 2.0' as trade surplus doubles; risks deindustrialization.",
+      "url": "https://www.theguardian.com/p/x54epk",
+      "thumbnail": "https://media.guim.co.uk/0e3ab0d7a97f2bbc37d034f54764c3bf494df4d7/295_0_3985_3190/500.jpg",
+      "published": "2026-05-20T09:25:32Z",
+      "location": {
+        "name": "Germany",
+        "lat": 51.1657,
+        "lng": 10.4515
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "business"
+    },
+    {
+      "id": "music/2026/may/20/goldie-bananarama-90s-london-records-podcast",
+      "headline": "Goldie, Bananarama and boat trips with the Spice Girls: the hedonistic madness of 90s label London Records",
+      "summary": "Podcast explores hedonistic 1990s London Records label with Goldie, Bananarama.",
+      "url": "https://www.theguardian.com/p/x526qc",
+      "thumbnail": "https://media.guim.co.uk/a83a3219f5dbdc886327c811a8cea8d53bdd76f8/243_71_2271_1817/500.jpg",
+      "published": "2026-05-20T09:15:32Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "music"
+    },
+    {
+      "id": "world/2026/may/20/venezuela-hotel-us-takeover",
+      "headline": "‘Spooks hotel’: inside the five-star nerve centre of the US takeover of Venezuela",
+      "summary": "JW Marriott Caracas serves as nerve centre for US diplomatic takeover of Venezuela.",
+      "url": "https://www.theguardian.com/p/x5xc7m",
+      "thumbnail": "https://media.guim.co.uk/bbd25566933c2005a69fc767364935183d2c5040/333_0_3333_2667/500.jpg",
+      "published": "2026-05-20T09:00:33Z",
+      "location": {
+        "name": "Caracas",
+        "lat": 10.4806,
+        "lng": -66.9036
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "sport/2026/may/20/amazon-prime-nba-playoff-coverage",
+      "headline": "Amazon Prime’s NBA playoff coverage was an alienating, strangely visionary experiment in anti-TV",
+      "summary": "Amazon Prime's NBA playoff coverage criticized as alienating, visionary anti-TV experiment.",
+      "url": "https://www.theguardian.com/p/x54epy",
+      "thumbnail": "https://media.guim.co.uk/f00b919a0df225234258aff549facadd4f3ede33/920_0_6625_5300/500.jpg",
+      "published": "2026-05-20T09:00:33Z",
+      "location": {
+        "name": "United States",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "us-news/2026/may/20/georgia-mayor-who-fired-entire-police-force-resigns",
+      "headline": "Georgia mayor who fired town’s entire police force resigns, citing family ‘health concerns’",
+      "summary": "Georgia mayor who fired entire police force resigns citing family health concerns.",
+      "url": "https://www.theguardian.com/p/x54etk",
+      "thumbnail": "https://media.guim.co.uk/6acaaf6bf91282a73d1824acded6beafb2a728b4/208_0_1547_1238/500.jpg",
+      "published": "2026-05-20T09:00:33Z",
+      "location": {
+        "name": "Georgia",
+        "lat": 33.749,
+        "lng": -83.388
+      },
+      "category": "politics",
+      "significance": 1,
+      "section": "us-news"
+    },
+    {
+      "id": "tv-and-radio/2026/may/20/late-night-tv-says-goodbye-to-stephen-colbert",
+      "headline": "‘He had a unique ability to be human’: late-night TV says goodbye to Stephen Colbert",
+      "summary": "Stephen Colbert's Late Show ends this week after controversial cancellation.",
+      "url": "https://www.theguardian.com/p/x52eeg",
+      "thumbnail": "https://media.guim.co.uk/14ac149a6e22d45b468b3048b5e76c77e83e826a/137_0_3333_2667/500.jpg",
+      "published": "2026-05-20T09:00:32Z",
+      "location": {
+        "name": "United States",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "tv-and-radio"
+    },
+    {
+      "id": "football/2026/may/20/mls-stopped-clock-ifab-discussions-trial",
+      "headline": "MLS lobbying Ifab to explore stopping clock for pauses in play",
+      "summary": "MLS lobbies IFAB to trial stopped clock for pauses in play, substitutions, injuries.",
+      "url": "https://www.theguardian.com/p/x54g6d",
+      "thumbnail": "https://media.guim.co.uk/c86560abe1b6a8037f514aab1e690c5e93370079/750_0_3750_3000/500.jpg",
+      "published": "2026-05-20T09:00:32Z",
+      "location": {
+        "name": "United States",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "environment/2026/may/20/english-community-brought-river-back-from-brink-mease",
+      "headline": "The English community that brought its river back from the brink: ‘If we can get it right here, we can do it everywhere’",
+      "summary": "English river restoration project succeeds in reviving wildlife habitats after 150 years of degradation.",
+      "url": "https://www.theguardian.com/p/x53jxq",
+      "thumbnail": "https://media.guim.co.uk/07cc19d2943ebe8d812f78377354b884ed597a70/43_884_4774_3818/500.jpg",
+      "published": "2026-05-20T09:00:32Z",
+      "location": {
+        "name": "Mease River, Midlands",
+        "lat": 52.65,
+        "lng": -1.65
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "environment"
+    },
+    {
+      "id": "football/2026/may/20/pep-guardiola-man-city-lionel-messi-celtic-hearts",
+      "headline": "This week’s soccer questions: Manchester City’s next steps, and is Messi peaking at the perfect time?",
+      "summary": "Analysis of Manchester City's future under new leadership and Celtic's Scottish football dominance.",
+      "url": "https://www.theguardian.com/p/x54fn7",
+      "thumbnail": "https://media.guim.co.uk/2c51b87d95641c33d3da91a977e0fe1467245e95/352_0_4295_3438/500.jpg",
+      "published": "2026-05-20T09:00:31Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "politics/2026/may/20/rachel-reeves-protect-clean-energy-projects-legal-challenges-environment",
+      "headline": "Rachel Reeves to protect ‘critical’ clean energy projects from legal challenges",
+      "summary": "UK Chancellor plans judicial review limits to fast-track clean energy infrastructure projects.",
+      "url": "https://www.theguardian.com/p/x54t7p",
+      "thumbnail": "https://media.guim.co.uk/459780380563276e395349afa55b55f549ec7ba8/700_0_4179_3345/500.jpg",
+      "published": "2026-05-20T08:50:22Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "politics"
     }
   ]
 }
