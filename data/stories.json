@@ -1,44 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-21T18:17:43.846Z",
-    "story_count": 65,
-    "oldest_story": "2026-05-20T18:30:20Z",
-    "newest_story": "2026-05-21T16:15:51Z",
+    "generated_at": "2026-05-21T20:15:49.129Z",
+    "story_count": 67,
+    "oldest_story": "2026-05-20T20:16:37Z",
+    "newest_story": "2026-05-21T20:11:20Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/live/2026/may/20/freiburg-v-aston-villa-europa-league-final-live",
-      "headline": "Freiburg v Aston Villa: Europa League final – live",
-      "summary": "Freiburg face Aston Villa in Europa League final in Istanbul with live match updates.",
-      "url": "https://www.theguardian.com/p/x548t5",
-      "thumbnail": "https://media.guim.co.uk/17318cb94cd0a32fa082ac1d2fe607edfd7e7793/398_0_3578_2862/500.jpg",
-      "published": "2026-05-20T18:30:35Z",
-      "location": {
-        "name": "Istanbul",
-        "lat": 41.0082,
-        "lng": 28.9784
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "sport/live/2026/may/20/england-v-new-zealand-first-womens-t20-cricket-international-live",
-      "headline": "England v New Zealand: first women’s T20 cricket international – live",
-      "summary": "England Women begin T20 series against New Zealand at County Ground in Derby.",
-      "url": "https://www.theguardian.com/p/x54kbb",
-      "thumbnail": "https://media.guim.co.uk/ad21dbe29a10de7791d41a7cd8d5b6c9efb3795c/404_122_2170_1735/500.jpg",
-      "published": "2026-05-20T18:30:20Z",
-      "location": {
-        "name": "Derby",
-        "lat": 52.9229,
-        "lng": -1.4766
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
     {
       "id": "australia-news/2026/may/21/man-charged-with-stealing-camera-equipment-from-bondi-shooting-victim-in-aftermath-of-terror-attack-ntwnfb",
       "headline": "Man charged with stealing camera equipment from Bondi shooting victim in aftermath of terror attack",
@@ -86,38 +54,6 @@
       "category": "conflict",
       "significance": 2,
       "section": "uk-news"
-    },
-    {
-      "id": "us-news/2026/may/20/trump-administration-climate-pollution-lawsuit",
-      "headline": "Young Americans demand court halt Trump’s biggest rollbacks of pollution protections",
-      "summary": "Young Americans sue Trump administration to halt rollback of pollution protection rules.",
-      "url": "https://www.theguardian.com/p/x53jmj",
-      "thumbnail": "https://media.guim.co.uk/95bc2258ac2ca6b318a5c62b762db860a3e502fe/1463_1035_3350_2680/500.jpg",
-      "published": "2026-05-20T20:04:02Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "climate",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/may/20/new-york-laguardia-airport-sinkhole",
-      "headline": "Sinkhole shuts down runway at New York LaGuardia airport",
-      "summary": "Sinkhole discovered at LaGuardia airport shuts down runway; repairs underway.",
-      "url": "https://www.theguardian.com/p/x54yaa",
-      "thumbnail": "https://media.guim.co.uk/7eede822564020ad1b70282173ee29b8c9352cdc/418_0_4164_3333/500.jpg",
-      "published": "2026-05-20T19:31:45Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7769,
-        "lng": -73.874
-      },
-      "category": "other",
-      "significance": 2,
-      "section": "us-news"
     },
     {
       "id": "australia-news/live/2026/may/21/australia-news-live-penny-wong-israel-flotilla-budget-capital-gains-negative-gearing-anthony-albanese-jim-chalmers-ntwnfb",
@@ -1044,6 +980,102 @@
         "lng": -86.7816
       },
       "category": "conflict",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/may/21/southampton-spying-scandal-millwall-wrexham-legal-options",
+      "headline": "Spygate commission accuse Southampton of ‘determined plan from the top down’",
+      "summary": "Independent commission finds Southampton guilty of organized spying scheme, expels club from Championship playoffs.",
+      "url": "https://www.theguardian.com/p/x54zch",
+      "thumbnail": "https://media.guim.co.uk/0f263378bf09acb4024f3fcb1039306e64dbd34c/571_0_3480_2784/500.jpg",
+      "published": "2026-05-21T20:11:20Z",
+      "location": {
+        "name": "Southampton",
+        "lat": 50.9053,
+        "lng": -1.3911
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "australia-news/2026/may/22/feral-horse-numbers-surge-in-kosciuszko-national-park-after-pause-in-aerial-culling-survey-shows",
+      "headline": "Feral horse numbers surge in Kosciuszko national park after pause in aerial culling, survey shows",
+      "summary": "Feral horse populations surge in Australian national park after pause in aerial culling program.",
+      "url": "https://www.theguardian.com/p/x54npc",
+      "thumbnail": "https://media.guim.co.uk/ea527e5bbf9a54227ee33288bb3f5093f69778fc/859_0_4560_3648/500.jpg",
+      "published": "2026-05-21T20:00:38Z",
+      "location": {
+        "name": "Kosciuszko National Park",
+        "lat": -36.2397,
+        "lng": 148.2627
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "us-news/2026/may/21/democrats-2024-election-autopsy-report-key-takeaways",
+      "headline": "What’s in the Democrats’ 2024 election autopsy report, and what’s left out?",
+      "summary": "Democrats release 200-page election autopsy detailing spending, media, and organizing failures in 2024 loss.",
+      "url": "https://www.theguardian.com/p/x54q95",
+      "thumbnail": "https://media.guim.co.uk/95fcfcbb46e029689de41c23da3c7b782a2ae4f7/455_0_4550_3640/500.jpg",
+      "published": "2026-05-21T19:51:33Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/may/21/trump-arch-washington-dc",
+      "headline": "Designs for 250ft arch in Washington approved by panel of Trump appointees",
+      "summary": "Trump-appointed panel approves designs for 250ft triumphal arch near Arlington National Cemetery.",
+      "url": "https://www.theguardian.com/p/x54qt5",
+      "thumbnail": "https://media.guim.co.uk/626ffdbb76edbd528ee90a503063256bc4bba006/36_0_3747_2999/500.jpg",
+      "published": "2026-05-21T19:38:33Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "sport/2026/may/21/wimbledon-tim-henman-players-meeting-roland-garros-pay-dispute",
+      "headline": "Tim Henman steps in to grand slam pay row to deter player protests at Wimbledon ",
+      "summary": "Tim Henman intervenes in grand slam pay dispute, Wimbledon offers player council to avert protests.",
+      "url": "https://www.theguardian.com/p/x54qjk",
+      "thumbnail": "https://media.guim.co.uk/edc813e9853e6a9e9b4e6f7ebd31ebd94a297e03/477_0_4794_3836/500.jpg",
+      "published": "2026-05-21T19:36:48Z",
+      "location": {
+        "name": "Paris",
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "us-news/2026/may/21/spencer-pratt-los-angeles-mayor-trump",
+      "headline": "Trump is supporting Spencer Pratt in the LA mayor’s race. It may be a poisoned pill",
+      "summary": "Trump endorses reality star Spencer Pratt for LA mayor, but backing may hinder campaign in Democratic stronghold.",
+      "url": "https://www.theguardian.com/p/x54q4b",
+      "thumbnail": "https://media.guim.co.uk/9d147debb2a06e3f07a7bb0fa1b8f965fac981df/0_0_5000_4000/500.jpg",
+      "published": "2026-05-21T19:06:48Z",
+      "location": {
+        "name": "Los Angeles",
+        "lat": 34.0522,
+        "lng": -118.2437
+      },
+      "category": "politics",
       "significance": 2,
       "section": "us-news"
     }
