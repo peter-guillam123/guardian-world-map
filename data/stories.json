@@ -1,172 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-21T10:00:45.188Z",
-    "story_count": 74,
-    "oldest_story": "2026-05-20T11:21:23Z",
-    "newest_story": "2026-05-21T10:00:08Z",
+    "generated_at": "2026-05-21T12:55:47.411Z",
+    "story_count": 78,
+    "oldest_story": "2026-05-20T14:57:28Z",
+    "newest_story": "2026-05-21T12:53:48Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "us-news/live/2026/may/20/donald-trump-republicans-midterms-primaries-kentucky-redistricting-raul-castro-latest-news-updates",
-      "headline": "Trump tightens grip on GOP after Massie’s defeat in Kentucky primary – US politics live",
-      "summary": "Trump-backed challenger defeats Republican congressman in Kentucky primary, tightening Trump's grip on GOP.",
-      "url": "https://www.theguardian.com/p/x54jxy",
-      "thumbnail": "https://media.guim.co.uk/012b543698bab1b899315eaa8c863f4a8dc2b746/272_0_3089_2472/500.jpg",
-      "published": "2026-05-20T12:23:11Z",
-      "location": {
-        "name": "Kentucky",
-        "lat": 37.6681,
-        "lng": -84.6701
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "world/2026/may/20/vaccine-bundibugyo-ebola-outbreak-six-to-nine-months-who",
-      "headline": "Vaccine to tackle Ebola outbreak will take six to nine months, says WHO",
-      "summary": "WHO reports Bundibugyo Ebola vaccine will take 6-9 months; 139 deaths in central Africa outbreak.",
-      "url": "https://www.theguardian.com/p/x54jcd",
-      "thumbnail": "https://media.guim.co.uk/f44bc857b7dab9dea5b3aab9591140d6d8efa710/1856_0_6792_5434/500.jpg",
-      "published": "2026-05-20T12:17:28Z",
-      "location": {
-        "name": "Geneva",
-        "lat": 46.2044,
-        "lng": 6.1432
-      },
-      "category": "health",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "business/2026/may/20/george-soros-pledge-economic-security-civil-liberties",
-      "headline": "George Soros group pledges $300m to US economic security and civil liberties",
-      "summary": "George Soros Open Society Foundations pledges $300m to US economic security and civil liberties.",
-      "url": "https://www.theguardian.com/p/x54gvv",
-      "thumbnail": "https://media.guim.co.uk/d1636d023c63d3ef4d2b442437ca99f505b34725/533_0_4540_3632/500.jpg",
-      "published": "2026-05-20T12:00:42Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "film/2026/may/20/tom-and-jerry-forbidden-compass-review-furry-foes-out-of-their-depth-in-candy-coated-chinese-adventure",
-      "headline": "Tom and Jerry: Forbidden Compass review – furry foes out of their depth in candy-coated Chinese adventure",
-      "summary": "Tom and Jerry animated film transports cartoon duo to quasi-medieval China in new adventure.",
-      "url": "https://www.theguardian.com/p/x54d5b",
-      "thumbnail": "https://media.guim.co.uk/bd77b796cf60bfe18266ee72409b2d52d757cc90/20_0_2344_1875/500.jpg",
-      "published": "2026-05-20T12:00:41Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "film"
-    },
-    {
-      "id": "global-development/2026/may/20/forced-disappearances-torture-ecuador-war-on-drugs-us-troops",
-      "headline": "Forced disappearances and torture: Ecuador’s war on drugs is brutal – and backed by US troops",
-      "summary": "Ecuador's drug war crackdown backed by US troops shows forced disappearances and torture reports.",
-      "url": "https://www.theguardian.com/p/x52z9b",
-      "thumbnail": "https://media.guim.co.uk/7f323a86644f51c4f6ac9b3217c2388e0247bb6a/348_0_6880_5504/500.jpg",
-      "published": "2026-05-20T12:00:41Z",
-      "location": {
-        "name": "Ecuador",
-        "lat": -1.8312,
-        "lng": -78.1834
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "global-development"
-    },
-    {
-      "id": "world/2026/may/20/tell-us-have-you-emigrated-because-of-rising-anti-migrant-sentiment",
-      "headline": "Tell us: have you emigrated because of rising anti-migrant sentiment?",
-      "summary": "Guardian seeks stories from people emigrating due to rising anti-migrant sentiment policies.",
-      "url": "https://www.theguardian.com/p/x54j9n",
-      "thumbnail": "https://media.guim.co.uk/7011185450062864b9ccb31426048874cd4e34a7/419_0_3948_3159/500.jpg",
-      "published": "2026-05-20T11:58:05Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "football/2026/may/20/season-by-season-arsenal-return-to-title-glory",
-      "headline": "Back on top: the season-by-season story of Arsenal’s return to title glory",
-      "summary": "Arsenal's season-by-season return to title glory under Mikel Arteta from Invincibles era.",
-      "url": "https://www.theguardian.com/p/x54typ",
-      "thumbnail": "https://media.guim.co.uk/60c155e5643850d88ba6aca74799c01e69c53ad5/0_0_5000_4000/500.jpg",
-      "published": "2026-05-20T11:43:05Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "us-news/2026/may/20/trump-thomas-massie-kentucky-maga",
-      "headline": "Trump’s allies in danger of scraping false hope from Maga victory in Kentucky primary",
-      "summary": "Trump's Kentucky primary victory signals shrinking MAGA base commands fierce loyalty despite losses.",
-      "url": "https://www.theguardian.com/p/x54gz7",
-      "thumbnail": "https://media.guim.co.uk/0aa08976d31736aaf0d6fdf25f8d4cd7d35a35ea/423_33_2771_2217/500.jpg",
-      "published": "2026-05-20T11:34:42Z",
-      "location": {
-        "name": "Kentucky",
-        "lat": 37.6681,
-        "lng": -84.6701
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "society/2026/may/20/responsibility-ill-health-old-age-oxford-longevity-project-study",
-      "headline": "At least 80% responsibility for ill health in old age down to individual, study says",
-      "summary": "Oxford study claims 80% responsibility for old age ill health lies with individuals.",
-      "url": "https://www.theguardian.com/p/x54ebh",
-      "thumbnail": "https://media.guim.co.uk/bce59ff9f64dabdae4c9e1be4c4f198e09499cca/864_0_4320_3456/500.jpg",
-      "published": "2026-05-20T11:27:50Z",
-      "location": {
-        "name": "Oxford",
-        "lat": 51.752,
-        "lng": -1.2577
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "society"
-    },
-    {
-      "id": "us-news/2026/may/19/georgia-governor-senate-primary-election",
-      "headline": "Georgia’s Republican races for governor and US Senate head to June runoffs",
-      "summary": "Georgia Republican races for governor and Senate head to June runoffs after May primaries.",
-      "url": "https://www.theguardian.com/p/x549c3",
-      "thumbnail": "https://media.guim.co.uk/33edb51bc33c8498ce246b04abf4f4fbc90fd6df/0_0_5000_4000/500.jpg",
-      "published": "2026-05-20T11:21:23Z",
-      "location": {
-        "name": "Georgia",
-        "lat": 33.749,
-        "lng": -83.388
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
     {
       "id": "us-news/2026/may/20/progressive-chris-rabb-wins-pennsylvania",
       "headline": "Progressive Chris Rabb wins closely watched Democratic primary in Pennsylvania: ‘We are indomitable’",
@@ -1190,6 +1030,230 @@
       "category": "politics",
       "significance": 2,
       "section": "politics"
+    },
+    {
+      "id": "politics/2026/may/21/reeves-cuts-vat-on-summer-days-out-part-of-cost-of-living-support",
+      "headline": "Reeves cuts VAT on summer days out to 5% as part of cost of living support",
+      "summary": "Chancellor Reeves cuts VAT to 5% on summer attractions and raises tax on oil firms.",
+      "url": "https://www.theguardian.com/p/x54p45",
+      "thumbnail": "https://media.guim.co.uk/7c08008341b38be38b9085a23f1c15db3d9e5c52/304_0_3088_2470/500.jpg",
+      "published": "2026-05-21T12:53:48Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "us-news/live/2026/may/21/donald-trump-ballroom-reconciliation-bill-republicans-democrats-war-powers-iran-epa-ai-latest-news-updates",
+      "headline": "Republicans could abandon $1bn proposal for Trump’s ballroom – US politics live",
+      "summary": "Republicans question $1bn Secret Service funding for Trump ballroom in reconciliation bill.",
+      "url": "https://www.theguardian.com/p/x54zj9",
+      "thumbnail": "https://media.guim.co.uk/eb5920fc07474e9b99f86eb1c3d9365723bdddb7/655_0_6525_5223/500.jpg",
+      "published": "2026-05-21T12:45:51Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "news/2026/may/21/jamaica-parliament-language-english-patois",
+      "headline": "‘It’s broken English’: Jamaica’s ministers joust over language ban in parliament",
+      "summary": "Jamaica's parliament reignites debate over banning Jamaican Patois in favour of English.",
+      "url": "https://www.theguardian.com/p/x54dfe",
+      "thumbnail": "https://media.guim.co.uk/6325dd73d0a40490fdafc08ca2853d85240b35f5/0_233_1200_960/500.jpg",
+      "published": "2026-05-21T12:38:35Z",
+      "location": {
+        "name": "Kingston",
+        "lat": 18.0179,
+        "lng": -76.8099
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "news"
+    },
+    {
+      "id": "world/2026/may/21/voters-across-parties-believe-uk-net-migration-is-rising-despite-sharp-drop",
+      "headline": "Voters across parties believe UK net migration is rising despite sharp drop",
+      "summary": "Study shows UK voters wrongly believe net migration is rising despite sharp drops.",
+      "url": "https://www.theguardian.com/p/x54j6t",
+      "thumbnail": "https://media.guim.co.uk/2e6bc36056c9492ece1462bbec74362c5dfa5dcf/451_0_2915_2333/500.jpg",
+      "published": "2026-05-21T12:37:38Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "world/2026/may/21/blind-uk-pop-producer-robin-millar-legal-action-disability-rights",
+      "headline": "Blind UK pop producer to take legal action over alleged lack of support at work",
+      "summary": "Blind pop producer Robin Millar launches legal action over workplace support.",
+      "url": "https://www.theguardian.com/p/x54k6n",
+      "thumbnail": "https://media.guim.co.uk/50ab10ad3fde704796c259cad05763bf2e6f58ff/1213_0_6832_5464/500.jpg",
+      "published": "2026-05-21T12:36:54Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 1,
+      "section": "world"
+    },
+    {
+      "id": "sport/2026/may/21/athlos-announces-london-leg-all-female-track-and-field-athletics-meetings",
+      "headline": "‘F1 for track and field’: Alexis Ohanian announces all-female athletics meet in London",
+      "summary": "Alexis Ohanian announces all-female Athlos athletics meeting in London for September.",
+      "url": "https://www.theguardian.com/p/x54p4a",
+      "thumbnail": "https://media.guim.co.uk/4a02ba8daabacbc4fa1e2a5fd9d59a17dbe02884/576_155_4310_3448/500.jpg",
+      "published": "2026-05-21T12:21:20Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "world/2026/may/21/uk-israel-video-itama-ben-gvir",
+      "headline": "UK summons Israel’s chargé d’affaires over video of minister taunting activists",
+      "summary": "UK summons Israeli chargé d'affaires over minister's video taunting Gaza flotilla activists.",
+      "url": "https://www.theguardian.com/p/x54p2p",
+      "thumbnail": "https://media.guim.co.uk/19d1c090630ae746c6326241eb10b05641f95851/251_0_1705_1365/500.jpg",
+      "published": "2026-05-21T12:18:11Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "environment/2026/may/21/record-number-of-dams-dismantled-in-europe-in-effort-to-help-wildlife-thrive",
+      "headline": "Record number of dams dismantled in Europe in effort to help wildlife thrive",
+      "summary": "Record 602 dams dismantled across Europe in 2026 to restore rivers for wildlife.",
+      "url": "https://www.theguardian.com/p/x54ttf",
+      "thumbnail": "https://media.guim.co.uk/8f780a901ab58dad479653164c23cb0ba40687a4/1_0_2999_2400/500.jpg",
+      "published": "2026-05-21T12:14:22Z",
+      "location": {
+        "name": "Reykjavik",
+        "lat": 64.1466,
+        "lng": -21.9426
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "environment"
+    },
+    {
+      "id": "commentisfree/2026/may/21/trump-slush-fund-anti-weaponization",
+      "headline": "Trump has created a slush fund of taxpayer money to give to his friends",
+      "summary": "Trump creates $2bn slush fund from IRS lawsuit settlement to distribute to allies.",
+      "url": "https://www.theguardian.com/p/x54yg8",
+      "thumbnail": "https://media.guim.co.uk/b387644dd6ad512b9ec64d7e561feef8ba3b785e/357_0_3583_2866/500.jpg",
+      "published": "2026-05-21T12:00:10Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "commentisfree"
+    },
+    {
+      "id": "film/2026/may/21/finding-emily-review-gen-z-campus-romcom-is-impossible-to-hate",
+      "headline": "Finding Emily review – warm-hearted gen Z campus romcom is impossible to hate",
+      "summary": "Gen Z campus romcom Finding Emily features Mancunian singer-songwriter tracking down girl.",
+      "url": "https://www.theguardian.com/p/x53z4e",
+      "thumbnail": "https://media.guim.co.uk/0fd0d525ff459cc0411dc6ecc28bdbe3e89cf5e6/408_0_2589_2073/500.jpg",
+      "published": "2026-05-21T12:00:10Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "film"
+    },
+    {
+      "id": "uk-news/2026/may/21/security-vetting-due-diligence-prince-andrew-uk-trade-envoy",
+      "headline": "No evidence of formal security vetting when Andrew became UK trade envoy, minister says",
+      "summary": "Government reveals no formal security vetting when Prince Andrew became UK trade envoy.",
+      "url": "https://www.theguardian.com/p/x54p2y",
+      "thumbnail": "https://media.guim.co.uk/f672d67a63994a3851d6031b0b9e8f0b54dcee19/0_198_1584_1267/500.jpg",
+      "published": "2026-05-21T11:59:06Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 1,
+      "section": "uk-news"
+    },
+    {
+      "id": "business/2026/may/21/uk-service-sector-activity-slumps-in-one-of-sharpest-declines-for-a-decade",
+      "headline": "UK service sector activity slumps in one of sharpest declines for a decade",
+      "summary": "UK service sector slumps in one of sharpest declines for decade amid political uncertainty.",
+      "url": "https://www.theguardian.com/p/x54zt4",
+      "thumbnail": "https://media.guim.co.uk/84fe99419e8f50ccb0ab17ee08688d44df71b77a/659_77_4562_3652/500.jpg",
+      "published": "2026-05-21T11:55:49Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "politics/2026/may/21/andy-burnham-back-electoral-reform-if-prime-minister",
+      "headline": "Andy Burnham to back electoral reform if he becomes prime minister",
+      "summary": "Andy Burnham backs electoral reform and proportional representation if he becomes PM.",
+      "url": "https://www.theguardian.com/p/x54pxd",
+      "thumbnail": "https://media.guim.co.uk/fe408a9bc30249a725d6f11fb8cd8f327b7387bc/370_0_3689_2953/500.jpg",
+      "published": "2026-05-21T11:55:42Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "society/2026/may/21/nhs-trust-sacks-members-staff-nottingham-attacks-victims",
+      "headline": "NHS trust sacks staff who illegally accessed records of Nottingham attack victims",
+      "summary": "NHS trust dismisses 11 staff for illegally accessing Nottingham attack victims' medical records.",
+      "url": "https://www.theguardian.com/p/x54pxv",
+      "thumbnail": "https://media.guim.co.uk/129b36872496e4874826a46079ed057a5ad9ff43/304_165_2487_1991/500.jpg",
+      "published": "2026-05-21T11:54:41Z",
+      "location": {
+        "name": "Nottingham",
+        "lat": 52.9549,
+        "lng": -1.1584
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "society"
     }
   ]
 }
