@@ -1,44 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-20T23:44:06.381Z",
+    "generated_at": "2026-05-21T01:49:31.757Z",
     "story_count": 78,
-    "oldest_story": "2026-05-20T00:44:34Z",
-    "newest_story": "2026-05-20T23:01:54Z",
+    "oldest_story": "2026-05-20T05:00:23Z",
+    "newest_story": "2026-05-21T01:37:21Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "us-news/2026/may/19/kentucky-republican-primary-trump-massie",
-      "headline": "Trump critic Thomas Massie defeated in Kentucky Republican House primary",
-      "summary": "Trump-backed Ed Gallrein defeats Republican congressman Thomas Massie in Kentucky House primary.",
-      "url": "https://www.theguardian.com/p/x53md7",
-      "thumbnail": "https://media.guim.co.uk/ec1d6d260c669b48098e84b25037608dc9ac5268/395_0_4018_3214/500.jpg",
-      "published": "2026-05-20T01:37:25Z",
-      "location": {
-        "name": "Kentucky",
-        "lat": 37.6681,
-        "lng": -84.6701
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "world/2026/may/20/ukraine-war-briefing-britain-to-buy-diesel-and-jet-fuel-made-from-russian-crude-oil",
-      "headline": "Ukraine war briefing: Britain to buy diesel and jet fuel made from Russian crude oil",
-      "summary": "Britain exempts Russian oil refined elsewhere; funeral held in Kyiv for bombing victims on day 1,547.",
-      "url": "https://www.theguardian.com/p/x54gfe",
-      "thumbnail": "https://media.guim.co.uk/ea7b18db96075422d7c142d590bf37929879e8d7/211_0_4578_3662/500.jpg",
-      "published": "2026-05-20T00:44:34Z",
-      "location": {
-        "name": "Kyiv",
-        "lat": 50.4501,
-        "lng": 30.5234
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "world"
-    },
     {
       "id": "society/2026/may/20/children-mental-health-crisis-three-days-ae-specialist-bed-england",
       "headline": "Children in mental health crisis waiting up to three days in A&E for specialist bed in England",
@@ -1254,6 +1222,38 @@
       "category": "politics",
       "significance": 3,
       "section": "world"
+    },
+    {
+      "id": "australia-news/2026/may/21/laser-hair-removal-device-sparks-bomb-scare-evacuation-melbourne-avalon-airport-ntwnfb",
+      "headline": "Terror on the hairlines: laser hair removal device sparks evacuation of Melbourne’s Avalon airport",
+      "summary": "Laser hair removal device triggers bomb scare, evacuation at Melbourne's Avalon airport",
+      "url": "https://www.theguardian.com/p/x54mht",
+      "thumbnail": "https://media.guim.co.uk/2def51d6fd7d8aee8af489e629b32d604bce7b79/0_370_3727_2981/500.jpg",
+      "published": "2026-05-21T01:37:21Z",
+      "location": {
+        "name": "Avalon Airport, Melbourne",
+        "lat": -37.7213,
+        "lng": 144.4712
+      },
+      "category": "other",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "us-news/2026/may/20/trump-news-at-a-glance-latest-updates-today",
+      "headline": "Trump news at a glance: US indicts Raúl Castro, ratcheting up Cuba tensions",
+      "summary": "US indicts former Cuban president Raúl Castro on felony charges including murder",
+      "url": "https://www.theguardian.com/p/x54jjm",
+      "thumbnail": "https://media.guim.co.uk/dae97c52744f7748655dd12597492cd6a9bcf69d/361_0_4167_3335/500.jpg",
+      "published": "2026-05-21T01:00:00Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
     }
   ]
 }
