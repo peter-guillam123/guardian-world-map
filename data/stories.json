@@ -1,188 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-21T01:49:31.757Z",
+    "generated_at": "2026-05-21T06:01:37.871Z",
     "story_count": 78,
-    "oldest_story": "2026-05-20T05:00:23Z",
-    "newest_story": "2026-05-21T01:37:21Z",
+    "oldest_story": "2026-05-20T08:50:22Z",
+    "newest_story": "2026-05-21T06:00:04Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "society/2026/may/20/children-mental-health-crisis-three-days-ae-specialist-bed-england",
-      "headline": "Children in mental health crisis waiting up to three days in A&E for specialist bed in England",
-      "summary": "Children in mental health crisis wait up to three days in A&E for specialist beds in England.",
-      "url": "https://www.theguardian.com/p/x54fcg",
-      "thumbnail": "https://media.guim.co.uk/32f431414f79e2d15c3e56062a371b138da274ee/282_0_3624_2901/500.jpg",
-      "published": "2026-05-20T06:00:28Z",
-      "location": {
-        "name": "England",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "health",
-      "significance": 3,
-      "section": "society"
-    },
-    {
-      "id": "technology/2026/may/20/ai-engineer-says-google-unfairly-sacked-him-after-he-protested-against-work-for-israel",
-      "headline": "AI engineer says Google unfairly sacked him after he protested against work for Israel",
-      "summary": "Google AI engineer claims unfair dismissal after protesting work for Israeli government.",
-      "url": "https://www.theguardian.com/p/x54efc",
-      "thumbnail": "https://media.guim.co.uk/f80f7c0faa77addae41acd9052268a4cf4515372/964_0_4822_3859/500.jpg",
-      "published": "2026-05-20T06:00:26Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "tech",
-      "significance": 2,
-      "section": "technology"
-    },
-    {
-      "id": "travel/2026/may/20/train-jorney-yorkshire-dales-explorer-yorkshire-three-peaks",
-      "headline": "‘A landscape raw and wild’: by train to the heart of the Yorkshire Three Peaks",
-      "summary": "Yorkshire Dales Explorer train journey offers scenic walking route alternative to Settle-Carlisle line.",
-      "url": "https://www.theguardian.com/p/x5xzxg",
-      "thumbnail": "https://media.guim.co.uk/cd4aa4c5d4c93b8b259bcfde7845e259f02e70a6/114_0_3780_3024/500.jpg",
-      "published": "2026-05-20T06:00:25Z",
-      "location": {
-        "name": "Yorkshire Dales",
-        "lat": 54.1913,
-        "lng": -2.2391
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "travel"
-    },
-    {
-      "id": "world/2026/may/20/donald-trump-gaza-reconstruction-promises-stall",
-      "headline": "‘The door to the future of Gaza is still closed’: Trump’s reconstruction promises stall",
-      "summary": "Gaza reconstruction stalls as diplomatic impasse leaves pledged funds uncommitted post-ceasefire.",
-      "url": "https://www.theguardian.com/p/x54d5y",
-      "thumbnail": "https://media.guim.co.uk/f7ee4dc70b08b42b285fe142c06f948b0220a534/3_111_3620_2897/500.jpg",
-      "published": "2026-05-20T06:00:24Z",
-      "location": {
-        "name": "Gaza",
-        "lat": 31.9454,
-        "lng": 35.3382
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "environment/2026/may/20/youngest-australian-to-climb-mount-everest-teenager-18-bianca-adler-melbourne",
-      "headline": "Melbourne teenager Bianca Adler becomes youngest Australian to climb Mount Everest ",
-      "summary": "18-year-old Bianca Adler becomes youngest Australian to summit Mount Everest.",
-      "url": "https://www.theguardian.com/p/x54hhy",
-      "thumbnail": "https://media.guim.co.uk/8fb080d210c5d2ab61b524a892ad5aa05a6db4fc/124_0_2751_2201/500.jpg",
-      "published": "2026-05-20T05:50:20Z",
-      "location": {
-        "name": "Melbourne",
-        "lat": -37.8136,
-        "lng": 144.9631
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "environment"
-    },
-    {
-      "id": "world/2026/may/19/wednesday-briefing-why-millions-of-britons-face-a-pension-cliff-edge",
-      "headline": "Wednesday briefing: Why millions of Britons face a pension cliff edge",
-      "summary": "Report warns 15 million Britons face pension cliff edge due to inadequate retirement savings.",
-      "url": "https://www.theguardian.com/p/x54czx",
-      "thumbnail": "https://media.guim.co.uk/e3016bc1b65fc8ea62de979bfbf539777db3f2df/468_0_4256_3407/500.jpg",
-      "published": "2026-05-20T05:48:28Z",
-      "location": {
-        "name": "United Kingdom",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "sport/2026/may/20/football-australia-finances-restructure-redundancies-mixed-signals",
-      "headline": "An SOS or a timely reset? Football Australia sends mixed signals over latest financial woes",
-      "summary": "Football Australia faces more redundancies amid unclear financial restructuring amid mixed signals.",
-      "url": "https://www.theguardian.com/p/x54ha2",
-      "thumbnail": "https://media.guim.co.uk/703780c23788a06a6d94279b27234b528182e7d7/810_155_2389_1910/500.jpg",
-      "published": "2026-05-20T05:22:59Z",
-      "location": {
-        "name": "Australia",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "sport/2026/may/20/afl-scott-pendlebury-collingwood-legacy",
-      "headline": "From the Pocket: The unflappable Scott Pendlebury keeps it steady through the ages",
-      "summary": "Scott Pendlebury's longevity in AFL reflects exceptional temperament and consistency.",
-      "url": "https://www.theguardian.com/p/x545tz",
-      "thumbnail": "https://media.guim.co.uk/9f2ceebb4a466d60cd9ec5295eb2507e46bffe95/789_949_4047_3239/500.jpg",
-      "published": "2026-05-20T05:06:17Z",
-      "location": {
-        "name": "Australia",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "education/2026/may/20/attainment-at-all-costs-approach-send-changes-schools-england",
-      "headline": "‘Attainment at all costs’ approach could undermine Send changes, school leaders in England say",
-      "summary": "School leaders warn academic attainment policies could undermine special needs provision reforms.",
-      "url": "https://www.theguardian.com/p/x54f42",
-      "thumbnail": "https://media.guim.co.uk/a31771797040e21a3a2464dff3a3d9798a9d825a/159_0_2536_2029/500.jpg",
-      "published": "2026-05-20T05:00:24Z",
-      "location": {
-        "name": "England",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "education"
-    },
-    {
-      "id": "commentisfree/2026/may/20/global-power-britain-brexit",
-      "headline": "The balance of global power is shifting fast, but Britain is stuck in the same old Brexit rut",
-      "summary": "Britain remains trapped in Brexit debate while global power balance shifts toward China.",
-      "url": "https://www.theguardian.com/p/x54eax",
-      "thumbnail": "https://media.guim.co.uk/99fa352eca34991123495dd4847ba079cc5754db/169_0_3335_2668/500.jpg",
-      "published": "2026-05-20T05:00:23Z",
-      "location": {
-        "name": "United Kingdom",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "commentisfree"
-    },
-    {
-      "id": "food/2026/may/20/english-wine-win-gold-medals-international-wine-challenge",
-      "headline": "‘A world-class producer’: English wines toast record gold medal haul",
-      "summary": "English wines achieve record gold medals at International Wine Challenge with Kent leading.",
-      "url": "https://www.theguardian.com/p/x54e9f",
-      "thumbnail": "https://media.guim.co.uk/1a27a195bb3adf4dd31c26cb06c93d23e81ea773/299_902_3851_3081/500.jpg",
-      "published": "2026-05-20T05:00:23Z",
-      "location": {
-        "name": "Kent",
-        "lat": 51.3962,
-        "lng": 0.5581
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "food"
-    },
     {
       "id": "world/live/2026/may/20/lithuania-ukraine-belarus-estonia-baltcis-drones-air-alert-europe-vladimir-putin-xi-jinping-china-eu-nato-latest-news-updates",
       "headline": "Lithuania lifts air alert after suspected drones approaching from Belarus diverted - Europe live ",
@@ -1254,6 +1078,182 @@
       "category": "politics",
       "significance": 3,
       "section": "us-news"
+    },
+    {
+      "id": "business/2026/may/21/schools-unemployment-young-people-neets-peter-hyman",
+      "headline": "Schools are ‘pipeline’ to joblessness for many people, says ex-Labour adviser",
+      "summary": "Ex-Labour adviser Peter Hyman warns schools have become a 'pipeline' to joblessness for young people in UK.",
+      "url": "https://www.theguardian.com/p/x54k86",
+      "thumbnail": "https://media.guim.co.uk/dcac875d615a76c11338a3d2407d6cbc0fd53516/1071_0_7200_5760/500.jpg",
+      "published": "2026-05-21T06:00:04Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "business/2026/may/21/australia-unemployment-rate-jumps-job-market-rba-reserve-bank",
+      "headline": "Australia’s unemployment rate jumps to 4.5% in ‘tentative signs labour market is buckling’ ",
+      "summary": "Australia's unemployment rate jumps to 4.5%, highest in 4.5 years, signaling labour market weakness.",
+      "url": "https://www.theguardian.com/p/x54n4p",
+      "thumbnail": "https://media.guim.co.uk/4ef8c6f676db37ba0a567d202d956823ef66576d/0_0_2881_2305/500.jpg",
+      "published": "2026-05-21T05:57:08Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "business"
+    },
+    {
+      "id": "world/2026/may/21/thursday-briefing-how-english-football-is-pricing-out-its-own-supporters",
+      "headline": "Thursday briefing: How ​English football ​is ​pricing ​out ​its ​own ​supporters",
+      "summary": "English football pricing out supporters despite record revenues and packed stadiums.",
+      "url": "https://www.theguardian.com/p/x54tzd",
+      "thumbnail": "https://media.guim.co.uk/15bc581b2e04e4ee7555bf1f875dcb8edd9497e0/0_0_4800_3840/500.jpg",
+      "published": "2026-05-21T05:44:35Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "sport/blog/2026/may/21/giro-ditalia-cycling-australia-riders-top-10-ben-oconnor-jai-hindley-michael-storer-chris-harper",
+      "headline": "Australia flexes cycling muscles as four riders power into Giro d’Italia Top 10",
+      "summary": "Four Australian cyclists reach Giro d'Italia Top 10, marking strongest grand tour performance.",
+      "url": "https://www.theguardian.com/p/x54n5v",
+      "thumbnail": "https://media.guim.co.uk/94558231a8c3c04bae6f9352eaabbfa15af39b39/0_0_3500_2800/500.jpg",
+      "published": "2026-05-21T05:30:09Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "environment/2026/may/21/england-harvest-rainfall-water-usage-shortages-house-of-lords-report",
+      "headline": "England must harvest rainfall and take action on water usage, Lords warn",
+      "summary": "UK House of Lords warns England faces 5bn litres daily water shortage by 2055 without action.",
+      "url": "https://www.theguardian.com/p/x54ekh",
+      "thumbnail": "https://media.guim.co.uk/df5055acc06c32765bb90dc4a72a9981a2ba0ae8/300_0_6720_5376/500.jpg",
+      "published": "2026-05-21T05:01:01Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "climate",
+      "significance": 3,
+      "section": "environment"
+    },
+    {
+      "id": "environment/2026/may/21/natural-history-museum-jurassic-oceans-monsters-of-the-deep",
+      "headline": "Tentacles, pointy teeth and the T-rex of the sea: the Natural History Museum on beasts that once ruled the oceans",
+      "summary": "Natural History Museum's Jurassic Oceans exhibition showcases prehistoric marine creatures and climate impacts.",
+      "url": "https://www.theguardian.com/p/x53tfv",
+      "thumbnail": "https://media.guim.co.uk/ecfb5751936084684580671d20c0320c62828ea5/1007_739_6292_5033/500.jpg",
+      "published": "2026-05-21T05:01:01Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "environment"
+    },
+    {
+      "id": "news/2026/may/21/weather-bird-numbers-fall-britain-despite-warm-spring",
+      "headline": "Migratory bird numbers fall in Britain despite last year’s warm spring",
+      "summary": "Migratory bird numbers fall in Britain despite warm spring; warblers hit especially hard.",
+      "url": "https://www.theguardian.com/p/x5vx7t",
+      "thumbnail": "https://media.guim.co.uk/d587092328a5dc877b624282d1783c0c7980766d/262_0_2603_2083/500.jpg",
+      "published": "2026-05-21T05:00:03Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "news"
+    },
+    {
+      "id": "commentisfree/2026/may/21/misan-harriman-black-figures-public-life-london-southbank-centre-uk-culture",
+      "headline": "Have no doubt: the campaign to sack Misan Harriman is part of an assault on black figures in public life",
+      "summary": "Campaign against Southbank Centre boss Misan Harriman reflects broader assault on Black public figures.",
+      "url": "https://www.theguardian.com/p/x54dcj",
+      "thumbnail": "https://media.guim.co.uk/9cfebce39782d807952858b7c6ae781a2d2d7fd7/0_0_6765_5412/500.jpg",
+      "published": "2026-05-21T05:00:03Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "commentisfree"
+    },
+    {
+      "id": "food/2026/may/21/sustainable-chefs-in-uk-mourn-loss-of-michelin-green-star",
+      "headline": "‘We feel let down’: sustainable chefs in UK mourn end of Michelin green star",
+      "summary": "UK sustainable chefs mourn Michelin's retirement of green star award for eco-friendly restaurants.",
+      "url": "https://www.theguardian.com/p/x54j54",
+      "thumbnail": "https://media.guim.co.uk/e2f991e14605c25de77781a2722f6d9660b4d8da/504_0_5040_4032/500.jpg",
+      "published": "2026-05-21T05:00:03Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "food"
+    },
+    {
+      "id": "lifeandstyle/2026/may/21/toxic-chemicals-in-pet-flea-treatments-harming-wildlife-uk-study-warns",
+      "headline": "Toxic chemicals in pet flea treatments harming wildlife, UK study warns",
+      "summary": "UK study warns toxic chemicals in pet flea treatments harm wildlife and children with autism.",
+      "url": "https://www.theguardian.com/p/x54det",
+      "thumbnail": "https://media.guim.co.uk/cb1d12c0517809ab0f2d268804cd1ee06d1f4cdf/126_0_3780_3024/500.jpg",
+      "published": "2026-05-21T05:00:02Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "lifeandstyle"
+    },
+    {
+      "id": "business/2026/may/21/vinted-boss-adam-jay-fashion-uk-clothes-retail",
+      "headline": "‘Give every item a long life’: Vinted boss on how the site is moving beyond fashion",
+      "summary": "Vinted CEO discusses secondhand marketplace expansion into phones, cameras, and books beyond fashion.",
+      "url": "https://www.theguardian.com/p/x53tzy",
+      "thumbnail": "https://media.guim.co.uk/b044d4199d1ff9803be1279cb37113abaeafacb3/138_0_1668_1334/500.jpg",
+      "published": "2026-05-21T05:00:01Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
     }
   ]
 }
