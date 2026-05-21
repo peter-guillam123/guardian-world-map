@@ -1,76 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-21T21:53:04.149Z",
-    "story_count": 62,
-    "oldest_story": "2026-05-20T22:06:27Z",
-    "newest_story": "2026-05-21T21:51:22Z",
+    "generated_at": "2026-05-21T23:03:29.126Z",
+    "story_count": 61,
+    "oldest_story": "2026-05-21T01:00:00Z",
+    "newest_story": "2026-05-21T23:01:42Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "australia-news/live/2026/may/21/australia-news-live-penny-wong-israel-flotilla-budget-capital-gains-negative-gearing-anthony-albanese-jim-chalmers-ntwnfb",
-      "headline": "Australia news live: Penny Wong rebukes Israel over ‘shocking and unacceptable’ treatment of flotilla activists",
-      "summary": "Australia's foreign minister condemns Israel's treatment of detained flotilla activists in posted video.",
-      "url": "https://www.theguardian.com/p/x54yp3",
-      "thumbnail": "https://media.guim.co.uk/8d490f6972435a9070a2c8c192d5fd3815f01618/885_0_6662_5333/500.jpg",
-      "published": "2026-05-20T22:06:27Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "business/2026/may/21/manchester-centre-for-cities-deprivation-andy-burnham",
-      "headline": "Manchester shows biggest fall in inner-city deprivation in boost for Burnham",
-      "summary": "Manchester records biggest fall in inner-city deprivation in Britain between 2010-2025.",
-      "url": "https://www.theguardian.com/p/x54kgv",
-      "thumbnail": "https://media.guim.co.uk/0033c0922f7be423d54155af1ebc795c606f94d7/1048_0_7200_5760/500.jpg",
-      "published": "2026-05-20T23:01:54Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4808,
-        "lng": -2.2426
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "football/2026/may/20/we-are-not-going-to-stop-unai-emery-aston-villa-europa-champions-league",
-      "headline": "‘We are not going to stop’: Emery urges Aston Villa to set sights on Europe’s elite",
-      "summary": "Aston Villa wins Europa League title under Unai Emery, vows to reach Champions League elite.",
-      "url": "https://www.theguardian.com/p/x54mvk",
-      "thumbnail": "https://media.guim.co.uk/4265406564954612e9ba3b3599f28254a5ccf892/344_0_3585_2868/500.jpg",
-      "published": "2026-05-20T22:58:08Z",
-      "location": {
-        "name": "Birmingham",
-        "lat": 52.5086,
-        "lng": -1.8845
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "world/2026/may/20/cuba-raul-castro-indictment",
-      "headline": "US indicts former Cuban president Raúl Castro as it seeks to oust regime",
-      "summary": "US indicts 94-year-old former Cuban president Raúl Castro for shooting down exile planes in 1996.",
-      "url": "https://www.theguardian.com/p/x54k8e",
-      "thumbnail": "https://media.guim.co.uk/9760f9dade46512972889809a66ebc356af9c30c/250_0_2501_2000/500.jpg",
-      "published": "2026-05-20T22:40:24Z",
-      "location": {
-        "name": "Miami",
-        "lat": 25.7617,
-        "lng": -80.1918
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
     {
       "id": "australia-news/2026/may/21/laser-hair-removal-device-sparks-bomb-scare-evacuation-melbourne-avalon-airport-ntwnfb",
       "headline": "Terror on the hairlines: laser hair removal device sparks evacuation of Melbourne’s Avalon airport",
@@ -998,6 +934,54 @@
       "category": "sport",
       "significance": 2,
       "section": "sport"
+    },
+    {
+      "id": "society/2026/may/22/melanoma-skin-cancer-cases-uk-reach-record",
+      "headline": "Melanoma skin cancer cases in UK hit record level, analysis finds",
+      "summary": "UK melanoma cases hit record 20,980 diagnoses in 2022, marking first time above 20,000.",
+      "url": "https://www.theguardian.com/p/x54zne",
+      "thumbnail": "https://media.guim.co.uk/5c4047f38e8cd4dfdb526c9598450aa494b6ae6a/0_0_6630_5304/500.jpg",
+      "published": "2026-05-21T23:01:42Z",
+      "location": {
+        "name": "United Kingdom",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 3,
+      "section": "society"
+    },
+    {
+      "id": "football/2026/may/22/premier-league-10-things-to-look-out-for-on-the-final-day-of-the-season",
+      "headline": "Premier League: 10 things to look out for on the final day of the season",
+      "summary": "Premier League final day features Arsenal's party, Europa League fights, and survival battles.",
+      "url": "https://www.theguardian.com/p/x54jmm",
+      "thumbnail": "https://media.guim.co.uk/dde1fd0776358c3f3e31c3db24e9c57945d26ba5/0_0_5000_4000/500.jpg",
+      "published": "2026-05-21T23:00:42Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "media/2026/may/21/guardian-journalists-win-across-categories-at-press-awards-in-london",
+      "headline": "Guardian journalists win across categories at Press Awards in London",
+      "summary": "Guardian journalists win major categories at Press Awards including Gaza reporting recognition.",
+      "url": "https://www.theguardian.com/p/x55vgq",
+      "thumbnail": "https://media.guim.co.uk/1c8bc4631aa795fe7c68d5aaf3a6fc2fa4e09675/187_91_1337_1070/500.jpg",
+      "published": "2026-05-21T22:56:39Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "media"
     }
   ]
 }
