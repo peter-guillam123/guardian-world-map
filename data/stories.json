@@ -1,60 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-21T20:15:49.129Z",
-    "story_count": 67,
-    "oldest_story": "2026-05-20T20:16:37Z",
-    "newest_story": "2026-05-21T20:11:20Z",
+    "generated_at": "2026-05-21T21:53:04.149Z",
+    "story_count": 62,
+    "oldest_story": "2026-05-20T22:06:27Z",
+    "newest_story": "2026-05-21T21:51:22Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "australia-news/2026/may/21/man-charged-with-stealing-camera-equipment-from-bondi-shooting-victim-in-aftermath-of-terror-attack-ntwnfb",
-      "headline": "Man charged with stealing camera equipment from Bondi shooting victim in aftermath of terror attack",
-      "summary": "Man charged with stealing camera equipment from Bondi shooting terror attack victim.",
-      "url": "https://www.theguardian.com/p/x54yte",
-      "thumbnail": "https://media.guim.co.uk/07c278d4a1a6be3b3ae18615247b5ff7c72c60f4/1141_0_6880_5504/500.jpg",
-      "published": "2026-05-20T20:29:11Z",
-      "location": {
-        "name": "Bondi Beach, Sydney",
-        "lat": -33.8912,
-        "lng": 151.2753
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "australia-news"
-    },
-    {
-      "id": "world/2026/may/20/bolivia-protests-coup-paz-pereira",
-      "headline": "Bolivia rocked by protests as US warns of ‘coup d’état’",
-      "summary": "Bolivia rocked by second week of protests as US warns of potential coup d'état.",
-      "url": "https://www.theguardian.com/p/x54kep",
-      "thumbnail": "https://media.guim.co.uk/93b903de5e560b1248bb63863effa0c14c5289e0/150_0_1502_1201/500.jpg",
-      "published": "2026-05-20T20:28:28Z",
-      "location": {
-        "name": "La Paz",
-        "lat": -16.5898,
-        "lng": -68.1506
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "uk-news/2026/may/20/murder-inquiry-fatal-assault-london-bus-driver",
-      "headline": "Murder inquiry launched after fatal assault on London bus driver",
-      "summary": "Murder inquiry launched after bus driver fatally assaulted near Battersea Bridge.",
-      "url": "https://www.theguardian.com/p/x54yg3",
-      "thumbnail": "https://media.guim.co.uk/cb9a781cc989c3436236357b067dbe05dc9068d3/0_314_704_563/500.jpg",
-      "published": "2026-05-20T20:16:37Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "conflict",
-      "significance": 2,
-      "section": "uk-news"
-    },
     {
       "id": "australia-news/live/2026/may/21/australia-news-live-penny-wong-israel-flotilla-budget-capital-gains-negative-gearing-anthony-albanese-jim-chalmers-ntwnfb",
       "headline": "Australia news live: Penny Wong rebukes Israel over ‘shocking and unacceptable’ treatment of flotilla activists",
@@ -70,118 +22,6 @@
       "category": "politics",
       "significance": 2,
       "section": "australia-news"
-    },
-    {
-      "id": "football/2026/may/20/aston-villa-europa-league-win-unai-emery-freiburg",
-      "headline": "Aston Villa relish echoes of history but Europa League win must serve as stepping stone",
-      "summary": "Aston Villa wins Europa League final under Unai Emery's management over Freiburg.",
-      "url": "https://www.theguardian.com/p/x54jne",
-      "thumbnail": "https://media.guim.co.uk/b5f6d6829daa85ad3f2b7efce1a3b3700c84d328/847_0_6827_5464/500.jpg",
-      "published": "2026-05-20T21:51:30Z",
-      "location": {
-        "name": "Birmingham",
-        "lat": 52.5086,
-        "lng": -1.8853
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "technology/2026/may/20/nvidia-revenue-ai-boom",
-      "headline": "Nvidia’s revenue blows past Wall Street expectations as AI boom accelerates",
-      "summary": "Nvidia's revenue surpasses Wall Street expectations amid accelerating global AI infrastructure boom.",
-      "url": "https://www.theguardian.com/p/x54yz6",
-      "thumbnail": "https://media.guim.co.uk/ff328a9939e819378c3b4d3f722390becf056079/779_0_5598_4481/500.jpg",
-      "published": "2026-05-20T21:50:45Z",
-      "location": {
-        "name": "Santa Clara",
-        "lat": 37.3382,
-        "lng": -121.8863
-      },
-      "category": "tech",
-      "significance": 3,
-      "section": "technology"
-    },
-    {
-      "id": "us-news/2026/may/20/mississippi-voting-rights-rally",
-      "headline": "‘We will not go back to Jim Crow’: thousand of Mississippians rally for voting rights",
-      "summary": "Thousands rally in Mississippi against voting rights restrictions following Supreme Court decision.",
-      "url": "https://www.theguardian.com/p/x54yek",
-      "thumbnail": "https://media.guim.co.uk/912c039ef9d3d966c80a1f944744bca0f112f979/1413_0_3348_2679/500.jpg",
-      "published": "2026-05-20T21:36:37Z",
-      "location": {
-        "name": "Jackson",
-        "lat": 32.2988,
-        "lng": -90.1848
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "business/2026/may/20/rachel-reeves-summer-bus-rides-food-tariffs-inflation-fuel-duty",
-      "headline": "Reeves to promise free summer bus rides for children and food tariff cuts in living costs package",
-      "summary": "UK Chancellor Reeves announces free summer bus rides and food tariff cuts in cost-of-living package.",
-      "url": "https://www.theguardian.com/p/x54kcn",
-      "thumbnail": "https://media.guim.co.uk/804a183f2dcdebc67ab8564b9301b247491c469f/642_0_6435_5149/500.jpg",
-      "published": "2026-05-20T21:30:52Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "science/2026/may/20/spacex-finances-stock-market-debut",
-      "headline": "SpaceX reveals plan for $1.75tn stock market debut ",
-      "summary": "SpaceX announces $1.75 trillion stock market debut next month, revealing financials publicly.",
-      "url": "https://www.theguardian.com/p/x54yz8",
-      "thumbnail": "https://media.guim.co.uk/e4127a1b51b188bb902aa5bad7859f6d101b2219/488_0_4024_3220/500.jpg",
-      "published": "2026-05-20T21:22:21Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "tech",
-      "significance": 3,
-      "section": "science"
-    },
-    {
-      "id": "australia-news/2026/may/21/morning-mail-thursday-ntwnfb",
-      "headline": "Morning Mail: ATO rebuked after 97-year-old fined, Keating defends tax changes, outrage over Israel video of flotilla activists",
-      "summary": "ATO criticized for fining 97-year-old Brisbane woman after husband's death; neo-Nazi group denied party status.",
-      "url": "https://www.theguardian.com/p/x54ky5",
-      "thumbnail": "https://media.guim.co.uk/114283e581238d5db3cc9e969d2d9340c142ec87/2181_1688_2339_1871/500.jpg",
-      "published": "2026-05-20T21:16:12Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "sport/2026/may/20/alice-capsey-shines-as-opener-to-give-england-lead-in-t20-series-against-new-zealand",
-      "headline": "Alice Capsey finds swagger to give England T20 series lead against New Zealand ",
-      "summary": "Alice Capsey scores unbeaten 74 as England defeats New Zealand by 7 wickets in T20 opener.",
-      "url": "https://www.theguardian.com/p/x54kp7",
-      "thumbnail": "https://media.guim.co.uk/4491f2920ca97132b74867a596b577ebad80cc74/708_0_3692_2953/500.jpg",
-      "published": "2026-05-20T21:10:11Z",
-      "location": {
-        "name": "Derby",
-        "lat": 52.9229,
-        "lng": -1.4766
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
     },
     {
       "id": "business/2026/may/21/manchester-centre-for-cities-deprivation-andy-burnham",
@@ -1078,6 +918,86 @@
       "category": "politics",
       "significance": 2,
       "section": "us-news"
+    },
+    {
+      "id": "australia-news/live/2026/may/22/australia-news-live-flotilla-sumud-israel-al-roj-camp-isis-budget-capital-gains-negative-gearing-jim-chalmers-anthony-albanese-angus-taylor-ntwnfb",
+      "headline": "News live: Australian flotilla activists released by Israel arrive in Istanbul and claim they were denied food and water",
+      "summary": "Australian Gaza aid flotilla activists released by Israel arrive in Istanbul claiming mistreatment.",
+      "url": "https://www.theguardian.com/p/x55vb9",
+      "thumbnail": "https://media.guim.co.uk/8b8ee18a176f4f5ee196bed7ba18f551e6f3bd79/530_0_2801_2240/500.jpg",
+      "published": "2026-05-21T21:51:22Z",
+      "location": {
+        "name": "Istanbul",
+        "lat": 41.0082,
+        "lng": 28.9784
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "australia-news"
+    },
+    {
+      "id": "technology/2026/may/21/meta-social-media-addiction-kentucky-schools",
+      "headline": "Meta settles major social media addiction lawsuit with school district",
+      "summary": "Meta settles social media addiction lawsuit with Kentucky school district over harmful design practices.",
+      "url": "https://www.theguardian.com/p/x55va9",
+      "thumbnail": "https://media.guim.co.uk/129e1ad16a1cd295e6d6c7f8993344d30cbfd2f2/3_0_3333_2667/500.jpg",
+      "published": "2026-05-21T21:43:13Z",
+      "location": {
+        "name": "Kentucky",
+        "lat": 37.6681,
+        "lng": -84.6701
+      },
+      "category": "tech",
+      "significance": 2,
+      "section": "technology"
+    },
+    {
+      "id": "law/2026/may/21/david-lammy-chairs-first-meeting-of-board-set-up-to-improve-diversity-among-judiciary",
+      "headline": "David Lammy chairs first meeting of board set up to improve diversity among judiciary",
+      "summary": "David Lammy establishes judicial diversity board to improve representation among English judiciary.",
+      "url": "https://www.theguardian.com/p/x54pdm",
+      "thumbnail": "https://media.guim.co.uk/54a02314399574e9b0789459c35a940b2189ec70/180_184_3757_3008/500.jpg",
+      "published": "2026-05-21T21:30:40Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "law"
+    },
+    {
+      "id": "australia-news/2026/may/22/morning-mail-friday-ntwnfb",
+      "headline": "Morning Mail: One Nation’s growing pains; Israel deports Gaza flotilla activists; Kosciuszko feral horses surge",
+      "summary": "One Nation ordered to dissolve and reconstitute branches after internal review uncovers significant issues.",
+      "url": "https://www.theguardian.com/p/x54q9a",
+      "thumbnail": "https://media.guim.co.uk/5d03d86d7a8b89814d512aed7483432bba11323a/873_0_6880_5504/500.jpg",
+      "published": "2026-05-21T21:09:33Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "sport/2026/may/21/hull-kr-thrash-under-strength-wigan-in-appalling-final-rehearsal",
+      "headline": "Hull KR thrash under-strength Wigan in appalling final rehearsal",
+      "summary": "Hull KR crushes under-strength Wigan 62-4 in Challenge Cup final warm-up match.",
+      "url": "https://www.theguardian.com/p/x55v89",
+      "thumbnail": "https://media.guim.co.uk/95c6579ce06b3fb8fcc253b4cbd36cdebca9e171/251_0_2543_2035/500.jpg",
+      "published": "2026-05-21T21:08:22Z",
+      "location": {
+        "name": "Hull",
+        "lat": 53.7457,
+        "lng": -0.3368
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
     }
   ]
 }
