@@ -1,28 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-22T16:09:17.617Z",
-    "story_count": 70,
-    "oldest_story": "2026-05-21T16:15:51Z",
-    "newest_story": "2026-05-22T16:08:08Z",
+    "generated_at": "2026-05-22T18:05:25.548Z",
+    "story_count": 83,
+    "oldest_story": "2026-05-21T19:06:48Z",
+    "newest_story": "2026-05-22T18:02:39Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "world/2026/may/21/cuba-us-attack-raul-castro-indictment",
-      "headline": "Nervy time for Havana neighbours of top officials as fears of US attack grow",
-      "summary": "US indicts former Cuban president Raúl Castro; Havana residents fear potential military strikes.",
-      "url": "https://www.theguardian.com/p/x54ppb",
-      "thumbnail": "https://media.guim.co.uk/22f4432c70a63ada45b91839039134447aa0c2f4/425_0_4583_3667/500.jpg",
-      "published": "2026-05-21T16:15:51Z",
-      "location": {
-        "name": "Havana",
-        "lat": 23.1136,
-        "lng": -82.3666
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
     {
       "id": "football/2026/may/21/southampton-spying-scandal-millwall-wrexham-legal-options",
       "headline": "Spygate commission accuse Southampton of ‘determined plan from the top down’",
@@ -1126,6 +1110,230 @@
       "category": "sport",
       "significance": 2,
       "section": "football"
+    },
+    {
+      "id": "us-news/2026/may/22/tulsi-gabbard-resignation-intelligence-director",
+      "headline": "US intelligence director Tulsi Gabbard leaving post after rocky tenure",
+      "summary": "US intelligence director Tulsi Gabbard resigns after rocky tenure, sidelined from major policy decisions.",
+      "url": "https://www.theguardian.com/p/x55545",
+      "thumbnail": "https://media.guim.co.uk/6f1223a7b5d91f2d7489993cdc91911f04c1c7d7/177_0_3647_2919/500.jpg",
+      "published": "2026-05-22T18:02:39Z",
+      "location": {
+        "name": "Washington, DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/may/22/england-world-cup-training-ground-privacy-kansas-city-spygate",
+      "headline": "FA concerned England World Cup training ground lacks privacy after spygate scandal",
+      "summary": "FA concerned England's World Cup training ground in Kansas City lacks privacy after spygate scandal.",
+      "url": "https://www.theguardian.com/p/x555xd",
+      "thumbnail": "https://media.guim.co.uk/7d1b8a6e80665448affad4430f5248598f49bd4d/249_488_3903_3123/500.jpg",
+      "published": "2026-05-22T18:00:05Z",
+      "location": {
+        "name": "Kansas City",
+        "lat": 39.0997,
+        "lng": -94.5786
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "sport/2026/may/22/formula-one-canadian-grand-prix-montreal-mercedes-george-russell-kimi-antonelli",
+      "headline": "Dominant Mercedes aim to strike a fresh technical blow at Canadian Grand Prix",
+      "summary": "Mercedes unveils upgrades at Canadian Grand Prix as dominant team targets fresh technical advantage.",
+      "url": "https://www.theguardian.com/p/x552zq",
+      "thumbnail": "https://media.guim.co.uk/c906319ccd8980abed78b3d62a9b8fc5104403ee/1035_74_3998_3199/500.jpg",
+      "published": "2026-05-22T17:46:38Z",
+      "location": {
+        "name": "Montreal",
+        "lat": 45.5017,
+        "lng": -73.5673
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "football/2026/may/22/pep-guardiola-undisputed-champion-dugout-style",
+      "headline": "Game of two halves: how Guardiola became champion of dugout style",
+      "summary": "Pep Guardiola relaxed unwritten manager dress code, becoming champion of dugout style.",
+      "url": "https://www.theguardian.com/p/x5542a",
+      "thumbnail": "https://media.guim.co.uk/6c8515150444b43d935918e5e254216e1253663d/7_0_3629_2903/500.jpg",
+      "published": "2026-05-22T17:36:49Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "football"
+    },
+    {
+      "id": "politics/2026/may/22/charity-demands-apology-from-farage-for-intimidating-uninvited-visit",
+      "headline": "Community cafe demands apology from Farage for ‘intimidating’ uninvited visit",
+      "summary": "Community cafe demands apology from Nigel Farage for intimidating uninvited visit during campaign.",
+      "url": "https://www.theguardian.com/p/x554gg",
+      "thumbnail": "https://media.guim.co.uk/7fb85e93b921f65baa761d619680eda527db56e3/720_0_7200_5760/500.jpg",
+      "published": "2026-05-22T17:20:03Z",
+      "location": {
+        "name": "Makerfield",
+        "lat": 53.5667,
+        "lng": -2.6167
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "sport/2026/may/22/grand-slam-protest-french-open-aryna-sabalenka",
+      "headline": "‘As world No 1, I have to stand up and fight’: Sabalenka leads players in grand slam protest",
+      "summary": "Aryna Sabalenka leads players in French Open protest for greater grand slam financial contributions.",
+      "url": "https://www.theguardian.com/p/x552zh",
+      "thumbnail": "https://media.guim.co.uk/7ecd680e7be108e56774e341c6288b4e881c4863/231_0_4429_3543/500.jpg",
+      "published": "2026-05-22T17:19:22Z",
+      "location": {
+        "name": "Paris",
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "us-news/2026/may/22/trump-not-focused-on-economy-poll",
+      "headline": "Kevin Warsh sworn in as Fed chair as Trump faces backlash over economy",
+      "summary": "Kevin Warsh sworn in as Fed chair as Trump faces backlash over economy and cost of living.",
+      "url": "https://www.theguardian.com/p/x55483",
+      "thumbnail": "https://media.guim.co.uk/95ce4c5deb04fc3fcc4a25e89c57a5eccc7cb025/104_0_2534_2027/500.jpg",
+      "published": "2026-05-22T17:16:17Z",
+      "location": {
+        "name": "Washington, DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "politics/2026/may/22/uk-pitched-single-market-for-goods-with-eu-as-it-pursues-trade-reintegration",
+      "headline": "UK pitched single market for goods with EU in pursuit of deeper trade ties",
+      "summary": "UK pitched single market for goods with EU but proposal reportedly rebuffed in trade reintegration bid.",
+      "url": "https://www.theguardian.com/p/x553pc",
+      "thumbnail": "https://media.guim.co.uk/aa0da2a7b804e7d413cd521a0ad89f444964ef7a/0_0_3991_3192/500.jpg",
+      "published": "2026-05-22T17:00:04Z",
+      "location": {
+        "name": "Brussels",
+        "lat": 50.8503,
+        "lng": 4.3517
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "politics"
+    },
+    {
+      "id": "commentisfree/2026/may/22/the-guardian-view-on-britains-coming-energy-shock-mini-measures-wont-suffice",
+      "headline": "The Guardian view on Britain’s coming energy shock: mini-measures won’t suffice",
+      "summary": "Britain faces energy vulnerability; Rachel Reeves announces cost of living measures amid Iran tensions.",
+      "url": "https://www.theguardian.com/p/x553tc",
+      "thumbnail": "https://media.guim.co.uk/7f8feb467dbab4e2989634faf71022bdd149b425/157_0_3474_2780/500.jpg",
+      "published": "2026-05-22T16:59:16Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "commentisfree"
+    },
+    {
+      "id": "commentisfree/2026/may/22/the-guardian-view-on-gallery-and-museum-gardens-a-blooming-triumph",
+      "headline": "The Guardian view on gallery and museum gardens: a blooming triumph",
+      "summary": "Tate Britain garden wins RHS gold award at Chelsea flower show, combining art and nature.",
+      "url": "https://www.theguardian.com/p/x553t8",
+      "thumbnail": "https://media.guim.co.uk/eb95e52bde0922e3e187bd2bd3b832e0c8283b2e/2_0_4549_3640/500.jpg",
+      "published": "2026-05-22T16:58:19Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "commentisfree"
+    },
+    {
+      "id": "world/2026/may/22/kind-of-humiliating-trans-community-responds-to-ehrcs-new-code-of-practice",
+      "headline": "‘Kind of humiliating’: trans community responds to EHRC’s new code of practice",
+      "summary": "Trans community criticizes EHRC's new code of practice on single-sex spaces as humiliating.",
+      "url": "https://www.theguardian.com/p/x5545z",
+      "thumbnail": "https://media.guim.co.uk/e1df845d291ab6c64f2915f4eb250d845fe9ecf0/720_0_7200_5760/500.jpg",
+      "published": "2026-05-22T16:58:11Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "society/2026/may/22/horden-my-home-is-crying-out-for-change",
+      "headline": "Horden, my home, is crying out for change",
+      "summary": "18-year-old calls for action to address housing crisis in County Durham village facing demolition.",
+      "url": "https://www.theguardian.com/p/x54cmt",
+      "thumbnail": "https://media.guim.co.uk/f4dc80ae10c05b97df674ec15e8e33a05ecd20e4/79_0_3008_2406/500.jpg",
+      "published": "2026-05-22T16:55:31Z",
+      "location": {
+        "name": "Horden",
+        "lat": 54.6833,
+        "lng": -1.35
+      },
+      "category": "politics",
+      "significance": 1,
+      "section": "society"
+    },
+    {
+      "id": "politics/2026/may/22/britain-will-be-ungovernable-until-democratic-consent-is-restored",
+      "headline": "Britain will be ungovernable until democratic consent is restored",
+      "summary": "Labour government lacks democratic consent with only 20% of eligible electorate support despite landslide.",
+      "url": "https://www.theguardian.com/p/x552tf",
+      "thumbnail": "https://media.guim.co.uk/b5cd07537ac14580d98e6d197286e967e03515a0/0_210_5146_4114/500.jpg",
+      "published": "2026-05-22T16:55:27Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "food/2026/may/22/cancoillottes-comeback-is-no-surprise",
+      "headline": "Cancoillotte’s comeback is no surprise",
+      "summary": "Cancoillotte, France's viral liquid cheese, experiences comeback amid debate over dairy industry diversity.",
+      "url": "https://www.theguardian.com/p/x54k7h",
+      "thumbnail": "https://media.guim.co.uk/aebfcf3b0c88edee4a10dfcedbcc1caf7460dba5/45_0_4629_3705/500.jpg",
+      "published": "2026-05-22T16:55:23Z",
+      "location": {
+        "name": "France",
+        "lat": 46.2276,
+        "lng": 2.2137
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "food"
     }
   ]
 }
