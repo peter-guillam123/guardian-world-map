@@ -1,188 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-22T08:03:09.009Z",
-    "story_count": 65,
-    "oldest_story": "2026-05-21T08:56:42Z",
-    "newest_story": "2026-05-22T08:00:53Z",
+    "generated_at": "2026-05-22T11:15:24.897Z",
+    "story_count": 64,
+    "oldest_story": "2026-05-21T11:54:41Z",
+    "newest_story": "2026-05-22T11:01:08Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "film/2026/may/21/eagles-of-the-republic-review-tarik-saleh",
-      "headline": "Eagles of the Republic review – seductive thriller of corruption and compromise in post-Mubarak Egypt",
-      "summary": "Tarik Saleh's third Cairo trilogy film examines corruption and compromise in post-Mubarak Egypt.",
-      "url": "https://www.theguardian.com/p/x528vb",
-      "thumbnail": "https://media.guim.co.uk/2e90f8bb6d99d4b8bbb407f972547499ec6d0f47/534_0_6827_5464/500.jpg",
-      "published": "2026-05-21T10:00:08Z",
-      "location": {
-        "name": "Cairo",
-        "lat": 30.0444,
-        "lng": 31.2357
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "film"
-    },
-    {
-      "id": "politics/live/2026/may/21/keir-starmer-labour-leadership-rachel-reeves-cost-of-living-echr-single-sex-spaces-latest-news-updates",
-      "headline": "Net migration into UK almost halved in 2025, official figures show – politics live",
-      "summary": "UK net migration falls to 171,000 in 2025, nearly halved from previous year.",
-      "url": "https://www.theguardian.com/p/x54zxy",
-      "thumbnail": "https://media.guim.co.uk/48c1963eac86acad56356802de631407706285b8/3347_730_4022_3218/500.jpg",
-      "published": "2026-05-21T09:55:15Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "politics"
-    },
-    {
-      "id": "uk-news/2026/may/21/net-migration-uk-falls-labour-vow-cut-numbers",
-      "headline": "Net migration to UK falls by nearly 50% after Labour’s vow to cut numbers",
-      "summary": "Net migration to UK falls nearly 50% to 171,000, boosting Labour government's stance.",
-      "url": "https://www.theguardian.com/p/x54zbe",
-      "thumbnail": "https://media.guim.co.uk/a81ce49f813192b10a8f99071c30049ab8432833/481_0_5683_4547/500.jpg",
-      "published": "2026-05-21T09:34:39Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "uk-news"
-    },
-    {
-      "id": "world/live/2026/may/21/czech-republic-petr-pavel-ukraine-baltics-drones-russia-nato-security-latest-news-updates",
-      "headline": "‘Peace in Europe no longer default situation’, warns Czech president Petr Pavel – Europe live",
-      "summary": "Czech president warns peace in Europe no longer default at security conference.",
-      "url": "https://www.theguardian.com/p/x54m82",
-      "thumbnail": "https://media.guim.co.uk/37180cf860e75738712d04a7101b02aed3a8b361/539_0_1797_1438/500.jpg",
-      "published": "2026-05-21T09:29:08Z",
-      "location": {
-        "name": "Prague",
-        "lat": 50.0755,
-        "lng": 14.4378
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "business/live/2026/may/21/nvidia-beats-wall-street-ai-chip-boom-asia-tech-stocks-business-live-news",
-      "headline": "UK business activity shrinks as economy faces ‘perfect storm’ - business live",
-      "summary": "UK business activity shrinks amid perfect storm; eurozone also contracts.",
-      "url": "https://www.theguardian.com/p/x54nnj",
-      "thumbnail": "https://media.guim.co.uk/8568ed330dcbb2053cd0a0d63f64bb9b10bee833/696_0_6734_5388/500.jpg",
-      "published": "2026-05-21T09:28:03Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "business"
-    },
-    {
-      "id": "world/2026/may/21/lyme-disease-cases-england-rise-tick-vaccines",
-      "headline": "Lyme disease cases in England rise by more than 20% in a year",
-      "summary": "Lyme disease cases in England rise over 20% as scientists develop vaccines.",
-      "url": "https://www.theguardian.com/p/x5273t",
-      "thumbnail": "https://media.guim.co.uk/b786360d4b34adf6f918784bf10cf744bd0bbb10/387_0_3367_2694/500.jpg",
-      "published": "2026-05-21T09:13:52Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "global/2026/may/21/parents-in-the-uk-has-your-childminder-stopped-offering-places-or-closed-their-business",
-      "headline": "Parents in the UK: has your childminder stopped offering places or closed their business?",
-      "summary": "UK childminder numbers halved over decade, raising childcare accessibility concerns.",
-      "url": "https://www.theguardian.com/p/x54jgz",
-      "thumbnail": "https://media.guim.co.uk/8367644ed6181927e69adb032544a964ebde607d/335_0_4210_3367/500.jpg",
-      "published": "2026-05-21T09:12:33Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "global"
-    },
-    {
-      "id": "lifeandstyle/ng-interactive/2026/may/21/lund-point-tower-block-east-london",
-      "headline": "‘I knew everyone here’: the tower block with 164 boarded-up homes – and a few residents who just won’t leave",
-      "summary": "Lund Point tower block in east London has 164 boarded homes, few residents remain.",
-      "url": "https://www.theguardian.com/p/x4a37e",
-      "thumbnail": "https://media.guim.co.uk/0be002f3c0c3293cbee0bf7acd6798b2bfc6cbc7/157_0_7200_5760/500.jpg",
-      "published": "2026-05-21T09:00:07Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "other",
-      "significance": 2,
-      "section": "lifeandstyle"
-    },
-    {
-      "id": "global-development/2026/may/21/pandemic-group-of-former-world-leaders-elders-practising-health-emergency-planning",
-      "headline": " Hard hats, AI and a fake pandemic: the group of former world leaders practising to save the world",
-      "summary": "The Elders practice pandemic response at WHO headquarters in Kenya amid outbreaks.",
-      "url": "https://www.theguardian.com/p/x54k5b",
-      "thumbnail": "https://media.guim.co.uk/6f2de424ae9f2e9aa80d2982d8a82baa76049018/738_506_2781_2225/500.jpg",
-      "published": "2026-05-21T09:00:07Z",
-      "location": {
-        "name": "Nairobi",
-        "lat": -1.2921,
-        "lng": 36.8219
-      },
-      "category": "health",
-      "significance": 3,
-      "section": "global-development"
-    },
-    {
-      "id": "tv-and-radio/2026/may/21/from-lord-of-the-rings-to-dua-lipa-stephen-colberts-10-greatest-late-show-moments",
-      "headline": "From Lord of the Rings to Dua Lipa: Stephen Colbert’s 10 greatest Late Show moments",
-      "summary": "Stephen Colbert's Late Show ends with retrospective of greatest moments.",
-      "url": "https://www.theguardian.com/p/x54k9e",
-      "thumbnail": "https://media.guim.co.uk/68e3788544e92cae3f95d8e55fbd69371161505e/160_0_2500_2002/500.jpg",
-      "published": "2026-05-21T09:00:06Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "tv-and-radio"
-    },
-    {
-      "id": "politics/2026/may/21/greens-select-nurse-chris-kennedy-makerfield-byelection-candidate",
-      "headline": "Greens select nurse and ‘committed local campaigner’ as Makerfield byelection candidate",
-      "summary": "Greens select nurse Chris Kennedy as Makerfield byelection candidate.",
-      "url": "https://www.theguardian.com/p/x54z5k",
-      "thumbnail": "https://media.guim.co.uk/112a0208f8f56ea882dce2e1057c160bac3c678f/0_76_1875_1500/500.jpg",
-      "published": "2026-05-21T08:56:42Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
     {
       "id": "politics/2026/may/21/reeves-cuts-vat-on-summer-days-out-part-of-cost-of-living-support",
       "headline": "Reeves cuts VAT on summer days out to 5% as part of cost of living support",
@@ -1046,6 +870,166 @@
       "category": "economy",
       "significance": 2,
       "section": "australia-news"
+    },
+    {
+      "id": "world/2026/may/22/western-europe-braces-first-heat-event-summer",
+      "headline": "Western Europe braces for first major heat event of the summer",
+      "summary": "Western Europe faces first major heat wave with temperatures exceeding 30C across multiple nations.",
+      "url": "https://www.theguardian.com/p/x553v8",
+      "thumbnail": "https://media.guim.co.uk/75d65d3ce07b4cf06bd25dc9ba6c5b2398b1e820/77_0_3333_2667/500.jpg",
+      "published": "2026-05-22T11:01:08Z",
+      "location": {
+        "name": "Spain",
+        "lat": 40.4637,
+        "lng": -3.7492
+      },
+      "category": "climate",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "politics/live/2026/may/22/andy-burnham-makerfield-byelection-green-labour-starmer-latest-news-updates",
+      "headline": "Burnham says politics ‘needs new script’ and vows to change Labour if elected as Makerfield MP – UK politics live",
+      "summary": "Andy Burnham campaigns for Makerfield MP, pledging Labour needs new direction.",
+      "url": "https://www.theguardian.com/p/x552yg",
+      "thumbnail": "https://media.guim.co.uk/59c1baa386f1482647163cb04dae0f8affd7165b/997_571_3967_3174/500.jpg",
+      "published": "2026-05-22T10:58:24Z",
+      "location": {
+        "name": "Makerfield",
+        "lat": 53.54,
+        "lng": -2.67
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "business/2026/may/22/standard-chartered-boss-apologises-for-lower-value-human-capital-comments-amid-job-cuts",
+      "headline": "Standard Chartered boss apologises for ‘lower-value human capital’ comments amid job cuts",
+      "summary": "Standard Chartered CEO apologizes for 'lower-value human capital' remarks over AI job cuts.",
+      "url": "https://www.theguardian.com/p/x55397",
+      "thumbnail": "https://media.guim.co.uk/e594cdf26c42af843198701085d97b990d825fe4/767_356_1163_931/500.jpg",
+      "published": "2026-05-22T10:51:11Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "us-news/2026/may/22/first-thing-progressive-democrats-2024-election-autopsy-silence-gaza",
+      "headline": "First Thing: Progressive Democrats criticize 2024 election autopsy for silence on Gaza ",
+      "summary": "Democrats release 2024 election autopsy report criticized for omitting Gaza and Biden's age.",
+      "url": "https://www.theguardian.com/p/x54qty",
+      "thumbnail": "https://media.guim.co.uk/532012e5600b6336ae2641a2691fbcc2b36e47c7/458_0_4583_3667/500.jpg",
+      "published": "2026-05-22T10:36:14Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "commentisfree/2026/may/22/electoral-reform-reverse-brexit-labour-leadership-eu-debate",
+      "headline": "Electoral reform and reversing Brexit: they’re more connected than you might think",
+      "summary": "Electoral reform and EU rejoin debate linked in Labour's emerging leadership contest.",
+      "url": "https://www.theguardian.com/p/x54pze",
+      "thumbnail": "https://media.guim.co.uk/5081a8a976cca8a7813ad940c84ea3bdb8669992/510_0_6393_5115/500.jpg",
+      "published": "2026-05-22T10:33:17Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "commentisfree"
+    },
+    {
+      "id": "football/2026/may/22/pep-guardiola-manchester-city-changed-face-of-english-football",
+      "headline": "Pep Guardiola’s perpetual revolutions have changed face of English football",
+      "summary": "Pep Guardiola's tactical revolutions transformed English football over decade at Manchester City.",
+      "url": "https://www.theguardian.com/p/x5x2ae",
+      "thumbnail": "https://media.guim.co.uk/52ca3ca044299e2899e9e77b9c8310c3d2f30548/392_0_3924_3139/500.jpg",
+      "published": "2026-05-22T10:30:56Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "environment/2026/may/22/un-climate-crisis-vote-shows-political-momentum-growing-experts",
+      "headline": "UN’s climate crisis vote shows political momentum is growing, say experts",
+      "summary": "UN votes 141-0 affirming right to healthy environment; hailed as breakthrough for climate action.",
+      "url": "https://www.theguardian.com/p/x54ph5",
+      "thumbnail": "https://media.guim.co.uk/68c4a5c5da0d791d448c13550737b4561489b7d2/501_0_4383_3506/500.jpg",
+      "published": "2026-05-22T10:27:07Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "climate",
+      "significance": 3,
+      "section": "environment"
+    },
+    {
+      "id": "music/2026/may/22/dido-and-aeneas-review-cutty-sark-london",
+      "headline": "Dido and Aeneas review – close your eyes and this was a tremendous performance",
+      "summary": "Monteverdi Choir performs Purcell's Dido and Aeneas under Cutty Sark's 200ft hull.",
+      "url": "https://www.theguardian.com/p/x552q6",
+      "thumbnail": "https://media.guim.co.uk/ab6c98117669a94fb5dd655bdcdff9eed1b48445/620_0_6844_5477/500.jpg",
+      "published": "2026-05-22T10:17:46Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "music"
+    },
+    {
+      "id": "football/2026/may/22/pep-guardiola-confirms-leaving-manchester-city",
+      "headline": "‘Nothing is eternal’: Pep Guardiola confirms he is leaving Manchester City after 10 years",
+      "summary": "Pep Guardiola confirms departure from Manchester City after 10 years; Enzo Maresca to replace him.",
+      "url": "https://www.theguardian.com/p/x54dt8",
+      "thumbnail": "https://media.guim.co.uk/e406907c6f63b249072b5afc145401feb0283a90/0_72_1853_1482/500.jpg",
+      "published": "2026-05-22T10:14:48Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "sport",
+      "significance": 4,
+      "section": "football"
+    },
+    {
+      "id": "music/2026/may/22/doja-cat-review-ovo-hydro-glasgow-uk-tour",
+      "headline": "Doja Cat review – pop superstar or true freak? US iconoclast plays the tension to perfection",
+      "summary": "Doja Cat delivers commanding performance at OVO Hydro balancing pop, rap, and rock aesthetics.",
+      "url": "https://www.theguardian.com/p/x552yc",
+      "thumbnail": "https://media.guim.co.uk/70d9d2270b80ac8ba6ae2978283e88870bdd6d67/0_1173_3956_3165/500.jpg",
+      "published": "2026-05-22T10:12:49Z",
+      "location": {
+        "name": "Glasgow",
+        "lat": 55.8642,
+        "lng": -4.2518
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "music"
     }
   ]
 }
