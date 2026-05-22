@@ -1,188 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-22T04:39:09.225Z",
+    "generated_at": "2026-05-22T08:03:09.009Z",
     "story_count": 65,
-    "oldest_story": "2026-05-21T05:00:01Z",
-    "newest_story": "2026-05-22T04:30:48Z",
+    "oldest_story": "2026-05-21T08:56:42Z",
+    "newest_story": "2026-05-22T08:00:53Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "business/2026/may/21/schools-unemployment-young-people-neets-peter-hyman",
-      "headline": "Schools are ‘pipeline’ to joblessness for many people, says ex-Labour adviser",
-      "summary": "Ex-Labour adviser Peter Hyman warns schools have become a 'pipeline' to joblessness for young people in UK.",
-      "url": "https://www.theguardian.com/p/x54k86",
-      "thumbnail": "https://media.guim.co.uk/dcac875d615a76c11338a3d2407d6cbc0fd53516/1071_0_7200_5760/500.jpg",
-      "published": "2026-05-21T06:00:04Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "business/2026/may/21/australia-unemployment-rate-jumps-job-market-rba-reserve-bank",
-      "headline": "Australia’s unemployment rate jumps to 4.5% in ‘tentative signs labour market is buckling’ ",
-      "summary": "Australia's unemployment rate jumps to 4.5%, highest in 4.5 years, signaling labour market weakness.",
-      "url": "https://www.theguardian.com/p/x54n4p",
-      "thumbnail": "https://media.guim.co.uk/4ef8c6f676db37ba0a567d202d956823ef66576d/0_0_2881_2305/500.jpg",
-      "published": "2026-05-21T05:57:08Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "business"
-    },
-    {
-      "id": "world/2026/may/21/thursday-briefing-how-english-football-is-pricing-out-its-own-supporters",
-      "headline": "Thursday briefing: How ​English football ​is ​pricing ​out ​its ​own ​supporters",
-      "summary": "English football pricing out supporters despite record revenues and packed stadiums.",
-      "url": "https://www.theguardian.com/p/x54tzd",
-      "thumbnail": "https://media.guim.co.uk/15bc581b2e04e4ee7555bf1f875dcb8edd9497e0/0_0_4800_3840/500.jpg",
-      "published": "2026-05-21T05:44:35Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "sport/blog/2026/may/21/giro-ditalia-cycling-australia-riders-top-10-ben-oconnor-jai-hindley-michael-storer-chris-harper",
-      "headline": "Australia flexes cycling muscles as four riders power into Giro d’Italia Top 10",
-      "summary": "Four Australian cyclists reach Giro d'Italia Top 10, marking strongest grand tour performance.",
-      "url": "https://www.theguardian.com/p/x54n5v",
-      "thumbnail": "https://media.guim.co.uk/94558231a8c3c04bae6f9352eaabbfa15af39b39/0_0_3500_2800/500.jpg",
-      "published": "2026-05-21T05:30:09Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "environment/2026/may/21/england-harvest-rainfall-water-usage-shortages-house-of-lords-report",
-      "headline": "England must harvest rainfall and take action on water usage, Lords warn",
-      "summary": "UK House of Lords warns England faces 5bn litres daily water shortage by 2055 without action.",
-      "url": "https://www.theguardian.com/p/x54ekh",
-      "thumbnail": "https://media.guim.co.uk/df5055acc06c32765bb90dc4a72a9981a2ba0ae8/300_0_6720_5376/500.jpg",
-      "published": "2026-05-21T05:01:01Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "climate",
-      "significance": 3,
-      "section": "environment"
-    },
-    {
-      "id": "environment/2026/may/21/natural-history-museum-jurassic-oceans-monsters-of-the-deep",
-      "headline": "Tentacles, pointy teeth and the T-rex of the sea: the Natural History Museum on beasts that once ruled the oceans",
-      "summary": "Natural History Museum's Jurassic Oceans exhibition showcases prehistoric marine creatures and climate impacts.",
-      "url": "https://www.theguardian.com/p/x53tfv",
-      "thumbnail": "https://media.guim.co.uk/ecfb5751936084684580671d20c0320c62828ea5/1007_739_6292_5033/500.jpg",
-      "published": "2026-05-21T05:01:01Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "environment"
-    },
-    {
-      "id": "news/2026/may/21/weather-bird-numbers-fall-britain-despite-warm-spring",
-      "headline": "Migratory bird numbers fall in Britain despite last year’s warm spring",
-      "summary": "Migratory bird numbers fall in Britain despite warm spring; warblers hit especially hard.",
-      "url": "https://www.theguardian.com/p/x5vx7t",
-      "thumbnail": "https://media.guim.co.uk/d587092328a5dc877b624282d1783c0c7980766d/262_0_2603_2083/500.jpg",
-      "published": "2026-05-21T05:00:03Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "news"
-    },
-    {
-      "id": "commentisfree/2026/may/21/misan-harriman-black-figures-public-life-london-southbank-centre-uk-culture",
-      "headline": "Have no doubt: the campaign to sack Misan Harriman is part of an assault on black figures in public life",
-      "summary": "Campaign against Southbank Centre boss Misan Harriman reflects broader assault on Black public figures.",
-      "url": "https://www.theguardian.com/p/x54dcj",
-      "thumbnail": "https://media.guim.co.uk/9cfebce39782d807952858b7c6ae781a2d2d7fd7/0_0_6765_5412/500.jpg",
-      "published": "2026-05-21T05:00:03Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "commentisfree"
-    },
-    {
-      "id": "food/2026/may/21/sustainable-chefs-in-uk-mourn-loss-of-michelin-green-star",
-      "headline": "‘We feel let down’: sustainable chefs in UK mourn end of Michelin green star",
-      "summary": "UK sustainable chefs mourn Michelin's retirement of green star award for eco-friendly restaurants.",
-      "url": "https://www.theguardian.com/p/x54j54",
-      "thumbnail": "https://media.guim.co.uk/e2f991e14605c25de77781a2722f6d9660b4d8da/504_0_5040_4032/500.jpg",
-      "published": "2026-05-21T05:00:03Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "food"
-    },
-    {
-      "id": "lifeandstyle/2026/may/21/toxic-chemicals-in-pet-flea-treatments-harming-wildlife-uk-study-warns",
-      "headline": "Toxic chemicals in pet flea treatments harming wildlife, UK study warns",
-      "summary": "UK study warns toxic chemicals in pet flea treatments harm wildlife and children with autism.",
-      "url": "https://www.theguardian.com/p/x54det",
-      "thumbnail": "https://media.guim.co.uk/cb1d12c0517809ab0f2d268804cd1ee06d1f4cdf/126_0_3780_3024/500.jpg",
-      "published": "2026-05-21T05:00:02Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "lifeandstyle"
-    },
-    {
-      "id": "business/2026/may/21/vinted-boss-adam-jay-fashion-uk-clothes-retail",
-      "headline": "‘Give every item a long life’: Vinted boss on how the site is moving beyond fashion",
-      "summary": "Vinted CEO discusses secondhand marketplace expansion into phones, cameras, and books beyond fashion.",
-      "url": "https://www.theguardian.com/p/x53tzy",
-      "thumbnail": "https://media.guim.co.uk/b044d4199d1ff9803be1279cb37113abaeafacb3/138_0_1668_1334/500.jpg",
-      "published": "2026-05-21T05:00:01Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
     {
       "id": "film/2026/may/21/eagles-of-the-republic-review-tarik-saleh",
       "headline": "Eagles of the Republic review – seductive thriller of corruption and compromise in post-Mubarak Egypt",
@@ -1046,6 +870,182 @@
       "category": "culture",
       "significance": 1,
       "section": "stage"
+    },
+    {
+      "id": "global-development/2026/may/22/aid-international-charity-frontline-adapt",
+      "headline": "The dinosaurs of international aid must adapt or die – their expensive era is over",
+      "summary": "International aid organizations face pressure to reduce overhead and shift spending to grassroots level.",
+      "url": "https://www.theguardian.com/p/x54pvc",
+      "thumbnail": "https://media.guim.co.uk/07f7507aaf58c38a9ad4632317f715c6fce12461/972_513_4951_3963/500.jpg",
+      "published": "2026-05-22T08:00:53Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "global-development"
+    },
+    {
+      "id": "world/live/2026/may/22/nato-mark-rutte-us-donald-trump-troops-poland-summit-russia-baltics-drones-tensions-ukraine-latest-news-updates",
+      "headline": "Nato foreign ministers meet to navigate shifting partnership with the US – Europe live",
+      "summary": "NATO foreign ministers navigate US partnership amid Trump's announcement of 5,000 troops deployment to Poland.",
+      "url": "https://www.theguardian.com/p/x552tj",
+      "thumbnail": "https://media.guim.co.uk/2131d3b2a5805406d2a161cc988b05a3658ab87e/725_0_4331_3465/500.jpg",
+      "published": "2026-05-22T07:59:42Z",
+      "location": {
+        "name": "Stockholm",
+        "lat": 59.3293,
+        "lng": 18.0686
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "football/live/2026/may/22/england-world-cup-2026-squad-revealed-thomas-tuchel-football-news-live",
+      "headline": "England’s World Cup 2026 squad to be revealed by Thomas Tuchel: football – live ",
+      "summary": "England manager Thomas Tuchel reveals 26-player squad for 2026 World Cup; Djed Spence selected.",
+      "url": "https://www.theguardian.com/p/x54kft",
+      "thumbnail": "https://media.guim.co.uk/e253dae88f391a2411b22643070ea2e18b9af436/430_88_3121_2498/500.jpg",
+      "published": "2026-05-22T07:52:50Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "business/live/2026/may/22/uk-borrowing-higher-retail-sales-drivers-fuel-business-live-news",
+      "headline": "UK borrowing hits higher than expected £24.3bn in April; retail sales drop as drivers cut back on fuel - business live ",
+      "summary": "UK borrowing surges to £24.3bn in April as inflation drives pensions and benefits costs higher.",
+      "url": "https://www.theguardian.com/p/x552b6",
+      "thumbnail": "https://media.guim.co.uk/5f535916b681b132e131a7893d86d5f9c5ad630b/0_0_3787_3031/500.jpg",
+      "published": "2026-05-22T07:45:44Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "music/2026/may/22/miles-davis-ascenseur-pour-lechafaud-review-decca",
+      "headline": "Miles Davis: Ascenseur pour l’Échafaud review – harmonic openness for Louis Malle’s haunting noir thriller",
+      "summary": "English Heritage unveils 4,500-year-old Neolithic hall reconstruction near Stonehenge for visitor education.",
+      "url": "https://www.theguardian.com/p/x54j7j",
+      "thumbnail": "https://media.guim.co.uk/7edb4f48830adbb29ae6ba954c32c65009b57cb1/0_900_4912_3927/500.jpg",
+      "published": "2026-05-22T07:30:52Z",
+      "location": {
+        "name": "Wiltshire",
+        "lat": 51.1789,
+        "lng": -1.8262
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "music"
+    },
+    {
+      "id": "business/2026/may/22/uk-borrowed-bigger-april-inflation-benefits-bill",
+      "headline": "UK borrowed bigger than forecast £24.3bn in April as inflation adds to benefits bill",
+      "summary": "Manchester mayor Andy Burnham's collectivist philosophy could influence Westminster politics and policy.",
+      "url": "https://www.theguardian.com/p/x552c6",
+      "thumbnail": "https://media.guim.co.uk/84888d0396563f0283d40bc43277b50f9e58edab/795_169_3892_3114/500.jpg",
+      "published": "2026-05-22T07:05:49Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "commentisfree/2026/may/22/andy-burnham-manchester-unique-spirit-britain-westminster",
+      "headline": "Andy Burnham’s Manchester has a defining spirit – and Britain could do with a lot more of it",
+      "summary": "British Chess Solving Championship offers entry to 2027 World Championship team selection.",
+      "url": "https://www.theguardian.com/p/x54zpz",
+      "thumbnail": "https://media.guim.co.uk/aaea57fb90fa1ba9e3f066e94aa5aa038d47c6be/0_0_5000_4000/500.jpg",
+      "published": "2026-05-22T07:00:53Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 1,
+      "section": "commentisfree"
+    },
+    {
+      "id": "football/2026/may/22/bayer-uerdingen-miracle-berlin-bayern-munich-dfb-pokal",
+      "headline": "Bayer Uerdingen’s ‘miracle of Berlin’ bewildered Bayern Munich before slow fade to obscurity ",
+      "summary": "Bayer Uerdingen's 1985 DFB-Pokal final victory over Bayern Munich marked a remarkable upset before the club's decline.",
+      "url": "https://www.theguardian.com/p/x5xna2",
+      "thumbnail": "https://media.guim.co.uk/127fc9a53a8e7d6f58b8110dd72cffad4c1caec0/83_52_2050_1640/500.jpg",
+      "published": "2026-05-22T07:00:52Z",
+      "location": {
+        "name": "Berlin",
+        "lat": 52.52,
+        "lng": 13.405
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "stage/2026/may/22/end-of-the-rainbow-review-jinkx-monsoon-judy-garland",
+      "headline": "End of the Rainbow review – Jinkx Monsoon’s Judy Garland could be the talk of the town",
+      "summary": "Jinkx Monsoon stars in 'End of the Rainbow' as Judy Garland at Soho Theatre Walthamstow.",
+      "url": "https://www.theguardian.com/p/x54tha",
+      "thumbnail": "https://media.guim.co.uk/5d306bde2377b954291b4f90e54ca172ff56c63f/853_525_5378_4302/500.jpg",
+      "published": "2026-05-22T07:00:51Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "stage"
+    },
+    {
+      "id": "tv-and-radio/2026/may/22/stephen-colbert-late-show-finale-star-packed-goodbye-paul-mccartney-elvis-costello",
+      "headline": "Stephen Colbert’s Late Show finale was a bittersweet, star-packed goodbye",
+      "summary": "Stephen Colbert's Late Show finale featured star-packed 80-minute goodbye with Paul McCartney and Elvis Costello.",
+      "url": "https://www.theguardian.com/p/x552bt",
+      "thumbnail": "https://media.guim.co.uk/eb0242a2d6da15b2bcc82ab72490b8a8e9176dda/312_0_2082_1666/500.jpg",
+      "published": "2026-05-22T06:58:09Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "tv-and-radio"
+    },
+    {
+      "id": "australia-news/2026/may/22/afternoon-update-friday-ntwnfb",
+      "headline": "Afternoon Update: Guzman y Gomez quits US; Victorian man dies on Inca Trail; and Studio Ghibli-esque home torn down",
+      "summary": "Australian fast food chain Guzman y Gomez closes US operations after failing to compete in Mexican food market.",
+      "url": "https://www.theguardian.com/p/x55xp4",
+      "thumbnail": "https://media.guim.co.uk/90fc42bfc65c49aaeb66ce158abb613bac5507e4/106_0_4729_3783/500.jpg",
+      "published": "2026-05-22T06:54:36Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "australia-news"
     }
   ]
 }
