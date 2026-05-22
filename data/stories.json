@@ -1,60 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-22T22:39:05.302Z",
-    "story_count": 85,
-    "oldest_story": "2026-05-21T22:56:39Z",
-    "newest_story": "2026-05-22T22:19:37Z",
+    "generated_at": "2026-05-22T23:47:41.862Z",
+    "story_count": 83,
+    "oldest_story": "2026-05-22T00:00:43Z",
+    "newest_story": "2026-05-22T23:05:11Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "society/2026/may/22/melanoma-skin-cancer-cases-uk-reach-record",
-      "headline": "Melanoma skin cancer cases in UK hit record level, analysis finds",
-      "summary": "UK melanoma cases hit record 20,980 diagnoses in 2022, marking first time above 20,000.",
-      "url": "https://www.theguardian.com/p/x54zne",
-      "thumbnail": "https://media.guim.co.uk/5c4047f38e8cd4dfdb526c9598450aa494b6ae6a/0_0_6630_5304/500.jpg",
-      "published": "2026-05-21T23:01:42Z",
-      "location": {
-        "name": "United Kingdom",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "health",
-      "significance": 3,
-      "section": "society"
-    },
-    {
-      "id": "football/2026/may/22/premier-league-10-things-to-look-out-for-on-the-final-day-of-the-season",
-      "headline": "Premier League: 10 things to look out for on the final day of the season",
-      "summary": "Premier League final day features Arsenal's party, Europa League fights, and survival battles.",
-      "url": "https://www.theguardian.com/p/x54jmm",
-      "thumbnail": "https://media.guim.co.uk/dde1fd0776358c3f3e31c3db24e9c57945d26ba5/0_0_5000_4000/500.jpg",
-      "published": "2026-05-21T23:00:42Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "media/2026/may/21/guardian-journalists-win-across-categories-at-press-awards-in-london",
-      "headline": "Guardian journalists win across categories at Press Awards in London",
-      "summary": "Guardian journalists win major categories at Press Awards including Gaza reporting recognition.",
-      "url": "https://www.theguardian.com/p/x55vgq",
-      "thumbnail": "https://media.guim.co.uk/1c8bc4631aa795fe7c68d5aaf3a6fc2fa4e09675/187_91_1337_1070/500.jpg",
-      "published": "2026-05-21T22:56:39Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "media"
-    },
     {
       "id": "australia-news/2026/may/22/labor-mps-expect-eventual-concessions-for-startups-after-backlash-to-cgt-changes",
       "headline": "Labor MPs expect eventual concessions for startups after backlash to CGT changes",
@@ -1366,6 +1318,22 @@
       "category": "politics",
       "significance": 3,
       "section": "us-news"
+    },
+    {
+      "id": "news/2026/may/23/corrections-and-clarifications",
+      "headline": " Corrections and clarifications",
+      "summary": "Corrections to top 100 novels list including Camus's The Outsider and other placements.",
+      "url": "https://www.theguardian.com/p/x553be",
+      "thumbnail": null,
+      "published": "2026-05-22T23:05:11Z",
+      "location": {
+        "name": "Marseille",
+        "lat": 43.2965,
+        "lng": 5.3698
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "news"
     }
   ]
 }
