@@ -1,44 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-22T00:14:20.138Z",
-    "story_count": 62,
-    "oldest_story": "2026-05-21T01:00:00Z",
-    "newest_story": "2026-05-22T00:00:43Z",
+    "generated_at": "2026-05-22T04:39:09.225Z",
+    "story_count": 65,
+    "oldest_story": "2026-05-21T05:00:01Z",
+    "newest_story": "2026-05-22T04:30:48Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "australia-news/2026/may/21/laser-hair-removal-device-sparks-bomb-scare-evacuation-melbourne-avalon-airport-ntwnfb",
-      "headline": "Terror on the hairlines: laser hair removal device sparks evacuation of Melbourne’s Avalon airport",
-      "summary": "Laser hair removal device triggers bomb scare, evacuation at Melbourne's Avalon airport",
-      "url": "https://www.theguardian.com/p/x54mht",
-      "thumbnail": "https://media.guim.co.uk/2def51d6fd7d8aee8af489e629b32d604bce7b79/0_370_3727_2981/500.jpg",
-      "published": "2026-05-21T01:37:21Z",
-      "location": {
-        "name": "Avalon Airport, Melbourne",
-        "lat": -37.7213,
-        "lng": 144.4712
-      },
-      "category": "other",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "us-news/2026/may/20/trump-news-at-a-glance-latest-updates-today",
-      "headline": "Trump news at a glance: US indicts Raúl Castro, ratcheting up Cuba tensions",
-      "summary": "US indicts former Cuban president Raúl Castro on felony charges including murder",
-      "url": "https://www.theguardian.com/p/x54jjm",
-      "thumbnail": "https://media.guim.co.uk/dae97c52744f7748655dd12597492cd6a9bcf69d/361_0_4167_3335/500.jpg",
-      "published": "2026-05-21T01:00:00Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
     {
       "id": "business/2026/may/21/schools-unemployment-young-people-neets-peter-hyman",
       "headline": "Schools are ‘pipeline’ to joblessness for many people, says ex-Labour adviser",
@@ -998,6 +966,86 @@
       "category": "politics",
       "significance": 2,
       "section": "australia-news"
+    },
+    {
+      "id": "environment/2026/may/22/country-diary-violence-precision-and-a-free-lunch-welcome-to-the-weird-world-of-pollination",
+      "headline": "Country diary: Violence, precision and a free lunch – welcome to the weird world of pollination",
+      "summary": "Country diary explores pollination mechanisms and bee-flower co-evolution on sunny May morning.",
+      "url": "https://www.theguardian.com/p/x52jbe",
+      "thumbnail": "https://media.guim.co.uk/eef41fc64a4fe05bae0e09b352a643465231ffda/49_0_1461_1169/500.jpg",
+      "published": "2026-05-22T04:30:48Z",
+      "location": {
+        "name": "Willington, County Durham",
+        "lat": 54.65,
+        "lng": -1.7
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "environment"
+    },
+    {
+      "id": "world/2026/may/22/ronald-dela-rosa-explainer-icc-arrest-warrant-war-on-drugs-duterte-philippines-ntwnfb",
+      "headline": "A pursuit in the senate, gunfire, now on the run: why is a former Philippines police chief in hiding?",
+      "summary": "Former Philippines police chief Ronald dela Rosa goes into hiding following arrest warrant for war on drugs crimes.",
+      "url": "https://www.theguardian.com/p/x55x2b",
+      "thumbnail": "https://media.guim.co.uk/6fecb949bbe0dd65030bdd2301d7161bc7716939/367_0_6492_5197/500.jpg",
+      "published": "2026-05-22T04:13:38Z",
+      "location": {
+        "name": "Manila, Philippines",
+        "lat": 14.5995,
+        "lng": 120.9842
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "commentisfree/2026/may/22/france-pro-palestinian-solidarity-silenced-criminalised",
+      "headline": "In France, pro-Palestinian solidarity is being silenced and criminalised",
+      "summary": "France shelves controversial 'Yadan bill' but pro-Palestinian protest remains criminalised and silenced.",
+      "url": "https://www.theguardian.com/p/x5xnty",
+      "thumbnail": "https://media.guim.co.uk/96dbbc58bc15e3ddeb2a117d91bc3f6814f5ac74/434_0_3030_2425/500.jpg",
+      "published": "2026-05-22T04:00:49Z",
+      "location": {
+        "name": "Paris, France",
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "commentisfree"
+    },
+    {
+      "id": "lifeandstyle/2026/may/22/experience-found-baby-subway-now-26-year-old-son",
+      "headline": "Experience: we found a baby on the subway – now he’s our 26-year-old son",
+      "summary": "Couple adopts baby found abandoned on subway in 2000; now 26-year-old son reflects on life together.",
+      "url": "https://www.theguardian.com/p/x4jdfy",
+      "thumbnail": "https://media.guim.co.uk/f706eb434887eae276067c37e0e5e293eff536d0/349_0_2501_2001/500.jpg",
+      "published": "2026-05-22T04:00:49Z",
+      "location": {
+        "name": "New York City, United States",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "lifeandstyle"
+    },
+    {
+      "id": "stage/2026/may/22/even-these-things-review-royal-exchange-manchester",
+      "headline": "Even These Things review – mapping Manchester’s history, from a Victorian fist fight to the IRA bomb",
+      "summary": "Royal Exchange stages 'Even These Things', tracing Manchester's history through three centuries of pivotal events.",
+      "url": "https://www.theguardian.com/p/x54zaa",
+      "thumbnail": "https://media.guim.co.uk/a5f40c920fb59ff9ac9b7c9caa83d87c3c68d50a/939_342_3259_2607/500.jpg",
+      "published": "2026-05-22T04:00:48Z",
+      "location": {
+        "name": "Manchester, United Kingdom",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "stage"
     }
   ]
 }
