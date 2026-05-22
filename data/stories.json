@@ -1,44 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-22T21:34:24.576Z",
-    "story_count": 86,
-    "oldest_story": "2026-05-21T21:43:13Z",
-    "newest_story": "2026-05-22T21:19:20Z",
+    "generated_at": "2026-05-22T22:39:05.302Z",
+    "story_count": 85,
+    "oldest_story": "2026-05-21T22:56:39Z",
+    "newest_story": "2026-05-22T22:19:37Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "australia-news/live/2026/may/22/australia-news-live-flotilla-sumud-israel-al-roj-camp-isis-budget-capital-gains-negative-gearing-jim-chalmers-anthony-albanese-angus-taylor-ntwnfb",
-      "headline": "News live: Australian flotilla activists released by Israel arrive in Istanbul and claim they were denied food and water",
-      "summary": "Australian Gaza aid flotilla activists released by Israel arrive in Istanbul claiming mistreatment.",
-      "url": "https://www.theguardian.com/p/x55vb9",
-      "thumbnail": "https://media.guim.co.uk/8b8ee18a176f4f5ee196bed7ba18f551e6f3bd79/530_0_2801_2240/500.jpg",
-      "published": "2026-05-21T21:51:22Z",
-      "location": {
-        "name": "Istanbul",
-        "lat": 41.0082,
-        "lng": 28.9784
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "australia-news"
-    },
-    {
-      "id": "technology/2026/may/21/meta-social-media-addiction-kentucky-schools",
-      "headline": "Meta settles major social media addiction lawsuit with school district",
-      "summary": "Meta settles social media addiction lawsuit with Kentucky school district over harmful design practices.",
-      "url": "https://www.theguardian.com/p/x55va9",
-      "thumbnail": "https://media.guim.co.uk/129e1ad16a1cd295e6d6c7f8993344d30cbfd2f2/3_0_3333_2667/500.jpg",
-      "published": "2026-05-21T21:43:13Z",
-      "location": {
-        "name": "Kentucky",
-        "lat": 37.6681,
-        "lng": -84.6701
-      },
-      "category": "tech",
-      "significance": 2,
-      "section": "technology"
-    },
     {
       "id": "society/2026/may/22/melanoma-skin-cancer-cases-uk-reach-record",
       "headline": "Melanoma skin cancer cases in UK hit record level, analysis finds",
@@ -1382,6 +1350,22 @@
       "category": "sport",
       "significance": 2,
       "section": "sport"
+    },
+    {
+      "id": "us-news/2026/may/22/green-card-applicants-trump-administration",
+      "headline": "US green card applicants will now have to return to home countries to apply, DHS says",
+      "summary": "Trump administration requires green card applicants to return home countries for visa processing.",
+      "url": "https://www.theguardian.com/p/x555zf",
+      "thumbnail": "https://media.guim.co.uk/9e372b42aa32fa31168eefc0ac3f50e9c8b1db47/511_0_3886_3110/500.jpg",
+      "published": "2026-05-22T22:19:37Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
     }
   ]
 }
