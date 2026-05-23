@@ -1,44 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-23T22:03:24.145Z",
-    "story_count": 83,
-    "oldest_story": "2026-05-22T22:19:37Z",
-    "newest_story": "2026-05-23T21:40:19Z",
+    "generated_at": "2026-05-23T23:08:16.213Z",
+    "story_count": 84,
+    "oldest_story": "2026-05-23T01:12:17Z",
+    "newest_story": "2026-05-23T23:00:34Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "us-news/2026/may/22/green-card-applicants-trump-administration",
-      "headline": "US green card applicants will now have to return to home countries to apply, DHS says",
-      "summary": "Trump administration requires green card applicants to return home countries for visa processing.",
-      "url": "https://www.theguardian.com/p/x555zf",
-      "thumbnail": "https://media.guim.co.uk/9e372b42aa32fa31168eefc0ac3f50e9c8b1db47/511_0_3886_3110/500.jpg",
-      "published": "2026-05-22T22:19:37Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "news/2026/may/23/corrections-and-clarifications",
-      "headline": " Corrections and clarifications",
-      "summary": "Corrections to top 100 novels list including Camus's The Outsider and other placements.",
-      "url": "https://www.theguardian.com/p/x553be",
-      "thumbnail": null,
-      "published": "2026-05-22T23:05:11Z",
-      "location": {
-        "name": "Marseille",
-        "lat": 43.2965,
-        "lng": 5.3698
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "news"
-    },
     {
       "id": "australia-news/2026/may/23/three-die-in-horrific-south-sydney-vehicle-crash-after-police-welfare-check",
       "headline": "Three die in ‘horrific’ south Sydney vehicle crash after police welfare check",
@@ -1334,6 +1302,54 @@
       "category": "politics",
       "significance": 4,
       "section": "world"
+    },
+    {
+      "id": "world/live/2026/may/24/iran-deal-strait-of-hormuz-trump-middle-east-crisis-live",
+      "headline": "Middle East crisis live: fate of strait of Hormuz hangs in balance as Trump claims Iran deal ‘largely negotiated’ ",
+      "summary": "Trump claims Iran nuclear deal 'largely negotiated' with Strait of Hormuz opening disputed.",
+      "url": "https://www.theguardian.com/p/x55bex",
+      "thumbnail": "https://media.guim.co.uk/1e150bba8c860131d505d27eb4e2b34984d2320d/126_0_1066_853/500.jpg",
+      "published": "2026-05-23T23:00:34Z",
+      "location": {
+        "name": "Strait of Hormuz",
+        "lat": 26.5597,
+        "lng": 56.2394
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "us-news/2026/may/23/gunshots-white-house",
+      "headline": "Extended volley of gunshots heard near White House as agencies respond",
+      "summary": "Gunshots heard near White House as FBI and Secret Service respond to incident.",
+      "url": "https://www.theguardian.com/p/x55bdp",
+      "thumbnail": "https://media.guim.co.uk/29f592f7978d4b57169245a2aa6bc10188c7f481/792_0_5000_4000/500.jpg",
+      "published": "2026-05-23T22:58:46Z",
+      "location": {
+        "name": "Washington",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "film/2026/may/23/cannes-got-it-wrong-this-year-cristian-mungius-fjord-winning-palme-dor",
+      "headline": "Cannes got it wrong this year by awarding Cristian Mungiu’s very moderate Fjord Palme d’Or",
+      "summary": "Cristian Mungiu's 'Fjord' wins Palme d'Or at Cannes Film Festival amid critical debate.",
+      "url": "https://www.theguardian.com/p/x55apc",
+      "thumbnail": "https://media.guim.co.uk/7de85ba90e40891dc20ca5c348dc44f1494dfe1e/407_0_4057_3247/500.jpg",
+      "published": "2026-05-23T22:39:07Z",
+      "location": {
+        "name": "Cannes",
+        "lat": 43.5528,
+        "lng": 7.0176
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "film"
     }
   ]
 }
