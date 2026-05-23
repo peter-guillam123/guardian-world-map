@@ -1,172 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-23T09:59:56.568Z",
-    "story_count": 90,
-    "oldest_story": "2026-05-22T10:12:49Z",
-    "newest_story": "2026-05-23T09:00:25Z",
+    "generated_at": "2026-05-23T11:22:40.017Z",
+    "story_count": 87,
+    "oldest_story": "2026-05-22T12:35:47Z",
+    "newest_story": "2026-05-23T11:00:28Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "world/2026/may/22/western-europe-braces-first-heat-event-summer",
-      "headline": "Western Europe braces for first major heat event of the summer",
-      "summary": "Western Europe faces first major heat wave with temperatures exceeding 30C across multiple nations.",
-      "url": "https://www.theguardian.com/p/x553v8",
-      "thumbnail": "https://media.guim.co.uk/75d65d3ce07b4cf06bd25dc9ba6c5b2398b1e820/77_0_3333_2667/500.jpg",
-      "published": "2026-05-22T11:01:08Z",
-      "location": {
-        "name": "Spain",
-        "lat": 40.4637,
-        "lng": -3.7492
-      },
-      "category": "climate",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "politics/live/2026/may/22/andy-burnham-makerfield-byelection-green-labour-starmer-latest-news-updates",
-      "headline": "Burnham says politics ‘needs new script’ and vows to change Labour if elected as Makerfield MP – UK politics live",
-      "summary": "Andy Burnham campaigns for Makerfield MP, pledging Labour needs new direction.",
-      "url": "https://www.theguardian.com/p/x552yg",
-      "thumbnail": "https://media.guim.co.uk/59c1baa386f1482647163cb04dae0f8affd7165b/997_571_3967_3174/500.jpg",
-      "published": "2026-05-22T10:58:24Z",
-      "location": {
-        "name": "Makerfield",
-        "lat": 53.54,
-        "lng": -2.67
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "business/2026/may/22/standard-chartered-boss-apologises-for-lower-value-human-capital-comments-amid-job-cuts",
-      "headline": "Standard Chartered boss apologises for ‘lower-value human capital’ comments amid job cuts",
-      "summary": "Standard Chartered CEO apologizes for 'lower-value human capital' remarks over AI job cuts.",
-      "url": "https://www.theguardian.com/p/x55397",
-      "thumbnail": "https://media.guim.co.uk/e594cdf26c42af843198701085d97b990d825fe4/767_356_1163_931/500.jpg",
-      "published": "2026-05-22T10:51:11Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "us-news/2026/may/22/first-thing-progressive-democrats-2024-election-autopsy-silence-gaza",
-      "headline": "First Thing: Progressive Democrats criticize 2024 election autopsy for silence on Gaza ",
-      "summary": "Democrats release 2024 election autopsy report criticized for omitting Gaza and Biden's age.",
-      "url": "https://www.theguardian.com/p/x54qty",
-      "thumbnail": "https://media.guim.co.uk/532012e5600b6336ae2641a2691fbcc2b36e47c7/458_0_4583_3667/500.jpg",
-      "published": "2026-05-22T10:36:14Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "commentisfree/2026/may/22/electoral-reform-reverse-brexit-labour-leadership-eu-debate",
-      "headline": "Electoral reform and reversing Brexit: they’re more connected than you might think",
-      "summary": "Electoral reform and EU rejoin debate linked in Labour's emerging leadership contest.",
-      "url": "https://www.theguardian.com/p/x54pze",
-      "thumbnail": "https://media.guim.co.uk/5081a8a976cca8a7813ad940c84ea3bdb8669992/510_0_6393_5115/500.jpg",
-      "published": "2026-05-22T10:33:17Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "commentisfree"
-    },
-    {
-      "id": "football/2026/may/22/pep-guardiola-manchester-city-changed-face-of-english-football",
-      "headline": "Pep Guardiola’s perpetual revolutions have changed face of English football",
-      "summary": "Pep Guardiola's tactical revolutions transformed English football over decade at Manchester City.",
-      "url": "https://www.theguardian.com/p/x5x2ae",
-      "thumbnail": "https://media.guim.co.uk/52ca3ca044299e2899e9e77b9c8310c3d2f30548/392_0_3924_3139/500.jpg",
-      "published": "2026-05-22T10:30:56Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4808,
-        "lng": -2.2426
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "environment/2026/may/22/un-climate-crisis-vote-shows-political-momentum-growing-experts",
-      "headline": "UN’s climate crisis vote shows political momentum is growing, say experts",
-      "summary": "UN votes 141-0 affirming right to healthy environment; hailed as breakthrough for climate action.",
-      "url": "https://www.theguardian.com/p/x54ph5",
-      "thumbnail": "https://media.guim.co.uk/68c4a5c5da0d791d448c13550737b4561489b7d2/501_0_4383_3506/500.jpg",
-      "published": "2026-05-22T10:27:07Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "climate",
-      "significance": 3,
-      "section": "environment"
-    },
-    {
-      "id": "music/2026/may/22/dido-and-aeneas-review-cutty-sark-london",
-      "headline": "Dido and Aeneas review – close your eyes and this was a tremendous performance",
-      "summary": "Monteverdi Choir performs Purcell's Dido and Aeneas under Cutty Sark's 200ft hull.",
-      "url": "https://www.theguardian.com/p/x552q6",
-      "thumbnail": "https://media.guim.co.uk/ab6c98117669a94fb5dd655bdcdff9eed1b48445/620_0_6844_5477/500.jpg",
-      "published": "2026-05-22T10:17:46Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "music"
-    },
-    {
-      "id": "football/2026/may/22/pep-guardiola-confirms-leaving-manchester-city",
-      "headline": "‘Nothing is eternal’: Pep Guardiola confirms he is leaving Manchester City after 10 years",
-      "summary": "Pep Guardiola confirms departure from Manchester City after 10 years; Enzo Maresca to replace him.",
-      "url": "https://www.theguardian.com/p/x54dt8",
-      "thumbnail": "https://media.guim.co.uk/e406907c6f63b249072b5afc145401feb0283a90/0_72_1853_1482/500.jpg",
-      "published": "2026-05-22T10:14:48Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4808,
-        "lng": -2.2426
-      },
-      "category": "sport",
-      "significance": 4,
-      "section": "football"
-    },
-    {
-      "id": "music/2026/may/22/doja-cat-review-ovo-hydro-glasgow-uk-tour",
-      "headline": "Doja Cat review – pop superstar or true freak? US iconoclast plays the tension to perfection",
-      "summary": "Doja Cat delivers commanding performance at OVO Hydro balancing pop, rap, and rock aesthetics.",
-      "url": "https://www.theguardian.com/p/x552yc",
-      "thumbnail": "https://media.guim.co.uk/70d9d2270b80ac8ba6ae2978283e88870bdd6d67/0_1173_3956_3165/500.jpg",
-      "published": "2026-05-22T10:12:49Z",
-      "location": {
-        "name": "Glasgow",
-        "lat": 55.8642,
-        "lng": -4.2518
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "music"
-    },
     {
       "id": "tv-and-radio/2026/may/22/joy-of-bbc-race-across-the-world-jo-kush",
       "headline": "‘Men and boys need to see this’: Jo and Kush and the joy of Race Across the World",
@@ -1446,6 +1286,118 @@
       "category": "conflict",
       "significance": 4,
       "section": "world"
+    },
+    {
+      "id": "us-news/2026/may/23/richard-trahant-new-orleans-clergy-abuse",
+      "headline": "A New Orleans attorney was punished for exposing a clergy abuser. Here’s what officials hid for years",
+      "summary": "Attorney fined $400,000 for exposing clergy abuser appeals to US Supreme Court.",
+      "url": "https://www.theguardian.com/p/x54946",
+      "thumbnail": "https://media.guim.co.uk/180fb21a4b1aefbc19134aa6dd70122fad824cce/708_0_2492_1994/500.jpg",
+      "published": "2026-05-23T11:00:28Z",
+      "location": {
+        "name": "New Orleans",
+        "lat": 29.9511,
+        "lng": -90.2623
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "world/2026/may/23/canadians-refugees-rejected-face-ice-detention",
+      "headline": "‘Canada is handing people over to ICE’: refugees rejected at border face US detention",
+      "summary": "Canadian asylum seekers rejected at border face US immigration detention after tightened rules.",
+      "url": "https://www.theguardian.com/p/x52mqm",
+      "thumbnail": "https://media.guim.co.uk/6aaabf80a4075cfe9a8b3f7b50f84bc9267d3562/300_0_3000_2400/500.jpg",
+      "published": "2026-05-23T11:00:28Z",
+      "location": {
+        "name": "Montreal",
+        "lat": 45.5017,
+        "lng": -73.5673
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "technology/2026/may/23/rise-in-plastic-surgeons-asked-to-create-ai-face-cosmetic-surgery",
+      "headline": "‘You can’t control everything’: the rise in plastic surgeons asked to create ‘AI face’ ",
+      "summary": "Plastic surgeons report rise in clients seeking AI-generated unrealistic cosmetic surgery.",
+      "url": "https://www.theguardian.com/p/x554v2",
+      "thumbnail": "https://media.guim.co.uk/c19b2db029da17f6d488e83d5d929e1311fa37e5/568_41_8882_7102/500.jpg",
+      "published": "2026-05-23T11:00:28Z",
+      "location": {
+        "name": "Tunbridge Wells",
+        "lat": 51.1829,
+        "lng": 0.2626
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "technology"
+    },
+    {
+      "id": "uk-news/2026/may/23/i-dont-have-a-life-man-sent-to-france-in-one-in-one-out-refugee-scheme-tells-of-return-to-uk",
+      "headline": "‘I don’t have a life’: man sent to France in ‘one in, one out’ refugee scheme tells of return to UK",
+      "summary": "Asylum seeker sent to France under UK scheme returns covertly; others live in hiding.",
+      "url": "https://www.theguardian.com/p/x55494",
+      "thumbnail": "https://media.guim.co.uk/9a72224f03e0a04d73668339844203b563432610/213_0_2700_2160/500.jpg",
+      "published": "2026-05-23T11:00:27Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "us-news/2026/may/23/dnc-chair-ken-martin-democrats-election",
+      "headline": "Democratic chair faces calls to quit over ‘shambles’ of election autopsy release",
+      "summary": "DNC chair Ken Martin faces resignation calls over bungled 2024 election autopsy release.",
+      "url": "https://www.theguardian.com/p/x55537",
+      "thumbnail": "https://media.guim.co.uk/0fcc024a1683602ee7c4ad3cdcb80aeb53fb2355/707_0_7036_5633/500.jpg",
+      "published": "2026-05-23T11:00:26Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "business/2026/may/23/iran-war-us-gas-prices-oil-fuel",
+      "headline": "Even if the Iran war ended today, US fuel prices aren’t likely to normalize this year",
+      "summary": "US gas prices unlikely to normalize in 2026 despite potential Iran war resolution.",
+      "url": "https://www.theguardian.com/p/x54yf3",
+      "thumbnail": "https://media.guim.co.uk/28c058bb83612c6bd10734e45f77f927adc5dd1e/339_0_3321_2656/500.jpg",
+      "published": "2026-05-23T11:00:25Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "business"
+    },
+    {
+      "id": "politics/2026/may/23/uk-eu-european-union-reset-david-miliband-single-market-goods",
+      "headline": "UK needs ‘national consensus’ over rejoining EU, David Miliband says",
+      "summary": "David Miliband urges national consensus on UK rejoin EU bid after single market goods pitch.",
+      "url": "https://www.theguardian.com/p/x558gp",
+      "thumbnail": "https://media.guim.co.uk/7934ca592a65ae53a418b5fdfc177746cac81716/350_154_1450_1159/500.jpg",
+      "published": "2026-05-23T10:26:13Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
     }
   ]
 }
