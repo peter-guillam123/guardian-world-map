@@ -1,172 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-23T15:16:49.314Z",
-    "story_count": 87,
-    "oldest_story": "2026-05-22T15:17:18Z",
-    "newest_story": "2026-05-23T15:05:45Z",
+    "generated_at": "2026-05-23T16:29:35.721Z",
+    "story_count": 86,
+    "oldest_story": "2026-05-22T16:55:23Z",
+    "newest_story": "2026-05-23T16:04:06Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "us-news/live/2026/may/22/donald-trump-ai-china-iran-war-powers-hormuz-latest-news-updates",
-      "headline": "Trump to swear in new Federal Reserve chair Kevin Warsh – US politics live",
-      "summary": "Trump swears in Kevin Warsh as new Federal Reserve chair, replacing Jerome Powell.",
-      "url": "https://www.theguardian.com/p/x553b9",
-      "thumbnail": "https://media.guim.co.uk/07988e2fcfac2d266fe512f547491e05357775e4/0_1_5000_3998/500.jpg",
-      "published": "2026-05-22T16:08:08Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "politics/2026/may/22/wes-streeting-insists-he-can-win-labour-leadership-race-despite-underdog-status",
-      "headline": "Wes Streeting insists he can win Labour leadership race despite ‘underdog’ status",
-      "summary": "Wes Streeting insists he can win Labour leadership race despite underdog status.",
-      "url": "https://www.theguardian.com/p/x54qeh",
-      "thumbnail": "https://media.guim.co.uk/e891a7d5e6965aaf647f664744e502006e34936f/0_2234_3800_3038/500.jpg",
-      "published": "2026-05-22T16:06:26Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "world/2026/may/22/uranium-strait-of-hormuz-us-iran-war-talks-pakistan",
-      "headline": "Qatar sends mediators to Tehran in sign talks to reopen strait of Hormuz are reaching climax",
-      "summary": "Qatar sends mediators to Tehran as Strait of Hormuz talks reach critical stage.",
-      "url": "https://www.theguardian.com/p/x5533j",
-      "thumbnail": "https://media.guim.co.uk/bd213e7091c3c8292d3e5a7a7eabd22abd1a4da1/188_0_2185_1748/500.jpg",
-      "published": "2026-05-22T15:56:49Z",
-      "location": {
-        "name": "Tehran",
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "world/2026/may/22/pentagon-ufo-videos-testimony-documents",
-      "headline": "Pentagon releases second batch of UFO videos and first-hand testimony",
-      "summary": "Pentagon releases second batch of UFO videos and firsthand testimony.",
-      "url": "https://www.theguardian.com/p/x554h8",
-      "thumbnail": "https://media.guim.co.uk/a747d52d9f3626f44bdedd8110aa60b5e6fb1027/186_0_2146_1718/500.jpg",
-      "published": "2026-05-22T15:49:45Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "tech",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "global-development/2026/may/22/suspected-ebola-cases-triple-in-a-week-as-who-warns-of-rapid-spread-in-drc",
-      "headline": "Suspected Ebola cases triple in a week as WHO warns of rapid spread in DRC",
-      "summary": "Suspected Ebola cases triple in DRC as WHO warns of rapid spread and high risk.",
-      "url": "https://www.theguardian.com/p/x554b7",
-      "thumbnail": "https://media.guim.co.uk/2ef7792278e0afedb94ef56e9958ff512fdfd531/562_102_4362_3490/500.jpg",
-      "published": "2026-05-22T15:47:31Z",
-      "location": {
-        "name": "Kinshasa",
-        "lat": -4.3369,
-        "lng": 15.3136
-      },
-      "category": "health",
-      "significance": 4,
-      "section": "global-development"
-    },
-    {
-      "id": "film/2026/may/22/the-dreamed-adventure-review-beautiful-but-opaque-bulgarian-tale-of-digging-up-the-past",
-      "headline": "The Dreamed Adventure review – beautiful but opaque Bulgarian tale of digging up the past",
-      "summary": "Bulgarian drama The Dreamed Adventure premieres at Cannes Film Festival.",
-      "url": "https://www.theguardian.com/p/x553eg",
-      "thumbnail": "https://media.guim.co.uk/590ceb45dbbe911b4c3ef182fb93d2fdd5a8d95b/348_0_2880_2304/500.jpg",
-      "published": "2026-05-22T15:47:02Z",
-      "location": {
-        "name": "Cannes",
-        "lat": 43.5528,
-        "lng": 7.0174
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "film"
-    },
-    {
-      "id": "football/2026/may/22/wsl-academy-sides-heading-for-third-tier-in-england-despite-backlash",
-      "headline": "WSL academy sides heading for third tier in England despite backlash",
-      "summary": "WSL academy sides approved to join third tier from 2027 despite backlash.",
-      "url": "https://www.theguardian.com/p/x554dk",
-      "thumbnail": "https://media.guim.co.uk/b5e8b42fed0d54886642e5936f4ddafccc1e4338/626_0_4047_3238/500.jpg",
-      "published": "2026-05-22T15:40:14Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "tv-and-radio/2026/may/22/judith-chalmers-presenter-tv-wish-you-were-here-dies-aged-90",
-      "headline": "Judith Chalmers, presenter of TV series Wish You Were Here, dies aged 90",
-      "summary": "Judith Chalmers, Wish You Were Here presenter, dies at 90 from Alzheimer's.",
-      "url": "https://www.theguardian.com/p/x554cg",
-      "thumbnail": "https://media.guim.co.uk/430482fa3bffb5f23542108414f2148a01de46b2/4_0_1689_1351/500.jpg",
-      "published": "2026-05-22T15:38:14Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "tv-and-radio"
-    },
-    {
-      "id": "us-news/2026/may/22/arizona-grandma-minecraft-swat",
-      "headline": "Minecraft-playing grandma swatted when livestreaming to raise funds for grandson’s cancer treatment",
-      "summary": "Arizona grandmother swatted during Minecraft fundraiser for grandson's cancer treatment.",
-      "url": "https://www.theguardian.com/p/x5543c",
-      "thumbnail": "https://media.guim.co.uk/bdbb05b460e9728692805900b967949c4bb01c79/1_0_4170_3338/500.jpg",
-      "published": "2026-05-22T15:18:47Z",
-      "location": {
-        "name": "Phoenix",
-        "lat": 33.4484,
-        "lng": -112.0742
-      },
-      "category": "tech",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "education/2026/may/22/primary-schools-lose-out-as-labour-slashes-sport-funding",
-      "headline": "Primary schools to lose out as Labour scraps 2012 Olympic legacy sports grant",
-      "summary": "Labour cuts primary school sports funding by 40% despite Olympic legacy scheme.",
-      "url": "https://www.theguardian.com/p/x554vp",
-      "thumbnail": "https://media.guim.co.uk/3f9039d9e362a3290883e7e6df104ed7ed0b0c79/445_113_2005_1604/500.jpg",
-      "published": "2026-05-22T15:17:18Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "education"
-    },
     {
       "id": "us-news/2026/may/22/tulsi-gabbard-resignation-intelligence-director",
       "headline": "US intelligence director Tulsi Gabbard leaving post after rocky tenure",
@@ -1398,6 +1238,150 @@
       "category": "culture",
       "significance": 2,
       "section": "artanddesign"
+    },
+    {
+      "id": "football/2026/may/23/celtic-dunfermline-scottish-cup-final-match-report",
+      "headline": "Iheanacho ensures Celtic ease past Dunfermline to win Scottish Cup and Double ",
+      "summary": "Celtic defeats Dunfermline 3-1 in Scottish Cup final to secure domestic double.",
+      "url": "https://www.theguardian.com/p/x55vbk",
+      "thumbnail": "https://media.guim.co.uk/f759ef84439147d1541616829eb15eaa7e9e754f/163_0_2560_2048/500.jpg",
+      "published": "2026-05-23T16:04:06Z",
+      "location": {
+        "name": "Glasgow",
+        "lat": 55.8642,
+        "lng": -4.2518
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "sport/2026/may/23/leinster-bordeaux-champions-cup-final-rugby-union-match-report",
+      "headline": "Bielle-Biarrey doubles up as Bordeaux sink Leinster to retain Champions Cup",
+      "summary": "Bordeaux retains Champions Cup trophy with dominant 41-19 victory over Leinster.",
+      "url": "https://www.theguardian.com/p/x55vtc",
+      "thumbnail": "https://media.guim.co.uk/cf78899354a2233bdd2c27505523eba6ae0a4110/595_0_5949_4759/500.jpg",
+      "published": "2026-05-23T16:01:37Z",
+      "location": {
+        "name": "Bilbao",
+        "lat": 43.2627,
+        "lng": -2.9253
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "sport"
+    },
+    {
+      "id": "football/2026/may/23/starmer-tnt-sports-champion-league-final-free-arsenal-paris-saint-germain",
+      "headline": "Starmer asks TNT Sports to make Champions League final free to view",
+      "summary": "PM Starmer requests TNT Sports make Champions League final free to view for British fans.",
+      "url": "https://www.theguardian.com/p/x559je",
+      "thumbnail": "https://media.guim.co.uk/73c6391d54ca83c9f4d60516e61b1e3c3e39b1de/198_58_1279_1023/500.jpg",
+      "published": "2026-05-23T16:00:32Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "law/2026/may/23/anti-protest-sentences-rise-england-wales-political-prisoners",
+      "headline": "New breed of political prisoner arises in Britain as anti-protest sentences rise ",
+      "summary": "UK research reveals rising incarceration of climate and Gaza protest activists in Britain.",
+      "url": "https://www.theguardian.com/p/x54f3f",
+      "thumbnail": "https://media.guim.co.uk/bcc69c58cb421dd3f32d313aaa678827feef2ec8/1453_262_3439_2754/500.jpg",
+      "published": "2026-05-23T16:00:31Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "law"
+    },
+    {
+      "id": "politics/2026/may/23/zack-polanski-greens-houseboat-council-tax-gla-investigation",
+      "headline": "GLA considering investigation into Zack Polanski over houseboat council tax",
+      "summary": "GLA investigating Green party leader Zack Polanski over houseboat council tax compliance.",
+      "url": "https://www.theguardian.com/p/x558tc",
+      "thumbnail": "https://media.guim.co.uk/49df007da4836eb068095a740ed491009dc4534e/280_0_2800_2240/500.jpg",
+      "published": "2026-05-23T15:36:29Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "football/2026/may/23/charlton-leicester-wsl-playoff-match-report",
+      "headline": "Whitehouse saves four penalties as Charlton reach WSL and send Leicester down",
+      "summary": "Charlton goalkeeper saves four penalties to secure WSL promotion, relegates Leicester.",
+      "url": "https://www.theguardian.com/p/x55ve4",
+      "thumbnail": "https://media.guim.co.uk/38862b4b98c040d9330f444b78a75d3ea923a361/285_0_2838_2271/500.jpg",
+      "published": "2026-05-23T15:30:22Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "tv-and-radio/2026/may/23/stephen-colbert-hosts-michigan-public-show-day",
+      "headline": "Stephen Colbert hosts Michigan public access show day after last appearance on Late Show",
+      "summary": "Stephen Colbert hosts public access show day after final Late Show appearance.",
+      "url": "https://www.theguardian.com/p/x559jq",
+      "thumbnail": "https://media.guim.co.uk/c17d084bac2491811e41324c2019a0726b0b1090/165_0_2029_1624/500.jpg",
+      "published": "2026-05-23T15:28:39Z",
+      "location": {
+        "name": "Monroe",
+        "lat": 41.9178,
+        "lng": -83.3988
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "tv-and-radio"
+    },
+    {
+      "id": "world/2026/may/23/iran-hosts-pakistani-delegation-diplomacy-to-avert-new-us-strikes",
+      "headline": "Iran hosts Pakistani delegation amid diplomatic flurry to avert new US strikes",
+      "summary": "Iran hosts Pakistani delegation amid diplomatic efforts to prevent renewed US strikes.",
+      "url": "https://www.theguardian.com/p/x559tz",
+      "thumbnail": "https://media.guim.co.uk/eb97ac12f33f08b129302493d96bd7e18ac561c7/81_0_1066_853/500.jpg",
+      "published": "2026-05-23T15:21:43Z",
+      "location": {
+        "name": "Tehran",
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "us-news/2026/may/23/three-dead-18-first-responders-sickened-fentanyl-new-mexico",
+      "headline": "Three dead and 18 first responders sickened by apparent fentanyl exposure in New Mexico",
+      "summary": "Three dead, 18 first responders sickened by fentanyl exposure at New Mexico home.",
+      "url": "https://www.theguardian.com/p/x559hx",
+      "thumbnail": "https://media.guim.co.uk/adedc157b948a68478513e2ae3b8aeb2ef3c06dd/170_0_2097_1678/500.jpg",
+      "published": "2026-05-23T15:19:48Z",
+      "location": {
+        "name": "Mountainair",
+        "lat": 34.4264,
+        "lng": -106.2808
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "us-news"
     }
   ]
 }
