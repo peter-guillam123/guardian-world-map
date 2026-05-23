@@ -1,124 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-23T12:11:17.142Z",
-    "story_count": 91,
-    "oldest_story": "2026-05-22T12:35:47Z",
-    "newest_story": "2026-05-23T12:03:14Z",
+    "generated_at": "2026-05-23T14:04:07.221Z",
+    "story_count": 94,
+    "oldest_story": "2026-05-22T15:00:02Z",
+    "newest_story": "2026-05-23T14:03:28Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "tv-and-radio/2026/may/22/joy-of-bbc-race-across-the-world-jo-kush",
-      "headline": "‘Men and boys need to see this’: Jo and Kush and the joy of Race Across the World",
-      "summary": "BBC's Race Across the World features breakout teen stars Jo and Kush in Kyrgyzstan adventure.",
-      "url": "https://www.theguardian.com/p/x553h5",
-      "thumbnail": "https://media.guim.co.uk/0c7293cf3ffefa1e044fff458f25065f3790ffaa/1319_530_2435_1948/500.jpg",
-      "published": "2026-05-22T13:34:25Z",
-      "location": {
-        "name": "Arslanbob, Kyrgyzstan",
-        "lat": 41.85,
-        "lng": 71.55
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "tv-and-radio"
-    },
-    {
-      "id": "us-news/2026/may/22/chicago-ice-protesters-charges-dropped-broadview-six",
-      "headline": "All charges against Chicago protesters dropped in latest ICE case to unravel ",
-      "summary": "Federal prosecutors drop all charges against Chicago ICE protesters in unraveling case.",
-      "url": "https://www.theguardian.com/p/x553jg",
-      "thumbnail": "https://media.guim.co.uk/0122fd9cb4bc216223c56457c1e54d2032582002/248_0_2480_1984/500.jpg",
-      "published": "2026-05-22T13:19:43Z",
-      "location": {
-        "name": "Chicago",
-        "lat": 41.8781,
-        "lng": -87.6298
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "football/2026/may/22/the-pep-years-season-by-season-guardiola-manchester-city",
-      "headline": "The Pep years: season by season, how Guardiola’s Manchester City evolved",
-      "summary": "Guardiola's decade-long trophy-laden reign at Manchester City analyzed season by season.",
-      "url": "https://www.theguardian.com/p/x5xz9t",
-      "thumbnail": "https://media.guim.co.uk/ae32a0cbc56d4c5e366cba837115673ec8a9c9b0/0_0_5000_4000/500.jpg",
-      "published": "2026-05-22T13:00:02Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4808,
-        "lng": -2.2426
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "us-news/2026/may/22/marine-heatwave-west-coast",
-      "headline": "Why an immense marine heatwave off the US west coast has alarmed scientists",
-      "summary": "Immense marine heatwave off US west coast alarms scientists amid El Niño conditions.",
-      "url": "https://www.theguardian.com/p/x54yj7",
-      "thumbnail": "https://media.guim.co.uk/2a96619250a925990431d25ae537feb89e81f44a/0_0_4640_3712/500.jpg",
-      "published": "2026-05-22T13:00:01Z",
-      "location": {
-        "name": "US West Coast",
-        "lat": 40,
-        "lng": -120
-      },
-      "category": "climate",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "world/2026/may/22/jailing-daria-egereva-plight-russia-indigenous-people",
-      "headline": "‘We will not survive’: jailing of Daria Egereva highlights plight of Russia’s Indigenous people",
-      "summary": "Russia arrests 17 Indigenous rights activists in coordinated crackdown across 11 time zones.",
-      "url": "https://www.theguardian.com/p/x52x86",
-      "thumbnail": "https://media.guim.co.uk/474f9774c008e2f34e70a701b1b67bae752b5678/149_0_1055_844/500.jpg",
-      "published": "2026-05-22T13:00:01Z",
-      "location": {
-        "name": "Russia",
-        "lat": 61.524,
-        "lng": 105.3188
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "film/2026/may/22/cannes-2026-who-will-win-minotaur",
-      "headline": "Little glitz and underperforming auteurs: how Cannes 2026 went – and who will win",
-      "summary": "Cannes 2026 film festival concludes as underwhelming year with underperforming auteurs.",
-      "url": "https://www.theguardian.com/p/x5538t",
-      "thumbnail": "https://media.guim.co.uk/36b56ecbecc56832c4dfae8a1e9726742ef1fa7d/171_0_1706_1365/500.jpg",
-      "published": "2026-05-22T12:59:46Z",
-      "location": {
-        "name": "Cannes",
-        "lat": 43.5528,
-        "lng": 7.0176
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "film"
-    },
-    {
-      "id": "uk-news/2026/may/22/heat-health-alerts-bank-holiday-weekend-forecast-record-may-temperature-uk",
-      "headline": "Health alerts for bank holiday weekend as record May heat forecast in UK",
-      "summary": "UK issued amber heat alerts as record May temperatures reaching 33C expected over bank holiday.",
-      "url": "https://www.theguardian.com/p/x5539h",
-      "thumbnail": "https://media.guim.co.uk/e60421490d59badabe006263d852c58f89de7f90/1561_1229_5176_4140/500.jpg",
-      "published": "2026-05-22T12:35:47Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "uk-news"
-    },
     {
       "id": "us-news/live/2026/may/22/donald-trump-ai-china-iran-war-powers-hormuz-latest-news-updates",
       "headline": "Trump to swear in new Federal Reserve chair Kevin Warsh – US politics live",
@@ -1462,6 +1350,166 @@
       "category": "politics",
       "significance": 4,
       "section": "commentisfree"
+    },
+    {
+      "id": "sport/live/2026/may/23/england-v-new-zealand-second-womens-t20-cricket-international-live",
+      "headline": "England v New Zealand: second women’s T20 cricket international – live",
+      "summary": "England women face New Zealand in second T20 cricket international at Canterbury.",
+      "url": "https://www.theguardian.com/p/x54kqj",
+      "thumbnail": "https://media.guim.co.uk/f7ed5d1ede12e9d5186d0929cd320cd0a4efc4e0/0_46_3000_2401/500.jpg",
+      "published": "2026-05-23T14:03:28Z",
+      "location": {
+        "name": "Canterbury",
+        "lat": 51.2787,
+        "lng": 1.0828
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "football/live/2026/may/23/hull-city-v-middlesbrough-championship-playoff-final-live",
+      "headline": "Hull City v Middlesbrough: Championship playoff final – live",
+      "summary": "Hull City play Middlesbrough in Championship playoff final at Wembley Stadium.",
+      "url": "https://www.theguardian.com/p/x54kka",
+      "thumbnail": "https://media.guim.co.uk/17a8727cd9f7ee40430447b8e75017d0dc353f29/318_120_4271_3418/500.jpg",
+      "published": "2026-05-23T14:02:51Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/live/2026/may/23/celtic-v-dunfermline-scottish-cup-final-live",
+      "headline": "Celtic v Dunfermline: Scottish Cup final – live",
+      "summary": "Celtic face Dunfermline in Scottish Cup final at Hampden Park seeking domestic double.",
+      "url": "https://www.theguardian.com/p/x54ktb",
+      "thumbnail": "https://media.guim.co.uk/22fb78f20e47651729889a613268a4bf8c301ea8/668_409_4488_3591/500.jpg",
+      "published": "2026-05-23T14:02:36Z",
+      "location": {
+        "name": "Glasgow",
+        "lat": 55.8642,
+        "lng": -4.2518
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "technology/2026/may/23/trump-ai-order-big-tech",
+      "headline": "How big tech got its way on Trump’s AI executive order",
+      "summary": "Trump administration reverses AI safety review order, favoring big tech interests.",
+      "url": "https://www.theguardian.com/p/x555p9",
+      "thumbnail": "https://media.guim.co.uk/1fc1c3f2c938f57503782eed5cb531731e192afa/333_0_3333_2667/500.jpg",
+      "published": "2026-05-23T14:00:29Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "tech",
+      "significance": 3,
+      "section": "technology"
+    },
+    {
+      "id": "sport/2026/may/23/french-open-agrees-talks-players-pay-row-grand-slam-prize-money-tennis",
+      "headline": "French Open agrees to talks with players in row over grand slam prize money",
+      "summary": "French Open agrees to talks on grand slam prize money after player media boycott.",
+      "url": "https://www.theguardian.com/p/x559cp",
+      "thumbnail": "https://media.guim.co.uk/a08b2cd29f071d9558e144761f328eaeb553be92/1509_1640_4778_3824/500.jpg",
+      "published": "2026-05-23T13:54:27Z",
+      "location": {
+        "name": "Paris",
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "uk-news/2026/may/23/extra-eu-border-checks-ees-suspended-dover-travel-delays-hot-weather",
+      "headline": "Extra EU border checks suspended at Dover as travellers face delays in heat",
+      "summary": "EU border checks suspended at Dover as holiday travellers face long delays in heat.",
+      "url": "https://www.theguardian.com/p/x5599q",
+      "thumbnail": "https://media.guim.co.uk/4629ac14980bebc237716ce06300a98f861ccb72/658_0_5000_4000/500.jpg",
+      "published": "2026-05-23T13:49:45Z",
+      "location": {
+        "name": "Dover",
+        "lat": 51.1256,
+        "lng": 1.3089
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "world/2026/may/23/ebola-virus-spread-drc-democratic-republic-of-congo",
+      "headline": "‘Every health facility said they were full’: alarm over rapid spread of Ebola in DRC",
+      "summary": "Ebola outbreak spreads rapidly in DRC with healthcare system overwhelmed by new strain.",
+      "url": "https://www.theguardian.com/p/x554vk",
+      "thumbnail": "https://media.guim.co.uk/58a2ac81c56c0d87700b005292bd660689d87452/2202_290_5773_4621/500.jpg",
+      "published": "2026-05-23T13:17:08Z",
+      "location": {
+        "name": "Democratic Republic of the Congo",
+        "lat": -4.0383,
+        "lng": 21.7587
+      },
+      "category": "health",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "society/2026/may/23/cornwall-nansledan-newquay-high-street-threat",
+      "headline": "Is Cornwall’s newest high street an inspiring model, or a threat to nearby Newquay? ",
+      "summary": "New Nansledan development near Newquay raises concerns about impact on local high street.",
+      "url": "https://www.theguardian.com/p/x5532n",
+      "thumbnail": "https://media.guim.co.uk/bccb03a1baebbc37613afb65c4fd8face0579edb/169_0_5262_4208/500.jpg",
+      "published": "2026-05-23T13:00:29Z",
+      "location": {
+        "name": "Newquay",
+        "lat": 50.4141,
+        "lng": -5.0913
+      },
+      "category": "economy",
+      "significance": 1,
+      "section": "society"
+    },
+    {
+      "id": "us-news/2026/may/23/santa-rosa-island-wildfire",
+      "headline": "This US island is home to flora found nowhere else. Now, a wildfire threatens extinction: ‘watching with trepidation’",
+      "summary": "Wildfire threatens rare Torrey pine trees on Santa Rosa Island with potential extinction risk.",
+      "url": "https://www.theguardian.com/p/x555tc",
+      "thumbnail": "https://media.guim.co.uk/abb22fc987b4c7afaff0b31e877331d46d840580/126_0_3781_3024/500.jpg",
+      "published": "2026-05-23T13:00:28Z",
+      "location": {
+        "name": "Santa Rosa Island",
+        "lat": 34.0195,
+        "lng": -120.0565
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "world/2026/may/23/cote-divoire-wary-of-jihadist-threat-in-north-10-years-on-from-major-attack",
+      "headline": "Côte d’Ivoire wary of jihadist threat in north 10 years on from major attack",
+      "summary": "Côte d'Ivoire remains vigilant against jihadist threats a decade after major attack.",
+      "url": "https://www.theguardian.com/p/x52782",
+      "thumbnail": "https://media.guim.co.uk/ce259019a87d1e32bae95e67818bd7e5640faa4a/928_0_5031_4024/500.jpg",
+      "published": "2026-05-23T13:00:28Z",
+      "location": {
+        "name": "Grand Bassam",
+        "lat": 5.1995,
+        "lng": -3.2569
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "world"
     }
   ]
 }
