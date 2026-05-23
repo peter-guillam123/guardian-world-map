@@ -1,60 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-23T17:38:43.693Z",
-    "story_count": 79,
-    "oldest_story": "2026-05-22T17:46:38Z",
-    "newest_story": "2026-05-23T17:29:47Z",
+    "generated_at": "2026-05-23T18:43:43.551Z",
+    "story_count": 82,
+    "oldest_story": "2026-05-22T19:00:06Z",
+    "newest_story": "2026-05-23T18:40:28Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "us-news/2026/may/22/tulsi-gabbard-resignation-intelligence-director",
-      "headline": "US intelligence director Tulsi Gabbard leaving post after rocky tenure",
-      "summary": "US intelligence director Tulsi Gabbard resigns after rocky tenure, sidelined from major policy decisions.",
-      "url": "https://www.theguardian.com/p/x55545",
-      "thumbnail": "https://media.guim.co.uk/6f1223a7b5d91f2d7489993cdc91911f04c1c7d7/177_0_3647_2919/500.jpg",
-      "published": "2026-05-22T18:02:39Z",
-      "location": {
-        "name": "Washington, DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "football/2026/may/22/england-world-cup-training-ground-privacy-kansas-city-spygate",
-      "headline": "FA concerned England World Cup training ground lacks privacy after spygate scandal",
-      "summary": "FA concerned England's World Cup training ground in Kansas City lacks privacy after spygate scandal.",
-      "url": "https://www.theguardian.com/p/x555xd",
-      "thumbnail": "https://media.guim.co.uk/7d1b8a6e80665448affad4430f5248598f49bd4d/249_488_3903_3123/500.jpg",
-      "published": "2026-05-22T18:00:05Z",
-      "location": {
-        "name": "Kansas City",
-        "lat": 39.0997,
-        "lng": -94.5786
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "sport/2026/may/22/formula-one-canadian-grand-prix-montreal-mercedes-george-russell-kimi-antonelli",
-      "headline": "Dominant Mercedes aim to strike a fresh technical blow at Canadian Grand Prix",
-      "summary": "Mercedes unveils upgrades at Canadian Grand Prix as dominant team targets fresh technical advantage.",
-      "url": "https://www.theguardian.com/p/x552zq",
-      "thumbnail": "https://media.guim.co.uk/c906319ccd8980abed78b3d62a9b8fc5104403ee/1035_74_3998_3199/500.jpg",
-      "published": "2026-05-22T17:46:38Z",
-      "location": {
-        "name": "Montreal",
-        "lat": 45.5017,
-        "lng": -73.5673
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
     {
       "id": "football/2026/may/22/five-members-of-footballer-harry-maguires-family-slate-england-manager",
       "headline": "Five members of footballer Harry Maguire’s family slate England manager",
@@ -1270,6 +1222,102 @@
       "category": "sport",
       "significance": 2,
       "section": "football"
+    },
+    {
+      "id": "world/2026/may/23/gisele-pelicot-hay-festival-fell-in-love-trust-after-ordeal",
+      "headline": "Pelicot tells Hay festival how she fell in love and was able to trust after rape ordeal",
+      "summary": "Gisèle Pelicot speaks at Hay Festival about trust and love after decade-long rape ordeal.",
+      "url": "https://www.theguardian.com/p/x55a7m",
+      "thumbnail": "https://media.guim.co.uk/114b958916ae70d048c4c807ddbbca0f30e3f8af/428_1087_2672_2137/500.jpg",
+      "published": "2026-05-23T18:40:28Z",
+      "location": {
+        "name": "Hay-on-Wye",
+        "lat": 52.0736,
+        "lng": -3.0831
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "sport/2026/may/23/jaxson-dart-abdul-carter-trump-rally-giants",
+      "headline": "‘What we doing man’: Abdul Carter calls out Giants teammate Jaxson Dart for appearing with Trump",
+      "summary": "Giants linebacker questions teammate's appearance with Trump at campaign rally.",
+      "url": "https://www.theguardian.com/p/x55aev",
+      "thumbnail": "https://media.guim.co.uk/742c94314ebb2dd4e5442fdc04b48f4c354476db/189_0_3155_2523/500.jpg",
+      "published": "2026-05-23T18:24:27Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "football/2026/may/23/barcelona-ol-lyonnes-womens-champions-league-final-match-report",
+      "headline": "Paralluelo’s late double caps Women’s Champions League win for Barça against Lyonnes",
+      "summary": "Barcelona defeats OL Lyonnes 4-0 to win Women's Champions League title.",
+      "url": "https://www.theguardian.com/p/x55vdb",
+      "thumbnail": "https://media.guim.co.uk/e3edb96d86e65c0402b88e6cc4050fcd986e7f1e/486_0_2932_2347/500.jpg",
+      "published": "2026-05-23T18:15:21Z",
+      "location": {
+        "name": "Barcelona",
+        "lat": 41.3851,
+        "lng": 2.1734
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/may/23/hull-master-the-tension-to-make-it-an-unlikely-mission-accomplished",
+      "headline": "Hull master the tension to make it an unlikely mission accomplished",
+      "summary": "Hull City wins Championship playoff final against Middlesbrough in Berlin.",
+      "url": "https://www.theguardian.com/p/x55vaj",
+      "thumbnail": "https://media.guim.co.uk/995d3ad47abc188e192816544953ea81654b8613/147_0_3653_2923/500.jpg",
+      "published": "2026-05-23T18:13:18Z",
+      "location": {
+        "name": "Berlin",
+        "lat": 52.52,
+        "lng": 13.405
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/may/23/us-green-card-holders-ebola-africa",
+      "headline": "US temporarily bans green-card holders from entering country from African nations",
+      "summary": "US bans green-card holders from three African nations due to Ebola outbreak.",
+      "url": "https://www.theguardian.com/p/x55a42",
+      "thumbnail": "https://media.guim.co.uk/a6e00590b5a4ef50f584fda9337f799dbce70bce/734_0_3670_2936/500.jpg",
+      "published": "2026-05-23T17:56:10Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "health",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "sport/2026/may/23/king-of-bordeaux-lucu-injects-soul-into-triumph-of-a-french-club-on-the-rise",
+      "headline": "King of Bordeaux Lucu injects soul into triumph of a French club on the rise",
+      "summary": "Union Bordeaux-Bègles defeats Leinster in European rugby championship match.",
+      "url": "https://www.theguardian.com/p/x55vtm",
+      "thumbnail": "https://media.guim.co.uk/1b5a71bdcf5488a136a30a0a33f077ce134afbc1/2_0_4694_3756/500.jpg",
+      "published": "2026-05-23T17:50:48Z",
+      "location": {
+        "name": "Bordeaux",
+        "lat": 44.8378,
+        "lng": -0.5792
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
     }
   ]
 }
