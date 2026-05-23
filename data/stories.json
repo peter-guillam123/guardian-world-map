@@ -1,156 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-23T18:43:43.551Z",
-    "story_count": 82,
-    "oldest_story": "2026-05-22T19:00:06Z",
-    "newest_story": "2026-05-23T18:40:28Z",
+    "generated_at": "2026-05-23T19:55:16.064Z",
+    "story_count": 74,
+    "oldest_story": "2026-05-22T20:55:42Z",
+    "newest_story": "2026-05-23T19:03:10Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/2026/may/22/five-members-of-footballer-harry-maguires-family-slate-england-manager",
-      "headline": "Five members of footballer Harry Maguire’s family slate England manager",
-      "summary": "Harry Maguire's family criticizes England manager Tuchel for World Cup squad omission.",
-      "url": "https://www.theguardian.com/p/x555ck",
-      "thumbnail": "https://media.guim.co.uk/2d6ca85a8b6323adb2826b82932b92f34732ea3d/0_0_3935_3148/500.jpg",
-      "published": "2026-05-22T19:51:53Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4808,
-        "lng": -2.2426
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/may/22/barcelona-lyonnes-champions-league-final",
-      "headline": "Barcelona and Lyonnes square off in familiar Champions League final",
-      "summary": "Barcelona and Lyonnes meet in fourth Champions League final between Spanish and French women's champions.",
-      "url": "https://www.theguardian.com/p/x554qm",
-      "thumbnail": "https://media.guim.co.uk/5873f807a8ea56b6c34b9ea2cd2bea2db6177ce5/207_0_2633_2106/500.jpg",
-      "published": "2026-05-22T19:50:50Z",
-      "location": {
-        "name": "Oslo",
-        "lat": 59.9139,
-        "lng": 10.7522
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "us-news/2026/may/22/kilmar-abrego-garcia-case-dismissed",
-      "headline": "US judge dismisses criminal indictment against Kilmar Ábrego García",
-      "summary": "US judge dismisses indictment against Kilmar Ábrego García, citing political motivation by Trump administration.",
-      "url": "https://www.theguardian.com/p/x555g3",
-      "thumbnail": "https://media.guim.co.uk/1d584f1b0c2aa2f70fd64f7ed4df9baeb1ca125a/219_0_5000_4000/500.jpg",
-      "published": "2026-05-22T19:43:03Z",
-      "location": {
-        "name": "Maryland",
-        "lat": 39.0639,
-        "lng": -76.8021
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "world/2026/may/22/czech-president-petr-pavel-nato-show-teeth-russia-provocations",
-      "headline": "Czech president urges Nato to ‘show its teeth’ over Russia’s provocations",
-      "summary": "Czech president Pavel urges NATO to firmly respond to Russia's provocations on alliance's eastern flank.",
-      "url": "https://www.theguardian.com/p/x5539e",
-      "thumbnail": "https://media.guim.co.uk/6ae6e0366f3c9c6f675344670b47bd2f8c6423ae/569_0_2908_2326/500.jpg",
-      "published": "2026-05-22T19:25:50Z",
-      "location": {
-        "name": "Prague",
-        "lat": 50.0755,
-        "lng": 14.4378
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "football/2026/may/22/west-ham-need-david-moyes-to-save-them-once-again-as-nuno-sticks-to-his-routine",
-      "headline": "West Ham need David Moyes to save them once again as Nuno sticks to his routine ",
-      "summary": "West Ham face relegation battle against Tottenham, hoping David Moyes can secure their survival.",
-      "url": "https://www.theguardian.com/p/x555vx",
-      "thumbnail": "https://media.guim.co.uk/8b01870c43d1167572a30a2a8b75d14d83bd7acb/309_0_3307_2646/500.jpg",
-      "published": "2026-05-22T19:19:16Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "us-news/2026/may/22/kansas-bird-nest-truck",
-      "headline": "Federally protected bird’s nest holds up sale of Ford truck in Kansas",
-      "summary": "Federal bird protection law prevents sale of Ford truck as robin nests and lays eggs on tire.",
-      "url": "https://www.theguardian.com/p/x5554g",
-      "thumbnail": "https://media.guim.co.uk/c9e972eb2d494c4a9c713a7b5550f0fa9efcae1f/0_503_1536_1229/500.jpg",
-      "published": "2026-05-22T19:03:07Z",
-      "location": {
-        "name": "Kansas",
-        "lat": 39.0473,
-        "lng": -98.2768
-      },
-      "category": "other",
-      "significance": 1,
-      "section": "us-news"
-    },
-    {
-      "id": "football/2026/may/22/pep-guardiola-i-like-to-think-my-vibe-and-energy-will-be-there-for-ever",
-      "headline": "‘My vibe and energy will be there for ever’: Guardiola turns on charm in City farewell",
-      "summary": "Pep Guardiola reflects on decade at Manchester City in final pre-match press conference before departure.",
-      "url": "https://www.theguardian.com/p/x554j2",
-      "thumbnail": "https://media.guim.co.uk/989406a39946b67dc64d9bcd1577c6a06247b8f8/518_2_3026_2421/500.jpg",
-      "published": "2026-05-22T19:00:53Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4808,
-        "lng": -2.2426
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/may/22/middlesbrough-hull-southampton-spygate-championship-playoff-final",
-      "headline": "Boro and Hull attempt to disregard ‘weird and crazy’ spygate noise in playoff final",
-      "summary": "Middlesbrough and Hull pursue Championship playoff final at Wembley following Southampton's self-destruction.",
-      "url": "https://www.theguardian.com/p/x554dv",
-      "thumbnail": "https://media.guim.co.uk/bc9a1b2b24fb910c505b34ba645f52020016b17f/85_569_4053_3244/500.jpg",
-      "published": "2026-05-22T19:00:06Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "australia-news/2026/may/23/state-sponsored-apprenticeships-and-decriminalising-cannabis-on-the-bill-at-victorias-labor-conference",
-      "headline": "State-sponsored apprenticeships and decriminalising cannabis on the bill at Victoria’s Labor conference",
-      "summary": "Victoria's Labor conference to announce 2,000 apprenticeships at revived State Electricity Commission.",
-      "url": "https://www.theguardian.com/p/x55x5t",
-      "thumbnail": "https://media.guim.co.uk/e0081a288de4c5048b2b8021132dcac6595737ac/269_0_6363_5091/500.jpg",
-      "published": "2026-05-22T19:00:06Z",
-      "location": {
-        "name": "Melbourne",
-        "lat": -37.8136,
-        "lng": 144.9631
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
     {
       "id": "us-news/2026/may/22/tulsi-gabbard-intelligence-director",
       "headline": "The turbulent 15 months of Trump’s unlikely US intelligence director",
@@ -1318,6 +1174,22 @@
       "category": "sport",
       "significance": 2,
       "section": "sport"
+    },
+    {
+      "id": "football/2026/may/23/middlesbroughs-hellberg-says-spygate-has-caused-him-toughest-two-weeks",
+      "headline": "Middlesbrough’s Hellberg says spygate has caused ‘toughest two weeks’ after Wembley defeat",
+      "summary": "Middlesbrough loses Championship playoff final to Hull after spygate controversy disrupts season.",
+      "url": "https://www.theguardian.com/p/x55vaq",
+      "thumbnail": "https://media.guim.co.uk/d9643bcf907ea191ddaf607edac5e077b05503c8/399_0_4074_3260/500.jpg",
+      "published": "2026-05-23T19:03:10Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
     }
   ]
 }
