@@ -1,44 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-23T07:55:32.321Z",
-    "story_count": 86,
-    "oldest_story": "2026-05-22T07:59:42Z",
-    "newest_story": "2026-05-23T07:50:00Z",
+    "generated_at": "2026-05-23T09:59:56.568Z",
+    "story_count": 90,
+    "oldest_story": "2026-05-22T10:12:49Z",
+    "newest_story": "2026-05-23T09:00:25Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "global-development/2026/may/22/aid-international-charity-frontline-adapt",
-      "headline": "The dinosaurs of international aid must adapt or die – their expensive era is over",
-      "summary": "International aid organizations face pressure to reduce overhead and shift spending to grassroots level.",
-      "url": "https://www.theguardian.com/p/x54pvc",
-      "thumbnail": "https://media.guim.co.uk/07f7507aaf58c38a9ad4632317f715c6fce12461/972_513_4951_3963/500.jpg",
-      "published": "2026-05-22T08:00:53Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "global-development"
-    },
-    {
-      "id": "world/live/2026/may/22/nato-mark-rutte-us-donald-trump-troops-poland-summit-russia-baltics-drones-tensions-ukraine-latest-news-updates",
-      "headline": "Nato foreign ministers meet to navigate shifting partnership with the US – Europe live",
-      "summary": "NATO foreign ministers navigate US partnership amid Trump's announcement of 5,000 troops deployment to Poland.",
-      "url": "https://www.theguardian.com/p/x552tj",
-      "thumbnail": "https://media.guim.co.uk/2131d3b2a5805406d2a161cc988b05a3658ab87e/725_0_4331_3465/500.jpg",
-      "published": "2026-05-22T07:59:42Z",
-      "location": {
-        "name": "Stockholm",
-        "lat": 59.3293,
-        "lng": 18.0686
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
     {
       "id": "world/2026/may/22/western-europe-braces-first-heat-event-summer",
       "headline": "Western Europe braces for first major heat event of the summer",
@@ -1382,6 +1350,102 @@
       "category": "sport",
       "significance": 3,
       "section": "sport"
+    },
+    {
+      "id": "politics/2026/may/23/rachel-reeves-tax-cut-childrens-meals-political-soundbite",
+      "headline": "Reeves’s tax cut on children’s meals a political ‘soundbite’, say restaurateurs",
+      "summary": "UK restaurateurs dismiss VAT cut on children's meals as political gesture with minimal impact.",
+      "url": "https://www.theguardian.com/p/x553kx",
+      "thumbnail": "https://media.guim.co.uk/0e151c1441ba7fe2af3092bfae353ccf03c9323f/0_0_1802_1442/500.jpg",
+      "published": "2026-05-23T09:00:25Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "sport/2026/may/23/rafael-jodar-french-open-mens-tennis-rafael-nadal-carlos-alcaraz",
+      "headline": "Nadal, Alcaraz and now Jodar: how Spain’s school of ‘suffering’ forges the stars of men’s tennis",
+      "summary": "19-year-old Spanish tennis talent Jodar continues Spain's dominance at French Open.",
+      "url": "https://www.theguardian.com/p/x54kpm",
+      "thumbnail": "https://media.guim.co.uk/5de9f504a4ded9eacd0e4e0bd02ebe816efec97c/0_0_2435_1949/500.jpg",
+      "published": "2026-05-23T09:00:24Z",
+      "location": {
+        "name": "Paris",
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "business/2026/may/23/meds-uk-startup-drug-making-space-bioorbit-cancer",
+      "headline": "Final frontier for meds? UK startup sends drug-making into space",
+      "summary": "UK biotech startup BioOrbit sends drug-crystallization technology to ISS for cancer treatment.",
+      "url": "https://www.theguardian.com/p/x54jdx",
+      "thumbnail": "https://media.guim.co.uk/146102ed0b799d026345e83d197e9783446b8bcf/300_0_6880_5504/500.jpg",
+      "published": "2026-05-23T09:00:24Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "tech",
+      "significance": 3,
+      "section": "business"
+    },
+    {
+      "id": "tv-and-radio/2026/may/23/stephen-colbert-late-night",
+      "headline": "The show might go on: what happens to late-night TV without Stephen Colbert?",
+      "summary": "Late-night TV landscape shifts as Stephen Colbert's iconic show concludes after decades.",
+      "url": "https://www.theguardian.com/p/x55482",
+      "thumbnail": "https://media.guim.co.uk/5737db9041df43143cc97052621fee9307ea060a/578_0_4164_3333/500.jpg",
+      "published": "2026-05-23T09:00:23Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "culture",
+      "significance": 3,
+      "section": "tv-and-radio"
+    },
+    {
+      "id": "politics/2026/may/23/who-are-andy-burnhams-key-aides-and-allies",
+      "headline": "Who are Andy Burnham’s key aides and allies?",
+      "summary": "Andy Burnham assembles lean team to support parliamentary ambitions from Manchester base.",
+      "url": "https://www.theguardian.com/p/x554qk",
+      "thumbnail": "https://media.guim.co.uk/c850e6cdda8f81b866deea4fe65b7beec5a4d06d/0_0_2518_2014/500.jpg",
+      "published": "2026-05-23T09:00:23Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "world/2026/may/23/board-of-peace-focus-on-hamas-risks-return-to-war-in-gaza-critics-say",
+      "headline": "Board of Peace focus on Hamas risks return to war in Gaza, critics say",
+      "summary": "Critics warn US-backed Gaza board's one-sided stance on Hamas risks ceasefire collapse.",
+      "url": "https://www.theguardian.com/p/x554gv",
+      "thumbnail": "https://media.guim.co.uk/2083ddc2fda4ecd151d14c5026cb75db5b7d604b/67_0_4800_3840/500.jpg",
+      "published": "2026-05-23T09:00:13Z",
+      "location": {
+        "name": "Gaza",
+        "lat": 31.9254,
+        "lng": 35.2029
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
     }
   ]
 }
