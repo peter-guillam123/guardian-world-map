@@ -1,76 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-24T16:30:46.965Z",
-    "story_count": 80,
-    "oldest_story": "2026-05-23T16:50:07Z",
-    "newest_story": "2026-05-24T16:30:01Z",
+    "generated_at": "2026-05-24T17:36:57.449Z",
+    "story_count": 87,
+    "oldest_story": "2026-05-23T17:50:48Z",
+    "newest_story": "2026-05-24T17:31:51Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "sport/2026/may/23/george-russell-wins-f1-canadian-gp-sprint-but-leaves-kimi-antonelli-furious",
-      "headline": "George Russell wins F1 Canadian GP sprint but leaves Kimi Antonelli furious",
-      "summary": "George Russell wins F1 Canadian GP sprint as Mercedes teammates clash.",
-      "url": "https://www.theguardian.com/p/x55vke",
-      "thumbnail": "https://media.guim.co.uk/fb4615a2b44e7d4b9fe666c65bb3ff4a6de14573/769_0_4146_3316/500.jpg",
-      "published": "2026-05-23T17:29:47Z",
-      "location": {
-        "name": "Montreal",
-        "lat": 45.5017,
-        "lng": -73.5673
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "sport/2026/may/23/england-new-zealand-women-t201-match-report",
-      "headline": "Sophie Devine sparks New Zealand’s recovery to foil nervy England",
-      "summary": "New Zealand stages comeback to beat England in T20 cricket by 14 runs.",
-      "url": "https://www.theguardian.com/p/x55vjd",
-      "thumbnail": "https://media.guim.co.uk/9e40e7d097dda7d692cc897efeb2648d00da939a/439_64_2353_1882/500.jpg",
-      "published": "2026-05-23T17:05:17Z",
-      "location": {
-        "name": "Canterbury",
-        "lat": 51.2793,
-        "lng": 1.0773
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "football/2026/may/23/usmnt-world-cup-roster-alejandro-zendejas-tanner-tessmann-gio-reyna-diego-luna",
-      "headline": "USMNT World Cup full roster: Alejandro Zendejas is in, Tanner Tessmann misses out",
-      "summary": "USMNT announces 26-man World Cup roster with Zendejas in, Tessmann out.",
-      "url": "https://www.theguardian.com/p/x559ma",
-      "thumbnail": "https://media.guim.co.uk/7db0dbc02bf14994b0145b6b1bb47959250a9705/480_0_4796_3837/500.jpg",
-      "published": "2026-05-23T17:00:17Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/may/23/hull-middlesbrough-championship-playoff-final-match-report",
-      "headline": "McBurnie’s late winner sinks Middlesbrough and takes Hull into Premier League",
-      "summary": "McBurnie's stoppage-time goal sends Hull into Premier League over Middlesbrough.",
-      "url": "https://www.theguardian.com/p/x55vad",
-      "thumbnail": "https://media.guim.co.uk/dfeaf8151883c4db0ee3b59a5e86ac0d5fdd2414/381_0_3682_2945/500.jpg",
-      "published": "2026-05-23T16:50:07Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
     {
       "id": "world/2026/may/23/gisele-pelicot-hay-festival-fell-in-love-trust-after-ordeal",
       "headline": "Pelicot tells Hay festival how she fell in love and was able to trust after rape ordeal",
@@ -1286,6 +1222,182 @@
       "category": "politics",
       "significance": 2,
       "section": "society"
+    },
+    {
+      "id": "education/2026/may/24/bridget-phillipson-orders-review-hidden-childcare-charges",
+      "headline": "Bridget Phillipson orders review of hidden childcare charges hitting parents ",
+      "summary": "Education secretary orders review of hidden childcare charges affecting parents.",
+      "url": "https://www.theguardian.com/p/x55f84",
+      "thumbnail": "https://media.guim.co.uk/208af89bb03fc31fabd2a8094dd014db7c5e2e36/180_0_4103_3282/500.jpg",
+      "published": "2026-05-24T17:31:51Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "education"
+    },
+    {
+      "id": "football/2026/may/24/sunderland-chelsea-premier-league-match-report",
+      "headline": "Sensational Sunderland qualify for Europa League after 10-man Chelsea fall apart",
+      "summary": "Sunderland qualifies for Europa League after beating Chelsea 2-1 on final day.",
+      "url": "https://www.theguardian.com/p/x55vgd",
+      "thumbnail": "https://media.guim.co.uk/4e4de1ec944649f5f729013c37ae6e188c0b5ecc/1209_468_1876_1501/500.jpg",
+      "published": "2026-05-24T17:27:15Z",
+      "location": {
+        "name": "Sunderland",
+        "lat": 54.9073,
+        "lng": -1.3822
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/may/24/manchester-city-aston-villa-premier-league-match-report",
+      "headline": "Aston Villa’s Ollie Watkins spoils Guardiola’s Manchester City leaving party",
+      "summary": "Aston Villa beats Manchester City 2-1 in Pep Guardiola's final match in charge.",
+      "url": "https://www.theguardian.com/p/x55vfz",
+      "thumbnail": "https://media.guim.co.uk/0616824c779d470c54f005245e3d5b973af3376a/346_0_4406_3525/500.jpg",
+      "published": "2026-05-24T17:22:42Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4831,
+        "lng": -2.2038
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/may/24/brighton-manchester-united-premier-league-match-report",
+      "headline": "Fernandes sets record as Manchester United win but Brighton still qualify for Europe",
+      "summary": "Bruno Fernandes breaks assist record as Manchester United defeats Brighton 3-0.",
+      "url": "https://www.theguardian.com/p/x55vem",
+      "thumbnail": "https://media.guim.co.uk/06bbb4c2569af819e73bcf57a99f1c64c2f71115/243_0_2434_1947/500.jpg",
+      "published": "2026-05-24T17:20:46Z",
+      "location": {
+        "name": "Brighton",
+        "lat": 50.8604,
+        "lng": -0.0829
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/may/24/liverpool-brentford-premier-league-match-report",
+      "headline": "Liverpool held by Brentford as Anfield bids Salah and Robertson farewell",
+      "summary": "Liverpool draws 1-1 with Brentford as Salah and Robertson bid farewell.",
+      "url": "https://www.theguardian.com/p/x55vfm",
+      "thumbnail": "https://media.guim.co.uk/0788d686d9d1993f56d2a1cbbcdbd1969e8eda56/98_0_1348_1078/500.jpg",
+      "published": "2026-05-24T17:19:08Z",
+      "location": {
+        "name": "Liverpool",
+        "lat": 53.4308,
+        "lng": -2.9605
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/may/24/crystal-palace-arsenal-premier-league-match-report",
+      "headline": "Arsenal celebrate Premier League in style with relaxed win at Crystal Palace",
+      "summary": "Arsenal celebrates Premier League title with relaxed win over Crystal Palace.",
+      "url": "https://www.theguardian.com/p/x55vf7",
+      "thumbnail": "https://media.guim.co.uk/080f02f3b67f513a5f1fad361c1bc9bc39f0badf/239_0_2031_1625/500.jpg",
+      "published": "2026-05-24T17:19:06Z",
+      "location": {
+        "name": "London",
+        "lat": 51.3962,
+        "lng": -0.0852
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/may/24/tottenham-everton-premier-league-match-report",
+      "headline": "Spurs secure survival as João Palhinha sees off Everton to seal West Ham’s fate",
+      "summary": "Tottenham secures survival with 1-0 win over Everton, condemning West Ham.",
+      "url": "https://www.theguardian.com/p/x55vgh",
+      "thumbnail": "https://media.guim.co.uk/9cff535ca54cb4537cb75ffa435684cb1d684822/389_32_4162_3331/500.jpg",
+      "published": "2026-05-24T17:18:56Z",
+      "location": {
+        "name": "London",
+        "lat": 51.6033,
+        "lng": -0.0663
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/may/24/west-ham-leeds-premier-league-match-report",
+      "headline": "West Ham relegated to Championship despite emphatic win over Leeds",
+      "summary": "West Ham relegated despite 3-0 win over Leeds as Spurs avoid drop.",
+      "url": "https://www.theguardian.com/p/x55vgm",
+      "thumbnail": "https://media.guim.co.uk/62141b141c35868df3fe914f77604bc187829a52/355_0_3795_3037/500.jpg",
+      "published": "2026-05-24T17:16:54Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5391,
+        "lng": -0.0161
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/may/24/nottingham-forest-bournemouth-premier-league-match-report",
+      "headline": "Tavernier earns draw at Forest but Bournemouth denied Champions League spot",
+      "summary": "Bournemouth draws 1-1 at Nottingham Forest, securing Europa League spot.",
+      "url": "https://www.theguardian.com/p/x55vgx",
+      "thumbnail": "https://media.guim.co.uk/cb89f60a030bd508e2556bfe78c7499510ff5144/0_0_3686_2948/500.jpg",
+      "published": "2026-05-24T17:10:59Z",
+      "location": {
+        "name": "Nottingham",
+        "lat": 52.9401,
+        "lng": -1.1339
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/may/24/thomas-massie-trump-republican-voters-midterms",
+      "headline": "Trump has ‘alienated’ voters ahead of midterms, warns ousted Republican Thomas Massie",
+      "summary": "Thomas Massie warns Trump has alienated voters ahead of 2026 midterms.",
+      "url": "https://www.theguardian.com/p/x55epa",
+      "thumbnail": "https://media.guim.co.uk/67612a4a87e25aaa4e626d7ae08ad704a5cd3fd4/576_0_2879_2304/500.jpg",
+      "published": "2026-05-24T16:49:48Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/may/24/white-house-shooting-gunman-suspect",
+      "headline": "Gunman who opened fire near White House was known to Secret Service",
+      "summary": "Gunman known to Secret Service killed after opening fire near White House.",
+      "url": "https://www.theguardian.com/p/x55fvm",
+      "thumbnail": "https://media.guim.co.uk/056ea8ba26af20e0e33bcbb3d1bd0d52376d8617/318_0_4156_3325/500.jpg",
+      "published": "2026-05-24T16:46:38Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "us-news"
     }
   ]
 }
