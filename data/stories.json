@@ -1,124 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-24T07:42:18.044Z",
-    "story_count": 74,
-    "oldest_story": "2026-05-23T07:50:00Z",
-    "newest_story": "2026-05-24T07:41:17Z",
+    "generated_at": "2026-05-24T09:32:54.820Z",
+    "story_count": 68,
+    "oldest_story": "2026-05-23T10:26:13Z",
+    "newest_story": "2026-05-24T09:00:53Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/live/2026/may/23/auckland-v-sydney-a-league-men-grand-final-live-updates",
-      "headline": "Auckland FC v Sydney FC: A-League Men grand final – live",
-      "summary": "Auckland FC face Sydney FC in A-League Men grand final at Go Media Stadium.",
-      "url": "https://www.theguardian.com/p/x5522k",
-      "thumbnail": "https://media.guim.co.uk/3bf085ee56d6318bd074b6ba8c8d32cb34f22250/782_0_6135_4908/500.jpg",
-      "published": "2026-05-23T07:50:00Z",
-      "location": {
-        "name": "Auckland",
-        "lat": -37.0082,
-        "lng": 174.785
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "politics/2026/may/23/rachel-reeves-tax-cut-childrens-meals-political-soundbite",
-      "headline": "Reeves’s tax cut on children’s meals a political ‘soundbite’, say restaurateurs",
-      "summary": "UK restaurateurs dismiss VAT cut on children's meals as political gesture with minimal impact.",
-      "url": "https://www.theguardian.com/p/x553kx",
-      "thumbnail": "https://media.guim.co.uk/0e151c1441ba7fe2af3092bfae353ccf03c9323f/0_0_1802_1442/500.jpg",
-      "published": "2026-05-23T09:00:25Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "sport/2026/may/23/rafael-jodar-french-open-mens-tennis-rafael-nadal-carlos-alcaraz",
-      "headline": "Nadal, Alcaraz and now Jodar: how Spain’s school of ‘suffering’ forges the stars of men’s tennis",
-      "summary": "19-year-old Spanish tennis talent Jodar continues Spain's dominance at French Open.",
-      "url": "https://www.theguardian.com/p/x54kpm",
-      "thumbnail": "https://media.guim.co.uk/5de9f504a4ded9eacd0e4e0bd02ebe816efec97c/0_0_2435_1949/500.jpg",
-      "published": "2026-05-23T09:00:24Z",
-      "location": {
-        "name": "Paris",
-        "lat": 48.8566,
-        "lng": 2.3522
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "business/2026/may/23/meds-uk-startup-drug-making-space-bioorbit-cancer",
-      "headline": "Final frontier for meds? UK startup sends drug-making into space",
-      "summary": "UK biotech startup BioOrbit sends drug-crystallization technology to ISS for cancer treatment.",
-      "url": "https://www.theguardian.com/p/x54jdx",
-      "thumbnail": "https://media.guim.co.uk/146102ed0b799d026345e83d197e9783446b8bcf/300_0_6880_5504/500.jpg",
-      "published": "2026-05-23T09:00:24Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "tech",
-      "significance": 3,
-      "section": "business"
-    },
-    {
-      "id": "tv-and-radio/2026/may/23/stephen-colbert-late-night",
-      "headline": "The show might go on: what happens to late-night TV without Stephen Colbert?",
-      "summary": "Late-night TV landscape shifts as Stephen Colbert's iconic show concludes after decades.",
-      "url": "https://www.theguardian.com/p/x55482",
-      "thumbnail": "https://media.guim.co.uk/5737db9041df43143cc97052621fee9307ea060a/578_0_4164_3333/500.jpg",
-      "published": "2026-05-23T09:00:23Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "culture",
-      "significance": 3,
-      "section": "tv-and-radio"
-    },
-    {
-      "id": "politics/2026/may/23/who-are-andy-burnhams-key-aides-and-allies",
-      "headline": "Who are Andy Burnham’s key aides and allies?",
-      "summary": "Andy Burnham assembles lean team to support parliamentary ambitions from Manchester base.",
-      "url": "https://www.theguardian.com/p/x554qk",
-      "thumbnail": "https://media.guim.co.uk/c850e6cdda8f81b866deea4fe65b7beec5a4d06d/0_0_2518_2014/500.jpg",
-      "published": "2026-05-23T09:00:23Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4808,
-        "lng": -2.2426
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "world/2026/may/23/board-of-peace-focus-on-hamas-risks-return-to-war-in-gaza-critics-say",
-      "headline": "Board of Peace focus on Hamas risks return to war in Gaza, critics say",
-      "summary": "Critics warn US-backed Gaza board's one-sided stance on Hamas risks ceasefire collapse.",
-      "url": "https://www.theguardian.com/p/x554gv",
-      "thumbnail": "https://media.guim.co.uk/2083ddc2fda4ecd151d14c5026cb75db5b7d604b/67_0_4800_3840/500.jpg",
-      "published": "2026-05-23T09:00:13Z",
-      "location": {
-        "name": "Gaza",
-        "lat": 31.9254,
-        "lng": 35.2029
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
     {
       "id": "us-news/2026/may/23/richard-trahant-new-orleans-clergy-abuse",
       "headline": "A New Orleans attorney was punished for exposing a clergy abuser. Here’s what officials hid for years",
@@ -1190,6 +1078,22 @@
       "category": "sport",
       "significance": 2,
       "section": "football"
+    },
+    {
+      "id": "tv-and-radio/2026/may/24/sam-campbell-make-that-movie-interview-australian-comedian-last-one-laughing",
+      "headline": "‘People are like: you’re a crackpot’: how Sam Campbell became comedy’s oddball superstar",
+      "summary": "Australian comedian Sam Campbell launches absurdist sitcom 'Make That Movie' on Channel 4.",
+      "url": "https://www.theguardian.com/p/x5xmmj",
+      "thumbnail": "https://media.guim.co.uk/a392689c204c21e81a3bbbc12477e7ee27d87eb9/168_29_2673_2138/500.jpg",
+      "published": "2026-05-24T09:00:53Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "tv-and-radio"
     }
   ]
 }
