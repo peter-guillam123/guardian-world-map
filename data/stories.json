@@ -1,44 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-24T00:11:58.059Z",
-    "story_count": 86,
-    "oldest_story": "2026-05-23T01:12:17Z",
-    "newest_story": "2026-05-24T00:04:47Z",
+    "generated_at": "2026-05-24T04:41:19.654Z",
+    "story_count": 84,
+    "oldest_story": "2026-05-23T05:00:18Z",
+    "newest_story": "2026-05-24T04:00:47Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "australia-news/2026/may/23/three-die-in-horrific-south-sydney-vehicle-crash-after-police-welfare-check",
-      "headline": "Three die in ‘horrific’ south Sydney vehicle crash after police welfare check",
-      "summary": "Three killed in Sydney crash after driver flees police welfare check",
-      "url": "https://www.theguardian.com/p/x556tf",
-      "thumbnail": "https://media.guim.co.uk/1ab5f0d098aa37e95f380f95b767116d96bfd515/786_0_7857_6286/500.jpg",
-      "published": "2026-05-23T01:24:01Z",
-      "location": {
-        "name": "Sans Souci, Sydney",
-        "lat": -34.0277,
-        "lng": 151.0894
-      },
-      "category": "conflict",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "us-news/2026/may/22/california-orange-county-chemical-tank",
-      "headline": "California: 40,000 people ordered to evacuate over chemical leak fears",
-      "summary": "40,000 evacuated in Orange County over chemical tank leak crisis threat",
-      "url": "https://www.theguardian.com/p/x556ja",
-      "thumbnail": "https://media.guim.co.uk/c04e56794abe6c55ef54d366d91a7087e7be753f/27_0_3161_2530/500.jpg",
-      "published": "2026-05-23T01:12:17Z",
-      "location": {
-        "name": "Garden Grove, California",
-        "lat": 33.7537,
-        "lng": -117.9425
-      },
-      "category": "health",
-      "significance": 3,
-      "section": "us-news"
-    },
     {
       "id": "artanddesign/2026/may/23/peoples-tree-wins-sycamore-gap-art-vote",
       "headline": "Multimedia arts project wins Sycamore Gap tree commission after public vote ",
@@ -166,22 +134,6 @@
       "category": "economy",
       "significance": 2,
       "section": "world"
-    },
-    {
-      "id": "australia-news/2026/may/23/anthony-albanese-visibly-emotional-after-defending-labors-capital-gains-tax-and-negative-gearing-changes",
-      "headline": "Anthony Albanese visibly emotional after defending Labor’s capital gains tax and negative gearing changes",
-      "summary": "PM Albanese emotionally defends Labor's capital gains tax and negative gearing reforms in federal budget.",
-      "url": "https://www.theguardian.com/p/x557at",
-      "thumbnail": "https://media.guim.co.uk/011215a67a905686a6ed9969a400175d0e91b56b/0_0_5040_4032/500.jpg",
-      "published": "2026-05-23T04:23:17Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "australia-news"
     },
     {
       "id": "football/live/2026/may/23/auckland-v-sydney-a-league-men-grand-final-live-updates",
@@ -1382,6 +1334,22 @@
       "category": "health",
       "significance": 3,
       "section": "us-news"
+    },
+    {
+      "id": "law/2026/may/24/former-international-criminal-court-prosecutor-calls-for-eu-statute-blocking-us-sanctions-on-icc-members",
+      "headline": "Former prosecutor calls for EU statute blocking US sanctions on ICC members",
+      "summary": "Former ICC prosecutor urges EU statute to block US sanctions on court members over Israeli arrest warrants.",
+      "url": "https://www.theguardian.com/p/x5589e",
+      "thumbnail": "https://media.guim.co.uk/7311919bf06a38bfcd9a270148aca7a2135e6fa1/382_0_6800_5441/500.jpg",
+      "published": "2026-05-24T04:00:47Z",
+      "location": {
+        "name": "The Hague",
+        "lat": 52.0705,
+        "lng": 4.3007
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "law"
     }
   ]
 }
