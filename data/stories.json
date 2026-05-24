@@ -1,140 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-24T19:57:20.178Z",
-    "story_count": 88,
-    "oldest_story": "2026-05-23T19:58:28Z",
-    "newest_story": "2026-05-24T19:54:29Z",
+    "generated_at": "2026-05-24T21:06:37.860Z",
+    "story_count": 81,
+    "oldest_story": "2026-05-23T21:27:45Z",
+    "newest_story": "2026-05-24T20:00:05Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "film/2026/may/23/cristian-mungiu-wins-second-palme-dor-fjord-cannes-film-festival",
-      "headline": "Cristian Mungiu wins second Palme d’Or at Cannes for child abuse drama Fjord ",
-      "summary": "Romanian director Cristian Mungiu wins second Palme d'Or at Cannes for English-language debut Fjord.",
-      "url": "https://www.theguardian.com/p/x55az9",
-      "thumbnail": "https://media.guim.co.uk/7e57ba42233c1b7146110f31aca8154dded5f8ed/234_0_4101_3282/500.jpg",
-      "published": "2026-05-23T20:57:18Z",
-      "location": {
-        "name": "Cannes",
-        "lat": 43.5528,
-        "lng": 7.0176
-      },
-      "category": "culture",
-      "significance": 3,
-      "section": "film"
-    },
-    {
-      "id": "environment/2026/may/24/endangered-sawfish-at-risk-wa-fitzroy-river-western-australia",
-      "headline": "Endangered sawfish at risk from plan to double water extraction from WA’s Fitzroy River, advocates say",
-      "summary": "Endangered sawfish threatened by plan to double water extraction from Western Australia's Fitzroy River.",
-      "url": "https://www.theguardian.com/p/x54zhf",
-      "thumbnail": "https://media.guim.co.uk/2a0a1593456e3b1a2c0bac09bb8612ec5a82148b/42_0_3124_2501/500.jpg",
-      "published": "2026-05-23T20:00:38Z",
-      "location": {
-        "name": "Fitzroy River",
-        "lat": -17.5,
-        "lng": 123.8
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "environment"
-    },
-    {
-      "id": "australia-news/2026/may/24/candace-owens-tour-cancelled-australia-no-ticket-refunds-ntwnfb",
-      "headline": "No refunds for 15,000 Australian ticket holders after Candace Owens’ tour cancelled",
-      "summary": "Candace Owens tour cancelled; 15,000 Australian ticket holders face no refunds after promoter collapse.",
-      "url": "https://www.theguardian.com/p/x5vygd",
-      "thumbnail": "https://media.guim.co.uk/044e44ba429be3c9a2c5092a2444d2e20ec7b86a/296_0_4640_3712/500.jpg",
-      "published": "2026-05-23T20:00:38Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "australia-news/2026/may/24/angus-taylor-welfare-citizenship-migrants-immigrants-giving-up-home-ntwnfb",
-      "headline": "Angus Taylor’s claim support is a ‘privilege of citizenship’ leaves Deepa and others with an impossible choice",
-      "summary": "Opposition leader's welfare eligibility limits leave migrant permanent residents facing citizenship dilemma.",
-      "url": "https://www.theguardian.com/p/x54bpe",
-      "thumbnail": "https://media.guim.co.uk/46d18a255c0e0e10ec391c6c8cb8639cd4f52a9c/0_0_5000_4002/500.jpg",
-      "published": "2026-05-23T20:00:38Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "australia-news/2026/may/24/theyve-taken-all-my-stuff-councils-across-australia-threaten-homeless-people-with-fines-and-confiscation-of-belongings",
-      "headline": "‘They’ve taken all my stuff’: councils across Australia threaten homeless people with fines and confiscation of belongings",
-      "summary": "Australian councils fine and confiscate belongings of homeless people as homelessness crisis surges.",
-      "url": "https://www.theguardian.com/p/x5523p",
-      "thumbnail": "https://media.guim.co.uk/4439dbaeeee3e39235b5df39b2ee10f9a5030ec3/938_0_5000_4000/500.jpg",
-      "published": "2026-05-23T20:00:37Z",
-      "location": {
-        "name": "Brisbane",
-        "lat": -27.4698,
-        "lng": 153.0251
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "australia-news/2026/may/24/designer-sues-australian-shopify-over-alleged-ghost-stores-ntwnfb",
-      "headline": "Designer sues Australian Shopify over alleged ghost stores that he claims copied his work 3,929 times ",
-      "summary": "Designer sues Shopify in federal court over alleged ghost stores copying his work 3,929 times.",
-      "url": "https://www.theguardian.com/p/x55xtp",
-      "thumbnail": "https://media.guim.co.uk/854f5612f6fcbb759adc3d041f3e445676530452/404_0_5409_4329/500.jpg",
-      "published": "2026-05-23T20:00:37Z",
-      "location": {
-        "name": "Brisbane",
-        "lat": -27.4698,
-        "lng": 153.0251
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "lifeandstyle/2026/may/24/moment-i-knew-newly-single-he-felt-like-home",
-      "headline": "The moment I knew: I’d quit my job and was newly single – then he smiled and I felt like I was home",
-      "summary": "Woman's life changes after meeting charismatic chef Antonio at restaurant in Darlinghurst, Sydney.",
-      "url": "https://www.theguardian.com/p/x54mp4",
-      "thumbnail": "https://media.guim.co.uk/85b2ab0d63ddeba05129b5895798b49052f4dfd3/1_0_2499_2000/500.jpg",
-      "published": "2026-05-23T20:00:36Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "lifeandstyle"
-    },
-    {
-      "id": "uk-news/2026/may/23/uk-records-hottest-day-of-the-year-so-far-with-warnings-of-more-extreme-heat-this-weekend",
-      "headline": "UK records hottest day of year as forecasters warn of more extreme heat",
-      "summary": "UK records hottest day of year at 30.5C in Kent; amber heat alerts issued for bank holiday weekend.",
-      "url": "https://www.theguardian.com/p/x55akx",
-      "thumbnail": "https://media.guim.co.uk/568d24d171b30069b71f1e40baf83a11b19d4c16/680_0_6833_5464/500.jpg",
-      "published": "2026-05-23T19:58:28Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "uk-news"
-    },
     {
       "id": "sport/2026/may/23/george-russell-steals-f1-canadian-gp-pole-from-kimi-antonelli-on-feisty-day",
       "headline": "George Russell steals F1 Canadian GP pole from Kimi Antonelli on feisty day",
@@ -1414,6 +1286,22 @@
       "category": "sport",
       "significance": 2,
       "section": "football"
+    },
+    {
+      "id": "news/2026/may/24/corrections-and-clarifications",
+      "headline": "Corrections and clarifications",
+      "summary": "Corrections issued for Natural History Museum exhibition article and free bus travel scheme reporting.",
+      "url": "https://www.theguardian.com/p/x5549m",
+      "thumbnail": null,
+      "published": "2026-05-24T20:00:05Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "news"
     }
   ]
 }
