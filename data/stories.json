@@ -1,60 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-24T22:09:13.925Z",
-    "story_count": 80,
-    "oldest_story": "2026-05-23T22:39:07Z",
-    "newest_story": "2026-05-24T22:08:30Z",
+    "generated_at": "2026-05-24T23:16:42.553Z",
+    "story_count": 81,
+    "oldest_story": "2026-05-23T23:53:39Z",
+    "newest_story": "2026-05-24T23:01:09Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "world/live/2026/may/24/iran-deal-strait-of-hormuz-trump-middle-east-crisis-live",
-      "headline": "Middle East crisis live: fate of strait of Hormuz hangs in balance as Trump claims Iran deal ‘largely negotiated’ ",
-      "summary": "Trump claims Iran nuclear deal 'largely negotiated' with Strait of Hormuz opening disputed.",
-      "url": "https://www.theguardian.com/p/x55bex",
-      "thumbnail": "https://media.guim.co.uk/1e150bba8c860131d505d27eb4e2b34984d2320d/126_0_1066_853/500.jpg",
-      "published": "2026-05-23T23:00:34Z",
-      "location": {
-        "name": "Strait of Hormuz",
-        "lat": 26.5597,
-        "lng": 56.2394
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "us-news/2026/may/23/gunshots-white-house",
-      "headline": "Extended volley of gunshots heard near White House as agencies respond",
-      "summary": "Gunshots heard near White House as FBI and Secret Service respond to incident.",
-      "url": "https://www.theguardian.com/p/x55bdp",
-      "thumbnail": "https://media.guim.co.uk/29f592f7978d4b57169245a2aa6bc10188c7f481/792_0_5000_4000/500.jpg",
-      "published": "2026-05-23T22:58:46Z",
-      "location": {
-        "name": "Washington",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "film/2026/may/23/cannes-got-it-wrong-this-year-cristian-mungius-fjord-winning-palme-dor",
-      "headline": "Cannes got it wrong this year by awarding Cristian Mungiu’s very moderate Fjord Palme d’Or",
-      "summary": "Cristian Mungiu's 'Fjord' wins Palme d'Or at Cannes Film Festival amid critical debate.",
-      "url": "https://www.theguardian.com/p/x55apc",
-      "thumbnail": "https://media.guim.co.uk/7de85ba90e40891dc20ca5c348dc44f1494dfe1e/407_0_4057_3247/500.jpg",
-      "published": "2026-05-23T22:39:07Z",
-      "location": {
-        "name": "Cannes",
-        "lat": 43.5528,
-        "lng": 7.0176
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "film"
-    },
     {
       "id": "australia-news/live/2026/may/24/australia-news-live-queensland-police-gunshots-white-house-tax-reform-david-pocock-anthony-albanese-jim-chalmers-angus-taylor-labor-coalition-ntwnfb",
       "headline": "Australia news live: Queensland police shoot dead man north of Brisbane; gunshots heard near White House",
@@ -1286,6 +1238,70 @@
       "category": "culture",
       "significance": 1,
       "section": "tv-and-radio"
+    },
+    {
+      "id": "film/2026/may/25/films-more-likely-to-star-an-actor-called-chris-or-a-talking-animal-than-a-woman-over-60-study-finds",
+      "headline": "Films more likely to star an actor called Chris or a talking animal than a woman over 60, study finds",
+      "summary": "UK films more likely to feature talking animals than women over 60, study finds.",
+      "url": "https://www.theguardian.com/p/x553p8",
+      "thumbnail": "https://media.guim.co.uk/b22e3c1899cc6a349719d53640fb28393c116eec/164_0_4102_3281/500.jpg",
+      "published": "2026-05-24T23:01:09Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "film"
+    },
+    {
+      "id": "education/2026/may/25/uk-universities-cuts-impoverished-students-funding",
+      "headline": "UK universities warn of cuts for impoverished students if dire funding issues continue ",
+      "summary": "UK universities warn of student hardship funding cuts amid budgetary crisis.",
+      "url": "https://www.theguardian.com/p/x554pc",
+      "thumbnail": "https://media.guim.co.uk/4feb024a730f2d455190937a35f38cc26956c4e2/888_0_4283_3426/500.jpg",
+      "published": "2026-05-24T23:01:09Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "education"
+    },
+    {
+      "id": "world/2026/may/24/gps-jammed-on-raf-jet-carrying-uk-defence-secretary-close-to-russian-border",
+      "headline": "GPS jammed on RAF jet carrying UK defence secretary close to Russian border",
+      "summary": "Russia jams GPS on RAF jet carrying UK defence secretary near Estonian border.",
+      "url": "https://www.theguardian.com/p/x55geh",
+      "thumbnail": "https://media.guim.co.uk/a7659f425778399c639789313699d289dea90807/363_0_6623_5299/500.jpg",
+      "published": "2026-05-24T22:40:17Z",
+      "location": {
+        "name": "Tallinn",
+        "lat": 59.437,
+        "lng": 24.7536
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "sport/2026/may/24/kimi-antonelli-wins-f1-canadian-gp-after-frustrated-russell-retires",
+      "headline": "Antonelli surges to F1 Canadian GP win after teammate Russell retires in lead",
+      "summary": "Kimi Antonelli wins F1 Canadian GP for fourth consecutive victory.",
+      "url": "https://www.theguardian.com/p/x55vkm",
+      "thumbnail": "https://media.guim.co.uk/d5c37df7abffb44aaddc5c09cc8696aef319f062/445_0_4754_3803/500.jpg",
+      "published": "2026-05-24T22:11:22Z",
+      "location": {
+        "name": "Montreal",
+        "lat": 45.5017,
+        "lng": -73.5673
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
     }
   ]
 }
