@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-05-23T23:08:16.213Z",
-    "story_count": 84,
+    "generated_at": "2026-05-24T00:11:58.059Z",
+    "story_count": 86,
     "oldest_story": "2026-05-23T01:12:17Z",
-    "newest_story": "2026-05-23T23:00:34Z",
+    "newest_story": "2026-05-24T00:04:47Z",
     "window_hours": 24
   },
   "stories": [
@@ -1350,6 +1350,38 @@
       "category": "culture",
       "significance": 2,
       "section": "film"
+    },
+    {
+      "id": "australia-news/live/2026/may/24/australia-news-live-queensland-police-gunshots-white-house-tax-reform-david-pocock-anthony-albanese-jim-chalmers-angus-taylor-labor-coalition-ntwnfb",
+      "headline": "Australia news live: Queensland police shoot dead man north of Brisbane; gunshots heard near White House",
+      "summary": "Queensland police shoot armed man in Narangba north of Brisbane; incident to be investigated.",
+      "url": "https://www.theguardian.com/p/x55bcd",
+      "thumbnail": "https://media.guim.co.uk/3f3ea57854e32ae76adc806360e6bbb03bd05d0f/334_0_3331_2666/500.jpg",
+      "published": "2026-05-24T00:04:47Z",
+      "location": {
+        "name": "Brisbane",
+        "lat": -27.4698,
+        "lng": 153.0251
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "us-news/2026/may/23/california-state-of-emergency-chemical-disaster",
+      "headline": "California governor declares state of emergency over looming chemical disaster",
+      "summary": "California governor declares emergency as 40,000 evacuated from Orange County over chemical disaster threat.",
+      "url": "https://www.theguardian.com/p/x55bag",
+      "thumbnail": "https://media.guim.co.uk/c04e56794abe6c55ef54d366d91a7087e7be753f/27_0_3161_2530/500.jpg",
+      "published": "2026-05-23T23:53:39Z",
+      "location": {
+        "name": "Orange County",
+        "lat": 33.7298,
+        "lng": -117.8235
+      },
+      "category": "health",
+      "significance": 3,
+      "section": "us-news"
     }
   ]
 }
