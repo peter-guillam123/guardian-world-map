@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-05-24T09:32:54.820Z",
-    "story_count": 68,
-    "oldest_story": "2026-05-23T10:26:13Z",
-    "newest_story": "2026-05-24T09:00:53Z",
+    "generated_at": "2026-05-24T10:59:57.207Z",
+    "story_count": 73,
+    "oldest_story": "2026-05-23T11:00:25Z",
+    "newest_story": "2026-05-24T10:59:17Z",
     "window_hours": 24
   },
   "stories": [
@@ -102,22 +102,6 @@
       "category": "economy",
       "significance": 3,
       "section": "business"
-    },
-    {
-      "id": "politics/2026/may/23/uk-eu-european-union-reset-david-miliband-single-market-goods",
-      "headline": "UK needs ‘national consensus’ over rejoining EU, David Miliband says",
-      "summary": "David Miliband urges national consensus on UK rejoin EU bid after single market goods pitch.",
-      "url": "https://www.theguardian.com/p/x558gp",
-      "thumbnail": "https://media.guim.co.uk/7934ca592a65ae53a418b5fdfc177746cac81716/350_154_1450_1159/500.jpg",
-      "published": "2026-05-23T10:26:13Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
     },
     {
       "id": "football/live/2026/may/23/championship-playoff-drama-awaits-scottish-cup-and-wcl-finals-buildup-matchday-live",
@@ -1094,6 +1078,102 @@
       "category": "culture",
       "significance": 2,
       "section": "tv-and-radio"
+    },
+    {
+      "id": "sport/live/2026/may/24/french-open-2026-zverev-raducanu-fritz-day-one-roland-garros-live",
+      "headline": "French Open 2026: Zverev, Raducanu and Fritz in action on day one at Roland Garros – live",
+      "summary": "French Open 2026 day one underway with Zverev, Raducanu and Fritz competing at Roland Garros.",
+      "url": "https://www.theguardian.com/p/x5536m",
+      "thumbnail": "https://media.guim.co.uk/d376b45a9e20c6277d5b8a8edf367293eb65e288/543_225_5151_4121/500.jpg",
+      "published": "2026-05-24T10:59:17Z",
+      "location": {
+        "name": "Paris",
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "sport"
+    },
+    {
+      "id": "stage/2026/may/24/our-public-house-review-a-heartfelt-portrait-of-divided-britain-set-behind-the-bar",
+      "headline": "Our Public House review – a heartfelt portrait of divided Britain set behind the bar",
+      "summary": "Our Public House theatre production portrays divided Britain through a community-inspired pub setting.",
+      "url": "https://www.theguardian.com/p/x55dq8",
+      "thumbnail": "https://media.guim.co.uk/3221c12f34e579d06e0e1779211f13106c20746c/992_423_2496_1997/500.jpg",
+      "published": "2026-05-24T10:38:27Z",
+      "location": {
+        "name": "Leeds",
+        "lat": 53.8008,
+        "lng": -1.5491
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "stage"
+    },
+    {
+      "id": "world/2026/may/24/iran-ceasefire-deal-us-strait-of-hormuz",
+      "headline": "What may be included in proposed Iran ceasefire deal?",
+      "summary": "Proposed US-Iran ceasefire framework includes 60-day truce and Strait of Hormuz reopening negotiations.",
+      "url": "https://www.theguardian.com/p/x55dnt",
+      "thumbnail": "https://media.guim.co.uk/a4365c9fa62a13237c54803574e458b9721aedbc/182_0_1666_1333/500.jpg",
+      "published": "2026-05-24T10:31:40Z",
+      "location": {
+        "name": "Iran",
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "politics/2026/may/24/uk-supply-chain-unprepared-for-major-shocks-war-report-warns",
+      "headline": "UK supply chain unprepared for major shocks such as war, report warns",
+      "summary": "UK supply chains unprepared for major shocks like war, National Preparedness Commission warns.",
+      "url": "https://www.theguardian.com/p/x554c2",
+      "thumbnail": "https://media.guim.co.uk/ed241ebd83c26caee3f44fe9226c91ab553fad87/0_0_2917_2334/500.jpg",
+      "published": "2026-05-24T10:00:53Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "money/2026/may/24/gen-z-college-degree-employment",
+      "headline": "A college degree once ensured prosperity – but gen z is finding ‘just not much out there’",
+      "summary": "Gen Z faces economic instability despite college degrees as job market remains challenging.",
+      "url": "https://www.theguardian.com/p/x5557k",
+      "thumbnail": "https://media.guim.co.uk/6b7857787875275c3dcebedff00736ccc1297df9/0_0_3000_2400/500.jpg",
+      "published": "2026-05-24T10:00:53Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "money"
+    },
+    {
+      "id": "sport/2026/may/24/ben-proud-enhanced-games-drugs-in-sport",
+      "headline": "Ben Proud denies Enhanced Games will encourage young people to try doping",
+      "summary": "Ben Proud defends Enhanced Games as safe despite Wada concerns about encouraging doping.",
+      "url": "https://www.theguardian.com/p/x55ank",
+      "thumbnail": "https://media.guim.co.uk/1937d2b6daa150f430a3b0962122fc0ef83b7198/720_0_7200_5760/500.jpg",
+      "published": "2026-05-24T09:57:32Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
     }
   ]
 }
