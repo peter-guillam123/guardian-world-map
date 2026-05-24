@@ -1,156 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-24T15:16:39.764Z",
-    "story_count": 82,
-    "oldest_story": "2026-05-23T15:19:48Z",
-    "newest_story": "2026-05-24T15:16:12Z",
+    "generated_at": "2026-05-24T16:30:46.965Z",
+    "story_count": 80,
+    "oldest_story": "2026-05-23T16:50:07Z",
+    "newest_story": "2026-05-24T16:30:01Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/2026/may/23/celtic-dunfermline-scottish-cup-final-match-report",
-      "headline": "Iheanacho ensures Celtic ease past Dunfermline to win Scottish Cup and Double ",
-      "summary": "Celtic defeats Dunfermline 3-1 in Scottish Cup final to secure domestic double.",
-      "url": "https://www.theguardian.com/p/x55vbk",
-      "thumbnail": "https://media.guim.co.uk/f759ef84439147d1541616829eb15eaa7e9e754f/163_0_2560_2048/500.jpg",
-      "published": "2026-05-23T16:04:06Z",
-      "location": {
-        "name": "Glasgow",
-        "lat": 55.8642,
-        "lng": -4.2518
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "sport/2026/may/23/leinster-bordeaux-champions-cup-final-rugby-union-match-report",
-      "headline": "Bielle-Biarrey doubles up as Bordeaux sink Leinster to retain Champions Cup",
-      "summary": "Bordeaux retains Champions Cup trophy with dominant 41-19 victory over Leinster.",
-      "url": "https://www.theguardian.com/p/x55vtc",
-      "thumbnail": "https://media.guim.co.uk/cf78899354a2233bdd2c27505523eba6ae0a4110/595_0_5949_4759/500.jpg",
-      "published": "2026-05-23T16:01:37Z",
-      "location": {
-        "name": "Bilbao",
-        "lat": 43.2627,
-        "lng": -2.9253
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "sport"
-    },
-    {
-      "id": "football/2026/may/23/starmer-tnt-sports-champion-league-final-free-arsenal-paris-saint-germain",
-      "headline": "Starmer asks TNT Sports to make Champions League final free to view",
-      "summary": "PM Starmer requests TNT Sports make Champions League final free to view for British fans.",
-      "url": "https://www.theguardian.com/p/x559je",
-      "thumbnail": "https://media.guim.co.uk/73c6391d54ca83c9f4d60516e61b1e3c3e39b1de/198_58_1279_1023/500.jpg",
-      "published": "2026-05-23T16:00:32Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "law/2026/may/23/anti-protest-sentences-rise-england-wales-political-prisoners",
-      "headline": "New breed of political prisoner arises in Britain as anti-protest sentences rise ",
-      "summary": "UK research reveals rising incarceration of climate and Gaza protest activists in Britain.",
-      "url": "https://www.theguardian.com/p/x54f3f",
-      "thumbnail": "https://media.guim.co.uk/bcc69c58cb421dd3f32d313aaa678827feef2ec8/1453_262_3439_2754/500.jpg",
-      "published": "2026-05-23T16:00:31Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "law"
-    },
-    {
-      "id": "politics/2026/may/23/zack-polanski-greens-houseboat-council-tax-gla-investigation",
-      "headline": "GLA considering investigation into Zack Polanski over houseboat council tax",
-      "summary": "GLA investigating Green party leader Zack Polanski over houseboat council tax compliance.",
-      "url": "https://www.theguardian.com/p/x558tc",
-      "thumbnail": "https://media.guim.co.uk/49df007da4836eb068095a740ed491009dc4534e/280_0_2800_2240/500.jpg",
-      "published": "2026-05-23T15:36:29Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "football/2026/may/23/charlton-leicester-wsl-playoff-match-report",
-      "headline": "Whitehouse saves four penalties as Charlton reach WSL and send Leicester down",
-      "summary": "Charlton goalkeeper saves four penalties to secure WSL promotion, relegates Leicester.",
-      "url": "https://www.theguardian.com/p/x55ve4",
-      "thumbnail": "https://media.guim.co.uk/38862b4b98c040d9330f444b78a75d3ea923a361/285_0_2838_2271/500.jpg",
-      "published": "2026-05-23T15:30:22Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "tv-and-radio/2026/may/23/stephen-colbert-hosts-michigan-public-show-day",
-      "headline": "Stephen Colbert hosts Michigan public access show day after last appearance on Late Show",
-      "summary": "Stephen Colbert hosts public access show day after final Late Show appearance.",
-      "url": "https://www.theguardian.com/p/x559jq",
-      "thumbnail": "https://media.guim.co.uk/c17d084bac2491811e41324c2019a0726b0b1090/165_0_2029_1624/500.jpg",
-      "published": "2026-05-23T15:28:39Z",
-      "location": {
-        "name": "Monroe",
-        "lat": 41.9178,
-        "lng": -83.3988
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "tv-and-radio"
-    },
-    {
-      "id": "world/2026/may/23/iran-hosts-pakistani-delegation-diplomacy-to-avert-new-us-strikes",
-      "headline": "Iran hosts Pakistani delegation amid diplomatic flurry to avert new US strikes",
-      "summary": "Iran hosts Pakistani delegation amid diplomatic efforts to prevent renewed US strikes.",
-      "url": "https://www.theguardian.com/p/x559tz",
-      "thumbnail": "https://media.guim.co.uk/eb97ac12f33f08b129302493d96bd7e18ac561c7/81_0_1066_853/500.jpg",
-      "published": "2026-05-23T15:21:43Z",
-      "location": {
-        "name": "Tehran",
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "us-news/2026/may/23/three-dead-18-first-responders-sickened-fentanyl-new-mexico",
-      "headline": "Three dead and 18 first responders sickened by apparent fentanyl exposure in New Mexico",
-      "summary": "Three dead, 18 first responders sickened by fentanyl exposure at New Mexico home.",
-      "url": "https://www.theguardian.com/p/x559hx",
-      "thumbnail": "https://media.guim.co.uk/adedc157b948a68478513e2ae3b8aeb2ef3c06dd/170_0_2097_1678/500.jpg",
-      "published": "2026-05-23T15:19:48Z",
-      "location": {
-        "name": "Mountainair",
-        "lat": 34.4264,
-        "lng": -106.2808
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "us-news"
-    },
     {
       "id": "sport/2026/may/23/george-russell-wins-f1-canadian-gp-sprint-but-leaves-kimi-antonelli-furious",
       "headline": "George Russell wins F1 Canadian GP sprint but leaves Kimi Antonelli furious",
@@ -1318,6 +1174,118 @@
       "category": "sport",
       "significance": 2,
       "section": "football"
+    },
+    {
+      "id": "commentisfree/2026/may/24/the-guardian-view-on-erdogans-tightening-grip-on-turkey-the-next-election-is-already-being-decided",
+      "headline": "The Guardian view on Erdoğan’s tightening grip on Turkey: the next election is already being decided",
+      "summary": "Erdoğan consolidates power ahead of 2028 election, removing opposition leaders and closing universities.",
+      "url": "https://www.theguardian.com/p/x554fb",
+      "thumbnail": "https://media.guim.co.uk/1051ab7709607ba508a6b5df63a74d913befdae0/540_11_2991_2392/500.jpg",
+      "published": "2026-05-24T16:30:01Z",
+      "location": {
+        "name": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "commentisfree"
+    },
+    {
+      "id": "football/2025/sep/15/premier-league-top-scorers-2025-26-who-is-leading-race-for-golden-boot",
+      "headline": "Premier League top scorers 2025-26: who is leading race for golden boot?",
+      "summary": "Erling Haaland leads Premier League golden boot race with 27 goals in 2025-26 season.",
+      "url": "https://www.theguardian.com/p/x386fa",
+      "thumbnail": "https://media.guim.co.uk/8d50c4fe3b7565822d99ed78a16f75031ab06137/455_128_2427_1942/500.jpg",
+      "published": "2026-05-24T16:25:22Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "world/2026/may/24/london-zoo-big-cats-keep-cool-in-the-heat-with-blood-lollies",
+      "headline": "Lion’s aid: Blood ice lollies keep big cats cool at London zoo",
+      "summary": "London Zoo uses blood ice lollies to keep big cats cool during hot weather.",
+      "url": "https://www.theguardian.com/p/x55emd",
+      "thumbnail": "https://media.guim.co.uk/71de1e2662c91951c8a2d56b5bce194593c8d44c/162_0_4860_3888/500.jpg",
+      "published": "2026-05-24T16:21:26Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "other",
+      "significance": 1,
+      "section": "world"
+    },
+    {
+      "id": "uk-news/2026/may/24/ken-luxon-obituary",
+      "headline": "Ken Luxon obituary",
+      "summary": "Ken Luxon, charity worker and tour guide in Bath and Bristol, dies suddenly aged 66.",
+      "url": "https://www.theguardian.com/p/x52xdh",
+      "thumbnail": "https://media.guim.co.uk/cb1a1d3cba42e850999d97c4714944130e52f82f/0_807_3024_2419/500.jpg",
+      "published": "2026-05-24T16:15:03Z",
+      "location": {
+        "name": "Bath",
+        "lat": 51.3788,
+        "lng": -2.3613
+      },
+      "category": "other",
+      "significance": 1,
+      "section": "uk-news"
+    },
+    {
+      "id": "world/2026/may/24/with-ebola-we-need-to-learn-from-past-failures",
+      "headline": "With Ebola, we need to learn from past failures",
+      "summary": "Ebola outbreak in DRC demands urgent global action to prevent repeat of past failures.",
+      "url": "https://www.theguardian.com/p/x54fa6",
+      "thumbnail": "https://media.guim.co.uk/98a2159ecbd782b4186b0ac754de583086f14c79/480_0_3929_3144/500.jpg",
+      "published": "2026-05-24T15:38:06Z",
+      "location": {
+        "name": "Democratic Republic of the Congo",
+        "lat": -4.0383,
+        "lng": 21.7587
+      },
+      "category": "health",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "lifeandstyle/2026/may/24/the-problem-with-britains-dog-obsession",
+      "headline": "The problem with Britain’s dog obsession",
+      "summary": "Debate over Britain's dog obsession raises concerns about unleashed dogs in public spaces.",
+      "url": "https://www.theguardian.com/p/x54enx",
+      "thumbnail": "https://media.guim.co.uk/1d6ae086d239c121171f88079924000cacfce2c9/761_168_3486_2790/500.jpg",
+      "published": "2026-05-24T15:37:43Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "other",
+      "significance": 1,
+      "section": "lifeandstyle"
+    },
+    {
+      "id": "society/2026/may/24/despite-promises-social-care-is-worse-than-ever",
+      "headline": "Despite promises, social care is worse than ever",
+      "summary": "UK social care crisis worsens despite Labour government promises of fair pay and better conditions.",
+      "url": "https://www.theguardian.com/p/x54f6j",
+      "thumbnail": "https://media.guim.co.uk/b8bb73692821e3ae10752497e0b8fd27d948e21d/692_0_4155_3324/500.jpg",
+      "published": "2026-05-24T15:37:17Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "society"
     }
   ]
 }
