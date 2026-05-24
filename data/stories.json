@@ -1,76 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-24T21:06:37.860Z",
-    "story_count": 81,
-    "oldest_story": "2026-05-23T21:27:45Z",
-    "newest_story": "2026-05-24T20:00:05Z",
+    "generated_at": "2026-05-24T22:09:13.925Z",
+    "story_count": 80,
+    "oldest_story": "2026-05-23T22:39:07Z",
+    "newest_story": "2026-05-24T22:08:30Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "sport/2026/may/23/george-russell-steals-f1-canadian-gp-pole-from-kimi-antonelli-on-feisty-day",
-      "headline": "George Russell steals F1 Canadian GP pole from Kimi Antonelli on feisty day",
-      "summary": "George Russell takes F1 Canadian GP pole position ahead of teammate Kimi Antonelli.",
-      "url": "https://www.theguardian.com/p/x556vm",
-      "thumbnail": "https://media.guim.co.uk/c8a7b4830b39245fccd98c47dce7e81cf654c4d5/319_0_5076_4060/500.jpg",
-      "published": "2026-05-23T21:40:19Z",
-      "location": {
-        "name": "Montreal",
-        "lat": 45.5017,
-        "lng": -73.5673
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "football/2026/may/23/pep-guardiola-managing-england-manchester-city",
-      "headline": "Pep Guardiola will not rule out possibility of managing England ",
-      "summary": "Pep Guardiola opens door to future England management role after Manchester City departure.",
-      "url": "https://www.theguardian.com/p/x55534",
-      "thumbnail": "https://media.guim.co.uk/b04c6becf4d781fff3517ca25a8daa124e6a2f9d/351_0_3505_2804/500.jpg",
-      "published": "2026-05-23T21:30:38Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4808,
-        "lng": -2.2426
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/may/23/de-zerbi-commitment-tottenham-relegation-battle",
-      "headline": "De Zerbi reaffirms commitment to Spurs as relegation battle comes to conclusion",
-      "summary": "Roberto De Zerbi reaffirms Tottenham commitment as relegation battle concludes against Everton.",
-      "url": "https://www.theguardian.com/p/x5556c",
-      "thumbnail": "https://media.guim.co.uk/628559b5243ea33e59d712811762d433c3c08a6e/50_0_1956_1564/500.jpg",
-      "published": "2026-05-23T21:30:38Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "world/2026/may/23/trump-ceasefire-iran-strait-of-hormuz",
-      "headline": "Trump says peace deal with Iran ‘largely negotiated’ with strait of Hormuz to open",
-      "summary": "Trump announces Iran peace deal 'largely negotiated,' potentially ending US-Israel bombing campaign.",
-      "url": "https://www.theguardian.com/p/x55afn",
-      "thumbnail": "https://media.guim.co.uk/47288ceee236cc96d6fcbad4136a05149a43f3de/282_0_2125_1700/500.jpg",
-      "published": "2026-05-23T21:27:45Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 4,
-      "section": "world"
-    },
     {
       "id": "world/live/2026/may/24/iran-deal-strait-of-hormuz-trump-middle-east-crisis-live",
       "headline": "Middle East crisis live: fate of strait of Hormuz hangs in balance as Trump claims Iran deal ‘largely negotiated’ ",
@@ -1302,6 +1238,54 @@
       "category": "culture",
       "significance": 1,
       "section": "news"
+    },
+    {
+      "id": "australia-news/live/2026/may/25/teals-new-party-gaza-flotilla-activists-anthony-albanese-jim-chalmers-labor-angus-taylor-coalition-one-nation-budget-capital-gains-tax-estimates-ntwnfb",
+      "headline": "Australia politics live: Zali Steggall confirms teals having ‘conversations’ amid speculation about new political party",
+      "summary": "Teal independents confirm conversations about forming new political party to improve government accountability.",
+      "url": "https://www.theguardian.com/p/x55g9j",
+      "thumbnail": "https://media.guim.co.uk/2bb8953ca843774b4d221cb063f96bdadcae90eb/664_0_6611_5292/500.jpg",
+      "published": "2026-05-24T22:08:30Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "football/2026/may/24/roberto-de-zerbi-says-saving-spurs-is-his-biggest-achievement",
+      "headline": "De Zerbi says saving Spurs is his ‘biggest achievement’ after season of suffering",
+      "summary": "Tottenham avoids Premier League relegation with final-day victory over Everton under De Zerbi.",
+      "url": "https://www.theguardian.com/p/x55be5",
+      "thumbnail": "https://media.guim.co.uk/f0059d11d01e6ab37990d3e01dadd19d402ab11b/267_0_2672_2137/500.jpg",
+      "published": "2026-05-24T21:39:41Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "tv-and-radio/2026/may/24/dear-england-review-joseph-fienness-gareth-southgate-is-a-total-caricature-on-tv",
+      "headline": "Dear England review – Joseph Fiennes’s Gareth Southgate is a total caricature on TV",
+      "summary": "Television adaptation of play about Gareth Southgate criticized for portraying manager as caricature.",
+      "url": "https://www.theguardian.com/p/x54zza",
+      "thumbnail": "https://media.guim.co.uk/dad9ad3f08b72174de3aac1ea734bcae6b341fe9/357_0_3568_2854/500.jpg",
+      "published": "2026-05-24T21:00:06Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "tv-and-radio"
     }
   ]
 }
