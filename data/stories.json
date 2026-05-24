@@ -1,28 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-24T18:47:26.688Z",
-    "story_count": 85,
-    "oldest_story": "2026-05-23T19:03:10Z",
-    "newest_story": "2026-05-24T18:05:20Z",
+    "generated_at": "2026-05-24T19:57:20.178Z",
+    "story_count": 88,
+    "oldest_story": "2026-05-23T19:58:28Z",
+    "newest_story": "2026-05-24T19:54:29Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/2026/may/23/middlesbroughs-hellberg-says-spygate-has-caused-him-toughest-two-weeks",
-      "headline": "Middlesbrough’s Hellberg says spygate has caused ‘toughest two weeks’ after Wembley defeat",
-      "summary": "Middlesbrough loses Championship playoff final to Hull after spygate controversy disrupts season.",
-      "url": "https://www.theguardian.com/p/x55vaq",
-      "thumbnail": "https://media.guim.co.uk/d9643bcf907ea191ddaf607edac5e077b05503c8/399_0_4074_3260/500.jpg",
-      "published": "2026-05-23T19:03:10Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
     {
       "id": "film/2026/may/23/cristian-mungiu-wins-second-palme-dor-fjord-cannes-film-festival",
       "headline": "Cristian Mungiu wins second Palme d’Or at Cannes for child abuse drama Fjord ",
@@ -1366,6 +1350,70 @@
       "category": "culture",
       "significance": 2,
       "section": "culture"
+    },
+    {
+      "id": "football/2026/may/24/relegation-the-inevitable-outcome-of-west-hams-relentless-executive-failure",
+      "headline": "Relegation the inevitable outcome of West Ham’s relentless executive failure",
+      "summary": "West Ham relegated from Premier League after season of executive mismanagement.",
+      "url": "https://www.theguardian.com/p/x55vt4",
+      "thumbnail": "https://media.guim.co.uk/62141b141c35868df3fe914f77604bc187829a52/299_0_3795_3037/500.jpg",
+      "published": "2026-05-24T19:54:29Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/may/24/roberto-de-zerbi-breaks-tottenham-out-of-a-jail-they-should-never-have-been-in",
+      "headline": "Roberto De Zerbi breaks Tottenham out of a jail they should never have been in",
+      "summary": "Roberto De Zerbi saves Tottenham from relegation in stunning turnaround.",
+      "url": "https://www.theguardian.com/p/x55vhf",
+      "thumbnail": "https://media.guim.co.uk/46c43d04579e8a70d849b1e683e55e5c0a77b85f/269_0_2500_2000/500.jpg",
+      "published": "2026-05-24T19:52:33Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/may/24/chemical-tank-california-epa-lee-zeldin",
+      "headline": "Overheated chemical tank in southern California ‘will fail’, EPA chief says",
+      "summary": "EPA warns overheated chemical tank near Disneyland will fail, risking explosion.",
+      "url": "https://www.theguardian.com/p/x55fy9",
+      "thumbnail": "https://media.guim.co.uk/ee8e15a50e6915c6017fba9f14b886e15f5dc8ba/833_0_4167_3335/500.jpg",
+      "published": "2026-05-24T19:36:14Z",
+      "location": {
+        "name": "Orange County",
+        "lat": 33.7298,
+        "lng": -117.8242
+      },
+      "category": "health",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/may/24/nuno-and-bowen-refuse-to-commit-futures-to-west-ham-after-relegation",
+      "headline": "Nuno and Bowen refuse to commit futures to West Ham after relegation ",
+      "summary": "West Ham manager Nuno uncertain about future after Premier League relegation confirmed.",
+      "url": "https://www.theguardian.com/p/x55bdj",
+      "thumbnail": "https://media.guim.co.uk/6ca636220221d2618aa94eed58589e32b74403c5/0_447_2546_2037/500.jpg",
+      "published": "2026-05-24T19:13:53Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
     }
   ]
 }
