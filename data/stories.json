@@ -1,28 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-25T19:59:22.321Z",
-    "story_count": 69,
-    "oldest_story": "2026-05-24T20:00:05Z",
-    "newest_story": "2026-05-25T19:53:44Z",
+    "generated_at": "2026-05-25T21:19:51.923Z",
+    "story_count": 71,
+    "oldest_story": "2026-05-24T21:39:41Z",
+    "newest_story": "2026-05-25T21:19:14Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "news/2026/may/24/corrections-and-clarifications",
-      "headline": "Corrections and clarifications",
-      "summary": "Corrections issued for Natural History Museum exhibition article and free bus travel scheme reporting.",
-      "url": "https://www.theguardian.com/p/x5549m",
-      "thumbnail": null,
-      "published": "2026-05-24T20:00:05Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "news"
-    },
     {
       "id": "australia-news/live/2026/may/25/teals-new-party-gaza-flotilla-activists-anthony-albanese-jim-chalmers-labor-angus-taylor-coalition-one-nation-budget-capital-gains-tax-estimates-ntwnfb",
       "headline": "Australia politics live: Zali Steggall confirms teals having ‘conversations’ amid speculation about new political party",
@@ -54,22 +38,6 @@
       "category": "sport",
       "significance": 2,
       "section": "football"
-    },
-    {
-      "id": "tv-and-radio/2026/may/24/dear-england-review-joseph-fienness-gareth-southgate-is-a-total-caricature-on-tv",
-      "headline": "Dear England review – Joseph Fiennes’s Gareth Southgate is a total caricature on TV",
-      "summary": "Television adaptation of play about Gareth Southgate criticized for portraying manager as caricature.",
-      "url": "https://www.theguardian.com/p/x54zza",
-      "thumbnail": "https://media.guim.co.uk/dad9ad3f08b72174de3aac1ea734bcae6b341fe9/357_0_3568_2854/500.jpg",
-      "published": "2026-05-24T21:00:06Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "tv-and-radio"
     },
     {
       "id": "film/2026/may/25/films-more-likely-to-star-an-actor-called-chris-or-a-talking-animal-than-a-woman-over-60-study-finds",
@@ -1110,6 +1078,70 @@
       "category": "conflict",
       "significance": 4,
       "section": "world"
+    },
+    {
+      "id": "australia-news/live/2026/may/26/australia-politics-live-renewables-climate-bhp-files-budget-capital-gains-tax-jim-chalmers-anthony-albanese-question-time-senate-estimates-ntwnfb",
+      "headline": "Australia politics live: renewables and batteries soar but ‘critical’ moment coming; WiseTech staff face AI redundancy",
+      "summary": "Australia's renewable energy and battery capacity surges; WiseTech staff face AI redundancy amid energy bill reductions.",
+      "url": "https://www.theguardian.com/p/x55jf5",
+      "thumbnail": "https://media.guim.co.uk/3c4117887dcea3a82d821a198f6f9f035b58cd18/189_0_3947_3157/500.jpg",
+      "published": "2026-05-25T21:19:14Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "australia-news/2026/may/26/morning-mail-tuesday-ntwnfb",
+      "headline": "Morning Mail: BHP’s climate fail revealed, pope denounces AI, life on the world’s longest golf course",
+      "summary": "BHP delays decarbonization of Pilbara operations, raising global climate action concerns.",
+      "url": "https://www.theguardian.com/p/x55j76",
+      "thumbnail": "https://media.guim.co.uk/008221f78e6329e2ffeda06913dfd48c9ba7cab3/493_0_6270_5017/500.jpg",
+      "published": "2026-05-25T20:50:35Z",
+      "location": {
+        "name": "Perth",
+        "lat": -31.9505,
+        "lng": 115.8605
+      },
+      "category": "climate",
+      "significance": 3,
+      "section": "australia-news"
+    },
+    {
+      "id": "books/2026/may/25/ian-mcewan-says-pessimism-a-bigger-problem-than-climate-change",
+      "headline": "Ian McEwan says pessimism ‘a bigger problem than climate change’",
+      "summary": "Ian McEwan says pessimism is bigger problem than climate change at UK Hay Festival as May heat records break.",
+      "url": "https://www.theguardian.com/p/x55y2c",
+      "thumbnail": "https://media.guim.co.uk/2da1cf0c7ca83def1f7d609c1f8aa85fdcfa5aef/1711_391_5620_4496/500.jpg",
+      "published": "2026-05-25T20:47:02Z",
+      "location": {
+        "name": "Hay-on-Wye",
+        "lat": 52.0738,
+        "lng": -3.122
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "books"
+    },
+    {
+      "id": "sport/2026/may/25/stan-wawrinka-jesper-de-jong-french-open-tennis",
+      "headline": "Retiring Stan Wawrinka bathed in love as age denies him one last fling in Paris",
+      "summary": "Retiring Stan Wawrinka loses first-round match at French Open to Jesper de Jong in emotional farewell.",
+      "url": "https://www.theguardian.com/p/x55yad",
+      "thumbnail": "https://media.guim.co.uk/6cb8aac7e6171817399836e6da35207d421db5e5/135_0_2832_2267/500.jpg",
+      "published": "2026-05-25T20:26:29Z",
+      "location": {
+        "name": "Paris",
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
     }
   ]
 }
