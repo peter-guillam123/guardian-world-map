@@ -1,60 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-25T22:32:33.030Z",
-    "story_count": 70,
-    "oldest_story": "2026-05-24T22:40:17Z",
-    "newest_story": "2026-05-25T22:11:24Z",
+    "generated_at": "2026-05-25T23:42:16.972Z",
+    "story_count": 68,
+    "oldest_story": "2026-05-25T00:23:41Z",
+    "newest_story": "2026-05-25T23:01:38Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "film/2026/may/25/films-more-likely-to-star-an-actor-called-chris-or-a-talking-animal-than-a-woman-over-60-study-finds",
-      "headline": "Films more likely to star an actor called Chris or a talking animal than a woman over 60, study finds",
-      "summary": "UK films more likely to feature talking animals than women over 60, study finds.",
-      "url": "https://www.theguardian.com/p/x553p8",
-      "thumbnail": "https://media.guim.co.uk/b22e3c1899cc6a349719d53640fb28393c116eec/164_0_4102_3281/500.jpg",
-      "published": "2026-05-24T23:01:09Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "film"
-    },
-    {
-      "id": "education/2026/may/25/uk-universities-cuts-impoverished-students-funding",
-      "headline": "UK universities warn of cuts for impoverished students if dire funding issues continue ",
-      "summary": "UK universities warn of student hardship funding cuts amid budgetary crisis.",
-      "url": "https://www.theguardian.com/p/x554pc",
-      "thumbnail": "https://media.guim.co.uk/4feb024a730f2d455190937a35f38cc26956c4e2/888_0_4283_3426/500.jpg",
-      "published": "2026-05-24T23:01:09Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "education"
-    },
-    {
-      "id": "world/2026/may/24/gps-jammed-on-raf-jet-carrying-uk-defence-secretary-close-to-russian-border",
-      "headline": "GPS jammed on RAF jet carrying UK defence secretary close to Russian border",
-      "summary": "Russia jams GPS on RAF jet carrying UK defence secretary near Estonian border.",
-      "url": "https://www.theguardian.com/p/x55geh",
-      "thumbnail": "https://media.guim.co.uk/a7659f425778399c639789313699d289dea90807/363_0_6623_5299/500.jpg",
-      "published": "2026-05-24T22:40:17Z",
-      "location": {
-        "name": "Tallinn",
-        "lat": 59.437,
-        "lng": 24.7536
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "world"
-    },
     {
       "id": "world/live/2026/may/24/iran-deal-strait-of-hormuz-trump-middle-east-crisis-live",
       "headline": "Middle East crisis live: oil prices hit two-week low amid optimism that US and Iran are close to peace deal",
@@ -1126,6 +1078,22 @@
       "category": "politics",
       "significance": 2,
       "section": "money"
+    },
+    {
+      "id": "uk-news/2026/may/26/views-on-tackling-online-safety-under-16s-social-media-consultation",
+      "headline": "‘A tsunami of harm’: views on tackling online safety for under-16s in the UK",
+      "summary": "UK government consults on social media restrictions for under-16s amid child safety concerns.",
+      "url": "https://www.theguardian.com/p/x54q9y",
+      "thumbnail": "https://media.guim.co.uk/d41a2eec1503e76eacd201d7665391d8b0b10e67/531_0_6880_5504/500.jpg",
+      "published": "2026-05-25T23:01:38Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "uk-news"
     }
   ]
 }
