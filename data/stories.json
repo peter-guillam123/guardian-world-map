@@ -1,76 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-25T18:09:00.529Z",
+    "generated_at": "2026-05-25T19:59:22.321Z",
     "story_count": 69,
-    "oldest_story": "2026-05-24T19:13:53Z",
-    "newest_story": "2026-05-25T17:40:43Z",
+    "oldest_story": "2026-05-24T20:00:05Z",
+    "newest_story": "2026-05-25T19:53:44Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/2026/may/24/relegation-the-inevitable-outcome-of-west-hams-relentless-executive-failure",
-      "headline": "Relegation the inevitable outcome of West Ham’s relentless executive failure",
-      "summary": "West Ham relegated from Premier League after season of executive mismanagement.",
-      "url": "https://www.theguardian.com/p/x55vt4",
-      "thumbnail": "https://media.guim.co.uk/62141b141c35868df3fe914f77604bc187829a52/299_0_3795_3037/500.jpg",
-      "published": "2026-05-24T19:54:29Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/may/24/roberto-de-zerbi-breaks-tottenham-out-of-a-jail-they-should-never-have-been-in",
-      "headline": "Roberto De Zerbi breaks Tottenham out of a jail they should never have been in",
-      "summary": "Roberto De Zerbi saves Tottenham from relegation in stunning turnaround.",
-      "url": "https://www.theguardian.com/p/x55vhf",
-      "thumbnail": "https://media.guim.co.uk/46c43d04579e8a70d849b1e683e55e5c0a77b85f/269_0_2500_2000/500.jpg",
-      "published": "2026-05-24T19:52:33Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "us-news/2026/may/24/chemical-tank-california-epa-lee-zeldin",
-      "headline": "Overheated chemical tank in southern California ‘will fail’, EPA chief says",
-      "summary": "EPA warns overheated chemical tank near Disneyland will fail, risking explosion.",
-      "url": "https://www.theguardian.com/p/x55fy9",
-      "thumbnail": "https://media.guim.co.uk/ee8e15a50e6915c6017fba9f14b886e15f5dc8ba/833_0_4167_3335/500.jpg",
-      "published": "2026-05-24T19:36:14Z",
-      "location": {
-        "name": "Orange County",
-        "lat": 33.7298,
-        "lng": -117.8242
-      },
-      "category": "health",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "football/2026/may/24/nuno-and-bowen-refuse-to-commit-futures-to-west-ham-after-relegation",
-      "headline": "Nuno and Bowen refuse to commit futures to West Ham after relegation ",
-      "summary": "West Ham manager Nuno uncertain about future after Premier League relegation confirmed.",
-      "url": "https://www.theguardian.com/p/x55bdj",
-      "thumbnail": "https://media.guim.co.uk/6ca636220221d2618aa94eed58589e32b74403c5/0_447_2546_2037/500.jpg",
-      "published": "2026-05-24T19:13:53Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
     {
       "id": "news/2026/may/24/corrections-and-clarifications",
       "headline": "Corrections and clarifications",
@@ -1108,6 +1044,70 @@
         "lng": 21.7587
       },
       "category": "health",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "world/2026/may/25/starmer-urged-to-intervene-in-rigged-indian-prosecution-of-british-human-rights-activist",
+      "headline": "Starmer urged to intervene in ‘rigged’ Indian prosecution of British human rights activist",
+      "summary": "UK lawyers urge PM Starmer to intervene in Indian prosecution of British human rights activist Jagtar Singh Johal.",
+      "url": "https://www.theguardian.com/p/x55y4j",
+      "thumbnail": "https://media.guim.co.uk/76bbce3e7394bfcbb3776b406a12b6fd55ecdd01/0_0_2976_2381/500.jpg",
+      "published": "2026-05-25T19:53:44Z",
+      "location": {
+        "name": "India",
+        "lat": 20.5937,
+        "lng": 78.9629
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "uk-news/2026/may/25/social-media-should-be-treated-like-tobacco-streeting-calls-for-under-16s-ban-on-certain-platforms",
+      "headline": "‘Like tobacco’: Wes Streeting calls for partial social media ban for under-16s",
+      "summary": "Former health secretary Wes Streeting calls for social media ban for under-16s, comparing platforms to tobacco.",
+      "url": "https://www.theguardian.com/p/x55kbp",
+      "thumbnail": "https://media.guim.co.uk/2288de207dd6cc9990f7b58184299b1a9ef0d668/0_0_3235_2588/500.jpg",
+      "published": "2026-05-25T19:09:52Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "football/2026/may/25/story-of-2025-26-premier-league-season-in-100-photos",
+      "headline": "The story of the Premier League 2025-26 season in 100 photos",
+      "summary": "Guardian's photo retrospective captures highlights from the 2025-26 Premier League season.",
+      "url": "https://www.theguardian.com/p/x5x7hp",
+      "thumbnail": "https://media.guim.co.uk/9db02589a0998b99549669f486ddbc116af07bef/0_0_5000_4000/500.jpg",
+      "published": "2026-05-25T19:00:33Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "world/2026/may/25/iran-bomb-trump-deal-sparks-alarm-israel-netanyahu",
+      "headline": "‘If Iran gets a bomb it will be Bibi’s’: Trump’s deal outline sparks alarm in Israel",
+      "summary": "Trump's Iran nuclear deal outline alarms Netanyahu as regime remains in power after US-Israel military campaign.",
+      "url": "https://www.theguardian.com/p/x55kpz",
+      "thumbnail": "https://media.guim.co.uk/ba1b7c5bd9b82e52c9b9cd009652acc20b8e82b1/500_0_5000_4000/500.jpg",
+      "published": "2026-05-25T18:50:49Z",
+      "location": {
+        "name": "Iran",
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "category": "conflict",
       "significance": 4,
       "section": "world"
     }
