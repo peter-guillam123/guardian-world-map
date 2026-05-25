@@ -1,44 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-25T21:19:51.923Z",
-    "story_count": 71,
-    "oldest_story": "2026-05-24T21:39:41Z",
-    "newest_story": "2026-05-25T21:19:14Z",
+    "generated_at": "2026-05-25T22:32:33.030Z",
+    "story_count": 70,
+    "oldest_story": "2026-05-24T22:40:17Z",
+    "newest_story": "2026-05-25T22:11:24Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "australia-news/live/2026/may/25/teals-new-party-gaza-flotilla-activists-anthony-albanese-jim-chalmers-labor-angus-taylor-coalition-one-nation-budget-capital-gains-tax-estimates-ntwnfb",
-      "headline": "Australia politics live: Zali Steggall confirms teals having ‘conversations’ amid speculation about new political party",
-      "summary": "Teal independents confirm conversations about forming new political party to improve government accountability.",
-      "url": "https://www.theguardian.com/p/x55g9j",
-      "thumbnail": "https://media.guim.co.uk/2bb8953ca843774b4d221cb063f96bdadcae90eb/664_0_6611_5292/500.jpg",
-      "published": "2026-05-24T22:08:30Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "football/2026/may/24/roberto-de-zerbi-says-saving-spurs-is-his-biggest-achievement",
-      "headline": "De Zerbi says saving Spurs is his ‘biggest achievement’ after season of suffering",
-      "summary": "Tottenham avoids Premier League relegation with final-day victory over Everton under De Zerbi.",
-      "url": "https://www.theguardian.com/p/x55be5",
-      "thumbnail": "https://media.guim.co.uk/f0059d11d01e6ab37990d3e01dadd19d402ab11b/267_0_2672_2137/500.jpg",
-      "published": "2026-05-24T21:39:41Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
     {
       "id": "film/2026/may/25/films-more-likely-to-star-an-actor-called-chris-or-a-talking-animal-than-a-woman-over-60-study-finds",
       "headline": "Films more likely to star an actor called Chris or a talking animal than a woman over 60, study finds",
@@ -86,22 +54,6 @@
       "category": "conflict",
       "significance": 3,
       "section": "world"
-    },
-    {
-      "id": "sport/2026/may/24/kimi-antonelli-wins-f1-canadian-gp-after-frustrated-russell-retires",
-      "headline": "Antonelli surges to F1 Canadian GP win after teammate Russell retires in lead",
-      "summary": "Kimi Antonelli wins F1 Canadian GP for fourth consecutive victory.",
-      "url": "https://www.theguardian.com/p/x55vkm",
-      "thumbnail": "https://media.guim.co.uk/d5c37df7abffb44aaddc5c09cc8696aef319f062/445_0_4754_3803/500.jpg",
-      "published": "2026-05-24T22:11:22Z",
-      "location": {
-        "name": "Montreal",
-        "lat": 45.5017,
-        "lng": -73.5673
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
     },
     {
       "id": "world/live/2026/may/24/iran-deal-strait-of-hormuz-trump-middle-east-crisis-live",
@@ -1142,6 +1094,38 @@
       "category": "sport",
       "significance": 2,
       "section": "sport"
+    },
+    {
+      "id": "football/2026/may/25/khadija-shaw-makes-surprise-u-turn-and-opts-to-stay-at-manchester-city",
+      "headline": "Khadija Shaw makes shock U-turn and signs record deal to stay at Manchester City",
+      "summary": "Khadija Shaw signs record-breaking deal to stay at Manchester City as world's highest-paid women's footballer.",
+      "url": "https://www.theguardian.com/p/x55mvb",
+      "thumbnail": "https://media.guim.co.uk/65c2c96260b0b5f4aa5124afb2f3f10463acd38e/912_92_2271_1817/500.jpg",
+      "published": "2026-05-25T22:11:24Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "money/2026/may/25/nursery-extra-fees-charges-england-funding-free-childcare-hours",
+      "headline": "Nurseries in England charging extra fees to cover funding gap, campaigners say",
+      "summary": "English nurseries charging parents extra fees to cover government underfunding of free childcare hours.",
+      "url": "https://www.theguardian.com/p/x55k8j",
+      "thumbnail": "https://media.guim.co.uk/416edc21941a831f2194e38848fbe1b3414e4905/420_0_3559_2847/500.jpg",
+      "published": "2026-05-25T21:30:36Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "money"
     }
   ]
 }
