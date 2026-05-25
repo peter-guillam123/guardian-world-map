@@ -1,236 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-25T13:52:31.462Z",
-    "story_count": 91,
-    "oldest_story": "2026-05-24T14:20:29Z",
-    "newest_story": "2026-05-25T13:51:07Z",
+    "generated_at": "2026-05-25T16:22:42.951Z",
+    "story_count": 80,
+    "oldest_story": "2026-05-24T16:25:22Z",
+    "newest_story": "2026-05-25T16:12:13Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/live/2026/may/24/west-ham-leeds-champions-league-arsenal-trophy-pep-guardiola-goodbye-premier-league-finale-live",
-      "headline": "West Ham v Leeds, Champions League battle, Arsenal to lift trophy and Guardiola’s goodbye: Premier League finale – live",
-      "summary": "Premier League final day: West Ham v Leeds, Arsenal trophy ceremony, Guardiola's goodbye.",
-      "url": "https://www.theguardian.com/p/x54kj8",
-      "thumbnail": "https://media.guim.co.uk/3a969b4938c6cfa9570f63cf13a2630281dcc1cd/296_0_3729_2982/500.jpg",
-      "published": "2026-05-24T15:16:12Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "football/live/2026/may/24/tottenham-v-everton-premier-league-final-day-live",
-      "headline": "Tottenham v Everton: Premier League final day – live",
-      "summary": "Tottenham v Everton: Spurs battle to avoid relegation on Premier League final day.",
-      "url": "https://www.theguardian.com/p/x54kt2",
-      "thumbnail": "https://media.guim.co.uk/a9db0de80cfe57a946e7912028049c06cda857ab/314_59_3393_2716/500.jpg",
-      "published": "2026-05-24T15:15:40Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "australia-news/2026/may/25/mtc-security-failures-australia-immigration-detention-centres-ntwnfb",
-      "headline": "Escapes, fires, stabbing: catastrophic security failures revealed in Australia’s immigration detention network",
-      "summary": "Australia's immigration detention centres reveal catastrophic security failures under MTC.",
-      "url": "https://www.theguardian.com/p/x4qqbz",
-      "thumbnail": "https://media.guim.co.uk/a1679f8aeb91f99becde86bf16b902df20311550/1444_0_4352_3483/500.jpg",
-      "published": "2026-05-24T15:00:04Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "lifeandstyle/2026/may/25/the-kindness-of-strangers-i-was-a-broke-youth-radio-host-who-couldnt-afford-a-beck-ticket-then-a-listener-called-in",
-      "headline": "The kindness of strangers: I was a broke youth radio host who couldn’t afford a Beck ticket – then a listener called in",
-      "summary": "Radio host recalls listener's kindness buying Beck concert ticket during broke university days.",
-      "url": "https://www.theguardian.com/p/x54cdt",
-      "thumbnail": "https://media.guim.co.uk/0092192a3ecd8fd8d53dbb04080118af2b8e38ca/536_0_2850_2282/500.jpg",
-      "published": "2026-05-24T15:00:03Z",
-      "location": {
-        "name": "Brisbane",
-        "lat": -27.4698,
-        "lng": 153.0251
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "lifeandstyle"
-    },
-    {
-      "id": "australia-news/2026/may/25/labor-urged-to-use-anti-corruption-commission-appointment-to-restore-public-confidence-in-watchdog",
-      "headline": "Labor urged to use anti-corruption commission appointment to restore public confidence in watchdog",
-      "summary": "Labor urged to restore public confidence in anti-corruption commission via new appointment.",
-      "url": "https://www.theguardian.com/p/x55c9v",
-      "thumbnail": "https://media.guim.co.uk/d1adc04d342fd3f642e5600e7e6253a735e56395/507_0_5043_4037/500.jpg",
-      "published": "2026-05-24T15:00:03Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "world/2026/may/25/lebanese-diaspora-reaction-to-bombardment-in-lebanon",
-      "headline": "‘Sad, mad and disheartened’: for the diaspora, the bombardment in Lebanon is a special kind of loss",
-      "summary": "Lebanese diaspora grieves as bombardment destroys homes in southern Lebanon.",
-      "url": "https://www.theguardian.com/p/x54ct5",
-      "thumbnail": "https://media.guim.co.uk/7eb7e6be0e64612a34eeacc8914cc8a69b235a2b/246_0_2461_1969/500.jpg",
-      "published": "2026-05-24T15:00:02Z",
-      "location": {
-        "name": "Beirut",
-        "lat": 33.3157,
-        "lng": 35.4961
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "travel/2026/may/25/tourism-australian-travel-to-vietnam-south-east-asia-10-year-high",
-      "headline": "Why it seems like ‘everyone’ in Australia is travelling to Vietnam ",
-      "summary": "Australian travel to Vietnam surges to 10-year high, doubling since 2016.",
-      "url": "https://www.theguardian.com/p/x5xkyj",
-      "thumbnail": "https://media.guim.co.uk/a1a3d659d8d2c70259c8e4d2d656fa1177fc3c13/425_0_4250_3400/500.jpg",
-      "published": "2026-05-24T15:00:02Z",
-      "location": {
-        "name": "Hanoi",
-        "lat": 21.0285,
-        "lng": 105.8542
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "travel"
-    },
-    {
-      "id": "sport/blog/2026/may/24/afl-gws-giants-brisbane-lions",
-      "headline": "GWS Giants unleash spirit of 2016 as bereft Brisbane hit the skids… again",
-      "summary": "GWS Giants unleash dominant third quarter to defeat Brisbane Lions in AFL.",
-      "url": "https://www.theguardian.com/p/x55d9y",
-      "thumbnail": "https://media.guim.co.uk/ed03a8010356270e66f1e50099b69c81c64ddabd/177_0_3236_2589/500.jpg",
-      "published": "2026-05-24T15:00:02Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "sport",
-      "significance": 1,
-      "section": "sport"
-    },
-    {
-      "id": "law/2026/may/24/warrants-for-defendants-skipping-court-in-england-and-wales-up-50-since-2020",
-      "headline": "Warrants for defendants skipping court in England and Wales up 50% since 2020",
-      "summary": "Arrest warrants for court-skipping defendants in England rise 50% since 2020.",
-      "url": "https://www.theguardian.com/p/x554at",
-      "thumbnail": "https://media.guim.co.uk/60cf9f5a06656ee2153cfbd9a3b04cb0962a6be5/0_0_2308_1847/500.jpg",
-      "published": "2026-05-24T15:00:01Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "law"
-    },
-    {
-      "id": "uk-news/2026/may/24/andrew-mountbatten-windsor-faces-police-investigation-into-alleged-inappropriate-behaviour-at-royal-ascot-says-report",
-      "headline": "Andrew Mountbatten-Windsor faces police investigation into ‘alleged inappropriate behaviour at Royal Ascot’",
-      "summary": "Prince Andrew faces police investigation over alleged inappropriate behaviour at Royal Ascot.",
-      "url": "https://www.theguardian.com/p/x55e5e",
-      "thumbnail": "https://media.guim.co.uk/d8dfac5d2183bae19a99289d3c08181d5fe5493a/0_218_1189_951/500.jpg",
-      "published": "2026-05-24T14:59:08Z",
-      "location": {
-        "name": "Ascot",
-        "lat": 51.4087,
-        "lng": -0.6589
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "world/2026/may/24/republican-hawks-trump-deal-iran",
-      "headline": "Republican hawks warn of ‘disastrous mistake’ as Trump nears deal with Iran",
-      "summary": "Republican hawks warn Trump's Iran peace deal is disastrous mistake.",
-      "url": "https://www.theguardian.com/p/x55eec",
-      "thumbnail": "https://media.guim.co.uk/dd71d4d116420f73dc6aeff6255f6902c00d5dd9/668_0_6683_5346/500.jpg",
-      "published": "2026-05-24T14:51:11Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "sport/2026/may/24/french-open-roundup-kostyuk-selekhmeteva-gea-khachanov-djokovic-perricard-tennis",
-      "headline": "Ukraine’s Kostyuk keeps focus on French Open after missile strike near parents’ home",
-      "summary": "Ukraine's Kostyuk keeps focus at French Open after missile strike near parents' home.",
-      "url": "https://www.theguardian.com/p/x55vyc",
-      "thumbnail": "https://media.guim.co.uk/754580700db94bdf7d37ff7687a51e6326c69ca3/3171_118_4763_3811/500.jpg",
-      "published": "2026-05-24T14:32:21Z",
-      "location": {
-        "name": "Paris",
-        "lat": 48.8566,
-        "lng": 2.3522
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "politics/2026/may/24/europe-and-us-need-separate-bedrooms-but-not-divorce-says-david-miliband",
-      "headline": "Europe and US need ‘separate bedrooms’ but not divorce, says David Miliband",
-      "summary": "David Miliband says Europe needs separate bedrooms from US but not divorce.",
-      "url": "https://www.theguardian.com/p/x55e99",
-      "thumbnail": "https://media.guim.co.uk/96b07d7e6cbf4ec582eeee7b7e3981a38e2ddcd2/188_0_3624_2898/500.jpg",
-      "published": "2026-05-24T14:25:18Z",
-      "location": {
-        "name": "Hay-on-Wye",
-        "lat": 52.0556,
-        "lng": -3.1206
-      },
-      "category": "politics",
-      "significance": 1,
-      "section": "politics"
-    },
-    {
-      "id": "football/2026/may/24/stockport-bolton-league-one-playoff-final-match-report",
-      "headline": "Bolton promoted to Championship after Rodrigues doubles up in win over Stockport",
-      "summary": "Bolton promoted to Championship after 4-1 victory over Stockport in League One playoff final.",
-      "url": "https://www.theguardian.com/p/x55vhx",
-      "thumbnail": "https://media.guim.co.uk/10489c0c84e6e3e125dd2063639889b608313c84/304_64_3520_2818/500.jpg",
-      "published": "2026-05-24T14:20:29Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4808,
-        "lng": -2.2426
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
     {
       "id": "commentisfree/2026/may/24/the-guardian-view-on-erdogans-tightening-grip-on-turkey-the-next-election-is-already-being-decided",
       "headline": "The Guardian view on Erdoğan’s tightening grip on Turkey: the next election is already being decided",
@@ -262,86 +38,6 @@
       "category": "sport",
       "significance": 2,
       "section": "football"
-    },
-    {
-      "id": "world/2026/may/24/london-zoo-big-cats-keep-cool-in-the-heat-with-blood-lollies",
-      "headline": "Lion’s aid: Blood ice lollies keep big cats cool at London zoo",
-      "summary": "London Zoo uses blood ice lollies to keep big cats cool during hot weather.",
-      "url": "https://www.theguardian.com/p/x55emd",
-      "thumbnail": "https://media.guim.co.uk/71de1e2662c91951c8a2d56b5bce194593c8d44c/162_0_4860_3888/500.jpg",
-      "published": "2026-05-24T16:21:26Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "other",
-      "significance": 1,
-      "section": "world"
-    },
-    {
-      "id": "uk-news/2026/may/24/ken-luxon-obituary",
-      "headline": "Ken Luxon obituary",
-      "summary": "Ken Luxon, charity worker and tour guide in Bath and Bristol, dies suddenly aged 66.",
-      "url": "https://www.theguardian.com/p/x52xdh",
-      "thumbnail": "https://media.guim.co.uk/cb1a1d3cba42e850999d97c4714944130e52f82f/0_807_3024_2419/500.jpg",
-      "published": "2026-05-24T16:15:03Z",
-      "location": {
-        "name": "Bath",
-        "lat": 51.3788,
-        "lng": -2.3613
-      },
-      "category": "other",
-      "significance": 1,
-      "section": "uk-news"
-    },
-    {
-      "id": "world/2026/may/24/with-ebola-we-need-to-learn-from-past-failures",
-      "headline": "With Ebola, we need to learn from past failures",
-      "summary": "Ebola outbreak in DRC demands urgent global action to prevent repeat of past failures.",
-      "url": "https://www.theguardian.com/p/x54fa6",
-      "thumbnail": "https://media.guim.co.uk/98a2159ecbd782b4186b0ac754de583086f14c79/480_0_3929_3144/500.jpg",
-      "published": "2026-05-24T15:38:06Z",
-      "location": {
-        "name": "Democratic Republic of the Congo",
-        "lat": -4.0383,
-        "lng": 21.7587
-      },
-      "category": "health",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "lifeandstyle/2026/may/24/the-problem-with-britains-dog-obsession",
-      "headline": "The problem with Britain’s dog obsession",
-      "summary": "Debate over Britain's dog obsession raises concerns about unleashed dogs in public spaces.",
-      "url": "https://www.theguardian.com/p/x54enx",
-      "thumbnail": "https://media.guim.co.uk/1d6ae086d239c121171f88079924000cacfce2c9/761_168_3486_2790/500.jpg",
-      "published": "2026-05-24T15:37:43Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "other",
-      "significance": 1,
-      "section": "lifeandstyle"
-    },
-    {
-      "id": "society/2026/may/24/despite-promises-social-care-is-worse-than-ever",
-      "headline": "Despite promises, social care is worse than ever",
-      "summary": "UK social care crisis worsens despite Labour government promises of fair pay and better conditions.",
-      "url": "https://www.theguardian.com/p/x54f6j",
-      "thumbnail": "https://media.guim.co.uk/b8bb73692821e3ae10752497e0b8fd27d948e21d/692_0_4155_3324/500.jpg",
-      "published": "2026-05-24T15:37:17Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "society"
     },
     {
       "id": "education/2026/may/24/bridget-phillipson-orders-review-hidden-childcare-charges",
@@ -1462,6 +1158,134 @@
       "category": "conflict",
       "significance": 3,
       "section": "world"
+    },
+    {
+      "id": "football/2026/may/25/salford-city-notts-county-league-two-playoff-final-match-report",
+      "headline": "Notts County cruise into League One with emphatic win over Salford",
+      "summary": "Notts County secure League One promotion with 3-0 playoff final win over Salford at Wembley.",
+      "url": "https://www.theguardian.com/p/x55jq6",
+      "thumbnail": "https://media.guim.co.uk/b7106857343c0dd2ab83f54448ffbddb364ae229/191_0_2718_2174/500.jpg",
+      "published": "2026-05-25T16:12:13Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/may/25/liverpool-arne-slot-wingers-mohamed-salah",
+      "headline": "Arne Slot believes Liverpool can bounce back next season by signing quality wingers",
+      "summary": "Liverpool manager Slot targets quality wingers to improve squad next season after disappointing campaign.",
+      "url": "https://www.theguardian.com/p/x55jn6",
+      "thumbnail": "https://media.guim.co.uk/b2a2acd25cfd9a07adda45a710f136df8aace197/236_0_3353_2683/500.jpg",
+      "published": "2026-05-25T16:00:29Z",
+      "location": {
+        "name": "Liverpool",
+        "lat": 53.4308,
+        "lng": -2.9613
+      },
+      "category": "sport",
+      "significance": 1,
+      "section": "football"
+    },
+    {
+      "id": "tv-and-radio/2026/may/25/sally-head-obituary",
+      "headline": "Sally Head obituary",
+      "summary": "Sally Head, renowned TV producer of Prime Suspect and Cracker, dies aged 79 from cancer.",
+      "url": "https://www.theguardian.com/p/x55f9k",
+      "thumbnail": "https://media.guim.co.uk/27b98d50c5d855fc4e3aa7ac832e2a3f35320717/220_0_2471_1977/500.jpg",
+      "published": "2026-05-25T15:53:09Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "tv-and-radio"
+    },
+    {
+      "id": "world/2026/may/25/far-right-elam-party-inspired-by-golden-dawn-makes-big-gains-in-cyprus-elections",
+      "headline": "Far-right Elam party inspired by Golden Dawn makes big gains in Cyprus elections",
+      "summary": "Anti-Turkish far-right party Elam doubles seats in Cyprus elections, inspired by Greek Golden Dawn.",
+      "url": "https://www.theguardian.com/p/x55kda",
+      "thumbnail": "https://media.guim.co.uk/11171fe5775084c3dbda63bb33e8ce44bd99e0d1/491_0_4912_3930/500.jpg",
+      "published": "2026-05-25T15:50:23Z",
+      "location": {
+        "name": "Nicosia",
+        "lat": 35.1264,
+        "lng": 33.3823
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "politics/2026/may/25/nigel-farage-russian-hack-claim-disclosure-5m-gift",
+      "headline": "Nigel Farage’s Russian hack claim ‘without any merit’, former NCSC chief says",
+      "summary": "Former NCSC chief dismisses Nigel Farage's Russian hack claims over Guardian £5m gift report.",
+      "url": "https://www.theguardian.com/p/x55jqj",
+      "thumbnail": "https://media.guim.co.uk/7e5d144f12316c643723323b4b0bf853fd949dbb/457_0_4585_3668/500.jpg",
+      "published": "2026-05-25T15:33:35Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "world/2026/may/25/france-highest-ever-may-temperatures-spain-heatwave",
+      "headline": "Record May highs sweep across France as extreme heat hits western Europe",
+      "summary": "Record May heat sweeps France and Spain as extreme temperatures exceed 40C in western Europe.",
+      "url": "https://www.theguardian.com/p/x55ttb",
+      "thumbnail": "https://media.guim.co.uk/33289211e591b3be7900be2c9bfcfda345afb34b/236_0_5000_4000/500.jpg",
+      "published": "2026-05-25T15:28:35Z",
+      "location": {
+        "name": "Paris",
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "politics/2026/may/25/reform-uk-is-riding-the-wave-of-public-insecurity",
+      "headline": "Reform UK is riding the wave of public insecurity",
+      "summary": "Letters: Reform UK gains support from voters frustrated by public insecurity and political status quo.",
+      "url": "https://www.theguardian.com/p/x54f7n",
+      "thumbnail": "https://media.guim.co.uk/32d74d3b04cfc938d0f630481a2b7d4a75d7a441/446_0_7200_5760/500.jpg",
+      "published": "2026-05-25T15:25:00Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 1,
+      "section": "politics"
+    },
+    {
+      "id": "politics/2026/may/25/british-council-is-a-strategic-asset-in-post-brexit-era",
+      "headline": "British Council is a strategic asset in post-Brexit era",
+      "summary": "Letter: British Council should be properly funded as UK's key soft power instrument post-Brexit.",
+      "url": "https://www.theguardian.com/p/x55eqy",
+      "thumbnail": "https://media.guim.co.uk/61bae5af86ba1346c16c1c426a72fbe337c2e3f5/0_29_4319_3455/500.jpg",
+      "published": "2026-05-25T15:23:49Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 1,
+      "section": "politics"
     }
   ]
 }
