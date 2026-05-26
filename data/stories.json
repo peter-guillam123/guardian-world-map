@@ -1,92 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-26T05:48:52.823Z",
-    "story_count": 64,
-    "oldest_story": "2026-05-25T06:00:17Z",
-    "newest_story": "2026-05-26T05:47:24Z",
+    "generated_at": "2026-05-26T09:31:39.981Z",
+    "story_count": 72,
+    "oldest_story": "2026-05-25T09:46:46Z",
+    "newest_story": "2026-05-26T09:30:43Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "world/live/2026/may/25/iran-war-news-middle-east-crisis-oil-price-us-tehran-peace-talks-deal-strait-hormuz",
-      "headline": "Middle East crisis live: Rubio says US-Iran agreement ‘pretty solid’ as oil price falls amid optimism for deal",
-      "summary": "US-Iran peace deal appears imminent as Rubio expresses optimism; oil prices fall on deal prospects.",
-      "url": "https://www.theguardian.com/p/x55hh2",
-      "thumbnail": "https://media.guim.co.uk/632a04d3c43a27d2b35c096ab90429263ad750fc/792_0_4190_3354/500.jpg",
-      "published": "2026-05-25T06:05:42Z",
-      "location": {
-        "name": "New Delhi",
-        "lat": 28.7041,
-        "lng": 77.1025
-      },
-      "category": "politics",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "uk-news/2026/may/25/south-western-rail-nationalisation-peter-hendy-rollout-reliability",
-      "headline": "A year after nationalisation, is South Western Railway delivering?",
-      "summary": "South Western Railway shows progress one year after nationalisation with new trains and improved services.",
-      "url": "https://www.theguardian.com/p/x553mt",
-      "thumbnail": "https://media.guim.co.uk/66238c19b0e6c056f4b86ef4d2a268ec0ec819dc/0_0_4560_3648/500.jpg",
-      "published": "2026-05-25T06:00:19Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "film/2026/may/25/kraken-review-fjord-based-rampage-is-monster-movie-with-environmental-message",
-      "headline": "Kraken review – fjord-based rampage is monster movie with environmental message",
-      "summary": "Norwegian monster film 'Kraken' combines fjord-based action with environmental messaging.",
-      "url": "https://www.theguardian.com/p/x54q7m",
-      "thumbnail": "https://media.guim.co.uk/8b2de208b512be12a0601a93a65a40e3852a3bdb/290_0_1349_1080/500.jpg",
-      "published": "2026-05-25T06:00:18Z",
-      "location": {
-        "name": "Oslo",
-        "lat": 59.9139,
-        "lng": 10.7522
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "film"
-    },
-    {
-      "id": "money/2026/may/25/hmrc-inheritance-tax-iht-rebate-refund-delay-late",
-      "headline": "HMRC made us wait a year for £150,000 tax rebate",
-      "summary": "HMRC delays inheritance tax rebund for a year, highlighting discrepancy in tax office response times.",
-      "url": "https://www.theguardian.com/p/x54dyt",
-      "thumbnail": "https://media.guim.co.uk/18b472f6a525eb1d1aa15aac88759618cffe535f/676_0_5840_4672/500.jpg",
-      "published": "2026-05-25T06:00:17Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "money"
-    },
-    {
-      "id": "money/2026/may/25/ministers-urged-act-energy-bill-anxiety-price-cap-great-britain",
-      "headline": "Ministers urged to act as households in Great Britain face energy bill ‘anxiety’",
-      "summary": "UK households face rising energy anxiety as bills forecast to exceed £1,900 from summer.",
-      "url": "https://www.theguardian.com/p/x5545c",
-      "thumbnail": "https://media.guim.co.uk/25075ce6edeb51f08c5fdb6d5de5f0b61b3bbe97/420_0_4840_3873/500.jpg",
-      "published": "2026-05-25T06:00:17Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "money"
-    },
     {
       "id": "sport/live/2026/may/25/french-open-2026-swiatek-boulter-de-minaur-jodar-day-two-live-roland-garros",
       "headline": "French Open 2026: Swiatek, Boulter, De Minaur and Jodar in action on day two – live",
@@ -1030,6 +950,214 @@
       "category": "conflict",
       "significance": 2,
       "section": "australia-news"
+    },
+    {
+      "id": "world/live/2026/may/26/europe-ukraine-russia-lithuania-eu-heatwave-hungary-magyar-france-latest-news-updates",
+      "headline": "Seven die in heatwave-related incidents in France – Europe live",
+      "summary": "Seven deaths reported in France during extreme early-summer heatwave affecting western Europe.",
+      "url": "https://www.theguardian.com/p/x55z2m",
+      "thumbnail": "https://media.guim.co.uk/9deb2e48ee5b887eb71d107bdc3d7e078947cc15/413_0_4560_3648/500.jpg",
+      "published": "2026-05-26T09:30:43Z",
+      "location": {
+        "name": "France",
+        "lat": 46.2276,
+        "lng": 2.2137
+      },
+      "category": "climate",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "politics/live/2026/may/26/wes-streeting-keir-starmer-social-media-ban-labour-uk-politics-live",
+      "headline": "Wes Streeting says Starmer ‘behind the curve’ on under-16s social media ban – UK politics live",
+      "summary": "Wes Streeting says Keir Starmer 'behind the curve' on under-16s social media ban.",
+      "url": "https://www.theguardian.com/p/x55nq7",
+      "thumbnail": "https://media.guim.co.uk/b30404df0964542bd6118dba044ad56b85fc2da4/173_0_3342_2673/500.jpg",
+      "published": "2026-05-26T09:28:26Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "world/2026/may/26/deaths-france-linked-record-high-temperatures",
+      "headline": "Seven deaths in France linked to record-high temperatures",
+      "summary": "Seven deaths linked to record-high May temperatures in France as heatwave grips western Europe.",
+      "url": "https://www.theguardian.com/p/x55zx6",
+      "thumbnail": "https://media.guim.co.uk/bb99d451ce2af301997398e89d717ab2b28e8ac7/548_0_5482_4388/500.jpg",
+      "published": "2026-05-26T09:19:33Z",
+      "location": {
+        "name": "France",
+        "lat": 46.2276,
+        "lng": 2.2137
+      },
+      "category": "climate",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "business/live/2026/may/26/oil-price-bonds-rally-markets-us-iran-peace-deal-hopes-retail-inflation-growth-live-updates",
+      "headline": "Oil price back over $100 as markets weigh up hopes of US-Iran peace deal – business live",
+      "summary": "Oil price rallies above $100 barrel amid US-Iran peace deal negotiations and geopolitical tensions.",
+      "url": "https://www.theguardian.com/p/x55ny3",
+      "thumbnail": "https://media.guim.co.uk/8f6482b2e98c5a232833cfe92228e0c1bf316462/141_0_2503_2003/500.jpg",
+      "published": "2026-05-26T09:14:57Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "business"
+    },
+    {
+      "id": "us-news/2026/may/26/us-immigration-flights-emissions",
+      "headline": "Revealed: huge climate cost of harmful emissions from US immigration flights",
+      "summary": "US immigration enforcement flights produce massive carbon emissions from Trump mass deportation campaign.",
+      "url": "https://www.theguardian.com/p/x534jk",
+      "thumbnail": "https://media.guim.co.uk/29ce961666a55ceb499630944678cd10900618c8/156_0_2072_1657/500.jpg",
+      "published": "2026-05-26T09:00:51Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "climate",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/may/26/pep-guardiola-lionel-messi-mls",
+      "headline": "Is Pep Guardiola the man to replace Lionel Messi as MLS’s crown jewel?",
+      "summary": "Speculation on whether Pep Guardiola could become MLS's next marquee signing after Lionel Messi.",
+      "url": "https://www.theguardian.com/p/x55ybz",
+      "thumbnail": "https://media.guim.co.uk/87c90aedbb3b62608492c9d42e795f7b49bb5d65/0_40_3405_2723/500.jpg",
+      "published": "2026-05-26T09:00:50Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "sport/live/2026/may/26/french-open-2026-sabalenka-gauff-and-medvedev-in-action-on-sweltering-day-three-live",
+      "headline": "French Open 2026: Sabalenka, Gauff and Medvedev in action on sweltering day three – live",
+      "summary": "French Open 2026 continues on sweltering day three with Sabalenka, Gauff, and Medvedev in action.",
+      "url": "https://www.theguardian.com/p/x55jvd",
+      "thumbnail": "https://media.guim.co.uk/0c90f5819097266d21779d507b821fcfee8ba8a1/1213_321_3472_2778/500.jpg",
+      "published": "2026-05-26T09:00:50Z",
+      "location": {
+        "name": "Paris",
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "sport"
+    },
+    {
+      "id": "australia-news/2026/may/26/group-women-children-linked-to-islamic-state-arriving-australia-ntwnfb",
+      "headline": "Group of 19 women and children linked to Islamic State land in Melbourne and Sydney with no arrests expected",
+      "summary": "Group of 19 Australian women and children linked to Islamic State arrive from Syria without arrests expected.",
+      "url": "https://www.theguardian.com/p/x55ng6",
+      "thumbnail": "https://media.guim.co.uk/f912e7339b4db59cb80a17cd2bca2d48202bf664/246_0_2461_1969/500.jpg",
+      "published": "2026-05-26T08:56:04Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "australia-news"
+    },
+    {
+      "id": "australia-news/2026/may/26/kumanjayi-white-death-indigenous-man-nt-police-will-not-lay-charges-against-officers-ntwnfb",
+      "headline": "NT police won’t be charged over Kumanjayi White’s death as Lidia Thorpe criticises lack of justice",
+      "summary": "NT police won't face charges over Indigenous man Kumanjayi White's death during supermarket restraint.",
+      "url": "https://www.theguardian.com/p/x55ne8",
+      "thumbnail": "https://media.guim.co.uk/ab11bde64d9a56ec262b480f5d17f44d83ea2fbf/490_0_4895_3916/500.jpg",
+      "published": "2026-05-26T08:45:27Z",
+      "location": {
+        "name": "Alice Springs",
+        "lat": -23.7001,
+        "lng": 133.8807
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "environment/2026/may/26/tell-us-how-are-you-coping-during-the-uk-heatwave",
+      "headline": "Tell us: how are you coping during the UK heatwave?",
+      "summary": "UK records hottest May day ever at 34.8C as heatwave persists across south-east England.",
+      "url": "https://www.theguardian.com/p/x55z8y",
+      "thumbnail": "https://media.guim.co.uk/91407596907ae34b008693b4d2404ce71380eda7/453_0_4526_3621/500.jpg",
+      "published": "2026-05-26T08:34:23Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "environment"
+    },
+    {
+      "id": "media/2026/may/26/mother-of-boy-who-died-urges-no-10-social-media-ban",
+      "headline": "Mother of boy who may have died in TikTok challenge urges No 10 to ban social media",
+      "summary": "Mother urges government to ban social media for under-16s following teenager's death in TikTok challenge.",
+      "url": "https://www.theguardian.com/p/x55z4m",
+      "thumbnail": "https://media.guim.co.uk/fd3bb0055f77d54f8efc5da821a72740a665e833/67_0_1012_810/500.jpg",
+      "published": "2026-05-26T08:34:17Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "media"
+    },
+    {
+      "id": "music/2026/may/26/robyn-steward-robyn-rocket-nightclubs-music-neurodivergence-autism",
+      "headline": "‘Everyone is equal in this space’: the cosmic world of neurodivergent-friendly club night Robyn’s Rocket",
+      "summary": "Robyn's Rocket neurodivergent-friendly club night opens at Fabric with radically inclusive space-themed music.",
+      "url": "https://www.theguardian.com/p/x547pt",
+      "thumbnail": "https://media.guim.co.uk/8ea66b44b67c50b1728ec3f359d0d914a7f145ae/436_0_5200_4160/500.jpg",
+      "published": "2026-05-26T08:33:14Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "music"
+    },
+    {
+      "id": "business/2026/may/26/next-boss-entry-level-jobs-lord-wolfson-youth-unemployment",
+      "headline": "Next boss warns over ‘dramatic fall’ in UK entry-level jobs",
+      "summary": "Next boss warns of 'dramatic fall' in UK entry-level jobs as applicants double in two years.",
+      "url": "https://www.theguardian.com/p/x55npj",
+      "thumbnail": "https://media.guim.co.uk/8f626b6ee8df2e05370d2d2d5098f037abdd76c8/907_0_6827_5464/500.jpg",
+      "published": "2026-05-26T08:23:36Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
     }
   ]
 }
