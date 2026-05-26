@@ -1,28 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-26T22:36:57.534Z",
-    "story_count": 45,
-    "oldest_story": "2026-05-25T23:01:38Z",
-    "newest_story": "2026-05-26T22:28:38Z",
+    "generated_at": "2026-05-26T23:46:45.770Z",
+    "story_count": 48,
+    "oldest_story": "2026-05-26T00:48:43Z",
+    "newest_story": "2026-05-26T23:13:20Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "uk-news/2026/may/26/views-on-tackling-online-safety-under-16s-social-media-consultation",
-      "headline": "‘A tsunami of harm’: views on tackling online safety for under-16s in the UK",
-      "summary": "UK government consults on social media restrictions for under-16s amid child safety concerns.",
-      "url": "https://www.theguardian.com/p/x54q9y",
-      "thumbnail": "https://media.guim.co.uk/d41a2eec1503e76eacd201d7665391d8b0b10e67/531_0_6880_5504/500.jpg",
-      "published": "2026-05-25T23:01:38Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "uk-news"
-    },
     {
       "id": "australia-news/2026/may/26/vivid-drone-show-cancelled-sydney-2026-darling-harbour",
       "headline": "Vivid Sydney cancels shows after 89 drones plunge into Darling Harbour",
@@ -722,6 +706,70 @@
         "name": "New Jersey",
         "lat": 40.2206,
         "lng": -74.7597
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/may/26/ufc-arena-white-house-trump-birthday",
+      "headline": "UFC arena under construction on White House lawn to mark Trump’s 80th birthday",
+      "summary": "UFC arena under construction on White House lawn for Trump's 80th birthday and US 250th anniversary.",
+      "url": "https://www.theguardian.com/p/x56vtn",
+      "thumbnail": "https://media.guim.co.uk/6c45d4fb902eab695ebad6cf001767c5d8748470/720_0_7200_5760/500.jpg",
+      "published": "2026-05-26T23:13:20Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "culture/2026/may/27/the-tempest-review-kenneth-branagh-returns-to-the-rsc-in-this-enchanting-production",
+      "headline": "The Tempest review – Kenneth Branagh returns to the RSC in this enchanting production",
+      "summary": "Kenneth Branagh returns to RSC after 30+ years in enchanting production of The Tempest.",
+      "url": "https://www.theguardian.com/p/x56vje",
+      "thumbnail": "https://media.guim.co.uk/4be4f6f9af3e4085a8da9bcd44d8f8c66ed8a865/162_1322_2736_2189/500.jpg",
+      "published": "2026-05-26T23:04:08Z",
+      "location": {
+        "name": "Stratford-upon-Avon",
+        "lat": 52.1933,
+        "lng": -1.7138
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "culture"
+    },
+    {
+      "id": "uk-news/2026/may/27/russia-targeting-uk-infrastructure-democracy-gchq-head-anne-keast-butler",
+      "headline": "Russia is targeting UK’s infrastructure and democracy, GCHQ head to say",
+      "summary": "GCHQ head warns Russia targets UK infrastructure and democracy amid China technological threat.",
+      "url": "https://www.theguardian.com/p/x55q3h",
+      "thumbnail": "https://media.guim.co.uk/5e5e91c28b1f703842f57ca249b17173d9f1fc09/472_0_2497_1998/500.jpg",
+      "published": "2026-05-26T23:02:11Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "uk-news"
+    },
+    {
+      "id": "us-news/2026/may/26/court-blocks-mahmoud-khalil-re-detention",
+      "headline": "Appeals court temporarily blocks re-detention of Mahmoud Khalil ",
+      "summary": "Appeals court temporarily blocks re-detention of activist Mahmoud Khalil pending supreme court petition.",
+      "url": "https://www.theguardian.com/p/x56vfv",
+      "thumbnail": "https://media.guim.co.uk/fa63e5eddc4288e704e5a097750498b8fc8ecc83/0_918_5216_4173/500.jpg",
+      "published": "2026-05-26T22:50:50Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
       },
       "category": "politics",
       "significance": 2,
