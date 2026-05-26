@@ -1,60 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-25T23:42:16.972Z",
-    "story_count": 68,
-    "oldest_story": "2026-05-25T00:23:41Z",
-    "newest_story": "2026-05-25T23:01:38Z",
+    "generated_at": "2026-05-26T01:32:31.857Z",
+    "story_count": 67,
+    "oldest_story": "2026-05-25T05:00:16Z",
+    "newest_story": "2026-05-26T00:57:51Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "world/live/2026/may/24/iran-deal-strait-of-hormuz-trump-middle-east-crisis-live",
-      "headline": "Middle East crisis live: oil prices hit two-week low amid optimism that US and Iran are close to peace deal",
-      "summary": "US and Iran close to peace deal as oil prices hit two-week low amid optimism.",
-      "url": "https://www.theguardian.com/p/x55bex",
-      "thumbnail": "https://media.guim.co.uk/57332ab77a1ff3de9605e3380dce6fc4a9d2a13e/278_0_2764_2212/500.jpg",
-      "published": "2026-05-25T01:16:16Z",
-      "location": {
-        "name": "Iran",
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "category": "politics",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "sport/2026/may/25/wsl-nz-shark-or-sea-lion-bite-world-surf-league-new-zealand",
-      "headline": "World Surf League event in New Zealand put on hold after photographer bitten by ‘shark or a sea lion’",
-      "summary": "World Surf League event halted after photographer bitten by shark or sea lion.",
-      "url": "https://www.theguardian.com/p/x55gj2",
-      "thumbnail": "https://media.guim.co.uk/4aa7f776768475584ec0edb35f19844b5c22dd93/142_0_6744_5399/500.jpg",
-      "published": "2026-05-25T00:49:11Z",
-      "location": {
-        "name": "Raglan",
-        "lat": -37.8044,
-        "lng": 174.886
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "sport/2026/may/25/nrl-ceo-andrew-abdo-resigns-tennis-australia-role",
-      "headline": "NRL CEO Andrew Abdo resigns mid-season to reportedly take up Tennis Australia role",
-      "summary": "NRL CEO Andrew Abdo resigns to reportedly take Tennis Australia role.",
-      "url": "https://www.theguardian.com/p/x55gqj",
-      "thumbnail": "https://media.guim.co.uk/69ed7aa3b1d6204480c5170b966a1e1d71e3693e/453_0_4272_3419/500.jpg",
-      "published": "2026-05-25T00:23:41Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
     {
       "id": "world/live/2026/may/25/iran-war-news-middle-east-crisis-oil-price-us-tehran-peace-talks-deal-strait-hormuz",
       "headline": "Middle East crisis live: Rubio says US-Iran agreement ‘pretty solid’ as oil price falls amid optimism for deal",
@@ -1094,6 +1046,38 @@
       "category": "politics",
       "significance": 2,
       "section": "uk-news"
+    },
+    {
+      "id": "australia-news/2026/may/26/vivid-drone-show-cancelled-sydney-2026-darling-harbour",
+      "headline": "Vivid Sydney cancels shows after 89 drones plunge into Darling Harbour",
+      "summary": "89 drones plunge into Darling Harbour during Vivid Sydney show, prompting cancellations.",
+      "url": "https://www.theguardian.com/p/x55m9q",
+      "thumbnail": "https://media.guim.co.uk/f05f0656a5a696a0a8eb47b3522b550735d6affc/557_0_5548_4441/500.jpg",
+      "published": "2026-05-26T00:57:51Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "tech",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "world/2026/may/26/bhp-files-australian-government-emissions",
+      "headline": "Chris Bowen says he has made it ‘crystal clear’ to BHP and other big polluters they must cut emissions onsite",
+      "summary": "Australian climate minister demands BHP cut onsite emissions after leaked climate backsliding.",
+      "url": "https://www.theguardian.com/p/x55m8y",
+      "thumbnail": "https://media.guim.co.uk/3799558fc1c952bc1a1ae8762a7356eb7a96533c/393_0_6880_5504/500.jpg",
+      "published": "2026-05-26T00:48:43Z",
+      "location": {
+        "name": "Australia",
+        "lat": -25.2744,
+        "lng": 133.7751
+      },
+      "category": "climate",
+      "significance": 3,
+      "section": "world"
     }
   ]
 }
