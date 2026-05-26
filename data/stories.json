@@ -1,540 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-26T09:31:39.981Z",
-    "story_count": 72,
-    "oldest_story": "2026-05-25T09:46:46Z",
-    "newest_story": "2026-05-26T09:30:43Z",
+    "generated_at": "2026-05-26T16:27:59.058Z",
+    "story_count": 48,
+    "oldest_story": "2026-05-25T17:00:30Z",
+    "newest_story": "2026-05-26T16:23:30Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "sport/live/2026/may/25/french-open-2026-swiatek-boulter-de-minaur-jodar-day-two-live-roland-garros",
-      "headline": "French Open 2026: Swiatek, Boulter, De Minaur and Jodar in action on day two – live",
-      "summary": "French Open day two features Swiatek, Boulter, De Minaur and Jodar in action at Roland Garros.",
-      "url": "https://www.theguardian.com/p/x55tgz",
-      "thumbnail": "https://media.guim.co.uk/1432f49016be54e4ecf57aa1e864a70f0c25dc57/143_0_1920_1536/500.jpg",
-      "published": "2026-05-25T10:45:34Z",
-      "location": {
-        "name": "Paris",
-        "lat": 48.8566,
-        "lng": 2.3522
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "sport"
-    },
-    {
-      "id": "world/2026/may/25/bhp-files-leak-mining-company-climate-action",
-      "headline": "World’s biggest miner BHP backtracks on climate action with key projects put on ice, leaked documents reveal",
-      "summary": "BHP halts emission-cutting projects and delays decarbonisation in Western Australian iron ore operations.",
-      "url": "https://www.theguardian.com/p/x5xkax",
-      "thumbnail": "https://media.guim.co.uk/549cebc88228d909b479bfb629235c8189ae3a96/0_0_6270_5017/500.jpg",
-      "published": "2026-05-25T10:30:25Z",
-      "location": {
-        "name": "Perth",
-        "lat": -31.9505,
-        "lng": 115.8605
-      },
-      "category": "climate",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "world/ng-interactive/2026/may/25/bhp-files-internal-memo-revealed",
-      "headline": "Revealed: the internal BHP memo that slammed the brakes on world’s biggest miner’s climate push",
-      "summary": "Leaked BHP memo reveals backtracking on climate commitments despite calling it 'existential' threat.",
-      "url": "https://www.theguardian.com/p/x5xk69",
-      "thumbnail": "https://media.guim.co.uk/5b927d8ae3f79d4d1704c1c74719229b08b30584/1_0_4998_4000/500.jpg",
-      "published": "2026-05-25T10:30:24Z",
-      "location": {
-        "name": "Perth",
-        "lat": -31.9505,
-        "lng": 115.8605
-      },
-      "category": "climate",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "world/commentisfree/2026/may/25/bhp-climate-promises-slash-emissions-global-solutions",
-      "headline": "BHP has made big climate promises – that’s the easy part. Now it must do the real work of slashing emissions",
-      "summary": "BHP must follow through on climate promises by heavily investing in emission-reduction solutions.",
-      "url": "https://www.theguardian.com/p/x54btg",
-      "thumbnail": "https://media.guim.co.uk/e9ee420a2bec482dc405c16e7617bb8df966adf6/1_0_4998_4000/500.jpg",
-      "published": "2026-05-25T10:30:24Z",
-      "location": {
-        "name": "Perth",
-        "lat": -31.9505,
-        "lng": 115.8605
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "world/2026/may/25/bhp-diesel-trucks-pilbara-australia-mining-climate-pollution",
-      "headline": "BHP defies its own climate strategy to spend hundreds of millions on polluting diesel trucks in Pilbara ",
-      "summary": "BHP spends hundreds of millions on polluting diesel trucks in Pilbara despite climate misalignment.",
-      "url": "https://www.theguardian.com/p/x54ajk",
-      "thumbnail": "https://media.guim.co.uk/c0df1a6dd14088e6f20947658a9f48ed568d7a50/0_0_5000_4000/500.jpg",
-      "published": "2026-05-25T10:30:24Z",
-      "location": {
-        "name": "Perth",
-        "lat": -31.9505,
-        "lng": 115.8605
-      },
-      "category": "climate",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "world/2026/may/25/bhp-mining-pilbara-iron-ore-plant-to-drastically-cut-emissions-scrapped",
-      "headline": "BHP quietly scrapped plan to build Pilbara plant that would have drastically cut emissions",
-      "summary": "BHP scrapped Jimblebar processing plant that would have drastically cut emissions in Pilbara.",
-      "url": "https://www.theguardian.com/p/x54ajp",
-      "thumbnail": "https://media.guim.co.uk/aa82bcf0cf54411e004810b914336ebda8654930/0_0_5000_4000/500.jpg",
-      "published": "2026-05-25T10:30:23Z",
-      "location": {
-        "name": "Perth",
-        "lat": -31.9505,
-        "lng": 115.8605
-      },
-      "category": "climate",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "football/2026/may/25/premier-league-2025-26-review-gripes-of-the-season",
-      "headline": "Premier League 2025-26 review: gripes of the season",
-      "summary": "Premier League 2025-26 season review highlights infuriating aspects including set-piece chaos.",
-      "url": "https://www.theguardian.com/p/x5336m",
-      "thumbnail": "https://media.guim.co.uk/a13fcff66aa9f672fa300ddf2cdd012aaf9fdb73/0_0_5000_4000/500.jpg",
-      "published": "2026-05-25T10:30:23Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "politics/2026/may/25/elon-musk-retweet-andy-burnham-makerfield-byelection-reform",
-      "headline": "Elon Musk retweet signals rightwing split that could help Andy Burnham in Makerfield ",
-      "summary": "Elon Musk's retweet signals rightwing split that could help Andy Burnham in Makerfield byelection.",
-      "url": "https://www.theguardian.com/p/x55tf8",
-      "thumbnail": "https://media.guim.co.uk/f5a353a42b2a556abe0fa000ab916c6ddfc2076b/417_0_4173_3338/500.jpg",
-      "published": "2026-05-25T10:14:46Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "us-news/2026/may/25/first-thing-us-and-iran-inch-closer-to-peace-deal-as-trump-faces-criticism-from-gop-hawks",
-      "headline": "First Thing: US and Iran inch closer to peace deal as Trump faces criticism from GOP hawks",
-      "summary": "Trump defends himself against GOP hawks as US and Iran inch closer to peace deal.",
-      "url": "https://www.theguardian.com/p/x55tmj",
-      "thumbnail": "https://media.guim.co.uk/ed6a5db1eba97e12d7d087b6e2fad432aa4237e5/536_113_4639_3712/500.jpg",
-      "published": "2026-05-25T10:12:00Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "us-news"
-    },
-    {
-      "id": "music/2026/may/25/sugar-review-kentish-town-forum-uk-ireland-tour-bob-mould-david-barbe",
-      "headline": "Sugar review – Bob Mould’s reunited band still in a sweet spot between noise and melody",
-      "summary": "Sugar's reunited band performs at O2 Kentish Town Forum balancing noise and melody.",
-      "url": "https://www.theguardian.com/p/x55tj5",
-      "thumbnail": "https://media.guim.co.uk/ddc513252a844f7cf88e5ffe82adcdc92157b70e/400_366_2092_1673/500.jpg",
-      "published": "2026-05-25T10:09:28Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "music"
-    },
-    {
-      "id": "world/2026/may/25/rare-rubens-notebook-sheet-goes-on-display-in-artists-home-city-of-antwerp",
-      "headline": "Rare Rubens notebook sheet goes on display in artist’s home city of Antwerp",
-      "summary": "Rare Rubens notebook sheet from Roman period goes on display in artist's home city.",
-      "url": "https://www.theguardian.com/p/x5538e",
-      "thumbnail": "https://media.guim.co.uk/edb4d48a682591edb37ddfa01f99749ad9dce9a7/224_164_2306_1845/500.jpg",
-      "published": "2026-05-25T10:00:24Z",
-      "location": {
-        "name": "Antwerp",
-        "lat": 51.2195,
-        "lng": 4.4012
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "football/2026/may/25/premier-league-review-2025-26-young-players-of-the-season",
-      "headline": "Premier League 2025-26 review: young players of the season",
-      "summary": "Premier League 2025-26 review highlights young talented players under age 21.",
-      "url": "https://www.theguardian.com/p/x53364",
-      "thumbnail": "https://media.guim.co.uk/33516ce8767f662420cd7cfd8a4186a99d42e64f/426_0_4241_3395/500.jpg",
-      "published": "2026-05-25T10:00:24Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "film/2026/may/25/no-winter-holidays-review-rajan-kathet-sunir-pandey",
-      "headline": "No Winter Holidays review – haunting portrait of female companionship in Nepal’s frozen highlands",
-      "summary": "Documentary 'No Winter Holidays' portrays two widows in abandoned Nepalese mountain village.",
-      "url": "https://www.theguardian.com/p/x5556n",
-      "thumbnail": "https://media.guim.co.uk/5b0d9ae90ce879bcd5153a745e0e6ef9406f3302/686_0_2698_2160/500.jpg",
-      "published": "2026-05-25T10:00:23Z",
-      "location": {
-        "name": "Kathmandu",
-        "lat": 27.7172,
-        "lng": 85.324
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "film"
-    },
-    {
-      "id": "business/2026/may/25/financial-crisis-trump-economics",
-      "headline": "The world is heading toward a financial crisis – the state of US politics has left us ill-prepared",
-      "summary": "World heading toward financial crisis with Trump administration ill-prepared for response.",
-      "url": "https://www.theguardian.com/p/x55v2p",
-      "thumbnail": "https://media.guim.co.uk/92c1b415d9adbd4b9a6fcd957fa15e90607f0083/1_0_2999_2400/500.jpg",
-      "published": "2026-05-25T10:00:23Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "business"
-    },
-    {
-      "id": "commentisfree/2026/may/25/could-this-japanese-human-washing-machine-save-me-from-the-tedium-of-cleaning-myself",
-      "headline": "Could this Japanese human washing machine save me from the tedium of cleaning myself?",
-      "summary": "Japanese human washing machine capsule costs £280,000 and uses microbubbles for cleaning.",
-      "url": "https://www.theguardian.com/p/x5533n",
-      "thumbnail": "https://media.guim.co.uk/34c9ca62561f6d2673eeb434ae5672511710cf8e/147_0_3366_2692/500.jpg",
-      "published": "2026-05-25T10:00:22Z",
-      "location": {
-        "name": "Japan",
-        "lat": 36.2048,
-        "lng": 138.2529
-      },
-      "category": "tech",
-      "significance": 2,
-      "section": "commentisfree"
-    },
-    {
-      "id": "uk-news/2026/may/25/peter-murrell-pleads-guilty-embezzlement-snp-scottish-national-party",
-      "headline": "Peter Murrell pleads guilty to embezzling £400,000 from SNP",
-      "summary": "SNP ex-chief Peter Murrell pleads guilty to embezzling £400,000 from Scottish National Party.",
-      "url": "https://www.theguardian.com/p/x55tpq",
-      "thumbnail": "https://media.guim.co.uk/d34706910fb97d228c7d2f0dc204972d1b3036f5/231_0_881_705/500.jpg",
-      "published": "2026-05-25T09:53:30Z",
-      "location": {
-        "name": "Edinburgh",
-        "lat": 55.9533,
-        "lng": -3.1883
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "uk-news"
-    },
-    {
-      "id": "business/2026/may/25/metro-bank-investors-reject-executive-pay-report-bonus",
-      "headline": "Metro Bank investors urged to reject executive pay report  ",
-      "summary": "Metro Bank investors urged to reject executive pay report over £60m CEO bonus scheme.",
-      "url": "https://www.theguardian.com/p/x55dte",
-      "thumbnail": "https://media.guim.co.uk/c2e2a33b5c8301c2a7a3e6255cf91afe43c89430/0_332_3573_2858/500.jpg",
-      "published": "2026-05-25T09:46:46Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "football/live/2026/may/25/notts-county-v-salford-league-two-playoff-final-live",
-      "headline": "Notts County v Salford: League Two playoff final – live",
-      "summary": "Notts County faces Salford in League Two playoff final at Wembley for promotion to League One.",
-      "url": "https://www.theguardian.com/p/x553y3",
-      "thumbnail": "https://media.guim.co.uk/fb3ed03b287a9b7410a5b29342d30990a6be3d22/407_0_4904_3925/500.jpg",
-      "published": "2026-05-25T13:51:07Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "sport/live/2026/may/25/england-v-new-zealand-third-womens-t20-cricket-international-live",
-      "headline": "England v New Zealand: third and deciding women’s T20 cricket international – live",
-      "summary": "England v New Zealand women's T20 cricket series decider at Hove; deciding match underway.",
-      "url": "https://www.theguardian.com/p/x5538b",
-      "thumbnail": "https://media.guim.co.uk/3eab9dfcbdfb2de9b7662841b11552192f2a9422/364_64_4708_3767/500.jpg",
-      "published": "2026-05-25T13:51:00Z",
-      "location": {
-        "name": "Hove",
-        "lat": 50.8604,
-        "lng": -0.0839
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "uk-news/2026/may/25/uk-higher-earning-immigrants-driven-out-tougher-rules",
-      "headline": "UK’s higher-earning immigrants may be driven out by tougher rules, report suggests",
-      "summary": "Report warns UK government immigration crackdown risks driving out higher-earning migrants.",
-      "url": "https://www.theguardian.com/p/x54q5d",
-      "thumbnail": "https://media.guim.co.uk/33a5230b9e32ad7c2a0b85a8126502e42a730e55/685_0_6846_5477/500.jpg",
-      "published": "2026-05-25T13:17:18Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "uk-news/2026/may/25/cheese-rolling-german-youtuber-tom-kopke-beats-all-time-champion-chris-anderson",
-      "headline": "‘I’m going to get his ass’: YouTuber beats all-time cheese-rolling champion",
-      "summary": "German YouTuber Tom Kopke defeats local champion at annual Gloucestershire cheese-rolling event.",
-      "url": "https://www.theguardian.com/p/x55jtm",
-      "thumbnail": "https://media.guim.co.uk/a6659638bf1c1eb95e57c2b08e87b92e0a0cf5e7/621_0_3750_3000/500.jpg",
-      "published": "2026-05-25T13:13:48Z",
-      "location": {
-        "name": "Gloucester",
-        "lat": 51.8643,
-        "lng": -2.2431
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "uk-news"
-    },
-    {
-      "id": "world/2026/may/25/shock-iran-war-middle-east-rivals-trump-peace-deal",
-      "headline": "Shock of Iran war unites Middle East rivals in pushing Trump towards peace",
-      "summary": "Middle East rivals unite behind Trump peace initiative amid Iran war fallout and regional realignment.",
-      "url": "https://www.theguardian.com/p/x55jd4",
-      "thumbnail": "https://media.guim.co.uk/8478f6ad7cfcf55310d1c1c74d07e8636c0777e8/0_0_3094_2476/500.jpg",
-      "published": "2026-05-25T13:06:10Z",
-      "location": {
-        "name": "Tehran",
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "society/2026/may/25/labour-needs-system-reset-to-tackle-youth-unemployment-report-to-say",
-      "headline": "Labour needs ‘system reset’ to tackle youth unemployment, report to say",
-      "summary": "Alan Milburn review warns Labour needs system reset to address soaring youth unemployment crisis.",
-      "url": "https://www.theguardian.com/p/x554k4",
-      "thumbnail": "https://media.guim.co.uk/98861acc48d37f8249cf7e246a0b3e84d0e86ddd/169_0_4991_3993/500.jpg",
-      "published": "2026-05-25T13:00:26Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "society"
-    },
-    {
-      "id": "sport/2026/may/25/victor-wembanyama-spurs-thunder-nba-playoffs",
-      "headline": "Victor Wembanyama’s half-court buzzer beater showcased a master in complete control",
-      "summary": "Victor Wembanyama hits half-court buzzer beater as Spurs battle Thunder in NBA Western Conference Finals.",
-      "url": "https://www.theguardian.com/p/x55jnk",
-      "thumbnail": "https://media.guim.co.uk/8938c9324b1ae3912885f1a7f0a3eafcf77b3c2e/509_0_5087_4070/500.jpg",
-      "published": "2026-05-25T12:49:38Z",
-      "location": {
-        "name": "San Antonio",
-        "lat": 29.4241,
-        "lng": -98.4936
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "world/2026/may/25/iran-denies-deal-us-imminent-israel-oman-strait-of-hormuz",
-      "headline": "Iran denies deal with US is imminent despite some progress",
-      "summary": "Iran denies imminent US deal, citing contradictory American statements and Israeli interference.",
-      "url": "https://www.theguardian.com/p/x55jf2",
-      "thumbnail": "https://media.guim.co.uk/0f9645979cdbec716d1c407c113ab2665762a70c/5_86_4207_3366/500.jpg",
-      "published": "2026-05-25T12:47:12Z",
-      "location": {
-        "name": "Tehran",
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "football/2026/may/25/salford-city-notts-county-league-two-playoff-final-match-report",
-      "headline": "Notts County cruise into League One with emphatic win over Salford",
-      "summary": "Notts County secure League One promotion with 3-0 playoff final win over Salford at Wembley.",
-      "url": "https://www.theguardian.com/p/x55jq6",
-      "thumbnail": "https://media.guim.co.uk/b7106857343c0dd2ab83f54448ffbddb364ae229/191_0_2718_2174/500.jpg",
-      "published": "2026-05-25T16:12:13Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/may/25/liverpool-arne-slot-wingers-mohamed-salah",
-      "headline": "Arne Slot believes Liverpool can bounce back next season by signing quality wingers",
-      "summary": "Liverpool manager Slot targets quality wingers to improve squad next season after disappointing campaign.",
-      "url": "https://www.theguardian.com/p/x55jn6",
-      "thumbnail": "https://media.guim.co.uk/b2a2acd25cfd9a07adda45a710f136df8aace197/236_0_3353_2683/500.jpg",
-      "published": "2026-05-25T16:00:29Z",
-      "location": {
-        "name": "Liverpool",
-        "lat": 53.4308,
-        "lng": -2.9613
-      },
-      "category": "sport",
-      "significance": 1,
-      "section": "football"
-    },
-    {
-      "id": "tv-and-radio/2026/may/25/sally-head-obituary",
-      "headline": "Sally Head obituary",
-      "summary": "Sally Head, renowned TV producer of Prime Suspect and Cracker, dies aged 79 from cancer.",
-      "url": "https://www.theguardian.com/p/x55f9k",
-      "thumbnail": "https://media.guim.co.uk/27b98d50c5d855fc4e3aa7ac832e2a3f35320717/220_0_2471_1977/500.jpg",
-      "published": "2026-05-25T15:53:09Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "tv-and-radio"
-    },
-    {
-      "id": "world/2026/may/25/far-right-elam-party-inspired-by-golden-dawn-makes-big-gains-in-cyprus-elections",
-      "headline": "Far-right Elam party inspired by Golden Dawn makes big gains in Cyprus elections",
-      "summary": "Anti-Turkish far-right party Elam doubles seats in Cyprus elections, inspired by Greek Golden Dawn.",
-      "url": "https://www.theguardian.com/p/x55kda",
-      "thumbnail": "https://media.guim.co.uk/11171fe5775084c3dbda63bb33e8ce44bd99e0d1/491_0_4912_3930/500.jpg",
-      "published": "2026-05-25T15:50:23Z",
-      "location": {
-        "name": "Nicosia",
-        "lat": 35.1264,
-        "lng": 33.3823
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "politics/2026/may/25/nigel-farage-russian-hack-claim-disclosure-5m-gift",
-      "headline": "Nigel Farage’s Russian hack claim ‘without any merit’, former NCSC chief says",
-      "summary": "Former NCSC chief dismisses Nigel Farage's Russian hack claims over Guardian £5m gift report.",
-      "url": "https://www.theguardian.com/p/x55jqj",
-      "thumbnail": "https://media.guim.co.uk/7e5d144f12316c643723323b4b0bf853fd949dbb/457_0_4585_3668/500.jpg",
-      "published": "2026-05-25T15:33:35Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "world/2026/may/25/france-highest-ever-may-temperatures-spain-heatwave",
-      "headline": "Record May highs sweep across France as extreme heat hits western Europe",
-      "summary": "Record May heat sweeps France and Spain as extreme temperatures exceed 40C in western Europe.",
-      "url": "https://www.theguardian.com/p/x55ttb",
-      "thumbnail": "https://media.guim.co.uk/33289211e591b3be7900be2c9bfcfda345afb34b/236_0_5000_4000/500.jpg",
-      "published": "2026-05-25T15:28:35Z",
-      "location": {
-        "name": "Paris",
-        "lat": 48.8566,
-        "lng": 2.3522
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "politics/2026/may/25/reform-uk-is-riding-the-wave-of-public-insecurity",
-      "headline": "Reform UK is riding the wave of public insecurity",
-      "summary": "Letters: Reform UK gains support from voters frustrated by public insecurity and political status quo.",
-      "url": "https://www.theguardian.com/p/x54f7n",
-      "thumbnail": "https://media.guim.co.uk/32d74d3b04cfc938d0f630481a2b7d4a75d7a441/446_0_7200_5760/500.jpg",
-      "published": "2026-05-25T15:25:00Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 1,
-      "section": "politics"
-    },
-    {
-      "id": "politics/2026/may/25/british-council-is-a-strategic-asset-in-post-brexit-era",
-      "headline": "British Council is a strategic asset in post-Brexit era",
-      "summary": "Letter: British Council should be properly funded as UK's key soft power instrument post-Brexit.",
-      "url": "https://www.theguardian.com/p/x55eqy",
-      "thumbnail": "https://media.guim.co.uk/61bae5af86ba1346c16c1c426a72fbe337c2e3f5/0_29_4319_3455/500.jpg",
-      "published": "2026-05-25T15:23:49Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 1,
-      "section": "politics"
-    },
     {
       "id": "sport/2026/may/25/french-open-heat-wave-hot-temperature-tennis",
       "headline": "Players tackle blistering heat at start of French Open in test of endurance",
@@ -1158,6 +630,150 @@
       "category": "economy",
       "significance": 2,
       "section": "business"
+    },
+    {
+      "id": "environment/2026/may/26/sales-of-fans-ice-cubes-and-ice-baths-surge-during-may-uk-heatwave",
+      "headline": "Sales of fans, ice cubes and sunscreen surge during May UK heatwave",
+      "summary": "UK retail demand surges for cooling products during record May heatwave temperatures.",
+      "url": "https://www.theguardian.com/p/x55pg2",
+      "thumbnail": "https://media.guim.co.uk/fc82c8e1ae6b8ea416185a1afc89d1439c71f560/414_0_6307_5046/500.jpg",
+      "published": "2026-05-26T16:23:30Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "environment"
+    },
+    {
+      "id": "us-news/live/2026/may/26/donald-trump-medical-walter-reed-republicans-texas-runoff-iran-latest-news-updates",
+      "headline": "Trump urges Texas Republicans to vote for Ken Paxton as four-term senator John Cornyn fights to hold seat – live",
+      "summary": "Trump backs Ken Paxton against incumbent John Cornyn in Texas Republican primary runoff.",
+      "url": "https://www.theguardian.com/p/x55zgb",
+      "thumbnail": "https://media.guim.co.uk/fd2d7e03e2efc26b7bb61d735f1e3910fb236f71/458_0_4583_3667/500.jpg",
+      "published": "2026-05-26T16:21:27Z",
+      "location": {
+        "name": "Texas",
+        "lat": 31.9686,
+        "lng": -99.9018
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/may/26/premier-league-2025-26-season-review-predictions-reality-liverpool-chelsea-brentford-sunderland",
+      "headline": "Premier League 2025-26 season review: our predictions v reality",
+      "summary": "Arsenal wins Premier League title; Liverpool, Chelsea predictions proved wrong.",
+      "url": "https://www.theguardian.com/p/x55j3f",
+      "thumbnail": "https://media.guim.co.uk/ee61f09a3f088eacc7ebf0d28279b04e963d9595/0_0_5000_4000/500.jpg",
+      "published": "2026-05-26T15:56:24Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "politics/2026/may/26/snp-embezzling-voters-peter-murrell",
+      "headline": "SNP accused of ‘embezzling’ voters over Peter Murrell’s theft of party funds",
+      "summary": "SNP faces embezzlement scandal as Peter Murrell pleads guilty to £400k theft.",
+      "url": "https://www.theguardian.com/p/x55ppm",
+      "thumbnail": "https://media.guim.co.uk/3ffe6123f5b57c1bd2c4cd0e07b739850932e544/20_17_2158_1726/500.jpg",
+      "published": "2026-05-26T15:51:13Z",
+      "location": {
+        "name": "Edinburgh",
+        "lat": 55.9533,
+        "lng": -3.1883
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "sport/2026/may/26/french-open-teenager-moise-kouame-promise-beating-cilic-tennis",
+      "headline": "French teenager Moïse Kouamé underlines huge promise by beating Marin Cilic",
+      "summary": "French teenager Moïse Kouamé becomes youngest man to win at French Open since 1991.",
+      "url": "https://www.theguardian.com/p/x55pjt",
+      "thumbnail": "https://media.guim.co.uk/f394af383c5475bd7e77250c3026785b2dd9549d/433_199_4659_3727/500.jpg",
+      "published": "2026-05-26T15:43:12Z",
+      "location": {
+        "name": "Paris",
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "sport/2026/may/26/pga-of-america-president-don-rea-ryder-cup-rory-mcilroy",
+      "headline": "PGA of America president Don Rea Jr is out after Ryder Cup controversies",
+      "summary": "PGA of America president Don Rea Jr ousted after Ryder Cup crowd abuse controversy.",
+      "url": "https://www.theguardian.com/p/x55qxj",
+      "thumbnail": "https://media.guim.co.uk/2d936218aebf0c555419ba816dc83a8c42c02bd8/431_0_4311_3449/500.jpg",
+      "published": "2026-05-26T15:38:30Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "world/2026/may/26/italy-court-tourist-tap-water-dolomites-hotel",
+      "headline": " Italy’s top court rules against tourist refused tap water in Dolomites hotel ",
+      "summary": "Italian top court rules tap water service not a legal consumer right at hotels.",
+      "url": "https://www.theguardian.com/p/x55phb",
+      "thumbnail": "https://media.guim.co.uk/c0afec3aaed87124b4e69580a5c5fac00a64b58e/127_0_3716_2973/500.jpg",
+      "published": "2026-05-26T15:36:25Z",
+      "location": {
+        "name": "Italy",
+        "lat": 41.8719,
+        "lng": 12.5674
+      },
+      "category": "other",
+      "significance": 1,
+      "section": "world"
+    },
+    {
+      "id": "us-news/2026/may/26/alabama-new-congressional-map-struck-down",
+      "headline": "Federal court blocks new Republican-friendly voting map in Alabama",
+      "summary": "Federal court blocks Alabama's Republican congressional map for intentional racial discrimination.",
+      "url": "https://www.theguardian.com/p/x55py7",
+      "thumbnail": "https://media.guim.co.uk/fa6ddff8de2b994b1437f9aece4796e9564fd7c6/955_915_5683_4547/500.jpg",
+      "published": "2026-05-26T15:30:28Z",
+      "location": {
+        "name": "Alabama",
+        "lat": 32.8067,
+        "lng": -86.7113
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "film/2026/may/26/ask-e-jean-carroll-documentary-ivy-meeropol",
+      "headline": "‘The avalanche of slime has been unbelievable’: E Jean Carroll shares life post-Trump in new film",
+      "summary": "E Jean Carroll documentary details Trump defamation case victories and post-trial life.",
+      "url": "https://www.theguardian.com/p/x5572h",
+      "thumbnail": "https://media.guim.co.uk/3bc9ac33681fa2a6967014d6f2209db7ba0532be/0_0_2697_2160/500.jpg",
+      "published": "2026-05-26T15:27:15Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "film"
     }
   ]
 }
