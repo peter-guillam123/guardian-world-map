@@ -1,60 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-27T19:38:44.046Z",
-    "story_count": 81,
-    "oldest_story": "2026-05-26T20:14:29Z",
-    "newest_story": "2026-05-27T19:24:08Z",
+    "generated_at": "2026-05-27T21:27:51.048Z",
+    "story_count": 85,
+    "oldest_story": "2026-05-26T22:11:54Z",
+    "newest_story": "2026-05-27T21:23:13Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "australia-news/live/2026/may/27/australia-politics-live-quad-wong-jobseeker-capital-gains-tax-budget-anthony-albanese-angus-taylor-labor-coalition-one-nation-question-time-senate-estimates-ntwnfb",
-      "headline": "Australia politics live: Quad countries ink deal to build surveillance network and Fiji port to counter China",
-      "summary": "Quad countries announce surveillance network and Fiji port deal to counter China expansion.",
-      "url": "https://www.theguardian.com/p/x55pvk",
-      "thumbnail": "https://media.guim.co.uk/da68b3859bae938f55eb5107555a91377ffd14bb/138_0_3385_2708/500.jpg",
-      "published": "2026-05-26T20:51:55Z",
-      "location": {
-        "name": "New Delhi",
-        "lat": 28.6139,
-        "lng": 77.209
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "australia-news"
-    },
-    {
-      "id": "world/2026/may/26/iran-peace-deal-talks-us-bombing-ceasefire-strait-hormuz",
-      "headline": "Iran remains in peace talks despite first US strikes since ceasefire",
-      "summary": "US strikes Iranian targets despite ceasefire; peace talks continue despite military escalation.",
-      "url": "https://www.theguardian.com/p/x55q3v",
-      "thumbnail": "https://media.guim.co.uk/525934d3ab0de73d88f466280b26fe7a06a749f6/191_0_4583_3667/500.jpg",
-      "published": "2026-05-26T20:18:31Z",
-      "location": {
-        "name": "Iran",
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "science/2026/may/26/nasa-jeff-bezos-blue-origin",
-      "headline": "Nasa selects Jeff Bezos’s Blue Origin for first of three uncrewed lunar missions",
-      "summary": "NASA selects Blue Origin for first uncrewed lunar mission; three landings planned for moon base.",
-      "url": "https://www.theguardian.com/p/x56vx6",
-      "thumbnail": "https://media.guim.co.uk/800db8dfad60d3f3942f6b3f1aad972df5173d56/560_0_5578_4465/500.jpg",
-      "published": "2026-05-26T20:14:29Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "tech",
-      "significance": 3,
-      "section": "science"
-    },
     {
       "id": "us-news/2026/may/26/texas-priest-anthony-odiong-abuse-trial",
       "headline": "Jury seated as US trial of Catholic priest accused of sexual assault begins",
@@ -1302,6 +1254,118 @@
       "category": "sport",
       "significance": 1,
       "section": "football"
+    },
+    {
+      "id": "australia-news/live/2026/may/28/australia-politics-live-rishworth-jobseeker-capital-gains-tax-jim-chalmers-anthony-albanese-angus-taylor-question-time-senate-estimates-ntwnfb",
+      "headline": "Australia politics live: Rishworth says jobseeker changes to address ‘varying quality’ of for-profit job providers",
+      "summary": "Australian social services minister addresses concerns over jobseeker program quality and provider performance.",
+      "url": "https://www.theguardian.com/p/x5639a",
+      "thumbnail": "https://media.guim.co.uk/24de7a3a96c068df2ee3f7fe17ebcfecefe36c23/841_0_4820_3856/500.jpg",
+      "published": "2026-05-27T21:23:13Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "football/2026/may/27/crystal-palace-rayo-vallecano-conference-league-final-match-report",
+      "headline": "Crystal Palace win Conference League after Mateta pounces against Rayo Vallecano",
+      "summary": "Crystal Palace wins Europa Conference League final 1-0 against Rayo Vallecano with Mateta's goal.",
+      "url": "https://www.theguardian.com/p/x5649m",
+      "thumbnail": "https://media.guim.co.uk/f84e3bad2ff2415f4bffa98f0fd0a91225e6580b/667_0_6543_5235/500.jpg",
+      "published": "2026-05-27T21:05:07Z",
+      "location": {
+        "name": "Budapest",
+        "lat": 47.4979,
+        "lng": 19.0402
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "politics/2026/may/27/nigel-farage-phone-hacking-claims",
+      "headline": "Report ‘phone hack’ to police or I will do it for you, Labour chair tells Farage",
+      "summary": "Labour chair demands Nigel Farage report alleged Russian phone hack to UK security services within 24 hours.",
+      "url": "https://www.theguardian.com/p/x564a2",
+      "thumbnail": "https://media.guim.co.uk/c6f8c8e585a596d553384034935b700b976ea605/629_0_5000_4000/500.jpg",
+      "published": "2026-05-27T21:00:45Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "australia-news/2026/may/28/morning-mail-thursday-ntwnfb",
+      "headline": "Morning Mail: NDIS cuts to remove 241,000 participants, Trump accuses Iran of stalling, Blues win Origin classic",
+      "summary": "NDIS cuts modelling shows 241,000 participants will be removed from disability insurance scheme over four years.",
+      "url": "https://www.theguardian.com/p/x5634e",
+      "thumbnail": "https://media.guim.co.uk/9d04dadefb99b37549a95f32a090280c96a2ab5f/708_0_6343_5077/500.jpg",
+      "published": "2026-05-27T20:49:02Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "health",
+      "significance": 3,
+      "section": "australia-news"
+    },
+    {
+      "id": "us-news/2026/may/27/donald-trump-oman-threat-strait-hormuz",
+      "headline": "Trump threatens to ‘blow up’ Oman amid talks over strait of Hormuz",
+      "summary": "Trump threatens to 'blow up' Oman during cabinet meeting over strait of Hormuz toll negotiations with Iran.",
+      "url": "https://www.theguardian.com/p/x565ht",
+      "thumbnail": "https://media.guim.co.uk/d5e8630d7caa4774d706df1016cb69b1258c1dee/300_0_3000_2401/500.jpg",
+      "published": "2026-05-27T20:42:30Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "sport/2026/may/27/jakub-mensik-labels-french-open-heat-insane-after-collapsing-at-end-of-five-set-win",
+      "headline": "Jakub Mensik labels French Open heat ‘insane’ after collapsing at end of five-set win",
+      "summary": "French Open player Jakub Mensik collapses from heat exhaustion, calls conditions 'insane' after five-set win.",
+      "url": "https://www.theguardian.com/p/x565h2",
+      "thumbnail": "https://media.guim.co.uk/bfc34041260d4c31e57c5506997c16014d0ad78a/187_0_1800_1440/500.jpg",
+      "published": "2026-05-27T20:40:24Z",
+      "location": {
+        "name": "Paris",
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "us-news/2026/may/27/santa-rosa-island-california-wildfire-damage",
+      "headline": "Nasa images show wildfire damage to island dubbed ‘Galapagos of California’ ",
+      "summary": "NASA satellite images reveal devastating wildfire damage covering one-third of California's Santa Rosa Island.",
+      "url": "https://www.theguardian.com/p/x5645q",
+      "thumbnail": "https://media.guim.co.uk/1674c0c2367d1cea17a31341c67b87a5d1e7cf03/0_3_1496_1197/500.jpg",
+      "published": "2026-05-27T20:28:18Z",
+      "location": {
+        "name": "Santa Rosa Island",
+        "lat": 34.0195,
+        "lng": -120.1625
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "us-news"
     }
   ]
 }
