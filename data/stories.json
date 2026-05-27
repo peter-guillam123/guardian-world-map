@@ -1,124 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-27T17:32:32.374Z",
+    "generated_at": "2026-05-27T19:38:44.046Z",
     "story_count": 81,
-    "oldest_story": "2026-05-26T17:55:36Z",
-    "newest_story": "2026-05-27T17:30:40Z",
+    "oldest_story": "2026-05-26T20:14:29Z",
+    "newest_story": "2026-05-27T19:24:08Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "uk-news/2026/may/26/post-office-horizon-scandal-inquiry-five-year-delay-funding",
-      "headline": "Inquiry into Post Office Horizon scandal faces five-year delay without extra funding",
-      "summary": "Post Office Horizon IT scandal inquiry faces five-year delay without £19.3m extra funding and nearly 100 more staff.",
-      "url": "https://www.theguardian.com/p/x55p8j",
-      "thumbnail": "https://media.guim.co.uk/392df3fb7c2f3092939176f1aaa5f75f3ac84966/721_0_5600_4480/500.jpg",
-      "published": "2026-05-26T19:01:06Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "sport/2026/may/26/the-enhanced-games-will-fail-by-2031-this-is-why",
-      "headline": "After attending the Enhanced Games, I told its founder it will fail by 2031. This is why",
-      "summary": "Enhanced Games event unlikely to succeed by 2031 due to lack of genuine sports commitment from organizers.",
-      "url": "https://www.theguardian.com/p/x55py5",
-      "thumbnail": "https://media.guim.co.uk/2addb5f28b0f196c7f13b1291af5fad02678eda5/1000_0_4358_3488/500.jpg",
-      "published": "2026-05-26T19:00:06Z",
-      "location": {
-        "name": "Las Vegas",
-        "lat": 36.1699,
-        "lng": -115.1398
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "uk-news/2026/may/26/woman-shot-dead-outside-sheffield-bar-was-innocent-bystander-police-say",
-      "headline": "Woman shot dead outside Sheffield bar was innocent bystander, police say",
-      "summary": "Woman killed in shooting outside Sheffield bar identified as innocent bystander; three arrested for murder.",
-      "url": "https://www.theguardian.com/p/x55qgy",
-      "thumbnail": "https://media.guim.co.uk/200b0dce76945f4dee8bc39a360d2bdd7c3f9d99/29_353_3319_2656/500.jpg",
-      "published": "2026-05-26T18:57:56Z",
-      "location": {
-        "name": "Sheffield",
-        "lat": 53.3811,
-        "lng": -1.4668
-      },
-      "category": "conflict",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "us-news/2026/may/26/rfk-jr-snake-wrestle-viral-video-social-media",
-      "headline": "Another day in Florida: RFK Jr posts video of him wrestling two snakes",
-      "summary": "US Health Secretary RFK Jr posts video of himself wrestling two snakes at fellow Trump official's Florida home.",
-      "url": "https://www.theguardian.com/p/x55qbd",
-      "thumbnail": "https://media.guim.co.uk/7861cfd7f1a44a1dbd74d842f138be1fae40a2ec/18_63_690_552/500.jpg",
-      "published": "2026-05-26T18:38:59Z",
-      "location": {
-        "name": "Florida",
-        "lat": 27.9947,
-        "lng": -81.7603
-      },
-      "category": "other",
-      "significance": 1,
-      "section": "us-news"
-    },
-    {
-      "id": "uk-news/2026/may/26/ministers-urged-ban-zero-hours-contracts",
-      "headline": "Ministers urged to press ahead with ban on zero-hours contracts",
-      "summary": "Campaigners urge UK ministers to ban zero-hours contracts despite business concerns about job market impact.",
-      "url": "https://www.theguardian.com/p/x55pfe",
-      "thumbnail": "https://media.guim.co.uk/329df07a7551cdb9ee4c792e338979a51f7af08c/0_0_3071_2457/500.jpg",
-      "published": "2026-05-26T18:13:42Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "politics/2026/may/26/reform-makerfield-byelection-candidate-covid-x",
-      "headline": "Reform UK’s Makerfield candidate appeared to doubt seriousness of Covid on X",
-      "summary": "Reform UK's Makerfield byelection candidate previously expressed vaccine scepticism on social media.",
-      "url": "https://www.theguardian.com/p/x55q68",
-      "thumbnail": "https://media.guim.co.uk/97766590dabd806c079c4547541ac6ba7e623892/0_0_5000_4000/500.jpg",
-      "published": "2026-05-26T18:08:57Z",
-      "location": {
-        "name": "Makerfield",
-        "lat": 53.45,
-        "lng": -2.65
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "us-news/2026/may/26/washington-state-packaging-plant-implosion",
-      "headline": "‘Implosion’ at Washington state packaging plant kills unknown number of people",
-      "summary": "Chemical tank implosion at Washington packaging plant kills unknown number; multiple injuries from chemical burns.",
-      "url": "https://www.theguardian.com/p/x55qdg",
-      "thumbnail": "https://media.guim.co.uk/77fa5fcfaf2968294931783a2ed51f741cb88da0/500_0_5000_4000/500.jpg",
-      "published": "2026-05-26T17:55:36Z",
-      "location": {
-        "name": "Longview",
-        "lat": 46.14,
-        "lng": -122.9375
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "us-news"
-    },
     {
       "id": "australia-news/live/2026/may/27/australia-politics-live-quad-wong-jobseeker-capital-gains-tax-budget-anthony-albanese-angus-taylor-labor-coalition-one-nation-question-time-senate-estimates-ntwnfb",
       "headline": "Australia politics live: Quad countries ink deal to build surveillance network and Fiji port to counter China",
@@ -1302,6 +1190,118 @@
       "category": "sport",
       "significance": 2,
       "section": "sport"
+    },
+    {
+      "id": "us-news/2026/may/27/washington-paper-mill-implosion",
+      "headline": "Hope fades for nine missing after fatal paper mill tank implosion in Washington state",
+      "summary": "Two dead, nine missing after chemical tank rupture at Washington paper mill.",
+      "url": "https://www.theguardian.com/p/x564g6",
+      "thumbnail": "https://media.guim.co.uk/cabf24f93a48106533cf3f1eaca030f7589e0dff/723_0_4585_3667/500.jpg",
+      "published": "2026-05-27T19:24:08Z",
+      "location": {
+        "name": "Longview",
+        "lat": 46.1405,
+        "lng": -122.9747
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "law/2026/may/27/pip-salvador-jones-obituary",
+      "headline": "Pip Salvador-Jones obituary",
+      "summary": "Pip Salvador-Jones, legal expert and Citizens Advice director, dies aged 61.",
+      "url": "https://www.theguardian.com/p/x52zm7",
+      "thumbnail": "https://media.guim.co.uk/e9c354733824b13f0289bc3471deb581af883b9d/0_415_1158_926/500.jpg",
+      "published": "2026-05-27T19:23:31Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "law"
+    },
+    {
+      "id": "us-news/2026/may/27/anthony-odiong-priest-texas",
+      "headline": "Catholic priest said ‘we are but men’ when challenged over sex with spiritual directee, court hears",
+      "summary": "Catholic priest accused of exploiting spiritual directee for sex in Texas trial.",
+      "url": "https://www.theguardian.com/p/x565vq",
+      "thumbnail": "https://media.guim.co.uk/1bdea9f752f7cf4c449f60f39075d2b0956a9b8b/354_0_1187_950/500.jpg",
+      "published": "2026-05-27T19:12:09Z",
+      "location": {
+        "name": "Texas",
+        "lat": 31.9686,
+        "lng": -99.9018
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/may/27/uefa-action-russia-fake-ukrainian-clubs-shakhtar-donetsk",
+      "headline": "Uefa drags its heels over action against Russia’s fake Ukrainian clubs",
+      "summary": "UEFA delays action against Russia's fake Ukrainian football clubs in league.",
+      "url": "https://www.theguardian.com/p/x564xa",
+      "thumbnail": "https://media.guim.co.uk/d480d750d1b2206b1a94831d9c12859ba6ab9a7d/718_0_5200_4160/500.jpg",
+      "published": "2026-05-27T19:00:43Z",
+      "location": {
+        "name": "Russia",
+        "lat": 61.524,
+        "lng": 105.3188
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/may/27/new-jersey-ice-immigration",
+      "headline": "‘We are not criminals’: protests erupt as hunger strike rocks New Jersey ICE jail",
+      "summary": "Violence erupts at New Jersey ICE detention center during hunger strike protest.",
+      "url": "https://www.theguardian.com/p/x563qx",
+      "thumbnail": "https://media.guim.co.uk/c131f8e88ab207d5142078d5db2b5f01eb5facab/246_0_2501_2000/500.jpg",
+      "published": "2026-05-27T18:48:39Z",
+      "location": {
+        "name": "New Jersey",
+        "lat": 40.2206,
+        "lng": -74.7597
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/may/27/trump-administration-tariff-refunds",
+      "headline": "Trump administration has paid $20bn in tariff refunds, with at least $65bn more to come",
+      "summary": "Trump administration pays $20bn in tariff refunds after Supreme Court ruling.",
+      "url": "https://www.theguardian.com/p/x5654t",
+      "thumbnail": "https://media.guim.co.uk/9f090fec127ec41eed9e65982abe3dbd72952047/513_0_4402_3522/500.jpg",
+      "published": "2026-05-27T18:46:19Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/may/27/barcelona-advanced-talks-signing-anthony-gordon-newcastle",
+      "headline": "Barcelona in advanced talks over signing Anthony Gordon from Newcastle ",
+      "summary": "Barcelona in advanced talks to sign Newcastle winger Anthony Gordon for £70m.",
+      "url": "https://www.theguardian.com/p/x5658f",
+      "thumbnail": "https://media.guim.co.uk/c34f525dc50b7306d0abb3dc385b4fa90416daad/518_471_2538_2030/500.jpg",
+      "published": "2026-05-27T18:35:19Z",
+      "location": {
+        "name": "Barcelona",
+        "lat": 41.3851,
+        "lng": 2.1734
+      },
+      "category": "sport",
+      "significance": 1,
+      "section": "football"
     }
   ]
 }
