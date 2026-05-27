@@ -1,60 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-27T21:27:51.048Z",
-    "story_count": 85,
-    "oldest_story": "2026-05-26T22:11:54Z",
+    "generated_at": "2026-05-27T23:00:46.592Z",
+    "story_count": 81,
+    "oldest_story": "2026-05-26T23:02:11Z",
     "newest_story": "2026-05-27T21:23:13Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "us-news/2026/may/26/texas-priest-anthony-odiong-abuse-trial",
-      "headline": "Jury seated as US trial of Catholic priest accused of sexual assault begins",
-      "summary": "Catholic priest Anthony Odiong faces trial for sexual assault of three female congregants.",
-      "url": "https://www.theguardian.com/p/x55vqn",
-      "thumbnail": "https://media.guim.co.uk/fe7926fb13982cb9376d9655f62d58c75cc34496/247_404_2777_2220/500.jpg",
-      "published": "2026-05-26T22:28:38Z",
-      "location": {
-        "name": "Texas",
-        "lat": 31.9686,
-        "lng": -99.9018
-      },
-      "category": "conflict",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "football/2026/may/26/usmnt-world-cup-squad-mauricio-pochettino-email-players",
-      "headline": "Missing a World Cup, over email? Pochettino defends communication style with tough decisions behind him",
-      "summary": "USMNT announces 2026 World Cup squad; Pochettino defends email communication to cut players.",
-      "url": "https://www.theguardian.com/p/x56vgh",
-      "thumbnail": "https://media.guim.co.uk/c55217e3a99f3e449784fa2a40d2f60581c8fc73/0_0_2926_2342/500.jpg",
-      "published": "2026-05-26T22:25:05Z",
-      "location": {
-        "name": "New York City",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "us-news/2026/may/26/senator-pepper-sprayed-ice-facility-protest-new-jersey",
-      "headline": "US senator says he was pepper-sprayed by federal agents during protest at ICE facility",
-      "summary": "Senator Andy Kim reports being pepper-sprayed by federal agents at ICE detention facility protest.",
-      "url": "https://www.theguardian.com/p/x55p95",
-      "thumbnail": "https://media.guim.co.uk/2dff5aca4ea8b632041a0f9c845d66d9e932a740/932_0_6829_5464/500.jpg",
-      "published": "2026-05-26T22:11:54Z",
-      "location": {
-        "name": "New Jersey",
-        "lat": 40.2206,
-        "lng": -74.7597
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
     {
       "id": "us-news/2026/may/26/ufc-arena-white-house-trump-birthday",
       "headline": "UFC arena under construction on White House lawn to mark Trump’s 80th birthday",
@@ -102,22 +54,6 @@
       "category": "politics",
       "significance": 3,
       "section": "uk-news"
-    },
-    {
-      "id": "us-news/2026/may/26/court-blocks-mahmoud-khalil-re-detention",
-      "headline": "Appeals court temporarily blocks re-detention of Mahmoud Khalil ",
-      "summary": "Appeals court temporarily blocks re-detention of activist Mahmoud Khalil pending supreme court petition.",
-      "url": "https://www.theguardian.com/p/x56vfv",
-      "thumbnail": "https://media.guim.co.uk/fa63e5eddc4288e704e5a097750498b8fc8ecc83/0_918_5216_4173/500.jpg",
-      "published": "2026-05-26T22:50:50Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
     },
     {
       "id": "us-news/2026/may/26/texas-al-green-democratic-primary-runoff",
