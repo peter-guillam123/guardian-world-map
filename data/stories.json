@@ -1,220 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-27T06:35:28.300Z",
-    "story_count": 58,
-    "oldest_story": "2026-05-26T08:23:36Z",
-    "newest_story": "2026-05-27T06:33:29Z",
+    "generated_at": "2026-05-27T10:41:31.764Z",
+    "story_count": 63,
+    "oldest_story": "2026-05-26T15:27:15Z",
+    "newest_story": "2026-05-27T10:40:40Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "world/live/2026/may/26/europe-ukraine-russia-lithuania-eu-heatwave-hungary-magyar-france-latest-news-updates",
-      "headline": "Seven die in heatwave-related incidents in France – Europe live",
-      "summary": "Seven deaths reported in France during extreme early-summer heatwave affecting western Europe.",
-      "url": "https://www.theguardian.com/p/x55z2m",
-      "thumbnail": "https://media.guim.co.uk/9deb2e48ee5b887eb71d107bdc3d7e078947cc15/413_0_4560_3648/500.jpg",
-      "published": "2026-05-26T09:30:43Z",
-      "location": {
-        "name": "France",
-        "lat": 46.2276,
-        "lng": 2.2137
-      },
-      "category": "climate",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "politics/live/2026/may/26/wes-streeting-keir-starmer-social-media-ban-labour-uk-politics-live",
-      "headline": "Wes Streeting says Starmer ‘behind the curve’ on under-16s social media ban – UK politics live",
-      "summary": "Wes Streeting says Keir Starmer 'behind the curve' on under-16s social media ban.",
-      "url": "https://www.theguardian.com/p/x55nq7",
-      "thumbnail": "https://media.guim.co.uk/b30404df0964542bd6118dba044ad56b85fc2da4/173_0_3342_2673/500.jpg",
-      "published": "2026-05-26T09:28:26Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "world/2026/may/26/deaths-france-linked-record-high-temperatures",
-      "headline": "Seven deaths in France linked to record-high temperatures",
-      "summary": "Seven deaths linked to record-high May temperatures in France as heatwave grips western Europe.",
-      "url": "https://www.theguardian.com/p/x55zx6",
-      "thumbnail": "https://media.guim.co.uk/bb99d451ce2af301997398e89d717ab2b28e8ac7/548_0_5482_4388/500.jpg",
-      "published": "2026-05-26T09:19:33Z",
-      "location": {
-        "name": "France",
-        "lat": 46.2276,
-        "lng": 2.2137
-      },
-      "category": "climate",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "business/live/2026/may/26/oil-price-bonds-rally-markets-us-iran-peace-deal-hopes-retail-inflation-growth-live-updates",
-      "headline": "Oil price back over $100 as markets weigh up hopes of US-Iran peace deal – business live",
-      "summary": "Oil price rallies above $100 barrel amid US-Iran peace deal negotiations and geopolitical tensions.",
-      "url": "https://www.theguardian.com/p/x55ny3",
-      "thumbnail": "https://media.guim.co.uk/8f6482b2e98c5a232833cfe92228e0c1bf316462/141_0_2503_2003/500.jpg",
-      "published": "2026-05-26T09:14:57Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "business"
-    },
-    {
-      "id": "us-news/2026/may/26/us-immigration-flights-emissions",
-      "headline": "Revealed: huge climate cost of harmful emissions from US immigration flights",
-      "summary": "US immigration enforcement flights produce massive carbon emissions from Trump mass deportation campaign.",
-      "url": "https://www.theguardian.com/p/x534jk",
-      "thumbnail": "https://media.guim.co.uk/29ce961666a55ceb499630944678cd10900618c8/156_0_2072_1657/500.jpg",
-      "published": "2026-05-26T09:00:51Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "climate",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "football/2026/may/26/pep-guardiola-lionel-messi-mls",
-      "headline": "Is Pep Guardiola the man to replace Lionel Messi as MLS’s crown jewel?",
-      "summary": "Speculation on whether Pep Guardiola could become MLS's next marquee signing after Lionel Messi.",
-      "url": "https://www.theguardian.com/p/x55ybz",
-      "thumbnail": "https://media.guim.co.uk/87c90aedbb3b62608492c9d42e795f7b49bb5d65/0_40_3405_2723/500.jpg",
-      "published": "2026-05-26T09:00:50Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "sport/live/2026/may/26/french-open-2026-sabalenka-gauff-and-medvedev-in-action-on-sweltering-day-three-live",
-      "headline": "French Open 2026: Sabalenka, Gauff and Medvedev in action on sweltering day three – live",
-      "summary": "French Open 2026 continues on sweltering day three with Sabalenka, Gauff, and Medvedev in action.",
-      "url": "https://www.theguardian.com/p/x55jvd",
-      "thumbnail": "https://media.guim.co.uk/0c90f5819097266d21779d507b821fcfee8ba8a1/1213_321_3472_2778/500.jpg",
-      "published": "2026-05-26T09:00:50Z",
-      "location": {
-        "name": "Paris",
-        "lat": 48.8566,
-        "lng": 2.3522
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "sport"
-    },
-    {
-      "id": "australia-news/2026/may/26/group-women-children-linked-to-islamic-state-arriving-australia-ntwnfb",
-      "headline": "Group of 19 women and children linked to Islamic State land in Melbourne and Sydney with no arrests expected",
-      "summary": "Group of 19 Australian women and children linked to Islamic State arrive from Syria without arrests expected.",
-      "url": "https://www.theguardian.com/p/x55ng6",
-      "thumbnail": "https://media.guim.co.uk/f912e7339b4db59cb80a17cd2bca2d48202bf664/246_0_2461_1969/500.jpg",
-      "published": "2026-05-26T08:56:04Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "australia-news"
-    },
-    {
-      "id": "australia-news/2026/may/26/kumanjayi-white-death-indigenous-man-nt-police-will-not-lay-charges-against-officers-ntwnfb",
-      "headline": "NT police won’t be charged over Kumanjayi White’s death as Lidia Thorpe criticises lack of justice",
-      "summary": "NT police won't face charges over Indigenous man Kumanjayi White's death during supermarket restraint.",
-      "url": "https://www.theguardian.com/p/x55ne8",
-      "thumbnail": "https://media.guim.co.uk/ab11bde64d9a56ec262b480f5d17f44d83ea2fbf/490_0_4895_3916/500.jpg",
-      "published": "2026-05-26T08:45:27Z",
-      "location": {
-        "name": "Alice Springs",
-        "lat": -23.7001,
-        "lng": 133.8807
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "environment/2026/may/26/tell-us-how-are-you-coping-during-the-uk-heatwave",
-      "headline": "Tell us: how are you coping during the UK heatwave?",
-      "summary": "UK records hottest May day ever at 34.8C as heatwave persists across south-east England.",
-      "url": "https://www.theguardian.com/p/x55z8y",
-      "thumbnail": "https://media.guim.co.uk/91407596907ae34b008693b4d2404ce71380eda7/453_0_4526_3621/500.jpg",
-      "published": "2026-05-26T08:34:23Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "environment"
-    },
-    {
-      "id": "media/2026/may/26/mother-of-boy-who-died-urges-no-10-social-media-ban",
-      "headline": "Mother of boy who may have died in TikTok challenge urges No 10 to ban social media",
-      "summary": "Mother urges government to ban social media for under-16s following teenager's death in TikTok challenge.",
-      "url": "https://www.theguardian.com/p/x55z4m",
-      "thumbnail": "https://media.guim.co.uk/fd3bb0055f77d54f8efc5da821a72740a665e833/67_0_1012_810/500.jpg",
-      "published": "2026-05-26T08:34:17Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "media"
-    },
-    {
-      "id": "music/2026/may/26/robyn-steward-robyn-rocket-nightclubs-music-neurodivergence-autism",
-      "headline": "‘Everyone is equal in this space’: the cosmic world of neurodivergent-friendly club night Robyn’s Rocket",
-      "summary": "Robyn's Rocket neurodivergent-friendly club night opens at Fabric with radically inclusive space-themed music.",
-      "url": "https://www.theguardian.com/p/x547pt",
-      "thumbnail": "https://media.guim.co.uk/8ea66b44b67c50b1728ec3f359d0d914a7f145ae/436_0_5200_4160/500.jpg",
-      "published": "2026-05-26T08:33:14Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "music"
-    },
-    {
-      "id": "business/2026/may/26/next-boss-entry-level-jobs-lord-wolfson-youth-unemployment",
-      "headline": "Next boss warns over ‘dramatic fall’ in UK entry-level jobs",
-      "summary": "Next boss warns of 'dramatic fall' in UK entry-level jobs as applicants double in two years.",
-      "url": "https://www.theguardian.com/p/x55npj",
-      "thumbnail": "https://media.guim.co.uk/8f626b6ee8df2e05370d2d2d5098f037abdd76c8/907_0_6827_5464/500.jpg",
-      "published": "2026-05-26T08:23:36Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
     {
       "id": "environment/2026/may/26/sales-of-fans-ice-cubes-and-ice-baths-surge-during-may-uk-heatwave",
       "headline": "Sales of fans, ice cubes and sunscreen surge during May UK heatwave",
@@ -934,6 +726,294 @@
       "category": "conflict",
       "significance": 3,
       "section": "australia-news"
+    },
+    {
+      "id": "sport/live/2026/may/27/state-of-origin-2026-game-1-live-score-updates-nsw-blues-vs-queensland-qld-maroons-sydney",
+      "headline": "State of Origin 2026 men’s Game 1 live: NSW Blues v Qld Maroons – latest updates",
+      "summary": "NSW Blues face Queensland Maroons in State of Origin 2026 Game 1 at Sydney's Accor Stadium.",
+      "url": "https://www.theguardian.com/p/x56x34",
+      "thumbnail": "https://media.guim.co.uk/f2a6bb9a5e15fe6695a459e3f9851865a4b4bc61/483_0_5000_4000/500.jpg",
+      "published": "2026-05-27T10:40:40Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "sport/live/2026/may/27/french-open-2026-xxx-on-day-four-live",
+      "headline": "French Open 2026: Swiatek, Djokovic and Rybakina in action on day four – live",
+      "summary": "French Open 2026 day four: Swiatek, Djokovic and Rybakina compete at Roland Garros.",
+      "url": "https://www.theguardian.com/p/x55j58",
+      "thumbnail": "https://media.guim.co.uk/a55884c4ff25d13b82989e4b08a50d7b7268289b/269_230_4395_3517/500.jpg",
+      "published": "2026-05-27T10:38:49Z",
+      "location": {
+        "name": "Paris",
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "sport"
+    },
+    {
+      "id": "politics/live/2026/may/27/tony-blair-keir-starmer-wes-streeting-andy-burnham-mahmood-labour-leadership-latest-news-updates",
+      "headline": "Blair says Labour needs debate before selecting new leader as he criticises Burnham speech – UK politics live",
+      "summary": "Tony Blair criticises Starmer, Burnham and Streeting in essay on Labour's future direction.",
+      "url": "https://www.theguardian.com/p/x562ec",
+      "thumbnail": "https://media.guim.co.uk/a0b236e0b43ba24f9dd7a656b4f156c0a5791cc3/417_0_4167_3333/500.jpg",
+      "published": "2026-05-27T10:37:48Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "politics"
+    },
+    {
+      "id": "world/live/2026/may/27/iran-war-us-update-live-israel-lebanon-strikes-latest-news-ceasefire-peace-talks-middle-east-live-updates",
+      "headline": "Middle East crisis live: Tehran says no agreement reached on strait of Hormuz as Israel strikes Lebanon",
+      "summary": "Iran says no agreement on Hormuz strait as Israel strikes Lebanon amid ceasefire tensions.",
+      "url": "https://www.theguardian.com/p/x56vge",
+      "thumbnail": "https://media.guim.co.uk/9f0c2c178aec93f99d1633141f7cbe4eb540e3f8/766_0_5000_4000/500.jpg",
+      "published": "2026-05-27T10:37:32Z",
+      "location": {
+        "name": "Tehran",
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "us-news/live/2026/may/27/donald-trump-republicans-texas-primary-midterms-iran-redistricting-latest-news-updates",
+      "headline": "Paxton hails Trump’s endorsement as ‘most powerful force in politics’ after Texas runoff win – US politics live",
+      "summary": "Paxton hails Trump endorsement as most powerful political force after Texas runoff victory.",
+      "url": "https://www.theguardian.com/p/x56325",
+      "thumbnail": "https://media.guim.co.uk/c5297d7d995c2145a1bfc65d750924e2f4579094/261_0_3917_3135/500.jpg",
+      "published": "2026-05-27T10:28:36Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "world/live/2026/may/27/spain-pedro-sanchez-pope-leo-heatwave-ukraine-latest-updates-europe-live-news",
+      "headline": "Spanish police search ruling Socialist party headquarters – Europe live",
+      "summary": "Spanish police search Socialist party headquarters amid influence-peddling allegations against PM Sanchez.",
+      "url": "https://www.theguardian.com/p/x562ha",
+      "thumbnail": "https://media.guim.co.uk/9ca3e9c59cb0ccf71abc70b32e1ff4b264bea89a/390_422_2480_1984/500.jpg",
+      "published": "2026-05-27T10:28:09Z",
+      "location": {
+        "name": "Madrid",
+        "lat": 40.4168,
+        "lng": -3.7038
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "environment/2026/may/27/aboriginal-rock-shelter-destroyed-power-line-contractors-nsw-renewable-energy-zone-ntwnfb",
+      "headline": "Community shocked after Aboriginal rock shelter bulldozed for NSW power lines",
+      "summary": "Aboriginal rock shelter destroyed by contractors building NSW renewable energy zone power lines.",
+      "url": "https://www.theguardian.com/p/x563xx",
+      "thumbnail": "https://media.guim.co.uk/e88ee4c6380a3e76e221905029fdf0d38ffabd89/227_0_5120_4096/500.jpg",
+      "published": "2026-05-27T10:17:29Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "environment"
+    },
+    {
+      "id": "politics/2026/may/27/humza-yousaf-hopes-peter-murrell-gets-hefty-sentence-embezzlement-charges-snp",
+      "headline": "Humza Yousaf says he hopes Peter Murrell gets ‘hefty’ sentence over embezzlement charges",
+      "summary": "Humza Yousaf calls for hefty sentence for Peter Murrell after £400,000 SNP embezzlement plea.",
+      "url": "https://www.theguardian.com/p/x56354",
+      "thumbnail": "https://media.guim.co.uk/62eb2ec037058294953bf217e59a01992d850d21/293_0_2915_2333/500.jpg",
+      "published": "2026-05-27T10:09:52Z",
+      "location": {
+        "name": "Edinburgh",
+        "lat": 55.9533,
+        "lng": -3.1883
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "australia-news/2026/may/27/ed-husic-calls-on-labor-to-establish-red-line-on-israels-actions-including-treatment-of-flotilla-activists",
+      "headline": "Ed Husic calls on Labor to establish ‘red line’ on Israel’s actions, including treatment of flotilla activists",
+      "summary": "Labor MP Ed Husic demands Australia establish 'red line' on Israeli government actions.",
+      "url": "https://www.theguardian.com/p/x562th",
+      "thumbnail": "https://media.guim.co.uk/d1c56a4d32c039b68716bd61896ce973dff407ba/825_0_5628_4502/500.jpg",
+      "published": "2026-05-27T10:02:55Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "sport/2026/may/27/jo-yapp-head-coach-first-womens-british-irish-lions-tour-new-zealand-rugby",
+      "headline": "Jo Yapp named head coach for historic first women’s British & Irish Lions tour",
+      "summary": "Jo Yapp named head coach for first women's British & Irish Lions tour of New Zealand.",
+      "url": "https://www.theguardian.com/p/x562zg",
+      "thumbnail": "https://media.guim.co.uk/2c87d42042974f737a59bcda65245287d22ca8d8/33_0_3056_2445/500.jpg",
+      "published": "2026-05-27T10:00:54Z",
+      "location": {
+        "name": "Auckland",
+        "lat": -37.0082,
+        "lng": 174.785
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "us-news/2026/may/27/trump-cabinet-camp-david-washington-iran",
+      "headline": "Trump moves Camp David cabinet meeting to White House as Iran talks continue",
+      "summary": "Trump moves cabinet meeting to White House as Iran war ceasefire negotiations reach critical stage.",
+      "url": "https://www.theguardian.com/p/x56v9k",
+      "thumbnail": "https://media.guim.co.uk/2fc58571229cca769d7586017c4534a2dde65e02/1194_0_6827_5464/500.jpg",
+      "published": "2026-05-27T10:00:25Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "world/commentisfree/2026/may/27/chaotic-unique-beautiful-lebanon-reduced-rubble-israel-bombardment",
+      "headline": "The chaotic, unique, beautiful Lebanon I knew has been reduced to rubble. When will it end?",
+      "summary": "Lebanon's unique culture reduced to rubble by Israeli bombardment killing nearly 14 children daily.",
+      "url": "https://www.theguardian.com/p/x55zm6",
+      "thumbnail": "https://media.guim.co.uk/c9d5f1fe45001cd60cadc8648887cba7ace7dd12/295_0_5000_4000/500.jpg",
+      "published": "2026-05-27T10:00:24Z",
+      "location": {
+        "name": "Beirut",
+        "lat": 33.3157,
+        "lng": 35.4955
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "sport/2026/may/27/savannah-bananas-bananaball-expansion-disney-baseball-brand",
+      "headline": "What exactly are the Savannah Bananas becoming?",
+      "summary": "Savannah Bananas evolve from quirky baseball act into sprawling entertainment brand expansion.",
+      "url": "https://www.theguardian.com/p/x55qc3",
+      "thumbnail": "https://media.guim.co.uk/b0f442734f7fd226d22983c6fc0b008ede9b5ca8/619_0_5000_4000/500.jpg",
+      "published": "2026-05-27T10:00:24Z",
+      "location": {
+        "name": "Savannah",
+        "lat": 32.0809,
+        "lng": -81.0912
+      },
+      "category": "sport",
+      "significance": 1,
+      "section": "sport"
+    },
+    {
+      "id": "sport/2026/may/26/rookie-roll-call",
+      "headline": "Rookie roll call: how Olivia Miles, Azzi Fudd and Awa Fam are adapting to the WNBA",
+      "summary": "WNBA rookies Miles, Fudd and Fam excel as Atlanta emerges as early title contender.",
+      "url": "https://www.theguardian.com/p/x55pz9",
+      "thumbnail": "https://media.guim.co.uk/9f146095c452b043c4035f4756ca104ac28d6708/431_0_4308_3446/500.jpg",
+      "published": "2026-05-27T10:00:24Z",
+      "location": {
+        "name": "Atlanta",
+        "lat": 33.749,
+        "lng": -84.388
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "artanddesign/2026/may/27/the-mural-project-honouring-the-black-cultural-heritage-of-rio-de-janeiro-photo-essay",
+      "headline": "The mural project honouring the Black cultural heritage of Rio de Janeiro – photo essay",
+      "summary": "Mural project honors Black cultural heritage in Rio despite Afro-descendant majority lacking monuments.",
+      "url": "https://www.theguardian.com/p/x54qez",
+      "thumbnail": "https://media.guim.co.uk/8449ac0c815ede5ad0f6a83fcb57925a7a5c6bb9/1783_160_5215_4174/500.jpg",
+      "published": "2026-05-27T10:00:23Z",
+      "location": {
+        "name": "Rio de Janeiro",
+        "lat": -22.9068,
+        "lng": -43.1729
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "artanddesign"
+    },
+    {
+      "id": "world/2026/may/27/dissident-dong-guangping-south-korea-flee-china-rubber-boat",
+      "headline": "Dissident detained in South Korea after fleeing China in rubber boat",
+      "summary": "Chinese dissident detained in South Korea after fleeing China by rubber boat following multiple escape attempts.",
+      "url": "https://www.theguardian.com/p/x56xzj",
+      "thumbnail": "https://media.guim.co.uk/2e84543d929ddfd6140b700527c72e0c35c447aa/0_801_914_731/500.jpg",
+      "published": "2026-05-27T09:37:43Z",
+      "location": {
+        "name": "South Korea",
+        "lat": 37.5665,
+        "lng": 126.978
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "australia-news/2026/may/27/lord-howe-island-got-rid-of-its-rats-and-mice-now-cockroaches-and-bugs-are-bouncing-back",
+      "headline": "Lord Howe Island got rid of its rats and mice – now cockroaches and bugs are bouncing back",
+      "summary": "Lord Howe Island's native invertebrates boom after successful rodent eradication restoration efforts.",
+      "url": "https://www.theguardian.com/p/x56xvf",
+      "thumbnail": "https://media.guim.co.uk/f99499e048b4d352e5341ebb98386998f6d7ea21/128_0_1920_1536/500.jpg",
+      "published": "2026-05-27T09:35:17Z",
+      "location": {
+        "name": "Lord Howe Island",
+        "lat": -31.5521,
+        "lng": 159.0729
+      },
+      "category": "climate",
+      "significance": 1,
+      "section": "australia-news"
+    },
+    {
+      "id": "politics/2026/may/27/labour-policy-first-politics-second-tony-blair",
+      "headline": "Labour must put policy first, politics second, Tony Blair says",
+      "summary": "Tony Blair criticizes Labour government, urging policy-first approach amid Keir Starmer leadership speculation.",
+      "url": "https://www.theguardian.com/p/x563v7",
+      "thumbnail": "https://media.guim.co.uk/3787a70b25caee73321b5582653af64b170520f4/292_0_2048_1638/500.jpg",
+      "published": "2026-05-27T09:32:15Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
     }
   ]
 }
