@@ -1,60 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-27T23:00:46.592Z",
-    "story_count": 81,
-    "oldest_story": "2026-05-26T23:02:11Z",
-    "newest_story": "2026-05-27T21:23:13Z",
+    "generated_at": "2026-05-28T00:09:42.262Z",
+    "story_count": 82,
+    "oldest_story": "2026-05-27T01:24:14Z",
+    "newest_story": "2026-05-27T23:57:40Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "us-news/2026/may/26/ufc-arena-white-house-trump-birthday",
-      "headline": "UFC arena under construction on White House lawn to mark Trump’s 80th birthday",
-      "summary": "UFC arena under construction on White House lawn for Trump's 80th birthday and US 250th anniversary.",
-      "url": "https://www.theguardian.com/p/x56vtn",
-      "thumbnail": "https://media.guim.co.uk/6c45d4fb902eab695ebad6cf001767c5d8748470/720_0_7200_5760/500.jpg",
-      "published": "2026-05-26T23:13:20Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "culture/2026/may/27/the-tempest-review-kenneth-branagh-returns-to-the-rsc-in-this-enchanting-production",
-      "headline": "The Tempest review – Kenneth Branagh returns to the RSC in this enchanting production",
-      "summary": "Kenneth Branagh returns to RSC after 30+ years in enchanting production of The Tempest.",
-      "url": "https://www.theguardian.com/p/x56vje",
-      "thumbnail": "https://media.guim.co.uk/4be4f6f9af3e4085a8da9bcd44d8f8c66ed8a865/162_1322_2736_2189/500.jpg",
-      "published": "2026-05-26T23:04:08Z",
-      "location": {
-        "name": "Stratford-upon-Avon",
-        "lat": 52.1933,
-        "lng": -1.7138
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "culture"
-    },
-    {
-      "id": "uk-news/2026/may/27/russia-targeting-uk-infrastructure-democracy-gchq-head-anne-keast-butler",
-      "headline": "Russia is targeting UK’s infrastructure and democracy, GCHQ head to say",
-      "summary": "GCHQ head warns Russia targets UK infrastructure and democracy amid China technological threat.",
-      "url": "https://www.theguardian.com/p/x55q3h",
-      "thumbnail": "https://media.guim.co.uk/5e5e91c28b1f703842f57ca249b17173d9f1fc09/472_0_2497_1998/500.jpg",
-      "published": "2026-05-26T23:02:11Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "uk-news"
-    },
     {
       "id": "us-news/2026/may/26/texas-al-green-democratic-primary-runoff",
       "headline": "Veteran Texas congressman Al Green beaten in Democratic primary runoff",
@@ -1302,6 +1254,70 @@
       "category": "climate",
       "significance": 2,
       "section": "us-news"
+    },
+    {
+      "id": "commentisfree/2026/may/28/femicide-domestic-violence-dv-royal-commission-women-petition-signatures",
+      "headline": "Australians want a royal commission into femicide. What haunts me is wondering if it’ll be enough to make leaders act",
+      "summary": "Australians petition for royal commission into femicide and gender-based violence amid government inaction.",
+      "url": "https://www.theguardian.com/p/x56xkb",
+      "thumbnail": "https://media.guim.co.uk/2d5af72cec8b2176d58e9aae04a2859f20f38b28/676_0_6735_5391/500.jpg",
+      "published": "2026-05-27T23:57:40Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "commentisfree"
+    },
+    {
+      "id": "sport/2026/may/28/adam-walton-australian-tennis-player-french-open-2026",
+      "headline": "Australia’s Adam Walton on tennis lessons next to horses and being a ‘late bloomer’",
+      "summary": "Australian tennis player Adam Walton shocks with French Open victory over top-10 player Daniil Medvedev.",
+      "url": "https://www.theguardian.com/p/x564vt",
+      "thumbnail": "https://media.guim.co.uk/db2d7cc9d275d5d47b82cab014e8969a4ea5e2b3/450_0_4701_3762/500.jpg",
+      "published": "2026-05-27T23:46:44Z",
+      "location": {
+        "name": "Paris",
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "football/2026/may/28/oliver-glasner-emotional-crystal-palace-conference-league-final",
+      "headline": "‘I took a deep breath’: Oliver Glasner emotional after perfect Crystal Palace send-off",
+      "summary": "Crystal Palace manager Oliver Glasner wins Conference League in emotional final match before departure.",
+      "url": "https://www.theguardian.com/p/x566xm",
+      "thumbnail": "https://media.guim.co.uk/55e54fd78a6324f3d57c8843a87ae2c069d3e845/449_178_3411_2728/500.jpg",
+      "published": "2026-05-27T23:10:43Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "artanddesign/2026/may/28/leonora-carrington-work-painted-during-psychiatric-confinement-to-go-on-show-for-first-time",
+      "headline": "Leonora Carrington work painted during psychiatric confinement to go on show for first time",
+      "summary": "Leonora Carrington painting from 1940 psychiatric confinement displayed publicly for first time at Freud Museum.",
+      "url": "https://www.theguardian.com/p/x5644b",
+      "thumbnail": "https://media.guim.co.uk/9fbd602f31aa866d048322aa92613d98a002f7c4/638_0_5318_4258/500.jpg",
+      "published": "2026-05-27T23:01:37Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "artanddesign"
     }
   ]
 }
