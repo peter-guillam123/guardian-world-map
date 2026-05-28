@@ -1,300 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-28T08:34:34.048Z",
-    "story_count": 79,
-    "oldest_story": "2026-05-27T09:32:15Z",
-    "newest_story": "2026-05-28T08:33:35Z",
+    "generated_at": "2026-05-28T12:03:54.876Z",
+    "story_count": 80,
+    "oldest_story": "2026-05-27T12:55:21Z",
+    "newest_story": "2026-05-28T12:01:17Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "sport/live/2026/may/27/state-of-origin-2026-game-1-live-score-updates-nsw-blues-vs-queensland-qld-maroons-sydney",
-      "headline": "State of Origin 2026 men’s Game 1 live: NSW Blues v Qld Maroons – latest updates",
-      "summary": "NSW Blues face Queensland Maroons in State of Origin 2026 Game 1 at Sydney's Accor Stadium.",
-      "url": "https://www.theguardian.com/p/x56x34",
-      "thumbnail": "https://media.guim.co.uk/f2a6bb9a5e15fe6695a459e3f9851865a4b4bc61/483_0_5000_4000/500.jpg",
-      "published": "2026-05-27T10:40:40Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "sport/live/2026/may/27/french-open-2026-xxx-on-day-four-live",
-      "headline": "French Open 2026: Swiatek, Djokovic and Rybakina in action on day four – live",
-      "summary": "French Open 2026 day four: Swiatek, Djokovic and Rybakina compete at Roland Garros.",
-      "url": "https://www.theguardian.com/p/x55j58",
-      "thumbnail": "https://media.guim.co.uk/a55884c4ff25d13b82989e4b08a50d7b7268289b/269_230_4395_3517/500.jpg",
-      "published": "2026-05-27T10:38:49Z",
-      "location": {
-        "name": "Paris",
-        "lat": 48.8566,
-        "lng": 2.3522
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "sport"
-    },
-    {
-      "id": "politics/live/2026/may/27/tony-blair-keir-starmer-wes-streeting-andy-burnham-mahmood-labour-leadership-latest-news-updates",
-      "headline": "Blair says Labour needs debate before selecting new leader as he criticises Burnham speech – UK politics live",
-      "summary": "Tony Blair criticises Starmer, Burnham and Streeting in essay on Labour's future direction.",
-      "url": "https://www.theguardian.com/p/x562ec",
-      "thumbnail": "https://media.guim.co.uk/a0b236e0b43ba24f9dd7a656b4f156c0a5791cc3/417_0_4167_3333/500.jpg",
-      "published": "2026-05-27T10:37:48Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "politics"
-    },
-    {
-      "id": "world/live/2026/may/27/iran-war-us-update-live-israel-lebanon-strikes-latest-news-ceasefire-peace-talks-middle-east-live-updates",
-      "headline": "Middle East crisis live: Tehran says no agreement reached on strait of Hormuz as Israel strikes Lebanon",
-      "summary": "Iran says no agreement on Hormuz strait as Israel strikes Lebanon amid ceasefire tensions.",
-      "url": "https://www.theguardian.com/p/x56vge",
-      "thumbnail": "https://media.guim.co.uk/9f0c2c178aec93f99d1633141f7cbe4eb540e3f8/766_0_5000_4000/500.jpg",
-      "published": "2026-05-27T10:37:32Z",
-      "location": {
-        "name": "Tehran",
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "us-news/live/2026/may/27/donald-trump-republicans-texas-primary-midterms-iran-redistricting-latest-news-updates",
-      "headline": "Paxton hails Trump’s endorsement as ‘most powerful force in politics’ after Texas runoff win – US politics live",
-      "summary": "Paxton hails Trump endorsement as most powerful political force after Texas runoff victory.",
-      "url": "https://www.theguardian.com/p/x56325",
-      "thumbnail": "https://media.guim.co.uk/c5297d7d995c2145a1bfc65d750924e2f4579094/261_0_3917_3135/500.jpg",
-      "published": "2026-05-27T10:28:36Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "world/live/2026/may/27/spain-pedro-sanchez-pope-leo-heatwave-ukraine-latest-updates-europe-live-news",
-      "headline": "Spanish police search ruling Socialist party headquarters – Europe live",
-      "summary": "Spanish police search Socialist party headquarters amid influence-peddling allegations against PM Sanchez.",
-      "url": "https://www.theguardian.com/p/x562ha",
-      "thumbnail": "https://media.guim.co.uk/9ca3e9c59cb0ccf71abc70b32e1ff4b264bea89a/390_422_2480_1984/500.jpg",
-      "published": "2026-05-27T10:28:09Z",
-      "location": {
-        "name": "Madrid",
-        "lat": 40.4168,
-        "lng": -3.7038
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "environment/2026/may/27/aboriginal-rock-shelter-destroyed-power-line-contractors-nsw-renewable-energy-zone-ntwnfb",
-      "headline": "Community shocked after Aboriginal rock shelter bulldozed for NSW power lines",
-      "summary": "Aboriginal rock shelter destroyed by contractors building NSW renewable energy zone power lines.",
-      "url": "https://www.theguardian.com/p/x563xx",
-      "thumbnail": "https://media.guim.co.uk/e88ee4c6380a3e76e221905029fdf0d38ffabd89/227_0_5120_4096/500.jpg",
-      "published": "2026-05-27T10:17:29Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "environment"
-    },
-    {
-      "id": "politics/2026/may/27/humza-yousaf-hopes-peter-murrell-gets-hefty-sentence-embezzlement-charges-snp",
-      "headline": "Humza Yousaf says he hopes Peter Murrell gets ‘hefty’ sentence over embezzlement charges",
-      "summary": "Humza Yousaf calls for hefty sentence for Peter Murrell after £400,000 SNP embezzlement plea.",
-      "url": "https://www.theguardian.com/p/x56354",
-      "thumbnail": "https://media.guim.co.uk/62eb2ec037058294953bf217e59a01992d850d21/293_0_2915_2333/500.jpg",
-      "published": "2026-05-27T10:09:52Z",
-      "location": {
-        "name": "Edinburgh",
-        "lat": 55.9533,
-        "lng": -3.1883
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "australia-news/2026/may/27/ed-husic-calls-on-labor-to-establish-red-line-on-israels-actions-including-treatment-of-flotilla-activists",
-      "headline": "Ed Husic calls on Labor to establish ‘red line’ on Israel’s actions, including treatment of flotilla activists",
-      "summary": "Labor MP Ed Husic demands Australia establish 'red line' on Israeli government actions.",
-      "url": "https://www.theguardian.com/p/x562th",
-      "thumbnail": "https://media.guim.co.uk/d1c56a4d32c039b68716bd61896ce973dff407ba/825_0_5628_4502/500.jpg",
-      "published": "2026-05-27T10:02:55Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "sport/2026/may/27/jo-yapp-head-coach-first-womens-british-irish-lions-tour-new-zealand-rugby",
-      "headline": "Jo Yapp named head coach for historic first women’s British & Irish Lions tour",
-      "summary": "Jo Yapp named head coach for first women's British & Irish Lions tour of New Zealand.",
-      "url": "https://www.theguardian.com/p/x562zg",
-      "thumbnail": "https://media.guim.co.uk/2c87d42042974f737a59bcda65245287d22ca8d8/33_0_3056_2445/500.jpg",
-      "published": "2026-05-27T10:00:54Z",
-      "location": {
-        "name": "Auckland",
-        "lat": -37.0082,
-        "lng": 174.785
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "us-news/2026/may/27/trump-cabinet-camp-david-washington-iran",
-      "headline": "Trump moves Camp David cabinet meeting to White House as Iran talks continue",
-      "summary": "Trump moves cabinet meeting to White House as Iran war ceasefire negotiations reach critical stage.",
-      "url": "https://www.theguardian.com/p/x56v9k",
-      "thumbnail": "https://media.guim.co.uk/2fc58571229cca769d7586017c4534a2dde65e02/1194_0_6827_5464/500.jpg",
-      "published": "2026-05-27T10:00:25Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "world/commentisfree/2026/may/27/chaotic-unique-beautiful-lebanon-reduced-rubble-israel-bombardment",
-      "headline": "The chaotic, unique, beautiful Lebanon I knew has been reduced to rubble. When will it end?",
-      "summary": "Lebanon's unique culture reduced to rubble by Israeli bombardment killing nearly 14 children daily.",
-      "url": "https://www.theguardian.com/p/x55zm6",
-      "thumbnail": "https://media.guim.co.uk/c9d5f1fe45001cd60cadc8648887cba7ace7dd12/295_0_5000_4000/500.jpg",
-      "published": "2026-05-27T10:00:24Z",
-      "location": {
-        "name": "Beirut",
-        "lat": 33.3157,
-        "lng": 35.4955
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "sport/2026/may/27/savannah-bananas-bananaball-expansion-disney-baseball-brand",
-      "headline": "What exactly are the Savannah Bananas becoming?",
-      "summary": "Savannah Bananas evolve from quirky baseball act into sprawling entertainment brand expansion.",
-      "url": "https://www.theguardian.com/p/x55qc3",
-      "thumbnail": "https://media.guim.co.uk/b0f442734f7fd226d22983c6fc0b008ede9b5ca8/619_0_5000_4000/500.jpg",
-      "published": "2026-05-27T10:00:24Z",
-      "location": {
-        "name": "Savannah",
-        "lat": 32.0809,
-        "lng": -81.0912
-      },
-      "category": "sport",
-      "significance": 1,
-      "section": "sport"
-    },
-    {
-      "id": "sport/2026/may/26/rookie-roll-call",
-      "headline": "Rookie roll call: how Olivia Miles, Azzi Fudd and Awa Fam are adapting to the WNBA",
-      "summary": "WNBA rookies Miles, Fudd and Fam excel as Atlanta emerges as early title contender.",
-      "url": "https://www.theguardian.com/p/x55pz9",
-      "thumbnail": "https://media.guim.co.uk/9f146095c452b043c4035f4756ca104ac28d6708/431_0_4308_3446/500.jpg",
-      "published": "2026-05-27T10:00:24Z",
-      "location": {
-        "name": "Atlanta",
-        "lat": 33.749,
-        "lng": -84.388
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "artanddesign/2026/may/27/the-mural-project-honouring-the-black-cultural-heritage-of-rio-de-janeiro-photo-essay",
-      "headline": "The mural project honouring the Black cultural heritage of Rio de Janeiro – photo essay",
-      "summary": "Mural project honors Black cultural heritage in Rio despite Afro-descendant majority lacking monuments.",
-      "url": "https://www.theguardian.com/p/x54qez",
-      "thumbnail": "https://media.guim.co.uk/8449ac0c815ede5ad0f6a83fcb57925a7a5c6bb9/1783_160_5215_4174/500.jpg",
-      "published": "2026-05-27T10:00:23Z",
-      "location": {
-        "name": "Rio de Janeiro",
-        "lat": -22.9068,
-        "lng": -43.1729
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "artanddesign"
-    },
-    {
-      "id": "world/2026/may/27/dissident-dong-guangping-south-korea-flee-china-rubber-boat",
-      "headline": "Dissident detained in South Korea after fleeing China in rubber boat",
-      "summary": "Chinese dissident detained in South Korea after fleeing China by rubber boat following multiple escape attempts.",
-      "url": "https://www.theguardian.com/p/x56xzj",
-      "thumbnail": "https://media.guim.co.uk/2e84543d929ddfd6140b700527c72e0c35c447aa/0_801_914_731/500.jpg",
-      "published": "2026-05-27T09:37:43Z",
-      "location": {
-        "name": "South Korea",
-        "lat": 37.5665,
-        "lng": 126.978
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "australia-news/2026/may/27/lord-howe-island-got-rid-of-its-rats-and-mice-now-cockroaches-and-bugs-are-bouncing-back",
-      "headline": "Lord Howe Island got rid of its rats and mice – now cockroaches and bugs are bouncing back",
-      "summary": "Lord Howe Island's native invertebrates boom after successful rodent eradication restoration efforts.",
-      "url": "https://www.theguardian.com/p/x56xvf",
-      "thumbnail": "https://media.guim.co.uk/f99499e048b4d352e5341ebb98386998f6d7ea21/128_0_1920_1536/500.jpg",
-      "published": "2026-05-27T09:35:17Z",
-      "location": {
-        "name": "Lord Howe Island",
-        "lat": -31.5521,
-        "lng": 159.0729
-      },
-      "category": "climate",
-      "significance": 1,
-      "section": "australia-news"
-    },
-    {
-      "id": "politics/2026/may/27/labour-policy-first-politics-second-tony-blair",
-      "headline": "Labour must put policy first, politics second, Tony Blair says",
-      "summary": "Tony Blair criticizes Labour government, urging policy-first approach amid Keir Starmer leadership speculation.",
-      "url": "https://www.theguardian.com/p/x563v7",
-      "thumbnail": "https://media.guim.co.uk/3787a70b25caee73321b5582653af64b170520f4/292_0_2048_1638/500.jpg",
-      "published": "2026-05-27T09:32:15Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
     {
       "id": "music/2026/may/27/white-hotel-salford-closing-black-lights-blackpool",
       "headline": "Raves, Brecht and re-enacting Diana’s funeral: the White Hotel bows out as the north’s bravest music venue",
@@ -1270,6 +982,310 @@
       "category": "politics",
       "significance": 2,
       "section": "australia-news"
+    },
+    {
+      "id": "uk-news/2026/may/28/vickrum-digwa-guilty-southampton-student-henry-nowak",
+      "headline": "Man who said knife was carried as part of Sikh faith guilty of murdering Southampton student",
+      "summary": "Man found guilty of murdering Southampton university student with knife claimed for religious reasons.",
+      "url": "https://www.theguardian.com/p/x562kh",
+      "thumbnail": "https://media.guim.co.uk/6cb01fb8a7fb03bf09e75dd6885e2c0760a26ff6/50_0_1500_1200/500.jpg",
+      "published": "2026-05-28T12:01:17Z",
+      "location": {
+        "name": "Southampton",
+        "lat": 50.9097,
+        "lng": -1.4045
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "sport/live/2026/may/28/french-open-tennis-sinner-osaka-sabalenka-gauff-day-five-live",
+      "headline": "French Open 2026: Sinner v Cerundolo, Osaka downs Vekic, and more on day five – live",
+      "summary": "French Open 2026 day five: Sinner, Osaka, and top seeds compete at Roland Garros.",
+      "url": "https://www.theguardian.com/p/x55j74",
+      "thumbnail": "https://media.guim.co.uk/c9b94e63d7e2a1b44c353382097e4c3e7e001d0e/596_0_7004_5600/500.jpg",
+      "published": "2026-05-28T12:00:27Z",
+      "location": {
+        "name": "Paris",
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "sport"
+    },
+    {
+      "id": "us-news/2026/may/28/abortion-restrictions-miscarriage-healthcare",
+      "headline": "US abortion restrictions are hindering access to miscarriage care, study finds",
+      "summary": "US abortion restrictions hindering miscarriage care access, study finds state disparities.",
+      "url": "https://www.theguardian.com/p/x56527",
+      "thumbnail": "https://media.guim.co.uk/dd8874aca60112a34fc6d65f2c9e1a48840c53f7/178_0_4165_3333/500.jpg",
+      "published": "2026-05-28T12:00:21Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "health",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "technology/2026/may/28/finnish-us-firm-oura-launches-world-smallest-smart-ring-heads-towards-ipo",
+      "headline": "Finnish-US firm Oura launches world’s smallest smart ring as it heads towards IPO",
+      "summary": "Oura launches world's smallest smart ring ahead of IPO, valued at $11 billion.",
+      "url": "https://www.theguardian.com/p/x5643q",
+      "thumbnail": "https://media.guim.co.uk/373a259e85c372c82115320633c905ba6da2ce27/199_0_2700_2160/500.jpg",
+      "published": "2026-05-28T12:00:21Z",
+      "location": {
+        "name": "Helsinki",
+        "lat": 60.1699,
+        "lng": 24.9384
+      },
+      "category": "tech",
+      "significance": 2,
+      "section": "technology"
+    },
+    {
+      "id": "global-development/2026/may/28/the-race-for-oil-will-jamaica-be-the-next-country-to-drill-and-what-does-that-mean-for-its-green-pledges",
+      "headline": "The race for oil: will Jamaica be the next country to drill and what does that mean for its green pledges?",
+      "summary": "Jamaica debates oil drilling prospects after seabed tests confirm crude oil presence.",
+      "url": "https://www.theguardian.com/p/x53je7",
+      "thumbnail": "https://media.guim.co.uk/9bb1954856fe6f8ad123b72a4c01f5dc7b75c417/0_0_5000_4000/500.jpg",
+      "published": "2026-05-28T12:00:20Z",
+      "location": {
+        "name": "Kingston",
+        "lat": 18.0179,
+        "lng": -76.8099
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "global-development"
+    },
+    {
+      "id": "sport/2026/may/28/dodgers-kendall-george-injury-bat-dog",
+      "headline": "Bat dog faces suspension after top Dodgers prospect suffers freak knee injury",
+      "summary": "Dodgers prospect Kendall George suffers knee injury avoiding bat dog on field.",
+      "url": "https://www.theguardian.com/p/x5696d",
+      "thumbnail": "https://media.guim.co.uk/664e9c7acb91eca09c41139d754a8af797348420/338_0_5000_4000/500.jpg",
+      "published": "2026-05-28T11:58:07Z",
+      "location": {
+        "name": "Los Angeles",
+        "lat": 34.0522,
+        "lng": -118.2437
+      },
+      "category": "sport",
+      "significance": 1,
+      "section": "sport"
+    },
+    {
+      "id": "world/2026/may/28/dormitory-fire-at-kenya-school-students-utumishi-girls-academy-gilgil",
+      "headline": "Dormitory fire at Kenyan girls’ school kills at least 16 students",
+      "summary": "Fire at Kenyan girls' school dormitory kills at least 16 students in Gilgil.",
+      "url": "https://www.theguardian.com/p/x568ck",
+      "thumbnail": "https://media.guim.co.uk/13dc2ef33ef6526bddb9ed93272f693e6a2b6680/1220_0_4280_3424/500.jpg",
+      "published": "2026-05-28T11:54:46Z",
+      "location": {
+        "name": "Nairobi",
+        "lat": -1.2921,
+        "lng": 36.8219
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "sport/live/2026/may/28/womens-state-of-origin-2026-game-3-live-score-updates-queensland-qld-maroons-vs-nsw-blues-gold-coast",
+      "headline": "Blues seal Women’s State of Origin with final win – as it happened",
+      "summary": "NSW Blues win Women's State of Origin series 3-0 with Gold Coast victory.",
+      "url": "https://www.theguardian.com/p/x56x44",
+      "thumbnail": "https://media.guim.co.uk/79d1d7a08e188a61878bbff28117ab9b96ad10fc/181_0_3841_3074/500.jpg",
+      "published": "2026-05-28T11:54:07Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "a-day-out-in-history/2026/may/28/stonehenge-lost-world-heritage-protection",
+      "headline": "‘Stonehenge is a gateway into a lost world’: meet the people protecting the landmark’s legacy",
+      "summary": "Stonehenge operations manager discusses protecting ancient monument's legacy and mystery.",
+      "url": "https://www.theguardian.com/p/x5xneh",
+      "thumbnail": "https://media.guim.co.uk/7c9e846705a6c59b940e6e1661eb837b380c3360/2_0_2008_1606/500.jpg",
+      "published": "2026-05-28T11:52:10Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "a-day-out-in-history"
+    },
+    {
+      "id": "us-news/live/2026/may/28/donald-trump-wsj-epstein-us-politics-latest-news-updates",
+      "headline": "Trump refiles $10bn defamation suit against WSJ over report on Epstein ties – US politics live",
+      "summary": "Trump refiles $10bn defamation suit against WSJ over Epstein ties reporting.",
+      "url": "https://www.theguardian.com/p/x568m2",
+      "thumbnail": "https://media.guim.co.uk/28ee5975ea82c363144aeedaf19353b2f69ae6f9/193_0_3000_2400/500.jpg",
+      "published": "2026-05-28T11:46:54Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "film/2026/may/28/cynthia-erivo-ariana-grande-red-carpet-incident-racism",
+      "headline": "‘I felt my humanity was bastardised’: Cynthia Erivo says reaction to Ariana Grande red carpet incident rooted in racism",
+      "summary": "Cynthia Erivo says Wicked red carpet incident reactions reveal racism against Black women.",
+      "url": "https://www.theguardian.com/p/x568na",
+      "thumbnail": "https://media.guim.co.uk/f6af1bc1db2f0e4e959bab099eadb80b5b5941e9/1329_300_1494_1195/500.jpg",
+      "published": "2026-05-28T11:34:42Z",
+      "location": {
+        "name": "Singapore",
+        "lat": 1.3521,
+        "lng": 103.8198
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "film"
+    },
+    {
+      "id": "us-news/2026/may/28/first-thing-trump-threatens-oman-strait-of-hormuz",
+      "headline": "First Thing: Trump threatens to ‘blow up’ US ally Oman if it does not ‘behave’ over strait of Hormuz",
+      "summary": "Trump threatens to 'blow up' Oman if it doesn't comply over Strait of Hormuz.",
+      "url": "https://www.theguardian.com/p/x55m8a",
+      "thumbnail": "https://media.guim.co.uk/e7d60d7e2581903a947019b103b82afe411c5e67/950_0_6881_5504/500.jpg",
+      "published": "2026-05-28T11:29:55Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "business/2026/may/28/bp-boardroom-turmoil-deepens-as-ousted-chair-hits-back-at-lies-over-conduct-albert-manifold",
+      "headline": "BP boardroom turmoil deepens as ousted chair hits back at ‘lies’ over conduct",
+      "summary": "BP's ousted chair Albert Manifold denies misconduct allegations in statement.",
+      "url": "https://www.theguardian.com/p/x568xf",
+      "thumbnail": "https://media.guim.co.uk/4a9cd4ea64ccbd03ea98ef03576d08f9fe1ebbf5/199_190_2863_2292/500.jpg",
+      "published": "2026-05-28T11:14:35Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "football/2026/may/28/steve-clarke-scotland-coach-new-contract-2030",
+      "headline": "Steve Clarke ‘proud to continue’ after signing new Scotland contract to 2030",
+      "summary": "Scotland manager Steve Clarke signs four-year contract extension through 2030.",
+      "url": "https://www.theguardian.com/p/x569xq",
+      "thumbnail": "https://media.guim.co.uk/26759fc576e495a0cb6aabdfb653812fd948c6fe/344_115_4210_3367/500.jpg",
+      "published": "2026-05-28T11:04:12Z",
+      "location": {
+        "name": "Edinburgh",
+        "lat": 55.9533,
+        "lng": -3.1883
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "sport/2026/may/28/who-really-owns-the-williams-f1-team-legal-battle-special-report",
+      "headline": "Who really controls the Williams F1 team? A bitter legal battle has put this question centre stage",
+      "summary": "Williams F1 team faces legal battle over ownership and alleged misconduct allegations.",
+      "url": "https://www.theguardian.com/p/x54knb",
+      "thumbnail": "https://media.guim.co.uk/622a0fb7314302d2909880cc0351464e091ed8a9/0_0_5000_4000/500.jpg",
+      "published": "2026-05-28T11:00:20Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "football/2026/may/28/luis-enrique-keeping-chaos-for-champions-league-after-psgs-stroll-to-ligue-1-title",
+      "headline": "Luis Enrique keeping chaos for Champions League after PSG’s stroll to Ligue 1 title ",
+      "summary": "PSG wins Ligue 1 title with Luis Enrique saving squad for Champions League campaign.",
+      "url": "https://www.theguardian.com/p/x55khk",
+      "thumbnail": "https://media.guim.co.uk/4db43ecc54a091f74aff5380bf96bb3596867145/225_201_4253_3402/500.jpg",
+      "published": "2026-05-28T11:00:20Z",
+      "location": {
+        "name": "Paris",
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "music/2026/may/28/iceage-for-love-of-grace-and-the-hereafter-review",
+      "headline": "Iceage: For Love of Grace & the Hereafter review – Danish punks ace sixth stellar album on the trot",
+      "summary": "Danish punk band Iceage releases sixth album blending indie-punk with diverse influences.",
+      "url": "https://www.theguardian.com/p/x55pze",
+      "thumbnail": "https://media.guim.co.uk/0d2aad202a4c9affddb6fd87e03d5d89f64b559b/607_0_5616_4492/500.jpg",
+      "published": "2026-05-28T11:00:19Z",
+      "location": {
+        "name": "Copenhagen",
+        "lat": 55.6761,
+        "lng": 12.5683
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "music"
+    },
+    {
+      "id": "us-news/2026/may/28/neo-nazi-charged-journalism-murder-plot",
+      "headline": "US neo-Nazi plotted to kill journalist who reported on him, testimony reveals",
+      "summary": "Alabama neo-Nazi charged with plotting to murder journalist who reported on him.",
+      "url": "https://www.theguardian.com/p/x564n8",
+      "thumbnail": "https://media.guim.co.uk/2af819df2d6df42aadac5de2924389263b100407/499_0_5001_4000/500.jpg",
+      "published": "2026-05-28T11:00:19Z",
+      "location": {
+        "name": "Birmingham",
+        "lat": 52.5086,
+        "lng": -1.8755
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "commentisfree/2026/may/28/green-party-run-makerfield-labour-demands-reform-uk",
+      "headline": "Why the Green party must run in every seat – including Makerfield – and ignore Labour demands to stand aside",
+      "summary": "Green Party candidate announced for Makerfield byelection despite Labour pressure to stand aside.",
+      "url": "https://www.theguardian.com/p/x563db",
+      "thumbnail": "https://media.guim.co.uk/6832bdd33e5e05e245673e496035cb4fe08dddcd/753_0_4569_3658/500.jpg",
+      "published": "2026-05-28T11:00:19Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 1,
+      "section": "commentisfree"
     }
   ]
 }
