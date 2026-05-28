@@ -1,92 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-28T00:09:42.262Z",
-    "story_count": 82,
-    "oldest_story": "2026-05-27T01:24:14Z",
-    "newest_story": "2026-05-27T23:57:40Z",
+    "generated_at": "2026-05-28T04:42:50.205Z",
+    "story_count": 85,
+    "oldest_story": "2026-05-27T05:31:50Z",
+    "newest_story": "2026-05-28T04:30:54Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "us-news/2026/may/26/texas-al-green-democratic-primary-runoff",
-      "headline": "Veteran Texas congressman Al Green beaten in Democratic primary runoff",
-      "summary": "Christian Menefee defeats veteran congressman Al Green in Texas Democratic primary runoff after GOP gerrymandering.",
-      "url": "https://www.theguardian.com/p/x56x63",
-      "thumbnail": "https://media.guim.co.uk/ae2189ddca247853ae1e7280d1564ade456279b6/438_0_5493_4397/500.jpg",
-      "published": "2026-05-27T01:51:24Z",
-      "location": {
-        "name": "Texas",
-        "lat": 29.7589,
-        "lng": -95.3677
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "australia-news/2026/may/27/labor-budget-australia-economy-cgt-capital-gains-tax-changes-paul-keating-reponse",
-      "headline": "Paul Keating urges Labor to stick with capital gains tax overhaul and avoid exemptions that would hurt economy",
-      "summary": "Paul Keating urges Labor government to maintain capital gains tax overhaul despite business opposition.",
-      "url": "https://www.theguardian.com/p/x56xx5",
-      "thumbnail": "https://media.guim.co.uk/672f59241ffd75c1e6d46d04d21cc461ce237cc7/887_0_4640_3712/500.jpg",
-      "published": "2026-05-27T01:40:46Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "us-news/2026/may/26/ken-paxton-texas-senate-runoff",
-      "headline": "Trump-backed Ken Paxton ousts John Cornyn in heated Texas primary after scandal-plagued campaign",
-      "summary": "Trump-backed Ken Paxton defeats John Cornyn in Republican Senate primary despite scandal-plagued campaign.",
-      "url": "https://www.theguardian.com/p/x55q92",
-      "thumbnail": "https://media.guim.co.uk/e754d7a030e6aa533a1ba504dc2ca4d0348723ee/646_0_4678_3742/500.jpg",
-      "published": "2026-05-27T01:39:41Z",
-      "location": {
-        "name": "Texas",
-        "lat": 29.7589,
-        "lng": -95.3677
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "world/2026/may/27/japan-obsessed-wth-cats-popular-pet-industry-worth-billions",
-      "headline": "‘Catnomics’: how Japan’s feline fixation has become an industry worth billions",
-      "summary": "Japan's cat obsession fuels 'catnomics' industry worth billions as felines dominate popular culture.",
-      "url": "https://www.theguardian.com/p/x54exm",
-      "thumbnail": "https://media.guim.co.uk/f69e92e3cf2bfdd62750d64c0b68f5dee86242c4/207_0_1936_1549/500.jpg",
-      "published": "2026-05-27T01:30:07Z",
-      "location": {
-        "name": "Tokyo",
-        "lat": 35.6762,
-        "lng": 139.6503
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "world"
-    },
-    {
-      "id": "world/2026/may/27/us-arms-sales-to-taiwan-pause-unlikely-due-to-iran-war-experts",
-      "headline": "‘Makes no sense’: experts doubt pause in US arms sale to Taiwan is due to Iran war",
-      "summary": "Experts doubt Iran war caused pause in $14bn US arms sale to Taiwan, citing timeline misalignment.",
-      "url": "https://www.theguardian.com/p/x55m32",
-      "thumbnail": "https://media.guim.co.uk/48aeac3ee3d9d2462edf4c871d2af3574393f05a/175_0_4450_3560/500.jpg",
-      "published": "2026-05-27T01:24:14Z",
-      "location": {
-        "name": "Taiwan",
-        "lat": 25.033,
-        "lng": 121.5654
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
     {
       "id": "business/live/2026/may/27/energy-bills-increase-ofgem-price-cap-business-live-news",
       "headline": "Energy bills to grow by more than £200 a year for millions as Ofgem increases price cap – business live",
@@ -1318,6 +1238,134 @@
       "category": "culture",
       "significance": 2,
       "section": "artanddesign"
+    },
+    {
+      "id": "environment/2026/may/28/country-diary-mayday-mayday-the-heatwave-is-killing-the-swallow-chicks",
+      "headline": "Country diary: Mayday, mayday … the heatwave is killing the swallow chicks",
+      "summary": "Heatwave killing swallow chicks in Norfolk as temperatures soar during breeding season.",
+      "url": "https://www.theguardian.com/p/x55qy6",
+      "thumbnail": "https://media.guim.co.uk/dfed48cd930a20779af0b902940ce0b088156927/252_0_3780_3024/500.jpg",
+      "published": "2026-05-28T04:30:54Z",
+      "location": {
+        "name": "Caistor St Edmund, Norfolk",
+        "lat": 52.6167,
+        "lng": 1.3833
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "environment"
+    },
+    {
+      "id": "australia-news/2026/may/28/australia-sues-3m-record-breaking-sum-pfas-forever-chemicals-in-firefighting-foam",
+      "headline": "Australia sues 3M for record-breaking sum over Pfas ‘forever chemicals’ in firefighting foam",
+      "summary": "Australia sues 3M for record $2bn over PFAS contamination at defence bases.",
+      "url": "https://www.theguardian.com/p/x5676d",
+      "thumbnail": "https://media.guim.co.uk/b941445a5d47d6a5b2da984492311a1c4a88d5a5/366_0_6477_5186/500.jpg",
+      "published": "2026-05-28T04:17:58Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "australia-news"
+    },
+    {
+      "id": "australia-news/2026/may/28/santos-mining-narrabri-gas-project-bettaloo-basin-australia",
+      "headline": "Santos says it won’t ‘exert any effort’ on Narrabri gas project while it focuses on Beetaloo Basin",
+      "summary": "Santos halts efforts on Narrabri gas project to focus on Beetaloo Basin development.",
+      "url": "https://www.theguardian.com/p/x566z4",
+      "thumbnail": "https://media.guim.co.uk/9019eef8a899787aa27a39d85a35dfe35d53c46e/258_0_2575_2060/500.jpg",
+      "published": "2026-05-28T04:16:26Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "uk-news/2026/may/28/rechalking-cerne-giant-dorset-national-trust-climate-emergency",
+      "headline": "Rechalking beloved Cerne Giant is a sticky process – and climate crisis is making it worse",
+      "summary": "Climate crisis complicates rechalking of historic Cerne Giant chalk figure in Dorset.",
+      "url": "https://www.theguardian.com/p/x563kb",
+      "thumbnail": "https://media.guim.co.uk/01338e18b7f0d79520b67fe03c9924f8524baeea/955_0_2813_2250/500.jpg",
+      "published": "2026-05-28T04:00:56Z",
+      "location": {
+        "name": "Cerne, Dorset",
+        "lat": 50.8167,
+        "lng": -2.4833
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "music/2026/may/28/loss-of-manual-jobs-could-be-driving-toxic-masculinity-says-sting",
+      "headline": "Loss of manual jobs could be driving toxic masculinity, says Sting",
+      "summary": "Sting's musical The Last Ship returns to West End, discussing masculinity and job losses.",
+      "url": "https://www.theguardian.com/p/x54jnj",
+      "thumbnail": "https://media.guim.co.uk/dfa92ae2540a3e147d535a63d39933b4c729a91c/1234_0_4764_3813/500.jpg",
+      "published": "2026-05-28T04:00:56Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "music"
+    },
+    {
+      "id": "world/2026/may/28/iran-internet-blackout-return-partial-connectivity",
+      "headline": "‘This isn’t freedom’: anger, anxiety and tears as Iran’s internet flickers back",
+      "summary": "Iran restores partial internet after 88-day blackout, but citizens express anger and anxiety.",
+      "url": "https://www.theguardian.com/p/x563pt",
+      "thumbnail": "https://media.guim.co.uk/e1e8425c2d34727703886652f553e1346c1471d7/1245_0_6440_5152/500.jpg",
+      "published": "2026-05-28T04:00:55Z",
+      "location": {
+        "name": "Tehran",
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "category": "tech",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "environment/2026/may/28/climate-impacts-spiralling-more-record-global-heat-warns-un",
+      "headline": "World almost certain to endure record hot year by 2030, UN warns",
+      "summary": "UN warns global temperature record likely broken by 2030 as climate crisis intensifies.",
+      "url": "https://www.theguardian.com/p/x564ab",
+      "thumbnail": "https://media.guim.co.uk/7a90dbdf002acd49d5e18623156506bc3722e046/345_0_3750_3000/500.jpg",
+      "published": "2026-05-28T04:00:55Z",
+      "location": {
+        "name": "Geneva",
+        "lat": 46.2044,
+        "lng": 6.1432
+      },
+      "category": "climate",
+      "significance": 4,
+      "section": "environment"
+    },
+    {
+      "id": "world/2026/may/28/spain-prime-minister-pedro-sanchez-brother-wife-zapatero-corruption-cases",
+      "headline": "Spanish PM’s family affair: the corruption cases involving Pedro Sánchez’s brother, wife and predecessor",
+      "summary": "Spanish PM Sánchez faces corruption cases involving brother, wife and predecessor Zapatero.",
+      "url": "https://www.theguardian.com/p/x5638k",
+      "thumbnail": "https://media.guim.co.uk/488ed5ce9d71d0fd8da756f889252c6c52c6844f/256_0_2561_2048/500.jpg",
+      "published": "2026-05-28T04:00:54Z",
+      "location": {
+        "name": "Madrid",
+        "lat": 40.4168,
+        "lng": -3.7038
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
     }
   ]
 }
