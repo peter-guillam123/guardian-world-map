@@ -1,156 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-28T19:15:48.711Z",
-    "story_count": 64,
-    "oldest_story": "2026-05-27T19:23:31Z",
-    "newest_story": "2026-05-28T19:13:39Z",
+    "generated_at": "2026-05-28T21:25:43.850Z",
+    "story_count": 62,
+    "oldest_story": "2026-05-27T23:01:37Z",
+    "newest_story": "2026-05-28T21:24:40Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "us-news/2026/may/27/washington-paper-mill-implosion",
-      "headline": "Hope fades for nine missing after fatal paper mill tank implosion in Washington state",
-      "summary": "Two dead, nine missing after chemical tank rupture at Washington paper mill.",
-      "url": "https://www.theguardian.com/p/x564g6",
-      "thumbnail": "https://media.guim.co.uk/cabf24f93a48106533cf3f1eaca030f7589e0dff/723_0_4585_3667/500.jpg",
-      "published": "2026-05-27T19:24:08Z",
-      "location": {
-        "name": "Longview",
-        "lat": 46.1405,
-        "lng": -122.9747
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "law/2026/may/27/pip-salvador-jones-obituary",
-      "headline": "Pip Salvador-Jones obituary",
-      "summary": "Pip Salvador-Jones, legal expert and Citizens Advice director, dies aged 61.",
-      "url": "https://www.theguardian.com/p/x52zm7",
-      "thumbnail": "https://media.guim.co.uk/e9c354733824b13f0289bc3471deb581af883b9d/0_415_1158_926/500.jpg",
-      "published": "2026-05-27T19:23:31Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "law"
-    },
-    {
-      "id": "australia-news/live/2026/may/28/australia-politics-live-rishworth-jobseeker-capital-gains-tax-jim-chalmers-anthony-albanese-angus-taylor-question-time-senate-estimates-ntwnfb",
-      "headline": "Australia politics live: Rishworth says jobseeker changes to address ‘varying quality’ of for-profit job providers",
-      "summary": "Australian social services minister addresses concerns over jobseeker program quality and provider performance.",
-      "url": "https://www.theguardian.com/p/x5639a",
-      "thumbnail": "https://media.guim.co.uk/24de7a3a96c068df2ee3f7fe17ebcfecefe36c23/841_0_4820_3856/500.jpg",
-      "published": "2026-05-27T21:23:13Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "football/2026/may/27/crystal-palace-rayo-vallecano-conference-league-final-match-report",
-      "headline": "Crystal Palace win Conference League after Mateta pounces against Rayo Vallecano",
-      "summary": "Crystal Palace wins Europa Conference League final 1-0 against Rayo Vallecano with Mateta's goal.",
-      "url": "https://www.theguardian.com/p/x5649m",
-      "thumbnail": "https://media.guim.co.uk/f84e3bad2ff2415f4bffa98f0fd0a91225e6580b/667_0_6543_5235/500.jpg",
-      "published": "2026-05-27T21:05:07Z",
-      "location": {
-        "name": "Budapest",
-        "lat": 47.4979,
-        "lng": 19.0402
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "politics/2026/may/27/nigel-farage-phone-hacking-claims",
-      "headline": "Report ‘phone hack’ to police or I will do it for you, Labour chair tells Farage",
-      "summary": "Labour chair demands Nigel Farage report alleged Russian phone hack to UK security services within 24 hours.",
-      "url": "https://www.theguardian.com/p/x564a2",
-      "thumbnail": "https://media.guim.co.uk/c6f8c8e585a596d553384034935b700b976ea605/629_0_5000_4000/500.jpg",
-      "published": "2026-05-27T21:00:45Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "australia-news/2026/may/28/morning-mail-thursday-ntwnfb",
-      "headline": "Morning Mail: NDIS cuts to remove 241,000 participants, Trump accuses Iran of stalling, Blues win Origin classic",
-      "summary": "NDIS cuts modelling shows 241,000 participants will be removed from disability insurance scheme over four years.",
-      "url": "https://www.theguardian.com/p/x5634e",
-      "thumbnail": "https://media.guim.co.uk/9d04dadefb99b37549a95f32a090280c96a2ab5f/708_0_6343_5077/500.jpg",
-      "published": "2026-05-27T20:49:02Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "health",
-      "significance": 3,
-      "section": "australia-news"
-    },
-    {
-      "id": "us-news/2026/may/27/donald-trump-oman-threat-strait-hormuz",
-      "headline": "Trump threatens to ‘blow up’ Oman amid talks over strait of Hormuz",
-      "summary": "Trump threatens to 'blow up' Oman during cabinet meeting over strait of Hormuz toll negotiations with Iran.",
-      "url": "https://www.theguardian.com/p/x565ht",
-      "thumbnail": "https://media.guim.co.uk/d5e8630d7caa4774d706df1016cb69b1258c1dee/300_0_3000_2401/500.jpg",
-      "published": "2026-05-27T20:42:30Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "sport/2026/may/27/jakub-mensik-labels-french-open-heat-insane-after-collapsing-at-end-of-five-set-win",
-      "headline": "Jakub Mensik labels French Open heat ‘insane’ after collapsing at end of five-set win",
-      "summary": "French Open player Jakub Mensik collapses from heat exhaustion, calls conditions 'insane' after five-set win.",
-      "url": "https://www.theguardian.com/p/x565h2",
-      "thumbnail": "https://media.guim.co.uk/bfc34041260d4c31e57c5506997c16014d0ad78a/187_0_1800_1440/500.jpg",
-      "published": "2026-05-27T20:40:24Z",
-      "location": {
-        "name": "Paris",
-        "lat": 48.8566,
-        "lng": 2.3522
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "us-news/2026/may/27/santa-rosa-island-california-wildfire-damage",
-      "headline": "Nasa images show wildfire damage to island dubbed ‘Galapagos of California’ ",
-      "summary": "NASA satellite images reveal devastating wildfire damage covering one-third of California's Santa Rosa Island.",
-      "url": "https://www.theguardian.com/p/x5645q",
-      "thumbnail": "https://media.guim.co.uk/1674c0c2367d1cea17a31341c67b87a5d1e7cf03/0_3_1496_1197/500.jpg",
-      "published": "2026-05-27T20:28:18Z",
-      "location": {
-        "name": "Santa Rosa Island",
-        "lat": 34.0195,
-        "lng": -120.1625
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "us-news"
-    },
     {
       "id": "commentisfree/2026/may/28/femicide-domestic-violence-dv-royal-commission-women-petition-signatures",
       "headline": "Australians want a royal commission into femicide. What haunts me is wondering if it’ll be enough to make leaders act",
@@ -1030,6 +886,118 @@
       "category": "conflict",
       "significance": 4,
       "section": "world"
+    },
+    {
+      "id": "us-news/2026/may/28/new-jersey-ice-protesters",
+      "headline": "‘We won’t stop until they’re free’: protesters outside a New Jersey ICE facility in their own words",
+      "summary": "Over 300 ICE detainees on hunger strike at Newark facility as protesters rally outside.",
+      "url": "https://www.theguardian.com/p/x56bxv",
+      "thumbnail": "https://media.guim.co.uk/b8b57583e29ca5124e8dac65ae472f243c469d27/250_0_2500_2000/500.jpg",
+      "published": "2026-05-28T21:24:40Z",
+      "location": {
+        "name": "Newark, New Jersey",
+        "lat": 40.7357,
+        "lng": -74.1724
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "australia-news/live/2026/may/29/australia-news-live-senate-estimates-capital-gains-tax-anthony-albanese-angus-taylor-housing-weather-floods-ntwnfb",
+      "headline": "Australia news live: Asio warns politicians that internet-connected cars could be bugged; flood warnings after wild weather",
+      "summary": "ASIO warns Australian politicians about security risks from internet-connected vehicles.",
+      "url": "https://www.theguardian.com/p/x56935",
+      "thumbnail": "https://media.guim.co.uk/bdb55d130229c9fdb29c56463584e3f840b7ff10/964_0_6880_5504/500.jpg",
+      "published": "2026-05-28T21:11:04Z",
+      "location": {
+        "name": "Sydney, Australia",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "sport/2026/may/28/indias-bhatia-and-rodrigues-overpower-england-to-set-up-victory-in-first-t20i",
+      "headline": "India’s Bhatia and Rodrigues overpower England to set up victory in first T20 international",
+      "summary": "India defeats England by 38 runs in women's T20 cricket international at Chelmsford.",
+      "url": "https://www.theguardian.com/p/x56b94",
+      "thumbnail": "https://media.guim.co.uk/7838f9c68417363883540b8c9fef53c63b5888c2/346_0_2940_2352/500.jpg",
+      "published": "2026-05-28T20:59:35Z",
+      "location": {
+        "name": "Chelmsford, England",
+        "lat": 51.7356,
+        "lng": 0.4747
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "us-news/2026/may/28/trump-250-bill",
+      "headline": "White House pushes Congress to approve $250 bill with Trump’s image",
+      "summary": "White House pushes Congress to approve $250 bill featuring Trump's portrait for 250th anniversary.",
+      "url": "https://www.theguardian.com/p/x56b9n",
+      "thumbnail": "https://media.guim.co.uk/4c57a9a36695042c4ded2a604f9f193c2b986cce/447_0_4430_3545/500.jpg",
+      "published": "2026-05-28T20:57:38Z",
+      "location": {
+        "name": "Washington, DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "politics/2026/may/28/sturgeon-says-she-was-deceived-misled-and-betrayed-by-ex-husband-murrell",
+      "headline": "Sturgeon says she was ‘deceived, misled and betrayed’ by ex-husband Murrell",
+      "summary": "Nicola Sturgeon says ex-husband Peter Murrell deceived her during SNP embezzlement scandal.",
+      "url": "https://www.theguardian.com/p/x56am7",
+      "thumbnail": "https://media.guim.co.uk/1311de5fa00832e6d34f57779675db6a83ffe21a/1586_393_3497_2797/500.jpg",
+      "published": "2026-05-28T20:54:24Z",
+      "location": {
+        "name": "London, UK",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "australia-news/2026/may/29/morning-mail-friday-ntwnfb",
+      "headline": "Morning Mail: Hanson and Joyce’s cruise ship claims, Netanyahu’s Gaza order, Sinner wilts in Paris ",
+      "summary": "Pauline Hanson and Barnaby Joyce billed taxpayers for luxury cruise ship fundraising events.",
+      "url": "https://www.theguardian.com/p/x568t9",
+      "thumbnail": "https://media.guim.co.uk/a4736aaf1fae4b2bfcc68245011ed0496d2415d5/0_0_5000_4000/500.jpg",
+      "published": "2026-05-28T20:51:22Z",
+      "location": {
+        "name": "Sydney, Australia",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "us-news/2026/may/28/e-jean-carroll-doj-trump-reid-hoffman",
+      "headline": "Federal inquiry into E Jean Carroll part of investigation into Reid Hoffman non-profit",
+      "summary": "DOJ investigation targets LinkedIn founder Reid Hoffman over entity backing E Jean Carroll inquiry.",
+      "url": "https://www.theguardian.com/p/x56b26",
+      "thumbnail": "https://media.guim.co.uk/9c0142d2f682cf27f7d0413b8e25230cb5222662/0_0_5000_4000/500.jpg",
+      "published": "2026-05-28T20:42:24Z",
+      "location": {
+        "name": "Washington, DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
     }
   ]
 }
