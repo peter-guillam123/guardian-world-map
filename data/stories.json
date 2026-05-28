@@ -1,236 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-28T04:42:50.205Z",
-    "story_count": 85,
-    "oldest_story": "2026-05-27T05:31:50Z",
-    "newest_story": "2026-05-28T04:30:54Z",
+    "generated_at": "2026-05-28T08:34:34.048Z",
+    "story_count": 79,
+    "oldest_story": "2026-05-27T09:32:15Z",
+    "newest_story": "2026-05-28T08:33:35Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "business/live/2026/may/27/energy-bills-increase-ofgem-price-cap-business-live-news",
-      "headline": "Energy bills to grow by more than £200 a year for millions as Ofgem increases price cap – business live",
-      "summary": "UK energy price cap rises 13% from July due to global gas prices and Middle East conflict.",
-      "url": "https://www.theguardian.com/p/x56294",
-      "thumbnail": "https://media.guim.co.uk/28ef2f42308207b7f2208fcc14cf2896796b23b9/881_0_6509_5207/500.jpg",
-      "published": "2026-05-27T06:33:29Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "business"
-    },
-    {
-      "id": "australia-news/2026/may/27/amanda-rishworth-says-jobseekers-will-no-longer-be-forced-to-submit-endless-pointless-job-applications",
-      "headline": "Amanda Rishworth says jobseekers will no longer be forced to submit ‘endless’ pointless job applications ",
-      "summary": "Australian welfare reforms end mandatory endless job applications for jobseekers.",
-      "url": "https://www.theguardian.com/p/x56xpm",
-      "thumbnail": "https://media.guim.co.uk/6f5bcbefe04b65327139a0cd416a5f4820a7324c/1211_0_6053_4843/500.jpg",
-      "published": "2026-05-27T06:32:49Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "business/2026/may/27/gina-rinehart-pays-for-bruce-mcwilliam-purchase-southern-cross-media",
-      "headline": "Gina Rinehart bankrolls purchase of 10% stake in Seven network owner Southern Cross Media ",
-      "summary": "Gina Rinehart bankrolls $26m purchase of 10% stake in Seven network owner.",
-      "url": "https://www.theguardian.com/p/x56x8d",
-      "thumbnail": "https://media.guim.co.uk/bdd8b9f2da9f45b477d03686182898c341a6fbd5/486_0_4821_3856/500.jpg",
-      "published": "2026-05-27T06:24:34Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "world/2026/may/27/bhp-files-stalled-emissions-reductions-mining-company-moral-obligation-decarbonise",
-      "headline": "BHP admits to stalled emissions reductions as WA premier says miners have ‘moral obligation’ to decarbonise",
-      "summary": "BHP admits emissions reductions stalled; WA premier says miners have moral decarbonisation duty.",
-      "url": "https://www.theguardian.com/p/x562vf",
-      "thumbnail": "https://media.guim.co.uk/feaea74341dbf0ff66449f22df012ccd8f42b353/0_0_5000_4000/500.jpg",
-      "published": "2026-05-27T06:23:13Z",
-      "location": {
-        "name": "Perth",
-        "lat": -31.9505,
-        "lng": 115.8605
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "australia-news/2026/may/27/labor-gambling-reform-podcasters-podcasts-david-pocock-response",
-      "headline": " David Pocock criticises ‘bonkers’ situation facing podcasters over gambling ad reforms",
-      "summary": "Senator criticises Labor's 'bonkers' plan requiring dual-version podcasts for gambling ads.",
-      "url": "https://www.theguardian.com/p/x56xf5",
-      "thumbnail": "https://media.guim.co.uk/5196252580c4a4ffbf24359a30aaab02845ddf1d/477_0_5468_4374/500.jpg",
-      "published": "2026-05-27T06:18:05Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "money/2026/may/27/energy-price-cap-great-britain-rise-july-gas-electricity-iran-war",
-      "headline": "Energy price cap in Great Britain to rise by 13% from July",
-      "summary": "UK energy bills to rise over £200 annually; price cap increases 13% from July.",
-      "url": "https://www.theguardian.com/p/x554gd",
-      "thumbnail": "https://media.guim.co.uk/4ace4e88c325edcf693fb98769dfc94bf0c695ab/355_0_4796_3840/500.jpg",
-      "published": "2026-05-27T06:02:34Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "money"
-    },
-    {
-      "id": "society/2026/may/27/children-violence-remand-jail-england-wales-watchdog",
-      "headline": "Children seeing extreme violence while held needlessly in jail, says England and Wales watchdog",
-      "summary": "UK prisons watchdog finds children witness extreme violence while unnecessarily jailed.",
-      "url": "https://www.theguardian.com/p/x55p66",
-      "thumbnail": "https://media.guim.co.uk/4d57825b6abb16c49a1985cf5614d4f451ff3ead/427_0_4272_3418/500.jpg",
-      "published": "2026-05-27T06:00:20Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "society"
-    },
-    {
-      "id": "travel/2026/may/27/orkney-neolithic-treasures-sparkling-seas-orkney-bus-fares",
-      "headline": "Neolithic treasures and sparkling seas on Orkney – all for £2 bus fares",
-      "summary": "Scottish Orkney islands cap bus fares at £2 to boost tourism and explore heritage sites.",
-      "url": "https://www.theguardian.com/p/x54jhq",
-      "thumbnail": "https://media.guim.co.uk/d86ed33d91ccb65e859cc65eddddac67768074c9/268_0_4343_3475/500.jpg",
-      "published": "2026-05-27T06:00:20Z",
-      "location": {
-        "name": "Orkney",
-        "lat": 59.1176,
-        "lng": -2.963
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "travel"
-    },
-    {
-      "id": "film/2026/may/27/bullet-in-the-head-review-john-woo-rerelease",
-      "headline": "Bullet in the Head review – John Woo’s Vietnam war fever dream is an explosive masterpiece",
-      "summary": "John Woo's 1990 Vietnam war film 'Bullet in the Head' re-released as explosive masterpiece.",
-      "url": "https://www.theguardian.com/p/x54q97",
-      "thumbnail": "https://media.guim.co.uk/537ee49420522732abe6e0a4c6a92c2841cae6f6/175_0_2251_1802/500.jpg",
-      "published": "2026-05-27T06:00:20Z",
-      "location": {
-        "name": "Hong Kong",
-        "lat": 22.3193,
-        "lng": 114.1694
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "film"
-    },
-    {
-      "id": "business/2026/may/27/recycled-tile-startup-pilot-deal-dekiln-johnson-tiles",
-      "headline": "Kiln-free recycled tile startup agrees pilot deal with major UK supplier",
-      "summary": "Dekiln's kiln-free recycled tile startup partners with Johnson Tiles for low-carbon scaling.",
-      "url": "https://www.theguardian.com/p/x54ztt",
-      "thumbnail": "https://media.guim.co.uk/fe235f8646ba2e454d75dd9ac7cdffd1412f8d93/0_0_4680_3744/500.jpg",
-      "published": "2026-05-27T06:00:19Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4808,
-        "lng": -2.2426
-      },
-      "category": "tech",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "society/2026/may/27/girls-unwanted-images-misogyny-abuse-harassment-online-uk-survey-barnardos",
-      "headline": "Nearly in one in five UK girls receive unwanted images online, poll finds",
-      "summary": "One in five UK girls receive unwanted online images; online misogyny becoming normalized.",
-      "url": "https://www.theguardian.com/p/x55q6f",
-      "thumbnail": "https://media.guim.co.uk/a50f6bd268551c51ea95947ed4f173b67aa36a81/0_4_3539_2831/500.jpg",
-      "published": "2026-05-27T06:00:19Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "society"
-    },
-    {
-      "id": "business/2026/may/27/australia-cpi-rate-inflation-rba-reserve-bank-interest-rate-rise-warning",
-      "headline": "Inflation eases to 4.2% but interest rate rise still on horizon, economists warn",
-      "summary": "Australia's inflation eases to 4.2% but RBA may still raise interest rates later this year.",
-      "url": "https://www.theguardian.com/p/x5622j",
-      "thumbnail": "https://media.guim.co.uk/5e9bf270e07556fa2dfd2a9adf638a61edbce11b/350_0_6701_5360/500.jpg",
-      "published": "2026-05-27T05:47:00Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "world/2026/may/27/wednesday-briefing-can-the-uk-adapt-in-time-to-a-new-normal-of-extreme-heat",
-      "headline": "Wednesday briefing: ​Can the UK adapt in time to a new normal of extreme heat?",
-      "summary": "UK faces extreme heat challenge as spring temperatures near record levels amid climate crisis.",
-      "url": "https://www.theguardian.com/p/x55zb6",
-      "thumbnail": "https://media.guim.co.uk/88be5ec72b01a012b88e94b274fc435bbfb1bcd8/308_0_3084_2469/500.jpg",
-      "published": "2026-05-27T05:46:56Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "climate",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "australia-news/2026/may/27/bondi-terror-attack-massacre-police-outgunned-lack-long-arm-rifles-royal-commission-antisemitism-ntwnfb",
-      "headline": "Police were outgunned during Bondi beach massacre due to lack of long-arm rifles, royal commission hears",
-      "summary": "Bondi massacre royal commission hears police were outgunned with pistols against rifles.",
-      "url": "https://www.theguardian.com/p/x56xce",
-      "thumbnail": "https://media.guim.co.uk/ef3b52c92b7d6494745da2dd68149a01873778cf/1571_0_7857_6286/500.jpg",
-      "published": "2026-05-27T05:31:50Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "australia-news"
-    },
     {
       "id": "sport/live/2026/may/27/state-of-origin-2026-game-1-live-score-updates-nsw-blues-vs-queensland-qld-maroons-sydney",
       "headline": "State of Origin 2026 men’s Game 1 live: NSW Blues v Qld Maroons – latest updates",
@@ -1366,6 +1142,134 @@
       "category": "politics",
       "significance": 3,
       "section": "world"
+    },
+    {
+      "id": "politics/live/2026/may/28/alan-milburn-neets-review-labour-youth-unemployment-uk-politics-live-latest-news",
+      "headline": "Minimum wage rise has made it difficult for employers to hire young people, says Alan Milburn – UK politics live",
+      "summary": "Alan Milburn's review finds minimum wage rise making it harder for employers to hire young people.",
+      "url": "https://www.theguardian.com/p/x56849",
+      "thumbnail": "https://media.guim.co.uk/e12b584d7ed45a62b4056ef8342935e905a427e9/418_0_4800_3840/500.jpg",
+      "published": "2026-05-28T08:33:35Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "world/live/2026/may/28/europe-russia-ukraine-talks-heatwave-kaja-kallas-putin-latest-news-updates",
+      "headline": "Kaja Kallas warns against walking into Russian ‘trap’ as EU ministers meet for talks – Europe live",
+      "summary": "EU chief Kaja Kallas warns against Russian 'trap' as ministers debate single negotiator for Ukraine talks.",
+      "url": "https://www.theguardian.com/p/x5688x",
+      "thumbnail": "https://media.guim.co.uk/24c985368b83f703e57fce727755d5a714010860/909_0_4589_3671/500.jpg",
+      "published": "2026-05-28T08:22:32Z",
+      "location": {
+        "name": "Brussels",
+        "lat": 50.8503,
+        "lng": 4.3517
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "world/live/2026/may/28/middle-east-crisis-trump-us-iran-war-lebanon-israel-strikes-latest-news-live",
+      "headline": "Middle East crisis live: Trump warns he may have to ‘finish job’ as US and Iran trade strikes",
+      "summary": "Trump threatens to 'finish job' against Iran, warns US may attack Oman over Strait of Hormuz disputes.",
+      "url": "https://www.theguardian.com/p/x5669c",
+      "thumbnail": "https://media.guim.co.uk/c5ce04ac544001e5bb21902480cc91b6f7a69131/395_0_3927_3143/500.jpg",
+      "published": "2026-05-28T08:19:13Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "business/live/2026/may/28/uk-young-people-out-of-work-unemployment-first-time-buyers-financial-crisis-inflation-food-prices-business-latest-news-updates",
+      "headline": "UK risks ‘lost generation’ of young people out of work; first-time buyers face toughest time since financial crisis – business live",
+      "summary": "UK risks 'lost generation' as youth unemployment could hit 1.25m; first-time buyers face worst conditions since 2008.",
+      "url": "https://www.theguardian.com/p/x567q4",
+      "thumbnail": "https://media.guim.co.uk/93b27c30dfe8055d1ef57e4030419915403de6c0/78_0_1986_1589/500.jpg",
+      "published": "2026-05-28T08:16:04Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "sport/2026/may/28/fifa-president-gianni-infantino-football-australia-support-message",
+      "headline": "Football Australia receives surprise video from Fifa boss Infantino amid news of financial pain",
+      "summary": "Football Australia faces $5m loss in 2026 despite World Cup boost; FIFA president sends support message.",
+      "url": "https://www.theguardian.com/p/x566jq",
+      "thumbnail": "https://media.guim.co.uk/bcc4e22c01076530174b775141d3fe37819a7c2e/716_3_3806_3045/500.jpg",
+      "published": "2026-05-28T08:01:10Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "politics/2026/may/28/brexit-red-tape-food-exports-scrapped-uk-eu-reset-deal",
+      "headline": "Brexit red tape on food exports to be scrapped under UK-EU reset deal",
+      "summary": "UK-EU reset deal scraps Brexit red tape on food exports; new rules take effect mid-2027.",
+      "url": "https://www.theguardian.com/p/x56833",
+      "thumbnail": "https://media.guim.co.uk/61f92a04d6938b1176c0de5eb70fddfb2c128442/168_0_2105_1684/500.jpg",
+      "published": "2026-05-28T08:00:03Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "australia-news/2026/may/28/pro-israel-activist-who-settled-with-middle-eastern-cafe-made-misleading-and-deceptive-comments-judge-says-ntwnfb",
+      "headline": "Pro-Israel activist who settled with Middle Eastern cafe made ‘misleading and deceptive’ comments, judge says ",
+      "summary": "Federal court finds pro-Israel activist made 'misleading' comments in settled case with Middle Eastern café.",
+      "url": "https://www.theguardian.com/p/x566mq",
+      "thumbnail": "https://media.guim.co.uk/a836ff28a4364d808ed0201fa385fe5a49b645e6/225_0_3952_3162/500.jpg",
+      "published": "2026-05-28T07:27:34Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "australia-news/2026/may/28/australian-border-force-chief-on-us-prison-company-mtc-prison-security-failures",
+      "headline": "US firm fined for Australian immigration security failures. How much? Border force refuses to say",
+      "summary": "Australian Border Force refuses to disclose fine amount for US prison firm's immigration security failures.",
+      "url": "https://www.theguardian.com/p/x5672t",
+      "thumbnail": "https://media.guim.co.uk/380226cb016959d508451d75eeaed6241b36f082/0_0_3595_2876/500.jpg",
+      "published": "2026-05-28T07:26:33Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
     }
   ]
 }
