@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-05-28T21:25:43.850Z",
-    "story_count": 62,
+    "generated_at": "2026-05-28T22:53:58.745Z",
+    "story_count": 65,
     "oldest_story": "2026-05-27T23:01:37Z",
-    "newest_story": "2026-05-28T21:24:40Z",
+    "newest_story": "2026-05-28T22:38:26Z",
     "window_hours": 24
   },
   "stories": [
@@ -992,6 +992,54 @@
       "published": "2026-05-28T20:42:24Z",
       "location": {
         "name": "Washington, DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "business/2026/may/28/cbs-news-60-minutes-ousts-executive-producer",
+      "headline": "CBS News shakes up 60 Minutes as ousted correspondents ‘fear what comes next’",
+      "summary": "CBS News appoints ex-NYT journalist Nick Bilton as 60 Minutes executive producer amid editorial integrity concerns.",
+      "url": "https://www.theguardian.com/p/x56aak",
+      "thumbnail": "https://media.guim.co.uk/71e762560cbfa390ff10e4933755c6efc0ad59e2/410_592_3260_2608/500.jpg",
+      "published": "2026-05-28T22:38:26Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "football/2026/may/28/ibrahima-konate-set-to-leave-liverpool-after-failing-to-agree-new-contract",
+      "headline": "Ibrahima Konaté poised to leave Liverpool after failing to agree new contract",
+      "summary": "Defender Ibrahima Konaté set to leave Liverpool on free transfer after contract extension talks fail.",
+      "url": "https://www.theguardian.com/p/x56btf",
+      "thumbnail": "https://media.guim.co.uk/ffc4266fd6f1ddc282d2bb7d9f5b271778c803ed/789_140_2029_1624/500.jpg",
+      "published": "2026-05-28T22:21:53Z",
+      "location": {
+        "name": "Liverpool",
+        "lat": 53.4308,
+        "lng": -2.9626
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/may/28/co-founder-students-trump-arrested-domestic-violence",
+      "headline": "Co-founder of Students for Trump arrested on domestic violence charges",
+      "summary": "Students for Trump co-founder Ryan Fournier arrested on domestic violence charges in Washington DC.",
+      "url": "https://www.theguardian.com/p/x56bdf",
+      "thumbnail": "https://media.guim.co.uk/00af33652c7c9b03a4482068744452b6f8f6e635/300_0_3000_2400/500.jpg",
+      "published": "2026-05-28T22:07:35Z",
+      "location": {
+        "name": "Washington DC",
         "lat": 38.9072,
         "lng": -77.0369
       },
