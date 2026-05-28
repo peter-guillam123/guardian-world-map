@@ -1,156 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-28T16:31:22.446Z",
-    "story_count": 71,
-    "oldest_story": "2026-05-27T16:34:29Z",
-    "newest_story": "2026-05-28T16:18:03Z",
+    "generated_at": "2026-05-28T19:15:48.711Z",
+    "story_count": 64,
+    "oldest_story": "2026-05-27T19:23:31Z",
+    "newest_story": "2026-05-28T19:13:39Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/live/2026/may/27/crystal-palace-v-rayo-vallecano-conference-league-final-live",
-      "headline": "Crystal Palace v Rayo Vallecano: Conference League final – live",
-      "summary": "Crystal Palace face Rayo Vallecano in Conference League final in Leipzig.",
-      "url": "https://www.theguardian.com/p/x55j64",
-      "thumbnail": "https://media.guim.co.uk/6e3aebedc47005976a71a5060fe26e05565d971a/387_0_4895_3916/500.jpg",
-      "published": "2026-05-27T17:30:40Z",
-      "location": {
-        "name": "Leipzig",
-        "lat": 51.3397,
-        "lng": 12.3731
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "environment/2026/may/27/why-ferrari-backlash-electric-car-luce",
-      "headline": "Why is Ferrari facing such a backlash to its first electric car?",
-      "summary": "Ferrari faces backlash over its first electric car, the €550,000 Luce.",
-      "url": "https://www.theguardian.com/p/x563bd",
-      "thumbnail": "https://media.guim.co.uk/abcdacaae4e9fd7ec4243fc2dc140029676541c0/906_394_2054_1643/500.jpg",
-      "published": "2026-05-27T17:16:30Z",
-      "location": {
-        "name": "Modena",
-        "lat": 44.6469,
-        "lng": 10.9256
-      },
-      "category": "tech",
-      "significance": 2,
-      "section": "environment"
-    },
-    {
-      "id": "world/2026/may/27/nearly-half-a-million-russians-killed-in-ukraine-war-uk-spy-chief-says",
-      "headline": "Nearly half a million Russians killed in Ukraine war, UK spy chief says",
-      "summary": "Nearly 500,000 Russian soldiers killed in Ukraine war, says UK spy chief.",
-      "url": "https://www.theguardian.com/p/x564ed",
-      "thumbnail": "https://media.guim.co.uk/e727440bd6b592bcfd8c5a3c25564cb3238f8b27/1643_212_4063_3251/500.jpg",
-      "published": "2026-05-27T17:09:41Z",
-      "location": {
-        "name": "Ukraine",
-        "lat": 48.3794,
-        "lng": 31.1656
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "tv-and-radio/2026/may/27/heated-rivalry-musical-parody-broadway",
-      "headline": "‘Sexy as hell’: filthy and hilarious Heated Rivalry parody musical comes to New York ",
-      "summary": "Heated Rivalry musical parody opens Off-Broadway in West Chelsea.",
-      "url": "https://www.theguardian.com/p/x564dc",
-      "thumbnail": "https://media.guim.co.uk/4b40cf50c3d24a2db8efaad3e88e7b06dcbd1894/0_598_2641_2111/500.jpg",
-      "published": "2026-05-27T17:03:06Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "tv-and-radio"
-    },
-    {
-      "id": "world/2026/may/27/carlo-petrini-obituary",
-      "headline": "Carlo Petrini obituary",
-      "summary": "Carlo Petrini, Slow Food movement founder, obituary published.",
-      "url": "https://www.theguardian.com/p/x564n6",
-      "thumbnail": "https://media.guim.co.uk/d8bab66a01167b58daa92d09be15eaca385b2428/415_38_2406_1924/500.jpg",
-      "published": "2026-05-27T16:55:31Z",
-      "location": {
-        "name": "Rome",
-        "lat": 41.9028,
-        "lng": 12.4964
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "us-news/2026/may/27/igor-lytvynchuk-rock-hawaiian-monk-seal",
-      "headline": "Tourist accused of hurling rock at endangered Hawaiian seal was trying to protect sea turtles, lawyer says",
-      "summary": "Tourist accused of throwing rock at endangered Hawaiian monk seal.",
-      "url": "https://www.theguardian.com/p/x564tp",
-      "thumbnail": "https://media.guim.co.uk/3adc1b95ed873973f7ab3937218fc089e38c0fea/152_0_4591_3672/500.jpg",
-      "published": "2026-05-27T16:45:46Z",
-      "location": {
-        "name": "Honolulu",
-        "lat": 21.3099,
-        "lng": -157.8581
-      },
-      "category": "other",
-      "significance": 1,
-      "section": "us-news"
-    },
-    {
-      "id": "uk-news/2026/may/27/stoke-on-trent-keep-clear-sign-appears-15-years-too-late",
-      "headline": "‘Typical council’: residents baffled after ‘keep clear’ sign appears 15 years too late",
-      "summary": "'Keep clear' school sign appears 15 years after Stoke school relocated.",
-      "url": "https://www.theguardian.com/p/x564c9",
-      "thumbnail": "https://media.guim.co.uk/1c7c3fb5d4b3a973588de9387d86caa442d5e7cb/0_0_5355_4284/500.jpg",
-      "published": "2026-05-27T16:38:22Z",
-      "location": {
-        "name": "Stoke-on-Trent",
-        "lat": 53.0327,
-        "lng": -2.1798
-      },
-      "category": "other",
-      "significance": 1,
-      "section": "uk-news"
-    },
-    {
-      "id": "politics/2026/may/27/brexiters-peddled-nationalistic-pish-said-reform-uk-makerfield-candidate",
-      "headline": "Brexiters peddled ‘nationalistic pish’, said Reform UK’s Makerfield candidate",
-      "summary": "Reform UK's Makerfield candidate previously criticized Brexit as nationalistic.",
-      "url": "https://www.theguardian.com/p/x564gj",
-      "thumbnail": "https://media.guim.co.uk/248094d2d776481223008f4f2f74dc20ff3bf59e/162_0_820_656/500.jpg",
-      "published": "2026-05-27T16:38:03Z",
-      "location": {
-        "name": "Makerfield",
-        "lat": 53.5411,
-        "lng": -2.6461
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "uk-news/2026/may/27/shanice-brookes-family-tribute-sheffield",
-      "headline": "Woman shot dead outside Sheffield bar had ‘biggest heart’, say family",
-      "summary": "Charity worker Shanice Brookes shot dead outside Sheffield bar; family tribute.",
-      "url": "https://www.theguardian.com/p/x564dg",
-      "thumbnail": "https://media.guim.co.uk/ee49ecd2ff1c31dc5faca4326fefb9f9c92b81f3/0_25_750_599/500.jpg",
-      "published": "2026-05-27T16:34:29Z",
-      "location": {
-        "name": "Sheffield",
-        "lat": 53.3811,
-        "lng": -1.4701
-      },
-      "category": "other",
-      "significance": 2,
-      "section": "uk-news"
-    },
     {
       "id": "us-news/2026/may/27/washington-paper-mill-implosion",
       "headline": "Hope fades for nine missing after fatal paper mill tank implosion in Washington state",
@@ -182,86 +38,6 @@
       "category": "culture",
       "significance": 1,
       "section": "law"
-    },
-    {
-      "id": "us-news/2026/may/27/anthony-odiong-priest-texas",
-      "headline": "Catholic priest said ‘we are but men’ when challenged over sex with spiritual directee, court hears",
-      "summary": "Catholic priest accused of exploiting spiritual directee for sex in Texas trial.",
-      "url": "https://www.theguardian.com/p/x565vq",
-      "thumbnail": "https://media.guim.co.uk/1bdea9f752f7cf4c449f60f39075d2b0956a9b8b/354_0_1187_950/500.jpg",
-      "published": "2026-05-27T19:12:09Z",
-      "location": {
-        "name": "Texas",
-        "lat": 31.9686,
-        "lng": -99.9018
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "football/2026/may/27/uefa-action-russia-fake-ukrainian-clubs-shakhtar-donetsk",
-      "headline": "Uefa drags its heels over action against Russia’s fake Ukrainian clubs",
-      "summary": "UEFA delays action against Russia's fake Ukrainian football clubs in league.",
-      "url": "https://www.theguardian.com/p/x564xa",
-      "thumbnail": "https://media.guim.co.uk/d480d750d1b2206b1a94831d9c12859ba6ab9a7d/718_0_5200_4160/500.jpg",
-      "published": "2026-05-27T19:00:43Z",
-      "location": {
-        "name": "Russia",
-        "lat": 61.524,
-        "lng": 105.3188
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "us-news/2026/may/27/new-jersey-ice-immigration",
-      "headline": "‘We are not criminals’: protests erupt as hunger strike rocks New Jersey ICE jail",
-      "summary": "Violence erupts at New Jersey ICE detention center during hunger strike protest.",
-      "url": "https://www.theguardian.com/p/x563qx",
-      "thumbnail": "https://media.guim.co.uk/c131f8e88ab207d5142078d5db2b5f01eb5facab/246_0_2501_2000/500.jpg",
-      "published": "2026-05-27T18:48:39Z",
-      "location": {
-        "name": "New Jersey",
-        "lat": 40.2206,
-        "lng": -74.7597
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/may/27/trump-administration-tariff-refunds",
-      "headline": "Trump administration has paid $20bn in tariff refunds, with at least $65bn more to come",
-      "summary": "Trump administration pays $20bn in tariff refunds after Supreme Court ruling.",
-      "url": "https://www.theguardian.com/p/x5654t",
-      "thumbnail": "https://media.guim.co.uk/9f090fec127ec41eed9e65982abe3dbd72952047/513_0_4402_3522/500.jpg",
-      "published": "2026-05-27T18:46:19Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "football/2026/may/27/barcelona-advanced-talks-signing-anthony-gordon-newcastle",
-      "headline": "Barcelona in advanced talks over signing Anthony Gordon from Newcastle ",
-      "summary": "Barcelona in advanced talks to sign Newcastle winger Anthony Gordon for £70m.",
-      "url": "https://www.theguardian.com/p/x5658f",
-      "thumbnail": "https://media.guim.co.uk/c34f525dc50b7306d0abb3dc385b4fa90416daad/518_471_2538_2030/500.jpg",
-      "published": "2026-05-27T18:35:19Z",
-      "location": {
-        "name": "Barcelona",
-        "lat": 41.3851,
-        "lng": 2.1734
-      },
-      "category": "sport",
-      "significance": 1,
-      "section": "football"
     },
     {
       "id": "australia-news/live/2026/may/28/australia-politics-live-rishworth-jobseeker-capital-gains-tax-jim-chalmers-anthony-albanese-angus-taylor-question-time-senate-estimates-ntwnfb",
@@ -1142,6 +918,118 @@
       "category": "culture",
       "significance": 2,
       "section": "culture"
+    },
+    {
+      "id": "sport/live/2026/may/28/england-v-india-first-womens-t20-cricket-international-live",
+      "headline": "England v India: first women’s T20 cricket international – live",
+      "summary": "England faces India in women's T20 cricket warm-up match at Chelmsford.",
+      "url": "https://www.theguardian.com/p/x55j7n",
+      "thumbnail": "https://media.guim.co.uk/a191072598e521e6950ee28d034a7d8973cbf442/0_22_4947_3956/500.jpg",
+      "published": "2026-05-28T19:13:39Z",
+      "location": {
+        "name": "Chelmsford",
+        "lat": 51.7356,
+        "lng": 0.4746
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "sport/2026/may/28/baking-on-the-clay-how-players-are-feeling-the-heat-in-a-french-open-furnace",
+      "headline": "Baking on the clay: How players are feeling the heat in a French Open furnace ",
+      "summary": "Extreme heat at French Open causes player exits; Sinner blames illness not temperature.",
+      "url": "https://www.theguardian.com/p/x569z6",
+      "thumbnail": "https://media.guim.co.uk/ef259740d0397f200c380431ec1aad671e40d549/0_0_5000_4000/500.jpg",
+      "published": "2026-05-28T19:00:29Z",
+      "location": {
+        "name": "Paris",
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "sport"
+    },
+    {
+      "id": "us-news/2026/may/28/trump-iran-republicans-anger-midterms",
+      "headline": "Dire strait? Trump’s bid to end Iran war before midterms risks Republican anger",
+      "summary": "Trump administration seeks Iran peace deal before midterms amid Republican hawk opposition.",
+      "url": "https://www.theguardian.com/p/x56a4n",
+      "thumbnail": "https://media.guim.co.uk/a26e5b5592a47db2ff06f31e36e56ef606fbfb9d/227_0_2811_2249/500.jpg",
+      "published": "2026-05-28T18:47:44Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "business/2026/may/28/uk-risks-125bn-hit-youth-unemployment-landmark-report-alan-milburn-neets",
+      "headline": "Labour poised for fresh welfare changes after scale of youth jobs crisis revealed",
+      "summary": "Milburn report reveals UK youth unemployment costs £125bn annually, over 1m NEETs.",
+      "url": "https://www.theguardian.com/p/x568ga",
+      "thumbnail": "https://media.guim.co.uk/3ee4730c8f19ce6a11e4508f6dddc51c18df4da9/65_401_3556_2845/500.jpg",
+      "published": "2026-05-28T18:45:21Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "business"
+    },
+    {
+      "id": "us-news/2026/may/28/texas-priest-child-sexual-exploitation-trial",
+      "headline": "Priest on trial for sexual assault in Texas had child with Louisiana congregant, prosecutors say",
+      "summary": "Texas priest on trial for sexual assault; DNA proves child with Louisiana congregant.",
+      "url": "https://www.theguardian.com/p/x56agb",
+      "thumbnail": "https://media.guim.co.uk/f68f2a24ce970d8d2ec8261ad4c8bd102a5a5b7c/1242_601_1760_1408/500.jpg",
+      "published": "2026-05-28T18:36:24Z",
+      "location": {
+        "name": "Texas",
+        "lat": 31.9686,
+        "lng": -99.9018
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/may/28/happy-elephant-dead-age-55-bronx-zoo",
+      "headline": "Happy the elephant dies aged 55 after being euthanized at New York zoo ",
+      "summary": "Happy the elephant, subject of personhood court case, euthanized at Bronx Zoo aged 55.",
+      "url": "https://www.theguardian.com/p/x56ac5",
+      "thumbnail": "https://media.guim.co.uk/200312e92538902e45092beb2116f3be7d09a6b9/915_898_2522_2017/500.jpg",
+      "published": "2026-05-28T18:17:41Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "other",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "world/2026/may/28/netanyahu-orders-israeli-army-seize-70-gaza-strip-violating-ceasefire-deal",
+      "headline": "Netanyahu orders Israeli army to seize ‘70% of Gaza Strip’, violating ceasefire deal",
+      "summary": "Netanyahu orders Israeli army to seize 70% of Gaza Strip, threatening ceasefire agreement.",
+      "url": "https://www.theguardian.com/p/x56at3",
+      "thumbnail": "https://media.guim.co.uk/45e8c61acb3836fc5ae2b653246274a0dccc6652/457_0_7200_5760/500.jpg",
+      "published": "2026-05-28T18:14:28Z",
+      "location": {
+        "name": "Gaza",
+        "lat": 31.9454,
+        "lng": 35.2338
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
     }
   ]
 }
