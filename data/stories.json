@@ -1,76 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-28T22:53:58.745Z",
-    "story_count": 65,
-    "oldest_story": "2026-05-27T23:01:37Z",
-    "newest_story": "2026-05-28T22:38:26Z",
+    "generated_at": "2026-05-29T00:12:57.189Z",
+    "story_count": 62,
+    "oldest_story": "2026-05-28T04:00:54Z",
+    "newest_story": "2026-05-29T00:09:01Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "commentisfree/2026/may/28/femicide-domestic-violence-dv-royal-commission-women-petition-signatures",
-      "headline": "Australians want a royal commission into femicide. What haunts me is wondering if it’ll be enough to make leaders act",
-      "summary": "Australians petition for royal commission into femicide and gender-based violence amid government inaction.",
-      "url": "https://www.theguardian.com/p/x56xkb",
-      "thumbnail": "https://media.guim.co.uk/2d5af72cec8b2176d58e9aae04a2859f20f38b28/676_0_6735_5391/500.jpg",
-      "published": "2026-05-27T23:57:40Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "commentisfree"
-    },
-    {
-      "id": "sport/2026/may/28/adam-walton-australian-tennis-player-french-open-2026",
-      "headline": "Australia’s Adam Walton on tennis lessons next to horses and being a ‘late bloomer’",
-      "summary": "Australian tennis player Adam Walton shocks with French Open victory over top-10 player Daniil Medvedev.",
-      "url": "https://www.theguardian.com/p/x564vt",
-      "thumbnail": "https://media.guim.co.uk/db2d7cc9d275d5d47b82cab014e8969a4ea5e2b3/450_0_4701_3762/500.jpg",
-      "published": "2026-05-27T23:46:44Z",
-      "location": {
-        "name": "Paris",
-        "lat": 48.8566,
-        "lng": 2.3522
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "football/2026/may/28/oliver-glasner-emotional-crystal-palace-conference-league-final",
-      "headline": "‘I took a deep breath’: Oliver Glasner emotional after perfect Crystal Palace send-off",
-      "summary": "Crystal Palace manager Oliver Glasner wins Conference League in emotional final match before departure.",
-      "url": "https://www.theguardian.com/p/x566xm",
-      "thumbnail": "https://media.guim.co.uk/55e54fd78a6324f3d57c8843a87ae2c069d3e845/449_178_3411_2728/500.jpg",
-      "published": "2026-05-27T23:10:43Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "artanddesign/2026/may/28/leonora-carrington-work-painted-during-psychiatric-confinement-to-go-on-show-for-first-time",
-      "headline": "Leonora Carrington work painted during psychiatric confinement to go on show for first time",
-      "summary": "Leonora Carrington painting from 1940 psychiatric confinement displayed publicly for first time at Freud Museum.",
-      "url": "https://www.theguardian.com/p/x5644b",
-      "thumbnail": "https://media.guim.co.uk/9fbd602f31aa866d048322aa92613d98a002f7c4/638_0_5318_4258/500.jpg",
-      "published": "2026-05-27T23:01:37Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "artanddesign"
-    },
     {
       "id": "environment/2026/may/28/country-diary-mayday-mayday-the-heatwave-is-killing-the-swallow-chicks",
       "headline": "Country diary: Mayday, mayday … the heatwave is killing the swallow chicks",
@@ -1046,6 +982,22 @@
       "category": "politics",
       "significance": 2,
       "section": "us-news"
+    },
+    {
+      "id": "world/2026/may/28/donald-trump-shares-draft-iran-peace-agreement-with-israel-and-other-allies",
+      "headline": "Donald Trump shares draft Iran peace agreement with Israel and other allies",
+      "summary": "Trump shares draft Iran peace agreement with Israel and allies amid ceasefire negotiations.",
+      "url": "https://www.theguardian.com/p/x569dq",
+      "thumbnail": "https://media.guim.co.uk/4b105060abb2ceac65571e1a6ff38e4e0c6ab74b/546_0_5000_4000/500.jpg",
+      "published": "2026-05-29T00:09:01Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 4,
+      "section": "world"
     }
   ]
 }
