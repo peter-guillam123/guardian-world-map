@@ -1,92 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-29T21:00:13.615Z",
+    "generated_at": "2026-05-29T22:40:47.316Z",
     "story_count": 53,
-    "oldest_story": "2026-05-28T21:11:04Z",
-    "newest_story": "2026-05-29T20:49:10Z",
+    "oldest_story": "2026-05-29T00:09:01Z",
+    "newest_story": "2026-05-29T22:07:23Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "us-news/2026/may/28/new-jersey-ice-protesters",
-      "headline": "‘We won’t stop until they’re free’: protesters outside a New Jersey ICE facility in their own words",
-      "summary": "Over 300 ICE detainees on hunger strike at Newark facility as protesters rally outside.",
-      "url": "https://www.theguardian.com/p/x56bxv",
-      "thumbnail": "https://media.guim.co.uk/b8b57583e29ca5124e8dac65ae472f243c469d27/250_0_2500_2000/500.jpg",
-      "published": "2026-05-28T21:24:40Z",
-      "location": {
-        "name": "Newark, New Jersey",
-        "lat": 40.7357,
-        "lng": -74.1724
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "australia-news/live/2026/may/29/australia-news-live-senate-estimates-capital-gains-tax-anthony-albanese-angus-taylor-housing-weather-floods-ntwnfb",
-      "headline": "Australia news live: Asio warns politicians that internet-connected cars could be bugged; flood warnings after wild weather",
-      "summary": "ASIO warns Australian politicians about security risks from internet-connected vehicles.",
-      "url": "https://www.theguardian.com/p/x56935",
-      "thumbnail": "https://media.guim.co.uk/bdb55d130229c9fdb29c56463584e3f840b7ff10/964_0_6880_5504/500.jpg",
-      "published": "2026-05-28T21:11:04Z",
-      "location": {
-        "name": "Sydney, Australia",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "business/2026/may/28/cbs-news-60-minutes-ousts-executive-producer",
-      "headline": "CBS News shakes up 60 Minutes as ousted correspondents ‘fear what comes next’",
-      "summary": "CBS News appoints ex-NYT journalist Nick Bilton as 60 Minutes executive producer amid editorial integrity concerns.",
-      "url": "https://www.theguardian.com/p/x56aak",
-      "thumbnail": "https://media.guim.co.uk/71e762560cbfa390ff10e4933755c6efc0ad59e2/410_592_3260_2608/500.jpg",
-      "published": "2026-05-28T22:38:26Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "football/2026/may/28/ibrahima-konate-set-to-leave-liverpool-after-failing-to-agree-new-contract",
-      "headline": "Ibrahima Konaté poised to leave Liverpool after failing to agree new contract",
-      "summary": "Defender Ibrahima Konaté set to leave Liverpool on free transfer after contract extension talks fail.",
-      "url": "https://www.theguardian.com/p/x56btf",
-      "thumbnail": "https://media.guim.co.uk/ffc4266fd6f1ddc282d2bb7d9f5b271778c803ed/789_140_2029_1624/500.jpg",
-      "published": "2026-05-28T22:21:53Z",
-      "location": {
-        "name": "Liverpool",
-        "lat": 53.4308,
-        "lng": -2.9626
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "us-news/2026/may/28/co-founder-students-trump-arrested-domestic-violence",
-      "headline": "Co-founder of Students for Trump arrested on domestic violence charges",
-      "summary": "Students for Trump co-founder Ryan Fournier arrested on domestic violence charges in Washington DC.",
-      "url": "https://www.theguardian.com/p/x56bdf",
-      "thumbnail": "https://media.guim.co.uk/00af33652c7c9b03a4482068744452b6f8f6e635/300_0_3000_2400/500.jpg",
-      "published": "2026-05-28T22:07:35Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
     {
       "id": "world/2026/may/28/donald-trump-shares-draft-iran-peace-agreement-with-israel-and-other-allies",
       "headline": "Donald Trump shares draft Iran peace agreement with Israel and other allies",
@@ -853,6 +773,86 @@
       },
       "category": "politics",
       "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "uk-news/2026/may/29/two-jailed-fatal-crash-manchester-travelling-130mph-in-30mph-zone",
+      "headline": "Pair jailed over 139mph Manchester crash that killed pedestrian",
+      "summary": "Two men jailed for fatal 139mph crash in 30mph zone while under influence of nitrous oxide.",
+      "url": "https://www.theguardian.com/p/x56h4a",
+      "thumbnail": "https://media.guim.co.uk/77330577728ce2c320876140dea8ea5d42d2d71d/0_18_940_752/500.jpg",
+      "published": "2026-05-29T22:07:23Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "sport/2026/may/29/tennis-french-open-novak-djokovic-joao-fonseca-roland-garros-five-sets",
+      "headline": "Teenage prodigy João Fonseca beats old master Novak Djokovic in five-set epic at French Open",
+      "summary": "Brazilian teenager João Fonseca defeats Novak Djokovic in epic five-set French Open match.",
+      "url": "https://www.theguardian.com/p/x56g5y",
+      "thumbnail": "https://media.guim.co.uk/5787849a6d3fb483df41eac1a69167ac4c268337/471_0_4810_3848/500.jpg",
+      "published": "2026-05-29T21:43:18Z",
+      "location": {
+        "name": "Paris",
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "sport"
+    },
+    {
+      "id": "us-news/2026/may/29/new-jersey-delaney-hall-police-ice",
+      "headline": "New Jersey says state police will replace federal agents outside ICE facility",
+      "summary": "New Jersey state police to replace federal agents at ICE facility amid rising tensions.",
+      "url": "https://www.theguardian.com/p/x56gm3",
+      "thumbnail": "https://media.guim.co.uk/5a8bcf3231c9b91536ed2414422356a68f9907a8/833_0_4730_3785/500.jpg",
+      "published": "2026-05-29T21:34:47Z",
+      "location": {
+        "name": "New Jersey",
+        "lat": 40.2206,
+        "lng": -74.7597
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "uk-news/2026/may/29/almost-100-homes-evacuated-in-scottish-village-after-reports-of-ground-movement",
+      "headline": "Nearly 100 homes evacuated in Scottish village after reports of ground movement",
+      "summary": "Nearly 100 homes evacuated in Scottish mining village due to reported ground movement.",
+      "url": "https://www.theguardian.com/p/x56gke",
+      "thumbnail": "https://media.guim.co.uk/0299528076a12d2514f6ae75eb763f92e05ef506/0_64_4807_3845/500.jpg",
+      "published": "2026-05-29T21:33:10Z",
+      "location": {
+        "name": "Coalsnaughton",
+        "lat": 56.1333,
+        "lng": -3.7167
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "us-news/2026/may/29/texas-trial-catholic-priest-sexual-assault",
+      "headline": "Texas jury convicts Catholic priest of sexual assault after Guardian reporting",
+      "summary": "Catholic priest convicted of sexual assault after exploiting spiritual counseling relationship.",
+      "url": "https://www.theguardian.com/p/x56gj6",
+      "thumbnail": "https://media.guim.co.uk/fe7926fb13982cb9376d9655f62d58c75cc34496/247_404_2777_2220/500.jpg",
+      "published": "2026-05-29T21:32:22Z",
+      "location": {
+        "name": "Texas",
+        "lat": 31.9686,
+        "lng": -99.9018
+      },
+      "category": "health",
+      "significance": 2,
       "section": "us-news"
     }
   ]
