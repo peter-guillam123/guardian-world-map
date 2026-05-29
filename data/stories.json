@@ -1,156 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-29T15:52:53.679Z",
-    "story_count": 65,
-    "oldest_story": "2026-05-28T15:55:42Z",
-    "newest_story": "2026-05-29T15:35:38Z",
+    "generated_at": "2026-05-29T18:33:35.392Z",
+    "story_count": 62,
+    "oldest_story": "2026-05-28T18:36:24Z",
+    "newest_story": "2026-05-29T18:32:39Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "us-news/2026/may/28/supreme-court-mississippi-death-row-racial-bias",
-      "headline": "Supreme court sides with Mississippi man on death row in racial bias case",
-      "summary": "Supreme Court rules 5-4 for Mississippi death row inmate over racial bias in jury selection.",
-      "url": "https://www.theguardian.com/p/x56a32",
-      "thumbnail": "https://media.guim.co.uk/01e3227856977802eb495ebebdcd16d404a03b8a/537_0_4967_3973/500.jpg",
-      "published": "2026-05-28T16:18:03Z",
-      "location": {
-        "name": "Mississippi",
-        "lat": 32.7416,
-        "lng": -89.6787
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/may/28/federal-judges-trump-anti-weaponization-fund",
-      "headline": "Bipartisan group of ex-federal judges challenges Trump’s $1.8bn ‘anti-weaponization’ fund",
-      "summary": "Ex-federal judges file lawsuit challenging Trump's $1.8bn 'anti-weaponization' settlement fund.",
-      "url": "https://www.theguardian.com/p/x569yy",
-      "thumbnail": "https://media.guim.co.uk/5b19ca08147b01e60a0148141145608de0891bd5/1170_0_6410_5127/500.jpg",
-      "published": "2026-05-28T16:12:07Z",
-      "location": {
-        "name": "Miami",
-        "lat": 25.7617,
-        "lng": -80.1918
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "business/2026/may/28/inflation-increased-april-iran-war-price-rises",
-      "headline": "US inflation rose at fastest pace in three years in April as Iran war hikes up prices",
-      "summary": "US inflation hits three-year high in April amid Iran war, affecting household income and elections.",
-      "url": "https://www.theguardian.com/p/x56a5a",
-      "thumbnail": "https://media.guim.co.uk/0c98b4915557d21cf5ada02793836648119791cc/680_0_3320_2656/500.jpg",
-      "published": "2026-05-28T16:06:35Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "business"
-    },
-    {
-      "id": "technology/2026/may/28/image-of-thai-police-in-sparkly-dresses-with-handcuffed-suspect-turns-out-to-be-ai-fake",
-      "headline": "Image of Thai police in sparkly dresses with handcuffed suspect turns out to be AI fake",
-      "summary": "Thai police station admits AI-generated image of officers in sparkly dresses with suspect was fake.",
-      "url": "https://www.theguardian.com/p/x56a4a",
-      "thumbnail": "https://media.guim.co.uk/d3633cb48472a736251988a520826f730d063d9b/257_0_2318_1855/500.jpg",
-      "published": "2026-05-28T16:05:33Z",
-      "location": {
-        "name": "Bangkok",
-        "lat": 13.7563,
-        "lng": 100.5018
-      },
-      "category": "tech",
-      "significance": 2,
-      "section": "technology"
-    },
-    {
-      "id": "technology/2026/may/28/frank-land-obituary",
-      "headline": "Frank Land obituary",
-      "summary": "Obituary of Frank Land, UK pioneer in business computing and first professor of information systems.",
-      "url": "https://www.theguardian.com/p/x569m7",
-      "thumbnail": "https://media.guim.co.uk/e680aca6dca01b013280037aa3ea3f7af685017c/82_82_752_602/500.jpg",
-      "published": "2026-05-28T16:04:06Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "technology"
-    },
-    {
-      "id": "football/2026/may/28/arsenal-owners-promise-to-strengthen-squad-even-if-double-is-achieved-in-budapest",
-      "headline": "Arsenal owners promise to strengthen squad even if Champions League is won",
-      "summary": "Arsenal owner promises squad strengthening and new contract for Arteta before Champions League final.",
-      "url": "https://www.theguardian.com/p/x5642d",
-      "thumbnail": "https://media.guim.co.uk/c7b1ea5d92b7a0372bd5404a8fb7ef615bc86520/1136_495_6200_4960/500.jpg",
-      "published": "2026-05-28T16:00:25Z",
-      "location": {
-        "name": "Budapest",
-        "lat": 47.4979,
-        "lng": 19.0402
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "environment/2026/may/28/air-conditioning-uk-homes-heatwave",
-      "headline": "Should I get air conditioning in the UK – and can it be green?",
-      "summary": "Guide to air conditioning in UK homes as heatwaves intensify and sales boom amid climate concerns.",
-      "url": "https://www.theguardian.com/p/x569ae",
-      "thumbnail": "https://media.guim.co.uk/b044c9cd0ff16e5f39d3a4a78c094eb2d5919529/1332_0_6827_5464/500.jpg",
-      "published": "2026-05-28T15:58:55Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "environment"
-    },
-    {
-      "id": "uk-news/2026/may/28/jeffrey-donaldson-trial-hears-alleged-sex-abuse-victim-tell-police-of-nightmares",
-      "headline": "Jeffrey Donaldson trial hears alleged sexual abuse victim tell police of nightmares",
-      "summary": "Trial hears alleged abuse victim describe nightmares from accusations against ex-DUP leader Donaldson.",
-      "url": "https://www.theguardian.com/p/x56a3e",
-      "thumbnail": "https://media.guim.co.uk/3c6ff37653c9a2f2b010dec8a265369e19d061d3/338_0_2559_2048/500.jpg",
-      "published": "2026-05-28T15:56:34Z",
-      "location": {
-        "name": "Newry",
-        "lat": 54.1751,
-        "lng": -6.3381
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "culture/2026/may/28/british-museum-postpones-jewish-culture-month-lecture-over-protest-fears",
-      "headline": "British Museum postpones Jewish culture month lecture over protest fears",
-      "summary": "British Museum postpones Jewish culture month lecture citing protest concerns, drawing free speech criticism.",
-      "url": "https://www.theguardian.com/p/x56945",
-      "thumbnail": "https://media.guim.co.uk/53f7268e2b83c1d3199bce04601b26f232f8f311/279_0_4528_3622/500.jpg",
-      "published": "2026-05-28T15:55:42Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "culture"
-    },
     {
       "id": "sport/live/2026/may/28/england-v-india-first-womens-t20-cricket-international-live",
       "headline": "England v India: first women’s T20 cricket international – live",
@@ -230,38 +86,6 @@
       "category": "health",
       "significance": 2,
       "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/may/28/happy-elephant-dead-age-55-bronx-zoo",
-      "headline": "Happy the elephant dies aged 55 after being euthanized at New York zoo ",
-      "summary": "Happy the elephant, subject of personhood court case, euthanized at Bronx Zoo aged 55.",
-      "url": "https://www.theguardian.com/p/x56ac5",
-      "thumbnail": "https://media.guim.co.uk/200312e92538902e45092beb2116f3be7d09a6b9/915_898_2522_2017/500.jpg",
-      "published": "2026-05-28T18:17:41Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "other",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "world/2026/may/28/netanyahu-orders-israeli-army-seize-70-gaza-strip-violating-ceasefire-deal",
-      "headline": "Netanyahu orders Israeli army to seize ‘70% of Gaza Strip’, violating ceasefire deal",
-      "summary": "Netanyahu orders Israeli army to seize 70% of Gaza Strip, threatening ceasefire agreement.",
-      "url": "https://www.theguardian.com/p/x56at3",
-      "thumbnail": "https://media.guim.co.uk/45e8c61acb3836fc5ae2b653246274a0dccc6652/457_0_7200_5760/500.jpg",
-      "published": "2026-05-28T18:14:28Z",
-      "location": {
-        "name": "Gaza",
-        "lat": 31.9454,
-        "lng": 35.2338
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
     },
     {
       "id": "us-news/2026/may/28/new-jersey-ice-protesters",
@@ -1046,6 +870,134 @@
       "category": "health",
       "significance": 3,
       "section": "uk-news"
+    },
+    {
+      "id": "uk-news/2026/may/29/greek-man-ioannis-aidinidis-court-charged-spying-iranian-journalist-london",
+      "headline": "Greek man appears in court charged with spying on Iranian journalist in London ",
+      "summary": "Greek man charged with spying on Iranian journalist in London using hidden camera.",
+      "url": "https://www.theguardian.com/p/x56g7y",
+      "thumbnail": "https://media.guim.co.uk/4bb081a0576ee53826382f2d5eccc2d6651506f3/422_0_4825_3860/500.jpg",
+      "published": "2026-05-29T18:32:39Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "uk-news"
+    },
+    {
+      "id": "us-news/2026/may/29/utah-voter-roll-audit-trump-lawsuit",
+      "headline": "Utah releases state voter roll audit amid Trump administration lawsuit",
+      "summary": "Utah releases voter roll audit finding 99.7% of registered voters are US citizens.",
+      "url": "https://www.theguardian.com/p/x56g34",
+      "thumbnail": "https://media.guim.co.uk/38cfcba0ac2f19b0b24a6d68f5834b951e905f10/134_0_3001_2400/500.jpg",
+      "published": "2026-05-29T18:00:56Z",
+      "location": {
+        "name": "Salt Lake City",
+        "lat": 40.7608,
+        "lng": -111.891
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/may/29/arsenal-champions-league-final-mikel-arteta-paris-saint-germain",
+      "headline": "Arteta insists Arsenal’s ‘ambition is bigger’ for Champions League glory after title win",
+      "summary": "Arsenal faces PSG in Champions League final after winning Premier League title.",
+      "url": "https://www.theguardian.com/p/x56g96",
+      "thumbnail": "https://media.guim.co.uk/5e38b513ec276d08e0e868696c2bdeff23673aec/114_0_3832_3066/500.jpg",
+      "published": "2026-05-29T17:53:42Z",
+      "location": {
+        "name": "Budapest",
+        "lat": 47.4979,
+        "lng": 19.0402
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "world/2026/may/29/un-israel-russia-blacklist-sexual-violence-conflict",
+      "headline": "UN adds Israel and Russia to blacklist for sexual violence in conflict ",
+      "summary": "UN blacklists Israel and Russia for sexual violence in conflict zones.",
+      "url": "https://www.theguardian.com/p/x56fpt",
+      "thumbnail": "https://media.guim.co.uk/0485c014a2b3fd0416477477dbaa214bfd14b501/1016_583_4238_3390/500.jpg",
+      "published": "2026-05-29T17:37:33Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "world/2026/may/29/mexico-senate-election-constitutional-amendment",
+      "headline": "Alarm at Mexico bill allowing elections to be annulled for ‘foreign interference’",
+      "summary": "Mexico passes bill allowing elections to be annulled for alleged foreign interference.",
+      "url": "https://www.theguardian.com/p/x56gvh",
+      "thumbnail": "https://media.guim.co.uk/f57dace0c464fe8d31c0b823933d50e4d04a4384/301_0_6422_5136/500.jpg",
+      "published": "2026-05-29T17:33:35Z",
+      "location": {
+        "name": "Mexico City",
+        "lat": 19.4326,
+        "lng": -99.1332
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "world/2026/may/29/trump-on-verge-of-approving-peace-deal-with-major-iranian-concessions",
+      "headline": "Trump claims to be on verge of approving peace deal with major Iranian concessions",
+      "summary": "Trump claims imminent Iran peace deal; Tehran denies agreement reached.",
+      "url": "https://www.theguardian.com/p/x56fy2",
+      "thumbnail": "https://media.guim.co.uk/fb7d3885815791e383918eb254922367dacfdf5f/0_0_3000_2400/500.jpg",
+      "published": "2026-05-29T17:33:08Z",
+      "location": {
+        "name": "Tehran",
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "category": "politics",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "environment/2026/may/29/dartford-warbler-stages-a-comeback-60-years-after-almost-vanishing",
+      "headline": "Dartford warbler stages a comeback 60 years after almost vanishing ",
+      "summary": "Dartford warbler population surges 44% on RSPB reserves after near extinction.",
+      "url": "https://www.theguardian.com/p/x568jj",
+      "thumbnail": "https://media.guim.co.uk/65c0a57818f89f370b7df3d6ae964c747be59e31/602_584_2369_1895/500.jpg",
+      "published": "2026-05-29T17:32:17Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "environment"
+    },
+    {
+      "id": "us-news/2026/may/29/hawaii-suspect-arrest-three-men-killed",
+      "headline": "Suspect in killings of three elderly men arrested in cave on Hawaii’s Big Island",
+      "summary": "Suspect arrested in cave on Hawaii's Big Island for killings of three elderly men.",
+      "url": "https://www.theguardian.com/p/x56fn9",
+      "thumbnail": "https://media.guim.co.uk/e0e4835e468ee2d70ee2b5dc14c5a77b87bc7494/167_0_880_704/500.jpg",
+      "published": "2026-05-29T17:28:56Z",
+      "location": {
+        "name": "Hilo",
+        "lat": 19.7297,
+        "lng": -155.09
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "us-news"
     }
   ]
 }
