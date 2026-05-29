@@ -1,92 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-29T18:33:35.392Z",
-    "story_count": 62,
-    "oldest_story": "2026-05-28T18:36:24Z",
-    "newest_story": "2026-05-29T18:32:39Z",
+    "generated_at": "2026-05-29T21:00:13.615Z",
+    "story_count": 53,
+    "oldest_story": "2026-05-28T21:11:04Z",
+    "newest_story": "2026-05-29T20:49:10Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "sport/live/2026/may/28/england-v-india-first-womens-t20-cricket-international-live",
-      "headline": "England v India: first women’s T20 cricket international – live",
-      "summary": "England faces India in women's T20 cricket warm-up match at Chelmsford.",
-      "url": "https://www.theguardian.com/p/x55j7n",
-      "thumbnail": "https://media.guim.co.uk/a191072598e521e6950ee28d034a7d8973cbf442/0_22_4947_3956/500.jpg",
-      "published": "2026-05-28T19:13:39Z",
-      "location": {
-        "name": "Chelmsford",
-        "lat": 51.7356,
-        "lng": 0.4746
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "sport/2026/may/28/baking-on-the-clay-how-players-are-feeling-the-heat-in-a-french-open-furnace",
-      "headline": "Baking on the clay: How players are feeling the heat in a French Open furnace ",
-      "summary": "Extreme heat at French Open causes player exits; Sinner blames illness not temperature.",
-      "url": "https://www.theguardian.com/p/x569z6",
-      "thumbnail": "https://media.guim.co.uk/ef259740d0397f200c380431ec1aad671e40d549/0_0_5000_4000/500.jpg",
-      "published": "2026-05-28T19:00:29Z",
-      "location": {
-        "name": "Paris",
-        "lat": 48.8566,
-        "lng": 2.3522
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "sport"
-    },
-    {
-      "id": "us-news/2026/may/28/trump-iran-republicans-anger-midterms",
-      "headline": "Dire strait? Trump’s bid to end Iran war before midterms risks Republican anger",
-      "summary": "Trump administration seeks Iran peace deal before midterms amid Republican hawk opposition.",
-      "url": "https://www.theguardian.com/p/x56a4n",
-      "thumbnail": "https://media.guim.co.uk/a26e5b5592a47db2ff06f31e36e56ef606fbfb9d/227_0_2811_2249/500.jpg",
-      "published": "2026-05-28T18:47:44Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "business/2026/may/28/uk-risks-125bn-hit-youth-unemployment-landmark-report-alan-milburn-neets",
-      "headline": "Labour poised for fresh welfare changes after scale of youth jobs crisis revealed",
-      "summary": "Milburn report reveals UK youth unemployment costs £125bn annually, over 1m NEETs.",
-      "url": "https://www.theguardian.com/p/x568ga",
-      "thumbnail": "https://media.guim.co.uk/3ee4730c8f19ce6a11e4508f6dddc51c18df4da9/65_401_3556_2845/500.jpg",
-      "published": "2026-05-28T18:45:21Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "business"
-    },
-    {
-      "id": "us-news/2026/may/28/texas-priest-child-sexual-exploitation-trial",
-      "headline": "Priest on trial for sexual assault in Texas had child with Louisiana congregant, prosecutors say",
-      "summary": "Texas priest on trial for sexual assault; DNA proves child with Louisiana congregant.",
-      "url": "https://www.theguardian.com/p/x56agb",
-      "thumbnail": "https://media.guim.co.uk/f68f2a24ce970d8d2ec8261ad4c8bd102a5a5b7c/1242_601_1760_1408/500.jpg",
-      "published": "2026-05-28T18:36:24Z",
-      "location": {
-        "name": "Texas",
-        "lat": 31.9686,
-        "lng": -99.9018
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "us-news"
-    },
     {
       "id": "us-news/2026/may/28/new-jersey-ice-protesters",
       "headline": "‘We won’t stop until they’re free’: protesters outside a New Jersey ICE facility in their own words",
@@ -118,86 +38,6 @@
       "category": "politics",
       "significance": 2,
       "section": "australia-news"
-    },
-    {
-      "id": "sport/2026/may/28/indias-bhatia-and-rodrigues-overpower-england-to-set-up-victory-in-first-t20i",
-      "headline": "India’s Bhatia and Rodrigues overpower England to set up victory in first T20 international",
-      "summary": "India defeats England by 38 runs in women's T20 cricket international at Chelmsford.",
-      "url": "https://www.theguardian.com/p/x56b94",
-      "thumbnail": "https://media.guim.co.uk/7838f9c68417363883540b8c9fef53c63b5888c2/346_0_2940_2352/500.jpg",
-      "published": "2026-05-28T20:59:35Z",
-      "location": {
-        "name": "Chelmsford, England",
-        "lat": 51.7356,
-        "lng": 0.4747
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "us-news/2026/may/28/trump-250-bill",
-      "headline": "White House pushes Congress to approve $250 bill with Trump’s image",
-      "summary": "White House pushes Congress to approve $250 bill featuring Trump's portrait for 250th anniversary.",
-      "url": "https://www.theguardian.com/p/x56b9n",
-      "thumbnail": "https://media.guim.co.uk/4c57a9a36695042c4ded2a604f9f193c2b986cce/447_0_4430_3545/500.jpg",
-      "published": "2026-05-28T20:57:38Z",
-      "location": {
-        "name": "Washington, DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "politics/2026/may/28/sturgeon-says-she-was-deceived-misled-and-betrayed-by-ex-husband-murrell",
-      "headline": "Sturgeon says she was ‘deceived, misled and betrayed’ by ex-husband Murrell",
-      "summary": "Nicola Sturgeon says ex-husband Peter Murrell deceived her during SNP embezzlement scandal.",
-      "url": "https://www.theguardian.com/p/x56am7",
-      "thumbnail": "https://media.guim.co.uk/1311de5fa00832e6d34f57779675db6a83ffe21a/1586_393_3497_2797/500.jpg",
-      "published": "2026-05-28T20:54:24Z",
-      "location": {
-        "name": "London, UK",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "australia-news/2026/may/29/morning-mail-friday-ntwnfb",
-      "headline": "Morning Mail: Hanson and Joyce’s cruise ship claims, Netanyahu’s Gaza order, Sinner wilts in Paris ",
-      "summary": "Pauline Hanson and Barnaby Joyce billed taxpayers for luxury cruise ship fundraising events.",
-      "url": "https://www.theguardian.com/p/x568t9",
-      "thumbnail": "https://media.guim.co.uk/a4736aaf1fae4b2bfcc68245011ed0496d2415d5/0_0_5000_4000/500.jpg",
-      "published": "2026-05-28T20:51:22Z",
-      "location": {
-        "name": "Sydney, Australia",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "us-news/2026/may/28/e-jean-carroll-doj-trump-reid-hoffman",
-      "headline": "Federal inquiry into E Jean Carroll part of investigation into Reid Hoffman non-profit",
-      "summary": "DOJ investigation targets LinkedIn founder Reid Hoffman over entity backing E Jean Carroll inquiry.",
-      "url": "https://www.theguardian.com/p/x56b26",
-      "thumbnail": "https://media.guim.co.uk/9c0142d2f682cf27f7d0413b8e25230cb5222662/0_0_5000_4000/500.jpg",
-      "published": "2026-05-28T20:42:24Z",
-      "location": {
-        "name": "Washington, DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
     },
     {
       "id": "business/2026/may/28/cbs-news-60-minutes-ousts-executive-producer",
@@ -997,6 +837,22 @@
       },
       "category": "conflict",
       "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/may/29/trump-green-card-rules",
+      "headline": "‘The rug pulled out from everyone’: the chaos of Trump’s new green card rules",
+      "summary": "Trump's new green card policy requires foreigners in US to return home for processing.",
+      "url": "https://www.theguardian.com/p/x56gvz",
+      "thumbnail": "https://media.guim.co.uk/222429578a0296712fcd9b420d7a3f5f32b86f19/376_0_3024_2419/500.jpg",
+      "published": "2026-05-29T20:49:10Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
       "section": "us-news"
     }
   ]
