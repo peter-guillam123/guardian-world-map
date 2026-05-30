@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-05-30T09:11:53.211Z",
-    "story_count": 55,
+    "generated_at": "2026-05-30T10:54:16.365Z",
+    "story_count": 61,
     "oldest_story": "2026-05-29T10:55:01Z",
-    "newest_story": "2026-05-30T09:06:14Z",
+    "newest_story": "2026-05-30T10:52:45Z",
     "window_hours": 24
   },
   "stories": [
@@ -886,6 +886,102 @@
       "category": "sport",
       "significance": 2,
       "section": "sport"
+    },
+    {
+      "id": "society/2026/may/30/young-people-neets-jobs-housing-crisis-homelessness",
+      "headline": "Rise in youth unemployment driving more to homelessness, UK charities say",
+      "summary": "UK charities warn youth unemployment surge is driving more young people into homelessness.",
+      "url": "https://www.theguardian.com/p/x55pvq",
+      "thumbnail": "https://media.guim.co.uk/703c542525c452b3e3773ffcfeed3b48fe2f379e/0_0_5000_4000/500.jpg",
+      "published": "2026-05-30T10:52:45Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "society"
+    },
+    {
+      "id": "lifeandstyle/2026/may/30/olivier-lei-best-phone-picture-famous-bar-barcelona",
+      "headline": "‘If you know Barcelona, you’ll know this place’: Olivier Lei’s best phone picture",
+      "summary": "French photographer Olivier Lei captures Barcelona bar scene in phone photography feature.",
+      "url": "https://www.theguardian.com/p/x5xmca",
+      "thumbnail": "https://media.guim.co.uk/c289e730adb0816ee366371cf7928db0ac90202d/0_0_3024_2419/500.jpg",
+      "published": "2026-05-30T10:00:17Z",
+      "location": {
+        "name": "Barcelona",
+        "lat": 41.3851,
+        "lng": 2.1734
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "lifeandstyle"
+    },
+    {
+      "id": "football/2026/may/30/usmnt-questions-senegal-germany-christian-pulisic-gio-reyna",
+      "headline": "USMNT World Cup tune-ups: can Pulisic end his drought and who is Pochettino’s super-sub?",
+      "summary": "USMNT prepares friendlies against Senegal and Germany ahead of 2026 World Cup.",
+      "url": "https://www.theguardian.com/p/x56gxj",
+      "thumbnail": "https://media.guim.co.uk/91431222bdfebd598ff2e3167471c15b831f7925/0_183_5000_4001/500.jpg",
+      "published": "2026-05-30T10:00:16Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/may/30/iran-trump-peace-deal-analysis",
+      "headline": "Looming Iran peace deal shows how Trump’s maximalist goals have shrunk",
+      "summary": "Trump's Iran peace deal negotiations show shrinking goals after three-month diplomatic effort.",
+      "url": "https://www.theguardian.com/p/x56gjx",
+      "thumbnail": "https://media.guim.co.uk/f5f1e7c13420076062dba3d166a9da733098b8fc/551_0_5483_4389/500.jpg",
+      "published": "2026-05-30T10:00:16Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/may/30/usa-north-america-1994-world-cup-memories",
+      "headline": "Commercialised, curious, sometimes raucous: USA 94 was a joy to attend",
+      "summary": "Retrospective on 1994 FIFA World Cup in USA, recalled as commercialised yet distinctive tournament.",
+      "url": "https://www.theguardian.com/p/x5xgka",
+      "thumbnail": "https://media.guim.co.uk/3958c92c54692911177596e99df7097ba6d92118/0_0_2500_2000/500.jpg",
+      "published": "2026-05-30T10:00:16Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "sport",
+      "significance": 1,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/may/30/democrats-senate-battleground-states-republicans",
+      "headline": "Democrats have fresh hope to win back Senate – could they really pull it off?",
+      "summary": "Democrats see Senate opportunities in North Carolina, Ohio, Maine and Alaska after Texas primary.",
+      "url": "https://www.theguardian.com/p/x56fdd",
+      "thumbnail": "https://media.guim.co.uk/7eb2859f8c7bcc7df5e5a7c14fe080ce4958c859/1_0_2999_2400/500.jpg",
+      "published": "2026-05-30T10:00:16Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
     }
   ]
 }
