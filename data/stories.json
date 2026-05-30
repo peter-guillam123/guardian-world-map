@@ -1,28 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-30T03:54:56.750Z",
-    "story_count": 53,
-    "oldest_story": "2026-05-29T04:30:40Z",
-    "newest_story": "2026-05-30T02:49:20Z",
+    "generated_at": "2026-05-30T06:51:04.994Z",
+    "story_count": 56,
+    "oldest_story": "2026-05-29T07:49:49Z",
+    "newest_story": "2026-05-30T06:00:12Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "environment/2026/may/29/country-diary-today-was-once-a-public-holiday-thanks-to-these-oak-apples",
-      "headline": "Country diary: Today was once a public holiday, thanks to these oak ‘apples’",
-      "summary": "Historical account of Oak Apple Day origins tied to Charles II's escape in Shropshire oak tree.",
-      "url": "https://www.theguardian.com/p/x5544b",
-      "thumbnail": "https://media.guim.co.uk/44771c72e1b09aab26e043228c7f363d7c70000f/180_0_3708_2966/500.jpg",
-      "published": "2026-05-29T04:30:40Z",
-      "location": {
-        "name": "Shropshire",
-        "lat": 52.55,
-        "lng": -2.75
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "environment"
-    },
     {
       "id": "politics/live/2026/may/29/labour-welfare-youth-unemployment-living-wage-milburn-starmer-burnham-blair-latest-news-updates",
       "headline": "Minister insists Labour will not apply national living wage to all over-18s before election – UK politics live",
@@ -854,6 +838,70 @@
       "category": "climate",
       "significance": 3,
       "section": "australia-news"
+    },
+    {
+      "id": "world/2026/may/30/russian-missiles-devastated-kyiv-cultural-sites",
+      "headline": "‘We could hear the roof collapsing’: how Russian missiles devastated Kyiv’s cultural sites ",
+      "summary": "Russian missile strikes damage Kyiv cultural sites, killing 2 and injuring 90.",
+      "url": "https://www.theguardian.com/p/x56e9n",
+      "thumbnail": "https://media.guim.co.uk/a8675e7550bc71cc77c21d46dad9dcac70972a48/312_0_4688_3750/500.jpg",
+      "published": "2026-05-30T06:00:12Z",
+      "location": {
+        "name": "Kyiv",
+        "lat": 50.4501,
+        "lng": 30.5234
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "uk-news/2026/may/30/bar-restaurant-licence-challenges-destroying-soho-reputation",
+      "headline": "Resident group’s objections to bar and restaurant licences ‘destroying Soho’s reputation’",
+      "summary": "Soho resident group objections to venues threaten London's entertainment district reputation.",
+      "url": "https://www.theguardian.com/p/x56aah",
+      "thumbnail": "https://media.guim.co.uk/4ac0b973f3ce599e87d89d048b43372d85eaade4/255_0_7654_6123/500.jpg",
+      "published": "2026-05-30T06:00:12Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "travel/2026/may/30/five-stunning-walks-king-charles-england-coast-path",
+      "headline": "Five stunning walks on the new King Charles III England coast path",
+      "summary": "King Charles III England coast path offers 2,700-mile scenic walking route.",
+      "url": "https://www.theguardian.com/p/x5vc98",
+      "thumbnail": "https://media.guim.co.uk/a91ca0cc9e917aedc7a7981c5672e4e911e9c415/104_0_3113_2491/500.jpg",
+      "published": "2026-05-30T06:00:11Z",
+      "location": {
+        "name": "England",
+        "lat": 52.3555,
+        "lng": -1.1743
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "travel"
+    },
+    {
+      "id": "business/2026/may/30/gluten-free-basics-luxury-bread-prices-coeliac-diseasae",
+      "headline": "Gluten-free basics ‘now a luxury’ as price of a small branded loaf nears £4",
+      "summary": "Gluten-free bread prices near £4 as coeliac patients face affordability crisis.",
+      "url": "https://www.theguardian.com/p/x554eb",
+      "thumbnail": "https://media.guim.co.uk/67a1362512ae865ee5988393e09d1ee9df247d4c/152_0_4640_3712/500.jpg",
+      "published": "2026-05-30T06:00:11Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
     }
   ]
 }
