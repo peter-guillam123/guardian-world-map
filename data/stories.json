@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-05-30T14:02:48.247Z",
-    "story_count": 71,
-    "oldest_story": "2026-05-29T14:45:59Z",
-    "newest_story": "2026-05-30T14:00:21Z",
+    "generated_at": "2026-05-30T15:22:40.190Z",
+    "story_count": 65,
+    "oldest_story": "2026-05-29T15:23:19Z",
+    "newest_story": "2026-05-30T15:19:21Z",
     "window_hours": 24
   },
   "stories": [
@@ -69,214 +69,6 @@
       },
       "category": "politics",
       "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "business/2026/may/29/nationwide-customer-seeking-election-board-slams-lender-unfair-treatment",
-      "headline": "Nationwide customer seeking election to board hits out at lender for ‘unfair’ treatment",
-      "summary": "Nationwide customer James Sherwin-Smith criticizes building society for unfair treatment in board election.",
-      "url": "https://www.theguardian.com/p/x56etd",
-      "thumbnail": "https://media.guim.co.uk/d278334e79ea58da68fccd5e19fb119638f8354e/596_0_4269_3415/500.jpg",
-      "published": "2026-05-29T15:10:37Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "us-news/2026/may/29/cia-official-gold-theft-trial",
-      "headline": "Former senior CIA official accused of stealing $40m in gold bars from agency",
-      "summary": "Former CIA official David Rush accused of stealing $40m in gold bars and $2m in foreign currency.",
-      "url": "https://www.theguardian.com/p/x56f7m",
-      "thumbnail": "https://media.guim.co.uk/31dfc86b66f1ed7c60d8e58ce7d3bc3e158fce8f/291_0_2918_2334/500.jpg",
-      "published": "2026-05-29T15:07:19Z",
-      "location": {
-        "name": "Virginia",
-        "lat": 37.7693,
-        "lng": -78.1694
-      },
-      "category": "conflict",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "australia-news/2026/may/30/australia-great-barrier-reef-island-resorts",
-      "headline": "Damaged, deserted, dilapidated … what comes next for the Great Barrier Reef island resorts lying in ruins?",
-      "summary": "Damaged reef island resorts face restoration decisions as some advocate for lighter ecological footprint futures.",
-      "url": "https://www.theguardian.com/p/x56xan",
-      "thumbnail": "https://media.guim.co.uk/c9d87f0b197ad269a4aabeece75283740e9ff4a6/0_0_4250_3400/500.jpg",
-      "published": "2026-05-29T15:00:55Z",
-      "location": {
-        "name": "Great Barrier Reef",
-        "lat": -16.2859,
-        "lng": 145.7781
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "environment/2026/may/29/farm-bill-solar-projects-farming",
-      "headline": "Solar energy helps US farms stay afloat – but Republicans’ bill could change that",
-      "summary": "US farm solar panels help offset costs but House farm bill could limit installations, threatening financial relief.",
-      "url": "https://www.theguardian.com/p/x565nf",
-      "thumbnail": "https://media.guim.co.uk/1c3f7be2017b45e57a6438aa5bdc7246efbd72db/1098_1016_3371_2696/500.jpg",
-      "published": "2026-05-29T15:00:55Z",
-      "location": {
-        "name": "Orange, Massachusetts",
-        "lat": 42.5681,
-        "lng": -71.8629
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "environment"
-    },
-    {
-      "id": "environment/2026/may/30/toxic-algal-bloom-south-australia-second-wave-possible",
-      "headline": "Second wave of South Australia’s toxic algal bloom could be imminent, scientist warns ",
-      "summary": "Second wave of toxic algal bloom imminent near South Australia's Eyre Peninsula as levels skyrocket.",
-      "url": "https://www.theguardian.com/p/x56can",
-      "thumbnail": "https://media.guim.co.uk/0034b0280d3b21f5f88d13f83c8f6e61fad6c9b6/724_0_6827_5464/500.jpg",
-      "published": "2026-05-29T15:00:55Z",
-      "location": {
-        "name": "Eyre Peninsula",
-        "lat": -32.2206,
-        "lng": 135.5506
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "environment"
-    },
-    {
-      "id": "society/2026/may/30/victoria-child-protection-system-carer-ntwnfb",
-      "headline": "A childcare worker was asked to take baby Lily home for the weekend after a court protection order last year. She’s still there ",
-      "summary": "Victoria child protection system crisis exposed as childcare worker forced to care for baby long-term.",
-      "url": "https://www.theguardian.com/p/x56xfy",
-      "thumbnail": "https://media.guim.co.uk/4a1d18c7b4eeceae14617f552880cc4c33b1d876/0_0_5000_4000/500.jpg",
-      "published": "2026-05-29T15:00:54Z",
-      "location": {
-        "name": "Melbourne",
-        "lat": -37.8136,
-        "lng": 144.9631
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "society"
-    },
-    {
-      "id": "australia-news/2026/may/30/tony-abbott-return-to-liberal-party-president-australia",
-      "headline": "Can the second coming of Tony Abbott resurrect the Liberal party? Or is it another step towards ‘self-destruction’",
-      "summary": "Tony Abbott appointed Liberal Party president; supporters hope to revive party while critics warn of electoral damage.",
-      "url": "https://www.theguardian.com/p/x567ak",
-      "thumbnail": "https://media.guim.co.uk/bd15b6cd8a70b18de88879628f6503e25dd3e3c7/239_0_6720_5376/500.jpg",
-      "published": "2026-05-29T15:00:54Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "music/2026/may/29/melbourne-record-stores-vinyl-capital-of-the-world",
-      "headline": "Spin city: Melbourne loves records – but is it really the vinyl capital of the world?",
-      "summary": "Melbourne claims vinyl capital status with record stores, listening bars and deep music culture celebrated.",
-      "url": "https://www.theguardian.com/p/x55nkt",
-      "thumbnail": "https://media.guim.co.uk/fe1f518c229f2f43c79fef0afe46f8a8b49bca4f/673_0_3327_2661/500.jpg",
-      "published": "2026-05-29T15:00:54Z",
-      "location": {
-        "name": "Melbourne",
-        "lat": -37.8136,
-        "lng": 144.9631
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "music"
-    },
-    {
-      "id": "football/2026/may/30/socceroos-mexico-world-cup-friendly-football",
-      "headline": "Socceroos enter last chance saloon with Mexico friendly to shape World Cup dreams",
-      "summary": "Socceroos face Mexico in World Cup warm-up friendly at Rose Bowl to finalize squad selection.",
-      "url": "https://www.theguardian.com/p/x56cfd",
-      "thumbnail": "https://media.guim.co.uk/6d5c5671575cd365f7f5938ce14b8970d64070bc/314_248_1739_1391/500.jpg",
-      "published": "2026-05-29T15:00:53Z",
-      "location": {
-        "name": "Los Angeles",
-        "lat": 34.0522,
-        "lng": -118.2437
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "australia-news/2026/may/30/labor-promised-to-do-something-serious-about-corruption-now-theyve-got-a-second-chance",
-      "headline": "Labor promised to do something serious about corruption. Now they’ve got a second chance",
-      "summary": "Labor gets second chance to tackle corruption after NACC head's Senate inquiry testimony.",
-      "url": "https://www.theguardian.com/p/x56dz4",
-      "thumbnail": "https://media.guim.co.uk/27616b55ebfb6199c532be17caa8a891ef4d8b90/536_0_4143_3315/500.jpg",
-      "published": "2026-05-29T15:00:53Z",
-      "location": {
-        "name": "Canberra",
-        "lat": -35.2809,
-        "lng": 149.13
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "world/2026/may/29/trapped-men-rescue-flooded-cave-laos",
-      "headline": "First of trapped men rescued from flooded Laos cave",
-      "summary": "First of seven men trapped in flooded Laos cave for over a week rescued by divers.",
-      "url": "https://www.theguardian.com/p/x56fdg",
-      "thumbnail": "https://media.guim.co.uk/4284e09d82dbdbcdd6eb84169e174ae28e2f2fb2/179_0_1789_1432/500.jpg",
-      "published": "2026-05-29T15:00:09Z",
-      "location": {
-        "name": "Laos",
-        "lat": 19.8523,
-        "lng": 102.4955
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "us-news/2026/may/29/new-york-upper-east-side-london-members-clubs",
-      "headline": "New Yorkers irritated by proliferation of London members’ clubs on their doorsteps",
-      "summary": "Upper East Side residents oppose London members' clubs expanding into New York neighborhoods.",
-      "url": "https://www.theguardian.com/p/x562p7",
-      "thumbnail": "https://media.guim.co.uk/b88421e708169d3d2bfdbce09f909ada2a5602b8/0_0_3000_2400/500.jpg",
-      "published": "2026-05-29T14:51:08Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "technology/2026/may/29/anger-decision-not-extradite-canadian-suicide-kit-supplier-face-uk-justice",
-      "headline": "Anger at decision not to extradite Canadian suicide kit supplier to face UK justice",
-      "summary": "Canadian suicide kit supplier Kenneth Law pleads guilty; families anger over non-UK prosecution.",
-      "url": "https://www.theguardian.com/p/x56ext",
-      "thumbnail": "https://media.guim.co.uk/d9b43a577e093e7fd5aa84eeab3ce0c4165dce90/0_345_2576_2060/500.jpg",
-      "published": "2026-05-29T14:45:59Z",
-      "location": {
-        "name": "Toronto",
-        "lat": 43.6629,
-        "lng": -79.3957
-      },
-      "category": "health",
-      "significance": 3,
       "section": "uk-news"
     },
     {
@@ -1142,6 +934,118 @@
       "category": "other",
       "significance": 2,
       "section": "us-news"
+    },
+    {
+      "id": "football/live/2026/may/30/paris-saint-germain-arsenal-champions-league-final-live-psg-score-updates",
+      "headline": "Paris Saint-Germain v Arsenal: Champions League final – live",
+      "summary": "Arsenal face PSG in Champions League final in Budapest seeking first European title.",
+      "url": "https://www.theguardian.com/p/x55jbp",
+      "thumbnail": "https://media.guim.co.uk/14fa4454c11ca8fa33abc884b874cd9c458a0477/260_0_2500_2000/500.jpg",
+      "published": "2026-05-30T15:19:21Z",
+      "location": {
+        "name": "Budapest",
+        "lat": 47.4979,
+        "lng": 19.0402
+      },
+      "category": "sport",
+      "significance": 4,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/may/30/a-season-from-hell-how-arne-slots-liverpool-fell-apart-after-death-of-jota",
+      "headline": "A season from hell: how Arne Slot’s Liverpool fell apart after death of Jota",
+      "summary": "Liverpool's title-winning season derailed after forward Diogo Jota's tragic death in July.",
+      "url": "https://www.theguardian.com/p/x56kbm",
+      "thumbnail": "https://media.guim.co.uk/42915e43b2f3bdf59fad872740c4a6eb97a80d5b/109_0_3389_2711/500.jpg",
+      "published": "2026-05-30T15:19:08Z",
+      "location": {
+        "name": "Liverpool",
+        "lat": 53.4084,
+        "lng": -2.9916
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "film/2026/may/30/marilyn-monroe-exhibition-los-angeles",
+      "headline": "‘America’s sweetheart’: exhibition explores Marilyn Monroe’s complex relationship to stardom",
+      "summary": "New Marilyn Monroe exhibition at LA Academy Museum features intimate belongings never publicly displayed.",
+      "url": "https://www.theguardian.com/p/x56g5h",
+      "thumbnail": "https://media.guim.co.uk/94d41104b45d566ad28c4371784aefd039559f37/300_0_3000_2400/500.jpg",
+      "published": "2026-05-30T15:00:22Z",
+      "location": {
+        "name": "Los Angeles",
+        "lat": 34.0522,
+        "lng": -118.2437
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "film"
+    },
+    {
+      "id": "world/2026/may/30/durham-pride-trade-unions-beat-reform-funding-axe",
+      "headline": "‘Bigger and better than ever’: how Durham Pride beat Reform’s funding axe with help from the miners",
+      "summary": "Durham Pride thrives despite council funding cuts with support from trade unions and solidarity.",
+      "url": "https://www.theguardian.com/p/x56fag",
+      "thumbnail": "https://media.guim.co.uk/974cebce17d780f367cf995f1cb13aa10d8ffb10/364_0_3818_3055/500.jpg",
+      "published": "2026-05-30T14:54:11Z",
+      "location": {
+        "name": "Durham",
+        "lat": 54.7753,
+        "lng": -1.5823
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "us-news/2026/may/30/lawsuit-camp-east-montana-texas-us-immigration-ice",
+      "headline": "Suit filed against ICE over ‘dire’ conditions at largest US immigration detention facility",
+      "summary": "Lawsuit filed against ICE alleging dire, dangerous conditions at largest US immigration detention facility.",
+      "url": "https://www.theguardian.com/p/x56fqx",
+      "thumbnail": "https://media.guim.co.uk/61eeed276dba82afe8febbe229196f504baab7ae/250_0_2499_2000/500.jpg",
+      "published": "2026-05-30T14:45:00Z",
+      "location": {
+        "name": "Texas",
+        "lat": 31.9686,
+        "lng": -99.9018
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/may/30/scotland-curacao-world-cup-warm-up-match-report",
+      "headline": "Scotland recover to put four past 10-man Curaçao in World Cup warm-up",
+      "summary": "Scotland defeat 10-man Curaçao 4-0 in World Cup warm-up match at Hampden Park.",
+      "url": "https://www.theguardian.com/p/x56haf",
+      "thumbnail": "https://media.guim.co.uk/600b050d9581e92cd8266cb6a56b5f23edf0832b/237_0_2425_1940/500.jpg",
+      "published": "2026-05-30T14:26:42Z",
+      "location": {
+        "name": "Glasgow",
+        "lat": 55.8642,
+        "lng": -4.2518
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "sport/2026/may/30/saracens-harlequins-prem-rugby-union-match-report",
+      "headline": "Saracens climb into top four with win over Harlequins in McCall’s home farewell",
+      "summary": "Saracens beat Harlequins 26-12 to secure top four finish in Mark McCall's final home match.",
+      "url": "https://www.theguardian.com/p/x56hdf",
+      "thumbnail": "https://media.guim.co.uk/858a868c1a6cd98ed45599f6747e1c3b6154c5d3/561_0_6075_4860/500.jpg",
+      "published": "2026-05-30T14:23:49Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
     }
   ]
 }
