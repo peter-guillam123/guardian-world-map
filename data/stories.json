@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-05-30T22:15:26.292Z",
-    "story_count": 74,
+    "generated_at": "2026-05-30T23:30:30.233Z",
+    "story_count": 77,
     "oldest_story": "2026-05-30T02:49:20Z",
-    "newest_story": "2026-05-30T22:10:04Z",
+    "newest_story": "2026-05-30T23:30:21Z",
     "window_hours": 24
   },
   "stories": [
@@ -1190,6 +1190,54 @@
       "category": "sport",
       "significance": 4,
       "section": "football"
+    },
+    {
+      "id": "australia-news/live/2026/may/31/clare-oneil-labor-tax-changes-richard-marles-shangri-la-dialogue-aukus-deal-politics-reactions-labor-coalition-tax-changes-housing-one-nation-ntwnfb",
+      "headline": "Australia news live: Aukus nations to develop uncrewed vehicles to protect undersea cables; Hanson says she could be PM",
+      "summary": "Aukus nations plan uncrewed vehicles for undersea cable protection at Shangri-La Dialogue.",
+      "url": "https://www.theguardian.com/p/x56mga",
+      "thumbnail": "https://media.guim.co.uk/1b0aca114fd6c70e1ff3f6cee3317c4e74d97932/683_0_6827_5464/500.jpg",
+      "published": "2026-05-30T23:30:21Z",
+      "location": {
+        "name": "Singapore",
+        "lat": 1.3521,
+        "lng": 103.8198
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "australia-news"
+    },
+    {
+      "id": "us-news/2026/may/30/graham-platner-explicit-texts-senate-maine",
+      "headline": "Graham Platner sent explicit texts to other women during marriage, wife confirms",
+      "summary": "Democratic Senate candidate in Maine faces scandal over explicit texts sent during marriage.",
+      "url": "https://www.theguardian.com/p/x56m8a",
+      "thumbnail": "https://media.guim.co.uk/ac2b149b4dfa2853a0830993099e71f10d0ee29a/185_0_3288_2632/500.jpg",
+      "published": "2026-05-30T22:49:07Z",
+      "location": {
+        "name": "Maine",
+        "lat": 45.6945,
+        "lng": -68.9887
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "world/2026/may/30/paris-police-arrest-paris-saint-germain-fans-celebrate-champions-league-win-over-arsenal",
+      "headline": "Paris police arrest more than 130 as PSG fans celebrate Champions League win over Arsenal",
+      "summary": "Paris police arrest 130+ PSG fans after Champions League victory celebrations turn chaotic.",
+      "url": "https://www.theguardian.com/p/x56mdf",
+      "thumbnail": "https://media.guim.co.uk/ea39f7654e64f8289092c59742d1fab1cfddd88a/844_0_5000_4000/500.jpg",
+      "published": "2026-05-30T22:37:54Z",
+      "location": {
+        "name": "Paris",
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "world"
     }
   ]
 }
