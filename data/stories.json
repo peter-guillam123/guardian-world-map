@@ -1,60 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-30T17:42:15.290Z",
-    "story_count": 62,
-    "oldest_story": "2026-05-29T17:53:42Z",
-    "newest_story": "2026-05-30T17:06:06Z",
+    "generated_at": "2026-05-30T18:50:02.939Z",
+    "story_count": 63,
+    "oldest_story": "2026-05-29T20:49:10Z",
+    "newest_story": "2026-05-30T18:34:18Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "uk-news/2026/may/29/greek-man-ioannis-aidinidis-court-charged-spying-iranian-journalist-london",
-      "headline": "Greek man appears in court charged with spying on Iranian journalist in London ",
-      "summary": "Greek man charged with spying on Iranian journalist in London using hidden camera.",
-      "url": "https://www.theguardian.com/p/x56g7y",
-      "thumbnail": "https://media.guim.co.uk/4bb081a0576ee53826382f2d5eccc2d6651506f3/422_0_4825_3860/500.jpg",
-      "published": "2026-05-29T18:32:39Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "uk-news"
-    },
-    {
-      "id": "us-news/2026/may/29/utah-voter-roll-audit-trump-lawsuit",
-      "headline": "Utah releases state voter roll audit amid Trump administration lawsuit",
-      "summary": "Utah releases voter roll audit finding 99.7% of registered voters are US citizens.",
-      "url": "https://www.theguardian.com/p/x56g34",
-      "thumbnail": "https://media.guim.co.uk/38cfcba0ac2f19b0b24a6d68f5834b951e905f10/134_0_3001_2400/500.jpg",
-      "published": "2026-05-29T18:00:56Z",
-      "location": {
-        "name": "Salt Lake City",
-        "lat": 40.7608,
-        "lng": -111.891
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "football/2026/may/29/arsenal-champions-league-final-mikel-arteta-paris-saint-germain",
-      "headline": "Arteta insists Arsenal’s ‘ambition is bigger’ for Champions League glory after title win",
-      "summary": "Arsenal faces PSG in Champions League final after winning Premier League title.",
-      "url": "https://www.theguardian.com/p/x56g96",
-      "thumbnail": "https://media.guim.co.uk/5e38b513ec276d08e0e868696c2bdeff23673aec/114_0_3832_3066/500.jpg",
-      "published": "2026-05-29T17:53:42Z",
-      "location": {
-        "name": "Budapest",
-        "lat": 47.4979,
-        "lng": 19.0402
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
     {
       "id": "us-news/2026/may/29/trump-green-card-rules",
       "headline": "‘The rug pulled out from everyone’: the chaos of Trump’s new green card rules",
@@ -998,6 +950,70 @@
       "category": "health",
       "significance": 2,
       "section": "us-news"
+    },
+    {
+      "id": "uk-news/2026/may/30/family-pays-tribute-chiedza-nyanjowa-15-died-swimming-merseyside-beach",
+      "headline": "Family pays tribute to girl, 15, who died after swimming at Merseyside beach",
+      "summary": "15-year-old girl dies after getting into difficulties while swimming at Merseyside beach.",
+      "url": "https://www.theguardian.com/p/x56yje",
+      "thumbnail": "https://media.guim.co.uk/6f7fcfd6dd6a1e59af1873c7d82bb8fd25027165/0_343_656_524/500.jpg",
+      "published": "2026-05-30T18:34:18Z",
+      "location": {
+        "name": "Formby",
+        "lat": 53.5479,
+        "lng": -3.0847
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "politics/2026/may/30/green-leaders-warn-party-it-must-listen-to-reform-voters-concerns-to-tackle-inequality",
+      "headline": "Green leaders warn party it must listen to Reform voters’ concerns to tackle inequality",
+      "summary": "Green party leaders urge party to engage with Reform voters' concerns to address inequality.",
+      "url": "https://www.theguardian.com/p/x56ybg",
+      "thumbnail": "https://media.guim.co.uk/b8138cf5e0e9f55470ed31fe0894b2fb87de961d/163_0_2500_2000/500.jpg",
+      "published": "2026-05-30T18:20:42Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "us-news/2026/may/30/trump-rally-social-media",
+      "headline": "Trump proposes ‘wild’ rally instead of concerts after artists back out of series",
+      "summary": "Trump announces rally after artists decline Kennedy Center concerts amid social media activity.",
+      "url": "https://www.theguardian.com/p/x56yaf",
+      "thumbnail": "https://media.guim.co.uk/b0b56daeee6b0cad61816e003a468c3c958bd9a1/597_0_4167_3333/500.jpg",
+      "published": "2026-05-30T18:17:16Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/may/30/arne-slot-liverpool-mohamed-salah-fenway-sports-group",
+      "headline": "FSG agreed with Salah: loss of style meant Arne Slot had to go to win back Liverpool fans",
+      "summary": "Liverpool sacks Arne Slot to restore attacking style after fan dissatisfaction and recruitment issues.",
+      "url": "https://www.theguardian.com/p/x56y2p",
+      "thumbnail": "https://media.guim.co.uk/37bc0bfdf0786d87612aa12b1a55210f74ac2df8/20_16_1393_1113/500.jpg",
+      "published": "2026-05-30T18:00:25Z",
+      "location": {
+        "name": "Liverpool",
+        "lat": 53.4084,
+        "lng": -2.9916
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
     }
   ]
 }
