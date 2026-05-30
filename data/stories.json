@@ -1,124 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-30T06:51:04.994Z",
-    "story_count": 56,
-    "oldest_story": "2026-05-29T07:49:49Z",
-    "newest_story": "2026-05-30T06:00:12Z",
+    "generated_at": "2026-05-30T09:11:53.211Z",
+    "story_count": 55,
+    "oldest_story": "2026-05-29T10:55:01Z",
+    "newest_story": "2026-05-30T09:06:14Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "politics/live/2026/may/29/labour-welfare-youth-unemployment-living-wage-milburn-starmer-burnham-blair-latest-news-updates",
-      "headline": "Minister insists Labour will not apply national living wage to all over-18s before election – UK politics live",
-      "summary": "Labour minister says party won't apply national living wage to all over-18s before election.",
-      "url": "https://www.theguardian.com/p/x56dt5",
-      "thumbnail": "https://media.guim.co.uk/caf2d18afcf7734fb34f5ab2d565b6469df44bc9/396_0_3335_2668/500.jpg",
-      "published": "2026-05-29T08:34:35Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "football/live/2026/may/29/champions-league-final-buildup-world-cup-latest-transfer-news-and-more-football-live",
-      "headline": "Champions League final buildup, World Cup latest, transfer news, and more: football – live",
-      "summary": "Champions League final buildup with Arsenal owners promising squad strengthening.",
-      "url": "https://www.theguardian.com/p/x55j9h",
-      "thumbnail": "https://media.guim.co.uk/34a1cd13bec212164c7b92e15bbe183abf048239/0_0_5000_4000/500.jpg",
-      "published": "2026-05-29T08:32:22Z",
-      "location": {
-        "name": "Budapest",
-        "lat": 47.4979,
-        "lng": 19.0402
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "world/live/2026/may/29/romania-ukraine-russia-galati-drone-strike-europe-live-breaking-news",
-      "headline": "‘Russia’s reckless behaviour is a danger to us all’, says Nato’s Rutte after drone hits Romania – Europe live",
-      "summary": "Russian drone strikes Romania near Ukrainian border; NATO condemns reckless behavior.",
-      "url": "https://www.theguardian.com/p/x56dmj",
-      "thumbnail": "https://media.guim.co.uk/af25a82e25d7d18d0038ed265fdd592f7d7be7a9/27_0_4323_3460/500.jpg",
-      "published": "2026-05-29T08:18:20Z",
-      "location": {
-        "name": "Galati",
-        "lat": 45.4316,
-        "lng": 28.6353
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "business/live/2026/may/29/asian-stocks-oil-price-us-iran-peace-deal-business-latest-news-updates",
-      "headline": "Global stocks rise and oil price slips amid hopes of US-Iran peace deal - business live",
-      "summary": "French inflation accelerates to fastest pace in two years amid energy price surge.",
-      "url": "https://www.theguardian.com/p/x56dez",
-      "thumbnail": "https://media.guim.co.uk/63f01d89ead4886dc12d0ffe821d7f36266f986d/854_0_3813_3051/500.jpg",
-      "published": "2026-05-29T08:05:09Z",
-      "location": {
-        "name": "Paris",
-        "lat": 48.8566,
-        "lng": 2.3522
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "football/2026/may/29/cristian-volpato-switches-allegiance-italy-australia-world-cup-football",
-      "headline": "Cristian Volpato to switch allegiance from Italy to Australia in time for World Cup",
-      "summary": "Cristian Volpato switches allegiance from Italy to Australia ahead of World Cup.",
-      "url": "https://www.theguardian.com/p/x56dp9",
-      "thumbnail": "https://media.guim.co.uk/fd6295ff7237ea08585d369965d9c90b2c0d6e75/108_0_4164_3333/500.jpg",
-      "published": "2026-05-29T08:02:43Z",
-      "location": {
-        "name": "Los Angeles",
-        "lat": 34.0522,
-        "lng": -118.2437
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "australia-news/2026/may/29/victorian-government-jacinta-allan-political-donations-electoral-law-reform",
-      "headline": "Victorian government seeks to double cap on political donations as Jacinta Allan moves to fix electoral laws",
-      "summary": "Victorian government seeks to double political donation cap to $10,000 before November election.",
-      "url": "https://www.theguardian.com/p/x56cjk",
-      "thumbnail": "https://media.guim.co.uk/9ac0d53a83b3799cdb5c6238ee278850b27b126d/460_0_4600_3680/500.jpg",
-      "published": "2026-05-29T07:50:32Z",
-      "location": {
-        "name": "Melbourne",
-        "lat": -37.8136,
-        "lng": 144.9631
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "australia-news/2026/may/29/racially-motivated-attack-against-biloela-family-man-jailed-ntwnfb",
-      "headline": "Man jailed over ‘racially motivated attack’ against Queensland’s Biloela family",
-      "summary": "Man jailed for racially motivated attack against Queensland's prominent Murugappan family.",
-      "url": "https://www.theguardian.com/p/x56d2t",
-      "thumbnail": "https://media.guim.co.uk/642f6d945d539699912742074b3522128501b50e/258_0_3764_3011/500.jpg",
-      "published": "2026-05-29T07:49:49Z",
-      "location": {
-        "name": "Biloela",
-        "lat": -25.2819,
-        "lng": 150.5055
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "australia-news"
-    },
     {
       "id": "sport/live/2026/may/29/french-open-2026-xxx-on-day-six-live",
       "headline": "French Open 2026: Djokovic, Rublev, Swiatek and Muchova in action on day six – live",
@@ -902,6 +790,102 @@
       "category": "economy",
       "significance": 2,
       "section": "business"
+    },
+    {
+      "id": "football/live/2026/may/30/champions-league-final-buildup-world-cup-news-transfers-and-more-matchday-live",
+      "headline": "Champions League final buildup, World Cup news, transfers and more – matchday live",
+      "summary": "Arsenal face PSG in Champions League final in Budapest with transfer news and fan updates.",
+      "url": "https://www.theguardian.com/p/x56e4e",
+      "thumbnail": "https://media.guim.co.uk/019584fa51784507034f9fe288fde6675d05cf77/43_0_5160_4128/500.jpg",
+      "published": "2026-05-30T09:06:14Z",
+      "location": {
+        "name": "Budapest",
+        "lat": 47.4979,
+        "lng": 19.0402
+      },
+      "category": "sport",
+      "significance": 4,
+      "section": "football"
+    },
+    {
+      "id": "uk-news/2026/may/30/chinese-dissident-says-he-was-berated-by-pro-regime-interpreter-for-uk-police",
+      "headline": "Chinese dissident says he was berated by ‘pro-regime’ interpreter for UK police",
+      "summary": "Chinese dissident claims pro-regime interpreter berated him during UK police emergency call.",
+      "url": "https://www.theguardian.com/p/x56exa",
+      "thumbnail": "https://media.guim.co.uk/8a76da64e114468721711755335548d73fd81df5/132_0_6830_5464/500.jpg",
+      "published": "2026-05-30T09:00:16Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "uk-news/2026/may/30/britain-heatwave-unequal-air-con-london",
+      "headline": "‘That’s why we work in finance – so one day we can afford air-con’: Britain’s unequal heatwave",
+      "summary": "Britain's heatwave exposes inequality as wealthy enjoy air-con while poor face health risks.",
+      "url": "https://www.theguardian.com/p/x56a2d",
+      "thumbnail": "https://media.guim.co.uk/62046ddcbd230cb069b1fee7018c4a6e0c816c2f/506_0_5002_4001/500.jpg",
+      "published": "2026-05-30T09:00:15Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "world/2026/may/30/colombia-presidential-election-vote-resurgence-political-violence",
+      "headline": "Colombia prepares to go to polls in election shadowed by resurgence of political violence",
+      "summary": "Colombia holds presidential election amid resurgence of political violence and armed conflict debate.",
+      "url": "https://www.theguardian.com/p/x56b7j",
+      "thumbnail": "https://media.guim.co.uk/c1579ea8824fb84ec2c453a6b0b76108341221aa/281_0_5839_4672/500.jpg",
+      "published": "2026-05-30T09:00:14Z",
+      "location": {
+        "name": "Bogotá",
+        "lat": 4.711,
+        "lng": -74.0721
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "sport/live/2026/may/30/french-open-tennis-osaka-sabalenka-gauff-roland-garros-day-seven-live",
+      "headline": "French Open 2026: Osaka, Sabalenka and Gauff in action on day seven – live",
+      "summary": "French Open day seven features Osaka, Sabalenka and Gauff after Fonseca's upset of Djokovic.",
+      "url": "https://www.theguardian.com/p/x55jbt",
+      "thumbnail": "https://media.guim.co.uk/82acc01136fe70e4d66f1da73f24996ffa505371/246_0_3566_2852/500.jpg",
+      "published": "2026-05-30T08:58:40Z",
+      "location": {
+        "name": "Paris",
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "sport"
+    },
+    {
+      "id": "sport/2026/may/30/moana-pasifika-sign-off-super-rugby-pacific-hymn-win",
+      "headline": "Moana Pasifika sign off from Super Rugby with a win and emotionally charged hymn",
+      "summary": "Moana Pasifika upset ACT Brumbies 21-19 in likely final Super Rugby match before club demise.",
+      "url": "https://www.theguardian.com/p/x56jf2",
+      "thumbnail": "https://media.guim.co.uk/69665241b65ac9a02d97c93ce82515ac0a764594/124_0_6880_5504/500.jpg",
+      "published": "2026-05-30T08:31:53Z",
+      "location": {
+        "name": "Canberra",
+        "lat": -35.2809,
+        "lng": 149.13
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
     }
   ]
 }
