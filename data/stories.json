@@ -1,28 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-29T23:54:57.903Z",
+    "generated_at": "2026-05-30T03:54:56.750Z",
     "story_count": 53,
-    "oldest_story": "2026-05-29T00:09:01Z",
-    "newest_story": "2026-05-29T22:07:23Z",
+    "oldest_story": "2026-05-29T04:30:40Z",
+    "newest_story": "2026-05-30T02:49:20Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "world/2026/may/28/donald-trump-shares-draft-iran-peace-agreement-with-israel-and-other-allies",
-      "headline": "Donald Trump shares draft Iran peace agreement with Israel and other allies",
-      "summary": "Trump shares draft Iran peace agreement with Israel and allies amid ceasefire negotiations.",
-      "url": "https://www.theguardian.com/p/x569dq",
-      "thumbnail": "https://media.guim.co.uk/4b105060abb2ceac65571e1a6ff38e4e0c6ab74b/546_0_5000_4000/500.jpg",
-      "published": "2026-05-29T00:09:01Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 4,
-      "section": "world"
-    },
     {
       "id": "environment/2026/may/29/country-diary-today-was-once-a-public-holiday-thanks-to-these-oak-apples",
       "headline": "Country diary: Today was once a public holiday, thanks to these oak ‘apples’",
@@ -854,6 +838,22 @@
       "category": "health",
       "significance": 2,
       "section": "us-news"
+    },
+    {
+      "id": "australia-news/2026/may/30/western-australia-storm-to-affect-millions-icy-weather-for-nsw-victoria-sa",
+      "headline": "‘Significant’ storm to hammer millions in WA and bring icy weather to NSW, Victoria and SA",
+      "summary": "Major storm with cyclone-strength winds to hit Western Australia; icy weather expected in eastern states.",
+      "url": "https://www.theguardian.com/p/x56tvf",
+      "thumbnail": "https://media.guim.co.uk/f571d023c09ad0df21c7a95f863984c28bc0bb70/347_0_1350_1080/500.jpg",
+      "published": "2026-05-30T02:49:20Z",
+      "location": {
+        "name": "Western Australia",
+        "lat": -31.9505,
+        "lng": 115.8605
+      },
+      "category": "climate",
+      "significance": 3,
+      "section": "australia-news"
     }
   ]
 }
