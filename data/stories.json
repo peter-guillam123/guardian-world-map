@@ -1,108 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-31T06:03:10.872Z",
-    "story_count": 84,
-    "oldest_story": "2026-05-30T08:31:53Z",
-    "newest_story": "2026-05-31T06:00:40Z",
+    "generated_at": "2026-05-31T09:22:24.009Z",
+    "story_count": 83,
+    "oldest_story": "2026-05-30T10:00:16Z",
+    "newest_story": "2026-05-31T09:18:07Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/live/2026/may/30/champions-league-final-buildup-world-cup-news-transfers-and-more-matchday-live",
-      "headline": "Champions League final buildup, World Cup news, transfers and more – matchday live",
-      "summary": "Arsenal face PSG in Champions League final in Budapest with transfer news and fan updates.",
-      "url": "https://www.theguardian.com/p/x56e4e",
-      "thumbnail": "https://media.guim.co.uk/019584fa51784507034f9fe288fde6675d05cf77/43_0_5160_4128/500.jpg",
-      "published": "2026-05-30T09:06:14Z",
-      "location": {
-        "name": "Budapest",
-        "lat": 47.4979,
-        "lng": 19.0402
-      },
-      "category": "sport",
-      "significance": 4,
-      "section": "football"
-    },
-    {
-      "id": "uk-news/2026/may/30/chinese-dissident-says-he-was-berated-by-pro-regime-interpreter-for-uk-police",
-      "headline": "Chinese dissident says he was berated by ‘pro-regime’ interpreter for UK police",
-      "summary": "Chinese dissident claims pro-regime interpreter berated him during UK police emergency call.",
-      "url": "https://www.theguardian.com/p/x56exa",
-      "thumbnail": "https://media.guim.co.uk/8a76da64e114468721711755335548d73fd81df5/132_0_6830_5464/500.jpg",
-      "published": "2026-05-30T09:00:16Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "uk-news/2026/may/30/britain-heatwave-unequal-air-con-london",
-      "headline": "‘That’s why we work in finance – so one day we can afford air-con’: Britain’s unequal heatwave",
-      "summary": "Britain's heatwave exposes inequality as wealthy enjoy air-con while poor face health risks.",
-      "url": "https://www.theguardian.com/p/x56a2d",
-      "thumbnail": "https://media.guim.co.uk/62046ddcbd230cb069b1fee7018c4a6e0c816c2f/506_0_5002_4001/500.jpg",
-      "published": "2026-05-30T09:00:15Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "world/2026/may/30/colombia-presidential-election-vote-resurgence-political-violence",
-      "headline": "Colombia prepares to go to polls in election shadowed by resurgence of political violence",
-      "summary": "Colombia holds presidential election amid resurgence of political violence and armed conflict debate.",
-      "url": "https://www.theguardian.com/p/x56b7j",
-      "thumbnail": "https://media.guim.co.uk/c1579ea8824fb84ec2c453a6b0b76108341221aa/281_0_5839_4672/500.jpg",
-      "published": "2026-05-30T09:00:14Z",
-      "location": {
-        "name": "Bogotá",
-        "lat": 4.711,
-        "lng": -74.0721
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "sport/live/2026/may/30/french-open-tennis-osaka-sabalenka-gauff-roland-garros-day-seven-live",
-      "headline": "French Open 2026: Osaka, Sabalenka and Gauff in action on day seven – live",
-      "summary": "French Open day seven features Osaka, Sabalenka and Gauff after Fonseca's upset of Djokovic.",
-      "url": "https://www.theguardian.com/p/x55jbt",
-      "thumbnail": "https://media.guim.co.uk/82acc01136fe70e4d66f1da73f24996ffa505371/246_0_3566_2852/500.jpg",
-      "published": "2026-05-30T08:58:40Z",
-      "location": {
-        "name": "Paris",
-        "lat": 48.8566,
-        "lng": 2.3522
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "sport"
-    },
-    {
-      "id": "sport/2026/may/30/moana-pasifika-sign-off-super-rugby-pacific-hymn-win",
-      "headline": "Moana Pasifika sign off from Super Rugby with a win and emotionally charged hymn",
-      "summary": "Moana Pasifika upset ACT Brumbies 21-19 in likely final Super Rugby match before club demise.",
-      "url": "https://www.theguardian.com/p/x56jf2",
-      "thumbnail": "https://media.guim.co.uk/69665241b65ac9a02d97c93ce82515ac0a764594/124_0_6880_5504/500.jpg",
-      "published": "2026-05-30T08:31:53Z",
-      "location": {
-        "name": "Canberra",
-        "lat": -35.2809,
-        "lng": 149.13
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
     {
       "id": "society/2026/may/30/young-people-neets-jobs-housing-crisis-homelessness",
       "headline": "Rise in youth unemployment driving more to homelessness, UK charities say",
@@ -1350,6 +1254,86 @@
       "category": "economy",
       "significance": 2,
       "section": "uk-news"
+    },
+    {
+      "id": "sport/live/2026/may/31/french-open-2026-kostyuk-v-swiatek-jodar-v-carreno-busta-and-more-on-day-eight-live",
+      "headline": "French Open 2026: Kostyuk v Swiatek, Jodar v Carreño Busta, and more on day eight – live",
+      "summary": "French Open 2026 day eight: Kostyuk faces Swiatek in fourth round at Roland Garros.",
+      "url": "https://www.theguardian.com/p/x55jfx",
+      "thumbnail": "https://media.guim.co.uk/54497dabe0aed8041556c5a1a62fb3bc93dfca7f/386_24_3559_2848/500.jpg",
+      "published": "2026-05-31T09:18:07Z",
+      "location": {
+        "name": "Paris",
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "sport"
+    },
+    {
+      "id": "football/live/2026/may/31/psg-champions-league-reaction-arsenal-heartbreak-liverpool-target-iraola-womens-fa-cup-final-buildup-matchday-live",
+      "headline": "PSG party amid Arsenal heartbreak; Liverpool target Iraola; Women’s FA Cup final buildup – matchday live",
+      "summary": "PSG wins Champions League as Arsenal's dream ends; Women's FA Cup final buildup.",
+      "url": "https://www.theguardian.com/p/x56e6a",
+      "thumbnail": "https://media.guim.co.uk/5f6bfb1de3ba010d5d5b12f027f3b82127dd234e/353_0_3662_2929/500.jpg",
+      "published": "2026-05-31T09:12:39Z",
+      "location": {
+        "name": "Paris",
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "world/live/2026/may/31/middle-east-crisis-live-israel-lebanon-beaufort-castle-us-iran-nuclear-deal-hormuz-oil-latest-news-updates",
+      "headline": "Middle East crisis live: Israeli army captures strategic castle in Lebanon in deepest incursion into country in 26 years ",
+      "summary": "Israeli army captures Beaufort castle in Lebanon's deepest incursion in 26 years.",
+      "url": "https://www.theguardian.com/p/x56zhj",
+      "thumbnail": "https://media.guim.co.uk/832d8769ed73956600747e3bd39905183f5a73f4/36_0_1500_1200/500.jpg",
+      "published": "2026-05-31T09:10:25Z",
+      "location": {
+        "name": "Nabatiyeh",
+        "lat": 33.3857,
+        "lng": 35.1888
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "politics/2026/may/31/labour-have-lost-their-way-voters-in-makerfield-say-its-time-for-a-change",
+      "headline": "‘Labour have lost their way’: voters in Makerfield say it’s time for a change",
+      "summary": "Makerfield constituency voters express dissatisfaction with Labour amid flooding and high street concerns.",
+      "url": "https://www.theguardian.com/p/x56e3g",
+      "thumbnail": "https://media.guim.co.uk/1f118940958ff0ae3f3dbdbca76ceef2f1c965c0/425_0_4248_3400/500.jpg",
+      "published": "2026-05-31T09:00:43Z",
+      "location": {
+        "name": "Wigan",
+        "lat": 53.5478,
+        "lng": -2.6389
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "australia-news/2026/may/31/australian-greens-zack-polanski-england-wales-leader-connect-with-anger-to-counter-rightwing-populism-one-nation",
+      "headline": "English Green party leader Zack Polanski tells Australian colleagues to ‘connect with anger’ to counter rightwing populism",
+      "summary": "English Green leader Polanski urges Australian Greens to counter Pauline Hanson's One Nation populism.",
+      "url": "https://www.theguardian.com/p/x56zhq",
+      "thumbnail": "https://media.guim.co.uk/91d1534b27954978d5b9866f80b853b28a345d72/943_130_5041_4034/500.jpg",
+      "published": "2026-05-31T08:30:41Z",
+      "location": {
+        "name": "Melbourne",
+        "lat": -37.8136,
+        "lng": 144.9631
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
     }
   ]
 }
