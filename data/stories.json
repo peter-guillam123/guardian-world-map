@@ -1,60 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-31T18:16:08.943Z",
-    "story_count": 94,
-    "oldest_story": "2026-05-30T18:17:16Z",
-    "newest_story": "2026-05-31T17:18:27Z",
+    "generated_at": "2026-05-31T19:44:57.681Z",
+    "story_count": 90,
+    "oldest_story": "2026-05-30T20:00:28Z",
+    "newest_story": "2026-05-31T19:42:17Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "uk-news/2026/may/30/family-pays-tribute-chiedza-nyanjowa-15-died-swimming-merseyside-beach",
-      "headline": "Family pays tribute to girl, 15, who died after swimming at Merseyside beach",
-      "summary": "15-year-old girl dies after getting into difficulties while swimming at Merseyside beach.",
-      "url": "https://www.theguardian.com/p/x56yje",
-      "thumbnail": "https://media.guim.co.uk/6f7fcfd6dd6a1e59af1873c7d82bb8fd25027165/0_343_656_524/500.jpg",
-      "published": "2026-05-30T18:34:18Z",
-      "location": {
-        "name": "Formby",
-        "lat": 53.5479,
-        "lng": -3.0847
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "politics/2026/may/30/green-leaders-warn-party-it-must-listen-to-reform-voters-concerns-to-tackle-inequality",
-      "headline": "Green leaders warn party it must listen to Reform voters’ concerns to tackle inequality",
-      "summary": "Green party leaders urge party to engage with Reform voters' concerns to address inequality.",
-      "url": "https://www.theguardian.com/p/x56ybg",
-      "thumbnail": "https://media.guim.co.uk/b8138cf5e0e9f55470ed31fe0894b2fb87de961d/163_0_2500_2000/500.jpg",
-      "published": "2026-05-30T18:20:42Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "us-news/2026/may/30/trump-rally-social-media",
-      "headline": "Trump proposes ‘wild’ rally instead of concerts after artists back out of series",
-      "summary": "Trump announces rally after artists decline Kennedy Center concerts amid social media activity.",
-      "url": "https://www.theguardian.com/p/x56yaf",
-      "thumbnail": "https://media.guim.co.uk/b0b56daeee6b0cad61816e003a468c3c958bd9a1/597_0_4167_3333/500.jpg",
-      "published": "2026-05-30T18:17:16Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
     {
       "id": "australia-news/2026/may/31/ai-companion-robots-in-aged-care-australia-ageing-population-humanity",
       "headline": "An industry targeting Australia’s ageing population is growing, but can AI deliver more humanity in aged care? ",
@@ -166,70 +118,6 @@
       "category": "politics",
       "significance": 2,
       "section": "commentisfree"
-    },
-    {
-      "id": "football/2026/may/30/arsenal-fans-zen-like-champions-league-final-result",
-      "headline": "‘Happy either way’: Arsenal fans’ zen-like approach to Champions League final result",
-      "summary": "Arsenal fans remain optimistic despite Champions League final loss, celebrating Premier League title.",
-      "url": "https://www.theguardian.com/p/x56yab",
-      "thumbnail": "https://media.guim.co.uk/03ce074114909b8584e52889aa0400fe97712812/1197_0_2835_2268/500.jpg",
-      "published": "2026-05-30T19:36:40Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "us-news/2026/may/30/trump-irs-suit-reopened",
-      "headline": "Judge reopens Trump’s IRS suit to examine $1.8bn settlement with justice department",
-      "summary": "Federal judge reopens Trump's $10bn IRS case to investigate $1.8bn settlement fraud allegations.",
-      "url": "https://www.theguardian.com/p/x56ydj",
-      "thumbnail": "https://media.guim.co.uk/d5d032160108a36e9651a0374e1e9b3da65c90d5/663_0_3745_2997/500.jpg",
-      "published": "2026-05-30T19:23:39Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "football/2026/may/30/paris-saint-germain-retain-champions-league-as-arsenal-dream-dashed-in-shootout",
-      "headline": "Paris Saint-Germain retain Champions League as Arsenal dream dashed in shootout",
-      "summary": "PSG retains Champions League title, defeating Arsenal 4-3 in penalty shootout after 1-1 draw.",
-      "url": "https://www.theguardian.com/p/x56h42",
-      "thumbnail": "https://media.guim.co.uk/0ad362ca4f75b65ac94763459bfd6c36e2c889c4/792_351_5576_4461/500.jpg",
-      "published": "2026-05-30T19:19:41Z",
-      "location": {
-        "name": "Paris",
-        "lat": 48.8566,
-        "lng": 2.3522
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "thefilter-us/2026/may/30/guinness-v-guinness-0-non-alcoholic-taste-test",
-      "headline": "Guinness v alcohol-free Guinness 0: We held a blind taste test to see if we could spot the fake",
-      "summary": "Blind taste test compares Guinness and alcohol-free Guinness 0 as non-alcoholic beer sales surge.",
-      "url": "https://www.theguardian.com/p/x56gm6",
-      "thumbnail": "https://media.guim.co.uk/08bcbafa331095df0996c9010c9e20c328ee2533/323_0_2740_2193/500.jpg",
-      "published": "2026-05-30T19:15:27Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "thefilter-us"
     },
     {
       "id": "us-news/2026/may/30/protests-ice-immigration-detention-center-new-jersey",
@@ -1510,6 +1398,54 @@
       "category": "tech",
       "significance": 2,
       "section": "technology"
+    },
+    {
+      "id": "football/live/2026/may/31/usmnt-v-senegal-live-updates-analysis-lineups",
+      "headline": "USMNT v Senegal: Updates and analysis from pre-World Cup friendly – live",
+      "summary": "USMNT faces Senegal in pre-World Cup friendly in Charlotte with live updates.",
+      "url": "https://www.theguardian.com/p/x56q4j",
+      "thumbnail": "https://media.guim.co.uk/a0f939dccb51978a9fbde04a079f53d9f3ae5622/890_119_3117_2494/500.jpg",
+      "published": "2026-05-31T19:42:17Z",
+      "location": {
+        "name": "Charlotte",
+        "lat": 35.2271,
+        "lng": -80.8431
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/may/31/new-jersey-ice-facility-protests",
+      "headline": "Family visitation partly restored at New Jersey ICE facility after week of protests ",
+      "summary": "Family visitation restored at Delaney Hall ICE detention center after week of protests.",
+      "url": "https://www.theguardian.com/p/x56qcz",
+      "thumbnail": "https://media.guim.co.uk/e9f538093f83d0297d5c966a6f4d90d81dd7ceba/417_0_4167_3333/500.jpg",
+      "published": "2026-05-31T19:24:24Z",
+      "location": {
+        "name": "New Jersey",
+        "lat": 40.2989,
+        "lng": -74.521
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "sport/2026/may/31/psg-arsenal-champions-league-final-qatar-football",
+      "headline": "PSG provide perfect illusion with a model of beauty in soft-power project",
+      "summary": "PSG wins Champions League, cementing Qatar's soft-power sports investment strategy.",
+      "url": "https://www.theguardian.com/p/x57vx6",
+      "thumbnail": "https://media.guim.co.uk/7c23c8631c73952adaccdcde612d128fc44fdfaa/523_0_4853_3881/500.jpg",
+      "published": "2026-05-31T19:12:15Z",
+      "location": {
+        "name": "Paris",
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
     }
   ]
 }
