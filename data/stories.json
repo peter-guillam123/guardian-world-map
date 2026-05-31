@@ -1,188 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-31T12:51:16.997Z",
-    "story_count": 85,
-    "oldest_story": "2026-05-30T13:00:19Z",
-    "newest_story": "2026-05-31T12:43:32Z",
+    "generated_at": "2026-05-31T14:27:57.951Z",
+    "story_count": 78,
+    "oldest_story": "2026-05-30T14:45:00Z",
+    "newest_story": "2026-05-31T14:21:21Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "us-news/2026/may/30/california-turbulent-elections",
-      "headline": "Chaos in California: state braces for its most turbulent election in years",
-      "summary": "California braces for turbulent primary election for governor, LA mayor amid voter frustration.",
-      "url": "https://www.theguardian.com/p/x56cad",
-      "thumbnail": "https://media.guim.co.uk/a44e5028ed6a29ca0cc8eab73bba40c0bcabc087/538_0_5378_4302/500.jpg",
-      "published": "2026-05-30T14:00:21Z",
-      "location": {
-        "name": "California",
-        "lat": 36.1163,
-        "lng": -119.6674
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "commentisfree/2026/may/30/spencer-pratt-mayor-policy-experience",
-      "headline": "Spencer Pratt is a reality star pandering to the LA ego. He could be our next mayor",
-      "summary": "Reality star Spencer Pratt criticized for lacking experience in LA mayoral race.",
-      "url": "https://www.theguardian.com/p/x5674c",
-      "thumbnail": "https://media.guim.co.uk/f7724321ed001057f3e458565c8363f67ba86f18/1_0_2999_2400/500.jpg",
-      "published": "2026-05-30T14:00:20Z",
-      "location": {
-        "name": "Los Angeles",
-        "lat": 34.0522,
-        "lng": -118.2437
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "commentisfree"
-    },
-    {
-      "id": "sport/live/2026/may/30/england-v-india-second-womens-t20-international-live",
-      "headline": "England v India: second women’s T20 international – live",
-      "summary": "England women's cricket team faces India in T20 World Cup preparation match.",
-      "url": "https://www.theguardian.com/p/x55je6",
-      "thumbnail": "https://media.guim.co.uk/a6e46ebac6dfcd538bfb73d6a488a724aad05447/1180_81_3130_2503/500.jpg",
-      "published": "2026-05-30T13:58:53Z",
-      "location": {
-        "name": "Bristol",
-        "lat": 51.4545,
-        "lng": -2.5879
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "business/2026/may/30/chicago-minneapolis-united-airlines-flight-diverted-attempted-cockpit-breach",
-      "headline": "Chicago-to-Minneapolis United Airlines flight diverted after attempted cockpit breach",
-      "summary": "United Airlines flight diverted to Wisconsin after unruly passenger attempted cockpit breach.",
-      "url": "https://www.theguardian.com/p/x56kd2",
-      "thumbnail": "https://media.guim.co.uk/fa48f336dec5adf1e9791a97ece756777961e1eb/223_0_2917_2333/500.jpg",
-      "published": "2026-05-30T13:36:46Z",
-      "location": {
-        "name": "Wisconsin",
-        "lat": 44.2685,
-        "lng": -89.6165
-      },
-      "category": "other",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "us-news/2026/may/30/trump-health-memo-released",
-      "headline": "White House releases memo describing results of Trump’s health checkup",
-      "summary": "Trump's health memo reports lower leg swelling but describes president as in excellent health.",
-      "url": "https://www.theguardian.com/p/x56kd6",
-      "thumbnail": "https://media.guim.co.uk/5e2d06a872795f0b9a408a3519b303bfbaa71ade/0_0_3206_2565/500.jpg",
-      "published": "2026-05-30T13:23:28Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "uk-news/2026/may/30/first-bramley-apple-tree-cottage-sold-nottingham-southwell",
-      "headline": "Future of first Bramley apple tree in doubt as cottage where it stands is sold",
-      "summary": "Original Bramley apple tree's future uncertain after cottage sale by Nottingham Trent University.",
-      "url": "https://www.theguardian.com/p/x56k7k",
-      "thumbnail": "https://media.guim.co.uk/242a01a1b3f2935c6e01b4444f09bd45e0b04ec8/488_0_4000_3203/500.jpg",
-      "published": "2026-05-30T13:15:54Z",
-      "location": {
-        "name": "Southwell",
-        "lat": 53.3927,
-        "lng": -0.8953
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "world/2026/may/30/drugs-shortages-economic-impact-diamond-crash-botswana",
-      "headline": "‘I want my life back’: drugs shortages lay bare economic impact of diamond crash in Botswana",
-      "summary": "Botswana's diamond industry collapse creates healthcare drug shortages affecting patients.",
-      "url": "https://www.theguardian.com/p/x54ctq",
-      "thumbnail": "https://media.guim.co.uk/e2ceb570408a7449f1b04db8c6918c8c8c6a3dde/520_0_5200_4160/500.jpg",
-      "published": "2026-05-30T13:00:20Z",
-      "location": {
-        "name": "Botswana",
-        "lat": -22.3285,
-        "lng": 24.6849
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "business/2026/may/30/everyman-luxury-cinema-whats-gone-wrong-regain-magic",
-      "headline": "What’s gone wrong at Everyman and can the luxury cinema chain regain its magic?",
-      "summary": "Luxury cinema chain Everyman faces turnaround challenges amid increased competition.",
-      "url": "https://www.theguardian.com/p/x54yfj",
-      "thumbnail": "https://media.guim.co.uk/3dcbcc370cbd139631f14b9c1f59f43f11c68c2f/459_0_4167_3333/500.jpg",
-      "published": "2026-05-30T13:00:20Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "uk-news/2026/may/30/harshita-brella-family-uk-manhunt-husband-pankaj-lamba",
-      "headline": "‘I’m here to fight for justice’: Harshita Brella’s family in UK as hunt continues for husband suspected of murder",
-      "summary": "Harshita Brella's family seeks justice as manhunt continues for suspected murderer.",
-      "url": "https://www.theguardian.com/p/x56bzp",
-      "thumbnail": "https://media.guim.co.uk/ba77bfd267e1e81ba94205c8982a587486fb7ce5/633_0_5000_4000/500.jpg",
-      "published": "2026-05-30T13:00:20Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "uk-news"
-    },
-    {
-      "id": "technology/2026/may/30/pope-leo-anthropic-ai",
-      "headline": "Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’",
-      "summary": "Anthropic's Vatican alliance on AI safety faces criticism as potential 'washing' effort.",
-      "url": "https://www.theguardian.com/p/x56gn5",
-      "thumbnail": "https://media.guim.co.uk/5adae1e585d8b1337869f58db2152a5e4689dd28/688_0_6880_5504/500.jpg",
-      "published": "2026-05-30T13:00:20Z",
-      "location": {
-        "name": "Vatican City",
-        "lat": 41.9029,
-        "lng": 12.4534
-      },
-      "category": "tech",
-      "significance": 2,
-      "section": "technology"
-    },
-    {
-      "id": "us-news/2026/may/30/miami-zoo-violations-mario-tabraue-tiger-king",
-      "headline": "Animal welfare violations swarm Miami zoo owned by ex-drug kingpin in Tiger King",
-      "summary": "Ex-drug kingpin's Miami zoo cited for animal welfare violations including leopard amputation.",
-      "url": "https://www.theguardian.com/p/x56aqk",
-      "thumbnail": "https://media.guim.co.uk/2b30c3448d8faaf0ef9d88924200688a0fda386b/285_0_1678_1344/500.jpg",
-      "published": "2026-05-30T13:00:19Z",
-      "location": {
-        "name": "Miami",
-        "lat": 25.7617,
-        "lng": -80.1918
-      },
-      "category": "other",
-      "significance": 2,
-      "section": "us-news"
-    },
     {
       "id": "football/live/2026/may/30/paris-saint-germain-arsenal-champions-league-final-live-psg-score-updates",
       "headline": "Paris Saint-Germain v Arsenal: Champions League final – live",
@@ -262,38 +86,6 @@
       "category": "politics",
       "significance": 3,
       "section": "us-news"
-    },
-    {
-      "id": "football/2026/may/30/scotland-curacao-world-cup-warm-up-match-report",
-      "headline": "Scotland recover to put four past 10-man Curaçao in World Cup warm-up",
-      "summary": "Scotland defeat 10-man Curaçao 4-0 in World Cup warm-up match at Hampden Park.",
-      "url": "https://www.theguardian.com/p/x56haf",
-      "thumbnail": "https://media.guim.co.uk/600b050d9581e92cd8266cb6a56b5f23edf0832b/237_0_2425_1940/500.jpg",
-      "published": "2026-05-30T14:26:42Z",
-      "location": {
-        "name": "Glasgow",
-        "lat": 55.8642,
-        "lng": -4.2518
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "sport/2026/may/30/saracens-harlequins-prem-rugby-union-match-report",
-      "headline": "Saracens climb into top four with win over Harlequins in McCall’s home farewell",
-      "summary": "Saracens beat Harlequins 26-12 to secure top four finish in Mark McCall's final home match.",
-      "url": "https://www.theguardian.com/p/x56hdf",
-      "thumbnail": "https://media.guim.co.uk/858a868c1a6cd98ed45599f6747e1c3b6154c5d3/561_0_6075_4860/500.jpg",
-      "published": "2026-05-30T14:23:49Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
     },
     {
       "id": "us-news/2026/may/30/climbers-die-alaska-mount-mckinley",
@@ -1365,6 +1157,102 @@
       },
       "category": "economy",
       "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/may/31/arsenal-progress-mikel-arteta-champions-league-ultimate-glory-flaws",
+      "headline": "Arsenal progress under Arteta is clear but flaws still remain for the ultimate glory",
+      "summary": "Arsenal's Champions League campaign ends in Budapest with penalty misses highlighting remaining flaws despite Arteta's progress.",
+      "url": "https://www.theguardian.com/p/x56qxe",
+      "thumbnail": "https://media.guim.co.uk/00e73a37376b965c7a50f31f8112586a3a7307ce/774_187_6427_5142/500.jpg",
+      "published": "2026-05-31T14:21:21Z",
+      "location": {
+        "name": "Budapest",
+        "lat": 47.4979,
+        "lng": 19.0402
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "sport/2026/may/31/oklahoma-city-thunder-san-antonio-spurs-nba-playoffs",
+      "headline": "The Thunder are dethroned, shameless and wildly unpopular. They’re still a great basketball team",
+      "summary": "San Antonio Spurs defeat defending champion Oklahoma City Thunder in epic Western Conference finals Game 7.",
+      "url": "https://www.theguardian.com/p/x56qxb",
+      "thumbnail": "https://media.guim.co.uk/94f7f5d6c31bf9c06fe5c7ed099a4c1dfb903924/67_0_4958_3967/500.jpg",
+      "published": "2026-05-31T14:08:32Z",
+      "location": {
+        "name": "San Antonio",
+        "lat": 29.4241,
+        "lng": -98.4936
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "sport"
+    },
+    {
+      "id": "law/2026/may/31/indian-citizen-post-brexit-visa-scheme-employment-tribunal-uk",
+      "headline": "Indian man awarded almost £30,000 after UK employer failed to provide work",
+      "summary": "Indian care worker awarded £30,000 after UK employer failed to provide work under post-Brexit visa scheme.",
+      "url": "https://www.theguardian.com/p/x56fhp",
+      "thumbnail": "https://media.guim.co.uk/6b9c392d2d31f1487100ecba8577d7103f6f9179/1038_888_2242_1795/500.jpg",
+      "published": "2026-05-31T14:00:50Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "law"
+    },
+    {
+      "id": "us-news/2026/may/31/jasmeet-bains-california-congress-race-democrats",
+      "headline": "The ferocious battle in California’s heartland laying bare Democrats’ struggles",
+      "summary": "Democrats battle to flip California's 22nd district with doctor Jasmeet Bains facing vision clash in Central Valley race.",
+      "url": "https://www.theguardian.com/p/x569zm",
+      "thumbnail": "https://media.guim.co.uk/f90edae63b12d41463a19c6df01768c5ce5e4f54/0_0_1500_1200/500.jpg",
+      "published": "2026-05-31T14:00:49Z",
+      "location": {
+        "name": "California",
+        "lat": 36.1163,
+        "lng": -119.6674
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "world/2026/may/31/yves-sakila-death-congolese-man-ireland-race-relations",
+      "headline": "Death of Congolese man renews scrutiny of race relations in Ireland",
+      "summary": "Death of Congolese man after security guard restraint sparks race relations inquiry and independent postmortem in Ireland.",
+      "url": "https://www.theguardian.com/p/x56pm9",
+      "thumbnail": "https://media.guim.co.uk/18e50a3dcb05e20b2ff7ed14d529d624c7599556/98_0_5000_4000/500.jpg",
+      "published": "2026-05-31T13:59:34Z",
+      "location": {
+        "name": "Dublin",
+        "lat": 53.3498,
+        "lng": -6.2603
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "us-news/2026/may/31/virginia-bus-crash-driver-charged",
+      "headline": "Bus driver charged in Virginia crash that killed five people",
+      "summary": "Bus driver charged with involuntary manslaughter after Friday crash in Virginia kills five and injures 40+ people.",
+      "url": "https://www.theguardian.com/p/x56py8",
+      "thumbnail": "https://media.guim.co.uk/927c25a9aafd722842bd7d4a5609507b3145b361/63_0_630_504/500.jpg",
+      "published": "2026-05-31T13:42:45Z",
+      "location": {
+        "name": "Virginia",
+        "lat": 37.7693,
+        "lng": -78.1694
+      },
+      "category": "conflict",
+      "significance": 3,
       "section": "us-news"
     }
   ]
