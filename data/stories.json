@@ -1,28 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-31T17:06:13.146Z",
-    "story_count": 95,
-    "oldest_story": "2026-05-30T17:06:06Z",
-    "newest_story": "2026-05-31T17:02:03Z",
+    "generated_at": "2026-05-31T18:16:08.943Z",
+    "story_count": 94,
+    "oldest_story": "2026-05-30T18:17:16Z",
+    "newest_story": "2026-05-31T17:18:27Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "sport/2026/may/30/second-t20-international-england-india-match-report",
-      "headline": "England’s Freya Kemp makes mark with bat and ball to level series against India",
-      "summary": "England women's T20 cricket team defeats India by 26 runs at Bristol to level series.",
-      "url": "https://www.theguardian.com/p/x56hck",
-      "thumbnail": "https://media.guim.co.uk/35097081ec46eed483fc8cafa0d67ae9c98804fb/500_0_5000_4000/500.jpg",
-      "published": "2026-05-30T17:06:06Z",
-      "location": {
-        "name": "Bristol",
-        "lat": 51.4545,
-        "lng": -2.5879
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
     {
       "id": "uk-news/2026/may/30/family-pays-tribute-chiedza-nyanjowa-15-died-swimming-merseyside-beach",
       "headline": "Family pays tribute to girl, 15, who died after swimming at Merseyside beach",
@@ -70,22 +54,6 @@
       "category": "politics",
       "significance": 2,
       "section": "us-news"
-    },
-    {
-      "id": "football/2026/may/30/arne-slot-liverpool-mohamed-salah-fenway-sports-group",
-      "headline": "FSG agreed with Salah: loss of style meant Arne Slot had to go to win back Liverpool fans",
-      "summary": "Liverpool sacks Arne Slot to restore attacking style after fan dissatisfaction and recruitment issues.",
-      "url": "https://www.theguardian.com/p/x56y2p",
-      "thumbnail": "https://media.guim.co.uk/37bc0bfdf0786d87612aa12b1a55210f74ac2df8/20_16_1393_1113/500.jpg",
-      "published": "2026-05-30T18:00:25Z",
-      "location": {
-        "name": "Liverpool",
-        "lat": 53.4084,
-        "lng": -2.9916
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
     },
     {
       "id": "australia-news/2026/may/31/ai-companion-robots-in-aged-care-australia-ageing-population-humanity",
@@ -1526,6 +1494,22 @@
       "category": "culture",
       "significance": 2,
       "section": "music"
+    },
+    {
+      "id": "technology/2026/may/31/meta-legal-action-forces-facebook-whistleblower-to-stay-silent-at-hay-festival",
+      "headline": " Meta legal action forces Facebook whistleblower to sit in silence at Hay festival",
+      "summary": "Facebook whistleblower silenced at Hay Festival due to Meta legal action restrictions.",
+      "url": "https://www.theguardian.com/p/x56qf2",
+      "thumbnail": "https://media.guim.co.uk/647dd9f90f0840e9609ac00f7eac302b7255b8e8/40_312_6492_5192/500.jpg",
+      "published": "2026-05-31T17:18:27Z",
+      "location": {
+        "name": "Hay-on-Wye",
+        "lat": 52.0734,
+        "lng": -3.0733
+      },
+      "category": "tech",
+      "significance": 2,
+      "section": "technology"
     }
   ]
 }
