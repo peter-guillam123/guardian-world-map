@@ -1,92 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-31T01:37:15.828Z",
-    "story_count": 81,
-    "oldest_story": "2026-05-30T02:49:20Z",
-    "newest_story": "2026-05-31T01:35:03Z",
+    "generated_at": "2026-05-31T06:03:10.872Z",
+    "story_count": 84,
+    "oldest_story": "2026-05-30T08:31:53Z",
+    "newest_story": "2026-05-31T06:00:40Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "australia-news/2026/may/30/western-australia-storm-to-affect-millions-icy-weather-for-nsw-victoria-sa",
-      "headline": "‘Significant’ storm to hammer millions in WA and bring icy weather to NSW, Victoria and SA",
-      "summary": "Major storm with cyclone-strength winds to hit Western Australia; icy weather expected in eastern states.",
-      "url": "https://www.theguardian.com/p/x56tvf",
-      "thumbnail": "https://media.guim.co.uk/f571d023c09ad0df21c7a95f863984c28bc0bb70/347_0_1350_1080/500.jpg",
-      "published": "2026-05-30T02:49:20Z",
-      "location": {
-        "name": "Western Australia",
-        "lat": -31.9505,
-        "lng": 115.8605
-      },
-      "category": "climate",
-      "significance": 3,
-      "section": "australia-news"
-    },
-    {
-      "id": "world/2026/may/30/russian-missiles-devastated-kyiv-cultural-sites",
-      "headline": "‘We could hear the roof collapsing’: how Russian missiles devastated Kyiv’s cultural sites ",
-      "summary": "Russian missile strikes damage Kyiv cultural sites, killing 2 and injuring 90.",
-      "url": "https://www.theguardian.com/p/x56e9n",
-      "thumbnail": "https://media.guim.co.uk/a8675e7550bc71cc77c21d46dad9dcac70972a48/312_0_4688_3750/500.jpg",
-      "published": "2026-05-30T06:00:12Z",
-      "location": {
-        "name": "Kyiv",
-        "lat": 50.4501,
-        "lng": 30.5234
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "uk-news/2026/may/30/bar-restaurant-licence-challenges-destroying-soho-reputation",
-      "headline": "Resident group’s objections to bar and restaurant licences ‘destroying Soho’s reputation’",
-      "summary": "Soho resident group objections to venues threaten London's entertainment district reputation.",
-      "url": "https://www.theguardian.com/p/x56aah",
-      "thumbnail": "https://media.guim.co.uk/4ac0b973f3ce599e87d89d048b43372d85eaade4/255_0_7654_6123/500.jpg",
-      "published": "2026-05-30T06:00:12Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "travel/2026/may/30/five-stunning-walks-king-charles-england-coast-path",
-      "headline": "Five stunning walks on the new King Charles III England coast path",
-      "summary": "King Charles III England coast path offers 2,700-mile scenic walking route.",
-      "url": "https://www.theguardian.com/p/x5vc98",
-      "thumbnail": "https://media.guim.co.uk/a91ca0cc9e917aedc7a7981c5672e4e911e9c415/104_0_3113_2491/500.jpg",
-      "published": "2026-05-30T06:00:11Z",
-      "location": {
-        "name": "England",
-        "lat": 52.3555,
-        "lng": -1.1743
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "travel"
-    },
-    {
-      "id": "business/2026/may/30/gluten-free-basics-luxury-bread-prices-coeliac-diseasae",
-      "headline": "Gluten-free basics ‘now a luxury’ as price of a small branded loaf nears £4",
-      "summary": "Gluten-free bread prices near £4 as coeliac patients face affordability crisis.",
-      "url": "https://www.theguardian.com/p/x554eb",
-      "thumbnail": "https://media.guim.co.uk/67a1362512ae865ee5988393e09d1ee9df247d4c/152_0_4640_3712/500.jpg",
-      "published": "2026-05-30T06:00:11Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
     {
       "id": "football/live/2026/may/30/champions-league-final-buildup-world-cup-news-transfers-and-more-matchday-live",
       "headline": "Champions League final buildup, World Cup news, transfers and more – matchday live",
@@ -1302,6 +1222,134 @@
       "category": "sport",
       "significance": 2,
       "section": "football"
+    },
+    {
+      "id": "culture/2026/may/31/bikinis-cat-bowls-museum-gift-shops",
+      "headline": "From bikinis to cat bowls: how museum gift stores became the place to shop ",
+      "summary": "Museum gift shops have evolved into curated shopping destinations, selling bikinis and cat bowls alongside art.",
+      "url": "https://www.theguardian.com/p/x56f7f",
+      "thumbnail": "https://media.guim.co.uk/d74c98a41f71296a08a0f09f42593ed4df75a33f/178_0_1188_950/500.jpg",
+      "published": "2026-05-31T06:00:40Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "culture"
+    },
+    {
+      "id": "business/2026/may/31/recruiter-insolvent-firm-payments-premier-group-recruitment-hmrc",
+      "headline": "Recruiter who was allowed to buy back his insolvent firm falls behind on payments after offering staff Vegas trip",
+      "summary": "Recruitment firm owner falls behind on payments after promising staff Las Vegas trip despite £2.9m debt.",
+      "url": "https://www.theguardian.com/p/x548bz",
+      "thumbnail": "https://media.guim.co.uk/6c1f0badb6fdd90c861b88f7f8335fd5bc43da52/628_0_4540_3632/500.jpg",
+      "published": "2026-05-31T06:00:40Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "football/2026/may/31/mexico-v-australia-socceroos-football-friendly-report",
+      "headline": "Socceroos show resilience and spark but miss chances against Mexico in final audition for World Cup",
+      "summary": "Mexico defeats Australia 1-0 in World Cup friendly, raising pressure on coach Tony Popovic's squad selection.",
+      "url": "https://www.theguardian.com/p/x56f7b",
+      "thumbnail": "https://media.guim.co.uk/7495162ffcd5d26a773ea5c3fc637abc146548ce/266_0_2500_2000/500.jpg",
+      "published": "2026-05-31T05:31:27Z",
+      "location": {
+        "name": "Mexico City",
+        "lat": 19.4326,
+        "lng": -99.1332
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "tv-and-radio/2026/may/31/tv-tonight-a-major-new-culture-wars-drama-from-the-great-russell-t-davies",
+      "headline": "TV tonight: a major new culture wars drama from the great Russell T Davies ",
+      "summary": "Russell T Davies' new culture wars drama starring Alan Cumming airs on Channel 4 tonight from Manchester.",
+      "url": "https://www.theguardian.com/p/x56944",
+      "thumbnail": "https://media.guim.co.uk/bf58080161ea90af225306df3f68b93bcedf93a7/500_0_2500_2000/500.jpg",
+      "published": "2026-05-31T05:15:39Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "tv-and-radio"
+    },
+    {
+      "id": "music/2026/may/31/badenoch-supporting-us-rapper-azealia-banks-to-attend-spectator-summer-party-in-london",
+      "headline": "Badenoch-supporting US rapper Azealia Banks to attend Spectator summer party in London",
+      "summary": "US rapper Azealia Banks to attend Spectator magazine summer party in London, supporting Kemi Badenoch.",
+      "url": "https://www.theguardian.com/p/x56ybz",
+      "thumbnail": "https://media.guim.co.uk/599a7ae129b36984ded799b4075db3430c852deb/648_325_3013_2411/500.jpg",
+      "published": "2026-05-31T05:00:40Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "music"
+    },
+    {
+      "id": "food/2026/may/31/skof-manchester-m4-grace-dent-restaurant-review",
+      "headline": "Skof, Manchester M4: ‘Proof that fine dining can be magical’ – restaurant review",
+      "summary": "Skof restaurant in Manchester M4 praised as proof that fine dining can be magical in new review.",
+      "url": "https://www.theguardian.com/p/x54pxq",
+      "thumbnail": "https://media.guim.co.uk/cbd35f49c1d015f4ecaaeb6559a6110a20045ec1/0_0_6830_5464/500.jpg",
+      "published": "2026-05-31T05:00:40Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "food"
+    },
+    {
+      "id": "world/2026/may/31/one-day-i-thought-thats-enough-the-people-fighting-back-against-pothole-riddled-roads",
+      "headline": "‘One day I thought, that’s enough’: the people fighting back against pothole-riddled roads",
+      "summary": "Pothole vigilantes fight back against crumbling roads from Manchester to Manhattan, becoming political flashpoint.",
+      "url": "https://www.theguardian.com/p/x53tpk",
+      "thumbnail": "https://media.guim.co.uk/a17c2359b891c8c8da75ae2f664531182103bec6/0_1493_3648_2918/500.jpg",
+      "published": "2026-05-31T05:00:39Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "uk-news/2026/may/31/defence-money-plymouth-regeneration-plans",
+      "headline": "‘The potential is huge’: Plymouth hopes defence money will have it sailing again ",
+      "summary": "Plymouth hopes defence investment and regeneration plans will revive Britain's ocean city for residents.",
+      "url": "https://www.theguardian.com/p/x53jh5",
+      "thumbnail": "https://media.guim.co.uk/90ae5dbe5e74a139ceded79d2ca3416b028876c4/560_0_5600_4480/500.jpg",
+      "published": "2026-05-31T05:00:39Z",
+      "location": {
+        "name": "Plymouth",
+        "lat": 50.3755,
+        "lng": -4.1427
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "uk-news"
     }
   ]
 }
