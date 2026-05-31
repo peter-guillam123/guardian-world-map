@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-05-30T23:30:30.233Z",
-    "story_count": 77,
+    "generated_at": "2026-05-31T01:37:15.828Z",
+    "story_count": 81,
     "oldest_story": "2026-05-30T02:49:20Z",
-    "newest_story": "2026-05-30T23:30:21Z",
+    "newest_story": "2026-05-31T01:35:03Z",
     "window_hours": 24
   },
   "stories": [
@@ -1238,6 +1238,70 @@
       "category": "sport",
       "significance": 2,
       "section": "world"
+    },
+    {
+      "id": "football/live/2026/may/31/mexico-v-australia-socceroos-football-friendly-live-updates",
+      "headline": "Mexico v Australia: men’s international football friendly – live",
+      "summary": "Mexico and Australia play World Cup warmup friendly at Rose Bowl Stadium in California.",
+      "url": "https://www.theguardian.com/p/x56cjy",
+      "thumbnail": "https://media.guim.co.uk/bb9a6ec29370d16bfb725372f4167cf480d3d3a1/1000_0_5000_4000/500.jpg",
+      "published": "2026-05-31T01:35:03Z",
+      "location": {
+        "name": "Pasadena, California",
+        "lat": 34.1478,
+        "lng": -118.1445
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/may/31/trump-news-at-a-glance-president-in-excellent-health-his-doctor-says-after-routine-medical-check",
+      "headline": "Trump news at a glance: president in ‘excellent health’, his doctor says after routine medical check",
+      "summary": "Trump in excellent health per doctor's memo, though advised to lose weight.",
+      "url": "https://www.theguardian.com/p/x56mpj",
+      "thumbnail": "https://media.guim.co.uk/cdcec18d865c907bc3b195f4164d1fe69de70735/358_0_4165_3332/500.jpg",
+      "published": "2026-05-31T00:44:27Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "world/2026/may/31/ukraine-war-briefing-kyiv-denies-its-drone-deliberately-hit-zaporizhzhia-nuclear-plant",
+      "headline": "Ukraine war briefing: Kyiv denies its drone ‘deliberately’ hit Zaporizhzhia nuclear plant",
+      "summary": "Ukraine denies intentional drone strike on Russian-controlled Zaporizhzhia nuclear plant.",
+      "url": "https://www.theguardian.com/p/x56mna",
+      "thumbnail": "https://media.guim.co.uk/62b834fd3c9b09fab0a12d5c9dc553b8d3f69042/535_0_4681_3746/500.jpg",
+      "published": "2026-05-31T00:38:04Z",
+      "location": {
+        "name": "Zaporizhzhia, Ukraine",
+        "lat": 47.8394,
+        "lng": 35.1856
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "football/2026/may/30/canada-world-cup-roster-analysis-jesse-marsch-davies",
+      "headline": "Canada bet on health, speed and belief as Marsch names World Cup squad",
+      "summary": "Jesse Marsch names Canada's 26-man World Cup squad emphasizing speed and health.",
+      "url": "https://www.theguardian.com/p/x56n2h",
+      "thumbnail": "https://media.guim.co.uk/91656e2627402f06e44f7b90d9c7d7ed2d536a2d/465_0_3086_2469/500.jpg",
+      "published": "2026-05-31T00:31:34Z",
+      "location": {
+        "name": "Canada",
+        "lat": 56.1304,
+        "lng": -106.3468
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
     }
   ]
 }
