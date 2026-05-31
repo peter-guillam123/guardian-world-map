@@ -1,44 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-31T22:43:26.775Z",
-    "story_count": 85,
-    "oldest_story": "2026-05-30T22:49:07Z",
-    "newest_story": "2026-05-31T22:30:47Z",
+    "generated_at": "2026-05-31T23:49:28.530Z",
+    "story_count": 84,
+    "oldest_story": "2026-05-31T00:31:34Z",
+    "newest_story": "2026-05-31T23:01:00Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "australia-news/live/2026/may/31/clare-oneil-labor-tax-changes-richard-marles-shangri-la-dialogue-aukus-deal-politics-reactions-labor-coalition-tax-changes-housing-one-nation-ntwnfb",
-      "headline": "Australia news live: Aukus nations to develop uncrewed vehicles to protect undersea cables; Hanson says she could be PM",
-      "summary": "Aukus nations plan uncrewed vehicles for undersea cable protection at Shangri-La Dialogue.",
-      "url": "https://www.theguardian.com/p/x56mga",
-      "thumbnail": "https://media.guim.co.uk/1b0aca114fd6c70e1ff3f6cee3317c4e74d97932/683_0_6827_5464/500.jpg",
-      "published": "2026-05-30T23:30:21Z",
-      "location": {
-        "name": "Singapore",
-        "lat": 1.3521,
-        "lng": 103.8198
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "australia-news"
-    },
-    {
-      "id": "us-news/2026/may/30/graham-platner-explicit-texts-senate-maine",
-      "headline": "Graham Platner sent explicit texts to other women during marriage, wife confirms",
-      "summary": "Democratic Senate candidate in Maine faces scandal over explicit texts sent during marriage.",
-      "url": "https://www.theguardian.com/p/x56m8a",
-      "thumbnail": "https://media.guim.co.uk/ac2b149b4dfa2853a0830993099e71f10d0ee29a/185_0_3288_2632/500.jpg",
-      "published": "2026-05-30T22:49:07Z",
-      "location": {
-        "name": "Maine",
-        "lat": 45.6945,
-        "lng": -68.9887
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
     {
       "id": "football/live/2026/may/31/mexico-v-australia-socceroos-football-friendly-live-updates",
       "headline": "Mexico v Australia: men’s international football friendly – live",
@@ -1366,6 +1334,22 @@
       "category": "sport",
       "significance": 2,
       "section": "football"
+    },
+    {
+      "id": "society/2026/jun/01/single-patient-records-sharing-health-data-nhs-england",
+      "headline": "Shared NHS patient records could cut 20,000 A&E visits a year, ministers claim",
+      "summary": "NHS modernisation bill aims to cut 20,000 A&E visits annually through shared patient records.",
+      "url": "https://www.theguardian.com/p/x56fb7",
+      "thumbnail": "https://media.guim.co.uk/2e0f178f53ff3f5ec0ac94ddfce518516b9dbb5b/0_0_3272_2618/500.jpg",
+      "published": "2026-05-31T23:01:00Z",
+      "location": {
+        "name": "England",
+        "lat": 52.3555,
+        "lng": -1.1743
+      },
+      "category": "health",
+      "significance": 3,
+      "section": "society"
     }
   ]
 }
