@@ -1,108 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-31T09:22:24.009Z",
-    "story_count": 83,
-    "oldest_story": "2026-05-30T10:00:16Z",
-    "newest_story": "2026-05-31T09:18:07Z",
+    "generated_at": "2026-05-31T11:15:08.248Z",
+    "story_count": 78,
+    "oldest_story": "2026-05-30T11:36:51Z",
+    "newest_story": "2026-05-31T11:00:47Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "society/2026/may/30/young-people-neets-jobs-housing-crisis-homelessness",
-      "headline": "Rise in youth unemployment driving more to homelessness, UK charities say",
-      "summary": "UK charities warn youth unemployment surge is driving more young people into homelessness.",
-      "url": "https://www.theguardian.com/p/x55pvq",
-      "thumbnail": "https://media.guim.co.uk/703c542525c452b3e3773ffcfeed3b48fe2f379e/0_0_5000_4000/500.jpg",
-      "published": "2026-05-30T10:52:45Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "society"
-    },
-    {
-      "id": "lifeandstyle/2026/may/30/olivier-lei-best-phone-picture-famous-bar-barcelona",
-      "headline": "‘If you know Barcelona, you’ll know this place’: Olivier Lei’s best phone picture",
-      "summary": "French photographer Olivier Lei captures Barcelona bar scene in phone photography feature.",
-      "url": "https://www.theguardian.com/p/x5xmca",
-      "thumbnail": "https://media.guim.co.uk/c289e730adb0816ee366371cf7928db0ac90202d/0_0_3024_2419/500.jpg",
-      "published": "2026-05-30T10:00:17Z",
-      "location": {
-        "name": "Barcelona",
-        "lat": 41.3851,
-        "lng": 2.1734
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "lifeandstyle"
-    },
-    {
-      "id": "football/2026/may/30/usmnt-questions-senegal-germany-christian-pulisic-gio-reyna",
-      "headline": "USMNT World Cup tune-ups: can Pulisic end his drought and who is Pochettino’s super-sub?",
-      "summary": "USMNT prepares friendlies against Senegal and Germany ahead of 2026 World Cup.",
-      "url": "https://www.theguardian.com/p/x56gxj",
-      "thumbnail": "https://media.guim.co.uk/91431222bdfebd598ff2e3167471c15b831f7925/0_183_5000_4001/500.jpg",
-      "published": "2026-05-30T10:00:16Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "us-news/2026/may/30/iran-trump-peace-deal-analysis",
-      "headline": "Looming Iran peace deal shows how Trump’s maximalist goals have shrunk",
-      "summary": "Trump's Iran peace deal negotiations show shrinking goals after three-month diplomatic effort.",
-      "url": "https://www.theguardian.com/p/x56gjx",
-      "thumbnail": "https://media.guim.co.uk/f5f1e7c13420076062dba3d166a9da733098b8fc/551_0_5483_4389/500.jpg",
-      "published": "2026-05-30T10:00:16Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "football/2026/may/30/usa-north-america-1994-world-cup-memories",
-      "headline": "Commercialised, curious, sometimes raucous: USA 94 was a joy to attend",
-      "summary": "Retrospective on 1994 FIFA World Cup in USA, recalled as commercialised yet distinctive tournament.",
-      "url": "https://www.theguardian.com/p/x5xgka",
-      "thumbnail": "https://media.guim.co.uk/3958c92c54692911177596e99df7097ba6d92118/0_0_2500_2000/500.jpg",
-      "published": "2026-05-30T10:00:16Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "sport",
-      "significance": 1,
-      "section": "football"
-    },
-    {
-      "id": "us-news/2026/may/30/democrats-senate-battleground-states-republicans",
-      "headline": "Democrats have fresh hope to win back Senate – could they really pull it off?",
-      "summary": "Democrats see Senate opportunities in North Carolina, Ohio, Maine and Alaska after Texas primary.",
-      "url": "https://www.theguardian.com/p/x56fdd",
-      "thumbnail": "https://media.guim.co.uk/7eb2859f8c7bcc7df5e5a7c14fe080ce4958c859/1_0_2999_2400/500.jpg",
-      "published": "2026-05-30T10:00:16Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
     {
       "id": "football/live/2026/may/30/scotland-v-curacao-world-cup-warm-up-match-live",
       "headline": "Scotland v Curaçao: World Cup warm-up match – live",
@@ -182,118 +86,6 @@
       "category": "sport",
       "significance": 2,
       "section": "football"
-    },
-    {
-      "id": "business/2026/may/30/inflation-trump-presidency-midterm-election",
-      "headline": "Inflation won Trump the presidency, but could cost him the midterms",
-      "summary": "Trump's inflation-driving policies like tariffs and war could cost Republicans midterm elections.",
-      "url": "https://www.theguardian.com/p/x5668y",
-      "thumbnail": "https://media.guim.co.uk/e4ed4433a5457bdb77ed2fa5e0002f58d91dc5db/0_0_3000_2400/500.jpg",
-      "published": "2026-05-30T11:00:18Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "business"
-    },
-    {
-      "id": "world/2026/may/30/stew-pews-film-obeah-jamaica-magic-tradition",
-      "headline": "Bound by blood: new film highlights Jamaica’s outlawed obeah belief system",
-      "summary": "New film Stew Peas explores Jamaica's outlawed obeah African magic and spiritual healing tradition.",
-      "url": "https://www.theguardian.com/p/x53fvz",
-      "thumbnail": "https://media.guim.co.uk/00a562337fbdf886dbb6c84d41055a36810999fe/1278_0_5100_4084/500.jpg",
-      "published": "2026-05-30T11:00:18Z",
-      "location": {
-        "name": "Kingston",
-        "lat": 18.0179,
-        "lng": -76.8099
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "global-development/2026/may/30/delhi-homeless-family-endures-extreme-heat",
-      "headline": "Life under a Delhi flyover: how one homeless family endures the city’s extreme heat",
-      "summary": "Homeless family in Delhi endures extreme heat with no reliable access to food, water, or healthcare.",
-      "url": "https://www.theguardian.com/p/x562tt",
-      "thumbnail": "https://media.guim.co.uk/54c6f70ac40d7422a5b69cea8d5ce94e722ed345/63_0_2918_2335/500.jpg",
-      "published": "2026-05-30T11:00:18Z",
-      "location": {
-        "name": "Delhi",
-        "lat": 28.6139,
-        "lng": 77.209
-      },
-      "category": "climate",
-      "significance": 3,
-      "section": "global-development"
-    },
-    {
-      "id": "uk-news/2026/may/30/wales-is-bucking-pub-closing-trend",
-      "headline": "‘Maybe it’s because we love the sesh’: how Wales is bucking Britain’s pub-closing trend ",
-      "summary": "Wales bucks Britain's pub-closing trend with six new pubs and taphouses opening recently.",
-      "url": "https://www.theguardian.com/p/x56epz",
-      "thumbnail": "https://media.guim.co.uk/c1083b3f9198d2f7e8ce59dba3f2fea88617581f/230_0_731_585/500.jpg",
-      "published": "2026-05-30T11:00:17Z",
-      "location": {
-        "name": "Cardiff",
-        "lat": 51.4816,
-        "lng": -3.1791
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "commentisfree/2026/may/30/germany-defeat-red-army-faction-lessons-fight-terrorism",
-      "headline": "Look at how Germany defeated the Red Army Faction. The lessons about how to fight terrorism are all there",
-      "summary": "Germany's success defeating Red Army Faction offers lessons in fighting terrorism through democracy.",
-      "url": "https://www.theguardian.com/p/x56fhm",
-      "thumbnail": "https://media.guim.co.uk/a880e7f680b2da7635c89db0a1d2101068f6167b/116_0_5734_4589/500.jpg",
-      "published": "2026-05-30T11:00:17Z",
-      "location": {
-        "name": "Berlin",
-        "lat": 52.52,
-        "lng": 13.405
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "commentisfree"
-    },
-    {
-      "id": "world/2026/may/30/pope-leo-ai-reaction",
-      "headline": "Americans echo Pope Leo’s concerns about AI: ‘It threatens workers, privacy and human life’",
-      "summary": "Pope Leo warns about AI threats to workers, privacy, and human life in new encyclical.",
-      "url": "https://www.theguardian.com/p/x56b6b",
-      "thumbnail": "https://media.guim.co.uk/251ab6693623af1fb75dc95def3df86246c8c7a1/33_0_4585_3667/500.jpg",
-      "published": "2026-05-30T11:00:17Z",
-      "location": {
-        "name": "Vatican City",
-        "lat": 41.9029,
-        "lng": 12.4534
-      },
-      "category": "tech",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "music/2026/may/30/take-that-review-stadium-redux-of-circus-tour-has-maximal-razzle-dazzle",
-      "headline": "Take That review – stadium redux of Circus tour has maximal razzle-dazzle",
-      "summary": "Take That performs circus-themed stadium tour redux at St Mary's with spectacular production value.",
-      "url": "https://www.theguardian.com/p/x56jqn",
-      "thumbnail": "https://media.guim.co.uk/e89a6254a4695ee8a1e82790bcc6dbb5d71b84dd/1367_720_3907_3126/500.jpg",
-      "published": "2026-05-30T11:00:15Z",
-      "location": {
-        "name": "Southampton",
-        "lat": 50.9055,
-        "lng": -1.3909
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "music"
     },
     {
       "id": "us-news/2026/may/30/california-turbulent-elections",
@@ -1334,6 +1126,134 @@
       "category": "politics",
       "significance": 2,
       "section": "australia-news"
+    },
+    {
+      "id": "us-news/2026/may/31/trump-federal-funding-cuts-crime",
+      "headline": "Trump’s cuts to intervention programs could increase violent crime, experts say",
+      "summary": "Trump administration's federal funding cuts to violence intervention programs could reverse recent homicide declines.",
+      "url": "https://www.theguardian.com/p/x56ft3",
+      "thumbnail": "https://media.guim.co.uk/d5bbe7eb5bb328a5d26536a52d1d7624a1d3616e/925_899_2209_1767/500.jpg",
+      "published": "2026-05-31T11:00:47Z",
+      "location": {
+        "name": "United States",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "lifeandstyle/2026/may/31/dining-across-the-divide-martyn-alan-climate-change-show-me-evidence",
+      "headline": "Dining across the divide: ‘On the climate, he liked a graph. I’m a little more: show me the evidence’",
+      "summary": "Two Britons with opposing views on climate and asylum debate over dinner in Sheffield.",
+      "url": "https://www.theguardian.com/p/x52mmz",
+      "thumbnail": "https://media.guim.co.uk/6741d940a2af51ec34d3a5a1dcf7ef60b6567fcd/1064_1116_5421_4339/500.jpg",
+      "published": "2026-05-31T11:00:47Z",
+      "location": {
+        "name": "Sheffield",
+        "lat": 53.3811,
+        "lng": -1.4701
+      },
+      "category": "politics",
+      "significance": 1,
+      "section": "lifeandstyle"
+    },
+    {
+      "id": "us-news/2026/may/31/anthony-odiong-accuser-speaks-out",
+      "headline": "Priest accuser hopes Texas conviction will keep him from victimizing others",
+      "summary": "Texas jury convicts Roman Catholic priest of repeated sexual abuse against adult woman.",
+      "url": "https://www.theguardian.com/p/x56mxe",
+      "thumbnail": "https://media.guim.co.uk/1bdea9f752f7cf4c449f60f39075d2b0956a9b8b/354_0_1187_950/500.jpg",
+      "published": "2026-05-31T11:00:46Z",
+      "location": {
+        "name": "Texas",
+        "lat": 31.9686,
+        "lng": -99.9018
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "business/2026/may/31/homeless-accommodation-family-tax-avoidance-midos-management",
+      "headline": "Supplier of housing for homeless linked to faith group tax avoidance scheme",
+      "summary": "Homeless accommodation supplier linked to family's alleged tax avoidance via bogus prayer rooms.",
+      "url": "https://www.theguardian.com/p/x4pmmv",
+      "thumbnail": "https://media.guim.co.uk/bba51447020687242e26ad516d2ba5e081c7d3f6/638_0_5000_4000/500.jpg",
+      "published": "2026-05-31T11:00:46Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "politics/2026/may/31/wes-streeting-ni-tax-cuts-businesses-incentivise-hiring",
+      "headline": "Wes Streeting calls for national insurance cut and North Sea drilling",
+      "summary": "Labour leadership hopeful Wes Streeting calls for national insurance cuts and North Sea drilling.",
+      "url": "https://www.theguardian.com/p/x56p5y",
+      "thumbnail": "https://media.guim.co.uk/9f27ad5dad6be0b9037bbf547720bcd8edfecda4/842_279_4261_3409/500.jpg",
+      "published": "2026-05-31T10:49:26Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "politics/2026/may/31/disaster-brexit-warning-simple-solutions-hard-problems",
+      "headline": "Brexit’s disaster is a warning against simple solutions to hard problems",
+      "summary": "Brexit's complexity warns against simplistic solutions to youth unemployment and economic challenges.",
+      "url": "https://www.theguardian.com/p/x56e96",
+      "thumbnail": "https://media.guim.co.uk/1517774b027b2c8d2a80d2f7608ba876449a3eb3/201_0_4560_3648/500.jpg",
+      "published": "2026-05-31T10:41:34Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "food/2026/may/31/10-korean-dishes-to-savour-now-from-fried-chicken-to-kimchi-dumplings-and-stuffed-pancakes",
+      "headline": "10 Korean dishes to savour now – from fried chicken to kimchi dumplings and stuffed pancakes",
+      "summary": "Korean cuisine boom in UK offers diverse dishes from bibimbap to kimchi dumplings and tteokbokki.",
+      "url": "https://www.theguardian.com/p/x53hkg",
+      "thumbnail": "https://media.guim.co.uk/0432eb5c3342d280648af23cb918c8ee52eba899/466_0_4080_3264/500.jpg",
+      "published": "2026-05-31T10:30:45Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "food"
+    },
+    {
+      "id": "business/2026/may/31/sky-exits-tv-news-joint-venture-uae-genocide-denial-accusations",
+      "headline": "Sky exits UAE news venture after genocide denial accusations",
+      "summary": "Sky exits UAE news venture over Sudan war coverage and genocide denial accusations.",
+      "url": "https://www.theguardian.com/p/x56zqz",
+      "thumbnail": "https://media.guim.co.uk/0e9356cc6d45acee825014b56390c4f822561412/132_0_3600_2880/500.jpg",
+      "published": "2026-05-31T10:10:39Z",
+      "location": {
+        "name": "United Arab Emirates",
+        "lat": 24.4539,
+        "lng": 54.3773
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
     }
   ]
 }
