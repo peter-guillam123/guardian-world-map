@@ -1,44 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-31T21:43:45.366Z",
+    "generated_at": "2026-05-31T22:43:26.775Z",
     "story_count": 85,
-    "oldest_story": "2026-05-30T21:55:29Z",
-    "newest_story": "2026-05-31T21:41:51Z",
+    "oldest_story": "2026-05-30T22:49:07Z",
+    "newest_story": "2026-05-31T22:30:47Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "australia-news/2026/may/31/richard-marles-defence-summit-singapore-china-transparency-pete-hegseth",
-      "headline": "New Aukus drone subs to protect critical undersea cables as Marles warns: ‘seabed is a battlefield’",
-      "summary": "Australia warns of undersea cable threats; AUKUS drone subs to protect critical infrastructure from China.",
-      "url": "https://www.theguardian.com/p/x56jak",
-      "thumbnail": "https://media.guim.co.uk/917f0fa443ec17af52ca5112d26b4bb4010b7b3a/0_0_5000_4000/500.jpg",
-      "published": "2026-05-30T22:10:04Z",
-      "location": {
-        "name": "Singapore",
-        "lat": 1.3521,
-        "lng": 103.8198
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "australia-news"
-    },
-    {
-      "id": "football/2026/may/30/cruel-ending-to-arsenals-thrillingly-intense-high-quality-evening",
-      "headline": "Cruel ending to Arsenal’s thrillingly intense, high-quality evening",
-      "summary": "Arsenal loses Champions League final to PSG on penalties after thrilling match.",
-      "url": "https://www.theguardian.com/p/x56haa",
-      "thumbnail": "https://media.guim.co.uk/22a51af843b09243a88fa06b49aa3395dbf36064/500_0_5000_4000/500.jpg",
-      "published": "2026-05-30T21:55:29Z",
-      "location": {
-        "name": "Paris",
-        "lat": 48.8566,
-        "lng": 2.3522
-      },
-      "category": "sport",
-      "significance": 4,
-      "section": "football"
-    },
     {
       "id": "australia-news/live/2026/may/31/clare-oneil-labor-tax-changes-richard-marles-shangri-la-dialogue-aukus-deal-politics-reactions-labor-coalition-tax-changes-housing-one-nation-ntwnfb",
       "headline": "Australia news live: Aukus nations to develop uncrewed vehicles to protect undersea cables; Hanson says she could be PM",
@@ -70,22 +38,6 @@
       "category": "politics",
       "significance": 2,
       "section": "us-news"
-    },
-    {
-      "id": "world/2026/may/30/paris-police-arrest-paris-saint-germain-fans-celebrate-champions-league-win-over-arsenal",
-      "headline": "Paris police arrest more than 130 as PSG fans celebrate Champions League win over Arsenal",
-      "summary": "Paris police arrest 130+ PSG fans after Champions League victory celebrations turn chaotic.",
-      "url": "https://www.theguardian.com/p/x56mdf",
-      "thumbnail": "https://media.guim.co.uk/ea39f7654e64f8289092c59742d1fab1cfddd88a/844_0_5000_4000/500.jpg",
-      "published": "2026-05-30T22:37:54Z",
-      "location": {
-        "name": "Paris",
-        "lat": 48.8566,
-        "lng": 2.3522
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "world"
     },
     {
       "id": "football/live/2026/may/31/mexico-v-australia-socceroos-football-friendly-live-updates",
@@ -1366,6 +1318,54 @@
       "category": "culture",
       "significance": 2,
       "section": "music"
+    },
+    {
+      "id": "football/2026/may/31/people-arrested-and-rescued-from-height-during-arsenal-bus-parade",
+      "headline": "Sixteen people arrested and 75 rescued from height during Arsenal bus parade",
+      "summary": "Arsenal bus parade draws hundreds of thousands; 75 rescued from height, 16 arrested.",
+      "url": "https://www.theguardian.com/p/x57vq3",
+      "thumbnail": "https://media.guim.co.uk/b636d22e2aea434272bcf40913878ae6b39541e3/394_0_6356_5085/500.jpg",
+      "published": "2026-05-31T22:30:47Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/may/31/prosecutor-leaves-james-comey-case-doj",
+      "headline": "Lead prosecutor withdraws from criminal case against James Comey",
+      "summary": "Lead prosecutor withdraws from criminal case against former FBI director James Comey.",
+      "url": "https://www.theguardian.com/p/x57vh2",
+      "thumbnail": "https://media.guim.co.uk/d7e8f46af60627941c16eb10b4a888a5355ec395/339_0_4321_3456/500.jpg",
+      "published": "2026-05-31T22:04:57Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/may/31/majority-of-plymouth-women-will-be-let-go-after-squad-finds-out-by-email",
+      "headline": "‘Nearly all’ Plymouth Women players will be let go after finding out by email",
+      "summary": "Plymouth Argyle Women release nearly entire squad via email after missing promotion.",
+      "url": "https://www.theguardian.com/p/x57vyg",
+      "thumbnail": "https://media.guim.co.uk/898a3d4cb663c62297d72f0025dd0e6e56a55031/699_122_3387_2710/500.jpg",
+      "published": "2026-05-31T21:57:31Z",
+      "location": {
+        "name": "Plymouth",
+        "lat": 50.3755,
+        "lng": -4.1427
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
     }
   ]
 }
