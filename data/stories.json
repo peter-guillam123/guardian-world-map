@@ -1,44 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-01T22:14:48.869Z",
-    "story_count": 45,
-    "oldest_story": "2026-05-31T22:30:47Z",
-    "newest_story": "2026-06-01T22:14:33Z",
+    "generated_at": "2026-06-01T23:45:28.868Z",
+    "story_count": 47,
+    "oldest_story": "2026-06-01T02:00:04Z",
+    "newest_story": "2026-06-01T23:01:31Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/2026/may/31/people-arrested-and-rescued-from-height-during-arsenal-bus-parade",
-      "headline": "Sixteen people arrested and 75 rescued from height during Arsenal bus parade",
-      "summary": "Arsenal bus parade draws hundreds of thousands; 75 rescued from height, 16 arrested.",
-      "url": "https://www.theguardian.com/p/x57vq3",
-      "thumbnail": "https://media.guim.co.uk/b636d22e2aea434272bcf40913878ae6b39541e3/394_0_6356_5085/500.jpg",
-      "published": "2026-05-31T22:30:47Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "society/2026/jun/01/single-patient-records-sharing-health-data-nhs-england",
-      "headline": "Shared NHS patient records could cut 20,000 A&E visits a year, ministers claim",
-      "summary": "NHS modernisation bill aims to cut 20,000 A&E visits annually through shared patient records.",
-      "url": "https://www.theguardian.com/p/x56fb7",
-      "thumbnail": "https://media.guim.co.uk/2e0f178f53ff3f5ec0ac94ddfce518516b9dbb5b/0_0_3272_2618/500.jpg",
-      "published": "2026-05-31T23:01:00Z",
-      "location": {
-        "name": "England",
-        "lat": 52.3555,
-        "lng": -1.1743
-      },
-      "category": "health",
-      "significance": 3,
-      "section": "society"
-    },
     {
       "id": "football/2026/may/31/christian-pulisic-usmnt-senegal-world-cup",
       "headline": "Christian Pulisic wanted to talk about something else. Now he can",
@@ -722,6 +690,70 @@
         "name": "Huntington Beach",
         "lat": 33.7482,
         "lng": -118.0042
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "environment/2026/jun/02/uk-green-economy-worth-more-than-100bn-a-year-net-zero",
+      "headline": "UK’s growing green economy worth more than £100bn a year, research finds",
+      "summary": "UK's green economy worth over £100bn annually, supporting 1m+ jobs, says CBI research.",
+      "url": "https://www.theguardian.com/p/x5757d",
+      "thumbnail": "https://media.guim.co.uk/1800d58a8d5415e082bd1e1c5c33e3310d0e9ead/1617_0_2870_2296/500.jpg",
+      "published": "2026-06-01T23:01:31Z",
+      "location": {
+        "name": "United Kingdom",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "environment"
+    },
+    {
+      "id": "politics/2026/jun/02/reform-uk-support-could-plateau-relies-on-conservative-views-study-finds",
+      "headline": "Reform UK support could plateau as it relies on socially conservative views, study finds",
+      "summary": "Reform UK's poll growth may plateau as it becomes reliant on socially conservative voters.",
+      "url": "https://www.theguardian.com/p/x573kt",
+      "thumbnail": "https://media.guim.co.uk/996774a43faa9c319a068b3deff87b75db2b9b6c/713_0_7911_6328/500.jpg",
+      "published": "2026-06-01T23:01:30Z",
+      "location": {
+        "name": "United Kingdom",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "us-news/2026/jun/01/white-castle-veggie-burger-menu",
+      "headline": "White Castle adds veggie burger to menu as plant-based eating grows",
+      "summary": "White Castle adds Southwest Veggie Slider to menu as plant-based eating demand grows.",
+      "url": "https://www.theguardian.com/p/x576bz",
+      "thumbnail": "https://media.guim.co.uk/ca94149167b00bd335131e115b791c1adb667c4c/0_450_4500_3600/500.png",
+      "published": "2026-06-01T22:57:20Z",
+      "location": {
+        "name": "Columbus",
+        "lat": 39.9612,
+        "lng": -82.9988
+      },
+      "category": "economy",
+      "significance": 1,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/jun/01/new-jersey-ice-detention-center-protests",
+      "headline": "Several protesters arrested at New Jersey ICE facility as clashes continue",
+      "summary": "Dozens arrested at New Jersey ICE detention center during protests over strikes.",
+      "url": "https://www.theguardian.com/p/x574ap",
+      "thumbnail": "https://media.guim.co.uk/1eac5cdba464f184d3273c68a3bc4bc822e1fa9e/285_0_2953_2362/500.jpg",
+      "published": "2026-06-01T22:43:35Z",
+      "location": {
+        "name": "Newark",
+        "lat": 40.7357,
+        "lng": -74.1724
       },
       "category": "politics",
       "significance": 2,
