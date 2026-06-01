@@ -1,140 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-01T02:40:29.117Z",
-    "story_count": 82,
-    "oldest_story": "2026-05-31T05:00:39Z",
-    "newest_story": "2026-06-01T02:07:43Z",
+    "generated_at": "2026-06-01T07:32:38.903Z",
+    "story_count": 85,
+    "oldest_story": "2026-05-31T08:30:41Z",
+    "newest_story": "2026-06-01T07:26:33Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "culture/2026/may/31/bikinis-cat-bowls-museum-gift-shops",
-      "headline": "From bikinis to cat bowls: how museum gift stores became the place to shop ",
-      "summary": "Museum gift shops have evolved into curated shopping destinations, selling bikinis and cat bowls alongside art.",
-      "url": "https://www.theguardian.com/p/x56f7f",
-      "thumbnail": "https://media.guim.co.uk/d74c98a41f71296a08a0f09f42593ed4df75a33f/178_0_1188_950/500.jpg",
-      "published": "2026-05-31T06:00:40Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "culture"
-    },
-    {
-      "id": "business/2026/may/31/recruiter-insolvent-firm-payments-premier-group-recruitment-hmrc",
-      "headline": "Recruiter who was allowed to buy back his insolvent firm falls behind on payments after offering staff Vegas trip",
-      "summary": "Recruitment firm owner falls behind on payments after promising staff Las Vegas trip despite £2.9m debt.",
-      "url": "https://www.theguardian.com/p/x548bz",
-      "thumbnail": "https://media.guim.co.uk/6c1f0badb6fdd90c861b88f7f8335fd5bc43da52/628_0_4540_3632/500.jpg",
-      "published": "2026-05-31T06:00:40Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "football/2026/may/31/mexico-v-australia-socceroos-football-friendly-report",
-      "headline": "Socceroos show resilience and spark but miss chances against Mexico in final audition for World Cup",
-      "summary": "Mexico defeats Australia 1-0 in World Cup friendly, raising pressure on coach Tony Popovic's squad selection.",
-      "url": "https://www.theguardian.com/p/x56f7b",
-      "thumbnail": "https://media.guim.co.uk/7495162ffcd5d26a773ea5c3fc637abc146548ce/266_0_2500_2000/500.jpg",
-      "published": "2026-05-31T05:31:27Z",
-      "location": {
-        "name": "Mexico City",
-        "lat": 19.4326,
-        "lng": -99.1332
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "tv-and-radio/2026/may/31/tv-tonight-a-major-new-culture-wars-drama-from-the-great-russell-t-davies",
-      "headline": "TV tonight: a major new culture wars drama from the great Russell T Davies ",
-      "summary": "Russell T Davies' new culture wars drama starring Alan Cumming airs on Channel 4 tonight from Manchester.",
-      "url": "https://www.theguardian.com/p/x56944",
-      "thumbnail": "https://media.guim.co.uk/bf58080161ea90af225306df3f68b93bcedf93a7/500_0_2500_2000/500.jpg",
-      "published": "2026-05-31T05:15:39Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4808,
-        "lng": -2.2426
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "tv-and-radio"
-    },
-    {
-      "id": "music/2026/may/31/badenoch-supporting-us-rapper-azealia-banks-to-attend-spectator-summer-party-in-london",
-      "headline": "Badenoch-supporting US rapper Azealia Banks to attend Spectator summer party in London",
-      "summary": "US rapper Azealia Banks to attend Spectator magazine summer party in London, supporting Kemi Badenoch.",
-      "url": "https://www.theguardian.com/p/x56ybz",
-      "thumbnail": "https://media.guim.co.uk/599a7ae129b36984ded799b4075db3430c852deb/648_325_3013_2411/500.jpg",
-      "published": "2026-05-31T05:00:40Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "music"
-    },
-    {
-      "id": "food/2026/may/31/skof-manchester-m4-grace-dent-restaurant-review",
-      "headline": "Skof, Manchester M4: ‘Proof that fine dining can be magical’ – restaurant review",
-      "summary": "Skof restaurant in Manchester M4 praised as proof that fine dining can be magical in new review.",
-      "url": "https://www.theguardian.com/p/x54pxq",
-      "thumbnail": "https://media.guim.co.uk/cbd35f49c1d015f4ecaaeb6559a6110a20045ec1/0_0_6830_5464/500.jpg",
-      "published": "2026-05-31T05:00:40Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4808,
-        "lng": -2.2426
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "food"
-    },
-    {
-      "id": "world/2026/may/31/one-day-i-thought-thats-enough-the-people-fighting-back-against-pothole-riddled-roads",
-      "headline": "‘One day I thought, that’s enough’: the people fighting back against pothole-riddled roads",
-      "summary": "Pothole vigilantes fight back against crumbling roads from Manchester to Manhattan, becoming political flashpoint.",
-      "url": "https://www.theguardian.com/p/x53tpk",
-      "thumbnail": "https://media.guim.co.uk/a17c2359b891c8c8da75ae2f664531182103bec6/0_1493_3648_2918/500.jpg",
-      "published": "2026-05-31T05:00:39Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4808,
-        "lng": -2.2426
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "uk-news/2026/may/31/defence-money-plymouth-regeneration-plans",
-      "headline": "‘The potential is huge’: Plymouth hopes defence money will have it sailing again ",
-      "summary": "Plymouth hopes defence investment and regeneration plans will revive Britain's ocean city for residents.",
-      "url": "https://www.theguardian.com/p/x53jh5",
-      "thumbnail": "https://media.guim.co.uk/90ae5dbe5e74a139ceded79d2ca3416b028876c4/560_0_5600_4480/500.jpg",
-      "published": "2026-05-31T05:00:39Z",
-      "location": {
-        "name": "Plymouth",
-        "lat": 50.3755,
-        "lng": -4.1427
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "uk-news"
-    },
     {
       "id": "sport/live/2026/may/31/french-open-2026-kostyuk-v-swiatek-jodar-v-carreno-busta-and-more-on-day-eight-live",
       "headline": "French Open 2026: Kostyuk v Swiatek, Jodar v Carreño Busta, and more on day eight – live",
@@ -1318,6 +1190,182 @@
       "category": "politics",
       "significance": 2,
       "section": "us-news"
+    },
+    {
+      "id": "business/live/2026/jun/01/uk-house-prices-fall-middle-east-interest-rates-manufacturing-softbank-ai-boom-chipmakers-live-updates",
+      "headline": "UK house prices fall for first time this year as Middle East crisis hits confidence – business live",
+      "summary": "UK house prices fall 0.6% in May amid Middle East crisis and rising interest rates.",
+      "url": "https://www.theguardian.com/p/x572j6",
+      "thumbnail": "https://media.guim.co.uk/de3b5fcf36ee80fb1a6ff5e08f323a94975f539c/295_0_5254_4204/500.jpg",
+      "published": "2026-06-01T07:26:33Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "australia-news/2026/jun/01/house-prices-auction-jim-chalmers-response-first-home-buyers",
+      "headline": "Jim Chalmers says fewer homes selling at auction may be a ‘good thing’ for first-time buyers",
+      "summary": "Australian auction clearance rates hit new low at 54.5% as Treasurer Chalmers welcomes relief for first-home buyers.",
+      "url": "https://www.theguardian.com/p/x572e4",
+      "thumbnail": "https://media.guim.co.uk/065b5acba0df0397f55c597e9845bc651feee2a2/0_0_6880_5504/500.jpg",
+      "published": "2026-06-01T07:25:33Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "environment/2026/jun/01/typhoon-jangmi-japan-europe-temperatures-australia",
+      "headline": "Typhoon Jangmi threatens Japan as Europe swelters",
+      "summary": "Typhoon Jangmi threatens Japan while Europe faces extreme heat with Spanish temperatures reaching 40C.",
+      "url": "https://www.theguardian.com/p/x572jb",
+      "thumbnail": "https://media.guim.co.uk/a1f62cc4fcb6aa93163dc4d7ec0f6c18340f4630/760_0_4497_3600/500.jpg",
+      "published": "2026-06-01T07:17:53Z",
+      "location": {
+        "name": "Tokyo",
+        "lat": 35.6762,
+        "lng": 139.6503
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "environment"
+    },
+    {
+      "id": "world/live/2026/jun/01/iran-war-live-news-updates-kuwait-missile-drone-attack-us-strikes-iran-radar-sites",
+      "headline": "Middle East crisis live: Kuwait reports missile and drone attack as Trump claims war will ‘all work out well’",
+      "summary": "Kuwait reports missile and drone attacks as Iran-Middle East crisis escalates amid Trump's dismissive comments.",
+      "url": "https://www.theguardian.com/p/x57x23",
+      "thumbnail": "https://media.guim.co.uk/2f1eaf6f0ef95925e478488eb228a227a290d5b3/126_0_2880_2304/500.jpg",
+      "published": "2026-06-01T07:11:00Z",
+      "location": {
+        "name": "Kuwait City",
+        "lat": 29.3759,
+        "lng": 47.9774
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "australia-news/2026/jun/01/afternoon-update-monday-ntwnfb",
+      "headline": "Afternoon Update: Chalmers says auction decline a ‘good thing’ for new buyers; Abbott downplays One Nation surge; and an amateur pianist’s big moment",
+      "summary": "Chalmers downplays auction decline as positive for first-time homebuyers following budget tax changes.",
+      "url": "https://www.theguardian.com/p/x572dd",
+      "thumbnail": "https://media.guim.co.uk/bc3f6b0d7e73d7d6de58ab799fed241cfcc33e9e/561_0_5610_4488/500.jpg",
+      "published": "2026-06-01T07:02:53Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "money/2026/jun/01/uk-house-prices-fall-interest-rates-nationwide-savills-iran-war",
+      "headline": "UK house prices fall for first time this year amid rising interest rates",
+      "summary": "UK house prices drop 0.6% in May as Iran war and interest rate rises dampen homebuyer demand.",
+      "url": "https://www.theguardian.com/p/x572yn",
+      "thumbnail": "https://media.guim.co.uk/fb4244003344033eb34316e893aa49592478dd7f/46_0_6752_5404/500.jpg",
+      "published": "2026-06-01T07:00:40Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "money"
+    },
+    {
+      "id": "football/2026/jun/01/if-arsenal-have-made-most-of-their-resources-is-this-as-good-as-it-gets",
+      "headline": "If Arsenal have made most of their resources, is this as good as it gets?",
+      "summary": "Arsenal face questions about maximizing resources as they pursue Champions League glory against PSG rivals.",
+      "url": "https://www.theguardian.com/p/x57v56",
+      "thumbnail": "https://media.guim.co.uk/bcd7c855e15d9e7c65603064177852c0ef55b144/346_0_3223_2579/500.jpg",
+      "published": "2026-06-01T07:00:12Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "stage/2026/jun/01/gaslit-shamed-swindled-eleanor-glanville-butterflies",
+      "headline": "Gaslit, shamed and swindled: the play about Eleanor Glanville, persecuted for her love of butterflies",
+      "summary": "New play depicts Eleanor Glanville, 17th-century butterfly enthusiast persecuted by abusive husband.",
+      "url": "https://www.theguardian.com/p/x569p2",
+      "thumbnail": "https://media.guim.co.uk/6598f2cc71185f7c9593e9b2665014c025b00ccd/0_0_5000_4000/500.jpg",
+      "published": "2026-06-01T07:00:11Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "stage"
+    },
+    {
+      "id": "sport/2026/jun/01/vingegaard-joins-select-club-of-champions-but-still-in-pogacars-shadow-for-tour-de-france",
+      "headline": "Vingegaard joins select club of champions but still in Pogacar’s shadow for Tour de France ",
+      "summary": "Vingegaard wins Giro d'Italia, completing Grand Tour grand slam but remains behind Pogacar for Tour de France.",
+      "url": "https://www.theguardian.com/p/x56qvt",
+      "thumbnail": "https://media.guim.co.uk/46a48877ab699eda15a38f5d77f52aa8685d1a7b/288_0_2883_2306/500.jpg",
+      "published": "2026-06-01T07:00:11Z",
+      "location": {
+        "name": "Rome",
+        "lat": 41.9028,
+        "lng": 12.4964
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "commentisfree/2026/jun/01/politics-of-home-keir-starmer-public-private-sector-housing-crisis",
+      "headline": "A place where everyone has somewhere of their own, to thrive and feel safe – this will be my politics of home",
+      "summary": "Starmer pledges to fix public and private sector housing crisis inherited from Tory underfunding.",
+      "url": "https://www.theguardian.com/p/x56q2q",
+      "thumbnail": "https://media.guim.co.uk/ccc279598b860d04e94bbaa8ff66b006f6d10714/611_0_6147_4918/500.jpg",
+      "published": "2026-06-01T07:00:10Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "commentisfree"
+    },
+    {
+      "id": "sport/2026/jun/01/challenge-cup-crowds-are-dwindling-but-rugby-league-must-save-wembley-relationship",
+      "headline": "Challenge Cup crowds are dwindling but rugby league must save Wembley relationship",
+      "summary": "Wigan wins Challenge Cup final but attendance dips to 56,383 as rugby league grapples with crowd decline.",
+      "url": "https://www.theguardian.com/p/x56q24",
+      "thumbnail": "https://media.guim.co.uk/a670b966506e03170feadae47ecfc4607c20f35b/760_0_6360_5088/500.jpg",
+      "published": "2026-06-01T07:00:10Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
     }
   ]
 }
