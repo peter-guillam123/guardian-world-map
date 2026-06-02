@@ -1,28 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-02T02:05:39.931Z",
-    "story_count": 50,
-    "oldest_story": "2026-06-01T02:07:43Z",
-    "newest_story": "2026-06-02T01:26:46Z",
+    "generated_at": "2026-06-02T06:55:27.156Z",
+    "story_count": 56,
+    "oldest_story": "2026-06-01T07:00:10Z",
+    "newest_story": "2026-06-02T06:54:41Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/2026/may/31/christian-pulisic-usmnt-senegal-world-cup",
-      "headline": "Christian Pulisic wanted to talk about something else. Now he can",
-      "summary": "Christian Pulisic silences critics with strong performance in USMNT's World Cup 2026 prep match vs Senegal.",
-      "url": "https://www.theguardian.com/p/x57xh7",
-      "thumbnail": "https://media.guim.co.uk/4e6736536275103a59f6d95cc30cd4be88832d99/666_0_6858_5486/500.jpg",
-      "published": "2026-06-01T02:07:43Z",
-      "location": {
-        "name": "United States",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
     {
       "id": "business/live/2026/jun/01/uk-house-prices-fall-middle-east-interest-rates-manufacturing-softbank-ai-boom-chipmakers-live-updates",
       "headline": "UK house prices fall for first time this year as Middle East crisis hits confidence – business live",
@@ -806,6 +790,118 @@
       "category": "culture",
       "significance": 1,
       "section": "australia-news"
+    },
+    {
+      "id": "australia-news/2026/jun/02/victorian-minister-under-fire-for-writing-33-character-references-including-for-taxi-driver-who-assaulted-women-ntwnfb",
+      "headline": "Victorian minister regrets character references for taxi driver who assaulted women, DV accused men and Iran regime supporter ",
+      "summary": "Victorian minister apologizes for writing 33 character references for convicted criminals and regime supporters.",
+      "url": "https://www.theguardian.com/p/x5778a",
+      "thumbnail": "https://media.guim.co.uk/3d964b0853c4352270bc77a7c0e206ef1516a230/673_0_6880_5504/500.jpg",
+      "published": "2026-06-02T06:54:41Z",
+      "location": {
+        "name": "Victoria",
+        "lat": -37.8136,
+        "lng": 144.9631
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "sport/2026/jun/02/cobolli-and-co-left-surveying-wreckage-as-mens-seeds-keep-falling-in-french-open",
+      "headline": "Cobolli and co left surveying wreckage as men’s seeds keep falling in French Open ",
+      "summary": "French Open men's draw wide open after Sinner and Djokovic exits.",
+      "url": "https://www.theguardian.com/p/x575bt",
+      "thumbnail": "https://media.guim.co.uk/7eacae0f0c8803099c0217cc00e7b83267b6f482/313_39_2980_2384/500.jpg",
+      "published": "2026-06-02T06:30:40Z",
+      "location": {
+        "name": "Paris",
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "uk-news/2026/jun/02/somerset-detectorist-roman-ring-find-ilminster",
+      "headline": "Somerset detectorist strikes gold with ‘spectacular’ Roman ring find",
+      "summary": "Somerset detectorist discovers rare Roman gold ring showing goddess Victoria.",
+      "url": "https://www.theguardian.com/p/x5746z",
+      "thumbnail": "https://media.guim.co.uk/d0ec73e47fd3c1b06b904368973bfe6b5c0f74f3/288_0_2455_1964/500.jpg",
+      "published": "2026-06-02T06:00:40Z",
+      "location": {
+        "name": "Ilminster",
+        "lat": 50.8667,
+        "lng": -2.9167
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "film/2026/jun/02/koln-75-review-keith-jarrett",
+      "headline": "Köln 75 review – how a legendary jazz-improv show was cajoled into being by a German teenager",
+      "summary": "Film chronicles teenage German who booked legendary Keith Jarrett jazz concert.",
+      "url": "https://www.theguardian.com/p/x56fb6",
+      "thumbnail": "https://media.guim.co.uk/f59ce21bfbd4b3462d19bcfb46be811266e3d7d6/147_0_3493_2795/500.jpg",
+      "published": "2026-06-02T06:00:40Z",
+      "location": {
+        "name": "Cologne",
+        "lat": 50.9365,
+        "lng": 6.9605
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "film"
+    },
+    {
+      "id": "travel/2026/jun/02/nostalgic-ride-communist-era-train-poland",
+      "headline": "Tripe soup and bitter coffee in the dining car: a nostalgic ride through Poland on a communist-era train ",
+      "summary": "Poland launches retro communist-era train service with period dining car experience.",
+      "url": "https://www.theguardian.com/p/x55p4v",
+      "thumbnail": "https://media.guim.co.uk/0f9cbdf1638454528affd6a37051e0b9969bb2e1/0_280_2620_2095/500.jpg",
+      "published": "2026-06-02T06:00:40Z",
+      "location": {
+        "name": "Warsaw",
+        "lat": 52.2297,
+        "lng": 21.0122
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "travel"
+    },
+    {
+      "id": "money/2026/jun/02/dvla-surrendered-driving-licence-spinal-injury",
+      "headline": "I surrendered my driving licence after a spinal injury but the DVLA revoked it",
+      "summary": "DVLA revocation of voluntarily surrendered license complicates driver's return to road.",
+      "url": "https://www.theguardian.com/p/x569fp",
+      "thumbnail": "https://media.guim.co.uk/a6ee6147b4d6fd66d35340ad61d603e87f73d65d/361_175_3096_2478/500.jpg",
+      "published": "2026-06-02T06:00:39Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "money"
+    },
+    {
+      "id": "world/2026/jun/02/tuesday-briefing-palantirs-rise-and-why-so-many-oppose-its-role-in-the-british-state",
+      "headline": "Tuesday briefing: Palantir’s rise – and why so many oppose its role in the British state",
+      "summary": "Palantir's controversial rise as major software provider to UK health services and military.",
+      "url": "https://www.theguardian.com/p/x573tv",
+      "thumbnail": "https://media.guim.co.uk/9d6834211393b71b8b8da599e6f972de7be43345/483_0_4532_3625/500.jpg",
+      "published": "2026-06-02T05:46:12Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "tech",
+      "significance": 3,
+      "section": "world"
     }
   ]
 }
