@@ -1,188 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-02T06:55:27.156Z",
-    "story_count": 56,
-    "oldest_story": "2026-06-01T07:00:10Z",
-    "newest_story": "2026-06-02T06:54:41Z",
+    "generated_at": "2026-06-02T11:22:14.655Z",
+    "story_count": 58,
+    "oldest_story": "2026-06-01T12:47:40Z",
+    "newest_story": "2026-06-02T11:20:34Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "business/live/2026/jun/01/uk-house-prices-fall-middle-east-interest-rates-manufacturing-softbank-ai-boom-chipmakers-live-updates",
-      "headline": "UK house prices fall for first time this year as Middle East crisis hits confidence – business live",
-      "summary": "UK house prices fall 0.6% in May amid Middle East crisis and rising interest rates.",
-      "url": "https://www.theguardian.com/p/x572j6",
-      "thumbnail": "https://media.guim.co.uk/de3b5fcf36ee80fb1a6ff5e08f323a94975f539c/295_0_5254_4204/500.jpg",
-      "published": "2026-06-01T07:26:33Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "australia-news/2026/jun/01/house-prices-auction-jim-chalmers-response-first-home-buyers",
-      "headline": "Jim Chalmers says fewer homes selling at auction may be a ‘good thing’ for first-time buyers",
-      "summary": "Australian auction clearance rates hit new low at 54.5% as Treasurer Chalmers welcomes relief for first-home buyers.",
-      "url": "https://www.theguardian.com/p/x572e4",
-      "thumbnail": "https://media.guim.co.uk/065b5acba0df0397f55c597e9845bc651feee2a2/0_0_6880_5504/500.jpg",
-      "published": "2026-06-01T07:25:33Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "environment/2026/jun/01/typhoon-jangmi-japan-europe-temperatures-australia",
-      "headline": "Typhoon Jangmi threatens Japan as Europe swelters",
-      "summary": "Typhoon Jangmi threatens Japan while Europe faces extreme heat with Spanish temperatures reaching 40C.",
-      "url": "https://www.theguardian.com/p/x572jb",
-      "thumbnail": "https://media.guim.co.uk/a1f62cc4fcb6aa93163dc4d7ec0f6c18340f4630/760_0_4497_3600/500.jpg",
-      "published": "2026-06-01T07:17:53Z",
-      "location": {
-        "name": "Tokyo",
-        "lat": 35.6762,
-        "lng": 139.6503
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "environment"
-    },
-    {
-      "id": "world/live/2026/jun/01/iran-war-live-news-updates-kuwait-missile-drone-attack-us-strikes-iran-radar-sites",
-      "headline": "Middle East crisis live: Kuwait reports missile and drone attack as Trump claims war will ‘all work out well’",
-      "summary": "Kuwait reports missile and drone attacks as Iran-Middle East crisis escalates amid Trump's dismissive comments.",
-      "url": "https://www.theguardian.com/p/x57x23",
-      "thumbnail": "https://media.guim.co.uk/2f1eaf6f0ef95925e478488eb228a227a290d5b3/126_0_2880_2304/500.jpg",
-      "published": "2026-06-01T07:11:00Z",
-      "location": {
-        "name": "Kuwait City",
-        "lat": 29.3759,
-        "lng": 47.9774
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "australia-news/2026/jun/01/afternoon-update-monday-ntwnfb",
-      "headline": "Afternoon Update: Chalmers says auction decline a ‘good thing’ for new buyers; Abbott downplays One Nation surge; and an amateur pianist’s big moment",
-      "summary": "Chalmers downplays auction decline as positive for first-time homebuyers following budget tax changes.",
-      "url": "https://www.theguardian.com/p/x572dd",
-      "thumbnail": "https://media.guim.co.uk/bc3f6b0d7e73d7d6de58ab799fed241cfcc33e9e/561_0_5610_4488/500.jpg",
-      "published": "2026-06-01T07:02:53Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "money/2026/jun/01/uk-house-prices-fall-interest-rates-nationwide-savills-iran-war",
-      "headline": "UK house prices fall for first time this year amid rising interest rates",
-      "summary": "UK house prices drop 0.6% in May as Iran war and interest rate rises dampen homebuyer demand.",
-      "url": "https://www.theguardian.com/p/x572yn",
-      "thumbnail": "https://media.guim.co.uk/fb4244003344033eb34316e893aa49592478dd7f/46_0_6752_5404/500.jpg",
-      "published": "2026-06-01T07:00:40Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "money"
-    },
-    {
-      "id": "football/2026/jun/01/if-arsenal-have-made-most-of-their-resources-is-this-as-good-as-it-gets",
-      "headline": "If Arsenal have made most of their resources, is this as good as it gets?",
-      "summary": "Arsenal face questions about maximizing resources as they pursue Champions League glory against PSG rivals.",
-      "url": "https://www.theguardian.com/p/x57v56",
-      "thumbnail": "https://media.guim.co.uk/bcd7c855e15d9e7c65603064177852c0ef55b144/346_0_3223_2579/500.jpg",
-      "published": "2026-06-01T07:00:12Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "stage/2026/jun/01/gaslit-shamed-swindled-eleanor-glanville-butterflies",
-      "headline": "Gaslit, shamed and swindled: the play about Eleanor Glanville, persecuted for her love of butterflies",
-      "summary": "New play depicts Eleanor Glanville, 17th-century butterfly enthusiast persecuted by abusive husband.",
-      "url": "https://www.theguardian.com/p/x569p2",
-      "thumbnail": "https://media.guim.co.uk/6598f2cc71185f7c9593e9b2665014c025b00ccd/0_0_5000_4000/500.jpg",
-      "published": "2026-06-01T07:00:11Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "stage"
-    },
-    {
-      "id": "sport/2026/jun/01/vingegaard-joins-select-club-of-champions-but-still-in-pogacars-shadow-for-tour-de-france",
-      "headline": "Vingegaard joins select club of champions but still in Pogacar’s shadow for Tour de France ",
-      "summary": "Vingegaard wins Giro d'Italia, completing Grand Tour grand slam but remains behind Pogacar for Tour de France.",
-      "url": "https://www.theguardian.com/p/x56qvt",
-      "thumbnail": "https://media.guim.co.uk/46a48877ab699eda15a38f5d77f52aa8685d1a7b/288_0_2883_2306/500.jpg",
-      "published": "2026-06-01T07:00:11Z",
-      "location": {
-        "name": "Rome",
-        "lat": 41.9028,
-        "lng": 12.4964
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "commentisfree/2026/jun/01/politics-of-home-keir-starmer-public-private-sector-housing-crisis",
-      "headline": "A place where everyone has somewhere of their own, to thrive and feel safe – this will be my politics of home",
-      "summary": "Starmer pledges to fix public and private sector housing crisis inherited from Tory underfunding.",
-      "url": "https://www.theguardian.com/p/x56q2q",
-      "thumbnail": "https://media.guim.co.uk/ccc279598b860d04e94bbaa8ff66b006f6d10714/611_0_6147_4918/500.jpg",
-      "published": "2026-06-01T07:00:10Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "commentisfree"
-    },
-    {
-      "id": "sport/2026/jun/01/challenge-cup-crowds-are-dwindling-but-rugby-league-must-save-wembley-relationship",
-      "headline": "Challenge Cup crowds are dwindling but rugby league must save Wembley relationship",
-      "summary": "Wigan wins Challenge Cup final but attendance dips to 56,383 as rugby league grapples with crowd decline.",
-      "url": "https://www.theguardian.com/p/x56q24",
-      "thumbnail": "https://media.guim.co.uk/a670b966506e03170feadae47ecfc4607c20f35b/760_0_6360_5088/500.jpg",
-      "published": "2026-06-01T07:00:10Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
     {
       "id": "sport/live/2026/jun/01/french-open-tennis-2026-keys-cobolli-auger-aliassime-fourth-round-day-nine-live",
       "headline": "French Open 2026: Keys and Parry in action, Cobolli advances on day nine – live",
@@ -901,6 +725,214 @@
       },
       "category": "tech",
       "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "sport/live/2026/jun/02/french-open-2026-quarter-finals-andreeva-cirstea-svitolina-kostyuk-jodar-zverev-live",
+      "headline": "French Open 2026 quarter-finals: Svitolina v Kostyuk; Andreeva swats Cirstea aside – live",
+      "summary": "French Open quarter-finals underway with Andreeva dominating Cirstea 6-0, 6-3.",
+      "url": "https://www.theguardian.com/p/x574a3",
+      "thumbnail": "https://media.guim.co.uk/1416259210555ce71b16ef3dd78e261eb11c6e6a/752_182_3885_3108/500.jpg",
+      "published": "2026-06-02T11:20:34Z",
+      "location": {
+        "name": "Paris",
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "sport"
+    },
+    {
+      "id": "politics/live/2026/jun/02/peter-mandelson-keir-starmer-labour-leadership-snp-peter-murrell-latest-news-updates",
+      "headline": "Murrell used false accounting and fake invoices to hide SNP embezzlement, court hears – UK politics live",
+      "summary": "SNP ex-chief Murrell used false accounting and fake invoices to hide embezzlement.",
+      "url": "https://www.theguardian.com/p/x578fm",
+      "thumbnail": "https://media.guim.co.uk/0f068ced2969069417276079e89ed34b3391b4cd/591_0_5462_4370/500.jpg",
+      "published": "2026-06-02T11:13:47Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "business/2026/jun/02/bp-amanda-blanc-search-new-chair-albert-manifold",
+      "headline": "BP backs Amanda Blanc to lead search for new chair despite investor concerns",
+      "summary": "BP backs Amanda Blanc to lead chair search despite investor concerns over role.",
+      "url": "https://www.theguardian.com/p/x578cj",
+      "thumbnail": "https://media.guim.co.uk/4a2d42251e224d3de6f3dabb77d999313159abca/314_0_2918_2334/500.jpg",
+      "published": "2026-06-02T11:13:00Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "world/live/2026/jun/02/iran-us-israel-lebanon-trump-netanyahu-hezbollah-beirut-hormuz-talks-oil-latest-news-updates",
+      "headline": "Middle East crisis live: Conflict continues in Lebanon despite Trump hailing Israeli-Hezbollah de-escalation",
+      "summary": "Israeli-Hezbollah conflict continues despite Trump hailing de-escalation agreement.",
+      "url": "https://www.theguardian.com/p/x5779x",
+      "thumbnail": "https://media.guim.co.uk/7a06d88b5a76c1cc441bb978b589eba4bcafbf2b/312_0_3331_2666/500.jpg",
+      "published": "2026-06-02T11:10:25Z",
+      "location": {
+        "name": "Beirut",
+        "lat": 33.3157,
+        "lng": 35.4959
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "us-news/live/2026/jun/02/donald-trump-primaries-midterms-california-governor-iran-latest-news-updates",
+      "headline": "Californians head to the polls as governor primary goes down to the wire – US politics live",
+      "summary": "California governor primary goes to the wire amid multiple state primaries.",
+      "url": "https://www.theguardian.com/p/x5795a",
+      "thumbnail": "https://media.guim.co.uk/6da97af8bce2a618880289ea1447b412d7fc1a9f/996_0_6615_5292/500.jpg",
+      "published": "2026-06-02T11:09:51Z",
+      "location": {
+        "name": "Sacramento",
+        "lat": 38.5816,
+        "lng": -121.4944
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "sport/2026/jun/02/new-york-knicks-fandom-nba-finals",
+      "headline": "‘Why the hell would anyone want to watch the Knicks?’ Because they saved my life",
+      "summary": "Knicks fan reflects on 25 years of loyalty as team nears potential NBA championship.",
+      "url": "https://www.theguardian.com/p/x5728c",
+      "thumbnail": "https://media.guim.co.uk/a501fd01d1da44eb7bb7a62114d90562d7d6c63f/301_0_3000_2401/500.jpg",
+      "published": "2026-06-02T11:00:04Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "football/2026/jun/02/pele-no-10-brazil-shirt-1958-world-cup-final-auction",
+      "headline": "Pelé’s No 10 Brazil shirt from 1958 World Cup final expected to fetch £4.5m at auction",
+      "summary": "Pelé's 1958 World Cup final shirt expected to fetch £4.5m at Sotheby's auction.",
+      "url": "https://www.theguardian.com/p/x578y7",
+      "thumbnail": "https://media.guim.co.uk/bf8b5c1b362ece4ad942774be39c151eeb58487c/230_265_2688_2151/500.jpg",
+      "published": "2026-06-02T11:00:03Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/jun/02/aipac-aief-congress-israel-travel",
+      "headline": "Aipac affiliate has funded lavish trips to Israel for dozens of Congress members since 7 October, filings reveal",
+      "summary": "AIPAC affiliate funded lavish Israel trips for dozens of Congress members post-October 7.",
+      "url": "https://www.theguardian.com/p/x56fnb",
+      "thumbnail": "https://media.guim.co.uk/b712e37d47c52f3c518158c7adeb5c687aa96331/13_11_2987_2389/500.jpg",
+      "published": "2026-06-02T11:00:03Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "business/live/2026/jun/02/alphabet-80bn-share-sales-ai-spending-berkshire-hathaway-stock-markets-oil-interest-rates-inflation-latest-news-updates",
+      "headline": "AI to drive up UK youth unemployment, as Alphabet raises $80bn for spending splurge – business live",
+      "summary": "Alphabet raises $80bn for AI spending as AI threatens UK youth employment levels.",
+      "url": "https://www.theguardian.com/p/x578d3",
+      "thumbnail": "https://media.guim.co.uk/48c2f1158b35ff75cb2edcbb613c747af1215f74/0_0_3333_2666/500.jpg",
+      "published": "2026-06-02T10:55:24Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "business"
+    },
+    {
+      "id": "sport/2026/jun/02/mirra-andreeva-sorana-cirstea-elina-svitolina-martya-kostyuk-french-open-tennis-quarter-final",
+      "headline": "Ruthless Andreeva ends veteran Cirstea’s dreams in Paris thrashing",
+      "summary": "Teenage sensation Andreeva crushes veteran Cirstea 6-0, 6-3 in French Open quarters.",
+      "url": "https://www.theguardian.com/p/x579ah",
+      "thumbnail": "https://media.guim.co.uk/8319c3498a0283754161cedee32fc01d130c86ab/97_287_3355_2684/500.jpg",
+      "published": "2026-06-02T10:51:11Z",
+      "location": {
+        "name": "Paris",
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "us-news/2026/jun/02/first-thing-defense-department-bars-reporters-pentagon-press-room",
+      "headline": "First Thing: Defense department bars reporters from Pentagon press room",
+      "summary": "Pentagon bars journalists from press room as Trump administration claims transparency.",
+      "url": "https://www.theguardian.com/p/x579vh",
+      "thumbnail": "https://media.guim.co.uk/7a24b2a8b7b1e4132deebc69928edda63867f25d/341_148_2290_1832/500.jpg",
+      "published": "2026-06-02T10:47:45Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "uk-news/2026/jun/02/hampshire-police-commissioner-urges-religious-knives-review",
+      "headline": "No 10 considers review of jail sentence for Henry Nowak killer",
+      "summary": "No 10 reviews sentence for Henry Nowak's killer amid religious knife law debate.",
+      "url": "https://www.theguardian.com/p/x578gz",
+      "thumbnail": "https://media.guim.co.uk/f959f9d2be580fb3c63ac623a064b219725f7b39/83_0_1430_1144/500.jpg",
+      "published": "2026-06-02T10:36:22Z",
+      "location": {
+        "name": "Southampton",
+        "lat": 50.9097,
+        "lng": -1.4044
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "world/2026/jun/02/ukraine-war-russia-air-raids-strike-kyiv-dnipro-kharkiv",
+      "headline": "Zelenskyy asks Trump to send missiles after Russian strikes across Ukraine",
+      "summary": "Russian strikes kill 18+ across Ukraine; Zelenskyy requests Patriot missiles from Trump.",
+      "url": "https://www.theguardian.com/p/x577gk",
+      "thumbnail": "https://media.guim.co.uk/233ca85797c4ec81a4115d65e9de4dab04f48a36/674_0_4509_3608/500.jpg",
+      "published": "2026-06-02T10:20:00Z",
+      "location": {
+        "name": "Kyiv",
+        "lat": 50.4501,
+        "lng": 30.5234
+      },
+      "category": "conflict",
+      "significance": 4,
       "section": "world"
     }
   ]
