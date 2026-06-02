@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-06-02T19:04:30.557Z",
-    "story_count": 63,
-    "oldest_story": "2026-06-01T21:11:01Z",
-    "newest_story": "2026-06-02T19:02:43Z",
+    "generated_at": "2026-06-02T22:02:49.555Z",
+    "story_count": 69,
+    "oldest_story": "2026-06-01T22:14:33Z",
+    "newest_story": "2026-06-02T22:00:43Z",
     "window_hours": 24
   },
   "stories": [
@@ -22,70 +22,6 @@
       "category": "politics",
       "significance": 2,
       "section": "australia-news"
-    },
-    {
-      "id": "sport/2026/jun/01/sabalenka-powers-past-osaka-in-first-womens-night-match-in-paris-since-2023",
-      "headline": "Sabalenka powers past Osaka in first women’s night match in Paris since 2023",
-      "summary": "Aryna Sabalenka defeats Naomi Osaka 7-5, 6-3 in first women's night match at French Open since 2023.",
-      "url": "https://www.theguardian.com/p/x57665",
-      "thumbnail": "https://media.guim.co.uk/d7f0a9c884802e454f1019c25c5773ecc371e93a/141_0_3699_2960/500.jpg",
-      "published": "2026-06-01T21:53:00Z",
-      "location": {
-        "name": "Paris",
-        "lat": 48.8566,
-        "lng": 2.3522
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "technology/2026/jun/01/florida-lawsuit-openai-sam-altman",
-      "headline": "Florida lawsuit accuses OpenAI of ignoring safety warnings and putting children at risk",
-      "summary": "Florida sues OpenAI and CEO Sam Altman for allegedly ignoring safety warnings, endangering children.",
-      "url": "https://www.theguardian.com/p/x576cy",
-      "thumbnail": "https://media.guim.co.uk/c0964c5c069ea10a999ebc43dd184effb88e8bad/253_0_4592_3673/500.jpg",
-      "published": "2026-06-01T21:51:03Z",
-      "location": {
-        "name": "Tallahassee",
-        "lat": 30.4383,
-        "lng": -84.2807
-      },
-      "category": "tech",
-      "significance": 3,
-      "section": "technology"
-    },
-    {
-      "id": "politics/2026/jun/01/khan-vows-to-overrule-residents-groups-objections-to-soho-bars-and-restaurants",
-      "headline": "Sadiq Khan vows to overrule residents’ group’s objections to Soho bars and restaurants",
-      "summary": "London Mayor Sadiq Khan vows to overrule Soho residents' group objections to new bars and restaurants.",
-      "url": "https://www.theguardian.com/p/x5765v",
-      "thumbnail": "https://media.guim.co.uk/130de8aefa700ed9cc2718786fe3fe7f965b5735/327_0_3541_2833/500.jpg",
-      "published": "2026-06-01T21:17:26Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "us-news/2026/jun/01/california-robert-garcia-huntington-beach-congress-race",
-      "headline": "California’s conservative Huntington Beach could get a gay, Democratic congressman",
-      "summary": "Conservative Huntington Beach could elect gay Democratic congressman Robert Garcia after redistricting.",
-      "url": "https://www.theguardian.com/p/x575ep",
-      "thumbnail": "https://media.guim.co.uk/4de121f8d84dbec1358224983b386e3d21809cb7/643_0_6425_5143/500.jpg",
-      "published": "2026-06-01T21:11:01Z",
-      "location": {
-        "name": "Huntington Beach",
-        "lat": 33.7482,
-        "lng": -118.0042
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
     },
     {
       "id": "environment/2026/jun/02/uk-green-economy-worth-more-than-100bn-a-year-net-zero",
@@ -1014,6 +950,166 @@
       "category": "sport",
       "significance": 2,
       "section": "sport"
+    },
+    {
+      "id": "us-news/live/2026/jun/02/midterm-primary-election-results-california-iowa-montana-new-jersey-south-dakota-new-mexico-latest-updates",
+      "headline": "Midterm primaries 2026 live: results and reaction after six states including California and Iowa cast ballots",
+      "summary": "Six states including California hold midterm primary elections for governors, Senate and House seats.",
+      "url": "https://www.theguardian.com/p/x57a7q",
+      "thumbnail": "https://media.guim.co.uk/8818c27c7e4b6c6366ab3ad9d6855cdc9878bcb8/738_0_4583_3667/500.jpg",
+      "published": "2026-06-02T22:00:43Z",
+      "location": {
+        "name": "California",
+        "lat": 36.1163,
+        "lng": -119.6816
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/jun/02/california-primary-election-ballot-voting-system",
+      "headline": "California could be forced to wait for results thanks to slow vote-counting system",
+      "summary": "California's slow vote-counting system could delay primary election results by days or weeks.",
+      "url": "https://www.theguardian.com/p/x5769f",
+      "thumbnail": "https://media.guim.co.uk/2c928d6f761f1cdf07f439609b073fa5408708f6/500_0_3650_2922/500.jpg",
+      "published": "2026-06-02T22:00:33Z",
+      "location": {
+        "name": "California",
+        "lat": 36.1163,
+        "lng": -119.6816
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "australia-news/live/2026/jun/03/politics-live-australia-aukus-submarines-pauline-hanson-anthony-albanese-angus-taylor-question-time-senate-estimates-labor-one-nation-coaliton-ntwnfb",
+      "headline": "Politics live: Australia always preferred secondhand Aukus submarines, defence secretary says",
+      "summary": "Australian defence secretary clarifies nuclear submarine deal was joint idea to acquire secondhand vessels.",
+      "url": "https://www.theguardian.com/p/x5795m",
+      "thumbnail": "https://media.guim.co.uk/444c2e00612f9d657c5e7dbd3267cb47128658ef/198_0_3700_2960/500.jpg",
+      "published": "2026-06-02T21:59:05Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "sport/2026/jun/02/alexander-zverev-rafael-jodar-french-open-tennis",
+      "headline": "Zverev dismisses teenager Jódar as elusive grand slam title inches closer",
+      "summary": "Alexander Zverev defeats Rafael Jódar in French Open quarter-final, advancing toward first grand slam title.",
+      "url": "https://www.theguardian.com/p/x57an2",
+      "thumbnail": "https://media.guim.co.uk/45ee1e0fdaba02ec610c4b61634f8198a1cb80e1/209_0_4793_3834/500.jpg",
+      "published": "2026-06-02T21:46:41Z",
+      "location": {
+        "name": "Paris",
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "sport"
+    },
+    {
+      "id": "australia-news/2026/jun/03/morning-mail-wednesday-ntwnfb",
+      "headline": "Morning Mail: Harm risk in NDIS cuts, Trump confronts Netanyahu, unrecyclable ‘franken-can’ trashed ",
+      "summary": "Albanese government faces criticism over NDIS cuts; One Nation fuels abortion culture war debate.",
+      "url": "https://www.theguardian.com/p/x5792j",
+      "thumbnail": "https://media.guim.co.uk/5e13cf9521dd4b03f93cd24ccadfe336bfdd965f/510_0_5100_4084/500.jpg",
+      "published": "2026-06-02T21:12:51Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "football/2026/jun/02/liverpool-opened-talks-with-andoni-iraola-over-becoming-head-coach",
+      "headline": "Liverpool agree deal in principle with Andoni Iraola for two-year contract",
+      "summary": "Liverpool agrees in principle to hire Andoni Iraola as new head coach on two-year contract.",
+      "url": "https://www.theguardian.com/p/x579xm",
+      "thumbnail": "https://media.guim.co.uk/a81897ba4efd3621bdc74c5dc078d78ba4ab9ce2/262_0_2623_2098/500.jpg",
+      "published": "2026-06-02T21:09:46Z",
+      "location": {
+        "name": "Liverpool",
+        "lat": 53.4308,
+        "lng": -2.9606
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "uk-news/2026/jun/02/protesters-clash-with-police-in-southampton-over-henry-nowak",
+      "headline": "Protesters clash with police in Southampton over Henry Nowak murder",
+      "summary": "Hundreds protest Henry Nowak's murder outside Southampton police station; Tommy Robinson addresses crowd.",
+      "url": "https://www.theguardian.com/p/x57bgt",
+      "thumbnail": "https://media.guim.co.uk/9a41387b7bced74392fa776da569f129de2c7315/254_0_4275_3420/500.jpg",
+      "published": "2026-06-02T21:03:23Z",
+      "location": {
+        "name": "Southampton",
+        "lat": 50.9097,
+        "lng": -1.4044
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "sport/2026/jun/02/england-women-new-zealand-third-t20-international-match-report",
+      "headline": "Alice Capsey and Heather Knight guide England to T20 series win over India",
+      "summary": "England women beat India in T20 cricket, pulling off successful run chase before World Cup opener.",
+      "url": "https://www.theguardian.com/p/x579qt",
+      "thumbnail": "https://media.guim.co.uk/504f86a714c59a0e6461dfa276393561ef9b71a4/297_0_3335_2668/500.jpg",
+      "published": "2026-06-02T21:02:34Z",
+      "location": {
+        "name": "Taunton",
+        "lat": 51.0148,
+        "lng": -3.1047
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "football/2026/jun/02/wales-ghana-international-friendly-match-report",
+      "headline": "Lewis Koumas snatches Wales draw to ruin Ghana’s World Cup sendoff",
+      "summary": "Lewis Koumas scores injury-time equaliser as Wales draw 1-1 with Ghana in World Cup warm-up.",
+      "url": "https://www.theguardian.com/p/x579pm",
+      "thumbnail": "https://media.guim.co.uk/2ed72114f8f23ac8887b24d5eb9425819d4e5976/729_0_3107_2486/500.jpg",
+      "published": "2026-06-02T20:58:19Z",
+      "location": {
+        "name": "Accra",
+        "lat": 5.6037,
+        "lng": -0.187
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/jun/02/trump-weaponization-fund",
+      "headline": "Acting attorney general says Trump’s $1.8bn anti-weaponization fund is scrapped",
+      "summary": "Trump administration scraps $1.8bn anti-weaponization fund but maintains IRS audit prohibition on Trump.",
+      "url": "https://www.theguardian.com/p/x57bp7",
+      "thumbnail": "https://media.guim.co.uk/7b0564dfa5d4035f097a52883e3369972c7a9234/13_0_6882_5504/500.jpg",
+      "published": "2026-06-02T20:58:15Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
     }
   ]
 }
