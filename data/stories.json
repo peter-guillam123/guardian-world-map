@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-06-01T23:45:28.868Z",
-    "story_count": 47,
-    "oldest_story": "2026-06-01T02:00:04Z",
-    "newest_story": "2026-06-01T23:01:31Z",
+    "generated_at": "2026-06-02T02:05:39.931Z",
+    "story_count": 50,
+    "oldest_story": "2026-06-01T02:07:43Z",
+    "newest_story": "2026-06-02T01:26:46Z",
     "window_hours": 24
   },
   "stories": [
@@ -22,22 +22,6 @@
       "category": "sport",
       "significance": 2,
       "section": "football"
-    },
-    {
-      "id": "us-news/2026/jun/01/trump-news-at-a-glance-latest-updates-today",
-      "headline": "Trump news at a glance: how small town’s fight against ICE mega jail could rewrite legal playbook",
-      "summary": "Georgia town sues to block ICE detention megacenter, citing state nuisance law violations.",
-      "url": "https://www.theguardian.com/p/x56q2x",
-      "thumbnail": "https://media.guim.co.uk/d14e3cf571c757e142d1485573471dc988ef5390/353_0_4864_3893/500.jpg",
-      "published": "2026-06-01T02:00:04Z",
-      "location": {
-        "name": "Social Circle, Georgia",
-        "lat": 33.5886,
-        "lng": -83.7733
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
     },
     {
       "id": "business/live/2026/jun/01/uk-house-prices-fall-middle-east-interest-rates-manufacturing-softbank-ai-boom-chipmakers-live-updates",
@@ -758,6 +742,70 @@
       "category": "politics",
       "significance": 2,
       "section": "us-news"
+    },
+    {
+      "id": "australia-news/2026/jun/02/dog-rescued-snapper-island-batemans-bay-nsw-australia",
+      "headline": "Dog rescued on NSW south coast after being swept off rocks and swimming 800 metres to island",
+      "summary": "Dog rescued after swimming 800m to Snapper Island off NSW south coast.",
+      "url": "https://www.theguardian.com/p/x5773f",
+      "thumbnail": "https://media.guim.co.uk/61252922be16b56e232b33d92c0def23849215b8/490_0_1169_936/500.jpg",
+      "published": "2026-06-02T01:26:46Z",
+      "location": {
+        "name": "Batemans Bay",
+        "lat": -35.7058,
+        "lng": 150.1833
+      },
+      "category": "other",
+      "significance": 1,
+      "section": "australia-news"
+    },
+    {
+      "id": "us-news/2026/jun/01/trump-administration-news-latest-updates-today",
+      "headline": "Trump news at a glance: Trump mediates between Israel and Hezbollah in effort to salvage Iran peace talks",
+      "summary": "Iran halts peace talks with US, citing Israel's Lebanon operation as ceasefire violation.",
+      "url": "https://www.theguardian.com/p/x5745x",
+      "thumbnail": "https://media.guim.co.uk/4a4b02f19457c371dab0b88fa5e0a55459fe0f92/1000_0_5000_4000/500.jpg",
+      "published": "2026-06-02T01:16:21Z",
+      "location": {
+        "name": "Tehran",
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "weather/2026/jun/02/thailand-tourism-stricter-visas",
+      "headline": "Playground no more: Thais sick of badly behaved tourists hail stricter visas",
+      "summary": "Thailand tightens tourist visas to combat crime and disruptive foreign behavior.",
+      "url": "https://www.theguardian.com/p/x56xme",
+      "thumbnail": "https://media.guim.co.uk/6fa9cff12c23837881f52907273612b2fa409842/88_0_4708_3769/500.jpg",
+      "published": "2026-06-02T01:05:07Z",
+      "location": {
+        "name": "Bangkok",
+        "lat": 13.7563,
+        "lng": 100.5018
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "weather"
+    },
+    {
+      "id": "australia-news/2026/jun/02/dolphin-census-nsw-australia",
+      "headline": "By a bottlenose: hundreds of citizen scientists join NSW’s first dolphin census",
+      "summary": "Hundreds of citizen scientists conduct NSW's first dolphin census to track population trends.",
+      "url": "https://www.theguardian.com/p/x572n4",
+      "thumbnail": "https://media.guim.co.uk/b7f0e264fba1e708219a584b1970114595ef8209/408_631_3351_2679/500.jpg",
+      "published": "2026-06-02T01:00:33Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "australia-news"
     }
   ]
 }
