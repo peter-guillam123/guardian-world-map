@@ -1,92 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-02T22:02:49.555Z",
-    "story_count": 69,
-    "oldest_story": "2026-06-01T22:14:33Z",
-    "newest_story": "2026-06-02T22:00:43Z",
+    "generated_at": "2026-06-03T00:00:32.069Z",
+    "story_count": 67,
+    "oldest_story": "2026-06-02T01:00:33Z",
+    "newest_story": "2026-06-02T23:25:07Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "australia-news/live/2026/jun/02/australia-politics-live-one-nation-minimum-wage-case-labor-coalition-anthony-albanese-angus-taylor-question-time-senate-estimates-ntwnfb",
-      "headline": "Australia politics live: James Paterson says One Nation needs ‘increased scrutiny’; minimum wage rate set today",
-      "summary": "Australian Coalition calls for increased scrutiny of One Nation; minimum wage rate set today.",
-      "url": "https://www.theguardian.com/p/x573fe",
-      "thumbnail": "https://media.guim.co.uk/400fe143f0279ce3e38ac5d035daa198f599fd19/569_0_5665_4535/500.jpg",
-      "published": "2026-06-01T22:14:33Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "environment/2026/jun/02/uk-green-economy-worth-more-than-100bn-a-year-net-zero",
-      "headline": "UK’s growing green economy worth more than £100bn a year, research finds",
-      "summary": "UK's green economy worth over £100bn annually, supporting 1m+ jobs, says CBI research.",
-      "url": "https://www.theguardian.com/p/x5757d",
-      "thumbnail": "https://media.guim.co.uk/1800d58a8d5415e082bd1e1c5c33e3310d0e9ead/1617_0_2870_2296/500.jpg",
-      "published": "2026-06-01T23:01:31Z",
-      "location": {
-        "name": "United Kingdom",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "environment"
-    },
-    {
-      "id": "politics/2026/jun/02/reform-uk-support-could-plateau-relies-on-conservative-views-study-finds",
-      "headline": "Reform UK support could plateau as it relies on socially conservative views, study finds",
-      "summary": "Reform UK's poll growth may plateau as it becomes reliant on socially conservative voters.",
-      "url": "https://www.theguardian.com/p/x573kt",
-      "thumbnail": "https://media.guim.co.uk/996774a43faa9c319a068b3deff87b75db2b9b6c/713_0_7911_6328/500.jpg",
-      "published": "2026-06-01T23:01:30Z",
-      "location": {
-        "name": "United Kingdom",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "us-news/2026/jun/01/white-castle-veggie-burger-menu",
-      "headline": "White Castle adds veggie burger to menu as plant-based eating grows",
-      "summary": "White Castle adds Southwest Veggie Slider to menu as plant-based eating demand grows.",
-      "url": "https://www.theguardian.com/p/x576bz",
-      "thumbnail": "https://media.guim.co.uk/ca94149167b00bd335131e115b791c1adb667c4c/0_450_4500_3600/500.png",
-      "published": "2026-06-01T22:57:20Z",
-      "location": {
-        "name": "Columbus",
-        "lat": 39.9612,
-        "lng": -82.9988
-      },
-      "category": "economy",
-      "significance": 1,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/jun/01/new-jersey-ice-detention-center-protests",
-      "headline": "Several protesters arrested at New Jersey ICE facility as clashes continue",
-      "summary": "Dozens arrested at New Jersey ICE detention center during protests over strikes.",
-      "url": "https://www.theguardian.com/p/x574ap",
-      "thumbnail": "https://media.guim.co.uk/1eac5cdba464f184d3273c68a3bc4bc822e1fa9e/285_0_2953_2362/500.jpg",
-      "published": "2026-06-01T22:43:35Z",
-      "location": {
-        "name": "Newark",
-        "lat": 40.7357,
-        "lng": -74.1724
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
     {
       "id": "australia-news/2026/jun/02/dog-rescued-snapper-island-batemans-bay-nsw-australia",
       "headline": "Dog rescued on NSW south coast after being swept off rocks and swimming 800 metres to island",
@@ -1110,6 +1030,54 @@
       "category": "politics",
       "significance": 2,
       "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/jun/02/san-diego-drug-tunnel",
+      "headline": "Four suspects charged after one-ton cocaine bust reveals US-Mexico tunnel",
+      "summary": "Four suspects charged in one-ton cocaine bust linked to Jalisco cartel tunnel operation.",
+      "url": "https://www.theguardian.com/p/x57c6c",
+      "thumbnail": "https://media.guim.co.uk/a01dc21273f221be92846a888d47db79b4208047/366_0_4491_3591/500.jpg",
+      "published": "2026-06-02T23:25:07Z",
+      "location": {
+        "name": "San Diego",
+        "lat": 32.7157,
+        "lng": -117.1611
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "business/2026/jun/03/puffins-dolphins-bumblebees-new-uk-banknotes-shortlist",
+      "headline": "Puffins, dolphins and bumblebees in running to feature on new UK banknotes",
+      "summary": "Bank of England shortlists wildlife including puffins for new UK banknote designs.",
+      "url": "https://www.theguardian.com/p/x57bva",
+      "thumbnail": "https://media.guim.co.uk/30c01429d447ce27a814d9eeeb2a4df9278a763f/0_543_4200_3359/500.jpg",
+      "published": "2026-06-02T23:01:35Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "society/2026/jun/03/gps-in-england-too-overloaded-to-help-older-people-at-risk-of-falling-say-mps",
+      "headline": "GPs in England too ‘overloaded’ to help older people at risk of falling, say MPs",
+      "summary": "NHS admits GPs too overloaded to provide fall prevention care for older people.",
+      "url": "https://www.theguardian.com/p/x57b6z",
+      "thumbnail": "https://media.guim.co.uk/e38ad2502229c40aac38b7cc3c06de4d83623bd3/457_0_4319_3456/500.jpg",
+      "published": "2026-06-02T23:01:35Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "society"
     }
   ]
 }
