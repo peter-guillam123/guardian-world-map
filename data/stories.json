@@ -1,108 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-03T15:01:57.559Z",
-    "story_count": 57,
-    "oldest_story": "2026-06-02T15:04:44Z",
-    "newest_story": "2026-06-03T14:51:24Z",
+    "generated_at": "2026-06-03T18:55:52.155Z",
+    "story_count": 43,
+    "oldest_story": "2026-06-02T19:02:43Z",
+    "newest_story": "2026-06-03T17:51:28Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "music/2026/jun/02/jack-white-these-thoughts-may-disappear-review-newport-street-gallery-london-white-stripes-damien-hirst-ai-weiwei",
-      "headline": "Jack White review – former White Stripe’s art is like a 12-year-old visiting Tate Modern for the first time",
-      "summary": "Jack White's art exhibition at Newport Street Gallery receives mixed reviews from critics.",
-      "url": "https://www.theguardian.com/p/x579km",
-      "thumbnail": "https://media.guim.co.uk/852723b30d052e0870d5ec8942c18b7b2674baa3/388_0_4000_3200/500.jpg",
-      "published": "2026-06-02T15:36:26Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "music"
-    },
-    {
-      "id": "uk-news/2026/jun/02/watchdog-investigates-police-over-bristol-explosives-homicide",
-      "headline": "Watchdog investigates police over Bristol explosives homicide",
-      "summary": "Police watchdog investigates Avon and Somerset Police over fatal explosion killing woman and ex-partner.",
-      "url": "https://www.theguardian.com/p/x57ab5",
-      "thumbnail": "https://media.guim.co.uk/11400ae801f26faa4a4abe60a0f995a4771f7b09/667_0_3576_2861/500.jpg",
-      "published": "2026-06-02T15:36:14Z",
-      "location": {
-        "name": "Bristol",
-        "lat": 51.4545,
-        "lng": -2.5879
-      },
-      "category": "conflict",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "world/2026/jun/02/pope-leo-first-lay-woman-top-position-vatican-maria-montserrat-alvarado",
-      "headline": "Pope Leo appoints first lay woman to a top position in Vatican",
-      "summary": "Pope Leo appoints first lay woman to top Vatican position leading communications department.",
-      "url": "https://www.theguardian.com/p/x57ax7",
-      "thumbnail": "https://media.guim.co.uk/81651e8664ff4c32cf03af8813931396fb136152/0_65_3708_2967/500.jpg",
-      "published": "2026-06-02T15:28:02Z",
-      "location": {
-        "name": "Vatican City",
-        "lat": 41.9029,
-        "lng": 12.4534
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "politics/2026/jun/02/no-10-starmer-whatsapp-messages-automatically-delete-mandelson",
-      "headline": "No 10 confirms Starmer’s WhatsApp messages automatically delete",
-      "summary": "Downing Street confirms PM Starmer's WhatsApp messages automatically delete under official guidance.",
-      "url": "https://www.theguardian.com/p/x57a7b",
-      "thumbnail": "https://media.guim.co.uk/11f69939839c0941b28f087a7d63543f7bc997f0/0_72_2384_1905/500.jpg",
-      "published": "2026-06-02T15:22:41Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "us-news/2026/jun/02/trump-shouted-and-cursed-netanyahu-over-threat-to-resume-beirut-bombing",
-      "headline": "Trump ‘shouted and cursed Netanyahu over threat to resume Beirut bombing’",
-      "summary": "Trump reportedly shouted at Netanyahu over Israel's threats to resume airstrikes on Beirut suburbs.",
-      "url": "https://www.theguardian.com/p/x57a7y",
-      "thumbnail": "https://media.guim.co.uk/719b2181b0829f4448dc1a098d1a3bb63be56408/445_89_1138_910/500.jpg",
-      "published": "2026-06-02T15:20:11Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "us-news"
-    },
-    {
-      "id": "culture/2026/jun/02/late-night-roundup-jimmy-kimmel-seth-meyers-trump",
-      "headline": "Jimmy Kimmel on Trump’s IQ test: ‘No president has had to have his brain examined this many times’",
-      "summary": "Late-night hosts discuss Trump's cognitive abilities and failed concert series plans.",
-      "url": "https://www.theguardian.com/p/x57a5t",
-      "thumbnail": "https://media.guim.co.uk/60ad4138de3c08956a8ff9c2ec5d21120590df9d/445_0_1985_1588/500.jpg",
-      "published": "2026-06-02T15:04:44Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "culture"
-    },
     {
       "id": "sport/live/2026/jun/02/england-v-india-third-womens-t20-cricket-international-live",
       "headline": "England v India: third and deciding women’s T20 cricket international – live",
@@ -114,150 +18,6 @@
         "name": "Taunton",
         "lat": 51.0128,
         "lng": -3.103
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "us-news/2026/jun/02/bill-pulte-intelligence-chief-concerns",
-      "headline": "‘Americans will be less safe’: alarm as Trump picks loyalist as intelligence chief",
-      "summary": "Trump appoints Bill Pulte, a loyalist with no intelligence experience, as acting intelligence chief.",
-      "url": "https://www.theguardian.com/p/x57azy",
-      "thumbnail": "https://media.guim.co.uk/8b1b4b305c450a6458f70b9251a566eb2225621f/485_0_4859_3886/500.jpg",
-      "published": "2026-06-02T18:50:20Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/jun/02/new-york-israel-day-parade-democrats-smotrich",
-      "headline": " Democrats who marched in New York’s Israel Day parade decry attendance of far-right minister Smotrich",
-      "summary": "Democrats condemn far-right Israeli minister Smotrich's attendance at New York Israel Day parade.",
-      "url": "https://www.theguardian.com/p/x57aaq",
-      "thumbnail": "https://media.guim.co.uk/9f005458f290fd9db94935f566992faba319aca6/0_1179_1861_1488/500.jpg",
-      "published": "2026-06-02T18:44:32Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "football/2026/jun/02/jude-bellingham-england-world-cup-2026-shirt-no-10",
-      "headline": "Jude Bellingham handed World Cup boost for England after being given No 10 shirt",
-      "summary": "Jude Bellingham given England's No 10 shirt as squad trains in Florida for World Cup.",
-      "url": "https://www.theguardian.com/p/x57b6b",
-      "thumbnail": "https://media.guim.co.uk/5466b478f1e3d7a517506d393d0c8d4273a8033d/230_0_3169_2535/500.jpg",
-      "published": "2026-06-02T18:33:45Z",
-      "location": {
-        "name": "Florida",
-        "lat": 27.6648,
-        "lng": -81.5158
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "us-news/2026/jun/02/anthony-odiong-catholic-priest-sentence",
-      "headline": "Catholic priest who was convicted of sexual assault in Texas sentenced to 99 years in prison",
-      "summary": "Catholic priest Anthony Odiong sentenced to 99 years for sexual assault in Texas.",
-      "url": "https://www.theguardian.com/p/x576vy",
-      "thumbnail": "https://media.guim.co.uk/fe7926fb13982cb9376d9655f62d58c75cc34496/0_301_3024_2419/500.jpg",
-      "published": "2026-06-02T18:25:57Z",
-      "location": {
-        "name": "Waco",
-        "lat": 31.5494,
-        "lng": -97.1467
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "world/2026/jun/02/benjamin-netanyahu-us-iran-war",
-      "headline": "Why Benjamin Netanyahu poses an obstacle to US and Iran peace deal",
-      "summary": "Netanyahu's political survival concerns pose obstacle to potential US-Iran peace deal.",
-      "url": "https://www.theguardian.com/p/x579zy",
-      "thumbnail": "https://media.guim.co.uk/c487d5e8719f3d97d16a32f941079cc0b08e0f0a/332_0_3321_2656/500.jpg",
-      "published": "2026-06-02T18:15:47Z",
-      "location": {
-        "name": "Tel Aviv",
-        "lat": 32.0853,
-        "lng": 34.7818
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "us-news/2026/jun/02/white-house-correspondents-dinner-rescheduled-trump",
-      "headline": "White House correspondents’ dinner rescheduled for July after shooting",
-      "summary": "White House correspondents' dinner rescheduled for July after April shooting incident.",
-      "url": "https://www.theguardian.com/p/x57ann",
-      "thumbnail": "https://media.guim.co.uk/e6631c4fd9d5c76bae519f7d646759404b47e27d/0_0_5680_4543/500.jpg",
-      "published": "2026-06-02T18:14:00Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "world/2026/jun/02/israel-strikes-southern-lebanon-despite-trump-ceasefire",
-      "headline": "Israel strikes southern Lebanon despite Trump’s effort to shore up ceasefire",
-      "summary": "Israel launches dozens of airstrikes on southern Lebanon despite Trump ceasefire agreement.",
-      "url": "https://www.theguardian.com/p/x57bve",
-      "thumbnail": "https://media.guim.co.uk/4caca2919f46155e3a1e329c43803e274dfb6a89/487_103_3204_2564/500.jpg",
-      "published": "2026-06-02T18:11:34Z",
-      "location": {
-        "name": "Nabatiyeh",
-        "lat": 33.3862,
-        "lng": 35.2103
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "world/2026/jun/02/cricket-canada-suspension",
-      "headline": "Cricket Canada suspended over allegations of gang-linked corruption",
-      "summary": "Cricket Canada suspended by ICC over gang-linked corruption allegations.",
-      "url": "https://www.theguardian.com/p/x57aqp",
-      "thumbnail": "https://media.guim.co.uk/3e30c34aa7daec1ffffd82cca04c01e78dc05bae/871_385_4520_3615/500.jpg",
-      "published": "2026-06-02T18:10:07Z",
-      "location": {
-        "name": "Toronto",
-        "lat": 43.6532,
-        "lng": -79.3832
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "sport/2026/jun/02/bazball-full-circle-promise-to-evolve-slightly-new-zealand",
-      "headline": "Bazball comes full circle with a promise to ‘evolve slightly’ as New Zealand roll into town",
-      "summary": "England adopts fresh approach in Test cricket against New Zealand at Lord's.",
-      "url": "https://www.theguardian.com/p/x57at9",
-      "thumbnail": "https://media.guim.co.uk/ca066d8f225c14bca0d70e8ec94217b407b4a905/263_0_3389_2712/500.jpg",
-      "published": "2026-06-02T18:00:29Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
       },
       "category": "sport",
       "significance": 2,
@@ -917,6 +677,22 @@
       },
       "category": "politics",
       "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/jun/02/bakersfield-police-bomb-threat-man-bank",
+      "headline": "California: suspect in Bakersfield bank hostage standoff shot dead by police",
+      "summary": "FBI shoots dead armed suspect in Bakersfield bank hostage standoff after extended siege.",
+      "url": "https://www.theguardian.com/p/x57cdp",
+      "thumbnail": "https://media.guim.co.uk/3df4217cc2097c60f2ee13febe8e3db0a6e0cdab/336_0_3360_2688/500.jpg",
+      "published": "2026-06-03T17:51:28Z",
+      "location": {
+        "name": "Bakersfield",
+        "lat": 35.3733,
+        "lng": -119.0187
+      },
+      "category": "conflict",
+      "significance": 3,
       "section": "us-news"
     }
   ]
