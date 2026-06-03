@@ -1,76 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-03T00:00:32.069Z",
-    "story_count": 67,
-    "oldest_story": "2026-06-02T01:00:33Z",
-    "newest_story": "2026-06-02T23:25:07Z",
+    "generated_at": "2026-06-03T05:07:04.221Z",
+    "story_count": 70,
+    "oldest_story": "2026-06-02T05:46:12Z",
+    "newest_story": "2026-06-03T05:00:43Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "australia-news/2026/jun/02/dog-rescued-snapper-island-batemans-bay-nsw-australia",
-      "headline": "Dog rescued on NSW south coast after being swept off rocks and swimming 800 metres to island",
-      "summary": "Dog rescued after swimming 800m to Snapper Island off NSW south coast.",
-      "url": "https://www.theguardian.com/p/x5773f",
-      "thumbnail": "https://media.guim.co.uk/61252922be16b56e232b33d92c0def23849215b8/490_0_1169_936/500.jpg",
-      "published": "2026-06-02T01:26:46Z",
-      "location": {
-        "name": "Batemans Bay",
-        "lat": -35.7058,
-        "lng": 150.1833
-      },
-      "category": "other",
-      "significance": 1,
-      "section": "australia-news"
-    },
-    {
-      "id": "us-news/2026/jun/01/trump-administration-news-latest-updates-today",
-      "headline": "Trump news at a glance: Trump mediates between Israel and Hezbollah in effort to salvage Iran peace talks",
-      "summary": "Iran halts peace talks with US, citing Israel's Lebanon operation as ceasefire violation.",
-      "url": "https://www.theguardian.com/p/x5745x",
-      "thumbnail": "https://media.guim.co.uk/4a4b02f19457c371dab0b88fa5e0a55459fe0f92/1000_0_5000_4000/500.jpg",
-      "published": "2026-06-02T01:16:21Z",
-      "location": {
-        "name": "Tehran",
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "weather/2026/jun/02/thailand-tourism-stricter-visas",
-      "headline": "Playground no more: Thais sick of badly behaved tourists hail stricter visas",
-      "summary": "Thailand tightens tourist visas to combat crime and disruptive foreign behavior.",
-      "url": "https://www.theguardian.com/p/x56xme",
-      "thumbnail": "https://media.guim.co.uk/6fa9cff12c23837881f52907273612b2fa409842/88_0_4708_3769/500.jpg",
-      "published": "2026-06-02T01:05:07Z",
-      "location": {
-        "name": "Bangkok",
-        "lat": 13.7563,
-        "lng": 100.5018
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "weather"
-    },
-    {
-      "id": "australia-news/2026/jun/02/dolphin-census-nsw-australia",
-      "headline": "By a bottlenose: hundreds of citizen scientists join NSW’s first dolphin census",
-      "summary": "Hundreds of citizen scientists conduct NSW's first dolphin census to track population trends.",
-      "url": "https://www.theguardian.com/p/x572n4",
-      "thumbnail": "https://media.guim.co.uk/b7f0e264fba1e708219a584b1970114595ef8209/408_631_3351_2679/500.jpg",
-      "published": "2026-06-02T01:00:33Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "australia-news"
-    },
     {
       "id": "australia-news/2026/jun/02/victorian-minister-under-fire-for-writing-33-character-references-including-for-taxi-driver-who-assaulted-women-ntwnfb",
       "headline": "Victorian minister regrets character references for taxi driver who assaulted women, DV accused men and Iran regime supporter ",
@@ -1078,6 +1014,118 @@
       "category": "health",
       "significance": 2,
       "section": "society"
+    },
+    {
+      "id": "politics/2026/jun/03/mandelson-messages-manual-dark-arts-power",
+      "headline": "Mandelson messages could form a manual in the dark arts of wielding power and keeping it",
+      "summary": "Mandelson files reveal how Labour grandee wielded power through flattery, fury and political manipulation over three decades.",
+      "url": "https://www.theguardian.com/p/x57bvn",
+      "thumbnail": "https://media.guim.co.uk/a1e438dc547593e539c53723d51eccb915a9b71f/0_0_5000_4000/500.jpg",
+      "published": "2026-06-03T05:00:43Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "society/2026/jun/03/thousands-more-uk-black-men-to-be-invited-for-prostate-cancer-screening",
+      "headline": "Thousands more UK black men to be invited for prostate cancer screening",
+      "summary": "UK health secretary expands prostate cancer screening trial for black men but rejects population-wide testing.",
+      "url": "https://www.theguardian.com/p/x57cvq",
+      "thumbnail": "https://media.guim.co.uk/a9a39bd96a85845f8aed46e9e0c883fa44acfed1/290_148_1194_955/500.jpg",
+      "published": "2026-06-03T05:00:43Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "society"
+    },
+    {
+      "id": "global-development/2026/jun/03/reports-brutal-arrests-torture-deaths-iran-prisons",
+      "headline": "‘They beat me until I lost consciousness’: growing reports of brutal arrests, torture and deaths in Iran’s prisons",
+      "summary": "Iranian prisoners report torture and brutal arrests in regime crackdowns since war began as internet blackout lifts.",
+      "url": "https://www.theguardian.com/p/x573d5",
+      "thumbnail": "https://media.guim.co.uk/541242447e37e4e267ca11b662ec88b37270651f/0_452_1350_1080/500.jpg",
+      "published": "2026-06-03T05:00:42Z",
+      "location": {
+        "name": "Tehran",
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "global-development"
+    },
+    {
+      "id": "environment/2026/jun/03/country-diary-my-family-has-lived-near-here-for-300-years-no-wonder-it-feels-like-home",
+      "headline": "Country diary: My family has lived near here for 300 years – no wonder it feels like home",
+      "summary": "Cumbrian farmer researches 300-year family history linked to ancestral lands and former coaching inn site.",
+      "url": "https://www.theguardian.com/p/x55yxn",
+      "thumbnail": "https://media.guim.co.uk/5ce42323628eefc3f1999230d398d5e7afa0d7f4/50_0_1500_1200/500.jpg",
+      "published": "2026-06-03T04:30:41Z",
+      "location": {
+        "name": "Tebay",
+        "lat": 54.5247,
+        "lng": -2.4549
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "environment"
+    },
+    {
+      "id": "australia-news/2026/jun/03/el-nino-hotter-drier-weather-eastern-australia-bom-forecast",
+      "headline": "El Niño expected to develop in coming months, bringing hotter and drier weather to eastern Australia",
+      "summary": "El Niño expected to develop during Australian winter, bringing hotter and drier weather to eastern Australia.",
+      "url": "https://www.theguardian.com/p/x57ck5",
+      "thumbnail": "https://media.guim.co.uk/820a116f17e5c50322d73f92b0472890c5a5b955/264_0_2915_2333/500.jpg",
+      "published": "2026-06-03T04:29:00Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "film/2026/jun/03/dreams-of-violets-ash-koosha-iran-tribeca-film-festival",
+      "headline": "‘The CGI would have cost millions. I spent $2,000.’ Is Dreams of Violets AI slop – or the future of film-making?",
+      "summary": "First AI-made feature film 'Dreams of Violets' about Iran protests premieres at Tribeca Festival, transforming indie filmmaking.",
+      "url": "https://www.theguardian.com/p/x574xn",
+      "thumbnail": "https://media.guim.co.uk/cbf5bf6cb7a57a198a144342ac4658d6ba2d71c4/801_0_2698_2160/500.jpg",
+      "published": "2026-06-03T04:00:42Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "culture",
+      "significance": 3,
+      "section": "film"
+    },
+    {
+      "id": "world/commentisfree/2026/jun/03/eu-ukraine-membership-peace-deal",
+      "headline": "The EU should fast-track Ukraine’s membership of the club – it has the most to gain ",
+      "summary": "Commentary argues EU should fast-track Ukraine membership for strategic advantages despite government opposition.",
+      "url": "https://www.theguardian.com/p/x57v8b",
+      "thumbnail": "https://media.guim.co.uk/2bf7c0800141b10593846bde20a353d9570d3af0/647_0_4167_3334/500.jpg",
+      "published": "2026-06-03T04:00:42Z",
+      "location": {
+        "name": "Brussels",
+        "lat": 50.8503,
+        "lng": 4.3517
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
     }
   ]
 }
