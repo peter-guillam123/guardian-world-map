@@ -1,220 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-03T10:05:02.211Z",
-    "story_count": 82,
-    "oldest_story": "2026-06-02T10:20:00Z",
-    "newest_story": "2026-06-03T10:04:10Z",
+    "generated_at": "2026-06-03T15:01:57.559Z",
+    "story_count": 57,
+    "oldest_story": "2026-06-02T15:04:44Z",
+    "newest_story": "2026-06-03T14:51:24Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "sport/live/2026/jun/02/french-open-2026-quarter-finals-andreeva-cirstea-svitolina-kostyuk-jodar-zverev-live",
-      "headline": "French Open 2026 quarter-finals: Svitolina v Kostyuk; Andreeva swats Cirstea aside – live",
-      "summary": "French Open quarter-finals underway with Andreeva dominating Cirstea 6-0, 6-3.",
-      "url": "https://www.theguardian.com/p/x574a3",
-      "thumbnail": "https://media.guim.co.uk/1416259210555ce71b16ef3dd78e261eb11c6e6a/752_182_3885_3108/500.jpg",
-      "published": "2026-06-02T11:20:34Z",
-      "location": {
-        "name": "Paris",
-        "lat": 48.8566,
-        "lng": 2.3522
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "sport"
-    },
-    {
-      "id": "politics/live/2026/jun/02/peter-mandelson-keir-starmer-labour-leadership-snp-peter-murrell-latest-news-updates",
-      "headline": "Murrell used false accounting and fake invoices to hide SNP embezzlement, court hears – UK politics live",
-      "summary": "SNP ex-chief Murrell used false accounting and fake invoices to hide embezzlement.",
-      "url": "https://www.theguardian.com/p/x578fm",
-      "thumbnail": "https://media.guim.co.uk/0f068ced2969069417276079e89ed34b3391b4cd/591_0_5462_4370/500.jpg",
-      "published": "2026-06-02T11:13:47Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "business/2026/jun/02/bp-amanda-blanc-search-new-chair-albert-manifold",
-      "headline": "BP backs Amanda Blanc to lead search for new chair despite investor concerns",
-      "summary": "BP backs Amanda Blanc to lead chair search despite investor concerns over role.",
-      "url": "https://www.theguardian.com/p/x578cj",
-      "thumbnail": "https://media.guim.co.uk/4a2d42251e224d3de6f3dabb77d999313159abca/314_0_2918_2334/500.jpg",
-      "published": "2026-06-02T11:13:00Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "world/live/2026/jun/02/iran-us-israel-lebanon-trump-netanyahu-hezbollah-beirut-hormuz-talks-oil-latest-news-updates",
-      "headline": "Middle East crisis live: Conflict continues in Lebanon despite Trump hailing Israeli-Hezbollah de-escalation",
-      "summary": "Israeli-Hezbollah conflict continues despite Trump hailing de-escalation agreement.",
-      "url": "https://www.theguardian.com/p/x5779x",
-      "thumbnail": "https://media.guim.co.uk/7a06d88b5a76c1cc441bb978b589eba4bcafbf2b/312_0_3331_2666/500.jpg",
-      "published": "2026-06-02T11:10:25Z",
-      "location": {
-        "name": "Beirut",
-        "lat": 33.3157,
-        "lng": 35.4959
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "us-news/live/2026/jun/02/donald-trump-primaries-midterms-california-governor-iran-latest-news-updates",
-      "headline": "Californians head to the polls as governor primary goes down to the wire – US politics live",
-      "summary": "California governor primary goes to the wire amid multiple state primaries.",
-      "url": "https://www.theguardian.com/p/x5795a",
-      "thumbnail": "https://media.guim.co.uk/6da97af8bce2a618880289ea1447b412d7fc1a9f/996_0_6615_5292/500.jpg",
-      "published": "2026-06-02T11:09:51Z",
-      "location": {
-        "name": "Sacramento",
-        "lat": 38.5816,
-        "lng": -121.4944
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "sport/2026/jun/02/new-york-knicks-fandom-nba-finals",
-      "headline": "‘Why the hell would anyone want to watch the Knicks?’ Because they saved my life",
-      "summary": "Knicks fan reflects on 25 years of loyalty as team nears potential NBA championship.",
-      "url": "https://www.theguardian.com/p/x5728c",
-      "thumbnail": "https://media.guim.co.uk/a501fd01d1da44eb7bb7a62114d90562d7d6c63f/301_0_3000_2401/500.jpg",
-      "published": "2026-06-02T11:00:04Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "football/2026/jun/02/pele-no-10-brazil-shirt-1958-world-cup-final-auction",
-      "headline": "Pelé’s No 10 Brazil shirt from 1958 World Cup final expected to fetch £4.5m at auction",
-      "summary": "Pelé's 1958 World Cup final shirt expected to fetch £4.5m at Sotheby's auction.",
-      "url": "https://www.theguardian.com/p/x578y7",
-      "thumbnail": "https://media.guim.co.uk/bf8b5c1b362ece4ad942774be39c151eeb58487c/230_265_2688_2151/500.jpg",
-      "published": "2026-06-02T11:00:03Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "us-news/2026/jun/02/aipac-aief-congress-israel-travel",
-      "headline": "Aipac affiliate has funded lavish trips to Israel for dozens of Congress members since 7 October, filings reveal",
-      "summary": "AIPAC affiliate funded lavish Israel trips for dozens of Congress members post-October 7.",
-      "url": "https://www.theguardian.com/p/x56fnb",
-      "thumbnail": "https://media.guim.co.uk/b712e37d47c52f3c518158c7adeb5c687aa96331/13_11_2987_2389/500.jpg",
-      "published": "2026-06-02T11:00:03Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "business/live/2026/jun/02/alphabet-80bn-share-sales-ai-spending-berkshire-hathaway-stock-markets-oil-interest-rates-inflation-latest-news-updates",
-      "headline": "AI to drive up UK youth unemployment, as Alphabet raises $80bn for spending splurge – business live",
-      "summary": "Alphabet raises $80bn for AI spending as AI threatens UK youth employment levels.",
-      "url": "https://www.theguardian.com/p/x578d3",
-      "thumbnail": "https://media.guim.co.uk/48c2f1158b35ff75cb2edcbb613c747af1215f74/0_0_3333_2666/500.jpg",
-      "published": "2026-06-02T10:55:24Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "business"
-    },
-    {
-      "id": "sport/2026/jun/02/mirra-andreeva-sorana-cirstea-elina-svitolina-martya-kostyuk-french-open-tennis-quarter-final",
-      "headline": "Ruthless Andreeva ends veteran Cirstea’s dreams in Paris thrashing",
-      "summary": "Teenage sensation Andreeva crushes veteran Cirstea 6-0, 6-3 in French Open quarters.",
-      "url": "https://www.theguardian.com/p/x579ah",
-      "thumbnail": "https://media.guim.co.uk/8319c3498a0283754161cedee32fc01d130c86ab/97_287_3355_2684/500.jpg",
-      "published": "2026-06-02T10:51:11Z",
-      "location": {
-        "name": "Paris",
-        "lat": 48.8566,
-        "lng": 2.3522
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "us-news/2026/jun/02/first-thing-defense-department-bars-reporters-pentagon-press-room",
-      "headline": "First Thing: Defense department bars reporters from Pentagon press room",
-      "summary": "Pentagon bars journalists from press room as Trump administration claims transparency.",
-      "url": "https://www.theguardian.com/p/x579vh",
-      "thumbnail": "https://media.guim.co.uk/7a24b2a8b7b1e4132deebc69928edda63867f25d/341_148_2290_1832/500.jpg",
-      "published": "2026-06-02T10:47:45Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "uk-news/2026/jun/02/hampshire-police-commissioner-urges-religious-knives-review",
-      "headline": "No 10 considers review of jail sentence for Henry Nowak killer",
-      "summary": "No 10 reviews sentence for Henry Nowak's killer amid religious knife law debate.",
-      "url": "https://www.theguardian.com/p/x578gz",
-      "thumbnail": "https://media.guim.co.uk/f959f9d2be580fb3c63ac623a064b219725f7b39/83_0_1430_1144/500.jpg",
-      "published": "2026-06-02T10:36:22Z",
-      "location": {
-        "name": "Southampton",
-        "lat": 50.9097,
-        "lng": -1.4044
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "world/2026/jun/02/ukraine-war-russia-air-raids-strike-kyiv-dnipro-kharkiv",
-      "headline": "Zelenskyy asks Trump to send missiles after Russian strikes across Ukraine",
-      "summary": "Russian strikes kill 18+ across Ukraine; Zelenskyy requests Patriot missiles from Trump.",
-      "url": "https://www.theguardian.com/p/x577gk",
-      "thumbnail": "https://media.guim.co.uk/233ca85797c4ec81a4115d65e9de4dab04f48a36/674_0_4509_3608/500.jpg",
-      "published": "2026-06-02T10:20:00Z",
-      "location": {
-        "name": "Kyiv",
-        "lat": 50.4501,
-        "lng": 30.5234
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
     {
       "id": "music/2026/jun/02/jack-white-these-thoughts-may-disappear-review-newport-street-gallery-london-white-stripes-damien-hirst-ai-weiwei",
       "headline": "Jack White review – former White Stripe’s art is like a 12-year-old visiting Tate Modern for the first time",
@@ -310,230 +102,6 @@
       "category": "culture",
       "significance": 1,
       "section": "culture"
-    },
-    {
-      "id": "environment/2026/jun/03/female-dolphins-remember-aggression-mating-partner",
-      "headline": "Female dolphins remember who is aggressive when choosing a mating partner, research shows",
-      "summary": "Research shows female dolphins remember aggressive males and avoid them during mating season.",
-      "url": "https://www.theguardian.com/p/x57678",
-      "thumbnail": "https://media.guim.co.uk/b5572916f743da616f8dbca42ea3a6948703f40c/404_183_3308_2648/500.jpg",
-      "published": "2026-06-02T15:00:29Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "environment"
-    },
-    {
-      "id": "australia-news/2026/jun/03/choice-consumer-group-regulator-unsafe-toys-products-sold-online-accc-complaint",
-      "headline": "Fake cigarettes and toys that are ‘essentially weapons’: Choice refers online retailers to regulator over unsafe products",
-      "summary": "Consumer group Choice refers online retailers to ACCC for selling dangerous products like fake cigarettes.",
-      "url": "https://www.theguardian.com/p/x57xj4",
-      "thumbnail": "https://media.guim.co.uk/262935407db0705c81a8ccd699ee1dd3e15bbcd4/660_0_2808_2247/500.jpg",
-      "published": "2026-06-02T15:00:28Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "australia-news/2026/jun/03/one-nation-norway-gas-tax-plan-pauline-hanson-ntwnfb",
-      "headline": "One Nation says it wants a Norway-style gas policy – but it’s not actually in favour of higher taxes on profits ",
-      "summary": "One Nation proposes Norway-style gas policy but opposes higher taxes on resource company profits.",
-      "url": "https://www.theguardian.com/p/x566pq",
-      "thumbnail": "https://media.guim.co.uk/abcaa3e03978bda5df807553d2ddbc317eb6e47a/729_0_3673_2938/500.jpg",
-      "published": "2026-06-02T15:00:28Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "australia-news/2026/jun/03/santos-could-drill-for-new-gas-in-beetaloo-basin-within-weeks-as-murray-watt-urged-to-do-his-job",
-      "headline": "Santos could drill for new gas in Beetaloo basin within weeks as Murray Watt urged to ‘do his job’ ",
-      "summary": "Santos could drill new gas wells in Beetaloo basin within weeks amid environmental concerns.",
-      "url": "https://www.theguardian.com/p/x578v5",
-      "thumbnail": "https://media.guim.co.uk/2b7f59df56cd1edba303b0a38846d04dff3373f6/117_0_2475_1980/500.jpg",
-      "published": "2026-06-02T15:00:27Z",
-      "location": {
-        "name": "Darwin",
-        "lat": -12.4634,
-        "lng": 130.8456
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "australia-news/2026/jun/03/ndis-budget-cuts-overhaul-material-harm-australians-with-disabilities-government-advisory-committee-warns",
-      "headline": "NDIS overhaul will ‘harm’ Australians with disabilities, government’s own committee warns",
-      "summary": "Government's own NDIS advisory committee warns overhaul will cause 'material harm' to disabled Australians.",
-      "url": "https://www.theguardian.com/p/x5787a",
-      "thumbnail": "https://media.guim.co.uk/5160fd8143cfae6bd4620adc37ff19c557151873/688_0_6880_5504/500.jpg",
-      "published": "2026-06-02T15:00:27Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "australia-news/2026/jun/03/woman-dog-quicksand-australia-beach",
-      "headline": "Sarah was amused by the quicksand she stepped in on a South Australian beach. Then ‘reality set in’",
-      "summary": "Woman and dog rescued after sinking into quicksand on South Australian beach near Glenelg North.",
-      "url": "https://www.theguardian.com/p/x577ma",
-      "thumbnail": "https://media.guim.co.uk/40874640739a4f51c667b371982993ad7bb5d836/2253_1261_3369_2697/500.jpg",
-      "published": "2026-06-02T15:00:26Z",
-      "location": {
-        "name": "Adelaide",
-        "lat": -34.9285,
-        "lng": 138.6007
-      },
-      "category": "other",
-      "significance": 1,
-      "section": "australia-news"
-    },
-    {
-      "id": "commentisfree/2026/jun/03/aukus-defence-deal-secondhand-submarines-australia-us-alliance",
-      "headline": "What’s a few secondhand subs between friends? Aukus revision shows how the US treats its allies. Will Australia stand for it?",
-      "summary": "Opinion piece questions Australia's alliance with US over secondhand submarines in AUKUS revision.",
-      "url": "https://www.theguardian.com/p/x577g5",
-      "thumbnail": "https://media.guim.co.uk/444c2e00612f9d657c5e7dbd3267cb47128658ef/198_0_3700_2960/500.jpg",
-      "published": "2026-06-02T15:00:25Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "commentisfree"
-    },
-    {
-      "id": "environment/2026/jun/03/plastic-metal-franken-can-worst-packaging-unpackit-awards-australia",
-      "headline": "Can you not? Plastic and metal ‘franken-can’ named Australia’s worst packaging at Unpackit awards",
-      "summary": "Plastic-metal 'franken-can' named Australia's worst packaging for poor recyclability and sustainability.",
-      "url": "https://www.theguardian.com/p/x578vx",
-      "thumbnail": "https://media.guim.co.uk/7bf55b8dd0b79e9dc27ef282d3f344b0fb8aba0e/462_69_2633_2107/500.jpg",
-      "published": "2026-06-02T15:00:25Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "climate",
-      "significance": 1,
-      "section": "environment"
-    },
-    {
-      "id": "us-news/2026/jun/02/trump-bill-pulte-director-national-intelligence",
-      "headline": "Trump taps ally Bill Pulte to serve as top intelligence chief",
-      "summary": "Trump appoints Bill Pulte as acting director of national intelligence following Gabbard's departure.",
-      "url": "https://www.theguardian.com/p/x57a57",
-      "thumbnail": "https://media.guim.co.uk/1fb530dbd7339f5f4cba8d8908e1df133baf3294/570_0_7202_5760/500.jpg",
-      "published": "2026-06-02T14:59:23Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "politics/2026/jun/02/labour-mathew-lawrence-mark-mcvitie-competing-manifestos-join-forces",
-      "headline": "Labour figures who wrote competing ‘manifestos’ join forces to warn against tribalism",
-      "summary": "Labour policy figures Mathew Lawrence and Mark McVitie join forces to develop new policy ideas.",
-      "url": "https://www.theguardian.com/p/x57a35",
-      "thumbnail": "https://media.guim.co.uk/81ba4f1e06f2e16e39bb39b64a3e30e2972e58be/152_0_7200_5760/500.jpg",
-      "published": "2026-06-02T14:53:44Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "world/2026/jun/02/kenyans-fear-us-plan-for-ebola-quarantine-site",
-      "headline": "‘We don’t have another country to run to’: Kenyans fear US plan for Ebola quarantine site",
-      "summary": "Kenyans oppose US plan to establish Ebola quarantine facility in central Kenya amid safety concerns.",
-      "url": "https://www.theguardian.com/p/x57a3q",
-      "thumbnail": "https://media.guim.co.uk/bf49055c8a0b883cb56a2b24a37e5435b691cbaf/1000_0_5000_4000/500.jpg",
-      "published": "2026-06-02T14:49:21Z",
-      "location": {
-        "name": "Kenya",
-        "lat": -0.0236,
-        "lng": 37.9062
-      },
-      "category": "health",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "football/2026/jun/02/football-daily-newsletter-tonda-eckert-southampton-spying-scandal",
-      "headline": "Southampton find a ‘super-talented’ reason to stick with Tonda Eckert",
-      "summary": "Southampton retains manager Tonda Eckert despite spying scandal that marred 2025-26 season.",
-      "url": "https://www.theguardian.com/p/x5799n",
-      "thumbnail": "https://media.guim.co.uk/4dad5e7bb7810d4cdb1a5d52222262eeae990421/326_0_3265_2612/500.jpg",
-      "published": "2026-06-02T14:49:00Z",
-      "location": {
-        "name": "Southampton",
-        "lat": 50.9054,
-        "lng": -1.3909
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "film/2026/jun/02/virginia-woolfs-night-and-day-review-tina-gharavi-timothy-spall-jennifer-saunders",
-      "headline": "Virginia Woolf’s Night and Day review – dreamy adaptation reaches for the stars",
-      "summary": "Tina Gharavi's dreamy adaptation of Virginia Woolf's 'Night and Day' premieres at SXSW London.",
-      "url": "https://www.theguardian.com/p/x579n2",
-      "thumbnail": "https://media.guim.co.uk/53c0590bf25a0d9c0208162ee5b99af800707abf/283_0_4924_3938/500.jpg",
-      "published": "2026-06-02T14:33:28Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "film"
-    },
-    {
-      "id": "fashion/2026/jun/02/fashion-arsenal-fans-style-swagger-victory-parade",
-      "headline": "The Arsenal fans who brought style and swagger to the team’s victory parade: ‘Everyone supports the same thing but expresses it in their own way’",
-      "summary": "Arsenal fans showcase diverse personal style at north London's Premier League victory parade.",
-      "url": "https://www.theguardian.com/p/x574ej",
-      "thumbnail": "https://media.guim.co.uk/dab55144d8320609c8568419443174c039e80b38/841_435_6588_5270/500.jpg",
-      "published": "2026-06-02T14:30:24Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "fashion"
     },
     {
       "id": "sport/live/2026/jun/02/england-v-india-third-womens-t20-cricket-international-live",
@@ -1318,6 +886,38 @@
       "category": "politics",
       "significance": 2,
       "section": "commentisfree"
+    },
+    {
+      "id": "world/live/2026/jun/03/us-israel-iran-war-lebanon-trump-khamenei-netanyahu-hormuz-latest-news-updates",
+      "headline": "Middle East crisis live: Trump will decide on any return to full-scale action against Iran, says Netanyahu",
+      "summary": "Netanyahu says Trump will decide on full-scale military action against Iran amid regional tensions.",
+      "url": "https://www.theguardian.com/p/x57cec",
+      "thumbnail": "https://media.guim.co.uk/47fe9a99be5cf93362e89d6a35323c71f5812198/164_0_2341_1872/500.jpg",
+      "published": "2026-06-03T14:51:24Z",
+      "location": {
+        "name": "Iran",
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "us-news/2026/jun/03/california-governor-election",
+      "headline": "California primary election results: governor’s race too close to call",
+      "summary": "California gubernatorial primary too close to call between Hilton, Becerra, and Steyer.",
+      "url": "https://www.theguardian.com/p/x576pq",
+      "thumbnail": "https://media.guim.co.uk/2c928d6f761f1cdf07f439609b073fa5408708f6/397_0_3649_2922/500.jpg",
+      "published": "2026-06-03T13:53:28Z",
+      "location": {
+        "name": "California",
+        "lat": 36.1162,
+        "lng": -119.6816
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
     }
   ]
 }
