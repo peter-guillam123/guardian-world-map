@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-06-04T19:37:29.286Z",
-    "story_count": 39,
+    "generated_at": "2026-06-04T21:17:58.638Z",
+    "story_count": 44,
     "oldest_story": "2026-06-04T07:00:29Z",
-    "newest_story": "2026-06-04T19:16:55Z",
+    "newest_story": "2026-06-04T21:14:32Z",
     "window_hours": 24
   },
   "stories": [
@@ -630,6 +630,86 @@
       "category": "sport",
       "significance": 2,
       "section": "football"
+    },
+    {
+      "id": "australia-news/live/2026/jun/05/tax-changes-labor-coalition-politics-housing-prices-nsw-pharmacists-trump-tariffs-ntwnfb",
+      "headline": "Australia news live: Julian Hill claims Labor has ‘won the debate’ on housing tax changes; homelessness soars in NSW",
+      "summary": "Labor claims housing tax debate victory; NSW homelessness rises; pharmacists expand contraception access.",
+      "url": "https://www.theguardian.com/p/x57k3v",
+      "thumbnail": "https://media.guim.co.uk/136aa7b24994e6a30dc8bbc7bd212c286a6fca66/361_0_4198_3358/500.jpg",
+      "published": "2026-06-04T21:14:32Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "us-news/2026/jun/04/doj-medical-schools",
+      "headline": "DoJ investigates 15 medical schools over alleged discrimination in admissions",
+      "summary": "DoJ investigates 15 medical schools for alleged race discrimination in admissions processes.",
+      "url": "https://www.theguardian.com/p/x57mz7",
+      "thumbnail": "https://media.guim.co.uk/786a64b5c7e1a408740b158db62b2283c2679ccc/335_0_3331_2666/500.jpg",
+      "published": "2026-06-04T21:12:09Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/jun/04/trump-coal-defense-production-act",
+      "headline": "Trump uses wartime powers to dole out $700m to ‘clean, beautiful’ coal",
+      "summary": "Trump allocates $700m to coal plants in Alaska and West Virginia using wartime powers.",
+      "url": "https://www.theguardian.com/p/x57mxa",
+      "thumbnail": "https://media.guim.co.uk/bc5f3a563dadb97783a6302536a996ed01cddb57/478_0_3704_2962/500.jpg",
+      "published": "2026-06-04T20:22:10Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/jun/04/senate-republicans-trump-ally-fund",
+      "headline": "Senate Republicans narrowly block bid to bar Trump’s $1.8bn fund to pay allies",
+      "summary": "Senate Republicans block bid to halt Trump's $1.8bn fund for allies; party divisions emerge.",
+      "url": "https://www.theguardian.com/p/x57yh4",
+      "thumbnail": "https://media.guim.co.uk/7f11dbfabfa257762dfa730b3a3e00e47f8813c9/0_0_5000_4000/500.jpg",
+      "published": "2026-06-04T20:19:18Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "sport/2026/jun/04/ollie-robinson-england-new-zealand-test-cricket",
+      "headline": "Ollie Robinson feared he ‘was never playing for England again’ before stunning comeback",
+      "summary": "Ollie Robinson takes 4/10 in stunning England cricket comeback against New Zealand at Lord's.",
+      "url": "https://www.theguardian.com/p/x57kye",
+      "thumbnail": "https://media.guim.co.uk/e5c005de1d5f77f72d34f4e81028b63d65db7e0c/128_0_2860_2288/500.jpg",
+      "published": "2026-06-04T20:08:43Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
     }
   ]
 }
