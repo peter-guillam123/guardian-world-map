@@ -1,28 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-04T17:24:49.063Z",
-    "story_count": 32,
-    "oldest_story": "2026-06-03T17:51:28Z",
-    "newest_story": "2026-06-04T17:22:26Z",
+    "generated_at": "2026-06-04T19:37:29.286Z",
+    "story_count": 39,
+    "oldest_story": "2026-06-04T07:00:29Z",
+    "newest_story": "2026-06-04T19:16:55Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "us-news/2026/jun/02/bakersfield-police-bomb-threat-man-bank",
-      "headline": "California: suspect in Bakersfield bank hostage standoff shot dead by police",
-      "summary": "FBI shoots dead armed suspect in Bakersfield bank hostage standoff after extended siege.",
-      "url": "https://www.theguardian.com/p/x57cdp",
-      "thumbnail": "https://media.guim.co.uk/3df4217cc2097c60f2ee13febe8e3db0a6e0cdab/336_0_3360_2688/500.jpg",
-      "published": "2026-06-03T17:51:28Z",
-      "location": {
-        "name": "Bakersfield",
-        "lat": 35.3733,
-        "lng": -119.0187
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "us-news"
-    },
     {
       "id": "artanddesign/2026/jun/04/hold-this-earth-indigenous-american-artists-yorkshire-sculpture-park",
       "headline": "‘We have a shared sky and stars’: the Indigenous American artists challenging our relationship to the natural world",
@@ -518,6 +502,134 @@
       "category": "sport",
       "significance": 2,
       "section": "sport"
+    },
+    {
+      "id": "sport/2026/jun/04/robinson-three-wicket-over-england-new-zealand-skittle-hosts",
+      "headline": "Robinson’s three-wicket-over revives England after New Zealand skittle hosts",
+      "summary": "Ollie Robinson takes three wickets in first over as England battles New Zealand in Test cricket.",
+      "url": "https://www.theguardian.com/p/x57ky6",
+      "thumbnail": "https://media.guim.co.uk/6e421169912a1349e3c47a42413248f474c8d18c/284_0_5000_4000/500.jpg",
+      "published": "2026-06-04T19:16:55Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "us-news/2026/jun/04/wildfire-smoke-air-quality-ozone",
+      "headline": "Wildfire smoke has reversed US progress toward ozone air quality, study finds",
+      "summary": "Study reveals wildfire smoke has reversed US progress on ozone air quality since 2015.",
+      "url": "https://www.theguardian.com/p/x57gq2",
+      "thumbnail": "https://media.guim.co.uk/86102c8205a1b2241527c89fcb56eb69ebf33466/418_0_4164_3333/500.jpg",
+      "published": "2026-06-04T19:16:15Z",
+      "location": {
+        "name": "United States",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "climate",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "society/2026/jun/04/hampstead-heath-ponds-trans-inclusive-public-consultation",
+      "headline": "Hampstead Heath ponds to remain trans-inclusive after public back existing rules",
+      "summary": "Hampstead Heath bathing ponds remain trans-inclusive after public consultation backs existing policy.",
+      "url": "https://www.theguardian.com/p/x57mby",
+      "thumbnail": "https://media.guim.co.uk/92d437e61c217db5b6d9bb7d7a375648a17486c0/464_0_3136_2509/500.jpg",
+      "published": "2026-06-04T19:05:09Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "society"
+    },
+    {
+      "id": "football/2026/jun/04/iraola-must-move-fast-but-the-new-manager-has-the-tools-to-fix-liverpool",
+      "headline": "Iraola must move fast but the new manager has the tools to fix Liverpool",
+      "summary": "Andoni Iraola appointed Liverpool manager on two-year deal, replacing Arne Slot.",
+      "url": "https://www.theguardian.com/p/x57y27",
+      "thumbnail": "https://media.guim.co.uk/3afce1eba843462d453cdeccd0018ca7ded91d48/249_0_6702_5362/500.jpg",
+      "published": "2026-06-04T19:02:58Z",
+      "location": {
+        "name": "Liverpool",
+        "lat": 53.4084,
+        "lng": -2.9916
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/jun/04/democrat-louisiana-ice-family-detention-center",
+      "headline": "Top Democrat urges end to secrecy over proposed ICE child detention center",
+      "summary": "Top Democrat demands transparency over proposed ICE family detention center in Louisiana.",
+      "url": "https://www.theguardian.com/p/x57hn3",
+      "thumbnail": "https://media.guim.co.uk/adaf3732f36f6a6d9c6333457dd241221fea8957/0_58_1688_1350/500.jpg",
+      "published": "2026-06-04T18:47:35Z",
+      "location": {
+        "name": "Alexandria",
+        "lat": 31.3013,
+        "lng": -92.4399
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "society/2026/jun/04/girl-brain-damaged-at-birth-28m-nhs-payout-romford",
+      "headline": "Family of girl left brain-damaged at birth accept £28m NHS payout",
+      "summary": "NHS trust pays £28m to family of girl left brain-damaged at birth due to maternity care failures.",
+      "url": "https://www.theguardian.com/p/x57ma3",
+      "thumbnail": "https://media.guim.co.uk/b20cd12e6743a6d9220cc0e26fd579722926e14b/1256_0_1314_1051/500.jpg",
+      "published": "2026-06-04T18:38:38Z",
+      "location": {
+        "name": "Romford",
+        "lat": 51.5743,
+        "lng": 0.1789
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "society"
+    },
+    {
+      "id": "politics/2026/jun/04/reform-andrea-jenkyns-storms-out-of-meeting-henry-nowak",
+      "headline": "Reform’s Andrea Jenkyns storms out of meeting after discussion of Henry Nowak murder",
+      "summary": "Reform mayor Andrea Jenkyns walks out of meeting over Henry Nowak murder and social media tensions.",
+      "url": "https://www.theguardian.com/p/x57yyx",
+      "thumbnail": "https://media.guim.co.uk/850f01edfb0279b5e56315aa99f5958e391bb3b1/292_0_2589_2072/500.jpg",
+      "published": "2026-06-04T18:31:52Z",
+      "location": {
+        "name": "Greater Lincolnshire",
+        "lat": 53.2265,
+        "lng": -0.5418
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "football/2026/jun/04/liverpool-confirm-appointment-of-andoni-iraola-as-new-head-coach",
+      "headline": "Liverpool confirm appointment of Andoni Iraola as new head coach",
+      "summary": "Liverpool confirms appointment of Andoni Iraola as new head coach on two-year contract.",
+      "url": "https://www.theguardian.com/p/x5794z",
+      "thumbnail": "https://media.guim.co.uk/2818d0af38ac3413964f1673d2f8791cd3a27b6f/0_0_1012_810/500.jpg",
+      "published": "2026-06-04T18:31:22Z",
+      "location": {
+        "name": "Liverpool",
+        "lat": 53.4084,
+        "lng": -2.9916
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
     }
   ]
 }
