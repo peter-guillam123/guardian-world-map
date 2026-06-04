@@ -1,124 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-04T03:28:07.710Z",
-    "story_count": 29,
-    "oldest_story": "2026-06-03T04:00:42Z",
-    "newest_story": "2026-06-03T17:51:28Z",
+    "generated_at": "2026-06-04T08:07:25.585Z",
+    "story_count": 23,
+    "oldest_story": "2026-06-03T09:00:47Z",
+    "newest_story": "2026-06-04T07:00:29Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "politics/2026/jun/03/mandelson-messages-manual-dark-arts-power",
-      "headline": "Mandelson messages could form a manual in the dark arts of wielding power and keeping it",
-      "summary": "Mandelson files reveal how Labour grandee wielded power through flattery, fury and political manipulation over three decades.",
-      "url": "https://www.theguardian.com/p/x57bvn",
-      "thumbnail": "https://media.guim.co.uk/a1e438dc547593e539c53723d51eccb915a9b71f/0_0_5000_4000/500.jpg",
-      "published": "2026-06-03T05:00:43Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "society/2026/jun/03/thousands-more-uk-black-men-to-be-invited-for-prostate-cancer-screening",
-      "headline": "Thousands more UK black men to be invited for prostate cancer screening",
-      "summary": "UK health secretary expands prostate cancer screening trial for black men but rejects population-wide testing.",
-      "url": "https://www.theguardian.com/p/x57cvq",
-      "thumbnail": "https://media.guim.co.uk/a9a39bd96a85845f8aed46e9e0c883fa44acfed1/290_148_1194_955/500.jpg",
-      "published": "2026-06-03T05:00:43Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "society"
-    },
-    {
-      "id": "global-development/2026/jun/03/reports-brutal-arrests-torture-deaths-iran-prisons",
-      "headline": "‘They beat me until I lost consciousness’: growing reports of brutal arrests, torture and deaths in Iran’s prisons",
-      "summary": "Iranian prisoners report torture and brutal arrests in regime crackdowns since war began as internet blackout lifts.",
-      "url": "https://www.theguardian.com/p/x573d5",
-      "thumbnail": "https://media.guim.co.uk/541242447e37e4e267ca11b662ec88b37270651f/0_452_1350_1080/500.jpg",
-      "published": "2026-06-03T05:00:42Z",
-      "location": {
-        "name": "Tehran",
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "global-development"
-    },
-    {
-      "id": "environment/2026/jun/03/country-diary-my-family-has-lived-near-here-for-300-years-no-wonder-it-feels-like-home",
-      "headline": "Country diary: My family has lived near here for 300 years – no wonder it feels like home",
-      "summary": "Cumbrian farmer researches 300-year family history linked to ancestral lands and former coaching inn site.",
-      "url": "https://www.theguardian.com/p/x55yxn",
-      "thumbnail": "https://media.guim.co.uk/5ce42323628eefc3f1999230d398d5e7afa0d7f4/50_0_1500_1200/500.jpg",
-      "published": "2026-06-03T04:30:41Z",
-      "location": {
-        "name": "Tebay",
-        "lat": 54.5247,
-        "lng": -2.4549
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "environment"
-    },
-    {
-      "id": "australia-news/2026/jun/03/el-nino-hotter-drier-weather-eastern-australia-bom-forecast",
-      "headline": "El Niño expected to develop in coming months, bringing hotter and drier weather to eastern Australia",
-      "summary": "El Niño expected to develop during Australian winter, bringing hotter and drier weather to eastern Australia.",
-      "url": "https://www.theguardian.com/p/x57ck5",
-      "thumbnail": "https://media.guim.co.uk/820a116f17e5c50322d73f92b0472890c5a5b955/264_0_2915_2333/500.jpg",
-      "published": "2026-06-03T04:29:00Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "film/2026/jun/03/dreams-of-violets-ash-koosha-iran-tribeca-film-festival",
-      "headline": "‘The CGI would have cost millions. I spent $2,000.’ Is Dreams of Violets AI slop – or the future of film-making?",
-      "summary": "First AI-made feature film 'Dreams of Violets' about Iran protests premieres at Tribeca Festival, transforming indie filmmaking.",
-      "url": "https://www.theguardian.com/p/x574xn",
-      "thumbnail": "https://media.guim.co.uk/cbf5bf6cb7a57a198a144342ac4658d6ba2d71c4/801_0_2698_2160/500.jpg",
-      "published": "2026-06-03T04:00:42Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "culture",
-      "significance": 3,
-      "section": "film"
-    },
-    {
-      "id": "world/commentisfree/2026/jun/03/eu-ukraine-membership-peace-deal",
-      "headline": "The EU should fast-track Ukraine’s membership of the club – it has the most to gain ",
-      "summary": "Commentary argues EU should fast-track Ukraine membership for strategic advantages despite government opposition.",
-      "url": "https://www.theguardian.com/p/x57v8b",
-      "thumbnail": "https://media.guim.co.uk/2bf7c0800141b10593846bde20a353d9570d3af0/647_0_4167_3334/500.jpg",
-      "published": "2026-06-03T04:00:42Z",
-      "location": {
-        "name": "Brussels",
-        "lat": 50.8503,
-        "lng": 4.3517
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
     {
       "id": "politics/live/2026/jun/03/henry-nowak-southampton-riot-labour-keir-starmer-police-uk-politics-latest-news",
       "headline": "Minister criticises police anti-racism guidance following riot over Henry Nowak death – UK politics live",
@@ -470,6 +358,22 @@
       "category": "conflict",
       "significance": 3,
       "section": "us-news"
+    },
+    {
+      "id": "artanddesign/2026/jun/04/hold-this-earth-indigenous-american-artists-yorkshire-sculpture-park",
+      "headline": "‘We have a shared sky and stars’: the Indigenous American artists challenging our relationship to the natural world",
+      "summary": "Largest Native North American art exhibition ever shown in Britain opens at Yorkshire Sculpture Park.",
+      "url": "https://www.theguardian.com/p/x54pfg",
+      "thumbnail": "https://media.guim.co.uk/a0bf94e0a823bae522a76847feac73359968555a/436_243_1968_1574/500.jpg",
+      "published": "2026-06-04T07:00:29Z",
+      "location": {
+        "name": "Yorkshire",
+        "lat": 53.9582,
+        "lng": -1.4659
+      },
+      "category": "culture",
+      "significance": 3,
+      "section": "artanddesign"
     }
   ]
 }
