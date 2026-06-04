@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-06-04T21:17:58.638Z",
-    "story_count": 44,
+    "generated_at": "2026-06-04T22:49:58.762Z",
+    "story_count": 47,
     "oldest_story": "2026-06-04T07:00:29Z",
-    "newest_story": "2026-06-04T21:14:32Z",
+    "newest_story": "2026-06-04T22:33:01Z",
     "window_hours": 24
   },
   "stories": [
@@ -710,6 +710,54 @@
       "category": "sport",
       "significance": 2,
       "section": "sport"
+    },
+    {
+      "id": "us-news/2026/jun/04/trump-bill-pulte-national-intelligence",
+      "headline": "Trump claims Pulte will investigate ‘rigged elections’ in temporary role",
+      "summary": "Trump appoints Bill Pulte as acting intelligence director amid claims of election investigations.",
+      "url": "https://www.theguardian.com/p/x57n42",
+      "thumbnail": "https://media.guim.co.uk/919f256bce03bc24b8e7977f92866df3819ac822/333_0_3333_2667/500.jpg",
+      "published": "2026-06-04T22:33:01Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/jun/04/pam-bondi-epstein-transcript",
+      "headline": "Pam Bondi claims Todd Blanche was ‘in charge’ of ‘entire release’ of Epstein files",
+      "summary": "Pam Bondi testifies that Todd Blanche oversaw Epstein file release at DOJ.",
+      "url": "https://www.theguardian.com/p/x57h98",
+      "thumbnail": "https://media.guim.co.uk/305b3ce41b8f1e7a13cec2b6e18e8f9fecc76e71/432_0_4209_3366/500.jpg",
+      "published": "2026-06-04T22:12:25Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/jun/04/spain-iraq-friendly-international-match-report",
+      "headline": "Doski stunner earns Iraq draw against understrength Spain in World Cup warm-up",
+      "summary": "Iraq draws 1-1 with understrength Spain in World Cup warm-up friendly match.",
+      "url": "https://www.theguardian.com/p/x57n56",
+      "thumbnail": "https://media.guim.co.uk/86a1862531c71b1be38bf4c991cccf4aaa6df030/222_0_1899_1520/500.jpg",
+      "published": "2026-06-04T22:04:33Z",
+      "location": {
+        "name": "Santiago de Compostela",
+        "lat": 42.8782,
+        "lng": -8.5447
+      },
+      "category": "sport",
+      "significance": 1,
+      "section": "football"
     }
   ]
 }
