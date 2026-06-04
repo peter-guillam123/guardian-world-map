@@ -1,28 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-04T14:13:42.607Z",
-    "story_count": 17,
-    "oldest_story": "2026-06-03T14:51:24Z",
-    "newest_story": "2026-06-04T14:12:56Z",
+    "generated_at": "2026-06-04T17:24:49.063Z",
+    "story_count": 32,
+    "oldest_story": "2026-06-03T17:51:28Z",
+    "newest_story": "2026-06-04T17:22:26Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "world/live/2026/jun/03/us-israel-iran-war-lebanon-trump-khamenei-netanyahu-hormuz-latest-news-updates",
-      "headline": "Middle East crisis live: Trump will decide on any return to full-scale action against Iran, says Netanyahu",
-      "summary": "Netanyahu says Trump will decide on full-scale military action against Iran amid regional tensions.",
-      "url": "https://www.theguardian.com/p/x57cec",
-      "thumbnail": "https://media.guim.co.uk/47fe9a99be5cf93362e89d6a35323c71f5812198/164_0_2341_1872/500.jpg",
-      "published": "2026-06-03T14:51:24Z",
-      "location": {
-        "name": "Iran",
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
     {
       "id": "us-news/2026/jun/02/bakersfield-police-bomb-threat-man-bank",
       "headline": "California: suspect in Bakersfield bank hostage standoff shot dead by police",
@@ -278,6 +262,262 @@
       "category": "politics",
       "significance": 3,
       "section": "world"
+    },
+    {
+      "id": "uk-news/2026/jun/04/former-student-arrested-man-shot-crossbow-university-of-surrey",
+      "headline": "Former student arrested after man shot with crossbow at University of Surrey ",
+      "summary": "Former University of Surrey student arrested for allegedly shooting man with crossbow.",
+      "url": "https://www.theguardian.com/p/x57yqk",
+      "thumbnail": "https://media.guim.co.uk/f6a070646871c040fab6615ca1c72fa090b53856/735_0_4806_3845/500.jpg",
+      "published": "2026-06-04T17:22:26Z",
+      "location": {
+        "name": "Guildford",
+        "lat": 51.2283,
+        "lng": -0.5712
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "uk-news/2026/jun/04/britain-only-female-naval-commando-victims-devon-helicopter-crash",
+      "headline": "Britain’s only female naval commando among victims of Devon helicopter crash",
+      "summary": "Three Royal Navy personnel killed in helicopter crash during training exercise.",
+      "url": "https://www.theguardian.com/p/x57m45",
+      "thumbnail": "https://media.guim.co.uk/818774a1db1c3e3aaabd9dd90531369b8c1c8b1f/1_0_5905_4724/500.jpg",
+      "published": "2026-06-04T17:20:00Z",
+      "location": {
+        "name": "Devon",
+        "lat": 50.7184,
+        "lng": -3.5339
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "us-news/2026/jun/04/jury-awards-176m-family-boys-fatally-struck-socialite-car",
+      "headline": "Jury awards $176m to family of two boys fatally struck by LA socialite’s car",
+      "summary": "Jury awards $176m to family after two boys struck by socialite's car.",
+      "url": "https://www.theguardian.com/p/x57m2n",
+      "thumbnail": "https://media.guim.co.uk/a1161ab88f0d39b5c5892d7c174b0a21ca089348/700_0_5146_4116/500.jpg",
+      "published": "2026-06-04T17:19:24Z",
+      "location": {
+        "name": "Los Angeles",
+        "lat": 34.0522,
+        "lng": -118.2437
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/jun/04/john-bolton-pleads-guilty-classified-documents",
+      "headline": "John Bolton will reportedly plead guilty over mishandling classified documents",
+      "summary": "Former Trump adviser John Bolton to plead guilty over classified documents.",
+      "url": "https://www.theguardian.com/p/x57ytv",
+      "thumbnail": "https://media.guim.co.uk/3ffd3414b18643f75f596b068fc6722ce1e9fe9f/744_0_7455_5962/500.jpg",
+      "published": "2026-06-04T17:10:03Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/jun/04/republicans-doj-epstein-assistant-abuse-allegations",
+      "headline": "Republicans urge investigation into two men accused of abuse by Epstein assistant",
+      "summary": "Republicans urge DOJ investigation into Epstein associates accused by assistant.",
+      "url": "https://www.theguardian.com/p/x57ya3",
+      "thumbnail": "https://media.guim.co.uk/e38762dac3a380bda7aa62d9b11ba6213332c9e7/1251_287_2629_2104/500.jpg",
+      "published": "2026-06-04T17:00:52Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "music/2026/jun/04/paul-mccartney-inspiration-and-whats-been-lost-to-the-boys-of-dungeon-lane",
+      "headline": "Paul McCartney’s inspiration – and what’s been lost to the boys of Dungeon Lane",
+      "summary": "Paul McCartney reflects on Liverpool inspiration for new album.",
+      "url": "https://www.theguardian.com/p/x56phb",
+      "thumbnail": "https://media.guim.co.uk/2cedcbaac17d5166042c3b45739f09bb0eed30c5/653_0_6534_5230/500.jpg",
+      "published": "2026-06-04T16:59:41Z",
+      "location": {
+        "name": "Liverpool",
+        "lat": 53.4084,
+        "lng": -2.9916
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "music"
+    },
+    {
+      "id": "society/2026/jun/04/careers-guidance-should-be-at-the-centre-of-alan-milburn-final-neet-report",
+      "headline": "Careers guidance should be at the centre of Alan Milburn’s final Neet report ",
+      "summary": "Careers guidance should be central to Alan Milburn's report on youth unemployment.",
+      "url": "https://www.theguardian.com/p/x56pjg",
+      "thumbnail": "https://media.guim.co.uk/47a16674365358737b5b2555ba3daa5fb8cc86a4/71_0_3618_2897/500.jpg",
+      "published": "2026-06-04T16:59:20Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "society"
+    },
+    {
+      "id": "us-news/2026/jun/04/the-us-role-in-the-rise-of-communist-regimes",
+      "headline": "The US’s role in the rise of communist regimes",
+      "summary": "Letter discusses US role in rise of communist regimes in Vietnam era.",
+      "url": "https://www.theguardian.com/p/x57ybg",
+      "thumbnail": "https://media.guim.co.uk/ff206d164651ab69be2a5237a131ddf79224cd97/416_2_2378_1903/500.jpg",
+      "published": "2026-06-04T16:59:15Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 1,
+      "section": "us-news"
+    },
+    {
+      "id": "books/2026/jun/04/dina-nayeri-marjane-satrapi-brought-iranian-women-like-me-out-of-hiding",
+      "headline": "Dina Nayeri : Marjane Satrapi brought Iranian women like me out of hiding",
+      "summary": "Marjane Satrapi, Persepolis author, died; Iranian women mourn loss of eloquent voice.",
+      "url": "https://www.theguardian.com/p/x57ymx",
+      "thumbnail": "https://media.guim.co.uk/f9cd2851be192654fc60e16bada7fb584879abfe/523_0_4560_3648/500.jpg",
+      "published": "2026-06-04T16:55:55Z",
+      "location": {
+        "name": "Tehran",
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "books"
+    },
+    {
+      "id": "world/2026/jun/04/argentina-teen-girls-murdered-femicide-crisis",
+      "headline": "Outrage in Argentina after two teen girls murdered as femicide crisis endures",
+      "summary": "Argentina outraged after two teenage girls murdered amid ongoing femicide crisis.",
+      "url": "https://www.theguardian.com/p/x57yn7",
+      "thumbnail": "https://media.guim.co.uk/7320111e57e205b98ab3c84719766d77e7cbec00/1000_266_4682_3746/500.jpg",
+      "published": "2026-06-04T16:55:33Z",
+      "location": {
+        "name": "Buenos Aires",
+        "lat": -34.6037,
+        "lng": -58.3816
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "stage/2026/jun/04/theatre-broadway-phone-ban-london-run-liberation",
+      "headline": "Theatregoers to face phone ‘ban’ when Broadway’s Liberation comes to London",
+      "summary": "Broadway's Liberation coming to London with phone ban policy for audiences.",
+      "url": "https://www.theguardian.com/p/x57ye2",
+      "thumbnail": "https://media.guim.co.uk/5c4ac3ca7488605e5c5fcfbdde338ba9e9b50c54/249_0_4457_3566/500.jpg",
+      "published": "2026-06-04T16:46:20Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "stage"
+    },
+    {
+      "id": "world/2026/jun/04/jamaica-police-officer-charged-murder-woman-protest",
+      "headline": "Jamaican police officer charged with murder after woman shot during protest",
+      "summary": "Jamaican police officer charged with murder for shooting woman at protest.",
+      "url": "https://www.theguardian.com/p/x57yha",
+      "thumbnail": "https://media.guim.co.uk/d9b905dffd14a173425b90dd7580a2357fd659ae/52_0_726_581/500.jpg",
+      "published": "2026-06-04T16:38:28Z",
+      "location": {
+        "name": "Kingston",
+        "lat": 18.0179,
+        "lng": -76.8099
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "sport/2026/jun/04/rfu-council-member-matthew-smith-punished-maggie-alphonsi-comment-facebook-rugby",
+      "headline": "RFU council member punished for Maggie Alphonsi comment on Facebook",
+      "summary": "RFU council member suspended seven months for discriminatory comment about Maggie Alphonsi.",
+      "url": "https://www.theguardian.com/p/x57ypq",
+      "thumbnail": "https://media.guim.co.uk/0acf1082eb301d2d03bad51904940fcc6a13912d/832_0_5160_4128/500.jpg",
+      "published": "2026-06-04T16:36:18Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 1,
+      "section": "sport"
+    },
+    {
+      "id": "uk-news/2026/jun/04/sir-alex-younger-obituary",
+      "headline": "Sir Alex Younger obituary",
+      "summary": "Sir Alex Younger, former MI6 head who modernized intelligence recruitment, dies at 62.",
+      "url": "https://www.theguardian.com/p/x57ykx",
+      "thumbnail": "https://media.guim.co.uk/f812ce150060a4aee780992defc8ae0a08868866/889_103_3695_2956/500.jpg",
+      "published": "2026-06-04T16:32:31Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "world/2026/jun/04/israel-lebanon-renew-ceasefire-hezbollah-trump-iran-deal-middle-east-us",
+      "headline": "Hezbollah rejects Israel-Lebanon truce as Trump scrambles to end Iran war",
+      "summary": "Hezbollah rejects US-brokered Israel-Lebanon ceasefire, jeopardizing regional peace talks.",
+      "url": "https://www.theguardian.com/p/x57tjk",
+      "thumbnail": "https://media.guim.co.uk/49f665c2f1141ed7820e75a45a68750e34c2f670/480_0_4784_3827/500.jpg",
+      "published": "2026-06-04T16:25:16Z",
+      "location": {
+        "name": "Lebanon",
+        "lat": 33.8547,
+        "lng": 35.8623
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "sport/2026/jun/04/its-kimis-to-lose-russell-refuses-to-feel-the-pressure-amid-f1-championship-battle",
+      "headline": "‘It’s Kimi’s to lose’: Russell refuses to feel the pressure amid F1 championship battle",
+      "summary": "George Russell maintains F1 championship confidence ahead of Monaco Grand Prix round.",
+      "url": "https://www.theguardian.com/p/x57yny",
+      "thumbnail": "https://media.guim.co.uk/3e9c96f98e0c3e9ee9e7d6f7fe24939e8c5ff6d3/713_198_4674_3739/500.jpg",
+      "published": "2026-06-04T16:15:28Z",
+      "location": {
+        "name": "Monaco",
+        "lat": 43.7384,
+        "lng": 7.4246
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
     }
   ]
 }
