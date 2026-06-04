@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-06-04T11:24:59.684Z",
-    "story_count": 14,
-    "oldest_story": "2026-06-03T13:53:28Z",
-    "newest_story": "2026-06-04T11:24:09Z",
+    "generated_at": "2026-06-04T14:13:42.607Z",
+    "story_count": 17,
+    "oldest_story": "2026-06-03T14:51:24Z",
+    "newest_story": "2026-06-04T14:12:56Z",
     "window_hours": 24
   },
   "stories": [
@@ -22,22 +22,6 @@
       "category": "conflict",
       "significance": 4,
       "section": "world"
-    },
-    {
-      "id": "us-news/2026/jun/03/california-governor-election",
-      "headline": "California primary election results: governor’s race too close to call",
-      "summary": "California gubernatorial primary too close to call between Hilton, Becerra, and Steyer.",
-      "url": "https://www.theguardian.com/p/x576pq",
-      "thumbnail": "https://media.guim.co.uk/2c928d6f761f1cdf07f439609b073fa5408708f6/397_0_3649_2922/500.jpg",
-      "published": "2026-06-03T13:53:28Z",
-      "location": {
-        "name": "California",
-        "lat": 36.1162,
-        "lng": -119.6816
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
     },
     {
       "id": "us-news/2026/jun/02/bakersfield-police-bomb-threat-man-bank",
@@ -230,6 +214,70 @@
       "category": "politics",
       "significance": 2,
       "section": "politics"
+    },
+    {
+      "id": "sport/live/2026/jun/04/kostyuk-andreeva-shnaider-chwalinska-french-open-2026-womens-semi-finals-live",
+      "headline": "Marta Kostyuk v Mirra Andreeva: French Open 2026, women’s semi-finals – live",
+      "summary": "Kostyuk and Andreeva compete in French Open women's semi-finals at Roland Garros.",
+      "url": "https://www.theguardian.com/p/x57egp",
+      "thumbnail": "https://media.guim.co.uk/33518e58bb245727e779b850b9a483a475b86e10/488_0_4366_3494/500.jpg",
+      "published": "2026-06-04T14:12:56Z",
+      "location": {
+        "name": "Paris",
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "sport"
+    },
+    {
+      "id": "books/2026/jun/04/i-deliver-parcels-in-beijing-by-hu-anyan-audiobook-review-a-grim-life-in-chinas-gig-economy",
+      "headline": "I Deliver Parcels in Beijing by Hu Anyan audiobook review – a grim life in China’s gig economy",
+      "summary": "Memoir about gig economy worker in China becomes bestseller, criticizing exploitative labor system.",
+      "url": "https://www.theguardian.com/p/x55jxg",
+      "thumbnail": "https://media.guim.co.uk/fd4c7b121a820e029a28d3bcdaa85424a3e9a678/0_1935_7025_5617/500.jpg",
+      "published": "2026-06-04T14:00:09Z",
+      "location": {
+        "name": "Beijing",
+        "lat": 39.9042,
+        "lng": 116.4074
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "books"
+    },
+    {
+      "id": "commentisfree/2026/jun/04/iran-us-winning-war-truth-losing-ceasefire",
+      "headline": "Iran and the US both think they are winning the war. The truth is they are both losing",
+      "summary": "US-Iran ceasefire deteriorates as both sides escalate military strikes in Middle East.",
+      "url": "https://www.theguardian.com/p/x57k62",
+      "thumbnail": "https://media.guim.co.uk/00fda0ba819e6bfae6cf5778a36dc566244a7ec4/0_0_4888_3910/500.jpg",
+      "published": "2026-06-04T14:00:08Z",
+      "location": {
+        "name": "Iran",
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "commentisfree"
+    },
+    {
+      "id": "world/2026/jun/04/failure-to-win-seat-un-security-council-germany-friedrich-merz",
+      "headline": "Pressure on Merz after Germany’s ‘embarrassing’ failure to win UN security council seat",
+      "summary": "Germany fails to secure UN Security Council seat, embarrassing blow to Merz government.",
+      "url": "https://www.theguardian.com/p/x57jpx",
+      "thumbnail": "https://media.guim.co.uk/7200aece65f51f382c49f955235589343a386325/1000_0_5000_4000/500.jpg",
+      "published": "2026-06-04T13:05:27Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7489,
+        "lng": -73.968
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
     }
   ]
 }
