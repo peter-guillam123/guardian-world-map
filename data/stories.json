@@ -1,316 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-04T08:07:25.585Z",
-    "story_count": 23,
-    "oldest_story": "2026-06-03T09:00:47Z",
-    "newest_story": "2026-06-04T07:00:29Z",
+    "generated_at": "2026-06-04T11:24:59.684Z",
+    "story_count": 14,
+    "oldest_story": "2026-06-03T13:53:28Z",
+    "newest_story": "2026-06-04T11:24:09Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "politics/live/2026/jun/03/henry-nowak-southampton-riot-labour-keir-starmer-police-uk-politics-latest-news",
-      "headline": "Minister criticises police anti-racism guidance following riot over Henry Nowak death – UK politics live",
-      "summary": "Police clash with protesters rioting over Henry Nowak's death in Southampton",
-      "url": "https://www.theguardian.com/p/x57e4k",
-      "thumbnail": "https://media.guim.co.uk/ee46c3efbd339b5ee81d406dd2a8631c316d236a/990_0_3856_3084/500.jpg",
-      "published": "2026-06-03T10:04:10Z",
-      "location": {
-        "name": "Southampton",
-        "lat": 50.9097,
-        "lng": -1.4044
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "politics"
-    },
-    {
-      "id": "us-news/live/2026/jun/03/us-midterm-primaries-politics-donald-trump-california-governor-latest-news-updates",
-      "headline": "California primary unresolved as voters choose midterm candidates – US politics live",
-      "summary": "California primary unresolved as Democrats seek to oust Republicans in key midterm races",
-      "url": "https://www.theguardian.com/p/x57eyf",
-      "thumbnail": "https://media.guim.co.uk/e70d39823b013b7d7103b53f995ef50d8bbf2b20/93_0_3840_3072/500.jpg",
-      "published": "2026-06-03T10:03:56Z",
-      "location": {
-        "name": "California",
-        "lat": 36.1162,
-        "lng": -119.6816
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "sport/live/2026/jun/03/french-open-2026-kalinskaya-chwalinska-sabalenka-shnaider-quarter-finals-auger-aliassime-cobolli-berrettini-arnaldi-live",
-      "headline": "French Open 2026: Kalinskaya v Chwalinska; Sabalenka v Shnaider as quarter-finals continue – live",
-      "summary": "French Open 2026 quarter-finals continue with Kalinskaya, Sabalenka matches underway",
-      "url": "https://www.theguardian.com/p/x574b4",
-      "thumbnail": "https://media.guim.co.uk/dce7ebea9498c31dc51844f93aadf5ad86717ff7/597_0_4868_3895/500.jpg",
-      "published": "2026-06-03T10:02:13Z",
-      "location": {
-        "name": "Paris",
-        "lat": 48.8566,
-        "lng": 2.3522
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "australia-news/2026/jun/03/illegal-tobacco-news-australia-spending-less-to-consume-more-nicotine",
-      "headline": "Nicotine use soars by 40% in eight years as Australian black market explodes",
-      "summary": "Nicotine consumption soars 40% as Australian black market explodes with illicit tobacco",
-      "url": "https://www.theguardian.com/p/x57d5g",
-      "thumbnail": "https://media.guim.co.uk/32487452c42ed53386cfdfe5fbf968cc1e253b96/1368_128_4132_3306/500.jpg",
-      "published": "2026-06-03T09:59:28Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "health",
-      "significance": 3,
-      "section": "australia-news"
-    },
-    {
-      "id": "business/live/2026/jun/03/google-uk-publishers-choice-ai-search-summaries-competition-watchdog-business-live-news",
-      "headline": "Google starts testing changes to AI search after UK media sites given power to opt out - business live ",
-      "summary": "Google tests AI search changes after UK publishers given opt-out power by watchdog",
-      "url": "https://www.theguardian.com/p/x57dpc",
-      "thumbnail": "https://media.guim.co.uk/4688a02b2b90cb5e324aa8729fd21cd02a700f13/388_0_4167_3333/500.jpg",
-      "published": "2026-06-03T09:59:11Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "tech",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "uk-news/2026/jun/03/southampton-residents-shock-protest-violence-henry-nowak-murder",
-      "headline": "Southampton residents in shock after night of ‘terrifying’ protest violence",
-      "summary": "Southampton residents shock after night of protest violence over Henry Nowak's murder",
-      "url": "https://www.theguardian.com/p/x57egk",
-      "thumbnail": "https://media.guim.co.uk/13531e36eaba2e5dc95ee1eab5f551417c7fe2d3/280_0_4985_3987/500.jpg",
-      "published": "2026-06-03T09:50:34Z",
-      "location": {
-        "name": "Southampton",
-        "lat": 50.9097,
-        "lng": -1.4044
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "uk-news"
-    },
-    {
-      "id": "football/2026/jun/03/marcus-rashford-heads-to-world-cup-in-limbo-despite-proving-his-value-to-barcelona",
-      "headline": "Marcus Rashford heads to World Cup in limbo despite proving his value to Barcelona",
-      "summary": "Marcus Rashford heads to World Cup in limbo despite proving value to Barcelona",
-      "url": "https://www.theguardian.com/p/x579fb",
-      "thumbnail": "https://media.guim.co.uk/a6a304ba5f949e529b836e87a4b89e750f0951c1/596_0_4750_3800/500.jpg",
-      "published": "2026-06-03T09:41:43Z",
-      "location": {
-        "name": "Barcelona",
-        "lat": 41.3851,
-        "lng": 2.1734
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "sport/2026/jun/03/nobody-likes-to-be-belittled-how-new-zealands-ilford-seconds-made-history-in-1986",
-      "headline": "‘Nobody likes to be belittled’: how New Zealand’s ‘Ilford seconds’ made history in 1986",
-      "summary": "Archive: New Zealand's cricket team made history with famous 1986 series win over England",
-      "url": "https://www.theguardian.com/p/x57a8d",
-      "thumbnail": "https://media.guim.co.uk/4167436869104d0886da4509b7f0c9a59cbd8a79/1124_0_4412_3530/500.jpg",
-      "published": "2026-06-03T09:37:52Z",
-      "location": {
-        "name": "New Zealand",
-        "lat": -40.9006,
-        "lng": 174.886
-      },
-      "category": "sport",
-      "significance": 1,
-      "section": "sport"
-    },
-    {
-      "id": "business/2026/jun/03/ovo-energy-pay-prepayment-meter-monitoring-failings",
-      "headline": "Ovo Energy to pay more than £10m over prepayment meter monitoring failings",
-      "summary": "Ovo Energy to pay over £10m for prepayment meter monitoring failings affecting vulnerable customers",
-      "url": "https://www.theguardian.com/p/x57eba",
-      "thumbnail": "https://media.guim.co.uk/eacc03af6b1e021bf0422e862ef620eec341a0c2/1341_224_4341_3475/500.jpg",
-      "published": "2026-06-03T09:36:48Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "music/2026/jun/03/cantopop-hong-kong-emma-lee-moss-emmy-the-great",
-      "headline": "‘The story of Hong Kong is the sound of it’: the cross-cultural joy of the city’s Cantopop music",
-      "summary": "Emmy the Great explores Hong Kong's Cantopop music culture in new memoir",
-      "url": "https://www.theguardian.com/p/x55j2x",
-      "thumbnail": "https://media.guim.co.uk/ef3892c410b042b04e243ffb6671728e089dc6bf/0_37_1000_800/500.jpg",
-      "published": "2026-06-03T09:36:06Z",
-      "location": {
-        "name": "Hong Kong",
-        "lat": 22.3193,
-        "lng": 114.1694
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "music"
-    },
-    {
-      "id": "world/2026/jun/03/italy-votes-to-become-a-republic-1946",
-      "headline": "Italy votes to become a republic – archive, 1946",
-      "summary": "Archive: Italy votes to become republic in 1946, abolishing monarchy after Mussolini",
-      "url": "https://www.theguardian.com/p/x574xh",
-      "thumbnail": "https://media.guim.co.uk/54d5b600239a18bd1d78e5af022505fb99ede4a4/184_0_3133_2507/500.jpg",
-      "published": "2026-06-03T09:30:18Z",
-      "location": {
-        "name": "Rome",
-        "lat": 41.9028,
-        "lng": 12.4964
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "world/2026/jun/03/ukraine-drones-st-petersburg-russia-economic-forum",
-      "headline": "Ukrainian drones hit St Petersburg as ‘Russian Davos’ opens in city",
-      "summary": "Ukrainian drones hit St Petersburg energy sites as Russian economic forum opens",
-      "url": "https://www.theguardian.com/p/x57e7y",
-      "thumbnail": "https://media.guim.co.uk/4085275d93284225fa0aa09ece20800157dca17c/898_0_4287_3429/500.jpg",
-      "published": "2026-06-03T09:19:44Z",
-      "location": {
-        "name": "St Petersburg",
-        "lat": 59.9311,
-        "lng": 30.3609
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "sport/2026/jun/03/charles-leclerc-signs-long-term-ferrari-deal-monaco-grand-prix-f1",
-      "headline": "‘More than just a team’: Leclerc signs long-term Ferrari deal before home race in Monaco",
-      "summary": "Charles Leclerc signs long-term Ferrari deal before home Monaco Grand Prix race",
-      "url": "https://www.theguardian.com/p/x57edk",
-      "thumbnail": "https://media.guim.co.uk/3b90c7a8734a07564a16c52677df8a19463d70d2/86_0_5000_4000/500.jpg",
-      "published": "2026-06-03T09:12:16Z",
-      "location": {
-        "name": "Monaco",
-        "lat": 43.7384,
-        "lng": 7.4246
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "politics/2026/jun/03/david-cameron-boris-johnson-senior-cabinet-role-agreed-not-to-push-brexit",
-      "headline": "David Cameron offered Boris Johnson senior Cabinet role if he agreed not to push for Brexit",
-      "summary": "Cameron offered Johnson Cabinet role to oppose Brexit in 2016, BBC documentary reveals",
-      "url": "https://www.theguardian.com/p/x57eed",
-      "thumbnail": "https://media.guim.co.uk/19681470a14db8486617a8553742d2f2c8e0c945/1125_0_2375_1901/500.jpg",
-      "published": "2026-06-03T09:10:49Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "sport/2026/jun/03/nba-finals-2026-predictions-knicks-spurs",
-      "headline": "NBA finals 2026 predictions: will Wembanyama and the Spurs halt the red-hot Knicks?",
-      "summary": "NBA Finals 2026: Knicks seek title while Spurs' Wembanyama emerges as brightest young star.",
-      "url": "https://www.theguardian.com/p/x56qnz",
-      "thumbnail": "https://media.guim.co.uk/2c3989047e510533bafd7f5ab4288cf85d8c7d6f/0_0_5000_4000/500.jpg",
-      "published": "2026-06-03T09:00:50Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "world/2026/jun/03/iran-reza-pahlavi-shah-secret-police-savak",
-      "headline": "Far-right praise for shah’s secret police puts Reza Pahlavi on the spot",
-      "summary": "Reza Pahlavi distances himself from far-right supporters glorifying shah's secret police Savak.",
-      "url": "https://www.theguardian.com/p/x54avk",
-      "thumbnail": "https://media.guim.co.uk/28cd9b12169182663cad0fec71cd3472fc794252/355_0_3789_3033/500.jpg",
-      "published": "2026-06-03T09:00:49Z",
-      "location": {
-        "name": "Iran",
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "commentisfree/2026/jun/03/tyranny-britain-reform-centralised-state",
-      "headline": "Not yet worried about tyranny in Britain? This is why you should be",
-      "summary": "Owen Jones warns Britain closer to tyranny given UK's centralized state and Reform figures' rhetoric.",
-      "url": "https://www.theguardian.com/p/x574jv",
-      "thumbnail": "https://media.guim.co.uk/3037d6466f0e5c696290ee410b3e6fa0db907bb2/640_0_6419_5135/500.jpg",
-      "published": "2026-06-03T09:00:48Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "commentisfree"
-    },
-    {
-      "id": "us-news/2026/jun/03/primary-elections-midterms-november",
-      "headline": "US primary voters choose midterm candidates as Democrats look to flip key seats",
-      "summary": "US primary elections determine midterm candidates; Democrats target GOP seats in New Jersey and Iowa.",
-      "url": "https://www.theguardian.com/p/x578dd",
-      "thumbnail": "https://media.guim.co.uk/8af5a0300397e6681893af08de93b9c26a294c36/541_0_3718_2976/500.jpg",
-      "published": "2026-06-03T09:00:47Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "commentisfree/2026/jun/03/pope-leo-ai-technology",
-      "headline": "Thank God for Pope Leo. He’s the leader our world desperately needs ",
-      "summary": "Pope Leo emerges as rare moral voice on AI technology amid tech industry's ethical decline.",
-      "url": "https://www.theguardian.com/p/x57ca6",
-      "thumbnail": "https://media.guim.co.uk/6a63e9c3f102daaa196fdd14f265b043be892b69/456_0_4556_3645/500.jpg",
-      "published": "2026-06-03T09:00:47Z",
-      "location": {
-        "name": "Vatican City",
-        "lat": 41.9029,
-        "lng": 12.4534
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "commentisfree"
-    },
     {
       "id": "world/live/2026/jun/03/us-israel-iran-war-lebanon-trump-khamenei-netanyahu-hormuz-latest-news-updates",
       "headline": "Middle East crisis live: Trump will decide on any return to full-scale action against Iran, says Netanyahu",
@@ -374,6 +70,166 @@
       "category": "culture",
       "significance": 3,
       "section": "artanddesign"
+    },
+    {
+      "id": "sport/live/2026/jun/04/england-v-new-zealand-first-mens-cricket-test-day-one-live",
+      "headline": "England v New Zealand: first men’s cricket Test, rain stops play on day one – live",
+      "summary": "England v New Zealand cricket Test at Lord's halted by heavy rain on day one.",
+      "url": "https://www.theguardian.com/p/x57eee",
+      "thumbnail": "https://media.guim.co.uk/f6e532ace8f2b262d9c4d1b995cff1cb2c956ffe/27_0_2304_1844/500.jpg",
+      "published": "2026-06-04T11:24:09Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "politics/live/2026/jun/04/henry-nowak-death-policing-justice-farage-jenrick-reform-badenoch-burnham-latest-news-updates",
+      "headline": "Starmer accuses Elon Musk of trying to ‘whip up division’ in UK over murder of Henry Nowak – UK politics live",
+      "summary": "Starmer accuses Elon Musk of interfering in UK politics over Henry Nowak murder.",
+      "url": "https://www.theguardian.com/p/x57jjj",
+      "thumbnail": "https://media.guim.co.uk/718c1dc46641a930683cdaf394ef663eed6d2805/816_552_1892_1514/500.jpg",
+      "published": "2026-06-04T11:23:15Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "politics"
+    },
+    {
+      "id": "us-news/live/2026/jun/04/us-politics-latest-news-midterm-elections-california-governor-results",
+      "headline": "California governor’s race remains unresolved as vote count continues – US politics live",
+      "summary": "California governor's race remains unresolved as vote count continues.",
+      "url": "https://www.theguardian.com/p/x57k7c",
+      "thumbnail": "https://media.guim.co.uk/c86cf1f06e31d6b28302f862c8078b34d1eeee67/690_335_3728_2982/500.jpg",
+      "published": "2026-06-04T11:16:25Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "world/live/2026/jun/04/middle-east-crisis-israel-lebanon-hezbolllah-us-ceasefire-southern-military-attacks-continue-latest-news-updates",
+      "headline": "Middle East crisis live: Israel to continue ground operation in southern Lebanon despite agreed ceasefire",
+      "summary": "Israel to continue ground operations in southern Lebanon despite renewed ceasefire agreement.",
+      "url": "https://www.theguardian.com/p/x57thj",
+      "thumbnail": "https://media.guim.co.uk/9ff7b8dd370bdaa0d98582b7caea060d5a1f7de5/1649_227_6543_5237/500.jpg",
+      "published": "2026-06-04T11:10:17Z",
+      "location": {
+        "name": "Lebanon",
+        "lat": 33.8547,
+        "lng": 35.8623
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "film/2026/jun/04/disney-paris-theme-park-deficit",
+      "headline": "Disney racks up $4.2bn deficit on Paris parks",
+      "summary": "Disneyland Paris carries $4.2bn uncovered deficit despite record revenue and 16m visitors.",
+      "url": "https://www.theguardian.com/p/x57aa8",
+      "thumbnail": "https://media.guim.co.uk/3fb09a2a88cbc7cbb287b452cd316c76b6528cd6/599_0_4776_3820/500.jpg",
+      "published": "2026-06-04T11:00:06Z",
+      "location": {
+        "name": "Paris",
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "film"
+    },
+    {
+      "id": "us-news/ng-interactive/2026/jun/04/us-consumer-rage-prices-economy",
+      "headline": "Why are US consumers so angry? It’s not just high prices",
+      "summary": "Survey reveals 80% of US consumers experienced service problems; two-thirds felt rage.",
+      "url": "https://www.theguardian.com/p/x56bfg",
+      "thumbnail": "https://media.guim.co.uk/caeb8d0189ea09e374076badf019fa85bc388f2a/45_52_3581_2866/500.jpg",
+      "published": "2026-06-04T11:00:05Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "commentisfree/2026/jun/04/doomspending-economy-financial-crisis",
+      "headline": "Why is ‘doomspending’ on the rise?",
+      "summary": "Opinion piece examines rising 'doomspending' trend among anxious American consumers.",
+      "url": "https://www.theguardian.com/p/x57c33",
+      "thumbnail": "https://media.guim.co.uk/00fa29f4bc850374b1e142e9e2a7e2e8ec116225/500_0_5000_4000/500.jpg",
+      "published": "2026-06-04T11:00:04Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "economy",
+      "significance": 1,
+      "section": "commentisfree"
+    },
+    {
+      "id": "business/live/2026/jun/04/spacex-ipo-elon-musk-fears-significantly-overvalued-stock-markets-cars-jobs-live-news-updates",
+      "headline": "SpaceX ‘significantly overvalued’ as huge IPO looms; UK construction output slumps – business live",
+      "summary": "SpaceX valued too high before IPO; UK construction output slumps amid economic concerns.",
+      "url": "https://www.theguardian.com/p/x57jex",
+      "thumbnail": "https://media.guim.co.uk/02a208f7bbca7c9f286ca0255388566115a7089d/86_0_2972_2377/500.jpg",
+      "published": "2026-06-04T10:56:18Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "business"
+    },
+    {
+      "id": "politics/2026/jun/04/keir-starmer-elon-musk-division-henry-nowak",
+      "headline": "Starmer accuses Musk of trying to ‘whip up division’ in UK over Henry Nowak murder",
+      "summary": "Starmer says Musk is interfering and creating division over Henry Nowak murder case.",
+      "url": "https://www.theguardian.com/p/x57kck",
+      "thumbnail": "https://media.guim.co.uk/27d3f80109cc1ce7ae02fe9c3b2426c911231ed1/1351_533_5895_4716/500.jpg",
+      "published": "2026-06-04T10:37:39Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "politics"
+    },
+    {
+      "id": "politics/2026/jun/04/reform-uk-raising-millions-more-than-other-parties-donation-figures-show",
+      "headline": "Reform UK raising millions more than other parties, donation figures show",
+      "summary": "Reform UK raises £9m from crypto billionaires, outpacing Labour and Conservative donations.",
+      "url": "https://www.theguardian.com/p/x57k9e",
+      "thumbnail": "https://media.guim.co.uk/ce6b4a89412591255a70c7f33e3f5b8e00db43ac/547_81_2611_2090/500.jpg",
+      "published": "2026-06-04T10:19:15Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
     }
   ]
 }
