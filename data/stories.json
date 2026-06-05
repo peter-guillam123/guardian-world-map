@@ -1,76 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-05T22:04:25.033Z",
+    "generated_at": "2026-06-05T23:35:36.604Z",
     "story_count": 85,
-    "oldest_story": "2026-06-04T22:04:33Z",
-    "newest_story": "2026-06-05T21:24:10Z",
+    "oldest_story": "2026-06-05T04:00:24Z",
+    "newest_story": "2026-06-05T23:30:12Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "us-news/2026/jun/04/trump-bill-pulte-national-intelligence",
-      "headline": "Trump claims Pulte will investigate ‘rigged elections’ in temporary role",
-      "summary": "Trump appoints Bill Pulte as acting intelligence director amid claims of election investigations.",
-      "url": "https://www.theguardian.com/p/x57n42",
-      "thumbnail": "https://media.guim.co.uk/919f256bce03bc24b8e7977f92866df3819ac822/333_0_3333_2667/500.jpg",
-      "published": "2026-06-04T22:33:01Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/jun/04/pam-bondi-epstein-transcript",
-      "headline": "Pam Bondi claims Todd Blanche was ‘in charge’ of ‘entire release’ of Epstein files",
-      "summary": "Pam Bondi testifies that Todd Blanche oversaw Epstein file release at DOJ.",
-      "url": "https://www.theguardian.com/p/x57h98",
-      "thumbnail": "https://media.guim.co.uk/305b3ce41b8f1e7a13cec2b6e18e8f9fecc76e71/432_0_4209_3366/500.jpg",
-      "published": "2026-06-04T22:12:25Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "football/2026/jun/04/spain-iraq-friendly-international-match-report",
-      "headline": "Doski stunner earns Iraq draw against understrength Spain in World Cup warm-up",
-      "summary": "Iraq draws 1-1 with understrength Spain in World Cup warm-up friendly match.",
-      "url": "https://www.theguardian.com/p/x57n56",
-      "thumbnail": "https://media.guim.co.uk/86a1862531c71b1be38bf4c991cccf4aaa6df030/222_0_1899_1520/500.jpg",
-      "published": "2026-06-04T22:04:33Z",
-      "location": {
-        "name": "Santiago de Compostela",
-        "lat": 42.8782,
-        "lng": -8.5447
-      },
-      "category": "sport",
-      "significance": 1,
-      "section": "football"
-    },
-    {
-      "id": "society/2026/jun/05/girl-traumatised-vaginal-pessary-gp-associate-report",
-      "headline": "Girl, 5, traumatised after GP assistant wrongly prescribed vaginal pessary, report finds",
-      "summary": "5-year-old traumatised after GP assistant wrongly prescribed vaginal pessary, ombudsman report finds.",
-      "url": "https://www.theguardian.com/p/x57y2y",
-      "thumbnail": "https://media.guim.co.uk/400ae701f5f4f9b0b71f03a30283d296d46dfee1/180_0_5018_4016/500.jpg",
-      "published": "2026-06-04T23:01:18Z",
-      "location": {
-        "name": "United Kingdom",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "society"
-    },
     {
       "id": "environment/2026/jun/05/country-diary-the-queen-of-trees-is-holding-a-secret",
       "headline": "Country diary: The ‘queen of trees’ is holding a secret",
@@ -1364,6 +1300,70 @@
         "lng": -92.3731
       },
       "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "sport/live/2026/jun/05/nba-finals-2026-game-2-new-york-knicks-san-antonio-spurs-live-score",
+      "headline": "NBA finals 2026 Game 2: New York Knicks v San Antonio Spurs – live",
+      "summary": "NBA Finals Game 2: Knicks face Spurs in San Antonio seeking 2-0 series lead.",
+      "url": "https://www.theguardian.com/p/x58x2v",
+      "thumbnail": "https://media.guim.co.uk/ef36f08453cf1fa12b6f3f97f5a6a455621fe06f/347_0_3471_2777/500.jpg",
+      "published": "2026-06-05T23:30:12Z",
+      "location": {
+        "name": "San Antonio",
+        "lat": 29.4241,
+        "lng": -98.4936
+      },
+      "category": "sport",
+      "significance": 4,
+      "section": "sport"
+    },
+    {
+      "id": "football/2026/jun/05/steve-clarke-scotland-haiti-world-cup-new-zealand",
+      "headline": "Steve Clarke warns Scotland not to underestimate Haiti after New Zealand rout",
+      "summary": "Scotland manager Clarke warns against underestimating Haiti in World Cup opener.",
+      "url": "https://www.theguardian.com/p/x58242",
+      "thumbnail": "https://media.guim.co.uk/93e8b5f9877d6435d6cf671f59516623bf03e3f3/616_93_4884_3907/500.jpg",
+      "published": "2026-06-05T23:26:50Z",
+      "location": {
+        "name": "Boston",
+        "lat": 42.3601,
+        "lng": -71.0589
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/jun/05/sarina-wiegman-lionesses-spain-womens-world-cup-qualifier",
+      "headline": "‘It hurts. I expected a different game’: Wiegman’s shock at Spain humbling",
+      "summary": "England Women suffer heavy defeat to Spain in World Cup qualifier.",
+      "url": "https://www.theguardian.com/p/x58xk6",
+      "thumbnail": "https://media.guim.co.uk/40b8601fcd796fa57cece0d17c2fd2700b8394d9/754_0_4240_3392/500.jpg",
+      "published": "2026-06-05T22:43:55Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/jun/05/texas-stabbing-high-school",
+      "headline": "Texas murder trial under way with 19-year-old accused of stabbing fellow high schooler",
+      "summary": "Murder trial underway for 19-year-old accused of fatally stabbing high school student.",
+      "url": "https://www.theguardian.com/p/x58xyh",
+      "thumbnail": "https://media.guim.co.uk/cc4cc246ea207ed40621f9d547a55de37327fcf5/398_0_4018_3215/500.jpg",
+      "published": "2026-06-05T22:27:56Z",
+      "location": {
+        "name": "Texas",
+        "lat": 31.9686,
+        "lng": -99.9018
+      },
+      "category": "conflict",
       "significance": 2,
       "section": "us-news"
     }
