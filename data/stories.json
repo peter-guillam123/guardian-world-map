@@ -1,172 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-05T08:34:23.615Z",
-    "story_count": 65,
-    "oldest_story": "2026-06-04T10:19:15Z",
-    "newest_story": "2026-06-05T08:29:34Z",
+    "generated_at": "2026-06-05T11:46:25.099Z",
+    "story_count": 70,
+    "oldest_story": "2026-06-04T13:05:27Z",
+    "newest_story": "2026-06-05T11:43:40Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "sport/live/2026/jun/04/england-v-new-zealand-first-mens-cricket-test-day-one-live",
-      "headline": "England v New Zealand: first men’s cricket Test, rain stops play on day one – live",
-      "summary": "England v New Zealand cricket Test at Lord's halted by heavy rain on day one.",
-      "url": "https://www.theguardian.com/p/x57eee",
-      "thumbnail": "https://media.guim.co.uk/f6e532ace8f2b262d9c4d1b995cff1cb2c956ffe/27_0_2304_1844/500.jpg",
-      "published": "2026-06-04T11:24:09Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "politics/live/2026/jun/04/henry-nowak-death-policing-justice-farage-jenrick-reform-badenoch-burnham-latest-news-updates",
-      "headline": "Starmer accuses Elon Musk of trying to ‘whip up division’ in UK over murder of Henry Nowak – UK politics live",
-      "summary": "Starmer accuses Elon Musk of interfering in UK politics over Henry Nowak murder.",
-      "url": "https://www.theguardian.com/p/x57jjj",
-      "thumbnail": "https://media.guim.co.uk/718c1dc46641a930683cdaf394ef663eed6d2805/816_552_1892_1514/500.jpg",
-      "published": "2026-06-04T11:23:15Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "politics"
-    },
-    {
-      "id": "us-news/live/2026/jun/04/us-politics-latest-news-midterm-elections-california-governor-results",
-      "headline": "California governor’s race remains unresolved as vote count continues – US politics live",
-      "summary": "California governor's race remains unresolved as vote count continues.",
-      "url": "https://www.theguardian.com/p/x57k7c",
-      "thumbnail": "https://media.guim.co.uk/c86cf1f06e31d6b28302f862c8078b34d1eeee67/690_335_3728_2982/500.jpg",
-      "published": "2026-06-04T11:16:25Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "world/live/2026/jun/04/middle-east-crisis-israel-lebanon-hezbolllah-us-ceasefire-southern-military-attacks-continue-latest-news-updates",
-      "headline": "Middle East crisis live: Israel to continue ground operation in southern Lebanon despite agreed ceasefire",
-      "summary": "Israel to continue ground operations in southern Lebanon despite renewed ceasefire agreement.",
-      "url": "https://www.theguardian.com/p/x57thj",
-      "thumbnail": "https://media.guim.co.uk/9ff7b8dd370bdaa0d98582b7caea060d5a1f7de5/1649_227_6543_5237/500.jpg",
-      "published": "2026-06-04T11:10:17Z",
-      "location": {
-        "name": "Lebanon",
-        "lat": 33.8547,
-        "lng": 35.8623
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "film/2026/jun/04/disney-paris-theme-park-deficit",
-      "headline": "Disney racks up $4.2bn deficit on Paris parks",
-      "summary": "Disneyland Paris carries $4.2bn uncovered deficit despite record revenue and 16m visitors.",
-      "url": "https://www.theguardian.com/p/x57aa8",
-      "thumbnail": "https://media.guim.co.uk/3fb09a2a88cbc7cbb287b452cd316c76b6528cd6/599_0_4776_3820/500.jpg",
-      "published": "2026-06-04T11:00:06Z",
-      "location": {
-        "name": "Paris",
-        "lat": 48.8566,
-        "lng": 2.3522
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "film"
-    },
-    {
-      "id": "us-news/ng-interactive/2026/jun/04/us-consumer-rage-prices-economy",
-      "headline": "Why are US consumers so angry? It’s not just high prices",
-      "summary": "Survey reveals 80% of US consumers experienced service problems; two-thirds felt rage.",
-      "url": "https://www.theguardian.com/p/x56bfg",
-      "thumbnail": "https://media.guim.co.uk/caeb8d0189ea09e374076badf019fa85bc388f2a/45_52_3581_2866/500.jpg",
-      "published": "2026-06-04T11:00:05Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "commentisfree/2026/jun/04/doomspending-economy-financial-crisis",
-      "headline": "Why is ‘doomspending’ on the rise?",
-      "summary": "Opinion piece examines rising 'doomspending' trend among anxious American consumers.",
-      "url": "https://www.theguardian.com/p/x57c33",
-      "thumbnail": "https://media.guim.co.uk/00fa29f4bc850374b1e142e9e2a7e2e8ec116225/500_0_5000_4000/500.jpg",
-      "published": "2026-06-04T11:00:04Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "economy",
-      "significance": 1,
-      "section": "commentisfree"
-    },
-    {
-      "id": "business/live/2026/jun/04/spacex-ipo-elon-musk-fears-significantly-overvalued-stock-markets-cars-jobs-live-news-updates",
-      "headline": "SpaceX ‘significantly overvalued’ as huge IPO looms; UK construction output slumps – business live",
-      "summary": "SpaceX valued too high before IPO; UK construction output slumps amid economic concerns.",
-      "url": "https://www.theguardian.com/p/x57jex",
-      "thumbnail": "https://media.guim.co.uk/02a208f7bbca7c9f286ca0255388566115a7089d/86_0_2972_2377/500.jpg",
-      "published": "2026-06-04T10:56:18Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "business"
-    },
-    {
-      "id": "politics/2026/jun/04/keir-starmer-elon-musk-division-henry-nowak",
-      "headline": "Starmer accuses Musk of trying to ‘whip up division’ in UK over Henry Nowak murder",
-      "summary": "Starmer says Musk is interfering and creating division over Henry Nowak murder case.",
-      "url": "https://www.theguardian.com/p/x57kck",
-      "thumbnail": "https://media.guim.co.uk/27d3f80109cc1ce7ae02fe9c3b2426c911231ed1/1351_533_5895_4716/500.jpg",
-      "published": "2026-06-04T10:37:39Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "politics"
-    },
-    {
-      "id": "politics/2026/jun/04/reform-uk-raising-millions-more-than-other-parties-donation-figures-show",
-      "headline": "Reform UK raising millions more than other parties, donation figures show",
-      "summary": "Reform UK raises £9m from crypto billionaires, outpacing Labour and Conservative donations.",
-      "url": "https://www.theguardian.com/p/x57k9e",
-      "thumbnail": "https://media.guim.co.uk/ce6b4a89412591255a70c7f33e3f5b8e00db43ac/547_81_2611_2090/500.jpg",
-      "published": "2026-06-04T10:19:15Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
     {
       "id": "sport/live/2026/jun/04/kostyuk-andreeva-shnaider-chwalinska-french-open-2026-womens-semi-finals-live",
       "headline": "Marta Kostyuk v Mirra Andreeva: French Open 2026, women’s semi-finals – live",
@@ -1046,6 +886,246 @@
       "category": "politics",
       "significance": 2,
       "section": "uk-news"
+    },
+    {
+      "id": "sport/live/2026/jun/05/england-v-new-zealand-first-mens-cricket-test-day-two-live",
+      "headline": "England v New Zealand: first men’s cricket Test, day two – live",
+      "summary": "England v New Zealand cricket Test at Lord's enters day two with live coverage.",
+      "url": "https://www.theguardian.com/p/x57m58",
+      "thumbnail": "https://media.guim.co.uk/564823c1c617d835c494814d755a3a6b4cd8424a/373_0_3333_2666/500.jpg",
+      "published": "2026-06-05T11:43:40Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "uk-news/2026/jun/05/henry-nowak-controversy-behind-us-intervention-murder-case-britain",
+      "headline": "Henry Nowak: controversy behind US intervention in a murder case that has rocked Britain",
+      "summary": "US State Department intervenes in Henry Nowak murder case, criticizing UK policing.",
+      "url": "https://www.theguardian.com/p/x57phx",
+      "thumbnail": "https://media.guim.co.uk/529fbd567374a39aa7bda8078fafa9d6b5598d1f/376_0_3432_2745/500.jpg",
+      "published": "2026-06-05T11:40:33Z",
+      "location": {
+        "name": "United Kingdom",
+        "lat": 55.3781,
+        "lng": -3.436
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "uk-news"
+    },
+    {
+      "id": "uk-news/2026/jun/05/former-student-charged-attempted-murder-surrey-university-staff-member-shot-with-crossbow",
+      "headline": "Man, 21, charged with attempted murder after Surrey University staff member shot with crossbow",
+      "summary": "Man charged with attempted murder after staff shot with crossbow at Surrey University.",
+      "url": "https://www.theguardian.com/p/x57q87",
+      "thumbnail": "https://media.guim.co.uk/bf6e445e7ee138eb976ea26e720dab98d26ca806/550_0_5000_4000/500.jpg",
+      "published": "2026-06-05T11:37:41Z",
+      "location": {
+        "name": "Guildford",
+        "lat": 51.2381,
+        "lng": -0.5759
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "football/2026/jun/05/no-wonder-steve-clarke-is-smiling-scotland-manager-has-new-deal-and-future-built-on-youth",
+      "headline": "No wonder Steve Clarke is smiling: Scotland manager has new deal and future built on youth",
+      "summary": "Scotland manager Steve Clarke extends contract ahead of World Cup 2026 campaign.",
+      "url": "https://www.theguardian.com/p/x57yfj",
+      "thumbnail": "https://media.guim.co.uk/76e10cc1bd1f2a6bcf08ce9637be7007cd517d85/259_84_1884_1507/500.jpg",
+      "published": "2026-06-05T11:30:33Z",
+      "location": {
+        "name": "Scotland",
+        "lat": 56.4907,
+        "lng": -4.2026
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "artanddesign/2026/jun/05/simeon-barclay-review-john-hansard-gallery-southampton-turner-prize",
+      "headline": "Simeon Barclay review – shut out by the gates of a drab modern Britain ",
+      "summary": "Turner Prize artist Simeon Barclay explores identity and belonging in Southampton exhibition.",
+      "url": "https://www.theguardian.com/p/x57yce",
+      "thumbnail": "https://media.guim.co.uk/4bdb1a640607c64c48174990cd211d343d674523/1192_0_5958_4767/500.jpg",
+      "published": "2026-06-05T11:29:39Z",
+      "location": {
+        "name": "Southampton",
+        "lat": 50.9097,
+        "lng": -1.4044
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "artanddesign"
+    },
+    {
+      "id": "us-news/live/2026/jun/05/us-politics-latest-news-updates-donald-trump-republicans-democrats",
+      "headline": "Senate Republicans pass bill authorizing $70bn for immigration enforcement in vote-a-rama – US politics live",
+      "summary": "Senate Republicans pass $70bn immigration enforcement bill in vote-a-rama session.",
+      "url": "https://www.theguardian.com/p/x57pnn",
+      "thumbnail": "https://media.guim.co.uk/e7f55ce3e454a9f9dc7b76e796e4709df1c06473/333_0_3333_2667/500.jpg",
+      "published": "2026-06-05T11:28:48Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "uk-news/2026/jun/05/digested-week-hen-party-rocky-horror-show-ruffles-feathers",
+      "headline": "Digested week: a hen party at the Rocky Horror Show ruffles a few feathers ",
+      "summary": "Hen party at Rocky Horror Show Broadway revival sparks discussion on audience culture.",
+      "url": "https://www.theguardian.com/p/x57pnx",
+      "thumbnail": "https://media.guim.co.uk/342addd4204742822f8f059f61d0d9bdfb23ce49/424_0_3783_3026/500.jpg",
+      "published": "2026-06-05T11:15:29Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "stage"
+    },
+    {
+      "id": "artanddesign/2026/jun/05/mind-melting-mc-escher-mesmerising-marilyn-and-the-greatness-of-glasgow-the-week-in-art",
+      "headline": "Mind-melting MC Escher, mesmerising Marilyn and the greatness of Glasgow – the week in art",
+      "summary": "Major art exhibitions feature MC Escher retrospective and Pan-African artists at UK venues.",
+      "url": "https://www.theguardian.com/p/x57gd3",
+      "thumbnail": "https://media.guim.co.uk/368727a2583e8b8085e034d6d05e701ec09308f8/713_703_2693_2154/500.jpg",
+      "published": "2026-06-05T11:11:48Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "artanddesign"
+    },
+    {
+      "id": "football/2026/jun/05/england-world-cup-countdown-new-zealand-friendly-tampa-heat",
+      "headline": "England’s heatseekers begin World Cup countdown with Tampa test",
+      "summary": "England prepares for World Cup 2026 with friendly match against New Zealand in heat.",
+      "url": "https://www.theguardian.com/p/x57pge",
+      "thumbnail": "https://media.guim.co.uk/9de0147c3101a2b470786919a0bd1900815097fe/274_0_3892_3113/500.jpg",
+      "published": "2026-06-05T11:07:32Z",
+      "location": {
+        "name": "Tampa",
+        "lat": 27.9506,
+        "lng": -82.4572
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/jun/05/first-thing-bondi-distances-herself-from-botched-release-of-epstein-files",
+      "headline": "First Thing: Bondi distances herself from ‘botched’ release of Epstein files",
+      "summary": "Former attorney general Pam Bondi distances herself from botched Epstein files release.",
+      "url": "https://www.theguardian.com/p/x57ycd",
+      "thumbnail": "https://media.guim.co.uk/39b31f19dbe05cbb9a228aa104ec6ad4606e9937/321_34_1011_810/500.jpg",
+      "published": "2026-06-05T11:03:56Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/jun/05/sergino-dest-wing-back-tactics-usmnt",
+      "headline": "Breaking lines and breaking through: Sergiño Dest is showing his full range for the USMNT",
+      "summary": "USMNT wing-back Sergiño Dest impresses with advanced positioning ahead of World Cup.",
+      "url": "https://www.theguardian.com/p/x57hxz",
+      "thumbnail": "https://media.guim.co.uk/add0772b3a98e866e2dd3317c1b5e7ca1d0a1a64/348_0_3464_2773/500.jpg",
+      "published": "2026-06-05T11:00:34Z",
+      "location": {
+        "name": "United States",
+        "lat": 37.0902,
+        "lng": -95.7129
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/jun/05/graham-potter-sweden-head-coach-world-cup-2026",
+      "headline": "Graham Potter: ‘I feel very Swedish when I’m working – I look a bit Swedish’",
+      "summary": "Graham Potter reflects on Chelsea failures while preparing Sweden for World Cup 2026.",
+      "url": "https://www.theguardian.com/p/x57yep",
+      "thumbnail": "https://media.guim.co.uk/f929c2bcfe9d26f5132daf7378cb426fbcaf5dc5/934_0_5000_4000/500.jpg",
+      "published": "2026-06-05T11:00:34Z",
+      "location": {
+        "name": "Sweden",
+        "lat": 60.1282,
+        "lng": 18.6435
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/jun/05/professor-suspended-assignment-mentions-palestinians",
+      "headline": "‘We call it the P-word’: Chicago professor suspended after assignment mentions Palestinians",
+      "summary": "Art therapy professor suspended after assignment mentioning Palestinians sparks controversy.",
+      "url": "https://www.theguardian.com/p/x57me5",
+      "thumbnail": "https://media.guim.co.uk/1b4ecd60729862875972281c1dff9fa868982e07/89_0_2678_2142/500.jpg",
+      "published": "2026-06-05T11:00:34Z",
+      "location": {
+        "name": "Chicago",
+        "lat": 41.8781,
+        "lng": -87.6298
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/jun/05/mamdani-new-york-city-consumer-watchdog",
+      "headline": "Mamdani’s consumer watchdog takes on ‘epidemic of corporate lawbreaking’",
+      "summary": "NYC consumer watchdog launches aggressive campaign against junk fees and deceptive practices.",
+      "url": "https://www.theguardian.com/p/x57hg4",
+      "thumbnail": "https://media.guim.co.uk/b5ce6f09603c90271af338c62c225c0da92ab001/131_0_3332_2666/500.jpg",
+      "published": "2026-06-05T11:00:33Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/jun/05/alligator-alcatraz-detainees-denied-food-water",
+      "headline": "‘Alligator Alcatraz’ detainees say guards deny them food and clean water until they sign English documents",
+      "summary": "Florida immigration jail detainees report guards withhold food and water until signing English documents they don't understand.",
+      "url": "https://www.theguardian.com/p/x57mnx",
+      "thumbnail": "https://media.guim.co.uk/993c75e874d1649c339359ab157b5a4629538239/1325_0_6594_5279/500.jpg",
+      "published": "2026-06-05T11:00:33Z",
+      "location": {
+        "name": "Florida",
+        "lat": 27.9947,
+        "lng": -81.7608
+      },
+      "category": "health",
+      "significance": 3,
+      "section": "us-news"
     }
   ]
 }
