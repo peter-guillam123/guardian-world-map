@@ -1,28 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-05T04:42:06.619Z",
-    "story_count": 56,
-    "oldest_story": "2026-06-04T07:00:29Z",
-    "newest_story": "2026-06-05T04:30:25Z",
+    "generated_at": "2026-06-05T08:34:23.615Z",
+    "story_count": 65,
+    "oldest_story": "2026-06-04T10:19:15Z",
+    "newest_story": "2026-06-05T08:29:34Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "artanddesign/2026/jun/04/hold-this-earth-indigenous-american-artists-yorkshire-sculpture-park",
-      "headline": "‘We have a shared sky and stars’: the Indigenous American artists challenging our relationship to the natural world",
-      "summary": "Largest Native North American art exhibition ever shown in Britain opens at Yorkshire Sculpture Park.",
-      "url": "https://www.theguardian.com/p/x54pfg",
-      "thumbnail": "https://media.guim.co.uk/a0bf94e0a823bae522a76847feac73359968555a/436_243_1968_1574/500.jpg",
-      "published": "2026-06-04T07:00:29Z",
-      "location": {
-        "name": "Yorkshire",
-        "lat": 53.9582,
-        "lng": -1.4659
-      },
-      "category": "culture",
-      "significance": 3,
-      "section": "artanddesign"
-    },
     {
       "id": "sport/live/2026/jun/04/england-v-new-zealand-first-mens-cricket-test-day-one-live",
       "headline": "England v New Zealand: first men’s cricket Test, rain stops play on day one – live",
@@ -902,6 +886,166 @@
       "category": "other",
       "significance": 1,
       "section": "thefilter-us"
+    },
+    {
+      "id": "football/live/2026/jun/05/world-cup-2026-buildup-transfer-latest-and-lionesses-in-spain-football-news-live",
+      "headline": "World Cup 2026 buildup, transfer latest and Lionesses in Spain: football news – live",
+      "summary": "England's Lionesses face World Cup 2026 qualifier in Mallorca as warm-up continues.",
+      "url": "https://www.theguardian.com/p/x57m6v",
+      "thumbnail": "https://media.guim.co.uk/02d6b3718cf981dc6781d877ad7859f50a5bb76d/466_0_4048_3240/500.jpg",
+      "published": "2026-06-05T08:29:34Z",
+      "location": {
+        "name": "Mallorca",
+        "lat": 39.5696,
+        "lng": 2.7492
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "politics/live/2026/jun/05/keir-starmer-andy-burnham-labour-leadership-rivals-makerfield-byelection-latest-news-updates",
+      "headline": "No 10 says Starmer ‘will not walk away’ if Burnham officially enters Labour leadership contest - UK politics live",
+      "summary": "No 10 says Starmer 'will not walk away' if Burnham enters Labour leadership contest.",
+      "url": "https://www.theguardian.com/p/x57p8c",
+      "thumbnail": "https://media.guim.co.uk/fd05d9577df2cb090113eb68bf8ea65426f79cbe/0_0_5906_4724/500.jpg",
+      "published": "2026-06-05T08:27:54Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "business/live/2026/jun/05/jet-fuel-europe-transport-chief-us-jobs-report-uk-house-prices-stock-markets-oil-live-news-updates",
+      "headline": "No jet fuel shortage in Europe, transport chief says; UK house prices dip again – business live",
+      "summary": "No jet fuel shortage in Europe; UK house prices dip again amid economic uncertainty.",
+      "url": "https://www.theguardian.com/p/x57p3v",
+      "thumbnail": "https://media.guim.co.uk/36a8fd4b302c55364f98a017d79037ba75f6766c/353_0_4069_3256/500.jpg",
+      "published": "2026-06-05T08:26:24Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "music/2026/jun/05/zoh-amba-eyes-full-review-country-rock-matador",
+      "headline": "Zoh Amba: Eyes Full review – raw, rugged country rock also has real tenderness",
+      "summary": "Zoh Amba releases country rock album 'Eyes Full' drawing on saxophonist's Tennessee roots.",
+      "url": "https://www.theguardian.com/p/x5798z",
+      "thumbnail": "https://media.guim.co.uk/50384e7f839a158a5f782a456e3b97d45b046e80/441_389_1245_995/500.jpg",
+      "published": "2026-06-05T08:00:30Z",
+      "location": {
+        "name": "Tennessee",
+        "lat": 35.7478,
+        "lng": -86.6923
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "music"
+    },
+    {
+      "id": "global-development/2026/jun/05/ghana-african-charter-family-values-gender-women-sex-lgbtq-reproductive-rights",
+      "headline": "‘Family values’ African charter condemned by rights groups as regressive and dangerous",
+      "summary": "African charter on 'family values' condemned by rights groups as regressive and dangerous.",
+      "url": "https://www.theguardian.com/p/x5274h",
+      "thumbnail": "https://media.guim.co.uk/248822d88443b199622e6e324a2d845ce91e5439/0_0_4583_3668/500.jpg",
+      "published": "2026-06-05T08:00:29Z",
+      "location": {
+        "name": "Accra",
+        "lat": 5.6037,
+        "lng": -0.187
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "global-development"
+    },
+    {
+      "id": "artanddesign/2026/jun/05/oxygen-exhibition-julian-charriere-breathe-mona-hobart-tasmania",
+      "headline": "I just inhaled 2.4bn year old oxygen in Tasmania. Now I’m part of an exhibition until I die",
+      "summary": "Mona exhibition features 2.4bn-year-old oxygen visitors can breathe, permanently exhibited until death.",
+      "url": "https://www.theguardian.com/p/x57pvz",
+      "thumbnail": "https://media.guim.co.uk/aeec7c22723eae5fceb84f5521d53106dc803dc3/683_0_6827_5464/500.jpg",
+      "published": "2026-06-05T07:39:50Z",
+      "location": {
+        "name": "Hobart",
+        "lat": -42.8821,
+        "lng": 147.3272
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "artanddesign"
+    },
+    {
+      "id": "australia-news/2026/jun/05/woman-illegally-strip-searched-by-police-music-festival-court-case-ntwnfb",
+      "headline": "Woman illegally strip-searched by police ‘reasonably thought’ officers would call her a liar, judge says",
+      "summary": "Woman awarded $93,000 after illegal strip-search by NSW police; state seeks appeal leave.",
+      "url": "https://www.theguardian.com/p/x57z8d",
+      "thumbnail": "https://media.guim.co.uk/0129a0c6e52cb3b25027840b7ce0d40aef3686b0/118_745_1417_1134/500.jpg",
+      "published": "2026-06-05T07:33:45Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "music/2026/jun/05/ginte-preisaite-instruments-of-forgetting-and-the-singing-bone-review",
+      "headline": "Gintė Preisaitė: Instruments of Forgetting and the Singing Bone review – atmospheric, unsettling ambience",
+      "summary": "Lithuanian musician Gintė Preisaitė blends found sounds with ambient pop and modern classical.",
+      "url": "https://www.theguardian.com/p/x5793g",
+      "thumbnail": "https://media.guim.co.uk/0175ea803606564924430e4c9d939fb8f3e6ebfa/250_0_2500_2000/500.jpg",
+      "published": "2026-06-05T07:30:28Z",
+      "location": {
+        "name": "Copenhagen",
+        "lat": 55.6761,
+        "lng": 12.5683
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "music"
+    },
+    {
+      "id": "business/2026/jun/05/uk-house-prices-fall-for-third-successive-month-amid-iran-war-uncertainty",
+      "headline": "UK house prices fall for third successive month amid Iran war uncertainty",
+      "summary": "UK house prices fall third consecutive month to £298,806 amid Iran war uncertainty.",
+      "url": "https://www.theguardian.com/p/x57p6h",
+      "thumbnail": "https://media.guim.co.uk/b4091c9dd309d14d9c414723324aefdf8fa86216/316_147_3516_2813/500.jpg",
+      "published": "2026-06-05T07:27:51Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "uk-news/2026/jun/05/us-government-criticises-two-tier-uk-policing-henry-nowak",
+      "headline": "US government criticises ‘two-tier’ UK policing after Henry Nowak murder",
+      "summary": "US state department criticizes 'two-tier' UK policing after Henry Nowak murder case.",
+      "url": "https://www.theguardian.com/p/x57p48",
+      "thumbnail": "https://media.guim.co.uk/d8b814f3964af37106568405456aabcb34564915/815_712_3983_3186/500.jpg",
+      "published": "2026-06-05T07:24:51Z",
+      "location": {
+        "name": "Southampton",
+        "lat": 50.9097,
+        "lng": -1.4044
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "uk-news"
     }
   ]
 }
