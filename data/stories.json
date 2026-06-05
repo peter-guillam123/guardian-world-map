@@ -1,44 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-05T20:31:00.976Z",
-    "story_count": 84,
-    "oldest_story": "2026-06-04T21:12:09Z",
-    "newest_story": "2026-06-05T20:25:49Z",
+    "generated_at": "2026-06-05T22:04:25.033Z",
+    "story_count": 85,
+    "oldest_story": "2026-06-04T22:04:33Z",
+    "newest_story": "2026-06-05T21:24:10Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "australia-news/live/2026/jun/05/tax-changes-labor-coalition-politics-housing-prices-nsw-pharmacists-trump-tariffs-ntwnfb",
-      "headline": "Australia news live: Julian Hill claims Labor has ‘won the debate’ on housing tax changes; homelessness soars in NSW",
-      "summary": "Labor claims housing tax debate victory; NSW homelessness rises; pharmacists expand contraception access.",
-      "url": "https://www.theguardian.com/p/x57k3v",
-      "thumbnail": "https://media.guim.co.uk/136aa7b24994e6a30dc8bbc7bd212c286a6fca66/361_0_4198_3358/500.jpg",
-      "published": "2026-06-04T21:14:32Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "us-news/2026/jun/04/doj-medical-schools",
-      "headline": "DoJ investigates 15 medical schools over alleged discrimination in admissions",
-      "summary": "DoJ investigates 15 medical schools for alleged race discrimination in admissions processes.",
-      "url": "https://www.theguardian.com/p/x57mz7",
-      "thumbnail": "https://media.guim.co.uk/786a64b5c7e1a408740b158db62b2283c2679ccc/335_0_3331_2666/500.jpg",
-      "published": "2026-06-04T21:12:09Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
     {
       "id": "us-news/2026/jun/04/trump-bill-pulte-national-intelligence",
       "headline": "Trump claims Pulte will investigate ‘rigged elections’ in temporary role",
@@ -1350,6 +1318,54 @@
       "category": "sport",
       "significance": 2,
       "section": "sport"
+    },
+    {
+      "id": "football/2026/jun/05/bobby-tambling-obituary",
+      "headline": "Bobby Tambling obituary",
+      "summary": "Bobby Tambling, Chelsea's record goal scorer from the 1960s, dies aged 84.",
+      "url": "https://www.theguardian.com/p/x57kpp",
+      "thumbnail": "https://media.guim.co.uk/e2863600f10759d55c4c3c2e0070815c08469202/181_0_2597_2078/500.jpg",
+      "published": "2026-06-05T21:24:10Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/jun/05/spain-england-world-cup-qualifying-match-report",
+      "headline": "Putellas doubles up to lead Spain rout and leave England staring at playoffs",
+      "summary": "Spain crushes England 4-0 in women's World Cup qualifier, leaving England facing playoffs.",
+      "url": "https://www.theguardian.com/p/x58xay",
+      "thumbnail": "https://media.guim.co.uk/2b1fc08df5092d636d529ec88e3539d3c8b1fbc2/508_0_3956_3165/500.jpg",
+      "published": "2026-06-05T21:07:21Z",
+      "location": {
+        "name": "Palma",
+        "lat": 39.5696,
+        "lng": 2.6502
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/jun/05/murder-charge-dismissed-arkansas-father",
+      "headline": "Murder charge dismissed against Arkansas man who said he shot daughter’s alleged sexual abuser",
+      "summary": "Murder charge dismissed against Arkansas sheriff candidate who shot daughter's alleged abuser.",
+      "url": "https://www.theguardian.com/p/x58xcc",
+      "thumbnail": "https://media.guim.co.uk/988cc714c97e4a184fbfa951054ea544e2566f0e/90_0_900_720/500.jpg",
+      "published": "2026-06-05T20:57:22Z",
+      "location": {
+        "name": "Arkansas",
+        "lat": 34.9697,
+        "lng": -92.3731
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
     }
   ]
 }
