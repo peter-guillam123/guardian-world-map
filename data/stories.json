@@ -1,188 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-05T16:43:20.983Z",
-    "story_count": 91,
-    "oldest_story": "2026-06-04T16:46:20Z",
-    "newest_story": "2026-06-05T16:40:05Z",
+    "generated_at": "2026-06-05T18:31:17.410Z",
+    "story_count": 92,
+    "oldest_story": "2026-06-04T18:31:22Z",
+    "newest_story": "2026-06-05T18:23:24Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "uk-news/2026/jun/04/former-student-arrested-man-shot-crossbow-university-of-surrey",
-      "headline": "Former student arrested after man shot with crossbow at University of Surrey ",
-      "summary": "Former University of Surrey student arrested for allegedly shooting man with crossbow.",
-      "url": "https://www.theguardian.com/p/x57yqk",
-      "thumbnail": "https://media.guim.co.uk/f6a070646871c040fab6615ca1c72fa090b53856/735_0_4806_3845/500.jpg",
-      "published": "2026-06-04T17:22:26Z",
-      "location": {
-        "name": "Guildford",
-        "lat": 51.2283,
-        "lng": -0.5712
-      },
-      "category": "conflict",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "uk-news/2026/jun/04/britain-only-female-naval-commando-victims-devon-helicopter-crash",
-      "headline": "Britain’s only female naval commando among victims of Devon helicopter crash",
-      "summary": "Three Royal Navy personnel killed in helicopter crash during training exercise.",
-      "url": "https://www.theguardian.com/p/x57m45",
-      "thumbnail": "https://media.guim.co.uk/818774a1db1c3e3aaabd9dd90531369b8c1c8b1f/1_0_5905_4724/500.jpg",
-      "published": "2026-06-04T17:20:00Z",
-      "location": {
-        "name": "Devon",
-        "lat": 50.7184,
-        "lng": -3.5339
-      },
-      "category": "conflict",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "us-news/2026/jun/04/jury-awards-176m-family-boys-fatally-struck-socialite-car",
-      "headline": "Jury awards $176m to family of two boys fatally struck by LA socialite’s car",
-      "summary": "Jury awards $176m to family after two boys struck by socialite's car.",
-      "url": "https://www.theguardian.com/p/x57m2n",
-      "thumbnail": "https://media.guim.co.uk/a1161ab88f0d39b5c5892d7c174b0a21ca089348/700_0_5146_4116/500.jpg",
-      "published": "2026-06-04T17:19:24Z",
-      "location": {
-        "name": "Los Angeles",
-        "lat": 34.0522,
-        "lng": -118.2437
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/jun/04/john-bolton-pleads-guilty-classified-documents",
-      "headline": "John Bolton will reportedly plead guilty over mishandling classified documents",
-      "summary": "Former Trump adviser John Bolton to plead guilty over classified documents.",
-      "url": "https://www.theguardian.com/p/x57ytv",
-      "thumbnail": "https://media.guim.co.uk/3ffd3414b18643f75f596b068fc6722ce1e9fe9f/744_0_7455_5962/500.jpg",
-      "published": "2026-06-04T17:10:03Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/jun/04/republicans-doj-epstein-assistant-abuse-allegations",
-      "headline": "Republicans urge investigation into two men accused of abuse by Epstein assistant",
-      "summary": "Republicans urge DOJ investigation into Epstein associates accused by assistant.",
-      "url": "https://www.theguardian.com/p/x57ya3",
-      "thumbnail": "https://media.guim.co.uk/e38762dac3a380bda7aa62d9b11ba6213332c9e7/1251_287_2629_2104/500.jpg",
-      "published": "2026-06-04T17:00:52Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "music/2026/jun/04/paul-mccartney-inspiration-and-whats-been-lost-to-the-boys-of-dungeon-lane",
-      "headline": "Paul McCartney’s inspiration – and what’s been lost to the boys of Dungeon Lane",
-      "summary": "Paul McCartney reflects on Liverpool inspiration for new album.",
-      "url": "https://www.theguardian.com/p/x56phb",
-      "thumbnail": "https://media.guim.co.uk/2cedcbaac17d5166042c3b45739f09bb0eed30c5/653_0_6534_5230/500.jpg",
-      "published": "2026-06-04T16:59:41Z",
-      "location": {
-        "name": "Liverpool",
-        "lat": 53.4084,
-        "lng": -2.9916
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "music"
-    },
-    {
-      "id": "society/2026/jun/04/careers-guidance-should-be-at-the-centre-of-alan-milburn-final-neet-report",
-      "headline": "Careers guidance should be at the centre of Alan Milburn’s final Neet report ",
-      "summary": "Careers guidance should be central to Alan Milburn's report on youth unemployment.",
-      "url": "https://www.theguardian.com/p/x56pjg",
-      "thumbnail": "https://media.guim.co.uk/47a16674365358737b5b2555ba3daa5fb8cc86a4/71_0_3618_2897/500.jpg",
-      "published": "2026-06-04T16:59:20Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "society"
-    },
-    {
-      "id": "us-news/2026/jun/04/the-us-role-in-the-rise-of-communist-regimes",
-      "headline": "The US’s role in the rise of communist regimes",
-      "summary": "Letter discusses US role in rise of communist regimes in Vietnam era.",
-      "url": "https://www.theguardian.com/p/x57ybg",
-      "thumbnail": "https://media.guim.co.uk/ff206d164651ab69be2a5237a131ddf79224cd97/416_2_2378_1903/500.jpg",
-      "published": "2026-06-04T16:59:15Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 1,
-      "section": "us-news"
-    },
-    {
-      "id": "books/2026/jun/04/dina-nayeri-marjane-satrapi-brought-iranian-women-like-me-out-of-hiding",
-      "headline": "Dina Nayeri : Marjane Satrapi brought Iranian women like me out of hiding",
-      "summary": "Marjane Satrapi, Persepolis author, died; Iranian women mourn loss of eloquent voice.",
-      "url": "https://www.theguardian.com/p/x57ymx",
-      "thumbnail": "https://media.guim.co.uk/f9cd2851be192654fc60e16bada7fb584879abfe/523_0_4560_3648/500.jpg",
-      "published": "2026-06-04T16:55:55Z",
-      "location": {
-        "name": "Tehran",
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "books"
-    },
-    {
-      "id": "world/2026/jun/04/argentina-teen-girls-murdered-femicide-crisis",
-      "headline": "Outrage in Argentina after two teen girls murdered as femicide crisis endures",
-      "summary": "Argentina outraged after two teenage girls murdered amid ongoing femicide crisis.",
-      "url": "https://www.theguardian.com/p/x57yn7",
-      "thumbnail": "https://media.guim.co.uk/7320111e57e205b98ab3c84719766d77e7cbec00/1000_266_4682_3746/500.jpg",
-      "published": "2026-06-04T16:55:33Z",
-      "location": {
-        "name": "Buenos Aires",
-        "lat": -34.6037,
-        "lng": -58.3816
-      },
-      "category": "conflict",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "stage/2026/jun/04/theatre-broadway-phone-ban-london-run-liberation",
-      "headline": "Theatregoers to face phone ‘ban’ when Broadway’s Liberation comes to London",
-      "summary": "Broadway's Liberation coming to London with phone ban policy for audiences.",
-      "url": "https://www.theguardian.com/p/x57ye2",
-      "thumbnail": "https://media.guim.co.uk/5c4ac3ca7488605e5c5fcfbdde338ba9e9b50c54/249_0_4457_3566/500.jpg",
-      "published": "2026-06-04T16:46:20Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "stage"
-    },
     {
       "id": "sport/2026/jun/04/robinson-three-wicket-over-england-new-zealand-skittle-hosts",
       "headline": "Robinson’s three-wicket-over revives England after New Zealand skittle hosts",
@@ -1462,6 +1286,198 @@
       "category": "culture",
       "significance": 1,
       "section": "books"
+    },
+    {
+      "id": "us-news/2026/jun/05/doj-trump-white-house-ballroom",
+      "headline": "No court has authority to block Trump’s White House ballroom, DoJ lawyer says",
+      "summary": "Trump administration seeks court approval for $400m White House ballroom construction project.",
+      "url": "https://www.theguardian.com/p/x58vde",
+      "thumbnail": "https://media.guim.co.uk/a12f130efd3aba9158fe4850d4a6987b3df59fdc/700_0_6756_5407/500.jpg",
+      "published": "2026-06-05T18:23:24Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "uk-news/2026/jun/05/two-men-convicted-of-wounding-journalist-on-orders-of-iran",
+      "headline": "Two men convicted of wounding journalist ‘on orders of Iran’",
+      "summary": "Two convicted of stabbing Iran International journalist in targeted attack allegedly ordered by Tehran.",
+      "url": "https://www.theguardian.com/p/x58vty",
+      "thumbnail": "https://media.guim.co.uk/00aa4e37059affab3044bb863ef691ff9c5f5db0/140_0_7703_6166/500.jpg",
+      "published": "2026-06-05T18:21:54Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "uk-news"
+    },
+    {
+      "id": "football/live/2026/jun/05/spain-v-england-womens-world-cup-2027-qualifying-live",
+      "headline": "Spain v England: Women’s World Cup 2027 qualifying – live",
+      "summary": "England women's football team face Spain in crucial Women's World Cup 2027 qualifier.",
+      "url": "https://www.theguardian.com/p/x57mcv",
+      "thumbnail": "https://media.guim.co.uk/4825a88d29beaaa52deae360fcfd8af84e50ae63/535_0_5352_4281/500.jpg",
+      "published": "2026-06-05T18:21:21Z",
+      "location": {
+        "name": "Mallorca",
+        "lat": 39.5696,
+        "lng": 2.7506
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "sport/2026/jun/05/emilio-gay-england-new-zealand-test-cricket",
+      "headline": "Emilio Gay rides his luck but passes his test of temperament for England",
+      "summary": "Emilio Gay scores half-century on England cricket Test debut against New Zealand.",
+      "url": "https://www.theguardian.com/p/x57qea",
+      "thumbnail": "https://media.guim.co.uk/a4d1f1d2985413da6a6b4bc51892159bc3ab6dce/459_0_4593_3675/500.jpg",
+      "published": "2026-06-05T18:17:34Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "sport/2026/jun/05/england-new-zealand-first-test-gay-wilkinson",
+      "headline": "England grab initiative with late wickets after Gay half-century proves pivotal",
+      "summary": "England seizes initiative in first Test vs New Zealand with late wickets on day two.",
+      "url": "https://www.theguardian.com/p/x57qe4",
+      "thumbnail": "https://media.guim.co.uk/efc701a8053199aa2766a83ac7c8027957ea8a8c/540_0_4130_3305/500.jpg",
+      "published": "2026-06-05T18:17:12Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "politics/2026/jun/05/labour-deputy-says-farage-is-a-threat-to-democracy-and-calls-for-misinformation-clampdown",
+      "headline": "Labour deputy says Farage is a threat to democracy and calls for misinformation clampdown ",
+      "summary": "Labour deputy Lucy Powell calls Nigel Farage a democracy threat, urges misinformation crackdown.",
+      "url": "https://www.theguardian.com/p/x57qm7",
+      "thumbnail": "https://media.guim.co.uk/d650c66c25ee6120e685f7f4d658e4fcf1590548/76_42_2763_2210/500.jpg",
+      "published": "2026-06-05T18:13:37Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "politics/2026/jun/05/keir-starmer-questions-henry-nowak-case-two-tier-policing-claim",
+      "headline": "JD Vance blames Henry Nowak’s murder on ‘mass invasion of migrants’",
+      "summary": "JD Vance blames migrant 'invasion' for UK teenager's murder amid policing row with Starmer.",
+      "url": "https://www.theguardian.com/p/x58v7m",
+      "thumbnail": "https://media.guim.co.uk/f26fd4993cb0d19643bd5ca5d29a9fe1676015b0/1417_407_3412_2730/500.jpg",
+      "published": "2026-06-05T18:12:56Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "politics"
+    },
+    {
+      "id": "music/2026/jun/05/st-vincent-concert-review-boston-pops-orchestra",
+      "headline": "St Vincent review – majestic orchestral transformations of jagged art-pop",
+      "summary": "St Vincent performs orchestral rearrangements of her catalog with Boston Pops.",
+      "url": "https://www.theguardian.com/p/x58vyf",
+      "thumbnail": "https://media.guim.co.uk/3cf9b4c7971670362ada19dbf0f41de3d51df75c/595_0_4475_3581/500.jpg",
+      "published": "2026-06-05T18:10:45Z",
+      "location": {
+        "name": "Boston",
+        "lat": 42.3601,
+        "lng": -71.0589
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "music"
+    },
+    {
+      "id": "media/2026/jun/05/former-channel-4-news-anchor-jon-snow-diagnosed-with-alzheimers",
+      "headline": "Former Channel 4 News anchor Jon Snow diagnosed with Alzheimer’s",
+      "summary": "Former Channel 4 News anchor Jon Snow diagnosed with Alzheimer's disease.",
+      "url": "https://www.theguardian.com/p/x58vhp",
+      "thumbnail": "https://media.guim.co.uk/9208b84627c9cd35fc6e9c8cf75252c8a978de50/311_28_2882_2306/500.jpg",
+      "published": "2026-06-05T17:57:28Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "media"
+    },
+    {
+      "id": "world/2026/jun/05/chagossians-urge-uk-to-complete-islands-handover-to-mauritius",
+      "headline": "Chagossians urge UK to complete islands’ handover to Mauritius",
+      "summary": "Chagossian delegation urges UK to complete Chagos Islands handover to Mauritius.",
+      "url": "https://www.theguardian.com/p/x58vc5",
+      "thumbnail": "https://media.guim.co.uk/7e4ab02003a3aca6ef5145fac3c70369bef86421/51_139_1332_1065/500.jpg",
+      "published": "2026-06-05T17:56:54Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "politics/2026/jun/05/jeremy-hanley-obituary",
+      "headline": "Jeremy Hanley obituary",
+      "summary": "Jeremy Hanley, Conservative party chair under John Major, dies aged 80.",
+      "url": "https://www.theguardian.com/p/x58vce",
+      "thumbnail": "https://media.guim.co.uk/2de68b1cf0ddb72c4522fe39bbc8819428820fbd/150_127_5992_4795/500.jpg",
+      "published": "2026-06-05T17:26:06Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 1,
+      "section": "politics"
+    },
+    {
+      "id": "uk-news/2026/jun/05/calls-for-public-inquiry-all-royal-finances-andrew-subletting-royal-lodge-properties",
+      "headline": "Calls for inquiry into all royal finances after Andrew subletting revelations",
+      "summary": "Campaigners call public inquiry into royal finances after Prince Andrew subletting revelations.",
+      "url": "https://www.theguardian.com/p/x58v2z",
+      "thumbnail": "https://media.guim.co.uk/15a733dfae474ab9200d0b5fd884cbd8a81c708a/75_0_2330_1864/500.jpg",
+      "published": "2026-06-05T17:22:26Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "uk-news"
     }
   ]
 }
