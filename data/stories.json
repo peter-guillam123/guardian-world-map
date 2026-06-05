@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-06-04T23:59:10.136Z",
-    "story_count": 48,
+    "generated_at": "2026-06-05T04:42:06.619Z",
+    "story_count": 56,
     "oldest_story": "2026-06-04T07:00:29Z",
-    "newest_story": "2026-06-04T23:01:18Z",
+    "newest_story": "2026-06-05T04:30:25Z",
     "window_hours": 24
   },
   "stories": [
@@ -774,6 +774,134 @@
       "category": "health",
       "significance": 2,
       "section": "society"
+    },
+    {
+      "id": "environment/2026/jun/05/country-diary-the-queen-of-trees-is-holding-a-secret",
+      "headline": "Country diary: The ‘queen of trees’ is holding a secret",
+      "summary": "Nature observer encounters wildlife while admiring beech trees in Devon forest.",
+      "url": "https://www.theguardian.com/p/x548nd",
+      "thumbnail": "https://media.guim.co.uk/960ef18a2ab80e3d7fa851efe3ccb2a098dc1c4f/150_11_1556_1245/500.jpg",
+      "published": "2026-06-05T04:30:25Z",
+      "location": {
+        "name": "Eggesford Forest, Devon",
+        "lat": 50.85,
+        "lng": -3.75
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "environment"
+    },
+    {
+      "id": "uk-news/2026/jun/05/andrew-sublet-three-cottages-while-paying-peppercorn-rent-to-crown-estate",
+      "headline": "Andrew sublet three cottages while paying ‘peppercorn rent’ to crown estate",
+      "summary": "Report reveals Prince Andrew sublet cottages while paying minimal rent to Crown Estate.",
+      "url": "https://www.theguardian.com/p/x57k48",
+      "thumbnail": "https://media.guim.co.uk/5dea5abb715c159fc4630930a0a05c6aeb3604f7/102_0_1208_966/500.jpg",
+      "published": "2026-06-05T04:01:24Z",
+      "location": {
+        "name": "Windsor, England",
+        "lat": 51.4769,
+        "lng": -0.6062
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "world/2026/jun/05/eu-summit-montenegro-western-balkan-countries-membership-enlargement",
+      "headline": "EU summit with western Balkan leaders to reaffirm membership prospects",
+      "summary": "EU leaders gather in Montenegro to discuss Western Balkan integration prospects.",
+      "url": "https://www.theguardian.com/p/x57ytm",
+      "thumbnail": "https://media.guim.co.uk/d898b9380d28578b67ff1e15e5fddd5e1cee7e2b/1493_1349_3938_3150/500.jpg",
+      "published": "2026-06-05T04:00:27Z",
+      "location": {
+        "name": "Podgorica, Montenegro",
+        "lat": 42.4304,
+        "lng": 19.2594
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "music/2026/jun/05/i-knew-it-was-over-for-us-the-bands-who-got-left-behind-when-punk-exploded",
+      "headline": "‘I knew it was over for us’: the bands who got left behind when punk exploded",
+      "summary": "Feature explores bands overshadowed by punk explosion 50 years after Sex Pistols' Manchester debut.",
+      "url": "https://www.theguardian.com/p/x57fz7",
+      "thumbnail": "https://media.guim.co.uk/8e41b075fd7979b593da1df1a310638cf9340495/0_0_3066_2453/500.jpg",
+      "published": "2026-06-05T04:00:27Z",
+      "location": {
+        "name": "Manchester, England",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "music"
+    },
+    {
+      "id": "world/2026/jun/05/divine-intervention-pope-leo-spain-tour-pedro-sanchez-boost",
+      "headline": "Divine intervention: why Pope Leo visit could be a godsend for Pedro Sánchez",
+      "summary": "Pope Leo's Madrid visit could boost PM Sánchez amid corruption allegations and migration focus.",
+      "url": "https://www.theguardian.com/p/x574v2",
+      "thumbnail": "https://media.guim.co.uk/cfceefecb53c432065eaea78963ba1e89cff8580/921_0_4128_3302/500.jpg",
+      "published": "2026-06-05T04:00:27Z",
+      "location": {
+        "name": "Madrid, Spain",
+        "lat": 40.4168,
+        "lng": -3.7038
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "uk-news/2026/jun/05/melanie-hall-family-fresh-appeal-information-30-years-bath-murder",
+      "headline": "Melanie Hall’s family launch fresh appeal for information 30 years after her murder in Bath",
+      "summary": "Family of Melanie Hall launches fresh appeal 30 years after her murder at Bath nightclub.",
+      "url": "https://www.theguardian.com/p/x57kvf",
+      "thumbnail": "https://media.guim.co.uk/be2a68983cec34627bc3737800a98605bfe70b07/0_71_1127_901/500.jpg",
+      "published": "2026-06-05T04:00:26Z",
+      "location": {
+        "name": "Bath, England",
+        "lat": 51.3788,
+        "lng": -2.3613
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "lifeandstyle/2026/jun/05/experience-sat-under-oak-tree-every-day-year-cured-burnout",
+      "headline": "Experience: I sat under an oak tree every day for a year",
+      "summary": "Person finds mental health recovery by sitting under oak tree daily for a year.",
+      "url": "https://www.theguardian.com/p/x5vc8q",
+      "thumbnail": "https://media.guim.co.uk/4c0124d0cd9f2219717cc6deba9e5c1c72d8dac6/523_0_5258_4205/500.jpg",
+      "published": "2026-06-05T04:00:25Z",
+      "location": {
+        "name": "Clevedon, England",
+        "lat": 51.4394,
+        "lng": -2.8132
+      },
+      "category": "health",
+      "significance": 1,
+      "section": "lifeandstyle"
+    },
+    {
+      "id": "thefilter-us/2026/jun/05/best-dog-harness",
+      "headline": "The best dog harnesses in the US: six pup-tested favorites for walks, car rides, and adventures",
+      "summary": "Review of top-rated dog harnesses for walks and outdoor adventures in the US.",
+      "url": "https://www.theguardian.com/p/x57akn",
+      "thumbnail": "https://media.guim.co.uk/4a7efa64213ae171f5b6fc6c78e9135cb6d29b69/0_0_3000_2400/500.jpg",
+      "published": "2026-06-05T04:00:24Z",
+      "location": {
+        "name": "Washington DC, USA",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "other",
+      "significance": 1,
+      "section": "thefilter-us"
     }
   ]
 }
