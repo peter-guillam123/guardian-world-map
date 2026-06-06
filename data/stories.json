@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-06-06T21:35:28.548Z",
-    "story_count": 66,
-    "oldest_story": "2026-06-05T22:27:56Z",
-    "newest_story": "2026-06-06T21:07:01Z",
+    "generated_at": "2026-06-06T22:42:30.770Z",
+    "story_count": 69,
+    "oldest_story": "2026-06-05T22:43:55Z",
+    "newest_story": "2026-06-06T22:41:08Z",
     "window_hours": 24
   },
   "stories": [
@@ -54,22 +54,6 @@
       "category": "sport",
       "significance": 3,
       "section": "football"
-    },
-    {
-      "id": "us-news/2026/jun/05/texas-stabbing-high-school",
-      "headline": "Texas murder trial under way with 19-year-old accused of stabbing fellow high schooler",
-      "summary": "Murder trial underway for 19-year-old accused of fatally stabbing high school student.",
-      "url": "https://www.theguardian.com/p/x58xyh",
-      "thumbnail": "https://media.guim.co.uk/cc4cc246ea207ed40621f9d547a55de37327fcf5/398_0_4018_3215/500.jpg",
-      "published": "2026-06-05T22:27:56Z",
-      "location": {
-        "name": "Texas",
-        "lat": 31.9686,
-        "lng": -99.9018
-      },
-      "category": "conflict",
-      "significance": 2,
-      "section": "us-news"
     },
     {
       "id": "us-news/2026/jun/06/trump-news-latest-updates-today",
@@ -1058,6 +1042,70 @@
         "name": "Chicago",
         "lat": 41.8781,
         "lng": -87.6298
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "australia-news/live/2026/jun/07/tony-abbott-liberal-party-strategist-anthony-albanese-labor-angus-taylor-coalition-one-nation-ntwnfb",
+      "headline": "Australia news live: Tony Abbott praises Liberal party’s new top strategist as party tries to rebuild campaign machine",
+      "summary": "Liberal party appoints new strategist as Tony Abbott takes role of federal president.",
+      "url": "https://www.theguardian.com/p/x58745",
+      "thumbnail": "https://media.guim.co.uk/e6af966d0d162ab9052d8cfc9cdc031f62d0ad79/365_0_6078_4863/500.jpg",
+      "published": "2026-06-06T22:41:08Z",
+      "location": {
+        "name": "Australia",
+        "lat": -25.2744,
+        "lng": 133.7751
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "football/2026/jun/06/iran-world-cup-visas-mexico",
+      "headline": "Iran World Cup team travels to Mexico with US visas reportedly denied for several staff",
+      "summary": "Iran World Cup team travels to Mexico amid US visa denial disputes for staff members.",
+      "url": "https://www.theguardian.com/p/x5874m",
+      "thumbnail": "https://media.guim.co.uk/0bf721cbf9b4ad9fcea715d550cf3aae08ea506d/0_0_7200_5760/500.jpg",
+      "published": "2026-06-06T22:38:36Z",
+      "location": {
+        "name": "Mexico City",
+        "lat": 19.4326,
+        "lng": -99.1332
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/jun/06/scotland-bolivia-world-cup-warm-up-match-report",
+      "headline": "Adams at the double as Scotland thrash Bolivia in perfect World Cup warm-up",
+      "summary": "Scotland defeats Bolivia 4-0 in World Cup warm-up match with goals from Adams and McTominay.",
+      "url": "https://www.theguardian.com/p/x58xc5",
+      "thumbnail": "https://media.guim.co.uk/1831354f8eb8c3e23ede0364d52cf7894c8a5965/284_0_2739_2192/500.jpg",
+      "published": "2026-06-06T22:14:15Z",
+      "location": {
+        "name": "Scotland",
+        "lat": 56.4907,
+        "lng": -3.4746
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/jun/06/england-new-zealand-world-cup-warm-up-match-report",
+      "headline": "Kane heads England to narrow World Cup warm-up win against New Zealand",
+      "summary": "England beats New Zealand 1-0 in World Cup warm-up friendly with Kane's early goal.",
+      "url": "https://www.theguardian.com/p/x58vq7",
+      "thumbnail": "https://media.guim.co.uk/82991cf3f5c6429751357bac98fd478076ffb7af/274_0_3358_2687/500.jpg",
+      "published": "2026-06-06T22:10:07Z",
+      "location": {
+        "name": "England",
+        "lat": 52.3555,
+        "lng": -1.1743
       },
       "category": "sport",
       "significance": 2,
