@@ -1,140 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-06T01:32:31.293Z",
-    "story_count": 86,
-    "oldest_story": "2026-06-05T04:00:24Z",
-    "newest_story": "2026-06-06T01:09:32Z",
+    "generated_at": "2026-06-06T05:37:46.893Z",
+    "story_count": 81,
+    "oldest_story": "2026-06-05T07:24:51Z",
+    "newest_story": "2026-06-06T05:00:03Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "environment/2026/jun/05/country-diary-the-queen-of-trees-is-holding-a-secret",
-      "headline": "Country diary: The ‘queen of trees’ is holding a secret",
-      "summary": "Nature observer encounters wildlife while admiring beech trees in Devon forest.",
-      "url": "https://www.theguardian.com/p/x548nd",
-      "thumbnail": "https://media.guim.co.uk/960ef18a2ab80e3d7fa851efe3ccb2a098dc1c4f/150_11_1556_1245/500.jpg",
-      "published": "2026-06-05T04:30:25Z",
-      "location": {
-        "name": "Eggesford Forest, Devon",
-        "lat": 50.85,
-        "lng": -3.75
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "environment"
-    },
-    {
-      "id": "uk-news/2026/jun/05/andrew-sublet-three-cottages-while-paying-peppercorn-rent-to-crown-estate",
-      "headline": "Andrew sublet three cottages while paying ‘peppercorn rent’ to crown estate",
-      "summary": "Report reveals Prince Andrew sublet cottages while paying minimal rent to Crown Estate.",
-      "url": "https://www.theguardian.com/p/x57k48",
-      "thumbnail": "https://media.guim.co.uk/5dea5abb715c159fc4630930a0a05c6aeb3604f7/102_0_1208_966/500.jpg",
-      "published": "2026-06-05T04:01:24Z",
-      "location": {
-        "name": "Windsor, England",
-        "lat": 51.4769,
-        "lng": -0.6062
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "world/2026/jun/05/eu-summit-montenegro-western-balkan-countries-membership-enlargement",
-      "headline": "EU summit with western Balkan leaders to reaffirm membership prospects",
-      "summary": "EU leaders gather in Montenegro to discuss Western Balkan integration prospects.",
-      "url": "https://www.theguardian.com/p/x57ytm",
-      "thumbnail": "https://media.guim.co.uk/d898b9380d28578b67ff1e15e5fddd5e1cee7e2b/1493_1349_3938_3150/500.jpg",
-      "published": "2026-06-05T04:00:27Z",
-      "location": {
-        "name": "Podgorica, Montenegro",
-        "lat": 42.4304,
-        "lng": 19.2594
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "music/2026/jun/05/i-knew-it-was-over-for-us-the-bands-who-got-left-behind-when-punk-exploded",
-      "headline": "‘I knew it was over for us’: the bands who got left behind when punk exploded",
-      "summary": "Feature explores bands overshadowed by punk explosion 50 years after Sex Pistols' Manchester debut.",
-      "url": "https://www.theguardian.com/p/x57fz7",
-      "thumbnail": "https://media.guim.co.uk/8e41b075fd7979b593da1df1a310638cf9340495/0_0_3066_2453/500.jpg",
-      "published": "2026-06-05T04:00:27Z",
-      "location": {
-        "name": "Manchester, England",
-        "lat": 53.4808,
-        "lng": -2.2426
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "music"
-    },
-    {
-      "id": "world/2026/jun/05/divine-intervention-pope-leo-spain-tour-pedro-sanchez-boost",
-      "headline": "Divine intervention: why Pope Leo visit could be a godsend for Pedro Sánchez",
-      "summary": "Pope Leo's Madrid visit could boost PM Sánchez amid corruption allegations and migration focus.",
-      "url": "https://www.theguardian.com/p/x574v2",
-      "thumbnail": "https://media.guim.co.uk/cfceefecb53c432065eaea78963ba1e89cff8580/921_0_4128_3302/500.jpg",
-      "published": "2026-06-05T04:00:27Z",
-      "location": {
-        "name": "Madrid, Spain",
-        "lat": 40.4168,
-        "lng": -3.7038
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "uk-news/2026/jun/05/melanie-hall-family-fresh-appeal-information-30-years-bath-murder",
-      "headline": "Melanie Hall’s family launch fresh appeal for information 30 years after her murder in Bath",
-      "summary": "Family of Melanie Hall launches fresh appeal 30 years after her murder at Bath nightclub.",
-      "url": "https://www.theguardian.com/p/x57kvf",
-      "thumbnail": "https://media.guim.co.uk/be2a68983cec34627bc3737800a98605bfe70b07/0_71_1127_901/500.jpg",
-      "published": "2026-06-05T04:00:26Z",
-      "location": {
-        "name": "Bath, England",
-        "lat": 51.3788,
-        "lng": -2.3613
-      },
-      "category": "conflict",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "lifeandstyle/2026/jun/05/experience-sat-under-oak-tree-every-day-year-cured-burnout",
-      "headline": "Experience: I sat under an oak tree every day for a year",
-      "summary": "Person finds mental health recovery by sitting under oak tree daily for a year.",
-      "url": "https://www.theguardian.com/p/x5vc8q",
-      "thumbnail": "https://media.guim.co.uk/4c0124d0cd9f2219717cc6deba9e5c1c72d8dac6/523_0_5258_4205/500.jpg",
-      "published": "2026-06-05T04:00:25Z",
-      "location": {
-        "name": "Clevedon, England",
-        "lat": 51.4394,
-        "lng": -2.8132
-      },
-      "category": "health",
-      "significance": 1,
-      "section": "lifeandstyle"
-    },
-    {
-      "id": "thefilter-us/2026/jun/05/best-dog-harness",
-      "headline": "The best dog harnesses in the US: six pup-tested favorites for walks, car rides, and adventures",
-      "summary": "Review of top-rated dog harnesses for walks and outdoor adventures in the US.",
-      "url": "https://www.theguardian.com/p/x57akn",
-      "thumbnail": "https://media.guim.co.uk/4a7efa64213ae171f5b6fc6c78e9135cb6d29b69/0_0_3000_2400/500.jpg",
-      "published": "2026-06-05T04:00:24Z",
-      "location": {
-        "name": "Washington DC, USA",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "other",
-      "significance": 1,
-      "section": "thefilter-us"
-    },
     {
       "id": "football/live/2026/jun/05/world-cup-2026-buildup-transfer-latest-and-lionesses-in-spain-football-news-live",
       "headline": "World Cup 2026 buildup, transfer latest and Lionesses in Spain: football news – live",
@@ -1382,6 +1254,54 @@
       "category": "politics",
       "significance": 2,
       "section": "us-news"
+    },
+    {
+      "id": "science/2026/jun/06/new-weapons-war-on-cancer-asco-conference-takeaways",
+      "headline": "Removing ‘invisibility cloaks’ and safely skipping chemo: new weapons in war on cancer shared at US conference",
+      "summary": "Asco cancer conference unveils new treatments including drug to defeat cancer cell invisibility cloaks.",
+      "url": "https://www.theguardian.com/p/x57pbj",
+      "thumbnail": "https://media.guim.co.uk/a9e4f47038b6afc50cf8d17eb0859344e03935d3/551_0_5000_4000/500.jpg",
+      "published": "2026-06-06T05:00:03Z",
+      "location": {
+        "name": "Chicago",
+        "lat": 41.8781,
+        "lng": -87.6298
+      },
+      "category": "health",
+      "significance": 3,
+      "section": "science"
+    },
+    {
+      "id": "lifeandstyle/2026/jun/06/tim-dowling-ebiking-holiday-romania",
+      "headline": "Tim Dowling: I’m on an ebiking holiday in Romania. There will be blood",
+      "summary": "Tim Dowling recounts ebiking holiday mishaps in Romania including bears, roots, and wife's tumble.",
+      "url": "https://www.theguardian.com/p/x55p5y",
+      "thumbnail": "https://media.guim.co.uk/153882d9ad3243cf30401440a9d3b47a6f6838cf/0_0_5000_4000/500.jpg",
+      "published": "2026-06-06T05:00:01Z",
+      "location": {
+        "name": "Romania",
+        "lat": 45.9432,
+        "lng": 24.9668
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "lifeandstyle"
+    },
+    {
+      "id": "commentisfree/2026/jun/06/leaked-whatsapps-emails-british-politics-privacy-mandelson-papers",
+      "headline": "Leaked WhatsApps, embarrassing emails: it’s bad for British politics that privacy is now dead",
+      "summary": "Released Mandelson papers reveal leaked WhatsApps and emails raising privacy concerns in UK politics.",
+      "url": "https://www.theguardian.com/p/x57yk3",
+      "thumbnail": "https://media.guim.co.uk/a666381f5940f7e3d9e9c79c9984e2894267fb7e/797_0_5000_4000/500.jpg",
+      "published": "2026-06-06T05:00:00Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "commentisfree"
     }
   ]
 }
