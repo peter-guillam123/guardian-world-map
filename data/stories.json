@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-06-06T19:02:56.711Z",
-    "story_count": 63,
-    "oldest_story": "2026-06-05T19:45:46Z",
-    "newest_story": "2026-06-06T19:01:24Z",
+    "generated_at": "2026-06-06T20:20:18.606Z",
+    "story_count": 67,
+    "oldest_story": "2026-06-05T20:25:49Z",
+    "newest_story": "2026-06-06T20:00:15Z",
     "window_hours": 24
   },
   "stories": [
@@ -22,38 +22,6 @@
       "category": "culture",
       "significance": 2,
       "section": "uk-news"
-    },
-    {
-      "id": "business/2026/jun/05/us-jobs-market-unemployment",
-      "headline": "US added 172,000 jobs in May as labor market shows signs of resilience",
-      "summary": "US adds 172,000 jobs in May; unemployment steady at 4.3% despite inflation and Middle East conflict.",
-      "url": "https://www.theguardian.com/p/x57gam",
-      "thumbnail": "https://media.guim.co.uk/7d96c1c1a3ffef261acae4683cbc6927244ceec4/830_0_5001_4000/500.jpg",
-      "published": "2026-06-05T20:10:11Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "business"
-    },
-    {
-      "id": "sport/2026/jun/05/emilio-gay-england-new-zealand-test",
-      "headline": "Emilio Gay describes Test debut half-century as ‘like a dream’ after putting England on top",
-      "summary": "Emilio Gay scores 57 on England Test debut at Lord's, putting hosts in driving seat against New Zealand.",
-      "url": "https://www.theguardian.com/p/x57qed",
-      "thumbnail": "https://media.guim.co.uk/e2993cb5206cfbdbe9a7660de9533852d4db5b6d/649_0_5000_4000/500.jpg",
-      "published": "2026-06-05T19:45:46Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
     },
     {
       "id": "football/2026/jun/05/bobby-tambling-obituary",
@@ -1014,6 +982,102 @@
       "category": "politics",
       "significance": 2,
       "section": "us-news"
+    },
+    {
+      "id": "culture/2026/jun/07/liz-hicklin-92-year-old-oldest-standup-comedian-interview-life-story",
+      "headline": "At 92, Liz Hicklin embarked on a standup career: ‘I didn’t think about ageing until I was over 90’",
+      "summary": "92-year-old Liz Hicklin becomes Australia's oldest sit-down standup comedian.",
+      "url": "https://www.theguardian.com/p/x57ta5",
+      "thumbnail": "https://media.guim.co.uk/db1de985270746dc4a980c762af3e208683bd8e4/45_0_6827_5464/500.jpg",
+      "published": "2026-06-06T20:00:15Z",
+      "location": {
+        "name": "Mornington Peninsula",
+        "lat": -38.35,
+        "lng": 144.9167
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "culture"
+    },
+    {
+      "id": "australia-news/2026/jun/07/australia-flu-season-winter-illnesses-influenza-rsv-covid-cases-which-viruses-are-around-vaccination-when-should-you-get-vaccinated",
+      "headline": "Australia’s winter illness season is back – what viruses are prevalent this year and when should you get vaccinated?",
+      "summary": "Australia's winter illness season begins with lower respiratory virus cases than 2025.",
+      "url": "https://www.theguardian.com/p/x57jc8",
+      "thumbnail": "https://media.guim.co.uk/87d948cac7a72a018475040357f538897f081b52/168_0_2680_2144/500.jpg",
+      "published": "2026-06-06T20:00:14Z",
+      "location": {
+        "name": "Australia",
+        "lat": -25.2744,
+        "lng": 133.7751
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "sport/2026/jun/07/peter-vlandys-nrl-broadcast-deal-australian-tv",
+      "headline": "Peter V’landys plays kingmaker of Australian TV with NRL broadcast deal ",
+      "summary": "NRL broadcast negotiations could reshape Australian TV landscape under Peter V'landys.",
+      "url": "https://www.theguardian.com/p/x57jj8",
+      "thumbnail": "https://media.guim.co.uk/bc9a51503d8286c3047007aee1321e59589ad685/926_0_4628_3703/500.jpg",
+      "published": "2026-06-06T20:00:14Z",
+      "location": {
+        "name": "Australia",
+        "lat": -25.2744,
+        "lng": 133.7751
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "australia-news/2026/jun/07/queensland-government-accused-secret-agenda-purge-indigenous-representation-ntwnfb",
+      "headline": "‘Project invisibility’: Queensland government accused of operating secret agenda to purge Indigenous representation ",
+      "summary": "Queensland government accused of 'Project Invisibility' targeting Indigenous public sector roles.",
+      "url": "https://www.theguardian.com/p/x57j5e",
+      "thumbnail": "https://media.guim.co.uk/d05dfc0ecbbec656afa48562f7c7f5c4636042e2/643_0_6431_5145/500.jpg",
+      "published": "2026-06-06T20:00:13Z",
+      "location": {
+        "name": "Brisbane",
+        "lat": -27.4698,
+        "lng": 153.0251
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "business/2026/jun/07/personal-loans-record-highs-australia-debt-borrowing-cost-of-living",
+      "headline": "Personal loans booming as cost of living drives Australians to borrow record amounts",
+      "summary": "Personal loans reach record $5.1bn as cost of living crisis forces Australians to borrow.",
+      "url": "https://www.theguardian.com/p/x566c2",
+      "thumbnail": "https://media.guim.co.uk/2b6cd154d9662a5e2be58b595e430d791c70706a/73_0_7167_5733/500.jpg",
+      "published": "2026-06-06T20:00:13Z",
+      "location": {
+        "name": "Australia",
+        "lat": -25.2744,
+        "lng": 133.7751
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "football/2026/jun/06/zohran-mamdani-world-cup-prediction-bracketology",
+      "headline": "‘Let’s go with the heart’: Zohran Mamdani thinks this African team will win the World Cup",
+      "summary": "NYC Mayor Zohran Mamdani predicts African team will win 2026 FIFA World Cup.",
+      "url": "https://www.theguardian.com/p/x58v9p",
+      "thumbnail": "https://media.guim.co.uk/3a1420225056a63b5ca7276b074d30ecb09d40dc/574_7_1238_992/500.jpg",
+      "published": "2026-06-06T19:31:47Z",
+      "location": {
+        "name": "New York City",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "sport",
+      "significance": 1,
+      "section": "football"
     }
   ]
 }
