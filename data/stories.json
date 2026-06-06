@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-06-05T23:35:36.604Z",
-    "story_count": 85,
+    "generated_at": "2026-06-06T01:32:31.293Z",
+    "story_count": 86,
     "oldest_story": "2026-06-05T04:00:24Z",
-    "newest_story": "2026-06-05T23:30:12Z",
+    "newest_story": "2026-06-06T01:09:32Z",
     "window_hours": 24
   },
   "stories": [
@@ -1364,6 +1364,22 @@
         "lng": -99.9018
       },
       "category": "conflict",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/jun/06/trump-news-latest-updates-today",
+      "headline": "Trump news at a glance: new intelligence director given green light to fire ‘a lot of people’",
+      "summary": "Trump appoints Bill Pulte as acting DNI, plans significant intelligence office cuts.",
+      "url": "https://www.theguardian.com/p/x57qjc",
+      "thumbnail": "https://media.guim.co.uk/68773f64b8474128bb3268b15cac8410e738d32c/103_0_3333_2667/500.jpg",
+      "published": "2026-06-06T01:09:32Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
       "significance": 2,
       "section": "us-news"
     }
