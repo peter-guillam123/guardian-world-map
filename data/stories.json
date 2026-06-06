@@ -1,60 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-06T22:42:30.770Z",
+    "generated_at": "2026-06-06T23:47:22.405Z",
     "story_count": 69,
-    "oldest_story": "2026-06-05T22:43:55Z",
-    "newest_story": "2026-06-06T22:41:08Z",
+    "oldest_story": "2026-06-06T01:09:32Z",
+    "newest_story": "2026-06-06T23:23:07Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "sport/live/2026/jun/05/nba-finals-2026-game-2-new-york-knicks-san-antonio-spurs-live-score",
-      "headline": "NBA finals 2026 Game 2: New York Knicks v San Antonio Spurs – live",
-      "summary": "NBA Finals Game 2: Knicks face Spurs in San Antonio seeking 2-0 series lead.",
-      "url": "https://www.theguardian.com/p/x58x2v",
-      "thumbnail": "https://media.guim.co.uk/ef36f08453cf1fa12b6f3f97f5a6a455621fe06f/347_0_3471_2777/500.jpg",
-      "published": "2026-06-05T23:30:12Z",
-      "location": {
-        "name": "San Antonio",
-        "lat": 29.4241,
-        "lng": -98.4936
-      },
-      "category": "sport",
-      "significance": 4,
-      "section": "sport"
-    },
-    {
-      "id": "football/2026/jun/05/steve-clarke-scotland-haiti-world-cup-new-zealand",
-      "headline": "Steve Clarke warns Scotland not to underestimate Haiti after New Zealand rout",
-      "summary": "Scotland manager Clarke warns against underestimating Haiti in World Cup opener.",
-      "url": "https://www.theguardian.com/p/x58242",
-      "thumbnail": "https://media.guim.co.uk/93e8b5f9877d6435d6cf671f59516623bf03e3f3/616_93_4884_3907/500.jpg",
-      "published": "2026-06-05T23:26:50Z",
-      "location": {
-        "name": "Boston",
-        "lat": 42.3601,
-        "lng": -71.0589
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/jun/05/sarina-wiegman-lionesses-spain-womens-world-cup-qualifier",
-      "headline": "‘It hurts. I expected a different game’: Wiegman’s shock at Spain humbling",
-      "summary": "England Women suffer heavy defeat to Spain in World Cup qualifier.",
-      "url": "https://www.theguardian.com/p/x58xk6",
-      "thumbnail": "https://media.guim.co.uk/40b8601fcd796fa57cece0d17c2fd2700b8394d9/754_0_4240_3392/500.jpg",
-      "published": "2026-06-05T22:43:55Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
     {
       "id": "us-news/2026/jun/06/trump-news-latest-updates-today",
       "headline": "Trump news at a glance: new intelligence director given green light to fire ‘a lot of people’",
@@ -1106,6 +1058,54 @@
         "name": "England",
         "lat": 52.3555,
         "lng": -1.1743
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/jun/07/thomas-tuchel-criticises-englands-freestyle-approach-in-win-over-new-zealand",
+      "headline": "Thomas Tuchel criticises England’s ‘freestyle’ approach in win over New Zealand",
+      "summary": "Thomas Tuchel criticizes England's 'freestyle' play in 1-0 friendly win over New Zealand.",
+      "url": "https://www.theguardian.com/p/x58xbk",
+      "thumbnail": "https://media.guim.co.uk/cdeac47ab60b0030db864a9cbc73531563baf353/555_128_4067_3252/500.jpg",
+      "published": "2026-06-06T23:23:07Z",
+      "location": {
+        "name": "Tampa",
+        "lat": 27.9506,
+        "lng": -82.4593
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/jun/06/how-xavier-becerra-turned-campaign-california-governor",
+      "headline": "How Xavier Becerra turned around his campaign to be California’s governor",
+      "summary": "Xavier Becerra advances to California gubernatorial general election after polling surge.",
+      "url": "https://www.theguardian.com/p/x586mz",
+      "thumbnail": "https://media.guim.co.uk/10cc9bcfd3b79ac4daff3acbf304e4db38493e81/197_0_2500_2000/500.jpg",
+      "published": "2026-06-06T23:07:12Z",
+      "location": {
+        "name": "California",
+        "lat": 36.1163,
+        "lng": -119.6816
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/jun/06/england-1-0-new-zealand-five-talking-points-from-the-world-cup-warm-up",
+      "headline": "England 1-0 New Zealand: five talking points from the World Cup warm-up",
+      "summary": "England defeats New Zealand 1-0 in World Cup warm-up; Kane scores, Bellingham impresses.",
+      "url": "https://www.theguardian.com/p/x58xbg",
+      "thumbnail": "https://media.guim.co.uk/7d9513f2ef944b4661c459a1ecd3a026ef96e7bb/1703_925_3625_2900/500.jpg",
+      "published": "2026-06-06T22:53:35Z",
+      "location": {
+        "name": "Tampa",
+        "lat": 27.9506,
+        "lng": -82.4593
       },
       "category": "sport",
       "significance": 2,
