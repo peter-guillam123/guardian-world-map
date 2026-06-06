@@ -1,60 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-06T08:14:27.032Z",
-    "story_count": 76,
-    "oldest_story": "2026-06-05T08:26:24Z",
-    "newest_story": "2026-06-06T08:00:04Z",
+    "generated_at": "2026-06-06T10:25:05.147Z",
+    "story_count": 82,
+    "oldest_story": "2026-06-05T11:00:33Z",
+    "newest_story": "2026-06-06T10:24:36Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/live/2026/jun/05/world-cup-2026-buildup-transfer-latest-and-lionesses-in-spain-football-news-live",
-      "headline": "World Cup 2026 buildup, transfer latest and Lionesses in Spain: football news – live",
-      "summary": "England's Lionesses face World Cup 2026 qualifier in Mallorca as warm-up continues.",
-      "url": "https://www.theguardian.com/p/x57m6v",
-      "thumbnail": "https://media.guim.co.uk/02d6b3718cf981dc6781d877ad7859f50a5bb76d/466_0_4048_3240/500.jpg",
-      "published": "2026-06-05T08:29:34Z",
-      "location": {
-        "name": "Mallorca",
-        "lat": 39.5696,
-        "lng": 2.7492
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "politics/live/2026/jun/05/keir-starmer-andy-burnham-labour-leadership-rivals-makerfield-byelection-latest-news-updates",
-      "headline": "No 10 says Starmer ‘will not walk away’ if Burnham officially enters Labour leadership contest - UK politics live",
-      "summary": "No 10 says Starmer 'will not walk away' if Burnham enters Labour leadership contest.",
-      "url": "https://www.theguardian.com/p/x57p8c",
-      "thumbnail": "https://media.guim.co.uk/fd05d9577df2cb090113eb68bf8ea65426f79cbe/0_0_5906_4724/500.jpg",
-      "published": "2026-06-05T08:27:54Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "business/live/2026/jun/05/jet-fuel-europe-transport-chief-us-jobs-report-uk-house-prices-stock-markets-oil-live-news-updates",
-      "headline": "No jet fuel shortage in Europe, transport chief says; UK house prices dip again – business live",
-      "summary": "No jet fuel shortage in Europe; UK house prices dip again amid economic uncertainty.",
-      "url": "https://www.theguardian.com/p/x57p3v",
-      "thumbnail": "https://media.guim.co.uk/36a8fd4b302c55364f98a017d79037ba75f6766c/353_0_4069_3256/500.jpg",
-      "published": "2026-06-05T08:26:24Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
     {
       "id": "sport/live/2026/jun/05/england-v-new-zealand-first-mens-cricket-test-day-two-live",
       "headline": "England v New Zealand: first men’s cricket Test, day two – live",
@@ -1222,6 +1174,150 @@
       "category": "health",
       "significance": 2,
       "section": "australia-news"
+    },
+    {
+      "id": "world/2026/jun/06/us-says-iran-radar-sites-struck-and-drones-intercepted-in-latest-threat-to-fragile-ceasefire",
+      "headline": "Gulf countries targeted by Iran after exchange of fire with US, in latest threat to fragile ceasefire",
+      "summary": "Iran fires missiles and drones at Gulf states after US strikes Iranian radar sites.",
+      "url": "https://www.theguardian.com/p/x5825f",
+      "thumbnail": "https://media.guim.co.uk/a52eab3c01fa795b44697172b0869493323e224a/411_0_2111_1690/500.jpg",
+      "published": "2026-06-06T10:24:36Z",
+      "location": {
+        "name": "Bahrain",
+        "lat": 26.0667,
+        "lng": 50.5577
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "football/live/2026/jun/06/australia-vs-mexico-live-updates-matildas-aus-v-mex-womens-international-football-friendly",
+      "headline": "Australia v Mexico: women’s international football friendly – live",
+      "summary": "Matildas face Mexico in women's football friendly at McDonald Jones Stadium.",
+      "url": "https://www.theguardian.com/p/x57nt5",
+      "thumbnail": "https://media.guim.co.uk/823b3c31d0bdb7b66291724375b596dcfd6711ea/163_0_3662_2931/500.jpg",
+      "published": "2026-06-06T10:23:33Z",
+      "location": {
+        "name": "Newcastle",
+        "lat": -33.9173,
+        "lng": 151.7837
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/live/2026/jun/06/world-cup-2026-buildup-as-england-and-scotland-gear-up-for-friendlies-matchday-live",
+      "headline": "World Cup 2026 buildup as England and Scotland gear up for friendlies – matchday live",
+      "summary": "England and Scotland gear up for World Cup 2026 friendly matches.",
+      "url": "https://www.theguardian.com/p/x57qqb",
+      "thumbnail": "https://media.guim.co.uk/8fd9c1fe4acf861c0dea89d5178f630708ad970a/0_0_5000_4000/500.jpg",
+      "published": "2026-06-06T10:20:33Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "sport/live/2026/jun/06/england-v-new-zealand-first-mens-cricket-test-day-three-live",
+      "headline": "England v New Zealand: first men’s cricket Test, day three start delayed by rain – live",
+      "summary": "England v New Zealand cricket Test at Lord's delayed by rain on day three.",
+      "url": "https://www.theguardian.com/p/x57q3z",
+      "thumbnail": "https://media.guim.co.uk/6ee0b5f661f99112b26c57acb41b8b9206a7fbd5/165_0_4050_3240/500.jpg",
+      "published": "2026-06-06T10:11:05Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "lifeandstyle/2026/jun/06/kuanglong-zhang-best-phone-picture",
+      "headline": "‘A soccer ball can bring great joy to two little kids’: Kuanglong Zhang’s best phone picture",
+      "summary": "Photographer captures joyful scene of children with soccer ball in ancient Silk Road city.",
+      "url": "https://www.theguardian.com/p/x5385n",
+      "thumbnail": "https://media.guim.co.uk/9e368f366c91d5547084ecae68fda7c1417be31c/211_0_3123_2500/500.jpg",
+      "published": "2026-06-06T10:00:03Z",
+      "location": {
+        "name": "Kashgar",
+        "lat": 39.4668,
+        "lng": 75.9385
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "lifeandstyle"
+    },
+    {
+      "id": "business/2026/jun/06/uk-weaken-ev-rules-co2-impact-phevs",
+      "headline": "UK urged not to further weaken EV rules as CO2 impact revealed",
+      "summary": "UK urged not to weaken EV rules as analysis reveals 17m tonnes extra CO2 emissions by 2030.",
+      "url": "https://www.theguardian.com/p/x57456",
+      "thumbnail": "https://media.guim.co.uk/9f27ebb2ad616ab4b68e45d40e953499fe097a5d/401_0_5600_4480/500.jpg",
+      "published": "2026-06-06T10:00:02Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "us-news/2026/jun/06/louisiana-church-odiong-st-anthony-padua",
+      "headline": "Louisiana church remembers abuse victims after reversal over prayers for convicted priest",
+      "summary": "Louisiana church reverses prayer support for convicted priest, focuses on abuse survivors.",
+      "url": "https://www.theguardian.com/p/x58xfq",
+      "thumbnail": "https://media.guim.co.uk/68c07e30488a20147d4a7ccef1412cb563b7398b/122_0_1578_1262/500.jpg",
+      "published": "2026-06-06T10:00:01Z",
+      "location": {
+        "name": "Louisiana",
+        "lat": 31.1695,
+        "lng": -91.8749
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/jun/06/democrats-win-back-voters",
+      "headline": "Bruised Democrats weigh how to win back voters, and regain power: ‘We’ve got to fight’",
+      "summary": "Democrats strategize on winning back voters and regaining power after 2024 losses.",
+      "url": "https://www.theguardian.com/p/x57yc2",
+      "thumbnail": "https://media.guim.co.uk/1d8b713defead280176aeac83ac170599f2e666a/0_0_3000_2400/500.jpg",
+      "published": "2026-06-06T10:00:01Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/ng-interactive/2026/jun/06/his-dad-was-deported-high-school-graduation",
+      "headline": "ICE deported his dad. Now he’s graduating high school without him",
+      "summary": "Maryland teen graduates high school after father's deportation to El Salvador.",
+      "url": "https://www.theguardian.com/p/x58vzd",
+      "thumbnail": "https://media.guim.co.uk/59cadd07443261b5d777708209b68d541d9c43ac/671_0_6677_5345/500.jpg",
+      "published": "2026-06-06T10:00:01Z",
+      "location": {
+        "name": "Maryland",
+        "lat": 39.0639,
+        "lng": -76.8021
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
     }
   ]
 }
