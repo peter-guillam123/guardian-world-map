@@ -1,76 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-06T20:20:18.606Z",
-    "story_count": 67,
-    "oldest_story": "2026-06-05T20:25:49Z",
-    "newest_story": "2026-06-06T20:00:15Z",
+    "generated_at": "2026-06-06T21:35:28.548Z",
+    "story_count": 66,
+    "oldest_story": "2026-06-05T22:27:56Z",
+    "newest_story": "2026-06-06T21:07:01Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "uk-news/2026/jun/05/lady-pamela-hicks-obituary",
-      "headline": "Lady Pamela Hicks obituary",
-      "summary": "Lady Pamela Hicks, Queen Victoria's oldest surviving descendant and witness to India's partition, dies aged 97.",
-      "url": "https://www.theguardian.com/p/x58x9k",
-      "thumbnail": "https://media.guim.co.uk/07550fdd50a6794308ae45e8a1def287070d8b04/0_284_1602_1280/500.jpg",
-      "published": "2026-06-05T20:25:49Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "football/2026/jun/05/bobby-tambling-obituary",
-      "headline": "Bobby Tambling obituary",
-      "summary": "Bobby Tambling, Chelsea's record goal scorer from the 1960s, dies aged 84.",
-      "url": "https://www.theguardian.com/p/x57kpp",
-      "thumbnail": "https://media.guim.co.uk/e2863600f10759d55c4c3c2e0070815c08469202/181_0_2597_2078/500.jpg",
-      "published": "2026-06-05T21:24:10Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/jun/05/spain-england-world-cup-qualifying-match-report",
-      "headline": "Putellas doubles up to lead Spain rout and leave England staring at playoffs",
-      "summary": "Spain crushes England 4-0 in women's World Cup qualifier, leaving England facing playoffs.",
-      "url": "https://www.theguardian.com/p/x58xay",
-      "thumbnail": "https://media.guim.co.uk/2b1fc08df5092d636d529ec88e3539d3c8b1fbc2/508_0_3956_3165/500.jpg",
-      "published": "2026-06-05T21:07:21Z",
-      "location": {
-        "name": "Palma",
-        "lat": 39.5696,
-        "lng": 2.6502
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "us-news/2026/jun/05/murder-charge-dismissed-arkansas-father",
-      "headline": "Murder charge dismissed against Arkansas man who said he shot daughter’s alleged sexual abuser",
-      "summary": "Murder charge dismissed against Arkansas sheriff candidate who shot daughter's alleged abuser.",
-      "url": "https://www.theguardian.com/p/x58xcc",
-      "thumbnail": "https://media.guim.co.uk/988cc714c97e4a184fbfa951054ea544e2566f0e/90_0_900_720/500.jpg",
-      "published": "2026-06-05T20:57:22Z",
-      "location": {
-        "name": "Arkansas",
-        "lat": 34.9697,
-        "lng": -92.3731
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
     {
       "id": "sport/live/2026/jun/05/nba-finals-2026-game-2-new-york-knicks-san-antonio-spurs-live-score",
       "headline": "NBA finals 2026 Game 2: New York Knicks v San Antonio Spurs – live",
@@ -1077,6 +1013,54 @@
       },
       "category": "sport",
       "significance": 1,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/jun/07/australia-socceroos-switzerland-tete-yengi-debut-goal-world-cup-warm-up",
+      "headline": "Tete Yengi scores on debut as Socceroos sign off before World Cup with Switzerland draw",
+      "summary": "Socceroos draw 1-1 with Switzerland in World Cup warm-up as Yengi scores on debut.",
+      "url": "https://www.theguardian.com/p/x57nk3",
+      "thumbnail": "https://media.guim.co.uk/b34facdf301e6bbb652d2a0d14ebf41045b06ee1/270_0_1980_1584/500.jpg",
+      "published": "2026-06-06T21:07:01Z",
+      "location": {
+        "name": "San Diego",
+        "lat": 32.7157,
+        "lng": -117.1611
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/jun/06/judge-dismisses-kennedy-center-musician",
+      "headline": "Judge dismisses Kennedy Center suit against musician who canceled",
+      "summary": "Judge dismisses Kennedy Center lawsuit against musician Chuck Redd over canceled performance.",
+      "url": "https://www.theguardian.com/p/x586d7",
+      "thumbnail": "https://media.guim.co.uk/efe51fb5ffa303f2e28df802f1ededed1b2bd790/1027_0_6256_5005/500.jpg",
+      "published": "2026-06-06T21:01:06Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/jun/06/usmnt-germany-world-cup-friendly-match-report",
+      "headline": "US show fight and hunger, but lose final World Cup prep match 2-1 to Germany",
+      "summary": "US loses 2-1 to Germany in final World Cup prep match as Robinson scores consolation goal.",
+      "url": "https://www.theguardian.com/p/x586g9",
+      "thumbnail": "https://media.guim.co.uk/762123282035a39958a42f3ec3b24f8b49b166f2/323_60_2922_2339/500.jpg",
+      "published": "2026-06-06T20:45:29Z",
+      "location": {
+        "name": "Chicago",
+        "lat": 41.8781,
+        "lng": -87.6298
+      },
+      "category": "sport",
+      "significance": 2,
       "section": "football"
     }
   ]
