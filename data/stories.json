@@ -1,76 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-06T13:59:12.555Z",
-    "story_count": 75,
-    "oldest_story": "2026-06-05T14:00:02Z",
-    "newest_story": "2026-06-06T13:59:05Z",
+    "generated_at": "2026-06-06T15:22:44.377Z",
+    "story_count": 74,
+    "oldest_story": "2026-06-05T15:34:21Z",
+    "newest_story": "2026-06-06T15:06:30Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "uk-news/2026/jun/05/paul-quinn-jailed-2003-salford-rape-andrew-malkinson-wrongly-imprisoned",
-      "headline": "Man jailed over 2003 Salford rape for which Andrew Malkinson was wrongly imprisoned",
-      "summary": "Man jailed for 2003 rape in Salford for which Andrew Malkinson was wrongly imprisoned for 17 years.",
-      "url": "https://www.theguardian.com/p/x57pjp",
-      "thumbnail": "https://media.guim.co.uk/5b555dbc3deba5ebe637c7e83f28c5179c5fec2f/364_0_1778_1423/500.jpg",
-      "published": "2026-06-05T14:11:54Z",
-      "location": {
-        "name": "Salford",
-        "lat": 53.4875,
-        "lng": -2.2901
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "uk-news"
-    },
-    {
-      "id": "sport/live/2026/jun/05/french-open-2026-jakub-mensik-alexander-zverev-cobolli-arnaldi-mens-semi-finals-live",
-      "headline": "Jakub Mensik v Alexander Zverev: French Open 2026 men’s semi-finals – live",
-      "summary": "Jakub Mensik faces Alexander Zverev in French Open 2026 men's semi-final at Roland Garros.",
-      "url": "https://www.theguardian.com/p/x57mad",
-      "thumbnail": "https://media.guim.co.uk/a3b427f69a0e696e09afaad76b4e0c2ff2fe8d61/0_0_4904_3924/500.jpg",
-      "published": "2026-06-05T14:10:17Z",
-      "location": {
-        "name": "Paris",
-        "lat": 48.8566,
-        "lng": 2.3522
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "sport"
-    },
-    {
-      "id": "sport/2026/jun/05/lewis-hamilton-ferrari-monaco-f1-motorsport",
-      "headline": "Lewis Hamilton optimistic Ferrari can ‘be competitive’ in twisting Monaco track",
-      "summary": "Lewis Hamilton optimistic Ferrari can be competitive at Monaco Grand Prix despite long win drought.",
-      "url": "https://www.theguardian.com/p/x57qn2",
-      "thumbnail": "https://media.guim.co.uk/f6e20928a142d54d3dc01e3af97eb9766672eb20/0_106_3100_2480/500.jpg",
-      "published": "2026-06-05T14:04:25Z",
-      "location": {
-        "name": "Monaco",
-        "lat": 43.7384,
-        "lng": 7.4246
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "business/2026/jun/05/asda-chair-allan-leighton-aldi-supermarkets-sainsburys",
-      "headline": "‘It’s not inevitable’: Asda chair on how his turnaround will hold off Aldi threat",
-      "summary": "Asda chair Allan Leighton confident turnaround will prevent being overtaken by Aldi as third supermarket.",
-      "url": "https://www.theguardian.com/p/x57egv",
-      "thumbnail": "https://media.guim.co.uk/a8776fa221bbd3057ec2b40590b10df0cdae6b31/827_459_4433_3546/500.jpg",
-      "published": "2026-06-05T14:00:02Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
     {
       "id": "artanddesign/2026/jun/05/marilyn-monroe-a-portrait-review-national-portrait-gallery-london",
       "headline": "Marilyn Monroe: A Portrait review – the radiant, uncontainable star she always wanted to be",
@@ -1206,6 +1142,54 @@
       "category": "politics",
       "significance": 2,
       "section": "us-news"
+    },
+    {
+      "id": "sport/2026/jun/06/teenager-mirra-andreeva-wins-french-open-to-end-maja-chwalinskas-run",
+      "headline": "Andreeva ends Chwalinka’s French Open run to win first grand slam title",
+      "summary": "19-year-old Mirra Andreeva wins French Open, defeating qualifier Chwalinska 6-3, 6-2.",
+      "url": "https://www.theguardian.com/p/x58xgd",
+      "thumbnail": "https://media.guim.co.uk/6bfe76c483beba8e9cf7b6fb474720e051c4db3e/307_0_3970_3176/500.jpg",
+      "published": "2026-06-06T15:06:30Z",
+      "location": {
+        "name": "Paris",
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "sport"
+    },
+    {
+      "id": "football/2026/jun/06/david-sullivan-how-did-the-pornographer-rise-so-high-in-modern-football",
+      "headline": "David Sullivan: how did the pornographer rise so high in modern football?",
+      "summary": "David Sullivan resigns from West Ham amid claims about historical conduct.",
+      "url": "https://www.theguardian.com/p/x5376f",
+      "thumbnail": "https://media.guim.co.uk/40c75da677bc43d86abd456b8cbd6edce33b7df1/661_337_1202_962/500.jpg",
+      "published": "2026-06-06T14:40:12Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/jun/06/mexico-security-world-cup-fan-zone-growing-protests-football",
+      "headline": "Mexico steps up security at World Cup 2026 fan zone amid growing unrest",
+      "summary": "Mexico increases security at World Cup 2026 fan zone amid social unrest.",
+      "url": "https://www.theguardian.com/p/x585ac",
+      "thumbnail": "https://media.guim.co.uk/3657cda521bc5b4b82965d3d4e9e6205824c600e/29_0_2438_1950/500.jpg",
+      "published": "2026-06-06T14:30:10Z",
+      "location": {
+        "name": "Mexico City",
+        "lat": 19.4326,
+        "lng": -99.1332
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
     }
   ]
 }
