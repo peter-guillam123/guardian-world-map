@@ -1,28 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-06T16:38:48.906Z",
-    "story_count": 63,
-    "oldest_story": "2026-06-05T16:40:05Z",
-    "newest_story": "2026-06-06T16:19:22Z",
+    "generated_at": "2026-06-06T17:49:18.958Z",
+    "story_count": 68,
+    "oldest_story": "2026-06-05T17:56:54Z",
+    "newest_story": "2026-06-06T17:47:17Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "artanddesign/2026/jun/05/marilyn-monroe-a-portrait-review-national-portrait-gallery-london",
-      "headline": "Marilyn Monroe: A Portrait review – the radiant, uncontainable star she always wanted to be",
-      "summary": "National Portrait Gallery opens Marilyn Monroe exhibition marking centenary with photographs from teen to icon.",
-      "url": "https://www.theguardian.com/p/x57qqn",
-      "thumbnail": "https://media.guim.co.uk/cfdd3101b1c24666273e8b49f3c88d40fbd3f9c4/0_556_3567_2851/500.jpg",
-      "published": "2026-06-05T16:40:05Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "artanddesign"
-    },
     {
       "id": "us-news/2026/jun/05/doj-trump-white-house-ballroom",
       "headline": "No court has authority to block Trump’s White House ballroom, DoJ lawyer says",
@@ -182,38 +166,6 @@
       "category": "politics",
       "significance": 2,
       "section": "world"
-    },
-    {
-      "id": "politics/2026/jun/05/jeremy-hanley-obituary",
-      "headline": "Jeremy Hanley obituary",
-      "summary": "Jeremy Hanley, Conservative party chair under John Major, dies aged 80.",
-      "url": "https://www.theguardian.com/p/x58vce",
-      "thumbnail": "https://media.guim.co.uk/2de68b1cf0ddb72c4522fe39bbc8819428820fbd/150_127_5992_4795/500.jpg",
-      "published": "2026-06-05T17:26:06Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 1,
-      "section": "politics"
-    },
-    {
-      "id": "uk-news/2026/jun/05/calls-for-public-inquiry-all-royal-finances-andrew-subletting-royal-lodge-properties",
-      "headline": "Calls for inquiry into all royal finances after Andrew subletting revelations",
-      "summary": "Campaigners call public inquiry into royal finances after Prince Andrew subletting revelations.",
-      "url": "https://www.theguardian.com/p/x58v2z",
-      "thumbnail": "https://media.guim.co.uk/15a733dfae474ab9200d0b5fd884cbd8a81c708a/75_0_2330_1864/500.jpg",
-      "published": "2026-06-05T17:22:26Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "uk-news"
     },
     {
       "id": "uk-news/2026/jun/05/lady-pamela-hicks-obituary",
@@ -1014,6 +966,134 @@
       "category": "tech",
       "significance": 2,
       "section": "us-news"
+    },
+    {
+      "id": "sport/2026/jun/06/construction-worker-backs-epsom-derby-winner-thanks-to-spooky-time-capsule-tip",
+      "headline": "Construction worker backs Epsom Derby winner thanks to ‘spooky’ time capsule tip",
+      "summary": "Construction worker wins Derby bet after finding 1960s time capsule note urging bet on horse with Christmas name.",
+      "url": "https://www.theguardian.com/p/x585pc",
+      "thumbnail": "https://media.guim.co.uk/668854338c3f2da5118bdc3e2fb700444ffefecc/771_55_3711_2969/500.jpg",
+      "published": "2026-06-06T17:47:17Z",
+      "location": {
+        "name": "Epsom",
+        "lat": 51.3274,
+        "lng": -0.2656
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "football/live/2026/jun/06/usa-v-germany-international-friendly-live",
+      "headline": "USA v Germany: international friendly – live",
+      "summary": "USA faces Germany in final World Cup tune-up friendly at Soldier Field.",
+      "url": "https://www.theguardian.com/p/x5863v",
+      "thumbnail": "https://media.guim.co.uk/9f2d396b6875603730d717892cd1513ca799f70c/456_0_4560_3648/500.jpg",
+      "published": "2026-06-06T17:46:29Z",
+      "location": {
+        "name": "Chicago",
+        "lat": 41.8781,
+        "lng": -87.6298
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "sport/2026/jun/06/lords-cricket-pitch-steam-abysmal-england-new-zealand-mcc",
+      "headline": "Behold one of cricket’s great mysteries: the abysmal steam-treated Lord’s pitch",
+      "summary": "Lord's cricket pitch faces replanting by 2028 after decades of variable bounce problems.",
+      "url": "https://www.theguardian.com/p/x58xg8",
+      "thumbnail": "https://media.guim.co.uk/f65b04866a0e91e72ed57a48dbacf2ce9ed6c24c/303_0_4369_3495/500.jpg",
+      "published": "2026-06-06T17:28:06Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "football/2026/jun/06/lionesses-have-no-reason-to-panic-despite-the-humiliation-in-spain",
+      "headline": "Lionesses have no reason to panic despite the humiliation in Spain",
+      "summary": "England's women suffer heaviest defeat in decades to Spain in 2027 World Cup qualifier.",
+      "url": "https://www.theguardian.com/p/x58xjv",
+      "thumbnail": "https://media.guim.co.uk/1f66d674375da856e0520b738132ba88a23658cc/1047_0_6256_5005/500.jpg",
+      "published": "2026-06-06T17:09:34Z",
+      "location": {
+        "name": "Palma",
+        "lat": 39.5696,
+        "lng": 2.6502
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "sport/2026/jun/06/robinson-strikes-twice-but-rain-halts-englands-push-for-victory-against-new-zealand",
+      "headline": "Robinson strikes twice but rain halts England’s charge against New Zealand",
+      "summary": "Rain halts England's progress against New Zealand at soggy Lord's in first Test.",
+      "url": "https://www.theguardian.com/p/x58xfg",
+      "thumbnail": "https://media.guim.co.uk/b9f3eaeaa0e1381cae080bd1bd0e1021eff54582/44_0_4006_3205/500.jpg",
+      "published": "2026-06-06T16:53:50Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "music/2026/jun/06/stevie-nicks-donates-ucs-medical-school",
+      "headline": "Stevie Nicks donates $3m to medical school to recognize her voice doctor",
+      "summary": "Stevie Nicks donates $3m to USC medical school to honor her voice doctor with endowed chair.",
+      "url": "https://www.theguardian.com/p/x585m8",
+      "thumbnail": "https://media.guim.co.uk/468ab779c4e8d9939973f2a07f9531506ba7e9ed/250_0_2499_2000/500.jpg",
+      "published": "2026-06-06T16:53:18Z",
+      "location": {
+        "name": "Los Angeles",
+        "lat": 34.0522,
+        "lng": -118.2437
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "music"
+    },
+    {
+      "id": "sport/2026/jun/06/exeter-saracens-prem-rugby-union-match-report",
+      "headline": "Exeter power past Saracens to book playoff semi-final spot as McCall era comes to an end",
+      "summary": "Exeter Chiefs defeat Saracens 32-12 in Mark McCall's final match as coach.",
+      "url": "https://www.theguardian.com/p/x58xgn",
+      "thumbnail": "https://media.guim.co.uk/3066239d7059dde0e18faf96e89ab2e04fec0534/632_327_4564_3651/500.jpg",
+      "published": "2026-06-06T16:41:16Z",
+      "location": {
+        "name": "Exeter",
+        "lat": 50.7184,
+        "lng": -3.5339
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "sport/2026/jun/06/bath-leicester-prem-rugby-union-match-report",
+      "headline": "Du Toit hat-trick secures Bath home semi-final after two-point win against Leicester",
+      "summary": "Thomas du Toit's hat-trick helps Bath beat Leicester 24-22 and secure home Prem semi-final.",
+      "url": "https://www.theguardian.com/p/x58xgh",
+      "thumbnail": "https://media.guim.co.uk/edc8ec6ab8c32cd35d70941c1ac8db9c5edb2817/844_0_6070_4860/500.jpg",
+      "published": "2026-06-06T16:39:24Z",
+      "location": {
+        "name": "Bath",
+        "lat": 51.3788,
+        "lng": -2.3613
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
     }
   ]
 }
