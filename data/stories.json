@@ -1,76 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-07T22:04:29.579Z",
-    "story_count": 79,
-    "oldest_story": "2026-06-06T22:10:07Z",
-    "newest_story": "2026-06-07T21:58:36Z",
+    "generated_at": "2026-06-07T23:18:20.428Z",
+    "story_count": 75,
+    "oldest_story": "2026-06-06T23:23:07Z",
+    "newest_story": "2026-06-07T22:54:21Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "australia-news/live/2026/jun/07/tony-abbott-liberal-party-strategist-anthony-albanese-labor-angus-taylor-coalition-one-nation-ntwnfb",
-      "headline": "Australia news live: Tony Abbott praises Liberal party’s new top strategist as party tries to rebuild campaign machine",
-      "summary": "Liberal party appoints new strategist as Tony Abbott takes role of federal president.",
-      "url": "https://www.theguardian.com/p/x58745",
-      "thumbnail": "https://media.guim.co.uk/e6af966d0d162ab9052d8cfc9cdc031f62d0ad79/365_0_6078_4863/500.jpg",
-      "published": "2026-06-06T22:41:08Z",
-      "location": {
-        "name": "Australia",
-        "lat": -25.2744,
-        "lng": 133.7751
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "football/2026/jun/06/iran-world-cup-visas-mexico",
-      "headline": "Iran World Cup team travels to Mexico with US visas reportedly denied for several staff",
-      "summary": "Iran World Cup team travels to Mexico amid US visa denial disputes for staff members.",
-      "url": "https://www.theguardian.com/p/x5874m",
-      "thumbnail": "https://media.guim.co.uk/0bf721cbf9b4ad9fcea715d550cf3aae08ea506d/0_0_7200_5760/500.jpg",
-      "published": "2026-06-06T22:38:36Z",
-      "location": {
-        "name": "Mexico City",
-        "lat": 19.4326,
-        "lng": -99.1332
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/jun/06/scotland-bolivia-world-cup-warm-up-match-report",
-      "headline": "Adams at the double as Scotland thrash Bolivia in perfect World Cup warm-up",
-      "summary": "Scotland defeats Bolivia 4-0 in World Cup warm-up match with goals from Adams and McTominay.",
-      "url": "https://www.theguardian.com/p/x58xc5",
-      "thumbnail": "https://media.guim.co.uk/1831354f8eb8c3e23ede0364d52cf7894c8a5965/284_0_2739_2192/500.jpg",
-      "published": "2026-06-06T22:14:15Z",
-      "location": {
-        "name": "Scotland",
-        "lat": 56.4907,
-        "lng": -3.4746
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/jun/06/england-new-zealand-world-cup-warm-up-match-report",
-      "headline": "Kane heads England to narrow World Cup warm-up win against New Zealand",
-      "summary": "England beats New Zealand 1-0 in World Cup warm-up friendly with Kane's early goal.",
-      "url": "https://www.theguardian.com/p/x58vq7",
-      "thumbnail": "https://media.guim.co.uk/82991cf3f5c6429751357bac98fd478076ffb7af/274_0_3358_2687/500.jpg",
-      "published": "2026-06-06T22:10:07Z",
-      "location": {
-        "name": "England",
-        "lat": 52.3555,
-        "lng": -1.1743
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
     {
       "id": "football/2026/jun/07/thomas-tuchel-criticises-englands-freestyle-approach-in-win-over-new-zealand",
       "headline": "Thomas Tuchel criticises England’s ‘freestyle’ approach in win over New Zealand",
@@ -78,38 +14,6 @@
       "url": "https://www.theguardian.com/p/x58xbk",
       "thumbnail": "https://media.guim.co.uk/cdeac47ab60b0030db864a9cbc73531563baf353/555_128_4067_3252/500.jpg",
       "published": "2026-06-06T23:23:07Z",
-      "location": {
-        "name": "Tampa",
-        "lat": 27.9506,
-        "lng": -82.4593
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "us-news/2026/jun/06/how-xavier-becerra-turned-campaign-california-governor",
-      "headline": "How Xavier Becerra turned around his campaign to be California’s governor",
-      "summary": "Xavier Becerra advances to California gubernatorial general election after polling surge.",
-      "url": "https://www.theguardian.com/p/x586mz",
-      "thumbnail": "https://media.guim.co.uk/10cc9bcfd3b79ac4daff3acbf304e4db38493e81/197_0_2500_2000/500.jpg",
-      "published": "2026-06-06T23:07:12Z",
-      "location": {
-        "name": "California",
-        "lat": 36.1163,
-        "lng": -119.6816
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "football/2026/jun/06/england-1-0-new-zealand-five-talking-points-from-the-world-cup-warm-up",
-      "headline": "England 1-0 New Zealand: five talking points from the World Cup warm-up",
-      "summary": "England defeats New Zealand 1-0 in World Cup warm-up; Kane scores, Bellingham impresses.",
-      "url": "https://www.theguardian.com/p/x58xbg",
-      "thumbnail": "https://media.guim.co.uk/7d9513f2ef944b4661c459a1ecd3a026ef96e7bb/1703_925_3625_2900/500.jpg",
-      "published": "2026-06-06T22:53:35Z",
       "location": {
         "name": "Tampa",
         "lat": 27.9506,
@@ -1270,6 +1174,38 @@
       "category": "health",
       "significance": 2,
       "section": "science"
+    },
+    {
+      "id": "us-news/2026/jun/07/david-rush-cia-gold-bars-fake-spy-program",
+      "headline": "Ex-CIA official accused of stealing $40m in gold bars reportedly created fake spy program",
+      "summary": "Ex-CIA official David Rush accused of stealing $40m in gold bars via fake spy program.",
+      "url": "https://www.theguardian.com/p/x58cd3",
+      "thumbnail": "https://media.guim.co.uk/8eaa0e41c7b388e9ff9d9426b5f151cf8715476a/226_0_2590_2072/500.jpg",
+      "published": "2026-06-07T22:54:21Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/jun/07/modric-still-casts-a-spell-as-croatia-win-warm-up-with-england-to-come",
+      "headline": "Modric still casts a spell as Croatia win warm-up with England to come",
+      "summary": "Luka Modric scores in Croatia's 2-1 warm-up win over Slovenia before World Cup campaign.",
+      "url": "https://www.theguardian.com/p/x587xk",
+      "thumbnail": "https://media.guim.co.uk/6121306f6084c24ced2bf7a8ffcf778a0bcf6ee6/495_0_4908_3927/500.jpg",
+      "published": "2026-06-07T22:47:41Z",
+      "location": {
+        "name": "Zagreb",
+        "lat": 45.815,
+        "lng": 15.9819
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
     }
   ]
 }
