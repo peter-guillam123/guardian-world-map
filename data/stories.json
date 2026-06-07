@@ -1,44 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-07T20:52:14.271Z",
-    "story_count": 78,
-    "oldest_story": "2026-06-06T21:01:06Z",
-    "newest_story": "2026-06-07T20:35:35Z",
+    "generated_at": "2026-06-07T22:04:29.579Z",
+    "story_count": 79,
+    "oldest_story": "2026-06-06T22:10:07Z",
+    "newest_story": "2026-06-07T21:58:36Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/2026/jun/07/australia-socceroos-switzerland-tete-yengi-debut-goal-world-cup-warm-up",
-      "headline": "Tete Yengi scores on debut as Socceroos sign off before World Cup with Switzerland draw",
-      "summary": "Socceroos draw 1-1 with Switzerland in World Cup warm-up as Yengi scores on debut.",
-      "url": "https://www.theguardian.com/p/x57nk3",
-      "thumbnail": "https://media.guim.co.uk/b34facdf301e6bbb652d2a0d14ebf41045b06ee1/270_0_1980_1584/500.jpg",
-      "published": "2026-06-06T21:07:01Z",
-      "location": {
-        "name": "San Diego",
-        "lat": 32.7157,
-        "lng": -117.1611
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "us-news/2026/jun/06/judge-dismisses-kennedy-center-musician",
-      "headline": "Judge dismisses Kennedy Center suit against musician who canceled",
-      "summary": "Judge dismisses Kennedy Center lawsuit against musician Chuck Redd over canceled performance.",
-      "url": "https://www.theguardian.com/p/x586d7",
-      "thumbnail": "https://media.guim.co.uk/efe51fb5ffa303f2e28df802f1ededed1b2bd790/1027_0_6256_5005/500.jpg",
-      "published": "2026-06-06T21:01:06Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "us-news"
-    },
     {
       "id": "australia-news/live/2026/jun/07/tony-abbott-liberal-party-strategist-anthony-albanese-labor-angus-taylor-coalition-one-nation-ntwnfb",
       "headline": "Australia news live: Tony Abbott praises Liberal party’s new top strategist as party tries to rebuild campaign machine",
@@ -1254,6 +1222,54 @@
       "category": "culture",
       "significance": 1,
       "section": "music"
+    },
+    {
+      "id": "science/live/2026/jun/08/australia-news-live-anthony-albanese-labor-one-nation-coalition-housing-crisis-angus-taylor-ntwnfb",
+      "headline": "Australia news live: Julia Gillard ‘disgusted’ by ‘ditch the witch’ ads targeting Victorian premier; One Nation ahead of Labor in new poll",
+      "summary": "Julia Gillard criticizes 'ditch the witch' ads targeting Victorian premier; One Nation leads Labor in poll.",
+      "url": "https://www.theguardian.com/p/x58bqy",
+      "thumbnail": "https://media.guim.co.uk/e18a71fdc9204032411363dfe05bc7d0b391345f/997_0_6880_5504/500.jpg",
+      "published": "2026-06-07T21:58:36Z",
+      "location": {
+        "name": "Melbourne",
+        "lat": -37.8136,
+        "lng": 144.9631
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "politics/2026/jun/07/labour-farage-evading-scrutiny-crypto-billionaire-gift",
+      "headline": "Labour urges Farage to stop evading scrutiny over £5m gift from crypto billionaire",
+      "summary": "Labour urges Farage to clarify £5m crypto billionaire gift and property spending questions.",
+      "url": "https://www.theguardian.com/p/x58aa2",
+      "thumbnail": "https://media.guim.co.uk/03bef37200245d566960f6e56c54138138417dcb/389_0_7200_5760/500.jpg",
+      "published": "2026-06-07T21:30:08Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "science/2026/jun/08/richard-scolyer-melanoma-researcher-experimental-treatment-brain-cancer-obituary",
+      "headline": "Richard Scolyer, acclaimed melanoma researcher who tried experimental treatment on his own brain cancer – obituary",
+      "summary": "Acclaimed melanoma researcher Richard Scolyer dies at 59 after experimental brain cancer treatment.",
+      "url": "https://www.theguardian.com/p/xxz5qe",
+      "thumbnail": "https://media.guim.co.uk/a81c502270796d1cbae646cf7e5ba4afaf67f66d/334_0_6515_5215/500.jpg",
+      "published": "2026-06-07T21:04:09Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "science"
     }
   ]
 }
