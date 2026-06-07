@@ -1,44 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-07T06:40:39.999Z",
-    "story_count": 67,
-    "oldest_story": "2026-06-06T07:47:50Z",
-    "newest_story": "2026-06-07T06:00:26Z",
+    "generated_at": "2026-06-07T09:51:36.232Z",
+    "story_count": 72,
+    "oldest_story": "2026-06-06T10:00:01Z",
+    "newest_story": "2026-06-07T09:48:42Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "world/2026/jun/06/blackouts-hyperinflation-dissent-iran-considers-perilous-prospect-of-peace",
-      "headline": "Blackouts, hyperinflation, dissent: Iran considers perilous prospect of peace",
-      "summary": "Iran faces economic crisis and dissent as peace prospects loom amid hyperinflation and blackouts.",
-      "url": "https://www.theguardian.com/p/x57m2a",
-      "thumbnail": "https://media.guim.co.uk/838bf36273e118fc7dbd209a06c813f808af1654/960_0_5000_4000/500.jpg",
-      "published": "2026-06-06T08:00:04Z",
-      "location": {
-        "name": "Iran",
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "australia-news/2026/jun/06/man-fighting-for-life-after-being-bitten-by-shark-off-western-australian-coast",
-      "headline": "Man dies after shark attack off Western Australia coast near Albany",
-      "summary": "Man dies after shark attack near Albany, Western Australia involving 4.5-metre shark.",
-      "url": "https://www.theguardian.com/p/x583c9",
-      "thumbnail": "https://media.guim.co.uk/dd10c41f69ab4324de8205a42ffc038353c5a2e4/0_122_5033_4026/500.jpg",
-      "published": "2026-06-06T07:47:50Z",
-      "location": {
-        "name": "Albany",
-        "lat": -34.4909,
-        "lng": 117.8845
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "australia-news"
-    },
     {
       "id": "world/2026/jun/06/us-says-iran-radar-sites-struck-and-drones-intercepted-in-latest-threat-to-fragile-ceasefire",
       "headline": "Gulf countries targeted by Iran after exchange of fire with US, in latest threat to fragile ceasefire",
@@ -1078,6 +1046,118 @@
       "category": "economy",
       "significance": 2,
       "section": "business"
+    },
+    {
+      "id": "sport/live/2026/jun/07/england-v-new-zealand-first-cricket-test-day-four-live",
+      "headline": "England v New Zealand: first cricket Test, day four – live",
+      "summary": "England faces New Zealand in day four of Test cricket at Lord's.",
+      "url": "https://www.theguardian.com/p/x58v3g",
+      "thumbnail": "https://media.guim.co.uk/2bf1cf6665f26082cca87eb68d02cde1ad88bf7b/0_0_4826_3861/500.jpg",
+      "published": "2026-06-07T09:48:42Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "sport/live/2026/jun/07/county-championship-day-one-surrey-v-hampshire-notts-v-somerset-and-more-live",
+      "headline": "County Championship day one: Surrey v Hampshire – live",
+      "summary": "Surrey hosts Hampshire in County Championship cricket at the Oval.",
+      "url": "https://www.theguardian.com/p/x58v4q",
+      "thumbnail": "https://media.guim.co.uk/36b32d604e60675935a90ed3cfdb2967a2333c24/846_0_4837_3869/500.jpg",
+      "published": "2026-06-07T09:48:19Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "uk-news/2026/jun/07/david-lammy-jd-vance-wrong-henry-nowak-murder",
+      "headline": "David Lammy: I told JD Vance he was wrong about Henry Nowak murder",
+      "summary": "Deputy PM Lammy tells US VP Vance he was wrong about migrant blame in Nowak murder.",
+      "url": "https://www.theguardian.com/p/x589f3",
+      "thumbnail": "https://media.guim.co.uk/079a2d06dd1d26b71c3a191af0e2a6637da3cec8/147_25_2766_2213/500.jpg",
+      "published": "2026-06-07T09:47:27Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "politics/live/2026/jun/07/henry-nowak-trial-vickrum-digwa-police-reform-latest-news-updates",
+      "headline": "Lammy told JD Vance his remarks about Henry Nowak were ‘wrong’ – UK politics live",
+      "summary": "UK politics live: Lammy challenges Vance on Henry Nowak remarks and migration.",
+      "url": "https://www.theguardian.com/p/x5893g",
+      "thumbnail": "https://media.guim.co.uk/f488ff4764c725c1d3ba0996544f2b8b8e1b7f52/478_0_2500_2000/500.jpg",
+      "published": "2026-06-07T09:42:47Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "business/2026/jun/07/butterfly-blocking-tax-break-tree-scheme-wealthy-investors",
+      "headline": "Tax-break trees: how woodland became a store of wealth for the rich",
+      "summary": "Butterfly blocks wealthy investors' tax-break woodland scheme on English-Scottish border.",
+      "url": "https://www.theguardian.com/p/x4cq9p",
+      "thumbnail": "https://media.guim.co.uk/0cd73d0c3554bdc625edc6d8aa4b1a1e6ba5cb6d/26_23_4464_3574/500.jpg",
+      "published": "2026-06-07T09:00:29Z",
+      "location": {
+        "name": "Scottish Borders",
+        "lat": 55.45,
+        "lng": -2.4
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "world/2026/jun/07/kyiv-hosts-literary-festival-amid-ukraine-war-book-arsenal",
+      "headline": "Air-raid alerts and frontline memoirs: Kyiv hosts literary festival amid war",
+      "summary": "Kyiv Book Arsenal hosts literary festival amid Ukraine war with wartime writing focus.",
+      "url": "https://www.theguardian.com/p/x57ep6",
+      "thumbnail": "https://media.guim.co.uk/f727387471c9e200f71d63f2d949555626667ed0/156_0_4688_3750/500.jpg",
+      "published": "2026-06-07T09:00:29Z",
+      "location": {
+        "name": "Kyiv",
+        "lat": 50.4501,
+        "lng": 30.5234
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "music/2026/jun/07/shania-twain-gig-turns-london-pub-into-saloon",
+      "headline": "‘So rogue’: country superstar Shania Twain turns London pub into saloon",
+      "summary": "Shania Twain plays intimate gig at London pub, transforming venue into country saloon.",
+      "url": "https://www.theguardian.com/p/x5895x",
+      "thumbnail": "https://media.guim.co.uk/e8c262f3bd0fe533d9ed127c3987efdf4f6d8d79/308_0_4348_3480/500.jpg",
+      "published": "2026-06-07T08:43:03Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "music"
     }
   ]
 }
