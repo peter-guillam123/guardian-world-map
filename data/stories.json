@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-06-07T11:48:12.899Z",
-    "story_count": 62,
-    "oldest_story": "2026-06-06T13:00:05Z",
-    "newest_story": "2026-06-07T11:13:20Z",
+    "generated_at": "2026-06-07T13:12:08.150Z",
+    "story_count": 65,
+    "oldest_story": "2026-06-06T13:31:06Z",
+    "newest_story": "2026-06-07T13:10:43Z",
     "window_hours": 24
   },
   "stories": [
@@ -54,70 +54,6 @@
       "category": "sport",
       "significance": 3,
       "section": "sport"
-    },
-    {
-      "id": "us-news/2026/jun/06/trial-killing-2025-texas-high-school-track-meet",
-      "headline": "All-white jury selected in murder trial over killing at 2025 Texas high school",
-      "summary": "All-white jury selected in trial of Black teen accused of stabbing white student at Texas high school.",
-      "url": "https://www.theguardian.com/p/x58vjx",
-      "thumbnail": "https://media.guim.co.uk/55934a1eb990311e5b37547a6ce7bc1a696c9433/585_0_4032_3225/500.jpg",
-      "published": "2026-06-06T13:00:06Z",
-      "location": {
-        "name": "Frisco",
-        "lat": 33.1606,
-        "lng": -96.8189
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "business/2026/jun/06/uk-ceramics-industry-support-package-revival-portmeirion-stoke",
-      "headline": "UK’s fragile heirloom: ceramics sector calls for more help to save ‘vital industry’",
-      "summary": "UK ceramics industry receives £120m support package but seeks additional aid to prevent closures.",
-      "url": "https://www.theguardian.com/p/x56enj",
-      "thumbnail": "https://media.guim.co.uk/6ec1259ac890daadd68661e6be45880ad460c743/0_0_5583_4467/500.jpg",
-      "published": "2026-06-06T13:00:05Z",
-      "location": {
-        "name": "Stoke-on-Trent",
-        "lat": 53.0249,
-        "lng": -2.179
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "global-development/2026/jun/06/somalia-drought-floods-hunger-displaced-camps-war-aid",
-      "headline": "Drought and floods drove them from their homes. But hunger and poverty have followed them to a Mogadishu camp",
-      "summary": "Over 6.5 million Somalis face severe hunger amid drought, floods, conflict and reduced aid.",
-      "url": "https://www.theguardian.com/p/x569ta",
-      "thumbnail": "https://media.guim.co.uk/fa1016eaefe0078ed0e8fcaa3a7c00062d286d22/607_393_3047_2439/500.jpg",
-      "published": "2026-06-06T13:00:05Z",
-      "location": {
-        "name": "Mogadishu",
-        "lat": 2.0469,
-        "lng": 45.3182
-      },
-      "category": "climate",
-      "significance": 3,
-      "section": "global-development"
-    },
-    {
-      "id": "us-news/2026/jun/06/republicans-trump-midterms",
-      "headline": "More Republicans are breaking with Trump. Is it conscience or politics?",
-      "summary": "Congressional Republicans increasingly defy Trump as midterm elections approach and power dynamics shift.",
-      "url": "https://www.theguardian.com/p/x58vxz",
-      "thumbnail": "https://media.guim.co.uk/447e0bbfd152bf102e547bd568057af17e153172/1_0_2999_2400/500.jpg",
-      "published": "2026-06-06T13:00:05Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
     },
     {
       "id": "sport/2026/jun/06/teenager-mirra-andreeva-wins-french-open-to-end-maja-chwalinskas-run",
@@ -998,6 +934,118 @@
       "category": "health",
       "significance": 3,
       "section": "commentisfree"
+    },
+    {
+      "id": "sport/live/2026/jun/07/monaco-grand-prix-formula-one-live-updates",
+      "headline": "Monaco Grand Prix: Formula One – live updates",
+      "summary": "Kimi Antonelli on pole for Monaco Grand Prix with Mercedes title battle intensifying.",
+      "url": "https://www.theguardian.com/p/x58vvz",
+      "thumbnail": "https://media.guim.co.uk/4dddd8a4d766c7904a358718e734cff6b5f5b6a6/609_0_4773_3819/500.jpg",
+      "published": "2026-06-07T13:10:43Z",
+      "location": {
+        "name": "Monaco",
+        "lat": 43.7384,
+        "lng": 7.4246
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "sport"
+    },
+    {
+      "id": "sport/2026/jun/07/trump-knicks-spurs-nba-finals-game-3-security",
+      "headline": "Knicks tell fans to arrive at least two hours early for NBA finals Game 3 due to Trump’s attendance",
+      "summary": "Knicks enhance security for NBA Finals Game 3 due to Trump's attendance at MSG.",
+      "url": "https://www.theguardian.com/p/x58aaj",
+      "thumbnail": "https://media.guim.co.uk/bf1fccf0f2e3f3354500e53308430b34522f6c0f/995_0_5000_4000/500.jpg",
+      "published": "2026-06-07T13:05:33Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "sport/live/2026/jun/07/french-open-2026-flavio-cobolli-alexander-zverev-mens-singles-final-live",
+      "headline": "French Open 2026: Flavio Cobolli v Alexander Zverev, men’s singles final – live",
+      "summary": "Cobolli faces Zverev in French Open men's singles final seeking grand slam upset.",
+      "url": "https://www.theguardian.com/p/x58v2f",
+      "thumbnail": "https://media.guim.co.uk/926e8e660501eaa9db3b2c842a3282cb46bd9de5/442_0_3880_3104/500.jpg",
+      "published": "2026-06-07T13:02:02Z",
+      "location": {
+        "name": "Paris",
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "sport"
+    },
+    {
+      "id": "lifeandstyle/2026/jun/07/natalie-cassidy-looks-back-eastenders-matriarchs-acting",
+      "headline": "Natalie Cassidy looks back: ‘EastEnders’ amazing matriarchs taught me everything about acting’",
+      "summary": "Natalie Cassidy reflects on EastEnders matriarchs and her journey in the soap.",
+      "url": "https://www.theguardian.com/p/x5487p",
+      "thumbnail": "https://media.guim.co.uk/678c302ec3080999e49dade360f749f758fdeace/0_130_4480_3583/500.jpg",
+      "published": "2026-06-07T13:00:35Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "lifeandstyle"
+    },
+    {
+      "id": "us-news/2026/jun/07/trump-america-birthday-us-monuments",
+      "headline": "As US turns 250, Trump adds fuel to battles over monuments and memory",
+      "summary": "Trump's proposed monuments spark debate over US history and political power ahead of 250th anniversary.",
+      "url": "https://www.theguardian.com/p/x57444",
+      "thumbnail": "https://media.guim.co.uk/7efdc28db9c1a4c1c6c77efdf85563ba6c86bea0/0_0_2575_2059/500.jpg",
+      "published": "2026-06-07T13:00:34Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "tv-and-radio/2026/jun/07/anthony-head-obituary",
+      "headline": "Anthony Head obituary",
+      "summary": "Anthony Head, Buffy's Rupert Giles and Gold Blend couple star, passes away.",
+      "url": "https://www.theguardian.com/p/x58a49",
+      "thumbnail": "https://media.guim.co.uk/19e9b1994b3e3b9577ad83d225ba7f657b01dce3/20_40_2763_2210/500.jpg",
+      "published": "2026-06-07T12:30:43Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "tv-and-radio"
+    },
+    {
+      "id": "world/2026/jun/07/pete-hegseth-d-day-speech-immigration-grotesque-stupidity",
+      "headline": "Pete Hegseth’s D-day speech on immigration condemned as ‘grotesque stupidity’",
+      "summary": "US Defence Secretary Hegseth condemned for linking immigration to D-Day anniversary in Normandy.",
+      "url": "https://www.theguardian.com/p/x589ny",
+      "thumbnail": "https://media.guim.co.uk/ac6745772811aae303b9d7370d4632a60350c10f/1039_280_3108_2486/500.jpg",
+      "published": "2026-06-07T12:22:32Z",
+      "location": {
+        "name": "Normandy",
+        "lat": 49.35,
+        "lng": -0.5584
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
     }
   ]
 }
