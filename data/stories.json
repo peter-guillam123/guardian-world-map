@@ -1,108 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-08T20:31:57.256Z",
-    "story_count": 57,
-    "oldest_story": "2026-06-07T20:33:01Z",
-    "newest_story": "2026-06-08T20:17:15Z",
+    "generated_at": "2026-06-08T22:13:27.374Z",
+    "story_count": 55,
+    "oldest_story": "2026-06-07T22:47:41Z",
+    "newest_story": "2026-06-08T22:11:25Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "australia-news/2026/jun/08/morning-mail-monday-ntwnfb",
-      "headline": "Iran launches missiles against Israel, homebuyers squeezed, Alexander Zverev wins French Open",
-      "summary": "Iran launches missiles against Israel as Middle East tensions escalate over airstrikes.",
-      "url": "https://www.theguardian.com/p/x58b3q",
-      "thumbnail": "https://media.guim.co.uk/79e6c54156bdb17a6f0035fe3de27ecc234b63a8/227_0_2273_1819/500.jpg",
-      "published": "2026-06-07T20:35:35Z",
-      "location": {
-        "name": "Tehran",
-        "lat": 35.6892,
-        "lng": 51.3889
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "australia-news"
-    },
-    {
-      "id": "us-news/2026/jun/07/graham-platner-maine-senate-candidate-ro-khanna",
-      "headline": "Ro Khanna says he supports Graham Platner’s bid for Senate despite ‘shameful’ actions",
-      "summary": "Ro Khanna supports Maine Senate candidate Graham Platner despite acknowledging past misconduct.",
-      "url": "https://www.theguardian.com/p/x58bd7",
-      "thumbnail": "https://media.guim.co.uk/ae2172cc815b1b6dad7dd53787da26c4ecb6ef5d/250_0_2500_2000/500.jpg",
-      "published": "2026-06-07T20:33:39Z",
-      "location": {
-        "name": "Augusta",
-        "lat": 44.3106,
-        "lng": -69.7795
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "australia-news/2026/jun/08/richard-scolyer-cancer-researcher-and-former-australian-of-the-year-dies-aged-59",
-      "headline": "Richard Scolyer, cancer researcher and former Australian of the year, dies aged 59",
-      "summary": "Richard Scolyer, renowned cancer researcher and Australian of the Year, dies aged 59.",
-      "url": "https://www.theguardian.com/p/x4tpgh",
-      "thumbnail": "https://media.guim.co.uk/a2fb30a9d7ff03318c25fff5c945019ca2a2bc51/290_0_6675_5340/500.jpg",
-      "published": "2026-06-07T20:33:01Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "science/live/2026/jun/08/australia-news-live-anthony-albanese-labor-one-nation-coalition-housing-crisis-angus-taylor-ntwnfb",
-      "headline": "Australia news live: Julia Gillard ‘disgusted’ by ‘ditch the witch’ ads targeting Victorian premier; One Nation ahead of Labor in new poll",
-      "summary": "Julia Gillard criticizes 'ditch the witch' ads targeting Victorian premier; One Nation leads Labor in poll.",
-      "url": "https://www.theguardian.com/p/x58bqy",
-      "thumbnail": "https://media.guim.co.uk/e18a71fdc9204032411363dfe05bc7d0b391345f/997_0_6880_5504/500.jpg",
-      "published": "2026-06-07T21:58:36Z",
-      "location": {
-        "name": "Melbourne",
-        "lat": -37.8136,
-        "lng": 144.9631
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "politics/2026/jun/07/labour-farage-evading-scrutiny-crypto-billionaire-gift",
-      "headline": "Labour urges Farage to stop evading scrutiny over £5m gift from crypto billionaire",
-      "summary": "Labour urges Farage to clarify £5m crypto billionaire gift and property spending questions.",
-      "url": "https://www.theguardian.com/p/x58aa2",
-      "thumbnail": "https://media.guim.co.uk/03bef37200245d566960f6e56c54138138417dcb/389_0_7200_5760/500.jpg",
-      "published": "2026-06-07T21:30:08Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "science/2026/jun/08/richard-scolyer-melanoma-researcher-experimental-treatment-brain-cancer-obituary",
-      "headline": "Richard Scolyer, acclaimed melanoma researcher who tried experimental treatment on his own brain cancer – obituary",
-      "summary": "Acclaimed melanoma researcher Richard Scolyer dies at 59 after experimental brain cancer treatment.",
-      "url": "https://www.theguardian.com/p/xxz5qe",
-      "thumbnail": "https://media.guim.co.uk/a81c502270796d1cbae646cf7e5ba4afaf67f66d/334_0_6515_5215/500.jpg",
-      "published": "2026-06-07T21:04:09Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "science"
-    },
     {
       "id": "us-news/2026/jun/07/david-rush-cia-gold-bars-fake-spy-program",
       "headline": "Ex-CIA official accused of stealing $40m in gold bars reportedly created fake spy program",
@@ -917,6 +821,70 @@
       },
       "category": "health",
       "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/jun/08/california-election-result-vote-count-explained",
+      "headline": "California election count: no evidence of voter fraud despite Trump claims",
+      "summary": "California election count proceeds amid baseless Trump fraud claims",
+      "url": "https://www.theguardian.com/p/x58hf2",
+      "thumbnail": "https://media.guim.co.uk/0f25204aff4028d99a22a5adda44d0afdf486b75/351_0_4674_3739/500.jpg",
+      "published": "2026-06-08T22:11:25Z",
+      "location": {
+        "name": "California",
+        "lat": 36.1163,
+        "lng": -119.6863
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/jun/08/djed-spence-england-world-cup-broken-jaw",
+      "headline": "‘Luckily I play with my feet’: Spence talks up World Cup hopes despite broken jaw",
+      "summary": "England defender Djed Spence aims for World Cup despite broken jaw injury",
+      "url": "https://www.theguardian.com/p/x58ej4",
+      "thumbnail": "https://media.guim.co.uk/fe744acd800b97f2d97b79f1af0a7cf5beb7fcd6/288_151_3840_3072/500.jpg",
+      "published": "2026-06-08T21:30:35Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "politics/2026/jun/08/kemi-badenoch-vow-scrap-public-sectory-equality-duty-reform-threat",
+      "headline": "Badenoch to vow to scrap public sector equality duty in effort to fend off Reform",
+      "summary": "Kemi Badenoch vows to scrap public sector equality duty to counter Reform UK",
+      "url": "https://www.theguardian.com/p/x58gd8",
+      "thumbnail": "https://media.guim.co.uk/9166ed7b1fcd20bb9d3f4e4d28a97883d6cfe293/0_443_2798_2237/500.jpg",
+      "published": "2026-06-08T21:25:00Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "us-news/2026/jun/08/trump-hegseth-vance-henry-nowak-death",
+      "headline": "How Trump acolytes seized on UK teen’s killing to push anti-immigration agenda",
+      "summary": "Trump officials exploit UK teen's death to advance anti-immigration agenda",
+      "url": "https://www.theguardian.com/p/x58h46",
+      "thumbnail": "https://media.guim.co.uk/58a78a737315ee315212c116719cfed79abf362f/500_0_5000_4000/500.jpg",
+      "published": "2026-06-08T21:04:06Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 3,
       "section": "us-news"
     }
   ]
