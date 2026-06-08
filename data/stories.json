@@ -1,124 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-08T11:26:54.929Z",
-    "story_count": 83,
-    "oldest_story": "2026-06-07T12:22:32Z",
-    "newest_story": "2026-06-08T11:23:00Z",
+    "generated_at": "2026-06-08T14:59:58.744Z",
+    "story_count": 77,
+    "oldest_story": "2026-06-07T15:00:01Z",
+    "newest_story": "2026-06-08T14:54:38Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "sport/live/2026/jun/07/monaco-grand-prix-formula-one-live-updates",
-      "headline": "Monaco Grand Prix: Formula One – live updates",
-      "summary": "Kimi Antonelli on pole for Monaco Grand Prix with Mercedes title battle intensifying.",
-      "url": "https://www.theguardian.com/p/x58vvz",
-      "thumbnail": "https://media.guim.co.uk/4dddd8a4d766c7904a358718e734cff6b5f5b6a6/609_0_4773_3819/500.jpg",
-      "published": "2026-06-07T13:10:43Z",
-      "location": {
-        "name": "Monaco",
-        "lat": 43.7384,
-        "lng": 7.4246
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "sport"
-    },
-    {
-      "id": "sport/2026/jun/07/trump-knicks-spurs-nba-finals-game-3-security",
-      "headline": "Knicks tell fans to arrive at least two hours early for NBA finals Game 3 due to Trump’s attendance",
-      "summary": "Knicks enhance security for NBA Finals Game 3 due to Trump's attendance at MSG.",
-      "url": "https://www.theguardian.com/p/x58aaj",
-      "thumbnail": "https://media.guim.co.uk/bf1fccf0f2e3f3354500e53308430b34522f6c0f/995_0_5000_4000/500.jpg",
-      "published": "2026-06-07T13:05:33Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "sport/live/2026/jun/07/french-open-2026-flavio-cobolli-alexander-zverev-mens-singles-final-live",
-      "headline": "French Open 2026: Flavio Cobolli v Alexander Zverev, men’s singles final – live",
-      "summary": "Cobolli faces Zverev in French Open men's singles final seeking grand slam upset.",
-      "url": "https://www.theguardian.com/p/x58v2f",
-      "thumbnail": "https://media.guim.co.uk/926e8e660501eaa9db3b2c842a3282cb46bd9de5/442_0_3880_3104/500.jpg",
-      "published": "2026-06-07T13:02:02Z",
-      "location": {
-        "name": "Paris",
-        "lat": 48.8566,
-        "lng": 2.3522
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "sport"
-    },
-    {
-      "id": "lifeandstyle/2026/jun/07/natalie-cassidy-looks-back-eastenders-matriarchs-acting",
-      "headline": "Natalie Cassidy looks back: ‘EastEnders’ amazing matriarchs taught me everything about acting’",
-      "summary": "Natalie Cassidy reflects on EastEnders matriarchs and her journey in the soap.",
-      "url": "https://www.theguardian.com/p/x5487p",
-      "thumbnail": "https://media.guim.co.uk/678c302ec3080999e49dade360f749f758fdeace/0_130_4480_3583/500.jpg",
-      "published": "2026-06-07T13:00:35Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "lifeandstyle"
-    },
-    {
-      "id": "us-news/2026/jun/07/trump-america-birthday-us-monuments",
-      "headline": "As US turns 250, Trump adds fuel to battles over monuments and memory",
-      "summary": "Trump's proposed monuments spark debate over US history and political power ahead of 250th anniversary.",
-      "url": "https://www.theguardian.com/p/x57444",
-      "thumbnail": "https://media.guim.co.uk/7efdc28db9c1a4c1c6c77efdf85563ba6c86bea0/0_0_2575_2059/500.jpg",
-      "published": "2026-06-07T13:00:34Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "tv-and-radio/2026/jun/07/anthony-head-obituary",
-      "headline": "Anthony Head obituary",
-      "summary": "Anthony Head, Buffy's Rupert Giles and Gold Blend couple star, passes away.",
-      "url": "https://www.theguardian.com/p/x58a49",
-      "thumbnail": "https://media.guim.co.uk/19e9b1994b3e3b9577ad83d225ba7f657b01dce3/20_40_2763_2210/500.jpg",
-      "published": "2026-06-07T12:30:43Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "tv-and-radio"
-    },
-    {
-      "id": "world/2026/jun/07/pete-hegseth-d-day-speech-immigration-grotesque-stupidity",
-      "headline": "Pete Hegseth’s D-day speech on immigration condemned as ‘grotesque stupidity’",
-      "summary": "US Defence Secretary Hegseth condemned for linking immigration to D-Day anniversary in Normandy.",
-      "url": "https://www.theguardian.com/p/x589ny",
-      "thumbnail": "https://media.guim.co.uk/ac6745772811aae303b9d7370d4632a60350c10f/1039_280_3108_2486/500.jpg",
-      "published": "2026-06-07T12:22:32Z",
-      "location": {
-        "name": "Normandy",
-        "lat": 49.35,
-        "lng": -0.5584
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
     {
       "id": "lifeandstyle/2026/jun/08/kindness-of-strangers-rain-helped-by-man-with-umbrella",
       "headline": "The kindness of strangers: I was lost in the pouring rain – then a man came along with a big rainbow umbrella",
@@ -214,166 +102,6 @@
       "category": "culture",
       "significance": 2,
       "section": "world"
-    },
-    {
-      "id": "world/live/2026/jun/07/israel-lebanon-southern-beirut-hezbollah-idf-ceasefire-iran-latest-news-updates",
-      "headline": "Middle East crisis live: at least two people killed and 11 injured in Israeli strikes on southern Beirut, reports say",
-      "summary": "Israeli strikes on southern Beirut kill at least two and wound 11 days after ceasefire agreement.",
-      "url": "https://www.theguardian.com/p/x58ac8",
-      "thumbnail": "https://media.guim.co.uk/9bb557ddf9b85725fbb0cdacb89606f1cf7c5304/452_0_5000_4000/500.jpg",
-      "published": "2026-06-07T14:54:15Z",
-      "location": {
-        "name": "Beirut",
-        "lat": 33.3157,
-        "lng": 35.4954
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "world/2026/jun/07/israel-escalates-war-hezbollah-airstrikes-beirut",
-      "headline": "Israel escalates war against Hezbollah with airstrikes on Beirut suburbs",
-      "summary": "Israel escalates war with Hezbollah via airstrikes on Beirut suburbs, hitting alleged terrorist headquarters.",
-      "url": "https://www.theguardian.com/p/x58at2",
-      "thumbnail": "https://media.guim.co.uk/8bdeae409242650ea464b83ec63caf886a20ffbe/500_0_5000_4000/500.jpg",
-      "published": "2026-06-07T14:49:37Z",
-      "location": {
-        "name": "Beirut",
-        "lat": 33.3157,
-        "lng": 35.4954
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "sport/2026/jun/07/christmas-day-short-changed-derby-non-runner-benvenuto-cellini",
-      "headline": "Christmas Day backers left short-changed by Derby’s non-runner ruling",
-      "summary": "Derby backers disappointed as non-runner ruling on Benvenuto Cellini highlights racing management issues.",
-      "url": "https://www.theguardian.com/p/x586nk",
-      "thumbnail": "https://media.guim.co.uk/29c6c037ae2ff3cb6ba12435bafe00caf5f10fad/281_0_2918_2334/500.jpg",
-      "published": "2026-06-07T14:39:25Z",
-      "location": {
-        "name": "Epsom",
-        "lat": 51.3237,
-        "lng": -0.2759
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "us-news/2026/jun/07/ohio-toledo-shooting-festival",
-      "headline": "Search for suspects continues after 12 people shot near festival in Toledo, Ohio",
-      "summary": "Search continues for shooters who wounded 12 near Toledo festival; police seek at least two suspects.",
-      "url": "https://www.theguardian.com/p/x58a9g",
-      "thumbnail": "https://media.guim.co.uk/5fd6329a8b386f91f484ea1840dbb1fd052c46fe/500_0_5000_4000/500.jpg",
-      "published": "2026-06-07T14:17:47Z",
-      "location": {
-        "name": "Toledo",
-        "lat": 41.6639,
-        "lng": -83.5535
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "society/2026/jun/07/nhs-hospitals-adopt-faster-accurate-bladder-cancer-test",
-      "headline": "‘Significant breakthrough’: NHS hospitals adopt faster, more accurate bladder cancer test ",
-      "summary": "NHS hospitals adopt faster, more accurate at-home urine test for bladder cancer diagnosis.",
-      "url": "https://www.theguardian.com/p/x58a5c",
-      "thumbnail": "https://media.guim.co.uk/05afeda7924b20d8cdfa074535d6f42b8df9e9f5/56_0_1935_1549/500.jpg",
-      "published": "2026-06-07T14:12:49Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "society"
-    },
-    {
-      "id": "culture/2026/jun/07/lenny-henry-racism-uk-standup",
-      "headline": "Lenny Henry says racism in UK ‘still at large’ as he tours standup comeback",
-      "summary": "Lenny Henry says racism 'still at large' in UK as he launches first standup tour in 15 years.",
-      "url": "https://www.theguardian.com/p/x58aav",
-      "thumbnail": "https://media.guim.co.uk/ca1a0e303ae186f2cece2ba00fa637bfda37f4ee/755_0_6681_5348/500.jpg",
-      "published": "2026-06-07T14:04:32Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "culture"
-    },
-    {
-      "id": "us-news/2026/jun/07/texas-murder-case-taylor-parker",
-      "headline": "Case of Texas woman on death row over grisly murder back in spotlight",
-      "summary": "New film revives case of Taylor Parker on death row for murdering pregnant friend and cutting unborn daughter.",
-      "url": "https://www.theguardian.com/p/x57txh",
-      "thumbnail": "https://media.guim.co.uk/c833111ab55e616274dd4edb663d9881bbf705c6/0_76_240_192/master/240.jpg",
-      "published": "2026-06-07T14:00:35Z",
-      "location": {
-        "name": "Texas",
-        "lat": 31.9686,
-        "lng": -99.9018
-      },
-      "category": "conflict",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "membership/2026/jun/07/confessions-of-political-liveblogger",
-      "headline": "Confessions of political liveblogger: ‘I enjoy it professionally – but, as a citizen, you can think the country’s going to hell in a handcart’",
-      "summary": "Guardian political liveblogger reflects on 15 years covering British politics.",
-      "url": "https://www.theguardian.com/p/x58vh2",
-      "thumbnail": "https://media.guim.co.uk/d528b56c5579cc31d35014dbcc63a553a6f978d1/560_0_5600_4480/500.jpg",
-      "published": "2026-06-07T14:00:34Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "membership"
-    },
-    {
-      "id": "sport/2026/jun/07/andreeva-martinez-french-open-triumph-shows-value-of-female-coaches",
-      "headline": "Andreeva’s French Open triumph shows value of Martínez and women coaches",
-      "summary": "Mirra Andreeva wins French Open with coach Conchita Martínez's guidance.",
-      "url": "https://www.theguardian.com/p/x586k3",
-      "thumbnail": "https://media.guim.co.uk/969544eede862605f313d01d077c214205b4059f/549_0_5163_4131/500.jpg",
-      "published": "2026-06-07T13:58:53Z",
-      "location": {
-        "name": "Paris",
-        "lat": 48.8566,
-        "lng": 2.3522
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "sport"
-    },
-    {
-      "id": "politics/2026/jun/07/uk-defence-investment-delays-damage-credibility-mps",
-      "headline": "Delays to defence investment plan have damaged UK’s credibility, say MPs",
-      "summary": "UK defence spending delays damage credibility; all hunter-killer subs docked.",
-      "url": "https://www.theguardian.com/p/x589bh",
-      "thumbnail": "https://media.guim.co.uk/7907877150d2951adc2ed5e457ea1ded4a3f0d76/372_0_5757_4608/500.jpg",
-      "published": "2026-06-07T13:57:52Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
     },
     {
       "id": "artanddesign/2026/jun/07/colen-lumley-obituary",
@@ -1334,6 +1062,182 @@
       "category": "tech",
       "significance": 2,
       "section": "money"
+    },
+    {
+      "id": "world/2026/jun/08/why-did-israel-and-iran-trade-fire-and-how-does-it-affect-wider-peace-efforts",
+      "headline": "Why did Israel and Iran trade fire, and how does it affect wider peace efforts?",
+      "summary": "Israel and Iran exchange rocket fire, breaking ceasefire agreed two months prior and threatening broader peace efforts.",
+      "url": "https://www.theguardian.com/p/x58fcb",
+      "thumbnail": "https://media.guim.co.uk/9194025e315ecb90be5960c6a0db508ffb841038/952_0_4923_3938/500.jpg",
+      "published": "2026-06-08T14:54:38Z",
+      "location": {
+        "name": "Middle East",
+        "lat": 34.8516,
+        "lng": 38.2454
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "us-news/live/2026/jun/08/us-politics-latest-news-updates-trump-california-governor-midterm-elections",
+      "headline": "Trump repeats claim that California election was rigged – US politics live",
+      "summary": "Trump repeats unsubstantiated claims of California election rigging after walking out of NBC interview.",
+      "url": "https://www.theguardian.com/p/x58f93",
+      "thumbnail": "https://media.guim.co.uk/2d069c513cbd6777e4f4090c3780d0eb8bd6003e/600_0_3000_2401/500.jpg",
+      "published": "2026-06-08T14:54:36Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/jun/08/world-cup-preparations",
+      "headline": "Preparation isn’t everything at a World Cup – but it helps a lot",
+      "summary": "World Cup 2026 teams employ high-altitude and climate adaptation strategies to prepare for tournament conditions.",
+      "url": "https://www.theguardian.com/p/x58cdx",
+      "thumbnail": "https://media.guim.co.uk/0c40dc70634d44214039407741beebb67eefc5c4/0_0_2500_2000/500.jpg",
+      "published": "2026-06-08T14:52:01Z",
+      "location": {
+        "name": "Mexico",
+        "lat": 23.6345,
+        "lng": -102.5528
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "uk-news/2026/jun/08/parents-nottingham-attacks-victim-medics-breach-confidentiality-patient-risk",
+      "headline": "Parents of Nottingham attacks victim say medics must breach confidentiality if patient is risk to others",
+      "summary": "Families of 2023 Nottingham attack victims argue medical staff should breach confidentiality for public safety.",
+      "url": "https://www.theguardian.com/p/x58ftz",
+      "thumbnail": "https://media.guim.co.uk/2a86ff1894d446d23bfae11233f46ea642fffad3/233_0_4477_3580/500.jpg",
+      "published": "2026-06-08T14:44:15Z",
+      "location": {
+        "name": "Nottingham",
+        "lat": 52.9549,
+        "lng": -1.1084
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "sport/2026/jun/08/reigning-champion-tatjana-maria-shocked-by-queens-tennis-wildcard-snub",
+      "headline": "Reigning champion Tatjana Maria shocked by Queen’s wildcard snub",
+      "summary": "Reigning Queen's Club champion Tatjana Maria shocked at not receiving wildcard to defend her title.",
+      "url": "https://www.theguardian.com/p/x58gxk",
+      "thumbnail": "https://media.guim.co.uk/4f3337394674399986936f72401c26f36e1ba072/2132_1386_2442_1954/500.jpg",
+      "published": "2026-06-08T14:39:27Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "football/2026/jun/08/ofcom-social-media-online-abuse-world-cup",
+      "headline": "Ofcom warns social media firms over online abuse during World Cup",
+      "summary": "Ofcom warns social media firms to monitor online abuse during World Cup, targeting racist harassment of players.",
+      "url": "https://www.theguardian.com/p/x58fzp",
+      "thumbnail": "https://media.guim.co.uk/1b6b954c1cb02fd5704954d98918ffbeac1a061c/309_0_3858_3086/500.jpg",
+      "published": "2026-06-08T14:33:46Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "world/2026/jun/08/sean-mcgovern-kinahan-crime-figure-jailed-24-years-dublin-court",
+      "headline": "‘Senior lieutenant’ in Kinahan criminal cartel jailed for 24 years by Dublin court",
+      "summary": "Kinahan cartel senior lieutenant Sean McGovern sentenced to 24 years for directing criminal organization activities.",
+      "url": "https://www.theguardian.com/p/x58fgx",
+      "thumbnail": "https://media.guim.co.uk/05df9aeb761e23b6eaf1993d3230c97b7246e0ce/80_65_967_773/500.png",
+      "published": "2026-06-08T14:32:37Z",
+      "location": {
+        "name": "Dublin",
+        "lat": 53.3498,
+        "lng": -6.2603
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "world/2026/jun/08/iran-ceasefire-talks-us-israel-strait-of-hormuz-blockade-houthis-yemen",
+      "headline": "Will Iran give up on ceasefire talks as strait of Hormuz blockade continues?",
+      "summary": "Iran questions ceasefire commitment as Houthis rejoin conflict and Strait of Hormuz shipping blockade continues.",
+      "url": "https://www.theguardian.com/p/x58f9y",
+      "thumbnail": "https://media.guim.co.uk/4d33f0fea1a38ece6ba30c9d97bf05f74442ef0e/741_0_3931_3146/500.jpg",
+      "published": "2026-06-08T14:04:20Z",
+      "location": {
+        "name": "Yemen",
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "culture/2026/jun/08/how-we-made-strictly-ballroom-baz-luhrmann-tara-morice-paul-mercurio",
+      "headline": "‘Screaming girls chased me down the street’: how we made Strictly Ballroom",
+      "summary": "Baz Luhrmann and cast reflect on making Strictly Ballroom and its unexpected cultural impact.",
+      "url": "https://www.theguardian.com/p/x56qhj",
+      "thumbnail": "https://media.guim.co.uk/9028204eafb2e705968590c0229299d0859f5f09/435_0_3002_2401/500.jpg",
+      "published": "2026-06-08T14:02:07Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "culture"
+    },
+    {
+      "id": "environment/2026/jun/09/australia-rooftop-solar-panels-households-business",
+      "headline": "Households outshine business in Australia’s rooftop solar revolution, report finds ",
+      "summary": "Australia leads world in residential solar installations but commercial sector lags with only quarter deployment.",
+      "url": "https://www.theguardian.com/p/x58def",
+      "thumbnail": "https://media.guim.co.uk/0411892c15bc2a3176e0d20e9e684f6aee0c1124/401_0_3994_3197/500.jpg",
+      "published": "2026-06-08T14:01:26Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "environment"
+    },
+    {
+      "id": "world/2026/jun/08/philippines-earthquake-mindanao-tsunami-warnings",
+      "headline": "Powerful earthquake in southern Philippines leaves at least 32 dead",
+      "summary": "Magnitude-7.8 earthquake in southern Philippines kills at least 32, collapses buildings and triggers tsunami alerts.",
+      "url": "https://www.theguardian.com/p/x58d2v",
+      "thumbnail": "https://media.guim.co.uk/9193558ec86c3d1a8f814d301f9b80c0404b6a16/185_0_2813_2250/500.jpg",
+      "published": "2026-06-08T14:01:08Z",
+      "location": {
+        "name": "Mindanao",
+        "lat": 8,
+        "lng": 124.5
+      },
+      "category": "climate",
+      "significance": 3,
+      "section": "world"
     }
   ]
 }
