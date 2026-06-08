@@ -1,44 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-08T22:13:27.374Z",
-    "story_count": 55,
-    "oldest_story": "2026-06-07T22:47:41Z",
-    "newest_story": "2026-06-08T22:11:25Z",
+    "generated_at": "2026-06-08T23:39:30.308Z",
+    "story_count": 58,
+    "oldest_story": "2026-06-08T05:20:17Z",
+    "newest_story": "2026-06-08T23:30:38Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "us-news/2026/jun/07/david-rush-cia-gold-bars-fake-spy-program",
-      "headline": "Ex-CIA official accused of stealing $40m in gold bars reportedly created fake spy program",
-      "summary": "Ex-CIA official David Rush accused of stealing $40m in gold bars via fake spy program.",
-      "url": "https://www.theguardian.com/p/x58cd3",
-      "thumbnail": "https://media.guim.co.uk/8eaa0e41c7b388e9ff9d9426b5f151cf8715476a/226_0_2590_2072/500.jpg",
-      "published": "2026-06-07T22:54:21Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "football/2026/jun/07/modric-still-casts-a-spell-as-croatia-win-warm-up-with-england-to-come",
-      "headline": "Modric still casts a spell as Croatia win warm-up with England to come",
-      "summary": "Luka Modric scores in Croatia's 2-1 warm-up win over Slovenia before World Cup campaign.",
-      "url": "https://www.theguardian.com/p/x587xk",
-      "thumbnail": "https://media.guim.co.uk/6121306f6084c24ced2bf7a8ffcf778a0bcf6ee6/495_0_4908_3927/500.jpg",
-      "published": "2026-06-07T22:47:41Z",
-      "location": {
-        "name": "Zagreb",
-        "lat": 45.815,
-        "lng": 15.9819
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
     {
       "id": "world/live/2026/jun/08/iran-israel-news-live-updates-strikes-attacks-intensify-trump-netanyahu",
       "headline": "Middle East crisis live: Israel and Iran exchange fresh round of strikes as attacks intensify",
@@ -886,6 +854,86 @@
       "category": "politics",
       "significance": 3,
       "section": "us-news"
+    },
+    {
+      "id": "sport/live/2026/jun/08/nba-finals-2026-game-3-san-antonio-spurs-v-new-york-knicks-live-buildup",
+      "headline": "NBA finals 2026 Game 3: San Antonio Spurs v New York Knicks – live buildup",
+      "summary": "Knicks host Spurs in NBA Finals Game 3 with 2-0 series lead at Madison Square Garden.",
+      "url": "https://www.theguardian.com/p/x58geh",
+      "thumbnail": "https://media.guim.co.uk/4f029da25cdafd8b3cf9c3db8b704fce8a21f9c7/667_0_3333_2667/500.jpg",
+      "published": "2026-06-08T23:30:38Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "sport"
+    },
+    {
+      "id": "technology/2026/jun/09/ai-legal-assistants-england-wales-cannot-replace-funding-staff",
+      "headline": "Plan for AI legal assistants in England and Wales ‘cannot replace funding and staff’, lawyers say",
+      "summary": "UK plans AI legal assistants trial in crown courts to reduce case backlog despite concerns.",
+      "url": "https://www.theguardian.com/p/x58gfb",
+      "thumbnail": "https://media.guim.co.uk/775188b8648e1cef55108b4132b471fed8b8406a/1040_0_5200_4160/500.jpg",
+      "published": "2026-06-08T23:01:38Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "tech",
+      "significance": 2,
+      "section": "technology"
+    },
+    {
+      "id": "law/2026/jun/09/family-courts-widespread-gender-bias-victim-blaming-report",
+      "headline": "Family courts show ‘widespread’ gender bias and victim-blaming, report finds",
+      "summary": "Report finds widespread gender bias and victim-blaming in English and Welsh family courts.",
+      "url": "https://www.theguardian.com/p/x579by",
+      "thumbnail": "https://media.guim.co.uk/a986591a5616e58ef4e969da4c262a7cd5ea966d/16_0_5600_4480/500.jpg",
+      "published": "2026-06-08T23:01:38Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "law"
+    },
+    {
+      "id": "society/2026/jun/09/pilot-hyperlocal-job-support-scheme-jobsplus-england",
+      "headline": "Pilot ‘hyperlocal’ job support scheme in England shows promising signs of effectiveness",
+      "summary": "Hyperlocal JobsPlus pilot scheme across 10 English neighbourhoods shows effective employment support.",
+      "url": "https://www.theguardian.com/p/x58vfx",
+      "thumbnail": "https://media.guim.co.uk/2ef6e471a3d8ea7f75a4e8025ebed30021c76f21/189_0_6830_5464/500.jpg",
+      "published": "2026-06-08T23:01:38Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "society"
+    },
+    {
+      "id": "uk-news/2026/jun/09/child-sexual-abuse-victims-in-england-and-wales-to-get-help-to-remove-online-images",
+      "headline": "Child sexual abuse victims in England and Wales to get help to remove online images",
+      "summary": "Echo project to help child abuse survivors remove online abuse images in England and Wales.",
+      "url": "https://www.theguardian.com/p/x58fj2",
+      "thumbnail": "https://media.guim.co.uk/165f9eb481d56add98bf30e3af196ff6bf77bba8/0_0_6478_5181/500.jpg",
+      "published": "2026-06-08T23:01:37Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "uk-news"
     }
   ]
 }
