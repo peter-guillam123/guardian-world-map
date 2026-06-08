@@ -1,44 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-08T01:37:20.614Z",
-    "story_count": 74,
-    "oldest_story": "2026-06-07T06:00:25Z",
-    "newest_story": "2026-06-07T22:54:21Z",
+    "generated_at": "2026-06-08T06:23:59.172Z",
+    "story_count": 83,
+    "oldest_story": "2026-06-07T08:43:03Z",
+    "newest_story": "2026-06-08T06:20:08Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "society/2026/jun/07/social-housing-119-years-waitlist-current-building-rate",
-      "headline": "Social housing lists ‘would take 119 years to clear at current building rate’",
-      "summary": "Social housing waiting lists in England would take 119 years to clear at current building rates, charity warns.",
-      "url": "https://www.theguardian.com/p/x57yd4",
-      "thumbnail": "https://media.guim.co.uk/15fae9d46b0622a3ed35942b038c58ba00e0b5d4/955_81_2728_2183/500.jpg",
-      "published": "2026-06-07T06:00:26Z",
-      "location": {
-        "name": "England",
-        "lat": 52.3555,
-        "lng": -1.1743
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "society"
-    },
-    {
-      "id": "business/2026/jun/07/eu-uk-car-industry-lobbying-second-brexit-ev-tariff-delay",
-      "headline": "Car industry pressing EU for further delay to Brexit EV tariffs",
-      "summary": "EU and UK car industries seek second delay to Brexit EV tariffs, citing inability to meet 2027 targets.",
-      "url": "https://www.theguardian.com/p/x57m5c",
-      "thumbnail": "https://media.guim.co.uk/59c63f2a5b451b3833f990061630407d7cec52d4/986_0_3045_2436/500.jpg",
-      "published": "2026-06-07T06:00:25Z",
-      "location": {
-        "name": "Brussels",
-        "lat": 50.8503,
-        "lng": 4.3517
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
     {
       "id": "sport/live/2026/jun/07/england-v-new-zealand-first-cricket-test-day-four-live",
       "headline": "England v New Zealand: first cricket Test, day four – live",
@@ -1190,6 +1158,182 @@
       "category": "sport",
       "significance": 2,
       "section": "football"
+    },
+    {
+      "id": "world/live/2026/jun/08/iran-israel-news-live-updates-strikes-attacks-intensify-trump-netanyahu",
+      "headline": "Middle East crisis live: Israel and Iran exchange fresh round of strikes as attacks intensify",
+      "summary": "Israel strikes Iranian military targets in response to Tehran attacks amid escalating Middle East crisis.",
+      "url": "https://www.theguardian.com/p/x58d9q",
+      "thumbnail": "https://media.guim.co.uk/43190121a803c9074e562d9579c3b8dccccd397f/393_0_4830_3864/500.jpg",
+      "published": "2026-06-08T06:20:08Z",
+      "location": {
+        "name": "Iran",
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "society/2026/jun/08/more-than-1300-deaths-a-month-in-england-due-to-long-ae-waits-figures-suggest",
+      "headline": "More than 1,300 deaths a month in England due to long A&E waits, figures suggest",
+      "summary": "England's A&E waiting times linked to 1,300 monthly deaths, tenfold increase since 2015.",
+      "url": "https://www.theguardian.com/p/x58aax",
+      "thumbnail": "https://media.guim.co.uk/bbd2d1ca2a1141f395c79a23496d6812a0133cfd/408_0_2685_2149/500.jpg",
+      "published": "2026-06-08T06:00:20Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 3,
+      "section": "society"
+    },
+    {
+      "id": "travel/2026/jun/08/ireland-joyce-country-western-lakes-unesco-geopark-county-galway-mayo",
+      "headline": "West Ireland’s magical landscape: where limestone rivers, Hollywood legend and Irish myth converge",
+      "summary": "Joyce Country and Western Lakes UNESCO Geopark designated in western Ireland celebrating 700-million-year geology.",
+      "url": "https://www.theguardian.com/p/x56eqe",
+      "thumbnail": "https://media.guim.co.uk/27f0f8bde160b62c5e5588f1d9933f20e4bf690a/3606_0_4530_3628/500.jpg",
+      "published": "2026-06-08T06:00:20Z",
+      "location": {
+        "name": "Galway",
+        "lat": 53.2707,
+        "lng": -9.0568
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "travel"
+    },
+    {
+      "id": "money/2026/jun/08/scottishpower-cheques-late-brother-relatives",
+      "headline": "ScottishPower sent six cheques addressed to my late brother",
+      "summary": "ScottishPower sent multiple cheques to deceased man, causing distress to bereaved relatives.",
+      "url": "https://www.theguardian.com/p/x57fz6",
+      "thumbnail": "https://media.guim.co.uk/cca14a54ca06562c5c9df556a4d8548e92a5f894/465_0_2802_2242/500.jpg",
+      "published": "2026-06-08T06:00:20Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "money"
+    },
+    {
+      "id": "global-development/2026/jun/08/nigeria-dogs-pets-ownership-animal-welfare",
+      "headline": "‘Now people stop to ask their names and even stroke them’: Nigerians embrace dogs as pets",
+      "summary": "Nigerians increasingly embrace dog ownership as pets as traditional dog meat practices face cultural shift.",
+      "url": "https://www.theguardian.com/p/x54kxg",
+      "thumbnail": "https://media.guim.co.uk/8804e192f9a3450c9f01ba28d4e329e5f13ba853/373_0_5007_4005/500.jpg",
+      "published": "2026-06-08T06:00:19Z",
+      "location": {
+        "name": "Lagos",
+        "lat": 6.5244,
+        "lng": 3.3792
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "global-development"
+    },
+    {
+      "id": "film/2026/jun/08/my-memory-is-full-of-ghosts-review-deeply-moving-visual-hymn-for-the-bombed-out-syrian-city-of-homs",
+      "headline": "My Memory Is Full of Ghosts review – deeply moving visual hymn for the bombed-out Syrian city of Homs",
+      "summary": "Documentary 'My Memory Is Full of Ghosts' chronicles bombed Syrian city of Homs through visual testimony.",
+      "url": "https://www.theguardian.com/p/x58vfv",
+      "thumbnail": "https://media.guim.co.uk/b1fc32db5c2621fa0e0f675706a11740fe06bd0b/1002_505_2452_1961/500.jpg",
+      "published": "2026-06-08T06:00:19Z",
+      "location": {
+        "name": "Homs",
+        "lat": 34.726,
+        "lng": 36.724
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "film"
+    },
+    {
+      "id": "books/2026/jun/08/a-british-childhood-by-frank-cottrell-boyce-review-are-we-raising-a-bookless-generation",
+      "headline": "A British Childhood by Frank Cottrell-Boyce review – are we raising a bookless generation?",
+      "summary": "Frank Cottrell-Boyce's book raises concerns about declining childhood reading amid screen culture.",
+      "url": "https://www.theguardian.com/p/x55jhk",
+      "thumbnail": "https://media.guim.co.uk/a0cfb32fba9cae4e669aacb6952839cc52ce90d8/0_0_6880_5504/500.jpg",
+      "published": "2026-06-08T06:00:18Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "books"
+    },
+    {
+      "id": "world/2026/jun/08/cuba-power-outages-electricity",
+      "headline": "No electricity, no gas, no sleep: Cubans on edge amid endless outages",
+      "summary": "Cuba faces unprecedented power crisis after four months of US oil blockade with daily blackouts.",
+      "url": "https://www.theguardian.com/p/x57qvg",
+      "thumbnail": "https://media.guim.co.uk/b11eb0c9fd284242ca1565517bd82d7c99dd3690/1019_0_5029_4024/500.jpg",
+      "published": "2026-06-08T06:00:18Z",
+      "location": {
+        "name": "Havana",
+        "lat": 23.1291,
+        "lng": -82.3794
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "world/2026/jun/08/utsunomiya-city-japan-bear-sighting-all-primary-secondary-schools-shut",
+      "headline": "Japanese city shuts down nearly 100 schools after unprecedented bear sighting",
+      "summary": "Japanese city closes 94 schools after rare black bear sighting 100km north of Tokyo.",
+      "url": "https://www.theguardian.com/p/x58dmm",
+      "thumbnail": "https://media.guim.co.uk/e219265e5d50b76d4823e310589060ef1f31be53/277_0_2747_2198/500.jpg",
+      "published": "2026-06-08T05:56:19Z",
+      "location": {
+        "name": "Utsunomiya",
+        "lat": 36.5627,
+        "lng": 139.8804
+      },
+      "category": "other",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "australia-news/2026/jun/08/queensland-high-profile-man-extortion-case-name-suppressed-ntwnfb",
+      "headline": "Queensland magistrate suppresses identity of man with ‘high public profile’ in extortion case",
+      "summary": "Queensland magistrate suppresses identity of high-profile man in extortion case amid media objections.",
+      "url": "https://www.theguardian.com/p/x58d63",
+      "thumbnail": "https://media.guim.co.uk/a07b70adc1365cfe5b363642631c2e5061256299/319_0_3340_2672/500.jpg",
+      "published": "2026-06-08T05:52:31Z",
+      "location": {
+        "name": "Cairns",
+        "lat": -16.8661,
+        "lng": 145.7781
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "tv-and-radio/2026/jun/08/tv-tonight-brexit-a-very-british-civil-war-bbc-two",
+      "headline": "TV tonight: revisiting the febrile frenzy of the Brexit vote, a decade on",
+      "summary": "BBC documentary revisits Britain's divisive Brexit referendum vote and its turbulent political aftermath.",
+      "url": "https://www.theguardian.com/p/x57k78",
+      "thumbnail": "https://media.guim.co.uk/77438bbea7975b740a93ecc52cbc7a1e751037a0/419_0_3348_2678/500.jpg",
+      "published": "2026-06-08T05:20:17Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "tv-and-radio"
     }
   ]
 }
