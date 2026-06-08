@@ -1,108 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-08T18:07:01.299Z",
-    "story_count": 63,
-    "oldest_story": "2026-06-07T18:33:27Z",
-    "newest_story": "2026-06-08T18:05:33Z",
+    "generated_at": "2026-06-08T20:31:57.256Z",
+    "story_count": 57,
+    "oldest_story": "2026-06-07T20:33:01Z",
+    "newest_story": "2026-06-08T20:17:15Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "sport/2026/jun/07/keely-hodgkinson-sets-british-800m-record-audrey-werro-stockholm-diamond-league-athletics",
-      "headline": "Hodgkinson sets British best but Werro surges to 800m success in Stockholm",
-      "summary": "Hodgkinson sets British 800m record; Swiss runner Werro wins with third-fastest time ever.",
-      "url": "https://www.theguardian.com/p/x586ym",
-      "thumbnail": "https://media.guim.co.uk/4c519ba78dd90e94394f55a2df0a49de0ee7ee7a/276_0_5330_4264/500.jpg",
-      "published": "2026-06-07T19:30:32Z",
-      "location": {
-        "name": "Stockholm",
-        "lat": 59.3293,
-        "lng": 18.0686
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "us-news/2026/jun/07/trump-deal-chagos-islands-mauritius-uk",
-      "headline": "Trump reportedly considers buying Chagos Islands from Mauritius",
-      "summary": "Trump reportedly considers buying Chagos Islands from Mauritius to secure Diego Garcia base.",
-      "url": "https://www.theguardian.com/p/x58bj2",
-      "thumbnail": "https://media.guim.co.uk/25da67ef346aade32610145326aa94c0163499aa/40_0_3290_2632/500.jpg",
-      "published": "2026-06-07T19:13:02Z",
-      "location": {
-        "name": "Diego Garcia",
-        "lat": -7.3117,
-        "lng": 72.4192
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "world/2026/jun/07/zelenskyy-starmer-macron-merz-ukraine-talks-london",
-      "headline": "Zelenskyy meets key allies in London aiming to build on strikes on Russia",
-      "summary": "Zelenskyy meets Starmer, Macron, Merz in London to coordinate Ukraine support strategy.",
-      "url": "https://www.theguardian.com/p/x58a74",
-      "thumbnail": "https://media.guim.co.uk/cfbcddc84fecd04c532759b4f957c16874eb2d41/154_0_3418_2735/500.jpg",
-      "published": "2026-06-07T19:10:01Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "world/2026/jun/07/russian-drone-hits-building-spent-nuclear-fuel-chornobyl",
-      "headline": "Russian drone hits building storing spent nuclear fuel near Chornobyl ",
-      "summary": "Russian drone hits spent nuclear fuel storage building near Chornobyl; Zelenskyy calls attack vile.",
-      "url": "https://www.theguardian.com/p/x589jg",
-      "thumbnail": "https://media.guim.co.uk/bd979dfda670cc2ef772c7619deb1e8e4e38603d/186_0_2116_1693/500.jpg",
-      "published": "2026-06-07T19:01:28Z",
-      "location": {
-        "name": "Chornobyl",
-        "lat": 51.3893,
-        "lng": 30.1157
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "society/2026/jun/07/record-number-of-people-waiting-for-nhs-diagnostic-tests-in-england",
-      "headline": "Record number of people waiting for NHS diagnostic tests in England",
-      "summary": "Record 1.92m NHS patients wait for diagnostic tests; one in five exceed six-week target.",
-      "url": "https://www.theguardian.com/p/x58bd2",
-      "thumbnail": "https://media.guim.co.uk/55ed543a98e727ad6f3b6033d8930f0008fcd118/41_0_5000_4000/500.jpg",
-      "published": "2026-06-07T18:39:38Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "society"
-    },
-    {
-      "id": "business/2026/jun/07/uk-baby-magazine-arrives-19-years-late-royal-mail",
-      "headline": "Delivery pain for UK dad as baby magazine arrives 19 years late",
-      "summary": "UK dad receives parenting magazine 19 years after ordering it before son's birth in 2007.",
-      "url": "https://www.theguardian.com/p/x58bb7",
-      "thumbnail": "https://media.guim.co.uk/1091904d9dfcbf3c97c0ec4650a401bc03820fb3/135_0_1592_1274/500.jpg",
-      "published": "2026-06-07T18:33:27Z",
-      "location": {
-        "name": "Chester",
-        "lat": 53.1899,
-        "lng": -2.8929
-      },
-      "category": "other",
-      "significance": 1,
-      "section": "business"
-    },
     {
       "id": "australia-news/2026/jun/08/morning-mail-monday-ntwnfb",
       "headline": "Iran launches missiles against Israel, homebuyers squeezed, Alexander Zverev wins French Open",
@@ -150,54 +54,6 @@
       "category": "health",
       "significance": 2,
       "section": "australia-news"
-    },
-    {
-      "id": "sport/2026/jun/07/we-will-get-that-win-lewis-hamilton-insists-he-is-getting-closer-to-first-ferrari-victory",
-      "headline": "‘We will get that win’: Lewis Hamilton insists he is getting closer to first Ferrari victory",
-      "summary": "Lewis Hamilton finishes second at Monaco Grand Prix, vows to achieve first Ferrari victory.",
-      "url": "https://www.theguardian.com/p/x586yb",
-      "thumbnail": "https://media.guim.co.uk/df7c3490181d1e4f25583503dd7d0353ab100ed5/500_0_5000_4000/500.jpg",
-      "published": "2026-06-07T20:23:56Z",
-      "location": {
-        "name": "Monte Carlo",
-        "lat": 43.7384,
-        "lng": 7.4246
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "news/ng-interactive/2026/jun/08/australian-music-extinction-risk-data-listening-trends-aria-chart-history",
-      "headline": "Is Australian music at risk of extinction? Here’s what the data tells us",
-      "summary": "Forty years of ARIA chart data reveals decline in Australian music's market share.",
-      "url": "https://www.theguardian.com/p/x345dt",
-      "thumbnail": "https://media.guim.co.uk/a96c15b97dea64ba9482ace4cabc97c9354974ea/0_0_5000_4000/500.jpg",
-      "published": "2026-06-07T20:00:07Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "news"
-    },
-    {
-      "id": "music/ng-interactive/2026/jun/08/aria-charts-music-quiz-trivia-australia",
-      "headline": "Aria music quiz: how well do you know the Australian charts?",
-      "summary": "Interactive quiz tests knowledge of ARIA chart history and Australian music trends.",
-      "url": "https://www.theguardian.com/p/x53bkq",
-      "thumbnail": "https://media.guim.co.uk/b74434742f947b07df5284dfb59f57da865b1aa6/0_0_5000_4000/500.jpg",
-      "published": "2026-06-07T20:00:06Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "music"
     },
     {
       "id": "science/live/2026/jun/08/australia-news-live-anthony-albanese-labor-one-nation-coalition-housing-crisis-angus-taylor-ntwnfb",
@@ -1014,6 +870,54 @@
       "category": "sport",
       "significance": 2,
       "section": "football"
+    },
+    {
+      "id": "us-news/2026/jun/08/who-is-todd-blanche-trump-attorney-general-pick",
+      "headline": "Todd Blanche: devoted Trump enforcer rewarded with top nomination",
+      "summary": "Trump nominates loyalist Todd Blanche as attorney general, requiring Senate confirmation.",
+      "url": "https://www.theguardian.com/p/x58vzx",
+      "thumbnail": "https://media.guim.co.uk/fc50a19bfa56c082339a279a15a0fef5cc2b27ec/833_477_4744_3796/500.jpg",
+      "published": "2026-06-08T20:17:15Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/jun/08/trump-nominates-todd-blanche-attorney-general",
+      "headline": "Trump nominates Todd Blanche to serve permanently as attorney general",
+      "summary": "Trump nominates former lawyer Todd Blanche as permanent attorney general.",
+      "url": "https://www.theguardian.com/p/x57kzy",
+      "thumbnail": "https://media.guim.co.uk/8a1f582a3eb2f5231e69b66c6a3204f03a666237/458_0_4585_3668/500.jpg",
+      "published": "2026-06-08T19:49:58Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/jun/08/gordon-s-wood-pulitzer-prize-historian-dead",
+      "headline": "Gordon S Wood, Pulitzer-prize winning historian, dies after being struck by a car in Rhode Island",
+      "summary": "Pulitzer-winning historian Gordon S Wood dies after being struck by car in Rhode Island.",
+      "url": "https://www.theguardian.com/p/x58h22",
+      "thumbnail": "https://media.guim.co.uk/e5d776e2849f231852ea16427c52db82f643a7eb/86_0_4486_3588/500.jpg",
+      "published": "2026-06-08T19:32:36Z",
+      "location": {
+        "name": "Providence",
+        "lat": 41.824,
+        "lng": -71.4128
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "us-news"
     }
   ]
 }
