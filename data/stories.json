@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-06-09T01:31:44.286Z",
-    "story_count": 63,
-    "oldest_story": "2026-06-08T05:20:17Z",
-    "newest_story": "2026-06-09T01:27:18Z",
+    "generated_at": "2026-06-09T05:50:49.994Z",
+    "story_count": 69,
+    "oldest_story": "2026-06-08T05:52:31Z",
+    "newest_story": "2026-06-09T05:00:46Z",
     "window_hours": 24
   },
   "stories": [
@@ -166,22 +166,6 @@
       "category": "politics",
       "significance": 2,
       "section": "australia-news"
-    },
-    {
-      "id": "tv-and-radio/2026/jun/08/tv-tonight-brexit-a-very-british-civil-war-bbc-two",
-      "headline": "TV tonight: revisiting the febrile frenzy of the Brexit vote, a decade on",
-      "summary": "BBC documentary revisits Britain's divisive Brexit referendum vote and its turbulent political aftermath.",
-      "url": "https://www.theguardian.com/p/x57k78",
-      "thumbnail": "https://media.guim.co.uk/77438bbea7975b740a93ecc52cbc7a1e751037a0/419_0_3348_2678/500.jpg",
-      "published": "2026-06-08T05:20:17Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "tv-and-radio"
     },
     {
       "id": "business/live/2026/jun/08/stock-markets-fall-oil-jumps-middle-east-conflict-ai-boom-falters-live-news-updates",
@@ -1014,6 +998,118 @@
       "category": "politics",
       "significance": 3,
       "section": "law"
+    },
+    {
+      "id": "commentisfree/2026/jun/09/young-people-money-citizens-advance-generations-older-people",
+      "headline": "Young people need money because our system is rigged. Here’s a way to give it to them",
+      "summary": "Polly Toynbee proposes giving young workers early pension access to address financial inequality.",
+      "url": "https://www.theguardian.com/p/x58f3c",
+      "thumbnail": "https://media.guim.co.uk/cda570e785915456d1d16a3784827fef17a5a79d/500_0_2500_2000/500.jpg",
+      "published": "2026-06-09T05:00:46Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "commentisfree"
+    },
+    {
+      "id": "business/2026/jun/09/northern-universities-nhs-trusts-huddersfield-manchester",
+      "headline": "Healthy cooperation: how northern universities are linking with NHS trusts to drive innovation",
+      "summary": "Northern universities collaborate with NHS trusts to drive innovation and economic growth.",
+      "url": "https://www.theguardian.com/p/x3pyeb",
+      "thumbnail": "https://media.guim.co.uk/b687fa82ba109de06daa5006f566e7bf114b43c0/204_0_5600_4480/500.jpg",
+      "published": "2026-06-09T05:00:46Z",
+      "location": {
+        "name": "Huddersfield",
+        "lat": 53.6454,
+        "lng": -1.7863
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "world/2026/jun/09/worlds-first-wind-powered-underwater-datacentre-starts-operating-in-china",
+      "headline": "World’s first wind-powered underwater datacentre starts operating in China",
+      "summary": "China launches world's first wind-powered underwater datacentre off Shanghai coast.",
+      "url": "https://www.theguardian.com/p/x57nqh",
+      "thumbnail": "https://media.guim.co.uk/b1257a3924a3d4b6e9c06dece08497f8e5cf0e7b/176_0_4880_3904/500.jpg",
+      "published": "2026-06-09T05:00:45Z",
+      "location": {
+        "name": "Shanghai",
+        "lat": 31.2304,
+        "lng": 121.4737
+      },
+      "category": "tech",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "uk-news/2026/jun/09/zelenskyy-hopes-to-invite-king-charles-state-visit-ukraine",
+      "headline": "‘We want to see him in Ukraine’: Zelenskyy hopes to invite King Charles on state visit",
+      "summary": "Zelenskyy plans to invite King Charles on state visit to Ukraine this year.",
+      "url": "https://www.theguardian.com/p/x58gak",
+      "thumbnail": "https://media.guim.co.uk/9271d29d898caef3722c2f2e4f87872bf31ecde2/1096_398_2932_2345/500.jpg",
+      "published": "2026-06-09T05:00:45Z",
+      "location": {
+        "name": "Kyiv",
+        "lat": 50.4501,
+        "lng": 30.5234
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "uk-news"
+    },
+    {
+      "id": "society/2026/jun/09/parents-carer-seriously-ill-children-financial-support-hughs-law",
+      "headline": "Parents caring for seriously ill children in UK could get financial support under ‘Hugh’s law’",
+      "summary": "UK government considers Hugh's Law to provide financial support for parents of seriously ill children.",
+      "url": "https://www.theguardian.com/p/x58gxq",
+      "thumbnail": "https://media.guim.co.uk/7b86d332e5aadb76f98861c1ac05de4e755f7be7/549_0_5802_4640/500.jpg",
+      "published": "2026-06-09T05:00:45Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "society"
+    },
+    {
+      "id": "society/2026/jun/09/ministers-could-ban-london-councils-dumping-homeless-families-miles-away",
+      "headline": "Ministers could ban London councils ‘dumping’ homeless families miles away",
+      "summary": "Ministers consider banning London councils from relocating homeless families across England.",
+      "url": "https://www.theguardian.com/p/x58ez7",
+      "thumbnail": "https://media.guim.co.uk/2605105d67dcce1e9094ff14cd85f45923e03ded/1363_0_6829_5464/500.jpg",
+      "published": "2026-06-09T05:00:44Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "society"
+    },
+    {
+      "id": "commentisfree/2026/jun/09/australia-politics-female-mp-misogyny-sexist-abuse-every-day",
+      "headline": "I face sexist abuse every day as a female MP – misogyny is unacceptable whatever side of the aisle we’re on",
+      "summary": "Australian female MP highlights daily sexist abuse in parliament, criticizing misogyny across political aisles.",
+      "url": "https://www.theguardian.com/p/x58tm9",
+      "thumbnail": "https://media.guim.co.uk/588a235e6291ef08567f7770dd526e9caf060b54/1357_39_4609_3689/500.jpg",
+      "published": "2026-06-09T04:57:40Z",
+      "location": {
+        "name": "Melbourne",
+        "lat": -37.8136,
+        "lng": 144.9631
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "commentisfree"
     }
   ]
 }
