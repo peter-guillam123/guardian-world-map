@@ -1,76 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-09T17:46:57.723Z",
-    "story_count": 85,
-    "oldest_story": "2026-06-08T17:56:09Z",
-    "newest_story": "2026-06-09T17:44:51Z",
+    "generated_at": "2026-06-09T19:49:52.821Z",
+    "story_count": 91,
+    "oldest_story": "2026-06-08T19:49:58Z",
+    "newest_story": "2026-06-09T19:46:26Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "world/2026/jun/08/israel-and-iran-attacks-pause-after-trump-calls-to-stop-shooting",
-      "headline": "Israel and Iran step back from renewed conflict after Trump calls for halt",
-      "summary": "Israel and Iran halt attacks after Trump appeals for ceasefire; Netanyahu vows response to future strikes.",
-      "url": "https://www.theguardian.com/p/x58ggy",
-      "thumbnail": "https://media.guim.co.uk/c8b85b74862aefb86bbca51ca50dd7707eb2fb0f/545_0_6609_5290/500.jpg",
-      "published": "2026-06-08T18:05:33Z",
-      "location": {
-        "name": "Jerusalem",
-        "lat": 31.7683,
-        "lng": 35.2137
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "us-news/2026/jun/08/la-mayoral-race-california-elections-vote-counting-continues",
-      "headline": "Nithya Raman leads Spencer Pratt in LA mayor’s race as vote-counting continues",
-      "summary": "Nithya Raman leads Spencer Pratt in LA mayoral race as vote-counting continues ahead of runoff.",
-      "url": "https://www.theguardian.com/p/x58gem",
-      "thumbnail": "https://media.guim.co.uk/70533ebb2bbe95398167c89a7854517756eef4b8/427_0_2501_2000/500.jpg",
-      "published": "2026-06-08T17:59:25Z",
-      "location": {
-        "name": "Los Angeles",
-        "lat": 34.0522,
-        "lng": -118.2437
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/jun/08/trump-h-1b-visa-fee-invalidated",
-      "headline": "Federal judge rules Trump’s $100,000 fee for H-1B visas unlawful",
-      "summary": "Federal judge rules Trump's $100,000 H-1B visa fee unlawful and must be invalidated.",
-      "url": "https://www.theguardian.com/p/x58hvx",
-      "thumbnail": "https://media.guim.co.uk/59eb9906dc108507440ca83610919d84feb727a3/718_0_3682_2946/500.jpg",
-      "published": "2026-06-08T17:57:32Z",
-      "location": {
-        "name": "Boston",
-        "lat": 42.3601,
-        "lng": -71.0589
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "football/2026/jun/08/scotland-in-world-cup-war-of-words-with-norway-over-cancelled-training-match",
-      "headline": "Scotland in World Cup war of words with Norway over cancelled training match",
-      "summary": "Scotland in war of words with Norway after cancelling World Cup training match in Charlotte.",
-      "url": "https://www.theguardian.com/p/x58gq3",
-      "thumbnail": "https://media.guim.co.uk/d166d52eb7213de940c7de4632c1a97194e84e47/573_0_4635_3709/500.jpg",
-      "published": "2026-06-08T17:56:09Z",
-      "location": {
-        "name": "Charlotte",
-        "lat": 35.2271,
-        "lng": -80.8431
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
     {
       "id": "us-news/2026/jun/08/who-is-todd-blanche-trump-attorney-general-pick",
       "headline": "Todd Blanche: devoted Trump enforcer rewarded with top nomination",
@@ -101,22 +37,6 @@
       },
       "category": "politics",
       "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/jun/08/gordon-s-wood-pulitzer-prize-historian-dead",
-      "headline": "Gordon S Wood, Pulitzer-prize winning historian, dies after being struck by a car in Rhode Island",
-      "summary": "Pulitzer-winning historian Gordon S Wood dies after being struck by car in Rhode Island.",
-      "url": "https://www.theguardian.com/p/x58h22",
-      "thumbnail": "https://media.guim.co.uk/e5d776e2849f231852ea16427c52db82f643a7eb/86_0_4486_3588/500.jpg",
-      "published": "2026-06-08T19:32:36Z",
-      "location": {
-        "name": "Providence",
-        "lat": 41.824,
-        "lng": -71.4128
-      },
-      "category": "health",
-      "significance": 2,
       "section": "us-news"
     },
     {
@@ -1366,6 +1286,182 @@
       "category": "politics",
       "significance": 2,
       "section": "uk-news"
+    },
+    {
+      "id": "sport/2026/jun/09/wembanyama-condemns-apparent-attacks-on-spurs-fans-in-new-york-during-nba-finals",
+      "headline": "Wembanyama condemns apparent attacks on Spurs fans in New York during NBA finals",
+      "summary": "NBA Finals: Spurs fans attacked by Knicks supporters in New York after Game 3.",
+      "url": "https://www.theguardian.com/p/x58mzt",
+      "thumbnail": "https://media.guim.co.uk/752e348c7830a442c6e6bf3c67abe6a1a436648e/305_0_3048_2439/500.jpg",
+      "published": "2026-06-09T19:46:26Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "football/2026/jun/09/stadium-hotel-workers-strike-world-cup",
+      "headline": "US stadium and hotel workers threaten strikes ‘to make things fair’ during World Cup",
+      "summary": "US stadium and hotel workers threaten strikes over low wages during 2026 World Cup.",
+      "url": "https://www.theguardian.com/p/x586b8",
+      "thumbnail": "https://media.guim.co.uk/364e211e8a95a2cc02cf49afdfed585c925a65df/642_0_6810_5448/500.jpg",
+      "published": "2026-06-09T19:19:31Z",
+      "location": {
+        "name": "Los Angeles",
+        "lat": 34.0522,
+        "lng": -118.2437
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/jun/09/world-cup-94-chief-alan-rothenberg-we-wanted-whitney-houston-on-the-pitch-but-fifa-said-no",
+      "headline": "World Cup 94 chief Alan Rothenberg: ‘We wanted Whitney Houston on the pitch but Fifa said no’",
+      "summary": "1994 World Cup chief recalls plans for Whitney Houston as half-time show rejected by FIFA.",
+      "url": "https://www.theguardian.com/p/x58xyj",
+      "thumbnail": "https://media.guim.co.uk/5e12b1f6e3c4495d89aff0324dff44c8b1024a33/94_0_1808_1447/500.jpg",
+      "published": "2026-06-09T19:00:02Z",
+      "location": {
+        "name": "East Rutherford",
+        "lat": 40.8149,
+        "lng": -74.0745
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "stage/2026/jun/09/attachment-review-everyman-theatre-liverpool-julia-cranney",
+      "headline": "Attachment review – adoption is a marathon in this sprint of a show",
+      "summary": "Attachment play explores adoption complexities in sprint format at Everyman theatre.",
+      "url": "https://www.theguardian.com/p/x58kfm",
+      "thumbnail": "https://media.guim.co.uk/b159f940e681992aa819741c92669fb6df74901c/75_532_2100_1680/500.jpg",
+      "published": "2026-06-09T19:00:01Z",
+      "location": {
+        "name": "Liverpool",
+        "lat": 53.4081,
+        "lng": -2.9956
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "stage"
+    },
+    {
+      "id": "politics/2026/jun/09/how-belfast-knife-attack-became-the-latest-far-right-trigger-event",
+      "headline": "How Belfast knife attack became the latest far-right ‘trigger event’",
+      "summary": "Belfast knife attack becomes far-right trigger event spreading via social media internationally.",
+      "url": "https://www.theguardian.com/p/x58ypc",
+      "thumbnail": "https://media.guim.co.uk/948759e5c9c97d979fb0b1740b2ddbac80bb5f38/355_0_5000_4000/500.jpg",
+      "published": "2026-06-09T18:57:20Z",
+      "location": {
+        "name": "Belfast",
+        "lat": 54.5973,
+        "lng": -5.9301
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "politics"
+    },
+    {
+      "id": "uk-news/2026/jun/09/leon-o-leary-connor-bishop-jailed-violence-protest-police-treatment-henry-nowak",
+      "headline": "Two men jailed for violence at protest over police treatment of Henry Nowak",
+      "summary": "Two men jailed for violence at Southampton protest over Henry Nowak police case.",
+      "url": "https://www.theguardian.com/p/x58m9p",
+      "thumbnail": "https://media.guim.co.uk/99a89ea1ae00b1596084cb3752cb236b747bc71a/740_0_4201_3361/500.jpg",
+      "published": "2026-06-09T18:53:38Z",
+      "location": {
+        "name": "Southampton",
+        "lat": 50.9097,
+        "lng": -1.4044
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "uk-news/2026/jun/09/belfast-sudanese-community-attack-northern-ireland",
+      "headline": "‘You can never be safe’: Belfast’s Sudanese community hunkers down after grisly attack",
+      "summary": "Belfast's Sudanese community fears safety after asylum seeker charged with attempted murder.",
+      "url": "https://www.theguardian.com/p/x58mcn",
+      "thumbnail": "https://media.guim.co.uk/a644c25776241701fa35786dfea5389bb1817add/500_0_5000_4000/500.jpg",
+      "published": "2026-06-09T18:53:20Z",
+      "location": {
+        "name": "Belfast",
+        "lat": 54.5973,
+        "lng": -5.9301
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "sport/2026/jun/09/serena-williams-makes-winning-return-to-tennis-with-victory-in-queens-doubles",
+      "headline": "Serena Williams makes winning return to tennis with victory in Queen’s doubles",
+      "summary": "Serena Williams wins doubles comeback at Queen's Club with partner Victoria Mboko.",
+      "url": "https://www.theguardian.com/p/x58kj2",
+      "thumbnail": "https://media.guim.co.uk/be08c993c2960dc655cf58067c38a40c626887d4/591_0_4748_3798/500.jpg",
+      "published": "2026-06-09T18:52:26Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "world/2026/jun/09/passenger-david-stroud-london-train-harassment-sentence",
+      "headline": "Passenger on train to London given first sentence for harassment under new law",
+      "summary": "Train passenger given first conviction under new harassment law for grabbing woman's hair.",
+      "url": "https://www.theguardian.com/p/x58mfj",
+      "thumbnail": "https://media.guim.co.uk/3300042236de1c13301cb6807fa1dd2c6e9527f9/2_9_1559_1246/500.jpg",
+      "published": "2026-06-09T18:46:31Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 1,
+      "section": "world"
+    },
+    {
+      "id": "world/2026/jun/09/lyhanna-lawyer-france-justice-system-funding",
+      "headline": "Lyhanna: lawyer for murdered French girl’s family calls for more justice system funding",
+      "summary": "Lawyer calls for justice system funding after 11-year-old girl's murder sparks French protests.",
+      "url": "https://www.theguardian.com/p/x58m4z",
+      "thumbnail": "https://media.guim.co.uk/b2aaa8ea7cfc170a51d7702dfba6b979d7f9e084/0_0_5739_4592/500.jpg",
+      "published": "2026-06-09T18:40:16Z",
+      "location": {
+        "name": "France",
+        "lat": 46.2276,
+        "lng": 2.2137
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "us-news/2026/jun/09/splc-report-far-right-groups-trump-administration",
+      "headline": "Hard-right groups have expanded their influence across US government, report finds",
+      "summary": "SPLC report finds hard-right groups expanding influence across US government amid federal fraud charges.",
+      "url": "https://www.theguardian.com/p/x58mby",
+      "thumbnail": "https://media.guim.co.uk/697618c2136e2cfcd94d5ff458867d7f05f9dc5b/0_0_3334_2667/500.jpg",
+      "published": "2026-06-09T18:39:45Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
     }
   ]
 }
