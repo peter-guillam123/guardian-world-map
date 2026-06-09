@@ -1,252 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-09T09:30:13.441Z",
-    "story_count": 72,
-    "oldest_story": "2026-06-08T10:27:12Z",
-    "newest_story": "2026-06-09T09:28:32Z",
+    "generated_at": "2026-06-09T12:23:43.579Z",
+    "story_count": 64,
+    "oldest_story": "2026-06-08T14:01:08Z",
+    "newest_story": "2026-06-09T12:15:11Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "business/live/2026/jun/08/stock-markets-fall-oil-jumps-middle-east-conflict-ai-boom-falters-live-news-updates",
-      "headline": "Stock markets fall and oil jumps as Middle East conflict intensifies and AI boom falters – business live",
-      "summary": "Stock markets fall and oil rises amid Middle East conflict and AI boom slowdown; South Korea's KOSPI slumps 8%.",
-      "url": "https://www.theguardian.com/p/x58dky",
-      "thumbnail": "https://media.guim.co.uk/f50de0c15aac0c0f7529431d29b33af2afc1b817/587_0_5874_4699/500.jpg",
-      "published": "2026-06-08T11:23:00Z",
-      "location": {
-        "name": "South Korea",
-        "lat": 37.5665,
-        "lng": 126.978
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "business"
-    },
-    {
-      "id": "politics/live/2026/jun/08/keir-starmer-technology-ai-online-harms-labour-andy-burnham-makerfield-kemi-badenoch-uk-politics-latest-news-updates",
-      "headline": "Badenoch dismisses Starmer’s warning to tech firms and says social media ban for under-16s would be ‘much simpler’ - UK politics live ",
-      "summary": "Badenoch criticises Starmer's tech firm warnings, proposes social media ban for under-16s as simpler solution.",
-      "url": "https://www.theguardian.com/p/x58e6e",
-      "thumbnail": "https://media.guim.co.uk/7973ce5e87514bd4b5143df238e0440cd1d01735/624_0_4167_3333/500.jpg",
-      "published": "2026-06-08T11:20:31Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "uk-news/2026/jun/08/stormzy-oritse-williams-tribute-talay-riley-stabbed-east-london",
-      "headline": "Stormzy and Oritsé Williams pay tribute to musician stabbed to death in east London ",
-      "summary": "Stormzy and Oritsé Williams pay tribute to musician Talay Riley stabbed to death in east London.",
-      "url": "https://www.theguardian.com/p/x58f3y",
-      "thumbnail": "https://media.guim.co.uk/f805a053189d5a6637e4ffb53044b9b70a23d483/474_25_1727_1382/500.jpg",
-      "published": "2026-06-08T11:20:04Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "uni-our-career-promise/2026/jun/08/meet-the-students-making-the-world-safer-for-women",
-      "headline": "‘Stand up for what you believe in’: meet the students making the world safer for women",
-      "summary": "Sheffield Hallam graduates work to improve women's safety from streets to construction sites worldwide.",
-      "url": "https://www.theguardian.com/p/x5xnde",
-      "thumbnail": "https://media.guim.co.uk/d746be83b71aa685d4b9d535359cd0491cf280fe/0_0_5600_4480/500.jpg",
-      "published": "2026-06-08T11:13:32Z",
-      "location": {
-        "name": "Sheffield",
-        "lat": 53.3811,
-        "lng": -1.4701
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "uni-our-career-promise"
-    },
-    {
-      "id": "uni-our-career-promise/2026/jun/08/why-inclusivity-is-central-to-sheffield-hallam-healthcare-courses",
-      "headline": "‘Every patient is different’: why inclusivity is at the heart of Sheffield Hallam’s healthcare courses",
-      "summary": "Sheffield Hallam healthcare courses prioritise inclusivity and personalised care for diverse patient populations.",
-      "url": "https://www.theguardian.com/p/x5xne5",
-      "thumbnail": "https://media.guim.co.uk/278bd3f0dbd38653bb63baae399ad61b00636cb7/739_796_4605_3684/500.jpg",
-      "published": "2026-06-08T11:10:04Z",
-      "location": {
-        "name": "Sheffield",
-        "lat": 53.3811,
-        "lng": -1.4701
-      },
-      "category": "health",
-      "significance": 1,
-      "section": "uni-our-career-promise"
-    },
-    {
-      "id": "football/2026/jun/08/zlatko-dalic-croatia-world-cup-opener-england",
-      "headline": "Dalic admits Croatia’s World Cup opener against England ‘can destroy everything’",
-      "summary": "Croatia coach Dalic says World Cup opener against England 'can destroy everything' for tournament hopes.",
-      "url": "https://www.theguardian.com/p/x58f68",
-      "thumbnail": "https://media.guim.co.uk/b3fcfdd2d258cfb4edd993acb40d75735812ac58/763_14_3420_2737/500.jpg",
-      "published": "2026-06-08T11:08:31Z",
-      "location": {
-        "name": "Qatar",
-        "lat": 25.2854,
-        "lng": 51.531
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "sport/2026/jun/08/brendon-mccullum-england-new-zealand-cricket",
-      "headline": "‘Brave when we needed to be’: McCullum hails England for leaving Ashes baggage behind",
-      "summary": "McCullum praises England for moving past Ashes baggage following first Test win over New Zealand at Lord's.",
-      "url": "https://www.theguardian.com/p/x58f74",
-      "thumbnail": "https://media.guim.co.uk/8b9d2f6cd56e99f0b151fe3f3745436134caf4b8/365_181_5759_4607/500.jpg",
-      "published": "2026-06-08T11:06:21Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "football/2026/jun/08/dallas-fifa-mural-lawsuit-robert-wyland",
-      "headline": "‘They picked the wrong artist’: How a Dallas mural cover-up led to a $25m lawsuit against Fifa",
-      "summary": "Artist Robert Wyland sues FIFA for $25m after World Cup mural covering destroyed his ocean-life artwork.",
-      "url": "https://www.theguardian.com/p/x58dvy",
-      "thumbnail": "https://media.guim.co.uk/a95bf5e2e16d1c2f17ed3fa5afe600f9c4eed791/120_0_4135_3311/500.jpg",
-      "published": "2026-06-08T11:00:24Z",
-      "location": {
-        "name": "Dallas",
-        "lat": 32.7767,
-        "lng": -96.797
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "us-news/2026/jun/08/illinois-hospital-ectopic-pregnancy",
-      "headline": "A religious hospital denied her a life-saving drug during an ectopic pregnancy. She lost her fertility",
-      "summary": "Woman sues religious hospital for denying life-saving drug during ectopic pregnancy, losing fertility.",
-      "url": "https://www.theguardian.com/p/x58xaa",
-      "thumbnail": "https://media.guim.co.uk/a931fe5121859f2def3c2b9a7a2e60d757a38269/1064_0_6829_5464/500.jpg",
-      "published": "2026-06-08T11:00:24Z",
-      "location": {
-        "name": "Illinois",
-        "lat": 40.3495,
-        "lng": -88.986
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/jun/08/datacenter-ai-drought-water",
-      "headline": "Majority of US’s new AI datacenters to be built on drought-hit land",
-      "summary": "Guardian analysis: majority of US AI datacenters planned for drought-hit regions amid water crisis concerns.",
-      "url": "https://www.theguardian.com/p/x577ad",
-      "thumbnail": "https://media.guim.co.uk/5fb187afe6f0821ed69c657f377aac6fabc69de2/0_0_5000_4000/500.jpg",
-      "published": "2026-06-08T11:00:23Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "climate",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "sport/live/2026/jun/08/county-cricket-surrey-v-hampshire-day-two-live",
-      "headline": "County cricket: Surrey v Hampshire day two – live",
-      "summary": "Surrey v Hampshire county cricket: day two live updates from the Oval, lunch moved to accommodate play.",
-      "url": "https://www.theguardian.com/p/x58a3n",
-      "thumbnail": "https://media.guim.co.uk/20076bfb7402abeba66be371d1be6edcf761accd/745_0_3377_2703/500.jpg",
-      "published": "2026-06-08T10:57:38Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 1,
-      "section": "sport"
-    },
-    {
-      "id": "sport/2026/jun/08/dramatic-french-open-2026-tennis-lack-of-challengers-zverev",
-      "headline": "Dramatic French Open cannot disguise how top men’s players failed to seize golden opportunity",
-      "summary": "Zverev capitalises on dramatic French Open chaos, exposing lack of top contenders below Alcaraz and Sinner.",
-      "url": "https://www.theguardian.com/p/x58f2m",
-      "thumbnail": "https://media.guim.co.uk/15f491276b2380a39187a0c1050cef1dc4ed67ee/729_176_4311_3449/500.jpg",
-      "published": "2026-06-08T10:47:00Z",
-      "location": {
-        "name": "Paris",
-        "lat": 48.8566,
-        "lng": 2.3522
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "world/2026/jun/08/xi-jinping-kim-jong-un-meeting-north-korea",
-      "headline": "Xi Jinping arrives in Pyongyang on trip to revitalise China-North Korea ties",
-      "summary": "Xi Jinping arrives in North Korea for first visit in seven years to revitalise strained China-DPRK ties.",
-      "url": "https://www.theguardian.com/p/x57p5j",
-      "thumbnail": "https://media.guim.co.uk/e2ba55eafec6e38e0d89b455f1a0cd1766e6172a/419_0_4193_3354/500.jpg",
-      "published": "2026-06-08T10:46:17Z",
-      "location": {
-        "name": "Pyongyang",
-        "lat": 39.0176,
-        "lng": 125.7485
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "environment/2026/jun/08/weather-tracker-monsoon-season-vital-rainfall-parts-asia",
-      "headline": "Weather tracker: Monsoon season brings vital rainfall to parts of Asia ",
-      "summary": "Monsoon season officially begins in Asia; India's Kerala records 280mm rain in 72 hours, vital for economy.",
-      "url": "https://www.theguardian.com/p/x58fvd",
-      "thumbnail": "https://media.guim.co.uk/2b5b5f4767bb0182b1ed9aeaf9bde68e9907ee70/275_0_7680_6144/500.jpg",
-      "published": "2026-06-08T10:42:42Z",
-      "location": {
-        "name": "India",
-        "lat": 20.5937,
-        "lng": 78.9629
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "environment"
-    },
-    {
-      "id": "money/2026/jun/08/have-you-used-the-uk-governments-new-jobs-ai-tool-we-would-like-to-hear-from-you",
-      "headline": "Have you used the UK government’s new jobs AI tool? We would like to hear from you",
-      "summary": "UK government launches AI job assistant tool to help unemployed find work and create CVs.",
-      "url": "https://www.theguardian.com/p/x58emf",
-      "thumbnail": "https://media.guim.co.uk/80ed64c068fcae66bb4456ad4404eaada9968285/814_529_4173_3338/500.jpg",
-      "published": "2026-06-08T10:27:12Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "tech",
-      "significance": 2,
-      "section": "money"
-    },
     {
       "id": "world/2026/jun/08/why-did-israel-and-iran-trade-fire-and-how-does-it-affect-wider-peace-efforts",
       "headline": "Why did Israel and Iran trade fire, and how does it affect wider peace efforts?",
@@ -1158,6 +918,118 @@
       "category": "health",
       "significance": 2,
       "section": "world"
+    },
+    {
+      "id": "technology/2026/jun/09/amazon-uk-arm-tax-credit-profits-tech-company",
+      "headline": "Amazon’s main UK arm handed £7.6m tax credit as profits soar to £355m",
+      "summary": "Amazon UK's main division receives £7.6m tax credit despite £355m profit surge.",
+      "url": "https://www.theguardian.com/p/x58f56",
+      "thumbnail": "https://media.guim.co.uk/1b402721cf934b360a130bee4875557303eb8604/154_0_4666_3733/500.jpg",
+      "published": "2026-06-09T12:15:11Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "technology"
+    },
+    {
+      "id": "us-news/live/2026/jun/09/donald-trump-nithya-raman-los-angeles-la-spencer-pratt-mayor-politics-latest-news-updates",
+      "headline": "Nithya Raman ‘incredibly honoured’ to advance to LA mayor runoff after seeing off Republican - US politics live ",
+      "summary": "Nithya Raman advances to LA mayor runoff after defeating Republican Spencer Pratt.",
+      "url": "https://www.theguardian.com/p/x58kad",
+      "thumbnail": "https://media.guim.co.uk/a79b08aa6142b341ea5281424c955ff98c1b60ee/250_0_2500_2000/500.jpg",
+      "published": "2026-06-09T12:11:13Z",
+      "location": {
+        "name": "Los Angeles",
+        "lat": 34.0522,
+        "lng": -118.2437
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "sport/2026/jun/09/maro-itoje-out-england-training-squad-summer-rest-expected",
+      "headline": "Itoje left out of England training squad with summer rest expected",
+      "summary": "England captain Maro Itoje omitted from training squad; expected summer rest before tour.",
+      "url": "https://www.theguardian.com/p/x58kk4",
+      "thumbnail": "https://media.guim.co.uk/62b662ce3a4e33ba3ec5ceead483d82389b8e1c4/757_141_3456_2764/500.jpg",
+      "published": "2026-06-09T12:06:52Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "football/2026/jun/09/usmnt-world-cup-goals-ranked",
+      "headline": "Ranked! USMNT’s best World Cup goals: from Donovan at the death to a painful Pulisic finish",
+      "summary": "USMNT's best World Cup goals ranked from Donovan to Pulisic ahead of 2026 campaign.",
+      "url": "https://www.theguardian.com/p/x58d6b",
+      "thumbnail": "https://media.guim.co.uk/9c16a54f086420c35d64965078c67c706d85cc0b/0_0_2500_2000/500.jpg",
+      "published": "2026-06-09T12:00:50Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "uk-news/2026/jun/09/schoolgirl-arrested-stabbings-manchester-school-blackley",
+      "headline": "Girl arrested after three stabbed at Manchester school",
+      "summary": "Schoolgirl arrested after three people stabbed at Co-op Academy in Manchester.",
+      "url": "https://www.theguardian.com/p/x58kg6",
+      "thumbnail": "https://media.guim.co.uk/98a1e1ba1ffe91086237b36c003d28dfbccbe8ae/863_0_5000_4000/500.jpg",
+      "published": "2026-06-09T11:59:11Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "business/2026/jun/09/early-summer-holiday-bookings-down-uk-travel-industry",
+      "headline": "Summer holiday bookings down amid ‘apprehension’, says UK travel industry",
+      "summary": "UK summer holiday bookings decline amid Middle East conflict and cost-of-living concerns.",
+      "url": "https://www.theguardian.com/p/x58kg7",
+      "thumbnail": "https://media.guim.co.uk/7e9058247c710e5b835b62379f22e03bae6b1153/533_0_3010_2407/500.jpg",
+      "published": "2026-06-09T11:58:35Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "uk-news/2026/jun/09/man-seriously-injured-in-belfast-stabbing-starmer-describes-as-sickening",
+      "headline": "Man seriously injured in Belfast stabbing Starmer describes as ‘sickening’",
+      "summary": "Man arrested after stabbing in Belfast leaves victim seriously injured; PM condemns attack.",
+      "url": "https://www.theguardian.com/p/x58kdb",
+      "thumbnail": "https://media.guim.co.uk/f06f7ee4b42fe37e75d5bdd63805458b1461b12e/569_344_1842_1474/500.jpg",
+      "published": "2026-06-09T11:16:36Z",
+      "location": {
+        "name": "Belfast",
+        "lat": 54.5973,
+        "lng": -5.9301
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "uk-news"
     }
   ]
 }
