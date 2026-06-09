@@ -1,172 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-09T05:50:49.994Z",
-    "story_count": 69,
-    "oldest_story": "2026-06-08T05:52:31Z",
-    "newest_story": "2026-06-09T05:00:46Z",
+    "generated_at": "2026-06-09T09:30:13.441Z",
+    "story_count": 72,
+    "oldest_story": "2026-06-08T10:27:12Z",
+    "newest_story": "2026-06-09T09:28:32Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "world/live/2026/jun/08/iran-israel-news-live-updates-strikes-attacks-intensify-trump-netanyahu",
-      "headline": "Middle East crisis live: Israel and Iran exchange fresh round of strikes as attacks intensify",
-      "summary": "Israel strikes Iranian military targets in response to Tehran attacks amid escalating Middle East crisis.",
-      "url": "https://www.theguardian.com/p/x58d9q",
-      "thumbnail": "https://media.guim.co.uk/43190121a803c9074e562d9579c3b8dccccd397f/393_0_4830_3864/500.jpg",
-      "published": "2026-06-08T06:20:08Z",
-      "location": {
-        "name": "Iran",
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "society/2026/jun/08/more-than-1300-deaths-a-month-in-england-due-to-long-ae-waits-figures-suggest",
-      "headline": "More than 1,300 deaths a month in England due to long A&E waits, figures suggest",
-      "summary": "England's A&E waiting times linked to 1,300 monthly deaths, tenfold increase since 2015.",
-      "url": "https://www.theguardian.com/p/x58aax",
-      "thumbnail": "https://media.guim.co.uk/bbd2d1ca2a1141f395c79a23496d6812a0133cfd/408_0_2685_2149/500.jpg",
-      "published": "2026-06-08T06:00:20Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "health",
-      "significance": 3,
-      "section": "society"
-    },
-    {
-      "id": "travel/2026/jun/08/ireland-joyce-country-western-lakes-unesco-geopark-county-galway-mayo",
-      "headline": "West Ireland’s magical landscape: where limestone rivers, Hollywood legend and Irish myth converge",
-      "summary": "Joyce Country and Western Lakes UNESCO Geopark designated in western Ireland celebrating 700-million-year geology.",
-      "url": "https://www.theguardian.com/p/x56eqe",
-      "thumbnail": "https://media.guim.co.uk/27f0f8bde160b62c5e5588f1d9933f20e4bf690a/3606_0_4530_3628/500.jpg",
-      "published": "2026-06-08T06:00:20Z",
-      "location": {
-        "name": "Galway",
-        "lat": 53.2707,
-        "lng": -9.0568
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "travel"
-    },
-    {
-      "id": "money/2026/jun/08/scottishpower-cheques-late-brother-relatives",
-      "headline": "ScottishPower sent six cheques addressed to my late brother",
-      "summary": "ScottishPower sent multiple cheques to deceased man, causing distress to bereaved relatives.",
-      "url": "https://www.theguardian.com/p/x57fz6",
-      "thumbnail": "https://media.guim.co.uk/cca14a54ca06562c5c9df556a4d8548e92a5f894/465_0_2802_2242/500.jpg",
-      "published": "2026-06-08T06:00:20Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "money"
-    },
-    {
-      "id": "global-development/2026/jun/08/nigeria-dogs-pets-ownership-animal-welfare",
-      "headline": "‘Now people stop to ask their names and even stroke them’: Nigerians embrace dogs as pets",
-      "summary": "Nigerians increasingly embrace dog ownership as pets as traditional dog meat practices face cultural shift.",
-      "url": "https://www.theguardian.com/p/x54kxg",
-      "thumbnail": "https://media.guim.co.uk/8804e192f9a3450c9f01ba28d4e329e5f13ba853/373_0_5007_4005/500.jpg",
-      "published": "2026-06-08T06:00:19Z",
-      "location": {
-        "name": "Lagos",
-        "lat": 6.5244,
-        "lng": 3.3792
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "global-development"
-    },
-    {
-      "id": "film/2026/jun/08/my-memory-is-full-of-ghosts-review-deeply-moving-visual-hymn-for-the-bombed-out-syrian-city-of-homs",
-      "headline": "My Memory Is Full of Ghosts review – deeply moving visual hymn for the bombed-out Syrian city of Homs",
-      "summary": "Documentary 'My Memory Is Full of Ghosts' chronicles bombed Syrian city of Homs through visual testimony.",
-      "url": "https://www.theguardian.com/p/x58vfv",
-      "thumbnail": "https://media.guim.co.uk/b1fc32db5c2621fa0e0f675706a11740fe06bd0b/1002_505_2452_1961/500.jpg",
-      "published": "2026-06-08T06:00:19Z",
-      "location": {
-        "name": "Homs",
-        "lat": 34.726,
-        "lng": 36.724
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "film"
-    },
-    {
-      "id": "books/2026/jun/08/a-british-childhood-by-frank-cottrell-boyce-review-are-we-raising-a-bookless-generation",
-      "headline": "A British Childhood by Frank Cottrell-Boyce review – are we raising a bookless generation?",
-      "summary": "Frank Cottrell-Boyce's book raises concerns about declining childhood reading amid screen culture.",
-      "url": "https://www.theguardian.com/p/x55jhk",
-      "thumbnail": "https://media.guim.co.uk/a0cfb32fba9cae4e669aacb6952839cc52ce90d8/0_0_6880_5504/500.jpg",
-      "published": "2026-06-08T06:00:18Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "books"
-    },
-    {
-      "id": "world/2026/jun/08/cuba-power-outages-electricity",
-      "headline": "No electricity, no gas, no sleep: Cubans on edge amid endless outages",
-      "summary": "Cuba faces unprecedented power crisis after four months of US oil blockade with daily blackouts.",
-      "url": "https://www.theguardian.com/p/x57qvg",
-      "thumbnail": "https://media.guim.co.uk/b11eb0c9fd284242ca1565517bd82d7c99dd3690/1019_0_5029_4024/500.jpg",
-      "published": "2026-06-08T06:00:18Z",
-      "location": {
-        "name": "Havana",
-        "lat": 23.1291,
-        "lng": -82.3794
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "world/2026/jun/08/utsunomiya-city-japan-bear-sighting-all-primary-secondary-schools-shut",
-      "headline": "Japanese city shuts down nearly 100 schools after unprecedented bear sighting",
-      "summary": "Japanese city closes 94 schools after rare black bear sighting 100km north of Tokyo.",
-      "url": "https://www.theguardian.com/p/x58dmm",
-      "thumbnail": "https://media.guim.co.uk/e219265e5d50b76d4823e310589060ef1f31be53/277_0_2747_2198/500.jpg",
-      "published": "2026-06-08T05:56:19Z",
-      "location": {
-        "name": "Utsunomiya",
-        "lat": 36.5627,
-        "lng": 139.8804
-      },
-      "category": "other",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "australia-news/2026/jun/08/queensland-high-profile-man-extortion-case-name-suppressed-ntwnfb",
-      "headline": "Queensland magistrate suppresses identity of man with ‘high public profile’ in extortion case",
-      "summary": "Queensland magistrate suppresses identity of high-profile man in extortion case amid media objections.",
-      "url": "https://www.theguardian.com/p/x58d63",
-      "thumbnail": "https://media.guim.co.uk/a07b70adc1365cfe5b363642631c2e5061256299/319_0_3340_2672/500.jpg",
-      "published": "2026-06-08T05:52:31Z",
-      "location": {
-        "name": "Cairns",
-        "lat": -16.8661,
-        "lng": 145.7781
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
     {
       "id": "business/live/2026/jun/08/stock-markets-fall-oil-jumps-middle-east-conflict-ai-boom-falters-live-news-updates",
       "headline": "Stock markets fall and oil jumps as Middle East conflict intensifies and AI boom falters – business live",
@@ -1110,6 +950,214 @@
       "category": "politics",
       "significance": 2,
       "section": "commentisfree"
+    },
+    {
+      "id": "football/live/2026/jun/09/matildas-australia-mexico-womens-international-friendlies-football-live-updates",
+      "headline": "Australia v Mexico: women’s international football friendly – live",
+      "summary": "Australia's Matildas face Mexico in women's international friendly at CommBank Stadium.",
+      "url": "https://www.theguardian.com/p/x588yf",
+      "thumbnail": "https://media.guim.co.uk/a5f4624309b4dc9e6ae7a97bdb9a6f7855db9391/518_0_3395_2716/500.jpg",
+      "published": "2026-06-09T09:28:32Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "politics/live/2026/jun/09/labour-badenoch-equality-duty-nowak-starmer-burnham-healey-lammy-latest-news-updates",
+      "headline": "Labour accuses Badenoch of wanting to ‘turn clock back’ with plan to scrap public sector equality duty – UK politics live",
+      "summary": "Labour accuses Badenoch of planning to scrap public sector equality duty protections.",
+      "url": "https://www.theguardian.com/p/x58jmy",
+      "thumbnail": "https://media.guim.co.uk/8d8df27122dbefd111b05e92fe514729899d91ca/939_0_6830_5464/500.jpg",
+      "published": "2026-06-09T09:27:57Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "world/live/2026/jun/09/middle-east-crisis-iran-israel-us-donald-trump-strait-of-hormuz-peace-deal-latest-news-updates",
+      "headline": "Middle East crisis live: Israel tells residents of Lebanese city of Tyre to leave as Trump claims Iran deal close ",
+      "summary": "IDF orders evacuation of Lebanese city of Tyre as Trump claims Iran peace deal close.",
+      "url": "https://www.theguardian.com/p/x58hqx",
+      "thumbnail": "https://media.guim.co.uk/1b02753e282b02839cc2dc53d69f078645a177c1/446_0_4092_3273/500.jpg",
+      "published": "2026-06-09T09:25:28Z",
+      "location": {
+        "name": "Tyre",
+        "lat": 33.2732,
+        "lng": 35.1856
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "sport/live/2026/jun/09/county-cricket-surrey-v-hampshire-day-three-live",
+      "headline": "County cricket: Surrey v Hampshire day three – live",
+      "summary": "Surrey vs Hampshire county cricket Championship match day three live updates from Oval.",
+      "url": "https://www.theguardian.com/p/x58f3e",
+      "thumbnail": "https://media.guim.co.uk/b3861d34d46f44d8ff32aaab51e8b6395cfadffc/320_0_3196_2557/500.jpg",
+      "published": "2026-06-09T09:24:27Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "politics/2026/jun/09/unions-rebuff-nigel-farage-reform-cosplaying-workers-rights",
+      "headline": "Unions rebuff Farage and say Reform ‘cosplaying’ as workers’ champions",
+      "summary": "UK unions rebuff Farage's call for affiliation, accuse Reform of 'cosplaying' workers' rights.",
+      "url": "https://www.theguardian.com/p/x58k3n",
+      "thumbnail": "https://media.guim.co.uk/f81a44eb396e26a17aef2b3195430acaf2a4f86e/2467_0_6173_4938/500.jpg",
+      "published": "2026-06-09T09:20:54Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "business/live/2026/jun/09/chip-stocks-bounce-back-kospi-openai-wall-street-float-stock-markets-oil-live-news-updates",
+      "headline": "Chip stocks bounce back as OpenAI files for Wall Street float – business live",
+      "summary": "OpenAI files for Wall Street IPO as chip stocks bounce back amid AI trade surge.",
+      "url": "https://www.theguardian.com/p/x58jhe",
+      "thumbnail": "https://media.guim.co.uk/73a4378061de0458f624b046b7b8f39f8ae92bb2/483_0_5496_4396/500.jpg",
+      "published": "2026-06-09T09:06:56Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "tech",
+      "significance": 3,
+      "section": "business"
+    },
+    {
+      "id": "uk-news/2026/jun/09/white-house-urges-uk-not-ban-social-media-under-16s",
+      "headline": "White House urges UK not to ban social media for under-16s",
+      "summary": "White House urges UK not to ban social media for under-16s, citing burden on US tech firms.",
+      "url": "https://www.theguardian.com/p/x58k2b",
+      "thumbnail": "https://media.guim.co.uk/8ee60f21c993e23831fc5528c77119e6f92353b4/401_0_7217_5773/500.jpg",
+      "published": "2026-06-09T09:04:30Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "global-development/2026/jun/09/i-fear-people-will-go-to-war-over-water-as-wells-run-dry-farmers-struggle-to-survive-in-bangladesh",
+      "headline": "‘I fear people will go to war over water’: as wells run dry, farmers struggle to survive in Bangladesh",
+      "summary": "Bangladesh's Barind region faces water crisis as aquifer wells run dry amid climate collapse.",
+      "url": "https://www.theguardian.com/p/x56359",
+      "thumbnail": "https://media.guim.co.uk/9676b9cc42aaf8e8ee8245135ccb4c5b5ada007e/387_0_4800_3840/500.jpg",
+      "published": "2026-06-09T09:00:51Z",
+      "location": {
+        "name": "Barind",
+        "lat": 24.5089,
+        "lng": 89.2832
+      },
+      "category": "climate",
+      "significance": 3,
+      "section": "global-development"
+    },
+    {
+      "id": "artanddesign/2026/jun/09/met-museum-musical-bodies-exhibition",
+      "headline": "‘Central to human identity’: exhibition at the Met connects bodies with musical instruments",
+      "summary": "Met Museum's Musical Bodies exhibition explores 4,000 years of human-instrument relationships.",
+      "url": "https://www.theguardian.com/p/x58gvd",
+      "thumbnail": "https://media.guim.co.uk/90c18e4bddc6569411b2cb161d673a4fc953e33b/853_0_6827_5464/500.jpg",
+      "published": "2026-06-09T09:00:51Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "artanddesign"
+    },
+    {
+      "id": "food/2026/jun/09/booming-british-food-scene-has-suddenly-gone-bust",
+      "headline": "The British food scene was booming. Why has it suddenly gone bust?",
+      "summary": "UK's once-booming food scene faces crisis with Michelin-starred closures spreading.",
+      "url": "https://www.theguardian.com/p/x56etx",
+      "thumbnail": "https://media.guim.co.uk/d0545bb9a22e8b4cc63f40528dad52bc179055d6/0_0_2500_2000/500.jpg",
+      "published": "2026-06-09T09:00:50Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "food"
+    },
+    {
+      "id": "business/2026/jun/09/gsk-buy-us-cancer-treatment-firm-nuvalent-luke-miels",
+      "headline": "GSK to buy US cancer treatment firm Nuvalent for $10.6bn",
+      "summary": "GSK acquires Boston-based cancer biotech Nuvalent for $10.6bn under new CEO.",
+      "url": "https://www.theguardian.com/p/x58jja",
+      "thumbnail": "https://media.guim.co.uk/46eacaad6e6a1f438a6111c7a9fe3074de52027e/1820_369_6333_5066/500.jpg",
+      "published": "2026-06-09T08:59:47Z",
+      "location": {
+        "name": "Boston",
+        "lat": 42.3601,
+        "lng": -71.0589
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "business"
+    },
+    {
+      "id": "music/2026/jun/09/james-blood-ulmer-adventurous-us-guitarist-and-vocalist-dies-aged-86",
+      "headline": "James Blood Ulmer, adventurous US guitarist and vocalist, dies aged 86",
+      "summary": "Pioneering jazz-funk guitarist James Blood Ulmer dies at 86.",
+      "url": "https://www.theguardian.com/p/x58jzp",
+      "thumbnail": "https://media.guim.co.uk/dcfa07a355ca2d654d9161f8432a5da6d156ac6b/0_0_3988_3189/500.jpg",
+      "published": "2026-06-09T08:53:59Z",
+      "location": {
+        "name": "South Carolina",
+        "lat": 34.0007,
+        "lng": -81.1637
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "music"
+    },
+    {
+      "id": "world/2026/jun/09/klm-apologises-after-paralympian-denied-onboard-wheelchair-on-11-hour-flight",
+      "headline": "KLM apologises after Paralympian denied onboard wheelchair on 11-hour flight",
+      "summary": "KLM apologizes after denying Paralympic athlete onboard wheelchair access on flight.",
+      "url": "https://www.theguardian.com/p/x58ejq",
+      "thumbnail": "https://media.guim.co.uk/5e8352a5b91e3201683393c54675851c7cda0190/26_0_1670_1336/500.jpg",
+      "published": "2026-06-09T08:45:01Z",
+      "location": {
+        "name": "Amsterdam",
+        "lat": 52.3676,
+        "lng": 4.9041
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "world"
     }
   ]
 }
