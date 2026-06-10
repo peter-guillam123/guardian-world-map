@@ -1,348 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-10T13:53:46.312Z",
-    "story_count": 110,
-    "oldest_story": "2026-06-09T14:37:38Z",
-    "newest_story": "2026-06-10T13:49:17Z",
+    "generated_at": "2026-06-10T17:20:44.467Z",
+    "story_count": 88,
+    "oldest_story": "2026-06-09T17:25:03Z",
+    "newest_story": "2026-06-10T17:12:53Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "sport/2026/jun/09/teenage-sensation-gout-gout-diamond-league-athletics",
-      "headline": "Teenage sensation Gout Gout ready to dive in at Diamond League deep end",
-      "summary": "Teenage sprinter Gout Gout makes Diamond League debut in Oslo.",
-      "url": "https://www.theguardian.com/p/x58kj6",
-      "thumbnail": "https://media.guim.co.uk/32a0d57472a50cb5eac0ef179a9b0b5970256ceb/451_135_3742_2994/500.jpg",
-      "published": "2026-06-09T15:33:32Z",
-      "location": {
-        "name": "Oslo",
-        "lat": 59.9139,
-        "lng": 10.7522
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "business/2026/jun/09/ex-burberry-boss-christopher-bailey-burleigh-pottery-stoke-on-trent",
-      "headline": "Former Burberry boss leads rescue mission for Burleigh Pottery ",
-      "summary": "Former Burberry boss Christopher Bailey rescues historic pottery firm.",
-      "url": "https://www.theguardian.com/p/x58kba",
-      "thumbnail": "https://media.guim.co.uk/dfd084f4a4ec0d9fcc5b01964c3cd50d69b8faf2/0_260_4500_3600/500.jpg",
-      "published": "2026-06-09T15:24:19Z",
-      "location": {
-        "name": "Stoke-on-Trent",
-        "lat": 53.0245,
-        "lng": -2.1896
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "sport/2026/jun/09/new-york-knicks-fans-nba-finals-callout",
-      "headline": "Knicks fans: share your reaction to the NBA finals",
-      "summary": "Knicks lead NBA finals 2-1, seeking first title since 1999.",
-      "url": "https://www.theguardian.com/p/x58yka",
-      "thumbnail": "https://media.guim.co.uk/ebf7162bbe9813aff719e6571ce78eae61e191ed/384_0_3837_3070/500.jpg",
-      "published": "2026-06-09T15:24:03Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "us-news/2026/jun/09/jd-vance-doj-inquiry-tim-walz-minnesota",
-      "headline": "JD Vance asks justice department to investigate Minnesota governor Tim Walz over fraud allegations",
-      "summary": "JD Vance calls for DOJ investigation into Minnesota Governor Tim Walz.",
-      "url": "https://www.theguardian.com/p/x58ybv",
-      "thumbnail": "https://media.guim.co.uk/a0c7d0e77c7c32bb85e7a1b0f89c9b4cbf9eb1e1/498_0_4681_3744/500.jpg",
-      "published": "2026-06-09T15:17:21Z",
-      "location": {
-        "name": "Minnesota",
-        "lat": 45.6945,
-        "lng": -93.9196
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "world/2026/jun/09/eu-ban-russian-soldiers-fresh-sanctions-moscow",
-      "headline": "EU plans to ban Russian soldiers from bloc in fresh sanctions on Moscow",
-      "summary": "EU proposes new sanctions on Russia including soldier travel ban.",
-      "url": "https://www.theguardian.com/p/x58y9z",
-      "thumbnail": "https://media.guim.co.uk/f5cd40e3e14ce8e899dda00d453fa6086e0b6198/547_0_6440_5152/500.jpg",
-      "published": "2026-06-09T15:12:38Z",
-      "location": {
-        "name": "Brussels",
-        "lat": 50.8503,
-        "lng": 4.3517
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "culture/2026/jun/09/jimmy-kimmel-trump-new-york-knicks",
-      "headline": "Jimmy Kimmel on Trump: ‘About as popular in New York as pineapple on pizza’",
-      "summary": "Jimmy Kimmel jokes Trump unpopular in New York during NBA finals.",
-      "url": "https://www.theguardian.com/p/x58ya3",
-      "thumbnail": "https://media.guim.co.uk/5b99100e7d9cc7b9cd4b7f3740f3c2dadef1b7d6/342_0_1241_994/500.jpg",
-      "published": "2026-06-09T15:12:37Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "culture"
-    },
-    {
-      "id": "artanddesign/2026/jun/09/royal-academy-summer-exhibition-2026-review",
-      "headline": "Cats, flowers and Harry Hill’s car on fire – RA Summer Exhibition review",
-      "summary": "Royal Academy Summer Exhibition 2026 review features diverse artworks.",
-      "url": "https://www.theguardian.com/p/x58kqq",
-      "thumbnail": "https://media.guim.co.uk/ece69edcc7e1bdb3caa0429a0fabee59deb36fc0/424_0_4424_3539/500.jpg",
-      "published": "2026-06-09T15:05:05Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "artanddesign"
-    },
-    {
-      "id": "business/2026/jun/09/trump-gas-prices-not-very-high",
-      "headline": "Trump claims US fuel prices ‘not very high’ as costs surge amid Iran war",
-      "summary": "Trump claims US fuel prices low despite $4.16/gallon amid Iran war.",
-      "url": "https://www.theguardian.com/p/x58yjc",
-      "thumbnail": "https://media.guim.co.uk/da33554d23c2ae18716fa1e2044b6a27a0350467/460_0_3334_2667/500.jpg",
-      "published": "2026-06-09T15:01:05Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "australia-news/2026/jun/10/kpmg-scandal-alleged-confidential-leaks-contracts-lost-leaders-quit-ntwnfb",
-      "headline": "KPMG loses contracts and leaders amid scandal over alleged confidential leaks. Here’s what you need to know",
-      "summary": "KPMG loses contracts amid whistleblower allegations of confidential leaks.",
-      "url": "https://www.theguardian.com/p/x58d8x",
-      "thumbnail": "https://media.guim.co.uk/98856c5f9f9d20e679d6592cd3e3191a1763fea1/0_0_5000_4000/500.png",
-      "published": "2026-06-09T15:00:06Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "australia-news/2026/jun/10/womens-sport-teams-wealthier-countries-do-better-australia-football-matildas-success",
-      "headline": "Rich countries do better in women’s football but understanding why matters, not just for the Matildas",
-      "summary": "Wealth explains women's football success but gender norms matter too.",
-      "url": "https://www.theguardian.com/p/x57zyz",
-      "thumbnail": "https://media.guim.co.uk/e2b523562ff70d721082f8047629c180399cc71d/484_0_4769_3817/500.jpg",
-      "published": "2026-06-09T15:00:05Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "lifeandstyle/2026/jun/10/australian-apples-apple-varieties-taste-test",
-      "headline": "Australian apples taste test: I was wrong about yellow apples",
-      "summary": "Taste test finds overlooked merits in Australian yellow apple varieties.",
-      "url": "https://www.theguardian.com/p/x58d67",
-      "thumbnail": "https://media.guim.co.uk/2e1e0bd39c2569fb65127ebaf1788d7b12b017d6/423_0_5797_4636/500.jpg",
-      "published": "2026-06-09T15:00:05Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "lifeandstyle"
-    },
-    {
-      "id": "australia-news/2026/jun/09/iran-war-hormuz-oil-prices-fuel-crisis-australia-fertiliser-impact-farming",
-      "headline": "John Bennett didn’t factor a war into his farm’s finances. Now he’s down $600,000",
-      "summary": "Australian farmer loses $600k as Iran war drives fertilizer costs up.",
-      "url": "https://www.theguardian.com/p/x57t3h",
-      "thumbnail": "https://media.guim.co.uk/d94fab1ddd56ff34f8fe01371f97a125b5aed906/220_0_1349_1080/500.jpg",
-      "published": "2026-06-09T15:00:04Z",
-      "location": {
-        "name": "Victoria",
-        "lat": -37.8136,
-        "lng": 144.9631
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "australia-news"
-    },
-    {
-      "id": "commentisfree/2026/jun/09/henry-nowak-protest-southampton-booze-football-chants-british-right-george-floyd",
-      "headline": "Why do the right’s Henry Nowak protests look like a party? Distasteful as it is, they’re having fun",
-      "summary": "Right-wing protests in Southampton draw crowds celebrating what supporters see as political moment.",
-      "url": "https://www.theguardian.com/p/x58gft",
-      "thumbnail": "https://media.guim.co.uk/9961eaca2d01649ca946636f9c30983e2b29076c/0_0_4167_3333/500.jpg",
-      "published": "2026-06-09T15:00:03Z",
-      "location": {
-        "name": "Southampton",
-        "lat": 50.9097,
-        "lng": -1.4044
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "commentisfree"
-    },
-    {
-      "id": "australia-news/2026/jun/10/wa-fracking-gas-us-company-federal-environment-department-concern",
-      "headline": "Documents reveal concerns over US company’s proposed gas fracking in WA’s Kimberley region",
-      "summary": "Federal concerns raised over US company's proposed fracking in WA's tropical savanna region.",
-      "url": "https://www.theguardian.com/p/x58t7q",
-      "thumbnail": "https://media.guim.co.uk/73978e972509b2cb993605ca97600ef74ea0798b/707_0_3702_2962/500.jpg",
-      "published": "2026-06-09T15:00:03Z",
-      "location": {
-        "name": "Kimberley Region, Western Australia",
-        "lat": -17.5,
-        "lng": 128
-      },
-      "category": "climate",
-      "significance": 3,
-      "section": "australia-news"
-    },
-    {
-      "id": "football/2026/jun/10/mohamed-mo-toure-socceroos-australia-world-cup-interview",
-      "headline": "Mo Touré: Australia’s Ter-Mo-Nator who just wants to be seen as a ‘good person’",
-      "summary": "Rising Socceroos star Mo Touré prepares for first World Cup with focus on being a good person.",
-      "url": "https://www.theguardian.com/p/x58jvk",
-      "thumbnail": "https://media.guim.co.uk/50b77632379e1d64602f0f901d0e0054f78bd726/313_0_4903_3923/500.jpg",
-      "published": "2026-06-09T15:00:03Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "australia-news/2026/jun/10/osprey-cam-streams-nesting-seabirds-queensland-rainforest-canopy-crane",
-      "headline": "‘Osprey cam’ streams life of nesting seabirds perched at tip of 55 metre-long Queensland rainforest canopy crane",
-      "summary": "Osprey pair nests on research crane in Queensland rainforest for 15 consecutive years.",
-      "url": "https://www.theguardian.com/p/x58tdy",
-      "thumbnail": "https://media.guim.co.uk/a59382f7f3ac103d6116eb99356d4801e7ca189c/0_0_1350_1080/500.jpg",
-      "published": "2026-06-09T15:00:02Z",
-      "location": {
-        "name": "Daintree Rainforest, Queensland",
-        "lat": -16.2,
-        "lng": 145.3
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "sport/2026/jun/09/jo-yapp-andy-farrell-british-and-irish-lions-preparations-new-zealand-tour-womens-rugby",
-      "headline": "Jo Yapp picks Andy Farrell’s brain on how to win British and Irish Lions tour",
-      "summary": "Women's rugby coach Jo Yapp consults Andy Farrell ahead of inaugural British and Irish Lions tour.",
-      "url": "https://www.theguardian.com/p/x58y8a",
-      "thumbnail": "https://media.guim.co.uk/2aab98d8b9e2f325b556aa1bba7507eeaa3709c2/285_0_4071_3257/500.jpg",
-      "published": "2026-06-09T15:00:01Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "sport/2026/jun/09/knicks-spurs-referees-fouls-game-3-wembanyama-brunson",
-      "headline": "Knicks coach Mike Brown angry over foul calls after Game 3 loss: ‘Never thought I’d see that’",
-      "summary": "Knicks coach criticizes officiating after Game 3 NBA Finals loss to Spurs at Madison Square Garden.",
-      "url": "https://www.theguardian.com/p/x58yh7",
-      "thumbnail": "https://media.guim.co.uk/9df6980271c019c293e75c2ae81d94a0984b1f89/364_0_3638_2911/500.jpg",
-      "published": "2026-06-09T14:54:56Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "business/2026/jun/09/uk-watchdog-paramount-110bn-takeover-warner-bros-discover",
-      "headline": "UK watchdog to look at Paramount’s $110bn takeover of Warner Bros Discovery",
-      "summary": "UK competition watchdog investigates Paramount's $110bn takeover of Warner Bros Discovery.",
-      "url": "https://www.theguardian.com/p/x58yb7",
-      "thumbnail": "https://media.guim.co.uk/dd0620195f6c4bcbb0a02b9514f628e879cc163c/197_0_4167_3333/500.jpg",
-      "published": "2026-06-09T14:53:45Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "business"
-    },
-    {
-      "id": "music/2026/jun/09/kanya-king-obituary",
-      "headline": "Kanya King obituary",
-      "summary": "Kanya King, MOBO awards co-founder celebrating Black music, dies aged 57.",
-      "url": "https://www.theguardian.com/p/x58yey",
-      "thumbnail": "https://media.guim.co.uk/98f90b0c04b75cea23c714ff550508613feb4c8d/342_0_3380_2704/500.jpg",
-      "published": "2026-06-09T14:51:59Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "music"
-    },
-    {
-      "id": "music/2026/jun/09/danish-string-quartet-review-wigmore-hall-london",
-      "headline": "Danish String Quartet review – captivating performance from a world-class group ",
-      "summary": "Danish String Quartet performs captivating classical concert at Wigmore Hall, London.",
-      "url": "https://www.theguardian.com/p/x58kdg",
-      "thumbnail": "https://media.guim.co.uk/d11cd5ebd85cb7e1f469907497e48cbcddecb3ac/523_0_2700_2160/500.jpg",
-      "published": "2026-06-09T14:37:38Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "music"
-    },
     {
       "id": "us-news/2026/jun/09/maine-senate-primary-graham-platner",
       "headline": "Maine votes as scandal-ridden Graham Platner seeks Senate primary win ",
@@ -422,182 +86,6 @@
       "category": "health",
       "significance": 2,
       "section": "commentisfree"
-    },
-    {
-      "id": "world/2026/jun/09/man-shot-during-protest-against-proposed-us-ebola-quarantine-facility-in-kenya",
-      "headline": "Man shot dead during protest against proposed US Ebola quarantine facility in Kenya",
-      "summary": "Kenyan police shoot dead protester opposing proposed US Ebola quarantine facility near Nanyuki.",
-      "url": "https://www.theguardian.com/p/x58yfc",
-      "thumbnail": "https://media.guim.co.uk/f226f4da11f7c00a4678d55ae9dbe2c3d5c2ce8f/0_0_4169_3335/500.jpg",
-      "published": "2026-06-09T17:13:20Z",
-      "location": {
-        "name": "Nanyuki",
-        "lat": 0.5025,
-        "lng": 37.0667
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "us-news/2026/jun/09/hiker-grizzly-bear-attack",
-      "headline": "‘This is it’: mauled US hiker recalls moment grizzly locked eyes with him",
-      "summary": "Hiker Daniel Crago survives rare grizzly bear mauling at Glacier National Park in Montana.",
-      "url": "https://www.theguardian.com/p/x58yn4",
-      "thumbnail": "https://media.guim.co.uk/e054013e4f9364d49973bbc3d858b2b5c0fe8918/444_163_1557_1247/500.jpg",
-      "published": "2026-06-09T17:11:49Z",
-      "location": {
-        "name": "Montana",
-        "lat": 47.0527,
-        "lng": -109.6333
-      },
-      "category": "other",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "politics/2026/jun/09/uk-imposes-sanctions-firms-enabling-settler-violence-west-bank",
-      "headline": "UK and allies impose sanctions on firms enabling West Bank settler violence",
-      "summary": "UK and allies impose sanctions on firms enabling settler violence in West Bank; Labour backbenchers want stricter measures.",
-      "url": "https://www.theguardian.com/p/x58y52",
-      "thumbnail": "https://media.guim.co.uk/74a8723a16b2ee198359ca2283073c91db9ee185/663_0_6729_5382/500.jpg",
-      "published": "2026-06-09T17:08:44Z",
-      "location": {
-        "name": "West Bank",
-        "lat": 31.9454,
-        "lng": 35.1839
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "science/2026/jun/09/artemis-iii-crew-nasa-moon",
-      "headline": "‘Earth’s first starfleet’: Nasa reveals Artemis III crew and project’s next steps",
-      "summary": "NASA reveals Artemis III all-male crew led by Italian astronaut Luca Parmitano for lunar missions.",
-      "url": "https://www.theguardian.com/p/x58m93",
-      "thumbnail": "https://media.guim.co.uk/da55315b48083fafa3863264afec48313cd38a94/107_0_1196_957/500.jpg",
-      "published": "2026-06-09T17:07:04Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "tech",
-      "significance": 3,
-      "section": "science"
-    },
-    {
-      "id": "music/2026/jun/09/peabo-bryson-obituary",
-      "headline": "Peabo Bryson obituary",
-      "summary": "Peabo Bryson, 'Voice of Love' and Disney duet star, dies at 75 following stroke.",
-      "url": "https://www.theguardian.com/p/x58yqa",
-      "thumbnail": "https://media.guim.co.uk/f79eff4b4b28ad509c82010700cb60903ff13715/182_0_2637_2110/500.jpg",
-      "published": "2026-06-09T16:55:58Z",
-      "location": {
-        "name": "United States",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "music"
-    },
-    {
-      "id": "world/2026/jun/09/did-harold-ii-take-an-arrow-to-the-eye-we-cannot-be-sure",
-      "headline": "Did Harold II take an arrow to the eye? We cannot be sure",
-      "summary": "Scholars debate whether Harold II took arrow to eye in Bayeux tapestry depicting 1066 Battle of Hastings.",
-      "url": "https://www.theguardian.com/p/x57m44",
-      "thumbnail": "https://media.guim.co.uk/24500b57afa9987be926f6da6db7dab3b4172ac1/0_0_3311_2649/500.jpg",
-      "published": "2026-06-09T16:49:31Z",
-      "location": {
-        "name": "Normandy",
-        "lat": 49.1829,
-        "lng": -0.355
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "politics/2026/jun/09/it-helps-to-keep-zombie-blairites-on-side",
-      "headline": "It helps to keep zombie Blairites on side",
-      "summary": "Letters discuss UK government's continued Blairite influence on policy direction and international trade.",
-      "url": "https://www.theguardian.com/p/x57yae",
-      "thumbnail": "https://media.guim.co.uk/699b28bf5582ad13c7709f0c3e9764fbf3291d00/0_0_4583_3667/500.jpg",
-      "published": "2026-06-09T16:49:25Z",
-      "location": {
-        "name": "United Kingdom",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 1,
-      "section": "politics"
-    },
-    {
-      "id": "lifeandstyle/2026/jun/09/wild-swimming-should-be-embraced-not-condemned",
-      "headline": "Wild swimming should be embraced, not condemned",
-      "summary": "Letter argues wild swimming should be embraced as personal risk activity like skiing or cycling.",
-      "url": "https://www.theguardian.com/p/x57p8a",
-      "thumbnail": "https://media.guim.co.uk/52ab07f701a1befb61a7e74fae20e90518de930b/500_0_5000_4000/500.jpg",
-      "published": "2026-06-09T16:49:20Z",
-      "location": {
-        "name": "United Kingdom",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "lifeandstyle"
-    },
-    {
-      "id": "world/2026/jun/09/our-efforts-to-record-tiananmen-atrocity",
-      "headline": "Our efforts to record Tiananmen atrocity",
-      "summary": "British Library preserves Tiananmen Square 1989 protest archive with documents and photos.",
-      "url": "https://www.theguardian.com/p/x58y59",
-      "thumbnail": "https://media.guim.co.uk/0ef793ed908285950d10fcab12ab1bb3427de460/494_0_2444_1956/500.jpg",
-      "published": "2026-06-09T16:49:16Z",
-      "location": {
-        "name": "Beijing",
-        "lat": 39.9042,
-        "lng": 116.4074
-      },
-      "category": "politics",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "uk-news/2026/jun/09/politicians-tensions-musk-social-media-stabbing-belfast",
-      "headline": "Politicians try to calm tensions inflamed by social media after stabbing in Belfast",
-      "summary": "Knife attack in Belfast sparks social media tensions and calls for anti-immigration protests.",
-      "url": "https://www.theguardian.com/p/x58mv3",
-      "thumbnail": "https://media.guim.co.uk/d444d361f5092ace495b68fc568b9ed74ca9ebf8/0_0_986_789/500.jpg",
-      "published": "2026-06-09T16:44:20Z",
-      "location": {
-        "name": "Belfast",
-        "lat": 54.5973,
-        "lng": -5.9301
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "uk-news"
-    },
-    {
-      "id": "uk-news/2026/jun/09/tommy-robinson-meets-elon-musk-father-moscow",
-      "headline": "Tommy Robinson meets Elon Musk’s father in Moscow",
-      "summary": "Tommy Robinson meets Elon Musk's father Errol in Moscow hotel, shares video online.",
-      "url": "https://www.theguardian.com/p/x58yky",
-      "thumbnail": "https://media.guim.co.uk/ef6abfd47080fa8584406d13476bcd5d6cf70456/852_0_6880_5504/500.jpg",
-      "published": "2026-06-09T16:42:15Z",
-      "location": {
-        "name": "Moscow",
-        "lat": 55.7558,
-        "lng": 37.6173
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "uk-news"
     },
     {
       "id": "sport/2026/jun/09/wembanyama-condemns-apparent-attacks-on-spurs-fans-in-new-york-during-nba-finals",
@@ -1765,6 +1253,166 @@
       },
       "category": "culture",
       "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "us-news/2026/jun/10/bill-gates-testimony-jeffrey-epstein",
+      "headline": "Bill Gates tells US House ‘I have never victimized anyone’ in Epstein testimony",
+      "summary": "Bill Gates testifies before House committee denying knowledge of Epstein's criminal conduct.",
+      "url": "https://www.theguardian.com/p/x58mpz",
+      "thumbnail": "https://media.guim.co.uk/7b424455cab9e83803a7a57d5af49a14051bc657/735_0_4093_3274/500.jpg",
+      "published": "2026-06-10T17:12:53Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/jun/10/democrats-rally-round-graham-platner-maine-trump-grip-gop-primary-elections",
+      "headline": "Democrats rally round Platner in Maine as Trump reaffirms grip on GOP after primaries",
+      "summary": "Graham Platner wins Maine Democratic Senate primary as Trump consolidates GOP control.",
+      "url": "https://www.theguardian.com/p/x58p42",
+      "thumbnail": "https://media.guim.co.uk/beb5f470043aaca34f3ede5a1c8fd8480b736168/531_0_5000_4000/500.jpg",
+      "published": "2026-06-10T17:10:05Z",
+      "location": {
+        "name": "Maine",
+        "lat": 45.2538,
+        "lng": -69.4455
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/jun/10/measles-us-spike",
+      "headline": "US measles cases pass 2,000 as outbreak nears worst in decades",
+      "summary": "US measles cases exceed 2,000 in worst outbreak in decades amid vaccination decline.",
+      "url": "https://www.theguardian.com/p/x59vy9",
+      "thumbnail": "https://media.guim.co.uk/fe1736bcc39c29e1075e4dc096dcd8d0fa6699be/367_0_4102_3281/500.jpg",
+      "published": "2026-06-10T17:01:37Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "health",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/jun/10/trump-iran-war-analysis",
+      "headline": "Trump, ever the unreliable narrator, is unable to force reality to match his preferred story on Iran",
+      "summary": "Trump's ongoing war with Iran characterized by cycles of threats, detente and deadlock.",
+      "url": "https://www.theguardian.com/p/x58qzf",
+      "thumbnail": "https://media.guim.co.uk/2c9cd3cd6a609496bc2231b14308a8e2245d3ace/160_0_6882_5504/500.jpg",
+      "published": "2026-06-10T17:00:33Z",
+      "location": {
+        "name": "Iran",
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/jun/10/trump-signs-70-billion-dollar-immigration-act-ice",
+      "headline": "Trump signs $70bn immigration act ensuring ICE funding through 2029",
+      "summary": "Trump signs $70bn immigration enforcement package ensuring ICE funding through 2029.",
+      "url": "https://www.theguardian.com/p/x59vyd",
+      "thumbnail": "https://media.guim.co.uk/429ad6768f47f073dcbf7e6ff3bbdf34356915e8/619_0_7187_5748/500.jpg",
+      "published": "2026-06-10T16:52:01Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "books/2026/jun/10/sales-meta-whistleblowers-memoir-careless-people-soar-after-hay-festival-silencing",
+      "headline": "Sales of Meta whistleblower’s memoir soar after Hay festival ‘silencing’",
+      "summary": "Meta whistleblower's memoir sales surge 300% after Hay Festival silencing incident.",
+      "url": "https://www.theguardian.com/p/x58pzp",
+      "thumbnail": "https://media.guim.co.uk/d5fdf0169bd1d6539ac8e70b6ca9dcb7c9cee142/809_0_6880_5504/500.jpg",
+      "published": "2026-06-10T16:51:36Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "books"
+    },
+    {
+      "id": "football/2026/jun/10/tv-rights-holders-frustrated-over-world-cup-final-half-time-show-delay",
+      "headline": "TV rights holders frustrated over World Cup final half-time show delay",
+      "summary": "FIFA delays confirming World Cup final half-time show length, frustrating broadcasters.",
+      "url": "https://www.theguardian.com/p/x59vdn",
+      "thumbnail": "https://media.guim.co.uk/3c7aa269a0713e410ec37eeabc5cc7ee7dd01290/612_0_6498_5198/500.jpg",
+      "published": "2026-06-10T16:47:46Z",
+      "location": {
+        "name": "East Rutherford",
+        "lat": 40.8135,
+        "lng": -74.0745
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/jun/10/florida-lawsuit-ai-facial-recognition",
+      "headline": "Florida lawsuit alleges wrongful arrest after police AI facial recognition error",
+      "summary": "Florida man wrongly arrested based on faulty AI facial recognition sues police agencies.",
+      "url": "https://www.theguardian.com/p/x59vff",
+      "thumbnail": "https://media.guim.co.uk/898e4b6f40778f62f4cdd579b0089ff5df3fef86/612_1574_3618_2893/500.jpg",
+      "published": "2026-06-10T16:27:23Z",
+      "location": {
+        "name": "Jacksonville",
+        "lat": 30.3322,
+        "lng": -81.6557
+      },
+      "category": "tech",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "uk-news/2026/jun/10/it-was-so-terrifying-care-workers-trapped-belfast-mob",
+      "headline": "‘It was so terrifying’: care workers tell how they were trapped at home by Belfast mob ",
+      "summary": "Care workers trapped during Belfast mob violence with neighbouring homes set ablaze.",
+      "url": "https://www.theguardian.com/p/x58qmg",
+      "thumbnail": "https://media.guim.co.uk/0636794793906434cb00843ad3f2b1a8d82db981/528_14_4437_3550/500.jpg",
+      "published": "2026-06-10T16:23:08Z",
+      "location": {
+        "name": "Belfast",
+        "lat": 54.5973,
+        "lng": -5.9301
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "world/2026/jun/10/rainfall-landslides-climate-crisis-tapanuli-orangutan-indonesia-extreme-weather",
+      "headline": "Four days of extreme rain in Indonesia killed 7% of world’s rarest great apes, study finds",
+      "summary": "Extreme rainfall kills 7% of world's rarest great ape population in Indonesia.",
+      "url": "https://www.theguardian.com/p/x58qae",
+      "thumbnail": "https://media.guim.co.uk/8c24d843b7436f3f696fc1c2a360e9a848c702cc/1215_263_3442_2754/500.jpg",
+      "published": "2026-06-10T16:18:05Z",
+      "location": {
+        "name": "North Sumatra",
+        "lat": 2.0833,
+        "lng": 99.5667
+      },
+      "category": "climate",
+      "significance": 3,
       "section": "world"
     }
   ]
