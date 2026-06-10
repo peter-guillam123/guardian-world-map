@@ -1,140 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-10T19:51:50.234Z",
-    "story_count": 78,
-    "oldest_story": "2026-06-09T20:41:08Z",
-    "newest_story": "2026-06-10T19:49:26Z",
+    "generated_at": "2026-06-10T22:02:50.343Z",
+    "story_count": 76,
+    "oldest_story": "2026-06-09T22:41:40Z",
+    "newest_story": "2026-06-10T22:00:24Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "australia-news/live/2026/jun/10/australia-news-live-penny-wong-sanctions-west-bank-settlers-australian-politics-high-court-israel-palestine-settlers-immigration-ntwnfb",
-      "headline": "Australia news live: Australia joins sanctions against ‘extremist settlers’ in West Bank; Barbecues Galore no more",
-      "summary": "Australia joins Western allies in sanctions against 'extremist settlers' in West Bank over Palestinian violence.",
-      "url": "https://www.theguardian.com/p/x58kcn",
-      "thumbnail": "https://media.guim.co.uk/9445a730a2b565f15f5c34415e34630e9e2c0d08/590_0_5903_4723/500.jpg",
-      "published": "2026-06-09T21:37:04Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "australia-news"
-    },
-    {
-      "id": "us-news/2026/jun/09/jeffrey-epstein-assistant-lesley-groff-testifies",
-      "headline": "‘He was a master manipulator,’ Jeffrey Epstein assistant Lesley Groff testifies",
-      "summary": "Jeffrey Epstein's assistant Lesley Groff testifies before House committee denying knowledge of his crimes.",
-      "url": "https://www.theguardian.com/p/x58hhg",
-      "thumbnail": "https://media.guim.co.uk/c0d9c80ee166d2f723b4e248bdb2489e4d5b65f8/0_0_2400_1918/500.jpg",
-      "published": "2026-06-09T21:36:14Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "uk-news/2026/jun/09/theres-wee-girls-inside-panic-as-masked-men-storm-house-in-belfast",
-      "headline": "‘There’s wee girls inside’: panic as masked men storm house in Belfast",
-      "summary": "Masked men storm residential house during violent protests near Belfast's Shankill Road area.",
-      "url": "https://www.theguardian.com/p/x58mzy",
-      "thumbnail": "https://media.guim.co.uk/2b214fdd2b83457c91d250cf73edb6d3b0b8ac76/500_0_4997_3997/500.jpg",
-      "published": "2026-06-09T21:31:51Z",
-      "location": {
-        "name": "Belfast",
-        "lat": 54.5973,
-        "lng": -5.9301
-      },
-      "category": "conflict",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "football/live/2026/jun/09/england-v-ukraine-womens-world-cup-qualifier-live",
-      "headline": "England 3-0 Ukraine: Women’s World Cup qualifier – as it happened",
-      "summary": "England's Lionesses defeat Ukraine 3-0 but must navigate playoffs after finishing second in group.",
-      "url": "https://www.theguardian.com/p/x58yb3",
-      "thumbnail": "https://media.guim.co.uk/b06180724adae9d92afa92c99f00a88dbc8607b5/572_0_4154_3322/500.jpg",
-      "published": "2026-06-09T21:02:20Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/jun/09/bukayo-saka-playing-through-pain-barrier-tuchel-world-cup",
-      "headline": "Bukayo Saka is playing through pain barrier, says Tuchel, as World Cup looms",
-      "summary": "England manager Tuchel warns Bukayo Saka is playing through achilles pain as World Cup approaches.",
-      "url": "https://www.theguardian.com/p/x58nv3",
-      "thumbnail": "https://media.guim.co.uk/9d308c3650570c146e1fdf0de5756f15d97b3a02/261_204_2998_2398/500.jpg",
-      "published": "2026-06-09T21:00:01Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/jun/09/enlgand-ukraine-womens-world-cup-2027-qualifying-match-report",
-      "headline": "Lionesses ease past Ukraine but must navigate playoffs to qualify for World Cup",
-      "summary": "England loses group top spot despite 3-0 Ukraine win; Spain's victory forces Lionesses into playoffs.",
-      "url": "https://www.theguardian.com/p/x58yaa",
-      "thumbnail": "https://media.guim.co.uk/4b3242ca6ded745e73a16e1b7e0b07e47463ff64/166_0_2411_1929/500.jpg",
-      "published": "2026-06-09T20:59:35Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "australia-news/2026/jun/10/wednesday-morning-mail-ntwnfb",
-      "headline": "Morning Mail: Trump vows to retaliate as Iran ‘downs US helicopter’, Australia joins sanctions of ‘extremist settlers’ in West Bank, apple taste test",
-      "summary": "Trump vows retaliation after Iran allegedly downs US helicopter; Australia sanctions West Bank settlers.",
-      "url": "https://www.theguardian.com/p/x58kvk",
-      "thumbnail": "https://media.guim.co.uk/fcce1e8db3e45d1aa3d0c587cbb1e6104f886ae9/503_0_5031_4027/500.jpg",
-      "published": "2026-06-09T20:50:11Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "australia-news"
-    },
-    {
-      "id": "us-news/2026/jun/09/karmelo-anthony-case-verdict",
-      "headline": "Karmelo Anthony, 19, found guilty of murder of Austin Metcalf in one-week trial",
-      "summary": "Texas jury finds 19-year-old Karmelo Anthony guilty of murdering Austin Metcalf in racially-watched trial.",
-      "url": "https://www.theguardian.com/p/x58nxy",
-      "thumbnail": "https://media.guim.co.uk/f5410c5058847a3cdbb534ade581826e7c08029c/370_0_3697_2958/500.jpg",
-      "published": "2026-06-09T20:41:08Z",
-      "location": {
-        "name": "Dallas",
-        "lat": 32.7767,
-        "lng": -96.797
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
     {
       "id": "law/2026/jun/10/lammy-jury-trials-race-relations",
       "headline": "Lammy’s cuts to jury trials could have ‘far-reaching’ effect on race relations, say MPs",
@@ -1254,6 +1126,102 @@
       "category": "politics",
       "significance": 1,
       "section": "politics"
+    },
+    {
+      "id": "australia-news/live/2026/jun/11/australia-news-live-labor-coalition-one-nation-anthony-albanese-pauline-hanson-capital-gains-housing-peptides-arthritis-ntwnfb",
+      "headline": "Australia news live: Angus Taylor rejects proposal to ‘carve up’ seats between Coalition and One Nation; $100m for new arthritis research",
+      "summary": "Coalition rejects seat-sharing deal with One Nation; $100m arthritis research announced.",
+      "url": "https://www.theguardian.com/p/x58q69",
+      "thumbnail": "https://media.guim.co.uk/c1f6f7779c2631f2670744478395197f062d7b0d/487_0_4873_3898/500.jpg",
+      "published": "2026-06-10T22:00:24Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "australia-news/2026/jun/11/morning-mail-thursday-ntwnfb",
+      "headline": "Morning Mail: One Nation’s ‘sloppy’ finances, Trump signals new Iran strikes, who will win the World Cup?",
+      "summary": "One Nation's financial records questioned; Trump signals Iran strikes; World Cup predictions.",
+      "url": "https://www.theguardian.com/p/x58q3x",
+      "thumbnail": "https://media.guim.co.uk/8ce906db5f74ae0aa2d5d424cbef1965aa2db054/1002_0_6192_4954/500.jpg",
+      "published": "2026-06-10T21:28:18Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "us-news/2026/jun/10/california-shasta-county-mail-in-voting-elimination",
+      "headline": "A conservative California county is trying to kill mail-in voting",
+      "summary": "Conservative California county passes measure eliminating mail-in voting, requiring in-person ballots.",
+      "url": "https://www.theguardian.com/p/x59xx4",
+      "thumbnail": "https://media.guim.co.uk/35d16a6ea619cb81b2d572ad95b27c5bd1f629e1/233_0_2333_1867/500.jpg",
+      "published": "2026-06-10T21:10:59Z",
+      "location": {
+        "name": "Shasta County",
+        "lat": 40.5865,
+        "lng": -121.2965
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "uk-news/2026/jun/10/police-use-water-cannon-against-rioters-in-northern-ireland",
+      "headline": "Police use water cannon against rioters in Northern Ireland",
+      "summary": "Police use water cannon against 300 rioters in anti-immigration protests near Newtownabbey.",
+      "url": "https://www.theguardian.com/p/x59xj4",
+      "thumbnail": "https://media.guim.co.uk/8fa53145f940db81a475a028fb9fb2f8dcb5cfe0/92_0_3071_2456/500.jpg",
+      "published": "2026-06-10T21:06:49Z",
+      "location": {
+        "name": "Belfast",
+        "lat": 54.5973,
+        "lng": -5.9301
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "us-news/2026/jun/10/brad-lander-trial-immigration-court",
+      "headline": "Trial centers on whether Brad Lander blocked an elevator but hints at deeper issue",
+      "summary": "Brad Lander trial focuses on elevator blocking during immigrant detention facility inspection.",
+      "url": "https://www.theguardian.com/p/x58mm4",
+      "thumbnail": "https://media.guim.co.uk/43d201172f0cef38c9e8db9edca499d4694068ab/333_0_5000_4000/500.jpg",
+      "published": "2026-06-10T21:02:21Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "sport/2026/jun/10/american-teenager-lutkenhaus-stuns-olympic-champion-as-gout-gout-learns-harsh-lesson",
+      "headline": "American teenager Lutkenhaus stuns Olympic champion as Gout learns lesson",
+      "summary": "American teen Lutkenhaus stuns Olympic champion in 800m; Australian Gout Gout finishes sixth.",
+      "url": "https://www.theguardian.com/p/x59xgk",
+      "thumbnail": "https://media.guim.co.uk/2b81f8374a4dc964c5829a88bdabdf0f98c5202c/193_116_2403_1923/500.jpg",
+      "published": "2026-06-10T20:54:20Z",
+      "location": {
+        "name": "Oslo",
+        "lat": 59.9139,
+        "lng": 10.7522
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
     }
   ]
 }
