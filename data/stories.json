@@ -1,108 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-09T23:05:00.250Z",
-    "story_count": 98,
-    "oldest_story": "2026-06-08T23:30:38Z",
-    "newest_story": "2026-06-09T23:02:04Z",
+    "generated_at": "2026-06-10T01:29:17.774Z",
+    "story_count": 95,
+    "oldest_story": "2026-06-09T04:57:40Z",
+    "newest_story": "2026-06-10T01:21:22Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "sport/live/2026/jun/08/nba-finals-2026-game-3-san-antonio-spurs-v-new-york-knicks-live-buildup",
-      "headline": "NBA finals 2026 Game 3: San Antonio Spurs v New York Knicks – live buildup",
-      "summary": "Knicks host Spurs in NBA Finals Game 3 with 2-0 series lead at Madison Square Garden.",
-      "url": "https://www.theguardian.com/p/x58geh",
-      "thumbnail": "https://media.guim.co.uk/4f029da25cdafd8b3cf9c3db8b704fce8a21f9c7/667_0_3333_2667/500.jpg",
-      "published": "2026-06-08T23:30:38Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "sport"
-    },
-    {
-      "id": "australia-news/live/2026/jun/09/anthony-albanese-labor-one-nation-pauline-hanson-coalition-angus-taylor-ndis-jacinta-allan-victoria-ntwnfb",
-      "headline": "Australia news live: ASX slumps amid tech selloff; Australians unhappier now than during the pandemic",
-      "summary": "ASX slumps amid tech selloff; Australians report lower happiness than pandemic era.",
-      "url": "https://www.theguardian.com/p/x58fc7",
-      "thumbnail": "https://media.guim.co.uk/8f30cb2790ee4790fb59bfb104c6879471b3166f/898_0_5863_4691/500.jpg",
-      "published": "2026-06-09T01:27:18Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "us-news/2026/jun/08/trump-news-at-a-glance-latest-updates-today",
-      "headline": "Trump news at a glance: watchdog group sues to block president’s ‘deeply corrupt’ birthday party",
-      "summary": "Watchdog group sues to block Trump's UFC Freedom 250 birthday party at White House.",
-      "url": "https://www.theguardian.com/p/x58fhz",
-      "thumbnail": "https://media.guim.co.uk/de08f68b953bb2fe5ed85f0545fa9b5479b66e70/150_0_3643_2916/500.jpg",
-      "published": "2026-06-09T01:08:49Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "sport/2026/jun/08/donald-trump-knicks-spurs-nba-finals-crowd-reaction-boos",
-      "headline": "Donald Trump given hostile reception as New York crowd boos and jeers president at NBA finals ",
-      "summary": "Trump booed at MSG during NBA finals Game 3 between Knicks and Spurs.",
-      "url": "https://www.theguardian.com/p/x58b83",
-      "thumbnail": "https://media.guim.co.uk/6487189bc104b18b25c03220817da4be8aa94eec/0_188_4495_3596/500.jpg",
-      "published": "2026-06-09T00:45:10Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "us-news/2026/jun/08/karen-bass-nithya-raman-los-angeles-mayoral-race",
-      "headline": "Nithya Raman edges out Spencer Pratt to face Karen Bass in LA mayoral runoff",
-      "summary": "Nithya Raman advances to face Karen Bass in LA mayoral runoff election.",
-      "url": "https://www.theguardian.com/p/x56hkc",
-      "thumbnail": "https://media.guim.co.uk/494c75a7b207985f9bd10121bdb3820017963330/0_0_1500_1200/500.jpg",
-      "published": "2026-06-09T00:41:25Z",
-      "location": {
-        "name": "Los Angeles",
-        "lat": 34.0522,
-        "lng": -118.2437
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "law/2026/jun/09/icc-chief-prosecutor-karim-khan-suspended-international-criminal-court",
-      "headline": "ICC chief prosecutor Karim Khan suspended amid sexual misconduct inquiry ",
-      "summary": "ICC chief prosecutor Karim Khan suspended over sexual misconduct allegations.",
-      "url": "https://www.theguardian.com/p/x58hpb",
-      "thumbnail": "https://media.guim.co.uk/e9450bb29e195cb18fab88ad977c8f469a04442e/70_0_4843_3873/500.jpg",
-      "published": "2026-06-09T00:34:23Z",
-      "location": {
-        "name": "The Hague",
-        "lat": 52.0705,
-        "lng": 4.3007
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "law"
-    },
     {
       "id": "commentisfree/2026/jun/09/young-people-money-citizens-advance-generations-older-people",
       "headline": "Young people need money because our system is rigged. Here’s a way to give it to them",
@@ -1573,6 +1477,54 @@
       },
       "category": "conflict",
       "significance": 4,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/jun/09/pamela-evette-south-carolina-republican-governor-primary",
+      "headline": "Trump-backed Pamela Evette and Alan Wilson head to runoff in South Carolina GOP governor race",
+      "summary": "Trump-backed Pamela Evette advances to GOP runoff in South Carolina gubernatorial primary.",
+      "url": "https://www.theguardian.com/p/x58ynk",
+      "thumbnail": "https://media.guim.co.uk/47a451a71a7c99d237a10b249cd7f832beac2daa/359_0_3601_2880/500.jpg",
+      "published": "2026-06-10T01:21:22Z",
+      "location": {
+        "name": "South Carolina",
+        "lat": 34.0007,
+        "lng": -81.1637
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "world/2026/jun/10/ukraine-war-briefing-moscow-car-bomb-kills-russian-ammunition-chief-reports",
+      "headline": "Ukraine war briefing: Moscow car bomb kills Russian ammunition chief – reports",
+      "summary": "Car bomb kills Russian ammunition chief in Moscow region amid escalating Ukrainian attacks.",
+      "url": "https://www.theguardian.com/p/x58nkh",
+      "thumbnail": "https://media.guim.co.uk/d34048e73d4df81250392997e455dd1776b7e316/852_0_4260_3408/500.jpg",
+      "published": "2026-06-10T01:01:18Z",
+      "location": {
+        "name": "Moscow",
+        "lat": 55.7558,
+        "lng": 37.6173
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "us-news/2026/jun/09/trump-news-at-a-glance-latest-updates-today",
+      "headline": "Trump news at a glance: president returns to old playbook of undermining US election integrity",
+      "summary": "Trump administration accused of undermining election integrity with unfounded fraud allegations.",
+      "url": "https://www.theguardian.com/p/x58ybz",
+      "thumbnail": "https://media.guim.co.uk/6bc245a04fd9031d8df706a3997523d129998897/856_0_6880_5504/500.jpg",
+      "published": "2026-06-10T01:00:06Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
       "section": "us-news"
     }
   ]
