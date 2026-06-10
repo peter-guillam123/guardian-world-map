@@ -1,156 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-10T22:02:50.343Z",
-    "story_count": 76,
-    "oldest_story": "2026-06-09T22:41:40Z",
-    "newest_story": "2026-06-10T22:00:24Z",
+    "generated_at": "2026-06-10T23:47:52.866Z",
+    "story_count": 74,
+    "oldest_story": "2026-06-10T01:00:06Z",
+    "newest_story": "2026-06-10T23:47:32Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "law/2026/jun/10/lammy-jury-trials-race-relations",
-      "headline": "Lammy’s cuts to jury trials could have ‘far-reaching’ effect on race relations, say MPs",
-      "summary": "Justice secretary's jury trial cuts could harm race relations, MPs warn.",
-      "url": "https://www.theguardian.com/p/x58m9n",
-      "thumbnail": "https://media.guim.co.uk/ae0230b7a530ee4e8c03ec797a2ace281628be48/779_210_4193_3357/500.jpg",
-      "published": "2026-06-09T23:02:04Z",
-      "location": {
-        "name": "England and Wales",
-        "lat": 52.3555,
-        "lng": -1.1743
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "law"
-    },
-    {
-      "id": "society/2026/jun/10/staff-immigration-detention-centre-england-flags",
-      "headline": "Staff at immigration detention centre wore England flags, report finds",
-      "summary": "Immigration detention staff wore England flags, prison watchdog report reveals.",
-      "url": "https://www.theguardian.com/p/x58yqc",
-      "thumbnail": "https://media.guim.co.uk/bf1f5f4be931e6f1dce483b9823ac4886b334795/422_0_1350_1080/500.jpg",
-      "published": "2026-06-09T23:02:04Z",
-      "location": {
-        "name": "England",
-        "lat": 52.6369,
-        "lng": -1.1398
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "society"
-    },
-    {
-      "id": "society/2026/jun/10/grim-reality-of-prison-conditions-laid-bare-in-damning-report",
-      "headline": "Grim reality of prison conditions laid bare in damning report",
-      "summary": "Damning report exposes poor prison conditions across England and Wales.",
-      "url": "https://www.theguardian.com/p/x58m67",
-      "thumbnail": "https://media.guim.co.uk/b02886188a20f44db4238b2c86cdbcc61a78f176/290_0_2421_1937/500.jpg",
-      "published": "2026-06-09T23:02:04Z",
-      "location": {
-        "name": "England and Wales",
-        "lat": 52.3555,
-        "lng": -1.1743
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "society"
-    },
-    {
-      "id": "artanddesign/2026/jun/10/project-a-black-planet-review-barbican-london",
-      "headline": "Project a Black Planet review: spits out dreary academic theory where it should sing",
-      "summary": "Barbican's Panafrica exhibition criticized for prioritizing theory over art.",
-      "url": "https://www.theguardian.com/p/x58yfy",
-      "thumbnail": "https://media.guim.co.uk/0e8937c2d0204baf3a93227ca020b76fdadad089/0_216_3000_2400/500.jpg",
-      "published": "2026-06-09T23:02:03Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "artanddesign"
-    },
-    {
-      "id": "uk-news/2026/jun/10/cattle-tuberculosis-vaccine-badger-cull-england",
-      "headline": "Cattle in England to get tuberculosis vaccine from 2030 as badger cull to end",
-      "summary": "England to vaccinate cattle against tuberculosis from 2030; badger culls to end.",
-      "url": "https://www.theguardian.com/p/x58y55",
-      "thumbnail": "https://media.guim.co.uk/a49a04195df29feb5bff47f5ebb2e2df3917f06e/5_60_4444_3555/500.jpg",
-      "published": "2026-06-09T23:01:04Z",
-      "location": {
-        "name": "England",
-        "lat": 52.6369,
-        "lng": -1.1398
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "us-news/live/2026/jun/09/primary-election-results-maine-sc-nv-nd-midterms-latest-updates",
-      "headline": "US primaries 2026 live: Graham Platner vies to overcome scandals in Maine as four states hold elections",
-      "summary": "Graham Platner advances in Maine Democratic primary despite scandal allegations.",
-      "url": "https://www.theguardian.com/p/x58mmz",
-      "thumbnail": "https://media.guim.co.uk/1cc63e695fb915d400ff371fd68de3d71bd6d870/646_0_3595_2876/500.jpg",
-      "published": "2026-06-09T22:54:57Z",
-      "location": {
-        "name": "Maine",
-        "lat": 45.2538,
-        "lng": -69.4455
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/jun/09/spencer-pratt-la-mayor-election",
-      "headline": "How Spencer Pratt’s ‘patently absurd’ bid for mayor fell flat in Los Angeles",
-      "summary": "Spencer Pratt's Los Angeles mayoral bid fails despite local resonance.",
-      "url": "https://www.theguardian.com/p/x58xcp",
-      "thumbnail": "https://media.guim.co.uk/5af2255a2e23f9e4b2a2b2dc32b23aefdf6114a6/424_0_5153_4124/500.jpg",
-      "published": "2026-06-09T22:52:02Z",
-      "location": {
-        "name": "Los Angeles",
-        "lat": 34.0522,
-        "lng": -118.2437
-      },
-      "category": "politics",
-      "significance": 1,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/jun/09/jd-vance-iran-peace-deal",
-      "headline": "JD Vance claims US ‘very close’ to peace deal with Iran",
-      "summary": "US strikes Iran after helicopter downing; Vance claims peace deal imminent.",
-      "url": "https://www.theguardian.com/p/x58n9b",
-      "thumbnail": "https://media.guim.co.uk/024264d526171ed6e084ae476e3998961bdd8643/720_0_7200_5760/500.jpg",
-      "published": "2026-06-09T22:45:26Z",
-      "location": {
-        "name": "Iran",
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/jun/09/trump-blames-iran-for-downing-of-army-helicopter-and-says-us-must-respond",
-      "headline": "Trump launches strikes against Iran after downing of US army helicopter",
-      "summary": "Trump launches retaliatory strikes on Iran after Apache helicopter downed.",
-      "url": "https://www.theguardian.com/p/x58maf",
-      "thumbnail": "https://media.guim.co.uk/1ea32f3c7c2a2102d6c0513d9fb7eb02d84d915e/96_0_1068_854/500.jpg",
-      "published": "2026-06-09T22:41:40Z",
-      "location": {
-        "name": "Iran",
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "us-news"
-    },
     {
       "id": "us-news/2026/jun/09/pamela-evette-south-carolina-republican-governor-primary",
       "headline": "Trump-backed Pamela Evette and Alan Wilson head to runoff in South Carolina GOP governor race",
@@ -1222,6 +1078,118 @@
       "category": "sport",
       "significance": 2,
       "section": "sport"
+    },
+    {
+      "id": "sport/live/2026/jun/10/nba-finals-2026-game-4-san-antonio-spurs-v-new-york-knicks-live-buildup",
+      "headline": "NBA finals 2026 Game 4: San Antonio Spurs v New York Knicks – live buildup",
+      "summary": "NBA Finals Game 4: Knicks host Spurs at Madison Square Garden with 2-1 series lead.",
+      "url": "https://www.theguardian.com/p/x59x3z",
+      "thumbnail": "https://media.guim.co.uk/f00a67e4bfc0d009bfb9e8fb74e9914e47e4eeeb/1340_0_7200_5760/500.jpg",
+      "published": "2026-06-10T23:47:32Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "sport"
+    },
+    {
+      "id": "world/2026/jun/11/patrick-bruel-charged-rape-sexual-assault",
+      "headline": "French star Patrick Bruel charged with rape and sexual assault",
+      "summary": "French singer Patrick Bruel charged with rape and sexual assault in major #MeToo case.",
+      "url": "https://www.theguardian.com/p/x592vz",
+      "thumbnail": "https://media.guim.co.uk/7fa3a99d72405f965739d0579e9b0119d92485cf/1309_194_2486_1989/500.jpg",
+      "published": "2026-06-10T23:31:22Z",
+      "location": {
+        "name": "Paris",
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "category": "culture",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "football/2026/jun/11/england-costa-rica-world-cup-2026-warmup-match-report",
+      "headline": "Gordon makes his point as England breeze past Costa Rica in final World Cup warm-up",
+      "summary": "England defeats Costa Rica 3-0 in final World Cup warm-up match before Croatia opener.",
+      "url": "https://www.theguardian.com/p/x59vbt",
+      "thumbnail": "https://media.guim.co.uk/22c90bb4f05372ebee6476fe995d7696dc9df857/640_0_5293_4234/500.jpg",
+      "published": "2026-06-10T23:13:01Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/jun/10/haiti-world-cup-jerseys-change-fifa-saeta-imagery",
+      "headline": "Haiti forced to change World Cup jerseys after Fifa rejects ‘political’ elements",
+      "summary": "Haiti forced to redesign World Cup jerseys after FIFA rejects 'political' Haitian revolution imagery.",
+      "url": "https://www.theguardian.com/p/x59248",
+      "thumbnail": "https://media.guim.co.uk/5715f94c8e3c75fc02030b3623375cf9ac7303c9/401_0_4005_3204/500.jpg",
+      "published": "2026-06-10T23:02:15Z",
+      "location": {
+        "name": "Haiti",
+        "lat": 18.9712,
+        "lng": -72.2852
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "uk-news/2026/jun/11/ss-great-britain-maritime-landmark-rebrand-bristol-dockyards",
+      "headline": "Brunel’s SS Great Britain site drops historical name in ‘cool’ rebrand",
+      "summary": "Brunel's SS Great Britain site rebranded as Bristol Dockyards in museum revamp.",
+      "url": "https://www.theguardian.com/p/x58y7e",
+      "thumbnail": "https://media.guim.co.uk/8e73be4c571abf02049acc8fad118969205b6ff7/886_0_3838_3072/500.jpg",
+      "published": "2026-06-10T23:01:01Z",
+      "location": {
+        "name": "Bristol",
+        "lat": 51.4545,
+        "lng": -2.5879
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "stage/2026/jun/11/hamlet-hail-to-the-thief-barbican-london",
+      "headline": "Radiohead revenge tragedy Hamlet Hail to the Thief sets London dates",
+      "summary": "Radiohead-Shakespeare fusion Hamlet Hail to the Thief opens at Barbican theatre.",
+      "url": "https://www.theguardian.com/p/x58kxc",
+      "thumbnail": "https://media.guim.co.uk/22a64ea2123b13326e340ca8b6021c0eb4350e3d/268_0_2500_2000/500.jpg",
+      "published": "2026-06-10T23:01:00Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "stage"
+    },
+    {
+      "id": "world/2026/jun/11/sole-survivor-air-india-crash-vishwash-kumar-ramesh-demands-honesty-answers",
+      "headline": "Sole survivor of Air India crash demands ‘honesty and answers’ one year on",
+      "summary": "Air India crash sole survivor demands answers one year after disaster killing 260 people.",
+      "url": "https://www.theguardian.com/p/x58qth",
+      "thumbnail": "https://media.guim.co.uk/ac92e5924847284d22c0fadd9251e019fe9708a6/712_0_5000_4000/500.jpg",
+      "published": "2026-06-10T23:01:00Z",
+      "location": {
+        "name": "Ahmedabad",
+        "lat": 23.0225,
+        "lng": 72.5714
+      },
+      "category": "health",
+      "significance": 3,
+      "section": "world"
     }
   ]
 }
