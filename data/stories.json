@@ -1,124 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-10T10:20:51.020Z",
-    "story_count": 98,
-    "oldest_story": "2026-06-09T11:16:36Z",
-    "newest_story": "2026-06-10T10:15:53Z",
+    "generated_at": "2026-06-10T13:53:46.312Z",
+    "story_count": 110,
+    "oldest_story": "2026-06-09T14:37:38Z",
+    "newest_story": "2026-06-10T13:49:17Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "technology/2026/jun/09/amazon-uk-arm-tax-credit-profits-tech-company",
-      "headline": "Amazon’s main UK arm handed £7.6m tax credit as profits soar to £355m",
-      "summary": "Amazon UK's main division receives £7.6m tax credit despite £355m profit surge.",
-      "url": "https://www.theguardian.com/p/x58f56",
-      "thumbnail": "https://media.guim.co.uk/1b402721cf934b360a130bee4875557303eb8604/154_0_4666_3733/500.jpg",
-      "published": "2026-06-09T12:15:11Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "technology"
-    },
-    {
-      "id": "us-news/live/2026/jun/09/donald-trump-nithya-raman-los-angeles-la-spencer-pratt-mayor-politics-latest-news-updates",
-      "headline": "Nithya Raman ‘incredibly honoured’ to advance to LA mayor runoff after seeing off Republican - US politics live ",
-      "summary": "Nithya Raman advances to LA mayor runoff after defeating Republican Spencer Pratt.",
-      "url": "https://www.theguardian.com/p/x58kad",
-      "thumbnail": "https://media.guim.co.uk/a79b08aa6142b341ea5281424c955ff98c1b60ee/250_0_2500_2000/500.jpg",
-      "published": "2026-06-09T12:11:13Z",
-      "location": {
-        "name": "Los Angeles",
-        "lat": 34.0522,
-        "lng": -118.2437
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "sport/2026/jun/09/maro-itoje-out-england-training-squad-summer-rest-expected",
-      "headline": "Itoje left out of England training squad with summer rest expected",
-      "summary": "England captain Maro Itoje omitted from training squad; expected summer rest before tour.",
-      "url": "https://www.theguardian.com/p/x58kk4",
-      "thumbnail": "https://media.guim.co.uk/62b662ce3a4e33ba3ec5ceead483d82389b8e1c4/757_141_3456_2764/500.jpg",
-      "published": "2026-06-09T12:06:52Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "football/2026/jun/09/usmnt-world-cup-goals-ranked",
-      "headline": "Ranked! USMNT’s best World Cup goals: from Donovan at the death to a painful Pulisic finish",
-      "summary": "USMNT's best World Cup goals ranked from Donovan to Pulisic ahead of 2026 campaign.",
-      "url": "https://www.theguardian.com/p/x58d6b",
-      "thumbnail": "https://media.guim.co.uk/9c16a54f086420c35d64965078c67c706d85cc0b/0_0_2500_2000/500.jpg",
-      "published": "2026-06-09T12:00:50Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "uk-news/2026/jun/09/schoolgirl-arrested-stabbings-manchester-school-blackley",
-      "headline": "Girl arrested after three stabbed at Manchester school",
-      "summary": "Schoolgirl arrested after three people stabbed at Co-op Academy in Manchester.",
-      "url": "https://www.theguardian.com/p/x58kg6",
-      "thumbnail": "https://media.guim.co.uk/98a1e1ba1ffe91086237b36c003d28dfbccbe8ae/863_0_5000_4000/500.jpg",
-      "published": "2026-06-09T11:59:11Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4808,
-        "lng": -2.2426
-      },
-      "category": "conflict",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "business/2026/jun/09/early-summer-holiday-bookings-down-uk-travel-industry",
-      "headline": "Summer holiday bookings down amid ‘apprehension’, says UK travel industry",
-      "summary": "UK summer holiday bookings decline amid Middle East conflict and cost-of-living concerns.",
-      "url": "https://www.theguardian.com/p/x58kg7",
-      "thumbnail": "https://media.guim.co.uk/7e9058247c710e5b835b62379f22e03bae6b1153/533_0_3010_2407/500.jpg",
-      "published": "2026-06-09T11:58:35Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "uk-news/2026/jun/09/man-seriously-injured-in-belfast-stabbing-starmer-describes-as-sickening",
-      "headline": "Man seriously injured in Belfast stabbing Starmer describes as ‘sickening’",
-      "summary": "Man arrested after stabbing in Belfast leaves victim seriously injured; PM condemns attack.",
-      "url": "https://www.theguardian.com/p/x58kdb",
-      "thumbnail": "https://media.guim.co.uk/f06f7ee4b42fe37e75d5bdd63805458b1461b12e/569_344_1842_1474/500.jpg",
-      "published": "2026-06-09T11:16:36Z",
-      "location": {
-        "name": "Belfast",
-        "lat": 54.5973,
-        "lng": -5.9301
-      },
-      "category": "conflict",
-      "significance": 2,
-      "section": "uk-news"
-    },
     {
       "id": "sport/2026/jun/09/teenage-sensation-gout-gout-diamond-league-athletics",
       "headline": "Teenage sensation Gout Gout ready to dive in at Diamond League deep end",
@@ -1573,6 +1461,310 @@
       },
       "category": "conflict",
       "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "us-news/live/2026/jun/10/graham-platner-maine-democrats-senate-primary-donald-trump-us-politics-latest-news-updates",
+      "headline": "Controversial Graham Platner overcomes allegations to seal Maine Democratic nomination for Senate race – US politics live ",
+      "summary": "Marine veteran Graham Platner wins Maine Democratic Senate primary with 72% despite allegations.",
+      "url": "https://www.theguardian.com/p/x58pzg",
+      "thumbnail": "https://media.guim.co.uk/775530761030488ba5e5fec45065e24677105c8b/654_0_5000_4000/500.jpg",
+      "published": "2026-06-10T13:49:17Z",
+      "location": {
+        "name": "Maine",
+        "lat": 45.6945,
+        "lng": -68.9887
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "business/2026/jun/10/inflation-report-rate",
+      "headline": "US inflation jumped to 4.2% in May, the third consecutive increase since start of Iran war",
+      "summary": "US inflation jumps to 4.2% in May as Iran conflict impacts oil prices and energy costs.",
+      "url": "https://www.theguardian.com/p/x58mg3",
+      "thumbnail": "https://media.guim.co.uk/55e769bbf9bb4e9f4e805ca395437526ab946534/627_0_3332_2666/500.jpg",
+      "published": "2026-06-10T13:47:52Z",
+      "location": {
+        "name": "United States",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "business"
+    },
+    {
+      "id": "business/live/2026/jun/10/asian-stocks-fall-us-iran-exchange-fire-middle-east-strait-of-hormuz-oil-prices-latest-news-updates",
+      "headline": " US inflation hits 4.2% in May as Trump’s Middle East conflict drives up prices - business live",
+      "summary": "US stocks fall as inflation hits three-year high; oil prices rise amid Middle East tensions.",
+      "url": "https://www.theguardian.com/p/x58p45",
+      "thumbnail": "https://media.guim.co.uk/a9bf30cd716d63c7bd668945598877cd429ffebf/639_0_4237_3389/500.jpg",
+      "published": "2026-06-10T13:40:38Z",
+      "location": {
+        "name": "United States",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "business"
+    },
+    {
+      "id": "us-news/2026/jun/10/tyler-mane-male-breast-cancer",
+      "headline": "Actor Tyler Mane reveals he is having treatment for rare male breast cancer",
+      "summary": "Actor Tyler Mane reveals male breast cancer diagnosis, seeks to raise awareness of rare condition.",
+      "url": "https://www.theguardian.com/p/x58qzp",
+      "thumbnail": "https://media.guim.co.uk/4aaeb54770c4bf0ee66b862d0a5c7906a03c9558/310_0_5001_4000/500.jpg",
+      "published": "2026-06-10T13:35:38Z",
+      "location": {
+        "name": "United States",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "football/live/2026/jun/10/world-cup-2026-news-england-gear-up-for-friendly-infantino-warns-la-of-happy-barbarians-messi-scores-on-return-live",
+      "headline": "World Cup 2026 news: latest from the camps; protesters block road to Azteca; Messi’s scoring return – live",
+      "summary": "World Cup 2026 countdown continues with team camps, Messi's return, and Mexico City preparations.",
+      "url": "https://www.theguardian.com/p/x58f6j",
+      "thumbnail": "https://media.guim.co.uk/c0d8338caaadc6bf473655d2556a4fe3e06cb9b8/478_143_2321_1857/500.jpg",
+      "published": "2026-06-10T13:32:35Z",
+      "location": {
+        "name": "Mexico City",
+        "lat": 19.4326,
+        "lng": -99.1332
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "business/2026/jun/10/weight-loss-drugs-grocery-bills-glp-1s",
+      "headline": "Weight-loss drug users save more than £400 a year on food as take-up triples",
+      "summary": "Weight-loss drug users save £400+ annually on groceries as GLP-1 use triples in Britain.",
+      "url": "https://www.theguardian.com/p/x58pmt",
+      "thumbnail": "https://media.guim.co.uk/d052dc1af5c516c95cc3587c621164129d973e09/0_0_4688_3751/500.jpg",
+      "published": "2026-06-10T13:29:38Z",
+      "location": {
+        "name": "United Kingdom",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "football/2026/jun/10/world-cup-2026-guardian-writers-predictions-for-the-tournament",
+      "headline": "World Cup 2026: Guardian writers’ predictions for the tournament",
+      "summary": "Guardian writers predict World Cup 2026 outcomes across North American tournament venues.",
+      "url": "https://www.theguardian.com/p/x57kgy",
+      "thumbnail": "https://media.guim.co.uk/8ebc135f4cd2d59d44e7e1157cda1228acb368dc/0_0_2500_2000/500.jpg",
+      "published": "2026-06-10T13:17:10Z",
+      "location": {
+        "name": "North America",
+        "lat": 40,
+        "lng": -95
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/jun/10/nancy-lacore-south-carolina-democrat-house-primary",
+      "headline": "Navy admiral fired by Hegseth advances in South Carolina Democratic House primary",
+      "summary": "Navy admiral Nancy Lacore, fired by Hegseth, advances to runoff in South Carolina House race.",
+      "url": "https://www.theguardian.com/p/x58qhp",
+      "thumbnail": "https://media.guim.co.uk/fa31d7be97603fb9e616790bab77875a5a22bd0b/18_984_3045_2435/500.jpg",
+      "published": "2026-06-10T13:16:49Z",
+      "location": {
+        "name": "South Carolina",
+        "lat": 34.0007,
+        "lng": -81.0348
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "uk-news/2026/jun/10/two-men-jailed-for-putting-lives-at-risk-during-small-boat-journeys-to-uk",
+      "headline": "Two men jailed for putting lives at risk during small boat journeys to UK",
+      "summary": "Two small-boat pilots jailed under new UK law for endangering lives during Channel crossings.",
+      "url": "https://www.theguardian.com/p/x58qjb",
+      "thumbnail": "https://media.guim.co.uk/3c6665520da6b9e7f9fd3bea83f9cf8773720b69/103_0_1045_836/500.jpg",
+      "published": "2026-06-10T13:15:47Z",
+      "location": {
+        "name": "United Kingdom",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "business/2026/jun/10/uk-ease-steel-tariffs-manufacturers-warn-costs",
+      "headline": "UK poised to ease steel tariffs as manufacturers warn of costs",
+      "summary": "UK considers easing steel tariffs after manufacturers warn of significant cost increases.",
+      "url": "https://www.theguardian.com/p/x58qt4",
+      "thumbnail": "https://media.guim.co.uk/c679379971844b859fa4a86c38062da5c138c4bb/402_0_4840_3872/500.jpg",
+      "published": "2026-06-10T13:11:57Z",
+      "location": {
+        "name": "United Kingdom",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "football/2026/jun/10/exciting-transfer-window-will-only-exacerbate-womens-footballs-wealth-gap",
+      "headline": "Exciting transfer window will only exacerbate women’s football’s wealth gap",
+      "summary": "Women's football wealth gap widens as stars like Alexis Putellas transfer to WSL clubs.",
+      "url": "https://www.theguardian.com/p/x58pkc",
+      "thumbnail": "https://media.guim.co.uk/ef8ae989c85e54c9ffa19bd57c56ebf10fcf24ca/1192_0_6830_5464/500.jpg",
+      "published": "2026-06-10T13:06:18Z",
+      "location": {
+        "name": "United Kingdom",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "world/2026/jun/10/parents-uk-how-feel-about-potential-under-16s-social-media-ban",
+      "headline": "Parents in the UK: how do you feel about the potential under-16s social media ban?",
+      "summary": "UK considers social media ban for under-16s following Australia's world-first restrictions.",
+      "url": "https://www.theguardian.com/p/x58qbd",
+      "thumbnail": "https://media.guim.co.uk/77482423e65b48adbef4c14fc07323451468923d/233_0_2525_2019/500.jpg",
+      "published": "2026-06-10T13:03:43Z",
+      "location": {
+        "name": "United Kingdom",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "world/2026/jun/10/sardinian-beach-bans-umbrellas-people-aged-10-65-punta-molentis",
+      "headline": "Sardinian beach bans umbrellas for people aged 10 to 65",
+      "summary": "Sardinian beach bans umbrellas for ages 10-65 in latest Italian beach dispute.",
+      "url": "https://www.theguardian.com/p/x58q6e",
+      "thumbnail": "https://media.guim.co.uk/d479387b2fd6bdc2efce53d3b91476a6f465eee7/357_0_4640_3712/500.jpg",
+      "published": "2026-06-10T13:02:05Z",
+      "location": {
+        "name": "Sardinia",
+        "lat": 39.8158,
+        "lng": 8.5917
+      },
+      "category": "other",
+      "significance": 1,
+      "section": "world"
+    },
+    {
+      "id": "us-news/2026/jun/10/climate-change-crisis-refugees",
+      "headline": "‘Every day it’s more barriers’: how the US is shutting out climate refugees",
+      "summary": "US increasingly restricts refugee admissions despite climate crisis forcing millions from homes.",
+      "url": "https://www.theguardian.com/p/x57nvy",
+      "thumbnail": "https://media.guim.co.uk/6b68b8fbf0275861448ae20d5d19fa54b5af5a5a/667_0_3333_2668/500.jpg",
+      "published": "2026-06-10T13:00:21Z",
+      "location": {
+        "name": "United States",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "climate",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/jun/10/trump-administration-immigrants-climate-crisis",
+      "headline": "Trump targeting immigrants from countries hit most by climate shocks",
+      "summary": "Trump admin targets immigrants from climate-vulnerable countries while pushing fossil fuel policies.",
+      "url": "https://www.theguardian.com/p/x565q7",
+      "thumbnail": "https://media.guim.co.uk/e568abb057651e11af43846809a978df3c5a45ff/0_0_1500_1200/500.jpg",
+      "published": "2026-06-10T13:00:20Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "world/2026/jun/10/mourning-fans-queue-tribute-argentina-carlos-indio-solari",
+      "headline": "‘Not just a singer’: Argentinians queue for miles to mourn biggest rockstar most of world has never heard of",
+      "summary": "Hundreds of thousands mourn Argentine rock legend Carlos 'Indio' Solari in Buenos Aires.",
+      "url": "https://www.theguardian.com/p/x58q84",
+      "thumbnail": "https://media.guim.co.uk/a39eb0212f1e7beee9fc332591c8204dc4dbf880/561_0_4200_3360/500.jpg",
+      "published": "2026-06-10T13:00:20Z",
+      "location": {
+        "name": "Buenos Aires",
+        "lat": -34.6037,
+        "lng": -58.3816
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "uk-news/2026/jun/10/do-not-use-our-tragedy-to-fuel-violence-family-of-belfast-attack-victim-say",
+      "headline": "Do not use our tragedy to fuel violence, family of Belfast attack victim say",
+      "summary": "Belfast knife attack victim's family urges calm amid riots, defends migrants' contributions.",
+      "url": "https://www.theguardian.com/p/x58qjg",
+      "thumbnail": "https://media.guim.co.uk/57a128191383a1bf3edcc4e3a3545bec0b418e6d/198_0_3780_3024/500.jpg",
+      "published": "2026-06-10T12:58:51Z",
+      "location": {
+        "name": "Belfast",
+        "lat": 54.5973,
+        "lng": -5.9301
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "politics/2026/jun/10/reform-deputy-richard-tice-not-aware-more-financial-gifts-unable-check-all-members",
+      "headline": "Reform deputy says ‘not aware’ of more financial gifts but unable to check all members",
+      "summary": "Reform UK deputy denies awareness of additional gifts to Farage beyond £5m crypto donation.",
+      "url": "https://www.theguardian.com/p/x58q5n",
+      "thumbnail": "https://media.guim.co.uk/4984a8057072cd290a68395aec87b32d7981c2e0/895_0_4361_3489/500.jpg",
+      "published": "2026-06-10T12:55:41Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "world/2026/jun/10/pope-leo-bless-sagrada-familia-antoni-gaudi",
+      "headline": "Faithful line streets as Pope Leo to bless Sagrada Família on centenary of Gaudí’s death",
+      "summary": "Pope Leo blesses Sagrada Família on centenary of Gaudí's death as 144-year construction nears completion.",
+      "url": "https://www.theguardian.com/p/x58qbk",
+      "thumbnail": "https://media.guim.co.uk/6022a33db9ead89f1dcf14214272bb75fdf7dd88/813_174_4318_3455/500.jpg",
+      "published": "2026-06-10T12:51:22Z",
+      "location": {
+        "name": "Barcelona",
+        "lat": 41.3851,
+        "lng": 2.1734
+      },
+      "category": "culture",
+      "significance": 2,
       "section": "world"
     }
   ]
