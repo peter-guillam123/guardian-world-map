@@ -1,220 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-10T06:03:55.102Z",
-    "story_count": 102,
-    "oldest_story": "2026-06-09T08:45:01Z",
-    "newest_story": "2026-06-10T06:00:14Z",
+    "generated_at": "2026-06-10T10:20:51.020Z",
+    "story_count": 98,
+    "oldest_story": "2026-06-09T11:16:36Z",
+    "newest_story": "2026-06-10T10:15:53Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/live/2026/jun/09/matildas-australia-mexico-womens-international-friendlies-football-live-updates",
-      "headline": "Australia v Mexico: women’s international football friendly – live",
-      "summary": "Australia's Matildas face Mexico in women's international friendly at CommBank Stadium.",
-      "url": "https://www.theguardian.com/p/x588yf",
-      "thumbnail": "https://media.guim.co.uk/a5f4624309b4dc9e6ae7a97bdb9a6f7855db9391/518_0_3395_2716/500.jpg",
-      "published": "2026-06-09T09:28:32Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "politics/live/2026/jun/09/labour-badenoch-equality-duty-nowak-starmer-burnham-healey-lammy-latest-news-updates",
-      "headline": "Labour accuses Badenoch of wanting to ‘turn clock back’ with plan to scrap public sector equality duty – UK politics live",
-      "summary": "Labour accuses Badenoch of planning to scrap public sector equality duty protections.",
-      "url": "https://www.theguardian.com/p/x58jmy",
-      "thumbnail": "https://media.guim.co.uk/8d8df27122dbefd111b05e92fe514729899d91ca/939_0_6830_5464/500.jpg",
-      "published": "2026-06-09T09:27:57Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "world/live/2026/jun/09/middle-east-crisis-iran-israel-us-donald-trump-strait-of-hormuz-peace-deal-latest-news-updates",
-      "headline": "Middle East crisis live: Israel tells residents of Lebanese city of Tyre to leave as Trump claims Iran deal close ",
-      "summary": "IDF orders evacuation of Lebanese city of Tyre as Trump claims Iran peace deal close.",
-      "url": "https://www.theguardian.com/p/x58hqx",
-      "thumbnail": "https://media.guim.co.uk/1b02753e282b02839cc2dc53d69f078645a177c1/446_0_4092_3273/500.jpg",
-      "published": "2026-06-09T09:25:28Z",
-      "location": {
-        "name": "Tyre",
-        "lat": 33.2732,
-        "lng": 35.1856
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "sport/live/2026/jun/09/county-cricket-surrey-v-hampshire-day-three-live",
-      "headline": "County cricket: Surrey v Hampshire day three – live",
-      "summary": "Surrey vs Hampshire county cricket Championship match day three live updates from Oval.",
-      "url": "https://www.theguardian.com/p/x58f3e",
-      "thumbnail": "https://media.guim.co.uk/b3861d34d46f44d8ff32aaab51e8b6395cfadffc/320_0_3196_2557/500.jpg",
-      "published": "2026-06-09T09:24:27Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "politics/2026/jun/09/unions-rebuff-nigel-farage-reform-cosplaying-workers-rights",
-      "headline": "Unions rebuff Farage and say Reform ‘cosplaying’ as workers’ champions",
-      "summary": "UK unions rebuff Farage's call for affiliation, accuse Reform of 'cosplaying' workers' rights.",
-      "url": "https://www.theguardian.com/p/x58k3n",
-      "thumbnail": "https://media.guim.co.uk/f81a44eb396e26a17aef2b3195430acaf2a4f86e/2467_0_6173_4938/500.jpg",
-      "published": "2026-06-09T09:20:54Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "business/live/2026/jun/09/chip-stocks-bounce-back-kospi-openai-wall-street-float-stock-markets-oil-live-news-updates",
-      "headline": "Chip stocks bounce back as OpenAI files for Wall Street float – business live",
-      "summary": "OpenAI files for Wall Street IPO as chip stocks bounce back amid AI trade surge.",
-      "url": "https://www.theguardian.com/p/x58jhe",
-      "thumbnail": "https://media.guim.co.uk/73a4378061de0458f624b046b7b8f39f8ae92bb2/483_0_5496_4396/500.jpg",
-      "published": "2026-06-09T09:06:56Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "tech",
-      "significance": 3,
-      "section": "business"
-    },
-    {
-      "id": "uk-news/2026/jun/09/white-house-urges-uk-not-ban-social-media-under-16s",
-      "headline": "White House urges UK not to ban social media for under-16s",
-      "summary": "White House urges UK not to ban social media for under-16s, citing burden on US tech firms.",
-      "url": "https://www.theguardian.com/p/x58k2b",
-      "thumbnail": "https://media.guim.co.uk/8ee60f21c993e23831fc5528c77119e6f92353b4/401_0_7217_5773/500.jpg",
-      "published": "2026-06-09T09:04:30Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "global-development/2026/jun/09/i-fear-people-will-go-to-war-over-water-as-wells-run-dry-farmers-struggle-to-survive-in-bangladesh",
-      "headline": "‘I fear people will go to war over water’: as wells run dry, farmers struggle to survive in Bangladesh",
-      "summary": "Bangladesh's Barind region faces water crisis as aquifer wells run dry amid climate collapse.",
-      "url": "https://www.theguardian.com/p/x56359",
-      "thumbnail": "https://media.guim.co.uk/9676b9cc42aaf8e8ee8245135ccb4c5b5ada007e/387_0_4800_3840/500.jpg",
-      "published": "2026-06-09T09:00:51Z",
-      "location": {
-        "name": "Barind",
-        "lat": 24.5089,
-        "lng": 89.2832
-      },
-      "category": "climate",
-      "significance": 3,
-      "section": "global-development"
-    },
-    {
-      "id": "artanddesign/2026/jun/09/met-museum-musical-bodies-exhibition",
-      "headline": "‘Central to human identity’: exhibition at the Met connects bodies with musical instruments",
-      "summary": "Met Museum's Musical Bodies exhibition explores 4,000 years of human-instrument relationships.",
-      "url": "https://www.theguardian.com/p/x58gvd",
-      "thumbnail": "https://media.guim.co.uk/90c18e4bddc6569411b2cb161d673a4fc953e33b/853_0_6827_5464/500.jpg",
-      "published": "2026-06-09T09:00:51Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "artanddesign"
-    },
-    {
-      "id": "food/2026/jun/09/booming-british-food-scene-has-suddenly-gone-bust",
-      "headline": "The British food scene was booming. Why has it suddenly gone bust?",
-      "summary": "UK's once-booming food scene faces crisis with Michelin-starred closures spreading.",
-      "url": "https://www.theguardian.com/p/x56etx",
-      "thumbnail": "https://media.guim.co.uk/d0545bb9a22e8b4cc63f40528dad52bc179055d6/0_0_2500_2000/500.jpg",
-      "published": "2026-06-09T09:00:50Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "food"
-    },
-    {
-      "id": "business/2026/jun/09/gsk-buy-us-cancer-treatment-firm-nuvalent-luke-miels",
-      "headline": "GSK to buy US cancer treatment firm Nuvalent for $10.6bn",
-      "summary": "GSK acquires Boston-based cancer biotech Nuvalent for $10.6bn under new CEO.",
-      "url": "https://www.theguardian.com/p/x58jja",
-      "thumbnail": "https://media.guim.co.uk/46eacaad6e6a1f438a6111c7a9fe3074de52027e/1820_369_6333_5066/500.jpg",
-      "published": "2026-06-09T08:59:47Z",
-      "location": {
-        "name": "Boston",
-        "lat": 42.3601,
-        "lng": -71.0589
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "business"
-    },
-    {
-      "id": "music/2026/jun/09/james-blood-ulmer-adventurous-us-guitarist-and-vocalist-dies-aged-86",
-      "headline": "James Blood Ulmer, adventurous US guitarist and vocalist, dies aged 86",
-      "summary": "Pioneering jazz-funk guitarist James Blood Ulmer dies at 86.",
-      "url": "https://www.theguardian.com/p/x58jzp",
-      "thumbnail": "https://media.guim.co.uk/dcfa07a355ca2d654d9161f8432a5da6d156ac6b/0_0_3988_3189/500.jpg",
-      "published": "2026-06-09T08:53:59Z",
-      "location": {
-        "name": "South Carolina",
-        "lat": 34.0007,
-        "lng": -81.1637
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "music"
-    },
-    {
-      "id": "world/2026/jun/09/klm-apologises-after-paralympian-denied-onboard-wheelchair-on-11-hour-flight",
-      "headline": "KLM apologises after Paralympian denied onboard wheelchair on 11-hour flight",
-      "summary": "KLM apologizes after denying Paralympic athlete onboard wheelchair access on flight.",
-      "url": "https://www.theguardian.com/p/x58ejq",
-      "thumbnail": "https://media.guim.co.uk/5e8352a5b91e3201683393c54675851c7cda0190/26_0_1670_1336/500.jpg",
-      "published": "2026-06-09T08:45:01Z",
-      "location": {
-        "name": "Amsterdam",
-        "lat": 52.3676,
-        "lng": 4.9041
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "world"
-    },
     {
       "id": "technology/2026/jun/09/amazon-uk-arm-tax-credit-profits-tech-company",
       "headline": "Amazon’s main UK arm handed £7.6m tax credit as profits soar to £355m",
@@ -1638,6 +1430,150 @@
       "category": "conflict",
       "significance": 3,
       "section": "global-development"
+    },
+    {
+      "id": "politics/live/2026/jun/10/belfast-riots-knife-attack-northern-ireland-sdlp-keir-starmer-kemi-badenoch-pmqs-uk-politics-latest-news-updates",
+      "headline": "Belfast knife attack victim lost his left eye, court told, as suspect named as Hadi Alodid – UK politics live",
+      "summary": "Suspect named in Belfast knife attack that sparked riots; judge warns of prison for further disorder.",
+      "url": "https://www.theguardian.com/p/x58p9p",
+      "thumbnail": "https://media.guim.co.uk/8eabcb82a465436bbccc115af9be14525265d7d8/598_0_2835_2268/500.jpg",
+      "published": "2026-06-10T10:15:53Z",
+      "location": {
+        "name": "Belfast",
+        "lat": 54.5973,
+        "lng": -5.9301
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "politics"
+    },
+    {
+      "id": "sport/live/2026/jun/10/county-cricket-surrey-v-hampshire-day-four-live",
+      "headline": "Surrey v Hampshire, day four: county cricket news and updates – live",
+      "summary": "Surrey face Hampshire in day four county cricket match at the Oval with championship implications.",
+      "url": "https://www.theguardian.com/p/x58yd6",
+      "thumbnail": "https://media.guim.co.uk/c34375f7307d52830f4136e5e24bd64d71889a3a/411_94_2911_2329/500.jpg",
+      "published": "2026-06-10T10:11:16Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 1,
+      "section": "sport"
+    },
+    {
+      "id": "us-news/2026/jun/10/trump-bill-pulte-intelligence-director",
+      "headline": "Trump presses on with plan to install Bill Pulte as acting intelligence chief",
+      "summary": "Trump pushes controversial plan to install Bill Pulte as acting intelligence director despite bipartisan opposition.",
+      "url": "https://www.theguardian.com/p/x58nyn",
+      "thumbnail": "https://media.guim.co.uk/5cd10011de579627f9468567a4783e9dba47be41/512_0_4874_3901/500.jpg",
+      "published": "2026-06-10T10:00:16Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "business/2026/jun/10/china-byd-car-firm-ev-maker-toyota",
+      "headline": "China’s BYD aims to be world’s biggest car firm within five years",
+      "summary": "Chinese EV maker BYD targets becoming world's largest automaker within five years, plans Europe expansion.",
+      "url": "https://www.theguardian.com/p/x58pkf",
+      "thumbnail": "https://media.guim.co.uk/933a88ba8dbdce5a04bb27eee60ce7a6cf4d76ed/650_0_5807_4645/500.jpg",
+      "published": "2026-06-10T09:59:19Z",
+      "location": {
+        "name": "Beijing",
+        "lat": 39.9042,
+        "lng": 116.4074
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "business"
+    },
+    {
+      "id": "uk-news/2026/jun/10/tell-us-how-have-you-been-affected-by-the-situation-in-belfast",
+      "headline": "Tell us: how have you been affected by the situation in Belfast?",
+      "summary": "Call for testimonies from those affected by Belfast disorder following anti-immigration protests.",
+      "url": "https://www.theguardian.com/p/x58pye",
+      "thumbnail": "https://media.guim.co.uk/2312841cb2d2aff8de40003ededd74ab6b77f71c/298_0_5995_4796/500.jpg",
+      "published": "2026-06-10T09:45:16Z",
+      "location": {
+        "name": "Belfast",
+        "lat": 54.5973,
+        "lng": -5.9301
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "football/2026/jun/10/david-sullivan-west-ham-football-association-safeguarding-investigation",
+      "headline": "David Sullivan’s contact with West Ham women’s and youth teams restricted since 2023",
+      "summary": "West Ham owner David Sullivan's contact with women's and youth teams restricted during FA safeguarding investigation.",
+      "url": "https://www.theguardian.com/p/x58pcv",
+      "thumbnail": "https://media.guim.co.uk/1cc80772942a7dd079acbe6570751cd820cc7d2a/50_0_2033_1626/500.jpg",
+      "published": "2026-06-10T09:40:39Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "global-development/2026/jun/10/two-killed-in-rare-street-demonstration-over-womens-rights-in-afghanistan",
+      "headline": "Two killed in rare street demonstration over women’s rights in Afghanistan",
+      "summary": "Taliban fires on rare women's rights protest in Herat over hijab dress code; at least two killed.",
+      "url": "https://www.theguardian.com/p/x58mdv",
+      "thumbnail": "https://media.guim.co.uk/4a1e517613ffe749bd503582d7491e93970cd57e/0_230_1200_960/500.jpg",
+      "published": "2026-06-10T09:35:08Z",
+      "location": {
+        "name": "Herat",
+        "lat": 34.3425,
+        "lng": 62.1992
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "global-development"
+    },
+    {
+      "id": "business/nils-pratley-on-finance/2026/jun/10/peter-kyle-uk-state-activism-bbb-nwf",
+      "headline": "The business secretary is overselling UK state investment activism",
+      "summary": "Business secretary oversells UK state investment activism through National Wealth Fund and business bank initiatives.",
+      "url": "https://www.theguardian.com/p/x58kb6",
+      "thumbnail": "https://media.guim.co.uk/12a93527a02e891147c4f47c7a488cc87ae518bf/1973_1237_4390_3513/500.jpg",
+      "published": "2026-06-10T09:31:44Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 1,
+      "section": "business"
+    },
+    {
+      "id": "world/2026/jun/10/car-bomb-kills-senior-russian-military-official-near-moscow",
+      "headline": "Car bomb kills senior Russian military official near Moscow",
+      "summary": "Senior Russian military official killed in car bombing near Moscow.",
+      "url": "https://www.theguardian.com/p/x58m39",
+      "thumbnail": "https://media.guim.co.uk/9139e0915c797fad91f4fe7f22a409196795facb/663_0_4303_3441/500.jpg",
+      "published": "2026-06-10T09:17:31Z",
+      "location": {
+        "name": "Balashikha",
+        "lat": 55.7889,
+        "lng": 37.951
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "world"
     }
   ]
 }
