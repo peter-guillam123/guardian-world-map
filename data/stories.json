@@ -1,124 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-10T01:29:17.774Z",
-    "story_count": 95,
-    "oldest_story": "2026-06-09T04:57:40Z",
-    "newest_story": "2026-06-10T01:21:22Z",
+    "generated_at": "2026-06-10T06:03:55.102Z",
+    "story_count": 102,
+    "oldest_story": "2026-06-09T08:45:01Z",
+    "newest_story": "2026-06-10T06:00:14Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "commentisfree/2026/jun/09/young-people-money-citizens-advance-generations-older-people",
-      "headline": "Young people need money because our system is rigged. Here’s a way to give it to them",
-      "summary": "Polly Toynbee proposes giving young workers early pension access to address financial inequality.",
-      "url": "https://www.theguardian.com/p/x58f3c",
-      "thumbnail": "https://media.guim.co.uk/cda570e785915456d1d16a3784827fef17a5a79d/500_0_2500_2000/500.jpg",
-      "published": "2026-06-09T05:00:46Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "commentisfree"
-    },
-    {
-      "id": "business/2026/jun/09/northern-universities-nhs-trusts-huddersfield-manchester",
-      "headline": "Healthy cooperation: how northern universities are linking with NHS trusts to drive innovation",
-      "summary": "Northern universities collaborate with NHS trusts to drive innovation and economic growth.",
-      "url": "https://www.theguardian.com/p/x3pyeb",
-      "thumbnail": "https://media.guim.co.uk/b687fa82ba109de06daa5006f566e7bf114b43c0/204_0_5600_4480/500.jpg",
-      "published": "2026-06-09T05:00:46Z",
-      "location": {
-        "name": "Huddersfield",
-        "lat": 53.6454,
-        "lng": -1.7863
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "world/2026/jun/09/worlds-first-wind-powered-underwater-datacentre-starts-operating-in-china",
-      "headline": "World’s first wind-powered underwater datacentre starts operating in China",
-      "summary": "China launches world's first wind-powered underwater datacentre off Shanghai coast.",
-      "url": "https://www.theguardian.com/p/x57nqh",
-      "thumbnail": "https://media.guim.co.uk/b1257a3924a3d4b6e9c06dece08497f8e5cf0e7b/176_0_4880_3904/500.jpg",
-      "published": "2026-06-09T05:00:45Z",
-      "location": {
-        "name": "Shanghai",
-        "lat": 31.2304,
-        "lng": 121.4737
-      },
-      "category": "tech",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "uk-news/2026/jun/09/zelenskyy-hopes-to-invite-king-charles-state-visit-ukraine",
-      "headline": "‘We want to see him in Ukraine’: Zelenskyy hopes to invite King Charles on state visit",
-      "summary": "Zelenskyy plans to invite King Charles on state visit to Ukraine this year.",
-      "url": "https://www.theguardian.com/p/x58gak",
-      "thumbnail": "https://media.guim.co.uk/9271d29d898caef3722c2f2e4f87872bf31ecde2/1096_398_2932_2345/500.jpg",
-      "published": "2026-06-09T05:00:45Z",
-      "location": {
-        "name": "Kyiv",
-        "lat": 50.4501,
-        "lng": 30.5234
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "uk-news"
-    },
-    {
-      "id": "society/2026/jun/09/parents-carer-seriously-ill-children-financial-support-hughs-law",
-      "headline": "Parents caring for seriously ill children in UK could get financial support under ‘Hugh’s law’",
-      "summary": "UK government considers Hugh's Law to provide financial support for parents of seriously ill children.",
-      "url": "https://www.theguardian.com/p/x58gxq",
-      "thumbnail": "https://media.guim.co.uk/7b86d332e5aadb76f98861c1ac05de4e755f7be7/549_0_5802_4640/500.jpg",
-      "published": "2026-06-09T05:00:45Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "society"
-    },
-    {
-      "id": "society/2026/jun/09/ministers-could-ban-london-councils-dumping-homeless-families-miles-away",
-      "headline": "Ministers could ban London councils ‘dumping’ homeless families miles away",
-      "summary": "Ministers consider banning London councils from relocating homeless families across England.",
-      "url": "https://www.theguardian.com/p/x58ez7",
-      "thumbnail": "https://media.guim.co.uk/2605105d67dcce1e9094ff14cd85f45923e03ded/1363_0_6829_5464/500.jpg",
-      "published": "2026-06-09T05:00:44Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "society"
-    },
-    {
-      "id": "commentisfree/2026/jun/09/australia-politics-female-mp-misogyny-sexist-abuse-every-day",
-      "headline": "I face sexist abuse every day as a female MP – misogyny is unacceptable whatever side of the aisle we’re on",
-      "summary": "Australian female MP highlights daily sexist abuse in parliament, criticizing misogyny across political aisles.",
-      "url": "https://www.theguardian.com/p/x58tm9",
-      "thumbnail": "https://media.guim.co.uk/588a235e6291ef08567f7770dd526e9caf060b54/1357_39_4609_3689/500.jpg",
-      "published": "2026-06-09T04:57:40Z",
-      "location": {
-        "name": "Melbourne",
-        "lat": -37.8136,
-        "lng": 144.9631
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "commentisfree"
-    },
     {
       "id": "football/live/2026/jun/09/matildas-australia-mexico-womens-international-friendlies-football-live-updates",
       "headline": "Australia v Mexico: women’s international football friendly – live",
@@ -1526,6 +1414,230 @@
       "category": "politics",
       "significance": 3,
       "section": "us-news"
+    },
+    {
+      "id": "environment/2026/jun/10/labour-renewable-energy-projects-halfway-long-delay",
+      "headline": "More than half of clean energy schemes needed for Labour’s 2030 target offered grid connection",
+      "summary": "Over 700 renewable energy projects gain grid connection toward Labour's 2030 clean power target.",
+      "url": "https://www.theguardian.com/p/x58yd5",
+      "thumbnail": "https://media.guim.co.uk/ab437616aef74e368e5e64bb124402801254cae2/473_0_4733_3787/500.jpg",
+      "published": "2026-06-10T06:00:14Z",
+      "location": {
+        "name": "United Kingdom",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "climate",
+      "significance": 3,
+      "section": "environment"
+    },
+    {
+      "id": "environment/2026/jun/10/public-procurement-electricity-could-save-households",
+      "headline": "Public procurement of electricity could save GB households £200 a year, says thinktank",
+      "summary": "Public electricity procurement could save UK households £200 annually, says thinktank research.",
+      "url": "https://www.theguardian.com/p/x58th4",
+      "thumbnail": "https://media.guim.co.uk/2f2ec0d3185478568a2ee64e558585d9800e8cbf/917_0_4583_3667/500.jpg",
+      "published": "2026-06-10T06:00:13Z",
+      "location": {
+        "name": "United Kingdom",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "environment"
+    },
+    {
+      "id": "money/2026/jun/10/salary-sacrifice-pension-tax-break-uk-scheme",
+      "headline": "Salary sacrifice: max out this pension tax break while you can",
+      "summary": "Workers urged to maximize pension salary sacrifice before scheme tightens from April 2029.",
+      "url": "https://www.theguardian.com/p/x564d8",
+      "thumbnail": "https://media.guim.co.uk/9ed342dda17f8020f57577f50f298297ecf44168/550_6_5526_4424/500.jpg",
+      "published": "2026-06-10T06:00:13Z",
+      "location": {
+        "name": "United Kingdom",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "money"
+    },
+    {
+      "id": "travel/2026/jun/10/sweden-cycle-trail-forest-lake-scandinavia",
+      "headline": "An epic bikepacking trip on west Sweden’s newest cycle trail",
+      "summary": "New Lelångenleden bikepacking trail offers family-friendly cycling through Swedish wilderness.",
+      "url": "https://www.theguardian.com/p/x4k7ct",
+      "thumbnail": "https://media.guim.co.uk/eb2b245133f1db29d012bcd03d16edeadb3994b1/252_0_3780_3024/500.jpg",
+      "published": "2026-06-10T06:00:13Z",
+      "location": {
+        "name": "Sweden",
+        "lat": 58.2975,
+        "lng": 12.6386
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "travel"
+    },
+    {
+      "id": "technology/2026/jun/10/chinese-activist-uk-apple-peiqing-ni-x-deepfakes",
+      "headline": "Chinese activist in UK told by X that abusive deepfakes do not breach rules",
+      "summary": "Chinese activist in UK faces deepfake abuse on X; platform rules it non-violating content.",
+      "url": "https://www.theguardian.com/p/x58ghe",
+      "thumbnail": "https://media.guim.co.uk/cd12bf604ad00d1b7f1e30131a78a9ce8beb5e32/675_0_5906_4727/500.jpg",
+      "published": "2026-06-10T06:00:12Z",
+      "location": {
+        "name": "United Kingdom",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "tech",
+      "significance": 2,
+      "section": "technology"
+    },
+    {
+      "id": "books/2026/jun/10/stolen-revolution-by-bozorgmehr-sharafedin-and-yeganeh-torbati-review-irans-recent-history-explained",
+      "headline": "Stolen Revolution by Bozorgmehr Sharafedin and Yeganeh Torbati review – Iran’s recent history explained",
+      "summary": "Iran launches retaliatory missile strikes on US bases after American strikes over downed helicopter.",
+      "url": "https://www.theguardian.com/p/x55jjy",
+      "thumbnail": "https://media.guim.co.uk/963c79e06894008a668f265e2e24e000c7431e50/198_0_2500_2000/500.jpg",
+      "published": "2026-06-10T06:00:12Z",
+      "location": {
+        "name": "Iran",
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "books"
+    },
+    {
+      "id": "world/live/2026/jun/10/iran-war-updates-missile-strikes-trump-us-retaliation-middle-east-crisis-war-live",
+      "headline": "Middle East crisis live: Iran launches broad retaliatory attacks after US strikes over downed helicopter",
+      "summary": "2026 World Cup begins with 48 nations competing across Canada, Mexico and US until July 19.",
+      "url": "https://www.theguardian.com/p/x58zbc",
+      "thumbnail": "https://media.guim.co.uk/f42874504a03c6ee45f62b4e4112d4a7aba46b16/1324_283_4493_3595/500.jpg",
+      "published": "2026-06-10T05:46:19Z",
+      "location": {
+        "name": "Mexico City",
+        "lat": 19.4326,
+        "lng": -99.1332
+      },
+      "category": "sport",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "world/2026/jun/10/wednesday-briefing-first-edition-world-cup-2026-donald-trump",
+      "headline": "Wednesday briefing: What to expect from a World Cup beset with controversy",
+      "summary": "TV tonight: Amandaland series finale features Lucy Punch in BBC One comedy.",
+      "url": "https://www.theguardian.com/p/x58k54",
+      "thumbnail": "https://media.guim.co.uk/7135ac4788a388c87b8433873c51e21271872de4/0_0_2500_2000/500.jpg",
+      "published": "2026-06-10T05:45:40Z",
+      "location": {
+        "name": "United Kingdom",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "world"
+    },
+    {
+      "id": "tv-and-radio/2026/jun/10/tv-tonight-the-series-finale-of-excellent-comedy-amandaland",
+      "headline": "TV tonight: the series finale of excellent comedy Amandaland",
+      "summary": "Kozzy Pickett's midfield evolution makes him AFL's most dangerous player for Melbourne Demons.",
+      "url": "https://www.theguardian.com/p/x57k9y",
+      "thumbnail": "https://media.guim.co.uk/509334e1d90d4d1c4ea7bbc0e80595fea9bf8786/277_0_7078_5663/500.jpg",
+      "published": "2026-06-10T05:20:11Z",
+      "location": {
+        "name": "Melbourne",
+        "lat": -37.8136,
+        "lng": 144.9631
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "tv-and-radio"
+    },
+    {
+      "id": "sport/2026/jun/10/kozzy-pickett-afl-most-dangerous-player",
+      "headline": "From the Pocket: Kozzy Pickett’s midfield evolution is making him the AFL’s most dangerous player",
+      "summary": "32 UK charities donated £28m to illegal Israeli settlements, Labour MP claims.",
+      "url": "https://www.theguardian.com/p/x5884n",
+      "thumbnail": "https://media.guim.co.uk/6dc9beedf47cf2631210778c854969ad7dcd8f14/185_0_2690_2153/500.jpg",
+      "published": "2026-06-10T05:03:11Z",
+      "location": {
+        "name": "United Kingdom",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "society/2026/jun/10/charities-in-england-and-wales-donate-millions-to-israeli-settlements",
+      "headline": "Charities in England and Wales ‘donate millions to illegal Israeli settlements’",
+      "summary": "Makerfield voters say offensive social media posts deter candidate support, poll finds.",
+      "url": "https://www.theguardian.com/p/x58vha",
+      "thumbnail": "https://media.guim.co.uk/efff6ff3ee0ebf10e0dbdb66acda943d7ece7190/864_0_4320_3456/500.jpg",
+      "published": "2026-06-10T05:00:13Z",
+      "location": {
+        "name": "Makerfield",
+        "lat": 53.4857,
+        "lng": -2.656
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "society"
+    },
+    {
+      "id": "politics/2026/jun/10/makerfield-byelection-voters-poll-social-media-posts-water-wealth-tax",
+      "headline": "Most Makerfield voters say offensive posts would put them off candidate, poll finds",
+      "summary": "Birdwatch column explores less glamorous gull species attracting visitors to Galápagos.",
+      "url": "https://www.theguardian.com/p/x58g88",
+      "thumbnail": "https://media.guim.co.uk/638ec6899eeb10a5412897819513067e7e2738bd/485_0_4583_3667/500.jpg",
+      "published": "2026-06-10T05:00:12Z",
+      "location": {
+        "name": "Galápagos Islands",
+        "lat": -0.3667,
+        "lng": -90.4667
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "politics"
+    },
+    {
+      "id": "environment/2026/jun/10/birdwatch-going-galapagos-for-gulls",
+      "headline": "Birdwatch: Going to the Galápagos for the gulls",
+      "summary": "World-leading UK science facilities face £162m funding crisis with potential 20% cuts.",
+      "url": "https://www.theguardian.com/p/x57bx8",
+      "thumbnail": "https://media.guim.co.uk/acc5bac02d6e3a67667a2355110c25c4cdc9e612/0_532_4935_3948/500.jpg",
+      "published": "2026-06-10T05:00:12Z",
+      "location": {
+        "name": "United Kingdom",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "tech",
+      "significance": 2,
+      "section": "environment"
+    },
+    {
+      "id": "global-development/2026/jun/10/coltan-drc-m23-global-witness-investigation",
+      "headline": "Global brands ‘likely’ using mineral that funds rebels accused of atrocities in DRC, investigation finds",
+      "summary": "Global brands allegedly sourced coltan from M23 rebel-controlled mines in DRC used for phones and electronics.",
+      "url": "https://www.theguardian.com/p/x57q6a",
+      "thumbnail": "https://media.guim.co.uk/33e60df009fdec547631627e7a17a773492cadf7/751_0_5000_4000/500.jpg",
+      "published": "2026-06-10T05:00:11Z",
+      "location": {
+        "name": "Democratic Republic of the Congo",
+        "lat": -4.0383,
+        "lng": 21.7587
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "global-development"
     }
   ]
 }
