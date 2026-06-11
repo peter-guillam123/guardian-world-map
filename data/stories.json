@@ -1,236 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-11T02:06:16.126Z",
-    "story_count": 74,
-    "oldest_story": "2026-06-10T05:00:11Z",
-    "newest_story": "2026-06-11T01:11:52Z",
+    "generated_at": "2026-06-11T07:03:48.694Z",
+    "story_count": 68,
+    "oldest_story": "2026-06-10T09:17:31Z",
+    "newest_story": "2026-06-11T07:00:10Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "environment/2026/jun/10/labour-renewable-energy-projects-halfway-long-delay",
-      "headline": "More than half of clean energy schemes needed for Labour’s 2030 target offered grid connection",
-      "summary": "Over 700 renewable energy projects gain grid connection toward Labour's 2030 clean power target.",
-      "url": "https://www.theguardian.com/p/x58yd5",
-      "thumbnail": "https://media.guim.co.uk/ab437616aef74e368e5e64bb124402801254cae2/473_0_4733_3787/500.jpg",
-      "published": "2026-06-10T06:00:14Z",
-      "location": {
-        "name": "United Kingdom",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "climate",
-      "significance": 3,
-      "section": "environment"
-    },
-    {
-      "id": "environment/2026/jun/10/public-procurement-electricity-could-save-households",
-      "headline": "Public procurement of electricity could save GB households £200 a year, says thinktank",
-      "summary": "Public electricity procurement could save UK households £200 annually, says thinktank research.",
-      "url": "https://www.theguardian.com/p/x58th4",
-      "thumbnail": "https://media.guim.co.uk/2f2ec0d3185478568a2ee64e558585d9800e8cbf/917_0_4583_3667/500.jpg",
-      "published": "2026-06-10T06:00:13Z",
-      "location": {
-        "name": "United Kingdom",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "environment"
-    },
-    {
-      "id": "money/2026/jun/10/salary-sacrifice-pension-tax-break-uk-scheme",
-      "headline": "Salary sacrifice: max out this pension tax break while you can",
-      "summary": "Workers urged to maximize pension salary sacrifice before scheme tightens from April 2029.",
-      "url": "https://www.theguardian.com/p/x564d8",
-      "thumbnail": "https://media.guim.co.uk/9ed342dda17f8020f57577f50f298297ecf44168/550_6_5526_4424/500.jpg",
-      "published": "2026-06-10T06:00:13Z",
-      "location": {
-        "name": "United Kingdom",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "money"
-    },
-    {
-      "id": "travel/2026/jun/10/sweden-cycle-trail-forest-lake-scandinavia",
-      "headline": "An epic bikepacking trip on west Sweden’s newest cycle trail",
-      "summary": "New Lelångenleden bikepacking trail offers family-friendly cycling through Swedish wilderness.",
-      "url": "https://www.theguardian.com/p/x4k7ct",
-      "thumbnail": "https://media.guim.co.uk/eb2b245133f1db29d012bcd03d16edeadb3994b1/252_0_3780_3024/500.jpg",
-      "published": "2026-06-10T06:00:13Z",
-      "location": {
-        "name": "Sweden",
-        "lat": 58.2975,
-        "lng": 12.6386
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "travel"
-    },
-    {
-      "id": "technology/2026/jun/10/chinese-activist-uk-apple-peiqing-ni-x-deepfakes",
-      "headline": "Chinese activist in UK told by X that abusive deepfakes do not breach rules",
-      "summary": "Chinese activist in UK faces deepfake abuse on X; platform rules it non-violating content.",
-      "url": "https://www.theguardian.com/p/x58ghe",
-      "thumbnail": "https://media.guim.co.uk/cd12bf604ad00d1b7f1e30131a78a9ce8beb5e32/675_0_5906_4727/500.jpg",
-      "published": "2026-06-10T06:00:12Z",
-      "location": {
-        "name": "United Kingdom",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "tech",
-      "significance": 2,
-      "section": "technology"
-    },
-    {
-      "id": "books/2026/jun/10/stolen-revolution-by-bozorgmehr-sharafedin-and-yeganeh-torbati-review-irans-recent-history-explained",
-      "headline": "Stolen Revolution by Bozorgmehr Sharafedin and Yeganeh Torbati review – Iran’s recent history explained",
-      "summary": "Iran launches retaliatory missile strikes on US bases after American strikes over downed helicopter.",
-      "url": "https://www.theguardian.com/p/x55jjy",
-      "thumbnail": "https://media.guim.co.uk/963c79e06894008a668f265e2e24e000c7431e50/198_0_2500_2000/500.jpg",
-      "published": "2026-06-10T06:00:12Z",
-      "location": {
-        "name": "Iran",
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "books"
-    },
-    {
-      "id": "world/live/2026/jun/10/iran-war-updates-missile-strikes-trump-us-retaliation-middle-east-crisis-war-live",
-      "headline": "Middle East crisis live: Iran launches broad retaliatory attacks after US strikes over downed helicopter",
-      "summary": "2026 World Cup begins with 48 nations competing across Canada, Mexico and US until July 19.",
-      "url": "https://www.theguardian.com/p/x58zbc",
-      "thumbnail": "https://media.guim.co.uk/f42874504a03c6ee45f62b4e4112d4a7aba46b16/1324_283_4493_3595/500.jpg",
-      "published": "2026-06-10T05:46:19Z",
-      "location": {
-        "name": "Mexico City",
-        "lat": 19.4326,
-        "lng": -99.1332
-      },
-      "category": "sport",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "world/2026/jun/10/wednesday-briefing-first-edition-world-cup-2026-donald-trump",
-      "headline": "Wednesday briefing: What to expect from a World Cup beset with controversy",
-      "summary": "TV tonight: Amandaland series finale features Lucy Punch in BBC One comedy.",
-      "url": "https://www.theguardian.com/p/x58k54",
-      "thumbnail": "https://media.guim.co.uk/7135ac4788a388c87b8433873c51e21271872de4/0_0_2500_2000/500.jpg",
-      "published": "2026-06-10T05:45:40Z",
-      "location": {
-        "name": "United Kingdom",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "world"
-    },
-    {
-      "id": "tv-and-radio/2026/jun/10/tv-tonight-the-series-finale-of-excellent-comedy-amandaland",
-      "headline": "TV tonight: the series finale of excellent comedy Amandaland",
-      "summary": "Kozzy Pickett's midfield evolution makes him AFL's most dangerous player for Melbourne Demons.",
-      "url": "https://www.theguardian.com/p/x57k9y",
-      "thumbnail": "https://media.guim.co.uk/509334e1d90d4d1c4ea7bbc0e80595fea9bf8786/277_0_7078_5663/500.jpg",
-      "published": "2026-06-10T05:20:11Z",
-      "location": {
-        "name": "Melbourne",
-        "lat": -37.8136,
-        "lng": 144.9631
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "tv-and-radio"
-    },
-    {
-      "id": "sport/2026/jun/10/kozzy-pickett-afl-most-dangerous-player",
-      "headline": "From the Pocket: Kozzy Pickett’s midfield evolution is making him the AFL’s most dangerous player",
-      "summary": "32 UK charities donated £28m to illegal Israeli settlements, Labour MP claims.",
-      "url": "https://www.theguardian.com/p/x5884n",
-      "thumbnail": "https://media.guim.co.uk/6dc9beedf47cf2631210778c854969ad7dcd8f14/185_0_2690_2153/500.jpg",
-      "published": "2026-06-10T05:03:11Z",
-      "location": {
-        "name": "United Kingdom",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "society/2026/jun/10/charities-in-england-and-wales-donate-millions-to-israeli-settlements",
-      "headline": "Charities in England and Wales ‘donate millions to illegal Israeli settlements’",
-      "summary": "Makerfield voters say offensive social media posts deter candidate support, poll finds.",
-      "url": "https://www.theguardian.com/p/x58vha",
-      "thumbnail": "https://media.guim.co.uk/efff6ff3ee0ebf10e0dbdb66acda943d7ece7190/864_0_4320_3456/500.jpg",
-      "published": "2026-06-10T05:00:13Z",
-      "location": {
-        "name": "Makerfield",
-        "lat": 53.4857,
-        "lng": -2.656
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "society"
-    },
-    {
-      "id": "politics/2026/jun/10/makerfield-byelection-voters-poll-social-media-posts-water-wealth-tax",
-      "headline": "Most Makerfield voters say offensive posts would put them off candidate, poll finds",
-      "summary": "Birdwatch column explores less glamorous gull species attracting visitors to Galápagos.",
-      "url": "https://www.theguardian.com/p/x58g88",
-      "thumbnail": "https://media.guim.co.uk/638ec6899eeb10a5412897819513067e7e2738bd/485_0_4583_3667/500.jpg",
-      "published": "2026-06-10T05:00:12Z",
-      "location": {
-        "name": "Galápagos Islands",
-        "lat": -0.3667,
-        "lng": -90.4667
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "politics"
-    },
-    {
-      "id": "environment/2026/jun/10/birdwatch-going-galapagos-for-gulls",
-      "headline": "Birdwatch: Going to the Galápagos for the gulls",
-      "summary": "World-leading UK science facilities face £162m funding crisis with potential 20% cuts.",
-      "url": "https://www.theguardian.com/p/x57bx8",
-      "thumbnail": "https://media.guim.co.uk/acc5bac02d6e3a67667a2355110c25c4cdc9e612/0_532_4935_3948/500.jpg",
-      "published": "2026-06-10T05:00:12Z",
-      "location": {
-        "name": "United Kingdom",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "tech",
-      "significance": 2,
-      "section": "environment"
-    },
-    {
-      "id": "global-development/2026/jun/10/coltan-drc-m23-global-witness-investigation",
-      "headline": "Global brands ‘likely’ using mineral that funds rebels accused of atrocities in DRC, investigation finds",
-      "summary": "Global brands allegedly sourced coltan from M23 rebel-controlled mines in DRC used for phones and electronics.",
-      "url": "https://www.theguardian.com/p/x57q6a",
-      "thumbnail": "https://media.guim.co.uk/33e60df009fdec547631627e7a17a773492cadf7/751_0_5000_4000/500.jpg",
-      "published": "2026-06-10T05:00:11Z",
-      "location": {
-        "name": "Democratic Republic of the Congo",
-        "lat": -4.0383,
-        "lng": 21.7587
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "global-development"
-    },
     {
       "id": "politics/live/2026/jun/10/belfast-riots-knife-attack-northern-ireland-sdlp-keir-starmer-kemi-badenoch-pmqs-uk-politics-latest-news-updates",
       "headline": "Belfast knife attack victim lost his left eye, court told, as suspect named as Hadi Alodid – UK politics live",
@@ -1189,6 +965,134 @@
       },
       "category": "politics",
       "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "commentisfree/2026/jun/11/reform-restore-hard-right-poisonous-ideological-divergence",
+      "headline": "Reform and Restore are both hard right and poisonous – but their differences could be their undoing",
+      "summary": "Hard-right Reform and Restore parties clash over ideology despite shared extremist positions.",
+      "url": "https://www.theguardian.com/p/x58q3d",
+      "thumbnail": "https://media.guim.co.uk/4631875238311a9acc6e3e9016599a600b2a2481/111_7_3771_3016/500.jpg",
+      "published": "2026-06-11T07:00:10Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "commentisfree"
+    },
+    {
+      "id": "football/2026/jun/11/mexico-hoping-football-emerges-from-the-chaos-surrounding-world-cup",
+      "headline": "Mexico hoping football emerges from the chaos surrounding World Cup",
+      "summary": "Mexico hosts 2026 World Cup amid chaos, hopes football can transcend turbulent buildup.",
+      "url": "https://www.theguardian.com/p/x59v9y",
+      "thumbnail": "https://media.guim.co.uk/1b5f033dbe729282a5fbcb330a7457b7a4a76fda/298_0_3020_2416/500.jpg",
+      "published": "2026-06-11T07:00:10Z",
+      "location": {
+        "name": "Mexico City",
+        "lat": 19.4326,
+        "lng": -99.1332
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "stage/2026/jun/11/pride-musical-national-theatre-lesbians-gays-support-miners",
+      "headline": "‘They kissed, and the audience roared’: the new musical about gay activists and striking miners",
+      "summary": "Pride musical stages 1984 alliance between LGBTQ+ activists and Welsh striking miners.",
+      "url": "https://www.theguardian.com/p/x564jt",
+      "thumbnail": "https://media.guim.co.uk/033e6ab33dcb789c606be95622b4268a8c62e116/222_0_4461_3570/500.jpg",
+      "published": "2026-06-11T07:00:09Z",
+      "location": {
+        "name": "Cardiff",
+        "lat": 51.4816,
+        "lng": -3.1791
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "stage"
+    },
+    {
+      "id": "business/2026/jun/11/ryanair-investigated-over-charging-parents-children-uk-cma",
+      "headline": "Ryanair investigated over charging parents to sit with their children",
+      "summary": "UK watchdog investigates Ryanair for charging parents to sit with children on flights.",
+      "url": "https://www.theguardian.com/p/x593pd",
+      "thumbnail": "https://media.guim.co.uk/ae64668b038f74278f437b43fbcffe0ee663a886/554_0_4528_3622/500.jpg",
+      "published": "2026-06-11T06:59:20Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "business/live/2026/jun/11/ryanair-investigation-seating-children-eurozone-interest-rates-middle-east-oil-uk-housing-live-news-updates",
+      "headline": "Ryanair blasts ‘bogus’ investigation into its fees to seat parents with children – business live",
+      "summary": "Ryanair defends seating policy as CMA probes mandatory parent-child co-location fees.",
+      "url": "https://www.theguardian.com/p/x593ne",
+      "thumbnail": "https://media.guim.co.uk/b67430305cc6da939a1406e308bd6c78abbbff70/0_1351_3761_3009/500.jpg",
+      "published": "2026-06-11T06:56:05Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "world/live/2026/jun/11/iran-war-news-us-strikes-donald-trump-stalled-peace-talks-middle-east-crisis",
+      "headline": "Middle East crisis live: US and Iran trade strikes again, after Trump warns Tehran will ‘pay the price’ for stalled talks",
+      "summary": "US and Iran exchange airstrikes; ceasefire collapses as Trump warns Tehran of consequences.",
+      "url": "https://www.theguardian.com/p/x5935f",
+      "thumbnail": "https://media.guim.co.uk/dfa3996f5fc596663d3601a8c2a0ab3cb32f7ea5/96_0_2530_2024/500.jpg",
+      "published": "2026-06-11T06:15:45Z",
+      "location": {
+        "name": "Tehran",
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "australia-news/2026/jun/11/nsw-police-bullying-harassment-undermining-belittlement-women-culture-review",
+      "headline": "‘Punished’ for speaking up: culture of bullying, sexual harassment and discrimination in NSW police",
+      "summary": "NSW police culture review finds widespread harassment and discrimination against women.",
+      "url": "https://www.theguardian.com/p/x592n9",
+      "thumbnail": "https://media.guim.co.uk/676275f56a4dc855d919e7b8ee30d335900b331d/513_0_6502_5202/500.jpg",
+      "published": "2026-06-11T05:59:35Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "world/2026/jun/11/thursday-briefing-first-edition-hate-crime-street-safety-belfast-visible-minorities",
+      "headline": "Thursday briefing: What would it take for streets to be safe for all?",
+      "summary": "Violent crimes exploited by far-right to contest public space safety amid hate crime surge.",
+      "url": "https://www.theguardian.com/p/x58pyp",
+      "thumbnail": "https://media.guim.co.uk/13ec69f55a3cc4cdecec974dcbbc09f2e5d3a368/1150_134_2392_1914/500.jpg",
+      "published": "2026-06-11T05:54:11Z",
+      "location": {
+        "name": "Belfast",
+        "lat": 54.5973,
+        "lng": -5.9301
+      },
+      "category": "politics",
+      "significance": 2,
       "section": "world"
     }
   ]
