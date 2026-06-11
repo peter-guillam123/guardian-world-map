@@ -1,60 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-11T21:07:43.614Z",
-    "story_count": 65,
-    "oldest_story": "2026-06-10T21:10:59Z",
-    "newest_story": "2026-06-11T21:04:49Z",
+    "generated_at": "2026-06-11T22:58:15.682Z",
+    "story_count": 66,
+    "oldest_story": "2026-06-10T23:01:00Z",
+    "newest_story": "2026-06-11T22:35:51Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "australia-news/live/2026/jun/11/australia-news-live-labor-coalition-one-nation-anthony-albanese-pauline-hanson-capital-gains-housing-peptides-arthritis-ntwnfb",
-      "headline": "Australia news live: Angus Taylor rejects proposal to ‘carve up’ seats between Coalition and One Nation; $100m for new arthritis research",
-      "summary": "Coalition rejects seat-sharing deal with One Nation; $100m arthritis research announced.",
-      "url": "https://www.theguardian.com/p/x58q69",
-      "thumbnail": "https://media.guim.co.uk/c1f6f7779c2631f2670744478395197f062d7b0d/487_0_4873_3898/500.jpg",
-      "published": "2026-06-10T22:00:24Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "australia-news/2026/jun/11/morning-mail-thursday-ntwnfb",
-      "headline": "Morning Mail: One Nation’s ‘sloppy’ finances, Trump signals new Iran strikes, who will win the World Cup?",
-      "summary": "One Nation's financial records questioned; Trump signals Iran strikes; World Cup predictions.",
-      "url": "https://www.theguardian.com/p/x58q3x",
-      "thumbnail": "https://media.guim.co.uk/8ce906db5f74ae0aa2d5d424cbef1965aa2db054/1002_0_6192_4954/500.jpg",
-      "published": "2026-06-10T21:28:18Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "us-news/2026/jun/10/california-shasta-county-mail-in-voting-elimination",
-      "headline": "A conservative California county is trying to kill mail-in voting",
-      "summary": "Conservative California county passes measure eliminating mail-in voting, requiring in-person ballots.",
-      "url": "https://www.theguardian.com/p/x59xx4",
-      "thumbnail": "https://media.guim.co.uk/35d16a6ea619cb81b2d572ad95b27c5bd1f629e1/233_0_2333_1867/500.jpg",
-      "published": "2026-06-10T21:10:59Z",
-      "location": {
-        "name": "Shasta County",
-        "lat": 40.5865,
-        "lng": -121.2965
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
     {
       "id": "sport/live/2026/jun/10/nba-finals-2026-game-4-san-antonio-spurs-v-new-york-knicks-live-buildup",
       "headline": "NBA finals 2026 Game 4: San Antonio Spurs v New York Knicks – live buildup",
@@ -1046,6 +998,70 @@
       "category": "conflict",
       "significance": 2,
       "section": "uk-news"
+    },
+    {
+      "id": "uk-news/2026/jun/11/counter-terror-unit-investigates-triple-stabbing-at-school-in-manchester",
+      "headline": "Girl, 14, charged in connection with triple stabbing at school in Manchester",
+      "summary": "14-year-old girl charged in triple stabbing at Manchester school; counter-terrorism unit investigates.",
+      "url": "https://www.theguardian.com/p/x596zy",
+      "thumbnail": "https://media.guim.co.uk/98a1e1ba1ffe91086237b36c003d28dfbccbe8ae/863_0_5000_4000/500.jpg",
+      "published": "2026-06-11T22:35:51Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "uk-news"
+    },
+    {
+      "id": "football/2026/jun/11/petrol-bombs-bricks-hurled-mexican-police-unrest-azteca-world-cup",
+      "headline": "Petrol bombs and bricks hurled at Mexican police during pre-match unrest at Azteca",
+      "summary": "Violence erupts outside Azteca Stadium during World Cup opener as ticketless fans clash with police.",
+      "url": "https://www.theguardian.com/p/x597kc",
+      "thumbnail": "https://media.guim.co.uk/36fefbd96d6e716369b64251f1e8d8170686cfcd/501_0_5014_4011/500.jpg",
+      "published": "2026-06-11T22:34:17Z",
+      "location": {
+        "name": "Mexico City",
+        "lat": 19.4326,
+        "lng": -99.1332
+      },
+      "category": "sport",
+      "significance": 4,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/jun/11/itv-delivers-feisty-start-to-coverage-and-taunts-bbc-from-glitzy-studio",
+      "headline": "ITV delivers feisty start to World Cup coverage – and taunts BBC from glitzy studio",
+      "summary": "ITV launches World Cup coverage with critique of tournament controversies and ticket prices.",
+      "url": "https://www.theguardian.com/p/x597h2",
+      "thumbnail": "https://media.guim.co.uk/2794744227b8233ee95d48dc4d0df5af0d1361c1/390_0_3898_3119/500.jpg",
+      "published": "2026-06-11T22:25:17Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/jun/11/infantino-rebrand-long-haul-games-five-takeaways-from-world-cup-opener",
+      "headline": "Infantino’s rebrand and long haul games: five takeaways from World Cup opener",
+      "summary": "Mexico hosts World Cup opener at Azteca Stadium; nation celebrates first tournament in 40 years.",
+      "url": "https://www.theguardian.com/p/x594k4",
+      "thumbnail": "https://media.guim.co.uk/c16ea67adcbf8a57188741b3d3f68ee77ff92ecf/688_0_6880_5504/500.jpg",
+      "published": "2026-06-11T22:08:28Z",
+      "location": {
+        "name": "Mexico City",
+        "lat": 19.4326,
+        "lng": -99.1332
+      },
+      "category": "sport",
+      "significance": 4,
+      "section": "football"
     }
   ]
 }
