@@ -1,172 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-11T15:23:42.797Z",
-    "story_count": 72,
-    "oldest_story": "2026-06-10T16:18:05Z",
-    "newest_story": "2026-06-11T15:20:25Z",
+    "generated_at": "2026-06-11T18:35:47.447Z",
+    "story_count": 70,
+    "oldest_story": "2026-06-10T18:44:37Z",
+    "newest_story": "2026-06-11T18:35:15Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "us-news/2026/jun/10/bill-gates-testimony-jeffrey-epstein",
-      "headline": "Bill Gates tells US House ‘I have never victimized anyone’ in Epstein testimony",
-      "summary": "Bill Gates testifies before House committee denying knowledge of Epstein's criminal conduct.",
-      "url": "https://www.theguardian.com/p/x58mpz",
-      "thumbnail": "https://media.guim.co.uk/7b424455cab9e83803a7a57d5af49a14051bc657/735_0_4093_3274/500.jpg",
-      "published": "2026-06-10T17:12:53Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/jun/10/democrats-rally-round-graham-platner-maine-trump-grip-gop-primary-elections",
-      "headline": "Democrats rally round Platner in Maine as Trump reaffirms grip on GOP after primaries",
-      "summary": "Graham Platner wins Maine Democratic Senate primary as Trump consolidates GOP control.",
-      "url": "https://www.theguardian.com/p/x58p42",
-      "thumbnail": "https://media.guim.co.uk/beb5f470043aaca34f3ede5a1c8fd8480b736168/531_0_5000_4000/500.jpg",
-      "published": "2026-06-10T17:10:05Z",
-      "location": {
-        "name": "Maine",
-        "lat": 45.2538,
-        "lng": -69.4455
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/jun/10/measles-us-spike",
-      "headline": "US measles cases pass 2,000 as outbreak nears worst in decades",
-      "summary": "US measles cases exceed 2,000 in worst outbreak in decades amid vaccination decline.",
-      "url": "https://www.theguardian.com/p/x59vy9",
-      "thumbnail": "https://media.guim.co.uk/fe1736bcc39c29e1075e4dc096dcd8d0fa6699be/367_0_4102_3281/500.jpg",
-      "published": "2026-06-10T17:01:37Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "health",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/jun/10/trump-iran-war-analysis",
-      "headline": "Trump, ever the unreliable narrator, is unable to force reality to match his preferred story on Iran",
-      "summary": "Trump's ongoing war with Iran characterized by cycles of threats, detente and deadlock.",
-      "url": "https://www.theguardian.com/p/x58qzf",
-      "thumbnail": "https://media.guim.co.uk/2c9cd3cd6a609496bc2231b14308a8e2245d3ace/160_0_6882_5504/500.jpg",
-      "published": "2026-06-10T17:00:33Z",
-      "location": {
-        "name": "Iran",
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/jun/10/trump-signs-70-billion-dollar-immigration-act-ice",
-      "headline": "Trump signs $70bn immigration act ensuring ICE funding through 2029",
-      "summary": "Trump signs $70bn immigration enforcement package ensuring ICE funding through 2029.",
-      "url": "https://www.theguardian.com/p/x59vyd",
-      "thumbnail": "https://media.guim.co.uk/429ad6768f47f073dcbf7e6ff3bbdf34356915e8/619_0_7187_5748/500.jpg",
-      "published": "2026-06-10T16:52:01Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "books/2026/jun/10/sales-meta-whistleblowers-memoir-careless-people-soar-after-hay-festival-silencing",
-      "headline": "Sales of Meta whistleblower’s memoir soar after Hay festival ‘silencing’",
-      "summary": "Meta whistleblower's memoir sales surge 300% after Hay Festival silencing incident.",
-      "url": "https://www.theguardian.com/p/x58pzp",
-      "thumbnail": "https://media.guim.co.uk/d5fdf0169bd1d6539ac8e70b6ca9dcb7c9cee142/809_0_6880_5504/500.jpg",
-      "published": "2026-06-10T16:51:36Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "books"
-    },
-    {
-      "id": "football/2026/jun/10/tv-rights-holders-frustrated-over-world-cup-final-half-time-show-delay",
-      "headline": "TV rights holders frustrated over World Cup final half-time show delay",
-      "summary": "FIFA delays confirming World Cup final half-time show length, frustrating broadcasters.",
-      "url": "https://www.theguardian.com/p/x59vdn",
-      "thumbnail": "https://media.guim.co.uk/3c7aa269a0713e410ec37eeabc5cc7ee7dd01290/612_0_6498_5198/500.jpg",
-      "published": "2026-06-10T16:47:46Z",
-      "location": {
-        "name": "East Rutherford",
-        "lat": 40.8135,
-        "lng": -74.0745
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "us-news/2026/jun/10/florida-lawsuit-ai-facial-recognition",
-      "headline": "Florida lawsuit alleges wrongful arrest after police AI facial recognition error",
-      "summary": "Florida man wrongly arrested based on faulty AI facial recognition sues police agencies.",
-      "url": "https://www.theguardian.com/p/x59vff",
-      "thumbnail": "https://media.guim.co.uk/898e4b6f40778f62f4cdd579b0089ff5df3fef86/612_1574_3618_2893/500.jpg",
-      "published": "2026-06-10T16:27:23Z",
-      "location": {
-        "name": "Jacksonville",
-        "lat": 30.3322,
-        "lng": -81.6557
-      },
-      "category": "tech",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "uk-news/2026/jun/10/it-was-so-terrifying-care-workers-trapped-belfast-mob",
-      "headline": "‘It was so terrifying’: care workers tell how they were trapped at home by Belfast mob ",
-      "summary": "Care workers trapped during Belfast mob violence with neighbouring homes set ablaze.",
-      "url": "https://www.theguardian.com/p/x58qmg",
-      "thumbnail": "https://media.guim.co.uk/0636794793906434cb00843ad3f2b1a8d82db981/528_14_4437_3550/500.jpg",
-      "published": "2026-06-10T16:23:08Z",
-      "location": {
-        "name": "Belfast",
-        "lat": 54.5973,
-        "lng": -5.9301
-      },
-      "category": "conflict",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "world/2026/jun/10/rainfall-landslides-climate-crisis-tapanuli-orangutan-indonesia-extreme-weather",
-      "headline": "Four days of extreme rain in Indonesia killed 7% of world’s rarest great apes, study finds",
-      "summary": "Extreme rainfall kills 7% of world's rarest great ape population in Indonesia.",
-      "url": "https://www.theguardian.com/p/x58qae",
-      "thumbnail": "https://media.guim.co.uk/8c24d843b7436f3f696fc1c2a360e9a848c702cc/1215_263_3442_2754/500.jpg",
-      "published": "2026-06-10T16:18:05Z",
-      "location": {
-        "name": "North Sumatra",
-        "lat": 2.0833,
-        "lng": 99.5667
-      },
-      "category": "climate",
-      "significance": 3,
-      "section": "world"
-    },
     {
       "id": "football/live/2026/jun/10/england-v-costa-rica-world-cup-2026-warm-up-live",
       "headline": "England v Costa Rica: World Cup 2026 warm-up delayed by storm – live",
@@ -1158,6 +998,134 @@
       "category": "politics",
       "significance": 2,
       "section": "politics"
+    },
+    {
+      "id": "football/live/2026/jun/11/mexico-v-south-africa-world-cup-2026-opening-match-live",
+      "headline": "Mexico v South Africa: World Cup 2026 opening match – live",
+      "summary": "Mexico faces South Africa in World Cup 2026 opening match in Mexico City.",
+      "url": "https://www.theguardian.com/p/x58g2q",
+      "thumbnail": "https://media.guim.co.uk/5cfd6c3aa4a81ce8c3f58ce13a85260a1da785d5/618_529_4149_3321/500.jpg",
+      "published": "2026-06-11T18:35:15Z",
+      "location": {
+        "name": "Mexico City",
+        "lat": 19.4326,
+        "lng": -99.1332
+      },
+      "category": "sport",
+      "significance": 4,
+      "section": "football"
+    },
+    {
+      "id": "world/2026/jun/11/delhi-issues-strong-protest-after-us-fire-kills-three-indian-seafarers-in-gulf",
+      "headline": "Delhi issues ‘strong protest’ after US fire kills three Indian seafarers in Gulf",
+      "summary": "US strikes kill three Indian seafarers in Gulf, India lodges strong protest.",
+      "url": "https://www.theguardian.com/p/x596xg",
+      "thumbnail": "https://media.guim.co.uk/23e78815b64af0f479a05592c4e59e9f2991437c/1661_0_3401_2724/500.jpg",
+      "published": "2026-06-11T18:11:10Z",
+      "location": {
+        "name": "Strait of Hormuz",
+        "lat": 26.5667,
+        "lng": 56.25
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "commentisfree/2026/jun/11/the-guardian-view-on-john-healey-the-defence-secretarys-resignation-undermines-labour-as-well-as-keir-starmer",
+      "headline": "The Guardian view on John Healey: the defence secretary’s resignation undermines Labour as well as Keir Starmer ",
+      "summary": "John Healey resigns as UK defence secretary, criticizing PM Keir Starmer.",
+      "url": "https://www.theguardian.com/p/x596dg",
+      "thumbnail": "https://media.guim.co.uk/24904720879c91b8ee2b19bcd8ea05ad26362f57/506_0_5148_4118/500.jpg",
+      "published": "2026-06-11T18:04:30Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "commentisfree"
+    },
+    {
+      "id": "football/2026/jun/11/they-are-adults-tuchel-grants-england-players-day-off-with-few-strings-attached",
+      "headline": "‘They are adults’: Tuchel grants England players day off with few strings attached",
+      "summary": "Tuchel grants England players day off during World Cup 2026 training camp.",
+      "url": "https://www.theguardian.com/p/x596dv",
+      "thumbnail": "https://media.guim.co.uk/5be9c195205e62cfef739636260122f7db25714e/195_0_2193_1754/500.jpg",
+      "published": "2026-06-11T18:00:22Z",
+      "location": {
+        "name": "Florida",
+        "lat": 27.9947,
+        "lng": -81.7603
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/jun/11/elliot-anderson-england-2026-world-cup-thomas-tuchel-nottingham-forest-manchester-city-transfer",
+      "headline": "Elliot Anderson brings the noise and promise of England linchpin amid City transfer talk",
+      "summary": "Elliot Anderson's rising prospects tied to World Cup success and transfer news.",
+      "url": "https://www.theguardian.com/p/x5967g",
+      "thumbnail": "https://media.guim.co.uk/ae5d087e8047a9f3ead33d57870af785e4d30f97/0_280_4000_3197/500.jpg",
+      "published": "2026-06-11T18:00:22Z",
+      "location": {
+        "name": "Florida",
+        "lat": 27.9947,
+        "lng": -81.7603
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "uk-news/2026/jun/11/woman-fears-separated-unborn-baby-home-office-sends-go-home-letters-husband-daughter",
+      "headline": "Care worker fears being parted from unborn child and family after Home Office ‘go home’ letters",
+      "summary": "Pregnant Scottish care worker fears Home Office separation from family over visas.",
+      "url": "https://www.theguardian.com/p/x58qyz",
+      "thumbnail": "https://media.guim.co.uk/2f3f9ce71d3826b1b45a88e392a3dcfdc662bf65/0_312_900_720/500.jpg",
+      "published": "2026-06-11T17:52:06Z",
+      "location": {
+        "name": "Edinburgh",
+        "lat": 55.9533,
+        "lng": -3.1883
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "uk-news/2026/jun/11/police-psni-plastic-bullets-race-riots-northern-ireland",
+      "headline": "Police fire plastic bullets in effort to contain race riots in Northern Ireland",
+      "summary": "Police fire plastic bullets during race riots in Northern Ireland.",
+      "url": "https://www.theguardian.com/p/x5959h",
+      "thumbnail": "https://media.guim.co.uk/1832d4d97a476b59899465d9b76a286de6daa3bb/1406_25_6651_5320/500.jpg",
+      "published": "2026-06-11T17:45:39Z",
+      "location": {
+        "name": "Belfast",
+        "lat": 54.5973,
+        "lng": -5.9301
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "us-news/2026/jun/11/new-york-city-knicks-basketball",
+      "headline": "‘Thank God for the Knicks’: New Yorkers abuzz after historic Game 4 comeback",
+      "summary": "Knicks stage largest NBA finals comeback in history against San Antonio Spurs.",
+      "url": "https://www.theguardian.com/p/x5962v",
+      "thumbnail": "https://media.guim.co.uk/1f9934107dcc5ed616ba4b5ff14624654ca65c79/604_167_2292_1833/500.jpg",
+      "published": "2026-06-11T17:30:04Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "us-news"
     }
   ]
 }
