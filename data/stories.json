@@ -1,236 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-12T09:15:21.417Z",
-    "story_count": 69,
-    "oldest_story": "2026-06-11T10:49:01Z",
-    "newest_story": "2026-06-12T09:11:56Z",
+    "generated_at": "2026-06-12T12:36:24.240Z",
+    "story_count": 64,
+    "oldest_story": "2026-06-11T14:14:30Z",
+    "newest_story": "2026-06-12T12:29:03Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "politics/live/2026/jun/11/belfast-riots-hilary-benn-anti-immigrant-injured-police-latest-news-updates",
-      "headline": "John Healey resigns as defence secretary in disagreement with Starmer over spending – UK politics live",
-      "summary": "Defence Secretary John Healey resigns over PM's unwillingness to commit adequate military spending resources.",
-      "url": "https://www.theguardian.com/p/x5946c",
-      "thumbnail": "https://media.guim.co.uk/2183213bd4da74ac195bae6c04b812915541d15b/0_1223_3406_2725/500.jpg",
-      "published": "2026-06-11T11:44:19Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 4,
-      "section": "politics"
-    },
-    {
-      "id": "politics/2026/jun/11/john-healey-resigns-defence-secretary-military-spending",
-      "headline": "​John Healey resigns as defence secretary over military spending ",
-      "summary": "Defence Secretary John Healey resigns over PM's unwillingness to commit adequate military spending resources.",
-      "url": "https://www.theguardian.com/p/x59552",
-      "thumbnail": "https://media.guim.co.uk/9f06be8f1fac660caccda7dc8f0385c85d10cac8/453_0_4594_3674/500.jpg",
-      "published": "2026-06-11T11:41:44Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 4,
-      "section": "politics"
-    },
-    {
-      "id": "football/2026/jun/11/martin-oneill-confirmed-celtic-manager",
-      "headline": "Martin O’Neill hungry for more success at Celtic after being confirmed as manager",
-      "summary": "Martin O'Neill confirmed as Celtic manager on one-year contract after securing double.",
-      "url": "https://www.theguardian.com/p/x5954f",
-      "thumbnail": "https://media.guim.co.uk/c8414b9881588589b8b4da07652301fe600ddf69/984_51_3409_2728/500.jpg",
-      "published": "2026-06-11T11:39:19Z",
-      "location": {
-        "name": "Glasgow",
-        "lat": 55.8642,
-        "lng": -4.2518
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "us-news/live/2026/jun/11/democrats-republicans-midterms-tech-laws-scotus-latest-news-updates",
-      "headline": "Democrats prepare for potential election interference in midterms – US politics live",
-      "summary": "Democrats prepare strategies to counter potential election interference by Trump in midterm elections.",
-      "url": "https://www.theguardian.com/p/x594tf",
-      "thumbnail": "https://media.guim.co.uk/56e4fd81a285539a4608f95280845d88c31ab383/568_0_4417_3533/500.jpg",
-      "published": "2026-06-11T11:37:15Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "business/2026/jun/11/itv-world-cup-super-bowl-tv-advertising",
-      "headline": "ITV says World Cup will be ‘six-week Super Bowl’ for advertising",
-      "summary": "ITV reports World Cup revenues 30% higher than Euro 2024, dubbing it 'six-week Super Bowl'.",
-      "url": "https://www.theguardian.com/p/x594b9",
-      "thumbnail": "https://media.guim.co.uk/29d6e9456bc9c4712a02c3a4cfeff825633a5644/175_0_3411_2729/500.jpg",
-      "published": "2026-06-11T11:34:33Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "sport/2026/jun/11/new-york-knicks-comeback-nba-finals-team-of-destiny",
-      "headline": "The New York Knicks have stopped believing in impossible. They may be a team of destiny",
-      "summary": "New York Knicks complete largest NBA Finals comeback (29 points) in history against Spurs.",
-      "url": "https://www.theguardian.com/p/x594bv",
-      "thumbnail": "https://media.guim.co.uk/77ac449acd18bcd7b7d06aefdf3f242f6d3c6111/316_0_3162_2530/500.jpg",
-      "published": "2026-06-11T11:32:05Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "sport"
-    },
-    {
-      "id": "world/2026/jun/11/crans-montana-fire-murder-charges-request-bar-owners",
-      "headline": "Crans-Montana fire bereaved ask for murder charges against bar owners",
-      "summary": "Swiss fire victims' lawyers seek murder charges against bar owners over 2024 New Year's Eve blaze killing 41.",
-      "url": "https://www.theguardian.com/p/x5949h",
-      "thumbnail": "https://media.guim.co.uk/8d47c1d8cb18e99dc2b5a05121be777bed61d4a3/627_713_2237_1790/500.jpg",
-      "published": "2026-06-11T11:22:29Z",
-      "location": {
-        "name": "Crans-Montana",
-        "lat": 46.3989,
-        "lng": 7.4951
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "commentisfree/2026/jun/11/alabama-execution-nitrogen-hypoxia",
-      "headline": "Alabama wants to execute a man by nitrogen hypoxia. That is cruel",
-      "summary": "Alabama seeks to execute man using nitrogen hypoxia, raising concerns about cruel punishment.",
-      "url": "https://www.theguardian.com/p/x59xmf",
-      "thumbnail": "https://media.guim.co.uk/91c5f15bad04bd1f60cd68e54cbca354e693fffc/84_0_1880_1504/500.jpg",
-      "published": "2026-06-11T11:00:21Z",
-      "location": {
-        "name": "Montgomery",
-        "lat": 32.3792,
-        "lng": -86.3077
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "commentisfree"
-    },
-    {
-      "id": "us-news/2026/jun/11/fair-elections-fund-trump-allies",
-      "headline": "Fund linked to key Trump allies backed push to sow doubt about 2024 election",
-      "summary": "Fund tied to Trump allies funded misleading ads sowing doubt about 2024 election certification.",
-      "url": "https://www.theguardian.com/p/x59xt4",
-      "thumbnail": "https://media.guim.co.uk/8a8dbce0be7f01b53762193a2684b1f3bc86dfd5/671_0_6726_5382/500.jpg",
-      "published": "2026-06-11T11:00:21Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/jun/11/oklahoma-penitentiary-underground-cells-rape-abuse-allegations",
-      "headline": "Oklahoma prison criticized for allegedly incarcerating people in squalid underground cells with no natural light",
-      "summary": "Oklahoma penitentiary criticized for housing inmates in squalid underground cells with abuse allegations.",
-      "url": "https://www.theguardian.com/p/x538nb",
-      "thumbnail": "https://media.guim.co.uk/63ea3a10aedeca2db6cb1c766d776d1e5f23ad2c/313_0_2501_2000/500.jpg",
-      "published": "2026-06-11T11:00:20Z",
-      "location": {
-        "name": "McAlester",
-        "lat": 35.3447,
-        "lng": -95.7842
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/ng-interactive/2026/jun/11/oklahoma-state-penitentiary-dungeon-tombs-prisoners",
-      "headline": "‘It’s torture’: prisoners’ letters expose subterranean Oklahoma ‘dungeon’ known as the tombs",
-      "summary": "Oklahoma penitentiary criticized for housing inmates in squalid underground cells with abuse allegations.",
-      "url": "https://www.theguardian.com/p/x54k4d",
-      "thumbnail": "https://media.guim.co.uk/378ada90529c7c300c4cc669f7b6d30a303c3aa3/52_44_2892_2313/500.png",
-      "published": "2026-06-11T11:00:20Z",
-      "location": {
-        "name": "McAlester",
-        "lat": 35.3447,
-        "lng": -95.7842
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "sport/2026/jun/11/wimbledon-biggest-prize-money-increase-history-may-not-appease-players-tennis",
-      "headline": "Wimbledon announce record 20% prize money increase but players’ dispute continues",
-      "summary": "Wimbledon announces record 20% prize money increase but dispute with top players continues.",
-      "url": "https://www.theguardian.com/p/x5945y",
-      "thumbnail": "https://media.guim.co.uk/dd422ad5a0d067e41097e32cfa3b78ea9d915b90/133_130_3087_2469/500.jpg",
-      "published": "2026-06-11T10:55:39Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "commentisfree/2026/jun/11/young-people-britain-joblessness-epidemic-labour-mental-health-economy",
-      "headline": "Young people in Britain are suffering a joblessness epidemic – and, so far, Labour is just making it worse",
-      "summary": "Youth unemployment crisis in Britain harming mental health with Labour failing to address sluggish economy.",
-      "url": "https://www.theguardian.com/p/x59v27",
-      "thumbnail": "https://media.guim.co.uk/f80afc307589a27ed9fbd5dbef921648d92089e1/0_0_4544_3636/500.jpg",
-      "published": "2026-06-11T10:53:56Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "commentisfree"
-    },
-    {
-      "id": "us-news/2026/jun/11/first-thing-us-iran-trade-strikes-trump-threatens-tehran-stalled-talks",
-      "headline": "First Thing: US and Iran trade fire after Trump threatens Tehran over stalled talks",
-      "summary": "US launches airstrikes on Iran after Trump threatens Tehran over stalled ceasefire negotiations.",
-      "url": "https://www.theguardian.com/p/x59vpj",
-      "thumbnail": "https://media.guim.co.uk/71be7bfcbd7a01c44e54d819bd20554308ecdaf6/249_0_4680_3744/500.jpg",
-      "published": "2026-06-11T10:49:01Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "us-news"
-    },
     {
       "id": "football/live/2026/jun/11/world-cup-2026-countdown-opener-mexico-south-africa-south-korea-czechialive",
       "headline": "World Cup 2026: countdown to kick-off in Mexico, Somali referee to officiate Uefa Super Cup – live",
@@ -1110,6 +886,150 @@
       "category": "politics",
       "significance": 2,
       "section": "politics"
+    },
+    {
+      "id": "sport/live/2026/jun/12/nottinghamshire-v-somerset-yorkshire-v-warwickshire-and-more-county-cricket-day-one-live",
+      "headline": "Nottinghamshire v Somerset, Yorkshire v Warwickshire, and more: county cricket, day one – live",
+      "summary": "County Championship cricket matches begin with Nottinghamshire v Somerset and Yorkshire v Warwickshire.",
+      "url": "https://www.theguardian.com/p/x58yh5",
+      "thumbnail": "https://media.guim.co.uk/90eaef618e1e48b12e688f45fba5d107090bce62/356_0_2250_1800/500.jpg",
+      "published": "2026-06-12T12:29:03Z",
+      "location": {
+        "name": "Nottinghamshire",
+        "lat": 52.94,
+        "lng": -1.133
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "us-news/live/2026/jun/12/donald-trump-fisa-kennedy-center-iran-ufc-white-house-latest-news-updates",
+      "headline": "Fisa spy powers almost certain to expire after Congress fails to act – US politics live",
+      "summary": "FISA surveillance law set to expire at midnight after Congress fails to act on Trump intelligence chief pick.",
+      "url": "https://www.theguardian.com/p/x59a9d",
+      "thumbnail": "https://media.guim.co.uk/a83ecfa0091d2739668a5440809397a2b4f5ac57/977_0_5000_4000/500.jpg",
+      "published": "2026-06-12T12:26:38Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "sport/2026/jun/12/wimbledon-escape-protests-players-accept-prize-money-increase-tennis",
+      "headline": "Wimbledon to escape protests after players accept 20% prize money increase",
+      "summary": "Wimbledon avoids player protests after offering 20% prize money increase to tennis stars.",
+      "url": "https://www.theguardian.com/p/x59app",
+      "thumbnail": "https://media.guim.co.uk/3c645a4d43291d17cf10891d9a5d7c5d36c40e3e/0_0_3059_2447/500.jpg",
+      "published": "2026-06-12T12:20:31Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "football/2026/jun/12/beth-mead-describes-moving-to-manchester-city-as-a-no-brainer",
+      "headline": "Beth Mead describes moving to Manchester City as a ‘no-brainer’",
+      "summary": "Beth Mead signs three-year deal with Manchester City women after leaving Arsenal.",
+      "url": "https://www.theguardian.com/p/x59ay2",
+      "thumbnail": "https://media.guim.co.uk/06f7553750419328acf3340eeeda4af200b68dd8/224_0_1139_911/500.jpg",
+      "published": "2026-06-12T12:17:55Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "artanddesign/2026/jun/12/artist-david-hockney-dies",
+      "headline": "David Hockney, revolutionary British artist, dies aged 88",
+      "summary": "Iconic British painter David Hockney, known for California pool paintings, dies aged 88.",
+      "url": "https://www.theguardian.com/p/acxec",
+      "thumbnail": "https://media.guim.co.uk/426dc824f6e5a33cdca6a0e5c5d8867c4fea8723/345_243_1825_1460/500.jpg",
+      "published": "2026-06-12T12:14:15Z",
+      "location": {
+        "name": "Bradford",
+        "lat": 53.793,
+        "lng": -1.7597
+      },
+      "category": "culture",
+      "significance": 4,
+      "section": "artanddesign"
+    },
+    {
+      "id": "music/2026/jun/12/renell-shaw-jazz-musician-interview-windrush-suite-kings-place",
+      "headline": "‘Windrush is a love story too’: Renell Shaw on paying homage to Black British life in his new jazz trilogy",
+      "summary": "Jazz musician Renell Shaw releases new trilogy inspired by Windrush generation and family history.",
+      "url": "https://www.theguardian.com/p/x54pgc",
+      "thumbnail": "https://media.guim.co.uk/6efdc3c8975aded31bd64a8818ea9add028c2b47/0_750_3168_2534/500.jpg",
+      "published": "2026-06-12T12:00:45Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "music"
+    },
+    {
+      "id": "us-news/2026/jun/12/delaney-hall-ice-detention-strike",
+      "headline": "Women held at much-denounced Ice detention camp sign on to hunger strike ",
+      "summary": "Nearly 40 women detained at Delaney Hall join hunger and labor strike over ICE detention conditions.",
+      "url": "https://www.theguardian.com/p/x597kf",
+      "thumbnail": "https://media.guim.co.uk/209d5187bba1f380c789a91f7545bc8ad42b9621/500_0_5000_4000/500.jpg",
+      "published": "2026-06-12T12:00:44Z",
+      "location": {
+        "name": "New Jersey",
+        "lat": 40.2206,
+        "lng": -74.7597
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "commentisfree/2026/jun/12/un-blacklist-israel-sexual-violence-conflict-accountability-russia",
+      "headline": "The UN has shamed Israel over sexual violence in conflict. Now there must be accountability",
+      "summary": "UN blacklists Israel for sexual violence in conflict, mirroring sanctions pressure on Russia.",
+      "url": "https://www.theguardian.com/p/x57fav",
+      "thumbnail": "https://media.guim.co.uk/6ece5fd7939cb90b1a8a7866fe7dad09dcacfdf1/305_0_4647_3719/500.jpg",
+      "published": "2026-06-12T12:00:44Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "commentisfree"
+    },
+    {
+      "id": "music/2026/jun/12/add-to-playlist-the-sweet-plunderphonics-of-quiet-light-and-the-weeks-best-new-tracks",
+      "headline": "Add to playlist: the sweet plunderphonics of Quiet Light and the week’s best new tracks",
+      "summary": "Medical student Riya Mahesh releases ambient pop album Quiet Light as Blue Angel Sparkling Silver 2.",
+      "url": "https://www.theguardian.com/p/x58ycb",
+      "thumbnail": "https://media.guim.co.uk/8852e2f4c4d43a078affbf467a880b212e9c6d99/268_0_2594_2075/500.jpg",
+      "published": "2026-06-12T11:30:44Z",
+      "location": {
+        "name": "Texas",
+        "lat": 31.9686,
+        "lng": -99.9018
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "music"
     }
   ]
 }
