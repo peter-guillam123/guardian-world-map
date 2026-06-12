@@ -1,44 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-12T18:07:41.347Z",
-    "story_count": 74,
-    "oldest_story": "2026-06-11T18:11:10Z",
-    "newest_story": "2026-06-12T18:05:19Z",
+    "generated_at": "2026-06-12T20:25:22.321Z",
+    "story_count": 76,
+    "oldest_story": "2026-06-11T20:30:15Z",
+    "newest_story": "2026-06-12T20:12:51Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/live/2026/jun/11/mexico-v-south-africa-world-cup-2026-opening-match-live",
-      "headline": "Mexico v South Africa: World Cup 2026 opening match – live",
-      "summary": "Mexico faces South Africa in World Cup 2026 opening match in Mexico City.",
-      "url": "https://www.theguardian.com/p/x58g2q",
-      "thumbnail": "https://media.guim.co.uk/5cfd6c3aa4a81ce8c3f58ce13a85260a1da785d5/618_529_4149_3321/500.jpg",
-      "published": "2026-06-11T18:35:15Z",
-      "location": {
-        "name": "Mexico City",
-        "lat": 19.4326,
-        "lng": -99.1332
-      },
-      "category": "sport",
-      "significance": 4,
-      "section": "football"
-    },
-    {
-      "id": "world/2026/jun/11/delhi-issues-strong-protest-after-us-fire-kills-three-indian-seafarers-in-gulf",
-      "headline": "Delhi issues ‘strong protest’ after US fire kills three Indian seafarers in Gulf",
-      "summary": "US strikes kill three Indian seafarers in Gulf, India lodges strong protest.",
-      "url": "https://www.theguardian.com/p/x596xg",
-      "thumbnail": "https://media.guim.co.uk/23e78815b64af0f479a05592c4e59e9f2991437c/1661_0_3401_2724/500.jpg",
-      "published": "2026-06-11T18:11:10Z",
-      "location": {
-        "name": "Strait of Hormuz",
-        "lat": 26.5667,
-        "lng": 56.25
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "world"
-    },
     {
       "id": "australia-news/live/2026/jun/12/australia-news-live-richard-marles-aukus-submarine-defence-nato-anthony-albanese-pauline-hanson-labor-one-nation-cost-of-living-ntwnfb",
       "headline": "Australia news live: Richard Marles left adrift as UK counterpart quits hours before scheduled visit to naval yard",
@@ -86,22 +54,6 @@
       "category": "conflict",
       "significance": 3,
       "section": "world"
-    },
-    {
-      "id": "uk-news/2026/jun/11/belfast-northern-ireland-list-addresses-social-media-riots-violence",
-      "headline": "‘My kids are crying’: list of targeted addresses stokes fears across Belfast",
-      "summary": "Addresses of immigrant-housing circulate online amid Belfast violence and racism concerns.",
-      "url": "https://www.theguardian.com/p/x596bj",
-      "thumbnail": "https://media.guim.co.uk/1f9884501bb9a690091b8c8b8c2ed0cd3ab5e07d/903_0_4489_3592/500.jpg",
-      "published": "2026-06-11T20:20:05Z",
-      "location": {
-        "name": "Belfast",
-        "lat": 54.5973,
-        "lng": -5.9301
-      },
-      "category": "conflict",
-      "significance": 2,
-      "section": "uk-news"
     },
     {
       "id": "uk-news/2026/jun/11/counter-terror-unit-investigates-triple-stabbing-at-school-in-manchester",
@@ -1190,6 +1142,86 @@
       "category": "culture",
       "significance": 1,
       "section": "music"
+    },
+    {
+      "id": "technology/2026/jun/12/police-officer-under-criminal-investigation-over-alleged-use-of-ai",
+      "headline": "Police officer under criminal investigation over alleged use of AI",
+      "summary": "UK police officer under criminal investigation for alleged use of AI to create evidence.",
+      "url": "https://www.theguardian.com/p/x59cfg",
+      "thumbnail": "https://media.guim.co.uk/0c3edebeeb253bbd55651f876437604985aa7658/327_0_2845_2277/500.jpg",
+      "published": "2026-06-12T20:12:51Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "tech",
+      "significance": 2,
+      "section": "technology"
+    },
+    {
+      "id": "football/2026/jun/12/tickets-are-very-expensive-mexican-president-sheinbaum-explains-why-she-did-not-attend-world-cup-opener",
+      "headline": "‘Tickets are very expensive’: Mexican president Sheinbaum explains why she did not attend World Cup opener",
+      "summary": "Mexican president Sheinbaum skipped World Cup opener, gave ticket to young soccer fan citing expense.",
+      "url": "https://www.theguardian.com/p/x59ckf",
+      "thumbnail": "https://media.guim.co.uk/d947212d9bfb92feaf9adce051d6907e9aa09ba3/153_0_1067_854/500.jpg",
+      "published": "2026-06-12T19:51:39Z",
+      "location": {
+        "name": "Mexico City",
+        "lat": 19.4326,
+        "lng": -99.1332
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/jun/12/fire-california-warehouse-complex-evacuations",
+      "headline": "Fire at California warehouse complex prompts evacuations as authorities fight blaze",
+      "summary": "Large warehouse fire in California destroys medical equipment; authorities warn blaze may take days to extinguish.",
+      "url": "https://www.theguardian.com/p/x59ap8",
+      "thumbnail": "https://media.guim.co.uk/3c967a0f19bb42c9332b8afaa4aaed965c883922/126_0_3779_3024/500.jpg",
+      "published": "2026-06-12T19:48:41Z",
+      "location": {
+        "name": "Tracy",
+        "lat": 37.7396,
+        "lng": -121.4089
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "books/2026/jun/12/failure-was-my-thing-womens-prize-winner-virginia-evans-on-coping-with-years-of-rejection",
+      "headline": "‘Failure was my thing’: Women’s prize winner Virginia Evans on her long journey to success",
+      "summary": "American author Virginia Evans wins Women's Prize after two decades of rejections on her debut novel.",
+      "url": "https://www.theguardian.com/p/x59bmx",
+      "thumbnail": "https://media.guim.co.uk/96fdeb907c2461d5dccd0a53f7af6c7972680826/560_0_5600_4480/500.jpg",
+      "published": "2026-06-12T19:30:02Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "books"
+    },
+    {
+      "id": "us-news/2026/jun/12/fbi-raid-ohio-voting-group-election",
+      "headline": "FBI raid of Ohio voting rights group stokes fear of pre-midterm crackdown ",
+      "summary": "FBI raids Ohio voting rights group ahead of midterms, sparking concerns of Trump administration crackdown.",
+      "url": "https://www.theguardian.com/p/x59cd3",
+      "thumbnail": "https://media.guim.co.uk/ba509194c136420fa9b6bf7f4bfbafdcd7ddec58/0_0_5071_4058/500.jpg",
+      "published": "2026-06-12T19:26:14Z",
+      "location": {
+        "name": "Cleveland",
+        "lat": 41.4993,
+        "lng": -81.6944
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
     }
   ]
 }
