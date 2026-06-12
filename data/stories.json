@@ -1,60 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-12T20:25:22.321Z",
-    "story_count": 76,
-    "oldest_story": "2026-06-11T20:30:15Z",
-    "newest_story": "2026-06-12T20:12:51Z",
+    "generated_at": "2026-06-12T22:08:28.210Z",
+    "story_count": 85,
+    "oldest_story": "2026-06-11T22:08:28Z",
+    "newest_story": "2026-06-12T22:00:56Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "australia-news/live/2026/jun/12/australia-news-live-richard-marles-aukus-submarine-defence-nato-anthony-albanese-pauline-hanson-labor-one-nation-cost-of-living-ntwnfb",
-      "headline": "Australia news live: Richard Marles left adrift as UK counterpart quits hours before scheduled visit to naval yard",
-      "summary": "UK defence secretary quits hours before scheduled visit with Australian counterpart to naval base.",
-      "url": "https://www.theguardian.com/p/x594zf",
-      "thumbnail": "https://media.guim.co.uk/be949cde285d9232b74b02b77de67482ff88402c/239_0_6808_5449/500.jpg",
-      "published": "2026-06-11T21:04:49Z",
-      "location": {
-        "name": "Portsmouth",
-        "lat": 50.7918,
-        "lng": -1.0879
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "football/2026/jun/11/iran-world-cup-tijuana-security-camp-mexico",
-      "headline": "Iran’s World Cup camp in Tijuana unfolds under armed guard and political shadow",
-      "summary": "Iran's World Cup team bases operations in Tijuana amid security concerns and political tensions.",
-      "url": "https://www.theguardian.com/p/x597ak",
-      "thumbnail": "https://media.guim.co.uk/7875c95bfc39b27c00b4d1ca5f6533c28569f5b7/428_0_2900_2322/500.jpg",
-      "published": "2026-06-11T20:49:46Z",
-      "location": {
-        "name": "Tijuana",
-        "lat": 32.5149,
-        "lng": -117.0382
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "world/2026/jun/11/strikes-water-facilities-iran-war-crime-experts",
-      "headline": "Military strikes on water facilities in Iran may constitute a war crime, experts say",
-      "summary": "Military strikes on Iranian water facilities may constitute war crimes, experts say.",
-      "url": "https://www.theguardian.com/p/x59729",
-      "thumbnail": "https://media.guim.co.uk/10443bb03f42f8d2dfad0c9620622d81766ecc5b/475_0_3672_2938/500.jpg",
-      "published": "2026-06-11T20:30:15Z",
-      "location": {
-        "name": "Bemani",
-        "lat": 26.1333,
-        "lng": 56.5167
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "world"
-    },
     {
       "id": "uk-news/2026/jun/11/counter-terror-unit-investigates-triple-stabbing-at-school-in-manchester",
       "headline": "Girl, 14, charged in connection with triple stabbing at school in Manchester",
@@ -1222,6 +1174,198 @@
       "category": "politics",
       "significance": 3,
       "section": "us-news"
+    },
+    {
+      "id": "lifeandstyle/2026/jun/12/maternal-blood-test-detect-genetic-conditions-foetus",
+      "headline": "Blood test can find thousands of genetic conditions in pregnancy, say scientists",
+      "summary": "New maternal blood test can detect thousands of genetic conditions in developing foetus, researchers announce.",
+      "url": "https://www.theguardian.com/p/x59665",
+      "thumbnail": "https://media.guim.co.uk/856fafdb8ac7d8e6be8d1bc81e36b3377dd99b06/960_0_4800_3840/500.jpg",
+      "published": "2026-06-12T22:00:56Z",
+      "location": {
+        "name": "Gothenburg",
+        "lat": 57.7089,
+        "lng": 11.9746
+      },
+      "category": "health",
+      "significance": 3,
+      "section": "lifeandstyle"
+    },
+    {
+      "id": "football/live/2026/jun/12/usa-v-paraguay-world-cup-2026-live",
+      "headline": "USA v Paraguay: World Cup 2026 – live",
+      "summary": "USA faces Paraguay in World Cup 2026 opener in California as co-hosts begin their campaign.",
+      "url": "https://www.theguardian.com/p/x59cx7",
+      "thumbnail": "https://media.guim.co.uk/6460d473d5b1073fd182963a70d79112e71e4c33/226_0_2261_1809/500.jpg",
+      "published": "2026-06-12T21:56:40Z",
+      "location": {
+        "name": "Inglewood",
+        "lat": 33.9611,
+        "lng": -118.353
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/jun/12/trump-la-homeless-agency-cuts",
+      "headline": "Trump officials cut federal funds to LA homeless services agency",
+      "summary": "Trump administration suspends federal funding to LA's homelessness agency amid California disputes.",
+      "url": "https://www.theguardian.com/p/x59dxf",
+      "thumbnail": "https://media.guim.co.uk/4f678cd13741b79dae626cd29d5fb3e15c00ec71/250_0_2500_2000/500.jpg",
+      "published": "2026-06-12T21:52:49Z",
+      "location": {
+        "name": "Los Angeles",
+        "lat": 34.0522,
+        "lng": -118.2437
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "uk-news/2026/jun/12/king-charles-birthday-honours-list-helen-mirren-lionesses-football",
+      "headline": "Helen Mirren and six Lionesses receive honours for King Charles’s birthday",
+      "summary": "Helen Mirren and six Lionesses receive honours in King Charles's birthday honours list.",
+      "url": "https://www.theguardian.com/p/x59apk",
+      "thumbnail": "https://media.guim.co.uk/474c2dadb3b63e4aebd3e1af46dbf26bfa219a29/998_803_2379_1902/500.jpg",
+      "published": "2026-06-12T21:30:56Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "sport/2026/jun/12/kevin-sinfield-knighted-kings-birthday-honours-list-rugby-league",
+      "headline": "Arise, Sir Kevin: Sinfield knighted in king’s birthday honours list",
+      "summary": "Rugby league legend Kevin Sinfield knighted for raising over £11m for motor neurone disease.",
+      "url": "https://www.theguardian.com/p/x59a82",
+      "thumbnail": "https://media.guim.co.uk/7514fcd4788a6c1bf1084e5f3cc48119ead10b7a/1193_712_2322_1858/500.jpg",
+      "published": "2026-06-12T21:30:56Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "uk-news/2026/jun/12/merope-mills-cbe-kings-birthday-honours-list-marthas-rule",
+      "headline": "Merope Mills awarded CBE in king’s honours list for Martha’s rule campaign",
+      "summary": "Journalist Merope Mills awarded CBE for driving Martha's Rule patient safety campaign.",
+      "url": "https://www.theguardian.com/p/x59bm8",
+      "thumbnail": "https://media.guim.co.uk/ec9a0cf7a27448c9ad2a9c0ae7f96c08f978988d/181_175_1356_1085/500.jpg",
+      "published": "2026-06-12T21:30:55Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "sport/2026/jun/12/wyatt-hodge-fires-england-to-opening-win-over-sri-lanka-at-womens-t20-world-cup",
+      "headline": "Wyatt-Hodge fires England to Women’s T20 World Cup record score to sink Sri Lanka",
+      "summary": "England's Danni Wyatt-Hodge scores 105 not out to thrash Sri Lanka in Women's T20 World Cup opener.",
+      "url": "https://www.theguardian.com/p/x599p3",
+      "thumbnail": "https://media.guim.co.uk/cfe9bede5645f57ccc397b5fcda189f84c75388b/333_0_3333_2666/500.jpg",
+      "published": "2026-06-12T21:28:50Z",
+      "location": {
+        "name": "Birmingham",
+        "lat": 52.5086,
+        "lng": -1.8853
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "sport"
+    },
+    {
+      "id": "sport/2026/jun/12/katie-boulter-stuns-rybakina-for-biggest-win-after-raducanu-starts-queens-party",
+      "headline": "Katie Boulter stuns Rybakina for biggest win after Raducanu starts Queen’s party",
+      "summary": "Katie Boulter beats Rybakina in her greatest victory while Raducanu wins at Queen's.",
+      "url": "https://www.theguardian.com/p/x599qf",
+      "thumbnail": "https://media.guim.co.uk/ac0d84c7daac3db7170bcc4472ab0f66b452d6b9/250_0_2461_1968/500.jpg",
+      "published": "2026-06-12T21:23:58Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "sport/2026/jun/12/george-furbank-gives-saints-farewell-gift-to-seal-thrilling-playoff-win-against-leicester",
+      "headline": "George Furbank gives Saints farewell gift to seal thrilling playoff win against Leicester",
+      "summary": "Northampton beats Leicester 45-31 with George Furbank's farewell performance to reach Prem final.",
+      "url": "https://www.theguardian.com/p/x599pj",
+      "thumbnail": "https://media.guim.co.uk/de6171eca41339b7b2a60feb9a3d4c0ff01b2b38/508_0_3844_3075/500.jpg",
+      "published": "2026-06-12T21:21:21Z",
+      "location": {
+        "name": "Northampton",
+        "lat": 52.2411,
+        "lng": -0.889
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "football/2026/jun/12/canada-bosnia-herzegovina-world-cup-2026-group-b-match-report",
+      "headline": "Supersub Cyle Larin rescues point for Canada against Bosnia and Herzegovina",
+      "summary": "Cyle Larin's late equaliser gives Canada 1-1 draw against Bosnia and Herzegovina in World Cup Group B.",
+      "url": "https://www.theguardian.com/p/x59cjx",
+      "thumbnail": "https://media.guim.co.uk/230f8b0d5e3a6d54290275a0337b77c5f60a84ad/1028_0_6880_5504/500.jpg",
+      "published": "2026-06-12T21:21:13Z",
+      "location": {
+        "name": "Vancouver",
+        "lat": 49.2827,
+        "lng": -123.1207
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "world/2026/jun/13/south-korea-fans-brunch-world-cup-watch-vs-czechia-game",
+      "headline": "South Koreans revel in ‘World Cup brunch’ as time difference sees beers swapped for breakfast",
+      "summary": "South Koreans gather for 'World Cup brunch' as early morning kick-offs see fans ditch routines.",
+      "url": "https://www.theguardian.com/p/x59947",
+      "thumbnail": "https://media.guim.co.uk/4417980ac6f870c817fb5dc1debfa7728995a19d/466_416_3272_2618/500.jpg",
+      "published": "2026-06-12T21:00:55Z",
+      "location": {
+        "name": "Seoul",
+        "lat": 37.5665,
+        "lng": 126.978
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "football/2026/jun/12/scotland-world-cup-football-haiti-steve-clarke",
+      "headline": "Scotland bid to exorcise World Cup ghosts by breaking group stage barrier",
+      "summary": "Scotland faces Haiti in World Cup opener seeking to end group stage curse under Steve Clarke.",
+      "url": "https://www.theguardian.com/p/x59bmn",
+      "thumbnail": "https://media.guim.co.uk/c5aceabd867613b29f0b2200f9c1934b1e6780ca/276_0_2401_1921/500.jpg",
+      "published": "2026-06-12T21:00:55Z",
+      "location": {
+        "name": "Foxborough",
+        "lat": 42.0637,
+        "lng": -71.3155
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
     }
   ]
 }
