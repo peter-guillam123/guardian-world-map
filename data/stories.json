@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-06-12T15:53:37.528Z",
-    "story_count": 60,
-    "oldest_story": "2026-06-11T17:30:04Z",
-    "newest_story": "2026-06-12T15:29:29Z",
+    "generated_at": "2026-06-12T18:07:41.347Z",
+    "story_count": 74,
+    "oldest_story": "2026-06-11T18:11:10Z",
+    "newest_story": "2026-06-12T18:05:19Z",
     "window_hours": 24
   },
   "stories": [
@@ -38,102 +38,6 @@
       "category": "conflict",
       "significance": 3,
       "section": "world"
-    },
-    {
-      "id": "commentisfree/2026/jun/11/the-guardian-view-on-john-healey-the-defence-secretarys-resignation-undermines-labour-as-well-as-keir-starmer",
-      "headline": "The Guardian view on John Healey: the defence secretary’s resignation undermines Labour as well as Keir Starmer ",
-      "summary": "John Healey resigns as UK defence secretary, criticizing PM Keir Starmer.",
-      "url": "https://www.theguardian.com/p/x596dg",
-      "thumbnail": "https://media.guim.co.uk/24904720879c91b8ee2b19bcd8ea05ad26362f57/506_0_5148_4118/500.jpg",
-      "published": "2026-06-11T18:04:30Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "commentisfree"
-    },
-    {
-      "id": "football/2026/jun/11/they-are-adults-tuchel-grants-england-players-day-off-with-few-strings-attached",
-      "headline": "‘They are adults’: Tuchel grants England players day off with few strings attached",
-      "summary": "Tuchel grants England players day off during World Cup 2026 training camp.",
-      "url": "https://www.theguardian.com/p/x596dv",
-      "thumbnail": "https://media.guim.co.uk/5be9c195205e62cfef739636260122f7db25714e/195_0_2193_1754/500.jpg",
-      "published": "2026-06-11T18:00:22Z",
-      "location": {
-        "name": "Florida",
-        "lat": 27.9947,
-        "lng": -81.7603
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/jun/11/elliot-anderson-england-2026-world-cup-thomas-tuchel-nottingham-forest-manchester-city-transfer",
-      "headline": "Elliot Anderson brings the noise and promise of England linchpin amid City transfer talk",
-      "summary": "Elliot Anderson's rising prospects tied to World Cup success and transfer news.",
-      "url": "https://www.theguardian.com/p/x5967g",
-      "thumbnail": "https://media.guim.co.uk/ae5d087e8047a9f3ead33d57870af785e4d30f97/0_280_4000_3197/500.jpg",
-      "published": "2026-06-11T18:00:22Z",
-      "location": {
-        "name": "Florida",
-        "lat": 27.9947,
-        "lng": -81.7603
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "uk-news/2026/jun/11/woman-fears-separated-unborn-baby-home-office-sends-go-home-letters-husband-daughter",
-      "headline": "Care worker fears being parted from unborn child and family after Home Office ‘go home’ letters",
-      "summary": "Pregnant Scottish care worker fears Home Office separation from family over visas.",
-      "url": "https://www.theguardian.com/p/x58qyz",
-      "thumbnail": "https://media.guim.co.uk/2f3f9ce71d3826b1b45a88e392a3dcfdc662bf65/0_312_900_720/500.jpg",
-      "published": "2026-06-11T17:52:06Z",
-      "location": {
-        "name": "Edinburgh",
-        "lat": 55.9533,
-        "lng": -3.1883
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "uk-news/2026/jun/11/police-psni-plastic-bullets-race-riots-northern-ireland",
-      "headline": "Police fire plastic bullets in effort to contain race riots in Northern Ireland",
-      "summary": "Police fire plastic bullets during race riots in Northern Ireland.",
-      "url": "https://www.theguardian.com/p/x5959h",
-      "thumbnail": "https://media.guim.co.uk/1832d4d97a476b59899465d9b76a286de6daa3bb/1406_25_6651_5320/500.jpg",
-      "published": "2026-06-11T17:45:39Z",
-      "location": {
-        "name": "Belfast",
-        "lat": 54.5973,
-        "lng": -5.9301
-      },
-      "category": "conflict",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "us-news/2026/jun/11/new-york-city-knicks-basketball",
-      "headline": "‘Thank God for the Knicks’: New Yorkers abuzz after historic Game 4 comeback",
-      "summary": "Knicks stage largest NBA finals comeback in history against San Antonio Spurs.",
-      "url": "https://www.theguardian.com/p/x5962v",
-      "thumbnail": "https://media.guim.co.uk/1f9934107dcc5ed616ba4b5ff14624654ca65c79/604_167_2292_1833/500.jpg",
-      "published": "2026-06-11T17:30:04Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "us-news"
     },
     {
       "id": "australia-news/live/2026/jun/12/australia-news-live-richard-marles-aukus-submarine-defence-nato-anthony-albanese-pauline-hanson-labor-one-nation-cost-of-living-ntwnfb",
@@ -966,6 +870,326 @@
       "category": "culture",
       "significance": 1,
       "section": "culture"
+    },
+    {
+      "id": "world/2026/jun/12/trump-rollercoaster-deal-us-iran",
+      "headline": "Chaotic talks on a US-Iran deal continue on the Trump rollercoaster",
+      "summary": "Trump claims US-Iran peace deal imminent amid volatile rhetoric and market swings.",
+      "url": "https://www.theguardian.com/p/x59b5g",
+      "thumbnail": "https://media.guim.co.uk/b7b9d63c608b7bc88ca392cea879d7bd4a9a69a8/613_0_6880_5504/500.jpg",
+      "published": "2026-06-12T18:05:19Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "sport/live/2026/jun/12/england-v-sri-lanka-womens-t20-world-cup-opener-live",
+      "headline": "England v Sri Lanka: Women’s T20 Cricket World Cup opener – live",
+      "summary": "England women's cricket opens T20 World Cup against Sri Lanka at Edgbaston.",
+      "url": "https://www.theguardian.com/p/x58yjg",
+      "thumbnail": "https://media.guim.co.uk/32ea1287753d75822461c8144c78e4f2247cf1af/482_136_3162_2530/500.jpg",
+      "published": "2026-06-12T18:04:31Z",
+      "location": {
+        "name": "Birmingham",
+        "lat": 52.5086,
+        "lng": -1.8853
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "sport"
+    },
+    {
+      "id": "football/live/2026/jun/12/canada-v-bosnia-and-herzegovina-world-cup-2026-live",
+      "headline": "Canada v Bosnia and Herzegovina: World Cup 2026 – live",
+      "summary": "Canada opens World Cup 2026 against Bosnia and Herzegovina in Toronto.",
+      "url": "https://www.theguardian.com/p/x58yt8",
+      "thumbnail": "https://media.guim.co.uk/3e5c9b5a019f01b5d2a60ac4a10fea9c4bc6f02f/613_0_4616_3694/500.jpg",
+      "published": "2026-06-12T18:02:30Z",
+      "location": {
+        "name": "Toronto",
+        "lat": 43.6532,
+        "lng": -79.3832
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "uk-news/2026/jun/12/asylum-seekers-essex-hotel-epping-far-right-home-office-ends-contract",
+      "headline": "Asylum seekers removed from Essex hotel targeted by far right as Home Office ends contract",
+      "summary": "Home Office ends asylum seeker contract at Essex hotel targeted by far-right protests.",
+      "url": "https://www.theguardian.com/p/x59c3t",
+      "thumbnail": "https://media.guim.co.uk/aadd9510386c2807ce16cc0797d23ada0b8be926/497_0_4826_3861/500.jpg",
+      "published": "2026-06-12T17:59:43Z",
+      "location": {
+        "name": "Epping",
+        "lat": 51.9934,
+        "lng": 0.1273
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "football/2026/jun/12/rangers-target-hearts-derek-mcinnes-as-replacement-for-danny-rohl",
+      "headline": "Rangers target Derek McInnes from Hearts as replacement for Danny Röhl ",
+      "summary": "Rangers target Hearts manager Derek McInnes to replace departing Danny Röhl.",
+      "url": "https://www.theguardian.com/p/x59c9g",
+      "thumbnail": "https://media.guim.co.uk/832deb146577fccea0756e6adc49195e9cd6eec5/434_104_3566_2852/500.jpg",
+      "published": "2026-06-12T17:56:04Z",
+      "location": {
+        "name": "Glasgow",
+        "lat": 55.8642,
+        "lng": -4.2518
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "uk-news/2026/jun/12/police-arrests-riots-belfast-northern-ireland",
+      "headline": "Number of arrests after riots in Northern Ireland rises to 19 ",
+      "summary": "19 arrested after two nights of rioting in Northern Ireland following knife attack.",
+      "url": "https://www.theguardian.com/p/x59bkc",
+      "thumbnail": "https://media.guim.co.uk/e1d4e03c088f0bc08ca6e8d363b2e7cdefc5a8be/976_188_5090_4072/500.jpg",
+      "published": "2026-06-12T17:48:07Z",
+      "location": {
+        "name": "Belfast",
+        "lat": 54.5973,
+        "lng": -5.9301
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "uk-news/2026/jun/12/briton-jailed-for-goading-us-man-to-kill-himself-on-video-call",
+      "headline": "Briton jailed for goading US man to kill himself on video call",
+      "summary": "British man sentenced to six years for encouraging US citizen's suicide online.",
+      "url": "https://www.theguardian.com/p/x59cv4",
+      "thumbnail": "https://media.guim.co.uk/38214b1542590142c768fc5c5b744bba1c443b5c/983_0_5000_4000/500.jpg",
+      "published": "2026-06-12T17:46:51Z",
+      "location": {
+        "name": "Leeds",
+        "lat": 53.8008,
+        "lng": -1.5491
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "commentisfree/2026/jun/12/spacex-ipo-elon-musk-trillionaire",
+      "headline": "The SpaceX IPO made Musk a trillionaire. The old rules of capitalism no longer apply",
+      "summary": "Elon Musk becomes world's first trillionaire after SpaceX IPO on Nasdaq.",
+      "url": "https://www.theguardian.com/p/x59c49",
+      "thumbnail": "https://media.guim.co.uk/20c903adf384a6569052b4a52bc915cdd44dbaf2/413_0_3175_2540/500.jpg",
+      "published": "2026-06-12T17:40:36Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "economy",
+      "significance": 4,
+      "section": "commentisfree"
+    },
+    {
+      "id": "football/2026/jun/12/thomas-partey-ghana-world-cup-visa-application-to-canada-refused",
+      "headline": "Thomas Partey out of Ghana’s World Cup opener after visa application to Canada refused",
+      "summary": "Ghana's Thomas Partey denied Canadian visa, misses World Cup opener against Panama.",
+      "url": "https://www.theguardian.com/p/x59c6p",
+      "thumbnail": "https://media.guim.co.uk/e4bab68bda93b3ee5cbfb79e0fecd2edd0ec3db7/434_165_3008_2407/500.jpg",
+      "published": "2026-06-12T17:32:52Z",
+      "location": {
+        "name": "Toronto",
+        "lat": 43.6532,
+        "lng": -79.3832
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/jun/12/midland-texas-shooting",
+      "headline": "Texas shooting leaves one person dead and nine others in hospital",
+      "summary": "Texas shooting in Midland kills one, injures nine; suspected shooter dead after standoff.",
+      "url": "https://www.theguardian.com/p/x59cvk",
+      "thumbnail": "https://media.guim.co.uk/de93ce1efd883474e11da16eaf1ece6787b724ce/1209_499_2251_1801/500.jpg",
+      "published": "2026-06-12T17:26:05Z",
+      "location": {
+        "name": "Midland",
+        "lat": 31.9973,
+        "lng": -102.0779
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/jun/12/louisiana-jury-awards-woman-molestation-case-lookback-law",
+      "headline": "Louisiana jury awards $1.1bn to woman who sued over childhood molestation in 1960s",
+      "summary": "Louisiana jury awards $1.1bn to woman over 1960s childhood molestation by stepfather.",
+      "url": "https://www.theguardian.com/p/x59c3f",
+      "thumbnail": "https://media.guim.co.uk/94ce2129d3b1f2481f36e210c6c53902f4e27b19/178_0_5355_4284/500.jpg",
+      "published": "2026-06-12T17:25:50Z",
+      "location": {
+        "name": "Louisiana",
+        "lat": 31.1695,
+        "lng": -91.8749
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "uk-news/2026/jun/12/palestine-action-activists-sentenced-terrorists-damage-elbit-systems-uk-israel",
+      "headline": "Pro-Palestine activists sentenced as terrorists over damage at Israeli arms factory in UK",
+      "summary": "Pro-Palestine activists sentenced as terrorists for damaging Israeli arms factory in UK.",
+      "url": "https://www.theguardian.com/p/x59b4z",
+      "thumbnail": "https://media.guim.co.uk/d6ce424970e4acd2f914de66469cb9ccee998492/629_0_4113_3290/500.jpg",
+      "published": "2026-06-12T17:23:12Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "world/2026/jun/12/ufo-uap-files-us-government-release",
+      "headline": "Latest US release of UFO files reveals strange lights but few hard facts",
+      "summary": "Pentagon releases classified UFO files showing unexplained phenomena with no definitive answers.",
+      "url": "https://www.theguardian.com/p/x59bmp",
+      "thumbnail": "https://media.guim.co.uk/1cb6882282fcda76dc07c2f1a40d31854457dfe8/0_210_606_484/500.jpg",
+      "published": "2026-06-12T17:20:51Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "tech",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "commentisfree/2026/jun/12/the-guardian-view-on-the-makerfield-byelection-andy-burnham-is-looking-to-beat-reforms-politics-of-anger",
+      "headline": "The Guardian view on the Makerfield byelection: Andy Burnham is looking to beat Reform’s politics of anger",
+      "summary": "Labour targets Makerfield byelection win to counter Reform's anti-establishment messaging.",
+      "url": "https://www.theguardian.com/p/x59bn9",
+      "thumbnail": "https://media.guim.co.uk/cbaf9e27e96a4d58fca37de06eacaf4b4087bca4/401_0_7040_5632/500.jpg",
+      "published": "2026-06-12T17:08:01Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "commentisfree"
+    },
+    {
+      "id": "commentisfree/2026/jun/12/the-guardian-view-on-literature-in-wartime-words-do-not-stop-when-the-bombing-begins",
+      "headline": "The Guardian view on literature in wartime: words do not stop when the bombing begins",
+      "summary": "Kyiv literary festival thrives despite war, celebrating Ukrainian culture and writers.",
+      "url": "https://www.theguardian.com/p/x59bmk",
+      "thumbnail": "https://media.guim.co.uk/ed18066a15a4d8b15c9371b49896df13b03d1652/191_0_4688_3750/500.jpg",
+      "published": "2026-06-12T17:07:51Z",
+      "location": {
+        "name": "Kyiv",
+        "lat": 50.4501,
+        "lng": 30.5234
+      },
+      "category": "culture",
+      "significance": 3,
+      "section": "commentisfree"
+    },
+    {
+      "id": "fashion/2026/jun/12/what-world-cup-us-celebrities-get-their-fashion-kicks-from-the-knicks",
+      "headline": "What World Cup? US celebrities get their fashion kicks from the Knicks",
+      "summary": "Taylor Swift and Timothée Chalamet lead NBA finals fashion as Knicks vie for first championship since 1973.",
+      "url": "https://www.theguardian.com/p/x59b2t",
+      "thumbnail": "https://media.guim.co.uk/1a81af0d0c1ef91ade4dcbdd6100ea785be8a1eb/0_388_3225_2579/500.jpg",
+      "published": "2026-06-12T17:00:50Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "fashion"
+    },
+    {
+      "id": "world/2026/jun/12/ugly-scenes-in-belfast-expose-a-broken-politics",
+      "headline": "Ugly scenes in Belfast expose a broken politics",
+      "summary": "Anti-migrant rioting erupts in Belfast as political tensions and social divisions fuel unrest.",
+      "url": "https://www.theguardian.com/p/x59ab7",
+      "thumbnail": "https://media.guim.co.uk/5eb044e2c3e7a08f571ffc430e291e5cd509857a/151_0_2061_1649/500.jpg",
+      "published": "2026-06-12T16:59:44Z",
+      "location": {
+        "name": "Belfast",
+        "lat": 54.5973,
+        "lng": -5.9301
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "politics/2026/jun/12/ten-years-after-the-vote-we-have-some-new-slogans-for-the-brexit-bus",
+      "headline": "Ten years after the vote, we have some new slogans for the Brexit bus",
+      "summary": "Readers debate Brexit's decade-long impact on UK politics and culture following referendum anniversary.",
+      "url": "https://www.theguardian.com/p/x58apn",
+      "thumbnail": "https://media.guim.co.uk/ce73ef542f14c0f84e7736309aa677b70450ad24/89_0_3333_2667/500.jpg",
+      "published": "2026-06-12T16:59:39Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "education/2026/jun/12/from-celtic-culture-to-norman-wisdom-the-english-should-delight-in-their-hybridity",
+      "headline": "From Celtic culture to Norman wisdom, the English should delight in their hybridity",
+      "summary": "Readers discuss English national identity and the Celtic, Viking, and Norman influences on English culture.",
+      "url": "https://www.theguardian.com/p/x5956x",
+      "thumbnail": "https://media.guim.co.uk/1aa02d519de9903d08126c8465cbb608b391e7fa/427_0_4158_3326/500.jpg",
+      "published": "2026-06-12T16:59:24Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "education"
+    },
+    {
+      "id": "music/2026/jun/12/some-of-us-at-the-miners-benefit-gig-went-wild-for-wham",
+      "headline": "Some of us at the miners’ benefit gig went wild for Wham!",
+      "summary": "Reader recalls enthusiastic audience response to Wham! at 1984 miners' benefit concert.",
+      "url": "https://www.theguardian.com/p/x59agx",
+      "thumbnail": "https://media.guim.co.uk/481dd4e12c1476ad7cd5f197cc6093e5034aec3e/621_0_2913_2331/500.jpg",
+      "published": "2026-06-12T16:59:20Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "music"
     }
   ]
 }
