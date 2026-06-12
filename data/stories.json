@@ -1,60 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-12T00:23:12.787Z",
-    "story_count": 61,
-    "oldest_story": "2026-06-11T01:00:02Z",
-    "newest_story": "2026-06-12T00:22:11Z",
+    "generated_at": "2026-06-12T05:13:52.572Z",
+    "story_count": 63,
+    "oldest_story": "2026-06-11T05:54:11Z",
+    "newest_story": "2026-06-12T05:11:43Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "world/2026/jun/11/ukraine-war-briefing-flamingo-missiles-hit-more-far-flung-russian-targets",
-      "headline": "Ukraine war briefing: Flamingo missiles hit more far-flung Russian targets",
-      "summary": "Ukraine strikes Russian military factory 900km from frontline with Flamingo missiles in deepening long-range attacks.",
-      "url": "https://www.theguardian.com/p/x5926b",
-      "thumbnail": "https://media.guim.co.uk/5f0fa95d5a1a25f9333e920e98a8988f6e79755f/0_469_1214_971/500.jpg",
-      "published": "2026-06-11T01:11:52Z",
-      "location": {
-        "name": "Cheboksary",
-        "lat": 56.1439,
-        "lng": 47.2236
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "us-news/2026/jun/10/trump-news-at-a-glance-latest-updates-today",
-      "headline": "Trump news at a glance: president follows through on threats against Iran with fresh strikes",
-      "summary": "US launches second day of strikes against Iran after Apache helicopter downing as ceasefire collapses.",
-      "url": "https://www.theguardian.com/p/x58qg4",
-      "thumbnail": "https://media.guim.co.uk/5cbb79775bfe43767022aeb65ad56d838674fb7b/936_0_4680_3744/500.jpg",
-      "published": "2026-06-11T01:00:02Z",
-      "location": {
-        "name": "Strait of Hormuz",
-        "lat": 26.559,
-        "lng": 56.2674
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "us-news"
-    },
-    {
-      "id": "world/2026/jun/11/aukus-among-australia-worst-foreign-policy-decisions-gareth-evans",
-      "headline": "Aukus is among Australia’s worst foreign policy decisions and requires ‘heroic’ optimism, Gareth Evans says",
-      "summary": "Former foreign minister warns Aukus defense pact among Australia's worst policy decisions amid US-China tensions.",
-      "url": "https://www.theguardian.com/p/x5928y",
-      "thumbnail": "https://media.guim.co.uk/f211b7a54ebf87138bfaa3a4da2fca54734470da/796_341_2470_1976/500.jpg",
-      "published": "2026-06-11T01:00:02Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
     {
       "id": "commentisfree/2026/jun/11/reform-restore-hard-right-poisonous-ideological-divergence",
       "headline": "Reform and Restore are both hard right and poisonous – but their differences could be their undoing",
@@ -982,6 +934,86 @@
       "category": "sport",
       "significance": 4,
       "section": "football"
+    },
+    {
+      "id": "world/2026/jun/12/luisana-and-ana-are-new-to-melbourne-but-their-journey-there-was-totally-different-to-other-refugees",
+      "headline": "Luisana and Ana are new to Melbourne, but their journey there was ‘totally different’ to other refugees",
+      "summary": "Labor settles Venezuelan refugees permanently in Melbourne under new program.",
+      "url": "https://www.theguardian.com/p/x598vt",
+      "thumbnail": "https://media.guim.co.uk/1cf31787d3fb71cc2bebf15bd1c0f5c4efb22004/0_46_1196_956/500.jpg",
+      "published": "2026-06-12T05:11:43Z",
+      "location": {
+        "name": "Melbourne",
+        "lat": -37.8136,
+        "lng": 144.9631
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "environment/2026/jun/12/emergency-hospital-admissions-reduced-london-t-charge-ulez-air-quality",
+      "headline": "Emergency hospital admissions fell after introduction of London’s T-charge and Ulez, study suggests",
+      "summary": "Study shows London's T-charge and ULEZ reduced emergency hospital admissions.",
+      "url": "https://www.theguardian.com/p/x58y54",
+      "thumbnail": "https://media.guim.co.uk/ed73604d12a2cf4dd504c9c3a69794beafe4a079/501_0_4314_3450/500.jpg",
+      "published": "2026-06-12T05:00:36Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "environment"
+    },
+    {
+      "id": "politics/2026/jun/12/pro-palestine-activists-believe-sea-change-labour-approach-middle-east-israel",
+      "headline": "Pro-Palestine activists believe ‘sea change’ coming in Labour’s approach to Middle East",
+      "summary": "Pro-Palestine activists expect Labour government to toughen stance on Israel.",
+      "url": "https://www.theguardian.com/p/x57y8n",
+      "thumbnail": "https://media.guim.co.uk/55adafd8f79429005e9012a5dc9edb0ec775bdb8/810_23_3750_2999/500.jpg",
+      "published": "2026-06-12T05:00:35Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "environment/2026/jun/12/country-diary-the-grisly-beauty-of-an-otter-postmortem",
+      "headline": "Country diary: The grisly beauty of an otter postmortem",
+      "summary": "Cardiff University's Otter Project conducts postmortem on deceased otter from Wales.",
+      "url": "https://www.theguardian.com/p/x57ptz",
+      "thumbnail": "https://media.guim.co.uk/9e1d29d921bb2488508d6b072611fb3441697e4f/0_432_1200_960/500.jpg",
+      "published": "2026-06-12T04:30:34Z",
+      "location": {
+        "name": "Cardiff",
+        "lat": 51.4816,
+        "lng": -3.1791
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "environment"
+    },
+    {
+      "id": "australia-news/2026/jun/12/matt-canavan-nationals-one-nation-pauline-hanson-seat-sharing-agreement",
+      "headline": "Matt Canavan rejects calls for seat-sharing agreement with One Nation",
+      "summary": "Nationals leader rejects seat-sharing agreement with One Nation for election.",
+      "url": "https://www.theguardian.com/p/x598g8",
+      "thumbnail": "https://media.guim.co.uk/9c5a987042dc0a908732ca3dd526bc93e1aa496e/0_0_4371_3497/500.jpg",
+      "published": "2026-06-12T04:15:46Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
     }
   ]
 }
