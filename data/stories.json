@@ -1,76 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-12T22:08:28.210Z",
-    "story_count": 85,
-    "oldest_story": "2026-06-11T22:08:28Z",
-    "newest_story": "2026-06-12T22:00:56Z",
+    "generated_at": "2026-06-12T23:50:37.330Z",
+    "story_count": 81,
+    "oldest_story": "2026-06-12T00:22:11Z",
+    "newest_story": "2026-06-12T23:01:00Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "uk-news/2026/jun/11/counter-terror-unit-investigates-triple-stabbing-at-school-in-manchester",
-      "headline": "Girl, 14, charged in connection with triple stabbing at school in Manchester",
-      "summary": "14-year-old girl charged in triple stabbing at Manchester school; counter-terrorism unit investigates.",
-      "url": "https://www.theguardian.com/p/x596zy",
-      "thumbnail": "https://media.guim.co.uk/98a1e1ba1ffe91086237b36c003d28dfbccbe8ae/863_0_5000_4000/500.jpg",
-      "published": "2026-06-11T22:35:51Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4808,
-        "lng": -2.2426
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "uk-news"
-    },
-    {
-      "id": "football/2026/jun/11/petrol-bombs-bricks-hurled-mexican-police-unrest-azteca-world-cup",
-      "headline": "Petrol bombs and bricks hurled at Mexican police during pre-match unrest at Azteca",
-      "summary": "Violence erupts outside Azteca Stadium during World Cup opener as ticketless fans clash with police.",
-      "url": "https://www.theguardian.com/p/x597kc",
-      "thumbnail": "https://media.guim.co.uk/36fefbd96d6e716369b64251f1e8d8170686cfcd/501_0_5014_4011/500.jpg",
-      "published": "2026-06-11T22:34:17Z",
-      "location": {
-        "name": "Mexico City",
-        "lat": 19.4326,
-        "lng": -99.1332
-      },
-      "category": "sport",
-      "significance": 4,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/jun/11/itv-delivers-feisty-start-to-coverage-and-taunts-bbc-from-glitzy-studio",
-      "headline": "ITV delivers feisty start to World Cup coverage – and taunts BBC from glitzy studio",
-      "summary": "ITV launches World Cup coverage with critique of tournament controversies and ticket prices.",
-      "url": "https://www.theguardian.com/p/x597h2",
-      "thumbnail": "https://media.guim.co.uk/2794744227b8233ee95d48dc4d0df5af0d1361c1/390_0_3898_3119/500.jpg",
-      "published": "2026-06-11T22:25:17Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/jun/11/infantino-rebrand-long-haul-games-five-takeaways-from-world-cup-opener",
-      "headline": "Infantino’s rebrand and long haul games: five takeaways from World Cup opener",
-      "summary": "Mexico hosts World Cup opener at Azteca Stadium; nation celebrates first tournament in 40 years.",
-      "url": "https://www.theguardian.com/p/x594k4",
-      "thumbnail": "https://media.guim.co.uk/c16ea67adcbf8a57188741b3d3f68ee77ff92ecf/688_0_6880_5504/500.jpg",
-      "published": "2026-06-11T22:08:28Z",
-      "location": {
-        "name": "Mexico City",
-        "lat": 19.4326,
-        "lng": -99.1332
-      },
-      "category": "sport",
-      "significance": 4,
-      "section": "football"
-    },
     {
       "id": "football/live/2026/jun/12/fifa-world-cup-2026-live-south-korea-v-czechia-updates-kor-vs-cze-group-a-match-score-latest",
       "headline": "South Korea v Czechia: World Cup 2026 – live",
@@ -82,22 +18,6 @@
         "name": "South Korea",
         "lat": 37.5665,
         "lng": 126.978
-      },
-      "category": "sport",
-      "significance": 4,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/jun/11/jesse-masrch-canada-us-national-anthem-world-cup",
-      "headline": "Jesse Marsch says he had to ‘beg’ US players to sing anthem as he talks up Canada’s pride",
-      "summary": "Canada hosts Bosnia and Herzegovina in World Cup 2026 Group B debut at home.",
-      "url": "https://www.theguardian.com/p/x598vn",
-      "thumbnail": "https://media.guim.co.uk/127a89afbf62439e87d263d759d1fdbc9983c7b5/129_0_5903_4724/500.jpg",
-      "published": "2026-06-11T23:47:46Z",
-      "location": {
-        "name": "Canada",
-        "lat": 56.1304,
-        "lng": -106.3468
       },
       "category": "sport",
       "significance": 4,
@@ -1366,6 +1286,22 @@
       "category": "sport",
       "significance": 3,
       "section": "football"
+    },
+    {
+      "id": "world/2026/jun/13/philippines-earthquake-cleanup-mindanao",
+      "headline": "Philippines picks up the pieces after strongest earthquake in decades ",
+      "summary": "7.8-magnitude earthquake hits southern Philippines, killing at least 55 people.",
+      "url": "https://www.theguardian.com/p/x5986g",
+      "thumbnail": "https://media.guim.co.uk/affba501834c50f856b3d467f7f3e252b0f9aa2e/566_0_4056_3245/500.jpg",
+      "published": "2026-06-12T23:01:00Z",
+      "location": {
+        "name": "Mindanao",
+        "lat": 8,
+        "lng": 125
+      },
+      "category": "climate",
+      "significance": 4,
+      "section": "world"
     }
   ]
 }
