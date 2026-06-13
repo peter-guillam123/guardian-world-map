@@ -1,92 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-13T02:44:32.908Z",
-    "story_count": 84,
-    "oldest_story": "2026-06-12T04:15:46Z",
-    "newest_story": "2026-06-13T02:26:50Z",
+    "generated_at": "2026-06-13T06:42:59.572Z",
+    "story_count": 85,
+    "oldest_story": "2026-06-12T08:27:03Z",
+    "newest_story": "2026-06-13T06:34:03Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "world/2026/jun/12/luisana-and-ana-are-new-to-melbourne-but-their-journey-there-was-totally-different-to-other-refugees",
-      "headline": "Luisana and Ana are new to Melbourne, but their journey there was ‘totally different’ to other refugees",
-      "summary": "Labor settles Venezuelan refugees permanently in Melbourne under new program.",
-      "url": "https://www.theguardian.com/p/x598vt",
-      "thumbnail": "https://media.guim.co.uk/1cf31787d3fb71cc2bebf15bd1c0f5c4efb22004/0_46_1196_956/500.jpg",
-      "published": "2026-06-12T05:11:43Z",
-      "location": {
-        "name": "Melbourne",
-        "lat": -37.8136,
-        "lng": 144.9631
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "environment/2026/jun/12/emergency-hospital-admissions-reduced-london-t-charge-ulez-air-quality",
-      "headline": "Emergency hospital admissions fell after introduction of London’s T-charge and Ulez, study suggests",
-      "summary": "Study shows London's T-charge and ULEZ reduced emergency hospital admissions.",
-      "url": "https://www.theguardian.com/p/x58y54",
-      "thumbnail": "https://media.guim.co.uk/ed73604d12a2cf4dd504c9c3a69794beafe4a079/501_0_4314_3450/500.jpg",
-      "published": "2026-06-12T05:00:36Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "environment"
-    },
-    {
-      "id": "politics/2026/jun/12/pro-palestine-activists-believe-sea-change-labour-approach-middle-east-israel",
-      "headline": "Pro-Palestine activists believe ‘sea change’ coming in Labour’s approach to Middle East",
-      "summary": "Pro-Palestine activists expect Labour government to toughen stance on Israel.",
-      "url": "https://www.theguardian.com/p/x57y8n",
-      "thumbnail": "https://media.guim.co.uk/55adafd8f79429005e9012a5dc9edb0ec775bdb8/810_23_3750_2999/500.jpg",
-      "published": "2026-06-12T05:00:35Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "environment/2026/jun/12/country-diary-the-grisly-beauty-of-an-otter-postmortem",
-      "headline": "Country diary: The grisly beauty of an otter postmortem",
-      "summary": "Cardiff University's Otter Project conducts postmortem on deceased otter from Wales.",
-      "url": "https://www.theguardian.com/p/x57ptz",
-      "thumbnail": "https://media.guim.co.uk/9e1d29d921bb2488508d6b072611fb3441697e4f/0_432_1200_960/500.jpg",
-      "published": "2026-06-12T04:30:34Z",
-      "location": {
-        "name": "Cardiff",
-        "lat": 51.4816,
-        "lng": -3.1791
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "environment"
-    },
-    {
-      "id": "australia-news/2026/jun/12/matt-canavan-nationals-one-nation-pauline-hanson-seat-sharing-agreement",
-      "headline": "Matt Canavan rejects calls for seat-sharing agreement with One Nation",
-      "summary": "Nationals leader rejects seat-sharing agreement with One Nation for election.",
-      "url": "https://www.theguardian.com/p/x598g8",
-      "thumbnail": "https://media.guim.co.uk/9c5a987042dc0a908732ca3dd526bc93e1aa496e/0_0_4371_3497/500.jpg",
-      "published": "2026-06-12T04:15:46Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
     {
       "id": "football/live/2026/jun/12/world-cup-2026-news-updates-live-usa-canada-paraguay-bosnia-herzegovina",
       "headline": "World Cup 2026: Mexico off to winning start; empty seats in Guadalajara; USA and Canada enter fray – live",
@@ -1350,6 +1270,102 @@
       "category": "conflict",
       "significance": 3,
       "section": "us-news"
+    },
+    {
+      "id": "football/2026/jun/13/los-angeles-conjures-up-irresistible-spectacle-as-usa-sparkle-in-opening-act-world-cup-2026",
+      "headline": "Los Angeles conjures up irresistible spectacle as USA sparkle in opening act",
+      "summary": "USA opens 2026 World Cup with impressive victory in Los Angeles under Pochettino.",
+      "url": "https://www.theguardian.com/p/x59dzx",
+      "thumbnail": "https://media.guim.co.uk/bb90d2ad3a61b64f03ca88d4e219144312905aae/156_0_4201_3361/500.jpg",
+      "published": "2026-06-13T06:34:03Z",
+      "location": {
+        "name": "Los Angeles",
+        "lat": 34.0522,
+        "lng": -118.2437
+      },
+      "category": "sport",
+      "significance": 4,
+      "section": "football"
+    },
+    {
+      "id": "politics/2026/jun/13/andy-burnham-public-control-essentials-water-energy",
+      "headline": "Public control of water and energy at heart of Burnham agenda, sources say",
+      "summary": "Andy Burnham plans public takeover of water and energy if he becomes PM.",
+      "url": "https://www.theguardian.com/p/x595kd",
+      "thumbnail": "https://media.guim.co.uk/514c1dba585f8a7e3a4cd85be85b40d18ada33c2/940_0_6880_5504/500.jpg",
+      "published": "2026-06-13T06:00:28Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "money/2026/jun/13/how-doing-a-wash-while-you-watch-the-world-cup-at-2am-could-cut-energy-bills",
+      "headline": "How doing a wash while you watch the World Cup at 2am could cut energy bills",
+      "summary": "UK households can save on energy bills by doing laundry during late-night World Cup matches.",
+      "url": "https://www.theguardian.com/p/x58yvt",
+      "thumbnail": "https://media.guim.co.uk/33e8817d517489ad18dd280d1f3f318591369e55/503_25_2358_1887/500.jpg",
+      "published": "2026-06-13T06:00:07Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "money"
+    },
+    {
+      "id": "uk-news/2026/jun/13/parents-teenagers-children-under-16-social-media-ban-tiktok-instagram",
+      "headline": "UK parents support an under-16 social media ban – but what do their children think?",
+      "summary": "UK parents support under-16 social media ban, but children's views are more divided.",
+      "url": "https://www.theguardian.com/p/x58qcx",
+      "thumbnail": "https://media.guim.co.uk/cf471402f2362e4d55e9ec0d45e51c5a57f3f81e/493_0_4641_3712/500.jpg",
+      "published": "2026-06-13T06:00:06Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "tech",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "tv-and-radio/2026/jun/13/gwed-season-3-comedy-scouse-sitcom-itv",
+      "headline": "G’wed: this underrated gem of a comedy is filthy, heartwarming and packed with ideas",
+      "summary": "G'wed, a Scouse sitcom, tackles class and neurodiversity while delivering dark comedy.",
+      "url": "https://www.theguardian.com/p/x58qtv",
+      "thumbnail": "https://media.guim.co.uk/1d5e4bd27419e83f435176d331545d02cf0f081a/394_0_3000_2400/500.jpg",
+      "published": "2026-06-13T06:00:06Z",
+      "location": {
+        "name": "Liverpool",
+        "lat": 53.4084,
+        "lng": -2.9916
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "tv-and-radio"
+    },
+    {
+      "id": "travel/2026/jun/13/journey-into-the-midnight-sun-solo-road-trip-to-the-top-of-norway",
+      "headline": "Journey into the midnight sun: my solo road trip to the top of Norway",
+      "summary": "Solo campervan journey through Nordic countries explores midnight sun and Nordic solitude.",
+      "url": "https://www.theguardian.com/p/x4tnt7",
+      "thumbnail": "https://media.guim.co.uk/610823bc0056b3f4a9f6894f324ae04a6f4a6e32/0_0_5533_4429/500.jpg",
+      "published": "2026-06-13T06:00:06Z",
+      "location": {
+        "name": "Inari",
+        "lat": 68.0464,
+        "lng": 27.0215
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "travel"
     }
   ]
 }
