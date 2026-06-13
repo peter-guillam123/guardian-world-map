@@ -1,28 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-13T19:53:55.208Z",
-    "story_count": 60,
-    "oldest_story": "2026-06-12T20:12:51Z",
+    "generated_at": "2026-06-13T21:18:44.788Z",
+    "story_count": 57,
+    "oldest_story": "2026-06-12T21:21:13Z",
     "newest_story": "2026-06-13T19:25:38Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "technology/2026/jun/12/police-officer-under-criminal-investigation-over-alleged-use-of-ai",
-      "headline": "Police officer under criminal investigation over alleged use of AI",
-      "summary": "UK police officer under criminal investigation for alleged use of AI to create evidence.",
-      "url": "https://www.theguardian.com/p/x59cfg",
-      "thumbnail": "https://media.guim.co.uk/0c3edebeeb253bbd55651f876437604985aa7658/327_0_2845_2277/500.jpg",
-      "published": "2026-06-12T20:12:51Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "tech",
-      "significance": 2,
-      "section": "technology"
-    },
     {
       "id": "lifeandstyle/2026/jun/12/maternal-blood-test-detect-genetic-conditions-foetus",
       "headline": "Blood test can find thousands of genetic conditions in pregnancy, say scientists",
@@ -178,38 +162,6 @@
         "name": "Vancouver",
         "lat": 49.2827,
         "lng": -123.1207
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "world/2026/jun/13/south-korea-fans-brunch-world-cup-watch-vs-czechia-game",
-      "headline": "South Koreans revel in ‘World Cup brunch’ as time difference sees beers swapped for breakfast",
-      "summary": "South Koreans gather for 'World Cup brunch' as early morning kick-offs see fans ditch routines.",
-      "url": "https://www.theguardian.com/p/x59947",
-      "thumbnail": "https://media.guim.co.uk/4417980ac6f870c817fb5dc1debfa7728995a19d/466_416_3272_2618/500.jpg",
-      "published": "2026-06-12T21:00:55Z",
-      "location": {
-        "name": "Seoul",
-        "lat": 37.5665,
-        "lng": 126.978
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "football/2026/jun/12/scotland-world-cup-football-haiti-steve-clarke",
-      "headline": "Scotland bid to exorcise World Cup ghosts by breaking group stage barrier",
-      "summary": "Scotland faces Haiti in World Cup opener seeking to end group stage curse under Steve Clarke.",
-      "url": "https://www.theguardian.com/p/x59bmn",
-      "thumbnail": "https://media.guim.co.uk/c5aceabd867613b29f0b2200f9c1934b1e6780ca/276_0_2401_1921/500.jpg",
-      "published": "2026-06-12T21:00:55Z",
-      "location": {
-        "name": "Foxborough",
-        "lat": 42.0637,
-        "lng": -71.3155
       },
       "category": "sport",
       "significance": 3,
