@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-06-13T18:07:52.008Z",
-    "story_count": 62,
-    "oldest_story": "2026-06-12T19:26:14Z",
-    "newest_story": "2026-06-13T17:58:00Z",
+    "generated_at": "2026-06-13T19:53:55.208Z",
+    "story_count": 60,
+    "oldest_story": "2026-06-12T20:12:51Z",
+    "newest_story": "2026-06-13T19:25:38Z",
     "window_hours": 24
   },
   "stories": [
@@ -22,70 +22,6 @@
       "category": "tech",
       "significance": 2,
       "section": "technology"
-    },
-    {
-      "id": "football/2026/jun/12/tickets-are-very-expensive-mexican-president-sheinbaum-explains-why-she-did-not-attend-world-cup-opener",
-      "headline": "‘Tickets are very expensive’: Mexican president Sheinbaum explains why she did not attend World Cup opener",
-      "summary": "Mexican president Sheinbaum skipped World Cup opener, gave ticket to young soccer fan citing expense.",
-      "url": "https://www.theguardian.com/p/x59ckf",
-      "thumbnail": "https://media.guim.co.uk/d947212d9bfb92feaf9adce051d6907e9aa09ba3/153_0_1067_854/500.jpg",
-      "published": "2026-06-12T19:51:39Z",
-      "location": {
-        "name": "Mexico City",
-        "lat": 19.4326,
-        "lng": -99.1332
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "us-news/2026/jun/12/fire-california-warehouse-complex-evacuations",
-      "headline": "Fire at California warehouse complex prompts evacuations as authorities fight blaze",
-      "summary": "Large warehouse fire in California destroys medical equipment; authorities warn blaze may take days to extinguish.",
-      "url": "https://www.theguardian.com/p/x59ap8",
-      "thumbnail": "https://media.guim.co.uk/3c967a0f19bb42c9332b8afaa4aaed965c883922/126_0_3779_3024/500.jpg",
-      "published": "2026-06-12T19:48:41Z",
-      "location": {
-        "name": "Tracy",
-        "lat": 37.7396,
-        "lng": -121.4089
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "books/2026/jun/12/failure-was-my-thing-womens-prize-winner-virginia-evans-on-coping-with-years-of-rejection",
-      "headline": "‘Failure was my thing’: Women’s prize winner Virginia Evans on her long journey to success",
-      "summary": "American author Virginia Evans wins Women's Prize after two decades of rejections on her debut novel.",
-      "url": "https://www.theguardian.com/p/x59bmx",
-      "thumbnail": "https://media.guim.co.uk/96fdeb907c2461d5dccd0a53f7af6c7972680826/560_0_5600_4480/500.jpg",
-      "published": "2026-06-12T19:30:02Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "books"
-    },
-    {
-      "id": "us-news/2026/jun/12/fbi-raid-ohio-voting-group-election",
-      "headline": "FBI raid of Ohio voting rights group stokes fear of pre-midterm crackdown ",
-      "summary": "FBI raids Ohio voting rights group ahead of midterms, sparking concerns of Trump administration crackdown.",
-      "url": "https://www.theguardian.com/p/x59cd3",
-      "thumbnail": "https://media.guim.co.uk/ba509194c136420fa9b6bf7f4bfbafdcd7ddec58/0_0_5071_4058/500.jpg",
-      "published": "2026-06-12T19:26:14Z",
-      "location": {
-        "name": "Cleveland",
-        "lat": 41.4993,
-        "lng": -81.6944
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
     },
     {
       "id": "lifeandstyle/2026/jun/12/maternal-blood-test-detect-genetic-conditions-foetus",
@@ -998,6 +934,38 @@
       "category": "other",
       "significance": 1,
       "section": "us-news"
+    },
+    {
+      "id": "film/2026/jun/13/rosamund-pike-keeps-cool-phone-alarm-interrupts-performance-inter-alia",
+      "headline": "Rosamund Pike keeps cool after phone alarm interrupts performance",
+      "summary": "Rosamund Pike handles phone alarm during West End theatre performance calmly.",
+      "url": "https://www.theguardian.com/p/x59hta",
+      "thumbnail": "https://media.guim.co.uk/2f24879ed6b006d197d47df2ff52e2031fc71f63/418_0_4164_3332/500.jpg",
+      "published": "2026-06-13T19:25:38Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "stage"
+    },
+    {
+      "id": "football/2026/jun/13/best-in-asia-no-longer-enough-japan-world-cup-breakthrough",
+      "headline": "Being the best in Asia is no longer enough for Japan seeking World Cup breakthrough ",
+      "summary": "Japan builds squad depth to challenge traditional powers in 2026 World Cup.",
+      "url": "https://www.theguardian.com/p/x59ba4",
+      "thumbnail": "https://media.guim.co.uk/5c82519d5641ea75ba5081123461a3abdbfee8f9/386_82_3603_2883/500.jpg",
+      "published": "2026-06-13T19:00:21Z",
+      "location": {
+        "name": "Japan",
+        "lat": 36.2048,
+        "lng": 138.2529
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
     }
   ]
 }
