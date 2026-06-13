@@ -1,28 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-13T22:34:02.150Z",
-    "story_count": 50,
-    "oldest_story": "2026-06-12T23:01:00Z",
-    "newest_story": "2026-06-13T22:09:35Z",
+    "generated_at": "2026-06-13T23:44:04.537Z",
+    "story_count": 57,
+    "oldest_story": "2026-06-13T01:51:16Z",
+    "newest_story": "2026-06-13T23:42:52Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "world/2026/jun/13/philippines-earthquake-cleanup-mindanao",
-      "headline": "Philippines picks up the pieces after strongest earthquake in decades ",
-      "summary": "7.8-magnitude earthquake hits southern Philippines, killing at least 55 people.",
-      "url": "https://www.theguardian.com/p/x5986g",
-      "thumbnail": "https://media.guim.co.uk/affba501834c50f856b3d467f7f3e252b0f9aa2e/566_0_4056_3245/500.jpg",
-      "published": "2026-06-12T23:01:00Z",
-      "location": {
-        "name": "Mindanao",
-        "lat": 8,
-        "lng": 125
-      },
-      "category": "climate",
-      "significance": 4,
-      "section": "world"
-    },
     {
       "id": "football/2026/jun/12/cyle-larin-canada-world-cup-goal",
       "headline": "Cyle Larin’s strike unleashes joy and saves Canada from the curse of ‘almost’",
@@ -806,6 +790,134 @@
       "category": "politics",
       "significance": 2,
       "section": "education"
+    },
+    {
+      "id": "football/live/2026/jun/13/brazil-v-morocco-world-cup-2026-live",
+      "headline": "Brazil v Morocco: World Cup 2026 – live",
+      "summary": "Brazil faces Morocco in World Cup 2026 opener with 82,500 attendance at tournament final site.",
+      "url": "https://www.theguardian.com/p/x59cxz",
+      "thumbnail": "https://media.guim.co.uk/2217df044fb7ab448a11a82b7a9427667ea00efe/229_0_3514_2813/500.jpg",
+      "published": "2026-06-13T23:42:52Z",
+      "location": {
+        "name": "United States",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "football/live/2026/jun/14/haiti-v-scotland-world-cup-2026-live",
+      "headline": "Haiti v Scotland: World Cup 2026 – live",
+      "summary": "Scotland returns to World Cup stage against Haiti in Group E match.",
+      "url": "https://www.theguardian.com/p/x58q6n",
+      "thumbnail": "https://media.guim.co.uk/70c3a1c0257b8842f9c6190f773ea9dd147182e3/381_0_4775_3820/500.jpg",
+      "published": "2026-06-13T23:40:36Z",
+      "location": {
+        "name": "United States",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "sport/live/2026/jun/13/nba-finals-new-york-knicks-san-antonio-spurs-live",
+      "headline": "NBA finals: Knicks face Spurs in Game 5 with chance to clinch first title since 1973 – follow live",
+      "summary": "Knicks seek first title since 1973 against Spurs in NBA Finals Game 5.",
+      "url": "https://www.theguardian.com/p/x59c24",
+      "thumbnail": "https://media.guim.co.uk/00387d4a2d002e235c9172b894a4254ac97cd49c/296_0_4615_3691/500.jpg",
+      "published": "2026-06-13T23:39:44Z",
+      "location": {
+        "name": "San Antonio",
+        "lat": 29.4241,
+        "lng": -98.4936
+      },
+      "category": "sport",
+      "significance": 4,
+      "section": "sport"
+    },
+    {
+      "id": "australia-news/live/2026/jun/14/australia-news-live-jonathon-duniam-senator-retire-liberal-national-coalition-labor-albanese-taylor-one-nation-sydney-nsw-victoria-high-court-ntwnfb",
+      "headline": "Australia news live: Jonathon Duniam to retire from politics; father and daughter found dead in Sydney river ",
+      "summary": "Tasmanian Liberal senator Jonathon Duniam announces retirement from parliament before year end.",
+      "url": "https://www.theguardian.com/p/x59tjz",
+      "thumbnail": "https://media.guim.co.uk/82731c99903d1ef0503b405606f45f8a9f6b3a9e/320_0_6880_5504/500.jpg",
+      "published": "2026-06-13T23:36:47Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "australia-news/2026/jun/14/there-was-a-lot-of-blood-in-the-water-paddeboarder-rescues-woman-after-shocking-coogee-shark-attack",
+      "headline": "‘There was a lot of blood in the water’: paddleboarder rescues woman after ‘shocking’ Coogee shark attack",
+      "summary": "Paddleboarder rescues woman after shark attack at Coogee beach in Sydney.",
+      "url": "https://www.theguardian.com/p/x59tkk",
+      "thumbnail": "https://media.guim.co.uk/1baf314b640af76239b76b1da933a0bb9767a902/250_0_2500_2000/500.jpg",
+      "published": "2026-06-13T23:10:21Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "us-news/2026/jun/13/california-warehouse-fire-tracy",
+      "headline": "Blaze at 1m-sq-ft California warehouse rages into third day: ‘We’re struggling’",
+      "summary": "Major warehouse fire at Medline Industries in Tracy, California enters third day.",
+      "url": "https://www.theguardian.com/p/x59tfk",
+      "thumbnail": "https://media.guim.co.uk/8fa33cf697677ffec28198f89a0ecd274e572b2d/215_0_2936_2349/500.jpg",
+      "published": "2026-06-13T23:00:13Z",
+      "location": {
+        "name": "Tracy",
+        "lat": 37.7392,
+        "lng": -121.2723
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "business/2026/jun/13/bran-flakes-classed-junk-food-uk-guidelines-to-promote-healthy-eating",
+      "headline": "Bran flakes could be classed as junk food under new healthy eating guidelines ",
+      "summary": "UK government updates healthy eating guidelines to classify bran flakes as junk food.",
+      "url": "https://www.theguardian.com/p/x59tk5",
+      "thumbnail": "https://media.guim.co.uk/b468aab7e987094825b5622b3e89056737399992/0_662_2728_2181/500.jpg",
+      "published": "2026-06-13T22:55:18Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "football/2026/jun/13/no-soccer-fans-here-world-cup-fever-fails-to-grip-texas-republicans",
+      "headline": "‘No soccer fans here’: World Cup fever fails to grip Texas Republicans ",
+      "summary": "GOP convention in World Cup host city Houston shows minimal enthusiasm for soccer tournament.",
+      "url": "https://www.theguardian.com/p/x59tep",
+      "thumbnail": "https://media.guim.co.uk/c96be081b009e5ba2b1ae59b5348e16675be5aa6/436_0_7035_5628/500.jpg",
+      "published": "2026-06-13T22:39:46Z",
+      "location": {
+        "name": "Houston",
+        "lat": 29.7604,
+        "lng": -95.3698
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
     }
   ]
 }
