@@ -1,236 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-13T06:42:59.572Z",
-    "story_count": 85,
-    "oldest_story": "2026-06-12T08:27:03Z",
-    "newest_story": "2026-06-13T06:34:03Z",
+    "generated_at": "2026-06-13T09:47:20.746Z",
+    "story_count": 78,
+    "oldest_story": "2026-06-12T11:30:44Z",
+    "newest_story": "2026-06-13T09:44:46Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/live/2026/jun/12/world-cup-2026-news-updates-live-usa-canada-paraguay-bosnia-herzegovina",
-      "headline": "World Cup 2026: Mexico off to winning start; empty seats in Guadalajara; USA and Canada enter fray – live",
-      "summary": "Mexico wins World Cup 2026 opener; Canada and USA begin campaigns amid tournament coverage.",
-      "url": "https://www.theguardian.com/p/x58yye",
-      "thumbnail": "https://media.guim.co.uk/87acec9a5fc66674b4d998148273f064f7de05ae/0_70_4912_3930/500.jpg",
-      "published": "2026-06-12T09:11:56Z",
-      "location": {
-        "name": "Guadalajara",
-        "lat": 20.6597,
-        "lng": -103.2494
-      },
-      "category": "sport",
-      "significance": 4,
-      "section": "football"
-    },
-    {
-      "id": "politics/live/2026/jun/12/keir-starmer-defence-investment-plan-spending-dan-jarvis-al-cairns-john-healey-latest-news-updates",
-      "headline": "Starmer’s leadership under further pressure after defence ministers quit – UK politics live",
-      "summary": "Two UK defence ministers resign over Starmer's defence investment plan, pressuring leadership.",
-      "url": "https://www.theguardian.com/p/x599jp",
-      "thumbnail": "https://media.guim.co.uk/0f8146f326fd33cd354c7be5046305a0cd02fc52/2261_232_4933_3949/500.jpg",
-      "published": "2026-06-12T09:05:57Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "politics"
-    },
-    {
-      "id": "sport/2026/jun/12/the-glastonbury-of-motorsport-how-silverstone-became-the-biggest-gp-in-f1-history",
-      "headline": "The Glastonbury of motorsport: How Silverstone became the biggest GP in F1 history",
-      "summary": "British GP at Silverstone set to break F1 attendance record with 570,000 spectators in July.",
-      "url": "https://www.theguardian.com/p/x562yf",
-      "thumbnail": "https://media.guim.co.uk/407dfe128efbfe87f8f5f3ba22146933d1c915e4/419_0_4199_3358/500.jpg",
-      "published": "2026-06-12T09:04:41Z",
-      "location": {
-        "name": "Silverstone",
-        "lat": 52.0786,
-        "lng": -1.0169
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "sport"
-    },
-    {
-      "id": "football/2026/jun/12/tartan-army-toast-scotland-world-cup-return-boston",
-      "headline": "Tartan Army toast Scotland’s World Cup return: ‘It’s a once-in-a-lifetime opportunity’",
-      "summary": "Scottish World Cup fans gather in Boston as base for 2026 tournament campaign.",
-      "url": "https://www.theguardian.com/p/x598gy",
-      "thumbnail": "https://media.guim.co.uk/ce519ad413afe69397e857066f41b752c04811f4/449_0_4588_3673/500.jpg",
-      "published": "2026-06-12T09:00:42Z",
-      "location": {
-        "name": "Boston",
-        "lat": 42.3601,
-        "lng": -71.0589
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "stage/2026/jun/12/the-long-drop-review-denise-mina-citizens-theatre-glasgow",
-      "headline": "The Long Drop review – Denise Mina’s whisky-soaked tale of triple murder is horribly gripping",
-      "summary": "Citizens Theatre stages Denise Mina's 'The Long Drop' depicting notorious Glasgow triple murder.",
-      "url": "https://www.theguardian.com/p/x5947v",
-      "thumbnail": "https://media.guim.co.uk/082b24b7fa3a66e15274fe97caadffc842204b8e/1501_867_5797_4637/500.jpg",
-      "published": "2026-06-12T09:00:41Z",
-      "location": {
-        "name": "Glasgow",
-        "lat": 55.8642,
-        "lng": -4.2518
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "stage"
-    },
-    {
-      "id": "business/2026/jun/12/ai-ipos-stock-market",
-      "headline": "After SpaceX’s huge IPO, Americans’ financial future will be bound to AI",
-      "summary": "SpaceX IPO signals surge of AI companies entering stock market with major valuations.",
-      "url": "https://www.theguardian.com/p/x58nzz",
-      "thumbnail": "https://media.guim.co.uk/e8a76ede198244d8e4c08c2ccf3ec9e499fa3627/1_0_2999_2400/500.jpg",
-      "published": "2026-06-12T09:00:41Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "business"
-    },
-    {
-      "id": "uk-news/2026/jun/12/they-are-thugs-thriving-on-division-residents-voice-disgust-and-shame-at-belfast-rioters",
-      "headline": "‘They are thugs thriving on division’: residents voice disgust and shame at Belfast rioters",
-      "summary": "Belfast residents express anger over riots following stabbing, disrupting daily life and healthcare.",
-      "url": "https://www.theguardian.com/p/x5954g",
-      "thumbnail": "https://media.guim.co.uk/4b5381180cd797e3a314bd3c90bb363ae9179807/924_449_4022_3218/500.jpg",
-      "published": "2026-06-12T09:00:41Z",
-      "location": {
-        "name": "Belfast",
-        "lat": 54.5973,
-        "lng": -5.9301
-      },
-      "category": "conflict",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "science/2026/jun/12/spacex-stock-price-ipo-spcx",
-      "headline": "SpaceX to list on US stock market at $1.77tn valuation in largest ever debut",
-      "summary": "SpaceX IPO on Wall Street valued at $1.77tn marks largest stock market debut ever.",
-      "url": "https://www.theguardian.com/p/x597am",
-      "thumbnail": "https://media.guim.co.uk/16dc5a1aa8616c5301ccdcda329741cfb959c55b/0_0_5000_3333/500.jpg",
-      "published": "2026-06-12T09:00:40Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "economy",
-      "significance": 4,
-      "section": "science"
-    },
-    {
-      "id": "world/2026/jun/12/air-india-crash-ai171-bereaved-families-seek-closure-one-year-on",
-      "headline": "‘I only want justice’: bereaved families seek closure one year on from Air India crash",
-      "summary": "Air India crash victims' families seek closure one year after flight AI171 disaster.",
-      "url": "https://www.theguardian.com/p/x59672",
-      "thumbnail": "https://media.guim.co.uk/20191cf51a3e281670cbe5416d42459d542f6f79/39_14_999_799/500.jpg",
-      "published": "2026-06-12T09:00:40Z",
-      "location": {
-        "name": "Ahmedabad",
-        "lat": 23.0225,
-        "lng": 72.5714
-      },
-      "category": "health",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "business/live/2026/jun/12/spacex-float-us-stock-market-share-elon-musk-trillionaire-largest-ipo-ever-live-news-updates",
-      "headline": "SpaceX to list on US stock market today after raising $75bn in largest IPO ever – business live",
-      "summary": "SpaceX completes record-breaking $1.77tn IPO in largest stock market debut in history.",
-      "url": "https://www.theguardian.com/p/x599ee",
-      "thumbnail": "https://media.guim.co.uk/ccf55a630231170bd8699b8270f2df11fac491ca/0_0_4159_3328/500.jpg",
-      "published": "2026-06-12T08:59:49Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "economy",
-      "significance": 4,
-      "section": "business"
-    },
-    {
-      "id": "world/live/2026/jun/12/middle-east-crisis-live-us-iran-israel-lebanon-trump-hormuz-oil-peace-deal-doubt-latest-news-updates",
-      "headline": "Middle East crisis live: Iran says no final peace agreement reached, after Trump claims deal could be signed soon",
-      "summary": "Iran denies final peace deal with US; Trump claims breakthrough amid Strait of Hormuz tensions.",
-      "url": "https://www.theguardian.com/p/x598ej",
-      "thumbnail": "https://media.guim.co.uk/95af2005406bd72196d819085cdb6d249b7a84bb/516_0_4583_3667/500.jpg",
-      "published": "2026-06-12T08:49:02Z",
-      "location": {
-        "name": "Tehran",
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "music/2026/jun/12/ariana-grande-rebukes-white-house-music-ice-video",
-      "headline": "Ariana Grande rebukes White House for using her music in ‘barbaric, inhumane’ ICE video",
-      "summary": "Ariana Grande condemns Trump White House for using her music in ICE immigration video.",
-      "url": "https://www.theguardian.com/p/x599zf",
-      "thumbnail": "https://media.guim.co.uk/03c6c6bbe1b110cbd79fe53b04d968a01ee5bd3d/955_0_5045_4034/500.jpg",
-      "published": "2026-06-12T08:41:26Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "music"
-    },
-    {
-      "id": "environment/2026/jun/12/weather-tracker-heat-humidity-thunderstorms-risk-world-cup",
-      "headline": "Weather tracker: heat, humidity and thunderstorms pose risk to World Cup",
-      "summary": "2026 World Cup faces weather challenges across 16 North American cities during summer tournament.",
-      "url": "https://www.theguardian.com/p/x599n4",
-      "thumbnail": "https://media.guim.co.uk/b5325b297ba1f4e54c353c2ba35562e3c30c2166/750_0_4887_3909/500.jpg",
-      "published": "2026-06-12T08:40:14Z",
-      "location": {
-        "name": "United States",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "sport",
-      "significance": 4,
-      "section": "football"
-    },
-    {
-      "id": "politics/2026/jun/12/uk-defence-plan-underfunded-outdated-al-carns-resignation",
-      "headline": "UK’s defence plan is underfunded and outdated, says Al Carns after resignation",
-      "summary": "UK defence minister resigns, criticizing government's underfunded and outdated military spending plans.",
-      "url": "https://www.theguardian.com/p/x599zn",
-      "thumbnail": "https://media.guim.co.uk/a155db836deb474ea256f5bca95a0fb35b023d54/620_0_4601_3681/500.jpg",
-      "published": "2026-06-12T08:27:03Z",
-      "location": {
-        "name": "United Kingdom",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
     {
       "id": "sport/live/2026/jun/12/nottinghamshire-v-somerset-yorkshire-v-warwickshire-and-more-county-cricket-day-one-live",
       "headline": "Nottinghamshire v Somerset, Yorkshire v Warwickshire, and more: county cricket, day one – live",
@@ -1366,6 +1142,118 @@
       "category": "culture",
       "significance": 1,
       "section": "travel"
+    },
+    {
+      "id": "sport/live/2026/jun/13/scotland-v-ireland-womens-t20-world-cup-live",
+      "headline": "Scotland v Ireland: Women’s T20 World Cup – live",
+      "summary": "Scotland face Ireland in Women's T20 World Cup match at Old Trafford.",
+      "url": "https://www.theguardian.com/p/x58q8k",
+      "thumbnail": "https://media.guim.co.uk/256dc25d3bb2bddd7947363f3404ab734cd181ce/1065_522_3656_2924/500.jpg",
+      "published": "2026-06-13T09:44:46Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4831,
+        "lng": -2.2344
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "sport"
+    },
+    {
+      "id": "football/live/2026/jun/13/world-cup-2026-usa-light-up-la-englands-boots-stolen-scotlands-big-return-live",
+      "headline": "World Cup 2026: USA light up LA; England’s boots stolen; Scotland’s big return – live",
+      "summary": "World Cup 2026 continues in USA with USA defeating Paraguay 4-1 in LA.",
+      "url": "https://www.theguardian.com/p/x58q5h",
+      "thumbnail": "https://media.guim.co.uk/451474516fd5a0f34d1110a7eabbe546c9f4de82/958_0_4697_3758/500.jpg",
+      "published": "2026-06-13T09:42:22Z",
+      "location": {
+        "name": "Los Angeles",
+        "lat": 34.0522,
+        "lng": -118.2437
+      },
+      "category": "sport",
+      "significance": 4,
+      "section": "football"
+    },
+    {
+      "id": "sport/live/2026/jun/13/nottinghamshire-v-somerset-yorkshire-v-warwickshire-and-more-county-cricket-day-two-live",
+      "headline": "Nottinghamshire v Somerset, Yorkshire v Warwickshire, and more: county cricket, day two – live",
+      "summary": "County Championship cricket day two features Nottinghamshire v Somerset.",
+      "url": "https://www.theguardian.com/p/x58qa4",
+      "thumbnail": "https://media.guim.co.uk/42ba90ff0169d02e62dda103ee107c39831d1939/0_0_5788_4632/500.jpg",
+      "published": "2026-06-13T09:20:49Z",
+      "location": {
+        "name": "Nottingham",
+        "lat": 52.9549,
+        "lng": -1.1084
+      },
+      "category": "sport",
+      "significance": 1,
+      "section": "sport"
+    },
+    {
+      "id": "football/2026/jun/13/david-beckham-joins-hollywood-walk-of-fame-world-cup",
+      "headline": "David Beckham joins Hollywood Walk of Fame as World Cup comes to LA",
+      "summary": "David Beckham receives Hollywood Walk of Fame star as World Cup comes to LA.",
+      "url": "https://www.theguardian.com/p/x59ff6",
+      "thumbnail": "https://media.guim.co.uk/32ae15e1e84130ca85894cc461acd43b18778a86/85_0_4707_3768/500.jpg",
+      "published": "2026-06-13T09:09:43Z",
+      "location": {
+        "name": "Los Angeles",
+        "lat": 34.0522,
+        "lng": -118.2437
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/jun/13/trump-ufc-birthday-white-house",
+      "headline": "Seven fights on the South Lawn: Trump prepares for UFC birthday spectacle at White House",
+      "summary": "Trump hosts UFC event at White House for his 80th birthday celebration.",
+      "url": "https://www.theguardian.com/p/x59xj3",
+      "thumbnail": "https://media.guim.co.uk/8ce559b80ee07909fd893c6200fb03bf6a7d9e79/141_0_4049_3239/500.jpg",
+      "published": "2026-06-13T09:00:10Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "business/2026/jun/13/uk-music-festivals-higher-costs-secret-garden-party-womad-glasgow",
+      "headline": "‘We eat and drink risk’: higher costs bring curtain down on more UK music festivals",
+      "summary": "UK music festivals face closure due to rising costs; Womad Glasgow event cancelled.",
+      "url": "https://www.theguardian.com/p/x595mg",
+      "thumbnail": "https://media.guim.co.uk/ac36a2a572ca996527e78496474afae3a0419f76/599_170_3796_3037/500.jpg",
+      "published": "2026-06-13T09:00:09Z",
+      "location": {
+        "name": "Glasgow",
+        "lat": 55.8642,
+        "lng": -4.2518
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "film/2026/jun/13/stop-that-train-film-drag-comedy",
+      "headline": "‘A movie for everyone, not just Drag Race fans’: stars of drag comedy Stop! That! Train! on making the summer’s funniest film",
+      "summary": "Drag comedy film 'Stop! That! Train!' brings Airplane-style parody to cinemas.",
+      "url": "https://www.theguardian.com/p/x59ck3",
+      "thumbnail": "https://media.guim.co.uk/18e498b4e64cef35cc78474866793e594ec741dd/657_0_6634_5307/500.jpg",
+      "published": "2026-06-13T09:00:09Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "film"
     }
   ]
 }
