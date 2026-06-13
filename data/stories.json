@@ -1,172 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-13T21:18:44.788Z",
-    "story_count": 57,
-    "oldest_story": "2026-06-12T21:21:13Z",
-    "newest_story": "2026-06-13T19:25:38Z",
+    "generated_at": "2026-06-13T22:34:02.150Z",
+    "story_count": 50,
+    "oldest_story": "2026-06-12T23:01:00Z",
+    "newest_story": "2026-06-13T22:09:35Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "lifeandstyle/2026/jun/12/maternal-blood-test-detect-genetic-conditions-foetus",
-      "headline": "Blood test can find thousands of genetic conditions in pregnancy, say scientists",
-      "summary": "New maternal blood test can detect thousands of genetic conditions in developing foetus, researchers announce.",
-      "url": "https://www.theguardian.com/p/x59665",
-      "thumbnail": "https://media.guim.co.uk/856fafdb8ac7d8e6be8d1bc81e36b3377dd99b06/960_0_4800_3840/500.jpg",
-      "published": "2026-06-12T22:00:56Z",
-      "location": {
-        "name": "Gothenburg",
-        "lat": 57.7089,
-        "lng": 11.9746
-      },
-      "category": "health",
-      "significance": 3,
-      "section": "lifeandstyle"
-    },
-    {
-      "id": "football/live/2026/jun/12/usa-v-paraguay-world-cup-2026-live",
-      "headline": "USA v Paraguay: World Cup 2026 – live",
-      "summary": "USA faces Paraguay in World Cup 2026 opener in California as co-hosts begin their campaign.",
-      "url": "https://www.theguardian.com/p/x59cx7",
-      "thumbnail": "https://media.guim.co.uk/6460d473d5b1073fd182963a70d79112e71e4c33/226_0_2261_1809/500.jpg",
-      "published": "2026-06-12T21:56:40Z",
-      "location": {
-        "name": "Inglewood",
-        "lat": 33.9611,
-        "lng": -118.353
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "us-news/2026/jun/12/trump-la-homeless-agency-cuts",
-      "headline": "Trump officials cut federal funds to LA homeless services agency",
-      "summary": "Trump administration suspends federal funding to LA's homelessness agency amid California disputes.",
-      "url": "https://www.theguardian.com/p/x59dxf",
-      "thumbnail": "https://media.guim.co.uk/4f678cd13741b79dae626cd29d5fb3e15c00ec71/250_0_2500_2000/500.jpg",
-      "published": "2026-06-12T21:52:49Z",
-      "location": {
-        "name": "Los Angeles",
-        "lat": 34.0522,
-        "lng": -118.2437
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "uk-news/2026/jun/12/king-charles-birthday-honours-list-helen-mirren-lionesses-football",
-      "headline": "Helen Mirren and six Lionesses receive honours for King Charles’s birthday",
-      "summary": "Helen Mirren and six Lionesses receive honours in King Charles's birthday honours list.",
-      "url": "https://www.theguardian.com/p/x59apk",
-      "thumbnail": "https://media.guim.co.uk/474c2dadb3b63e4aebd3e1af46dbf26bfa219a29/998_803_2379_1902/500.jpg",
-      "published": "2026-06-12T21:30:56Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "sport/2026/jun/12/kevin-sinfield-knighted-kings-birthday-honours-list-rugby-league",
-      "headline": "Arise, Sir Kevin: Sinfield knighted in king’s birthday honours list",
-      "summary": "Rugby league legend Kevin Sinfield knighted for raising over £11m for motor neurone disease.",
-      "url": "https://www.theguardian.com/p/x59a82",
-      "thumbnail": "https://media.guim.co.uk/7514fcd4788a6c1bf1084e5f3cc48119ead10b7a/1193_712_2322_1858/500.jpg",
-      "published": "2026-06-12T21:30:56Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "uk-news/2026/jun/12/merope-mills-cbe-kings-birthday-honours-list-marthas-rule",
-      "headline": "Merope Mills awarded CBE in king’s honours list for Martha’s rule campaign",
-      "summary": "Journalist Merope Mills awarded CBE for driving Martha's Rule patient safety campaign.",
-      "url": "https://www.theguardian.com/p/x59bm8",
-      "thumbnail": "https://media.guim.co.uk/ec9a0cf7a27448c9ad2a9c0ae7f96c08f978988d/181_175_1356_1085/500.jpg",
-      "published": "2026-06-12T21:30:55Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "sport/2026/jun/12/wyatt-hodge-fires-england-to-opening-win-over-sri-lanka-at-womens-t20-world-cup",
-      "headline": "Wyatt-Hodge fires England to Women’s T20 World Cup record score to sink Sri Lanka",
-      "summary": "England's Danni Wyatt-Hodge scores 105 not out to thrash Sri Lanka in Women's T20 World Cup opener.",
-      "url": "https://www.theguardian.com/p/x599p3",
-      "thumbnail": "https://media.guim.co.uk/cfe9bede5645f57ccc397b5fcda189f84c75388b/333_0_3333_2666/500.jpg",
-      "published": "2026-06-12T21:28:50Z",
-      "location": {
-        "name": "Birmingham",
-        "lat": 52.5086,
-        "lng": -1.8853
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "sport"
-    },
-    {
-      "id": "sport/2026/jun/12/katie-boulter-stuns-rybakina-for-biggest-win-after-raducanu-starts-queens-party",
-      "headline": "Katie Boulter stuns Rybakina for biggest win after Raducanu starts Queen’s party",
-      "summary": "Katie Boulter beats Rybakina in her greatest victory while Raducanu wins at Queen's.",
-      "url": "https://www.theguardian.com/p/x599qf",
-      "thumbnail": "https://media.guim.co.uk/ac0d84c7daac3db7170bcc4472ab0f66b452d6b9/250_0_2461_1968/500.jpg",
-      "published": "2026-06-12T21:23:58Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "sport/2026/jun/12/george-furbank-gives-saints-farewell-gift-to-seal-thrilling-playoff-win-against-leicester",
-      "headline": "George Furbank gives Saints farewell gift to seal thrilling playoff win against Leicester",
-      "summary": "Northampton beats Leicester 45-31 with George Furbank's farewell performance to reach Prem final.",
-      "url": "https://www.theguardian.com/p/x599pj",
-      "thumbnail": "https://media.guim.co.uk/de6171eca41339b7b2a60feb9a3d4c0ff01b2b38/508_0_3844_3075/500.jpg",
-      "published": "2026-06-12T21:21:21Z",
-      "location": {
-        "name": "Northampton",
-        "lat": 52.2411,
-        "lng": -0.889
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "football/2026/jun/12/canada-bosnia-herzegovina-world-cup-2026-group-b-match-report",
-      "headline": "Supersub Cyle Larin rescues point for Canada against Bosnia and Herzegovina",
-      "summary": "Cyle Larin's late equaliser gives Canada 1-1 draw against Bosnia and Herzegovina in World Cup Group B.",
-      "url": "https://www.theguardian.com/p/x59cjx",
-      "thumbnail": "https://media.guim.co.uk/230f8b0d5e3a6d54290275a0337b77c5f60a84ad/1028_0_6880_5504/500.jpg",
-      "published": "2026-06-12T21:21:13Z",
-      "location": {
-        "name": "Vancouver",
-        "lat": 49.2827,
-        "lng": -123.1207
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
     {
       "id": "world/2026/jun/13/philippines-earthquake-cleanup-mindanao",
       "headline": "Philippines picks up the pieces after strongest earthquake in decades ",
@@ -918,6 +758,54 @@
       "category": "sport",
       "significance": 2,
       "section": "football"
+    },
+    {
+      "id": "business/2026/jun/13/one-stop-shop-worker-sacked-after-trying-to-tackle-suspected-shoplifter",
+      "headline": "One Stop shop worker sacked after trying to tackle suspected shoplifter",
+      "summary": "One Stop shop worker fired after attempting to stop suspected shoplifter in Merseyside convenience store.",
+      "url": "https://www.theguardian.com/p/x59tbh",
+      "thumbnail": "https://media.guim.co.uk/d840b7196b4240587949cc47f7d763dc140ee02b/78_0_4162_3329/500.jpg",
+      "published": "2026-06-13T22:09:35Z",
+      "location": {
+        "name": "Bootle",
+        "lat": 53.4333,
+        "lng": -2.8333
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "uk-news/2026/jun/13/tommy-robinson-detained-at-heathrow-under-counter-terrorism-laws",
+      "headline": "Tommy Robinson detained at Heathrow under counter-terrorism laws",
+      "summary": "Tommy Robinson detained at Heathrow under counter-terrorism laws amid social media prominence.",
+      "url": "https://www.theguardian.com/p/x59tg4",
+      "thumbnail": "https://media.guim.co.uk/9501f5a7d18dfc2283eba643ffe8062f720a3515/654_0_4259_3406/500.jpg",
+      "published": "2026-06-13T22:08:08Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "uk-news"
+    },
+    {
+      "id": "education/2026/jun/13/uk-government-announces-1325m-after-school-clubs-package",
+      "headline": "UK government announces £132.5m after-school clubs package",
+      "summary": "UK government allocates £132.5m for after-school clubs ahead of social media restrictions for under-16s.",
+      "url": "https://www.theguardian.com/p/x59h55",
+      "thumbnail": "https://media.guim.co.uk/be645ca6e8e93a30ae127cf53605261789e1b768/798_0_4029_3222/500.jpg",
+      "published": "2026-06-13T21:30:24Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "education"
     }
   ]
 }
