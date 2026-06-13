@@ -1,28 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-12T23:50:37.330Z",
-    "story_count": 81,
-    "oldest_story": "2026-06-12T00:22:11Z",
-    "newest_story": "2026-06-12T23:01:00Z",
+    "generated_at": "2026-06-13T02:44:32.908Z",
+    "story_count": 84,
+    "oldest_story": "2026-06-12T04:15:46Z",
+    "newest_story": "2026-06-13T02:26:50Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/live/2026/jun/12/fifa-world-cup-2026-live-south-korea-v-czechia-updates-kor-vs-cze-group-a-match-score-latest",
-      "headline": "South Korea v Czechia: World Cup 2026 – live",
-      "summary": "South Korea faces Czechia in 2026 FIFA World Cup Group A opening match.",
-      "url": "https://www.theguardian.com/p/x58j22",
-      "thumbnail": "https://media.guim.co.uk/9f8ef8813682eafcc92faa856dab6a6c2332d30a/626_161_5430_4344/500.jpg",
-      "published": "2026-06-12T00:22:11Z",
-      "location": {
-        "name": "South Korea",
-        "lat": 37.5665,
-        "lng": 126.978
-      },
-      "category": "sport",
-      "significance": 4,
-      "section": "football"
-    },
     {
       "id": "world/2026/jun/12/luisana-and-ana-are-new-to-melbourne-but-their-journey-there-was-totally-different-to-other-refugees",
       "headline": "Luisana and Ana are new to Melbourne, but their journey there was ‘totally different’ to other refugees",
@@ -1302,6 +1286,70 @@
       "category": "climate",
       "significance": 4,
       "section": "world"
+    },
+    {
+      "id": "football/2026/jun/12/cyle-larin-canada-world-cup-goal",
+      "headline": "Cyle Larin’s strike unleashes joy and saves Canada from the curse of ‘almost’",
+      "summary": "Canada scores first-ever World Cup point, ending decades of tournament disappointment.",
+      "url": "https://www.theguardian.com/p/x59dqd",
+      "thumbnail": "https://media.guim.co.uk/0ab11da846263cff04b127404e09531948cd06e3/402_0_4023_3218/500.jpg",
+      "published": "2026-06-13T02:26:50Z",
+      "location": {
+        "name": "Canada",
+        "lat": 56.1304,
+        "lng": -106.3468
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "australia-news/2026/jun/13/woman-in-critical-condition-after-shark-attack-at-coogee-beach",
+      "headline": "Woman in critical condition after shark attack at Coogee beach ",
+      "summary": "Woman in critical condition after shark attack at Coogee beach in Sydney.",
+      "url": "https://www.theguardian.com/p/x59e3d",
+      "thumbnail": "https://media.guim.co.uk/95f7827af8aa582547d1c88d8683737139341708/683_0_6827_5464/500.jpg",
+      "published": "2026-06-13T02:03:52Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "football/2026/jun/13/england-world-cup-boots-stolen-before-first-training-session-in-kansas-city",
+      "headline": "England’s World Cup boots stolen before first training session in Kansas City",
+      "summary": "England's World Cup match boots stolen during transportation from Florida to Kansas City.",
+      "url": "https://www.theguardian.com/p/x59e4v",
+      "thumbnail": "https://media.guim.co.uk/c89f38df2cdef3f13be8b1d09ee2ea0a124395a8/848_0_7060_5648/500.jpg",
+      "published": "2026-06-13T02:01:58Z",
+      "location": {
+        "name": "Kansas City",
+        "lat": 39.0997,
+        "lng": -94.5786
+      },
+      "category": "sport",
+      "significance": 1,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/jun/12/trump-venezuela-tren-de-aragua-leader-killed",
+      "headline": "Trump says leader of Venezuelan Tren de Aragua gang killed in US strike",
+      "summary": "US military kills Venezuelan Tren de Aragua gang leader in joint strike with Venezuela.",
+      "url": "https://www.theguardian.com/p/x59exv",
+      "thumbnail": "https://media.guim.co.uk/c7fdbb5546d6d0896acb2e935bc75ec180fa2b35/371_0_2081_1666/500.jpg",
+      "published": "2026-06-13T01:51:16Z",
+      "location": {
+        "name": "Venezuela",
+        "lat": 6.4238,
+        "lng": -66.5897
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "us-news"
     }
   ]
 }
