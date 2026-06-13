@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-06-13T09:47:20.746Z",
-    "story_count": 78,
-    "oldest_story": "2026-06-12T11:30:44Z",
-    "newest_story": "2026-06-13T09:44:46Z",
+    "generated_at": "2026-06-13T11:44:04.536Z",
+    "story_count": 86,
+    "oldest_story": "2026-06-12T12:00:44Z",
+    "newest_story": "2026-06-13T11:30:23Z",
     "window_hours": 24
   },
   "stories": [
@@ -134,22 +134,6 @@
       "category": "politics",
       "significance": 3,
       "section": "commentisfree"
-    },
-    {
-      "id": "music/2026/jun/12/add-to-playlist-the-sweet-plunderphonics-of-quiet-light-and-the-weeks-best-new-tracks",
-      "headline": "Add to playlist: the sweet plunderphonics of Quiet Light and the week’s best new tracks",
-      "summary": "Medical student Riya Mahesh releases ambient pop album Quiet Light as Blue Angel Sparkling Silver 2.",
-      "url": "https://www.theguardian.com/p/x58ycb",
-      "thumbnail": "https://media.guim.co.uk/8852e2f4c4d43a078affbf467a880b212e9c6d99/268_0_2594_2075/500.jpg",
-      "published": "2026-06-12T11:30:44Z",
-      "location": {
-        "name": "Texas",
-        "lat": 31.9686,
-        "lng": -99.9018
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "music"
     },
     {
       "id": "uk-news/2026/jun/12/windrush-compensation-scheme-home-office-control-open-letter",
@@ -1250,6 +1234,150 @@
         "name": "New York",
         "lat": 40.7128,
         "lng": -74.006
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "film"
+    },
+    {
+      "id": "us-news/2026/jun/13/trump-name-removed-kennedy-center-facade",
+      "headline": "Workers begin to remove Trump’s name from Kennedy Center after court rulings",
+      "summary": "Workers remove Trump's name from Kennedy Center facade after court ruling.",
+      "url": "https://www.theguardian.com/p/x59g3z",
+      "thumbnail": "https://media.guim.co.uk/6b6e5fac35c52f01906e73446c3fb7221c0a6d2c/524_0_4949_3960/500.jpg",
+      "published": "2026-06-13T11:30:23Z",
+      "location": {
+        "name": "Washington, DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/jun/13/everyone-is-welcome-with-us-curacao-want-you-along-for-their-first-world-cup-ride",
+      "headline": "‘Everyone is welcome with us’: Curaçao want you along for their first World Cup ride",
+      "summary": "Curaçao celebrates qualification for first World Cup as smallest nation ever.",
+      "url": "https://www.theguardian.com/p/x52n2c",
+      "thumbnail": "https://media.guim.co.uk/9cb6ff3d9b74d7a7ff48c93865a4973b4d6e1d18/273_0_5033_4024/500.jpg",
+      "published": "2026-06-13T11:07:48Z",
+      "location": {
+        "name": "Curaçao",
+        "lat": 12.1696,
+        "lng": -68.99
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/jun/13/in-a-usa-win-for-the-history-books-what-stood-out-most-was-the-fun-and-free-nature-of-it",
+      "headline": "In a USA win for the history books, what stood out most was the ‘fun’ and free nature of it",
+      "summary": "USA defeats Paraguay 4-1 in historic World Cup match under new coach.",
+      "url": "https://www.theguardian.com/p/x59eph",
+      "thumbnail": "https://media.guim.co.uk/0f1005ca1482f9f08d087cd06f56f025e0783f28/0_0_4616_3695/500.jpg",
+      "published": "2026-06-13T11:00:14Z",
+      "location": {
+        "name": "Washington, DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "world/2026/jun/13/ecuador-fishing-boats-us-strikes",
+      "headline": "US claims it is not responsible for strikes on Ecuadorian fishing boats – so who is?",
+      "summary": "Ecuadorian fishing boats attacked by drone; US denies responsibility for strikes.",
+      "url": "https://www.theguardian.com/p/x59ck8",
+      "thumbnail": "https://media.guim.co.uk/0f4dc0f4741ec647fad603f18892beccce041053/249_0_4165_3333/500.jpg",
+      "published": "2026-06-13T11:00:13Z",
+      "location": {
+        "name": "Ecuador",
+        "lat": -1.8312,
+        "lng": -78.1834
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "society/2026/jun/13/nerve-lab-uk-ai-brain-scanning-tech-childrens-screen-time",
+      "headline": "Pioneering UK Nerve Lab harnesses AI to map effect of children’s screen time ",
+      "summary": "UK Nerve Lab uses AI to map effects of children's screen time on development.",
+      "url": "https://www.theguardian.com/p/x59ae5",
+      "thumbnail": "https://media.guim.co.uk/771af72e4610d0b12aa1a96202ad70538f50959e/642_0_6827_5464/500.jpg",
+      "published": "2026-06-13T11:00:13Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "tech",
+      "significance": 1,
+      "section": "society"
+    },
+    {
+      "id": "us-news/2026/jun/13/new-york-oshae-sibley-death-conviction",
+      "headline": "New York man who killed gay dancer faces 25 years after hate-crime conviction",
+      "summary": "Man convicted of hate crime in 2023 vogue dancer stabbing faces 25 years.",
+      "url": "https://www.theguardian.com/p/x59d28",
+      "thumbnail": "https://media.guim.co.uk/6e8abfc9447f5a57eee970cb4667963ec49c77ea/477_0_4730_3782/500.jpg",
+      "published": "2026-06-13T11:00:12Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "media/2026/jun/13/abc-fcc-license-trump-kimmel",
+      "headline": "‘Open season’ on ABC as FCC moves up public comment process for renewals",
+      "summary": "FCC accelerates ABC license renewal process amid Trump administration pressure.",
+      "url": "https://www.theguardian.com/p/x58n98",
+      "thumbnail": "https://media.guim.co.uk/e0f9dc57502437aaff1761b51ea8fc2c0d4ef5db/688_0_6880_5504/500.jpg",
+      "published": "2026-06-13T11:00:12Z",
+      "location": {
+        "name": "Washington, DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "media"
+    },
+    {
+      "id": "us-news/2026/jun/13/ice-border-patrol-funding-bill",
+      "headline": "ICE, borders and DHS: what’s in Trump’s $70bn immigration crackdown bill?",
+      "summary": "Trump signs $70bn immigration bill to fund mass deportation campaign.",
+      "url": "https://www.theguardian.com/p/x59bdt",
+      "thumbnail": "https://media.guim.co.uk/dabc2246b3785fec78a606313e763fb42e8e95f6/500_0_5000_4000/500.jpg",
+      "published": "2026-06-13T11:00:12Z",
+      "location": {
+        "name": "Washington, DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "film/2026/jun/13/beeban-kidron-interview-baroness-big-tech-online-child-abuse",
+      "headline": "‘Why would you put a toxic product into the hands of a young child?’: director turned activist Beeban Kidron on why big tech needs its ‘tobacco moment’",
+      "summary": "Director Beeban Kidron calls for big tech's 'tobacco moment' on child online safety.",
+      "url": "https://www.theguardian.com/p/x56fgt",
+      "thumbnail": "https://media.guim.co.uk/12b94c83cdd9c62276bed7219b3e743bf6cd076a/0_676_5669_4536/500.jpg",
+      "published": "2026-06-13T10:58:12Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
       },
       "category": "culture",
       "significance": 2,
