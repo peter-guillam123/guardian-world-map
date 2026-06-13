@@ -1,44 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-13T15:13:39.708Z",
-    "story_count": 76,
-    "oldest_story": "2026-06-12T15:27:24Z",
-    "newest_story": "2026-06-13T15:00:17Z",
+    "generated_at": "2026-06-13T16:51:33.442Z",
+    "story_count": 78,
+    "oldest_story": "2026-06-12T16:59:20Z",
+    "newest_story": "2026-06-13T16:33:14Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "uk-news/2026/jun/12/windrush-compensation-scheme-home-office-control-open-letter",
-      "headline": "Remove Windrush payout scheme from Home Office control, campaigners urge",
-      "summary": "Campaigners urge removal of Windrush compensation scheme from Home Office control to independent body.",
-      "url": "https://www.theguardian.com/p/x596bn",
-      "thumbnail": "https://media.guim.co.uk/86c80feb529b276cebd2d2b0617402b8d5e08402/235_0_4786_3829/500.jpg",
-      "published": "2026-06-12T15:29:29Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "artanddesign/2026/jun/12/rachel-nicholson-obituary",
-      "headline": "Rachel Nicholson obituary",
-      "summary": "Artist Rachel Nicholson, daughter of Barbara Hepworth and Ben Nicholson, dies aged 91.",
-      "url": "https://www.theguardian.com/p/x59vkv",
-      "thumbnail": "https://media.guim.co.uk/3f88c78d15733094d71b4c8821319bf7a5691e49/287_0_2817_2254/500.jpg",
-      "published": "2026-06-12T15:27:24Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "artanddesign"
-    },
     {
       "id": "world/2026/jun/12/trump-rollercoaster-deal-us-iran",
       "headline": "Chaotic talks on a US-Iran deal continue on the Trump rollercoaster",
@@ -1218,6 +1186,70 @@
         "name": "London",
         "lat": 51.5074,
         "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "sport/2026/jun/13/bath-rugby-exeter-chiefs-playoff-semi-final-premiership",
+      "headline": "Bath stunned as Exeter head for final after last-ditch drama caps comeback",
+      "summary": "Exeter Chiefs stage dramatic comeback to beat Bath 27-26 in Premiership semi-final playoff.",
+      "url": "https://www.theguardian.com/p/x59d96",
+      "thumbnail": "https://media.guim.co.uk/7e3697b98c579c3da6c7f46120000d99fd8e3d24/326_0_2680_2144/500.jpg",
+      "published": "2026-06-13T16:33:14Z",
+      "location": {
+        "name": "Bath",
+        "lat": 51.3811,
+        "lng": -2.3625
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "uk-news/2026/jun/13/uk-london-real-estate-west-bank-israel-settlements",
+      "headline": "MPs call for end to real estate event over fear it pushes sale of Israeli settlements",
+      "summary": "Over 100 UK MPs call for cancellation of Israeli real estate event over settlement sale concerns.",
+      "url": "https://www.theguardian.com/p/x58g8z",
+      "thumbnail": "https://media.guim.co.uk/f1c4dc5082f69f33b32d3eb6d1ff8bb30876300f/614_0_3977_3182/500.jpg",
+      "published": "2026-06-13T16:06:00Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "society/2026/jun/13/revealed-dwp-still-allowing-unpaid-carers-to-run-up-debts-despite-being-told-about-overpayments",
+      "headline": "Revealed: DWP still allowing unpaid carers to run up debts despite being told about overpayments",
+      "summary": "DWP continues paying carer's benefit six months after recipient's requests to stop, creating debt.",
+      "url": "https://www.theguardian.com/p/x59vjb",
+      "thumbnail": "https://media.guim.co.uk/c6a69711e1688c905a30d7726fa2b0e5108672c9/686_0_5800_4640/500.jpg",
+      "published": "2026-06-13T16:00:18Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "society"
+    },
+    {
+      "id": "sport/2026/jun/13/george-russell-bounces-back-in-style-to-claim-pole-at-barcelona-catalunya-gp",
+      "headline": "George Russell bounces back in style to claim pole at Barcelona-Catalunya GP",
+      "summary": "George Russell claims pole position at Barcelona-Catalunya Grand Prix ahead of Hamilton.",
+      "url": "https://www.theguardian.com/p/x59d9f",
+      "thumbnail": "https://media.guim.co.uk/bb990fbc63541e22674d1537f59229b519f0c883/500_0_5000_4000/500.jpg",
+      "published": "2026-06-13T15:54:35Z",
+      "location": {
+        "name": "Barcelona",
+        "lat": 41.5868,
+        "lng": 2.1305
       },
       "category": "sport",
       "significance": 2,
