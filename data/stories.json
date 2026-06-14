@@ -1,76 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-14T12:26:09.454Z",
-    "story_count": 63,
-    "oldest_story": "2026-06-13T13:00:14Z",
-    "newest_story": "2026-06-14T12:20:37Z",
+    "generated_at": "2026-06-14T14:55:34.580Z",
+    "story_count": 61,
+    "oldest_story": "2026-06-13T15:00:16Z",
+    "newest_story": "2026-06-14T14:55:04Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "sport/live/2026/jun/13/australia-v-south-africa-womens-t20-cricket-world-cup-live",
-      "headline": "Australia v South Africa: Women’s T20 Cricket World Cup – live",
-      "summary": "Australia v South Africa Women's T20 Cricket World Cup match at Old Trafford.",
-      "url": "https://www.theguardian.com/p/x59c7q",
-      "thumbnail": "https://media.guim.co.uk/3dcafb4f37428f9407214986f328281be4f0962a/346_0_5735_4587/500.jpg",
-      "published": "2026-06-13T13:08:11Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4808,
-        "lng": -2.2426
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "sport"
-    },
-    {
-      "id": "world/2026/jun/13/bangkok-thailand-princess-bha-royal-funeral-procession-mourners",
-      "headline": "Mourners line Bangkok streets to pay respects to Thailand’s Princess Bha",
-      "summary": "Funeral procession honors Princess Bajrakitiyabha who died after four-year coma.",
-      "url": "https://www.theguardian.com/p/x59g63",
-      "thumbnail": "https://media.guim.co.uk/9138e64382a2d98597f1f762a55d641f14d846b5/419_95_3021_2418/500.jpg",
-      "published": "2026-06-13T13:05:31Z",
-      "location": {
-        "name": "Bangkok",
-        "lat": 13.7563,
-        "lng": 100.5018
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "us-news/2026/jun/13/radio-jornalera-new-jersey-immigration-detention-center",
-      "headline": "‘We’re doing it all for them’: Radio Jornalera NJ exposes conditions faced by immigrants in detention",
-      "summary": "Radio Jornalera NJ exposes conditions at immigration detention center Delaney Hall.",
-      "url": "https://www.theguardian.com/p/x59xgq",
-      "thumbnail": "https://media.guim.co.uk/439d20d8aa50b74c68ddff182a6b8aaf3e283cd8/1007_0_5042_4033/500.jpg",
-      "published": "2026-06-13T13:00:14Z",
-      "location": {
-        "name": "New Jersey",
-        "lat": 40.2206,
-        "lng": -74.7597
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "sport/live/2026/jun/13/barcelona-catalunya-gp-qualifying-formula-one-f1-live",
-      "headline": "Formula One: Barcelona-Catalunya GP qualifying – live updates",
-      "summary": "Formula One Barcelona-Catalunya GP qualifying features Kimi Antonelli's winning streak.",
-      "url": "https://www.theguardian.com/p/x58qag",
-      "thumbnail": "https://media.guim.co.uk/924a0c693f17770c78959a195f1cefb9f6db5409/377_0_7200_5760/500.jpg",
-      "published": "2026-06-13T13:00:14Z",
-      "location": {
-        "name": "Barcelona",
-        "lat": 41.5671,
-        "lng": 2.2638
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "sport"
-    },
     {
       "id": "football/2026/jun/14/australia-socceroos-world-cup-turkey-preview-more-talented-spoil-the-party",
       "headline": "In their own words, Turkey are ‘more talented’ than Australia. Can the Socceroos spoil the party?",
@@ -102,70 +38,6 @@
       "category": "politics",
       "significance": 2,
       "section": "politics"
-    },
-    {
-      "id": "football/2026/jun/13/big-lalas-energy-to-ulcerative-colitis-meds-fox-is-this-world-cups-very-soul-in-the-us",
-      "headline": "Big Lalas Energy to ulcerative colitis meds: Fox is this World Cup’s very soul in the US",
-      "summary": "Fox Sports covers 2026 World Cup opening ceremony with focus on American consumerism themes.",
-      "url": "https://www.theguardian.com/p/x59gme",
-      "thumbnail": "https://media.guim.co.uk/a18dd15dd596da301bf643617c9e7e34a4d06155/209_0_2583_2067/500.jpg",
-      "published": "2026-06-13T14:47:12Z",
-      "location": {
-        "name": "United States",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/jun/04/fifa-world-cup-2026-when-where-how-to-watch-socceroos-australia-matches-games",
-      "headline": "How and where to watch the Socceroos World Cup games in Australia",
-      "summary": "Guide to watching Socceroos World Cup matches against Turkey and other Group D opponents.",
-      "url": "https://www.theguardian.com/p/x5vvb7",
-      "thumbnail": "https://media.guim.co.uk/db2fcb068fa83f566bd1ef6a249b5a87a1de7658/294_287_3600_2881/500.jpg",
-      "published": "2026-06-13T14:47:11Z",
-      "location": {
-        "name": "Australia",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "sport/2026/jun/13/scotland-ireland-womens-world-t20-cup-match-report",
-      "headline": "Bryce powers Scotland to maiden Women’s T20 World Cup win against Ireland",
-      "summary": "Scotland defeats Ireland by 40 runs in Women's T20 World Cup with Bryce's 60-run innings.",
-      "url": "https://www.theguardian.com/p/x59d8d",
-      "thumbnail": "https://media.guim.co.uk/a14a910a63b87c2ab041238d6e2056c0d7e97373/147_0_1459_1167/500.jpg",
-      "published": "2026-06-13T14:14:00Z",
-      "location": {
-        "name": "Dublin",
-        "lat": 53.3498,
-        "lng": -6.2603
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "sport/2026/jun/13/emma-raducanu-injury-scare-queens-club-wimbledon-tennis",
-      "headline": "Raducanu overcomes injury scare to reach Queen’s Club semi-final with win over Rakhimova",
-      "summary": "Raducanu reaches Queen's Club semi-final with injury scare during 6-3, 7-5 win over Rakhimova.",
-      "url": "https://www.theguardian.com/p/x59da9",
-      "thumbnail": "https://media.guim.co.uk/0cd56fba91c0edc01be3ff2a1b8d3d96eaee51fe/263_650_2171_1738/500.jpg",
-      "published": "2026-06-13T14:09:57Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
     },
     {
       "id": "sport/2026/jun/13/bath-rugby-exeter-chiefs-playoff-semi-final-premiership",
@@ -1014,6 +886,102 @@
       "category": "politics",
       "significance": 2,
       "section": "politics"
+    },
+    {
+      "id": "sport/live/2026/jun/14/womens-t20-world-cup-india-v-pakistan-live",
+      "headline": "Women’s T20 World Cup: India v Pakistan – live",
+      "summary": "India faces Pakistan in Women's T20 World Cup at Edgbaston in Birmingham.",
+      "url": "https://www.theguardian.com/p/x58q5p",
+      "thumbnail": "https://media.guim.co.uk/83bcb40a046de852f4d5d676b0a6ac209e9d62d2/225_0_2250_1800/500.jpg",
+      "published": "2026-06-14T14:55:04Z",
+      "location": {
+        "name": "Birmingham",
+        "lat": 52.5086,
+        "lng": -1.8853
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "sport"
+    },
+    {
+      "id": "us-news/2026/jun/14/maine-graham-platner-democrats",
+      "headline": "Democrats’ predicament with Graham Platner is one of the party’s own making",
+      "summary": "Democrats' Maine Senate strategy backfires as Janet Mills bet proves miscalculation.",
+      "url": "https://www.theguardian.com/p/x58nnf",
+      "thumbnail": "https://media.guim.co.uk/1ee19ab6a124fa8790a10ba0e4a07e27930ad127/378_0_4223_3378/500.jpg",
+      "published": "2026-06-14T14:53:09Z",
+      "location": {
+        "name": "Maine",
+        "lat": 45.2538,
+        "lng": -69.4455
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/jun/14/new-york-city-knicks-nba-championship",
+      "headline": "‘It’s euphoria’: New York City celebrates Knicks’ NBA title win after 53-year wait",
+      "summary": "New York Knicks win NBA championship, ending 53-year drought amid city celebrations.",
+      "url": "https://www.theguardian.com/p/x59yjd",
+      "thumbnail": "https://media.guim.co.uk/fb91d4ed9765b156b9bf632687fecfb79be48de1/57_0_3334_2667/500.jpg",
+      "published": "2026-06-14T14:15:21Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/jun/14/trump-administration-cuban-deportations",
+      "headline": "Living in fear of a knock at the door: the Cubans being deported under Trump",
+      "summary": "Trump administration deports far more Cuban nationals in second term than entire first.",
+      "url": "https://www.theguardian.com/p/x596ay",
+      "thumbnail": "https://media.guim.co.uk/6eb8c223322688f0ce19e8931b6e1dc391fae2ba/627_0_5029_4024/500.jpg",
+      "published": "2026-06-14T14:00:45Z",
+      "location": {
+        "name": "Cuba",
+        "lat": 21.5218,
+        "lng": -77.7812
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/jun/14/coweta-county-georgia-datacenter",
+      "headline": "They’re fighting datacenters in rural Georgia – and hope to inspire other communities",
+      "summary": "Rural Georgia residents fight datacenter Project Sail through petition for referendum.",
+      "url": "https://www.theguardian.com/p/x59cda",
+      "thumbnail": "https://media.guim.co.uk/17092380bd9718d752df7a1d39f0cad0200c8e18/402_0_2307_1847/500.jpg",
+      "published": "2026-06-14T14:00:45Z",
+      "location": {
+        "name": "Coweta County",
+        "lat": 33.4186,
+        "lng": -84.9182
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "business/2026/jun/14/small-business-trump-tariffs",
+      "headline": "Me, worry? For US small businesses, Trump’s tariffs are now a non-issue ",
+      "summary": "US small businesses downplay Trump tariffs concerns as year-old issue loses relevance.",
+      "url": "https://www.theguardian.com/p/x5966v",
+      "thumbnail": "https://media.guim.co.uk/b4a9df8dbd78fb977ee6dc6ff5bf496e00b571fe/0_18_6543_5235/500.jpg",
+      "published": "2026-06-14T14:00:44Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
     }
   ]
 }
