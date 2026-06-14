@@ -1,60 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-14T21:19:32.321Z",
-    "story_count": 78,
-    "oldest_story": "2026-06-13T21:30:24Z",
-    "newest_story": "2026-06-14T21:10:41Z",
+    "generated_at": "2026-06-14T22:37:57.102Z",
+    "story_count": 81,
+    "oldest_story": "2026-06-13T22:39:46Z",
+    "newest_story": "2026-06-14T22:34:31Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "business/2026/jun/13/one-stop-shop-worker-sacked-after-trying-to-tackle-suspected-shoplifter",
-      "headline": "One Stop shop worker sacked after trying to tackle suspected shoplifter",
-      "summary": "One Stop shop worker fired after attempting to stop suspected shoplifter in Merseyside convenience store.",
-      "url": "https://www.theguardian.com/p/x59tbh",
-      "thumbnail": "https://media.guim.co.uk/d840b7196b4240587949cc47f7d763dc140ee02b/78_0_4162_3329/500.jpg",
-      "published": "2026-06-13T22:09:35Z",
-      "location": {
-        "name": "Bootle",
-        "lat": 53.4333,
-        "lng": -2.8333
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "uk-news/2026/jun/13/tommy-robinson-detained-at-heathrow-under-counter-terrorism-laws",
-      "headline": "Tommy Robinson detained at Heathrow under counter-terrorism laws",
-      "summary": "Tommy Robinson detained at Heathrow under counter-terrorism laws amid social media prominence.",
-      "url": "https://www.theguardian.com/p/x59tg4",
-      "thumbnail": "https://media.guim.co.uk/9501f5a7d18dfc2283eba643ffe8062f720a3515/654_0_4259_3406/500.jpg",
-      "published": "2026-06-13T22:08:08Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "uk-news"
-    },
-    {
-      "id": "education/2026/jun/13/uk-government-announces-1325m-after-school-clubs-package",
-      "headline": "UK government announces £132.5m after-school clubs package",
-      "summary": "UK government allocates £132.5m for after-school clubs ahead of social media restrictions for under-16s.",
-      "url": "https://www.theguardian.com/p/x59h55",
-      "thumbnail": "https://media.guim.co.uk/be645ca6e8e93a30ae127cf53605261789e1b768/798_0_4029_3222/500.jpg",
-      "published": "2026-06-13T21:30:24Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "education"
-    },
     {
       "id": "football/live/2026/jun/13/brazil-v-morocco-world-cup-2026-live",
       "headline": "Brazil v Morocco: World Cup 2026 – live",
@@ -1254,6 +1206,102 @@
       "category": "sport",
       "significance": 3,
       "section": "sport"
+    },
+    {
+      "id": "football/live/2026/jun/14/cote-d-ivoire-v-ecuador-world-cup-2026-live",
+      "headline": "Côte d’Ivoire v Ecuador: World Cup 2026 – live",
+      "summary": "Côte d'Ivoire faces Ecuador in World Cup 2026 Group E match in Philadelphia.",
+      "url": "https://www.theguardian.com/p/x59c2v",
+      "thumbnail": "https://media.guim.co.uk/6711dcaa8d136b553c2c5192891edc1235bd8fbd/496_591_2747_2197/500.jpg",
+      "published": "2026-06-14T22:34:31Z",
+      "location": {
+        "name": "Philadelphia",
+        "lat": 39.9526,
+        "lng": -75.1652
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "australia-news/live/2026/jun/15/australia-news-live-experts-push-back-at-call-for-shark-cull-after-attack-university-students-report-freedom-of-speech-fears",
+      "headline": "Australia news live: Debate over shark cull after Coogee attack; Joyce says fundraised millions to pay for One Nation ad campaign",
+      "summary": "Australia news: shark cull debate after Coogee attack; political stories unfold.",
+      "url": "https://www.theguardian.com/p/x59njn",
+      "thumbnail": "https://media.guim.co.uk/6789307c04256b6a17c536855752f33a3c65880a/97_0_2500_2000/500.jpg",
+      "published": "2026-06-14T22:29:27Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "other",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "football/2026/jun/14/netherlands-japan-world-cup-match-report",
+      "headline": "Fortune favours Kamada as Japan rescue World Cup draw with Netherlands",
+      "summary": "Japan draws 2-2 with Netherlands in World Cup 2026 Group F match near Dallas.",
+      "url": "https://www.theguardian.com/p/x59mvp",
+      "thumbnail": "https://media.guim.co.uk/11c106490ec8aebb4dfe4dcbb9273a5b949777ec/213_0_1871_1497/500.jpg",
+      "published": "2026-06-14T22:22:03Z",
+      "location": {
+        "name": "Arlington",
+        "lat": 32.7357,
+        "lng": -97.2247
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/jun/14/trump-ufc-fight-white-house-protest",
+      "headline": "‘Reeks of corruption’: protesters rally as Trump hosts UFC event on his birthday",
+      "summary": "Trump hosts first private for-profit UFC event on White House grounds amid protests.",
+      "url": "https://www.theguardian.com/p/x59mp6",
+      "thumbnail": "https://media.guim.co.uk/5a7a3c9acbf7f13360eb1e32dd6d59f1ce16ad81/171_0_5354_4284/500.jpg",
+      "published": "2026-06-14T21:54:30Z",
+      "location": {
+        "name": "Washington, DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "politics/2026/jun/14/defence-secretary-dan-jarvis-uk-plan-military-spending-dip",
+      "headline": "New defence secretary to ‘reprioritise’ UK plan for military spending, say sources",
+      "summary": "New UK defence secretary Dan Jarvis to 'reprioritise' military spending plan.",
+      "url": "https://www.theguardian.com/p/x59m9g",
+      "thumbnail": "https://media.guim.co.uk/4a5e0bb53118a7bdc9e2cbe3a81b1f7dfebe9370/588_0_6330_5067/500.jpg",
+      "published": "2026-06-14T21:53:23Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "uk-news/2026/jun/14/starmer-to-announce-australia-plus-ban-on-social-media-for-under-16s",
+      "headline": "Starmer to announce ‘Australia plus’ ban on social media for under-16s",
+      "summary": "UK PM Starmer announces 'Australia plus' social media ban for under-16s.",
+      "url": "https://www.theguardian.com/p/x59m6e",
+      "thumbnail": "https://media.guim.co.uk/bd00bba2cd27394873544ad5f172041fd04eba24/194_0_5472_4378/500.jpg",
+      "published": "2026-06-14T21:42:23Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "uk-news"
     }
   ]
 }
