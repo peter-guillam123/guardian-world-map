@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-06-14T19:55:15.588Z",
-    "story_count": 73,
+    "generated_at": "2026-06-14T21:19:32.321Z",
+    "story_count": 78,
     "oldest_story": "2026-06-13T21:30:24Z",
-    "newest_story": "2026-06-14T19:30:58Z",
+    "newest_story": "2026-06-14T21:10:41Z",
     "window_hours": 24
   },
   "stories": [
@@ -1174,6 +1174,86 @@
       "category": "health",
       "significance": 3,
       "section": "us-news"
+    },
+    {
+      "id": "australia-news/2026/jun/15/morning-mail-monday-ntwnfb",
+      "headline": "Morning Mail: How police failed killed toddler Mason Lee; inside WA’s mouse plague; ecstasy after Socceroos’ win",
+      "summary": "Police failures revealed in death of toddler Mason Lee from 10 years ago in Queensland.",
+      "url": "https://www.theguardian.com/p/x59mhg",
+      "thumbnail": "https://media.guim.co.uk/bc9a4a4eeb918bd9bef546c94b149caada8c1ebb/0_0_5000_4000/500.jpg",
+      "published": "2026-06-14T21:10:41Z",
+      "location": {
+        "name": "Queensland",
+        "lat": -27.4698,
+        "lng": 153.0251
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "us-news/2026/jun/14/jd-vance-2028-presidential-campaign-midterms-talks",
+      "headline": "JD Vance says he will discuss 2028 presidential run after midterm elections",
+      "summary": "VP JD Vance plans to discuss 2028 presidential run after 2026 midterm elections.",
+      "url": "https://www.theguardian.com/p/x59nhk",
+      "thumbnail": "https://media.guim.co.uk/cf2b8d38f09c9813c92bf4fb831e1acdd6ab03e6/678_0_7200_5760/500.jpg",
+      "published": "2026-06-14T21:03:25Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "society/2026/jun/14/assisted-dying-bill-return-commons-lauren-edwards",
+      "headline": "Assisted dying bill set to return to the Commons",
+      "summary": "Labour MP Lauren Edwards to reintroduce assisted dying bill to Commons for another vote.",
+      "url": "https://www.theguardian.com/p/x59nek",
+      "thumbnail": "https://media.guim.co.uk/396b6f7938ccc67b1e240d0f68e88fc0487ca3fa/356_0_4868_3895/500.jpg",
+      "published": "2026-06-14T20:54:36Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "society"
+    },
+    {
+      "id": "sport/2026/jun/14/saracens-exeter-premiership-womens-rugby-semi-final-match-report",
+      "headline": "Trailfinders set up Saracens final after stunning upset ends Gloucester’s reign",
+      "summary": "Trailfinders upset defending champions Gloucester 29-26; Saracens beat Exeter 40-38 in PWR.",
+      "url": "https://www.theguardian.com/p/x59me2",
+      "thumbnail": "https://media.guim.co.uk/82ef74bb07bffdce39a7a30fff488d40fa4d5ef9/398_0_2917_2333/500.jpg",
+      "published": "2026-06-14T20:33:44Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "sport/2026/jun/14/you-always-have-it-hamilton-breaks-f1-ferrari-drought-but-admits-he-doubted-himself",
+      "headline": "‘You always have it’: Hamilton breaks F1 Ferrari drought but admits he doubted himself",
+      "summary": "Lewis Hamilton claims 106th F1 victory with Ferrari in Spain after 41-race winless streak.",
+      "url": "https://www.theguardian.com/p/x59m5n",
+      "thumbnail": "https://media.guim.co.uk/63e0007b37250f436567e942935d0d2ad035c176/522_137_3610_2888/500.jpg",
+      "published": "2026-06-14T20:21:51Z",
+      "location": {
+        "name": "Barcelona",
+        "lat": 41.3851,
+        "lng": 2.1734
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "sport"
     }
   ]
 }
