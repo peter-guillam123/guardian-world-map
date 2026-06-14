@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-06-13T23:44:04.537Z",
-    "story_count": 57,
-    "oldest_story": "2026-06-13T01:51:16Z",
-    "newest_story": "2026-06-13T23:42:52Z",
+    "generated_at": "2026-06-14T02:04:03.712Z",
+    "story_count": 56,
+    "oldest_story": "2026-06-13T02:26:50Z",
+    "newest_story": "2026-06-14T02:00:30Z",
     "window_hours": 24
   },
   "stories": [
@@ -22,54 +22,6 @@
       "category": "sport",
       "significance": 2,
       "section": "football"
-    },
-    {
-      "id": "australia-news/2026/jun/13/woman-in-critical-condition-after-shark-attack-at-coogee-beach",
-      "headline": "Woman in critical condition after shark attack at Coogee beach ",
-      "summary": "Woman in critical condition after shark attack at Coogee beach in Sydney.",
-      "url": "https://www.theguardian.com/p/x59e3d",
-      "thumbnail": "https://media.guim.co.uk/95f7827af8aa582547d1c88d8683737139341708/683_0_6827_5464/500.jpg",
-      "published": "2026-06-13T02:03:52Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "football/2026/jun/13/england-world-cup-boots-stolen-before-first-training-session-in-kansas-city",
-      "headline": "England’s World Cup boots stolen before first training session in Kansas City",
-      "summary": "England's World Cup match boots stolen during transportation from Florida to Kansas City.",
-      "url": "https://www.theguardian.com/p/x59e4v",
-      "thumbnail": "https://media.guim.co.uk/c89f38df2cdef3f13be8b1d09ee2ea0a124395a8/848_0_7060_5648/500.jpg",
-      "published": "2026-06-13T02:01:58Z",
-      "location": {
-        "name": "Kansas City",
-        "lat": 39.0997,
-        "lng": -94.5786
-      },
-      "category": "sport",
-      "significance": 1,
-      "section": "football"
-    },
-    {
-      "id": "us-news/2026/jun/12/trump-venezuela-tren-de-aragua-leader-killed",
-      "headline": "Trump says leader of Venezuelan Tren de Aragua gang killed in US strike",
-      "summary": "US military kills Venezuelan Tren de Aragua gang leader in joint strike with Venezuela.",
-      "url": "https://www.theguardian.com/p/x59exv",
-      "thumbnail": "https://media.guim.co.uk/c7fdbb5546d6d0896acb2e935bc75ec180fa2b35/371_0_2081_1666/500.jpg",
-      "published": "2026-06-13T01:51:16Z",
-      "location": {
-        "name": "Venezuela",
-        "lat": 6.4238,
-        "lng": -66.5897
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "us-news"
     },
     {
       "id": "football/2026/jun/13/los-angeles-conjures-up-irresistible-spectacle-as-usa-sparkle-in-opening-act-world-cup-2026",
@@ -918,6 +870,38 @@
       "category": "sport",
       "significance": 2,
       "section": "football"
+    },
+    {
+      "id": "football/live/2026/jun/14/fifa-world-cup-2026-live-socceroos-australia-v-turkey-updates-aus-vs-tur-group-d-match-score-latest",
+      "headline": "Australia v Turkey: World Cup 2026 – live",
+      "summary": "Australia faces Turkey in 2026 World Cup Group D match in Vancouver.",
+      "url": "https://www.theguardian.com/p/x58j3e",
+      "thumbnail": "https://media.guim.co.uk/dc7b03a07741803b7ca3a5ff8545c1a2beafb77b/404_0_5000_4000/500.jpg",
+      "published": "2026-06-14T02:00:30Z",
+      "location": {
+        "name": "Vancouver",
+        "lat": 49.2827,
+        "lng": -123.1207
+      },
+      "category": "sport",
+      "significance": 4,
+      "section": "football"
+    },
+    {
+      "id": "lifeandstyle/2026/jun/14/australian-cookbook-authors-helen-goh-and-yoko-nakazawa-win-prestigious-2026-james-beard-awards",
+      "headline": "Australian cookbook authors Helen Goh and Yoko Nakazawa win prestigious 2026 James Beard awards",
+      "summary": "Australian authors Helen Goh and Yoko Nakazawa win 2026 James Beard awards.",
+      "url": "https://www.theguardian.com/p/x59tqn",
+      "thumbnail": "https://media.guim.co.uk/73042503c7941b5d0e2773910bd009adae919322/1_0_4998_4000/500.jpg",
+      "published": "2026-06-14T01:49:44Z",
+      "location": {
+        "name": "Chicago",
+        "lat": 41.8781,
+        "lng": -87.6298
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "lifeandstyle"
     }
   ]
 }
