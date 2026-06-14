@@ -1,44 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-14T18:02:53.778Z",
+    "generated_at": "2026-06-14T19:55:15.588Z",
     "story_count": 73,
-    "oldest_story": "2026-06-13T19:00:21Z",
-    "newest_story": "2026-06-14T18:00:49Z",
+    "oldest_story": "2026-06-13T21:30:24Z",
+    "newest_story": "2026-06-14T19:30:58Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "film/2026/jun/13/rosamund-pike-keeps-cool-phone-alarm-interrupts-performance-inter-alia",
-      "headline": "Rosamund Pike keeps cool after phone alarm interrupts performance",
-      "summary": "Rosamund Pike handles phone alarm during West End theatre performance calmly.",
-      "url": "https://www.theguardian.com/p/x59hta",
-      "thumbnail": "https://media.guim.co.uk/2f24879ed6b006d197d47df2ff52e2031fc71f63/418_0_4164_3332/500.jpg",
-      "published": "2026-06-13T19:25:38Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "stage"
-    },
-    {
-      "id": "football/2026/jun/13/best-in-asia-no-longer-enough-japan-world-cup-breakthrough",
-      "headline": "Being the best in Asia is no longer enough for Japan seeking World Cup breakthrough ",
-      "summary": "Japan builds squad depth to challenge traditional powers in 2026 World Cup.",
-      "url": "https://www.theguardian.com/p/x59ba4",
-      "thumbnail": "https://media.guim.co.uk/5c82519d5641ea75ba5081123461a3abdbfee8f9/386_82_3603_2883/500.jpg",
-      "published": "2026-06-13T19:00:21Z",
-      "location": {
-        "name": "Japan",
-        "lat": 36.2048,
-        "lng": 138.2529
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
     {
       "id": "business/2026/jun/13/one-stop-shop-worker-sacked-after-trying-to-tackle-suspected-shoplifter",
       "headline": "One Stop shop worker sacked after trying to tackle suspected shoplifter",
@@ -1174,6 +1142,38 @@
       "category": "politics",
       "significance": 2,
       "section": "world"
+    },
+    {
+      "id": "us-news/2026/jun/14/trump-putin-call-ukraine-russia-iran-war",
+      "headline": "Trump reportedly tells Putin he is prepared to help end war in Ukraine",
+      "summary": "Trump tells Putin he's prepared to help end Ukraine war in phone call.",
+      "url": "https://www.theguardian.com/p/x59nxn",
+      "thumbnail": "https://media.guim.co.uk/29c81af2518d0cad0cb06c7a441aef5240cc6a43/428_0_2891_2313/500.jpg",
+      "published": "2026-06-14T19:30:58Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 4,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/jun/14/butler-missouri-plane-crash",
+      "headline": "Pilot and 11 skydiving passengers killed in Missouri plane crash",
+      "summary": "Plane crash near Butler, Missouri kills 12 people including pilot and skydivers.",
+      "url": "https://www.theguardian.com/p/x59n2n",
+      "thumbnail": "https://media.guim.co.uk/4f59f5a7a1693520a3df9e114581df597b19a417/1036_2195_2882_2307/500.jpg",
+      "published": "2026-06-14T19:15:06Z",
+      "location": {
+        "name": "Butler, Missouri",
+        "lat": 38.2626,
+        "lng": -94.3708
+      },
+      "category": "health",
+      "significance": 3,
+      "section": "us-news"
     }
   ]
 }
