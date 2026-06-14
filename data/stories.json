@@ -1,124 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-14T06:55:49.675Z",
-    "story_count": 57,
-    "oldest_story": "2026-06-13T09:00:09Z",
-    "newest_story": "2026-06-14T06:00:36Z",
+    "generated_at": "2026-06-14T10:28:53.227Z",
+    "story_count": 61,
+    "oldest_story": "2026-06-13T10:58:12Z",
+    "newest_story": "2026-06-14T10:26:17Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "sport/live/2026/jun/13/scotland-v-ireland-womens-t20-world-cup-live",
-      "headline": "Scotland v Ireland: Women’s T20 World Cup – live",
-      "summary": "Scotland face Ireland in Women's T20 World Cup match at Old Trafford.",
-      "url": "https://www.theguardian.com/p/x58q8k",
-      "thumbnail": "https://media.guim.co.uk/256dc25d3bb2bddd7947363f3404ab734cd181ce/1065_522_3656_2924/500.jpg",
-      "published": "2026-06-13T09:44:46Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4831,
-        "lng": -2.2344
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "sport"
-    },
-    {
-      "id": "football/live/2026/jun/13/world-cup-2026-usa-light-up-la-englands-boots-stolen-scotlands-big-return-live",
-      "headline": "World Cup 2026: USA light up LA; England’s boots stolen; Scotland’s big return – live",
-      "summary": "World Cup 2026 continues in USA with USA defeating Paraguay 4-1 in LA.",
-      "url": "https://www.theguardian.com/p/x58q5h",
-      "thumbnail": "https://media.guim.co.uk/451474516fd5a0f34d1110a7eabbe546c9f4de82/958_0_4697_3758/500.jpg",
-      "published": "2026-06-13T09:42:22Z",
-      "location": {
-        "name": "Los Angeles",
-        "lat": 34.0522,
-        "lng": -118.2437
-      },
-      "category": "sport",
-      "significance": 4,
-      "section": "football"
-    },
-    {
-      "id": "sport/live/2026/jun/13/nottinghamshire-v-somerset-yorkshire-v-warwickshire-and-more-county-cricket-day-two-live",
-      "headline": "Nottinghamshire v Somerset, Yorkshire v Warwickshire, and more: county cricket, day two – live",
-      "summary": "County Championship cricket day two features Nottinghamshire v Somerset.",
-      "url": "https://www.theguardian.com/p/x58qa4",
-      "thumbnail": "https://media.guim.co.uk/42ba90ff0169d02e62dda103ee107c39831d1939/0_0_5788_4632/500.jpg",
-      "published": "2026-06-13T09:20:49Z",
-      "location": {
-        "name": "Nottingham",
-        "lat": 52.9549,
-        "lng": -1.1084
-      },
-      "category": "sport",
-      "significance": 1,
-      "section": "sport"
-    },
-    {
-      "id": "football/2026/jun/13/david-beckham-joins-hollywood-walk-of-fame-world-cup",
-      "headline": "David Beckham joins Hollywood Walk of Fame as World Cup comes to LA",
-      "summary": "David Beckham receives Hollywood Walk of Fame star as World Cup comes to LA.",
-      "url": "https://www.theguardian.com/p/x59ff6",
-      "thumbnail": "https://media.guim.co.uk/32ae15e1e84130ca85894cc461acd43b18778a86/85_0_4707_3768/500.jpg",
-      "published": "2026-06-13T09:09:43Z",
-      "location": {
-        "name": "Los Angeles",
-        "lat": 34.0522,
-        "lng": -118.2437
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "us-news/2026/jun/13/trump-ufc-birthday-white-house",
-      "headline": "Seven fights on the South Lawn: Trump prepares for UFC birthday spectacle at White House",
-      "summary": "Trump hosts UFC event at White House for his 80th birthday celebration.",
-      "url": "https://www.theguardian.com/p/x59xj3",
-      "thumbnail": "https://media.guim.co.uk/8ce559b80ee07909fd893c6200fb03bf6a7d9e79/141_0_4049_3239/500.jpg",
-      "published": "2026-06-13T09:00:10Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "business/2026/jun/13/uk-music-festivals-higher-costs-secret-garden-party-womad-glasgow",
-      "headline": "‘We eat and drink risk’: higher costs bring curtain down on more UK music festivals",
-      "summary": "UK music festivals face closure due to rising costs; Womad Glasgow event cancelled.",
-      "url": "https://www.theguardian.com/p/x595mg",
-      "thumbnail": "https://media.guim.co.uk/ac36a2a572ca996527e78496474afae3a0419f76/599_170_3796_3037/500.jpg",
-      "published": "2026-06-13T09:00:09Z",
-      "location": {
-        "name": "Glasgow",
-        "lat": 55.8642,
-        "lng": -4.2518
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "film/2026/jun/13/stop-that-train-film-drag-comedy",
-      "headline": "‘A movie for everyone, not just Drag Race fans’: stars of drag comedy Stop! That! Train! on making the summer’s funniest film",
-      "summary": "Drag comedy film 'Stop! That! Train!' brings Airplane-style parody to cinemas.",
-      "url": "https://www.theguardian.com/p/x59ck3",
-      "thumbnail": "https://media.guim.co.uk/18e498b4e64cef35cc78474866793e594ec741dd/657_0_6634_5307/500.jpg",
-      "published": "2026-06-13T09:00:09Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "film"
-    },
     {
       "id": "us-news/2026/jun/13/trump-name-removed-kennedy-center-facade",
       "headline": "Workers begin to remove Trump’s name from Kennedy Center after court rulings",
@@ -918,6 +806,182 @@
       "category": "health",
       "significance": 2,
       "section": "australia-news"
+    },
+    {
+      "id": "politics/live/2026/jun/14/russian-shadow-fleet-oil-tanker-channel-army-marines-keir-starmer-dan-jarvis-makerfield-labour-uk-politics-latest-news-updates",
+      "headline": "Zelenskyy thanks UK for intercepting Russian shadow fleet oil tanker after armed forces board vessel in English Channel - UK politics live ",
+      "summary": "UK armed forces intercept Russian shadow fleet oil tanker in English Channel.",
+      "url": "https://www.theguardian.com/p/x59kh5",
+      "thumbnail": "https://media.guim.co.uk/1be6a9150b826f5997adcc12f332bf6526bc164d/340_0_3466_2774/500.jpg",
+      "published": "2026-06-14T10:26:17Z",
+      "location": {
+        "name": "English Channel",
+        "lat": 50.95,
+        "lng": 1.9
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "politics"
+    },
+    {
+      "id": "football/live/2026/jun/14/world-cup-2026-news-scotland-react-to-first-world-cup-victory-in-36-years-as-australia-beat-turkey",
+      "headline": "World Cup 2026: Scotland react to first victory in 36 years as Australia beat Turkey – live",
+      "summary": "World Cup 2026: Scotland celebrates first victory in 36 years; Australia beats Turkey.",
+      "url": "https://www.theguardian.com/p/x58q5x",
+      "thumbnail": "https://media.guim.co.uk/fd9c8b5764e20c33e31d89bd0804c2ee72c24425/510_219_4715_3772/500.jpg",
+      "published": "2026-06-14T10:23:06Z",
+      "location": {
+        "name": "United States",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "world/live/2026/jun/14/iran-us-middle-east-crisis-donald-trump-peace-deal-strait-hormuz-open-pakistan-latest-news-updates",
+      "headline": "Middle East crisis live: Trump says Iran deal will be signed today but sources tell media Tehran ‘not yet’ taken final decision",
+      "summary": "Trump says Iran peace deal will be signed today; strait of Hormuz to open.",
+      "url": "https://www.theguardian.com/p/x59jca",
+      "thumbnail": "https://media.guim.co.uk/1f97269d5001736c9d05aef277c9cc3829d32434/733_0_3349_2678/500.jpg",
+      "published": "2026-06-14T10:21:04Z",
+      "location": {
+        "name": "Iran",
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "category": "politics",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "sport/2026/jun/14/dana-white-ufc-donald-trump",
+      "headline": "From ‘human cockfighting’ to the White House lawn: the stratospheric rise of the UFC’s Dana White",
+      "summary": "UFC hosts MMA event on White House lawn for Trump's 80th birthday celebration.",
+      "url": "https://www.theguardian.com/p/x59ctq",
+      "thumbnail": "https://media.guim.co.uk/f7578cfaba4d1c4d6791006cf47c36ce9ef48c7f/720_0_7200_5760/500.jpg",
+      "published": "2026-06-14T10:00:42Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "society/2026/jun/14/devon-company-kit-funeral-shroud-covers",
+      "headline": "‘A beautiful display of love’: company launches DIY funeral shroud cover kit",
+      "summary": "Devon company launches DIY funeral shroud cover kit for personalized funeral alternatives.",
+      "url": "https://www.theguardian.com/p/x59b3f",
+      "thumbnail": "https://media.guim.co.uk/dc97a797ff883814e48e5ddea5f0b5e399f6e6dc/499_0_4988_3991/500.jpg",
+      "published": "2026-06-14T10:00:42Z",
+      "location": {
+        "name": "Devon",
+        "lat": 50.7184,
+        "lng": -3.5339
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "society"
+    },
+    {
+      "id": "business/2026/jun/14/london-trial-drug-prevent-cancer-cytokine-storm-poolbeg-pharma",
+      "headline": "London startup to trial drug to prevent cancer therapy side-effect ‘cytokine storm’",
+      "summary": "London startup Poolbeg Pharma trials drug to prevent cancer therapy cytokine storm.",
+      "url": "https://www.theguardian.com/p/x58pza",
+      "thumbnail": "https://media.guim.co.uk/862af8ee553483cf309201edfb391a4d06374200/2202_0_5045_4035/500.jpg",
+      "published": "2026-06-14T10:00:41Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "football/2026/jun/14/folarin-balogun-usmnt-paraguay-world-cup",
+      "headline": "England’s loss is USA’s gain as Pochettino find a spearhead in Folarin Balogun",
+      "summary": "England's Folarin Balogun provides finishing for USMNT against Paraguay in World Cup.",
+      "url": "https://www.theguardian.com/p/x59t59",
+      "thumbnail": "https://media.guim.co.uk/d7c5610d72c106ee7179b14c1f2b76884461fe33/701_0_3722_2977/500.jpg",
+      "published": "2026-06-14T10:00:41Z",
+      "location": {
+        "name": "United States",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/jun/14/world-cup-heat-workers",
+      "headline": "‘It’s going to be extremely hot’: workers imperiled as sweltering World Cup temperatures are forecast",
+      "summary": "World Cup workers face health risks from extreme heat exceeding 90F in host cities.",
+      "url": "https://www.theguardian.com/p/x58hgq",
+      "thumbnail": "https://media.guim.co.uk/18061863815e0e1b8ec4d3c12855ef698d9909a0/815_0_4084_3266/500.jpg",
+      "published": "2026-06-14T10:00:41Z",
+      "location": {
+        "name": "United States",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "commentisfree/2026/jun/14/trump-is-desecrating-the-lincoln-memorial-a-civic-sacred-ground",
+      "headline": "Trump is desecrating the Lincoln Memorial - a civic sacred ground",
+      "summary": "Trump hosts MMA event at Lincoln Memorial, criticized as desecration of civic sacred ground.",
+      "url": "https://www.theguardian.com/p/x59hqj",
+      "thumbnail": "https://media.guim.co.uk/8aba4f7f9ef633fb4a20654266caea7056e85ce2/412_0_6827_5464/500.jpg",
+      "published": "2026-06-14T10:00:39Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "commentisfree"
+    },
+    {
+      "id": "world/2026/jun/14/ukraine-and-moldova-start-first-phase-of-eu-membership-negotiations",
+      "headline": "Ukraine and Moldova to enter first phase of EU membership negotiations ",
+      "summary": "Ukraine and Moldova begin first phase of EU membership negotiations in Luxembourg.",
+      "url": "https://www.theguardian.com/p/x59hpe",
+      "thumbnail": "https://media.guim.co.uk/23915b2d3a06fa48bcabdbfe433d82479eb0f1c2/590_0_2950_2360/500.jpg",
+      "published": "2026-06-14T09:33:32Z",
+      "location": {
+        "name": "Luxembourg",
+        "lat": 49.6116,
+        "lng": 6.1319
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "politics/2026/jun/14/cabinet-ministers-asked-to-look-for-cuts-to-fund-uk-defence-spending-increase",
+      "headline": "Cabinet ministers asked to look for cuts to fund UK defence spending increase",
+      "summary": "UK Cabinet ministers seek budget cuts to fund defence spending increase after Healey resignation.",
+      "url": "https://www.theguardian.com/p/x59kq3",
+      "thumbnail": "https://media.guim.co.uk/542bb14fb58955389ece802002482a7d50dfe54c/128_0_1776_1421/500.jpg",
+      "published": "2026-06-14T09:18:46Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
     }
   ]
 }
