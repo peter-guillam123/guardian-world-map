@@ -1,156 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-14T10:28:53.227Z",
-    "story_count": 61,
-    "oldest_story": "2026-06-13T10:58:12Z",
-    "newest_story": "2026-06-14T10:26:17Z",
+    "generated_at": "2026-06-14T12:26:09.454Z",
+    "story_count": 63,
+    "oldest_story": "2026-06-13T13:00:14Z",
+    "newest_story": "2026-06-14T12:20:37Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "us-news/2026/jun/13/trump-name-removed-kennedy-center-facade",
-      "headline": "Workers begin to remove Trump’s name from Kennedy Center after court rulings",
-      "summary": "Workers remove Trump's name from Kennedy Center facade after court ruling.",
-      "url": "https://www.theguardian.com/p/x59g3z",
-      "thumbnail": "https://media.guim.co.uk/6b6e5fac35c52f01906e73446c3fb7221c0a6d2c/524_0_4949_3960/500.jpg",
-      "published": "2026-06-13T11:30:23Z",
-      "location": {
-        "name": "Washington, DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "football/2026/jun/13/everyone-is-welcome-with-us-curacao-want-you-along-for-their-first-world-cup-ride",
-      "headline": "‘Everyone is welcome with us’: Curaçao want you along for their first World Cup ride",
-      "summary": "Curaçao celebrates qualification for first World Cup as smallest nation ever.",
-      "url": "https://www.theguardian.com/p/x52n2c",
-      "thumbnail": "https://media.guim.co.uk/9cb6ff3d9b74d7a7ff48c93865a4973b4d6e1d18/273_0_5033_4024/500.jpg",
-      "published": "2026-06-13T11:07:48Z",
-      "location": {
-        "name": "Curaçao",
-        "lat": 12.1696,
-        "lng": -68.99
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/jun/13/in-a-usa-win-for-the-history-books-what-stood-out-most-was-the-fun-and-free-nature-of-it",
-      "headline": "In a USA win for the history books, what stood out most was the ‘fun’ and free nature of it",
-      "summary": "USA defeats Paraguay 4-1 in historic World Cup match under new coach.",
-      "url": "https://www.theguardian.com/p/x59eph",
-      "thumbnail": "https://media.guim.co.uk/0f1005ca1482f9f08d087cd06f56f025e0783f28/0_0_4616_3695/500.jpg",
-      "published": "2026-06-13T11:00:14Z",
-      "location": {
-        "name": "Washington, DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "world/2026/jun/13/ecuador-fishing-boats-us-strikes",
-      "headline": "US claims it is not responsible for strikes on Ecuadorian fishing boats – so who is?",
-      "summary": "Ecuadorian fishing boats attacked by drone; US denies responsibility for strikes.",
-      "url": "https://www.theguardian.com/p/x59ck8",
-      "thumbnail": "https://media.guim.co.uk/0f4dc0f4741ec647fad603f18892beccce041053/249_0_4165_3333/500.jpg",
-      "published": "2026-06-13T11:00:13Z",
-      "location": {
-        "name": "Ecuador",
-        "lat": -1.8312,
-        "lng": -78.1834
-      },
-      "category": "conflict",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "society/2026/jun/13/nerve-lab-uk-ai-brain-scanning-tech-childrens-screen-time",
-      "headline": "Pioneering UK Nerve Lab harnesses AI to map effect of children’s screen time ",
-      "summary": "UK Nerve Lab uses AI to map effects of children's screen time on development.",
-      "url": "https://www.theguardian.com/p/x59ae5",
-      "thumbnail": "https://media.guim.co.uk/771af72e4610d0b12aa1a96202ad70538f50959e/642_0_6827_5464/500.jpg",
-      "published": "2026-06-13T11:00:13Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "tech",
-      "significance": 1,
-      "section": "society"
-    },
-    {
-      "id": "us-news/2026/jun/13/new-york-oshae-sibley-death-conviction",
-      "headline": "New York man who killed gay dancer faces 25 years after hate-crime conviction",
-      "summary": "Man convicted of hate crime in 2023 vogue dancer stabbing faces 25 years.",
-      "url": "https://www.theguardian.com/p/x59d28",
-      "thumbnail": "https://media.guim.co.uk/6e8abfc9447f5a57eee970cb4667963ec49c77ea/477_0_4730_3782/500.jpg",
-      "published": "2026-06-13T11:00:12Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "media/2026/jun/13/abc-fcc-license-trump-kimmel",
-      "headline": "‘Open season’ on ABC as FCC moves up public comment process for renewals",
-      "summary": "FCC accelerates ABC license renewal process amid Trump administration pressure.",
-      "url": "https://www.theguardian.com/p/x58n98",
-      "thumbnail": "https://media.guim.co.uk/e0f9dc57502437aaff1761b51ea8fc2c0d4ef5db/688_0_6880_5504/500.jpg",
-      "published": "2026-06-13T11:00:12Z",
-      "location": {
-        "name": "Washington, DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "media"
-    },
-    {
-      "id": "us-news/2026/jun/13/ice-border-patrol-funding-bill",
-      "headline": "ICE, borders and DHS: what’s in Trump’s $70bn immigration crackdown bill?",
-      "summary": "Trump signs $70bn immigration bill to fund mass deportation campaign.",
-      "url": "https://www.theguardian.com/p/x59bdt",
-      "thumbnail": "https://media.guim.co.uk/dabc2246b3785fec78a606313e763fb42e8e95f6/500_0_5000_4000/500.jpg",
-      "published": "2026-06-13T11:00:12Z",
-      "location": {
-        "name": "Washington, DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "film/2026/jun/13/beeban-kidron-interview-baroness-big-tech-online-child-abuse",
-      "headline": "‘Why would you put a toxic product into the hands of a young child?’: director turned activist Beeban Kidron on why big tech needs its ‘tobacco moment’",
-      "summary": "Director Beeban Kidron calls for big tech's 'tobacco moment' on child online safety.",
-      "url": "https://www.theguardian.com/p/x56fgt",
-      "thumbnail": "https://media.guim.co.uk/12b94c83cdd9c62276bed7219b3e743bf6cd076a/0_676_5669_4536/500.jpg",
-      "published": "2026-06-13T10:58:12Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "film"
-    },
     {
       "id": "sport/live/2026/jun/13/australia-v-south-africa-womens-t20-cricket-world-cup-live",
       "headline": "Australia v South Africa: Women’s T20 Cricket World Cup – live",
@@ -974,6 +830,182 @@
       "url": "https://www.theguardian.com/p/x59kq3",
       "thumbnail": "https://media.guim.co.uk/542bb14fb58955389ece802002482a7d50dfe54c/128_0_1776_1421/500.jpg",
       "published": "2026-06-14T09:18:46Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "us-news/2026/jun/14/white-house-ufc-fighters-crypto",
+      "headline": "UFC to pay White House fighters in crypto issued by Trump company",
+      "summary": "UFC to pay fighter bonuses in Trump family crypto at White House event.",
+      "url": "https://www.theguardian.com/p/x59hqf",
+      "thumbnail": "https://media.guim.co.uk/28981dac6963fc574a1b4e70dfd6d038be12464c/652_0_6523_5218/500.jpg",
+      "published": "2026-06-14T12:20:37Z",
+      "location": {
+        "name": "Washington, DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "sport/live/2026/jun/14/barcelona-catalunya-grand-prix-formula-one-2026-live",
+      "headline": "Barcelona-Catalunya Grand Prix: Formula One 2026 – live",
+      "summary": "Formula One Barcelona-Catalunya Grand Prix 2026 live race coverage.",
+      "url": "https://www.theguardian.com/p/x58qzb",
+      "thumbnail": "https://media.guim.co.uk/e040db110d3e3a282161981e734dfaf693eab823/420_0_5000_4000/500.jpg",
+      "published": "2026-06-14T12:19:44Z",
+      "location": {
+        "name": "Barcelona",
+        "lat": 41.57,
+        "lng": 2.2622
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "world/2026/jun/14/dna-from-2000-year-old-grape-seeds-points-to-origins-of-modern-winemaking",
+      "headline": "DNA from 2,000-year-old grape seeds points to origins of modern winemaking",
+      "summary": "Ancient grape seeds reveal origins of Roman winemaking in Tuscany.",
+      "url": "https://www.theguardian.com/p/x59y4k",
+      "thumbnail": "https://media.guim.co.uk/0fb3c028cefece1e102a88df0e413bc01a18c269/143_0_4322_3456/500.jpg",
+      "published": "2026-06-14T12:12:10Z",
+      "location": {
+        "name": "Tuscany",
+        "lat": 43.19,
+        "lng": 11.58
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "tv-and-radio/2026/jun/14/daphne-shadwell-obituary",
+      "headline": "Daphne Shadwell obituary",
+      "summary": "Daphne Shadwell obituary: pioneering TV director and Ready Steady Go! title creator.",
+      "url": "https://www.theguardian.com/p/x59bq6",
+      "thumbnail": "https://media.guim.co.uk/e27d70b1c5359aad7befbe6fcc7ceeea3ba5088b/419_0_4079_3264/500.jpg",
+      "published": "2026-06-14T12:07:02Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "tv-and-radio"
+    },
+    {
+      "id": "us-news/2026/jun/14/breast-milk-research-chemicals",
+      "headline": "Dangerous hormone-disrupting chemicals found in US breast milk samples",
+      "summary": "Hormone-disrupting chemicals found in Seattle mothers' breast milk samples.",
+      "url": "https://www.theguardian.com/p/x59d7d",
+      "thumbnail": "https://media.guim.co.uk/949264e2b190900bf6ac7cb2b764b79ba4807533/995_0_5021_4016/500.jpg",
+      "published": "2026-06-14T12:00:43Z",
+      "location": {
+        "name": "Seattle",
+        "lat": 47.6062,
+        "lng": -122.3321
+      },
+      "category": "health",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "world/2026/jun/14/brazil-world-cup-paintings-police-raid",
+      "headline": "Brazilians paint streets to celebrate World Cup after deadly police raid: ‘Why not transform this place?’",
+      "summary": "Brazilians paint streets to celebrate World Cup after deadly police raid.",
+      "url": "https://www.theguardian.com/p/x58m3f",
+      "thumbnail": "https://media.guim.co.uk/11c98081960388a11e3e665628665a1dba88d88b/821_0_5000_4000/500.jpg",
+      "published": "2026-06-14T12:00:43Z",
+      "location": {
+        "name": "Rio de Janeiro",
+        "lat": -22.9068,
+        "lng": -43.1729
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "society/2026/jun/14/other-medications-opioids-alternatives-study",
+      "headline": "Antidepressants and antipsychotics could serve as alternatives to opioids, study finds",
+      "summary": "Study shows antidepressants and antipsychotics could replace opioids for pain.",
+      "url": "https://www.theguardian.com/p/x59b32",
+      "thumbnail": "https://media.guim.co.uk/cb0cd66c03544683093c7c0d0f233070d1128682/418_0_5082_4066/500.jpg",
+      "published": "2026-06-14T12:00:42Z",
+      "location": {
+        "name": "San Francisco",
+        "lat": 37.7749,
+        "lng": -122.4194
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "society"
+    },
+    {
+      "id": "world/2026/jun/14/lgbtq-pride-rochford-essex-council-library-ban-reform-uk",
+      "headline": "‘Straight out of Trumpland’: LGBTQ+ members fight for Pride after Essex library ban",
+      "summary": "Essex LGBTQ+ community fights Reform council's Pride flag and event ban.",
+      "url": "https://www.theguardian.com/p/x58qe3",
+      "thumbnail": "https://media.guim.co.uk/479e78db013befcef7c0ecb46276091cbba5f154/560_0_5600_4480/500.jpg",
+      "published": "2026-06-14T12:00:42Z",
+      "location": {
+        "name": "Rochford",
+        "lat": 51.5831,
+        "lng": 0.7104
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "artanddesign/2026/jun/14/david-kemp-obituary",
+      "headline": "David Kemp obituary",
+      "summary": "David Kemp obituary: surrealist artist using industrial detritus for sculptures.",
+      "url": "https://www.theguardian.com/p/x59bb4",
+      "thumbnail": "https://media.guim.co.uk/dc9e717ec4c56471ae8c3e49b1e1a94d7f8cccc8/679_0_5607_4485/500.jpg",
+      "published": "2026-06-14T11:57:03Z",
+      "location": {
+        "name": "Botallack",
+        "lat": 50.1153,
+        "lng": -5.5575
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "artanddesign"
+    },
+    {
+      "id": "stage/2026/jun/14/a-life-in-four-seasons-review-regents-park-open-air-theatre-dance",
+      "headline": "A Life in Four Seasons review – dancers of all ages have spring in their steps",
+      "summary": "A Life in Four Seasons dance performance at Regent's Park to Vivaldi remix.",
+      "url": "https://www.theguardian.com/p/x59y2e",
+      "thumbnail": "https://media.guim.co.uk/5a952b751651f9f0eb9f19c3813314724e955687/1558_893_3884_3107/500.jpg",
+      "published": "2026-06-14T11:46:48Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "stage"
+    },
+    {
+      "id": "politics/2026/jun/14/wes-streeting-high-skilled-immigration-labour-leadership-tax-revenue-north-sea-oil-gas",
+      "headline": "Wes Streeting plans to increase high-skilled immigration if he becomes PM",
+      "summary": "Wes Streeting plans high-skilled immigration increase if he becomes PM.",
+      "url": "https://www.theguardian.com/p/x59y5t",
+      "thumbnail": "https://media.guim.co.uk/ab197d12310bb8c632e2c36e11dab45fc77d8ab1/550_0_5524_4419/500.jpg",
+      "published": "2026-06-14T11:42:26Z",
       "location": {
         "name": "London",
         "lat": 51.5074,
