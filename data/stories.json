@@ -1,76 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-14T16:42:18.720Z",
-    "story_count": 71,
-    "oldest_story": "2026-06-13T17:16:53Z",
-    "newest_story": "2026-06-14T16:40:57Z",
+    "generated_at": "2026-06-14T18:02:53.778Z",
+    "story_count": 73,
+    "oldest_story": "2026-06-13T19:00:21Z",
+    "newest_story": "2026-06-14T18:00:49Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/live/2026/jun/13/qatar-v-switzerland-world-cup-2026-live",
-      "headline": "Qatar v Switzerland: World Cup 2026 – live",
-      "summary": "Qatar faces Switzerland in World Cup 2026 group stage match in Bay Area.",
-      "url": "https://www.theguardian.com/p/x58q7f",
-      "thumbnail": "https://media.guim.co.uk/9788f2ffbf962980fcc8120e17568ad305b8fb7a/615_0_4076_3262/500.jpg",
-      "published": "2026-06-13T17:58:00Z",
-      "location": {
-        "name": "San Francisco Bay Area",
-        "lat": 37.7749,
-        "lng": -122.4194
-      },
-      "category": "sport",
-      "significance": 4,
-      "section": "football"
-    },
-    {
-      "id": "world/2026/jun/13/preliminary-peace-deal-could-be-signed-within-days-says-us-iran-and-mediators",
-      "headline": "Trump says Iran peace deal could be signed by Sunday, with strait of Hormuz to open shortly after",
-      "summary": "Trump announces Iran peace deal could be signed Sunday, reopening Strait of Hormuz.",
-      "url": "https://www.theguardian.com/p/x59h95",
-      "thumbnail": "https://media.guim.co.uk/2f2107bc4ef0c25ce04f404924ee47b195f7f272/513_0_5113_4092/500.jpg",
-      "published": "2026-06-13T17:50:27Z",
-      "location": {
-        "name": "Tehran",
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "category": "politics",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "uk-news/2026/jun/13/far-right-anti-racist-protesters-clash-brighton-liverpool-sheffield-glasgow",
-      "headline": "Far-right and anti-racist protesters clash in UK cities after Belfast riots",
-      "summary": "Far-right and anti-racist protesters clash across UK cities after Belfast riots.",
-      "url": "https://www.theguardian.com/p/x59gpx",
-      "thumbnail": "https://media.guim.co.uk/ec48bb4858b45cf012e1bd6c958a20b410b3615e/963_33_4183_3347/500.jpg",
-      "published": "2026-06-13T17:30:22Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "conflict",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "us-news/2026/jun/13/texas-elephant-republican-convention",
-      "headline": "Gee, whiz: elephant relieves itself on floor of Texas Republican convention",
-      "summary": "Elephant at Texas Republican convention causes commotion after urinating on floor.",
-      "url": "https://www.theguardian.com/p/x59hac",
-      "thumbnail": "https://media.guim.co.uk/c96be081b009e5ba2b1ae59b5348e16675be5aa6/695_0_7035_5628/500.jpg",
-      "published": "2026-06-13T17:16:53Z",
-      "location": {
-        "name": "Austin",
-        "lat": 30.2672,
-        "lng": -97.7431
-      },
-      "category": "other",
-      "significance": 1,
-      "section": "us-news"
-    },
     {
       "id": "film/2026/jun/13/rosamund-pike-keeps-cool-phone-alarm-interrupts-performance-inter-alia",
       "headline": "Rosamund Pike keeps cool after phone alarm interrupts performance",
@@ -1142,6 +1078,102 @@
       "category": "politics",
       "significance": 3,
       "section": "uk-news"
+    },
+    {
+      "id": "football/live/2026/jun/14/netherlands-v-japan-world-cup-2026-live",
+      "headline": "Netherlands v Japan: World Cup 2026 – live",
+      "summary": "Netherlands face Japan in World Cup 2026 Group F match in Dallas.",
+      "url": "https://www.theguardian.com/p/x58q9a",
+      "thumbnail": "https://media.guim.co.uk/11101b2c0345c3d5cc90b738ebdae4ab1de53c0d/63_0_5284_4226/500.jpg",
+      "published": "2026-06-14T18:00:49Z",
+      "location": {
+        "name": "Dallas",
+        "lat": 32.7767,
+        "lng": -96.797
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "music/2026/jun/14/ariana-grande-eternal-sunshine-tour-review-la",
+      "headline": "Ariana Grande review - glittering hits and powerhouse vocals in stunning return to stage",
+      "summary": "Ariana Grande dazzles in first tour in seven years at LA arena.",
+      "url": "https://www.theguardian.com/p/x59my4",
+      "thumbnail": "https://media.guim.co.uk/7b4bd35e2b2f01efc75bb92ecf372944c9f4895d/363_0_2080_1664/500.jpg",
+      "published": "2026-06-14T17:35:30Z",
+      "location": {
+        "name": "Los Angeles",
+        "lat": 34.0522,
+        "lng": -118.2437
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "music"
+    },
+    {
+      "id": "sport/2026/jun/14/india-start-womens-t20-world-cup-in-style-as-sharma-makes-short-work-of-pakistan",
+      "headline": "India start Women’s T20 World Cup in style as Sharma makes short work of Pakistan",
+      "summary": "India dominate Pakistan in Women's T20 World Cup opener at Edgbaston.",
+      "url": "https://www.theguardian.com/p/x59m6b",
+      "thumbnail": "https://media.guim.co.uk/0af6baa41809fef6907c31823ed432ae2add6fc4/209_103_3528_2822/500.jpg",
+      "published": "2026-06-14T17:29:06Z",
+      "location": {
+        "name": "Birmingham",
+        "lat": 52.5086,
+        "lng": -1.8853
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "sport"
+    },
+    {
+      "id": "uk-news/2026/jun/14/police-stop-tommy-robinson-way-back-london-from-russia",
+      "headline": "Police stop Tommy Robinson on his way back to London from Russian trip",
+      "summary": "Police stop Tommy Robinson at Heathrow after Moscow trip, seize phones.",
+      "url": "https://www.theguardian.com/p/x59md8",
+      "thumbnail": "https://media.guim.co.uk/f03ae5a9939a6a0791da84be8e55d2bcf9b4dc24/1403_553_5364_4291/500.jpg",
+      "published": "2026-06-14T17:24:31Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "football/2026/jun/14/ayyoub-bouaddi-morocco-brazil-world-cup-football-vinicius-junior",
+      "headline": "Brilliant teenager Bouaddi glides on to big stage with effortless grace for Morocco",
+      "summary": "Morocco midfielder Bouaddi impresses in World Cup draw against Brazil.",
+      "url": "https://www.theguardian.com/p/x59ma2",
+      "thumbnail": "https://media.guim.co.uk/1be45c672c7b00744116249caf80ac283e2a27ad/306_0_5777_4621/500.jpg",
+      "published": "2026-06-14T16:59:49Z",
+      "location": {
+        "name": "East Rutherford",
+        "lat": 40.8135,
+        "lng": -74.0745
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "world/2026/jun/14/switzerland-referendum-population-cap-svp",
+      "headline": "Swiss voters appear to reject proposal to cap population at 10 million",
+      "summary": "Swiss voters reject far-right proposal to cap population at 10 million.",
+      "url": "https://www.theguardian.com/p/x59mxm",
+      "thumbnail": "https://media.guim.co.uk/c59fdcc5303460845e8e3972875c38e6a7c3d300/811_0_4054_3243/500.jpg",
+      "published": "2026-06-14T16:54:02Z",
+      "location": {
+        "name": "Switzerland",
+        "lat": 46.8182,
+        "lng": 8.2275
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "world"
     }
   ]
 }
