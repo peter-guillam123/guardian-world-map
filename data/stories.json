@@ -1,92 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-15T19:56:56.802Z",
-    "story_count": 60,
-    "oldest_story": "2026-06-14T20:21:51Z",
-    "newest_story": "2026-06-15T19:55:31Z",
+    "generated_at": "2026-06-15T22:24:17.496Z",
+    "story_count": 59,
+    "oldest_story": "2026-06-14T22:29:27Z",
+    "newest_story": "2026-06-15T22:23:28Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "australia-news/2026/jun/15/morning-mail-monday-ntwnfb",
-      "headline": "Morning Mail: How police failed killed toddler Mason Lee; inside WA’s mouse plague; ecstasy after Socceroos’ win",
-      "summary": "Police failures revealed in death of toddler Mason Lee from 10 years ago in Queensland.",
-      "url": "https://www.theguardian.com/p/x59mhg",
-      "thumbnail": "https://media.guim.co.uk/bc9a4a4eeb918bd9bef546c94b149caada8c1ebb/0_0_5000_4000/500.jpg",
-      "published": "2026-06-14T21:10:41Z",
-      "location": {
-        "name": "Queensland",
-        "lat": -27.4698,
-        "lng": 153.0251
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "us-news/2026/jun/14/jd-vance-2028-presidential-campaign-midterms-talks",
-      "headline": "JD Vance says he will discuss 2028 presidential run after midterm elections",
-      "summary": "VP JD Vance plans to discuss 2028 presidential run after 2026 midterm elections.",
-      "url": "https://www.theguardian.com/p/x59nhk",
-      "thumbnail": "https://media.guim.co.uk/cf2b8d38f09c9813c92bf4fb831e1acdd6ab03e6/678_0_7200_5760/500.jpg",
-      "published": "2026-06-14T21:03:25Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "society/2026/jun/14/assisted-dying-bill-return-commons-lauren-edwards",
-      "headline": "Assisted dying bill set to return to the Commons",
-      "summary": "Labour MP Lauren Edwards to reintroduce assisted dying bill to Commons for another vote.",
-      "url": "https://www.theguardian.com/p/x59nek",
-      "thumbnail": "https://media.guim.co.uk/396b6f7938ccc67b1e240d0f68e88fc0487ca3fa/356_0_4868_3895/500.jpg",
-      "published": "2026-06-14T20:54:36Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "society"
-    },
-    {
-      "id": "sport/2026/jun/14/saracens-exeter-premiership-womens-rugby-semi-final-match-report",
-      "headline": "Trailfinders set up Saracens final after stunning upset ends Gloucester’s reign",
-      "summary": "Trailfinders upset defending champions Gloucester 29-26; Saracens beat Exeter 40-38 in PWR.",
-      "url": "https://www.theguardian.com/p/x59me2",
-      "thumbnail": "https://media.guim.co.uk/82ef74bb07bffdce39a7a30fff488d40fa4d5ef9/398_0_2917_2333/500.jpg",
-      "published": "2026-06-14T20:33:44Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "sport/2026/jun/14/you-always-have-it-hamilton-breaks-f1-ferrari-drought-but-admits-he-doubted-himself",
-      "headline": "‘You always have it’: Hamilton breaks F1 Ferrari drought but admits he doubted himself",
-      "summary": "Lewis Hamilton claims 106th F1 victory with Ferrari in Spain after 41-race winless streak.",
-      "url": "https://www.theguardian.com/p/x59m5n",
-      "thumbnail": "https://media.guim.co.uk/63e0007b37250f436567e942935d0d2ad035c176/522_137_3610_2888/500.jpg",
-      "published": "2026-06-14T20:21:51Z",
-      "location": {
-        "name": "Barcelona",
-        "lat": 41.3851,
-        "lng": 2.1734
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "sport"
-    },
     {
       "id": "football/live/2026/jun/14/cote-d-ivoire-v-ecuador-world-cup-2026-live",
       "headline": "Côte d’Ivoire v Ecuador: World Cup 2026 – live",
@@ -118,70 +38,6 @@
       "category": "other",
       "significance": 2,
       "section": "australia-news"
-    },
-    {
-      "id": "football/2026/jun/14/netherlands-japan-world-cup-match-report",
-      "headline": "Fortune favours Kamada as Japan rescue World Cup draw with Netherlands",
-      "summary": "Japan draws 2-2 with Netherlands in World Cup 2026 Group F match near Dallas.",
-      "url": "https://www.theguardian.com/p/x59mvp",
-      "thumbnail": "https://media.guim.co.uk/11c106490ec8aebb4dfe4dcbb9273a5b949777ec/213_0_1871_1497/500.jpg",
-      "published": "2026-06-14T22:22:03Z",
-      "location": {
-        "name": "Arlington",
-        "lat": 32.7357,
-        "lng": -97.2247
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "us-news/2026/jun/14/trump-ufc-fight-white-house-protest",
-      "headline": "‘Reeks of corruption’: protesters rally as Trump hosts UFC event on his birthday",
-      "summary": "Trump hosts first private for-profit UFC event on White House grounds amid protests.",
-      "url": "https://www.theguardian.com/p/x59mp6",
-      "thumbnail": "https://media.guim.co.uk/5a7a3c9acbf7f13360eb1e32dd6d59f1ce16ad81/171_0_5354_4284/500.jpg",
-      "published": "2026-06-14T21:54:30Z",
-      "location": {
-        "name": "Washington, DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "politics/2026/jun/14/defence-secretary-dan-jarvis-uk-plan-military-spending-dip",
-      "headline": "New defence secretary to ‘reprioritise’ UK plan for military spending, say sources",
-      "summary": "New UK defence secretary Dan Jarvis to 'reprioritise' military spending plan.",
-      "url": "https://www.theguardian.com/p/x59m9g",
-      "thumbnail": "https://media.guim.co.uk/4a5e0bb53118a7bdc9e2cbe3a81b1f7dfebe9370/588_0_6330_5067/500.jpg",
-      "published": "2026-06-14T21:53:23Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "uk-news/2026/jun/14/starmer-to-announce-australia-plus-ban-on-social-media-for-under-16s",
-      "headline": "Starmer to announce ‘Australia plus’ ban on social media for under-16s",
-      "summary": "UK PM Starmer announces 'Australia plus' social media ban for under-16s.",
-      "url": "https://www.theguardian.com/p/x59m6e",
-      "thumbnail": "https://media.guim.co.uk/bd00bba2cd27394873544ad5f172041fd04eba24/194_0_5472_4378/500.jpg",
-      "published": "2026-06-14T21:42:23Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "uk-news"
     },
     {
       "id": "sport/live/2026/jun/14/ufc-freedom-250-fights-trump-white-house-live-blog",
@@ -966,6 +822,134 @@
       "category": "culture",
       "significance": 1,
       "section": "stage"
+    },
+    {
+      "id": "australia-news/live/2026/jun/16/australia-news-live-victoria-wfh-work-from-home-labor-fuel-excise-budget-cost-of-living-albanese-chalmers-one-nation-hanson-rba-interest-rates-decision-ntwnfb",
+      "headline": "Australia news live: police to investigate Gaza flotilla activist allegations; Victorian law set to enshrine right to WFH",
+      "summary": "Victorian law to enshrine right to work from home; police investigate Gaza flotilla activist allegations.",
+      "url": "https://www.theguardian.com/p/x59qe9",
+      "thumbnail": "https://media.guim.co.uk/d872d2ec817712fe61cb2db8d6300607bc8691d7/638_0_6880_5504/500.jpg",
+      "published": "2026-06-15T22:23:28Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "football/live/2026/jun/15/saudi-arabia-v-uruguay-world-cup-2026-live",
+      "headline": "Saudi Arabia v Uruguay: World Cup 2026 – live",
+      "summary": "Saudi Arabia face Uruguay in World Cup 2026 group stage match in Miami.",
+      "url": "https://www.theguardian.com/p/x59c26",
+      "thumbnail": "https://media.guim.co.uk/3bfcd9e96595c7b33c38393c997cc0a39edc7059/612_0_3638_2910/500.jpg",
+      "published": "2026-06-15T22:23:07Z",
+      "location": {
+        "name": "Miami",
+        "lat": 25.7617,
+        "lng": -80.1918
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "football/live/2026/jun/15/belgium-v-egypt-world-cup-2026-live",
+      "headline": "Belgium 1-1 Egypt: World Cup 2026 – as it happened",
+      "summary": "Belgium draw 1-1 with Egypt in World Cup 2026 group stage match.",
+      "url": "https://www.theguardian.com/p/x596vf",
+      "thumbnail": "https://media.guim.co.uk/13c79bb87de291c2c5d4b1a93e4ccf7b4f865623/375_0_3746_2997/500.jpg",
+      "published": "2026-06-15T21:40:59Z",
+      "location": {
+        "name": "Miami",
+        "lat": 25.7617,
+        "lng": -80.1918
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/jun/15/leicester-appoint-russell-martin-as-wolves-unveil-cesar-peixoto-as-coach",
+      "headline": "Leicester appoint Russell Martin as Wolves unveil César Peixoto as coach",
+      "summary": "Leicester appoint Russell Martin as manager; Wolves unveil César Peixoto as new coach.",
+      "url": "https://www.theguardian.com/p/x5a24q",
+      "thumbnail": "https://media.guim.co.uk/d9859aadf99a2352ececab6db3854047c7b37282/0_0_5000_4000/500.jpg",
+      "published": "2026-06-15T21:33:31Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "world/2026/jun/15/starmer-g7-sanctions-russia-nuclear-energy-support-ukraine",
+      "headline": "Starmer vows new sanctions on Russia and nuclear energy support for Ukraine",
+      "summary": "Starmer vows new sanctions on Russia and nuclear energy support for Ukraine at G7 summit.",
+      "url": "https://www.theguardian.com/p/x5axvv",
+      "thumbnail": "https://media.guim.co.uk/771c7bd2e1df3d184b2f15a44703c62248ee17c4/3180_104_3351_2681/500.jpg",
+      "published": "2026-06-15T21:30:35Z",
+      "location": {
+        "name": "Paris",
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "us-news/2026/jun/15/dan-sullivan-alaska-primary-election-ballot",
+      "headline": "Alaska rules Dan Sullivan cannot run against Dan Sullivan in key Senate race",
+      "summary": "Alaska elections chief rules second Dan Sullivan cannot run against senator with same name.",
+      "url": "https://www.theguardian.com/p/x5a2x7",
+      "thumbnail": "https://media.guim.co.uk/88e3fc7e92aa3d3c10e538940c2b62cd600844dd/0_0_1500_1200/500.jpg",
+      "published": "2026-06-15T21:26:58Z",
+      "location": {
+        "name": "Anchorage",
+        "lat": 61.2181,
+        "lng": -149.9003
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/jun/15/cape-verde-hero-vozinha-in-tears-after-spain-draw-as-cost-of-visa-stopped-his-mother-being-at-game",
+      "headline": "Cape Verde hero Vozinha in tears after Spain draw as cost of visa stopped his mother being at game",
+      "summary": "Cape Verde goalkeeper Vozinha in tears after holding Spain 0-0 in World Cup 2026 match.",
+      "url": "https://www.theguardian.com/p/x5a273",
+      "thumbnail": "https://media.guim.co.uk/b2bf921c951645937ae88acf2cb0865b14c9ad6b/502_0_2986_2390/500.jpg",
+      "published": "2026-06-15T21:19:13Z",
+      "location": {
+        "name": "Miami",
+        "lat": 25.7617,
+        "lng": -80.1918
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/jun/15/florida-sues-tiktok-teen-social-media-access-law",
+      "headline": "Florida lawsuit accuses TikTok of violating state’s child social media ban",
+      "summary": "Florida sues TikTok for violating state's child social media access ban law.",
+      "url": "https://www.theguardian.com/p/x5a27b",
+      "thumbnail": "https://media.guim.co.uk/f521f5b5ad50549d991f496b9dbbe74915c60395/207_0_3334_2667/500.jpg",
+      "published": "2026-06-15T21:18:22Z",
+      "location": {
+        "name": "Miami",
+        "lat": 25.7617,
+        "lng": -80.1918
+      },
+      "category": "tech",
+      "significance": 2,
+      "section": "us-news"
     }
   ]
 }
