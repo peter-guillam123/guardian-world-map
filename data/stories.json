@@ -1,316 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-15T04:19:23.731Z",
-    "story_count": 83,
-    "oldest_story": "2026-06-14T05:51:35Z",
-    "newest_story": "2026-06-15T04:18:11Z",
+    "generated_at": "2026-06-15T10:42:10.212Z",
+    "story_count": 79,
+    "oldest_story": "2026-06-14T11:42:26Z",
+    "newest_story": "2026-06-15T10:41:36Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "money/2026/jun/14/i-should-know-better-tech-expert-lost-70000-in-one-simple-phone-call",
-      "headline": "‘I should know better’: tech expert lost £70,000 in one simple phone call",
-      "summary": "Tech expert loses £70,000 to phone scam while on work trip to Japan.",
-      "url": "https://www.theguardian.com/p/x59a3m",
-      "thumbnail": "https://media.guim.co.uk/dc14a53e69a96c2850f369d929e38a4a9420b8e6/584_0_5888_4709/500.jpg",
-      "published": "2026-06-14T06:00:36Z",
-      "location": {
-        "name": "Tokyo",
-        "lat": 35.6762,
-        "lng": 139.6503
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "money"
-    },
-    {
-      "id": "politics/2026/jun/14/make-platforms-that-promote-violent-content-pay-towards-riot-costs-streeting-says",
-      "headline": "Make platforms that promote violent content pay towards riot costs, Streeting says",
-      "summary": "UK minister calls for social media platforms to pay towards riot rebuilding costs.",
-      "url": "https://www.theguardian.com/p/x59b4a",
-      "thumbnail": "https://media.guim.co.uk/b8d3edcfc45b477faf570997dc5125d99d4df6cd/631_17_2082_1666/500.jpg",
-      "published": "2026-06-14T06:00:36Z",
-      "location": {
-        "name": "Belfast",
-        "lat": 54.5973,
-        "lng": -5.9301
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "politics"
-    },
-    {
-      "id": "world/2026/jun/14/trial-of-12mph-bike-lane-speed-limit-grinds-gears-of-dutch-cyclists",
-      "headline": "Trial of 12mph bike lane speed limit grinds gears of Dutch cyclists",
-      "summary": "Netherlands trials 12mph bike lane speed limit to reduce e-bike related road deaths.",
-      "url": "https://www.theguardian.com/p/x58qan",
-      "thumbnail": "https://media.guim.co.uk/fbfa33337bcd201c96cb4ba57bbe54d5a064504f/464_0_4638_3710/500.jpg",
-      "published": "2026-06-14T06:00:36Z",
-      "location": {
-        "name": "Houten",
-        "lat": 52.0309,
-        "lng": 5.1889
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "law/2026/jun/14/minister-kate-dearden-defends-uk-workers-rights-reforms-business-backlash-costs",
-      "headline": "Minister defends changes to UK workers’ rights against costs backlash",
-      "summary": "UK employment minister defends radical workers' rights reforms against business opposition.",
-      "url": "https://www.theguardian.com/p/x595zx",
-      "thumbnail": "https://media.guim.co.uk/ecff25c1f5a1eb782166eed7f4a50a9560a6a33d/323_0_3232_2585/500.jpg",
-      "published": "2026-06-14T06:00:35Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "law"
-    },
-    {
-      "id": "travel/2026/jun/14/sussex-to-scotland-road-trip-british-holidays-history",
-      "headline": "From Sussex to Scotland, my road trip through four centuries of British holidays",
-      "summary": "Journalist chronicles 1,600-mile UK road trip exploring four centuries of British holiday history.",
-      "url": "https://www.theguardian.com/p/x5v6g7",
-      "thumbnail": "https://media.guim.co.uk/07274bc952c60c0af1bdfe11f155b1d9fddae236/1162_0_5273_4219/500.jpg",
-      "published": "2026-06-14T06:00:35Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "travel"
-    },
-    {
-      "id": "politics/2026/jun/14/illegal-dump-symbol-north-south-divide-makerfield-byelection",
-      "headline": "Illegal dump becomes ‘symbol of north-south divide’ at heart of Makerfield byelection",
-      "summary": "Illegal waste dump becomes focal point in UK by-election symbolizing north-south divide.",
-      "url": "https://www.theguardian.com/p/x58nt3",
-      "thumbnail": "https://media.guim.co.uk/8878ae1555152859b65600e03a0aa58bef3be0f1/1245_0_6830_5464/500.jpg",
-      "published": "2026-06-14T06:00:35Z",
-      "location": {
-        "name": "Makerfield",
-        "lat": 53.5333,
-        "lng": -2.6333
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "football/2026/jun/14/australia-socceroos-turkey-world-cup-2026-group-d-match-report",
-      "headline": "Socceroos stun Turkey as Australian youngsters shine in opening World Cup win",
-      "summary": "Australia defeats Turkey 2-0 in World Cup 2026 opener with impressive young squad performance.",
-      "url": "https://www.theguardian.com/p/x59e22",
-      "thumbnail": "https://media.guim.co.uk/0a8c2263c86af7f8e281946309137ba1b86d58a8/218_0_4467_3576/500.jpg",
-      "published": "2026-06-14T05:57:52Z",
-      "location": {
-        "name": "Vancouver",
-        "lat": 49.2827,
-        "lng": -123.1207
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "australia-news/2026/jun/14/coogee-sydney-shark-attack-explainer-how-rare-is-it-and-how-can-you-stay-safe",
-      "headline": "A shark attacked a swimmer at a popular Sydney beach. How rare is it – and how can you stay safe?",
-      "summary": "Woman critically injured in shark attack at Sydney's popular Coogee beach, likely white shark.",
-      "url": "https://www.theguardian.com/p/x59je3",
-      "thumbnail": "https://media.guim.co.uk/44c04ebd9a95893adc01a7b1e9c861773167ef09/483_0_5018_4014/500.jpg",
-      "published": "2026-06-14T05:51:35Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "politics/live/2026/jun/14/russian-shadow-fleet-oil-tanker-channel-army-marines-keir-starmer-dan-jarvis-makerfield-labour-uk-politics-latest-news-updates",
-      "headline": "Zelenskyy thanks UK for intercepting Russian shadow fleet oil tanker after armed forces board vessel in English Channel - UK politics live ",
-      "summary": "UK armed forces intercept Russian shadow fleet oil tanker in English Channel.",
-      "url": "https://www.theguardian.com/p/x59kh5",
-      "thumbnail": "https://media.guim.co.uk/1be6a9150b826f5997adcc12f332bf6526bc164d/340_0_3466_2774/500.jpg",
-      "published": "2026-06-14T10:26:17Z",
-      "location": {
-        "name": "English Channel",
-        "lat": 50.95,
-        "lng": 1.9
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "politics"
-    },
-    {
-      "id": "football/live/2026/jun/14/world-cup-2026-news-scotland-react-to-first-world-cup-victory-in-36-years-as-australia-beat-turkey",
-      "headline": "World Cup 2026: Scotland react to first victory in 36 years as Australia beat Turkey – live",
-      "summary": "World Cup 2026: Scotland celebrates first victory in 36 years; Australia beats Turkey.",
-      "url": "https://www.theguardian.com/p/x58q5x",
-      "thumbnail": "https://media.guim.co.uk/fd9c8b5764e20c33e31d89bd0804c2ee72c24425/510_219_4715_3772/500.jpg",
-      "published": "2026-06-14T10:23:06Z",
-      "location": {
-        "name": "United States",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "world/live/2026/jun/14/iran-us-middle-east-crisis-donald-trump-peace-deal-strait-hormuz-open-pakistan-latest-news-updates",
-      "headline": "Middle East crisis live: Trump says Iran deal will be signed today but sources tell media Tehran ‘not yet’ taken final decision",
-      "summary": "Trump says Iran peace deal will be signed today; strait of Hormuz to open.",
-      "url": "https://www.theguardian.com/p/x59jca",
-      "thumbnail": "https://media.guim.co.uk/1f97269d5001736c9d05aef277c9cc3829d32434/733_0_3349_2678/500.jpg",
-      "published": "2026-06-14T10:21:04Z",
-      "location": {
-        "name": "Iran",
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "category": "politics",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "sport/2026/jun/14/dana-white-ufc-donald-trump",
-      "headline": "From ‘human cockfighting’ to the White House lawn: the stratospheric rise of the UFC’s Dana White",
-      "summary": "UFC hosts MMA event on White House lawn for Trump's 80th birthday celebration.",
-      "url": "https://www.theguardian.com/p/x59ctq",
-      "thumbnail": "https://media.guim.co.uk/f7578cfaba4d1c4d6791006cf47c36ce9ef48c7f/720_0_7200_5760/500.jpg",
-      "published": "2026-06-14T10:00:42Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "society/2026/jun/14/devon-company-kit-funeral-shroud-covers",
-      "headline": "‘A beautiful display of love’: company launches DIY funeral shroud cover kit",
-      "summary": "Devon company launches DIY funeral shroud cover kit for personalized funeral alternatives.",
-      "url": "https://www.theguardian.com/p/x59b3f",
-      "thumbnail": "https://media.guim.co.uk/dc97a797ff883814e48e5ddea5f0b5e399f6e6dc/499_0_4988_3991/500.jpg",
-      "published": "2026-06-14T10:00:42Z",
-      "location": {
-        "name": "Devon",
-        "lat": 50.7184,
-        "lng": -3.5339
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "society"
-    },
-    {
-      "id": "business/2026/jun/14/london-trial-drug-prevent-cancer-cytokine-storm-poolbeg-pharma",
-      "headline": "London startup to trial drug to prevent cancer therapy side-effect ‘cytokine storm’",
-      "summary": "London startup Poolbeg Pharma trials drug to prevent cancer therapy cytokine storm.",
-      "url": "https://www.theguardian.com/p/x58pza",
-      "thumbnail": "https://media.guim.co.uk/862af8ee553483cf309201edfb391a4d06374200/2202_0_5045_4035/500.jpg",
-      "published": "2026-06-14T10:00:41Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "football/2026/jun/14/folarin-balogun-usmnt-paraguay-world-cup",
-      "headline": "England’s loss is USA’s gain as Pochettino find a spearhead in Folarin Balogun",
-      "summary": "England's Folarin Balogun provides finishing for USMNT against Paraguay in World Cup.",
-      "url": "https://www.theguardian.com/p/x59t59",
-      "thumbnail": "https://media.guim.co.uk/d7c5610d72c106ee7179b14c1f2b76884461fe33/701_0_3722_2977/500.jpg",
-      "published": "2026-06-14T10:00:41Z",
-      "location": {
-        "name": "United States",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "us-news/2026/jun/14/world-cup-heat-workers",
-      "headline": "‘It’s going to be extremely hot’: workers imperiled as sweltering World Cup temperatures are forecast",
-      "summary": "World Cup workers face health risks from extreme heat exceeding 90F in host cities.",
-      "url": "https://www.theguardian.com/p/x58hgq",
-      "thumbnail": "https://media.guim.co.uk/18061863815e0e1b8ec4d3c12855ef698d9909a0/815_0_4084_3266/500.jpg",
-      "published": "2026-06-14T10:00:41Z",
-      "location": {
-        "name": "United States",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "commentisfree/2026/jun/14/trump-is-desecrating-the-lincoln-memorial-a-civic-sacred-ground",
-      "headline": "Trump is desecrating the Lincoln Memorial - a civic sacred ground",
-      "summary": "Trump hosts MMA event at Lincoln Memorial, criticized as desecration of civic sacred ground.",
-      "url": "https://www.theguardian.com/p/x59hqj",
-      "thumbnail": "https://media.guim.co.uk/8aba4f7f9ef633fb4a20654266caea7056e85ce2/412_0_6827_5464/500.jpg",
-      "published": "2026-06-14T10:00:39Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "commentisfree"
-    },
-    {
-      "id": "world/2026/jun/14/ukraine-and-moldova-start-first-phase-of-eu-membership-negotiations",
-      "headline": "Ukraine and Moldova to enter first phase of EU membership negotiations ",
-      "summary": "Ukraine and Moldova begin first phase of EU membership negotiations in Luxembourg.",
-      "url": "https://www.theguardian.com/p/x59hpe",
-      "thumbnail": "https://media.guim.co.uk/23915b2d3a06fa48bcabdbfe433d82479eb0f1c2/590_0_2950_2360/500.jpg",
-      "published": "2026-06-14T09:33:32Z",
-      "location": {
-        "name": "Luxembourg",
-        "lat": 49.6116,
-        "lng": 6.1319
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "politics/2026/jun/14/cabinet-ministers-asked-to-look-for-cuts-to-fund-uk-defence-spending-increase",
-      "headline": "Cabinet ministers asked to look for cuts to fund UK defence spending increase",
-      "summary": "UK Cabinet ministers seek budget cuts to fund defence spending increase after Healey resignation.",
-      "url": "https://www.theguardian.com/p/x59kq3",
-      "thumbnail": "https://media.guim.co.uk/542bb14fb58955389ece802002482a7d50dfe54c/128_0_1776_1421/500.jpg",
-      "published": "2026-06-14T09:18:46Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
     {
       "id": "us-news/2026/jun/14/white-house-ufc-fighters-crypto",
       "headline": "UFC to pay White House fighters in crypto issued by Trump company",
@@ -1334,6 +1030,246 @@
       "category": "politics",
       "significance": 3,
       "section": "world"
+    },
+    {
+      "id": "politics/live/2026/jun/15/keir-starmer-social-media-ban-under-16s-tik-tok-instagram-snapchat-twitter-x-meta-uk-politics-latest-news-updates",
+      "headline": "Starmer says he hopes social media ban for under-16s will come into force next spring – UK politics live",
+      "summary": "UK PM Starmer announces social media ban for under-16s, targeting TikTok, Instagram, Snapchat and X.",
+      "url": "https://www.theguardian.com/p/x59py3",
+      "thumbnail": "https://media.guim.co.uk/adf05748efb60ebfbbc6f10a409b36bf67426372/762_0_4649_3719/500.jpg",
+      "published": "2026-06-15T10:41:36Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "politics"
+    },
+    {
+      "id": "uk-news/2026/jun/15/ban-on-palestine-action-was-lawful-court-of-appeal-rules",
+      "headline": "Ban on Palestine Action was lawful, court of appeal rules",
+      "summary": "UK Court of Appeal upholds government's ban on Palestine Action under anti-terrorism laws.",
+      "url": "https://www.theguardian.com/p/x59v8q",
+      "thumbnail": "https://media.guim.co.uk/e5d76b94c22f89b94d9bf4867f796bcae8850e9d/104_0_2500_2000/500.jpg",
+      "published": "2026-06-15T10:39:14Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "sport/live/2026/jun/15/nottinghamshire-v-somerset-leicestershire-v-essex-and-more-county-cricket-day-four-live",
+      "headline": "Nottinghamshire v Somerset, Leicestershire v Essex, and more: county cricket day four – live",
+      "summary": "County Championship cricket continues into day four across multiple English grounds.",
+      "url": "https://www.theguardian.com/p/x5962d",
+      "thumbnail": "https://media.guim.co.uk/edfb9634a7c61968ef4685864c42809f338a24c2/209_0_2250_1800/500.jpg",
+      "published": "2026-06-15T10:35:12Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 1,
+      "section": "sport"
+    },
+    {
+      "id": "football/live/2026/jun/15/world-cup-2026-news-iran-arrive-in-us-amid-protests-spain-belgium-egypt-enter-tournament-live",
+      "headline": "World Cup 2026: Fifa urged to remove official over hand gesture; teams hit back at Ceferin; Iran arrive in US – live ",
+      "summary": "2026 World Cup underway in US; Iran arrives amid tensions, FIFA urged to remove official over gesture.",
+      "url": "https://www.theguardian.com/p/x596x8",
+      "thumbnail": "https://media.guim.co.uk/0b83d1ae434663eff7b67d175d101a6c914931c7/108_0_3008_2407/500.jpg",
+      "published": "2026-06-15T10:33:03Z",
+      "location": {
+        "name": "United States",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "sport",
+      "significance": 4,
+      "section": "football"
+    },
+    {
+      "id": "australia-news/2026/jun/15/coogee-shark-attack-woman-survivor-leah-stewart-sydney-arm-amputated",
+      "headline": "‘Life-changing’ injuries: family reels from ‘tragic situation’ as Coogee shark attack victim loses arm",
+      "summary": "Woman loses arm in shark attack at Coogee Beach, Sydney; family faces long recovery and impact.",
+      "url": "https://www.theguardian.com/p/x59py8",
+      "thumbnail": "https://media.guim.co.uk/b7d601726d77aa43a9d90f63287e31a241b1c5f8/17_59_273_218/master/273.jpg",
+      "published": "2026-06-15T10:31:58Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "health",
+      "significance": 3,
+      "section": "australia-news"
+    },
+    {
+      "id": "us-news/live/2026/jun/15/donald-trump-ufc-white-house-michelle-obama-g7-iran-peace-deal-us-politics-latest-news-updates",
+      "headline": "Donald Trump’s UFC fights at White House marred by smear aimed at Michelle Obama – US politics live ",
+      "summary": "Trump hosts UFC fights at White House, marred by chants about Michelle Obama during event.",
+      "url": "https://www.theguardian.com/p/x59qez",
+      "thumbnail": "https://media.guim.co.uk/3866de3ea57187b8334344a41c880992ec923f18/573_0_6433_5147/500.jpg",
+      "published": "2026-06-15T10:29:35Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "business/live/2026/jun/15/oil-price-low-stock-markets-rally-us-iran-peace-deal-ftse-wall-street-live-news-updates",
+      "headline": "European stock markets hit record high and oil price falls to three-month low after US-Iran peace deal – business live",
+      "summary": "European stock markets hit record high; oil prices fall to three-month low after US-Iran peace deal.",
+      "url": "https://www.theguardian.com/p/x59pba",
+      "thumbnail": "https://media.guim.co.uk/5c00faa8d89a9491b653f1c5cbc2a0ac3b56e8ec/933_0_5254_4203/500.jpg",
+      "published": "2026-06-15T10:24:14Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "business"
+    },
+    {
+      "id": "world/live/2026/jun/15/eu-g7-ukraine-kyiv-russia-war-iran-zelenskyy-macron-trump-europe-latest-news-updates",
+      "headline": "Zelenskyy says Russia ‘deliberately’ targeted Unesco site, as 11 confirmed dead – Europe live ",
+      "summary": "Zelenskyy says Russia deliberately targeted Kyiv UNESCO monastery; 11 dead, G7 meets in France.",
+      "url": "https://www.theguardian.com/p/x59qv2",
+      "thumbnail": "https://media.guim.co.uk/9244572c6894b9d69865e6ff08ffd2c0ffd548de/749_0_3750_3000/500.jpg",
+      "published": "2026-06-15T10:19:54Z",
+      "location": {
+        "name": "Kyiv",
+        "lat": 50.4501,
+        "lng": 30.5234
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "us-news/2026/jun/15/anthony-odiong-investigation-takeaways",
+      "headline": "Key takeaways from the Guardian’s inquiry into the church’s handling of a predatory priest",
+      "summary": "Guardian reports Catholic Church delayed acting on Texas priest's sexual misconduct complaints.",
+      "url": "https://www.theguardian.com/p/x58nqg",
+      "thumbnail": "https://media.guim.co.uk/1bdea9f752f7cf4c449f60f39075d2b0956a9b8b/354_0_1187_950/500.jpg",
+      "published": "2026-06-15T10:00:25Z",
+      "location": {
+        "name": "New Orleans",
+        "lat": 29.9511,
+        "lng": -90.2623
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/jun/15/dreamers-losing-jobs-daca-renewals-trump",
+      "headline": "‘Dreamers’ are losing their jobs waiting for renewals under Trump: ‘It feels like a personal attack’",
+      "summary": "DACA renewals delayed for months under Trump; 'Dreamers' lose jobs while waiting for status updates.",
+      "url": "https://www.theguardian.com/p/x58gbp",
+      "thumbnail": "https://media.guim.co.uk/3c01a7457fef34a8b8a2559b24a6768d95301955/231_0_2538_2030/500.jpg",
+      "published": "2026-06-15T10:00:24Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "film/2026/jun/15/disclosure-day-alien-discussion-spoilers",
+      "headline": "Disclosure Day: alien conspiracies, car chases and a jaw-dropping climax – discuss with spoilers",
+      "summary": "Spielberg's sci-fi blockbuster 'Disclosure Day' explores alien conspiracies with high-octane thrills.",
+      "url": "https://www.theguardian.com/p/x59c7k",
+      "thumbnail": "https://media.guim.co.uk/e56c55add957a2deb9e7a1f44ab21323136ae0ee/1030_0_2142_1716/500.jpg",
+      "published": "2026-06-15T10:00:24Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "film"
+    },
+    {
+      "id": "us-news/2026/jun/15/hunter-biden-social-posts",
+      "headline": "Hunter Biden’s funny, honest X posts win fans – even Republicans ",
+      "summary": "Hunter Biden's witty X posts on mental health gain viral popularity, appeal to Republicans.",
+      "url": "https://www.theguardian.com/p/x59cdx",
+      "thumbnail": "https://media.guim.co.uk/15677c66db79106d6851108b1f1adb29261fd76d/580_0_4150_3320/500.jpg",
+      "published": "2026-06-15T10:00:24Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/jun/15/anthony-odiong-sexual-abuse-catholic-church",
+      "headline": "Catholic church had been alerted to Texas priest’s sexual predation for years – but dawdled before acting",
+      "summary": "Catholic church delayed action against Texas priest accused of sexual abuse by multiple women.",
+      "url": "https://www.theguardian.com/p/x58np5",
+      "thumbnail": "https://media.guim.co.uk/3fc09f7d6f087f845a7eac59128ecd5589d2fa34/408_0_4080_3264/500.jpg",
+      "published": "2026-06-15T10:00:22Z",
+      "location": {
+        "name": "New Orleans",
+        "lat": 29.9511,
+        "lng": -90.2623
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "australia-news/2026/jun/15/brisbane-teenager-allegedly-plotted-terror-attacks-after-being-influenced-by-unabomber-court-hears-ntwnfb",
+      "headline": "Brisbane teenager allegedly plotted terror attacks after being influenced by Unabomber, court hears",
+      "summary": "Brisbane teenager pleads not guilty to plotting terror attacks influenced by Unabomber ideology.",
+      "url": "https://www.theguardian.com/p/x59pmh",
+      "thumbnail": "https://media.guim.co.uk/6a94f072d0b8dd6c722577f3cbcd779553ae287a/0_0_3856_3085/500.jpg",
+      "published": "2026-06-15T09:45:03Z",
+      "location": {
+        "name": "Brisbane",
+        "lat": -27.4698,
+        "lng": 153.0251
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "business/2026/jun/15/bloombsbury-whitehall-play-john-maynard-keynes-standard-of-living-james-graham",
+      "headline": "From Bloomsbury to Whitehall: new play reimagines life of John Maynard Keynes",
+      "summary": "New play explores economist John Maynard Keynes' influence on British politics and culture.",
+      "url": "https://www.theguardian.com/p/x58k4g",
+      "thumbnail": "https://media.guim.co.uk/a914cb6b64408a15814ab62e8029045babe1e2aa/0_234_3165_2530/500.jpg",
+      "published": "2026-06-15T09:43:39Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "stage"
     }
   ]
 }
