@@ -1,44 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-16T21:46:54.276Z",
-    "story_count": 64,
-    "oldest_story": "2026-06-15T22:23:07Z",
-    "newest_story": "2026-06-16T21:37:52Z",
+    "generated_at": "2026-06-16T23:14:10.911Z",
+    "story_count": 70,
+    "oldest_story": "2026-06-16T00:05:27Z",
+    "newest_story": "2026-06-16T23:12:34Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "australia-news/live/2026/jun/16/australia-news-live-victoria-wfh-work-from-home-labor-fuel-excise-budget-cost-of-living-albanese-chalmers-one-nation-hanson-rba-interest-rates-decision-ntwnfb",
-      "headline": "Australia news live: police to investigate Gaza flotilla activist allegations; Victorian law set to enshrine right to WFH",
-      "summary": "Victorian law to enshrine right to work from home; police investigate Gaza flotilla activist allegations.",
-      "url": "https://www.theguardian.com/p/x59qe9",
-      "thumbnail": "https://media.guim.co.uk/d872d2ec817712fe61cb2db8d6300607bc8691d7/638_0_6880_5504/500.jpg",
-      "published": "2026-06-15T22:23:28Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "football/live/2026/jun/15/saudi-arabia-v-uruguay-world-cup-2026-live",
-      "headline": "Saudi Arabia v Uruguay: World Cup 2026 – live",
-      "summary": "Saudi Arabia face Uruguay in World Cup 2026 group stage match in Miami.",
-      "url": "https://www.theguardian.com/p/x59c26",
-      "thumbnail": "https://media.guim.co.uk/3bfcd9e96595c7b33c38393c997cc0a39edc7059/612_0_3638_2910/500.jpg",
-      "published": "2026-06-15T22:23:07Z",
-      "location": {
-        "name": "Miami",
-        "lat": 25.7617,
-        "lng": -80.1918
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
     {
       "id": "football/live/2026/jun/16/fifa-world-cup-2026-live-iran-v-new-zealand-updates-irn-vs-nzl-group-f-match-score-latest",
       "headline": "Iran v New Zealand: World Cup 2026 – live",
@@ -1030,6 +998,134 @@
       "category": "conflict",
       "significance": 2,
       "section": "us-news"
+    },
+    {
+      "id": "football/live/2026/jun/17/fifa-world-cup-2026-live-argentina-v-algeria-updates-arg-vs-alg-group-j-match-score-latest",
+      "headline": "Argentina v Algeria: World Cup 2026 – live",
+      "summary": "Argentina faces Algeria in World Cup 2026 Group J match in Kansas City.",
+      "url": "https://www.theguardian.com/p/x58p3q",
+      "thumbnail": "https://media.guim.co.uk/b807f794e5895abbe2417badf5ef6274049db491/424_0_4088_3271/500.jpg",
+      "published": "2026-06-16T23:12:34Z",
+      "location": {
+        "name": "Kansas City",
+        "lat": 39.0997,
+        "lng": -94.5786
+      },
+      "category": "sport",
+      "significance": 4,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/jun/17/ghana-thomas-partey-visa-appeal-rejected-canadian-judge-world-cup-panama",
+      "headline": "Ghana’s Thomas Partey has visa appeal rejected by Canadian judge ",
+      "summary": "Ghana midfielder Thomas Partey's visa appeal rejected by Canadian judge for World Cup.",
+      "url": "https://www.theguardian.com/p/x5a87a",
+      "thumbnail": "https://media.guim.co.uk/254ef49b662b1518cc5e5d0870c16fc287a00872/347_0_3479_2783/500.jpg",
+      "published": "2026-06-16T23:09:37Z",
+      "location": {
+        "name": "Toronto",
+        "lat": 43.6629,
+        "lng": -79.3957
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "australia-news/2026/jun/17/kyle-sandilands-arn-media-settlement-radio-station",
+      "headline": "Kyle Sandilands settles with former radio station for $12m and a helping hand with new media venture ",
+      "summary": "Kyle Sandilands settles dispute with ARN Media for $12m cash and advertising support.",
+      "url": "https://www.theguardian.com/p/x5a82t",
+      "thumbnail": "https://media.guim.co.uk/2eeacd3587f065a7f5036bf05ca25ab72ba7b292/1774_521_6563_5251/500.jpg",
+      "published": "2026-06-16T23:07:05Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "technology/2026/jun/16/elon-musk-xai-datacenters-trump-administration",
+      "headline": "Trump’s DoJ intervenes to back Elon Musk in datacenter pollution lawsuit",
+      "summary": "Trump DoJ backs Elon Musk's xAI against NAACP pollution lawsuit in Mississippi.",
+      "url": "https://www.theguardian.com/p/x5a85y",
+      "thumbnail": "https://media.guim.co.uk/57052094ac7484fa57870e1f2bbd88fa4d7f750a/1027_0_5133_4107/500.jpg",
+      "published": "2026-06-16T23:01:13Z",
+      "location": {
+        "name": "Jackson",
+        "lat": 32.2988,
+        "lng": -90.1848
+      },
+      "category": "tech",
+      "significance": 2,
+      "section": "technology"
+    },
+    {
+      "id": "us-news/2026/jun/16/us-air-force-b52-bomber-crash",
+      "headline": "Investigation into deadly B-52 bomber crash could take months, US officials say",
+      "summary": "B-52 bomber crash investigation at California base expected to take six months.",
+      "url": "https://www.theguardian.com/p/x5a7fm",
+      "thumbnail": "https://media.guim.co.uk/865c0effcb3f11e17d85a78753b77ee6d7d3a45e/48_0_1437_1150/500.jpg",
+      "published": "2026-06-16T22:47:06Z",
+      "location": {
+        "name": "Edwards Air Force Base",
+        "lat": 34.9009,
+        "lng": -117.8854
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/live/2026/jun/16/midterm-primaries-election-updates-georgia-oklahoma",
+      "headline": "US midterm primaries 2026 live: results and updates as elections in Georgia and Oklahoma test Trump’s power",
+      "summary": "US midterm primaries in Georgia, Oklahoma test Trump's political influence.",
+      "url": "https://www.theguardian.com/p/x5a7n3",
+      "thumbnail": "https://media.guim.co.uk/51f9d022461e0730ff4f05184dc8ee2341e26d2d/175_0_5151_4120/500.jpg",
+      "published": "2026-06-16T22:45:15Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/jun/16/alligator-alcatraz-detainees-ice",
+      "headline": "‘Alligator Alcatraz’ detainees relocated, ICE announces",
+      "summary": "ICE relocates detainees from controversial Everglades immigration detention facility.",
+      "url": "https://www.theguardian.com/p/x5a8xz",
+      "thumbnail": "https://media.guim.co.uk/8bd933f49f88c94b488a519015b1b7f0f32832db/417_0_4167_3335/500.jpg",
+      "published": "2026-06-16T22:27:26Z",
+      "location": {
+        "name": "Miami",
+        "lat": 25.7617,
+        "lng": -80.1918
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "sport/2026/jun/16/england-ireland-womens-t20-world-cup-cricket-match-report",
+      "headline": "England survive wobble to see off Ireland but have Sciver-Brunt injury concern",
+      "summary": "England defeats Ireland in Women's T20 World Cup; Sciver-Brunt injury concerns arise.",
+      "url": "https://www.theguardian.com/p/x5a8ve",
+      "thumbnail": "https://media.guim.co.uk/09ed93a8a362b9f2f724380bfd2f519ca88e844d/0_0_2431_1944/500.jpg",
+      "published": "2026-06-16T22:05:44Z",
+      "location": {
+        "name": "Southampton",
+        "lat": 50.9095,
+        "lng": -1.4044
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
     }
   ]
 }
