@@ -1,92 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-16T15:31:51.709Z",
+    "generated_at": "2026-06-16T19:05:51.762Z",
     "story_count": 70,
-    "oldest_story": "2026-06-15T15:36:22Z",
-    "newest_story": "2026-06-16T15:30:59Z",
+    "oldest_story": "2026-06-15T19:08:15Z",
+    "newest_story": "2026-06-16T19:05:28Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "environment/2026/jun/15/backlash-uk-plans-weaken-ev-sales-targets-electric-vehicle-manufacturers-automotive-sector",
-      "headline": "Backlash against ‘short-termist’ UK plans to weaken EV sales targets",
-      "summary": "UK government's plan to weaken EV sales targets provokes backlash from charging industry and manufacturers.",
-      "url": "https://www.theguardian.com/p/x59qth",
-      "thumbnail": "https://media.guim.co.uk/8308a0376ba5c7a411601c3aae517e319912f821/484_0_4583_3667/500.jpg",
-      "published": "2026-06-15T16:05:57Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "environment"
-    },
-    {
-      "id": "uk-news/2026/jun/15/uk-social-media-ban-16-17-year-olds-what-are-your-views",
-      "headline": "UK 16 and 17-year-olds: we would like to hear your views on the government’s social media ban for under-16s",
-      "summary": "UK government confirms social media ban for under-16s; feedback sought from 16-17 year olds.",
-      "url": "https://www.theguardian.com/p/x59q88",
-      "thumbnail": "https://media.guim.co.uk/231b71c938c326379c37a86b6eb9d41359ef1c2b/234_0_2341_1873/500.jpg",
-      "published": "2026-06-15T15:55:39Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "us-news/2026/jun/15/missouri-skydivers-plane-crash",
-      "headline": "Missouri community mourns death of 11 skydivers in plane crash: ‘It shocked everybody’",
-      "summary": "Plane crash near Kansas City kills 11 skydivers and pilot on Sunday during takeoff.",
-      "url": "https://www.theguardian.com/p/x5avpe",
-      "thumbnail": "https://media.guim.co.uk/70a928283ae79119082cc950d53334aae167cb3b/949_239_4169_3335/500.jpg",
-      "published": "2026-06-15T15:52:23Z",
-      "location": {
-        "name": "Butler, Missouri",
-        "lat": 38.7597,
-        "lng": -94.6045
-      },
-      "category": "other",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "world/2026/jun/15/stolen-moped-returned-to-owner-italy",
-      "headline": "Wheels of justice turn (very) slowly: moped stolen in 1984 returned to owner ",
-      "summary": "Moped stolen in 1984 returned to owner after police recover it in Turin suburb.",
-      "url": "https://www.theguardian.com/p/x5avcq",
-      "thumbnail": "https://media.guim.co.uk/40ed0a88f44d14d6158103a559fa5a2fb12d3812/85_0_1500_1200/500.jpg",
-      "published": "2026-06-15T15:39:21Z",
-      "location": {
-        "name": "Turin, Italy",
-        "lat": 45.0708,
-        "lng": 7.6869
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "world"
-    },
-    {
-      "id": "uk-news/2026/jun/15/arrested-protesters-devastated-appeal-court-rules-palestine-action-ban-lawful",
-      "headline": "Arrested protesters devastated after appeal court rules ban on Palestine Action is lawful",
-      "summary": "UK appeal court rules Palestine Action ban is lawful; over 700 charged under Terrorism Act.",
-      "url": "https://www.theguardian.com/p/x5avfm",
-      "thumbnail": "https://media.guim.co.uk/f8352973797bd4592c88d349aa40189bac4da268/1418_146_5811_4649/500.jpg",
-      "published": "2026-06-15T15:36:22Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "uk-news"
-    },
     {
       "id": "football/2026/jun/15/kylian-is-kylian-deschamps-happy-to-shield-mbappe-amid-political-scrutiny",
       "headline": "‘Kylian is Kylian’: Deschamps happy to shield Mbappé amid political scrutiny",
@@ -182,38 +102,6 @@
       "category": "conflict",
       "significance": 4,
       "section": "world"
-    },
-    {
-      "id": "world/2026/jun/15/israel-territory-lebanon-defence-minister-israel-katz",
-      "headline": "Dismay and defiance in Israel as US and Iran move to end war on ‘all fronts’",
-      "summary": "Israel refuses to withdraw from southern Lebanon territory despite US-Iran peace agreement.",
-      "url": "https://www.theguardian.com/p/x59qzf",
-      "thumbnail": "https://media.guim.co.uk/46672e090fdcb99de25928b78e39dd29e7682e4f/410_0_5000_4000/500.jpg",
-      "published": "2026-06-15T19:03:05Z",
-      "location": {
-        "name": "Lebanon",
-        "lat": 33.8547,
-        "lng": 35.8623
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "stage/2026/jun/15/distillation-review-luke-casserly-cork-midsummer-festival",
-      "headline": "Distillation review – a paean to peat that’s a feast for the senses",
-      "summary": "Luke Casserly's immersive theatre piece explores Ireland's bogs through participatory sensory experience.",
-      "url": "https://www.theguardian.com/p/x59qbh",
-      "thumbnail": "https://media.guim.co.uk/6d97e7fb23ef40d01e7256ee5594075c594e2777/0_0_11458_9167/500.jpg",
-      "published": "2026-06-15T19:00:32Z",
-      "location": {
-        "name": "Cork",
-        "lat": 51.8969,
-        "lng": -8.4863
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "stage"
     },
     {
       "id": "australia-news/live/2026/jun/16/australia-news-live-victoria-wfh-work-from-home-labor-fuel-excise-budget-cost-of-living-albanese-chalmers-one-nation-hanson-rba-interest-rates-decision-ntwnfb",
@@ -1126,6 +1014,118 @@
       "category": "culture",
       "significance": 2,
       "section": "culture"
+    },
+    {
+      "id": "football/live/2026/jun/16/france-v-senegal-world-cup-2026-live",
+      "headline": "France v Senegal: World Cup 2026 – live",
+      "summary": "France faces Senegal in World Cup 2026 group match in New York.",
+      "url": "https://www.theguardian.com/p/x59b9n",
+      "thumbnail": "https://media.guim.co.uk/fe66e9b6f1938e0d5baa2d8afd1b0fb56f64693d/691_0_5000_4000/500.jpg",
+      "published": "2026-06-16T19:05:28Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "sport",
+      "significance": 4,
+      "section": "football"
+    },
+    {
+      "id": "sport/live/2026/jun/16/womens-t20-world-cup-2026-england-v-ireland-live",
+      "headline": "England v Ireland: Women’s T20 Cricket World Cup 2026 – live",
+      "summary": "England women face Ireland in T20 World Cup cricket at Utilita Bowl.",
+      "url": "https://www.theguardian.com/p/x5a5m3",
+      "thumbnail": "https://media.guim.co.uk/d8298709e28717cbba7a1d84680dc65b6713a152/303_244_3417_2734/500.jpg",
+      "published": "2026-06-16T19:02:06Z",
+      "location": {
+        "name": "Southampton",
+        "lat": 50.9097,
+        "lng": -1.4044
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "sport"
+    },
+    {
+      "id": "society/2026/jun/16/uk-learning-disability-nurses-nhs",
+      "headline": "Lack of learning-disability nurses in UK is an ‘absolute crisis’, says union",
+      "summary": "RCN report warns learning-disability nurse workforce in UK is in absolute crisis.",
+      "url": "https://www.theguardian.com/p/x5avda",
+      "thumbnail": "https://media.guim.co.uk/888d14a91d3042e862822041d0aa9f86561c3cec/105_0_2665_2132/500.jpg",
+      "published": "2026-06-16T19:00:10Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "society"
+    },
+    {
+      "id": "us-news/2026/jun/16/minnesota-immigration-enforcement-conspiracy-charges",
+      "headline": "Fifteen people charged over alleged interference in Minnesota immigration crackdown",
+      "summary": "Fifteen people charged with conspiracy over interference in Minnesota immigration enforcement crackdown.",
+      "url": "https://www.theguardian.com/p/x5a6am",
+      "thumbnail": "https://media.guim.co.uk/f8c8569767c8247ff5928d7c547519cf7e93c01a/224_0_3841_3073/500.jpg",
+      "published": "2026-06-16T18:50:39Z",
+      "location": {
+        "name": "Minneapolis",
+        "lat": 44.9778,
+        "lng": -93.265
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "uk-news/2026/jun/16/russian-frigate-fires-warning-shots-at-british-yacht-in-channel-reports",
+      "headline": "Russian frigate fires warning shots at British yacht in Channel ",
+      "summary": "Russian frigate fires warning shots near British yacht off Isle of Wight in Channel.",
+      "url": "https://www.theguardian.com/p/x5a6f8",
+      "thumbnail": "https://media.guim.co.uk/8c54eb25d52845f8494c0e3c6d4fe3f430bd0e92/743_0_4560_3648/500.jpg",
+      "published": "2026-06-16T18:43:36Z",
+      "location": {
+        "name": "Isle of Wight",
+        "lat": 50.7184,
+        "lng": -1.3049
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "uk-news"
+    },
+    {
+      "id": "sport/2026/jun/16/england-new-zealand-second-test-oval-extraordinary-week",
+      "headline": "All change for the Oval as England hope for normality after extraordinary week",
+      "summary": "England makes five changes for Oval Test against New Zealand after extraordinary week.",
+      "url": "https://www.theguardian.com/p/x5a57x",
+      "thumbnail": "https://media.guim.co.uk/d7191f831524ba5c417341be08c605eb1a5ce0ca/0_0_6053_4842/500.jpg",
+      "published": "2026-06-16T18:15:41Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "business/nils-pratley-on-finance/2026/jun/16/tide-is-turning-on-thames-water-special-administration-looks-best",
+      "headline": "The tide is turning on Thames Water: special administration looks best",
+      "summary": "Thames Water special administration emerging as likely government solution for struggling utility.",
+      "url": "https://www.theguardian.com/p/x5a4nh",
+      "thumbnail": "https://media.guim.co.uk/43b9629d1d660e3d9ebc0e21c77dd620ead80a26/683_0_6827_5464/500.jpg",
+      "published": "2026-06-16T18:00:30Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
     }
   ]
 }
