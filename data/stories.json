@@ -1,92 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-15T22:24:17.496Z",
-    "story_count": 59,
-    "oldest_story": "2026-06-14T22:29:27Z",
-    "newest_story": "2026-06-15T22:23:28Z",
+    "generated_at": "2026-06-16T00:12:40.575Z",
+    "story_count": 55,
+    "oldest_story": "2026-06-15T04:00:02Z",
+    "newest_story": "2026-06-16T00:05:27Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/live/2026/jun/14/cote-d-ivoire-v-ecuador-world-cup-2026-live",
-      "headline": "Côte d’Ivoire v Ecuador: World Cup 2026 – live",
-      "summary": "Côte d'Ivoire faces Ecuador in World Cup 2026 Group E match in Philadelphia.",
-      "url": "https://www.theguardian.com/p/x59c2v",
-      "thumbnail": "https://media.guim.co.uk/6711dcaa8d136b553c2c5192891edc1235bd8fbd/496_591_2747_2197/500.jpg",
-      "published": "2026-06-14T22:34:31Z",
-      "location": {
-        "name": "Philadelphia",
-        "lat": 39.9526,
-        "lng": -75.1652
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "australia-news/live/2026/jun/15/australia-news-live-experts-push-back-at-call-for-shark-cull-after-attack-university-students-report-freedom-of-speech-fears",
-      "headline": "Australia news live: Debate over shark cull after Coogee attack; Joyce says fundraised millions to pay for One Nation ad campaign",
-      "summary": "Australia news: shark cull debate after Coogee attack; political stories unfold.",
-      "url": "https://www.theguardian.com/p/x59njn",
-      "thumbnail": "https://media.guim.co.uk/6789307c04256b6a17c536855752f33a3c65880a/97_0_2500_2000/500.jpg",
-      "published": "2026-06-14T22:29:27Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "other",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "sport/live/2026/jun/14/ufc-freedom-250-fights-trump-white-house-live-blog",
-      "headline": "UFC Freedom 250: White House hosts MMA card for Trump’s 80th birthday – live updates",
-      "summary": "UFC Freedom 250 event held at White House South Lawn for Trump's 80th birthday celebration.",
-      "url": "https://www.theguardian.com/p/x59m65",
-      "thumbnail": "https://media.guim.co.uk/69c77f139af299b40fffcd4f5738639154758800/631_0_6307_5048/500.jpg",
-      "published": "2026-06-14T23:50:07Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "sport"
-    },
-    {
-      "id": "science/2026/jun/15/globally-significant-volcanic-event-giants-causeway-scientists",
-      "headline": "Globally significant volcanic event formed Giant’s Causeway, scientists find ",
-      "summary": "Scientists determine Giant's Causeway basalt columns formed over 5.5 million years from volcanic activity.",
-      "url": "https://www.theguardian.com/p/x59mgf",
-      "thumbnail": "https://media.guim.co.uk/c50dfe50dded7d8b266efb820d0063b0519bf7a4/217_0_2165_1733/500.jpg",
-      "published": "2026-06-14T23:01:55Z",
-      "location": {
-        "name": "Giant's Causeway",
-        "lat": 55.2408,
-        "lng": -6.3117
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "science"
-    },
-    {
-      "id": "society/2026/jun/15/uk-hypermobility-sufferers-wait-diagnosis-study-ehlers-danlos",
-      "headline": "UK hypermobility sufferers wait up to 21 years for diagnosis, study suggests",
-      "summary": "UK study reveals hypermobility disorder sufferers wait up to 21 years for diagnosis.",
-      "url": "https://www.theguardian.com/p/x59yet",
-      "thumbnail": "https://media.guim.co.uk/1cba6dca96336694725679402cbf1349f38140f9/364_0_3560_2848/500.jpg",
-      "published": "2026-06-14T23:01:55Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "society"
-    },
     {
       "id": "football/live/2026/jun/15/fifa-world-cup-2026-live-sweden-v-tunisia-updates-swe-vs-tun-group-f-match-score-latest",
       "headline": "Sweden 5-1 Tunisia: World Cup 2026 – live reaction",
@@ -950,6 +870,22 @@
       "category": "tech",
       "significance": 2,
       "section": "us-news"
+    },
+    {
+      "id": "football/live/2026/jun/16/fifa-world-cup-2026-live-iran-v-new-zealand-updates-irn-vs-nzl-group-f-match-score-latest",
+      "headline": "Iran v New Zealand: World Cup 2026 – live",
+      "summary": "Iran faces New Zealand in FIFA World Cup 2026 Group F match in Los Angeles.",
+      "url": "https://www.theguardian.com/p/x58zqe",
+      "thumbnail": "https://media.guim.co.uk/9b9618d0539ae52e1481d6a822401134875a58f8/285_0_3320_2656/500.jpg",
+      "published": "2026-06-16T00:05:27Z",
+      "location": {
+        "name": "Los Angeles",
+        "lat": 34.0522,
+        "lng": -118.2437
+      },
+      "category": "sport",
+      "significance": 4,
+      "section": "football"
     }
   ]
 }
