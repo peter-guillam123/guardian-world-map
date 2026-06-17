@@ -1,108 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-17T19:50:57.850Z",
+    "generated_at": "2026-06-17T21:55:02.325Z",
     "story_count": 91,
-    "oldest_story": "2026-06-16T20:39:01Z",
-    "newest_story": "2026-06-17T19:47:35Z",
+    "oldest_story": "2026-06-16T22:05:44Z",
+    "newest_story": "2026-06-17T21:53:42Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/live/2026/jun/16/iraq-v-norway-world-cup-2026-live",
-      "headline": "Iraq v Norway: World Cup 2026 – live",
-      "summary": "Iraq face Norway in World Cup 2026 match at Foxborough stadium.",
-      "url": "https://www.theguardian.com/p/x5a7c6",
-      "thumbnail": "https://media.guim.co.uk/83d5aca86ab6522fd1adff03c84081bf123a2df5/668_0_4922_3936/500.jpg",
-      "published": "2026-06-16T21:37:52Z",
-      "location": {
-        "name": "Foxborough",
-        "lat": 42.0997,
-        "lng": -71.312
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "australia-news/live/2026/jun/17/australia-news-live-victoria-marines-weapons-pauline-hanson-one-nation-national-press-club-labor-childcare-medicare-anthony-albanese-ntwnfb",
-      "headline": "Australia news live: US marines plan permanent weapons stockpile in Victoria; Pauline Hanson to address National Press Club",
-      "summary": "US marines plan permanent weapons stockpile in Victoria beyond Chinese missile range.",
-      "url": "https://www.theguardian.com/p/x5a5gn",
-      "thumbnail": "https://media.guim.co.uk/40d42c282f3c19227a376ecba6c8c42bcdbb8a28/504_0_4471_3577/500.jpg",
-      "published": "2026-06-16T21:33:32Z",
-      "location": {
-        "name": "Victoria",
-        "lat": -37.8136,
-        "lng": 144.9631
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "australia-news"
-    },
-    {
-      "id": "technology/2026/jun/16/pennsylvania-datacenters-debate-politicians",
-      "headline": "How the fight over US datacenters is scrambling this state’s politics: ‘We don’t want it’",
-      "summary": "Governor Shapiro faces state lawmakers over controversial AI datacenters in Pennsylvania.",
-      "url": "https://www.theguardian.com/p/x564nx",
-      "thumbnail": "https://media.guim.co.uk/44ac79819d18b911c53cb6926918bd64ac4d6973/464_0_4640_3712/500.jpg",
-      "published": "2026-06-16T21:23:59Z",
-      "location": {
-        "name": "Pennsylvania",
-        "lat": 40.5908,
-        "lng": -77.2098
-      },
-      "category": "tech",
-      "significance": 2,
-      "section": "technology"
-    },
-    {
-      "id": "us-news/2026/jun/16/los-angeles-police-fatally-shoot-pet-dog-of-family-celebrating-knicks-win",
-      "headline": "Los Angeles police fatally shoot pet dog of family celebrating Knicks win",
-      "summary": "LAPD fatally shoots family's pet dog during response to mistaken screaming report.",
-      "url": "https://www.theguardian.com/p/x5a7jz",
-      "thumbnail": "https://media.guim.co.uk/70bb6073917348221f48be01d73137eb4e1051ae/0_0_1200_960/500.jpg",
-      "published": "2026-06-16T21:20:04Z",
-      "location": {
-        "name": "Los Angeles",
-        "lat": 34.0522,
-        "lng": -118.2437
-      },
-      "category": "other",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/jun/16/hillary-clinton-joe-biden-2024-election",
-      "headline": "Hillary Clinton says Biden’s re-election bid cost Democrats the 2024 election",
-      "summary": "Hillary Clinton says Biden's re-election bid cost Democrats the 2024 presidency.",
-      "url": "https://www.theguardian.com/p/x5a7tc",
-      "thumbnail": "https://media.guim.co.uk/c0ab4cfc83f821e82034fd985afcbbc9618ded37/0_0_1500_1200/500.jpg",
-      "published": "2026-06-16T20:39:45Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/jun/16/new-jersey-acid-attack",
-      "headline": "Six people injured in New Jersey acid attack involving suspects on a moped",
-      "summary": "Six people injured in targeted acid attack by suspects on moped in Jersey City, New Jersey.",
-      "url": "https://www.theguardian.com/p/x5a7j4",
-      "thumbnail": "https://media.guim.co.uk/8c99363cdf49c1bc8c91a31a3cd061a41ce00d9a/0_416_4178_3344/500.jpg",
-      "published": "2026-06-16T20:39:01Z",
-      "location": {
-        "name": "Jersey City",
-        "lat": 40.7178,
-        "lng": -74.0431
-      },
-      "category": "conflict",
-      "significance": 2,
-      "section": "us-news"
-    },
     {
       "id": "football/live/2026/jun/17/fifa-world-cup-2026-live-argentina-v-algeria-updates-arg-vs-alg-group-j-match-score-latest",
       "headline": "Argentina v Algeria: World Cup 2026 – live",
@@ -1461,6 +1365,102 @@
       },
       "category": "sport",
       "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "australia-news/live/2026/jun/18/australia-news-live-non-stop-sydney-london-flights-qantas-one-nation-pauline-hanson-labor-anthony-albanese-economy-cost-of-living-ntwnfb",
+      "headline": "Australia news live: nonstop Sydney-London flights delayed again; anti-abortion bill blocked in SA",
+      "summary": "Qantas delays Project Sunrise nonstop Sydney-London flights to November 2027; SA blocks anti-abortion bill.",
+      "url": "https://www.theguardian.com/p/x5aazz",
+      "thumbnail": "https://media.guim.co.uk/d4d5569ce078b6e274c7527aee43a6430e9b07e8/46_0_4559_3646/500.jpg",
+      "published": "2026-06-17T21:53:42Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "football/live/2026/jun/17/ghana-v-panama-world-cup-2026-live",
+      "headline": "Ghana v Panama: World Cup 2026 – live",
+      "summary": "Ghana faces Panama in World Cup 2026 Group L match in Toronto.",
+      "url": "https://www.theguardian.com/p/x5a97e",
+      "thumbnail": "https://media.guim.co.uk/f26890558cf3a639e9f9294c7513e70fd2040f10/240_0_4840_3872/500.jpg",
+      "published": "2026-06-17T21:33:57Z",
+      "location": {
+        "name": "Toronto",
+        "lat": 43.6629,
+        "lng": -79.3957
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "australia-news/2026/jun/18/morning-mail-thursday-ntwnfb",
+      "headline": "Morning Mail: Hanson faces backlash over ‘monoculture’ speech, Trump reveals Iran deal details, Maroons thrash Blues",
+      "summary": "Pauline Hanson faces backlash over 'monocultural' Australia speech; Maroons defeat Blues.",
+      "url": "https://www.theguardian.com/p/x5aay9",
+      "thumbnail": "https://media.guim.co.uk/526ede12d5df27277fca8ad17b8d0276ff19cc15/509_0_5093_4075/500.jpg",
+      "published": "2026-06-17T21:26:32Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "film/2026/jun/17/daveigh-chase-dies-aged-35",
+      "headline": "Daveigh Chase, child star known for Lilo & Stitch and The Ring, dies aged 35",
+      "summary": "Daveigh Chase, Lilo & Stitch voice actor and The Ring star, dies at 35 from meningitis.",
+      "url": "https://www.theguardian.com/p/x5adez",
+      "thumbnail": "https://media.guim.co.uk/64c30559a64309155232001d45eecd33bd847223/407_0_2495_1996/500.jpg",
+      "published": "2026-06-17T20:58:35Z",
+      "location": {
+        "name": "Los Angeles",
+        "lat": 34.0522,
+        "lng": -118.2437
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "film"
+    },
+    {
+      "id": "us-news/2026/jun/17/gilgo-beach-victims-rex-heuermann-sentence",
+      "headline": "Families of eight women killed confront the Gilgo Beach serial killer: ‘Save a spot in hell’",
+      "summary": "Gilgo Beach serial killer Rex Heuermann sentenced to life without parole for eight murders.",
+      "url": "https://www.theguardian.com/p/x5aca3",
+      "thumbnail": "https://media.guim.co.uk/b369acefdaf46489646b4364211dee9b8cde7f23/250_0_2501_2000/500.jpg",
+      "published": "2026-06-17T20:57:40Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/jun/17/los-angeles-police-dog-killing",
+      "headline": "LA leaders back investigation into police killing of two-year-old dog",
+      "summary": "LA leaders back investigation into police shooting of dog during welfare check.",
+      "url": "https://www.theguardian.com/p/x5adbf",
+      "thumbnail": "https://media.guim.co.uk/08e079cfefe7c640786c11cd9e1f87da6dcdecc4/565_207_1501_1201/500.jpg",
+      "published": "2026-06-17T20:53:41Z",
+      "location": {
+        "name": "Los Angeles",
+        "lat": 34.0522,
+        "lng": -118.2437
+      },
+      "category": "politics",
+      "significance": 1,
       "section": "us-news"
     }
   ]
