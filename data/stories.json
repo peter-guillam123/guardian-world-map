@@ -1,172 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-17T01:43:57.037Z",
-    "story_count": 75,
-    "oldest_story": "2026-06-16T04:30:44Z",
-    "newest_story": "2026-06-17T01:40:20Z",
+    "generated_at": "2026-06-17T06:53:17.745Z",
+    "story_count": 81,
+    "oldest_story": "2026-06-16T09:22:38Z",
+    "newest_story": "2026-06-17T06:51:11Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/2026/jun/16/amir-ghalenoei-iran-coach-mehdi-taremi-fifa-us-world-cup",
-      "headline": "‘Our team is the most oppressed’: Iran coach hits out at Fifa and US over treatment",
-      "summary": "Iran coach criticizes FIFA and US after team told to leave LA immediately post-World Cup match.",
-      "url": "https://www.theguardian.com/p/x5a42m",
-      "thumbnail": "https://media.guim.co.uk/df4f27bf96126ed2aa34bc495d32cb4c85b32c06/963_0_5335_4269/500.jpg",
-      "published": "2026-06-16T05:36:17Z",
-      "location": {
-        "name": "Los Angeles",
-        "lat": 34.0522,
-        "lng": -118.2437
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "sport/2026/jun/16/knicks-james-dolan-sex-abstinence-playoffs-championship-video",
-      "headline": "New York Knicks owner James Dolan urged players to abstain from sex during title run",
-      "summary": "Knicks owner urged players to abstain from sex during championship run that ended 53-year drought.",
-      "url": "https://www.theguardian.com/p/x5a43k",
-      "thumbnail": "https://media.guim.co.uk/737405a247a7bcd77a3603890e38fba7965ed4cf/466_0_4271_3419/500.jpg",
-      "published": "2026-06-16T05:32:20Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "australia-news/2026/jun/16/rba-interest-rate-announcement-decision-cash-rates-economy-unemployment-inflation",
-      "headline": "RBA interest rates: Reserve Bank holds official cash rate at 4.35% as economy slows and unemployment rises",
-      "summary": "RBA holds interest rates at 4.35% as economy slows and unemployment rises in Australia.",
-      "url": "https://www.theguardian.com/p/x5a3ba",
-      "thumbnail": "https://media.guim.co.uk/ad9458b435a1bdd8e0112e69f503b28a9f4c1e92/415_0_4102_3281/500.jpg",
-      "published": "2026-06-16T05:23:37Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "politics/2026/jun/16/unbelievable-waste-inefficiency-ministry-defence-al-carns",
-      "headline": "‘Unbelievable’ waste and inefficiency at MoD, says ex-defence minister Al Carns",
-      "summary": "Ex-UK defence minister criticizes MoD for 'unbelievable' waste and inefficiency in legacy programs.",
-      "url": "https://www.theguardian.com/p/x5ax54",
-      "thumbnail": "https://media.guim.co.uk/6a67eb3b16e9aced2f8101e414533b45cc67fb6d/1537_788_6102_4881/500.jpg",
-      "published": "2026-06-16T05:17:54Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "world/2026/jun/16/world-cup-new-zealand-iran-match-fans-come-together",
-      "headline": "‘Beautiful moment’: fans of New Zealand and Iran draw on World Cup fervour together",
-      "summary": "New Zealand and Iran football fans unite at Wellington bar despite political tensions during World Cup.",
-      "url": "https://www.theguardian.com/p/x5a2bt",
-      "thumbnail": "https://media.guim.co.uk/a5a5ba2e8d9293aaef6133e44718da23863f2bdc/468_0_2332_1866/500.jpg",
-      "published": "2026-06-16T05:10:31Z",
-      "location": {
-        "name": "Wellington",
-        "lat": -41.2865,
-        "lng": 174.7762
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "politics/2026/jun/16/division-in-uk-probably-worse-now-than-in-run-up-to-brexit-says-kim-leadbeater",
-      "headline": "Division in UK probably worse now than in run-up to Brexit, says Kim Leadbeater",
-      "summary": "Labour MP warns UK division worse now than Brexit era on tenth anniversary of sister Jo Cox's murder.",
-      "url": "https://www.theguardian.com/p/x5963h",
-      "thumbnail": "https://media.guim.co.uk/3c62870be1cc76966daa6770e871146517715868/1_0_4998_4000/500.jpg",
-      "published": "2026-06-16T05:00:46Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "environment/2026/jun/16/half-of-worlds-children-exposed-to-at-least-three-climate-hazards-unicef-says",
-      "headline": "Half of world’s children exposed to at least three climate hazards, Unicef says",
-      "summary": "UNICEF report: half of world's children exposed to at least three overlapping climate hazards.",
-      "url": "https://www.theguardian.com/p/x5avjm",
-      "thumbnail": "https://media.guim.co.uk/beafeb716a014c53afc8aeb7b643843285fea886/528_0_4213_3371/500.jpg",
-      "published": "2026-06-16T05:00:46Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "climate",
-      "significance": 3,
-      "section": "environment"
-    },
-    {
-      "id": "commentisfree/2026/jun/16/warfare-v-welfare-britain-spend-benefits-defence-safe",
-      "headline": "The old ‘warfare v welfare’ arguments are back – but it’s Britain’s real duty to spend on both",
-      "summary": "Columnist argues UK must balance defence spending with welfare to ensure citizen safety.",
-      "url": "https://www.theguardian.com/p/x59qbm",
-      "thumbnail": "https://media.guim.co.uk/e7d82148c77a3671a00dc5b331b39343a867b35e/69_19_5944_4758/500.jpg",
-      "published": "2026-06-16T05:00:45Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "commentisfree"
-    },
-    {
-      "id": "business/2026/jun/16/ev-prices-uk-eu-chinese-car-firm-xpeng",
-      "headline": "EV prices in UK and EU not likely to dive due to Chinese rivalry, says Xpeng boss",
-      "summary": "Chinese EV maker Xpeng says UK and EU unlikely to see price wars despite increased competition.",
-      "url": "https://www.theguardian.com/p/x57myb",
-      "thumbnail": "https://media.guim.co.uk/b8426d309d81d7ae1114ad9af1926410223c09bc/866_0_6880_5504/500.jpg",
-      "published": "2026-06-16T05:00:45Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "environment/2026/jun/16/country-diary-a-revelation-among-the-clints-and-grikes-of-my-limestone-seat",
-      "headline": "Country diary: A revelation among the ‘clints and grikes’ of my limestone seat",
-      "summary": "Nature diary explores limestone pavement and woodland plants in Yorkshire's Grass Wood.",
-      "url": "https://www.theguardian.com/p/x58pkp",
-      "thumbnail": "https://media.guim.co.uk/4b6a28f4572e368a75c2642964c2f63a2d9a39c1/456_0_4560_3648/500.jpg",
-      "published": "2026-06-16T04:30:44Z",
-      "location": {
-        "name": "Wharfedale",
-        "lat": 54.0835,
-        "lng": -1.9389
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "environment"
-    },
     {
       "id": "sport/live/2026/jun/16/royal-ascot-2026-day-one-horse-racing-updates-live",
       "headline": "Royal Ascot 2026: day one horse racing updates – live",
@@ -1206,6 +1046,262 @@
       "category": "politics",
       "significance": 2,
       "section": "us-news"
+    },
+    {
+      "id": "football/live/2026/jun/17/world-cup-2026-news-live-england-croatia-portugal-dr-congo-ghana-panama-uzbekistan-colombia",
+      "headline": "World Cup 2026: England kick off in Dallas after big-hitting trio make mark – live",
+      "summary": "England kicks off World Cup 2026 in Dallas as tournament reaches day seven with multiple group stage matches.",
+      "url": "https://www.theguardian.com/p/x5a55d",
+      "thumbnail": "https://media.guim.co.uk/055403df11d199ba1e63fdda5917ebba5ec58bb9/0_1472_3074_2458/500.jpg",
+      "published": "2026-06-17T06:51:11Z",
+      "location": {
+        "name": "Dallas",
+        "lat": 32.7767,
+        "lng": -96.797
+      },
+      "category": "sport",
+      "significance": 4,
+      "section": "football"
+    },
+    {
+      "id": "business/live/2026/jun/17/uk-inflation-unexpectedly-unchanged-higher-transport-costs-offset-slower-food-price-rises-oil-federal-reserve-iran-war-live-updates",
+      "headline": "UK inflation unexpectedly stays at 2.8% with higher transport costs offset by slower food price rises – business live",
+      "summary": "UK inflation unexpectedly holds at 2.8% in May as food price slowdown offsets higher transport costs.",
+      "url": "https://www.theguardian.com/p/x5a66c",
+      "thumbnail": "https://media.guim.co.uk/a037436c163c7c928257b44a28cb498648159a13/509_0_5105_4084/500.jpg",
+      "published": "2026-06-17T06:44:12Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "australia-news/2026/jun/17/pauline-hanson-national-press-club-address-speech-australia-ntwnfb",
+      "headline": "Pauline Hanson says Australia ‘must be monocultural’ in National Press Club speech",
+      "summary": "Pauline Hanson declares Australia must be monocultural, denouncing immigration and diversity at National Press Club.",
+      "url": "https://www.theguardian.com/p/x5a95z",
+      "thumbnail": "https://media.guim.co.uk/26b3023a5f3a11ec54141e42c87ac2edc0bb7da9/425_0_4883_3906/500.jpg",
+      "published": "2026-06-17T06:37:21Z",
+      "location": {
+        "name": "Canberra",
+        "lat": -35.2809,
+        "lng": 149.13
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "football/2026/jun/17/australians-relate-to-socceroos-diversity-world-cup-australia-national-team",
+      "headline": "Team video went viral because Australians can relate to Socceroos’ diversity, says Awer Mabil",
+      "summary": "Socceroos forward Awer Mabil discusses team's diversity ahead of World Cup 2026 clash against United States.",
+      "url": "https://www.theguardian.com/p/x5a8q8",
+      "thumbnail": "https://media.guim.co.uk/bc4a6690eea40ca2bd95a496b450e6cb5ca9e189/292_0_3333_2667/500.jpg",
+      "published": "2026-06-17T06:28:15Z",
+      "location": {
+        "name": "Oakland",
+        "lat": 37.8044,
+        "lng": -122.2712
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "football/live/2026/jun/17/fifa-world-cup-2026-live-austria-v-jordan-updates-aut-vs-jor-group-j-match-score-latest",
+      "headline": "Austria 3-1 Jordan: World Cup 2026 – as it happened",
+      "summary": "Austria defeats Jordan 3-1 in World Cup 2026 Group J opener after 28-year absence from tournament.",
+      "url": "https://www.theguardian.com/p/x58p55",
+      "thumbnail": "https://media.guim.co.uk/73077c803025ffc980d7fec9e285d3e233ef5339/237_0_3694_2955/500.jpg",
+      "published": "2026-06-17T06:23:17Z",
+      "location": {
+        "name": "Vienna",
+        "lat": 48.2082,
+        "lng": 16.3738
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "australia-news/2026/jun/17/clinician-reported-birthkeeper-to-police-the-day-melbourne-wellness-influencer-died-following-freebirth",
+      "headline": "Clinician reported birthkeeper to police the day Melbourne wellness influencer died following freebirth ",
+      "summary": "Clinician reports birthkeeper to police day wellness influencer Stacey Warner died after freebirth in Melbourne.",
+      "url": "https://www.theguardian.com/p/x5a9h5",
+      "thumbnail": "https://media.guim.co.uk/ddd2564656c97cca26ec0d14a77028d835e3616f/50_0_1500_1200/500.jpg",
+      "published": "2026-06-17T06:20:59Z",
+      "location": {
+        "name": "Melbourne",
+        "lat": -37.8136,
+        "lng": 144.9631
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "sport/2026/jun/17/gold-coast-suns-damien-hardwick-afl-challenge",
+      "headline": "From the Pocket: Damien Hardwick’s Suns face a challenge that may be beyond even him",
+      "summary": "Damien Hardwick faces challenge to convince Gold Coast Suns players to commit to club amid player exodus.",
+      "url": "https://www.theguardian.com/p/x59pcz",
+      "thumbnail": "https://media.guim.co.uk/4bfdb6014ee9865b0b1ba2029c8c8134969db015/113_0_3865_3092/500.jpg",
+      "published": "2026-06-17T06:15:59Z",
+      "location": {
+        "name": "Gold Coast",
+        "lat": -28.0028,
+        "lng": 153.4314
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "business/2026/jun/17/uk-inflation-steady-despite-iran-conflict-fuel-prices",
+      "headline": "UK inflation in surprise hold at 2.8% as slowing food prices offset transport costs",
+      "summary": "UK inflation remains at 2.8% as food prices slow, confounding forecasts ahead of Bank of England decision.",
+      "url": "https://www.theguardian.com/p/x5a6bv",
+      "thumbnail": "https://media.guim.co.uk/579eff685345ae4a0cd601837738d8cb378ee861/382_0_3736_2990/500.jpg",
+      "published": "2026-06-17T06:00:48Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "artanddesign/2026/jun/17/jarman-award-shortlist-announced",
+      "headline": "Silent carnivals, kabaddi players and home videos: Jarman award shortlist announced",
+      "summary": "Film London announces Jarman award shortlist of four artist filmmakers exploring migration and family themes.",
+      "url": "https://www.theguardian.com/p/x5axxc",
+      "thumbnail": "https://media.guim.co.uk/b593592d53f41d4ebbdce47be526f567b2d6fe0c/514_434_2106_1687/500.jpg",
+      "published": "2026-06-17T06:00:25Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "artanddesign"
+    },
+    {
+      "id": "film/2026/jun/17/cactus-pears-review-forbidden-love-india-rohan-kanawade",
+      "headline": "Cactus Pears review – tender and subtle story of forbidden love and a poignant awakening in India",
+      "summary": "Cactus Pears explores forbidden love between two men in India in impressive directorial debut by Rohan Kanawade.",
+      "url": "https://www.theguardian.com/p/x59axf",
+      "thumbnail": "https://media.guim.co.uk/445708e1073ea37fdbf00cb2cdbf178a6b542f7e/360_66_1718_1374/500.jpg",
+      "published": "2026-06-17T06:00:25Z",
+      "location": {
+        "name": "Mumbai",
+        "lat": 19.076,
+        "lng": 72.8777
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "film"
+    },
+    {
+      "id": "travel/2026/jun/17/camping-and-caravanning-club-bike-ride-oxford-to-surrey",
+      "headline": "Cycling in the tracks of Britain’s camping pioneers from Oxford to Surrey",
+      "summary": "Cyclist traces Camping and Caravanning Club's 125-year history from Oxford origins to Surrey's oldest campsites.",
+      "url": "https://www.theguardian.com/p/x5xz3g",
+      "thumbnail": "https://media.guim.co.uk/9b97dbe02a9746702aefec9ef442215955e75abc/0_1215_3024_2419/500.jpg",
+      "published": "2026-06-17T06:00:25Z",
+      "location": {
+        "name": "Oxford",
+        "lat": 51.752,
+        "lng": -1.2577
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "travel"
+    },
+    {
+      "id": "business/2026/jun/17/hospitality-exploits-summer-vat-cut-kids-meals",
+      "headline": "‘Tax break tart’: hospitality tipped to exploit summer VAT cut on children’s meals",
+      "summary": "Restaurants exploit summer VAT cut on children's meals with luxury items like snails and anchovy toast.",
+      "url": "https://www.theguardian.com/p/x595fg",
+      "thumbnail": "https://media.guim.co.uk/153e57227e5ed33a8443abbacf319b36a1afdb87/0_0_4750_3800/500.jpg",
+      "published": "2026-06-17T06:00:24Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "money/2026/jun/17/capital-gains-tax-more-people-have-to-pay-so-heres-what-you-need-to-know",
+      "headline": "Capital gains tax: more people have to pay, so here’s what you need to know",
+      "summary": "Capital gains tax rule changes pull more taxpayers into net as collections soar to £24bn annual record.",
+      "url": "https://www.theguardian.com/p/x58g84",
+      "thumbnail": "https://media.guim.co.uk/c21bc46d851c6603c7097051d1984ed14453b9e9/553_478_3462_2770/500.jpg",
+      "published": "2026-06-17T06:00:24Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "money"
+    },
+    {
+      "id": "football/2026/jun/17/lionel-messi-hat-trick-algeria-argentina-world-cup",
+      "headline": "What happened on a historic night for Argentina? ‘Messi things’",
+      "summary": "Lionel Messi scores hat-trick against Algeria, equaling Miroslav Klose's World Cup scoring record.",
+      "url": "https://www.theguardian.com/p/x5a9b4",
+      "thumbnail": "https://media.guim.co.uk/3ef6b14d04b76aa4f61fa4bf2a74016304d99bb7/619_0_4381_3505/500.jpg",
+      "published": "2026-06-17T05:59:04Z",
+      "location": {
+        "name": "Buenos Aires",
+        "lat": -34.6037,
+        "lng": -58.3816
+      },
+      "category": "sport",
+      "significance": 4,
+      "section": "football"
+    },
+    {
+      "id": "world/2026/jun/17/wednesday-briefing-in-a-new-era-of-far-right-organising-how-can-we-tackle-hate",
+      "headline": "Wednesday briefing: In a new era of far-right organising, how can we tackle hate?",
+      "summary": "Far-right groups use social media to spread division across UK; calls for urgent counter-radicalism measures.",
+      "url": "https://www.theguardian.com/p/x5a544",
+      "thumbnail": "https://media.guim.co.uk/228277e828b0df5cc4f5126e0b37efd3b91b3f32/632_0_6627_5304/500.jpg",
+      "published": "2026-06-17T05:48:29Z",
+      "location": {
+        "name": "United Kingdom",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "lifeandstyle/2026/jun/17/a-moment-that-changed-me-whatsapp-message-little-known-sport-made-me-unlikely-celebrity-japan",
+      "headline": "A moment that changed me: A WhatsApp message about a little-known sport made me an unlikely celebrity in Japan",
+      "summary": "British person becomes unlikely celebrity in Japan after discovering Mölkky sport and forming national team.",
+      "url": "https://www.theguardian.com/p/x4ntg3",
+      "thumbnail": "https://media.guim.co.uk/8aef2b6ae129e1a01185630f77cd32797c1bb14b/140_114_1357_1086/500.jpg",
+      "published": "2026-06-17T05:45:23Z",
+      "location": {
+        "name": "Japan",
+        "lat": 35.6762,
+        "lng": 139.6503
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "lifeandstyle"
     }
   ]
 }
