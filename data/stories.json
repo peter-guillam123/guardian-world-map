@@ -1,124 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-17T17:38:53.890Z",
-    "story_count": 87,
-    "oldest_story": "2026-06-16T18:00:30Z",
-    "newest_story": "2026-06-17T17:35:34Z",
+    "generated_at": "2026-06-17T19:50:57.850Z",
+    "story_count": 91,
+    "oldest_story": "2026-06-16T20:39:01Z",
+    "newest_story": "2026-06-17T19:47:35Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/live/2026/jun/16/france-v-senegal-world-cup-2026-live",
-      "headline": "France v Senegal: World Cup 2026 – live",
-      "summary": "France faces Senegal in World Cup 2026 group match in New York.",
-      "url": "https://www.theguardian.com/p/x59b9n",
-      "thumbnail": "https://media.guim.co.uk/fe66e9b6f1938e0d5baa2d8afd1b0fb56f64693d/691_0_5000_4000/500.jpg",
-      "published": "2026-06-16T19:05:28Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "sport",
-      "significance": 4,
-      "section": "football"
-    },
-    {
-      "id": "sport/live/2026/jun/16/womens-t20-world-cup-2026-england-v-ireland-live",
-      "headline": "England v Ireland: Women’s T20 Cricket World Cup 2026 – live",
-      "summary": "England women face Ireland in T20 World Cup cricket at Utilita Bowl.",
-      "url": "https://www.theguardian.com/p/x5a5m3",
-      "thumbnail": "https://media.guim.co.uk/d8298709e28717cbba7a1d84680dc65b6713a152/303_244_3417_2734/500.jpg",
-      "published": "2026-06-16T19:02:06Z",
-      "location": {
-        "name": "Southampton",
-        "lat": 50.9097,
-        "lng": -1.4044
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "sport"
-    },
-    {
-      "id": "society/2026/jun/16/uk-learning-disability-nurses-nhs",
-      "headline": "Lack of learning-disability nurses in UK is an ‘absolute crisis’, says union",
-      "summary": "RCN report warns learning-disability nurse workforce in UK is in absolute crisis.",
-      "url": "https://www.theguardian.com/p/x5avda",
-      "thumbnail": "https://media.guim.co.uk/888d14a91d3042e862822041d0aa9f86561c3cec/105_0_2665_2132/500.jpg",
-      "published": "2026-06-16T19:00:10Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "society"
-    },
-    {
-      "id": "us-news/2026/jun/16/minnesota-immigration-enforcement-conspiracy-charges",
-      "headline": "Fifteen people charged over alleged interference in Minnesota immigration crackdown",
-      "summary": "Fifteen people charged with conspiracy over interference in Minnesota immigration enforcement crackdown.",
-      "url": "https://www.theguardian.com/p/x5a6am",
-      "thumbnail": "https://media.guim.co.uk/f8c8569767c8247ff5928d7c547519cf7e93c01a/224_0_3841_3073/500.jpg",
-      "published": "2026-06-16T18:50:39Z",
-      "location": {
-        "name": "Minneapolis",
-        "lat": 44.9778,
-        "lng": -93.265
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "uk-news/2026/jun/16/russian-frigate-fires-warning-shots-at-british-yacht-in-channel-reports",
-      "headline": "Russian frigate fires warning shots at British yacht in Channel ",
-      "summary": "Russian frigate fires warning shots near British yacht off Isle of Wight in Channel.",
-      "url": "https://www.theguardian.com/p/x5a6f8",
-      "thumbnail": "https://media.guim.co.uk/8c54eb25d52845f8494c0e3c6d4fe3f430bd0e92/743_0_4560_3648/500.jpg",
-      "published": "2026-06-16T18:43:36Z",
-      "location": {
-        "name": "Isle of Wight",
-        "lat": 50.7184,
-        "lng": -1.3049
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "uk-news"
-    },
-    {
-      "id": "sport/2026/jun/16/england-new-zealand-second-test-oval-extraordinary-week",
-      "headline": "All change for the Oval as England hope for normality after extraordinary week",
-      "summary": "England makes five changes for Oval Test against New Zealand after extraordinary week.",
-      "url": "https://www.theguardian.com/p/x5a57x",
-      "thumbnail": "https://media.guim.co.uk/d7191f831524ba5c417341be08c605eb1a5ce0ca/0_0_6053_4842/500.jpg",
-      "published": "2026-06-16T18:15:41Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "business/nils-pratley-on-finance/2026/jun/16/tide-is-turning-on-thames-water-special-administration-looks-best",
-      "headline": "The tide is turning on Thames Water: special administration looks best",
-      "summary": "Thames Water special administration emerging as likely government solution for struggling utility.",
-      "url": "https://www.theguardian.com/p/x5a4nh",
-      "thumbnail": "https://media.guim.co.uk/43b9629d1d660e3d9ebc0e21c77dd620ead80a26/683_0_6827_5464/500.jpg",
-      "published": "2026-06-16T18:00:30Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
     {
       "id": "football/live/2026/jun/16/iraq-v-norway-world-cup-2026-live",
       "headline": "Iraq v Norway: World Cup 2026 – live",
@@ -1398,6 +1286,182 @@
       "category": "sport",
       "significance": 2,
       "section": "sport"
+    },
+    {
+      "id": "football/live/2026/jun/17/england-v-croatia-world-cup-2026-live-updates",
+      "headline": "England v Croatia: World Cup 2026 – live",
+      "summary": "England faces Croatia in World Cup 2026 group stage match in Dallas with Thomas Tuchel's side starting tournament.",
+      "url": "https://www.theguardian.com/p/x5a64g",
+      "thumbnail": "https://media.guim.co.uk/3d46f533edd193a4db5e6d1fb0b86592735a7b22/220_0_1589_1271/500.jpg",
+      "published": "2026-06-17T19:47:35Z",
+      "location": {
+        "name": "Dallas",
+        "lat": 32.7767,
+        "lng": -96.797
+      },
+      "category": "sport",
+      "significance": 4,
+      "section": "football"
+    },
+    {
+      "id": "world/2026/jun/17/us-iran-deal-trump",
+      "headline": "US-Iran deal takeaways: reopening the strait of Hormuz, waived oil sanctions and Lebanon",
+      "summary": "US and Iran reach preliminary 14-point peace deal ending 110-day conflict, including strait reopening and oil sanctions waiver.",
+      "url": "https://www.theguardian.com/p/x5acqt",
+      "thumbnail": "https://media.guim.co.uk/971d26ad84e86008299eeb693d762b9d5f101f92/370_0_5001_4000/500.jpg",
+      "published": "2026-06-17T19:40:45Z",
+      "location": {
+        "name": "Tehran",
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "category": "politics",
+      "significance": 5,
+      "section": "world"
+    },
+    {
+      "id": "football/2026/jun/17/portugal-dr-congo-world-cup-2026-group-k-match-report",
+      "headline": "Yoane Wissa gives DR Congo first ever World Cup point in draw with Portugal",
+      "summary": "DR Congo claims first World Cup point with Yoane Wissa goal in 1-1 draw with Portugal; Ronaldo underwhelms.",
+      "url": "https://www.theguardian.com/p/x5acbg",
+      "thumbnail": "https://media.guim.co.uk/a4f1aeff95f4c0a82cec27a4146046a34e4bf452/297_0_5016_4013/500.jpg",
+      "published": "2026-06-17T19:28:06Z",
+      "location": {
+        "name": "Houston",
+        "lat": 29.7604,
+        "lng": -95.3698
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "uk-news/2026/jun/17/we-had-right-of-way-when-british-fair-play-met-russian-firepower-off-the-isle-of-wight",
+      "headline": "‘We had right of way’: when British fair play met Russian firepower off the Isle of Wight",
+      "summary": "British yacht encounters Russian frigate Admiral Grigorovich in Channel standoff amid Anglo-Russian tensions.",
+      "url": "https://www.theguardian.com/p/x5abk7",
+      "thumbnail": "https://media.guim.co.uk/f27ff6d9a045ef0cc3b560752528ec127b4b156f/0_175_480_384/master/480.jpg",
+      "published": "2026-06-17T19:17:00Z",
+      "location": {
+        "name": "Isle of Wight",
+        "lat": 50.7184,
+        "lng": -1.3049
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "sport/2026/jun/17/sonny-baker-revels-first-taste-test-cricket-england-second-test-new-zealand",
+      "headline": "Sonny Baker revels in ‘brilliant, awesome’ first taste of Test cricket for England",
+      "summary": "Sonny Baker impresses on England Test debut at the Oval, taking two key wickets against New Zealand.",
+      "url": "https://www.theguardian.com/p/x5aapb",
+      "thumbnail": "https://media.guim.co.uk/270fc7b665b40d12cc9dfe0dbbec6e68c8e1651c/56_115_3953_3162/500.jpg",
+      "published": "2026-06-17T19:16:53Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "world/2026/jun/17/trump-us-iran-war-mou-deal",
+      "headline": "US releases text of Iran peace plan as Trump says deal averts ‘worldwide depression’",
+      "summary": "Trump releases Iran peace deal text, claiming major US win despite concessions; averts worldwide depression.",
+      "url": "https://www.theguardian.com/p/x5ackb",
+      "thumbnail": "https://media.guim.co.uk/d9fbabe614374dcda7e8c91cd97e48826e55b999/623_0_4335_3467/500.jpg",
+      "published": "2026-06-17T19:16:44Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 5,
+      "section": "world"
+    },
+    {
+      "id": "us-news/2026/jun/17/don-berthiaume-doj-trump-jan-6",
+      "headline": "Trump official declines to call January 6 an ‘attack’, describing ‘protests and such’",
+      "summary": "Trump's DOJ inspector general nominee refuses to call January 6 an 'attack' during Senate confirmation hearing.",
+      "url": "https://www.theguardian.com/p/x5adv7",
+      "thumbnail": "https://media.guim.co.uk/b4374da16ef3a3cf220bc9fd8e963b693c0c1f05/355_0_3334_2667/500.jpg",
+      "published": "2026-06-17T19:09:17Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "sport/2026/jun/17/stokes-and-mccullum-under-pressure-as-speculation-fills-void-of-inscrutibility",
+      "headline": "Stokes and McCullum under pressure as England struggle to block out speculation",
+      "summary": "Federal Reserve holds interest rates steady for fourth consecutive time under new chair Kevin Warsh.",
+      "url": "https://www.theguardian.com/p/x5aanz",
+      "thumbnail": "https://media.guim.co.uk/7594ebc8d85e795f8227eda2d2492f81c81145f2/653_0_6527_5222/500.jpg",
+      "published": "2026-06-17T18:53:05Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "sport"
+    },
+    {
+      "id": "business/2026/jun/17/federal-reserve-interest-rates",
+      "headline": "Federal Reserve holds interest rates steady for fourth time this year",
+      "summary": "UK officials expect Russian retaliation after Royal Marines seized shadow fleet oil tanker Smyrtos in Channel.",
+      "url": "https://www.theguardian.com/p/x5a77p",
+      "thumbnail": "https://media.guim.co.uk/a9efb65ca40761e732dc3c73d11e8247e7f13bcd/458_0_4583_3668/500.jpg",
+      "published": "2026-06-17T18:50:28Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "politics/2026/jun/17/uk-expect-russia-retaliate-seizure-shadow-fleet-oil-tanker-smyrtos",
+      "headline": "UK officials expect Russia to retaliate for seizure of shadow fleet oil tanker",
+      "summary": "Georgia Republicans decline to redraw congressional map after Supreme Court voting rights decision.",
+      "url": "https://www.theguardian.com/p/x5achc",
+      "thumbnail": "https://media.guim.co.uk/a480007f4ceb7392949bff4d07c12c812ffb4106/366_0_3830_3064/500.jpg",
+      "published": "2026-06-17T18:47:03Z",
+      "location": {
+        "name": "Atlanta",
+        "lat": 33.749,
+        "lng": -84.388
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "us-news/2026/jun/17/georgia-republicans-congressional-redistricting",
+      "headline": "Georgia Republicans decline to redraw congressional map after voting rights decision",
+      "summary": "Jacob Bethell takes two wickets as England's new-look team holds New Zealand to 291-7 on day one at the Oval.",
+      "url": "https://www.theguardian.com/p/x5acmz",
+      "thumbnail": "https://media.guim.co.uk/d651acdcff3b96ff0401aaec8c5022ccd963927a/427_0_4681_3744/500.jpg",
+      "published": "2026-06-17T18:43:40Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "us-news"
     }
   ]
 }
