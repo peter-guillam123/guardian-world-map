@@ -1,268 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-18T14:26:04.533Z",
-    "story_count": 90,
-    "oldest_story": "2026-06-17T14:26:55Z",
-    "newest_story": "2026-06-18T14:17:40Z",
+    "generated_at": "2026-06-18T17:43:33.832Z",
+    "story_count": 84,
+    "oldest_story": "2026-06-17T18:43:40Z",
+    "newest_story": "2026-06-18T17:40:31Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "politics/2026/jun/17/top-teaching-union-backs-burnham-as-labours-best-chance-of-beating-reform",
-      "headline": "Top teaching union backs Burnham as Labour’s best chance of beating Reform",
-      "summary": "Teaching union backs Andy Burnham as Labour's best chance against Reform in upcoming byelection.",
-      "url": "https://www.theguardian.com/p/x5abdv",
-      "thumbnail": "https://media.guim.co.uk/ae0454d3ca082d15125737b22d6e49bc949ede00/48_0_6017_4815/500.jpg",
-      "published": "2026-06-17T14:35:44Z",
-      "location": {
-        "name": "Makerfield",
-        "lat": 53.55,
-        "lng": -2.7
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "politics"
-    },
-    {
-      "id": "us-news/2026/jun/17/netjets-deadly-crash-laredo-texas",
-      "headline": "NetJets aircraft crashes on Texas highway, killing one and injuring five",
-      "summary": "NetJets aircraft crashes on Texas highway, killing one and injuring five.",
-      "url": "https://www.theguardian.com/p/x5abf2",
-      "thumbnail": "https://media.guim.co.uk/dc164a04613d905575044a163561ff02138ce71c/85_0_856_685/500.jpg",
-      "published": "2026-06-17T14:31:34Z",
-      "location": {
-        "name": "Laredo",
-        "lat": 27.5305,
-        "lng": -97.145
-      },
-      "category": "other",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "uk-news/2026/jun/17/harry-meghan-children-uk-first-time-four-years",
-      "headline": "Harry and Meghan to bring children to UK for first time in four years",
-      "summary": "Prince Harry and Meghan to bring children to UK for first time in four years.",
-      "url": "https://www.theguardian.com/p/x5abgc",
-      "thumbnail": "https://media.guim.co.uk/69576fa2b81016d060b16e57c9dc0ed465441782/533_0_4368_3496/500.jpg",
-      "published": "2026-06-17T14:26:55Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "football/live/2026/jun/17/portugal-v-dr-congo-world-cup-2026-live",
-      "headline": "Portugal v DR Congo: World Cup 2026 – live",
-      "summary": "Portugal faces DR Congo in World Cup 2026 group stage match in Houston with Cristiano Ronaldo.",
-      "url": "https://www.theguardian.com/p/x5a6xk",
-      "thumbnail": "https://media.guim.co.uk/609779660052ccb6cd545c558b050c0bce7b9f38/0_73_2476_1980/500.jpg",
-      "published": "2026-06-17T17:35:34Z",
-      "location": {
-        "name": "Houston",
-        "lat": 29.7589,
-        "lng": -95.3677
-      },
-      "category": "sport",
-      "significance": 4,
-      "section": "football"
-    },
-    {
-      "id": "sport/2026/jun/17/ombudsman-hands-out-decisive-beating-to-classy-royal-ascot-field-horse-racing-tips",
-      "headline": "Ombudsman dishes out decisive beating to classy Royal Ascot field",
-      "summary": "Ombudsman wins Prince of Wales's Stakes on day two of Royal Ascot horse racing event.",
-      "url": "https://www.theguardian.com/p/x5acx9",
-      "thumbnail": "https://media.guim.co.uk/2c59e48bd9cade8a7e57f1c765c24d5f15a2bc58/138_0_4216_3373/500.jpg",
-      "published": "2026-06-17T17:34:47Z",
-      "location": {
-        "name": "Ascot",
-        "lat": 51.4084,
-        "lng": -0.6691
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "politics/2026/jun/17/keir-starmer-denial-labour-leadership-contest-andy-burnham",
-      "headline": "Starmer’s denial in Labour leadership will not save him but he’ll go down fighting",
-      "summary": "Labour leadership speculation follows Keir Starmer denial amid party pressure for strong communicator.",
-      "url": "https://www.theguardian.com/p/x5ac4c",
-      "thumbnail": "https://media.guim.co.uk/e7fcefa081efe526cbb25c9428ab1ba40f33d249/595_116_3097_2478/500.jpg",
-      "published": "2026-06-17T17:31:02Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "politics"
-    },
-    {
-      "id": "world/2026/jun/17/macron-hails-us-alignment-with-g7s-shared-commitment-on-ukraine",
-      "headline": "Macron hails US alignment with G7’s ‘shared commitment’ on Ukraine",
-      "summary": "Macron hails G7 unity on Ukraine with notable shift in US approach under Trump administration.",
-      "url": "https://www.theguardian.com/p/x5aceq",
-      "thumbnail": "https://media.guim.co.uk/3e7c68f20ecf4b37eb3531a53ffda10507d98259/1672_3_3685_2949/500.jpg",
-      "published": "2026-06-17T17:26:44Z",
-      "location": {
-        "name": "Évian",
-        "lat": 46.3997,
-        "lng": 6.5885
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "sport/2026/jun/17/jenny-simpson-collapse",
-      "headline": "Three-time Olympian Jenny Simpson in hospital after collapsing at track event",
-      "summary": "Olympic runner Jenny Simpson hospitalized after collapsing at track event with no pulse initially.",
-      "url": "https://www.theguardian.com/p/x5acht",
-      "thumbnail": "https://media.guim.co.uk/b6e4ff40beae664322a838641f5646f616df6908/346_0_4059_3246/500.jpg",
-      "published": "2026-06-17T17:12:42Z",
-      "location": {
-        "name": "North Carolina",
-        "lat": 35.6301,
-        "lng": -79.8064
-      },
-      "category": "health",
-      "significance": 3,
-      "section": "sport"
-    },
-    {
-      "id": "society/2026/jun/17/forced-adoption-survivors-full-apology-uk-government-bridget-phillipson",
-      "headline": "Forced adoption survivors to get full apology from UK government, says Phillipson",
-      "summary": "UK government pledges full apology to forced adoption survivors; described as shameful period.",
-      "url": "https://www.theguardian.com/p/x5aatm",
-      "thumbnail": "https://media.guim.co.uk/ca63cfa7a0f9043d3a448984d6b4a013f47d57fd/230_0_2288_1831/500.jpg",
-      "published": "2026-06-17T17:06:28Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "society"
-    },
-    {
-      "id": "politics/2026/jun/17/defence-spending-how-to-keep-britain-safe-without-wasting-money",
-      "headline": "Defence spending: how to keep Britain safe without wasting money",
-      "summary": "Defence spending debate with focus on Abbey Wood procurement headquarters inefficiency issues.",
-      "url": "https://www.theguardian.com/p/x59vdg",
-      "thumbnail": "https://media.guim.co.uk/c341db6313cabf867ff590413c80d3704e89340d/488_0_4878_3903/500.jpg",
-      "published": "2026-06-17T17:04:09Z",
-      "location": {
-        "name": "Bristol",
-        "lat": 51.4545,
-        "lng": -2.5879
-      },
-      "category": "politics",
-      "significance": 1,
-      "section": "politics"
-    },
-    {
-      "id": "politics/2026/jun/17/the-wit-warmth-and-wisdom-in-roy-hattersley-endpiece-column",
-      "headline": "The wit, warmth and wisdom in Roy Hattersley’s Endpiece column",
-      "summary": "Tributes to late Labour MP Roy Hattersley's wit and wisdom in Guardian Endpiece columns.",
-      "url": "https://www.theguardian.com/p/x5a6jh",
-      "thumbnail": "https://media.guim.co.uk/1b0f2abfb961079d838c25fdb7bf93d798c52758/878_154_1416_1133/500.jpg",
-      "published": "2026-06-17T17:04:05Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "politics"
-    },
-    {
-      "id": "uk-news/2026/jun/17/its-a-myth-that-bristol-is-the-uks-coolest-city",
-      "headline": "It’s a myth that Bristol is the UK’s coolest city",
-      "summary": "Bristol's cool city myth masks underlying deprivation problems, says local resident.",
-      "url": "https://www.theguardian.com/p/x596db",
-      "thumbnail": "https://media.guim.co.uk/33fc7cddc128415bb19d1911dc7b071d0b72bc82/302_0_4428_3541/500.jpg",
-      "published": "2026-06-17T17:04:00Z",
-      "location": {
-        "name": "Bristol",
-        "lat": 51.4545,
-        "lng": -2.5879
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "uk-news"
-    },
-    {
-      "id": "uk-news/2026/jun/17/a-lifetime-of-love-for-wharfedale-wildlife",
-      "headline": "A lifetime of love for Wharfedale wildlife ",
-      "summary": "Reader recalls childhood memories exploring Wharfedale wildlife and natural heritage.",
-      "url": "https://www.theguardian.com/p/x5acve",
-      "thumbnail": "https://media.guim.co.uk/2debc08950f0d02c3e0dd9cc623c54296ea318e3/862_0_4500_3600/500.jpg",
-      "published": "2026-06-17T17:03:52Z",
-      "location": {
-        "name": "Wharfedale",
-        "lat": 53.9833,
-        "lng": -1.9833
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "uk-news"
-    },
-    {
-      "id": "sport/2026/jun/17/andy-murray-backs-jack-draper-wimbledon-tennis",
-      "headline": "Andy Murray backs Jack Draper for Wimbledon return: ‘He’s bloody good’",
-      "summary": "Andy Murray backs Jack Draper for Wimbledon return, praising his fitness and tennis ability.",
-      "url": "https://www.theguardian.com/p/x5aaqb",
-      "thumbnail": "https://media.guim.co.uk/cdc7a700d64645ce8b7c10ec5869a4808d510b4d/0_225_4000_3200/500.jpg",
-      "published": "2026-06-17T17:03:50Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "news/2026/jun/17/the-rise-of-claudia-sheinbaum-inside-the-19-june-edition",
-      "headline": "The rise of Claudia Sheinbaum: inside the 19 June edition",
-      "summary": "Claudia Sheinbaum emerges as world's most popular leftwing leader with 70% approval rating.",
-      "url": "https://www.theguardian.com/p/x5ax79",
-      "thumbnail": "https://media.guim.co.uk/e8a69b9029fe2ea58527ca46e1d5b8e98d946b66/0_0_5000_4000/500.jpg",
-      "published": "2026-06-17T17:00:39Z",
-      "location": {
-        "name": "Mexico City",
-        "lat": 19.4326,
-        "lng": -99.1332
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "news"
-    },
-    {
-      "id": "sport/2026/jun/17/joe-root-england-captain-new-zealand-second-test-cricket-analysis",
-      "headline": "Captain Root 2.0: more fun but a different kind of burden in leadership reboot",
-      "summary": "Joe Root returns as England captain with fresh approach in leadership role against New Zealand.",
-      "url": "https://www.theguardian.com/p/x5aaz9",
-      "thumbnail": "https://media.guim.co.uk/a510d9ce251b8c91d71aa44c4481f90a0b5ee9d5/304_62_3737_2990/500.jpg",
-      "published": "2026-06-17T16:40:03Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
     {
       "id": "football/live/2026/jun/17/england-v-croatia-world-cup-2026-live-updates",
       "headline": "England v Croatia: World Cup 2026 – live",
@@ -1446,6 +1190,166 @@
       "category": "climate",
       "significance": 2,
       "section": "uk-news"
+    },
+    {
+      "id": "world/2026/jun/18/iran-announces-plans-to-bring-in-maritime-fees-for-strait-of-hormuz",
+      "headline": "Iran announces plans to bring in maritime fees for strait of Hormuz",
+      "summary": "Iran announces maritime fees for Strait of Hormuz after US peace deal negotiations.",
+      "url": "https://www.theguardian.com/p/x5atvp",
+      "thumbnail": "https://media.guim.co.uk/e2af776766be279a9755265a73c20bd2bef4bd6c/806_0_3867_3095/500.jpg",
+      "published": "2026-06-18T17:40:31Z",
+      "location": {
+        "name": "Strait of Hormuz",
+        "lat": 26.55,
+        "lng": 56.2667
+      },
+      "category": "politics",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "sport/2026/jun/18/aidan-obrien-saddles-century-of-royal-ascot-winners-and-shows-no-sign-of-letting-up",
+      "headline": "Aidan O’Brien saddles century of Royal Ascot winners and shows no sign of letting up",
+      "summary": "Aidan O'Brien saddles his 100th Royal Ascot winner with Scandinavia's Gold Cup victory.",
+      "url": "https://www.theguardian.com/p/x5ahjx",
+      "thumbnail": "https://media.guim.co.uk/dd643524791c0222bc6d8199d850f8608720c050/375_0_3750_3000/500.jpg",
+      "published": "2026-06-18T17:35:44Z",
+      "location": {
+        "name": "Ascot",
+        "lat": 51.4078,
+        "lng": -0.665
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "us-news/2026/jun/18/california-billionaire-tax-ballot-tech-opposition",
+      "headline": "California ‘billionaire tax’ makes ballot despite opposition from tech moguls",
+      "summary": "California billionaire wealth tax proposal qualifies for November ballot despite tech opposition.",
+      "url": "https://www.theguardian.com/p/x5at6h",
+      "thumbnail": "https://media.guim.co.uk/38e509e5c6cebd21b697c28446bba95920578c09/305_0_3560_2848/500.jpg",
+      "published": "2026-06-18T17:25:51Z",
+      "location": {
+        "name": "California",
+        "lat": 36.1162,
+        "lng": -119.6816
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "education/2026/jun/18/city-and-guilds-scraps-mass-redundancies-offshoring-uk-jobs-to-greece",
+      "headline": "City & Guilds scraps mass redundancies and offshoring UK jobs to Greece",
+      "summary": "City & Guilds scraps plans to offshore 400 UK jobs to Greece following backlash.",
+      "url": "https://www.theguardian.com/p/x5aheg",
+      "thumbnail": "https://media.guim.co.uk/9b6340b0f3c3025f7b17db8ec9f538abfc1deea7/376_0_4638_3710/500.jpg",
+      "published": "2026-06-18T17:17:53Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "education"
+    },
+    {
+      "id": "uk-news/2026/jun/18/social-media-ban-saving-kids-or-punishing-them",
+      "headline": "Social media ban: saving kids or punishing them?",
+      "summary": "Debate over proposed UK social media ban for under-16s balances child protection and freedom.",
+      "url": "https://www.theguardian.com/p/x5a6fz",
+      "thumbnail": "https://media.guim.co.uk/d41a2eec1503e76eacd201d7665391d8b0b10e67/495_0_6880_5504/500.jpg",
+      "published": "2026-06-18T16:51:30Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "football/2026/jun/18/its-kicking-off-over-the-best-football-songs",
+      "headline": "It’s kicking off over the best football songs",
+      "summary": "Readers discuss greatest songs about football, noting omissions from Guardian ranking.",
+      "url": "https://www.theguardian.com/p/x5a64z",
+      "thumbnail": "https://media.guim.co.uk/ba4f2ba12c4febf60d7f69e2da4f5b35d0202e36/500_0_5000_4000/500.jpg",
+      "published": "2026-06-18T16:49:19Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "football"
+    },
+    {
+      "id": "uk-news/2026/jun/18/a-bit-of-banter-on-the-buses",
+      "headline": "A bit of banter on the buses",
+      "summary": "Letters recall spontaneous moments of humor between passengers and staff on public transport.",
+      "url": "https://www.theguardian.com/p/x59cbe",
+      "thumbnail": "https://media.guim.co.uk/8493d1b427694e3d8492c7d1bc96e072c02c107c/342_0_3380_2704/500.jpg",
+      "published": "2026-06-18T16:48:26Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "uk-news"
+    },
+    {
+      "id": "society/2026/jun/18/jobless-youngsters-should-give-teaching-a-try",
+      "headline": "Jobless youngsters should give teaching a try",
+      "summary": "Letters suggest unemployed youth consider teaching careers amid shortage of educators.",
+      "url": "https://www.theguardian.com/p/x5agm4",
+      "thumbnail": "https://media.guim.co.uk/aaa00fb5921bd6cc8b1e4f60f57a14dae4fd831c/497_0_4560_3648/500.jpg",
+      "published": "2026-06-18T16:45:52Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 1,
+      "section": "society"
+    },
+    {
+      "id": "sport/2026/jun/18/new-york-knicks-parade-fans-nba-champions",
+      "headline": "Thousands of Knicks fans celebrate big win with joyous New York parade: ‘We family now’",
+      "summary": "Thousands celebrate New York Knicks' NBA Championship with downtown ticker-tape parade.",
+      "url": "https://www.theguardian.com/p/x5atv4",
+      "thumbnail": "https://media.guim.co.uk/a88d35f962126f99c8bb5d686b55764b02c4015d/358_0_4164_3333/500.jpg",
+      "published": "2026-06-18T16:38:52Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "politics/2026/jun/18/marion-kozak-obituary",
+      "headline": "Marion Kozak obituary",
+      "summary": "Marion Kozak obituary: feminist, teacher and campaigner for children's rights dies at 91.",
+      "url": "https://www.theguardian.com/p/x5at54",
+      "thumbnail": "https://media.guim.co.uk/0443d2ccdcb8d6b30d2c06d668071f047ba13f92/445_715_519_416/500.jpg",
+      "published": "2026-06-18T16:36:13Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 1,
+      "section": "politics"
     }
   ]
 }
