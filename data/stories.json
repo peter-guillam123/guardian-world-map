@@ -1,188 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-18T11:16:26.397Z",
-    "story_count": 100,
-    "oldest_story": "2026-06-17T11:21:19Z",
-    "newest_story": "2026-06-18T11:15:52Z",
+    "generated_at": "2026-06-18T14:26:04.533Z",
+    "story_count": 90,
+    "oldest_story": "2026-06-17T14:26:55Z",
+    "newest_story": "2026-06-18T14:17:40Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "sport/live/2026/jun/17/cricket-england-v-new-zealand-second-test-match-live",
-      "headline": "England v New Zealand: second men’s Test, day one – live",
-      "summary": "England face New Zealand in second Test at Kia Oval with play underway on day one.",
-      "url": "https://www.theguardian.com/p/x5a62t",
-      "thumbnail": "https://media.guim.co.uk/6887e80498f771bc318d089a12038e99dbdce60a/258_0_3742_2993/500.jpg",
-      "published": "2026-06-17T11:46:59Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "sport/live/2026/jun/17/state-of-origin-2026-game-2-nsw-blues-v-queensland-maroons-live",
-      "headline": "State of Origin 2026 Game 2 live: NSW Blues v Qld Maroons",
-      "summary": "NSW Blues battle Queensland Maroons in State of Origin Game 2 at MCG.",
-      "url": "https://www.theguardian.com/p/x59qet",
-      "thumbnail": "https://media.guim.co.uk/b41cba0a8a96f33774020a0afb99724d35d1b380/224_0_2235_1789/500.jpg",
-      "published": "2026-06-17T11:46:37Z",
-      "location": {
-        "name": "Melbourne",
-        "lat": -37.8136,
-        "lng": 144.9631
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "world/live/2026/jun/17/middle-east-war-iran-israel-us-donald-trump-hezbollah-lebanon-peace-deal-netanyahu-latest-news-updated",
-      "headline": " Middle East crisis live: Trump warns US will ‘go back to shooting’ if Iran ‘don’t behave’, as G7 leaders call for Lebanon ceasefire",
-      "summary": "Trump warns Iran of resumed US military action as Middle East ceasefire talks progress.",
-      "url": "https://www.theguardian.com/p/x5a87n",
-      "thumbnail": "https://media.guim.co.uk/71eac82386dcb5d9626bf7e0fb1415e6862402a3/527_0_5000_4000/500.jpg",
-      "published": "2026-06-17T11:46:33Z",
-      "location": {
-        "name": "Lebanon",
-        "lat": 33.8547,
-        "lng": 35.8623
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "world/live/2026/jun/17/g7-leaders-evian-donald-trump-ukraine-russia-war-iran-latest-news-updates",
-      "headline": "Trump says ‘I am the boss’ at G7 summit as leaders agree ‘new steps to put pressure’ on Russia – Europe live",
-      "summary": "G7 summit: Trump asserts dominance as leaders agree pressure campaign on Russia.",
-      "url": "https://www.theguardian.com/p/x5a9qn",
-      "thumbnail": "https://media.guim.co.uk/d0ba06b995636e8ad0c14d063a37e76414d1a317/73_135_6344_5075/500.jpg",
-      "published": "2026-06-17T11:46:22Z",
-      "location": {
-        "name": "Evian",
-        "lat": 46.402,
-        "lng": 6.5938
-      },
-      "category": "politics",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "us-news/live/2026/jun/17/trump-georgia-primary-mike-collins-jon-ossoff-midterms-g7-us-politics-latest-news-updates",
-      "headline": "Trump-backed candidate wins primary to face Jon Ossoff in Georgia midterms – US politics live ",
-      "summary": "Trump-backed Mike Collins wins Georgia primary runoff to face Jon Ossoff in midterms.",
-      "url": "https://www.theguardian.com/p/x5aajf",
-      "thumbnail": "https://media.guim.co.uk/bc1bce12b7951709c2542ea812fa381b54048f4a/469_0_4335_3468/500.jpg",
-      "published": "2026-06-17T11:46:02Z",
-      "location": {
-        "name": "Atlanta",
-        "lat": 33.749,
-        "lng": -84.388
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "sport/live/2026/jun/17/australia-v-bangladesh-womens-t20-world-cup-2026-cricket-live",
-      "headline": "Australia v Bangladesh: Women’s T20 World Cup 2026 – live ",
-      "summary": "Australia chase 78 runs against Bangladesh in Women's T20 World Cup at Headingley.",
-      "url": "https://www.theguardian.com/p/x59qek",
-      "thumbnail": "https://media.guim.co.uk/ee2777ac0f963e7810fad75e6441971092b08751/207_0_3050_2440/500.jpg",
-      "published": "2026-06-17T11:45:47Z",
-      "location": {
-        "name": "Leeds",
-        "lat": 53.8008,
-        "lng": -1.5491
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "politics/live/2026/jun/17/keir-starmer-labour-leadership-contest-andy-burnham-makerfield-byelection-wes-streeting-latest-news-updates",
-      "headline": "Lammy tells Tory deputy chair to apologise for joking on TV about arson attack on Starmer’s home – UK politics live",
-      "summary": "Foreign Secretary Lammy challenges Tory on conspiracy theories about Starmer arson attack.",
-      "url": "https://www.theguardian.com/p/x5aa3y",
-      "thumbnail": "https://media.guim.co.uk/9a001c7eb1cfd10f0ba58f6a320a488c8da28272/134_0_1344_1075/500.jpg",
-      "published": "2026-06-17T11:45:07Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "us-news/2026/jun/17/trump-halts-jay-clayton-dni-nomination",
-      "headline": "Trump abruptly halts confirmation process for Jay Clayton as US intelligence chief",
-      "summary": "Trump halts Jay Clayton's DNI confirmation, allowing controversial Bill Pulte to remain interim.",
-      "url": "https://www.theguardian.com/p/x5a844",
-      "thumbnail": "https://media.guim.co.uk/ef8885e90ef54c5ead9c3733dd9dae4aa6b02b0d/293_0_4118_3294/500.jpg",
-      "published": "2026-06-17T11:33:40Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "sport/live/2026/jun/17/royal-ascot-2026-day-two-horse-racing-updates-live",
-      "headline": "Royal Ascot 2026: day two horse racing updates – live",
-      "summary": "Royal Ascot 2026 day two racing updates with market movers and royal procession details.",
-      "url": "https://www.theguardian.com/p/x5a65m",
-      "thumbnail": "https://media.guim.co.uk/8b2e09ca498eb9a176858b53740d763bbd1e81be/431_0_2501_2001/500.jpg",
-      "published": "2026-06-17T11:29:34Z",
-      "location": {
-        "name": "Ascot",
-        "lat": 51.4087,
-        "lng": -0.6677
-      },
-      "category": "sport",
-      "significance": 1,
-      "section": "sport"
-    },
-    {
-      "id": "politics/2026/jun/17/wes-streeting-labour-leadership-challenge-keir-starmer",
-      "headline": "Keir Starmer signals he would give Andy Burnham a cabinet job ",
-      "summary": "Starmer offers cabinet position to Andy Burnham to counter leadership challenge.",
-      "url": "https://www.theguardian.com/p/x5aaxp",
-      "thumbnail": "https://media.guim.co.uk/785758c0970e9699a7841d6793314c975225bfb7/582_0_4167_3333/500.jpg",
-      "published": "2026-06-17T11:26:15Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4808,
-        "lng": -2.2426
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "commentisfree/2026/jun/17/haters-critics-bbc-britain-public-opinion",
-      "headline": "As haters and critics circle, will anyone speak up for the BBC? Yes, a huge, loyal army of ordinary Britons",
-      "summary": "Survey reveals silent BBC supporter majority amid charter debate and commercial pressures.",
-      "url": "https://www.theguardian.com/p/x5a6b3",
-      "thumbnail": "https://media.guim.co.uk/bc05198826a2d670434d879c45ecd9bc223d933d/0_0_5000_4000/500.jpg",
-      "published": "2026-06-17T11:21:19Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "commentisfree"
-    },
     {
       "id": "politics/2026/jun/17/top-teaching-union-backs-burnham-as-labours-best-chance-of-beating-reform",
       "headline": "Top teaching union backs Burnham as Labour’s best chance of beating Reform",
@@ -230,166 +54,6 @@
       "category": "culture",
       "significance": 2,
       "section": "uk-news"
-    },
-    {
-      "id": "world/2026/jun/17/french-reaction-macron-host-trump-versailles",
-      "headline": "‘Very naive’: French left up in arms as Macron hosts Trump at Versailles",
-      "summary": "Macron hosts Trump at Palace of Versailles amid French left criticism of appeasement.",
-      "url": "https://www.theguardian.com/p/x5abj9",
-      "thumbnail": "https://media.guim.co.uk/f332bc45379d4ba3f5bad2f829e3f26ad8821f92/288_0_3548_2839/500.jpg",
-      "published": "2026-06-17T14:08:59Z",
-      "location": {
-        "name": "Versailles",
-        "lat": 48.8047,
-        "lng": 2.12
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "us-news/2026/jun/17/luigi-mangione-new-york-state-court-appearance",
-      "headline": "Luigi Mangione in New York state court after missing appearance this week",
-      "summary": "Luigi Mangione appears in Manhattan state court facing murder charges after missed appearance.",
-      "url": "https://www.theguardian.com/p/x5ab2j",
-      "thumbnail": "https://media.guim.co.uk/3cf8e053f9718c94e26101dc48f4314292225a1a/928_798_3598_2878/500.jpg",
-      "published": "2026-06-17T14:06:58Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "news/2026/jun/17/why-does-the-often-maligned-caribbean-obeah-tradition-endure",
-      "headline": "Why does the often maligned Caribbean obeah tradition endure?",
-      "summary": "Caribbean obeah tradition endures despite historical stigmatization across region.",
-      "url": "https://www.theguardian.com/p/x59q73",
-      "thumbnail": "https://media.guim.co.uk/8839243bb1f6f64d23571e826da2505a64a6e9f3/0_0_2083_1666/500.jpg",
-      "published": "2026-06-17T14:06:46Z",
-      "location": {
-        "name": "Jamaica",
-        "lat": 18.1096,
-        "lng": -77.2975
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "news"
-    },
-    {
-      "id": "uk-news/2026/jun/17/ex-health-worker-cautioned-princess-of-wales-medical-records-offered-financial-gain",
-      "headline": "Ex-health worker cautioned after Kate’s medical notes offered for financial gain",
-      "summary": "Former healthcare worker cautioned for attempting to sell Princess of Wales's medical records.",
-      "url": "https://www.theguardian.com/p/x5abjc",
-      "thumbnail": "https://media.guim.co.uk/4e8e32de0331102b539f53c647ebfaec61bb0321/327_0_3673_2938/500.jpg",
-      "published": "2026-06-17T14:05:18Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "games/2026/jun/17/xbox-games-studios-developers-firing-line",
-      "headline": "Fears for Xbox as it puts its developers on the chopping block once again",
-      "summary": "Xbox faces developer layoffs after Microsoft signals brand has over-extended.",
-      "url": "https://www.theguardian.com/p/x5a7fz",
-      "thumbnail": "https://media.guim.co.uk/53051938cbb758972bbacad06fe62b277599c0bb/579_5_4905_3924/500.jpg",
-      "published": "2026-06-17T14:00:33Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "tech",
-      "significance": 2,
-      "section": "games"
-    },
-    {
-      "id": "politics/2026/jun/17/oil-gas-industry-aberdeen-south-byelection-snp-tories-energy-policy",
-      "headline": "‘No friends to the oil and gas industry’: Aberdeen South, the byelection where one topic dominates",
-      "summary": "Aberdeen South byelection dominated by North Sea oil and gas energy policy debate.",
-      "url": "https://www.theguardian.com/p/x5a6dn",
-      "thumbnail": "https://media.guim.co.uk/bbbb4b22032926ccd182e21b61f2c3144092fe6b/1361_0_6831_5464/500.jpg",
-      "published": "2026-06-17T14:00:33Z",
-      "location": {
-        "name": "Aberdeen",
-        "lat": 57.1497,
-        "lng": -2.0943
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "politics"
-    },
-    {
-      "id": "environment/2026/jun/17/okra-canada-us-south",
-      "headline": "Okra up north: how a forgotten heirloom travelled the African diaspora to Toronto",
-      "summary": "Canadian farmer grows heirloom okra variety connecting African diaspora and Jamaican roots.",
-      "url": "https://www.theguardian.com/p/x5a6pj",
-      "thumbnail": "https://media.guim.co.uk/ab16b1c56d8f4f5c2d18893ba2469a7e7ad1bd8d/212_0_5840_4672/500.jpg",
-      "published": "2026-06-17T14:00:33Z",
-      "location": {
-        "name": "Toronto",
-        "lat": 43.6532,
-        "lng": -79.3832
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "environment"
-    },
-    {
-      "id": "community/live/2026/jun/17/reader-qa-ask-reporter-hannah-al-othman-anything-about-the-makerfield-byelection",
-      "headline": "‘Is it really as close as it looks?’ - your questions on the Makerfield byelection answered",
-      "summary": "Reporter answers reader questions ahead of Makerfield byelection where Burnham seeks parliament return.",
-      "url": "https://www.theguardian.com/p/x5a5nk",
-      "thumbnail": "https://media.guim.co.uk/e6028f04ac4352a36c4c84361ed8b5659a58734e/1_0_5900_4720/500.jpg",
-      "published": "2026-06-17T13:59:13Z",
-      "location": {
-        "name": "Makerfield",
-        "lat": 53.55,
-        "lng": -2.7
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "community"
-    },
-    {
-      "id": "uk-news/2026/jun/17/british-yacht-couple-russian-warning-shots",
-      "headline": "‘We don’t want world war three’: yacht couple call for calm after Russian warning shots",
-      "summary": "British yacht couple call for calm after Russian warship fires warning shots in Channel.",
-      "url": "https://www.theguardian.com/p/x5abd3",
-      "thumbnail": "https://media.guim.co.uk/b5465b727155ce134e4a2403cde171caa28f666b/0_55_1200_960/500.jpg",
-      "published": "2026-06-17T13:45:33Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "uk-news"
-    },
-    {
-      "id": "business/2026/jun/17/jaguar-land-rover-reverses-ev-only-factory-plans",
-      "headline": "Jaguar Land Rover reverses plans for an EV-only factory",
-      "summary": "Jaguar Land Rover reverses EV-only factory plans to boost US sales growth.",
-      "url": "https://www.theguardian.com/p/x5abch",
-      "thumbnail": "https://media.guim.co.uk/400acece5c0b014ea5e286bd843423db89edf175/0_0_5698_4561/500.jpg",
-      "published": "2026-06-17T13:44:31Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
     },
     {
       "id": "football/live/2026/jun/17/portugal-v-dr-congo-world-cup-2026-live",
@@ -1606,6 +1270,182 @@
       "category": "culture",
       "significance": 1,
       "section": "gnm-press-office"
+    },
+    {
+      "id": "us-news/live/2026/jun/18/supreme-court-birthright-citizenship-ruling-tps-mangione-iran-latest-updates",
+      "headline": "Supreme court sides with Texas marijuana user who wants to own a firearm in latest case expanding gun rights – live ",
+      "summary": "Supreme Court unanimously backs Texas marijuana user's challenge to firearm ownership restrictions.",
+      "url": "https://www.theguardian.com/p/x5agy7",
+      "thumbnail": "https://media.guim.co.uk/37461402ed06e9a47edb9bf954e12b22c43138c2/819_0_4938_3951/500.jpg",
+      "published": "2026-06-18T14:17:40Z",
+      "location": {
+        "name": "Texas",
+        "lat": 31.9686,
+        "lng": -99.9018
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "politics/2026/jun/18/zack-polanski-cleared-ethics-inquiry-council-tax-houseboat",
+      "headline": "Zack Polanski cleared by ethics inquiry over council tax payment complaint",
+      "summary": "Green Party leader Zack Polanski cleared in ethics inquiry over council tax houseboat complaint.",
+      "url": "https://www.theguardian.com/p/x5ah9d",
+      "thumbnail": "https://media.guim.co.uk/2360da0836c3995e42537d5d959f0bb8c1bb3630/542_38_2762_2209/500.jpg",
+      "published": "2026-06-18T14:07:21Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "football/live/2026/jun/18/czechia-v-south-africa-world-cup-live",
+      "headline": "Czechia v South Africa: World Cup – live",
+      "summary": "Czechia faces South Africa in World Cup 2026 match seeking first tournament points.",
+      "url": "https://www.theguardian.com/p/x5abfy",
+      "thumbnail": "https://media.guim.co.uk/230c37ae9484a88cf2452e0c32122f3a8fee4247/395_0_3768_3014/500.jpg",
+      "published": "2026-06-18T14:00:06Z",
+      "location": {
+        "name": "Czech Republic",
+        "lat": 49.8175,
+        "lng": 15.473
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "books/2026/jun/19/the-lonely-city-by-olivia-laing-audiobook-review-solitude-and-creativity-in-manhattan",
+      "headline": "The Lonely City by Olivia Laing audiobook review – solitude and creativity in Manhattan",
+      "summary": "Tilda Swinton narrates Olivia Laing's audiobook on Manhattan artists and urban loneliness.",
+      "url": "https://www.theguardian.com/p/x58qyb",
+      "thumbnail": "https://media.guim.co.uk/1365ed34144c992544330c9c8207d64bca24402a/82_399_4774_3817/500.jpg",
+      "published": "2026-06-18T14:00:06Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "books"
+    },
+    {
+      "id": "thefilter/2026/jun/18/best-air-purifiers-tested-uk",
+      "headline": "The best air purifiers in the UK to cleanse your home of fumes, pollen and dust – tested",
+      "summary": "Expert-tested air purifier review guides UK consumers through hay fever and pollution solutions.",
+      "url": "https://www.theguardian.com/p/x4txpc",
+      "thumbnail": "https://media.guim.co.uk/9f39abba6d4f689b9b69f66d0c102f259ff8e13e/0_0_5000_4000/500.jpg",
+      "published": "2026-06-18T14:00:05Z",
+      "location": {
+        "name": "United Kingdom",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "other",
+      "significance": 1,
+      "section": "thefilter"
+    },
+    {
+      "id": "film/2026/jun/18/aardman-exhibition-animation-studio-bristol-wallace-gromit",
+      "headline": "Aardman exhibition marks animation studio’s half a century in Bristol",
+      "summary": "Aardman animation studio celebrates 50 years in Bristol with Wallace and Gromit exhibition.",
+      "url": "https://www.theguardian.com/p/x5acj5",
+      "thumbnail": "https://media.guim.co.uk/a887dad8732ac6e362990154dd0762eae79b0944/477_0_6880_5504/500.jpg",
+      "published": "2026-06-18T14:00:05Z",
+      "location": {
+        "name": "Bristol",
+        "lat": 51.4545,
+        "lng": -2.5879
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "film"
+    },
+    {
+      "id": "world/2026/jun/18/what-did-ukraine-target-in-moscow-and-how-significant-was-the-drone-attack",
+      "headline": "What did Ukraine target in Moscow and how significant was the drone attack?",
+      "summary": "Ukraine's largest-ever drone attack on Moscow hits oil refinery with nearly 200 drones.",
+      "url": "https://www.theguardian.com/p/x5ah8e",
+      "thumbnail": "https://media.guim.co.uk/5a0b28c7d80ed894b9083dc12e6ce925a1f889a9/425_5_2019_1615/500.jpg",
+      "published": "2026-06-18T13:58:33Z",
+      "location": {
+        "name": "Moscow",
+        "lat": 55.7558,
+        "lng": 37.6173
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "us-news/2026/jun/18/tropical-storm-arthur-downgraded",
+      "headline": "Tropical Storm Arthur downgraded from cyclone as it makes landfall in Texas",
+      "summary": "Tropical Storm Arthur downgraded upon Texas landfall; life-threatening flooding expected.",
+      "url": "https://www.theguardian.com/p/x5ah75",
+      "thumbnail": "https://media.guim.co.uk/f2da1e812d020e5077eb2bf4a9efcd44a112ae32/418_0_4164_3333/500.jpg",
+      "published": "2026-06-18T13:52:26Z",
+      "location": {
+        "name": "Texas",
+        "lat": 31.9686,
+        "lng": -99.9018
+      },
+      "category": "climate",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "uk-news/2026/jun/18/leading-figures-eton-college-attend-rightwing-london-summit-alliance-for-responsible-citizenship",
+      "headline": "Leading figures from Eton college to attend rightwing London summit ",
+      "summary": "Eton leaders attend Jordan Peterson-founded populist-right summit with global figures.",
+      "url": "https://www.theguardian.com/p/x5avkv",
+      "thumbnail": "https://media.guim.co.uk/0c1711787dbbdd6f074c24df42800a49b4eae9a6/0_0_5000_4000/500.jpg",
+      "published": "2026-06-18T13:45:37Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "uk-news"
+    },
+    {
+      "id": "society/2026/jun/18/mistreatment-became-normality-inquiry-into-muckamore-abbey-hospital-abuse-finds",
+      "headline": "‘Mistreatment became normality’ at Muckamore Abbey hospital, inquiry finds ",
+      "summary": "Muckamore Abbey hospital inquiry finds abuse became normality; patients suffered injuries.",
+      "url": "https://www.theguardian.com/p/x5agn7",
+      "thumbnail": "https://media.guim.co.uk/ddfafc11fd6912fd1a0c1b190404109670c8b7bd/179_0_2915_2333/500.jpg",
+      "published": "2026-06-18T13:20:57Z",
+      "location": {
+        "name": "Northern Ireland",
+        "lat": 54.5973,
+        "lng": -6.4438
+      },
+      "category": "health",
+      "significance": 3,
+      "section": "uk-news"
+    },
+    {
+      "id": "uk-news/2026/jun/18/amber-heat-warnings-issued-parts-southern-england",
+      "headline": "Amber heat warnings issued across southern England over weekend",
+      "summary": "Second heatwave in three weeks brings 34C temperatures to southern England through Tuesday.",
+      "url": "https://www.theguardian.com/p/x5ahva",
+      "thumbnail": "https://media.guim.co.uk/3a2910b12149ba861c0ddf3393de501490a1aad3/500_0_5000_4000/500.jpg",
+      "published": "2026-06-18T13:17:56Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "uk-news"
     }
   ]
 }
