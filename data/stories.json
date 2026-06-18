@@ -1,188 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-18T17:43:33.832Z",
-    "story_count": 84,
-    "oldest_story": "2026-06-17T18:43:40Z",
-    "newest_story": "2026-06-18T17:40:31Z",
+    "generated_at": "2026-06-18T19:59:05.504Z",
+    "story_count": 80,
+    "oldest_story": "2026-06-17T20:53:41Z",
+    "newest_story": "2026-06-18T19:54:07Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/live/2026/jun/17/england-v-croatia-world-cup-2026-live-updates",
-      "headline": "England v Croatia: World Cup 2026 – live",
-      "summary": "England faces Croatia in World Cup 2026 group stage match in Dallas with Thomas Tuchel's side starting tournament.",
-      "url": "https://www.theguardian.com/p/x5a64g",
-      "thumbnail": "https://media.guim.co.uk/3d46f533edd193a4db5e6d1fb0b86592735a7b22/220_0_1589_1271/500.jpg",
-      "published": "2026-06-17T19:47:35Z",
-      "location": {
-        "name": "Dallas",
-        "lat": 32.7767,
-        "lng": -96.797
-      },
-      "category": "sport",
-      "significance": 4,
-      "section": "football"
-    },
-    {
-      "id": "world/2026/jun/17/us-iran-deal-trump",
-      "headline": "US-Iran deal takeaways: reopening the strait of Hormuz, waived oil sanctions and Lebanon",
-      "summary": "US and Iran reach preliminary 14-point peace deal ending 110-day conflict, including strait reopening and oil sanctions waiver.",
-      "url": "https://www.theguardian.com/p/x5acqt",
-      "thumbnail": "https://media.guim.co.uk/971d26ad84e86008299eeb693d762b9d5f101f92/370_0_5001_4000/500.jpg",
-      "published": "2026-06-17T19:40:45Z",
-      "location": {
-        "name": "Tehran",
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "category": "politics",
-      "significance": 5,
-      "section": "world"
-    },
-    {
-      "id": "football/2026/jun/17/portugal-dr-congo-world-cup-2026-group-k-match-report",
-      "headline": "Yoane Wissa gives DR Congo first ever World Cup point in draw with Portugal",
-      "summary": "DR Congo claims first World Cup point with Yoane Wissa goal in 1-1 draw with Portugal; Ronaldo underwhelms.",
-      "url": "https://www.theguardian.com/p/x5acbg",
-      "thumbnail": "https://media.guim.co.uk/a4f1aeff95f4c0a82cec27a4146046a34e4bf452/297_0_5016_4013/500.jpg",
-      "published": "2026-06-17T19:28:06Z",
-      "location": {
-        "name": "Houston",
-        "lat": 29.7604,
-        "lng": -95.3698
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "uk-news/2026/jun/17/we-had-right-of-way-when-british-fair-play-met-russian-firepower-off-the-isle-of-wight",
-      "headline": "‘We had right of way’: when British fair play met Russian firepower off the Isle of Wight",
-      "summary": "British yacht encounters Russian frigate Admiral Grigorovich in Channel standoff amid Anglo-Russian tensions.",
-      "url": "https://www.theguardian.com/p/x5abk7",
-      "thumbnail": "https://media.guim.co.uk/f27ff6d9a045ef0cc3b560752528ec127b4b156f/0_175_480_384/master/480.jpg",
-      "published": "2026-06-17T19:17:00Z",
-      "location": {
-        "name": "Isle of Wight",
-        "lat": 50.7184,
-        "lng": -1.3049
-      },
-      "category": "conflict",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "sport/2026/jun/17/sonny-baker-revels-first-taste-test-cricket-england-second-test-new-zealand",
-      "headline": "Sonny Baker revels in ‘brilliant, awesome’ first taste of Test cricket for England",
-      "summary": "Sonny Baker impresses on England Test debut at the Oval, taking two key wickets against New Zealand.",
-      "url": "https://www.theguardian.com/p/x5aapb",
-      "thumbnail": "https://media.guim.co.uk/270fc7b665b40d12cc9dfe0dbbec6e68c8e1651c/56_115_3953_3162/500.jpg",
-      "published": "2026-06-17T19:16:53Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "world/2026/jun/17/trump-us-iran-war-mou-deal",
-      "headline": "US releases text of Iran peace plan as Trump says deal averts ‘worldwide depression’",
-      "summary": "Trump releases Iran peace deal text, claiming major US win despite concessions; averts worldwide depression.",
-      "url": "https://www.theguardian.com/p/x5ackb",
-      "thumbnail": "https://media.guim.co.uk/d9fbabe614374dcda7e8c91cd97e48826e55b999/623_0_4335_3467/500.jpg",
-      "published": "2026-06-17T19:16:44Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 5,
-      "section": "world"
-    },
-    {
-      "id": "us-news/2026/jun/17/don-berthiaume-doj-trump-jan-6",
-      "headline": "Trump official declines to call January 6 an ‘attack’, describing ‘protests and such’",
-      "summary": "Trump's DOJ inspector general nominee refuses to call January 6 an 'attack' during Senate confirmation hearing.",
-      "url": "https://www.theguardian.com/p/x5adv7",
-      "thumbnail": "https://media.guim.co.uk/b4374da16ef3a3cf220bc9fd8e963b693c0c1f05/355_0_3334_2667/500.jpg",
-      "published": "2026-06-17T19:09:17Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "sport/2026/jun/17/stokes-and-mccullum-under-pressure-as-speculation-fills-void-of-inscrutibility",
-      "headline": "Stokes and McCullum under pressure as England struggle to block out speculation",
-      "summary": "Federal Reserve holds interest rates steady for fourth consecutive time under new chair Kevin Warsh.",
-      "url": "https://www.theguardian.com/p/x5aanz",
-      "thumbnail": "https://media.guim.co.uk/7594ebc8d85e795f8227eda2d2492f81c81145f2/653_0_6527_5222/500.jpg",
-      "published": "2026-06-17T18:53:05Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "sport"
-    },
-    {
-      "id": "business/2026/jun/17/federal-reserve-interest-rates",
-      "headline": "Federal Reserve holds interest rates steady for fourth time this year",
-      "summary": "UK officials expect Russian retaliation after Royal Marines seized shadow fleet oil tanker Smyrtos in Channel.",
-      "url": "https://www.theguardian.com/p/x5a77p",
-      "thumbnail": "https://media.guim.co.uk/a9efb65ca40761e732dc3c73d11e8247e7f13bcd/458_0_4583_3668/500.jpg",
-      "published": "2026-06-17T18:50:28Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "politics/2026/jun/17/uk-expect-russia-retaliate-seizure-shadow-fleet-oil-tanker-smyrtos",
-      "headline": "UK officials expect Russia to retaliate for seizure of shadow fleet oil tanker",
-      "summary": "Georgia Republicans decline to redraw congressional map after Supreme Court voting rights decision.",
-      "url": "https://www.theguardian.com/p/x5achc",
-      "thumbnail": "https://media.guim.co.uk/a480007f4ceb7392949bff4d07c12c812ffb4106/366_0_3830_3064/500.jpg",
-      "published": "2026-06-17T18:47:03Z",
-      "location": {
-        "name": "Atlanta",
-        "lat": 33.749,
-        "lng": -84.388
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "us-news/2026/jun/17/georgia-republicans-congressional-redistricting",
-      "headline": "Georgia Republicans decline to redraw congressional map after voting rights decision",
-      "summary": "Jacob Bethell takes two wickets as England's new-look team holds New Zealand to 291-7 on day one at the Oval.",
-      "url": "https://www.theguardian.com/p/x5acmz",
-      "thumbnail": "https://media.guim.co.uk/d651acdcff3b96ff0401aaec8c5022ccd963927a/427_0_4681_3744/500.jpg",
-      "published": "2026-06-17T18:43:40Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "us-news"
-    },
     {
       "id": "australia-news/live/2026/jun/18/australia-news-live-non-stop-sydney-london-flights-qantas-one-nation-pauline-hanson-labor-anthony-albanese-economy-cost-of-living-ntwnfb",
       "headline": "Australia news live: nonstop Sydney-London flights delayed again; anti-abortion bill blocked in SA",
@@ -1350,6 +1174,118 @@
       "category": "politics",
       "significance": 1,
       "section": "politics"
+    },
+    {
+      "id": "football/live/2026/jun/18/switzerland-v-bosnia-and-herzegovina-world-cup-2026-live",
+      "headline": "Switzerland v Bosnia and Herzegovina: World Cup 2026 – live",
+      "summary": "Switzerland face Bosnia and Herzegovina in World Cup 2026 group stage match in Los Angeles.",
+      "url": "https://www.theguardian.com/p/x5ac34",
+      "thumbnail": "https://media.guim.co.uk/e0436b4c0da44e9a6453bb039c86bd8cd7004f79/229_0_3925_3139/500.jpg",
+      "published": "2026-06-18T19:54:07Z",
+      "location": {
+        "name": "Los Angeles",
+        "lat": 34.0522,
+        "lng": -118.2437
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "sport/2026/jun/18/emilio-gay-england-new-zealand-second-test-cricket",
+      "headline": "‘It wasn’t what we wanted to happen’: Emilio Gay on England’s bad morning",
+      "summary": "New Zealand adds 100 runs in morning session against England at the Oval in cricket test.",
+      "url": "https://www.theguardian.com/p/x5ag95",
+      "thumbnail": "https://media.guim.co.uk/4e940c85c0faab9582de3e4d768ffe53469d4267/0_0_2857_2286/500.jpg",
+      "published": "2026-06-18T19:42:01Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "us-news/2026/jun/18/ocean-monitoring-system-reversal-trump-administration",
+      "headline": "Trump administration reverses decision to scrap ocean monitoring system",
+      "summary": "Trump administration reverses decision to dismantle $368m Ocean Observatories Initiative.",
+      "url": "https://www.theguardian.com/p/x5atpt",
+      "thumbnail": "https://media.guim.co.uk/e2ee005d0d19a4cbe55fdbb3768234ff13892179/1003_1442_3195_2556/500.jpg",
+      "published": "2026-06-18T19:31:44Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/jun/18/janeese-lewis-george-dc-mayor",
+      "headline": "Democratic socialist Janeese Lewis George to be next mayor of Washington DC",
+      "summary": "Democratic socialist Janeese Lewis George wins DC mayoral election on housing and education platform.",
+      "url": "https://www.theguardian.com/p/x5abzc",
+      "thumbnail": "https://media.guim.co.uk/269657e06e316f1ac0c4c4deb7f66567af568a9a/606_0_5001_4000/500.jpg",
+      "published": "2026-06-18T19:07:26Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/jun/18/clarke-warns-scotland-morocco-real-deal-world-cup",
+      "headline": "Clarke warns Scotland: ‘We must be at our best – Morocco are the real deal’",
+      "summary": "Scotland manager warns team Morocco are strong threat ahead of World Cup 2026 Group C match.",
+      "url": "https://www.theguardian.com/p/x5atty",
+      "thumbnail": "https://media.guim.co.uk/bab36d9d8331557b143f34e231aff7606304dc2f/1273_243_4155_3324/500.jpg",
+      "published": "2026-06-18T18:55:29Z",
+      "location": {
+        "name": "Scotland",
+        "lat": 56.4907,
+        "lng": -3.4712
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/jun/18/cdc-emergency-ebola-funding",
+      "headline": "CDC to tap $107m in emergency funding for Ebola response in DRC and Uganda",
+      "summary": "CDC allocates $107m emergency funding for Ebola response in DRC and Uganda; cases exceed 1,000.",
+      "url": "https://www.theguardian.com/p/x5atmy",
+      "thumbnail": "https://media.guim.co.uk/03aa8980d8c6f8e815cfe8aff8c0bd42470bc588/745_0_4581_3666/500.jpg",
+      "published": "2026-06-18T18:55:09Z",
+      "location": {
+        "name": "Democratic Republic of the Congo",
+        "lat": -4.0383,
+        "lng": 21.7587
+      },
+      "category": "health",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "fashion/2026/jun/18/naomi-campbell-charity-appeal-trustee-ban",
+      "headline": "Naomi Campbell called unfit to run a charity in her appeal against ban",
+      "summary": "Charity Commission tells tribunal Naomi Campbell unfit to run charity after abdicating duties.",
+      "url": "https://www.theguardian.com/p/x5aby2",
+      "thumbnail": "https://media.guim.co.uk/3bfc6400427b9278d70a7a204b98c686729413af/53_8_1931_1545/500.jpg",
+      "published": "2026-06-18T18:54:24Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "fashion"
     }
   ]
 }
