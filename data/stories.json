@@ -1,300 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-19T10:01:38.824Z",
-    "story_count": 79,
-    "oldest_story": "2026-06-18T10:22:10Z",
-    "newest_story": "2026-06-19T10:00:53Z",
+    "generated_at": "2026-06-19T13:47:01.570Z",
+    "story_count": 72,
+    "oldest_story": "2026-06-18T13:52:26Z",
+    "newest_story": "2026-06-19T13:43:08Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "sport/live/2026/jun/18/england-v-new-zealand-second-mens-test-day-two-live",
-      "headline": "England v New Zealand: second men’s Test, day two – live",
-      "summary": "England v New Zealand second Test day two underway at the Oval with live coverage.",
-      "url": "https://www.theguardian.com/p/x5aayq",
-      "thumbnail": "https://media.guim.co.uk/66e74423f991be14a0258328286f2e741a80b8e7/333_0_2250_1800/500.jpg",
-      "published": "2026-06-18T11:15:52Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "sport/live/2026/jun/18/royal-ascot-2026-day-three-news-tips-and-more-on-gold-cup-day-live-horse-racing",
-      "headline": "Royal Ascot 2026, day three: news, tips and more on Gold Cup day – live",
-      "summary": "Royal Ascot 2026 day three features Gold Cup race with royal procession and racing.",
-      "url": "https://www.theguardian.com/p/x5aanb",
-      "thumbnail": "https://media.guim.co.uk/2edba606328d929d00fa0f47d2d51bc3fedc7960/249_0_2501_2001/500.jpg",
-      "published": "2026-06-18T11:14:25Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "football/live/2026/jun/18/world-cup-2026-england-croatia-fans-czechia-south-africa-switzerland-bosnia-and-herzegovina-canada-qatar-mexico-south-korea-live",
-      "headline": "World Cup 2026: England’s Bellingham playing with ‘chip on shoulder’, Liverpool to sign Spain’s Muñoz for £34.5m – live",
-      "summary": "World Cup 2026 day eight coverage with England, Croatia, and transfer news from tournament.",
-      "url": "https://www.theguardian.com/p/x5aak6",
-      "thumbnail": "https://media.guim.co.uk/ea55756a698281a6639cb783fff8148071448e8e/1098_520_3759_3007/500.jpg",
-      "published": "2026-06-18T11:11:46Z",
-      "location": {
-        "name": "Toronto",
-        "lat": 43.6629,
-        "lng": -79.3957
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/jun/18/womens-world-cup-playoffs-england-greece-scotland-czechia",
-      "headline": "Women’s World Cup playoffs: England land Greece, Scotland get Czechia in first round",
-      "summary": "Women's World Cup playoffs draw: England face Greece, Scotland get Czechia in qualifiers.",
-      "url": "https://www.theguardian.com/p/x5agk2",
-      "thumbnail": "https://media.guim.co.uk/74f67b635eec025d57a9056f8a787d0f9465af08/184_185_2760_2208/500.jpg",
-      "published": "2026-06-18T11:11:37Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "world/2026/jun/18/irish-parliament-votes-to-remove-three-day-abortion-wait",
-      "headline": "Irish parliament votes to remove three-day abortion wait",
-      "summary": "Irish parliament votes to remove mandatory three-day abortion wait before medication.",
-      "url": "https://www.theguardian.com/p/x5agfb",
-      "thumbnail": "https://media.guim.co.uk/5793440fb0fd66c0159c646cd83a10a757c5505c/210_0_3792_3035/500.jpg",
-      "published": "2026-06-18T11:11:14Z",
-      "location": {
-        "name": "Dublin",
-        "lat": 53.3498,
-        "lng": -6.2603
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "sport/2026/jun/18/olivia-miles-the-goggled-wonder-woman-pulverizing-opponents-in-her-rookie-season",
-      "headline": "Olivia Miles: the goggled wonder woman pulverizing WNBA opponents in her rookie season",
-      "summary": "Olivia Miles impresses as Minnesota Lynx point guard in strong WNBA rookie season.",
-      "url": "https://www.theguardian.com/p/x5aean",
-      "thumbnail": "https://media.guim.co.uk/9b74a5579ccd5f6c5ae7eb7e165b87ed4afda176/417_0_4523_3619/500.jpg",
-      "published": "2026-06-18T11:06:44Z",
-      "location": {
-        "name": "Minneapolis",
-        "lat": 44.9778,
-        "lng": -93.265
-      },
-      "category": "sport",
-      "significance": 1,
-      "section": "sport"
-    },
-    {
-      "id": "world/2026/jun/18/moscow-oil-refinery-on-fire-ukraine-drone-stikes",
-      "headline": "Moscow oil refinery struck in Ukraine’s biggest air raid on city since start of war",
-      "summary": "Ukraine launches largest air raid on Moscow since invasion, striking oil refinery and airport.",
-      "url": "https://www.theguardian.com/p/x5affe",
-      "thumbnail": "https://media.guim.co.uk/af232be59891e95527cf183ba8bc3e0ab8cceb4e/706_64_2448_1958/500.jpg",
-      "published": "2026-06-18T11:04:50Z",
-      "location": {
-        "name": "Moscow",
-        "lat": 55.7558,
-        "lng": 37.6173
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "business/2026/jun/18/interest-rates-bank-of-england-hold-keep-iran",
-      "headline": "Bank of England keeps interest rates at 3.75% as Iran conflict weighs on economy",
-      "summary": "Bank of England holds interest rates at 3.75% amid Iran conflict's impact on energy costs.",
-      "url": "https://www.theguardian.com/p/x5afqd",
-      "thumbnail": "https://media.guim.co.uk/3e92ce7e60b68658c87aaf4d87e3866f0ed99a78/508_0_6781_5425/500.jpg",
-      "published": "2026-06-18T11:00:53Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "football/2026/jun/18/how-to-watch-world-cup-mexico-south-korea",
-      "headline": "World Cup schedule today: How to watch Mexico v South Korea, TV channels & live stream Thursday 18 June",
-      "summary": "World Cup 2026 schedule: Mexico v South Korea today with Canada and Qatar also playing.",
-      "url": "https://www.theguardian.com/p/x5ad8g",
-      "thumbnail": "https://media.guim.co.uk/672d0982e0a0a84235e0a056d56bb8d5ce020347/231_0_3362_2690/500.jpg",
-      "published": "2026-06-18T11:00:03Z",
-      "location": {
-        "name": "Toronto",
-        "lat": 43.6629,
-        "lng": -79.3957
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "commentisfree/2026/jun/18/uk-social-media-ban-dangers-young-people-education-content",
-      "headline": "We must be alive to the dangers of a UK social media ban – and the way to really help young people",
-      "summary": "UK social media ban for under-16s requires educational strategy beyond restriction alone.",
-      "url": "https://www.theguardian.com/p/x5abzv",
-      "thumbnail": "https://media.guim.co.uk/9cad43ee181d29a7367e1731dd1f3836eeed7ad3/356_0_4514_3610/500.jpg",
-      "published": "2026-06-18T11:00:02Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "commentisfree"
-    },
-    {
-      "id": "media/2026/jun/18/guardian-australias-matilda-boseley-wins-major-award-at-2026-walkley-mid-year-media-prizes",
-      "headline": "Guardian Australia’s Matilda Boseley wins major award at 2026 Walkley mid-year media prizes",
-      "summary": "Guardian Australia's Matilda Boseley wins Walkley award for political explainer series Parliamen-Tea.",
-      "url": "https://www.theguardian.com/p/x5ag4n",
-      "thumbnail": "https://media.guim.co.uk/1325138b4e63ae0a60385257c22b7e1a41c4faac/47_0_2254_1805/500.jpg",
-      "published": "2026-06-18T11:00:02Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "media"
-    },
-    {
-      "id": "commentisfree/2026/jun/18/heat-air-conditioning-costs",
-      "headline": "Americans are spending $800 just to cool their homes. We are at a breaking point",
-      "summary": "American families face soaring air conditioning costs of $800, up 40% since 2020.",
-      "url": "https://www.theguardian.com/p/x5a2jf",
-      "thumbnail": "https://media.guim.co.uk/2f6f75ee00377736a881129c3fc411c4fea4dd74/0_0_5383_4309/500.jpg",
-      "published": "2026-06-18T11:00:01Z",
-      "location": {
-        "name": "United States",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "commentisfree"
-    },
-    {
-      "id": "us-news/2026/jun/18/first-thing-trump-signs-deal-that-iran-labels-a-record-of-us-failure",
-      "headline": "First Thing: Trump signs deal that Iran labels ‘a record of US failure’",
-      "summary": "Trump signs 14-point agreement with Iran, claiming victory while making significant concessions.",
-      "url": "https://www.theguardian.com/p/x5ag73",
-      "thumbnail": "https://media.guim.co.uk/34db50b0c2ff1656df6cbe63097e0201ebeaa9dc/983_0_4915_3932/500.jpg",
-      "published": "2026-06-18T10:57:20Z",
-      "location": {
-        "name": "Iran",
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "category": "politics",
-      "significance": 4,
-      "section": "us-news"
-    },
-    {
-      "id": "politics/live/2026/jun/18/makerfield-byelection-polls-open-labour-leadership-andy-burnham-keir-starmer-latest-news-updates",
-      "headline": "Polls open in historic byelection in Makerfield that could determine Keir Starmer’s future – UK politics live",
-      "summary": "Historic UK byelection in Makerfield could determine future of PM Keir Starmer.",
-      "url": "https://www.theguardian.com/p/x5ag9h",
-      "thumbnail": "https://media.guim.co.uk/44cbd4b521df71d0596f265798a47e7d8eebd0ba/233_0_2326_1861/500.jpg",
-      "published": "2026-06-18T10:56:19Z",
-      "location": {
-        "name": "Makerfield",
-        "lat": 53.4464,
-        "lng": -2.6542
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "politics"
-    },
-    {
-      "id": "world/live/2026/jun/18/ukraine-russia-moscow-strikes-nato-defence-ministers-hegseth-rutte-latest-news-updates",
-      "headline": "US to review benefits of having troops in Europe with ‘era of free-riding’ over – Europe live",
-      "summary": "Ukrainian drones strike Moscow again as Zelenskyy escalates rhetoric against Russia.",
-      "url": "https://www.theguardian.com/p/x5agvb",
-      "thumbnail": "https://media.guim.co.uk/bbea19af33cf228571ebff65de286210a7b6ee70/828_152_4655_3724/500.jpg",
-      "published": "2026-06-18T10:54:24Z",
-      "location": {
-        "name": "Moscow",
-        "lat": 55.7558,
-        "lng": 37.6173
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "politics/2026/jun/18/nigel-farage-trying-block-britcoin-crypto-plans-bank-of-england-christopher-harborne",
-      "headline": "Farage trying to block ‘Britcoin’ plans that could be costly for billionaire donor",
-      "summary": "Nigel Farage attempts to block Bank of England's cryptocurrency plans affecting party donor.",
-      "url": "https://www.theguardian.com/p/x5a6za",
-      "thumbnail": "https://media.guim.co.uk/10683ae9e076e0011b37fd054df61e49e173f63b/0_0_6121_4899/500.jpg",
-      "published": "2026-06-18T10:30:00Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "uk-news/2026/jun/18/oxfordshire-council-seeks-injunction-over-flags-tied-to-lamp-posts-across-county",
-      "headline": "Oxfordshire council seeks injunction over flags tied to lamp-posts across county",
-      "summary": "Oxfordshire council seeks injunction against campaign putting England flags on lamp-posts.",
-      "url": "https://www.theguardian.com/p/x5ag87",
-      "thumbnail": "https://media.guim.co.uk/255b50c74be2cd2f6397a696929cd5e4674e7427/1994_989_5964_4771/500.jpg",
-      "published": "2026-06-18T10:29:04Z",
-      "location": {
-        "name": "Oxfordshire",
-        "lat": 51.752,
-        "lng": -1.2577
-      },
-      "category": "politics",
-      "significance": 1,
-      "section": "uk-news"
-    },
-    {
-      "id": "gnm-press-office/2026/jun/18/the-guardian-advertising-awards-2026-winners-revealed",
-      "headline": " The Guardian Advertising Awards 2026: winners revealed",
-      "summary": "Guardian Advertising Awards 2026 honors campaigns from Andrex, Ring, Mastercard and others.",
-      "url": "https://www.theguardian.com/p/x5a66n",
-      "thumbnail": "https://media.guim.co.uk/9ba07e65f8ff0d2ad17a9f3a50cc284fbd47581b/225_0_1350_1080/500.jpg",
-      "published": "2026-06-18T10:22:10Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "gnm-press-office"
-    },
     {
       "id": "us-news/live/2026/jun/18/supreme-court-birthright-citizenship-ruling-tps-mangione-iran-latest-updates",
       "headline": "Supreme court sides with Texas marijuana user who wants to own a firearm in latest case expanding gun rights – live ",
@@ -422,54 +134,6 @@
       "category": "climate",
       "significance": 3,
       "section": "us-news"
-    },
-    {
-      "id": "uk-news/2026/jun/18/leading-figures-eton-college-attend-rightwing-london-summit-alliance-for-responsible-citizenship",
-      "headline": "Leading figures from Eton college to attend rightwing London summit ",
-      "summary": "Eton leaders attend Jordan Peterson-founded populist-right summit with global figures.",
-      "url": "https://www.theguardian.com/p/x5avkv",
-      "thumbnail": "https://media.guim.co.uk/0c1711787dbbdd6f074c24df42800a49b4eae9a6/0_0_5000_4000/500.jpg",
-      "published": "2026-06-18T13:45:37Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "uk-news"
-    },
-    {
-      "id": "society/2026/jun/18/mistreatment-became-normality-inquiry-into-muckamore-abbey-hospital-abuse-finds",
-      "headline": "‘Mistreatment became normality’ at Muckamore Abbey hospital, inquiry finds ",
-      "summary": "Muckamore Abbey hospital inquiry finds abuse became normality; patients suffered injuries.",
-      "url": "https://www.theguardian.com/p/x5agn7",
-      "thumbnail": "https://media.guim.co.uk/ddfafc11fd6912fd1a0c1b190404109670c8b7bd/179_0_2915_2333/500.jpg",
-      "published": "2026-06-18T13:20:57Z",
-      "location": {
-        "name": "Northern Ireland",
-        "lat": 54.5973,
-        "lng": -6.4438
-      },
-      "category": "health",
-      "significance": 3,
-      "section": "uk-news"
-    },
-    {
-      "id": "uk-news/2026/jun/18/amber-heat-warnings-issued-parts-southern-england",
-      "headline": "Amber heat warnings issued across southern England over weekend",
-      "summary": "Second heatwave in three weeks brings 34C temperatures to southern England through Tuesday.",
-      "url": "https://www.theguardian.com/p/x5ahva",
-      "thumbnail": "https://media.guim.co.uk/3a2910b12149ba861c0ddf3393de501490a1aad3/500_0_5000_4000/500.jpg",
-      "published": "2026-06-18T13:17:56Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "uk-news"
     },
     {
       "id": "world/2026/jun/18/iran-announces-plans-to-bring-in-maritime-fees-for-strait-of-hormuz",
@@ -1270,6 +934,230 @@
       "category": "health",
       "significance": 3,
       "section": "australia-news"
+    },
+    {
+      "id": "sport/live/2026/jun/19/royal-ascot-2026-horse-racing-updates-day-four-commonwealth-cup-coronation-stakes-live",
+      "headline": "Royal Ascot 2026: horse racing updates from day four – live",
+      "summary": "Royal Ascot day four features Commonwealth Cup and Coronation Stakes races with live updates.",
+      "url": "https://www.theguardian.com/p/x5amdk",
+      "thumbnail": "https://media.guim.co.uk/e656e9ddc3aff6351a8e7a2ce4b52b0f1769d1a2/196_0_2961_2370/500.jpg",
+      "published": "2026-06-19T13:43:08Z",
+      "location": {
+        "name": "Ascot",
+        "lat": 51.4084,
+        "lng": -0.6689
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "environment/2026/jun/19/factory-forever-chemicals-kidney-cancer-blackpool",
+      "headline": "Kidney cancer rates near Pfas factory in Lancashire a ‘major source of concern’",
+      "summary": "Kidney cancer rates near PFOA-emitting factory raise concerns about government study conclusions.",
+      "url": "https://www.theguardian.com/p/x5at5a",
+      "thumbnail": "https://media.guim.co.uk/8d5eece4859dbf45a7a87d6eef6fa5c92e4dd98f/250_0_3747_2998/500.jpg",
+      "published": "2026-06-19T13:42:25Z",
+      "location": {
+        "name": "Blackpool",
+        "lat": 53.8165,
+        "lng": -3.0526
+      },
+      "category": "health",
+      "significance": 3,
+      "section": "environment"
+    },
+    {
+      "id": "politics/2026/jun/19/andy-burnham-makerfield-byelection-labour-leadership-rally-speech",
+      "headline": "Mystic on a mission Burnham all smiles after Makerfield coronation",
+      "summary": "Andy Burnham wins Makerfield byelection with over 50% of vote in Labour leadership context.",
+      "url": "https://www.theguardian.com/p/x5anvj",
+      "thumbnail": "https://media.guim.co.uk/04fce4dcbad721ca443b4bb08bd69c7fbdbd765a/595_0_5833_4667/500.jpg",
+      "published": "2026-06-19T13:35:48Z",
+      "location": {
+        "name": "Makerfield",
+        "lat": 53.55,
+        "lng": -2.6833
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "politics"
+    },
+    {
+      "id": "money/2026/jun/19/what-could-us-iran-peace-deal-mean-for-uk-household-costs",
+      "headline": "What could US-Iran peace deal mean for UK household costs?",
+      "summary": "US-Iran peace deal could impact UK household costs for petrol, food, energy and mortgages.",
+      "url": "https://www.theguardian.com/p/x5ah7b",
+      "thumbnail": "https://media.guim.co.uk/3259770894a60c7afb8a763cbdc03493657dc061/572_114_4958_3969/500.jpg",
+      "published": "2026-06-19T13:35:35Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "money"
+    },
+    {
+      "id": "media/2026/jun/19/social-media-alternatives-under-16s-uk-government-ban",
+      "headline": "Read a book? Join a club? Stare at a wall? Social media alternatives for under-16s",
+      "summary": "UK government proposes social media ban for under-16s, prompting discussion of alternatives.",
+      "url": "https://www.theguardian.com/p/x5ac5b",
+      "thumbnail": "https://media.guim.co.uk/9cad43ee181d29a7367e1731dd1f3836eeed7ad3/243_0_4514_3610/500.jpg",
+      "published": "2026-06-19T13:20:40Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "media"
+    },
+    {
+      "id": "us-news/2026/jun/19/bill-pulte-acting-director-national-intelligence-timeline",
+      "headline": "Timeline of Bill Pulte’s appointment as acting director of national intelligence",
+      "summary": "Bill Pulte becomes acting director of national intelligence, sparking concerns over experience.",
+      "url": "https://www.theguardian.com/p/x5acph",
+      "thumbnail": "https://media.guim.co.uk/3fc733d58bc0107482f9bdf67156cabde8386c3f/471_0_4874_3901/500.jpg",
+      "published": "2026-06-19T13:13:35Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/jun/19/bill-pulte-acting-director-national-intelligence",
+      "headline": "Bill Pulte assumes role of US acting director of national intelligence",
+      "summary": "Bill Pulte assumes role as US acting director of national intelligence replacing Gabbard.",
+      "url": "https://www.theguardian.com/p/x5amp5",
+      "thumbnail": "https://media.guim.co.uk/c5e1c2baebe10ed0f7f766bfefbb27c9e3d3deae/425_0_4245_3397/500.jpg",
+      "published": "2026-06-19T13:13:01Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "world/2026/jun/19/normal-shipping-will-not-resume-in-strait-of-hormuz-until-mines-cleared",
+      "headline": "Normal shipping will not resume in strait of Hormuz until 80 mines cleared",
+      "summary": "About 80 mines block Strait of Hormuz; normal shipping cannot resume until cleared.",
+      "url": "https://www.theguardian.com/p/x5a5hn",
+      "thumbnail": "https://media.guim.co.uk/0aff28fac5b0b6adace5ccd3f98a48f5c6927f42/0_0_2920_2336/500.jpg",
+      "published": "2026-06-19T13:12:09Z",
+      "location": {
+        "name": "Strait of Hormuz",
+        "lat": 26.55,
+        "lng": 56.2667
+      },
+      "category": "economy",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "uk-news/2026/jun/19/digested-week-g7-summit-hot-mic-moments",
+      "headline": "Digested week: Struggling bees and the G7’s hot mics may speak volumes",
+      "summary": "G7 summit highlights concerns about struggling insects and world leaders' off-cuff remarks.",
+      "url": "https://www.theguardian.com/p/x5am44",
+      "thumbnail": "https://media.guim.co.uk/86735f4accd21fabe477089a7c0465ff4381f272/536_0_2971_2378/500.jpg",
+      "published": "2026-06-19T13:11:59Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "other",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "politics/2026/jun/19/facts-and-figures-makerfield-byelection-result-numbers",
+      "headline": "Facts and figures: the Makerfield byelection result in numbers",
+      "summary": "Makerfield byelection analysis: Labour's Burnham secures 54.82% vote share decisively.",
+      "url": "https://www.theguardian.com/p/x5amyx",
+      "thumbnail": "https://media.guim.co.uk/59f261cb8f2d2414deea48e51160708f7a238154/583_0_6880_5504/500.jpg",
+      "published": "2026-06-19T13:09:57Z",
+      "location": {
+        "name": "Makerfield",
+        "lat": 53.55,
+        "lng": -2.6833
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "politics/2026/jun/19/ount-binface-fox-raving-loony-uk-proud-history-costumed-candidates",
+      "headline": "Binface, foxes and raving loonies: the UK’s proud history of costumed candidates",
+      "summary": "UK's tradition of satirical candidates on display at Makerfield byelection with costumed rivals.",
+      "url": "https://www.theguardian.com/p/x5amj7",
+      "thumbnail": "https://media.guim.co.uk/d6fefc8adbcb62c03b8404d8b5d4bd35c8228bd7/788_0_6107_4885/500.jpg",
+      "published": "2026-06-19T13:01:03Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "us-news/2026/jun/19/first-thing-us-iran-peace-talks-cancelled-israeli-strikes-lebanon",
+      "headline": "First Thing: US-Iran peace talks abruptly cancelled amid renewed Israeli strikes in Lebanon",
+      "summary": "US-Iran peace talks abruptly cancelled amid renewed Israeli strikes in Lebanon.",
+      "url": "https://www.theguardian.com/p/x5aj5a",
+      "thumbnail": "https://media.guim.co.uk/641062c33a201363fa449ed8a050b0cea7f114f9/1095_0_6827_5464/500.jpg",
+      "published": "2026-06-19T12:46:21Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "us-news"
+    },
+    {
+      "id": "uk-news/2026/jun/19/man-released-police-boy-three-zoo-crocodile-enclosure-cambridgeshire",
+      "headline": "Man released on bail after boy, three, critically injured in zoo crocodile enclosure",
+      "summary": "Man released on bail after 3-year-old critically injured in zoo crocodile enclosure incident.",
+      "url": "https://www.theguardian.com/p/x5amhx",
+      "thumbnail": "https://media.guim.co.uk/5e5720feab60173a48974904dd253018ad0a4777/454_0_4548_3640/500.jpg",
+      "published": "2026-06-19T12:44:56Z",
+      "location": {
+        "name": "Cambridgeshire",
+        "lat": 52.2,
+        "lng": -0.1
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "football/2026/jun/19/i-paid-800-for-my-ticket-but-it-was-worth-it-england-fans-enjoying-early-world-cup-vibe",
+      "headline": "‘I paid $800 for my ticket but it was worth it’: England fans enjoying early World Cup vibe",
+      "summary": "England fans celebrate World Cup opener win against Croatia in Dallas with expensive tickets.",
+      "url": "https://www.theguardian.com/p/x5ajkv",
+      "thumbnail": "https://media.guim.co.uk/5e4ae1e2d0e34c709666a725de6bd34128b9f91b/422_0_4218_3375/500.jpg",
+      "published": "2026-06-19T12:42:06Z",
+      "location": {
+        "name": "Dallas",
+        "lat": 32.7767,
+        "lng": -96.797
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
     }
   ]
 }
