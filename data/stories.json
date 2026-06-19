@@ -1,172 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-19T16:25:02.276Z",
+    "generated_at": "2026-06-19T18:18:25.371Z",
     "story_count": 73,
-    "oldest_story": "2026-06-18T16:36:13Z",
-    "newest_story": "2026-06-19T16:13:42Z",
+    "oldest_story": "2026-06-18T18:54:24Z",
+    "newest_story": "2026-06-19T18:11:48Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "world/2026/jun/18/iran-announces-plans-to-bring-in-maritime-fees-for-strait-of-hormuz",
-      "headline": "Iran announces plans to bring in maritime fees for strait of Hormuz",
-      "summary": "Iran announces maritime fees for Strait of Hormuz after US peace deal negotiations.",
-      "url": "https://www.theguardian.com/p/x5atvp",
-      "thumbnail": "https://media.guim.co.uk/e2af776766be279a9755265a73c20bd2bef4bd6c/806_0_3867_3095/500.jpg",
-      "published": "2026-06-18T17:40:31Z",
-      "location": {
-        "name": "Strait of Hormuz",
-        "lat": 26.55,
-        "lng": 56.2667
-      },
-      "category": "politics",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "sport/2026/jun/18/aidan-obrien-saddles-century-of-royal-ascot-winners-and-shows-no-sign-of-letting-up",
-      "headline": "Aidan O’Brien saddles century of Royal Ascot winners and shows no sign of letting up",
-      "summary": "Aidan O'Brien saddles his 100th Royal Ascot winner with Scandinavia's Gold Cup victory.",
-      "url": "https://www.theguardian.com/p/x5ahjx",
-      "thumbnail": "https://media.guim.co.uk/dd643524791c0222bc6d8199d850f8608720c050/375_0_3750_3000/500.jpg",
-      "published": "2026-06-18T17:35:44Z",
-      "location": {
-        "name": "Ascot",
-        "lat": 51.4078,
-        "lng": -0.665
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "us-news/2026/jun/18/california-billionaire-tax-ballot-tech-opposition",
-      "headline": "California ‘billionaire tax’ makes ballot despite opposition from tech moguls",
-      "summary": "California billionaire wealth tax proposal qualifies for November ballot despite tech opposition.",
-      "url": "https://www.theguardian.com/p/x5at6h",
-      "thumbnail": "https://media.guim.co.uk/38e509e5c6cebd21b697c28446bba95920578c09/305_0_3560_2848/500.jpg",
-      "published": "2026-06-18T17:25:51Z",
-      "location": {
-        "name": "California",
-        "lat": 36.1162,
-        "lng": -119.6816
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "education/2026/jun/18/city-and-guilds-scraps-mass-redundancies-offshoring-uk-jobs-to-greece",
-      "headline": "City & Guilds scraps mass redundancies and offshoring UK jobs to Greece",
-      "summary": "City & Guilds scraps plans to offshore 400 UK jobs to Greece following backlash.",
-      "url": "https://www.theguardian.com/p/x5aheg",
-      "thumbnail": "https://media.guim.co.uk/9b6340b0f3c3025f7b17db8ec9f538abfc1deea7/376_0_4638_3710/500.jpg",
-      "published": "2026-06-18T17:17:53Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "education"
-    },
-    {
-      "id": "uk-news/2026/jun/18/social-media-ban-saving-kids-or-punishing-them",
-      "headline": "Social media ban: saving kids or punishing them?",
-      "summary": "Debate over proposed UK social media ban for under-16s balances child protection and freedom.",
-      "url": "https://www.theguardian.com/p/x5a6fz",
-      "thumbnail": "https://media.guim.co.uk/d41a2eec1503e76eacd201d7665391d8b0b10e67/495_0_6880_5504/500.jpg",
-      "published": "2026-06-18T16:51:30Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "football/2026/jun/18/its-kicking-off-over-the-best-football-songs",
-      "headline": "It’s kicking off over the best football songs",
-      "summary": "Readers discuss greatest songs about football, noting omissions from Guardian ranking.",
-      "url": "https://www.theguardian.com/p/x5a64z",
-      "thumbnail": "https://media.guim.co.uk/ba4f2ba12c4febf60d7f69e2da4f5b35d0202e36/500_0_5000_4000/500.jpg",
-      "published": "2026-06-18T16:49:19Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "football"
-    },
-    {
-      "id": "uk-news/2026/jun/18/a-bit-of-banter-on-the-buses",
-      "headline": "A bit of banter on the buses",
-      "summary": "Letters recall spontaneous moments of humor between passengers and staff on public transport.",
-      "url": "https://www.theguardian.com/p/x59cbe",
-      "thumbnail": "https://media.guim.co.uk/8493d1b427694e3d8492c7d1bc96e072c02c107c/342_0_3380_2704/500.jpg",
-      "published": "2026-06-18T16:48:26Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "uk-news"
-    },
-    {
-      "id": "society/2026/jun/18/jobless-youngsters-should-give-teaching-a-try",
-      "headline": "Jobless youngsters should give teaching a try",
-      "summary": "Letters suggest unemployed youth consider teaching careers amid shortage of educators.",
-      "url": "https://www.theguardian.com/p/x5agm4",
-      "thumbnail": "https://media.guim.co.uk/aaa00fb5921bd6cc8b1e4f60f57a14dae4fd831c/497_0_4560_3648/500.jpg",
-      "published": "2026-06-18T16:45:52Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 1,
-      "section": "society"
-    },
-    {
-      "id": "sport/2026/jun/18/new-york-knicks-parade-fans-nba-champions",
-      "headline": "Thousands of Knicks fans celebrate big win with joyous New York parade: ‘We family now’",
-      "summary": "Thousands celebrate New York Knicks' NBA Championship with downtown ticker-tape parade.",
-      "url": "https://www.theguardian.com/p/x5atv4",
-      "thumbnail": "https://media.guim.co.uk/a88d35f962126f99c8bb5d686b55764b02c4015d/358_0_4164_3333/500.jpg",
-      "published": "2026-06-18T16:38:52Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "politics/2026/jun/18/marion-kozak-obituary",
-      "headline": "Marion Kozak obituary",
-      "summary": "Marion Kozak obituary: feminist, teacher and campaigner for children's rights dies at 91.",
-      "url": "https://www.theguardian.com/p/x5at54",
-      "thumbnail": "https://media.guim.co.uk/0443d2ccdcb8d6b30d2c06d668071f047ba13f92/445_715_519_416/500.jpg",
-      "published": "2026-06-18T16:36:13Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 1,
-      "section": "politics"
-    },
     {
       "id": "football/live/2026/jun/18/switzerland-v-bosnia-and-herzegovina-world-cup-2026-live",
       "headline": "Switzerland v Bosnia and Herzegovina: World Cup 2026 – live",
@@ -1174,6 +1014,166 @@
       "category": "culture",
       "significance": 2,
       "section": "stage"
+    },
+    {
+      "id": "uk-news/2026/jun/19/two-trains-collide-bedford",
+      "headline": "Injuries reported after two trains collide near Bedford",
+      "summary": "Two trains collide near Bedford causing injuries and major transport disruptions.",
+      "url": "https://www.theguardian.com/p/x5az9f",
+      "thumbnail": "https://media.guim.co.uk/6f1f8874c30b64b0ef6bfea1fb2235d94cee41b2/0_0_5000_4000/500.jpg",
+      "published": "2026-06-19T18:11:48Z",
+      "location": {
+        "name": "Bedford",
+        "lat": 52.1393,
+        "lng": -0.4667
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "football/live/2026/jun/19/usa-v-australia-world-cup-2026-live",
+      "headline": "USA v Australia: World Cup 2026 – live",
+      "summary": "USA faces Australia in World Cup 2026 match seeking consecutive World Cup victory.",
+      "url": "https://www.theguardian.com/p/x5akpj",
+      "thumbnail": "https://media.guim.co.uk/d39e614b0835c9d87b965929197de5f21aacf880/3_0_7200_5760/500.jpg",
+      "published": "2026-06-19T18:03:14Z",
+      "location": {
+        "name": "Seattle",
+        "lat": 47.6062,
+        "lng": -122.3321
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "sport/2026/jun/19/rew-feels-brunt-of-archers-ire-after-brute-of-a-week-for-england-rookie",
+      "headline": "Rew feels brunt of Archer’s ire after brute of a week for England rookie",
+      "summary": "New Zealand dominates England on day three at the Oval in Test cricket.",
+      "url": "https://www.theguardian.com/p/x5amxx",
+      "thumbnail": "https://media.guim.co.uk/1ac96ad6e49e301a6be2de46beb3e3933e25e8ed/263_0_3031_2425/500.jpg",
+      "published": "2026-06-19T17:55:25Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "world/2026/jun/19/israel-hezbollah-renew-ceasefire-lebanon-us-iran-agreement",
+      "headline": "Israel and Hezbollah agree to renew ceasefire after flareup of violence",
+      "summary": "Israel and Hezbollah renew ceasefire after violent flareup; US-Iran talks cancelled.",
+      "url": "https://www.theguardian.com/p/x5annh",
+      "thumbnail": "https://media.guim.co.uk/78d839c9a88d9736a9ea56e9c96989af7b0ca7b5/830_0_4670_3738/500.jpg",
+      "published": "2026-06-19T17:54:51Z",
+      "location": {
+        "name": "Lebanon",
+        "lat": 33.8547,
+        "lng": 35.8623
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "sport/2026/jun/19/new-zealand-henry-nicholls-century-england-second-test-cricket",
+      "headline": "New Zealand in control of second Test as Nicholls century grinds down weary England",
+      "summary": "New Zealand takes control of second Test as Nicholls scores unbeaten century.",
+      "url": "https://www.theguardian.com/p/x5amvh",
+      "thumbnail": "https://media.guim.co.uk/9b1752960613030b1ce3e4b9889fa64f859ce48f/367_50_4568_3654/500.jpg",
+      "published": "2026-06-19T17:54:35Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "environment/2026/jun/19/pelicans-hatch-st-james-park-london",
+      "headline": "First pelicans in 360 years hatch in St James’s Park London ",
+      "summary": "First pelicans hatch in St James's Park in London after 360 years.",
+      "url": "https://www.theguardian.com/p/x5anqm",
+      "thumbnail": "https://media.guim.co.uk/b4f765796243058b8dcfa1031984247fec380cbc/298_0_5800_4640/500.jpg",
+      "published": "2026-06-19T17:32:46Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "environment"
+    },
+    {
+      "id": "us-news/2026/jun/19/georgia-federal-immigration-detention-center",
+      "headline": "Revolt in small Georgia town appears to ward off ICE detention center",
+      "summary": "Georgia town successfully blocks massive ICE immigration detention center plans.",
+      "url": "https://www.theguardian.com/p/x5az59",
+      "thumbnail": "https://media.guim.co.uk/d14e3cf571c757e142d1485573471dc988ef5390/534_0_4867_3893/500.jpg",
+      "published": "2026-06-19T17:32:40Z",
+      "location": {
+        "name": "Social Circle",
+        "lat": 33.5886,
+        "lng": -83.731
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "news/2026/jun/19/global-framework-reparations-justice-adopted-at-landmark-conference-in-accra-ghana",
+      "headline": "Global framework for reparatory justice adopted at landmark conference in Ghana",
+      "summary": "Global framework for reparatory justice adopted at landmark Ghana conference.",
+      "url": "https://www.theguardian.com/p/x5amtv",
+      "thumbnail": "https://media.guim.co.uk/c388c02e62fcbc0aaa7507bd6786c18caf58e6e8/453_0_4525_3620/500.jpg",
+      "published": "2026-06-19T17:26:45Z",
+      "location": {
+        "name": "Accra",
+        "lat": 5.6037,
+        "lng": -0.187
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "news"
+    },
+    {
+      "id": "politics/2026/jun/19/andy-burnham-avoids-press-queries-staff-no-doubts-makerfield",
+      "headline": "Celebrations and a swift exit after a Burnham win ‘beyond our wildest dreams’",
+      "summary": "Andy Burnham elected new MP for Makerfield in victory celebrated by Labour.",
+      "url": "https://www.theguardian.com/p/x5amde",
+      "thumbnail": "https://media.guim.co.uk/5987a65c6e0e6280152cf6361e27140a02f421c6/671_0_6688_5353/500.jpg",
+      "published": "2026-06-19T17:10:15Z",
+      "location": {
+        "name": "Makerfield",
+        "lat": 53.4833,
+        "lng": -2.65
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "sport/2026/jun/19/royal-ascot-horse-racing-commonwealth-cup-venetian-sun",
+      "headline": "Venetian Sun shines at Royal Ascot as Brighton’s Bloom lands another bargain",
+      "summary": "Venetian Sun wins Commonwealth Cup at Royal Ascot, bought for just £250,000.",
+      "url": "https://www.theguardian.com/p/x5amyb",
+      "thumbnail": "https://media.guim.co.uk/6046757a8b96e2c01eaedbba381be7cea33caf21/814_0_5000_4000/500.jpg",
+      "published": "2026-06-19T17:10:07Z",
+      "location": {
+        "name": "Ascot",
+        "lat": 51.4167,
+        "lng": -0.6667
+      },
+      "category": "sport",
+      "significance": 1,
+      "section": "sport"
     }
   ]
 }
