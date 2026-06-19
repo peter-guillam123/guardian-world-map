@@ -1,140 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-19T13:47:01.570Z",
-    "story_count": 72,
-    "oldest_story": "2026-06-18T13:52:26Z",
-    "newest_story": "2026-06-19T13:43:08Z",
+    "generated_at": "2026-06-19T16:25:02.276Z",
+    "story_count": 73,
+    "oldest_story": "2026-06-18T16:36:13Z",
+    "newest_story": "2026-06-19T16:13:42Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "us-news/live/2026/jun/18/supreme-court-birthright-citizenship-ruling-tps-mangione-iran-latest-updates",
-      "headline": "Supreme court sides with Texas marijuana user who wants to own a firearm in latest case expanding gun rights – live ",
-      "summary": "Supreme Court unanimously backs Texas marijuana user's challenge to firearm ownership restrictions.",
-      "url": "https://www.theguardian.com/p/x5agy7",
-      "thumbnail": "https://media.guim.co.uk/37461402ed06e9a47edb9bf954e12b22c43138c2/819_0_4938_3951/500.jpg",
-      "published": "2026-06-18T14:17:40Z",
-      "location": {
-        "name": "Texas",
-        "lat": 31.9686,
-        "lng": -99.9018
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "politics/2026/jun/18/zack-polanski-cleared-ethics-inquiry-council-tax-houseboat",
-      "headline": "Zack Polanski cleared by ethics inquiry over council tax payment complaint",
-      "summary": "Green Party leader Zack Polanski cleared in ethics inquiry over council tax houseboat complaint.",
-      "url": "https://www.theguardian.com/p/x5ah9d",
-      "thumbnail": "https://media.guim.co.uk/2360da0836c3995e42537d5d959f0bb8c1bb3630/542_38_2762_2209/500.jpg",
-      "published": "2026-06-18T14:07:21Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "football/live/2026/jun/18/czechia-v-south-africa-world-cup-live",
-      "headline": "Czechia v South Africa: World Cup – live",
-      "summary": "Czechia faces South Africa in World Cup 2026 match seeking first tournament points.",
-      "url": "https://www.theguardian.com/p/x5abfy",
-      "thumbnail": "https://media.guim.co.uk/230c37ae9484a88cf2452e0c32122f3a8fee4247/395_0_3768_3014/500.jpg",
-      "published": "2026-06-18T14:00:06Z",
-      "location": {
-        "name": "Czech Republic",
-        "lat": 49.8175,
-        "lng": 15.473
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "books/2026/jun/19/the-lonely-city-by-olivia-laing-audiobook-review-solitude-and-creativity-in-manhattan",
-      "headline": "The Lonely City by Olivia Laing audiobook review – solitude and creativity in Manhattan",
-      "summary": "Tilda Swinton narrates Olivia Laing's audiobook on Manhattan artists and urban loneliness.",
-      "url": "https://www.theguardian.com/p/x58qyb",
-      "thumbnail": "https://media.guim.co.uk/1365ed34144c992544330c9c8207d64bca24402a/82_399_4774_3817/500.jpg",
-      "published": "2026-06-18T14:00:06Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "books"
-    },
-    {
-      "id": "thefilter/2026/jun/18/best-air-purifiers-tested-uk",
-      "headline": "The best air purifiers in the UK to cleanse your home of fumes, pollen and dust – tested",
-      "summary": "Expert-tested air purifier review guides UK consumers through hay fever and pollution solutions.",
-      "url": "https://www.theguardian.com/p/x4txpc",
-      "thumbnail": "https://media.guim.co.uk/9f39abba6d4f689b9b69f66d0c102f259ff8e13e/0_0_5000_4000/500.jpg",
-      "published": "2026-06-18T14:00:05Z",
-      "location": {
-        "name": "United Kingdom",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "other",
-      "significance": 1,
-      "section": "thefilter"
-    },
-    {
-      "id": "film/2026/jun/18/aardman-exhibition-animation-studio-bristol-wallace-gromit",
-      "headline": "Aardman exhibition marks animation studio’s half a century in Bristol",
-      "summary": "Aardman animation studio celebrates 50 years in Bristol with Wallace and Gromit exhibition.",
-      "url": "https://www.theguardian.com/p/x5acj5",
-      "thumbnail": "https://media.guim.co.uk/a887dad8732ac6e362990154dd0762eae79b0944/477_0_6880_5504/500.jpg",
-      "published": "2026-06-18T14:00:05Z",
-      "location": {
-        "name": "Bristol",
-        "lat": 51.4545,
-        "lng": -2.5879
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "film"
-    },
-    {
-      "id": "world/2026/jun/18/what-did-ukraine-target-in-moscow-and-how-significant-was-the-drone-attack",
-      "headline": "What did Ukraine target in Moscow and how significant was the drone attack?",
-      "summary": "Ukraine's largest-ever drone attack on Moscow hits oil refinery with nearly 200 drones.",
-      "url": "https://www.theguardian.com/p/x5ah8e",
-      "thumbnail": "https://media.guim.co.uk/5a0b28c7d80ed894b9083dc12e6ce925a1f889a9/425_5_2019_1615/500.jpg",
-      "published": "2026-06-18T13:58:33Z",
-      "location": {
-        "name": "Moscow",
-        "lat": 55.7558,
-        "lng": 37.6173
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "us-news/2026/jun/18/tropical-storm-arthur-downgraded",
-      "headline": "Tropical Storm Arthur downgraded from cyclone as it makes landfall in Texas",
-      "summary": "Tropical Storm Arthur downgraded upon Texas landfall; life-threatening flooding expected.",
-      "url": "https://www.theguardian.com/p/x5ah75",
-      "thumbnail": "https://media.guim.co.uk/f2da1e812d020e5077eb2bf4a9efcd44a112ae32/418_0_4164_3333/500.jpg",
-      "published": "2026-06-18T13:52:26Z",
-      "location": {
-        "name": "Texas",
-        "lat": 31.9686,
-        "lng": -99.9018
-      },
-      "category": "climate",
-      "significance": 3,
-      "section": "us-news"
-    },
     {
       "id": "world/2026/jun/18/iran-announces-plans-to-bring-in-maritime-fees-for-strait-of-hormuz",
       "headline": "Iran announces plans to bring in maritime fees for strait of Hormuz",
@@ -1158,6 +1030,150 @@
       "category": "sport",
       "significance": 3,
       "section": "football"
+    },
+    {
+      "id": "politics/2026/jun/19/nigel-farage-reform-makerfield-byelection",
+      "headline": "In Nigel Farage’s shoes, a less experienced politician might panic",
+      "summary": "Reform UK faces mixed byelection results as Nigel Farage's party leads polls.",
+      "url": "https://www.theguardian.com/p/x5anxj",
+      "thumbnail": "https://media.guim.co.uk/209cdf4f1f5652ba6eda344a0bdf450ef62f00ae/1470_0_3326_2663/500.jpg",
+      "published": "2026-06-19T16:13:42Z",
+      "location": {
+        "name": "Makerfield",
+        "lat": 53.55,
+        "lng": -2.65
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "uk-news/2026/jun/19/met-office-rare-amber-extreme-heat-warning-england-wales",
+      "headline": "Met Office issues rare amber extreme heat warning for parts of England and Wales",
+      "summary": "Met Office issues rare amber heat warning for England and Wales with temperatures reaching 30C.",
+      "url": "https://www.theguardian.com/p/x5an9t",
+      "thumbnail": "https://media.guim.co.uk/238053e119ab020c35f825a713df36a7ccf6508e/1342_164_5589_4471/500.jpg",
+      "published": "2026-06-19T16:06:21Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "uk-news/2026/jun/19/palestine-action-ban-and-the-right-to-protest",
+      "headline": "Palestine Action ban and the right to protest",
+      "summary": "Court upholds British government ban on Palestine Action protest movement.",
+      "url": "https://www.theguardian.com/p/x5a6z7",
+      "thumbnail": "https://media.guim.co.uk/5cdab6c5b21cdfb12f5326d77d551475b11941d3/333_0_3333_2667/500.jpg",
+      "published": "2026-06-19T16:03:45Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "artanddesign/2026/jun/19/david-hockney-remembered",
+      "headline": "David Hockney remembered",
+      "summary": "Readers share memories of artist David Hockney and his influence on art and culture.",
+      "url": "https://www.theguardian.com/p/x59yqv",
+      "thumbnail": "https://media.guim.co.uk/62836fba511de8b1a70f04ddaffc8c6f82efbbd2/1080_0_6090_4874/500.jpg",
+      "published": "2026-06-19T15:58:55Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "artanddesign"
+    },
+    {
+      "id": "us-news/2026/jun/19/at-last-something-europeans-and-americans-can-agree-upon",
+      "headline": "At last, something Europeans and Americans can agree upon",
+      "summary": "European and American citizens share distrust of their respective governments.",
+      "url": "https://www.theguardian.com/p/x5acyh",
+      "thumbnail": "https://media.guim.co.uk/2aad6bd174d97a0fe1cc20e65ccdf968b971fd9a/437_0_4370_3496/500.jpg",
+      "published": "2026-06-19T15:45:03Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "lifeandstyle/2026/jun/19/the-pitfalls-of-dating-on-a-school-night",
+      "headline": "The pitfalls of dating on a school night",
+      "summary": "Readers discuss challenges of dating on school and work nights.",
+      "url": "https://www.theguardian.com/p/x5amd7",
+      "thumbnail": "https://media.guim.co.uk/40326fc4253b787f01de6116e04397f64e6a89df/1090_0_7200_5760/500.jpg",
+      "published": "2026-06-19T15:44:16Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "lifeandstyle"
+    },
+    {
+      "id": "football/2026/jun/19/canada-qatar-world-cup-jesse-marsch",
+      "headline": "Jesse Marsch: windmilling human meme or shrewd protector of suddenly dangerous Canada?",
+      "summary": "Canada defeats Qatar 6-0 at World Cup as coach Jesse Marsch draws internet attention.",
+      "url": "https://www.theguardian.com/p/x5anx2",
+      "thumbnail": "https://media.guim.co.uk/52ec370c5f73912c45213b8bfcc1ac6983271994/210_0_4880_3903/500.jpg",
+      "published": "2026-06-19T15:30:35Z",
+      "location": {
+        "name": "Qatar",
+        "lat": 25.3548,
+        "lng": 51.1839
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "uk-news/2026/jun/19/heathrow-third-runway-boost-gdp-less-than-stated",
+      "headline": "Heathrow third runway GDP yield may be 90% less than original estimate",
+      "summary": "Heathrow third runway GDP boost may be 90% less than original government estimates.",
+      "url": "https://www.theguardian.com/p/x5amff",
+      "thumbnail": "https://media.guim.co.uk/3b5cf33f20273021120af39e9f1b3c59816ad1a9/0_0_5383_4307/500.jpg",
+      "published": "2026-06-19T15:26:25Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "stage/2026/jun/19/camdenwalla-review-camden-peoples-theatre-london",
+      "headline": "Camdenwalla review – one long night of fear and defiance in 90s London",
+      "summary": "Camdenwalla play depicts 1990s London racist attacks through rescue service workers.",
+      "url": "https://www.theguardian.com/p/x5amdm",
+      "thumbnail": "https://media.guim.co.uk/c1100661cc0708c367569625ffd35ebb5bed7302/279_0_3846_3076/500.jpg",
+      "published": "2026-06-19T15:16:29Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "stage"
     }
   ]
 }
