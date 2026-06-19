@@ -1,108 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-19T21:36:32.050Z",
-    "story_count": 71,
-    "oldest_story": "2026-06-18T21:57:50Z",
-    "newest_story": "2026-06-19T21:25:50Z",
+    "generated_at": "2026-06-19T22:36:20.763Z",
+    "story_count": 68,
+    "oldest_story": "2026-06-18T23:01:15Z",
+    "newest_story": "2026-06-19T22:30:44Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/live/2026/jun/18/fifa-world-cup-2026-live-canada-v-qatar-updates-can-vs-qat-group-b-match-score-latest",
-      "headline": "Canada v Qatar: World Cup 2026 – live",
-      "summary": "Canada faces Qatar in World Cup 2026 Group B match in Vancouver.",
-      "url": "https://www.theguardian.com/p/x5ahxc",
-      "thumbnail": "https://media.guim.co.uk/5e04df51416dbff192359d6de4a6d014f4da5a1e/483_51_3607_2888/500.jpg",
-      "published": "2026-06-18T22:22:11Z",
-      "location": {
-        "name": "Vancouver",
-        "lat": 49.2827,
-        "lng": -123.1207
-      },
-      "category": "sport",
-      "significance": 4,
-      "section": "football"
-    },
-    {
-      "id": "politics/live/2026/jun/18/makerfield-byelection-keir-starmer-andy-burnham-robert-kenyon-labour-leadership-reform-aberdeen-arbroath-uk-politics-latest-news-updates",
-      "headline": "Polls close in historic Makerfield byelection that could see Andy Burnham elected and pave way for end of Starmer – UK politics live ",
-      "summary": "Makerfield byelection polls close as Andy Burnham bids to challenge Starmer's leadership.",
-      "url": "https://www.theguardian.com/p/x5age4",
-      "thumbnail": "https://media.guim.co.uk/07fee7ec48bda131e2e2a811e6df2e27d3cdd9d4/134_0_7023_5618/500.jpg",
-      "published": "2026-06-18T22:21:13Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "politics"
-    },
-    {
-      "id": "us-news/2026/jun/18/wisconsin-mosque-president-released-ice",
-      "headline": "President of Wisconsin’s largest mosque released from ICE custody",
-      "summary": "Wisconsin mosque president released from ICE custody after judge finds likely retaliation for Palestinian advocacy.",
-      "url": "https://www.theguardian.com/p/x5ajae",
-      "thumbnail": "https://media.guim.co.uk/c359dfda99f3b50d9b26f369ab89ed1bad9c0d00/0_584_1991_1591/500.jpg",
-      "published": "2026-06-18T22:20:23Z",
-      "location": {
-        "name": "Milwaukee",
-        "lat": 43.0389,
-        "lng": -87.9065
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "australia-news/live/2026/jun/19/news-live-australia-ukraine-jim-chalmers-anthony-albanese-capital-gains-tax-concessions-business-pauline-hanson-one-nation-ntwnfb",
-      "headline": "Australia news live: Jim Chalmers admits losing ‘political paint’ over tax reform; NSW quake near goldmine",
-      "summary": "Treasurer Chalmers admits losing political momentum over capital gains tax reform carve-outs.",
-      "url": "https://www.theguardian.com/p/x5ahxg",
-      "thumbnail": "https://media.guim.co.uk/44d0a61861e54cd8806e23121fff2b5dc78470d7/0_0_2953_2362/500.jpg",
-      "published": "2026-06-18T22:18:06Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "football/2026/jun/18/england-thomas-tuchel-gareth-southgate-2026-world-cup-croatia",
-      "headline": "England finally exorcise the Southgate era and unleash fun football",
-      "summary": "England under Tuchel defeats Croatia 2-2 in World Cup 2026, marking new era post-Southgate.",
-      "url": "https://www.theguardian.com/p/x5aj6f",
-      "thumbnail": "https://media.guim.co.uk/11d93ecd0bd226d4166969752263a0fdbce5af85/391_0_4829_3862/500.jpg",
-      "published": "2026-06-18T21:59:39Z",
-      "location": {
-        "name": "Dallas",
-        "lat": 32.7767,
-        "lng": -96.797
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "us-news/2026/jun/18/lackland-air-force-base-flu-outbreak",
-      "headline": "Nearly 160 sick with flu at US air force base after Hegseth ends mandatory vaccines",
-      "summary": "Flu outbreak sickens 160 recruits at Lackland Air Force Base after mandatory vaccine ended.",
-      "url": "https://www.theguardian.com/p/x5aj7c",
-      "thumbnail": "https://media.guim.co.uk/82c3c108a57d5ebe2dd1a74edd0b3ea7091108c6/593_0_4203_3362/500.jpg",
-      "published": "2026-06-18T21:57:50Z",
-      "location": {
-        "name": "San Antonio",
-        "lat": 29.4241,
-        "lng": -98.4936
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "us-news"
-    },
     {
       "id": "football/live/2026/jun/19/fifa-world-cup-2026-live-mexico-v-south-korea-updates-mex-vs-kor-group-a-match-score-latest",
       "headline": "Mexico v South Korea: World Cup 2026 – live",
@@ -1138,6 +1042,54 @@
         "name": "Seattle",
         "lat": 47.6062,
         "lng": -122.3321
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "football/live/2026/jun/20/fifa-world-cup-2026-live-brazil-v-haiti-updates-bra-vs-hai-group-c-match-score-latest",
+      "headline": "Brazil v Haiti: World Cup 2026 – live",
+      "summary": "Brazil faces Haiti in World Cup 2026 Group C match at Philadelphia Stadium.",
+      "url": "https://www.theguardian.com/p/x58pbc",
+      "thumbnail": "https://media.guim.co.uk/2ba4ce39b8620034436245e0b6403b96111e1a65/0_0_3820_3057/500.jpg",
+      "published": "2026-06-19T22:30:44Z",
+      "location": {
+        "name": "Philadelphia",
+        "lat": 39.9526,
+        "lng": -75.1652
+      },
+      "category": "sport",
+      "significance": 4,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/jun/19/gary-lineker-to-appear-as-special-guest-on-itv-during-world-cup-broadcast",
+      "headline": "Gary Lineker to appear as special guest on ITV during World Cup broadcast",
+      "summary": "Gary Lineker to appear as special guest on ITV's World Cup coverage in first terrestrial TV appearance post-BBC.",
+      "url": "https://www.theguardian.com/p/x5ap4z",
+      "thumbnail": "https://media.guim.co.uk/2cae0d2993343b3750cbbdab0445ff93cfaddb3a/196_113_2486_1989/500.jpg",
+      "published": "2026-06-19T21:51:46Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/jun/20/usa-australia-player-ratings-world-cup-group-d",
+      "headline": "USA 2-0 Australia: World Cup 2026 Group D player ratings",
+      "summary": "USA defeats Australia 2-0 in World Cup 2026 Group D match with Alex Freeman scoring.",
+      "url": "https://www.theguardian.com/p/x5ayyf",
+      "thumbnail": "https://media.guim.co.uk/9c9f21fcab086c36a6d398ad088abd99f9d85d49/278_0_1419_1135/500.jpg",
+      "published": "2026-06-19T21:45:44Z",
+      "location": {
+        "name": "United States",
+        "lat": 38.9072,
+        "lng": -77.0369
       },
       "category": "sport",
       "significance": 3,
