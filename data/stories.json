@@ -1,220 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-19T05:24:55.066Z",
-    "story_count": 76,
-    "oldest_story": "2026-06-18T06:00:02Z",
-    "newest_story": "2026-06-19T05:12:28Z",
+    "generated_at": "2026-06-19T10:01:38.824Z",
+    "story_count": 79,
+    "oldest_story": "2026-06-18T10:22:10Z",
+    "newest_story": "2026-06-19T10:00:53Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "australia-news/2026/jun/18/afternoon-update-thursday-ntwnfb",
-      "headline": "Afternoon Update: CGT exemptions for small business; ebike thefts soar; and Australia’s top university named",
-      "summary": "PM announces expanded CGT exemptions for Australia's 2.7m small businesses and startups.",
-      "url": "https://www.theguardian.com/p/x5afa5",
-      "thumbnail": "https://media.guim.co.uk/51dec18c39b7b038a483841a149947d94d7d8f5a/450_0_4481_3586/500.jpg",
-      "published": "2026-06-18T07:02:09Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "football/2026/jun/18/world-cup-viewed-from-afar-like-ambient-noise",
-      "headline": "The World Cup viewed from afar is more like ambient noise – a far cry from working at it",
-      "summary": "World Cup 2026 coverage: covering tournament vs watching from afar creates vastly different experiences.",
-      "url": "https://www.theguardian.com/p/x5ace2",
-      "thumbnail": "https://media.guim.co.uk/712d99f5774f5a047cf366bce6f76c8bf57bd871/521_0_4583_3666/500.jpg",
-      "published": "2026-06-18T07:00:04Z",
-      "location": {
-        "name": "Lake Annecy",
-        "lat": 45.8992,
-        "lng": 6.1294
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "society/2026/jun/18/private-equity-social-care-wes-streeting-labour",
-      "headline": "Plan to ban ‘private equity sharks’ from social care dropped, Wes Streeting says",
-      "summary": "Wes Streeting says Labour dropped his plan to ban private equity from social care sector.",
-      "url": "https://www.theguardian.com/p/x5avht",
-      "thumbnail": "https://media.guim.co.uk/def2e1902118d7b490f6fd3e2df972766d354d7f/324_0_3240_2592/500.jpg",
-      "published": "2026-06-18T07:00:04Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "society"
-    },
-    {
-      "id": "artanddesign/2026/jun/18/gilbert-and-george-endless-interview-our-george-crompton",
-      "headline": "‘You learn how to be idiotic artists’: Gilbert & George on fame, rebellion and their mystery new collaborator",
-      "summary": "Gilbert & George discuss their art legacy, fame, and new mysterious collaborator.",
-      "url": "https://www.theguardian.com/p/x57ayn",
-      "thumbnail": "https://media.guim.co.uk/15cd46ed840d2abad25728a6d8614da137ddfec2/211_0_3754_3003/500.jpg",
-      "published": "2026-06-18T07:00:04Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "artanddesign"
-    },
-    {
-      "id": "business/2026/jun/18/tescos-uk-sales-growth-iran-war-online-sales",
-      "headline": "Tesco’s UK sales growth more than halves amid Iran war uncertainty",
-      "summary": "Tesco UK sales growth halves to 1.8% amid Middle East conflict uncertainty.",
-      "url": "https://www.theguardian.com/p/x5ac4h",
-      "thumbnail": "https://media.guim.co.uk/5fb0f34a4139ed15697eed6f19f4a6ff8aada684/560_0_5600_4480/500.jpg",
-      "published": "2026-06-18T06:59:11Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "business/live/2026/jun/18/bank-of-england-interest-rates-uk-unemployment-wages-oil-price-stock-markets-latest-news-updates",
-      "headline": "Bank of England expected to leave interest rates on hold today; UK unemployment falls – business live",
-      "summary": "UK unemployment falls to 4.9% and wages grow, pressuring Bank of England on interest rates.",
-      "url": "https://www.theguardian.com/p/x5afta",
-      "thumbnail": "https://media.guim.co.uk/0b7b5260055f0b736c256331368063be459d929e/327_0_4583_3667/500.jpg",
-      "published": "2026-06-18T06:57:03Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "business/2026/jun/18/uk-unemployment-rate-falls-wages-interest-rates-iran-war",
-      "headline": "UK unemployment rate falls to 4.9% and wages grow more than expected",
-      "summary": "UK unemployment falls and wages grow despite Iran war peace deal signed.",
-      "url": "https://www.theguardian.com/p/x5abyq",
-      "thumbnail": "https://media.guim.co.uk/3ee4730c8f19ce6a11e4508f6dddc51c18df4da9/200_536_3403_2722/500.jpg",
-      "published": "2026-06-18T06:33:26Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "world/live/2026/jun/18/middle-east-crisis-live-us-iran-presidents-sign-peace-deal-mou-trump-tehran-strait-of-hormuz-toll-lebanon-israel",
-      "headline": "Middle East crisis live: Tehran says it will charge ships in strait of Hormuz after 60 days; US-Iran presidents sign peace deal",
-      "summary": "US-Iran presidents sign peace deal MOU; Tehran to charge ships in Strait of Hormuz after 60 days.",
-      "url": "https://www.theguardian.com/p/x5aenv",
-      "thumbnail": "https://media.guim.co.uk/9b8baa013e058bb16bea3b414cdb36196ee71651/0_64_4698_3761/500.jpg",
-      "published": "2026-06-18T06:27:54Z",
-      "location": {
-        "name": "Tehran",
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "film/2026/jun/18/steven-spielberg-et-was-moist-but-never-slimy",
-      "headline": "As Spielberg confirms whether ET was ‘slimy or dry’, we enter a new age of the celebrity interview",
-      "summary": "Spielberg discusses whether ET had moist or dry skin in new celebrity interview era.",
-      "url": "https://www.theguardian.com/p/x5792q",
-      "thumbnail": "https://media.guim.co.uk/b97a35553bd5b95d5348f6b8478acb554a90b4a3/1576_458_3053_2444/500.jpg",
-      "published": "2026-06-18T06:00:05Z",
-      "location": {
-        "name": "Los Angeles",
-        "lat": 34.0522,
-        "lng": -118.2437
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "film"
-    },
-    {
-      "id": "commentisfree/2026/jun/18/new-york-knicks-celebrations-arsenal-london",
-      "headline": "Here’s something London can be envious of: when New York parties, it really parties",
-      "summary": "New York Knicks' NBA championship win sparked citywide celebrations rivaling Arsenal's London joy.",
-      "url": "https://www.theguardian.com/p/x5abep",
-      "thumbnail": "https://media.guim.co.uk/0666149083d6a1bcfdf9e0c446a138232f00ea49/0_0_2843_2274/500.jpg",
-      "published": "2026-06-18T06:00:04Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "commentisfree"
-    },
-    {
-      "id": "film/2026/jun/18/la-cabina-el-televisor-review-horror-on-the-air-and-down-the-line-in-francos-spain",
-      "headline": "La Cabina/El Televisor review – horror and anxiety on the air and down the line in Franco’s Spain",
-      "summary": "Two 1970s Spanish TV horror plays from Franco's era released as double bill retrospective.",
-      "url": "https://www.theguardian.com/p/x59a3e",
-      "thumbnail": "https://media.guim.co.uk/22d97dd4f710edc4167da9f3effa88a754e9b807/274_0_1350_1080/500.jpg",
-      "published": "2026-06-18T06:00:04Z",
-      "location": {
-        "name": "Madrid",
-        "lat": 40.4168,
-        "lng": -3.7038
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "film"
-    },
-    {
-      "id": "travel/2026/jun/18/sicily-italy-vendicari-nature-reserve-wetland-birds",
-      "headline": "Pink flamingos and shimmering lemon groves: exploring Sicily’s Vendicari nature reserve",
-      "summary": "Sicily's Vendicari nature reserve preserves wetland haven for migratory birds near Syracuse.",
-      "url": "https://www.theguardian.com/p/x58q8g",
-      "thumbnail": "https://media.guim.co.uk/af69994136cd31063bac46753970df31c311e4e7/408_0_4080_3264/500.jpg",
-      "published": "2026-06-18T06:00:03Z",
-      "location": {
-        "name": "Syracuse",
-        "lat": 37.0752,
-        "lng": 15.2842
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "travel"
-    },
-    {
-      "id": "football/2026/jun/18/world-cup-2026-socceroos-australia-usa-which-team-will-win-how",
-      "headline": "Australia superpower v USA pentagon: how each team can win their World Cup clash",
-      "summary": "Australia and USA face off in Group D World Cup clash in Seattle with both teams seeking momentum.",
-      "url": "https://www.theguardian.com/p/x5aa65",
-      "thumbnail": "https://media.guim.co.uk/125ef73c05a7bf5676eeb00ad496f44c9986e6f8/0_247_5000_4000/500.jpg",
-      "published": "2026-06-18T06:00:02Z",
-      "location": {
-        "name": "Seattle",
-        "lat": 47.6062,
-        "lng": -122.3321
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
     {
       "id": "sport/live/2026/jun/18/england-v-new-zealand-second-mens-test-day-two-live",
       "headline": "England v New Zealand: second men’s Test, day two – live",
@@ -1222,6 +1014,262 @@
       "category": "politics",
       "significance": 3,
       "section": "politics"
+    },
+    {
+      "id": "world/live/2026/jun/19/eu-leaders-ukraine-russia-ukraine-magyar-von-der-leyen-latest-news-updates",
+      "headline": "EU leaders sign joint statement in support of Ukraine - Europe live",
+      "summary": "EU leaders sign joint statement supporting Ukraine amid ongoing Russia conflict.",
+      "url": "https://www.theguardian.com/p/x5ayp2",
+      "thumbnail": "https://media.guim.co.uk/4e10f345a364a817bb9799292da36534ed04787e/2232_601_2834_2269/500.jpg",
+      "published": "2026-06-19T10:00:53Z",
+      "location": {
+        "name": "Brussels",
+        "lat": 50.8503,
+        "lng": 4.3517
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "sport/live/2026/jun/19/ben-stokes-plays-for-durham-sussex-v-hampshire-and-more-county-cricket-live",
+      "headline": "Ben Stokes plays for Durham, Sussex v Hampshire, and more: county cricket – live ",
+      "summary": "Ben Stokes plays for Durham in County Championship cricket matches across England.",
+      "url": "https://www.theguardian.com/p/x5ah88",
+      "thumbnail": "https://media.guim.co.uk/5f7d28a7767d6c5c180bf5caa48ce1a76e33e625/406_0_4060_3248/500.jpg",
+      "published": "2026-06-19T09:59:16Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "politics/2026/jun/19/snp-concedes-aberdeen-south-with-scottish-conservatives-set-to-win",
+      "headline": "Scottish Conservatives win Aberdeen South in shock loss for the SNP ",
+      "summary": "Scottish Conservatives win Aberdeen South in shock upset over SNP in byelection.",
+      "url": "https://www.theguardian.com/p/x5ahp2",
+      "thumbnail": "https://media.guim.co.uk/a4c43f7430553405051b029d62b254fa19aa67c4/401_0_4341_3473/500.jpg",
+      "published": "2026-06-19T09:58:45Z",
+      "location": {
+        "name": "Aberdeen",
+        "lat": 57.1497,
+        "lng": -2.0943
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "sport/live/2026/jun/19/england-v-new-zealand-second-mens-test-day-three-live",
+      "headline": "England v New Zealand: second men’s Test, day three – live",
+      "summary": "England faces New Zealand in second men's Test at the Oval, day three updates.",
+      "url": "https://www.theguardian.com/p/x5ac86",
+      "thumbnail": "https://media.guim.co.uk/cd98918073f62b34e1fff05a62bcda19febaf592/194_0_3500_2800/500.jpg",
+      "published": "2026-06-19T09:57:49Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "world/live/2026/jun/19/middle-east-crisis-live-israel-strikes-targets-in-lebanon-as-us-iran-talks-in-switzerland-called-off",
+      "headline": "Middle East crisis live: Israel strikes targets in Lebanon as US-Iran talks in Switzerland called off",
+      "summary": "Israel strikes 80+ Hezbollah targets in Lebanon; US-Iran talks cancelled amid tensions.",
+      "url": "https://www.theguardian.com/p/x5ajtg",
+      "thumbnail": "https://media.guim.co.uk/58c8f29fa5eb96531362a03b8a2175b3149584d5/1365_0_6827_5464/500.jpg",
+      "published": "2026-06-19T09:56:59Z",
+      "location": {
+        "name": "Lebanon",
+        "lat": 33.8547,
+        "lng": 35.8623
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "football/live/2026/jun/19/world-cup-2026-news-kone-injury-canada-rout-scotland-big-challenge-morocco-usa-australia-buildup-live",
+      "headline": "World Cup 2026: Scotland fans take over Boston; Koné injury latest; USA v Australia buildup – live",
+      "summary": "World Cup 2026: Scotland fans gather in Boston; USA prepares to face Australia.",
+      "url": "https://www.theguardian.com/p/x5ah72",
+      "thumbnail": "https://media.guim.co.uk/cd70c2b1a87a0f56cbc3c625e46a8538e14238c1/498_0_2501_2001/500.jpg",
+      "published": "2026-06-19T09:53:49Z",
+      "location": {
+        "name": "Boston",
+        "lat": 42.3601,
+        "lng": -71.0589
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "politics/2026/jun/19/starmer-says-will-stand-in-labour-leadership-contest-burnham",
+      "headline": "Starmer says he will stand in any Labour leadership contest against Burnham",
+      "summary": "PM Starmer vows to contest Labour leadership election against Andy Burnham.",
+      "url": "https://www.theguardian.com/p/x5am6j",
+      "thumbnail": "https://media.guim.co.uk/b9455e0323a84df96a926b2babfcc57fd4715bf4/373_0_2750_2200/500.jpg",
+      "published": "2026-06-19T09:52:17Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "politics"
+    },
+    {
+      "id": "politics/2026/jun/19/what-would-change-look-like-if-andy-burnham-becomes-prime-minister",
+      "headline": "What would ‘change’ look like if Andy Burnham becomes prime minister?",
+      "summary": "Analysis of Andy Burnham's potential policies if he becomes prime minister.",
+      "url": "https://www.theguardian.com/p/x5aym6",
+      "thumbnail": "https://media.guim.co.uk/55cffcdfdab6774a11fab81b105be495806bbd99/68_0_4654_3724/500.jpg",
+      "published": "2026-06-19T09:51:40Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "business/live/2026/jun/19/uk-borrowing-surges-over-forecasts-in-may-spending-pound-bonds-borrowing-latest-news-updates",
+      "headline": "UK public finances under pressure after surge in borrowing; water company shares fall after Burnham win – business live",
+      "summary": "UK borrowing surges over forecasts in May; bond yields rise amid political uncertainty.",
+      "url": "https://www.theguardian.com/p/x5aycb",
+      "thumbnail": "https://media.guim.co.uk/95edf9e6b3ae5f8ab6c89efefb6e8d0b34729d52/580_0_5803_4644/500.jpg",
+      "published": "2026-06-19T09:41:22Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "politics/2026/jun/19/labour-peer-thangam-debbonaire-reform-mp-sarah-pochin-clash-makerfield",
+      "headline": "Labour peer and Reform MP clash over ‘brown people’ and domestic abuse",
+      "summary": "Labour peer and Reform MP clash over race and domestic abuse at Makerfield count.",
+      "url": "https://www.theguardian.com/p/x5aykk",
+      "thumbnail": "https://media.guim.co.uk/a9e744331461a63dc2295f75fd8b8c7729210fc1/2709_125_2502_2001/500.jpg",
+      "published": "2026-06-19T09:37:01Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "business/2026/jun/19/hot-weather-rise-uk-retail-sales-may",
+      "headline": "Shoppers splash out on fans and paddling pools as retail sales in Great Britain hot up",
+      "summary": "UK retail sales surge 1.2% in May as heatwave drives fan and paddling pool purchases.",
+      "url": "https://www.theguardian.com/p/x5ayek",
+      "thumbnail": "https://media.guim.co.uk/c7fd28c18bbdccffa4507179fca4df7838e08af9/849_0_4320_3456/500.jpg",
+      "published": "2026-06-19T09:36:28Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "film/2026/jun/19/how-refugee-week-film-festival-brings-migrants-experience-home",
+      "headline": "How Refugee Week film festival brings migrants’ experience home",
+      "summary": "Refugee Week film festival brings migrant experiences to audiences across UK.",
+      "url": "https://www.theguardian.com/p/x58m3m",
+      "thumbnail": "https://media.guim.co.uk/b6ee0a4b725309820977dda617cfd2bd91f2db8a/888_167_2316_1853/500.jpg",
+      "published": "2026-06-19T09:29:01Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "film"
+    },
+    {
+      "id": "environment/2026/jun/18/heathrow-third-runway-likely-to-affect-health-millions-people-nearby-official-report",
+      "headline": "Heathrow third runway likely to harm health of millions nearby, official report warns",
+      "summary": "Heathrow third runway expansion could harm health of 3 million nearby residents.",
+      "url": "https://www.theguardian.com/p/x5ah8y",
+      "thumbnail": "https://media.guim.co.uk/680462fedefba22a57352e67b28aa6f833c2f3ae/412_0_4103_3283/500.jpg",
+      "published": "2026-06-19T09:14:29Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 3,
+      "section": "environment"
+    },
+    {
+      "id": "fashion/2026/jun/19/changing-rooms-high-street-shops",
+      "headline": "‘How am I supposed to know if it’s cute on me?’ The strange death of the changing room",
+      "summary": "High street shops explore removing changing rooms amid rise in online shopping.",
+      "url": "https://www.theguardian.com/p/x5a64p",
+      "thumbnail": "https://media.guim.co.uk/f66f77d1c5708a7d9e7201a96c3845e60f628e7c/0_1819_3840_3072/500.jpg",
+      "published": "2026-06-19T09:06:36Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 1,
+      "section": "fashion"
+    },
+    {
+      "id": "sport/2026/jun/19/spencer-strider-braves-vegan-bernie-sanders-baseball",
+      "headline": "Spencer Strider: MLB’s Bernie Bro on veganism, Trash Panda, and fighting racism and homophobia",
+      "summary": "Braves pitcher Spencer Strider discusses his vegan lifestyle and activism on social justice issues.",
+      "url": "https://www.theguardian.com/p/x5at7q",
+      "thumbnail": "https://media.guim.co.uk/f72862a21cf62735c4f38ee464800b090eef9672/414_0_3000_2400/500.jpg",
+      "published": "2026-06-19T09:00:28Z",
+      "location": {
+        "name": "Atlanta",
+        "lat": 33.749,
+        "lng": -84.388
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "australia-news/2026/jun/19/australia-bird-flu-deadly-h5n1-first-suspected-case-wa",
+      "headline": "Mainland Australia’s first suspected case of deadly H5N1 investigated after seabird tests positive for bird flu",
+      "summary": "Australia's first suspected mainland case of deadly H5N1 bird flu detected in migratory seabird in WA.",
+      "url": "https://www.theguardian.com/p/x5aydh",
+      "thumbnail": "https://media.guim.co.uk/421505a79c724d8b7ff1f7aef5d24ca4c2a962ee/649_0_6490_5192/500.jpg",
+      "published": "2026-06-19T08:56:19Z",
+      "location": {
+        "name": "Western Australia",
+        "lat": -34.0833,
+        "lng": 121.3167
+      },
+      "category": "health",
+      "significance": 3,
+      "section": "australia-news"
     }
   ]
 }
