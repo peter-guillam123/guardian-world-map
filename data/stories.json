@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-06-19T20:09:32.542Z",
-    "story_count": 69,
+    "generated_at": "2026-06-19T21:36:32.050Z",
+    "story_count": 71,
     "oldest_story": "2026-06-18T21:57:50Z",
-    "newest_story": "2026-06-19T20:07:12Z",
+    "newest_story": "2026-06-19T21:25:50Z",
     "window_hours": 24
   },
   "stories": [
@@ -1110,6 +1110,38 @@
       "category": "culture",
       "significance": 1,
       "section": "stage"
+    },
+    {
+      "id": "football/2026/jun/19/usa-australia-world-cup-2026-group-d-match-report",
+      "headline": "USA surge into World Cup knockout stage after dominant victory over Socceroos",
+      "summary": "USA defeats Australia 2-0 in World Cup 2026 Group D match, advancing to knockout stage.",
+      "url": "https://www.theguardian.com/p/x5anab",
+      "thumbnail": "https://media.guim.co.uk/4792ddac4717b664758d9674e47487e7f232d397/275_0_3646_2917/500.jpg",
+      "published": "2026-06-19T21:25:50Z",
+      "location": {
+        "name": "Seattle",
+        "lat": 47.6062,
+        "lng": -122.3321
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/jun/20/socceroos-crash-back-to-earth-after-being-humbled-by-superior-usa",
+      "headline": "Socceroos crash back to earth after being humbled by superior USA",
+      "summary": "Australia humbled by superior USA team 2-0 in World Cup 2026 Group D match in Seattle.",
+      "url": "https://www.theguardian.com/p/x5ayjy",
+      "thumbnail": "https://media.guim.co.uk/91de2987f2cbe0ecd09c98f827d85710d6b74dbf/194_0_3370_2697/500.jpg",
+      "published": "2026-06-19T21:10:52Z",
+      "location": {
+        "name": "Seattle",
+        "lat": 47.6062,
+        "lng": -122.3321
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
     }
   ]
 }
