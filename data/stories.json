@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-06-19T22:36:20.763Z",
-    "story_count": 68,
-    "oldest_story": "2026-06-18T23:01:15Z",
-    "newest_story": "2026-06-19T22:30:44Z",
+    "generated_at": "2026-06-19T23:47:11.470Z",
+    "story_count": 67,
+    "oldest_story": "2026-06-19T00:08:10Z",
+    "newest_story": "2026-06-19T23:05:52Z",
     "window_hours": 24
   },
   "stories": [
@@ -21,54 +21,6 @@
       },
       "category": "sport",
       "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "us-news/2026/jun/18/obama-library-chicago-trump",
-      "headline": "Star-studded opening for Obama library in Chicago delivers implied rebuke to Trump",
-      "summary": "Barack Obama presidential center opens in Chicago with star-studded ceremony and political figures.",
-      "url": "https://www.theguardian.com/p/x5ajcd",
-      "thumbnail": "https://media.guim.co.uk/cf4e1799f8182754c489e32cb123377aae559fcb/301_0_5398_4319/500.jpg",
-      "published": "2026-06-18T23:29:15Z",
-      "location": {
-        "name": "Chicago",
-        "lat": 41.8781,
-        "lng": -87.6298
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "football/2026/jun/18/usmnt-christian-pulisic-status-mauricio-pochettino",
-      "headline": "Mauricio Pochettino noncommittal on Christian Pulisic status for Australia game: ‘We’ll see’",
-      "summary": "US faces Australia in World Cup 2026; Christian Pulisic's injury status remains uncertain.",
-      "url": "https://www.theguardian.com/p/x5ajhj",
-      "thumbnail": "https://media.guim.co.uk/78934c2bfed3a2e381b98d96c2317f00ac1978c7/397_0_2667_2134/500.jpg",
-      "published": "2026-06-18T23:04:42Z",
-      "location": {
-        "name": "Seattle",
-        "lat": 47.6062,
-        "lng": -122.3321
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/jun/19/when-real-come-for-you-its-very-difficult-to-say-no-cucurella-explains-chelsea-exit",
-      "headline": "‘When Real come for you it’s very difficult to say no’: Cucurella explains Chelsea exit",
-      "summary": "Marc Cucurella joins Real Madrid from Chelsea for £52m in swift transfer deal.",
-      "url": "https://www.theguardian.com/p/x5ajen",
-      "thumbnail": "https://media.guim.co.uk/7321fd2112ad563bac397950c90290b5483cd644/708_351_3460_2767/500.jpg",
-      "published": "2026-06-18T23:01:15Z",
-      "location": {
-        "name": "Madrid",
-        "lat": 40.4168,
-        "lng": -3.7038
-      },
-      "category": "sport",
-      "significance": 2,
       "section": "football"
     },
     {
@@ -1093,6 +1045,38 @@
       },
       "category": "sport",
       "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/jun/19/trump-air-force-one-qatar",
+      "headline": "Trump unveils new Air Force One, a converted Qatari 747",
+      "summary": "Trump unveils new Air Force One converted from Qatari 747, exceeding gift limits.",
+      "url": "https://www.theguardian.com/p/x5apxp",
+      "thumbnail": "https://media.guim.co.uk/98d9d349f2ea37acff42be4dc72a6b39a1b9eb20/987_0_4938_3950/500.jpg",
+      "published": "2026-06-19T23:05:52Z",
+      "location": {
+        "name": "Joint Base Andrews",
+        "lat": 38.8142,
+        "lng": -76.8742
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/jun/19/gary-oneil-set-to-leave-strasbourg-ipswich-head-coach",
+      "headline": "Gary O’Neil set to leave Strasbourg and take over as Ipswich head coach",
+      "summary": "Gary O'Neil to leave Strasbourg and become Ipswich Town head coach.",
+      "url": "https://www.theguardian.com/p/x5azpt",
+      "thumbnail": "https://media.guim.co.uk/a88eefc5201dc98526f6868b9406b81f51d48f51/344_0_4179_3342/500.jpg",
+      "published": "2026-06-19T22:51:26Z",
+      "location": {
+        "name": "Ipswich",
+        "lat": 52.0549,
+        "lng": 1.144
+      },
+      "category": "sport",
+      "significance": 2,
       "section": "football"
     }
   ]
