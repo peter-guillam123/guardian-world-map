@@ -1,92 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-20T17:41:30.014Z",
-    "story_count": 54,
-    "oldest_story": "2026-06-19T17:54:35Z",
-    "newest_story": "2026-06-20T17:39:41Z",
+    "generated_at": "2026-06-20T19:00:14.402Z",
+    "story_count": 59,
+    "oldest_story": "2026-06-19T19:00:40Z",
+    "newest_story": "2026-06-20T18:55:57Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "uk-news/2026/jun/19/two-trains-collide-bedford",
-      "headline": "Injuries reported after two trains collide near Bedford",
-      "summary": "Two trains collide near Bedford causing injuries and major transport disruptions.",
-      "url": "https://www.theguardian.com/p/x5az9f",
-      "thumbnail": "https://media.guim.co.uk/6f1f8874c30b64b0ef6bfea1fb2235d94cee41b2/0_0_5000_4000/500.jpg",
-      "published": "2026-06-19T18:11:48Z",
-      "location": {
-        "name": "Bedford",
-        "lat": 52.1393,
-        "lng": -0.4667
-      },
-      "category": "conflict",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "football/live/2026/jun/19/usa-v-australia-world-cup-2026-live",
-      "headline": "USA v Australia: World Cup 2026 – live",
-      "summary": "USA faces Australia in World Cup 2026 match seeking consecutive World Cup victory.",
-      "url": "https://www.theguardian.com/p/x5akpj",
-      "thumbnail": "https://media.guim.co.uk/d39e614b0835c9d87b965929197de5f21aacf880/3_0_7200_5760/500.jpg",
-      "published": "2026-06-19T18:03:14Z",
-      "location": {
-        "name": "Seattle",
-        "lat": 47.6062,
-        "lng": -122.3321
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "sport/2026/jun/19/rew-feels-brunt-of-archers-ire-after-brute-of-a-week-for-england-rookie",
-      "headline": "Rew feels brunt of Archer’s ire after brute of a week for England rookie",
-      "summary": "New Zealand dominates England on day three at the Oval in Test cricket.",
-      "url": "https://www.theguardian.com/p/x5amxx",
-      "thumbnail": "https://media.guim.co.uk/1ac96ad6e49e301a6be2de46beb3e3933e25e8ed/263_0_3031_2425/500.jpg",
-      "published": "2026-06-19T17:55:25Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "world/2026/jun/19/israel-hezbollah-renew-ceasefire-lebanon-us-iran-agreement",
-      "headline": "Israel and Hezbollah agree to renew ceasefire after flareup of violence",
-      "summary": "Israel and Hezbollah renew ceasefire after violent flareup; US-Iran talks cancelled.",
-      "url": "https://www.theguardian.com/p/x5annh",
-      "thumbnail": "https://media.guim.co.uk/78d839c9a88d9736a9ea56e9c96989af7b0ca7b5/830_0_4670_3738/500.jpg",
-      "published": "2026-06-19T17:54:51Z",
-      "location": {
-        "name": "Lebanon",
-        "lat": 33.8547,
-        "lng": 35.8623
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "sport/2026/jun/19/new-zealand-henry-nicholls-century-england-second-test-cricket",
-      "headline": "New Zealand in control of second Test as Nicholls century grinds down weary England",
-      "summary": "New Zealand takes control of second Test as Nicholls scores unbeaten century.",
-      "url": "https://www.theguardian.com/p/x5amvh",
-      "thumbnail": "https://media.guim.co.uk/9b1752960613030b1ce3e4b9889fa64f859ce48f/367_50_4568_3654/500.jpg",
-      "published": "2026-06-19T17:54:35Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
     {
       "id": "football/live/2026/jun/19/scotland-v-morocco-world-cup-2026-live",
       "headline": "Scotland v Morocco: World Cup 2026 – live",
@@ -870,6 +790,166 @@
       "category": "politics",
       "significance": 2,
       "section": "us-news"
+    },
+    {
+      "id": "fashion/2026/jun/20/nothing-succeeds-like-excess-at-dolce-gabbanas-milan-menswear-show",
+      "headline": "Nothing succeeds like excess at Dolce & Gabbana’s Milan menswear show",
+      "summary": "Dolce & Gabbana showcases flamboyant menswear collection at Milan fashion week.",
+      "url": "https://www.theguardian.com/p/x5b2mj",
+      "thumbnail": "https://media.guim.co.uk/19e1e333181a158b5886b87a68fee12f4ce221fd/22_180_2699_2160/500.jpg",
+      "published": "2026-06-20T18:55:57Z",
+      "location": {
+        "name": "Milan",
+        "lat": 45.4642,
+        "lng": 9.19
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "fashion"
+    },
+    {
+      "id": "football/live/2026/jun/20/germany-v-cote-divoire-world-cup-2026-live",
+      "headline": "Germany v Côte d’Ivoire: World Cup 2026 – live ",
+      "summary": "Germany faces Côte d'Ivoire in World Cup 2026 match after training in North Carolina.",
+      "url": "https://www.theguardian.com/p/x5aha8",
+      "thumbnail": "https://media.guim.co.uk/1c7d186c5eb062e018aea4631685ea40875a17d4/314_0_4829_3866/500.jpg",
+      "published": "2026-06-20T18:55:04Z",
+      "location": {
+        "name": "North Carolina",
+        "lat": 35.7596,
+        "lng": -79.0193
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "sport/live/2026/jun/20/us-open-2026-moving-day-golf-updates-from-third-round-live",
+      "headline": "US Open 2026: Moving Day updates from third round – live",
+      "summary": "US Open golf tournament third round underway at Shinnecock Hills.",
+      "url": "https://www.theguardian.com/p/x5ameq",
+      "thumbnail": "https://media.guim.co.uk/28e2dfa77ac995b3e5af68dd17b45702471e308e/361_0_2680_2145/500.jpg",
+      "published": "2026-06-20T18:54:29Z",
+      "location": {
+        "name": "Southampton",
+        "lat": 50.9355,
+        "lng": -1.4404
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "football/2026/jun/20/take-me-home-country-roads-world-cup-usmnt",
+      "headline": "Take me home: why Country Roads has struck a chord at the World Cup",
+      "summary": "John Denver's 'Country Roads' resonates with US fans at World Cup 2026.",
+      "url": "https://www.theguardian.com/p/x5b2fz",
+      "thumbnail": "https://media.guim.co.uk/b041f51279c7884d8445b48ec3ce355b166caf88/607_0_4631_3705/500.jpg",
+      "published": "2026-06-20T18:45:16Z",
+      "location": {
+        "name": "Seattle",
+        "lat": 47.6062,
+        "lng": -122.3321
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/jun/20/lapd-releases-footage-officers-dog",
+      "headline": "LAPD releases footage of moment officers shot and killed woman’s dog",
+      "summary": "LAPD releases footage of officers shooting dog in Canoga Park apartment hallway.",
+      "url": "https://www.theguardian.com/p/x5b2k9",
+      "thumbnail": "https://media.guim.co.uk/70bb6073917348221f48be01d73137eb4e1051ae/0_0_1200_960/500.jpg",
+      "published": "2026-06-20T18:43:38Z",
+      "location": {
+        "name": "Los Angeles",
+        "lat": 34.0522,
+        "lng": -118.2437
+      },
+      "category": "other",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "sport/2026/jun/20/england-mess-second-test-new-zealand-brendon-mccullum-era-cricket",
+      "headline": "England are a mess in this Test: isn’t it about time the Brendon McCullum era ended?",
+      "summary": "England struggles in second Test against New Zealand amid criticism of coach McCullum.",
+      "url": "https://www.theguardian.com/p/x5azyd",
+      "thumbnail": "https://media.guim.co.uk/a2c48c6a3bf4d24171df5cbe63df9e3b6e09447d/414_0_4592_3674/500.jpg",
+      "published": "2026-06-20T18:33:09Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "football/2026/jun/20/rashford-and-rice-give-england-boost-for-ghana-but-saka-set-for-bench-again",
+      "headline": "Rashford and Rice give England boost for Ghana with Saka set for bench again",
+      "summary": "Rashford and Rice recover from injuries ahead of England's World Cup match against Ghana.",
+      "url": "https://www.theguardian.com/p/x5b2jy",
+      "thumbnail": "https://media.guim.co.uk/cf27674feebee5478da209b0a6e7d3da64101f56/367_0_3674_2939/500.jpg",
+      "published": "2026-06-20T18:19:07Z",
+      "location": {
+        "name": "England",
+        "lat": 52.3555,
+        "lng": -1.1743
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/jun/20/texas-spacex-musk-beach-environmentalists",
+      "headline": "Texas environmentalists lose bid to block Musk’s SpaceX from closing beach",
+      "summary": "Texas court rules SpaceX can close Boca Chica Beach during rocket launches.",
+      "url": "https://www.theguardian.com/p/x5b2h8",
+      "thumbnail": "https://media.guim.co.uk/1f98997c5d850dc2b0d32f06772756db6ee23eba/457_0_7217_5773/500.jpg",
+      "published": "2026-06-20T18:17:15Z",
+      "location": {
+        "name": "Texas",
+        "lat": 31.9686,
+        "lng": -99.9018
+      },
+      "category": "tech",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/jun/20/scotland-2026-world-cup-destiny-morocco-brazil-steve-clarke",
+      "headline": "Scotland’s World Cup destiny is in their own hands but lack of gamechangers shows",
+      "summary": "Scotland loses to Morocco in World Cup 2026, faces Brazil with qualification hopes intact.",
+      "url": "https://www.theguardian.com/p/x5b2fb",
+      "thumbnail": "https://media.guim.co.uk/c82428aed1d90d955df6c3486519fd28f582af99/538_0_4967_3974/500.jpg",
+      "published": "2026-06-20T18:13:50Z",
+      "location": {
+        "name": "Scotland",
+        "lat": 56.4907,
+        "lng": -4.2026
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "sport/2026/jun/20/joe-root-defiant-as-england-set-463-to-win-but-new-zealand-close-in-on-levelling-series",
+      "headline": "England’s Joe Root makes more history but New Zealand close in on levelling series",
+      "summary": "Joe Root makes history as England sets 463-run target against New Zealand in Test cricket.",
+      "url": "https://www.theguardian.com/p/x5azk9",
+      "thumbnail": "https://media.guim.co.uk/03375ee513f8008e218f90a30cf353d0326406f4/361_0_5161_4128/500.jpg",
+      "published": "2026-06-20T18:00:46Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
     }
   ]
 }
