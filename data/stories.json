@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-06-20T14:19:39.020Z",
-    "story_count": 61,
-    "oldest_story": "2026-06-19T15:16:29Z",
-    "newest_story": "2026-06-20T14:14:47Z",
+    "generated_at": "2026-06-20T15:56:53.764Z",
+    "story_count": 58,
+    "oldest_story": "2026-06-19T15:58:55Z",
+    "newest_story": "2026-06-20T15:00:04Z",
     "window_hours": 24
   },
   "stories": [
@@ -70,86 +70,6 @@
       "category": "culture",
       "significance": 2,
       "section": "artanddesign"
-    },
-    {
-      "id": "us-news/2026/jun/19/at-last-something-europeans-and-americans-can-agree-upon",
-      "headline": "At last, something Europeans and Americans can agree upon",
-      "summary": "European and American citizens share distrust of their respective governments.",
-      "url": "https://www.theguardian.com/p/x5acyh",
-      "thumbnail": "https://media.guim.co.uk/2aad6bd174d97a0fe1cc20e65ccdf968b971fd9a/437_0_4370_3496/500.jpg",
-      "published": "2026-06-19T15:45:03Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "lifeandstyle/2026/jun/19/the-pitfalls-of-dating-on-a-school-night",
-      "headline": "The pitfalls of dating on a school night",
-      "summary": "Readers discuss challenges of dating on school and work nights.",
-      "url": "https://www.theguardian.com/p/x5amd7",
-      "thumbnail": "https://media.guim.co.uk/40326fc4253b787f01de6116e04397f64e6a89df/1090_0_7200_5760/500.jpg",
-      "published": "2026-06-19T15:44:16Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "lifeandstyle"
-    },
-    {
-      "id": "football/2026/jun/19/canada-qatar-world-cup-jesse-marsch",
-      "headline": "Jesse Marsch: windmilling human meme or shrewd protector of suddenly dangerous Canada?",
-      "summary": "Canada defeats Qatar 6-0 at World Cup as coach Jesse Marsch draws internet attention.",
-      "url": "https://www.theguardian.com/p/x5anx2",
-      "thumbnail": "https://media.guim.co.uk/52ec370c5f73912c45213b8bfcc1ac6983271994/210_0_4880_3903/500.jpg",
-      "published": "2026-06-19T15:30:35Z",
-      "location": {
-        "name": "Qatar",
-        "lat": 25.3548,
-        "lng": 51.1839
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "uk-news/2026/jun/19/heathrow-third-runway-boost-gdp-less-than-stated",
-      "headline": "Heathrow third runway GDP yield may be 90% less than original estimate",
-      "summary": "Heathrow third runway GDP boost may be 90% less than original government estimates.",
-      "url": "https://www.theguardian.com/p/x5amff",
-      "thumbnail": "https://media.guim.co.uk/3b5cf33f20273021120af39e9f1b3c59816ad1a9/0_0_5383_4307/500.jpg",
-      "published": "2026-06-19T15:26:25Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "stage/2026/jun/19/camdenwalla-review-camden-peoples-theatre-london",
-      "headline": "Camdenwalla review – one long night of fear and defiance in 90s London",
-      "summary": "Camdenwalla play depicts 1990s London racist attacks through rescue service workers.",
-      "url": "https://www.theguardian.com/p/x5amdm",
-      "thumbnail": "https://media.guim.co.uk/c1100661cc0708c367569625ffd35ebb5bed7302/279_0_3846_3076/500.jpg",
-      "published": "2026-06-19T15:16:29Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "stage"
     },
     {
       "id": "uk-news/2026/jun/19/two-trains-collide-bedford",
@@ -982,6 +902,38 @@
       "category": "sport",
       "significance": 2,
       "section": "football"
+    },
+    {
+      "id": "football/2026/jun/21/down-but-not-out-socceroos-take-heart-from-positives-in-defeat-to-usa",
+      "headline": "Down but not out: Socceroos take heart from positives in defeat to USA",
+      "summary": "Australia loses 2-0 to USA in World Cup 2026 but finds positives ahead of Paraguay clash.",
+      "url": "https://www.theguardian.com/p/x5aqkk",
+      "thumbnail": "https://media.guim.co.uk/bc36a40abb7fd4e6be1d337c1f8f6c8a77636e64/439_0_3357_2686/500.jpg",
+      "published": "2026-06-20T15:00:04Z",
+      "location": {
+        "name": "Seattle",
+        "lat": 47.6062,
+        "lng": -122.3321
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/jun/20/jim-jordan-super-pac-ice-donation",
+      "headline": "Trump loyalist Jim Jordan linked to group that received ‘dark money’ from ICE detention contractor",
+      "summary": "Jim Jordan linked to group receiving dark money from ICE detention contractor Geo Group.",
+      "url": "https://www.theguardian.com/p/x59d6v",
+      "thumbnail": "https://media.guim.co.uk/f099d821d09ac47b806ad2f8f78c7897c40e6309/1009_408_2824_2259/500.jpg",
+      "published": "2026-06-20T15:00:04Z",
+      "location": {
+        "name": "Ohio",
+        "lat": 40.3888,
+        "lng": -82.7649
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
     }
   ]
 }
