@@ -1,60 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-20T19:00:14.402Z",
-    "story_count": 59,
-    "oldest_story": "2026-06-19T19:00:40Z",
-    "newest_story": "2026-06-20T18:55:57Z",
+    "generated_at": "2026-06-20T20:23:34.973Z",
+    "story_count": 65,
+    "oldest_story": "2026-06-19T21:10:52Z",
+    "newest_story": "2026-06-20T20:06:18Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/live/2026/jun/19/scotland-v-morocco-world-cup-2026-live",
-      "headline": "Scotland v Morocco: World Cup 2026 – live",
-      "summary": "Scotland faces Morocco in World Cup 2026 group stage match in Boston.",
-      "url": "https://www.theguardian.com/p/x5acgj",
-      "thumbnail": "https://media.guim.co.uk/690f6f23fac1287e2cce39436c75c54fe24fd9d1/385_0_4894_3916/500.jpg",
-      "published": "2026-06-19T20:07:12Z",
-      "location": {
-        "name": "Boston",
-        "lat": 42.3601,
-        "lng": -71.0589
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "sport/2026/jun/19/england-havent-got-key-moments-right-against-new-zealand-admits-fisher",
-      "headline": "England ‘haven’t got key moments right’ against New Zealand, admits Fisher",
-      "summary": "England trails New Zealand by 352 runs entering day four of second Test at Oval.",
-      "url": "https://www.theguardian.com/p/x5amvn",
-      "thumbnail": "https://media.guim.co.uk/338b056b9bfb58bc779de4d706ac3d44494e52e6/141_0_2230_1784/500.jpg",
-      "published": "2026-06-19T19:28:47Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "stage/2026/jun/19/ron-review-riverside-studios-london-ted-walliker",
-      "headline": "Ron review – bumbling standup swerves into Tarantino-esque odyssey",
-      "summary": "Ted Walliker's one-man play Ron premieres at Riverside Studios, London.",
-      "url": "https://www.theguardian.com/p/x5aypd",
-      "thumbnail": "https://media.guim.co.uk/cdaeb0a2c2413509bccc6d7134e19af15036a8dd/491_207_3342_2675/500.jpg",
-      "published": "2026-06-19T19:00:40Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "stage"
-    },
     {
       "id": "football/2026/jun/19/usa-australia-world-cup-2026-group-d-match-report",
       "headline": "USA surge into World Cup knockout stage after dominant victory over Socceroos",
@@ -950,6 +902,150 @@
       "category": "sport",
       "significance": 2,
       "section": "sport"
+    },
+    {
+      "id": "football/2026/jun/20/world-cup-baby-joy-norway-leo-ostigard-jeremy-doku-belgium-plans-birth",
+      "headline": "World Cup baby joy for Norway’s Østigård while Doku plans to fly home for birth",
+      "summary": "Norway's Østigård watches son's birth via video during World Cup; Doku plans to leave Belgium squad.",
+      "url": "https://www.theguardian.com/p/x5b2n9",
+      "thumbnail": "https://media.guim.co.uk/6a8bd0bc23299de912939c59bfd78aeb5584d651/0_145_6295_5036/500.jpg",
+      "published": "2026-06-20T20:06:18Z",
+      "location": {
+        "name": "Norway",
+        "lat": 60.472,
+        "lng": 8.4689
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "australia-news/2026/jun/21/oil-price-petrol-prices-australia-fuel-crisis-us-iran-war-lower",
+      "headline": "Petrol prices in Australia are now lower than before the Iran war began. Is the oil crisis over and what happens next? ",
+      "summary": "Australian petrol prices drop below pre-Iran war levels as oil supplies stabilize globally.",
+      "url": "https://www.theguardian.com/p/x5a335",
+      "thumbnail": "https://media.guim.co.uk/4edfa1712afaa17d553ceae46193f27ccf3347eb/300_0_5469_4377/500.jpg",
+      "published": "2026-06-20T20:00:13Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "australia-news/ng-interactive/2026/jun/21/sudden-cardiac-arrest-leading-cause-death-young-people",
+      "headline": "‘A child goes to bed and doesn’t wake up’: the families left in shock after the sudden death of their healthy children ",
+      "summary": "Sudden cardiac arrest emerges as leading cause of death among healthy Australian children.",
+      "url": "https://www.theguardian.com/p/x5942b",
+      "thumbnail": "https://media.guim.co.uk/f97373f16b145fc467230a67ea7ece2ac2e862ff/433_0_1952_1561/500.jpg",
+      "published": "2026-06-20T20:00:13Z",
+      "location": {
+        "name": "Melbourne",
+        "lat": -37.8136,
+        "lng": 144.9631
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "australia-news/commentisfree/2026/jun/20/pauline-hanson-one-nation-media-attacks-press-control-ntwnfb",
+      "headline": "Pauline Hanson’s media attacks are not just Trump inspired. For 30 years she has sought to control the press",
+      "summary": "Pauline Hanson's 30-year pattern of media attacks intensifies during National Press Club address.",
+      "url": "https://www.theguardian.com/p/x5aft9",
+      "thumbnail": "https://media.guim.co.uk/6cae1801e02da7d885bbb55b50d867344197e19b/716_0_6172_4941/500.jpg",
+      "published": "2026-06-20T20:00:11Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "australia-news/2026/jun/21/pauline-hanson-women-working-mothers-paid-parental-leave-childcare-income-gender-gap-economy-one-nation-ntwnfb",
+      "headline": "Pauline Hanson’s stance on paid parental leave and childcare could turn clock back by decades, economists warn",
+      "summary": "Pauline Hanson's paid parental leave stance risks setback for working mothers, economists warn.",
+      "url": "https://www.theguardian.com/p/x5akh8",
+      "thumbnail": "https://media.guim.co.uk/ecd4e28b7374a8020deb000cdc73270324b81b43/516_0_2953_2362/500.jpg",
+      "published": "2026-06-20T20:00:11Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "australia-news/2026/jun/21/danes-payout-for-historical-sexual-abuse-meant-the-ndis-slashed-his-funding-he-and-his-mum-are-fighting-back-ntwnfb",
+      "headline": "Dane’s payout for historical sexual abuse meant the NDIS slashed his funding. He and his mum are fighting back",
+      "summary": "NDIS slashes disabled man's funding after sexual abuse compensation received, sparks fight.",
+      "url": "https://www.theguardian.com/p/x5a2m9",
+      "thumbnail": "https://media.guim.co.uk/1086c0051ac4881ad94b2b70c7e0a4d2ddb50c3a/0_0_4560_3648/500.jpg",
+      "published": "2026-06-20T20:00:11Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "australia-news/2026/jun/21/a-spate-of-shark-bites-has-australian-ocean-lovers-on-edge-people-want-to-know-why-theyre-rising",
+      "headline": "A spate of shark bites has Australian ocean lovers on edge. People want to know why they’re rising ",
+      "summary": "Rising shark bites linked to warming ocean temperatures pushing sharks into populated areas.",
+      "url": "https://www.theguardian.com/p/x5aeg7",
+      "thumbnail": "https://media.guim.co.uk/1c8357f4af39523d6e18cfb0fbd2fdca55fcde65/609_15_2934_2347/500.jpg",
+      "published": "2026-06-20T20:00:10Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "sport/2026/jun/20/amy-hunt-beats-dina-asher-smith-to-defend-100m-crown-at-uk-championships",
+      "headline": "Amy Hunt beats Dina Asher-Smith to retain 100m crown at UK Championships",
+      "summary": "Amy Hunt defends British 100m title, beating Dina Asher-Smith at UK Championships.",
+      "url": "https://www.theguardian.com/p/x5ap8n",
+      "thumbnail": "https://media.guim.co.uk/db49dd6945a4b1745ca7efde54ccfad423d90064/15_156_2501_2001/500.jpg",
+      "published": "2026-06-20T19:57:32Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "us-news/2026/jun/20/grand-canyon-extreme-heat-watch",
+      "headline": "Grand Canyon on ‘extreme heat’ watch, with temperatures set to soar ",
+      "summary": "Grand Canyon under extreme heat watch with temperatures exceeding 111F amid recent deaths.",
+      "url": "https://www.theguardian.com/p/x5b2k5",
+      "thumbnail": "https://media.guim.co.uk/03b31d2b27c92f1f3b9d859af311bdc32e1a5b1d/143_0_1705_1364/500.jpg",
+      "published": "2026-06-20T19:36:00Z",
+      "location": {
+        "name": "Grand Canyon",
+        "lat": 36.1069,
+        "lng": -112.1129
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "us-news"
     }
   ]
 }
