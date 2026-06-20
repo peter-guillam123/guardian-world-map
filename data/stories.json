@@ -1,44 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-20T20:23:34.973Z",
-    "story_count": 65,
-    "oldest_story": "2026-06-19T21:10:52Z",
-    "newest_story": "2026-06-20T20:06:18Z",
+    "generated_at": "2026-06-20T21:48:27.397Z",
+    "story_count": 64,
+    "oldest_story": "2026-06-19T21:51:46Z",
+    "newest_story": "2026-06-20T20:50:11Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/2026/jun/19/usa-australia-world-cup-2026-group-d-match-report",
-      "headline": "USA surge into World Cup knockout stage after dominant victory over Socceroos",
-      "summary": "USA defeats Australia 2-0 in World Cup 2026 Group D match, advancing to knockout stage.",
-      "url": "https://www.theguardian.com/p/x5anab",
-      "thumbnail": "https://media.guim.co.uk/4792ddac4717b664758d9674e47487e7f232d397/275_0_3646_2917/500.jpg",
-      "published": "2026-06-19T21:25:50Z",
-      "location": {
-        "name": "Seattle",
-        "lat": 47.6062,
-        "lng": -122.3321
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/jun/20/socceroos-crash-back-to-earth-after-being-humbled-by-superior-usa",
-      "headline": "Socceroos crash back to earth after being humbled by superior USA",
-      "summary": "Australia humbled by superior USA team 2-0 in World Cup 2026 Group D match in Seattle.",
-      "url": "https://www.theguardian.com/p/x5ayjy",
-      "thumbnail": "https://media.guim.co.uk/91de2987f2cbe0ecd09c98f827d85710d6b74dbf/194_0_3370_2697/500.jpg",
-      "published": "2026-06-19T21:10:52Z",
-      "location": {
-        "name": "Seattle",
-        "lat": 47.6062,
-        "lng": -122.3321
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
     {
       "id": "football/live/2026/jun/20/fifa-world-cup-2026-live-brazil-v-haiti-updates-bra-vs-hai-group-c-match-score-latest",
       "headline": "Brazil v Haiti: World Cup 2026 – live",
@@ -69,22 +37,6 @@
       },
       "category": "sport",
       "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/jun/20/usa-australia-player-ratings-world-cup-group-d",
-      "headline": "USA 2-0 Australia: World Cup 2026 Group D player ratings",
-      "summary": "USA defeats Australia 2-0 in World Cup 2026 Group D match with Alex Freeman scoring.",
-      "url": "https://www.theguardian.com/p/x5ayyf",
-      "thumbnail": "https://media.guim.co.uk/9c9f21fcab086c36a6d398ad088abd99f9d85d49/278_0_1419_1135/500.jpg",
-      "published": "2026-06-19T21:45:44Z",
-      "location": {
-        "name": "United States",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "sport",
-      "significance": 3,
       "section": "football"
     },
     {
@@ -1046,6 +998,38 @@
       "category": "climate",
       "significance": 2,
       "section": "us-news"
+    },
+    {
+      "id": "sport/2026/jun/20/sophia-dunkley-smashes-england-past-scotland-as-t20-world-cup-winning-run-goes-on",
+      "headline": "Sophia Dunkley smashes England past Scotland as T20 World Cup winning run goes on",
+      "summary": "England beats Scotland by 38 runs in Women's T20 World Cup at Headingley, maintaining top position.",
+      "url": "https://www.theguardian.com/p/x5azmq",
+      "thumbnail": "https://media.guim.co.uk/13a57b7b83670bf5d940ac73d8ab1671a7bef1f5/173_0_3592_2875/500.jpg",
+      "published": "2026-06-20T20:50:11Z",
+      "location": {
+        "name": "Leeds",
+        "lat": 53.8008,
+        "lng": -1.5491
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "sport"
+    },
+    {
+      "id": "uk-news/2026/jun/20/there-was-panic-shock-and-horror-in-the-bedfordshire-village-next-to-the-train-crash",
+      "headline": "‘There was panic’: shock and horror in the Bedfordshire village next to the train crash",
+      "summary": "Train collision in Bedfordshire kills one driver and injures 100, shocking local community.",
+      "url": "https://www.theguardian.com/p/x5b23q",
+      "thumbnail": "https://media.guim.co.uk/a0dc0194e92ecee58ff858965d9a4476d46235cc/121_82_4626_3701/500.jpg",
+      "published": "2026-06-20T20:46:06Z",
+      "location": {
+        "name": "Elstow",
+        "lat": 52.1288,
+        "lng": -0.5194
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "uk-news"
     }
   ]
 }
