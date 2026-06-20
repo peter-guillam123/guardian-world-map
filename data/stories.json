@@ -1,44 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-20T21:48:27.397Z",
-    "story_count": 64,
-    "oldest_story": "2026-06-19T21:51:46Z",
-    "newest_story": "2026-06-20T20:50:11Z",
+    "generated_at": "2026-06-20T22:55:04.787Z",
+    "story_count": 67,
+    "oldest_story": "2026-06-19T23:05:52Z",
+    "newest_story": "2026-06-20T22:51:18Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/live/2026/jun/20/fifa-world-cup-2026-live-brazil-v-haiti-updates-bra-vs-hai-group-c-match-score-latest",
-      "headline": "Brazil v Haiti: World Cup 2026 – live",
-      "summary": "Brazil faces Haiti in World Cup 2026 Group C match at Philadelphia Stadium.",
-      "url": "https://www.theguardian.com/p/x58pbc",
-      "thumbnail": "https://media.guim.co.uk/2ba4ce39b8620034436245e0b6403b96111e1a65/0_0_3820_3057/500.jpg",
-      "published": "2026-06-19T22:30:44Z",
-      "location": {
-        "name": "Philadelphia",
-        "lat": 39.9526,
-        "lng": -75.1652
-      },
-      "category": "sport",
-      "significance": 4,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/jun/19/gary-lineker-to-appear-as-special-guest-on-itv-during-world-cup-broadcast",
-      "headline": "Gary Lineker to appear as special guest on ITV during World Cup broadcast",
-      "summary": "Gary Lineker to appear as special guest on ITV's World Cup coverage in first terrestrial TV appearance post-BBC.",
-      "url": "https://www.theguardian.com/p/x5ap4z",
-      "thumbnail": "https://media.guim.co.uk/2cae0d2993343b3750cbbdab0445ff93cfaddb3a/196_113_2486_1989/500.jpg",
-      "published": "2026-06-19T21:51:46Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
     {
       "id": "us-news/2026/jun/19/trump-air-force-one-qatar",
       "headline": "Trump unveils new Air Force One, a converted Qatari 747",
@@ -54,22 +22,6 @@
       "category": "politics",
       "significance": 3,
       "section": "us-news"
-    },
-    {
-      "id": "football/2026/jun/19/gary-oneil-set-to-leave-strasbourg-ipswich-head-coach",
-      "headline": "Gary O’Neil set to leave Strasbourg and take over as Ipswich head coach",
-      "summary": "Gary O'Neil to leave Strasbourg and become Ipswich Town head coach.",
-      "url": "https://www.theguardian.com/p/x5azpt",
-      "thumbnail": "https://media.guim.co.uk/a88eefc5201dc98526f6868b9406b81f51d48f51/344_0_4179_3342/500.jpg",
-      "published": "2026-06-19T22:51:26Z",
-      "location": {
-        "name": "Ipswich",
-        "lat": 52.0549,
-        "lng": 1.144
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
     },
     {
       "id": "football/live/2026/jun/20/fifa-world-cup-2026-live-turkey-v-paraguay-updates-tur-vs-par-group-d-match-score-latest",
@@ -1030,6 +982,102 @@
       "category": "conflict",
       "significance": 3,
       "section": "uk-news"
+    },
+    {
+      "id": "australia-news/live/2026/jun/21/australia-news-live-bird-flu-h5n1-wildlife-fuel-excise-iran-hormuz-albanese-bowen-taylor-coalition-one-nation-pauline-hanson-ntwnfb",
+      "headline": "Australia news live: arrival of H5N1 bird flu a ‘genuine wildlife emergency’, experts say; fuel excise rebate extended for extra month",
+      "summary": "Australia confirms first mainland H5N1 bird flu case; wildlife emergency declared.",
+      "url": "https://www.theguardian.com/p/x5b3k9",
+      "thumbnail": "https://media.guim.co.uk/39d5af0e765eb2811a82e09b4f4c0f97bb31ee76/0_0_2569_2056/500.jpg",
+      "published": "2026-06-20T22:51:18Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "health",
+      "significance": 3,
+      "section": "australia-news"
+    },
+    {
+      "id": "football/live/2026/jun/20/ecuador-v-curacao-world-cup-2026-live",
+      "headline": "Ecuador v Curaçao: World Cup 2026 – live",
+      "summary": "Ecuador faces Curaçao in World Cup 2026 Group E match in Kansas City.",
+      "url": "https://www.theguardian.com/p/x5amqn",
+      "thumbnail": "https://media.guim.co.uk/eb1ebc082b4eefba1e81565154b201e92c4a8509/659_0_6588_5270/500.jpg",
+      "published": "2026-06-20T22:49:24Z",
+      "location": {
+        "name": "Kansas City",
+        "lat": 39.0997,
+        "lng": -94.5786
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/jun/20/lamine-yamal-genius-salvador-dali-michelangelo-spain-luis-de-la-fuente-world-cup",
+      "headline": "Lamine Yamal a genius ‘like Dalí or Michelangelo’, says Spain’s De la Fuente",
+      "summary": "Spain's Lamine Yamal hailed as genius ahead of Saudi Arabia World Cup clash in Atlanta.",
+      "url": "https://www.theguardian.com/p/x5b3mn",
+      "thumbnail": "https://media.guim.co.uk/1347e87d7f429307da0382ee7e1cf8d7316c9639/0_486_4151_3321/500.jpg",
+      "published": "2026-06-20T22:48:23Z",
+      "location": {
+        "name": "Atlanta",
+        "lat": 33.749,
+        "lng": -84.388
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "uk-news/2026/jun/20/three-men-dead-after-west-london-building-fire",
+      "headline": "Three men dead after west London building fire",
+      "summary": "Three men dead after fire in west London building in White City.",
+      "url": "https://www.theguardian.com/p/x5b3m9",
+      "thumbnail": "https://media.guim.co.uk/acb04207f623c6750dea45ef5c22222db210b41a/6_0_2916_2333/500.jpg",
+      "published": "2026-06-20T22:43:17Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "other",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "uk-news/2026/jun/20/king-charles-to-publish-personal-tax-bill-in-first-for-uk-head-of-state",
+      "headline": "King Charles to publish personal tax bill in first for UK head of state",
+      "summary": "King Charles becomes first UK head of state to publish personal tax bill.",
+      "url": "https://www.theguardian.com/p/x5b3kx",
+      "thumbnail": "https://media.guim.co.uk/2ec2f739ed60cd639c3c77800ef93fae2f26af88/0_0_6247_5000/500.jpg",
+      "published": "2026-06-20T22:27:54Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "football/2026/jun/20/germany-cote-divoire-group-e-match-report",
+      "headline": "Deniz Undav’s double earns Germany dramatic late win against Côte d’Ivoire",
+      "summary": "Germany defeats Côte d'Ivoire 2-1 with dramatic 94th-minute goal to reach World Cup knockout stage.",
+      "url": "https://www.theguardian.com/p/x5azb4",
+      "thumbnail": "https://media.guim.co.uk/b2bca5410e1c6a6e41800dfe53a44f6634a0fce7/0_0_2846_2277/500.jpg",
+      "published": "2026-06-20T22:17:44Z",
+      "location": {
+        "name": "Kansas City",
+        "lat": 39.0997,
+        "lng": -94.5786
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
     }
   ]
 }
