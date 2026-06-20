@@ -1,124 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-20T01:56:30.295Z",
+    "generated_at": "2026-06-20T06:38:05.914Z",
     "story_count": 70,
-    "oldest_story": "2026-06-19T04:40:35Z",
-    "newest_story": "2026-06-20T01:55:45Z",
+    "oldest_story": "2026-06-19T08:56:19Z",
+    "newest_story": "2026-06-20T06:00:04Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "news/2026/jun/19/antisemitism-royal-commission-conflation-of-jewish-identity-with-israel-jewish-council-submission-ntwnfb",
-      "headline": "Conflation of Jewish identity with Israel driving antisemitism, Jewish Council says in submission to royal commission",
-      "summary": "Jewish Council of Australia blames far-right and Israel-Jewish conflation for antisemitism surge.",
-      "url": "https://www.theguardian.com/p/x5af77",
-      "thumbnail": "https://media.guim.co.uk/c1f08db93b1cd8d87080500db67caa7dd78420c0/1487_430_2710_2167/500.jpg",
-      "published": "2026-06-19T05:12:28Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "news"
-    },
-    {
-      "id": "politics/2026/jun/19/andy-burnham-wins-makerfield-byelection-paving-way-labour-leadership-challenge",
-      "headline": "Andy Burnham wins huge majority in Makerfield byelection, paving way for Starmer leadership challenge",
-      "summary": "Andy Burnham wins Makerfield byelection by huge majority, signals Starmer leadership challenge.",
-      "url": "https://www.theguardian.com/p/x5adhf",
-      "thumbnail": "https://media.guim.co.uk/4948a16d41b1f4b5c38da978ef0f3f7cdd4ecefc/1765_280_5534_4427/500.jpg",
-      "published": "2026-06-19T05:10:13Z",
-      "location": {
-        "name": "Wigan",
-        "lat": 53.545,
-        "lng": -2.6268
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "politics"
-    },
-    {
-      "id": "news/2026/jun/19/weatherwatch-saharan-dust-drops-microorganisms-european-soil",
-      "headline": "Weatherwatch: Saharan dust drops microorganisms into European soil ",
-      "summary": "Saharan dust deposits microorganisms into European soil; Portuguese vineyards being studied.",
-      "url": "https://www.theguardian.com/p/x57aed",
-      "thumbnail": "https://media.guim.co.uk/aff8f39d33bc9d7a53e21c3c913cc7ee52429348/559_0_4640_3712/500.jpg",
-      "published": "2026-06-19T05:00:24Z",
-      "location": {
-        "name": "Lisbon",
-        "lat": 38.7223,
-        "lng": -9.1393
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "news"
-    },
-    {
-      "id": "sport/2026/jun/19/london-marathon-confirms-expansion-to-two-day-event-in-2027",
-      "headline": "London Marathon confirms expansion to two-day event in 2027",
-      "summary": "London Marathon expands to two-day event in 2027, enabling record 100,000 participants.",
-      "url": "https://www.theguardian.com/p/x5ahqz",
-      "thumbnail": "https://media.guim.co.uk/985717634400789b91bb587324d29c7463af3f2e/498_100_4629_3704/500.jpg",
-      "published": "2026-06-19T05:00:23Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "society/2026/jun/19/ico-watchdog-inquiry-cameras-mental-health-patients-bedrooms",
-      "headline": "ICO watchdog opens inquiry into cameras in mental health patients’ bedrooms",
-      "summary": "UK Information Commissioner investigates Oxevision bedroom cameras in 40% of NHS mental health trusts.",
-      "url": "https://www.theguardian.com/p/x5accq",
-      "thumbnail": "https://media.guim.co.uk/439c6e8b7c0b2635c548daf61dbb50fdacfeff56/0_347_1536_1229/500.jpg",
-      "published": "2026-06-19T05:00:22Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "society"
-    },
-    {
-      "id": "world/2026/jun/19/us-iran-talks-in-switzerland-cancelled",
-      "headline": "US-Iran talks in Switzerland abruptly called off ",
-      "summary": "US-Iran talks scheduled for Switzerland abruptly cancelled after 14-point war agreement.",
-      "url": "https://www.theguardian.com/p/x5ayx4",
-      "thumbnail": "https://media.guim.co.uk/f821303100bf18e1d68f3c3435c78b53531e0674/815_185_3777_3023/500.jpg",
-      "published": "2026-06-19T04:48:27Z",
-      "location": {
-        "name": "Bern",
-        "lat": 46.9479,
-        "lng": 7.4474
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "politics/2026/jun/19/andy-burnham-makerfield-victory-speech-no-second-chance-starmer-leadership-challenge-campaign",
-      "headline": "‘There will be no second chance’: Burnham’s Makerfield victory speech sets stage for a Starmer drama",
-      "summary": "Burnham's Makerfield victory speech signals imminent leadership challenge to Keir Starmer.",
-      "url": "https://www.theguardian.com/p/x5akkq",
-      "thumbnail": "https://media.guim.co.uk/ed39cdf0a338f86a12c1a1db84ae7aa2d049fe8c/1984_300_6404_5123/500.jpg",
-      "published": "2026-06-19T04:40:35Z",
-      "location": {
-        "name": "Wigan",
-        "lat": 53.545,
-        "lng": -2.6268
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "politics"
-    },
     {
       "id": "world/live/2026/jun/19/eu-leaders-ukraine-russia-ukraine-magyar-von-der-leyen-latest-news-updates",
       "headline": "EU leaders sign joint statement in support of Ukraine - Europe live",
@@ -1126,6 +1014,118 @@
       "category": "health",
       "significance": 2,
       "section": "australia-news"
+    },
+    {
+      "id": "politics/2026/jun/20/stanley-chow-andy-burnham-illustration",
+      "headline": "‘Within 10 mins, Andy had nicked it’: illustrator on his ubiquitous image of Andy Burnham",
+      "summary": "Illustrator Stanley Chow discusses how his iconic Andy Burnham drawing became visual shorthand for anti-establishment politics.",
+      "url": "https://www.theguardian.com/p/x5am6k",
+      "thumbnail": "https://media.guim.co.uk/2c72ae4dd63e7c04551bda9cc5573335da7ee2b7/453_0_6993_5592/500.jpg",
+      "published": "2026-06-20T06:00:04Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "money/2026/jun/20/great-british-summer-savings-scheme-family-deals-films-vat-cut",
+      "headline": "Great British summer savings: grab family deals on days out, films and more",
+      "summary": "UK government launches Great British summer savings scheme with VAT cuts for families on entertainment and attractions.",
+      "url": "https://www.theguardian.com/p/x5a52t",
+      "thumbnail": "https://media.guim.co.uk/d3486afb7819bfc65f70c42d83659e5c9caae080/238_0_5000_4000/500.jpg",
+      "published": "2026-06-20T06:00:03Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "money"
+    },
+    {
+      "id": "environment/2026/jun/20/europe-backs-critical-minerals-mines-water-stressed-regions",
+      "headline": "‘It’s Russian roulette’: alarm as Europe backs critical minerals mines in water-stressed regions",
+      "summary": "European Commission plans to rewrite water protection law to expedite critical mineral mining in drought-affected regions.",
+      "url": "https://www.theguardian.com/p/x59bfm",
+      "thumbnail": "https://media.guim.co.uk/d75bb172ff2af750bd847ee7de54c408f54b3e3d/530_0_5840_4672/500.jpg",
+      "published": "2026-06-20T06:00:03Z",
+      "location": {
+        "name": "Brussels",
+        "lat": 50.8503,
+        "lng": 4.3517
+      },
+      "category": "climate",
+      "significance": 3,
+      "section": "environment"
+    },
+    {
+      "id": "world/2026/jun/20/suv-risks-warnings-road-safety-buyers-uk-study",
+      "headline": "SUV buyers undeterred by warnings of risk to pedestrians, UK study finds",
+      "summary": "UK study finds SUV safety warnings fail to deter buyers; financial penalties may be necessary to reduce large vehicles.",
+      "url": "https://www.theguardian.com/p/x5a6ma",
+      "thumbnail": "https://media.guim.co.uk/6148a8f8868a44dcab2765333e9c737d5506cda6/0_130_2935_2349/500.jpg",
+      "published": "2026-06-20T06:00:02Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "lifeandstyle/2026/jun/20/why-are-pizzas-round-and-pizza-slices-triangle-shaped-the-kids-quiz",
+      "headline": "Why are pizzas round and pizza slices triangle-shaped? The kids’ quiz",
+      "summary": "Travel guide features Salerno as an affordable, charming base for exploring Italy's Amalfi coast by train and ferry.",
+      "url": "https://www.theguardian.com/p/x58k24",
+      "thumbnail": "https://media.guim.co.uk/eacb57c4a465cc40921e0e4c42034320c8af90ea/0_0_1595_1276/500.jpg",
+      "published": "2026-06-20T06:00:02Z",
+      "location": {
+        "name": "Salerno",
+        "lat": 40.6768,
+        "lng": 14.7685
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "lifeandstyle"
+    },
+    {
+      "id": "tv-and-radio/2026/jun/20/would-you-rather-decide-to-survive-romesh-ranganathans-gameshow-is-so-low-effort-its-almost-avant-garde",
+      "headline": "Would You Rather: Decide to Survive – Romesh Ranganathan’s gameshow is so low-effort it’s almost avant garde",
+      "summary": "Columnist examines whether Andy Burnham's Makerfield byelection victory demonstrates ability to govern Britain effectively.",
+      "url": "https://www.theguardian.com/p/x5a74d",
+      "thumbnail": "https://media.guim.co.uk/8a317f19f7c4ac0c69120268c0aa45cdff8ddcef/574_0_5242_4193/500.jpg",
+      "published": "2026-06-20T06:00:01Z",
+      "location": {
+        "name": "Makerfield",
+        "lat": 53.55,
+        "lng": -2.65
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "tv-and-radio"
+    },
+    {
+      "id": "commentisfree/2026/jun/20/andy-burnham-britain-makerfield-mp",
+      "headline": "Andy Burnham has shown that he can win. But can he govern Britain?",
+      "summary": "Conservatives win Aberdeen South in first Scottish byelection victory in 50 years, boosting Kemi Badenoch's net zero arguments.",
+      "url": "https://www.theguardian.com/p/x5anya",
+      "thumbnail": "https://media.guim.co.uk/f9ffeb7af92354d64248a035a97bb32760fa8697/1447_358_4060_3248/500.jpg",
+      "published": "2026-06-20T06:00:01Z",
+      "location": {
+        "name": "Aberdeen",
+        "lat": 57.1497,
+        "lng": -2.0943
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "commentisfree"
     }
   ]
 }
