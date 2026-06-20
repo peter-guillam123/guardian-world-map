@@ -1,28 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-19T23:47:11.470Z",
-    "story_count": 67,
-    "oldest_story": "2026-06-19T00:08:10Z",
-    "newest_story": "2026-06-19T23:05:52Z",
+    "generated_at": "2026-06-20T01:56:30.295Z",
+    "story_count": 70,
+    "oldest_story": "2026-06-19T04:40:35Z",
+    "newest_story": "2026-06-20T01:55:45Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/live/2026/jun/19/fifa-world-cup-2026-live-mexico-v-south-korea-updates-mex-vs-kor-group-a-match-score-latest",
-      "headline": "Mexico v South Korea: World Cup 2026 – live",
-      "summary": "Mexico faces South Korea in World Cup 2026 Group A match in Guadalajara.",
-      "url": "https://www.theguardian.com/p/x58pae",
-      "thumbnail": "https://media.guim.co.uk/fd18f807002e93e5e69c183642589661fe19a974/136_0_5000_4000/500.jpg",
-      "published": "2026-06-19T00:08:10Z",
-      "location": {
-        "name": "Guadalajara",
-        "lat": 20.6597,
-        "lng": -103.2494
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
     {
       "id": "news/2026/jun/19/antisemitism-royal-commission-conflation-of-jewish-identity-with-israel-jewish-council-submission-ntwnfb",
       "headline": "Conflation of Jewish identity with Israel driving antisemitism, Jewish Council says in submission to royal commission",
@@ -1078,6 +1062,70 @@
       "category": "sport",
       "significance": 2,
       "section": "football"
+    },
+    {
+      "id": "football/live/2026/jun/20/fifa-world-cup-2026-live-turkey-v-paraguay-updates-tur-vs-par-group-d-match-score-latest",
+      "headline": "Turkey v Paraguay: World Cup 2026 – live",
+      "summary": "Turkey and Paraguay compete for first World Cup 2026 points in San Francisco group match.",
+      "url": "https://www.theguardian.com/p/x593z3",
+      "thumbnail": "https://media.guim.co.uk/c73fa178d786d6dbb1f76d5ccae0a701232e3937/0_0_6645_5319/500.jpg",
+      "published": "2026-06-20T01:55:45Z",
+      "location": {
+        "name": "San Francisco",
+        "lat": 37.7749,
+        "lng": -122.4194
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/jun/19/usa-world-cup-zlatan-ibrahimovic-comments",
+      "headline": "US players agree with Zlatan Ibrahimovic that World Cup title is possible: ‘That’s our mindset’",
+      "summary": "US qualifies for World Cup knockout stage; Zlatan backs Americans as title contenders.",
+      "url": "https://www.theguardian.com/p/x5aqx8",
+      "thumbnail": "https://media.guim.co.uk/045639bb19e5402d4551f740618430498c77824b/714_295_3796_3038/500.jpg",
+      "published": "2026-06-20T01:39:23Z",
+      "location": {
+        "name": "United States",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/jun/20/trump-administration-latest-updates-today",
+      "headline": "Trump news at a glance: Israel-Hezbollah clashes ground Vance trip; Qatar jet is new Air Force One ",
+      "summary": "US-Iran peace talks cancelled in Switzerland due to Israel-Hezbollah clashes.",
+      "url": "https://www.theguardian.com/p/x5an7b",
+      "thumbnail": "https://media.guim.co.uk/d459295dcaa914d73e486712314dd411416e2e43/204_0_6210_4968/500.jpg",
+      "published": "2026-06-20T01:30:19Z",
+      "location": {
+        "name": "Switzerland",
+        "lat": 46.8182,
+        "lng": 8.2275
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "australia-news/2026/jun/20/australia-confirms-first-case-of-h5n1-bird-flu",
+      "headline": "Anthony Albanese says Australia’s first mainland case of deadly H5N1 bird flu ‘concerning’",
+      "summary": "Australia confirms first mainland H5N1 bird flu case in migratory seabird.",
+      "url": "https://www.theguardian.com/p/x5apty",
+      "thumbnail": "https://media.guim.co.uk/f2f8a47a29f191fffc6780b6a4734691034a9ff9/78_0_5243_4194/500.jpg",
+      "published": "2026-06-20T01:14:26Z",
+      "location": {
+        "name": "Western Australia",
+        "lat": -31.9505,
+        "lng": 115.8605
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "australia-news"
     }
   ]
 }
