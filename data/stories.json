@@ -1,76 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-20T15:56:53.764Z",
-    "story_count": 58,
-    "oldest_story": "2026-06-19T15:58:55Z",
-    "newest_story": "2026-06-20T15:00:04Z",
+    "generated_at": "2026-06-20T17:41:30.014Z",
+    "story_count": 54,
+    "oldest_story": "2026-06-19T17:54:35Z",
+    "newest_story": "2026-06-20T17:39:41Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "politics/2026/jun/19/nigel-farage-reform-makerfield-byelection",
-      "headline": "In Nigel Farage’s shoes, a less experienced politician might panic",
-      "summary": "Reform UK faces mixed byelection results as Nigel Farage's party leads polls.",
-      "url": "https://www.theguardian.com/p/x5anxj",
-      "thumbnail": "https://media.guim.co.uk/209cdf4f1f5652ba6eda344a0bdf450ef62f00ae/1470_0_3326_2663/500.jpg",
-      "published": "2026-06-19T16:13:42Z",
-      "location": {
-        "name": "Makerfield",
-        "lat": 53.55,
-        "lng": -2.65
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "uk-news/2026/jun/19/met-office-rare-amber-extreme-heat-warning-england-wales",
-      "headline": "Met Office issues rare amber extreme heat warning for parts of England and Wales",
-      "summary": "Met Office issues rare amber heat warning for England and Wales with temperatures reaching 30C.",
-      "url": "https://www.theguardian.com/p/x5an9t",
-      "thumbnail": "https://media.guim.co.uk/238053e119ab020c35f825a713df36a7ccf6508e/1342_164_5589_4471/500.jpg",
-      "published": "2026-06-19T16:06:21Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "uk-news/2026/jun/19/palestine-action-ban-and-the-right-to-protest",
-      "headline": "Palestine Action ban and the right to protest",
-      "summary": "Court upholds British government ban on Palestine Action protest movement.",
-      "url": "https://www.theguardian.com/p/x5a6z7",
-      "thumbnail": "https://media.guim.co.uk/5cdab6c5b21cdfb12f5326d77d551475b11941d3/333_0_3333_2667/500.jpg",
-      "published": "2026-06-19T16:03:45Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "artanddesign/2026/jun/19/david-hockney-remembered",
-      "headline": "David Hockney remembered",
-      "summary": "Readers share memories of artist David Hockney and his influence on art and culture.",
-      "url": "https://www.theguardian.com/p/x59yqv",
-      "thumbnail": "https://media.guim.co.uk/62836fba511de8b1a70f04ddaffc8c6f82efbbd2/1080_0_6090_4874/500.jpg",
-      "published": "2026-06-19T15:58:55Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "artanddesign"
-    },
     {
       "id": "uk-news/2026/jun/19/two-trains-collide-bedford",
       "headline": "Injuries reported after two trains collide near Bedford",
@@ -149,86 +85,6 @@
       },
       "category": "sport",
       "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "environment/2026/jun/19/pelicans-hatch-st-james-park-london",
-      "headline": "First pelicans in 360 years hatch in St James’s Park London ",
-      "summary": "First pelicans hatch in St James's Park in London after 360 years.",
-      "url": "https://www.theguardian.com/p/x5anqm",
-      "thumbnail": "https://media.guim.co.uk/b4f765796243058b8dcfa1031984247fec380cbc/298_0_5800_4640/500.jpg",
-      "published": "2026-06-19T17:32:46Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "environment"
-    },
-    {
-      "id": "us-news/2026/jun/19/georgia-federal-immigration-detention-center",
-      "headline": "Revolt in small Georgia town appears to ward off ICE detention center",
-      "summary": "Georgia town successfully blocks massive ICE immigration detention center plans.",
-      "url": "https://www.theguardian.com/p/x5az59",
-      "thumbnail": "https://media.guim.co.uk/d14e3cf571c757e142d1485573471dc988ef5390/534_0_4867_3893/500.jpg",
-      "published": "2026-06-19T17:32:40Z",
-      "location": {
-        "name": "Social Circle",
-        "lat": 33.5886,
-        "lng": -83.731
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "news/2026/jun/19/global-framework-reparations-justice-adopted-at-landmark-conference-in-accra-ghana",
-      "headline": "Global framework for reparatory justice adopted at landmark conference in Ghana",
-      "summary": "Global framework for reparatory justice adopted at landmark Ghana conference.",
-      "url": "https://www.theguardian.com/p/x5amtv",
-      "thumbnail": "https://media.guim.co.uk/c388c02e62fcbc0aaa7507bd6786c18caf58e6e8/453_0_4525_3620/500.jpg",
-      "published": "2026-06-19T17:26:45Z",
-      "location": {
-        "name": "Accra",
-        "lat": 5.6037,
-        "lng": -0.187
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "news"
-    },
-    {
-      "id": "politics/2026/jun/19/andy-burnham-avoids-press-queries-staff-no-doubts-makerfield",
-      "headline": "Celebrations and a swift exit after a Burnham win ‘beyond our wildest dreams’",
-      "summary": "Andy Burnham elected new MP for Makerfield in victory celebrated by Labour.",
-      "url": "https://www.theguardian.com/p/x5amde",
-      "thumbnail": "https://media.guim.co.uk/5987a65c6e0e6280152cf6361e27140a02f421c6/671_0_6688_5353/500.jpg",
-      "published": "2026-06-19T17:10:15Z",
-      "location": {
-        "name": "Makerfield",
-        "lat": 53.4833,
-        "lng": -2.65
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "sport/2026/jun/19/royal-ascot-horse-racing-commonwealth-cup-venetian-sun",
-      "headline": "Venetian Sun shines at Royal Ascot as Brighton’s Bloom lands another bargain",
-      "summary": "Venetian Sun wins Commonwealth Cup at Royal Ascot, bought for just £250,000.",
-      "url": "https://www.theguardian.com/p/x5amyb",
-      "thumbnail": "https://media.guim.co.uk/6046757a8b96e2c01eaedbba381be7cea33caf21/814_0_5000_4000/500.jpg",
-      "published": "2026-06-19T17:10:07Z",
-      "location": {
-        "name": "Ascot",
-        "lat": 51.4167,
-        "lng": -0.6667
-      },
-      "category": "sport",
-      "significance": 1,
       "section": "sport"
     },
     {
@@ -930,6 +786,86 @@
         "name": "Ohio",
         "lat": 40.3888,
         "lng": -82.7649
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "sport/live/2026/jun/20/england-v-scotland-womens-t20-cricket-world-cup-live",
+      "headline": "England v Scotland: Women’s T20 Cricket World Cup – live",
+      "summary": "England women face Scotland in T20 Cricket World Cup group stage at Headingley.",
+      "url": "https://www.theguardian.com/p/x5amym",
+      "thumbnail": "https://media.guim.co.uk/05367634eb9cb6a577ab242a54aa7cedf166e887/232_0_3300_2640/500.jpg",
+      "published": "2026-06-20T17:39:41Z",
+      "location": {
+        "name": "Leeds",
+        "lat": 53.8175,
+        "lng": -1.5373
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "sport"
+    },
+    {
+      "id": "uk-news/2026/jun/20/counter-terrorism-officers-investigate-after-five-injured-in-violent-incidents-in-edinburgh",
+      "headline": "Counter-terrorism officers investigate after five injured in violent incidents in Edinburgh ",
+      "summary": "Counter-terrorism officers investigate violent incidents in Edinburgh leaving five injured.",
+      "url": "https://www.theguardian.com/p/x5b2h6",
+      "thumbnail": "https://media.guim.co.uk/88f8cdf6e5f6cce7a3c180c403cba7e43d6fd325/252_0_3780_3024/500.jpg",
+      "published": "2026-06-20T17:32:11Z",
+      "location": {
+        "name": "Edinburgh",
+        "lat": 55.9533,
+        "lng": -3.1883
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "world/2026/jun/20/israeli-strikes-southern-lebanon-reports-renewed-ceasefire",
+      "headline": "Iran says it is closing strait of Hormuz over Israeli strikes in Lebanon",
+      "summary": "Iran threatens to close Strait of Hormuz following Israeli strikes in Lebanon.",
+      "url": "https://www.theguardian.com/p/x5bvqq",
+      "thumbnail": "https://media.guim.co.uk/52db905d7fe5136887b0339a32b14ce832b0cf7c/323_0_3280_2624/500.jpg",
+      "published": "2026-06-20T17:25:38Z",
+      "location": {
+        "name": "Lebanon",
+        "lat": 33.8547,
+        "lng": 35.8623
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "sport/2026/jun/20/northampton-great-entertainers-exeter-prem-final-rugby-union",
+      "headline": "Northampton’s great entertainers provide fitting ending to glorious Prem season",
+      "summary": "Northampton Saints defeat Exeter in Premiership rugby final, capping dominant season.",
+      "url": "https://www.theguardian.com/p/x5ap3a",
+      "thumbnail": "https://media.guim.co.uk/aa111a47108e26d18bc567887adf45fc95476dd2/1212_43_2875_2300/500.jpg",
+      "published": "2026-06-20T17:24:52Z",
+      "location": {
+        "name": "Northampton",
+        "lat": 52.2411,
+        "lng": -0.8919
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "us-news/2026/jun/20/democrats-new-york-congressional-race",
+      "headline": "A Kennedy, a ‘nerd’, an ex-Republican and a tech target: New York races toward a House seat",
+      "summary": "Four Democrats including Kennedy vie for Jerry Nadler's safe seat in NY-12 primary.",
+      "url": "https://www.theguardian.com/p/x5atev",
+      "thumbnail": "https://media.guim.co.uk/35e018fd689bc3898baba40a04120830776951e1/456_0_4560_3648/500.jpg",
+      "published": "2026-06-20T16:54:10Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
       },
       "category": "politics",
       "significance": 2,
