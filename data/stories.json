@@ -1,236 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-20T11:55:42.653Z",
-    "story_count": 71,
-    "oldest_story": "2026-06-19T12:42:06Z",
-    "newest_story": "2026-06-20T11:47:59Z",
+    "generated_at": "2026-06-20T14:19:39.020Z",
+    "story_count": 61,
+    "oldest_story": "2026-06-19T15:16:29Z",
+    "newest_story": "2026-06-20T14:14:47Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "sport/live/2026/jun/19/royal-ascot-2026-horse-racing-updates-day-four-commonwealth-cup-coronation-stakes-live",
-      "headline": "Royal Ascot 2026: horse racing updates from day four – live",
-      "summary": "Royal Ascot day four features Commonwealth Cup and Coronation Stakes races with live updates.",
-      "url": "https://www.theguardian.com/p/x5amdk",
-      "thumbnail": "https://media.guim.co.uk/e656e9ddc3aff6351a8e7a2ce4b52b0f1769d1a2/196_0_2961_2370/500.jpg",
-      "published": "2026-06-19T13:43:08Z",
-      "location": {
-        "name": "Ascot",
-        "lat": 51.4084,
-        "lng": -0.6689
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "environment/2026/jun/19/factory-forever-chemicals-kidney-cancer-blackpool",
-      "headline": "Kidney cancer rates near Pfas factory in Lancashire a ‘major source of concern’",
-      "summary": "Kidney cancer rates near PFOA-emitting factory raise concerns about government study conclusions.",
-      "url": "https://www.theguardian.com/p/x5at5a",
-      "thumbnail": "https://media.guim.co.uk/8d5eece4859dbf45a7a87d6eef6fa5c92e4dd98f/250_0_3747_2998/500.jpg",
-      "published": "2026-06-19T13:42:25Z",
-      "location": {
-        "name": "Blackpool",
-        "lat": 53.8165,
-        "lng": -3.0526
-      },
-      "category": "health",
-      "significance": 3,
-      "section": "environment"
-    },
-    {
-      "id": "politics/2026/jun/19/andy-burnham-makerfield-byelection-labour-leadership-rally-speech",
-      "headline": "Mystic on a mission Burnham all smiles after Makerfield coronation",
-      "summary": "Andy Burnham wins Makerfield byelection with over 50% of vote in Labour leadership context.",
-      "url": "https://www.theguardian.com/p/x5anvj",
-      "thumbnail": "https://media.guim.co.uk/04fce4dcbad721ca443b4bb08bd69c7fbdbd765a/595_0_5833_4667/500.jpg",
-      "published": "2026-06-19T13:35:48Z",
-      "location": {
-        "name": "Makerfield",
-        "lat": 53.55,
-        "lng": -2.6833
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "politics"
-    },
-    {
-      "id": "money/2026/jun/19/what-could-us-iran-peace-deal-mean-for-uk-household-costs",
-      "headline": "What could US-Iran peace deal mean for UK household costs?",
-      "summary": "US-Iran peace deal could impact UK household costs for petrol, food, energy and mortgages.",
-      "url": "https://www.theguardian.com/p/x5ah7b",
-      "thumbnail": "https://media.guim.co.uk/3259770894a60c7afb8a763cbdc03493657dc061/572_114_4958_3969/500.jpg",
-      "published": "2026-06-19T13:35:35Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "money"
-    },
-    {
-      "id": "media/2026/jun/19/social-media-alternatives-under-16s-uk-government-ban",
-      "headline": "Read a book? Join a club? Stare at a wall? Social media alternatives for under-16s",
-      "summary": "UK government proposes social media ban for under-16s, prompting discussion of alternatives.",
-      "url": "https://www.theguardian.com/p/x5ac5b",
-      "thumbnail": "https://media.guim.co.uk/9cad43ee181d29a7367e1731dd1f3836eeed7ad3/243_0_4514_3610/500.jpg",
-      "published": "2026-06-19T13:20:40Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "media"
-    },
-    {
-      "id": "us-news/2026/jun/19/bill-pulte-acting-director-national-intelligence-timeline",
-      "headline": "Timeline of Bill Pulte’s appointment as acting director of national intelligence",
-      "summary": "Bill Pulte becomes acting director of national intelligence, sparking concerns over experience.",
-      "url": "https://www.theguardian.com/p/x5acph",
-      "thumbnail": "https://media.guim.co.uk/3fc733d58bc0107482f9bdf67156cabde8386c3f/471_0_4874_3901/500.jpg",
-      "published": "2026-06-19T13:13:35Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/jun/19/bill-pulte-acting-director-national-intelligence",
-      "headline": "Bill Pulte assumes role of US acting director of national intelligence",
-      "summary": "Bill Pulte assumes role as US acting director of national intelligence replacing Gabbard.",
-      "url": "https://www.theguardian.com/p/x5amp5",
-      "thumbnail": "https://media.guim.co.uk/c5e1c2baebe10ed0f7f766bfefbb27c9e3d3deae/425_0_4245_3397/500.jpg",
-      "published": "2026-06-19T13:13:01Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "world/2026/jun/19/normal-shipping-will-not-resume-in-strait-of-hormuz-until-mines-cleared",
-      "headline": "Normal shipping will not resume in strait of Hormuz until 80 mines cleared",
-      "summary": "About 80 mines block Strait of Hormuz; normal shipping cannot resume until cleared.",
-      "url": "https://www.theguardian.com/p/x5a5hn",
-      "thumbnail": "https://media.guim.co.uk/0aff28fac5b0b6adace5ccd3f98a48f5c6927f42/0_0_2920_2336/500.jpg",
-      "published": "2026-06-19T13:12:09Z",
-      "location": {
-        "name": "Strait of Hormuz",
-        "lat": 26.55,
-        "lng": 56.2667
-      },
-      "category": "economy",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "uk-news/2026/jun/19/digested-week-g7-summit-hot-mic-moments",
-      "headline": "Digested week: Struggling bees and the G7’s hot mics may speak volumes",
-      "summary": "G7 summit highlights concerns about struggling insects and world leaders' off-cuff remarks.",
-      "url": "https://www.theguardian.com/p/x5am44",
-      "thumbnail": "https://media.guim.co.uk/86735f4accd21fabe477089a7c0465ff4381f272/536_0_2971_2378/500.jpg",
-      "published": "2026-06-19T13:11:59Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "other",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "politics/2026/jun/19/facts-and-figures-makerfield-byelection-result-numbers",
-      "headline": "Facts and figures: the Makerfield byelection result in numbers",
-      "summary": "Makerfield byelection analysis: Labour's Burnham secures 54.82% vote share decisively.",
-      "url": "https://www.theguardian.com/p/x5amyx",
-      "thumbnail": "https://media.guim.co.uk/59f261cb8f2d2414deea48e51160708f7a238154/583_0_6880_5504/500.jpg",
-      "published": "2026-06-19T13:09:57Z",
-      "location": {
-        "name": "Makerfield",
-        "lat": 53.55,
-        "lng": -2.6833
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "politics/2026/jun/19/ount-binface-fox-raving-loony-uk-proud-history-costumed-candidates",
-      "headline": "Binface, foxes and raving loonies: the UK’s proud history of costumed candidates",
-      "summary": "UK's tradition of satirical candidates on display at Makerfield byelection with costumed rivals.",
-      "url": "https://www.theguardian.com/p/x5amj7",
-      "thumbnail": "https://media.guim.co.uk/d6fefc8adbcb62c03b8404d8b5d4bd35c8228bd7/788_0_6107_4885/500.jpg",
-      "published": "2026-06-19T13:01:03Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "us-news/2026/jun/19/first-thing-us-iran-peace-talks-cancelled-israeli-strikes-lebanon",
-      "headline": "First Thing: US-Iran peace talks abruptly cancelled amid renewed Israeli strikes in Lebanon",
-      "summary": "US-Iran peace talks abruptly cancelled amid renewed Israeli strikes in Lebanon.",
-      "url": "https://www.theguardian.com/p/x5aj5a",
-      "thumbnail": "https://media.guim.co.uk/641062c33a201363fa449ed8a050b0cea7f114f9/1095_0_6827_5464/500.jpg",
-      "published": "2026-06-19T12:46:21Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "us-news"
-    },
-    {
-      "id": "uk-news/2026/jun/19/man-released-police-boy-three-zoo-crocodile-enclosure-cambridgeshire",
-      "headline": "Man released on bail after boy, three, critically injured in zoo crocodile enclosure",
-      "summary": "Man released on bail after 3-year-old critically injured in zoo crocodile enclosure incident.",
-      "url": "https://www.theguardian.com/p/x5amhx",
-      "thumbnail": "https://media.guim.co.uk/5e5720feab60173a48974904dd253018ad0a4777/454_0_4548_3640/500.jpg",
-      "published": "2026-06-19T12:44:56Z",
-      "location": {
-        "name": "Cambridgeshire",
-        "lat": 52.2,
-        "lng": -0.1
-      },
-      "category": "conflict",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "football/2026/jun/19/i-paid-800-for-my-ticket-but-it-was-worth-it-england-fans-enjoying-early-world-cup-vibe",
-      "headline": "‘I paid $800 for my ticket but it was worth it’: England fans enjoying early World Cup vibe",
-      "summary": "England fans celebrate World Cup opener win against Croatia in Dallas with expensive tickets.",
-      "url": "https://www.theguardian.com/p/x5ajkv",
-      "thumbnail": "https://media.guim.co.uk/5e4ae1e2d0e34c709666a725de6bd34128b9f91b/422_0_4218_3375/500.jpg",
-      "published": "2026-06-19T12:42:06Z",
-      "location": {
-        "name": "Dallas",
-        "lat": 32.7767,
-        "lng": -96.797
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
     {
       "id": "politics/2026/jun/19/nigel-farage-reform-makerfield-byelection",
       "headline": "In Nigel Farage’s shoes, a less experienced politician might panic",
@@ -1142,6 +918,70 @@
       "category": "politics",
       "significance": 2,
       "section": "global"
+    },
+    {
+      "id": "football/live/2026/jun/20/world-cup-2026-scotland-morocco-usa-australia-netherlands-sweden-germany-cote-d-ivoire-ecuador-curacao-tunisia-japan",
+      "headline": "World Cup 2026: USA’s ‘high IQ’ squad backed to handle hype; Casemiro heading for Miami; Sweden’s Dutch test– live",
+      "summary": "World Cup 2026 coverage featuring USA squad, Netherlands, Germany, and Sweden matches.",
+      "url": "https://www.theguardian.com/p/x5anxh",
+      "thumbnail": "https://media.guim.co.uk/13c4e334aed54bdbfaf984ad158b2a88317e7bf6/239_0_4276_3420/500.jpg",
+      "published": "2026-06-20T14:14:47Z",
+      "location": {
+        "name": "United States",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/jun/20/ice-investigation-new-york-new-jersey",
+      "headline": "‘They have all the power’: investigation finds that 93% of ICE arrests targeted Latinos",
+      "summary": "Investigation reveals 93% of ICE arrests in NY-NJ region targeted Latino communities.",
+      "url": "https://www.theguardian.com/p/x58hcy",
+      "thumbnail": "https://media.guim.co.uk/77e73e27826813d7fc9ff32d224b85dcb29d4691/56_0_1705_1365/500.jpg",
+      "published": "2026-06-20T14:00:03Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/jun/20/trump-reflecting-pool-renovation-vandalism",
+      "headline": "Trump acknowledges ‘real problems’ at reflecting pool after $14m makeover, blaming ‘vandalism’",
+      "summary": "Trump's $14m reflecting pool renovation faces algae bloom and peeling paint issues.",
+      "url": "https://www.theguardian.com/p/x5bxdh",
+      "thumbnail": "https://media.guim.co.uk/fd7c31c8e57629b1b841d1bba73ce8e35a3044d6/630_0_6988_5591/500.jpg",
+      "published": "2026-06-20T13:57:54Z",
+      "location": {
+        "name": "Washington",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/jun/20/turkey-exit-tears-world-cup-2026-football-daily-newsletter",
+      "headline": "Turkey need another rebrand after failing to take flight at World Cup",
+      "summary": "Turkey exits World Cup 2026 early, requiring strategic rebrand after poor performance.",
+      "url": "https://www.theguardian.com/p/x5azn7",
+      "thumbnail": "https://media.guim.co.uk/f6c91522d77c206b699a91ec7ce5bb8a2b2847df/76_0_1896_1516/500.jpg",
+      "published": "2026-06-20T13:22:15Z",
+      "location": {
+        "name": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
     }
   ]
 }
