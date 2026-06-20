@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-06-20T06:38:05.914Z",
-    "story_count": 70,
-    "oldest_story": "2026-06-19T08:56:19Z",
-    "newest_story": "2026-06-20T06:00:04Z",
+    "generated_at": "2026-06-20T09:53:24.365Z",
+    "story_count": 66,
+    "oldest_story": "2026-06-19T09:53:49Z",
+    "newest_story": "2026-06-20T09:53:12Z",
     "window_hours": 24
   },
   "stories": [
@@ -102,166 +102,6 @@
       "category": "sport",
       "significance": 3,
       "section": "football"
-    },
-    {
-      "id": "politics/2026/jun/19/starmer-says-will-stand-in-labour-leadership-contest-burnham",
-      "headline": "Starmer says he will stand in any Labour leadership contest against Burnham",
-      "summary": "PM Starmer vows to contest Labour leadership election against Andy Burnham.",
-      "url": "https://www.theguardian.com/p/x5am6j",
-      "thumbnail": "https://media.guim.co.uk/b9455e0323a84df96a926b2babfcc57fd4715bf4/373_0_2750_2200/500.jpg",
-      "published": "2026-06-19T09:52:17Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "politics"
-    },
-    {
-      "id": "politics/2026/jun/19/what-would-change-look-like-if-andy-burnham-becomes-prime-minister",
-      "headline": "What would ‘change’ look like if Andy Burnham becomes prime minister?",
-      "summary": "Analysis of Andy Burnham's potential policies if he becomes prime minister.",
-      "url": "https://www.theguardian.com/p/x5aym6",
-      "thumbnail": "https://media.guim.co.uk/55cffcdfdab6774a11fab81b105be495806bbd99/68_0_4654_3724/500.jpg",
-      "published": "2026-06-19T09:51:40Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "business/live/2026/jun/19/uk-borrowing-surges-over-forecasts-in-may-spending-pound-bonds-borrowing-latest-news-updates",
-      "headline": "UK public finances under pressure after surge in borrowing; water company shares fall after Burnham win – business live",
-      "summary": "UK borrowing surges over forecasts in May; bond yields rise amid political uncertainty.",
-      "url": "https://www.theguardian.com/p/x5aycb",
-      "thumbnail": "https://media.guim.co.uk/95edf9e6b3ae5f8ab6c89efefb6e8d0b34729d52/580_0_5803_4644/500.jpg",
-      "published": "2026-06-19T09:41:22Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "politics/2026/jun/19/labour-peer-thangam-debbonaire-reform-mp-sarah-pochin-clash-makerfield",
-      "headline": "Labour peer and Reform MP clash over ‘brown people’ and domestic abuse",
-      "summary": "Labour peer and Reform MP clash over race and domestic abuse at Makerfield count.",
-      "url": "https://www.theguardian.com/p/x5aykk",
-      "thumbnail": "https://media.guim.co.uk/a9e744331461a63dc2295f75fd8b8c7729210fc1/2709_125_2502_2001/500.jpg",
-      "published": "2026-06-19T09:37:01Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "business/2026/jun/19/hot-weather-rise-uk-retail-sales-may",
-      "headline": "Shoppers splash out on fans and paddling pools as retail sales in Great Britain hot up",
-      "summary": "UK retail sales surge 1.2% in May as heatwave drives fan and paddling pool purchases.",
-      "url": "https://www.theguardian.com/p/x5ayek",
-      "thumbnail": "https://media.guim.co.uk/c7fd28c18bbdccffa4507179fca4df7838e08af9/849_0_4320_3456/500.jpg",
-      "published": "2026-06-19T09:36:28Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "film/2026/jun/19/how-refugee-week-film-festival-brings-migrants-experience-home",
-      "headline": "How Refugee Week film festival brings migrants’ experience home",
-      "summary": "Refugee Week film festival brings migrant experiences to audiences across UK.",
-      "url": "https://www.theguardian.com/p/x58m3m",
-      "thumbnail": "https://media.guim.co.uk/b6ee0a4b725309820977dda617cfd2bd91f2db8a/888_167_2316_1853/500.jpg",
-      "published": "2026-06-19T09:29:01Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "film"
-    },
-    {
-      "id": "environment/2026/jun/18/heathrow-third-runway-likely-to-affect-health-millions-people-nearby-official-report",
-      "headline": "Heathrow third runway likely to harm health of millions nearby, official report warns",
-      "summary": "Heathrow third runway expansion could harm health of 3 million nearby residents.",
-      "url": "https://www.theguardian.com/p/x5ah8y",
-      "thumbnail": "https://media.guim.co.uk/680462fedefba22a57352e67b28aa6f833c2f3ae/412_0_4103_3283/500.jpg",
-      "published": "2026-06-19T09:14:29Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "health",
-      "significance": 3,
-      "section": "environment"
-    },
-    {
-      "id": "fashion/2026/jun/19/changing-rooms-high-street-shops",
-      "headline": "‘How am I supposed to know if it’s cute on me?’ The strange death of the changing room",
-      "summary": "High street shops explore removing changing rooms amid rise in online shopping.",
-      "url": "https://www.theguardian.com/p/x5a64p",
-      "thumbnail": "https://media.guim.co.uk/f66f77d1c5708a7d9e7201a96c3845e60f628e7c/0_1819_3840_3072/500.jpg",
-      "published": "2026-06-19T09:06:36Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 1,
-      "section": "fashion"
-    },
-    {
-      "id": "sport/2026/jun/19/spencer-strider-braves-vegan-bernie-sanders-baseball",
-      "headline": "Spencer Strider: MLB’s Bernie Bro on veganism, Trash Panda, and fighting racism and homophobia",
-      "summary": "Braves pitcher Spencer Strider discusses his vegan lifestyle and activism on social justice issues.",
-      "url": "https://www.theguardian.com/p/x5at7q",
-      "thumbnail": "https://media.guim.co.uk/f72862a21cf62735c4f38ee464800b090eef9672/414_0_3000_2400/500.jpg",
-      "published": "2026-06-19T09:00:28Z",
-      "location": {
-        "name": "Atlanta",
-        "lat": 33.749,
-        "lng": -84.388
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "australia-news/2026/jun/19/australia-bird-flu-deadly-h5n1-first-suspected-case-wa",
-      "headline": "Mainland Australia’s first suspected case of deadly H5N1 investigated after seabird tests positive for bird flu",
-      "summary": "Australia's first suspected mainland case of deadly H5N1 bird flu detected in migratory seabird in WA.",
-      "url": "https://www.theguardian.com/p/x5aydh",
-      "thumbnail": "https://media.guim.co.uk/421505a79c724d8b7ff1f7aef5d24ca4c2a962ee/649_0_6490_5192/500.jpg",
-      "published": "2026-06-19T08:56:19Z",
-      "location": {
-        "name": "Western Australia",
-        "lat": -34.0833,
-        "lng": 121.3167
-      },
-      "category": "health",
-      "significance": 3,
-      "section": "australia-news"
     },
     {
       "id": "sport/live/2026/jun/19/royal-ascot-2026-horse-racing-updates-day-four-commonwealth-cup-coronation-stakes-live",
@@ -1126,6 +966,102 @@
       "category": "politics",
       "significance": 3,
       "section": "commentisfree"
+    },
+    {
+      "id": "sport/live/2026/jun/20/australia-v-netherlands-womens-t20-cricket-world-cup-2026-live",
+      "headline": "Australia v Netherlands: Women’s T20 World Cup 2026 – live",
+      "summary": "Australia faces Netherlands in Women's T20 World Cup 2026 at Rose Bowl Southampton.",
+      "url": "https://www.theguardian.com/p/x5aym5",
+      "thumbnail": "https://media.guim.co.uk/4380e219505008d77992d1a057116239d9fc648f/137_0_2381_1905/500.jpg",
+      "published": "2026-06-20T09:53:12Z",
+      "location": {
+        "name": "Southampton",
+        "lat": 50.905,
+        "lng": -1.4043
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "sport/live/2026/jun/20/england-v-new-zealand-second-mens-test-day-four-live",
+      "headline": "England v New Zealand: second men’s Test, day four – live",
+      "summary": "England plays New Zealand in second men's Test, day four at the Oval cricket ground.",
+      "url": "https://www.theguardian.com/p/x5amcy",
+      "thumbnail": "https://media.guim.co.uk/d85ed0f4d9a4ce14e4a798ece624931ac95e29ba/0_0_3500_2800/500.jpg",
+      "published": "2026-06-20T09:50:51Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "sport/live/2026/jun/20/stokes-and-atkinson-in-action-essex-v-notts-and-more-county-cricket-live",
+      "headline": "Stokes and Atkinson in action, Essex v Notts, and more: county cricket – live ",
+      "summary": "County cricket updates featuring Stokes and multiple Division One fixtures across England.",
+      "url": "https://www.theguardian.com/p/x5amh5",
+      "thumbnail": "https://media.guim.co.uk/d6965f96bc0450d3d928fcc226f68bf2583def3b/306_0_2534_2027/500.jpg",
+      "published": "2026-06-20T09:38:32Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "uk-news/2026/jun/20/motorway-traffic-drones-driving-distraction-virtual-reality-simulation",
+      "headline": "Motorway traffic drones are coming to UK roads, but will they drive us to distraction?",
+      "summary": "UK motorways to trial low-flying traffic drones; National Highways tests driver distraction.",
+      "url": "https://www.theguardian.com/p/x5aj4v",
+      "thumbnail": "https://media.guim.co.uk/a8ce33c4ef4590b5ae60e31f47c7c0b08d191b07/537_0_6373_5099/500.jpg",
+      "published": "2026-06-20T09:17:47Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "tech",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "us-news/ng-interactive/2026/jun/20/trump-dc-makeover-frenzy",
+      "headline": "Trump’s DC makeover frenzy bewilders locals and visitors: ‘It’s like we’re under occupation’",
+      "summary": "Trump's extensive DC renovation projects reshape capital landscape amid local concerns.",
+      "url": "https://www.theguardian.com/p/x5abme",
+      "thumbnail": "https://media.guim.co.uk/e90bd0ffb0a9b95292dbc2c8e0c2c88b3a75f77a/115_360_2285_1827/500.jpg",
+      "published": "2026-06-20T09:00:05Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "environment/2026/jun/20/coal-to-cabernet-wine-seller-flooded-mine-cut-heating-bills",
+      "headline": "From coal to cabernet: the wine seller using a flooded mine to cut heating bills",
+      "summary": "Lanchester Wines uses heat from flooded coalmine for sustainable wine storage in northeast England.",
+      "url": "https://www.theguardian.com/p/x5a6vf",
+      "thumbnail": "https://media.guim.co.uk/46902d2624a837df2f71a207b31c9c71890efe3d/359_0_3125_2500/500.jpg",
+      "published": "2026-06-20T09:00:05Z",
+      "location": {
+        "name": "Durham",
+        "lat": 54.7753,
+        "lng": -1.5823
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "environment"
     }
   ]
 }
