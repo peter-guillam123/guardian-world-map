@@ -1,172 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-21T17:56:38.228Z",
-    "story_count": 76,
-    "oldest_story": "2026-06-20T18:00:46Z",
-    "newest_story": "2026-06-21T17:50:17Z",
+    "generated_at": "2026-06-21T19:55:50.548Z",
+    "story_count": 69,
+    "oldest_story": "2026-06-20T19:57:32Z",
+    "newest_story": "2026-06-21T19:50:45Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "fashion/2026/jun/20/nothing-succeeds-like-excess-at-dolce-gabbanas-milan-menswear-show",
-      "headline": "Nothing succeeds like excess at Dolce & Gabbana’s Milan menswear show",
-      "summary": "Dolce & Gabbana showcases flamboyant menswear collection at Milan fashion week.",
-      "url": "https://www.theguardian.com/p/x5b2mj",
-      "thumbnail": "https://media.guim.co.uk/19e1e333181a158b5886b87a68fee12f4ce221fd/22_180_2699_2160/500.jpg",
-      "published": "2026-06-20T18:55:57Z",
-      "location": {
-        "name": "Milan",
-        "lat": 45.4642,
-        "lng": 9.19
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "fashion"
-    },
-    {
-      "id": "football/live/2026/jun/20/germany-v-cote-divoire-world-cup-2026-live",
-      "headline": "Germany v Côte d’Ivoire: World Cup 2026 – live ",
-      "summary": "Germany faces Côte d'Ivoire in World Cup 2026 match after training in North Carolina.",
-      "url": "https://www.theguardian.com/p/x5aha8",
-      "thumbnail": "https://media.guim.co.uk/1c7d186c5eb062e018aea4631685ea40875a17d4/314_0_4829_3866/500.jpg",
-      "published": "2026-06-20T18:55:04Z",
-      "location": {
-        "name": "North Carolina",
-        "lat": 35.7596,
-        "lng": -79.0193
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "sport/live/2026/jun/20/us-open-2026-moving-day-golf-updates-from-third-round-live",
-      "headline": "US Open 2026: Moving Day updates from third round – live",
-      "summary": "US Open golf tournament third round underway at Shinnecock Hills.",
-      "url": "https://www.theguardian.com/p/x5ameq",
-      "thumbnail": "https://media.guim.co.uk/28e2dfa77ac995b3e5af68dd17b45702471e308e/361_0_2680_2145/500.jpg",
-      "published": "2026-06-20T18:54:29Z",
-      "location": {
-        "name": "Southampton",
-        "lat": 50.9355,
-        "lng": -1.4404
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "football/2026/jun/20/take-me-home-country-roads-world-cup-usmnt",
-      "headline": "Take me home: why Country Roads has struck a chord at the World Cup",
-      "summary": "John Denver's 'Country Roads' resonates with US fans at World Cup 2026.",
-      "url": "https://www.theguardian.com/p/x5b2fz",
-      "thumbnail": "https://media.guim.co.uk/b041f51279c7884d8445b48ec3ce355b166caf88/607_0_4631_3705/500.jpg",
-      "published": "2026-06-20T18:45:16Z",
-      "location": {
-        "name": "Seattle",
-        "lat": 47.6062,
-        "lng": -122.3321
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "us-news/2026/jun/20/lapd-releases-footage-officers-dog",
-      "headline": "LAPD releases footage of moment officers shot and killed woman’s dog",
-      "summary": "LAPD releases footage of officers shooting dog in Canoga Park apartment hallway.",
-      "url": "https://www.theguardian.com/p/x5b2k9",
-      "thumbnail": "https://media.guim.co.uk/70bb6073917348221f48be01d73137eb4e1051ae/0_0_1200_960/500.jpg",
-      "published": "2026-06-20T18:43:38Z",
-      "location": {
-        "name": "Los Angeles",
-        "lat": 34.0522,
-        "lng": -118.2437
-      },
-      "category": "other",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "sport/2026/jun/20/england-mess-second-test-new-zealand-brendon-mccullum-era-cricket",
-      "headline": "England are a mess in this Test: isn’t it about time the Brendon McCullum era ended?",
-      "summary": "England struggles in second Test against New Zealand amid criticism of coach McCullum.",
-      "url": "https://www.theguardian.com/p/x5azyd",
-      "thumbnail": "https://media.guim.co.uk/a2c48c6a3bf4d24171df5cbe63df9e3b6e09447d/414_0_4592_3674/500.jpg",
-      "published": "2026-06-20T18:33:09Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "football/2026/jun/20/rashford-and-rice-give-england-boost-for-ghana-but-saka-set-for-bench-again",
-      "headline": "Rashford and Rice give England boost for Ghana with Saka set for bench again",
-      "summary": "Rashford and Rice recover from injuries ahead of England's World Cup match against Ghana.",
-      "url": "https://www.theguardian.com/p/x5b2jy",
-      "thumbnail": "https://media.guim.co.uk/cf27674feebee5478da209b0a6e7d3da64101f56/367_0_3674_2939/500.jpg",
-      "published": "2026-06-20T18:19:07Z",
-      "location": {
-        "name": "England",
-        "lat": 52.3555,
-        "lng": -1.1743
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "us-news/2026/jun/20/texas-spacex-musk-beach-environmentalists",
-      "headline": "Texas environmentalists lose bid to block Musk’s SpaceX from closing beach",
-      "summary": "Texas court rules SpaceX can close Boca Chica Beach during rocket launches.",
-      "url": "https://www.theguardian.com/p/x5b2h8",
-      "thumbnail": "https://media.guim.co.uk/1f98997c5d850dc2b0d32f06772756db6ee23eba/457_0_7217_5773/500.jpg",
-      "published": "2026-06-20T18:17:15Z",
-      "location": {
-        "name": "Texas",
-        "lat": 31.9686,
-        "lng": -99.9018
-      },
-      "category": "tech",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "football/2026/jun/20/scotland-2026-world-cup-destiny-morocco-brazil-steve-clarke",
-      "headline": "Scotland’s World Cup destiny is in their own hands but lack of gamechangers shows",
-      "summary": "Scotland loses to Morocco in World Cup 2026, faces Brazil with qualification hopes intact.",
-      "url": "https://www.theguardian.com/p/x5b2fb",
-      "thumbnail": "https://media.guim.co.uk/c82428aed1d90d955df6c3486519fd28f582af99/538_0_4967_3974/500.jpg",
-      "published": "2026-06-20T18:13:50Z",
-      "location": {
-        "name": "Scotland",
-        "lat": 56.4907,
-        "lng": -4.2026
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "sport/2026/jun/20/joe-root-defiant-as-england-set-463-to-win-but-new-zealand-close-in-on-levelling-series",
-      "headline": "England’s Joe Root makes more history but New Zealand close in on levelling series",
-      "summary": "Joe Root makes history as England sets 463-run target against New Zealand in Test cricket.",
-      "url": "https://www.theguardian.com/p/x5azk9",
-      "thumbnail": "https://media.guim.co.uk/03375ee513f8008e218f90a30cf353d0326406f4/361_0_5161_4128/500.jpg",
-      "published": "2026-06-20T18:00:46Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
     {
       "id": "football/2026/jun/20/world-cup-baby-joy-norway-leo-ostigard-jeremy-doku-belgium-plans-birth",
       "headline": "World Cup baby joy for Norway’s Østigård while Doku plans to fly home for birth",
@@ -294,22 +134,6 @@
       "category": "sport",
       "significance": 2,
       "section": "sport"
-    },
-    {
-      "id": "us-news/2026/jun/20/grand-canyon-extreme-heat-watch",
-      "headline": "Grand Canyon on ‘extreme heat’ watch, with temperatures set to soar ",
-      "summary": "Grand Canyon under extreme heat watch with temperatures exceeding 111F amid recent deaths.",
-      "url": "https://www.theguardian.com/p/x5b2k5",
-      "thumbnail": "https://media.guim.co.uk/03b31d2b27c92f1f3b9d859af311bdc32e1a5b1d/143_0_1705_1364/500.jpg",
-      "published": "2026-06-20T19:36:00Z",
-      "location": {
-        "name": "Grand Canyon",
-        "lat": 36.1069,
-        "lng": -112.1129
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "us-news"
     },
     {
       "id": "sport/2026/jun/20/sophia-dunkley-smashes-england-past-scotland-as-t20-world-cup-winning-run-goes-on",
@@ -1222,6 +1046,70 @@
       "category": "culture",
       "significance": 1,
       "section": "tv-and-radio"
+    },
+    {
+      "id": "us-news/2026/jun/21/trump-lincoln-memorial-reflecting-pool",
+      "headline": "Trump says beleaguered reflecting pool will ‘probably’ be drained for repairs",
+      "summary": "Trump says Lincoln Memorial reflecting pool will be drained due to algae blooms and peeling paint after $14.2m renovation.",
+      "url": "https://www.theguardian.com/p/x5b7zx",
+      "thumbnail": "https://media.guim.co.uk/275769985bb12edcc7825368ca9aa89eb187fda2/608_0_6221_4979/500.jpg",
+      "published": "2026-06-21T19:50:45Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "sport/2026/jun/21/serena-williams-wimbledon-singles-comeback-handed-wildcard-tennis",
+      "headline": "Serena Williams to make Wimbledon singles comeback after being handed wildcard",
+      "summary": "44-year-old Serena Williams receives Wimbledon wildcard for singles comeback after nearly four years away from competition.",
+      "url": "https://www.theguardian.com/p/x5b8c2",
+      "thumbnail": "https://media.guim.co.uk/5d3d9f0ed354035c1f0b3871681258971e8c9003/482_344_2310_1848/500.jpg",
+      "published": "2026-06-21T19:11:58Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "sport"
+    },
+    {
+      "id": "uk-news/2026/jun/21/taxi-uber-rider-targeted-suspected-anti-muslim-attacks-edinburgh-witnesses",
+      "headline": "Taxi and Uber rider targeted in suspected anti-Muslim attacks in Edinburgh, say witnesses",
+      "summary": "White Scottish man charged after suspected anti-Muslim knife attacks injure five people in Edinburgh on Friday night.",
+      "url": "https://www.theguardian.com/p/x5b7fh",
+      "thumbnail": "https://media.guim.co.uk/3e73956708e20672b879c40c7a87ca9cbebc3d24/1026_0_6830_5464/500.jpg",
+      "published": "2026-06-21T19:06:31Z",
+      "location": {
+        "name": "Edinburgh",
+        "lat": 55.9533,
+        "lng": -3.1883
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "world/2026/jun/21/trump-iran-deal-bipartisan-criticism",
+      "headline": "Trump faces fresh bipartisan criticism on Iran deal as Vance hails peace talks",
+      "summary": "Trump faces bipartisan criticism on Iran deal as Vance hails peace talks; Trump threatens renewed attacks if Iran doesn't restrain proxy in Lebanon.",
+      "url": "https://www.theguardian.com/p/x5b7cy",
+      "thumbnail": "https://media.guim.co.uk/2635e79e56051bea00e6d7304afcab0c1ad1d86c/626_0_4917_3935/500.jpg",
+      "published": "2026-06-21T18:51:42Z",
+      "location": {
+        "name": "Geneva",
+        "lat": 46.2044,
+        "lng": 6.1432
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
     }
   ]
 }
