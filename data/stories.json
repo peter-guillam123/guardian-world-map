@@ -1,76 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-21T00:13:31.845Z",
-    "story_count": 66,
-    "oldest_story": "2026-06-20T01:14:26Z",
-    "newest_story": "2026-06-20T22:51:18Z",
+    "generated_at": "2026-06-21T05:21:16.291Z",
+    "story_count": 68,
+    "oldest_story": "2026-06-20T06:00:01Z",
+    "newest_story": "2026-06-21T05:20:21Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/live/2026/jun/20/fifa-world-cup-2026-live-turkey-v-paraguay-updates-tur-vs-par-group-d-match-score-latest",
-      "headline": "Turkey v Paraguay: World Cup 2026 – live",
-      "summary": "Turkey and Paraguay compete for first World Cup 2026 points in San Francisco group match.",
-      "url": "https://www.theguardian.com/p/x593z3",
-      "thumbnail": "https://media.guim.co.uk/c73fa178d786d6dbb1f76d5ccae0a701232e3937/0_0_6645_5319/500.jpg",
-      "published": "2026-06-20T01:55:45Z",
-      "location": {
-        "name": "San Francisco",
-        "lat": 37.7749,
-        "lng": -122.4194
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/jun/19/usa-world-cup-zlatan-ibrahimovic-comments",
-      "headline": "US players agree with Zlatan Ibrahimovic that World Cup title is possible: ‘That’s our mindset’",
-      "summary": "US qualifies for World Cup knockout stage; Zlatan backs Americans as title contenders.",
-      "url": "https://www.theguardian.com/p/x5aqx8",
-      "thumbnail": "https://media.guim.co.uk/045639bb19e5402d4551f740618430498c77824b/714_295_3796_3038/500.jpg",
-      "published": "2026-06-20T01:39:23Z",
-      "location": {
-        "name": "United States",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "us-news/2026/jun/20/trump-administration-latest-updates-today",
-      "headline": "Trump news at a glance: Israel-Hezbollah clashes ground Vance trip; Qatar jet is new Air Force One ",
-      "summary": "US-Iran peace talks cancelled in Switzerland due to Israel-Hezbollah clashes.",
-      "url": "https://www.theguardian.com/p/x5an7b",
-      "thumbnail": "https://media.guim.co.uk/d459295dcaa914d73e486712314dd411416e2e43/204_0_6210_4968/500.jpg",
-      "published": "2026-06-20T01:30:19Z",
-      "location": {
-        "name": "Switzerland",
-        "lat": 46.8182,
-        "lng": 8.2275
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "australia-news/2026/jun/20/australia-confirms-first-case-of-h5n1-bird-flu",
-      "headline": "Anthony Albanese says Australia’s first mainland case of deadly H5N1 bird flu ‘concerning’",
-      "summary": "Australia confirms first mainland H5N1 bird flu case in migratory seabird.",
-      "url": "https://www.theguardian.com/p/x5apty",
-      "thumbnail": "https://media.guim.co.uk/f2f8a47a29f191fffc6780b6a4734691034a9ff9/78_0_5243_4194/500.jpg",
-      "published": "2026-06-20T01:14:26Z",
-      "location": {
-        "name": "Western Australia",
-        "lat": -31.9505,
-        "lng": 115.8605
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "australia-news"
-    },
     {
       "id": "politics/2026/jun/20/stanley-chow-andy-burnham-illustration",
       "headline": "‘Within 10 mins, Andy had nicked it’: illustrator on his ubiquitous image of Andy Burnham",
@@ -1058,6 +994,102 @@
         "name": "Kansas City",
         "lat": 39.0997,
         "lng": -94.5786
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "football/live/2026/jun/21/fifa-world-cup-2026-live-tunisia-v-japan-updates-tun-vs-jpn-group-f-match-score-latest",
+      "headline": "Tunisia v Japan: World Cup 2026 – live",
+      "summary": "Tunisia faces Japan in World Cup 2026 Group F match in Monterrey, Mexico.",
+      "url": "https://www.theguardian.com/p/x593p6",
+      "thumbnail": "https://media.guim.co.uk/081cd1d86fac445d37e11d0db639f7c5a157d82b/161_0_3301_2640/500.jpg",
+      "published": "2026-06-21T05:20:21Z",
+      "location": {
+        "name": "Monterrey",
+        "lat": 25.6866,
+        "lng": -100.3161
+      },
+      "category": "sport",
+      "significance": 4,
+      "section": "football"
+    },
+    {
+      "id": "politics/2026/jun/21/ebbw-vale-wales-struggle-regret-brexit",
+      "headline": "‘There’s no jobs’: struggle and regret in a Welsh town that backed Brexit",
+      "summary": "Welsh town that backed Brexit struggles with job losses despite EU funding replacement efforts.",
+      "url": "https://www.theguardian.com/p/x5atgz",
+      "thumbnail": "https://media.guim.co.uk/f265ed31f49d70b7b5283f14a691ee2eda92708d/0_0_7200_5760/500.jpg",
+      "published": "2026-06-21T05:00:23Z",
+      "location": {
+        "name": "Ebbw Vale",
+        "lat": 51.7768,
+        "lng": -3.2089
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "world/2026/jun/21/colombias-runoff-election-expected-to-trigger-shift-in-decades-long-armed-conflict",
+      "headline": "Colombia’s runoff election expected to trigger shift in decades-long armed conflict",
+      "summary": "Colombia's presidential runoff election expected to shift approach to decades-long armed conflict.",
+      "url": "https://www.theguardian.com/p/x5anyb",
+      "thumbnail": "https://media.guim.co.uk/cacbcdd74d3ece334d2ee011c38fd91d15e80a72/213_0_2605_2085/500.jpg",
+      "published": "2026-06-21T05:00:22Z",
+      "location": {
+        "name": "Bogotá",
+        "lat": 4.711,
+        "lng": -74.0721
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "food/2026/jun/21/the-golden-tooth-london-n16-restaurant-review-grace-dent",
+      "headline": "The Golden Tooth, London N16: ‘The cheese tart alone makes this destination dining’ – restaurant review",
+      "summary": "Restaurant review of The Golden Tooth in North London's Green Lanes praised for skillful cooking.",
+      "url": "https://www.theguardian.com/p/x595ex",
+      "thumbnail": "https://media.guim.co.uk/d4dabf58f9ea5ac59b46a4653f80feae7c8eaf9b/1050_0_5250_4200/500.jpg",
+      "published": "2026-06-21T05:00:22Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "food"
+    },
+    {
+      "id": "politics/2026/jun/21/two-thirds-eu-citizens-back-uk-rejoining-bloc-brexit-survey",
+      "headline": "Two-thirds of EU citizens back UK rejoining bloc, survey finds",
+      "summary": "Survey shows two-thirds of EU citizens would support UK rejoin bloc a decade after Brexit.",
+      "url": "https://www.theguardian.com/p/x5ahda",
+      "thumbnail": "https://media.guim.co.uk/09ef02ef22456c8f69a02e568b6308192fba0650/500_0_5000_4000/500.jpg",
+      "published": "2026-06-21T05:00:21Z",
+      "location": {
+        "name": "Brussels",
+        "lat": 50.8503,
+        "lng": 4.3517
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "politics"
+    },
+    {
+      "id": "football/2026/jun/21/australias-jackson-irvine-has-no-sympathy-for-paraguay-after-historic-world-cup-red-card",
+      "headline": "Australia’s Jackson Irvine has no sympathy for Paraguay after historic World Cup red card",
+      "summary": "Australia faces Paraguay in crucial World Cup Group D match after Almirón's historic red card.",
+      "url": "https://www.theguardian.com/p/x5b4an",
+      "thumbnail": "https://media.guim.co.uk/6bed0f6cf18cf74f0cfcef61680d0a30e803ce10/84_0_2923_2339/500.jpg",
+      "published": "2026-06-21T04:50:24Z",
+      "location": {
+        "name": "San Francisco",
+        "lat": 37.7749,
+        "lng": -122.4194
       },
       "category": "sport",
       "significance": 3,
