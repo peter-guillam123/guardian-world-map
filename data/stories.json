@@ -1,76 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-21T22:42:20.119Z",
-    "story_count": 61,
-    "oldest_story": "2026-06-20T22:43:17Z",
-    "newest_story": "2026-06-21T21:34:51Z",
+    "generated_at": "2026-06-21T23:58:32.180Z",
+    "story_count": 62,
+    "oldest_story": "2026-06-21T04:50:24Z",
+    "newest_story": "2026-06-21T23:46:05Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "australia-news/live/2026/jun/21/australia-news-live-bird-flu-h5n1-wildlife-fuel-excise-iran-hormuz-albanese-bowen-taylor-coalition-one-nation-pauline-hanson-ntwnfb",
-      "headline": "Australia news live: arrival of H5N1 bird flu a ‘genuine wildlife emergency’, experts say; fuel excise rebate extended for extra month",
-      "summary": "Australia confirms first mainland H5N1 bird flu case; wildlife emergency declared.",
-      "url": "https://www.theguardian.com/p/x5b3k9",
-      "thumbnail": "https://media.guim.co.uk/39d5af0e765eb2811a82e09b4f4c0f97bb31ee76/0_0_2569_2056/500.jpg",
-      "published": "2026-06-20T22:51:18Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "health",
-      "significance": 3,
-      "section": "australia-news"
-    },
-    {
-      "id": "football/live/2026/jun/20/ecuador-v-curacao-world-cup-2026-live",
-      "headline": "Ecuador v Curaçao: World Cup 2026 – live",
-      "summary": "Ecuador faces Curaçao in World Cup 2026 Group E match in Kansas City.",
-      "url": "https://www.theguardian.com/p/x5amqn",
-      "thumbnail": "https://media.guim.co.uk/eb1ebc082b4eefba1e81565154b201e92c4a8509/659_0_6588_5270/500.jpg",
-      "published": "2026-06-20T22:49:24Z",
-      "location": {
-        "name": "Kansas City",
-        "lat": 39.0997,
-        "lng": -94.5786
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/jun/20/lamine-yamal-genius-salvador-dali-michelangelo-spain-luis-de-la-fuente-world-cup",
-      "headline": "Lamine Yamal a genius ‘like Dalí or Michelangelo’, says Spain’s De la Fuente",
-      "summary": "Spain's Lamine Yamal hailed as genius ahead of Saudi Arabia World Cup clash in Atlanta.",
-      "url": "https://www.theguardian.com/p/x5b3mn",
-      "thumbnail": "https://media.guim.co.uk/1347e87d7f429307da0382ee7e1cf8d7316c9639/0_486_4151_3321/500.jpg",
-      "published": "2026-06-20T22:48:23Z",
-      "location": {
-        "name": "Atlanta",
-        "lat": 33.749,
-        "lng": -84.388
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "uk-news/2026/jun/20/three-men-dead-after-west-london-building-fire",
-      "headline": "Three men dead after west London building fire",
-      "summary": "Three men dead after fire in west London building in White City.",
-      "url": "https://www.theguardian.com/p/x5b3m9",
-      "thumbnail": "https://media.guim.co.uk/acb04207f623c6750dea45ef5c22222db210b41a/6_0_2916_2333/500.jpg",
-      "published": "2026-06-20T22:43:17Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "other",
-      "significance": 2,
-      "section": "uk-news"
-    },
     {
       "id": "football/live/2026/jun/21/fifa-world-cup-2026-live-tunisia-v-japan-updates-tun-vs-jpn-group-f-match-score-latest",
       "headline": "Tunisia v Japan: World Cup 2026 – live",
@@ -982,6 +918,86 @@
       "category": "other",
       "significance": 1,
       "section": "uk-news"
+    },
+    {
+      "id": "football/live/2026/jun/22/fifa-world-cup-2026-live-new-zealand-v-egypt-updates-nzl-vs-egy-group-g-match-score-latest",
+      "headline": "New Zealand v Egypt: World Cup 2026 – live",
+      "summary": "New Zealand faces Egypt in World Cup 2026 Group G match seeking first win.",
+      "url": "https://www.theguardian.com/p/x594vp",
+      "thumbnail": "https://media.guim.co.uk/ebad811ca90f77334f179138314b8165ce60f3f9/358_0_4156_3325/500.jpg",
+      "published": "2026-06-21T23:46:05Z",
+      "location": {
+        "name": "New Zealand",
+        "lat": -40.9006,
+        "lng": 174.886
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/jun/21/chicago-shootings-trump",
+      "headline": "At least seven people killed in Chicago shootings as Trump renews military call",
+      "summary": "At least seven killed in Chicago shootings; Trump calls for military intervention.",
+      "url": "https://www.theguardian.com/p/x5b97x",
+      "thumbnail": "https://media.guim.co.uk/75e76417c131cdf00ca865beaabf5227bda09885/974_723_3589_2873/500.jpg",
+      "published": "2026-06-21T23:07:26Z",
+      "location": {
+        "name": "Chicago",
+        "lat": 41.8781,
+        "lng": -87.6298
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "business/2026/jun/20/lloyds-banking-group-ai-recruitment-drive-300-tech-experts",
+      "headline": "Lloyds Banking Group to hire 300 tech experts to work on AI",
+      "summary": "Lloyds Banking Group hires 300 tech experts for AI development expansion.",
+      "url": "https://www.theguardian.com/p/x5an7q",
+      "thumbnail": "https://media.guim.co.uk/56a9f6722e09f125f1ef23bce556074b0c16807c/438_0_4375_3500/500.jpg",
+      "published": "2026-06-21T23:02:43Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "tech",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "politics/2026/jun/22/uk-tax-higher-levies-big-tech-digital-services",
+      "headline": "UK taxpayers want higher levies on big tech companies, survey shows",
+      "summary": "UK survey shows two-thirds support higher taxes on big tech companies.",
+      "url": "https://www.theguardian.com/p/x5b6d6",
+      "thumbnail": "https://media.guim.co.uk/4dfd4189ef04923cbfa6d6cbbe8c1fd7260efd3d/920_451_3677_2942/500.jpg",
+      "published": "2026-06-21T23:01:43Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "world/2026/jun/21/far-right-millionaire-abelardo-de-la-espriella-wins-colombia-presidential-runoff",
+      "headline": "Far-right millionaire Abelardo de la Espriella wins Colombia’s presidential runoff",
+      "summary": "Far-right millionaire Abelardo de la Espriella wins Colombia's presidential runoff.",
+      "url": "https://www.theguardian.com/p/x5b74d",
+      "thumbnail": "https://media.guim.co.uk/1266e2737d14a680e9b6d22e1a5e000518896b11/418_0_2980_2384/500.jpg",
+      "published": "2026-06-21T22:51:47Z",
+      "location": {
+        "name": "Bogotá",
+        "lat": 4.711,
+        "lng": -74.0721
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
     }
   ]
 }
