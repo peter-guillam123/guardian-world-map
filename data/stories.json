@@ -1,172 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-21T19:55:50.548Z",
-    "story_count": 69,
-    "oldest_story": "2026-06-20T19:57:32Z",
-    "newest_story": "2026-06-21T19:50:45Z",
+    "generated_at": "2026-06-21T21:22:28.999Z",
+    "story_count": 62,
+    "oldest_story": "2026-06-20T22:17:44Z",
+    "newest_story": "2026-06-21T21:18:09Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/2026/jun/20/world-cup-baby-joy-norway-leo-ostigard-jeremy-doku-belgium-plans-birth",
-      "headline": "World Cup baby joy for Norway’s Østigård while Doku plans to fly home for birth",
-      "summary": "Norway's Østigård watches son's birth via video during World Cup; Doku plans to leave Belgium squad.",
-      "url": "https://www.theguardian.com/p/x5b2n9",
-      "thumbnail": "https://media.guim.co.uk/6a8bd0bc23299de912939c59bfd78aeb5584d651/0_145_6295_5036/500.jpg",
-      "published": "2026-06-20T20:06:18Z",
-      "location": {
-        "name": "Norway",
-        "lat": 60.472,
-        "lng": 8.4689
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "australia-news/2026/jun/21/oil-price-petrol-prices-australia-fuel-crisis-us-iran-war-lower",
-      "headline": "Petrol prices in Australia are now lower than before the Iran war began. Is the oil crisis over and what happens next? ",
-      "summary": "Australian petrol prices drop below pre-Iran war levels as oil supplies stabilize globally.",
-      "url": "https://www.theguardian.com/p/x5a335",
-      "thumbnail": "https://media.guim.co.uk/4edfa1712afaa17d553ceae46193f27ccf3347eb/300_0_5469_4377/500.jpg",
-      "published": "2026-06-20T20:00:13Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "australia-news/ng-interactive/2026/jun/21/sudden-cardiac-arrest-leading-cause-death-young-people",
-      "headline": "‘A child goes to bed and doesn’t wake up’: the families left in shock after the sudden death of their healthy children ",
-      "summary": "Sudden cardiac arrest emerges as leading cause of death among healthy Australian children.",
-      "url": "https://www.theguardian.com/p/x5942b",
-      "thumbnail": "https://media.guim.co.uk/f97373f16b145fc467230a67ea7ece2ac2e862ff/433_0_1952_1561/500.jpg",
-      "published": "2026-06-20T20:00:13Z",
-      "location": {
-        "name": "Melbourne",
-        "lat": -37.8136,
-        "lng": 144.9631
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "australia-news/commentisfree/2026/jun/20/pauline-hanson-one-nation-media-attacks-press-control-ntwnfb",
-      "headline": "Pauline Hanson’s media attacks are not just Trump inspired. For 30 years she has sought to control the press",
-      "summary": "Pauline Hanson's 30-year pattern of media attacks intensifies during National Press Club address.",
-      "url": "https://www.theguardian.com/p/x5aft9",
-      "thumbnail": "https://media.guim.co.uk/6cae1801e02da7d885bbb55b50d867344197e19b/716_0_6172_4941/500.jpg",
-      "published": "2026-06-20T20:00:11Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "australia-news/2026/jun/21/pauline-hanson-women-working-mothers-paid-parental-leave-childcare-income-gender-gap-economy-one-nation-ntwnfb",
-      "headline": "Pauline Hanson’s stance on paid parental leave and childcare could turn clock back by decades, economists warn",
-      "summary": "Pauline Hanson's paid parental leave stance risks setback for working mothers, economists warn.",
-      "url": "https://www.theguardian.com/p/x5akh8",
-      "thumbnail": "https://media.guim.co.uk/ecd4e28b7374a8020deb000cdc73270324b81b43/516_0_2953_2362/500.jpg",
-      "published": "2026-06-20T20:00:11Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "australia-news/2026/jun/21/danes-payout-for-historical-sexual-abuse-meant-the-ndis-slashed-his-funding-he-and-his-mum-are-fighting-back-ntwnfb",
-      "headline": "Dane’s payout for historical sexual abuse meant the NDIS slashed his funding. He and his mum are fighting back",
-      "summary": "NDIS slashes disabled man's funding after sexual abuse compensation received, sparks fight.",
-      "url": "https://www.theguardian.com/p/x5a2m9",
-      "thumbnail": "https://media.guim.co.uk/1086c0051ac4881ad94b2b70c7e0a4d2ddb50c3a/0_0_4560_3648/500.jpg",
-      "published": "2026-06-20T20:00:11Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "australia-news/2026/jun/21/a-spate-of-shark-bites-has-australian-ocean-lovers-on-edge-people-want-to-know-why-theyre-rising",
-      "headline": "A spate of shark bites has Australian ocean lovers on edge. People want to know why they’re rising ",
-      "summary": "Rising shark bites linked to warming ocean temperatures pushing sharks into populated areas.",
-      "url": "https://www.theguardian.com/p/x5aeg7",
-      "thumbnail": "https://media.guim.co.uk/1c8357f4af39523d6e18cfb0fbd2fdca55fcde65/609_15_2934_2347/500.jpg",
-      "published": "2026-06-20T20:00:10Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "sport/2026/jun/20/amy-hunt-beats-dina-asher-smith-to-defend-100m-crown-at-uk-championships",
-      "headline": "Amy Hunt beats Dina Asher-Smith to retain 100m crown at UK Championships",
-      "summary": "Amy Hunt defends British 100m title, beating Dina Asher-Smith at UK Championships.",
-      "url": "https://www.theguardian.com/p/x5ap8n",
-      "thumbnail": "https://media.guim.co.uk/db49dd6945a4b1745ca7efde54ccfad423d90064/15_156_2501_2001/500.jpg",
-      "published": "2026-06-20T19:57:32Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "sport/2026/jun/20/sophia-dunkley-smashes-england-past-scotland-as-t20-world-cup-winning-run-goes-on",
-      "headline": "Sophia Dunkley smashes England past Scotland as T20 World Cup winning run goes on",
-      "summary": "England beats Scotland by 38 runs in Women's T20 World Cup at Headingley, maintaining top position.",
-      "url": "https://www.theguardian.com/p/x5azmq",
-      "thumbnail": "https://media.guim.co.uk/13a57b7b83670bf5d940ac73d8ab1671a7bef1f5/173_0_3592_2875/500.jpg",
-      "published": "2026-06-20T20:50:11Z",
-      "location": {
-        "name": "Leeds",
-        "lat": 53.8008,
-        "lng": -1.5491
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "sport"
-    },
-    {
-      "id": "uk-news/2026/jun/20/there-was-panic-shock-and-horror-in-the-bedfordshire-village-next-to-the-train-crash",
-      "headline": "‘There was panic’: shock and horror in the Bedfordshire village next to the train crash",
-      "summary": "Train collision in Bedfordshire kills one driver and injures 100, shocking local community.",
-      "url": "https://www.theguardian.com/p/x5b23q",
-      "thumbnail": "https://media.guim.co.uk/a0dc0194e92ecee58ff858965d9a4476d46235cc/121_82_4626_3701/500.jpg",
-      "published": "2026-06-20T20:46:06Z",
-      "location": {
-        "name": "Elstow",
-        "lat": 52.1288,
-        "lng": -0.5194
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "uk-news"
-    },
     {
       "id": "australia-news/live/2026/jun/21/australia-news-live-bird-flu-h5n1-wildlife-fuel-excise-iran-hormuz-albanese-bowen-taylor-coalition-one-nation-pauline-hanson-ntwnfb",
       "headline": "Australia news live: arrival of H5N1 bird flu a ‘genuine wildlife emergency’, experts say; fuel excise rebate extended for extra month",
@@ -1110,6 +950,54 @@
       "category": "politics",
       "significance": 3,
       "section": "world"
+    },
+    {
+      "id": "australia-news/live/2026/jun/22/australia-politics-live-labor-coalition-one-nation-capital-gains-tax-reform-ndis-anthony-albanese-angus-taylor-question-time-ntwnfb",
+      "headline": "Australia politics live: Labor’s big reforms face test as parliament returns; national cabinet to debate fuel security",
+      "summary": "Australian parliament returns for tax and NDIS reform debates before winter break.",
+      "url": "https://www.theguardian.com/p/x5b8n9",
+      "thumbnail": "https://media.guim.co.uk/9d59517b68033943077a8bd8e39324449141fa34/339_0_6880_5504/500.jpg",
+      "published": "2026-06-21T21:18:09Z",
+      "location": {
+        "name": "Canberra",
+        "lat": -35.2809,
+        "lng": 149.13
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "football/live/2026/jun/21/uruguay-v-cape-verde-world-cup-2026-live",
+      "headline": "Uruguay v Cape Verde: World Cup 2026 – live",
+      "summary": "Uruguay faces Cape Verde in World Cup 2026 match in Miami.",
+      "url": "https://www.theguardian.com/p/x5azvv",
+      "thumbnail": "https://media.guim.co.uk/a078026f98a928cc23c4535ad974e9f9209208c3/246_0_6827_5464/500.jpg",
+      "published": "2026-06-21T21:06:29Z",
+      "location": {
+        "name": "Miami",
+        "lat": 25.7617,
+        "lng": -80.1918
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "australia-news/2026/jun/22/morning-mail-monday-ntwnfb",
+      "headline": "Morning Mail: The high cost of romance scams, UK PM expected to step down, Iran peace talks suspended over Trump threats",
+      "summary": "Australians lose millions to romance scams; UK PM expected to step down.",
+      "url": "https://www.theguardian.com/p/x5b7y3",
+      "thumbnail": "https://media.guim.co.uk/9fb574ea42d194616fcacd3913b53fd56776d2c4/67_0_1087_869/500.jpg",
+      "published": "2026-06-21T20:40:29Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "other",
+      "significance": 2,
+      "section": "australia-news"
     }
   ]
 }
