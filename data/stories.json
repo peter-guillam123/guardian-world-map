@@ -1,44 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-21T14:16:46.208Z",
-    "story_count": 65,
-    "oldest_story": "2026-06-20T15:00:04Z",
-    "newest_story": "2026-06-21T14:15:24Z",
+    "generated_at": "2026-06-21T16:13:35.327Z",
+    "story_count": 70,
+    "oldest_story": "2026-06-20T16:54:10Z",
+    "newest_story": "2026-06-21T16:00:34Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/2026/jun/21/down-but-not-out-socceroos-take-heart-from-positives-in-defeat-to-usa",
-      "headline": "Down but not out: Socceroos take heart from positives in defeat to USA",
-      "summary": "Australia loses 2-0 to USA in World Cup 2026 but finds positives ahead of Paraguay clash.",
-      "url": "https://www.theguardian.com/p/x5aqkk",
-      "thumbnail": "https://media.guim.co.uk/bc36a40abb7fd4e6be1d337c1f8f6c8a77636e64/439_0_3357_2686/500.jpg",
-      "published": "2026-06-20T15:00:04Z",
-      "location": {
-        "name": "Seattle",
-        "lat": 47.6062,
-        "lng": -122.3321
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "us-news/2026/jun/20/jim-jordan-super-pac-ice-donation",
-      "headline": "Trump loyalist Jim Jordan linked to group that received ‘dark money’ from ICE detention contractor",
-      "summary": "Jim Jordan linked to group receiving dark money from ICE detention contractor Geo Group.",
-      "url": "https://www.theguardian.com/p/x59d6v",
-      "thumbnail": "https://media.guim.co.uk/f099d821d09ac47b806ad2f8f78c7897c40e6309/1009_408_2824_2259/500.jpg",
-      "published": "2026-06-20T15:00:04Z",
-      "location": {
-        "name": "Ohio",
-        "lat": 40.3888,
-        "lng": -82.7649
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
     {
       "id": "sport/live/2026/jun/20/england-v-scotland-womens-t20-cricket-world-cup-live",
       "headline": "England v Scotland: Women’s T20 Cricket World Cup – live",
@@ -1046,6 +1014,118 @@
       "category": "culture",
       "significance": 1,
       "section": "stage"
+    },
+    {
+      "id": "politics/2026/jun/21/burnham-ally-to-unveil-ambitious-plan-to-reverse-decades-of-privatisation",
+      "headline": "Burnham ally to unveil ambitious plan to reverse decades of privatisation",
+      "summary": "Burnham ally unveils plan to reverse 40 years of privatisation through state takeover of utilities.",
+      "url": "https://www.theguardian.com/p/x5b28y",
+      "thumbnail": "https://media.guim.co.uk/2ef361453206d43d0710fddd27c3ed07620c5b41/1044_91_4401_3523/500.jpg",
+      "published": "2026-06-21T16:00:34Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "world/2026/jun/21/secret-correspondence-iranian-government-tensions-supreme-leader",
+      "headline": "Secret correspondence claims suggest tensions at top of Iranian government",
+      "summary": "Former Iranian negotiator reveals tensions in government, claims supreme leader instructions not followed.",
+      "url": "https://www.theguardian.com/p/x5b77a",
+      "thumbnail": "https://media.guim.co.uk/6036e1e5061126e1bdcd0bb6251ef87cb83aedcb/536_0_1261_1009/500.jpg",
+      "published": "2026-06-21T15:56:15Z",
+      "location": {
+        "name": "Tehran",
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "world/2026/jun/21/dutch-pm-apologises-moluccan-soldiers-indonesia-independence",
+      "headline": "Dutch PM apologises for Moluccan soldiers’ mistreatment after Indonesian independence",
+      "summary": "Dutch PM apologises for mistreatment of Moluccan soldiers after Indonesian independence war.",
+      "url": "https://www.theguardian.com/p/x5b786",
+      "thumbnail": "https://media.guim.co.uk/61deed685b528d28cba22035f35a9e8bbb806759/546_0_6880_5504/500.jpg",
+      "published": "2026-06-21T15:18:53Z",
+      "location": {
+        "name": "Rotterdam",
+        "lat": 51.9225,
+        "lng": 4.4792
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "world/2026/jun/21/france-cancels-events-restricts-alcohol-consumption-music-festival-heatwave",
+      "headline": "France cancels events and restricts alcohol consumption amid brutal heatwave",
+      "summary": "France cancels events and restricts alcohol as brutal heatwave pushes temperatures above 40C.",
+      "url": "https://www.theguardian.com/p/x5b66e",
+      "thumbnail": "https://media.guim.co.uk/6b73957daf27e620b7c76513182ceea8f652ac1c/290_0_4902_3921/500.jpg",
+      "published": "2026-06-21T15:11:37Z",
+      "location": {
+        "name": "Paris",
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "category": "climate",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "politics/2026/jun/21/andy-burnham-keir-starmer-labour-leadership-makerfield-manchester",
+      "headline": "Burnham, Starmer and the Labour leadership",
+      "summary": "Readers discuss Burnham's Labour leadership prospects following Makerfield by-election victory.",
+      "url": "https://www.theguardian.com/p/x5amkh",
+      "thumbnail": "https://media.guim.co.uk/14797e3997066297392308be858dadc4dd8c07e3/898_0_7200_5760/500.jpg",
+      "published": "2026-06-21T15:08:12Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "society/2026/jun/21/undiagnosed-hypermobility-ehlers-danlos-syndrome-britain",
+      "headline": "Lives are being ruined by undiagnosed hypermobility and lack of treatment",
+      "summary": "Undiagnosed hypermobility and Ehlers-Danlos syndrome causing public health crisis in UK.",
+      "url": "https://www.theguardian.com/p/x5ad66",
+      "thumbnail": "https://media.guim.co.uk/ce393593d751627fa69076ea5cb3c5173103ed39/466_0_4636_3711/500.jpg",
+      "published": "2026-06-21T15:06:40Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "society"
+    },
+    {
+      "id": "environment/2026/jun/21/record-breaking-extreme-heat-wave-humidity-uk-met-office-warning",
+      "headline": "Record-breaking heat expected across UK this week, says Met Office",
+      "summary": "Met Office warns of record-breaking UK heatwave reaching 38C with health alerts in place.",
+      "url": "https://www.theguardian.com/p/x5b6gp",
+      "thumbnail": "https://media.guim.co.uk/804acbcad840d8b48ceecd8d3170fea8b2dcc10f/520_0_5200_4160/500.jpg",
+      "published": "2026-06-21T15:04:34Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "uk-news"
     }
   ]
 }
