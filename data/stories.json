@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-06-21T21:22:28.999Z",
-    "story_count": 62,
-    "oldest_story": "2026-06-20T22:17:44Z",
-    "newest_story": "2026-06-21T21:18:09Z",
+    "generated_at": "2026-06-21T22:42:20.119Z",
+    "story_count": 61,
+    "oldest_story": "2026-06-20T22:43:17Z",
+    "newest_story": "2026-06-21T21:34:51Z",
     "window_hours": 24
   },
   "stories": [
@@ -70,38 +70,6 @@
       "category": "other",
       "significance": 2,
       "section": "uk-news"
-    },
-    {
-      "id": "uk-news/2026/jun/20/king-charles-to-publish-personal-tax-bill-in-first-for-uk-head-of-state",
-      "headline": "King Charles to publish personal tax bill in first for UK head of state",
-      "summary": "King Charles becomes first UK head of state to publish personal tax bill.",
-      "url": "https://www.theguardian.com/p/x5b3kx",
-      "thumbnail": "https://media.guim.co.uk/2ec2f739ed60cd639c3c77800ef93fae2f26af88/0_0_6247_5000/500.jpg",
-      "published": "2026-06-20T22:27:54Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "football/2026/jun/20/germany-cote-divoire-group-e-match-report",
-      "headline": "Deniz Undav’s double earns Germany dramatic late win against Côte d’Ivoire",
-      "summary": "Germany defeats Côte d'Ivoire 2-1 with dramatic 94th-minute goal to reach World Cup knockout stage.",
-      "url": "https://www.theguardian.com/p/x5azb4",
-      "thumbnail": "https://media.guim.co.uk/b2bca5410e1c6a6e41800dfe53a44f6634a0fce7/0_0_2846_2277/500.jpg",
-      "published": "2026-06-20T22:17:44Z",
-      "location": {
-        "name": "Kansas City",
-        "lat": 39.0997,
-        "lng": -94.5786
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
     },
     {
       "id": "football/live/2026/jun/21/fifa-world-cup-2026-live-tunisia-v-japan-updates-tun-vs-jpn-group-f-match-score-latest",
@@ -998,6 +966,22 @@
       "category": "other",
       "significance": 2,
       "section": "australia-news"
+    },
+    {
+      "id": "uk-news/2026/jun/21/wowcher-apologises-for-email-referencing-toddler-crocodile-attack",
+      "headline": "Wowcher apologises for email referencing toddler crocodile attack",
+      "summary": "Discount website Wowcher apologises for marketing email making light reference to crocodile attack on toddler.",
+      "url": "https://www.theguardian.com/p/x5b8m6",
+      "thumbnail": "https://media.guim.co.uk/bd5f26f7b16b890bf85a63d3b3b1384ca1c01947/0_0_5802_4640/500.jpg",
+      "published": "2026-06-21T21:34:51Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "other",
+      "significance": 1,
+      "section": "uk-news"
     }
   ]
 }
