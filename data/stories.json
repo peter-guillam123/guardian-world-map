@@ -1,92 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-22T19:42:59.256Z",
-    "story_count": 59,
-    "oldest_story": "2026-06-21T19:50:45Z",
-    "newest_story": "2026-06-22T19:27:19Z",
+    "generated_at": "2026-06-22T21:50:22.846Z",
+    "story_count": 62,
+    "oldest_story": "2026-06-21T22:51:47Z",
+    "newest_story": "2026-06-22T21:48:42Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "us-news/2026/jun/21/trump-lincoln-memorial-reflecting-pool",
-      "headline": "Trump says beleaguered reflecting pool will ‘probably’ be drained for repairs",
-      "summary": "Trump says Lincoln Memorial reflecting pool will be drained due to algae blooms and peeling paint after $14.2m renovation.",
-      "url": "https://www.theguardian.com/p/x5b7zx",
-      "thumbnail": "https://media.guim.co.uk/275769985bb12edcc7825368ca9aa89eb187fda2/608_0_6221_4979/500.jpg",
-      "published": "2026-06-21T19:50:45Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "australia-news/live/2026/jun/22/australia-politics-live-labor-coalition-one-nation-capital-gains-tax-reform-ndis-anthony-albanese-angus-taylor-question-time-ntwnfb",
-      "headline": "Australia politics live: Labor’s big reforms face test as parliament returns; national cabinet to debate fuel security",
-      "summary": "Australian parliament returns for tax and NDIS reform debates before winter break.",
-      "url": "https://www.theguardian.com/p/x5b8n9",
-      "thumbnail": "https://media.guim.co.uk/9d59517b68033943077a8bd8e39324449141fa34/339_0_6880_5504/500.jpg",
-      "published": "2026-06-21T21:18:09Z",
-      "location": {
-        "name": "Canberra",
-        "lat": -35.2809,
-        "lng": 149.13
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "football/live/2026/jun/21/uruguay-v-cape-verde-world-cup-2026-live",
-      "headline": "Uruguay v Cape Verde: World Cup 2026 – live",
-      "summary": "Uruguay faces Cape Verde in World Cup 2026 match in Miami.",
-      "url": "https://www.theguardian.com/p/x5azvv",
-      "thumbnail": "https://media.guim.co.uk/a078026f98a928cc23c4535ad974e9f9209208c3/246_0_6827_5464/500.jpg",
-      "published": "2026-06-21T21:06:29Z",
-      "location": {
-        "name": "Miami",
-        "lat": 25.7617,
-        "lng": -80.1918
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "australia-news/2026/jun/22/morning-mail-monday-ntwnfb",
-      "headline": "Morning Mail: The high cost of romance scams, UK PM expected to step down, Iran peace talks suspended over Trump threats",
-      "summary": "Australians lose millions to romance scams; UK PM expected to step down.",
-      "url": "https://www.theguardian.com/p/x5b7y3",
-      "thumbnail": "https://media.guim.co.uk/9fb574ea42d194616fcacd3913b53fd56776d2c4/67_0_1087_869/500.jpg",
-      "published": "2026-06-21T20:40:29Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "other",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "uk-news/2026/jun/21/wowcher-apologises-for-email-referencing-toddler-crocodile-attack",
-      "headline": "Wowcher apologises for email referencing toddler crocodile attack",
-      "summary": "Discount website Wowcher apologises for marketing email making light reference to crocodile attack on toddler.",
-      "url": "https://www.theguardian.com/p/x5b8m6",
-      "thumbnail": "https://media.guim.co.uk/bd5f26f7b16b890bf85a63d3b3b1384ca1c01947/0_0_5802_4640/500.jpg",
-      "published": "2026-06-21T21:34:51Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "other",
-      "significance": 1,
-      "section": "uk-news"
-    },
     {
       "id": "football/live/2026/jun/22/fifa-world-cup-2026-live-new-zealand-v-egypt-updates-nzl-vs-egy-group-g-match-score-latest",
       "headline": "New Zealand v Egypt: World Cup 2026 – live",
@@ -948,6 +868,134 @@
         "lng": -93.265
       },
       "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "australia-news/live/2026/jun/23/australia-politics-live-nsw-queensland-budget-capital-gains-tax-negative-gearing-ndis-senate-question-time-labor-coalition-anthony-albanese-angus-taylor-ntwnfb",
+      "headline": "Australia politics live: NSW to lower road toll cap and Queensland to promise infrastructure in today’s state budgets",
+      "summary": "NSW and Queensland release state budgets with NSW lowering road toll cap.",
+      "url": "https://www.theguardian.com/p/x5bbnp",
+      "thumbnail": "https://media.guim.co.uk/1e635e720855bb655a305eec25c8474262417c06/1129_0_6565_5255/500.jpg",
+      "published": "2026-06-22T21:48:42Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "uk-news/2026/jun/22/uk-met-office-issues-rare-red-weather-warning-for-wednesday-and-thursday",
+      "headline": "Met Office issues rare red weather warning for Wednesday and Thursday",
+      "summary": "UK Met Office issues rare red weather warning for extreme heat.",
+      "url": "https://www.theguardian.com/p/x5bbzp",
+      "thumbnail": "https://media.guim.co.uk/792f5684d096cb23ad86b0d6b9a3c3396b27d96a/288_0_5000_4000/500.jpg",
+      "published": "2026-06-22T21:43:30Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "climate",
+      "significance": 3,
+      "section": "uk-news"
+    },
+    {
+      "id": "media/2026/jun/22/uk-youtube-tiktok-established-media-prominence-misinformation-risk",
+      "headline": "UK plans to give established media more visibility on YouTube and TikTok",
+      "summary": "UK plans greater media visibility on YouTube and TikTok to combat misinformation.",
+      "url": "https://www.theguardian.com/p/x5bd98",
+      "thumbnail": "https://media.guim.co.uk/af961718e09af6ff31339fef2bc3e09a00ed5d5a/1645_0_5960_4772/500.jpg",
+      "published": "2026-06-22T21:30:22Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "tech",
+      "significance": 2,
+      "section": "media"
+    },
+    {
+      "id": "football/2026/jun/22/arsenal-make-morgan-rogers-top-target-in-transfer-window",
+      "headline": "Arsenal make Villa’s Morgan Rogers their No 1 target in transfer window",
+      "summary": "Arsenal target Aston Villa's Morgan Rogers for £100m transfer.",
+      "url": "https://www.theguardian.com/p/x5befk",
+      "thumbnail": "https://media.guim.co.uk/a846149b9b738b648ebbd512cb158adb19f342df/165_0_4286_3429/500.jpg",
+      "published": "2026-06-22T21:20:48Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "politics/2026/jun/22/burnham-prepares-power-emotional-starmer-uk-prime-minister-resignation",
+      "headline": "Andy Burnham prepares for power as emotional Keir Starmer bows out",
+      "summary": "Keir Starmer resigns as UK PM; Andy Burnham poised to succeed him.",
+      "url": "https://www.theguardian.com/p/x5bdge",
+      "thumbnail": "https://media.guim.co.uk/1222d398274b6a7dff17421d27270489b40ea0cd/425_0_6160_4928/500.jpg",
+      "published": "2026-06-22T21:14:12Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 4,
+      "section": "politics"
+    },
+    {
+      "id": "technology/2026/jun/22/artificial-intelligence-law-firm-wins-court-case-in-england-for-first-time",
+      "headline": "HR consultant wins English court case using AI lawyer in apparent legal first",
+      "summary": "AI law firm wins English court case in apparent legal first.",
+      "url": "https://www.theguardian.com/p/x5bed8",
+      "thumbnail": "https://media.guim.co.uk/470afbbf9084ad8b092331924ab34ec009a91270/0_1062_5790_4631/500.jpg",
+      "published": "2026-06-22T21:09:28Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "tech",
+      "significance": 2,
+      "section": "technology"
+    },
+    {
+      "id": "australia-news/2026/jun/23/morning-mail-tuesday-ntwnfb",
+      "headline": "Morning Mail: Andy Burnham poised for No 10, support for multiculturalism falls, Messi sets a record",
+      "summary": "Andy Burnham poised for UK PM role after Starmer's resignation.",
+      "url": "https://www.theguardian.com/p/x5bbn7",
+      "thumbnail": "https://media.guim.co.uk/7df959c107a7543bfed388c29c0ba815a6f0a106/441_0_3574_2861/500.jpg",
+      "published": "2026-06-22T20:49:01Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "us-news/2026/jun/22/tornado-illinois",
+      "headline": "Two killed and several injured as tornado rips through southern Illinois",
+      "summary": "Tornado kills two and injures five in southern Illinois.",
+      "url": "https://www.theguardian.com/p/x5bexk",
+      "thumbnail": "https://media.guim.co.uk/f674683b0610f699c3a0c915a6d049f79d5c3321/999_0_5001_4002/500.jpg",
+      "published": "2026-06-22T20:43:42Z",
+      "location": {
+        "name": "Mount Vernon",
+        "lat": 38.3133,
+        "lng": -88.9035
+      },
+      "category": "climate",
       "significance": 2,
       "section": "us-news"
     }
