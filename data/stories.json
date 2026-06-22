@@ -1,108 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-21T23:58:32.180Z",
-    "story_count": 62,
-    "oldest_story": "2026-06-21T04:50:24Z",
-    "newest_story": "2026-06-21T23:46:05Z",
+    "generated_at": "2026-06-22T05:23:19.575Z",
+    "story_count": 64,
+    "oldest_story": "2026-06-21T08:00:24Z",
+    "newest_story": "2026-06-22T05:16:37Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/live/2026/jun/21/fifa-world-cup-2026-live-tunisia-v-japan-updates-tun-vs-jpn-group-f-match-score-latest",
-      "headline": "Tunisia v Japan: World Cup 2026 – live",
-      "summary": "Tunisia faces Japan in World Cup 2026 Group F match in Monterrey, Mexico.",
-      "url": "https://www.theguardian.com/p/x593p6",
-      "thumbnail": "https://media.guim.co.uk/081cd1d86fac445d37e11d0db639f7c5a157d82b/161_0_3301_2640/500.jpg",
-      "published": "2026-06-21T05:20:21Z",
-      "location": {
-        "name": "Monterrey",
-        "lat": 25.6866,
-        "lng": -100.3161
-      },
-      "category": "sport",
-      "significance": 4,
-      "section": "football"
-    },
-    {
-      "id": "politics/2026/jun/21/ebbw-vale-wales-struggle-regret-brexit",
-      "headline": "‘There’s no jobs’: struggle and regret in a Welsh town that backed Brexit",
-      "summary": "Welsh town that backed Brexit struggles with job losses despite EU funding replacement efforts.",
-      "url": "https://www.theguardian.com/p/x5atgz",
-      "thumbnail": "https://media.guim.co.uk/f265ed31f49d70b7b5283f14a691ee2eda92708d/0_0_7200_5760/500.jpg",
-      "published": "2026-06-21T05:00:23Z",
-      "location": {
-        "name": "Ebbw Vale",
-        "lat": 51.7768,
-        "lng": -3.2089
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "world/2026/jun/21/colombias-runoff-election-expected-to-trigger-shift-in-decades-long-armed-conflict",
-      "headline": "Colombia’s runoff election expected to trigger shift in decades-long armed conflict",
-      "summary": "Colombia's presidential runoff election expected to shift approach to decades-long armed conflict.",
-      "url": "https://www.theguardian.com/p/x5anyb",
-      "thumbnail": "https://media.guim.co.uk/cacbcdd74d3ece334d2ee011c38fd91d15e80a72/213_0_2605_2085/500.jpg",
-      "published": "2026-06-21T05:00:22Z",
-      "location": {
-        "name": "Bogotá",
-        "lat": 4.711,
-        "lng": -74.0721
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "food/2026/jun/21/the-golden-tooth-london-n16-restaurant-review-grace-dent",
-      "headline": "The Golden Tooth, London N16: ‘The cheese tart alone makes this destination dining’ – restaurant review",
-      "summary": "Restaurant review of The Golden Tooth in North London's Green Lanes praised for skillful cooking.",
-      "url": "https://www.theguardian.com/p/x595ex",
-      "thumbnail": "https://media.guim.co.uk/d4dabf58f9ea5ac59b46a4653f80feae7c8eaf9b/1050_0_5250_4200/500.jpg",
-      "published": "2026-06-21T05:00:22Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "food"
-    },
-    {
-      "id": "politics/2026/jun/21/two-thirds-eu-citizens-back-uk-rejoining-bloc-brexit-survey",
-      "headline": "Two-thirds of EU citizens back UK rejoining bloc, survey finds",
-      "summary": "Survey shows two-thirds of EU citizens would support UK rejoin bloc a decade after Brexit.",
-      "url": "https://www.theguardian.com/p/x5ahda",
-      "thumbnail": "https://media.guim.co.uk/09ef02ef22456c8f69a02e568b6308192fba0650/500_0_5000_4000/500.jpg",
-      "published": "2026-06-21T05:00:21Z",
-      "location": {
-        "name": "Brussels",
-        "lat": 50.8503,
-        "lng": 4.3517
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "politics"
-    },
-    {
-      "id": "football/2026/jun/21/australias-jackson-irvine-has-no-sympathy-for-paraguay-after-historic-world-cup-red-card",
-      "headline": "Australia’s Jackson Irvine has no sympathy for Paraguay after historic World Cup red card",
-      "summary": "Australia faces Paraguay in crucial World Cup Group D match after Almirón's historic red card.",
-      "url": "https://www.theguardian.com/p/x5b4an",
-      "thumbnail": "https://media.guim.co.uk/6bed0f6cf18cf74f0cfcef61680d0a30e803ce10/84_0_2923_2339/500.jpg",
-      "published": "2026-06-21T04:50:24Z",
-      "location": {
-        "name": "San Francisco",
-        "lat": 37.7749,
-        "lng": -122.4194
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
     {
       "id": "politics/2026/jun/21/keir-starmer-expected-to-announce-departure-as-prime-minister-on-monday",
       "headline": "Keir Starmer expected to announce departure as prime minister on Monday",
@@ -998,6 +902,134 @@
       "category": "politics",
       "significance": 3,
       "section": "world"
+    },
+    {
+      "id": "world/2026/jun/22/h5n1-bird-flu-australia-wild-birds-wa-poultry-farms-locked-down",
+      "headline": "Western Australian poultry farms locked down as second wild bird tests positive for H5N1 bird flu",
+      "summary": "H5N1 bird flu detected in wild birds; WA poultry farms locked down by Ingham's Group.",
+      "url": "https://www.theguardian.com/p/x5b9p2",
+      "thumbnail": "https://media.guim.co.uk/2666503b5d51c72c2d3be6f4eb91148f4e4fb5cb/0_910_3024_2419/500.jpg",
+      "published": "2026-06-22T05:16:37Z",
+      "location": {
+        "name": "Western Australia",
+        "lat": -25.2744,
+        "lng": 133.7751
+      },
+      "category": "health",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "uk-news/2026/jun/22/battle-begins-for-burnham-greater-manchester-mayoral-crown",
+      "headline": "After Burnham’s reign, battle begins for Greater Manchester’s mayoral crown",
+      "summary": "Election scheduled for July 30 to fill Greater Manchester mayor role vacated by Burnham.",
+      "url": "https://www.theguardian.com/p/x5b6pq",
+      "thumbnail": "https://media.guim.co.uk/fda073058f49c862526142681bb785cf5a2adcac/187_0_7054_5643/500.jpg",
+      "published": "2026-06-22T05:00:52Z",
+      "location": {
+        "name": "Greater Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "sport/2026/jun/22/england-bangladesh-test-2027-ashes-series",
+      "headline": "England to face Bangladesh in one-off Test in preparation for Ashes series",
+      "summary": "England to play Bangladesh in May warm-up Test before 2027 Ashes series at Lord's.",
+      "url": "https://www.theguardian.com/p/x5b7vz",
+      "thumbnail": "https://media.guim.co.uk/027e6b103ca4073ed25d5f61c43601c53cd0efcd/558_0_4872_3897/500.jpg",
+      "published": "2026-06-22T05:00:52Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "money/2026/jun/22/gen-z-earning-more-millennials-same-age-resolution-foundation",
+      "headline": "Gen Z earning more than millennials did at the same age, says thinktank",
+      "summary": "Gen Z workers earn more at age 24 than millennials did, shows Resolution Foundation study.",
+      "url": "https://www.theguardian.com/p/x5b76t",
+      "thumbnail": "https://media.guim.co.uk/bab339ae759d6466ff8385978e442172eb396a2e/106_0_2331_1864/500.jpg",
+      "published": "2026-06-22T05:00:51Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "money"
+    },
+    {
+      "id": "science/2026/jun/22/starwatch-how-to-spot-hercules-the-hero-jewel-of-the-summer-skies",
+      "headline": "Starwatch: how to spot Hercules the hero, jewel of the summer skies",
+      "summary": "Starwatch column guides readers to locate constellation Hercules in summer night sky.",
+      "url": "https://www.theguardian.com/p/x562qd",
+      "thumbnail": "https://media.guim.co.uk/1c56f9a317f6dcbe1469b48ac0f0d5209b8bb39a/68_0_1583_1266/500.jpg",
+      "published": "2026-06-22T05:00:51Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "science"
+    },
+    {
+      "id": "uk-news/2026/jun/22/top-officer-says-anti-racism-guidance-has-fuelled-myth-of-two-tier-policing",
+      "headline": "Top officer says anti-racism guidance has fuelled myth of two-tier policing",
+      "summary": "Chief constable refutes two-tier policing claims but acknowledges anti-racism guidance confusion.",
+      "url": "https://www.theguardian.com/p/x5ag8b",
+      "thumbnail": "https://media.guim.co.uk/9b92476b746784d2c047d1a3d9adf50eca379ff7/153_0_2918_2334/500.jpg",
+      "published": "2026-06-22T05:00:50Z",
+      "location": {
+        "name": "Greater Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "football/2026/jun/22/cape-verde-cabo-world-cup-football-team-country-best-players-explained",
+      "headline": "Where is Cape Verde? Meet the tiny African island nation upsetting World Cup giants",
+      "summary": "Cape Verde shocks Spain in World Cup debut draw; island nation upsets tournament favorites.",
+      "url": "https://www.theguardian.com/p/x5b9hq",
+      "thumbnail": "https://media.guim.co.uk/d945b82fb85e80d84fea3e47085f20b4bee4d4ad/223_0_5098_4077/500.jpg",
+      "published": "2026-06-22T04:57:02Z",
+      "location": {
+        "name": "Cape Verde",
+        "lat": 16.7368,
+        "lng": -23.6081
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "environment/2026/jun/22/country-diary-somewhere-in-the-vast-forest-is-a-miniature-one",
+      "headline": "Country diary: Somewhere in the vast forest is a miniature one",
+      "summary": "Country diary: Observer searches for twinflowers in Abernethy forest's Scots pine woodland.",
+      "url": "https://www.theguardian.com/p/x58ft7",
+      "thumbnail": "https://media.guim.co.uk/7fe53927a4234a7b62f6d9509d4951772bd62eee/197_0_1968_1575/500.jpg",
+      "published": "2026-06-22T04:30:49Z",
+      "location": {
+        "name": "Cairngorms",
+        "lat": 57.1825,
+        "lng": -3.6514
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "environment"
     }
   ]
 }
