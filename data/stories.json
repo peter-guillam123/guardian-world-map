@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-06-22T21:50:22.846Z",
-    "story_count": 62,
-    "oldest_story": "2026-06-21T22:51:47Z",
-    "newest_story": "2026-06-22T21:48:42Z",
+    "generated_at": "2026-06-22T23:13:43.985Z",
+    "story_count": 61,
+    "oldest_story": "2026-06-21T23:46:05Z",
+    "newest_story": "2026-06-22T23:01:24Z",
     "window_hours": 24
   },
   "stories": [
@@ -22,70 +22,6 @@
       "category": "sport",
       "significance": 3,
       "section": "football"
-    },
-    {
-      "id": "us-news/2026/jun/21/chicago-shootings-trump",
-      "headline": "At least seven people killed in Chicago shootings as Trump renews military call",
-      "summary": "At least seven killed in Chicago shootings; Trump calls for military intervention.",
-      "url": "https://www.theguardian.com/p/x5b97x",
-      "thumbnail": "https://media.guim.co.uk/75e76417c131cdf00ca865beaabf5227bda09885/974_723_3589_2873/500.jpg",
-      "published": "2026-06-21T23:07:26Z",
-      "location": {
-        "name": "Chicago",
-        "lat": 41.8781,
-        "lng": -87.6298
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "business/2026/jun/20/lloyds-banking-group-ai-recruitment-drive-300-tech-experts",
-      "headline": "Lloyds Banking Group to hire 300 tech experts to work on AI",
-      "summary": "Lloyds Banking Group hires 300 tech experts for AI development expansion.",
-      "url": "https://www.theguardian.com/p/x5an7q",
-      "thumbnail": "https://media.guim.co.uk/56a9f6722e09f125f1ef23bce556074b0c16807c/438_0_4375_3500/500.jpg",
-      "published": "2026-06-21T23:02:43Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "tech",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "politics/2026/jun/22/uk-tax-higher-levies-big-tech-digital-services",
-      "headline": "UK taxpayers want higher levies on big tech companies, survey shows",
-      "summary": "UK survey shows two-thirds support higher taxes on big tech companies.",
-      "url": "https://www.theguardian.com/p/x5b6d6",
-      "thumbnail": "https://media.guim.co.uk/4dfd4189ef04923cbfa6d6cbbe8c1fd7260efd3d/920_451_3677_2942/500.jpg",
-      "published": "2026-06-21T23:01:43Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "world/2026/jun/21/far-right-millionaire-abelardo-de-la-espriella-wins-colombia-presidential-runoff",
-      "headline": "Far-right millionaire Abelardo de la Espriella wins Colombia’s presidential runoff",
-      "summary": "Far-right millionaire Abelardo de la Espriella wins Colombia's presidential runoff.",
-      "url": "https://www.theguardian.com/p/x5b74d",
-      "thumbnail": "https://media.guim.co.uk/1266e2737d14a680e9b6d22e1a5e000518896b11/418_0_2980_2384/500.jpg",
-      "published": "2026-06-21T22:51:47Z",
-      "location": {
-        "name": "Bogotá",
-        "lat": 4.711,
-        "lng": -74.0721
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
     },
     {
       "id": "world/2026/jun/22/h5n1-bird-flu-australia-wild-birds-wa-poultry-farms-locked-down",
@@ -996,6 +932,54 @@
         "lng": -88.9035
       },
       "category": "climate",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "technology/2026/jun/23/met-to-expand-live-facial-recognition-central-london",
+      "headline": "Met to expand use of live facial recognition into central London by Christmas",
+      "summary": "Met police expands live facial recognition to West End by Christmas.",
+      "url": "https://www.theguardian.com/p/x5bdcv",
+      "thumbnail": "https://media.guim.co.uk/df1030acb076d3e304d806e4ecc3dc84a4ee478e/335_0_6303_5042/500.jpg",
+      "published": "2026-06-22T23:01:24Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "tech",
+      "significance": 2,
+      "section": "technology"
+    },
+    {
+      "id": "us-news/2026/jun/22/us-senate-housing-bill",
+      "headline": "US Senate passes bipartisan bill to lower housing costs",
+      "summary": "Senate passes bipartisan housing bill to boost supply and limit investors.",
+      "url": "https://www.theguardian.com/p/x5bdev",
+      "thumbnail": "https://media.guim.co.uk/732c71c9304f0e19bd5ae8422e81e5544614be47/500_0_5000_4000/500.jpg",
+      "published": "2026-06-22T22:44:07Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/jun/22/reflecting-pool-trump-drained",
+      "headline": "Reflecting pool to be drained again as Trump claims five vandalism arrests",
+      "summary": "Lincoln Memorial reflecting pool to be drained again after vandalism claims.",
+      "url": "https://www.theguardian.com/p/x5be9f",
+      "thumbnail": "https://media.guim.co.uk/3bc55e67f75892c2d78ab44f0252166bcd1f380e/126_0_3779_3024/500.jpg",
+      "published": "2026-06-22T22:40:40Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
       "significance": 2,
       "section": "us-news"
     }
