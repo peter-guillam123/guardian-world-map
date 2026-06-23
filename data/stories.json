@@ -1,284 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-23T08:50:26.964Z",
-    "story_count": 77,
-    "oldest_story": "2026-06-22T10:14:40Z",
-    "newest_story": "2026-06-23T08:49:42Z",
+    "generated_at": "2026-06-23T11:53:35.157Z",
+    "story_count": 71,
+    "oldest_story": "2026-06-22T14:57:18Z",
+    "newest_story": "2026-06-23T11:52:32Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "world/live/2026/jun/22/middle-east-crisis-iran-us-peace-talks-switzerland-strait-of-hormuz-latest-news-updates",
-      "headline": "Middle East crisis live: Iran’s negotiating team leaves Switzerland after ‘constructive progress’ in first round of talks",
-      "summary": "Iran's negotiating team leaves Switzerland after constructive peace talks; IAEA inspectors to return.",
-      "url": "https://www.theguardian.com/p/x5ba34",
-      "thumbnail": "https://media.guim.co.uk/03383de19b2ef1ed571fb7c20d6feda79317cc76/575_0_5754_4603/500.jpg",
-      "published": "2026-06-22T11:14:11Z",
-      "location": {
-        "name": "Bern",
-        "lat": 46.9479,
-        "lng": 7.4474
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "politics/live/2026/jun/22/keir-starmer-resignation-timeable-andy-burnham-labour-leadership-prime-minister-latest-news-updates",
-      "headline": "Starmer resigns as prime minister as Streeting backs Burnham for leadership - UK politics live",
-      "summary": "UK PM Keir Starmer resigns; Andy Burnham backed by Streeting to become next Labour leader.",
-      "url": "https://www.theguardian.com/p/x5bayc",
-      "thumbnail": "https://media.guim.co.uk/4d5569054b6006ef0de99885b277f5c47eed1dfc/634_0_6335_5068/500.jpg",
-      "published": "2026-06-22T11:12:04Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 4,
-      "section": "politics"
-    },
-    {
-      "id": "business/2026/jun/22/castlelake-public-proposal-buy-easyjet",
-      "headline": "US firm goes public with £4.7bn proposal to buy easyJet after earlier bids rejected",
-      "summary": "US firm Castlelake goes public with £4.7bn bid to buy easyJet after previous rejections.",
-      "url": "https://www.theguardian.com/p/x5baqn",
-      "thumbnail": "https://media.guim.co.uk/7f3f0e3429056a6f035bad199d066bf1ce059eba/1340_0_6741_5395/500.jpg",
-      "published": "2026-06-22T11:10:47Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "uk-news/2026/jun/22/brexit-bellwether-constituencies-revisited-10-years-eu-referendum",
-      "headline": "‘Absolute nightmare’: Brexit bellwether constituencies revisited 10 years on ",
-      "summary": "Brexit bellwether constituencies revisited 10 years after 2016 referendum vote.",
-      "url": "https://www.theguardian.com/p/x59apg",
-      "thumbnail": "https://media.guim.co.uk/891170048f94cf5ccf42de90b1e42baa1000e6f4/0_0_5000_4000/500.jpg",
-      "published": "2026-06-22T11:06:35Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "uk-news"
-    },
-    {
-      "id": "politics/2026/jun/22/andy-burnham-to-stand-to-become-labour-leader-and-uk-prime-minister",
-      "headline": "Wes Streeting backs Andy Burnham to become Labour leader and PM",
-      "summary": "Wes Streeting backs Andy Burnham for Labour leadership; likely PM by July.",
-      "url": "https://www.theguardian.com/p/x5baqa",
-      "thumbnail": "https://media.guim.co.uk/970e076a2f81af6dba5a5570eb67674e534648a6/501_0_5008_4008/500.jpg",
-      "published": "2026-06-22T11:03:44Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 4,
-      "section": "politics"
-    },
-    {
-      "id": "lifeandstyle/2026/jun/22/barron-kai-trump-yerba-mate-energy-drink-review",
-      "headline": "I tried the new soft drinks from Trump’s son and granddaughter. Bad!",
-      "summary": "Trump family launches new soft drinks from Barron and Kai Trump; taste test review.",
-      "url": "https://www.theguardian.com/p/x5atkp",
-      "thumbnail": "https://media.guim.co.uk/a04c8509f04c9b0d3976535862740086d868cda4/0_172_1532_1226/500.jpg",
-      "published": "2026-06-22T11:00:23Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "other",
-      "significance": 1,
-      "section": "lifeandstyle"
-    },
-    {
-      "id": "money/2026/jun/22/job-scams-employment-ai",
-      "headline": "Job scams are growing and getting tougher to spot: ‘That’s the reality of this hell job market’",
-      "summary": "Job scams surge using AI as job seekers face tough market; fraud targets sensitive info.",
-      "url": "https://www.theguardian.com/p/x5atfq",
-      "thumbnail": "https://media.guim.co.uk/2c7fb5332c20f4dc5e4f6bbc35b18dd3c0277360/1_0_5598_4480/500.jpg",
-      "published": "2026-06-22T11:00:23Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "money"
-    },
-    {
-      "id": "commentisfree/2026/jun/22/trump-voter-base-support-loss",
-      "headline": "Cracks are showing in Trump’s white, blue-collar base",
-      "summary": "Trump's white working-class support crumbles over failed economic promises ahead of 2026.",
-      "url": "https://www.theguardian.com/p/x5adcg",
-      "thumbnail": "https://media.guim.co.uk/d96dbecb13d4f4acedcb1ec13a1486b61afaf9ce/546_0_5458_4367/500.jpg",
-      "published": "2026-06-22T11:00:23Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "commentisfree"
-    },
-    {
-      "id": "artanddesign/2026/jun/22/kyotographie-kawada-kikuji-x-iwane-ai-review-photography-japan-house-london",
-      "headline": "Kyotographie: Kawada Kikuji x Iwane Ai review – staggering images of the aftermath of shattering violence",
-      "summary": "Japan House exhibition pairs Hiroshima photographs with cherry blossom imagery.",
-      "url": "https://www.theguardian.com/p/x5agtc",
-      "thumbnail": "https://media.guim.co.uk/aa1d847c8d79956ce4a3469bdd6f2661eb228f5a/83_0_1135_908/500.jpg",
-      "published": "2026-06-22T11:00:22Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "artanddesign"
-    },
-    {
-      "id": "world/2026/jun/22/marius-borg-hiby-rape-conviction-case-norway-consent-digital-age-sexual-violence",
-      "headline": "Marius Borg Høiby rape conviction renews focus in Norway on consent in digital age",
-      "summary": "Norway's royal step-grandson Marius Borg Høiby convicted of rape; renews consent focus.",
-      "url": "https://www.theguardian.com/p/x5amey",
-      "thumbnail": "https://media.guim.co.uk/04ceb07fd18c971ffa1a171ce1fa89454049b92b/635_0_3328_2662/500.jpg",
-      "published": "2026-06-22T10:39:21Z",
-      "location": {
-        "name": "Oslo",
-        "lat": 59.9139,
-        "lng": 10.7522
-      },
-      "category": "health",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "sport/2026/jun/22/aramco-petrodollar-world-cup-football-sportswashing-the-hotspot",
-      "headline": "Aramco’s petrodollar backing of World Cup leaves stain of sportswashing",
-      "summary": "Aramco's World Cup sponsorship criticised as sportswashing by Saudi Arabia's state oil giant.",
-      "url": "https://www.theguardian.com/p/x5agmk",
-      "thumbnail": "https://media.guim.co.uk/8495ceb0049f5b69835e10b1e43486fe43a3f840/419_0_4275_3420/500.jpg",
-      "published": "2026-06-22T10:39:10Z",
-      "location": {
-        "name": "Saudi Arabia",
-        "lat": 23.8859,
-        "lng": 45.0792
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "sport"
-    },
-    {
-      "id": "world/live/2026/jun/22/zelenskyy-ukraine-russia-drones-europe-heatwave-trump-meloni-latest-news-updates",
-      "headline": "Zelenskyy pledges to ‘bring war back to Russia’ after drones swarm toward Moscow – Europe live",
-      "summary": "Zelenskyy vows to escalate war as Russia intercepts 300 Ukrainian drones near Moscow.",
-      "url": "https://www.theguardian.com/p/x5bb3m",
-      "thumbnail": "https://media.guim.co.uk/6bdace2442fcb871025b3e0a0b6b2f73291af6f9/488_0_4760_3808/500.jpg",
-      "published": "2026-06-22T10:30:28Z",
-      "location": {
-        "name": "Moscow",
-        "lat": 55.7558,
-        "lng": 37.6173
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "business/live/2026/jun/22/oil-prices-fall-stock-markets-rise-us-iran-peace-talks-trump-burnham-starmer-pound-ftse-hormuz-business-live",
-      "headline": "Pound and UK bonds holds steady as prime minister Keir Starmer confirms resignation – business live ",
-      "summary": "UK PM Keir Starmer resigns; markets steady amid Iran peace talks progress.",
-      "url": "https://www.theguardian.com/p/x5baq8",
-      "thumbnail": "https://media.guim.co.uk/760b7559d6dd93c7f0e717235782e158b5777606/1266_0_7200_5760/500.jpg",
-      "published": "2026-06-22T10:24:59Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "business"
-    },
-    {
-      "id": "football/2026/jun/22/cape-verdeans-thoughts-world-cup-2026-performance-so-far",
-      "headline": "Cape Verdeans what are your thoughts on Cape Verde’s World Cup 2026 performance so far? ",
-      "summary": "Cape Verde stuns at World Cup 2026 with draw against Uruguay in fairytale debut.",
-      "url": "https://www.theguardian.com/p/x5bby5",
-      "thumbnail": "https://media.guim.co.uk/9744325882056bfc4eb405ae5abfd0e2b3a40dd1/451_0_4490_3592/500.jpg",
-      "published": "2026-06-22T10:23:06Z",
-      "location": {
-        "name": "Cape Verde",
-        "lat": 16.7367,
-        "lng": -23.6305
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "world/2026/jun/22/ukraine-intensifies-attacks-on-crimea-to-raise-cost-of-russia-occupation",
-      "headline": "Ukraine intensifies attacks on Crimea to raise cost of Russian occupation",
-      "summary": "Ukraine intensifies strikes on Crimea using 'long-range sanctions' strategy to isolate peninsula.",
-      "url": "https://www.theguardian.com/p/x5bbgc",
-      "thumbnail": "https://media.guim.co.uk/a55c1484c606d15245d11c28d06da595a82296c7/96_0_4435_3551/500.jpg",
-      "published": "2026-06-22T10:22:37Z",
-      "location": {
-        "name": "Crimea",
-        "lat": 44.9925,
-        "lng": 34.1097
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "environment/2026/jun/22/weather-tracker-extreme-heat-in-europe-as-typhoon-strengthens-off-philippines",
-      "headline": "Weather tracker: Extreme heat in Europe as typhoon strengthens off Philippines ",
-      "summary": "Extreme heat shifts eastward across Europe as typhoon strengthens off Philippines.",
-      "url": "https://www.theguardian.com/p/x5bbfk",
-      "thumbnail": "https://media.guim.co.uk/b48a59b4562e3028390ffcdbb99573925f457f2d/332_0_5200_4160/500.jpg",
-      "published": "2026-06-22T10:17:56Z",
-      "location": {
-        "name": "Eastern Europe",
-        "lat": 52.1288,
-        "lng": 19.1447
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "environment"
-    },
-    {
-      "id": "environment/2026/jun/22/europe-record-heatwave-temperatures-forecast-reach-44c",
-      "headline": "Europe suffers under record heatwave as temperatures forecast to reach 44C",
-      "summary": "Record heatwave sweeps Western Europe with temps reaching 44C, causing deaths and disruptions.",
-      "url": "https://www.theguardian.com/p/x5bb9c",
-      "thumbnail": "https://media.guim.co.uk/522f8cffffdca78358b8133c021b0cc397657986/530_0_4346_3477/500.jpg",
-      "published": "2026-06-22T10:14:40Z",
-      "location": {
-        "name": "France",
-        "lat": 46.2276,
-        "lng": 2.2137
-      },
-      "category": "climate",
-      "significance": 3,
-      "section": "environment"
-    },
     {
       "id": "football/live/2026/jun/22/world-cup-2026-cape-verde-continue-remarkable-story-messi-mbappe-and-haaland-return-live",
       "headline": "World Cup 2026: Cape Verde celebrations; Norway v Senegal weather warning; L’Équipe apologises to Doku – live",
@@ -1238,6 +966,182 @@
       "category": "economy",
       "significance": 2,
       "section": "australia-news"
+    },
+    {
+      "id": "us-news/live/2026/jun/23/primary-elections-ny-maryland-utah-supreme-court-ruling-politics-latest-updates",
+      "headline": "Primary voting begins in New York, Maryland and Utah – US politics live",
+      "summary": "Primary elections held in New York, Maryland, and Utah with progressive endorsements and Super PAC funding.",
+      "url": "https://www.theguardian.com/p/x5bh8c",
+      "thumbnail": "https://media.guim.co.uk/fb727b13865e906bc8692660e2a9799b459b1767/1365_0_6827_5464/500.jpg",
+      "published": "2026-06-23T11:52:32Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "world/live/2026/jun/23/iran-us-israel-lebanon-un-peace-deal-nuclear-iaea-frozen-assets-strait-of-hormuz-latest-news-updates",
+      "headline": "Middle East crisis live: Trump claims Iran has agreed to nuclear inspections ‘long into future’, accusing Tehran of ‘false statements’",
+      "summary": "Trump claims Iran agreed to nuclear inspections while tensions persist over IAEA site access and oil flows.",
+      "url": "https://www.theguardian.com/p/x5bh5c",
+      "thumbnail": "https://media.guim.co.uk/0638eec0751f6a1500c438d6b62a4fed09ae8926/515_266_6466_5172/500.jpg",
+      "published": "2026-06-23T11:51:41Z",
+      "location": {
+        "name": "Iran",
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "community/live/2026/jun/23/reader-qa-ask-rafael-behr-your-questions-now",
+      "headline": "Reader Q&A: ask Rafael Behr your questions now ",
+      "summary": "Guardian Q&A with Rafael Behr on Brexit at 10 years and current British political developments.",
+      "url": "https://www.theguardian.com/p/x5bh99",
+      "thumbnail": "https://media.guim.co.uk/6b9c450684dd03d76ae3e9683f1e38f930fddd08/0_0_5154_4124/500.jpg",
+      "published": "2026-06-23T11:45:42Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "community"
+    },
+    {
+      "id": "music/2026/jun/23/benjamin-britten-bergen-belsen-yehudi-menuhin-anita-lasker-wallfisch",
+      "headline": "The experience that coloured everything Britten went on to write",
+      "summary": "Benjamin Britten's 1945 Bergen-Belsen concert profoundly influenced his compositions, survivor shares memory.",
+      "url": "https://www.theguardian.com/p/x56g8t",
+      "thumbnail": "https://media.guim.co.uk/8212613a89fd85e10ec0894bbb38235b4af5dfc8/129_0_5696_4560/500.png",
+      "published": "2026-06-23T11:40:19Z",
+      "location": {
+        "name": "Bergen-Belsen",
+        "lat": 52.7582,
+        "lng": 9.9055
+      },
+      "category": "culture",
+      "significance": 3,
+      "section": "music"
+    },
+    {
+      "id": "politics/2026/jun/23/nigel-farage-5m-gift-crypto-billionaire-not-any-of-your-business",
+      "headline": "Nigel Farage: I can spend £5m gift on Ferraris or bet on horses if I want",
+      "summary": "Nigel Farage defends £5m crypto billionaire gift as private matter amid ethics scrutiny.",
+      "url": "https://www.theguardian.com/p/x5bgzd",
+      "thumbnail": "https://media.guim.co.uk/0e13ae76d9caf2e85dfbf6112460ac2b6edaca64/315_130_2514_2011/500.jpg",
+      "published": "2026-06-23T11:33:56Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "us-news/2026/jun/23/datacenters-climate-hazards-study",
+      "headline": "Majority of datacenters are vulnerable to climate threats like floods and fires, study finds",
+      "summary": "Study finds 80% of US datacenters vulnerable to climate hazards despite contributing to emissions.",
+      "url": "https://www.theguardian.com/p/x5bdtq",
+      "thumbnail": "https://media.guim.co.uk/beeb1b282a4c9873eb541eec6c02f74961e097c3/116_319_2911_2329/500.jpg",
+      "published": "2026-06-23T11:30:26Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "climate",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "commentisfree/2026/jun/23/keir-starmer-uk-prime-minister-peter-mandelson-gaza",
+      "headline": "Look at Keir Starmer’s tenure as prime minister. This is no ‘decent man’ who got unlucky",
+      "summary": "Owen Jones critiques Keir Starmer's troubled tenure as UK prime minister with Gaza and policy failures.",
+      "url": "https://www.theguardian.com/p/x5bdvx",
+      "thumbnail": "https://media.guim.co.uk/874db87ae6e9eb94e4dbb11d4411b19bf2dab5cd/307_0_3333_2667/500.jpg",
+      "published": "2026-06-23T11:20:04Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "commentisfree"
+    },
+    {
+      "id": "environment/2026/jun/23/britain-cod-soaring-prices-fish-chip-shop-favourite-cheaper-options",
+      "headline": "Can the UK kick its cod habit? Fish and chip shop favourite slips down the menu as prices soar",
+      "summary": "UK cod prices double since 2019, fish shops explore cheaper alternatives like pollack and coley.",
+      "url": "https://www.theguardian.com/p/x59qq2",
+      "thumbnail": "https://media.guim.co.uk/46f487452c95de3f1d946cce7f6f0f01c8bbb3e1/557_0_4323_3458/500.jpg",
+      "published": "2026-06-23T11:00:25Z",
+      "location": {
+        "name": "United Kingdom",
+        "lat": 55.3781,
+        "lng": -3.436
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "environment"
+    },
+    {
+      "id": "uk-news/2026/jun/23/south-yorkshire-police-video-officers-teenage-girls-rotherham",
+      "headline": "South Yorkshire police investigate video of officers appearing to shove teenage girls",
+      "summary": "South Yorkshire police investigate video of officers appearing to shove teenage girls in Rotherham.",
+      "url": "https://www.theguardian.com/p/x5bhbh",
+      "thumbnail": "https://media.guim.co.uk/c14300c7d738b35051666d33d3d2c067ba26ad35/1120_0_5600_4480/500.jpg",
+      "published": "2026-06-23T10:55:23Z",
+      "location": {
+        "name": "Rotherham",
+        "lat": 53.4301,
+        "lng": -1.3564
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "business/2026/jun/23/royal-mail-ids-martin-seidenberg-pay-profits-uk-postal-service",
+      "headline": "Royal Mail boss’s pay package soars to £6.9m despite profits slide",
+      "summary": "Royal Mail CEO Martin Seidenberg's pay soars to £6.9m despite 20% profit decline.",
+      "url": "https://www.theguardian.com/p/x5bh57",
+      "thumbnail": "https://media.guim.co.uk/356e75e891122c89cf682720896431a15220349f/344_0_3440_2752/500.jpg",
+      "published": "2026-06-23T10:53:39Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "world/2026/jun/23/scientists-alarmed-wildfires-greenland",
+      "headline": "Scientists alarmed after two wildfires hit Greenland within a week",
+      "summary": "Two wildfires hit Arctic Greenland within a week, alarming scientists about early season fires.",
+      "url": "https://www.theguardian.com/p/x5bcpj",
+      "thumbnail": "https://media.guim.co.uk/eb8da3cb3e1b88ae78cd69f945f5ea1f79497f72/405_0_2813_2252/500.jpg",
+      "published": "2026-06-23T10:44:56Z",
+      "location": {
+        "name": "Greenland",
+        "lat": 71.7069,
+        "lng": -42.6043
+      },
+      "category": "climate",
+      "significance": 3,
+      "section": "world"
     }
   ]
 }
