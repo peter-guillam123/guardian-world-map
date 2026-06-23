@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-06-23T17:12:34.320Z",
-    "story_count": 78,
-    "oldest_story": "2026-06-22T18:46:14Z",
-    "newest_story": "2026-06-23T17:11:20Z",
+    "generated_at": "2026-06-23T19:20:43.060Z",
+    "story_count": 83,
+    "oldest_story": "2026-06-22T19:27:19Z",
+    "newest_story": "2026-06-23T19:16:47Z",
     "window_hours": 24
   },
   "stories": [
@@ -22,70 +22,6 @@
       "category": "sport",
       "significance": 2,
       "section": "sport"
-    },
-    {
-      "id": "football/2026/jun/22/argentina-austria-world-cup-group-j-match-report",
-      "headline": "Irrepressible Messi breaks World Cup scoring record as Argentina beat Austria",
-      "summary": "Messi breaks World Cup scoring record with two goals as Argentina defeats Austria 2-0.",
-      "url": "https://www.theguardian.com/p/x5bc3y",
-      "thumbnail": "https://media.guim.co.uk/338f0b546dffae93169d62e4e6a398109d461a22/342_0_4906_3926/500.jpg",
-      "published": "2026-06-22T19:16:25Z",
-      "location": {
-        "name": "Dallas",
-        "lat": 32.7767,
-        "lng": -96.797
-      },
-      "category": "sport",
-      "significance": 4,
-      "section": "football"
-    },
-    {
-      "id": "us-news/2026/jun/22/new-york-city-house-primary-race",
-      "headline": "New York City House primary emerges as key battleground in ‘AI civil war’ ",
-      "summary": "AI-focused Super PACs spend $49m in Manhattan House primary as key battleground in midterms.",
-      "url": "https://www.theguardian.com/p/x5aj9z",
-      "thumbnail": "https://media.guim.co.uk/8091497a8dca24c03335f3424508d6ecd42aece6/451_0_5866_4694/500.jpg",
-      "published": "2026-06-22T19:03:45Z",
-      "location": {
-        "name": "New York City",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "politics/2026/jun/22/andy-burnham-supporters-divided-chancellor-ed-miliband-wes-streeting",
-      "headline": "Andy Burnham supporters divided over who should be his chancellor",
-      "summary": "Briefing war erupts between Burnham supporters over whether Streeting or Miliband should be chancellor.",
-      "url": "https://www.theguardian.com/p/x5bde6",
-      "thumbnail": "https://media.guim.co.uk/49c05e952b2801fb494716184613b976473ab078/2210_279_2350_1880/500.jpg",
-      "published": "2026-06-22T18:55:42Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "us-news/2026/jun/22/federal-subpoenas-minnesota-officials-order",
-      "headline": "Judge blocks subpoenas for Walz and others over Minnesota immigration crackdown",
-      "summary": "Federal judge blocks subpoenas for Minnesota officials linked to Trump's immigration crackdown.",
-      "url": "https://www.theguardian.com/p/x5bdyq",
-      "thumbnail": "https://media.guim.co.uk/7c0025fa869528cb2792896bf55203d14d2a137f/0_456_3516_2811/500.jpg",
-      "published": "2026-06-22T18:46:14Z",
-      "location": {
-        "name": "Minneapolis",
-        "lat": 44.9778,
-        "lng": -93.265
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
     },
     {
       "id": "australia-news/live/2026/jun/23/australia-politics-live-nsw-queensland-budget-capital-gains-tax-negative-gearing-ndis-senate-question-time-labor-coalition-anthony-albanese-angus-taylor-ntwnfb",
@@ -1254,6 +1190,150 @@
       "category": "culture",
       "significance": 1,
       "section": "media"
+    },
+    {
+      "id": "football/live/2026/jun/23/england-v-ghana-world-cup-2026-live",
+      "headline": "England v Ghana: World Cup 2026 – live",
+      "summary": "England faces Ghana in World Cup 2026 match in Boston with live coverage.",
+      "url": "https://www.theguardian.com/p/x5bcmy",
+      "thumbnail": "https://media.guim.co.uk/e660e7c614429a49756d884179da737407cb1110/235_0_4159_3327/500.jpg",
+      "published": "2026-06-23T19:16:47Z",
+      "location": {
+        "name": "Boston",
+        "lat": 42.3601,
+        "lng": -71.0589
+      },
+      "category": "sport",
+      "significance": 4,
+      "section": "football"
+    },
+    {
+      "id": "world/2026/jun/23/israel-deliberately-targeting-gaza-children-to-commit-genocide-un-inquiry-finds",
+      "headline": "Israel continues to commit genocide by targeting children in Gaza, UN inquiry finds",
+      "summary": "UN inquiry finds Israel committing genocide by deliberately targeting Palestinian children in Gaza.",
+      "url": "https://www.theguardian.com/p/x5bj59",
+      "thumbnail": "https://media.guim.co.uk/0ce717763ff5a58b042140fab805e2dcf7259cde/0_0_2798_2239/500.jpg",
+      "published": "2026-06-23T18:56:11Z",
+      "location": {
+        "name": "Gaza",
+        "lat": 31.9454,
+        "lng": 35.2338
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "politics/2026/jun/23/dan-jarvis-promises-delayed-uk-defence-investment-plan-before-nato-summit",
+      "headline": "UK defence secretary promises delayed investment plan before Nato summit",
+      "summary": "UK defence secretary Dan Jarvis promises delayed investment plan before NATO summit.",
+      "url": "https://www.theguardian.com/p/x5btzp",
+      "thumbnail": "https://media.guim.co.uk/f691582bb3ea87d79194d9a033ace6caa9a50e5c/429_0_4285_3428/500.jpg",
+      "published": "2026-06-23T18:50:38Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "politics/2026/jun/23/timeline-what-farage-has-said-about-the-5m-gift-from-a-crypto-billionaire",
+      "headline": "Timeline: what Farage has said about the £5m gift from a crypto-billionaire",
+      "summary": "Nigel Farage addresses scrutiny over £5m gift from crypto-billionaire backer.",
+      "url": "https://www.theguardian.com/p/x5bt24",
+      "thumbnail": "https://media.guim.co.uk/87526c99a7cf252823395ebeb970376218cac010/597_24_3731_2986/500.jpg",
+      "published": "2026-06-23T18:49:47Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "politics/2026/jun/23/populist-and-rightwing-figures-take-aim-at-ed-miliband-and-uk-net-zero-policies-at-anti-woke-davos",
+      "headline": "Hard-right figures take aim at Ed Miliband and UK net zero policies at ‘anti-woke Davos’",
+      "summary": "Hard-right figures criticize Ed Miliband's net zero policies at 'anti-woke Davos' conference.",
+      "url": "https://www.theguardian.com/p/x5bj6h",
+      "thumbnail": "https://media.guim.co.uk/61424753c616528c67d820bd6dd63076af7b0016/132_0_5000_4000/500.jpg",
+      "published": "2026-06-23T18:45:57Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "environment"
+    },
+    {
+      "id": "business/2026/jun/23/electricity-prices-jump-in-europe-as-demands-soars-in-the-heatwave",
+      "headline": "Europe’s heatwave drives electricity prices to new highs as demand soars",
+      "summary": "European heatwave drives electricity prices to record highs as demand surges.",
+      "url": "https://www.theguardian.com/p/x5btf7",
+      "thumbnail": "https://media.guim.co.uk/18d047a10767d294721b3d68ddce786338796773/500_0_5000_4000/500.jpg",
+      "published": "2026-06-23T18:41:26Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "climate",
+      "significance": 3,
+      "section": "business"
+    },
+    {
+      "id": "world/2026/jun/23/marco-rubio-gulf-allies-us-iran-ceasefire-deal",
+      "headline": "Rubio insists strait of Hormuz will be toll-free as he arrives for Gulf meeting",
+      "summary": "Marco Rubio reassures Gulf allies on strait of Hormuz access in US-Iran ceasefire talks.",
+      "url": "https://www.theguardian.com/p/x5bhka",
+      "thumbnail": "https://media.guim.co.uk/8bae0249e1909e37cc0e951ef613ef43fb2a15b2/0_53_3949_3160/500.jpg",
+      "published": "2026-06-23T18:37:39Z",
+      "location": {
+        "name": "Persian Gulf",
+        "lat": 27.0007,
+        "lng": 52.4094
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "environment/2026/jun/23/searing-uk-heat-leaves-schools-hospitals-and-transport-networks-struggling-to-cope",
+      "headline": "Searing UK heat leaves schools, hospitals and transport networks struggling to cope",
+      "summary": "UK heatwave reaches 34.6C, overwhelming schools, hospitals and transport networks.",
+      "url": "https://www.theguardian.com/p/x5btny",
+      "thumbnail": "https://media.guim.co.uk/25a305909ecd27e276f54ff53acce98100817512/33_0_3995_3196/500.jpg",
+      "published": "2026-06-23T18:18:16Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "climate",
+      "significance": 3,
+      "section": "environment"
+    },
+    {
+      "id": "politics/2026/jun/23/burnham-and-starmer-hold-frosty-meeting-to-thrash-out-transition-of-power",
+      "headline": "Burnham and Starmer hold ‘frosty’ meeting to thrash out transition of power ",
+      "summary": "Starmer and Burnham hold frosty meeting to plan power transition with civil service access.",
+      "url": "https://www.theguardian.com/p/x5btdn",
+      "thumbnail": "https://media.guim.co.uk/237144a6371cf04ab8cb9aaf8aa63d17ee3328cb/0_0_5000_4000/500.jpg",
+      "published": "2026-06-23T18:17:36Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
     }
   ]
 }
