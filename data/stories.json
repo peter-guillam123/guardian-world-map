@@ -1,60 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-23T22:39:34.188Z",
-    "story_count": 83,
-    "oldest_story": "2026-06-22T22:40:40Z",
-    "newest_story": "2026-06-23T22:30:27Z",
+    "generated_at": "2026-06-23T23:41:16.981Z",
+    "story_count": 86,
+    "oldest_story": "2026-06-23T00:19:09Z",
+    "newest_story": "2026-06-23T23:28:04Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "technology/2026/jun/23/met-to-expand-live-facial-recognition-central-london",
-      "headline": "Met to expand use of live facial recognition into central London by Christmas",
-      "summary": "Met police expands live facial recognition to West End by Christmas.",
-      "url": "https://www.theguardian.com/p/x5bdcv",
-      "thumbnail": "https://media.guim.co.uk/df1030acb076d3e304d806e4ecc3dc84a4ee478e/335_0_6303_5042/500.jpg",
-      "published": "2026-06-22T23:01:24Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "tech",
-      "significance": 2,
-      "section": "technology"
-    },
-    {
-      "id": "us-news/2026/jun/22/us-senate-housing-bill",
-      "headline": "US Senate passes bipartisan bill to lower housing costs",
-      "summary": "Senate passes bipartisan housing bill to boost supply and limit investors.",
-      "url": "https://www.theguardian.com/p/x5bdev",
-      "thumbnail": "https://media.guim.co.uk/732c71c9304f0e19bd5ae8422e81e5544614be47/500_0_5000_4000/500.jpg",
-      "published": "2026-06-22T22:44:07Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/jun/22/reflecting-pool-trump-drained",
-      "headline": "Reflecting pool to be drained again as Trump claims five vandalism arrests",
-      "summary": "Lincoln Memorial reflecting pool to be drained again after vandalism claims.",
-      "url": "https://www.theguardian.com/p/x5be9f",
-      "thumbnail": "https://media.guim.co.uk/3bc55e67f75892c2d78ab44f0252166bcd1f380e/126_0_3779_3024/500.jpg",
-      "published": "2026-06-22T22:40:40Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
     {
       "id": "football/live/2026/jun/22/norway-v-senegal-world-cup-2026-live",
       "headline": "Norway v Senegal: World Cup 2026 – live",
@@ -1334,6 +1286,102 @@
       "category": "health",
       "significance": 2,
       "section": "australia-news"
+    },
+    {
+      "id": "us-news/2026/jun/23/reflecting-pool-arrest-washington-dc",
+      "headline": "Man arrested near Trump’s reflecting pool plans to fight obscenity charge",
+      "summary": "Man arrested near National Mall reflecting pool plans to fight obscenity charge related to Trump renovation.",
+      "url": "https://www.theguardian.com/p/x5bkg8",
+      "thumbnail": "https://media.guim.co.uk/5d504d8d3a03bb26181444f5e776b496b9931f15/500_0_5000_4000/500.jpg",
+      "published": "2026-06-23T23:28:04Z",
+      "location": {
+        "name": "Washington, D.C.",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "environment/2026/jun/24/weakening-net-zero-policy-damage-economy-climate-change-committee",
+      "headline": "Weakening UK net zero policy would damage economy, chief climate adviser says",
+      "summary": "UK climate adviser warns weakening net zero policy would damage economy and investor confidence.",
+      "url": "https://www.theguardian.com/p/x5btk8",
+      "thumbnail": "https://media.guim.co.uk/4a2bebb57d6896efa4b2eb80b6e579f7ef0e9988/547_0_5755_4608/500.jpg",
+      "published": "2026-06-23T23:01:29Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "environment"
+    },
+    {
+      "id": "business/2026/jun/24/adidas-uniqlo-calvin-klein-ads-banned-asa-uk-recycled",
+      "headline": "Adidas, Uniqlo and Calvin Klein ads in UK banned over ‘recycled’ clothing claims",
+      "summary": "UK regulator bans ads by Adidas, Uniqlo, Calvin Klein over unproven 'recycled' clothing claims.",
+      "url": "https://www.theguardian.com/p/x5bhqm",
+      "thumbnail": "https://media.guim.co.uk/b1fdc80b7280139fb5def1637291cc9266b7f6c6/618_187_3391_2713/500.jpg",
+      "published": "2026-06-23T23:01:28Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "environment/2026/jun/24/deaths-london-air-pollution-fallen-imperial-college",
+      "headline": "Deaths linked to London air pollution have fallen 40%, study estimates ",
+      "summary": "Air pollution deaths in London fell 40% over five years, study finds ultra-low emission zone effective.",
+      "url": "https://www.theguardian.com/p/x5bthn",
+      "thumbnail": "https://media.guim.co.uk/ec9b59ccc37be93f9cbc2bf8cc605b696db788f9/224_0_2918_2333/500.jpg",
+      "published": "2026-06-23T23:01:28Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "environment"
+    },
+    {
+      "id": "politics/2026/jun/23/andy-burnham-picks-former-blair-minister-james-purnell-as-his-chief-of-staff",
+      "headline": "Andy Burnham picks former Blair minister James Purnell as chief of staff",
+      "summary": "Andy Burnham appoints former Blair minister James Purnell as chief of staff.",
+      "url": "https://www.theguardian.com/p/x5bk7p",
+      "thumbnail": "https://media.guim.co.uk/5afeeef02038eda7614c51f3c15aaadd6b462f91/256_283_2681_2144/500.jpg",
+      "published": "2026-06-23T22:51:45Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "business/2026/jun/23/card-payments-outage-during-england-match-hits-pubs-and-shops",
+      "headline": "Card payments outage hits pubs and shops during England match",
+      "summary": "Card payment outage at UK retailers and pubs affects transactions during England World Cup match.",
+      "url": "https://www.theguardian.com/p/x5bkdz",
+      "thumbnail": "https://media.guim.co.uk/638d53fb17f4382512f8a335204cb99e8749b610/267_0_3334_2667/500.jpg",
+      "published": "2026-06-23T22:50:04Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
     }
   ]
 }
