@@ -1,140 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-23T01:25:35.135Z",
+    "generated_at": "2026-06-23T05:45:39.653Z",
     "story_count": 66,
-    "oldest_story": "2026-06-22T04:30:49Z",
-    "newest_story": "2026-06-23T01:25:11Z",
+    "oldest_story": "2026-06-22T10:14:40Z",
+    "newest_story": "2026-06-23T05:41:52Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "world/2026/jun/22/h5n1-bird-flu-australia-wild-birds-wa-poultry-farms-locked-down",
-      "headline": "Western Australian poultry farms locked down as second wild bird tests positive for H5N1 bird flu",
-      "summary": "H5N1 bird flu detected in wild birds; WA poultry farms locked down by Ingham's Group.",
-      "url": "https://www.theguardian.com/p/x5b9p2",
-      "thumbnail": "https://media.guim.co.uk/2666503b5d51c72c2d3be6f4eb91148f4e4fb5cb/0_910_3024_2419/500.jpg",
-      "published": "2026-06-22T05:16:37Z",
-      "location": {
-        "name": "Western Australia",
-        "lat": -25.2744,
-        "lng": 133.7751
-      },
-      "category": "health",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "uk-news/2026/jun/22/battle-begins-for-burnham-greater-manchester-mayoral-crown",
-      "headline": "After Burnham’s reign, battle begins for Greater Manchester’s mayoral crown",
-      "summary": "Election scheduled for July 30 to fill Greater Manchester mayor role vacated by Burnham.",
-      "url": "https://www.theguardian.com/p/x5b6pq",
-      "thumbnail": "https://media.guim.co.uk/fda073058f49c862526142681bb785cf5a2adcac/187_0_7054_5643/500.jpg",
-      "published": "2026-06-22T05:00:52Z",
-      "location": {
-        "name": "Greater Manchester",
-        "lat": 53.4808,
-        "lng": -2.2426
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "sport/2026/jun/22/england-bangladesh-test-2027-ashes-series",
-      "headline": "England to face Bangladesh in one-off Test in preparation for Ashes series",
-      "summary": "England to play Bangladesh in May warm-up Test before 2027 Ashes series at Lord's.",
-      "url": "https://www.theguardian.com/p/x5b7vz",
-      "thumbnail": "https://media.guim.co.uk/027e6b103ca4073ed25d5f61c43601c53cd0efcd/558_0_4872_3897/500.jpg",
-      "published": "2026-06-22T05:00:52Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "money/2026/jun/22/gen-z-earning-more-millennials-same-age-resolution-foundation",
-      "headline": "Gen Z earning more than millennials did at the same age, says thinktank",
-      "summary": "Gen Z workers earn more at age 24 than millennials did, shows Resolution Foundation study.",
-      "url": "https://www.theguardian.com/p/x5b76t",
-      "thumbnail": "https://media.guim.co.uk/bab339ae759d6466ff8385978e442172eb396a2e/106_0_2331_1864/500.jpg",
-      "published": "2026-06-22T05:00:51Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "money"
-    },
-    {
-      "id": "science/2026/jun/22/starwatch-how-to-spot-hercules-the-hero-jewel-of-the-summer-skies",
-      "headline": "Starwatch: how to spot Hercules the hero, jewel of the summer skies",
-      "summary": "Starwatch column guides readers to locate constellation Hercules in summer night sky.",
-      "url": "https://www.theguardian.com/p/x562qd",
-      "thumbnail": "https://media.guim.co.uk/1c56f9a317f6dcbe1469b48ac0f0d5209b8bb39a/68_0_1583_1266/500.jpg",
-      "published": "2026-06-22T05:00:51Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "science"
-    },
-    {
-      "id": "uk-news/2026/jun/22/top-officer-says-anti-racism-guidance-has-fuelled-myth-of-two-tier-policing",
-      "headline": "Top officer says anti-racism guidance has fuelled myth of two-tier policing",
-      "summary": "Chief constable refutes two-tier policing claims but acknowledges anti-racism guidance confusion.",
-      "url": "https://www.theguardian.com/p/x5ag8b",
-      "thumbnail": "https://media.guim.co.uk/9b92476b746784d2c047d1a3d9adf50eca379ff7/153_0_2918_2334/500.jpg",
-      "published": "2026-06-22T05:00:50Z",
-      "location": {
-        "name": "Greater Manchester",
-        "lat": 53.4808,
-        "lng": -2.2426
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "football/2026/jun/22/cape-verde-cabo-world-cup-football-team-country-best-players-explained",
-      "headline": "Where is Cape Verde? Meet the tiny African island nation upsetting World Cup giants",
-      "summary": "Cape Verde shocks Spain in World Cup debut draw; island nation upsets tournament favorites.",
-      "url": "https://www.theguardian.com/p/x5b9hq",
-      "thumbnail": "https://media.guim.co.uk/d945b82fb85e80d84fea3e47085f20b4bee4d4ad/223_0_5098_4077/500.jpg",
-      "published": "2026-06-22T04:57:02Z",
-      "location": {
-        "name": "Cape Verde",
-        "lat": 16.7368,
-        "lng": -23.6081
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "environment/2026/jun/22/country-diary-somewhere-in-the-vast-forest-is-a-miniature-one",
-      "headline": "Country diary: Somewhere in the vast forest is a miniature one",
-      "summary": "Country diary: Observer searches for twinflowers in Abernethy forest's Scots pine woodland.",
-      "url": "https://www.theguardian.com/p/x58ft7",
-      "thumbnail": "https://media.guim.co.uk/7fe53927a4234a7b62f6d9509d4951772bd62eee/197_0_1968_1575/500.jpg",
-      "published": "2026-06-22T04:30:49Z",
-      "location": {
-        "name": "Cairngorms",
-        "lat": 57.1825,
-        "lng": -3.6514
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "environment"
-    },
     {
       "id": "world/live/2026/jun/22/middle-east-crisis-iran-us-peace-talks-switzerland-strait-of-hormuz-latest-news-updates",
       "headline": "Middle East crisis live: Iran’s negotiating team leaves Switzerland after ‘constructive progress’ in first round of talks",
@@ -1062,6 +934,134 @@
       "category": "sport",
       "significance": 2,
       "section": "football"
+    },
+    {
+      "id": "world/live/2026/jun/23/europe-heatwave-live-news-updates-uk-red-temperature-warnings-40-degrees-france-heat-deaths-crisis-meeting",
+      "headline": "Europe heatwave live: UK issues rare red temperature warnings; French PM to hold crisis meeting after heat deaths",
+      "summary": "UK issues rare red temperature warnings as heatwave could hit 40C; France reports 19 heat deaths.",
+      "url": "https://www.theguardian.com/p/x5bf25",
+      "thumbnail": "https://media.guim.co.uk/c2f82b886c0cff489bbd744221d987414153008b/579_0_2921_2336/500.jpg",
+      "published": "2026-06-23T05:41:52Z",
+      "location": {
+        "name": "United Kingdom",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "climate",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "australia-news/2026/jun/23/labor-greens-deal-capital-gains-tax-negative-gearing-reforms",
+      "headline": "Labor reaches deal with the Greens to pass changes to capital gains tax and negative gearing reforms ",
+      "summary": "Australian Labor reaches deal with Greens to pass capital gains tax and negative gearing reforms.",
+      "url": "https://www.theguardian.com/p/x5bfve",
+      "thumbnail": "https://media.guim.co.uk/b5a9ebcecbd61cb9fad57c469eda693a4cccf8fb/0_0_5000_4000/500.jpg",
+      "published": "2026-06-23T05:30:24Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "uk-news/2026/jun/23/heatwave-1976-extreme-heat-climate-crisis-new-normal",
+      "headline": "Remembering summer 1976: how the historic heatwave has become our new normal",
+      "summary": "Britain braces for 40C temperatures as 1976 historic heatwave becomes the new climate normal.",
+      "url": "https://www.theguardian.com/p/x5bd57",
+      "thumbnail": "https://media.guim.co.uk/ad86ee80500bd85186509b4f271b2b4d68f66bc7/0_37_2801_2240/500.jpg",
+      "published": "2026-06-23T05:01:31Z",
+      "location": {
+        "name": "United Kingdom",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "climate",
+      "significance": 3,
+      "section": "uk-news"
+    },
+    {
+      "id": "commentisfree/2026/jun/23/three-guardian-columnists-debate-brexit-legacy",
+      "headline": "‘I feel entirely vindicated’: three Guardian columnists debate Brexit and its legacy",
+      "summary": "Three Guardian columnists debate Brexit's legacy ten years after UK's EU referendum vote.",
+      "url": "https://www.theguardian.com/p/x5bcxe",
+      "thumbnail": "https://media.guim.co.uk/d20c68b34f58582c91665d2ad0289f3c76ec939e/0_0_3205_2565/500.png",
+      "published": "2026-06-23T05:00:32Z",
+      "location": {
+        "name": "United Kingdom",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "commentisfree"
+    },
+    {
+      "id": "society/2026/jun/23/drug-that-delays-onset-of-type-1-diabetes-approved-in-england-and-wales",
+      "headline": "Drug that delays onset of type 1 diabetes approved in England and Wales",
+      "summary": "Teplizumab, world's first drug delaying type 1 diabetes onset, approved on NHS in England and Wales.",
+      "url": "https://www.theguardian.com/p/x5bdva",
+      "thumbnail": "https://media.guim.co.uk/1483724c22fc96f083e17e88ad4bbcbc73639ee5/239_0_6461_5168/500.jpg",
+      "published": "2026-06-23T05:00:31Z",
+      "location": {
+        "name": "United Kingdom",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 3,
+      "section": "society"
+    },
+    {
+      "id": "politics/2026/jun/23/from-the-nhs-to-new-homes-starmers-successes-and-setbacks-in-charts",
+      "headline": "From the NHS to new homes, Starmer’s successes and setbacks – in charts",
+      "summary": "PM Keir Starmer steps down after two years in office amid Peter Mandelson appointment fallout.",
+      "url": "https://www.theguardian.com/p/x532mc",
+      "thumbnail": "https://media.guim.co.uk/07fff8236208a8e4f1e6838d6cf984b778fc41ea/1_0_4998_4000/500.jpg",
+      "published": "2026-06-23T05:00:31Z",
+      "location": {
+        "name": "United Kingdom",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "politics"
+    },
+    {
+      "id": "media/2026/jun/23/karl-stefanovic-uk-far-right-tommy-robinson-podcast-video-ntwnfb",
+      "headline": "Karl Stefanovic embraces UK far-right activist Tommy Robinson in video promoting podcast ",
+      "summary": "Karl Stefanovic embraces UK far-right activist Tommy Robinson on podcast, calls Starmer vulgar.",
+      "url": "https://www.theguardian.com/p/x5bf6b",
+      "thumbnail": "https://media.guim.co.uk/1d1e05ca81c95def0d4110754b27aeb4a48b4118/0_227_1210_968/500.jpg",
+      "published": "2026-06-23T04:48:47Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "media"
+    },
+    {
+      "id": "environment/2026/jun/23/iran-war-oil-prices-hormuz-el-nino-south-east-asia-impact",
+      "headline": "‘Compound shock effect’: why the Middle East crisis and El Niño could spell disaster in south-east Asia",
+      "summary": "Middle East crisis and El Niño threaten south-east Asia's food security amid strait of Hormuz closure.",
+      "url": "https://www.theguardian.com/p/x5b9et",
+      "thumbnail": "https://media.guim.co.uk/b6e09d490adc4c206cb3c98517290c9d623cba72/447_0_2917_2334/500.jpg",
+      "published": "2026-06-23T04:39:55Z",
+      "location": {
+        "name": "Bangkok",
+        "lat": 13.7563,
+        "lng": 100.5018
+      },
+      "category": "economy",
+      "significance": 4,
+      "section": "environment"
     }
   ]
 }
