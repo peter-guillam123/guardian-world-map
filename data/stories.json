@@ -1,28 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-22T23:13:43.985Z",
-    "story_count": 61,
-    "oldest_story": "2026-06-21T23:46:05Z",
-    "newest_story": "2026-06-22T23:01:24Z",
+    "generated_at": "2026-06-23T01:25:35.135Z",
+    "story_count": 66,
+    "oldest_story": "2026-06-22T04:30:49Z",
+    "newest_story": "2026-06-23T01:25:11Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/live/2026/jun/22/fifa-world-cup-2026-live-new-zealand-v-egypt-updates-nzl-vs-egy-group-g-match-score-latest",
-      "headline": "New Zealand v Egypt: World Cup 2026 – live",
-      "summary": "New Zealand faces Egypt in World Cup 2026 Group G match seeking first win.",
-      "url": "https://www.theguardian.com/p/x594vp",
-      "thumbnail": "https://media.guim.co.uk/ebad811ca90f77334f179138314b8165ce60f3f9/358_0_4156_3325/500.jpg",
-      "published": "2026-06-21T23:46:05Z",
-      "location": {
-        "name": "New Zealand",
-        "lat": -40.9006,
-        "lng": 174.886
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
     {
       "id": "world/2026/jun/22/h5n1-bird-flu-australia-wild-birds-wa-poultry-farms-locked-down",
       "headline": "Western Australian poultry farms locked down as second wild bird tests positive for H5N1 bird flu",
@@ -982,6 +966,102 @@
       "category": "politics",
       "significance": 2,
       "section": "us-news"
+    },
+    {
+      "id": "football/live/2026/jun/22/norway-v-senegal-world-cup-2026-live",
+      "headline": "Norway v Senegal: World Cup 2026 – live",
+      "summary": "Norway faces Senegal in World Cup 2026 Group I match with qualification hopes on the line.",
+      "url": "https://www.theguardian.com/p/x5bd59",
+      "thumbnail": "https://media.guim.co.uk/f6f92f2af16e6b373d4e089ff7f50e952e7515dc/269_226_5639_4512/500.jpg",
+      "published": "2026-06-23T01:25:11Z",
+      "location": {
+        "name": "Norway",
+        "lat": 60.472,
+        "lng": 8.4689
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "football/live/2026/jun/23/fifa-world-cup-2026-live-jordan-v-algeria-updates-jor-v-alg-group-j-match-score-latest",
+      "headline": "Jordan v Algeria: World Cup 2026 – live",
+      "summary": "Jordan and Algeria compete in World Cup 2026 Group J seeking their first tournament wins.",
+      "url": "https://www.theguardian.com/p/x5a4t9",
+      "thumbnail": "https://media.guim.co.uk/c8e85d1c36babb1d5ef343d607c023cb21e4bf1d/500_0_5000_4000/500.jpg",
+      "published": "2026-06-23T01:17:21Z",
+      "location": {
+        "name": "San Francisco",
+        "lat": 37.7749,
+        "lng": -122.4194
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "football/live/2026/jun/22/france-v-iraq-world-cup-2026-live-updates",
+      "headline": "France 3-0 Iraq after two-hour storm delay at World Cup 2026 – as it happened",
+      "summary": "France defeats Iraq 3-0 in World Cup 2026 after two-hour storm delay at Philadelphia Stadium.",
+      "url": "https://www.theguardian.com/p/x5b2hb",
+      "thumbnail": "https://media.guim.co.uk/b313fa914eac2f79bfde06bb9b5ef191018bfa2c/423_0_2898_2319/500.jpg",
+      "published": "2026-06-23T01:09:19Z",
+      "location": {
+        "name": "Philadelphia",
+        "lat": 39.9526,
+        "lng": -75.1652
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/jun/23/france-iraq-world-cup-group-i-match-report",
+      "headline": "Two-hour storm break fails to stop France as Mbappé and Dembélé prove too good for Iraq",
+      "summary": "France beats Iraq 3-0 in World Cup 2026 despite severe thunderstorm interruption.",
+      "url": "https://www.theguardian.com/p/x5bc45",
+      "thumbnail": "https://media.guim.co.uk/0673ec8ba23160e58c5b39359b3d906f7dc69d93/188_182_3273_2618/500.jpg",
+      "published": "2026-06-23T01:05:39Z",
+      "location": {
+        "name": "Philadelphia",
+        "lat": 39.9526,
+        "lng": -75.1652
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/jun/22/trump-administration-news-latest-updates",
+      "headline": "Trump news at a glance: president’s pool project plagued by peeling paint – and algae blooms",
+      "summary": "Trump blames vandals for algae blooms and peeling paint at renovated Lincoln Memorial reflecting pool.",
+      "url": "https://www.theguardian.com/p/x5b82t",
+      "thumbnail": "https://media.guim.co.uk/40dd1d4be15e876e153e62bb22c1d2f9f323125f/316_0_5000_4000/500.jpg",
+      "published": "2026-06-23T01:00:26Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/jun/23/world-cup-group-d-permutations-socceroos-paraguay",
+      "headline": "World Cup Group D permutations: supercomputer says Socceroos will progress ",
+      "summary": "Socceroos favored to progress from World Cup 2026 Group D despite facing Paraguay in final match.",
+      "url": "https://www.theguardian.com/p/x5bek8",
+      "thumbnail": "https://media.guim.co.uk/3220b4f3cc7f3cd453683fc083cc3e31cd984c9a/985_0_4569_3658/500.jpg",
+      "published": "2026-06-23T00:19:09Z",
+      "location": {
+        "name": "Australia",
+        "lat": -25.2744,
+        "lng": 133.7751
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
     }
   ]
 }
