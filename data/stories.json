@@ -1,28 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-23T19:20:43.060Z",
-    "story_count": 83,
-    "oldest_story": "2026-06-22T19:27:19Z",
-    "newest_story": "2026-06-23T19:16:47Z",
+    "generated_at": "2026-06-23T21:11:45.471Z",
+    "story_count": 85,
+    "oldest_story": "2026-06-22T21:14:12Z",
+    "newest_story": "2026-06-23T21:05:40Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "sport/2026/jun/22/jack-draper-enjoys-winning-return-at-eastbourne-under-new-coach-andy-murray",
-      "headline": "Jack Draper hails new coach Andy Murray after winning return at Eastbourne",
-      "summary": "Jack Draper defeats Marcos Giron at Eastbourne with new coach Andy Murray in player box.",
-      "url": "https://www.theguardian.com/p/x5bbf9",
-      "thumbnail": "https://media.guim.co.uk/d53bd7a252cd36fe8475058a67097fd4478ea0d8/427_68_4756_3804/500.jpg",
-      "published": "2026-06-22T19:27:19Z",
-      "location": {
-        "name": "Eastbourne",
-        "lat": 50.7684,
-        "lng": 0.2873
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
     {
       "id": "australia-news/live/2026/jun/23/australia-politics-live-nsw-queensland-budget-capital-gains-tax-negative-gearing-ndis-senate-question-time-labor-coalition-anthony-albanese-angus-taylor-ntwnfb",
       "headline": "Australia politics live: NSW to lower road toll cap and Queensland to promise infrastructure in today’s state budgets",
@@ -102,54 +86,6 @@
       "category": "politics",
       "significance": 4,
       "section": "politics"
-    },
-    {
-      "id": "technology/2026/jun/22/artificial-intelligence-law-firm-wins-court-case-in-england-for-first-time",
-      "headline": "HR consultant wins English court case using AI lawyer in apparent legal first",
-      "summary": "AI law firm wins English court case in apparent legal first.",
-      "url": "https://www.theguardian.com/p/x5bed8",
-      "thumbnail": "https://media.guim.co.uk/470afbbf9084ad8b092331924ab34ec009a91270/0_1062_5790_4631/500.jpg",
-      "published": "2026-06-22T21:09:28Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "tech",
-      "significance": 2,
-      "section": "technology"
-    },
-    {
-      "id": "australia-news/2026/jun/23/morning-mail-tuesday-ntwnfb",
-      "headline": "Morning Mail: Andy Burnham poised for No 10, support for multiculturalism falls, Messi sets a record",
-      "summary": "Andy Burnham poised for UK PM role after Starmer's resignation.",
-      "url": "https://www.theguardian.com/p/x5bbn7",
-      "thumbnail": "https://media.guim.co.uk/7df959c107a7543bfed388c29c0ba815a6f0a106/441_0_3574_2861/500.jpg",
-      "published": "2026-06-22T20:49:01Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "us-news/2026/jun/22/tornado-illinois",
-      "headline": "Two killed and several injured as tornado rips through southern Illinois",
-      "summary": "Tornado kills two and injures five in southern Illinois.",
-      "url": "https://www.theguardian.com/p/x5bexk",
-      "thumbnail": "https://media.guim.co.uk/f674683b0610f699c3a0c915a6d049f79d5c3321/999_0_5001_4002/500.jpg",
-      "published": "2026-06-22T20:43:42Z",
-      "location": {
-        "name": "Mount Vernon",
-        "lat": 38.3133,
-        "lng": -88.9035
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "us-news"
     },
     {
       "id": "technology/2026/jun/23/met-to-expand-live-facial-recognition-central-london",
@@ -1334,6 +1270,102 @@
       "category": "politics",
       "significance": 2,
       "section": "politics"
+    },
+    {
+      "id": "football/live/2026/jun/23/panama-v-croatia-world-cup-2026-live-updates",
+      "headline": "Panama v Croatia: World Cup 2026 – live",
+      "summary": "Panama faces Croatia in World Cup 2026 Group L match at Toronto Stadium seeking first win.",
+      "url": "https://www.theguardian.com/p/x5bgv2",
+      "thumbnail": "https://media.guim.co.uk/5bdd55c950f7f6a4c13a0ed415a6b10a1e611f35/171_0_4399_3520/500.jpg",
+      "published": "2026-06-23T21:05:40Z",
+      "location": {
+        "name": "Toronto",
+        "lat": 43.6629,
+        "lng": -79.3957
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "australia-news/live/2026/jun/24/australia-politics-live-war-memorial-tax-reform-greens-labor-deal-ndis-review-coalition-question-time-anthony-albanese-angus-taylor-ntwnfb",
+      "headline": "Australia politics live: ‘Keep the flame of memory burning’, PM tells opening of new Australian War Memorial gallery",
+      "summary": "PM Albanese opens new Australian War Memorial gallery in Canberra, calls to keep memory burning.",
+      "url": "https://www.theguardian.com/p/x5bhye",
+      "thumbnail": "https://media.guim.co.uk/3f6c3d5ee711b62fa651a30cca46e03904d96cc7/220_0_5942_4753/500.jpg",
+      "published": "2026-06-23T21:03:36Z",
+      "location": {
+        "name": "Canberra",
+        "lat": -35.2809,
+        "lng": 149.13
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "football/2026/jun/23/thomas-partey-handshake-england-v-ghana",
+      "headline": "Djed Spence appears to refuse Thomas Partey handshake before England v Ghana ",
+      "summary": "Djed Spence appears to refuse handshake with Thomas Partey before England v Ghana World Cup match.",
+      "url": "https://www.theguardian.com/p/x5bk45",
+      "thumbnail": "https://media.guim.co.uk/a0ed9f86267b944845d78f9d9814badde05deb4f/0_45_3000_2401/500.jpg",
+      "published": "2026-06-23T21:02:24Z",
+      "location": {
+        "name": "Boston",
+        "lat": 42.3601,
+        "lng": -71.0589
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/jun/23/steve-clarke-warns-scotland-of-threat-posed-by-returning-brazil-icon-neymar",
+      "headline": "Steve Clarke warns Scotland of threat posed by returning Brazil ‘icon’ Neymar",
+      "summary": "Scotland faces Brazil threat from returning Neymar in World Cup 2026 Group C finale in Miami.",
+      "url": "https://www.theguardian.com/p/x5bjq4",
+      "thumbnail": "https://media.guim.co.uk/2edc91bc54f1e572b798beca20f95656702e0ae0/1884_532_6215_4972/500.jpg",
+      "published": "2026-06-23T20:28:12Z",
+      "location": {
+        "name": "Miami",
+        "lat": 25.7617,
+        "lng": -80.1918
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "sport/2026/jun/23/new-york-winter-olympics-2042-bid-lake-placid-nyc",
+      "headline": "New York eyes 2042 Winter Olympics with Lake Placid-NYC bid concept",
+      "summary": "New York launches year-long review of joint Lake Placid-NYC bid for 2042 Winter Olympics.",
+      "url": "https://www.theguardian.com/p/x5bjz8",
+      "thumbnail": "https://media.guim.co.uk/fd0139a1e1640192dd73ccb61ad40a9104769ca4/485_0_4184_3347/500.jpg",
+      "published": "2026-06-23T20:19:55Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "us-news/2026/jun/23/trump-iran-war-powers-resolution",
+      "headline": "US Senate approves war powers resolution challenging Trump’s Iran war authority",
+      "summary": "US Senate approves war powers resolution challenging Trump's military authority over Iran conflict.",
+      "url": "https://www.theguardian.com/p/x5bjyk",
+      "thumbnail": "https://media.guim.co.uk/c9009aaebcb55a4ca42fba818343f405fd3cbdbb/435_0_4349_3480/500.jpg",
+      "published": "2026-06-23T20:12:41Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "us-news"
     }
   ]
 }
