@@ -1,92 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-23T21:11:45.471Z",
-    "story_count": 85,
-    "oldest_story": "2026-06-22T21:14:12Z",
-    "newest_story": "2026-06-23T21:05:40Z",
+    "generated_at": "2026-06-23T22:39:34.188Z",
+    "story_count": 83,
+    "oldest_story": "2026-06-22T22:40:40Z",
+    "newest_story": "2026-06-23T22:30:27Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "australia-news/live/2026/jun/23/australia-politics-live-nsw-queensland-budget-capital-gains-tax-negative-gearing-ndis-senate-question-time-labor-coalition-anthony-albanese-angus-taylor-ntwnfb",
-      "headline": "Australia politics live: NSW to lower road toll cap and Queensland to promise infrastructure in today’s state budgets",
-      "summary": "NSW and Queensland release state budgets with NSW lowering road toll cap.",
-      "url": "https://www.theguardian.com/p/x5bbnp",
-      "thumbnail": "https://media.guim.co.uk/1e635e720855bb655a305eec25c8474262417c06/1129_0_6565_5255/500.jpg",
-      "published": "2026-06-22T21:48:42Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "uk-news/2026/jun/22/uk-met-office-issues-rare-red-weather-warning-for-wednesday-and-thursday",
-      "headline": "Met Office issues rare red weather warning for Wednesday and Thursday",
-      "summary": "UK Met Office issues rare red weather warning for extreme heat.",
-      "url": "https://www.theguardian.com/p/x5bbzp",
-      "thumbnail": "https://media.guim.co.uk/792f5684d096cb23ad86b0d6b9a3c3396b27d96a/288_0_5000_4000/500.jpg",
-      "published": "2026-06-22T21:43:30Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "climate",
-      "significance": 3,
-      "section": "uk-news"
-    },
-    {
-      "id": "media/2026/jun/22/uk-youtube-tiktok-established-media-prominence-misinformation-risk",
-      "headline": "UK plans to give established media more visibility on YouTube and TikTok",
-      "summary": "UK plans greater media visibility on YouTube and TikTok to combat misinformation.",
-      "url": "https://www.theguardian.com/p/x5bd98",
-      "thumbnail": "https://media.guim.co.uk/af961718e09af6ff31339fef2bc3e09a00ed5d5a/1645_0_5960_4772/500.jpg",
-      "published": "2026-06-22T21:30:22Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "tech",
-      "significance": 2,
-      "section": "media"
-    },
-    {
-      "id": "football/2026/jun/22/arsenal-make-morgan-rogers-top-target-in-transfer-window",
-      "headline": "Arsenal make Villa’s Morgan Rogers their No 1 target in transfer window",
-      "summary": "Arsenal target Aston Villa's Morgan Rogers for £100m transfer.",
-      "url": "https://www.theguardian.com/p/x5befk",
-      "thumbnail": "https://media.guim.co.uk/a846149b9b738b648ebbd512cb158adb19f342df/165_0_4286_3429/500.jpg",
-      "published": "2026-06-22T21:20:48Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "politics/2026/jun/22/burnham-prepares-power-emotional-starmer-uk-prime-minister-resignation",
-      "headline": "Andy Burnham prepares for power as emotional Keir Starmer bows out",
-      "summary": "Keir Starmer resigns as UK PM; Andy Burnham poised to succeed him.",
-      "url": "https://www.theguardian.com/p/x5bdge",
-      "thumbnail": "https://media.guim.co.uk/1222d398274b6a7dff17421d27270489b40ea0cd/425_0_6160_4928/500.jpg",
-      "published": "2026-06-22T21:14:12Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 4,
-      "section": "politics"
-    },
     {
       "id": "technology/2026/jun/23/met-to-expand-live-facial-recognition-central-london",
       "headline": "Met to expand use of live facial recognition into central London by Christmas",
@@ -1366,6 +1286,54 @@
       "category": "conflict",
       "significance": 3,
       "section": "us-news"
+    },
+    {
+      "id": "society/2026/jun/23/most-ivf-add-on-treatments-have-no-effect-on-fertility",
+      "headline": "Most IVF ‘add-on’ treatments have no effect on fertility or remain unproven, study says",
+      "summary": "Study finds most IVF add-on treatments lack evidence and fail to improve fertility outcomes.",
+      "url": "https://www.theguardian.com/p/x5bt8h",
+      "thumbnail": "https://media.guim.co.uk/282881d804622ee2ef2bdd21d04b35348b8f08c3/500_0_5000_4000/500.jpg",
+      "published": "2026-06-23T22:30:27Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 3,
+      "section": "society"
+    },
+    {
+      "id": "stage/2026/jun/23/the-misanthrope-review-reworking-woos-in-its-human-drama",
+      "headline": "The Misanthrope review – reworking woos in its human drama",
+      "summary": "National Theatre's modern adaptation of Molière's The Misanthrope features Sandra Oh in lead role.",
+      "url": "https://www.theguardian.com/p/x5bkbm",
+      "thumbnail": "https://media.guim.co.uk/45704d47886bcfa1bbdb3077908e02eb786690a6/283_167_2682_2146/500.jpg",
+      "published": "2026-06-23T22:27:13Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "stage"
+    },
+    {
+      "id": "australia-news/2026/jun/24/morning-mail-wednesday-ntwnfb",
+      "headline": "Morning Mail: bird flu risk to 150 native species, France roasts in heatwave, Ronaldo record",
+      "summary": "Bird flu outbreak poses high extinction risk to 150 Australian native bird species including black swans.",
+      "url": "https://www.theguardian.com/p/x5bhc4",
+      "thumbnail": "https://media.guim.co.uk/8d0b12a2b41bb4928d5a86e9fe16ab69d1de77b9/535_0_4375_3500/500.jpg",
+      "published": "2026-06-23T21:37:17Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "australia-news"
     }
   ]
 }
