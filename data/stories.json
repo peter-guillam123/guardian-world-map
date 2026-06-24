@@ -1,236 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-24T13:51:15.818Z",
-    "story_count": 102,
-    "oldest_story": "2026-06-23T13:58:54Z",
-    "newest_story": "2026-06-24T13:47:50Z",
+    "generated_at": "2026-06-24T16:13:18.342Z",
+    "story_count": 101,
+    "oldest_story": "2026-06-23T16:22:00Z",
+    "newest_story": "2026-06-24T16:06:14Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "politics/2026/jun/23/darren-jones-andy-burnham-labour-leadership",
-      "headline": "Cabinet ministers loyal to Starmer urge Darren Jones not to run for Labour leadership",
-      "summary": "Cabinet ministers urge Darren Jones not to run against Andy Burnham in Labour leadership contest.",
-      "url": "https://www.theguardian.com/p/x5bhxe",
-      "thumbnail": "https://media.guim.co.uk/885fe47a879bd5cd842e60548070e326659db901/0_100_2416_1931/500.jpg",
-      "published": "2026-06-23T14:50:20Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "politics"
-    },
-    {
-      "id": "commentisfree/2026/jun/23/jd-vance-memoir-communion-finding-my-way-back-to-faith-concentrate-on-day-job",
-      "headline": "JD Vance has written another book? Couldn’t he just concentrate on his day job?",
-      "summary": "JD Vance releases memoir while managing vice-presidency amid Iran war and diplomatic challenges.",
-      "url": "https://www.theguardian.com/p/x5bh7e",
-      "thumbnail": "https://media.guim.co.uk/08eee86fc7d17a8a23c6d8d357dbb3d4c0d64cc7/603_0_4562_3650/500.jpg",
-      "published": "2026-06-23T14:44:22Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "commentisfree"
-    },
-    {
-      "id": "football/2026/jun/23/fifa-leadership-overruled-us-based-staff-opposing-world-cup-dynamic-pricing",
-      "headline": "Fifa leadership ‘overruled US-based staff’ opposing World Cup dynamic pricing",
-      "summary": "Fifa leadership overruled US staff opposition to World Cup 2026 dynamic pricing strategy.",
-      "url": "https://www.theguardian.com/p/x5bhe8",
-      "thumbnail": "https://media.guim.co.uk/de520f290113248a12a560d45644d7099dcf3486/157_0_3465_2772/500.jpg",
-      "published": "2026-06-23T14:30:03Z",
-      "location": {
-        "name": "Zurich",
-        "lat": 47.3769,
-        "lng": 8.5472
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "sport/2026/jun/23/ajla-tomjlanovic-anti-doping-chiefs-marketa-vondrousova-ban-tennis",
-      "headline": "Tomljanovic accuses anti-doping chiefs of being out to get players after Vondrousova ban",
-      "summary": "Ajla Tomljanovic criticizes four-year doping ban of Wimbledon champion Marketa Vondrousova.",
-      "url": "https://www.theguardian.com/p/x5bhn6",
-      "thumbnail": "https://media.guim.co.uk/f244b980e871ebf003871aa7855c0018b36c7fb6/0_0_4508_3606/500.jpg",
-      "published": "2026-06-23T14:25:39Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "thefilter/2026/jun/23/how-to-keep-cool-in-heatwave",
-      "headline": "I’m Australian, so I know how to cope with heatwaves: here are my tips for keeping cool",
-      "summary": "Australian offers heatwave cooling tips as UK experiences extreme temperatures.",
-      "url": "https://www.theguardian.com/p/x526gj",
-      "thumbnail": "https://media.guim.co.uk/343f40870aa0cf46e42c76524602bfa6f90f5d65/0_0_5000_4000/500.jpg",
-      "published": "2026-06-23T14:24:59Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "thefilter"
-    },
-    {
-      "id": "education/2026/jun/23/schools-england-wales-close-heatwave",
-      "headline": "Hundreds of schools in England and Wales to close in heatwave",
-      "summary": "Hundreds of schools in England and Wales close during dangerous heatwave conditions.",
-      "url": "https://www.theguardian.com/p/x5bt4e",
-      "thumbnail": "https://media.guim.co.uk/9efa75dc271cb2427e56aa9d588339325bd0df56/358_0_4331_3466/500.jpg",
-      "published": "2026-06-23T14:22:04Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "education"
-    },
-    {
-      "id": "us-news/2026/jun/23/chico-library-shooting-northern-california",
-      "headline": "Two people killed and child injured in northern California library shooting",
-      "summary": "Two killed, child injured in shooting at Chico library in northern California.",
-      "url": "https://www.theguardian.com/p/x5bg2q",
-      "thumbnail": "https://media.guim.co.uk/e8b32d425441b08af5a28664e24622d25cfa609d/15_0_1198_958/500.jpg",
-      "published": "2026-06-23T14:19:13Z",
-      "location": {
-        "name": "Chico",
-        "lat": 39.7285,
-        "lng": -121.8375
-      },
-      "category": "conflict",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "business/2026/jun/23/ai-stocks-sell-off-us-markets",
-      "headline": "US AI stock sell-off shakes markets from Wall Street to Asia",
-      "summary": "US AI stock sell-off shakes global markets as investors question valuations and spending.",
-      "url": "https://www.theguardian.com/p/x5bt9q",
-      "thumbnail": "https://media.guim.co.uk/1576ea0394b4abc522ee470f30ec213f183150fb/416_0_4602_3682/500.jpg",
-      "published": "2026-06-23T14:16:24Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "business"
-    },
-    {
-      "id": "thefilter-us/2026/jun/23/stasher-reusable-silicone-bags-sale",
-      "headline": "Break up with your plastic food storage. Stasher’s reusable bags are nontoxic, durable and now on sale ",
-      "summary": "Stasher reusable silicone bags promoted as eco-friendly alternative to plastic storage.",
-      "url": "https://www.theguardian.com/p/x5bdth",
-      "thumbnail": "https://media.guim.co.uk/55dbd61b8c0e2eea216cff1e9621e0da1f7fbecd/0_0_2000_1600/500.jpg",
-      "published": "2026-06-23T14:15:30Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "economy",
-      "significance": 1,
-      "section": "thefilter-us"
-    },
-    {
-      "id": "world/2026/jun/23/eu-faces-fierce-criticism-plans-host-taliban-brussels",
-      "headline": "EU faces fierce criticism over plans to host Taliban in Brussels",
-      "summary": "EU criticized for planning to host Taliban delegation in Brussels amid women's rights concerns.",
-      "url": "https://www.theguardian.com/p/x564t2",
-      "thumbnail": "https://media.guim.co.uk/b146f02b4c4d4f229da546f1c5fa3b07359fe157/591_0_3947_3157/500.jpg",
-      "published": "2026-06-23T14:11:58Z",
-      "location": {
-        "name": "Brussels",
-        "lat": 50.8503,
-        "lng": 4.3517
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "uk-news/2026/jun/23/body-found-in-south-wales-believed-to-be-missing-14-year-old-girl",
-      "headline": "Murder inquiry after body found in search for missing girl, 14, in south Wales",
-      "summary": "Murder inquiry launched after body found in search for missing 14-year-old girl in south Wales.",
-      "url": "https://www.theguardian.com/p/x5bt58",
-      "thumbnail": "https://media.guim.co.uk/82de8c80fa1ab6566b0adce0dbae1a8b90e07427/0_0_2198_1759/500.jpg",
-      "published": "2026-06-23T14:02:36Z",
-      "location": {
-        "name": "Blaina",
-        "lat": 51.8111,
-        "lng": -3.2722
-      },
-      "category": "conflict",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "environment/2026/jun/23/how-to-shade-your-home-supercharged-heatwaves-uk",
-      "headline": "From yoghurt to luxury sails: how to shade your home from supercharged UK heatwaves",
-      "summary": "Companies and homeowners innovate shading solutions as UK heatwaves become more frequent.",
-      "url": "https://www.theguardian.com/p/x5bhhq",
-      "thumbnail": "https://media.guim.co.uk/df21e8a43db7ad08412ce27c82937ed48691d54c/126_0_3779_3024/500.jpg",
-      "published": "2026-06-23T14:00:29Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "environment"
-    },
-    {
-      "id": "artanddesign/2026/jun/23/rooms-of-neighbours-experimental-art-project-peckham-south-london-gallery",
-      "headline": "‘A new world has been opened up’: how a London street got filled with art – and brought the neighbours together",
-      "summary": "Contemporary artists fill Peckham street with works in experimental community art project.",
-      "url": "https://www.theguardian.com/p/x5bcvj",
-      "thumbnail": "https://media.guim.co.uk/5fe61e7e4e0fd7835230ba15a97fed842d5e390c/673_0_5908_4725/500.jpg",
-      "published": "2026-06-23T13:59:15Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "artanddesign"
-    },
-    {
-      "id": "uk-news/2026/jun/23/bus-crash-kidwelly-major-incident-carmarthenshire-wales",
-      "headline": "Major incident declared after bus crash in west Wales",
-      "summary": "Major incident declared as bus flips on roundabout in west Wales, leaving 26 injured.",
-      "url": "https://www.theguardian.com/p/x5btba",
-      "thumbnail": "https://media.guim.co.uk/b6743c8908a077471564e07234355bff1fdfbe4f/1073_607_1995_1596/500.jpg",
-      "published": "2026-06-23T13:58:54Z",
-      "location": {
-        "name": "Kidwelly",
-        "lat": 51.9264,
-        "lng": -3.9211
-      },
-      "category": "conflict",
-      "significance": 2,
-      "section": "uk-news"
-    },
     {
       "id": "football/live/2026/jun/23/portugal-v-uzbekistan-world-cup-2026-live",
       "headline": "Portugal v Uzbekistan: World Cup 2026 – live",
@@ -1638,6 +1414,214 @@
       "category": "culture",
       "significance": 1,
       "section": "stage"
+    },
+    {
+      "id": "sport/2026/jun/24/england-new-zealand-series-decider-trent-bridge-cricket",
+      "headline": " England begin yet another reset but heat is on for series decider at Trent Bridge",
+      "summary": "England faces New Zealand in series decider at Trent Bridge with major implications for cricket future.",
+      "url": "https://www.theguardian.com/p/x5bz45",
+      "thumbnail": "https://media.guim.co.uk/cda39868ddb0a414d5b145033bd1295f70e494a2/585_73_3407_2727/500.jpg",
+      "published": "2026-06-24T16:06:14Z",
+      "location": {
+        "name": "Nottingham",
+        "lat": 52.9401,
+        "lng": -1.1336
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "sport/2026/jun/24/qatar-airways-sponsorship-nations-championship-rugby-union-war-middle-east",
+      "headline": "Qatar Airways puts Nations Championship sponsorship on hold due to fallout from war",
+      "summary": "Qatar Airways puts £80m rugby Nations Championship sponsorship on hold due to Middle East war.",
+      "url": "https://www.theguardian.com/p/x5bz88",
+      "thumbnail": "https://media.guim.co.uk/9b37893a7eb3d2d4a3ba46749e3da36c65936f1f/612_0_4856_3885/500.jpg",
+      "published": "2026-06-24T16:01:42Z",
+      "location": {
+        "name": "Doha",
+        "lat": 25.2854,
+        "lng": 51.531
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "us-news/2026/jun/24/senators-moms-gov-website-anti-abortion-facility",
+      "headline": "Senators alarmed at Trump administration website Moms.gov promoting anti-abortion facilities",
+      "summary": "Senators alarmed at Trump's Moms.gov website promoting anti-abortion facilities over health resources.",
+      "url": "https://www.theguardian.com/p/x5bnq7",
+      "thumbnail": "https://media.guim.co.uk/d2b4154c994c845885a4fd54951d7eb89e7f08e1/154_0_5418_4335/500.jpg",
+      "published": "2026-06-24T15:54:32Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/jun/24/trump-housing-affordability-bill",
+      "headline": "Trump abruptly cancels plan to sign bipartisan bill aimed at lowering cost of housing",
+      "summary": "Trump cancels housing affordability bill, demanding Senate approve controversial election reform legislation.",
+      "url": "https://www.theguardian.com/p/x5bz9v",
+      "thumbnail": "https://media.guim.co.uk/4b034d2053d299bf9345bd192bfee90e52a2eaba/0_0_3301_2642/500.jpg",
+      "published": "2026-06-24T15:50:26Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "technology/2026/jun/24/ai-read-papyrus-scroll-burnt-vesuvius-eruption",
+      "headline": "AI helps read papyrus scroll burnt to crisp during Vesuvius eruption",
+      "summary": "AI helps read 2,000-year-old Vesuvius-burnt papyrus, revealing stoic philosophy on ethics and behavior.",
+      "url": "https://www.theguardian.com/p/x5bjcd",
+      "thumbnail": "https://media.guim.co.uk/749d850b8586ad4f3f041fa8e09bfb555be5f1aa/101_0_4373_3498/500.jpg",
+      "published": "2026-06-24T15:48:44Z",
+      "location": {
+        "name": "Pompeii",
+        "lat": 40.7505,
+        "lng": 14.4864
+      },
+      "category": "tech",
+      "significance": 2,
+      "section": "technology"
+    },
+    {
+      "id": "world/2026/jun/24/colombia-presidential-election-abelardo-de-la-espriella",
+      "headline": "Colombia’s leftwing candidate concedes election to Trump-endorsed millionaire",
+      "summary": "Colombia elects far-right Trump-backed lawyer Abelardo de la Espriella over leftist candidate by razor-thin margin.",
+      "url": "https://www.theguardian.com/p/x5bz8z",
+      "thumbnail": "https://media.guim.co.uk/d5977d3bf7a268c0536d8af238637034c8111b14/7_0_4319_3456/500.jpg",
+      "published": "2026-06-24T15:48:34Z",
+      "location": {
+        "name": "Bogotá",
+        "lat": 4.711,
+        "lng": -74.0055
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "politics/2026/jun/24/graceless-kemi-badenoch-keir-starmer-pmqs-sketch",
+      "headline": "Graceless Kemi concedes not a croak of kindness for newly liberated Keir",
+      "summary": "Kemi Badenoch criticized for failing to show grace toward departing PM Keir Starmer at PMQs.",
+      "url": "https://www.theguardian.com/p/x5bz5h",
+      "thumbnail": "https://media.guim.co.uk/ce85de69a51bbe002122b11f4fac220c48a6c1a4/674_0_6743_5395/500.jpg",
+      "published": "2026-06-24T15:41:48Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 1,
+      "section": "politics"
+    },
+    {
+      "id": "culture/2026/jun/24/josh-johnson-daily-show-trump-ballroom-reflecting-pool",
+      "headline": "Josh Johnson on Trump’s reflecting pool drama: ‘the world’s largest kombucha’",
+      "summary": "Daily Show host Josh Johnson comments on Trump's green reflecting pool and Scottish soccer fans in Miami.",
+      "url": "https://www.theguardian.com/p/x5bz7g",
+      "thumbnail": "https://media.guim.co.uk/0e8cadf580e6004dca8bcf3781998bcdbe0ada36/486_0_2000_1600/500.jpg",
+      "published": "2026-06-24T15:24:45Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "culture"
+    },
+    {
+      "id": "us-news/2026/jun/24/trump-doj-investigation-oil-company-price-gouging",
+      "headline": "Trump says he’s ordered investigation into oil companies over alleged price gouging",
+      "summary": "Trump orders DOJ investigation into oil companies for alleged price gouging amid Middle East conflict.",
+      "url": "https://www.theguardian.com/p/x5bz69",
+      "thumbnail": "https://media.guim.co.uk/76be3809948cd4b9dbfa80a9fa5bbd7733c5da35/280_261_4675_3739/500.jpg",
+      "published": "2026-06-24T15:21:25Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "politics/2026/jun/24/james-purnell-andy-burnham-pick-chief-of-staff-firm-bp-apple-amazon",
+      "headline": "Burnham’s pick for chief of staff led firm that advised BP, Apple and Amazon",
+      "summary": "Andy Burnham's new chief of staff led advisory firm with BP, Apple and Amazon lobbying clients.",
+      "url": "https://www.theguardian.com/p/x5bnkj",
+      "thumbnail": "https://media.guim.co.uk/dda0125e3d33b122a3a16ea04946f99f3d8afc62/508_553_4909_3927/500.jpg",
+      "published": "2026-06-24T15:17:39Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 1,
+      "section": "media"
+    },
+    {
+      "id": "environment/2026/jun/24/uk-records-hottest-june-day",
+      "headline": "UK records its hottest June day, beating highs from 1957 and 1976",
+      "summary": "UK records hottest June day at 35.8C in West Sussex, beating 1957 and 1976 records amid European heatwave.",
+      "url": "https://www.theguardian.com/p/x5btxp",
+      "thumbnail": "https://media.guim.co.uk/740b7f7d160e44121b8144e557fff14a2b766f5e/719_0_3664_2933/500.jpg",
+      "published": "2026-06-24T15:12:19Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "climate",
+      "significance": 3,
+      "section": "environment"
+    },
+    {
+      "id": "football/2026/jun/24/fans-power-demand-surges-england-viewers-heatwave-world-cup",
+      "headline": "Fans for fans: power demand surges as England viewers cope with heatwave",
+      "summary": "UK gas plants paid £4m to meet power demand spike from heatwave during England's World Cup game.",
+      "url": "https://www.theguardian.com/p/x5bn7d",
+      "thumbnail": "https://media.guim.co.uk/7a6cf0d27e9147a318b24118f688f96fdb2890d9/248_0_3808_3045/500.jpg",
+      "published": "2026-06-24T15:05:36Z",
+      "location": {
+        "name": "United Kingdom",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "business/2026/jun/24/bedford-train-crash-interim-report-passed-red-signal",
+      "headline": "Bedford crash occurred after train passed red signal and was not stopped, investigators believe",
+      "summary": "Bedford train crash investigation reveals driver passed red signal; other train halted due to faulty warning system.",
+      "url": "https://www.theguardian.com/p/x5bj32",
+      "thumbnail": "https://media.guim.co.uk/4f4d3c8785a737da919ca234d5bde45368bf1104/808_287_4449_3561/500.jpg",
+      "published": "2026-06-24T15:04:03Z",
+      "location": {
+        "name": "Bedford",
+        "lat": 52.1393,
+        "lng": -0.4618
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "business"
     }
   ]
 }
