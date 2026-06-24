@@ -1,140 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-24T01:33:00.679Z",
-    "story_count": 86,
-    "oldest_story": "2026-06-23T04:39:55Z",
-    "newest_story": "2026-06-24T01:28:26Z",
+    "generated_at": "2026-06-24T05:47:52.036Z",
+    "story_count": 85,
+    "oldest_story": "2026-06-23T07:50:39Z",
+    "newest_story": "2026-06-24T05:00:37Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "world/live/2026/jun/23/europe-heatwave-live-news-updates-uk-red-temperature-warnings-40-degrees-france-heat-deaths-crisis-meeting",
-      "headline": "Europe heatwave live: UK issues rare red temperature warnings; French PM to hold crisis meeting after heat deaths",
-      "summary": "UK issues rare red temperature warnings as heatwave could hit 40C; France reports 19 heat deaths.",
-      "url": "https://www.theguardian.com/p/x5bf25",
-      "thumbnail": "https://media.guim.co.uk/c2f82b886c0cff489bbd744221d987414153008b/579_0_2921_2336/500.jpg",
-      "published": "2026-06-23T05:41:52Z",
-      "location": {
-        "name": "United Kingdom",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "climate",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "australia-news/2026/jun/23/labor-greens-deal-capital-gains-tax-negative-gearing-reforms",
-      "headline": "Labor reaches deal with the Greens to pass changes to capital gains tax and negative gearing reforms ",
-      "summary": "Australian Labor reaches deal with Greens to pass capital gains tax and negative gearing reforms.",
-      "url": "https://www.theguardian.com/p/x5bfve",
-      "thumbnail": "https://media.guim.co.uk/b5a9ebcecbd61cb9fad57c469eda693a4cccf8fb/0_0_5000_4000/500.jpg",
-      "published": "2026-06-23T05:30:24Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "uk-news/2026/jun/23/heatwave-1976-extreme-heat-climate-crisis-new-normal",
-      "headline": "Remembering summer 1976: how the historic heatwave has become our new normal",
-      "summary": "Britain braces for 40C temperatures as 1976 historic heatwave becomes the new climate normal.",
-      "url": "https://www.theguardian.com/p/x5bd57",
-      "thumbnail": "https://media.guim.co.uk/ad86ee80500bd85186509b4f271b2b4d68f66bc7/0_37_2801_2240/500.jpg",
-      "published": "2026-06-23T05:01:31Z",
-      "location": {
-        "name": "United Kingdom",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "climate",
-      "significance": 3,
-      "section": "uk-news"
-    },
-    {
-      "id": "commentisfree/2026/jun/23/three-guardian-columnists-debate-brexit-legacy",
-      "headline": "‘I feel entirely vindicated’: three Guardian columnists debate Brexit and its legacy",
-      "summary": "Three Guardian columnists debate Brexit's legacy ten years after UK's EU referendum vote.",
-      "url": "https://www.theguardian.com/p/x5bcxe",
-      "thumbnail": "https://media.guim.co.uk/d20c68b34f58582c91665d2ad0289f3c76ec939e/0_0_3205_2565/500.png",
-      "published": "2026-06-23T05:00:32Z",
-      "location": {
-        "name": "United Kingdom",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "commentisfree"
-    },
-    {
-      "id": "society/2026/jun/23/drug-that-delays-onset-of-type-1-diabetes-approved-in-england-and-wales",
-      "headline": "Drug that delays onset of type 1 diabetes approved in England and Wales",
-      "summary": "Teplizumab, world's first drug delaying type 1 diabetes onset, approved on NHS in England and Wales.",
-      "url": "https://www.theguardian.com/p/x5bdva",
-      "thumbnail": "https://media.guim.co.uk/1483724c22fc96f083e17e88ad4bbcbc73639ee5/239_0_6461_5168/500.jpg",
-      "published": "2026-06-23T05:00:31Z",
-      "location": {
-        "name": "United Kingdom",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "health",
-      "significance": 3,
-      "section": "society"
-    },
-    {
-      "id": "politics/2026/jun/23/from-the-nhs-to-new-homes-starmers-successes-and-setbacks-in-charts",
-      "headline": "From the NHS to new homes, Starmer’s successes and setbacks – in charts",
-      "summary": "PM Keir Starmer steps down after two years in office amid Peter Mandelson appointment fallout.",
-      "url": "https://www.theguardian.com/p/x532mc",
-      "thumbnail": "https://media.guim.co.uk/07fff8236208a8e4f1e6838d6cf984b778fc41ea/1_0_4998_4000/500.jpg",
-      "published": "2026-06-23T05:00:31Z",
-      "location": {
-        "name": "United Kingdom",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "politics"
-    },
-    {
-      "id": "media/2026/jun/23/karl-stefanovic-uk-far-right-tommy-robinson-podcast-video-ntwnfb",
-      "headline": "Karl Stefanovic embraces UK far-right activist Tommy Robinson in video promoting podcast ",
-      "summary": "Karl Stefanovic embraces UK far-right activist Tommy Robinson on podcast, calls Starmer vulgar.",
-      "url": "https://www.theguardian.com/p/x5bf6b",
-      "thumbnail": "https://media.guim.co.uk/1d1e05ca81c95def0d4110754b27aeb4a48b4118/0_227_1210_968/500.jpg",
-      "published": "2026-06-23T04:48:47Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "media"
-    },
-    {
-      "id": "environment/2026/jun/23/iran-war-oil-prices-hormuz-el-nino-south-east-asia-impact",
-      "headline": "‘Compound shock effect’: why the Middle East crisis and El Niño could spell disaster in south-east Asia",
-      "summary": "Middle East crisis and El Niño threaten south-east Asia's food security amid strait of Hormuz closure.",
-      "url": "https://www.theguardian.com/p/x5b9et",
-      "thumbnail": "https://media.guim.co.uk/b6e09d490adc4c206cb3c98517290c9d623cba72/447_0_2917_2334/500.jpg",
-      "published": "2026-06-23T04:39:55Z",
-      "location": {
-        "name": "Bangkok",
-        "lat": 13.7563,
-        "lng": 100.5018
-      },
-      "category": "economy",
-      "significance": 4,
-      "section": "environment"
-    },
     {
       "id": "politics/live/2026/jun/23/burnham-leadership-contest-starmer-jones-streeting-eu-brexit-badenoch-latest-news-updates",
       "headline": "Minister calls for ‘swift transition’ of power to Burnham without challenge over Labour leadership – UK politics live",
@@ -1382,6 +1254,118 @@
       "category": "politics",
       "significance": 3,
       "section": "us-news"
+    },
+    {
+      "id": "commentisfree/2026/jun/24/keir-starmer-brexit-nationalism-andy-burnham",
+      "headline": "Keir Starmer couldn’t beat the curse of Brexit – a politics poisoned by nationalism",
+      "summary": "Outgoing PM Starmer's patriotism efforts fail against Brexit-poisoned nationalism; Burnham rises.",
+      "url": "https://www.theguardian.com/p/x5bt3k",
+      "thumbnail": "https://media.guim.co.uk/0aea97abb96b6d06f9329f00eb581d4c36c1e1ba/476_0_2420_1936/500.jpg",
+      "published": "2026-06-24T05:00:37Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "commentisfree"
+    },
+    {
+      "id": "politics/2026/jun/24/a-total-utter-nightmare-small-businesses-on-brexit-10-years-on",
+      "headline": "‘A total, utter nightmare’: small businesses on Brexit, 10 years on",
+      "summary": "Small businesses cite Brexit red tape, costs; thousands stopped exporting to EU after referendum.",
+      "url": "https://www.theguardian.com/p/x58mch",
+      "thumbnail": "https://media.guim.co.uk/890a27ea217fe65f107a87f827328af306c154fc/151_0_4478_3584/500.jpg",
+      "published": "2026-06-24T05:00:37Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "politics/2026/jun/24/progressive-economists-reject-unite-leader-sharon-graham-criticism-ed-miliband",
+      "headline": "Progressive economists reject Unite leader’s criticism of Ed Miliband",
+      "summary": "Progressive economists reject Unite leader's criticism of Ed Miliband as potential chancellor.",
+      "url": "https://www.theguardian.com/p/x5btb2",
+      "thumbnail": "https://media.guim.co.uk/b7429d03f8a308fc811410da8727c8e0987aed83/1100_10_3345_2676/500.jpg",
+      "published": "2026-06-24T05:00:37Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "science/2026/jun/24/mountains-unlock-hydrogen-gas-study",
+      "headline": "Could mountains be key to unlocking hydrogen’s potential?",
+      "summary": "Researchers study hydrogen gas production during Alps, Pyrenees, Baetic mountain formation.",
+      "url": "https://www.theguardian.com/p/x5a594",
+      "thumbnail": "https://media.guim.co.uk/8ea12dcd9aa50d901695d044817c45eaf59b6923/519_0_5202_4160/500.jpg",
+      "published": "2026-06-24T05:00:37Z",
+      "location": {
+        "name": "Alps",
+        "lat": 45.9757,
+        "lng": 10.3006
+      },
+      "category": "tech",
+      "significance": 2,
+      "section": "science"
+    },
+    {
+      "id": "uk-news/2026/jun/24/the-souls-been-ripped-out-of-it-birmingham-community-housing-scheme-on-brink-over-costs-dispute",
+      "headline": "‘The soul’s been ripped out of it’: Birmingham community housing scheme on brink over costs dispute",
+      "summary": "Community housing scheme in Birmingham's Stirchley faces collapse over construction cost disputes.",
+      "url": "https://www.theguardian.com/p/x5ajx6",
+      "thumbnail": "https://media.guim.co.uk/07aa0ea9f87524475ff42da679a6a13909874942/189_0_5800_4640/500.jpg",
+      "published": "2026-06-24T05:00:37Z",
+      "location": {
+        "name": "Birmingham",
+        "lat": 52.5086,
+        "lng": -1.8853
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "education/2026/jun/24/failure-to-plan-for-rising-temperatures-has-left-uks-schools-sweltering",
+      "headline": "Failure to plan for rising temperatures has left UK’s schools sweltering",
+      "summary": "UK schools lack climate adaptation; 100-year-old buildings handle heat better than recent construction.",
+      "url": "https://www.theguardian.com/p/x5bj57",
+      "thumbnail": "https://media.guim.co.uk/5923d6f314ead2f62242d41a818927de3191b59b/245_0_3556_2844/500.jpg",
+      "published": "2026-06-24T05:00:36Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "education"
+    },
+    {
+      "id": "global-development/2026/jun/24/indian-factory-workers-told-film-themselves-for-ai-robots",
+      "headline": "‘Who is going to pay us when we’re replaced by robots?’ The Indian factory workers told to film themselves for AI",
+      "summary": "Indian garment workers filmed for AI robot training express concern about job replacement.",
+      "url": "https://www.theguardian.com/p/x58qg2",
+      "thumbnail": "https://media.guim.co.uk/4982d46ec93c00c6c92f7cefbb31878a97b6ced9/936_0_6000_4800/500.jpg",
+      "published": "2026-06-24T05:00:36Z",
+      "location": {
+        "name": "Delhi",
+        "lat": 28.7041,
+        "lng": 77.1025
+      },
+      "category": "tech",
+      "significance": 2,
+      "section": "global-development"
     }
   ]
 }
