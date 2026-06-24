@@ -1,92 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-24T11:34:07.371Z",
-    "story_count": 95,
-    "oldest_story": "2026-06-23T11:33:56Z",
-    "newest_story": "2026-06-24T11:33:12Z",
+    "generated_at": "2026-06-24T13:51:15.818Z",
+    "story_count": 102,
+    "oldest_story": "2026-06-23T13:58:54Z",
+    "newest_story": "2026-06-24T13:47:50Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "us-news/live/2026/jun/23/primary-elections-ny-maryland-utah-supreme-court-ruling-politics-latest-updates",
-      "headline": "Primary voting begins in New York, Maryland and Utah – US politics live",
-      "summary": "Primary elections held in New York, Maryland, and Utah with progressive endorsements and Super PAC funding.",
-      "url": "https://www.theguardian.com/p/x5bh8c",
-      "thumbnail": "https://media.guim.co.uk/fb727b13865e906bc8692660e2a9799b459b1767/1365_0_6827_5464/500.jpg",
-      "published": "2026-06-23T11:52:32Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "world/live/2026/jun/23/iran-us-israel-lebanon-un-peace-deal-nuclear-iaea-frozen-assets-strait-of-hormuz-latest-news-updates",
-      "headline": "Middle East crisis live: Trump claims Iran has agreed to nuclear inspections ‘long into future’, accusing Tehran of ‘false statements’",
-      "summary": "Trump claims Iran agreed to nuclear inspections while tensions persist over IAEA site access and oil flows.",
-      "url": "https://www.theguardian.com/p/x5bh5c",
-      "thumbnail": "https://media.guim.co.uk/0638eec0751f6a1500c438d6b62a4fed09ae8926/515_266_6466_5172/500.jpg",
-      "published": "2026-06-23T11:51:41Z",
-      "location": {
-        "name": "Iran",
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "community/live/2026/jun/23/reader-qa-ask-rafael-behr-your-questions-now",
-      "headline": "Reader Q&A: ask Rafael Behr your questions now ",
-      "summary": "Guardian Q&A with Rafael Behr on Brexit at 10 years and current British political developments.",
-      "url": "https://www.theguardian.com/p/x5bh99",
-      "thumbnail": "https://media.guim.co.uk/6b9c450684dd03d76ae3e9683f1e38f930fddd08/0_0_5154_4124/500.jpg",
-      "published": "2026-06-23T11:45:42Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "community"
-    },
-    {
-      "id": "music/2026/jun/23/benjamin-britten-bergen-belsen-yehudi-menuhin-anita-lasker-wallfisch",
-      "headline": "The experience that coloured everything Britten went on to write",
-      "summary": "Benjamin Britten's 1945 Bergen-Belsen concert profoundly influenced his compositions, survivor shares memory.",
-      "url": "https://www.theguardian.com/p/x56g8t",
-      "thumbnail": "https://media.guim.co.uk/8212613a89fd85e10ec0894bbb38235b4af5dfc8/129_0_5696_4560/500.png",
-      "published": "2026-06-23T11:40:19Z",
-      "location": {
-        "name": "Bergen-Belsen",
-        "lat": 52.7582,
-        "lng": 9.9055
-      },
-      "category": "culture",
-      "significance": 3,
-      "section": "music"
-    },
-    {
-      "id": "politics/2026/jun/23/nigel-farage-5m-gift-crypto-billionaire-not-any-of-your-business",
-      "headline": "Nigel Farage: I can spend £5m gift on Ferraris or bet on horses if I want",
-      "summary": "Nigel Farage defends £5m crypto billionaire gift as private matter amid ethics scrutiny.",
-      "url": "https://www.theguardian.com/p/x5bgzd",
-      "thumbnail": "https://media.guim.co.uk/0e13ae76d9caf2e85dfbf6112460ac2b6edaca64/315_130_2514_2011/500.jpg",
-      "published": "2026-06-23T11:33:56Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
     {
       "id": "politics/2026/jun/23/darren-jones-andy-burnham-labour-leadership",
       "headline": "Cabinet ministers loyal to Starmer urge Darren Jones not to run for Labour leadership",
@@ -310,22 +230,6 @@
       "category": "conflict",
       "significance": 2,
       "section": "uk-news"
-    },
-    {
-      "id": "world/2026/jun/23/heatwave-france-spain-italy-europe",
-      "headline": "Forty drown across France in heatwave and parts of Spain above 30C at night",
-      "summary": "Record European heatwave kills 40 swimmers in France; 15 Italian cities on red alert.",
-      "url": "https://www.theguardian.com/p/x5bt2f",
-      "thumbnail": "https://media.guim.co.uk/93c5b56c53ab8b31206e80da775a925447da1ca7/75_68_4772_3818/500.jpg",
-      "published": "2026-06-23T13:44:33Z",
-      "location": {
-        "name": "France",
-        "lat": 46.2276,
-        "lng": 2.2137
-      },
-      "category": "climate",
-      "significance": 4,
-      "section": "world"
     },
     {
       "id": "football/live/2026/jun/23/portugal-v-uzbekistan-world-cup-2026-live",
@@ -1526,6 +1430,214 @@
       "category": "culture",
       "significance": 1,
       "section": "thefilter"
+    },
+    {
+      "id": "politics/2026/jun/24/andy-burnham-plans-move-no-10-operation-manchester",
+      "headline": "Andy Burnham plans to move parts of No 10 operation to Manchester ",
+      "summary": "Andy Burnham plans to relocate parts of PM's office to Manchester to devolve power from London.",
+      "url": "https://www.theguardian.com/p/x5bnkn",
+      "thumbnail": "https://media.guim.co.uk/30b815a14015b475a5ece4826660df647c8c6280/1143_0_7200_5760/500.jpg",
+      "published": "2026-06-24T13:47:50Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "politics"
+    },
+    {
+      "id": "uk-news/2026/jun/24/london-youngest-black-cab-driver-taxi-bahrain-mujagata",
+      "headline": "Driven to succeed: meet London’s youngest black-cab driver",
+      "summary": "Bahrain Mujagata, 21, becomes London's youngest black-cab driver while studying and acting.",
+      "url": "https://www.theguardian.com/p/x5agz4",
+      "thumbnail": "https://media.guim.co.uk/4a56979afb8e041996f1458b7f6f3b3c8c79fb43/1116_541_3964_3171/500.jpg",
+      "published": "2026-06-24T13:45:15Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "uk-news"
+    },
+    {
+      "id": "fashion/2026/jun/24/louis-vuitton-beach-paris-40c-heat",
+      "headline": "Louis Vuitton brings the beach to Paris in near 40C heat",
+      "summary": "Louis Vuitton and Saint Laurent showcase beach-themed collections at Paris Fashion Week in 40C heat.",
+      "url": "https://www.theguardian.com/p/x5bn8m",
+      "thumbnail": "https://media.guim.co.uk/92a287f9f9f5117d694f55bce57b607aa109787b/30_0_3750_3000/500.jpg",
+      "published": "2026-06-24T13:40:52Z",
+      "location": {
+        "name": "Paris",
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "fashion"
+    },
+    {
+      "id": "music/2026/jun/24/the-project-returning-music-to-our-bodies-bettina-varwig-faultless",
+      "headline": "Making earwax melt and teeth rattle: the project returning music to our bodies ",
+      "summary": "Cambridge professor explores how listeners experienced music physically in 17th-18th centuries.",
+      "url": "https://www.theguardian.com/p/x5bk4f",
+      "thumbnail": "https://media.guim.co.uk/5cfe35ebe1406cf771b2633150c0fecc6b91070c/285_202_2446_1957/500.jpg",
+      "published": "2026-06-24T13:34:42Z",
+      "location": {
+        "name": "Cambridge",
+        "lat": 52.2053,
+        "lng": 0.1218
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "music"
+    },
+    {
+      "id": "business/live/2026/jun/24/elon-musk-trillionaire-status-spacex-and-tesla-shares-stock-markets-ai-bonds-pound-ftse-live-news-updates",
+      "headline": "Pound hits lowest level of the year against the dollar, as oil price falls to lowest since Iran war began – business live",
+      "summary": "Pound hits yearly low against dollar; housebuilders warn of high tax burden limiting London homes.",
+      "url": "https://www.theguardian.com/p/x5bm9a",
+      "thumbnail": "https://media.guim.co.uk/5d751dfdeae87b2af8bc783c3babfa18e0e75e6b/359_0_6125_4900/500.jpg",
+      "published": "2026-06-24T13:28:02Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "artanddesign/2026/jun/24/german-war-hero-annika-farm-struggling-veterans-jan-krauss-best-photograph",
+      "headline": "German war hero Annika at her farm for struggling veterans: Jan Kraus’s best photograph",
+      "summary": "Afghan veteran Annika Schröder runs therapeutic farm for struggling German military veterans.",
+      "url": "https://www.theguardian.com/p/x5bc7b",
+      "thumbnail": "https://media.guim.co.uk/a0a11c3db6249d7b14488a32f0702ba0c82d38e7/689_321_3623_2898/500.jpg",
+      "published": "2026-06-24T13:26:33Z",
+      "location": {
+        "name": "Germany",
+        "lat": 51.1657,
+        "lng": 10.4515
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "artanddesign"
+    },
+    {
+      "id": "us-news/2026/jun/24/gracie-the-giraffe-found-texas",
+      "headline": "Gracie the giraffe who loves to wander found safe after search with community help",
+      "summary": "Missing giraffe Gracie found safe after two-week search at rural Texas game ranch.",
+      "url": "https://www.theguardian.com/p/x5bnyg",
+      "thumbnail": "https://media.guim.co.uk/b89994865a4d81b264a81a6fcdd0b5a0e89fa040/0_154_1366_1093/500.jpg",
+      "published": "2026-06-24T13:22:43Z",
+      "location": {
+        "name": "Texas",
+        "lat": 31.9686,
+        "lng": -99.9018
+      },
+      "category": "other",
+      "significance": 1,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/jun/24/camp-mystic-files-bankruptcy-texas-floods",
+      "headline": "Camp Mystic files for bankruptcy after 28 people died in 2025 Texas floods",
+      "summary": "Camp Mystic files for bankruptcy with $10m+ debt after July 2025 flood killing 28 people.",
+      "url": "https://www.theguardian.com/p/x5bnja",
+      "thumbnail": "https://media.guim.co.uk/5d622d93400ca90b4c074c98cbe3dc49e8ab7b72/509_0_5029_4024/500.jpg",
+      "published": "2026-06-24T13:08:36Z",
+      "location": {
+        "name": "Texas",
+        "lat": 31.9686,
+        "lng": -99.9018
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "stage/2026/jun/24/the-warriors-broadway-with-lin-manuel-miranda-musical",
+      "headline": "The Warriors come out to Broadway with Lin-Manuel Miranda musical",
+      "summary": "Lin-Manuel Miranda's Warriors concept album becomes Broadway musical about New York gangs.",
+      "url": "https://www.theguardian.com/p/x5bncc",
+      "thumbnail": "https://media.guim.co.uk/c21cdccd54dd8c16996f37ddbb2ab3a299db7025/60_0_1912_1530/500.jpg",
+      "published": "2026-06-24T13:01:43Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "stage"
+    },
+    {
+      "id": "politics/2026/jun/24/how-brexit-affected-family-relationships",
+      "headline": "‘The family rift is as strong as ever’: how Brexit rocked our relationships",
+      "summary": "Ten years after Brexit referendum, remain voters reflect on family rifts and political divisions.",
+      "url": "https://www.theguardian.com/p/x5agfx",
+      "thumbnail": "https://media.guim.co.uk/b0c42dd9dd49fb6a868f0e7809cbab680a8209f0/580_0_5714_4572/500.jpg",
+      "published": "2026-06-24T13:00:45Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 1,
+      "section": "politics"
+    },
+    {
+      "id": "uk-news/2026/jun/24/pair-convicted-of-manslaughter-after-poisoning-men",
+      "headline": "Pair admit manslaughter after poisoning men in Gloucestershire and Oxfordshire",
+      "summary": "Woman and accomplice convicted of manslaughter after poisoning elderly men in theft scheme.",
+      "url": "https://www.theguardian.com/p/x5bnhk",
+      "thumbnail": "https://media.guim.co.uk/f4efbf9f880d2beb1b74e85a66240d2fa3bdf42b/0_0_1667_1333/500.jpg",
+      "published": "2026-06-24T12:57:15Z",
+      "location": {
+        "name": "Gloucestershire",
+        "lat": 51.8643,
+        "lng": -2.2432
+      },
+      "category": "conflict",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "audible-true-crime-and-investigations/2026/jun/24/new-podcast-investigates-russian-influence-in-us-media",
+      "headline": "Did a rightwing US media startup unwittingly fall under Russian influence? A new podcast investigates ",
+      "summary": "New podcast investigates Russian influence on US rightwing media startup Tenet Media.",
+      "url": "https://www.theguardian.com/p/x58yjj",
+      "thumbnail": "https://media.guim.co.uk/23cd5fe4b4eb33e08839c7caedb74b9a583cbab4/0_0_1500_1200/500.png",
+      "published": "2026-06-24T12:54:45Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "audible-true-crime-and-investigations"
+    },
+    {
+      "id": "stage/2026/jun/24/venus-and-adonis-review-the-pit-barbican-london-simon-russell-beale-greg-doran",
+      "headline": "Venus & Adonis review – Simon Russell Beale narrates cheeky tale of puppet passion",
+      "summary": "Greg Doran directs Shakespeare's Venus & Adonis with puppetry at Barbican, narrated by Russell Beale.",
+      "url": "https://www.theguardian.com/p/x5bn2b",
+      "thumbnail": "https://media.guim.co.uk/19a50a34fd931946a85f6763932fc1d7dcc30fc1/327_54_1209_967/500.jpg",
+      "published": "2026-06-24T12:48:03Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "stage"
     }
   ]
 }
