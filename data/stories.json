@@ -1,44 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-24T08:46:44.223Z",
-    "story_count": 84,
-    "oldest_story": "2026-06-23T08:47:39Z",
-    "newest_story": "2026-06-24T08:36:08Z",
+    "generated_at": "2026-06-24T11:34:07.371Z",
+    "story_count": 95,
+    "oldest_story": "2026-06-23T11:33:56Z",
+    "newest_story": "2026-06-24T11:33:12Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "politics/live/2026/jun/23/burnham-leadership-contest-starmer-jones-streeting-eu-brexit-badenoch-latest-news-updates",
-      "headline": "Minister calls for ‘swift transition’ of power to Burnham without challenge over Labour leadership – UK politics live",
-      "summary": "Labour leadership race intensifies as Burnham allies push for swift transition without challenge.",
-      "url": "https://www.theguardian.com/p/x5bgjc",
-      "thumbnail": "https://media.guim.co.uk/7f9d3caa0d5fd8e237109570544e2411a08317fa/293_0_2380_1904/500.jpg",
-      "published": "2026-06-23T08:49:42Z",
-      "location": {
-        "name": "United Kingdom",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "politics"
-    },
-    {
-      "id": "football/live/2026/jun/23/world-cup-2026-news-live-messi-mbappe-haaland-england-ghana-portugal-uzbekistan-panama-croatia-colombia-dr-congo",
-      "headline": "World Cup 2026: Messi makes history; Mbappé and Haaland double up; England face Ghana – live",
-      "summary": "World Cup 2026: Messi makes history; England face Ghana in tournament day 13 action.",
-      "url": "https://www.theguardian.com/p/x5bcjz",
-      "thumbnail": "https://media.guim.co.uk/d9daa25d7a0b4114b645aa7a282e25740cc542ea/0_0_2476_1981/500.jpg",
-      "published": "2026-06-23T08:47:39Z",
-      "location": {
-        "name": "United States",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "sport",
-      "significance": 4,
-      "section": "football"
-    },
     {
       "id": "us-news/live/2026/jun/23/primary-elections-ny-maryland-utah-supreme-court-ruling-politics-latest-updates",
       "headline": "Primary voting begins in New York, Maryland and Utah – US politics live",
@@ -118,102 +86,6 @@
       "category": "politics",
       "significance": 2,
       "section": "politics"
-    },
-    {
-      "id": "us-news/2026/jun/23/datacenters-climate-hazards-study",
-      "headline": "Majority of datacenters are vulnerable to climate threats like floods and fires, study finds",
-      "summary": "Study finds 80% of US datacenters vulnerable to climate hazards despite contributing to emissions.",
-      "url": "https://www.theguardian.com/p/x5bdtq",
-      "thumbnail": "https://media.guim.co.uk/beeb1b282a4c9873eb541eec6c02f74961e097c3/116_319_2911_2329/500.jpg",
-      "published": "2026-06-23T11:30:26Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "climate",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "commentisfree/2026/jun/23/keir-starmer-uk-prime-minister-peter-mandelson-gaza",
-      "headline": "Look at Keir Starmer’s tenure as prime minister. This is no ‘decent man’ who got unlucky",
-      "summary": "Owen Jones critiques Keir Starmer's troubled tenure as UK prime minister with Gaza and policy failures.",
-      "url": "https://www.theguardian.com/p/x5bdvx",
-      "thumbnail": "https://media.guim.co.uk/874db87ae6e9eb94e4dbb11d4411b19bf2dab5cd/307_0_3333_2667/500.jpg",
-      "published": "2026-06-23T11:20:04Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "commentisfree"
-    },
-    {
-      "id": "environment/2026/jun/23/britain-cod-soaring-prices-fish-chip-shop-favourite-cheaper-options",
-      "headline": "Can the UK kick its cod habit? Fish and chip shop favourite slips down the menu as prices soar",
-      "summary": "UK cod prices double since 2019, fish shops explore cheaper alternatives like pollack and coley.",
-      "url": "https://www.theguardian.com/p/x59qq2",
-      "thumbnail": "https://media.guim.co.uk/46f487452c95de3f1d946cce7f6f0f01c8bbb3e1/557_0_4323_3458/500.jpg",
-      "published": "2026-06-23T11:00:25Z",
-      "location": {
-        "name": "United Kingdom",
-        "lat": 55.3781,
-        "lng": -3.436
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "environment"
-    },
-    {
-      "id": "uk-news/2026/jun/23/south-yorkshire-police-video-officers-teenage-girls-rotherham",
-      "headline": "South Yorkshire police investigate video of officers appearing to shove teenage girls",
-      "summary": "South Yorkshire police investigate video of officers appearing to shove teenage girls in Rotherham.",
-      "url": "https://www.theguardian.com/p/x5bhbh",
-      "thumbnail": "https://media.guim.co.uk/c14300c7d738b35051666d33d3d2c067ba26ad35/1120_0_5600_4480/500.jpg",
-      "published": "2026-06-23T10:55:23Z",
-      "location": {
-        "name": "Rotherham",
-        "lat": 53.4301,
-        "lng": -1.3564
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "business/2026/jun/23/royal-mail-ids-martin-seidenberg-pay-profits-uk-postal-service",
-      "headline": "Royal Mail boss’s pay package soars to £6.9m despite profits slide",
-      "summary": "Royal Mail CEO Martin Seidenberg's pay soars to £6.9m despite 20% profit decline.",
-      "url": "https://www.theguardian.com/p/x5bh57",
-      "thumbnail": "https://media.guim.co.uk/356e75e891122c89cf682720896431a15220349f/344_0_3440_2752/500.jpg",
-      "published": "2026-06-23T10:53:39Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "world/2026/jun/23/scientists-alarmed-wildfires-greenland",
-      "headline": "Scientists alarmed after two wildfires hit Greenland within a week",
-      "summary": "Two wildfires hit Arctic Greenland within a week, alarming scientists about early season fires.",
-      "url": "https://www.theguardian.com/p/x5bcpj",
-      "thumbnail": "https://media.guim.co.uk/eb8da3cb3e1b88ae78cd69f945f5ea1f79497f72/405_0_2813_2252/500.jpg",
-      "published": "2026-06-23T10:44:56Z",
-      "location": {
-        "name": "Greenland",
-        "lat": 71.7069,
-        "lng": -42.6043
-      },
-      "category": "climate",
-      "significance": 3,
-      "section": "world"
     },
     {
       "id": "politics/2026/jun/23/darren-jones-andy-burnham-labour-leadership",
@@ -1350,6 +1222,310 @@
       "category": "health",
       "significance": 2,
       "section": "environment"
+    },
+    {
+      "id": "politics/live/2026/jun/24/andy-burnham-labour-leadership-starmer-darren-jones-pmqs-latest-news-updates",
+      "headline": "Starmer defends record as he faces Badenoch in first PMQs since resignation – UK politics live",
+      "summary": "UK PM Starmer defends record in first PMQs since resignation, claims country in better shape.",
+      "url": "https://www.theguardian.com/p/x5bmca",
+      "thumbnail": "https://media.guim.co.uk/5b8a3d8773dfd63188e8452e600b33da172f5186/768_86_4745_3796/500.jpg",
+      "published": "2026-06-24T11:33:12Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "tv-and-radio/2026/jun/24/kay-patrick-obituary",
+      "headline": "Kay Patrick obituary",
+      "summary": "Kay Patrick, Coronation Street director for 21 years, dies aged 84.",
+      "url": "https://www.theguardian.com/p/x5bn9y",
+      "thumbnail": "https://media.guim.co.uk/d29886c0de1fc48ff907afe41e6ee8c5335f9cec/0_0_2918_2335/500.jpg",
+      "published": "2026-06-24T11:31:36Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "tv-and-radio"
+    },
+    {
+      "id": "media/2026/jun/24/karl-stefanovic-podcast-show-far-right-activist-tommy-robinson-nine-ntwnfb",
+      "headline": "Karl Stefanovic reportedly leaving Nine after podcast with UK far-right activist Tommy Robinson",
+      "summary": "Karl Stefanovic reportedly leaving Channel Nine after podcast with UK far-right activist Tommy Robinson.",
+      "url": "https://www.theguardian.com/p/x5bknv",
+      "thumbnail": "https://media.guim.co.uk/1d1e05ca81c95def0d4110754b27aeb4a48b4118/0_227_1210_968/500.jpg",
+      "published": "2026-06-24T11:29:29Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "media"
+    },
+    {
+      "id": "world/live/2026/jun/24/europe-heatwave-live-news-updates-uk-record-breaking-temperatures-italy-red-alert",
+      "headline": "Europe heatwave live: 94 million people to experience temperatures above 35C today",
+      "summary": "Europe heatwave: 94 million people face 35C+ temps; UK issues rare red alert.",
+      "url": "https://www.theguardian.com/p/x5bkzp",
+      "thumbnail": "https://media.guim.co.uk/65bab6239b1280e02cd2ed3a122fce1f085fba36/519_0_4997_3998/500.jpg",
+      "published": "2026-06-24T11:28:55Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "climate",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "football/live/2026/jun/24/world-cup-2026-final-group-games-bosnia-and-herzegovina-qatar-switzerland-canada-scotland-brazil-morocco-haiti-czechia-mexico-south-africa-south-korea-live",
+      "headline": "World Cup 2026: Infantino says hydration breaks not commercial; England frustrated; Scotland face Brazil – live",
+      "summary": "World Cup 2026: Scotland face Brazil in final group game; six matches played today.",
+      "url": "https://www.theguardian.com/p/x5bthg",
+      "thumbnail": "https://media.guim.co.uk/d503ed6ed07d587b48de970374e7fd2d13c3be0e/1571_860_5540_4432/500.jpg",
+      "published": "2026-06-24T11:28:49Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "us-news/live/2026/jun/24/mamdani-new-york-primaries-midterms-democrats-republicans-trump-250-anniversary-politics-latest-updates",
+      "headline": "Mamdani-backed candidates win big in New York Democratic primaries – US politics live",
+      "summary": "Mamdani-backed candidates win big in New York Democratic primaries.",
+      "url": "https://www.theguardian.com/p/x5bn26",
+      "thumbnail": "https://media.guim.co.uk/62a361c6ea7a618393c5fc81b859d09307f3cbc0/744_447_4442_3553/500.jpg",
+      "published": "2026-06-24T11:28:34Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "society/live/2026/jun/24/ockenden-maternity-review-nottingham-university-hospitals-trust-nhs-latest-news-updates",
+      "headline": "Ockenden report live: major NHS maternity review finds hundreds of deaths and serious injuries at ‘toxic’ trust",
+      "summary": "Ockenden report finds hundreds of deaths, injuries at 'toxic' NHS maternity trust.",
+      "url": "https://www.theguardian.com/p/x5bmtb",
+      "thumbnail": "https://media.guim.co.uk/7f2d86a1b32a0ee0fd45309179e931a2d4baa0b5/670_0_5000_4000/500.jpg",
+      "published": "2026-06-24T11:26:40Z",
+      "location": {
+        "name": "Nottingham",
+        "lat": 52.9549,
+        "lng": -1.1581
+      },
+      "category": "health",
+      "significance": 3,
+      "section": "society"
+    },
+    {
+      "id": "uk-news/2026/jun/24/one-in-one-out-deal-channel-crossings-to-end-reports",
+      "headline": "‘One in, one out’ deal on Channel crossings to end in October, French reports say",
+      "summary": "UK-France 'one in, one out' Channel crossing deal to end in October, reports say.",
+      "url": "https://www.theguardian.com/p/x5bn8e",
+      "thumbnail": "https://media.guim.co.uk/69a4f318cbd31c1a4e895eb905e1a1b3bfc33560/804_0_4019_3217/500.jpg",
+      "published": "2026-06-24T11:12:24Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "lifeandstyle/2026/jun/24/exercise-miracle-cure-expert-tips-protect-your-joints",
+      "headline": "‘Smaller doses of exercise are a miracle cure’: 14 expert tips to protect your joints",
+      "summary": "Experts give 14 tips to protect joints through exercise and proper care.",
+      "url": "https://www.theguardian.com/p/x5avgf",
+      "thumbnail": "https://media.guim.co.uk/88b6558199a9e2c41658482d730c1dbc3fae11e6/0_0_3750_3000/500.jpg",
+      "published": "2026-06-24T11:00:44Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 1,
+      "section": "lifeandstyle"
+    },
+    {
+      "id": "us-news/ng-interactive/2026/jun/24/prairieland-texas-ice-protests-zines",
+      "headline": "‘This is injustice’: how leftist zines were used to sentence anti-ICE protesters to decades in prison",
+      "summary": "Anti-ICE protesters sentenced to decades in prison; zines used as terrorism evidence.",
+      "url": "https://www.theguardian.com/p/x5advq",
+      "thumbnail": "https://media.guim.co.uk/596f627f2b1ee9d008a135113a79d6baba7ca9cd/1_0_2499_2000/500.jpg",
+      "published": "2026-06-24T11:00:44Z",
+      "location": {
+        "name": "Wichita Falls",
+        "lat": 33.9137,
+        "lng": -98.5457
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "world/2026/jun/24/off-duty-cops-second-jobs-kill-and-die-recession-hit-argentina-rideshare",
+      "headline": "Why off-duty cops in second jobs ‘kill and die more’ in recession-hit Argentina",
+      "summary": "Off-duty Argentine cops working rideshare with guns experience higher death rates.",
+      "url": "https://www.theguardian.com/p/x4ttfc",
+      "thumbnail": "https://media.guim.co.uk/096f31a7c3ab544336c29fc6c4e324bb0f8d7d7d/518_0_5590_4472/500.jpg",
+      "published": "2026-06-24T11:00:43Z",
+      "location": {
+        "name": "Buenos Aires",
+        "lat": -34.6037,
+        "lng": -58.3816
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "football/2026/jun/24/world-cup-schedule-today-how-to-watch-scotland-v-brazil",
+      "headline": "World Cup schedule today: How to watch Scotland v Brazil, TV channels & live stream Wednesday 24 June",
+      "summary": "Scotland face Brazil in World Cup; Clarke's side fighting for knockout round spot.",
+      "url": "https://www.theguardian.com/p/x5bk25",
+      "thumbnail": "https://media.guim.co.uk/7dfa2c9c197d7e6c720b600b4b8c1742e4fb7395/439_0_3689_2951/500.jpg",
+      "published": "2026-06-24T11:00:43Z",
+      "location": {
+        "name": "Glasgow",
+        "lat": 55.8642,
+        "lng": -4.2518
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "us-news/ng-interactive/2026/jun/24/customer-service-us-consumers",
+      "headline": "Record profits, terrible service: something’s got to give for US consumers",
+      "summary": "US consumer service crisis: record profits amid consolidation leave customers worse off.",
+      "url": "https://www.theguardian.com/p/x5bjqn",
+      "thumbnail": "https://media.guim.co.uk/74c74aa7d9d3840dc3ab744a11190352352d1ab0/154_115_3517_2815/500.jpg",
+      "published": "2026-06-24T11:00:42Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "world/2026/jun/24/battle-hardened-ukraine-role-defending-europe-ex-nato-chief-anders-fogh-rasmussen",
+      "headline": "‘Battle hardened’ Ukraine has role to play in defending Europe, says ex-Nato chief",
+      "summary": "Ex-NATO chief says 'battle-hardened' Ukraine should defend Europe if US withdraws.",
+      "url": "https://www.theguardian.com/p/x5bmee",
+      "thumbnail": "https://media.guim.co.uk/f84fdfcfd8bf3cc4a89aa7dc2303470d24da685f/39_0_5035_4029/500.jpg",
+      "published": "2026-06-24T10:58:19Z",
+      "location": {
+        "name": "Kyiv",
+        "lat": 50.4501,
+        "lng": 30.5234
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "world/2026/jun/24/israeli-former-leaders-security-chiefs-legal-action-jewish-terrorism-west-bank",
+      "headline": "Israeli former leaders and security chiefs threaten legal action over ‘Jewish terrorism’",
+      "summary": "Israeli security chiefs threaten legal action over Jewish terrorism and ethnic cleansing ideology in West Bank.",
+      "url": "https://www.theguardian.com/p/x5btb4",
+      "thumbnail": "https://media.guim.co.uk/fa0f1f2d30e980592e1c144a9094714ae181916a/385_0_3919_3136/500.jpg",
+      "published": "2026-06-24T10:53:26Z",
+      "location": {
+        "name": "West Bank",
+        "lat": 31.9454,
+        "lng": 35.2007
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "society/2026/jun/24/nottingham-maternity-care-scandal-review-key-findings",
+      "headline": "Nottingham maternity care scandal review: what are the key findings?",
+      "summary": "Inquiry finds 500+ mothers and babies harmed at toxic Nottingham NHS maternity unit due to systemic failures.",
+      "url": "https://www.theguardian.com/p/x5bmhy",
+      "thumbnail": "https://media.guim.co.uk/c12a3bb6c12187e64f5b0ed497d4728a76e1f467/385_0_4250_3400/500.jpg",
+      "published": "2026-06-24T10:45:42Z",
+      "location": {
+        "name": "Nottingham",
+        "lat": 52.9545,
+        "lng": -1.1581
+      },
+      "category": "health",
+      "significance": 4,
+      "section": "society"
+    },
+    {
+      "id": "uk-news/2026/jun/24/donna-ockenden-report-mothers-babies-died-harmed-nottingham-nhs-trust",
+      "headline": "More than 500 mothers and babies died or were harmed at ‘toxic’ Nottingham NHS trust, report finds",
+      "summary": "Ockenden report reveals 444 women, 76 babies suffered avoidable harm at Nottingham NHS trust maternity unit.",
+      "url": "https://www.theguardian.com/p/x5bn6q",
+      "thumbnail": "https://media.guim.co.uk/91f0efc00c25c46c14bad8de775ccc8b947eb8b1/1232_526_4276_3421/500.jpg",
+      "published": "2026-06-24T10:45:32Z",
+      "location": {
+        "name": "Nottingham",
+        "lat": 52.9545,
+        "lng": -1.1581
+      },
+      "category": "health",
+      "significance": 4,
+      "section": "uk-news"
+    },
+    {
+      "id": "football/2026/jun/24/brazil-working-hard-to-ensure-successful-2027-womens-world-cup",
+      "headline": "‘For future generations’: Brazil working hard to ensure successful 2027 Women’s World Cup",
+      "summary": "Brazil prepares for 2027 Women's World Cup starting in one year across eight cities.",
+      "url": "https://www.theguardian.com/p/x5bkfm",
+      "thumbnail": "https://media.guim.co.uk/abc5300b82c0210ff6a4c17a0ca55e7f10d3c757/153_0_3672_2938/500.jpg",
+      "published": "2026-06-24T10:36:54Z",
+      "location": {
+        "name": "Brazil",
+        "lat": -14.235,
+        "lng": -51.9253
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "thefilter/2026/jun/23/best-alternative-amazon-prime-day-deals-sales-uk",
+      "headline": "From cooling fans to the best ever chef’s knife: 33 Filter favourites that are on sale in the UK right now",
+      "summary": "Young Vic theatre reviews Sting, exploring historical crimes against women in contemporary setting.",
+      "url": "https://www.theguardian.com/p/x5bh2c",
+      "thumbnail": "https://media.guim.co.uk/20e12d1fd992e069c184b39992c258aee5206db9/0_0_5000_4000/500.jpg",
+      "published": "2026-06-24T10:27:57Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "thefilter"
     }
   ]
 }
