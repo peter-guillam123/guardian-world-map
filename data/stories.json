@@ -1,60 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-25T08:04:28.654Z",
-    "story_count": 77,
-    "oldest_story": "2026-06-24T08:23:46Z",
+    "generated_at": "2026-06-25T10:53:01.015Z",
+    "story_count": 70,
+    "oldest_story": "2026-06-24T10:53:26Z",
     "newest_story": "2026-06-25T08:02:37Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "society/2026/jun/22/nhs-maternity-scandal-nottingham-report-five-stories",
-      "headline": "‘Truly horrific’: the stories of five people affected by the NHS maternity scandal ",
-      "summary": "Nottingham NHS maternity scandal report published, investigating 2,500 families affected.",
-      "url": "https://www.theguardian.com/p/x5aht7",
-      "thumbnail": "https://media.guim.co.uk/e05b082bc1170c16c1daee5094d163eca2416d6b/38_354_6302_5044/500.jpg",
-      "published": "2026-06-24T08:36:08Z",
-      "location": {
-        "name": "Nottingham",
-        "lat": 52.9549,
-        "lng": -1.1084
-      },
-      "category": "health",
-      "significance": 3,
-      "section": "society"
-    },
-    {
-      "id": "environment/2026/jun/24/bird-flu-case-confirmed-south-australia-western-australia-suspected",
-      "headline": "Bird flu confirmed in South Australia as infected petrel brings deadly H5N1 cases to three",
-      "summary": "H5N1 bird flu confirmed in South Australia, with suspected case in Western Australia.",
-      "url": "https://www.theguardian.com/p/x5bype",
-      "thumbnail": "https://media.guim.co.uk/b5223225ea5b99ba6891a0ef6a1133460888a2fc/0_664_3024_2419/500.jpg",
-      "published": "2026-06-24T08:33:45Z",
-      "location": {
-        "name": "South Australia",
-        "lat": -25.2744,
-        "lng": 133.7751
-      },
-      "category": "health",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "business/2026/jun/24/heatwave-great-britain-grid-operator-extra-electricity-power-plants",
-      "headline": "Heatwave pushes Great Britain’s grid operator to call for extra electricity from power plants",
-      "summary": "Great Britain's grid operator issues rare summer power warning as heatwave intensifies.",
-      "url": "https://www.theguardian.com/p/x5bm89",
-      "thumbnail": "https://media.guim.co.uk/609bdcd8f9ee178f58cbf2bc1017ae44c123abac/39_66_6192_4954/500.jpg",
-      "published": "2026-06-24T08:23:46Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "business"
-    },
     {
       "id": "politics/live/2026/jun/24/andy-burnham-labour-leadership-starmer-darren-jones-pmqs-latest-news-updates",
       "headline": "Starmer defends record as he faces Badenoch in first PMQs since resignation – UK politics live",
@@ -294,70 +246,6 @@
       "category": "conflict",
       "significance": 4,
       "section": "world"
-    },
-    {
-      "id": "society/2026/jun/24/nottingham-maternity-care-scandal-review-key-findings",
-      "headline": "Nottingham maternity care scandal review: what are the key findings?",
-      "summary": "Inquiry finds 500+ mothers and babies harmed at toxic Nottingham NHS maternity unit due to systemic failures.",
-      "url": "https://www.theguardian.com/p/x5bmhy",
-      "thumbnail": "https://media.guim.co.uk/c12a3bb6c12187e64f5b0ed497d4728a76e1f467/385_0_4250_3400/500.jpg",
-      "published": "2026-06-24T10:45:42Z",
-      "location": {
-        "name": "Nottingham",
-        "lat": 52.9545,
-        "lng": -1.1581
-      },
-      "category": "health",
-      "significance": 4,
-      "section": "society"
-    },
-    {
-      "id": "uk-news/2026/jun/24/donna-ockenden-report-mothers-babies-died-harmed-nottingham-nhs-trust",
-      "headline": "More than 500 mothers and babies died or were harmed at ‘toxic’ Nottingham NHS trust, report finds",
-      "summary": "Ockenden report reveals 444 women, 76 babies suffered avoidable harm at Nottingham NHS trust maternity unit.",
-      "url": "https://www.theguardian.com/p/x5bn6q",
-      "thumbnail": "https://media.guim.co.uk/91f0efc00c25c46c14bad8de775ccc8b947eb8b1/1232_526_4276_3421/500.jpg",
-      "published": "2026-06-24T10:45:32Z",
-      "location": {
-        "name": "Nottingham",
-        "lat": 52.9545,
-        "lng": -1.1581
-      },
-      "category": "health",
-      "significance": 4,
-      "section": "uk-news"
-    },
-    {
-      "id": "football/2026/jun/24/brazil-working-hard-to-ensure-successful-2027-womens-world-cup",
-      "headline": "‘For future generations’: Brazil working hard to ensure successful 2027 Women’s World Cup",
-      "summary": "Brazil prepares for 2027 Women's World Cup starting in one year across eight cities.",
-      "url": "https://www.theguardian.com/p/x5bkfm",
-      "thumbnail": "https://media.guim.co.uk/abc5300b82c0210ff6a4c17a0ca55e7f10d3c757/153_0_3672_2938/500.jpg",
-      "published": "2026-06-24T10:36:54Z",
-      "location": {
-        "name": "Brazil",
-        "lat": -14.235,
-        "lng": -51.9253
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "thefilter/2026/jun/23/best-alternative-amazon-prime-day-deals-sales-uk",
-      "headline": "From cooling fans to the best ever chef’s knife: 33 Filter favourites that are on sale in the UK right now",
-      "summary": "Young Vic theatre reviews Sting, exploring historical crimes against women in contemporary setting.",
-      "url": "https://www.theguardian.com/p/x5bh2c",
-      "thumbnail": "https://media.guim.co.uk/20e12d1fd992e069c184b39992c258aee5206db9/0_0_5000_4000/500.jpg",
-      "published": "2026-06-24T10:27:57Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "thefilter"
     },
     {
       "id": "politics/2026/jun/24/andy-burnham-plans-move-no-10-operation-manchester",
