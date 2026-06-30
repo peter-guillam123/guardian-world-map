@@ -1,10 +1,427 @@
 {
   "meta": {
-    "generated_at": "2026-06-30T13:23:21.106Z",
-    "story_count": 0,
-    "oldest_story": null,
-    "newest_story": null,
+    "generated_at": "2026-06-30T16:05:06.056Z",
+    "story_count": 26,
+    "oldest_story": "2026-06-30T15:00:10Z",
+    "newest_story": "2026-06-30T16:03:48Z",
     "window_hours": 24
   },
-  "stories": []
+  "stories": [
+    {
+      "id": "politics/live/2026/jun/30/defence-investment-plan-keir-starmer-dan-jarvis-labour-andy-burnham-uk-politics-latest-news",
+      "headline": "Next chancellor will have to find £5bn to fund black hole in defence funding, government figures reveal – UK politics live",
+      "summary": "UK government reveals £5bn defence funding gap; next chancellor must find money for shortfall.",
+      "url": "https://www.theguardian.com/p/x5dx9g",
+      "thumbnail": "https://media.guim.co.uk/e255ffdc7856ea12c3db1096e812c2c0b3becf5c/245_75_4812_3850/500.jpg",
+      "published": "2026-06-30T16:03:48Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "sport/live/2026/jun/30/wimbledon-2026-serena-williams-returns-swiatek-zverev-and-boulter-in-action-live",
+      "headline": "Wimbledon 2026: Swiatek battles through, Zverev in action before Serena Williams return – live",
+      "summary": "Wimbledon 2026 day two: Serena Williams returns to Centre Court as Swiatek advances.",
+      "url": "https://www.theguardian.com/p/x5czty",
+      "thumbnail": "https://media.guim.co.uk/cca3998c9cd6460b9552675cab47b199ccaa7b61/500_0_5000_4000/500.jpg",
+      "published": "2026-06-30T16:03:23Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "football/live/2026/jun/30/cote-divoire-v-norway-world-cup-2026-last-32-live",
+      "headline": "Côte d’Ivoire v Norway: World Cup 2026 last 32 – live",
+      "summary": "Côte d'Ivoire faces Norway in World Cup 2026 last-32 knockout match for Brazil playoff spot.",
+      "url": "https://www.theguardian.com/p/x5czhg",
+      "thumbnail": "https://media.guim.co.uk/d7cc8e9031c54ec60eb2603c5e933225f81c2771/121_0_4361_3489/500.jpg",
+      "published": "2026-06-30T16:03:21Z",
+      "location": {
+        "name": "Ivory Coast",
+        "lat": 6.8276,
+        "lng": -5.2893
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "sport/live/2026/jun/30/australia-v-west-indies-womens-t20-world-cup-semi-final-live",
+      "headline": "Australia v West Indies: Women’s T20 World Cup semi-final – live ",
+      "summary": "Australia faces West Indies in Women's T20 World Cup semi-final at the Oval.",
+      "url": "https://www.theguardian.com/p/x5czjm",
+      "thumbnail": "https://media.guim.co.uk/c9e242cfac18708c038a5f48be694ad1f53c16d4/456_0_3607_2886/500.jpg",
+      "published": "2026-06-30T16:01:33Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "us-news/2026/jun/30/world-cup-matches-extreme-heat",
+      "headline": "World Cup matches played in potentially dangerous heat as players’ union makes climate warning ",
+      "summary": "Nine World Cup group stage matches played in dangerous heat; Fifpro warns of climate scheduling risks.",
+      "url": "https://www.theguardian.com/p/x5c3ex",
+      "thumbnail": "https://media.guim.co.uk/25b63feac8ed2d6de63397ea68702dea295b63e2/745_0_6206_4966/500.jpg",
+      "published": "2026-06-30T16:00:10Z",
+      "location": {
+        "name": "United States",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "climate",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/jun/30/us-supreme-court-bithright-citizenship",
+      "headline": "US supreme court upholds birthright citizenship in blow to Trump agenda",
+      "summary": "US Supreme Court upholds birthright citizenship, rejecting Trump administration's anti-immigrant policy.",
+      "url": "https://www.theguardian.com/p/x4zp6x",
+      "thumbnail": "https://media.guim.co.uk/a4cdfac514cc3bf34bba86b8a93f9ae385b4e983/545_0_5454_4365/500.jpg",
+      "published": "2026-06-30T15:54:19Z",
+      "location": {
+        "name": "United States",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 4,
+      "section": "us-news"
+    },
+    {
+      "id": "uk-news/2026/jun/30/shetland-councillors-plans-tunnels-link-largest-islands",
+      "headline": "Shetland councillors back plans to build tunnels to link some of largest islands",
+      "summary": "Shetland councillors back plans for subsea tunnels to link Scottish islands and boost local economy.",
+      "url": "https://www.theguardian.com/p/x5d33q",
+      "thumbnail": "https://media.guim.co.uk/c2320fbb9ce8d48e01e8d43af415f2a6f6a03469/247_0_4250_3400/500.jpg",
+      "published": "2026-06-30T15:50:58Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "us-news/live/2026/jun/30/birthright-citizenship-supreme-court-donald-trump-us-politics-latest-news",
+      "headline": "Birthright citizenship: civil rights groups and Democrats welcome supreme court decision against Trump – live",
+      "summary": "Supreme Court upholds birthright citizenship; Democrats welcome ruling against Trump agenda.",
+      "url": "https://www.theguardian.com/p/x5dxcq",
+      "thumbnail": "https://media.guim.co.uk/bc18af59728ad049a7566ee0e9969741d4afffac/1846_69_5630_4507/500.jpg",
+      "published": "2026-06-30T15:49:13Z",
+      "location": {
+        "name": "United States",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 4,
+      "section": "us-news"
+    },
+    {
+      "id": "film/2026/jun/30/blake-lively-justin-baldoni-legal-fees",
+      "headline": "Blake Lively files to recieve $8m in legal fees from Justin Baldoni and his studio",
+      "summary": "Blake Lively seeks $8m in legal fees from Justin Baldoni over 'It Ends With Us' dispute.",
+      "url": "https://www.theguardian.com/p/x5d3a8",
+      "thumbnail": "https://media.guim.co.uk/31dcd21eff6f03c8a85b8dc234a50ec9cffb2376/263_0_2625_2100/500.jpg",
+      "published": "2026-06-30T15:48:29Z",
+      "location": {
+        "name": "Los Angeles",
+        "lat": 34.0522,
+        "lng": -118.2437
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "film"
+    },
+    {
+      "id": "us-news/2026/jun/30/us-supreme-court-upholds-laws-trans-women-sports",
+      "headline": "US supreme court rules states can exclude trans athletes from female sports",
+      "summary": "Supreme Court rules states can ban transgender athletes from female sports competition.",
+      "url": "https://www.theguardian.com/p/x58x7h",
+      "thumbnail": "https://media.guim.co.uk/05800e795ea8956f0042723f88b14b667d604d92/0_0_6829_5464/500.jpg",
+      "published": "2026-06-30T15:46:00Z",
+      "location": {
+        "name": "United States",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 4,
+      "section": "us-news"
+    },
+    {
+      "id": "politics/2026/jun/30/england-maternity-commissioner-shocking-failings-amos-review",
+      "headline": "Damning report on England maternity care ‘watershed moment’, health secretary says",
+      "summary": "Damning maternity care report prompts creation of NHS commissioner to address 'toxic' culture.",
+      "url": "https://www.theguardian.com/p/x5cpdg",
+      "thumbnail": "https://media.guim.co.uk/4ed817f059781850862dd349cec84fe22cf93f00/644_0_4530_3625/500.jpg",
+      "published": "2026-06-30T15:33:00Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 3,
+      "section": "politics"
+    },
+    {
+      "id": "world/2026/jun/30/italy-mep-government-truth-migrant-detention-centre-albania",
+      "headline": "Italian MEP suggests government wants to ‘hide truth’ about Albania migrant centre",
+      "summary": "Italian MEP claims government hiding truth about Albania migrant detention centre conditions.",
+      "url": "https://www.theguardian.com/p/x5d27y",
+      "thumbnail": "https://media.guim.co.uk/3fa23f468e862bf8d57d8a1bd54de93f503fbdbf/458_0_4583_3667/500.jpg",
+      "published": "2026-06-30T15:30:09Z",
+      "location": {
+        "name": "Tirana",
+        "lat": 41.3275,
+        "lng": 19.8187
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "technology/2026/jun/30/silicon-valley-donations-colorado-democratic-primary",
+      "headline": "Silicon Valley donations make Colorado Democratic primary one of state’s most expensive",
+      "summary": "Tech donations surge in Colorado Democratic primary as pro-AI and anti-AI factions battle over regulation.",
+      "url": "https://www.theguardian.com/p/x5d39g",
+      "thumbnail": "https://media.guim.co.uk/9c81b1f3b6bc9d1a70c758daeccd7e5b6922a7c7/499_0_2501_2000/500.jpg",
+      "published": "2026-06-30T15:26:09Z",
+      "location": {
+        "name": "Colorado",
+        "lat": 39.0598,
+        "lng": -105.3111
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "technology"
+    },
+    {
+      "id": "football/2026/jun/30/lothar-matthaus-germany-families-world-cup-exit",
+      "headline": "Unhappy families: Matthäus claims Germany travel plans caused World Cup rift",
+      "summary": "Lothar Matthäus claims family travel arrangements caused team unrest in Germany's World Cup exit.",
+      "url": "https://www.theguardian.com/p/x5d2az",
+      "thumbnail": "https://media.guim.co.uk/eea079f7d855be2d54e659b305971d35f7ecff68/359_0_2807_2246/500.jpg",
+      "published": "2026-06-30T15:21:46Z",
+      "location": {
+        "name": "Germany",
+        "lat": 51.1657,
+        "lng": 10.4515
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/jun/30/mauricio-pochettino-press-conferences-usmnt-world-cup",
+      "headline": "‘No one congratulated us’: Inside Mauricio Pochettino’s strange clash with the US press pack",
+      "summary": "Mauricio Pochettino clashes with US press over post-match congratulations custom at World Cup.",
+      "url": "https://www.theguardian.com/p/x5dxvg",
+      "thumbnail": "https://media.guim.co.uk/dc95b6ac4d42505d1b42be5abe7dcd9905d74afa/280_0_3918_3136/500.jpg",
+      "published": "2026-06-30T15:21:13Z",
+      "location": {
+        "name": "United States",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "world/live/2026/jun/30/monaco-bombing-ukraine-gerany-hungary-poland-baltics-heat-latest-news-updates",
+      "headline": "Monaco bombing was ‘attempted assassination’, not terror attack, say prosecutors – as it happened",
+      "summary": "Monaco prosecutors label parcel bombing targeting Ukrainian oligarch as attempted assassination, not terrorism.",
+      "url": "https://www.theguardian.com/p/x5d243",
+      "thumbnail": "https://media.guim.co.uk/94d5c9147cd78ea95e16371f77bb4d31ba0df459/411_0_5000_4000/500.jpg",
+      "published": "2026-06-30T15:19:20Z",
+      "location": {
+        "name": "Monaco",
+        "lat": 43.7384,
+        "lng": 7.4246
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "business/2026/jun/30/uk-disposable-incomes-price-rises-tax-cgt-ons-gdp-growth",
+      "headline": "UK disposable incomes squeezed by price rises and tax changes",
+      "summary": "UK household disposable incomes squeezed by price rises and tax changes despite 0.6% GDP growth.",
+      "url": "https://www.theguardian.com/p/x5dxjh",
+      "thumbnail": "https://media.guim.co.uk/1a438b06bf96e77eb9c48613bec4bf234fe09e7c/293_0_3279_2624/500.jpg",
+      "published": "2026-06-30T15:14:39Z",
+      "location": {
+        "name": "United Kingdom",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "australia-news/2026/jun/30/house-prices-fall-capital-cities-australia-sydney-melbourne-adelaide-canberra",
+      "headline": "House prices fall in four capital cities as Sydney values drop nearly $50,000 this year",
+      "summary": "House prices fall in four Australian capitals with Sydney down nearly $50,000 since start of year.",
+      "url": "https://www.theguardian.com/p/x5dvfk",
+      "thumbnail": "https://media.guim.co.uk/c82ee6e4628d9f77940458f18bf385f02d7b2493/175_0_4640_3712/500.jpg",
+      "published": "2026-06-30T15:08:28Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "us-news/2026/jun/30/trump-religious-freedom-health-lgbtq",
+      "headline": "Trump administration puts religious freedom at heart of US health policy",
+      "summary": "Trump administration prioritizes religious freedom in health policy, affecting LGBTQ+ and abortion care.",
+      "url": "https://www.theguardian.com/p/x5d385",
+      "thumbnail": "https://media.guim.co.uk/73990be2bbe4414d57ee32c18ab01bc658c1d25a/299_0_3319_2656/500.jpg",
+      "published": "2026-06-30T15:01:29Z",
+      "location": {
+        "name": "United States",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "world/2026/jun/30/vadym-iermolaiev-ukrainian-born-oligarch-monaco-bomber",
+      "headline": "‘He isn’t political’: the Ukrainian-born oligarch targeted by a Monaco bomber",
+      "summary": "Ukrainian oligarch Vadym Iermolaiev targeted in Monaco bombing despite lack of political involvement.",
+      "url": "https://www.theguardian.com/p/x5dxk7",
+      "thumbnail": "https://media.guim.co.uk/0ab190f605ad5b530c75e21bc8f28014cb5503ab/66_0_667_534/500.jpg",
+      "published": "2026-06-30T15:00:14Z",
+      "location": {
+        "name": "Monaco",
+        "lat": 43.7384,
+        "lng": 7.4246
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "environment/2026/jun/30/solar-sharer-offer-sso-three-free-hours-electricity-power-energy-australia",
+      "headline": "Many Australians can get three free hours of power from today. Here’s how",
+      "summary": "Australians in three states can access free solar power hours through new Solar Sharer scheme from July 1.",
+      "url": "https://www.theguardian.com/p/x5cqyg",
+      "thumbnail": "https://media.guim.co.uk/7e62f62f49f38e939fdd2dd329b35e63f77b5a43/455_0_5413_4333/500.jpg",
+      "published": "2026-06-30T15:00:13Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "tech",
+      "significance": 1,
+      "section": "environment"
+    },
+    {
+      "id": "books/2026/jul/01/bookshops-australia-industry-decline-economy",
+      "headline": "Bookshops offer much more than just retail – but who would open one in this economy?",
+      "summary": "Australian bookshops face decline with half the stores from a decade ago despite some optimistic openings.",
+      "url": "https://www.theguardian.com/p/x5cyk8",
+      "thumbnail": "https://media.guim.co.uk/e789080726ca57a3853e5886615fb3c15a12ecbf/358_0_6603_5285/500.jpg",
+      "published": "2026-06-30T15:00:13Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "books"
+    },
+    {
+      "id": "world/2026/jul/01/like-being-stabbed-in-the-back-abuse-survivors-left-without-trials-after-christian-brothers-unprecedented-legal-tactic-ntwnfb",
+      "headline": "Like being ‘stabbed in the back’: abuse survivors left without trials after Christian Brothers’ unprecedented legal tactic",
+      "summary": "Christian Brothers use unprecedented legal tactic to halt abuse trials and create external compensation scheme.",
+      "url": "https://www.theguardian.com/p/x5dvdb",
+      "thumbnail": "https://media.guim.co.uk/c757dc7c55fb256d9b2403374605628d0f292dc8/1150_527_1782_1427/500.jpg",
+      "published": "2026-06-30T15:00:11Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "football/2026/jun/30/japan-the-example-to-follow-but-this-has-been-a-dismal-world-cup-for-asia",
+      "headline": "Japan the example to follow but this has been a dismal World Cup for Asia",
+      "summary": "Japan sets example at World Cup while Asia struggles overall with Saudi Arabia and South Korea underperforming.",
+      "url": "https://www.theguardian.com/p/x5d2xf",
+      "thumbnail": "https://media.guim.co.uk/bf7762169857c5e222cdbcc6d20dec1319933b2a/211_344_3881_3106/500.jpg",
+      "published": "2026-06-30T15:00:11Z",
+      "location": {
+        "name": "Japan",
+        "lat": 36.2048,
+        "lng": 138.2529
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "australia-news/2026/jul/01/seafood-menus-to-include-origin-labels-australian-fishing-industry",
+      "headline": "What’s the catch? Menus across Australia to show seafood’s country of origin ",
+      "summary": "Australian restaurant menus must now display seafood origin labels from July 1 under new government mandate.",
+      "url": "https://www.theguardian.com/p/x5dvj9",
+      "thumbnail": "https://media.guim.co.uk/0cd3e98d70f703a2eff9ce3a67e2096faa4cc75f/0_3508_5081_4065/500.jpg",
+      "published": "2026-06-30T15:00:11Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "economy",
+      "significance": 1,
+      "section": "australia-news"
+    },
+    {
+      "id": "sport/blog/2026/jun/30/wallabies-hoping-ireland-clash-lights-the-fuse-for-schmidts-farewell-tour",
+      "headline": "Wallabies hoping Ireland clash lights the fuse for Schmidt’s farewell tour",
+      "summary": "Wallabies face Ireland in Sydney as Schmidt prepares for World Cup credentials.",
+      "url": "https://www.theguardian.com/p/x5dx2b",
+      "thumbnail": "https://media.guim.co.uk/a1c56d97e5ca83820ae656fd0aca5222f256d675/121_0_4550_3641/500.jpg",
+      "published": "2026-06-30T15:00:10Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    }
+  ]
 }
