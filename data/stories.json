@@ -1,92 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-07-01T15:58:54.885Z",
-    "story_count": 43,
-    "oldest_story": "2026-06-30T16:00:10Z",
-    "newest_story": "2026-07-01T15:56:18Z",
+    "generated_at": "2026-07-01T18:06:39.993Z",
+    "story_count": 44,
+    "oldest_story": "2026-07-01T12:05:03Z",
+    "newest_story": "2026-07-01T18:05:03Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "politics/live/2026/jun/30/defence-investment-plan-keir-starmer-dan-jarvis-labour-andy-burnham-uk-politics-latest-news",
-      "headline": "Next chancellor will have to find £5bn to fund black hole in defence funding, government figures reveal – UK politics live",
-      "summary": "UK government reveals £5bn defence funding gap; next chancellor must find money for shortfall.",
-      "url": "https://www.theguardian.com/p/x5dx9g",
-      "thumbnail": "https://media.guim.co.uk/e255ffdc7856ea12c3db1096e812c2c0b3becf5c/245_75_4812_3850/500.jpg",
-      "published": "2026-06-30T16:03:48Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "sport/live/2026/jun/30/wimbledon-2026-serena-williams-returns-swiatek-zverev-and-boulter-in-action-live",
-      "headline": "Wimbledon 2026: Swiatek battles through, Zverev in action before Serena Williams return – live",
-      "summary": "Wimbledon 2026 day two: Serena Williams returns to Centre Court as Swiatek advances.",
-      "url": "https://www.theguardian.com/p/x5czty",
-      "thumbnail": "https://media.guim.co.uk/cca3998c9cd6460b9552675cab47b199ccaa7b61/500_0_5000_4000/500.jpg",
-      "published": "2026-06-30T16:03:23Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "football/live/2026/jun/30/cote-divoire-v-norway-world-cup-2026-last-32-live",
-      "headline": "Côte d’Ivoire v Norway: World Cup 2026 last 32 – live",
-      "summary": "Côte d'Ivoire faces Norway in World Cup 2026 last-32 knockout match for Brazil playoff spot.",
-      "url": "https://www.theguardian.com/p/x5czhg",
-      "thumbnail": "https://media.guim.co.uk/d7cc8e9031c54ec60eb2603c5e933225f81c2771/121_0_4361_3489/500.jpg",
-      "published": "2026-06-30T16:03:21Z",
-      "location": {
-        "name": "Ivory Coast",
-        "lat": 6.8276,
-        "lng": -5.2893
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "sport/live/2026/jun/30/australia-v-west-indies-womens-t20-world-cup-semi-final-live",
-      "headline": "Australia v West Indies: Women’s T20 World Cup semi-final – live ",
-      "summary": "Australia faces West Indies in Women's T20 World Cup semi-final at the Oval.",
-      "url": "https://www.theguardian.com/p/x5czjm",
-      "thumbnail": "https://media.guim.co.uk/c9e242cfac18708c038a5f48be694ad1f53c16d4/456_0_3607_2886/500.jpg",
-      "published": "2026-06-30T16:01:33Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "us-news/2026/jun/30/world-cup-matches-extreme-heat",
-      "headline": "World Cup matches played in potentially dangerous heat as players’ union makes climate warning ",
-      "summary": "Nine World Cup group stage matches played in dangerous heat; Fifpro warns of climate scheduling risks.",
-      "url": "https://www.theguardian.com/p/x5c3ex",
-      "thumbnail": "https://media.guim.co.uk/25b63feac8ed2d6de63397ea68702dea295b63e2/745_0_6206_4966/500.jpg",
-      "published": "2026-06-30T16:00:10Z",
-      "location": {
-        "name": "United States",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "climate",
-      "significance": 3,
-      "section": "us-news"
-    },
     {
       "id": "politics/live/2026/jul/01/keir-starmer-andy-burnham-labour-defence-investment-plan-pmqs-kemi-badenoch",
       "headline": "Badenoch urges Burnham to condemn defence investment plan as Starmer says black hole will be addressed – UK politics live",
@@ -694,6 +614,102 @@
       "category": "sport",
       "significance": 2,
       "section": "sport"
+    },
+    {
+      "id": "football/live/2026/jul/01/belgium-v-senegal-world-cup-last-32-live",
+      "headline": "Belgium v Senegal: World Cup last 32 – live  ",
+      "summary": "Belgium faces Senegal in World Cup 2026 last-32 match in Seattle.",
+      "url": "https://www.theguardian.com/p/x5czzj",
+      "thumbnail": "https://media.guim.co.uk/442f409c2b47d32d49b0a58c0faa12979684016c/1017_0_5859_4688/500.jpg",
+      "published": "2026-07-01T18:05:03Z",
+      "location": {
+        "name": "Seattle",
+        "lat": 47.6062,
+        "lng": -122.3321
+      },
+      "category": "sport",
+      "significance": 4,
+      "section": "football"
+    },
+    {
+      "id": "football/live/2026/jul/01/england-v-dr-congo-world-cup-2026-last-32-live",
+      "headline": "England v DR Congo: World Cup 2026 last 32 – live",
+      "summary": "England advances to World Cup last 16 after Kane's late double vs DR Congo.",
+      "url": "https://www.theguardian.com/p/x5czn5",
+      "thumbnail": "https://media.guim.co.uk/d50f62f2c4decae648def27d57dd1f5d0f1f5d70/28_0_4094_3275/500.jpg",
+      "published": "2026-07-01T18:01:01Z",
+      "location": {
+        "name": "Atlanta",
+        "lat": 33.749,
+        "lng": -84.388
+      },
+      "category": "sport",
+      "significance": 4,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/jul/01/england-dr-congo-world-cup-2026-last-32-match-report",
+      "headline": "Kane to the rescue with late double as England edge past DR Congo into last 16",
+      "summary": "Kane scores twice late as England edges DR Congo in World Cup last-32 match.",
+      "url": "https://www.theguardian.com/p/x5d98d",
+      "thumbnail": "https://media.guim.co.uk/e28b237373ec7a49487b00fdcf7b477488a28ace/1262_507_4926_3941/500.jpg",
+      "published": "2026-07-01T18:00:44Z",
+      "location": {
+        "name": "Atlanta",
+        "lat": 33.749,
+        "lng": -84.388
+      },
+      "category": "sport",
+      "significance": 4,
+      "section": "football"
+    },
+    {
+      "id": "commentisfree/2026/jul/01/britain-military-spending-defence-keir-starmer",
+      "headline": "There is no immediate military threat to Britain. We should spend less on defence",
+      "summary": "UK defence spending debate: columnist argues for reduced military budget.",
+      "url": "https://www.theguardian.com/p/x5d8pp",
+      "thumbnail": "https://media.guim.co.uk/15ae507d2237fb26dcdaf7666a2cf8c6b01a3f38/26_0_5672_4539/500.jpg",
+      "published": "2026-07-01T17:05:30Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "commentisfree"
+    },
+    {
+      "id": "us-news/2026/jul/01/donald-trump-great-american-state-fair",
+      "headline": "A storm, overpriced food and a sad ferris wheel: inside Trump’s dreadful state fair",
+      "summary": "Trump attends Great American State Fair amid sparse crowds and extreme heat.",
+      "url": "https://www.theguardian.com/p/x5d8pc",
+      "thumbnail": "https://media.guim.co.uk/7bf0f0f54302a83fd6684bbccb193767e0ddd528/506_0_5057_4046/500.jpg",
+      "published": "2026-07-01T17:00:41Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "news/2026/jul/01/europes-deadly-heatwave-inside-the-3-july-guardian-weekly",
+      "headline": "Europe’s deadly heatwave: inside the 3 July Guardian Weekly",
+      "summary": "Europe endures record-breaking heatwave affecting over 150 million people.",
+      "url": "https://www.theguardian.com/p/x5czn9",
+      "thumbnail": "https://media.guim.co.uk/45023bc5dc6daceb39bf48b5d6914daa924bc5fe/0_0_5000_4000/500.jpg",
+      "published": "2026-07-01T17:00:41Z",
+      "location": {
+        "name": "Europe",
+        "lat": 54.5973,
+        "lng": 15.2551
+      },
+      "category": "climate",
+      "significance": 4,
+      "section": "news"
     }
   ]
 }
