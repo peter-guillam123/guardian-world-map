@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-02T21:38:30.443Z",
-    "story_count": 63,
+    "generated_at": "2026-07-02T22:46:41.590Z",
+    "story_count": 66,
     "oldest_story": "2026-07-02T12:02:04Z",
-    "newest_story": "2026-07-02T21:37:36Z",
+    "newest_story": "2026-07-02T22:11:41Z",
     "window_hours": 24
   },
   "stories": [
@@ -1013,6 +1013,54 @@
       },
       "category": "sport",
       "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/jul/02/usmnt-world-cup-most-watched-viewership-record",
+      "headline": "USMNT win smashes record for most-watched soccer broadcast with 33.5 million viewers",
+      "summary": "USMNT World Cup win sets record with 33.5 million viewers on Fox and Telemundo.",
+      "url": "https://www.theguardian.com/p/x5dg5n",
+      "thumbnail": "https://media.guim.co.uk/d40420c3413976057896c4f6f1d8e70c34d5f167/436_0_3807_3046/500.jpg",
+      "published": "2026-07-02T22:11:41Z",
+      "location": {
+        "name": "United States",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/jul/02/tucker-carlson-new-political-party-idea-interview",
+      "headline": "Tucker Carlson floats idea of new political party in the US in interview",
+      "summary": "Tucker Carlson floats idea of new US political party, distances himself from Trump.",
+      "url": "https://www.theguardian.com/p/x5dftz",
+      "thumbnail": "https://media.guim.co.uk/ac36903d2558f0bb2c48800e9a785a7085c37f44/460_0_4598_3679/500.jpg",
+      "published": "2026-07-02T22:01:32Z",
+      "location": {
+        "name": "United States",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/jul/02/mexico-city-world-cup-fever-el-tri-capture-imaginations-england",
+      "headline": "Mexico City swept up in World Cup fever as El Tri capture imaginations like never before",
+      "summary": "Mexico City gripped by World Cup fever as El Tri prepares for last-16 clash with England.",
+      "url": "https://www.theguardian.com/p/x5dfzb",
+      "thumbnail": "https://media.guim.co.uk/cad0a39c1cc6445713f500d4926253f2e535e7fa/371_0_2500_2000/500.jpg",
+      "published": "2026-07-02T21:43:17Z",
+      "location": {
+        "name": "Mexico City",
+        "lat": 19.4326,
+        "lng": -99.1332
+      },
+      "category": "sport",
+      "significance": 3,
       "section": "football"
     }
   ]
