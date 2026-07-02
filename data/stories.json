@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-02T22:46:41.590Z",
-    "story_count": 66,
+    "generated_at": "2026-07-02T23:50:23.820Z",
+    "story_count": 71,
     "oldest_story": "2026-07-02T12:02:04Z",
-    "newest_story": "2026-07-02T22:11:41Z",
+    "newest_story": "2026-07-02T23:20:38Z",
     "window_hours": 24
   },
   "stories": [
@@ -1062,6 +1062,86 @@
       "category": "sport",
       "significance": 3,
       "section": "football"
+    },
+    {
+      "id": "us-news/2026/jul/02/trump-administration-wins-appeal-national-parks",
+      "headline": "Trump administration can remove history and climate info from US parks, court says",
+      "summary": "Trump administration wins appeal to remove climate and history signage from US parks.",
+      "url": "https://www.theguardian.com/p/x5dgee",
+      "thumbnail": "https://media.guim.co.uk/3114bb92824b74ab1b487f4a23085d166d9d17f1/435_0_4348_3479/500.jpg",
+      "published": "2026-07-02T23:20:38Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/jul/03/egypt-mo-salah-fit-to-play-australia-socceroos-after-injury",
+      "headline": "Egypt star Mo Salah fit to face Socceroos in last-32 clash after hamstring strain",
+      "summary": "Mo Salah confirmed fit for Egypt's World Cup last-32 clash against Australia in Dallas.",
+      "url": "https://www.theguardian.com/p/x5dc5f",
+      "thumbnail": "https://media.guim.co.uk/e3c7f0f820c5afd6c049bcc8037fb0499361cb5d/326_0_4435_3547/500.jpg",
+      "published": "2026-07-02T23:09:44Z",
+      "location": {
+        "name": "Dallas",
+        "lat": 32.7767,
+        "lng": -96.797
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/jul/02/aoc-endorses-el-sayed-michigan",
+      "headline": "AOC endorses progressive Democrat in closely watched Michigan race for US Senate seat",
+      "summary": "AOC endorses progressive Democrat Abdul El-Sayed in Michigan's closely watched Senate race.",
+      "url": "https://www.theguardian.com/p/x5dett",
+      "thumbnail": "https://media.guim.co.uk/fd34b78aa37a768e10594d5a48febbcc11f9b462/0_0_1500_1200/500.jpg",
+      "published": "2026-07-02T23:05:46Z",
+      "location": {
+        "name": "Michigan",
+        "lat": 43.3266,
+        "lng": -84.5361
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/jul/02/trump-ai-video-doctor",
+      "headline": "Trump posts AI video of him as doctor treating critics’ ‘derangement syndrome’",
+      "summary": "Trump posts AI-generated video portraying himself as doctor treating 'Trump derangement syndrome'.",
+      "url": "https://www.theguardian.com/p/x5dg6g",
+      "thumbnail": "https://media.guim.co.uk/5ebdbe4137e0cb8ce7bfc06337169c428e8cf3b4/332_0_3309_2649/500.jpg",
+      "published": "2026-07-02T23:03:59Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "tech",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "uk-news/2026/jul/03/vanishingly-rare-copy-us-declaration-independence-volunteer-uk-archives",
+      "headline": "‘Vanishingly rare’ copy of US Declaration of Independence found by volunteer in UK archives",
+      "summary": "Rare copy of US Declaration of Independence discovered by volunteer at UK National Archives.",
+      "url": "https://www.theguardian.com/p/x5de2g",
+      "thumbnail": "https://media.guim.co.uk/77b408ca86d377d39f5077996246c266962612a5/176_164_1442_1153/500.jpg",
+      "published": "2026-07-02T23:01:12Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "uk-news"
     }
   ]
 }
