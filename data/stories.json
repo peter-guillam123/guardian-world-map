@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-02T18:51:28.061Z",
-    "story_count": 51,
+    "generated_at": "2026-07-02T20:18:09.366Z",
+    "story_count": 58,
     "oldest_story": "2026-07-02T12:02:04Z",
-    "newest_story": "2026-07-02T18:46:36Z",
+    "newest_story": "2026-07-02T20:16:14Z",
     "window_hours": 24
   },
   "stories": [
@@ -822,6 +822,118 @@
       "category": "tech",
       "significance": 2,
       "section": "technology"
+    },
+    {
+      "id": "environment/2026/jul/02/heatwave-eastern-us",
+      "headline": "Brutal heatwave scorches eastern US ahead of Fourth of July weekend",
+      "summary": "Dangerous heatwave sweeps eastern US with heat index reaching 115F ahead of July 4th weekend.",
+      "url": "https://www.theguardian.com/p/x5de4m",
+      "thumbnail": "https://media.guim.co.uk/8664666f9475d717824398b8c184afc22e494e8a/458_0_4586_3668/500.jpg",
+      "published": "2026-07-02T20:16:14Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "climate",
+      "significance": 3,
+      "section": "environment"
+    },
+    {
+      "id": "us-news/2026/jul/02/us-olympian-indicted-trump-vandalism-reflecting-pool",
+      "headline": "US Olympian indicted after Trump alleged ‘vandalism’ at DC reflecting pool",
+      "summary": "Three-time US Olympian David Hearn indicted for touching reflecting pool liner during renovation project.",
+      "url": "https://www.theguardian.com/p/x5dff4",
+      "thumbnail": "https://media.guim.co.uk/531c8a8c7c56b2b56438b7e866f8a1052de523e9/0_101_1596_1276/500.jpg",
+      "published": "2026-07-02T20:04:37Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "sport/2026/jul/02/savvy-matteo-berrettini-has-too-much-for-frances-feisty-arthur-fils",
+      "headline": "France’s feisty Fils wins over Centre Court but Berrettini has too much savvy",
+      "summary": "Arthur Fils loses to Matteo Berrettini at Wimbledon as France waits 43+ years for grand slam winner.",
+      "url": "https://www.theguardian.com/p/x5ddcm",
+      "thumbnail": "https://media.guim.co.uk/8cde216a14d013c38f26131805ba1e242ceddf1f/0_0_4819_3856/500.jpg",
+      "published": "2026-07-02T19:48:08Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "australia-news/2026/jul/03/afp-investigating-alleged-war-crimes-committed-by-australian-citizen-serving-in-idf-in-gaza-ntwnfb",
+      "headline": "AFP assessing allegation of Gaza war crimes committed by Australian citizen serving in IDF",
+      "summary": "AFP investigates alleged Gaza war crimes by Australian citizen serving in Israel Defense Forces.",
+      "url": "https://www.theguardian.com/p/x5bhgp",
+      "thumbnail": "https://media.guim.co.uk/06b8fe95767fb7c3c507f285a58cd5c9081dff8b/480_0_4800_3840/500.jpg",
+      "published": "2026-07-02T19:44:18Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "australia-news"
+    },
+    {
+      "id": "sport/2026/jul/02/england-team-to-face-south-africa-pollock-bench-borthwick-rugby-union",
+      "headline": "All eyes on Henry Pollock as England aim to think big against South Africa",
+      "summary": "England faces South Africa in Nations Championship opener with discounted tickets for Ellis Park.",
+      "url": "https://www.theguardian.com/p/x5ddn7",
+      "thumbnail": "https://media.guim.co.uk/4c2f6dd0bcc4511f97d734a75271654aa4cccec3/461_0_2570_2056/500.jpg",
+      "published": "2026-07-02T19:39:45Z",
+      "location": {
+        "name": "Johannesburg",
+        "lat": -26.2023,
+        "lng": 28.0436
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "politics/2026/jul/02/burnham-promises-to-ease-cost-of-living-pressures-if-he-becomes-prime-minister",
+      "headline": "Burnham promises to ease cost of living pressures if he becomes prime minister",
+      "summary": "Andy Burnham promises cost of living relief including business rates cuts if he becomes PM.",
+      "url": "https://www.theguardian.com/p/x5dfhx",
+      "thumbnail": "https://media.guim.co.uk/936422f226aaf2f8fb0a597690f70033319ca819/1442_0_3007_2407/500.jpg",
+      "published": "2026-07-02T19:38:16Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "sport/2026/jul/02/rafael-jodar-alexander-zverev-alex-de-minaur-2026-wimbledon-tennis",
+      "headline": "Rafael Jodar hits back to beat Pablo Carrenño Busta at Wimbledon after delay",
+      "summary": "Rafael Jodar defeats Pablo Carrenño Busta at Wimbledon; Zverev and De Minaur advance to round three.",
+      "url": "https://www.theguardian.com/p/x5d7gp",
+      "thumbnail": "https://media.guim.co.uk/7c24c47a5668f190720e511912e374cdafe05b68/358_83_2360_1888/500.jpg",
+      "published": "2026-07-02T19:29:51Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
     }
   ]
 }
