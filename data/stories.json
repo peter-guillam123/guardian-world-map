@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-02T20:18:09.366Z",
-    "story_count": 58,
+    "generated_at": "2026-07-02T21:38:30.443Z",
+    "story_count": 63,
     "oldest_story": "2026-07-02T12:02:04Z",
-    "newest_story": "2026-07-02T20:16:14Z",
+    "newest_story": "2026-07-02T21:37:36Z",
     "window_hours": 24
   },
   "stories": [
@@ -934,6 +934,86 @@
       "category": "sport",
       "significance": 2,
       "section": "sport"
+    },
+    {
+      "id": "australia-news/live/2026/jul/03/politics-anthony-albanese-labor-angus-taylor-liberal-party-coalition-antisemitism-royal-commission-nsw-victorian-alps-snow-weather-ntwnfb",
+      "headline": "Australia news live: Deeming lodges legal suit against Victorian Liberal president; blizzard brings snow to NSW and Victorian alps",
+      "summary": "Victorian MP Moira Deeming launches court challenge against her party over assault allegation.",
+      "url": "https://www.theguardian.com/p/x5dfzy",
+      "thumbnail": "https://media.guim.co.uk/1f4ea18c7bf1f6d88e8e43bea2eec6450abedbe8/1216_294_4747_3798/500.jpg",
+      "published": "2026-07-02T21:37:36Z",
+      "location": {
+        "name": "Victoria",
+        "lat": -37.8136,
+        "lng": 144.9631
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "us-news/2026/jul/02/nancy-guthrie-fake-ransom-note",
+      "headline": "California man pleads guilty to faking Nancy Guthrie ransom note",
+      "summary": "California man pleads guilty to sending fake ransom note to Nancy Guthrie's family.",
+      "url": "https://www.theguardian.com/p/x5dg3z",
+      "thumbnail": "https://media.guim.co.uk/b08987c43397fe819e47585e02eb5371280f5494/250_0_2500_2000/500.jpg",
+      "published": "2026-07-02T21:34:23Z",
+      "location": {
+        "name": "California",
+        "lat": 36.1162,
+        "lng": -115.146
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "sport/2026/jul/02/england-south-africa-womens-t20-world-cup-2026-semi-final-cricket-match-report",
+      "headline": "England book final date with Australia as Sciver-Brunt and Knight sink South Africa",
+      "summary": "England beats South Africa in Women's T20 World Cup semi-final to reach final against Australia.",
+      "url": "https://www.theguardian.com/p/x5dekv",
+      "thumbnail": "https://media.guim.co.uk/7697165dd01044bd180b0c9e4b5e2fbce5de5eaf/333_0_3333_2666/500.jpg",
+      "published": "2026-07-02T21:13:20Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "sport"
+    },
+    {
+      "id": "australia-news/2026/jul/03/morning-mail-friday-ntwnfb",
+      "headline": "Morning Mail: AFP assesses Gaza war crimes allegation, median wealth falls, Socceroos aim to make history",
+      "summary": "AFP receives 61-page brief alleging Gaza war crimes by IDF battalion with Australian member.",
+      "url": "https://www.theguardian.com/p/x5ddb4",
+      "thumbnail": "https://media.guim.co.uk/06b8fe95767fb7c3c507f285a58cd5c9081dff8b/480_0_4800_3840/500.jpg",
+      "published": "2026-07-02T20:58:06Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "australia-news"
+    },
+    {
+      "id": "football/2026/jul/02/maddy-cusack-was-fearful-of-reporting-her-concerns-mother-tells-inquest",
+      "headline": "Maddy Cusack was fearful of reporting her concerns, mother tells inquest",
+      "summary": "Maddy Cusack inquest reveals Sheffield United player feared reporting concerns to hierarchy.",
+      "url": "https://www.theguardian.com/p/x5dfhg",
+      "thumbnail": "https://media.guim.co.uk/ea90f3cfa1a4325041059671a61bd86ba4eb2013/197_0_3288_2630/500.jpg",
+      "published": "2026-07-02T20:49:05Z",
+      "location": {
+        "name": "Sheffield",
+        "lat": 53.3811,
+        "lng": -1.4668
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
     }
   ]
 }
