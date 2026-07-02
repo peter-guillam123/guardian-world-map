@@ -1,108 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-07-02T15:33:27.281Z",
-    "story_count": 33,
-    "oldest_story": "2026-07-01T15:34:27Z",
-    "newest_story": "2026-07-02T13:10:07Z",
+    "generated_at": "2026-07-02T17:15:30.770Z",
+    "story_count": 44,
+    "oldest_story": "2026-07-01T18:00:44Z",
+    "newest_story": "2026-07-02T17:14:54Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/2026/jul/01/liverpool-sign-jeremy-jacquet-rennes",
-      "headline": "Brighton agree £50m deal for Spurs’ Vuskovic, Liverpool seal Jacquet signing",
-      "summary": "Liverpool completes £60m signing of Jérémy Jacquet from Rennes in summer transfer window.",
-      "url": "https://www.theguardian.com/p/x5d7tm",
-      "thumbnail": "https://media.guim.co.uk/e205ec95c2e770011e0f0f697229f3215be066f0/0_0_4969_3976/500.jpg",
-      "published": "2026-07-01T15:56:18Z",
-      "location": {
-        "name": "Liverpool",
-        "lat": 53.4308,
-        "lng": -2.9608
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "politics/2026/jul/01/andy-burnham-says-nothing-off-table-in-case-of-rochdale-grooming-gang-leader",
-      "headline": "Andy Burnham says ‘nothing off table’ in case of Rochdale grooming gang leader",
-      "summary": "Andy Burnham explores legal options to deport Rochdale grooming gang leader as Labour leader-in-waiting.",
-      "url": "https://www.theguardian.com/p/x5d8na",
-      "thumbnail": "https://media.guim.co.uk/afd84fb8080c45805367e9d88f402e54ce2dc125/0_415_1586_1267/500.jpg",
-      "published": "2026-07-01T15:52:15Z",
-      "location": {
-        "name": "Rochdale",
-        "lat": 53.6093,
-        "lng": -2.1545
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "sport/live/2026/jul/01/england-v-india-first-mens-t20-international-live",
-      "headline": "England v India: first men’s T20 international – live",
-      "summary": "England plays India in first men's T20 international at Chester le Street cricket venue.",
-      "url": "https://www.theguardian.com/p/x5czp8",
-      "thumbnail": "https://media.guim.co.uk/b56c443002f33af47dc305c3d2bef7b68d764d2f/250_0_2500_2000/500.jpg",
-      "published": "2026-07-01T15:49:53Z",
-      "location": {
-        "name": "Chester le Street",
-        "lat": 54.5115,
-        "lng": -1.5831
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "environment/2026/jul/01/england-hottest-june-on-record-met-office-data",
-      "headline": "England has just had its hottest June on record, Met Office data shows",
-      "summary": "England records hottest June on record with dangerous heatwaves and unprecedented red heat alerts.",
-      "url": "https://www.theguardian.com/p/x5d947",
-      "thumbnail": "https://media.guim.co.uk/802e3385e624f006a4e0287cbac69e0b3d466bef/697_0_6415_5132/500.jpg",
-      "published": "2026-07-01T15:47:45Z",
-      "location": {
-        "name": "England",
-        "lat": 52.3555,
-        "lng": -1.1743
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "environment"
-    },
-    {
-      "id": "world/2026/jul/01/bayeux-tapestry-ticket-sales-british-museum-art",
-      "headline": "Bayeux tapestry tickets generate nine-hour online queues as public scramble for access",
-      "summary": "Bayeux tapestry tickets generate nine-hour online queues at British Museum with 80,000 people waiting.",
-      "url": "https://www.theguardian.com/p/x5d8qk",
-      "thumbnail": "https://media.guim.co.uk/ced0a2f5fe9115d5d9589c308173af8cb60d8ec8/458_0_4585_3667/500.jpg",
-      "published": "2026-07-01T15:37:39Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "news/2026/jul/01/dutch-enslavement-slavery-figure-research",
-      "headline": "At least 3.3m people were victims of Dutch enslavement, research claims",
-      "summary": "Research claims 3.3 million people enslaved in Dutch transatlantic slave trade, five times official figure.",
-      "url": "https://www.theguardian.com/p/x5cp2x",
-      "thumbnail": "https://media.guim.co.uk/a618ae2f20d5f570e3dd4841effd99ffb83cf18a/557_0_4560_3648/500.jpg",
-      "published": "2026-07-01T15:34:27Z",
-      "location": {
-        "name": "Netherlands",
-        "lat": 52.1326,
-        "lng": 5.2913
-      },
-      "category": "other",
-      "significance": 3,
-      "section": "news"
-    },
     {
       "id": "football/live/2026/jul/01/belgium-v-senegal-world-cup-last-32-live",
       "headline": "Belgium v Senegal: World Cup last 32 – live  ",
@@ -150,54 +54,6 @@
       "category": "sport",
       "significance": 4,
       "section": "football"
-    },
-    {
-      "id": "commentisfree/2026/jul/01/britain-military-spending-defence-keir-starmer",
-      "headline": "There is no immediate military threat to Britain. We should spend less on defence",
-      "summary": "UK defence spending debate: columnist argues for reduced military budget.",
-      "url": "https://www.theguardian.com/p/x5d8pp",
-      "thumbnail": "https://media.guim.co.uk/15ae507d2237fb26dcdaf7666a2cf8c6b01a3f38/26_0_5672_4539/500.jpg",
-      "published": "2026-07-01T17:05:30Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "commentisfree"
-    },
-    {
-      "id": "us-news/2026/jul/01/donald-trump-great-american-state-fair",
-      "headline": "A storm, overpriced food and a sad ferris wheel: inside Trump’s dreadful state fair",
-      "summary": "Trump attends Great American State Fair amid sparse crowds and extreme heat.",
-      "url": "https://www.theguardian.com/p/x5d8pc",
-      "thumbnail": "https://media.guim.co.uk/7bf0f0f54302a83fd6684bbccb193767e0ddd528/506_0_5057_4046/500.jpg",
-      "published": "2026-07-01T17:00:41Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "news/2026/jul/01/europes-deadly-heatwave-inside-the-3-july-guardian-weekly",
-      "headline": "Europe’s deadly heatwave: inside the 3 July Guardian Weekly",
-      "summary": "Europe endures record-breaking heatwave affecting over 150 million people.",
-      "url": "https://www.theguardian.com/p/x5czn9",
-      "thumbnail": "https://media.guim.co.uk/45023bc5dc6daceb39bf48b5d6914daa924bc5fe/0_0_5000_4000/500.jpg",
-      "published": "2026-07-01T17:00:41Z",
-      "location": {
-        "name": "Europe",
-        "lat": 54.5973,
-        "lng": 15.2551
-      },
-      "category": "climate",
-      "significance": 4,
-      "section": "news"
     },
     {
       "id": "world/2026/jul/02/monks-killed-thailand-mukdahan-crash-truck-procession",
@@ -534,6 +390,326 @@
       "category": "economy",
       "significance": 2,
       "section": "politics"
+    },
+    {
+      "id": "sport/live/2026/jul/02/england-v-south-africa-womens-t20-cricket-world-cup-semi-final-live",
+      "headline": "England v South Africa: Women’s T20 Cricket World Cup semi-final – live",
+      "summary": "England faces South Africa in Women's T20 World Cup semi-final at the Oval.",
+      "url": "https://www.theguardian.com/p/x5d8nq",
+      "thumbnail": "https://media.guim.co.uk/bcfb8831cb466ceb74a023c73bd04cecb5f5c75e/444_292_2968_2374/500.jpg",
+      "published": "2026-07-02T17:14:54Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "sport"
+    },
+    {
+      "id": "environment/2026/jul/02/defra-breached-law-farmers-bee-killing-pesticide-watchdog",
+      "headline": "Defra breached law when it let farmers use bee-killing pesticide, watchdog says",
+      "summary": "UK watchdog finds Defra breached environmental law approving bee-killing pesticide.",
+      "url": "https://www.theguardian.com/p/x5dezg",
+      "thumbnail": "https://media.guim.co.uk/55ad7de7aee5ab92c3689a78540699df7b3f5ad8/540_0_2699_2159/500.jpg",
+      "published": "2026-07-02T17:10:14Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "environment"
+    },
+    {
+      "id": "football/live/2026/jul/02/world-cup-2026-england-and-belgium-fight-back-spain-v-austria-buildup-and-more-live",
+      "headline": "World Cup 2026: Klopp linked with Germany job; Spain and Portugal face last-32 tests – as it happened",
+      "summary": "Spain plays Austria in World Cup 2026 last-32 knockout match in Inglewood.",
+      "url": "https://www.theguardian.com/p/x5d8y5",
+      "thumbnail": "https://media.guim.co.uk/8586e68f7efd6c98f8798386929841c0e57dd276/607_104_4870_3896/500.jpg",
+      "published": "2026-07-02T17:07:59Z",
+      "location": {
+        "name": "Los Angeles",
+        "lat": 34.0522,
+        "lng": -118.2437
+      },
+      "category": "sport",
+      "significance": 4,
+      "section": "football"
+    },
+    {
+      "id": "sport/2026/jul/02/arthur-fery-katie-swan-britain-2026-wimbledon-second-round",
+      "headline": "Fery defies nosebleed to carry British hopes into round three but Swan bows out",
+      "summary": "Arthur Fery advances at Wimbledon while Katie Swan exits in second round.",
+      "url": "https://www.theguardian.com/p/x5ddd2",
+      "thumbnail": "https://media.guim.co.uk/660c9d9ce7ecd81f477deeb7b28ec87db544eaa7/355_116_4334_3466/500.jpg",
+      "published": "2026-07-02T17:06:53Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "uk-news/2026/jul/02/married-at-first-sight-uk-cast-member-arrested-on-suspicion-of",
+      "headline": "Married at First Sight UK cast member arrested on suspicion of rape",
+      "summary": "Married at First Sight UK cast member arrested on suspicion of rape.",
+      "url": "https://www.theguardian.com/p/x5dfvm",
+      "thumbnail": "https://media.guim.co.uk/14786e32a98ae20f05cabe137e8ae2388c9088d5/423_0_4197_3358/500.jpg",
+      "published": "2026-07-02T17:06:07Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "other",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "world/2026/jul/02/man-accused-of-ordering-daphne-caruana-galizia-murder-paid-hitmens-legal-fees-court-hears",
+      "headline": "Man accused of ordering Daphne Caruana Galizia murder paid hitmen’s legal fees, court hears",
+      "summary": "Businessman accused of ordering journalist's murder spent €400k on hitmen's legal fees.",
+      "url": "https://www.theguardian.com/p/x5df3k",
+      "thumbnail": "https://media.guim.co.uk/25a7264d5597d288c0bdec6a7e75acd5b57045ca/257_0_2915_2333/500.jpg",
+      "published": "2026-07-02T17:06:01Z",
+      "location": {
+        "name": "Valletta",
+        "lat": 35.8989,
+        "lng": 14.5146
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "society/2026/jul/02/international-network-drug-facilitated-rape-uncovered-by-uk-crime-agency",
+      "headline": "‘Truly international’ network of drug-facilitated rape uncovered by UK crime agency",
+      "summary": "UK NCA uncovers international network of drug-facilitated sexual assault crimes.",
+      "url": "https://www.theguardian.com/p/x5degt",
+      "thumbnail": "https://media.guim.co.uk/d27ddcc44bda33e0eedd327387e26d6ab7cfb491/708_0_3500_2800/500.jpg",
+      "published": "2026-07-02T17:05:47Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 3,
+      "section": "society"
+    },
+    {
+      "id": "football/live/2026/jul/02/spain-v-austria-world-cup-2026-last-32-live",
+      "headline": "Spain v Austria: World Cup 2026 last 32 – live",
+      "summary": "Spain vs Austria World Cup 2026 last-32 match in progress in Los Angeles.",
+      "url": "https://www.theguardian.com/p/x5czqx",
+      "thumbnail": "https://media.guim.co.uk/1f64d983057e0ae62c425c7c8a3edb0b56d10b53/671_147_4463_3571/500.jpg",
+      "published": "2026-07-02T17:00:04Z",
+      "location": {
+        "name": "Los Angeles",
+        "lat": 34.0522,
+        "lng": -118.2437
+      },
+      "category": "sport",
+      "significance": 4,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/jul/02/florida-undocumented-college-students",
+      "headline": "Outrage over ‘cruel’ Florida move to ban undocumented students from college",
+      "summary": "Florida bans undocumented students from state colleges under DeSantis-aligned board.",
+      "url": "https://www.theguardian.com/p/x5df3t",
+      "thumbnail": "https://media.guim.co.uk/d5edf72a95db777e033e461eb4c29348ceb9a447/327_0_4370_3497/500.jpg",
+      "published": "2026-07-02T16:56:35Z",
+      "location": {
+        "name": "Tallahassee",
+        "lat": 30.4383,
+        "lng": -84.2807
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "environment/2026/jul/02/plans-must-be-put-in-place-before-heatwaves-not-cobbled-together-during-them",
+      "headline": "Plans must be put in place before heatwaves – not cobbled together during them ",
+      "summary": "European health professionals call for EU climate strategy to address heatwave crises.",
+      "url": "https://www.theguardian.com/p/x5d34q",
+      "thumbnail": "https://media.guim.co.uk/e2f95fb7515c85448a6d02424c8f581a39aa64f7/46_0_6667_5333/500.jpg",
+      "published": "2026-07-02T16:53:40Z",
+      "location": {
+        "name": "Brussels",
+        "lat": 50.8503,
+        "lng": 4.3517
+      },
+      "category": "health",
+      "significance": 3,
+      "section": "environment"
+    },
+    {
+      "id": "uk-news/2026/jul/02/cat-blue-wilbur-pet-who-changed-colour-puzzles-owners",
+      "headline": "‘Why is your cat blue?’: Wilbur, the pet who changed colour, puzzles owners",
+      "summary": "Cat returns home with unusual bright blue coloring, baffles Cornwall family.",
+      "url": "https://www.theguardian.com/p/x5dfv9",
+      "thumbnail": "https://media.guim.co.uk/92c365fcdb2861619fe3c6897349978fa5629914/10_0_917_734/500.jpg",
+      "published": "2026-07-02T16:51:38Z",
+      "location": {
+        "name": "Truro",
+        "lat": 50.2632,
+        "lng": -5.1093
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "uk-news"
+    },
+    {
+      "id": "politics/2026/jul/02/mapping-the-best-location-for-no-10-north",
+      "headline": "Mapping the best location for No 10 North",
+      "summary": "Letters discuss location logistics for potential No 10 North government office.",
+      "url": "https://www.theguardian.com/p/x5ddhd",
+      "thumbnail": "https://media.guim.co.uk/b625e6ce450712b95f91013a10fd22993954b28f/0_894_5942_4754/500.jpg",
+      "published": "2026-07-02T16:51:21Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "politics",
+      "significance": 1,
+      "section": "politics"
+    },
+    {
+      "id": "sport/2026/jul/02/swiatek-puts-tears-and-fears-behind-her-to-dismantle-pliskova-at-wimbledon",
+      "headline": "Swiatek puts tears and fears behind her to dismantle Pliskova at Wimbledon",
+      "summary": "Swiatek dominates Pliskova 6-1, 6-3 in Wimbledon second round match.",
+      "url": "https://www.theguardian.com/p/x5ddct",
+      "thumbnail": "https://media.guim.co.uk/38d448746d5dc71c8c4fe135702ba3577dea3088/337_0_3005_2404/500.jpg",
+      "published": "2026-07-02T16:40:27Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "world/2026/jul/02/tell-us-about-a-local-animal-celebrity-in-your-area",
+      "headline": "Tell us about a local animal celebrity in your area",
+      "summary": "Neil the elephant seal causes chaos in Tasmania with playful behavior toward fences and vehicles.",
+      "url": "https://www.theguardian.com/p/x5df29",
+      "thumbnail": "https://media.guim.co.uk/a9aeed514f5f6641eef22a1760523f7ea059d523/126_0_3780_3024/500.jpg",
+      "published": "2026-07-02T16:35:11Z",
+      "location": {
+        "name": "Tasmania",
+        "lat": -42.8821,
+        "lng": 147.3272
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "world/2026/jul/02/canadian-boy-dies-rabies-bat-on-face",
+      "headline": "Canadian boy dies of rabies after waking to find bat on his face",
+      "summary": "Canadian boy dies of rabies after bat contact on face during Ontario cottage visit.",
+      "url": "https://www.theguardian.com/p/x5dey7",
+      "thumbnail": "https://media.guim.co.uk/6e7b37b3b665d03e4bbb7dc3214238b3619a6711/443_0_2218_1774/500.jpg",
+      "published": "2026-07-02T16:29:38Z",
+      "location": {
+        "name": "Ontario",
+        "lat": 51.2538,
+        "lng": -85.3232
+      },
+      "category": "health",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "lifeandstyle/2026/jul/02/starmer-pubs-stay-open-england-mexico-match-world-cup",
+      "headline": "Keir Starmer to allow pubs to stay open until 5am for England v Mexico match",
+      "summary": "UK PM extends pub hours until 5am for England's 1am World Cup match against Mexico.",
+      "url": "https://www.theguardian.com/p/x5dea9",
+      "thumbnail": "https://media.guim.co.uk/5720f2b582e09bffd9326bf8ab7d719ffdb43303/249_0_4711_3769/500.jpg",
+      "published": "2026-07-02T16:24:05Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "lifeandstyle"
+    },
+    {
+      "id": "sport/2026/jul/02/wimbledon-diary-tech-bunkers-nesting-wagtails-and-safe-records",
+      "headline": "Wimbledon diary: tech bunkers, birds stop play and safe serve records",
+      "summary": "Wimbledon 2026 features record app usage, technology upgrades, and nesting birds on courts.",
+      "url": "https://www.theguardian.com/p/x5ddd7",
+      "thumbnail": "https://media.guim.co.uk/ad4d2b9466d5c82c03d6d476764a31b9f13489aa/362_0_3631_2904/500.jpg",
+      "published": "2026-07-02T16:21:38Z",
+      "location": {
+        "name": "London",
+        "lat": 51.4382,
+        "lng": -0.2142
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "politics/2026/jul/02/nigel-farage-reported-standards-watchdog-alleged-crypto-lobbying",
+      "headline": "Nigel Farage reported to standards watchdog over ‘crypto lobbying’",
+      "summary": "Standards watchdog asked to investigate Nigel Farage over alleged crypto lobbying with Bank of England.",
+      "url": "https://www.theguardian.com/p/x5d7p2",
+      "thumbnail": "https://media.guim.co.uk/f69e6844ac18bf9517742b95cd95904f51ee9bf9/0_0_4998_4000/500.jpg",
+      "published": "2026-07-02T16:18:53Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "society/2026/jul/02/keir-starmer-issues-formal-state-apology-over-forced-adoption-scandal",
+      "headline": "‘The shame is ours’: Keir Starmer issues formal state apology over forced adoptions",
+      "summary": "PM Keir Starmer issues formal state apology for British forced adoption scandal affecting mothers.",
+      "url": "https://www.theguardian.com/p/x5d963",
+      "thumbnail": "https://media.guim.co.uk/0f1e751b31b0a77549e989bd0574c3992ce9a3fb/609_0_4682_3746/500.jpg",
+      "published": "2026-07-02T16:16:08Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "society"
+    },
+    {
+      "id": "commentisfree/2026/jul/02/south-africa-symbol-liberal-progress-anti-immigrant-protests",
+      "headline": "South Africa has long been a symbol of liberal progress. This week’s anti-immigrant protests end that",
+      "summary": "South Africa's anti-immigrant protests threaten liberal democratic principles, sparking global concern.",
+      "url": "https://www.theguardian.com/p/x5ddnm",
+      "thumbnail": "https://media.guim.co.uk/53f37ef6c9d07fd0f1469d5e91d26b30edb21c72/217_0_2917_2333/500.jpg",
+      "published": "2026-07-02T16:08:19Z",
+      "location": {
+        "name": "South Africa",
+        "lat": -30.5595,
+        "lng": 22.9375
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "commentisfree"
     }
   ]
 }
