@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-03T06:05:10.748Z",
-    "story_count": 92,
+    "generated_at": "2026-07-03T09:32:56.294Z",
+    "story_count": 100,
     "oldest_story": "2026-07-02T12:02:04Z",
-    "newest_story": "2026-07-03T06:00:22Z",
+    "newest_story": "2026-07-03T09:20:03Z",
     "window_hours": 24
   },
   "stories": [
@@ -1478,6 +1478,134 @@
       "category": "sport",
       "significance": 2,
       "section": "world"
+    },
+    {
+      "id": "environment/2026/jul/03/weather-tracker-heatwave-breaks-june-temperature-records-across-europe",
+      "headline": "Weather tracker: Heatwave breaks June temperature records across Europe",
+      "summary": "UK heatwave breaks June temperature record at 37.7C; Germany hits all-time high of 41.7C.",
+      "url": "https://www.theguardian.com/p/x5dt58",
+      "thumbnail": "https://media.guim.co.uk/ee1eec52ee651f93c4f745fe81725e281ef6deaa/390_0_3610_2888/500.jpg",
+      "published": "2026-07-03T09:20:03Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "climate",
+      "significance": 3,
+      "section": "environment"
+    },
+    {
+      "id": "politics/2026/jul/03/keir-starmer-ally-hollie-ridley-step-down-labour-general-secretary",
+      "headline": "Keir Starmer ally Hollie Ridley to step down as Labour general secretary",
+      "summary": "Labour general secretary Hollie Ridley steps down after two years in role this autumn.",
+      "url": "https://www.theguardian.com/p/x5dty8",
+      "thumbnail": "https://media.guim.co.uk/9d929acfb70bff77fcee6e6d162e09bc1fb199a4/316_283_2297_1839/500.jpg",
+      "published": "2026-07-03T09:15:24Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "business/live/2026/jul/03/oil-price-fall-strait-of-hormuz-traffic-jumps-food-price-inflation-services-sector-live-news-updates",
+      "headline": "UK service sector shrinks amid Iran war disruption and heatwave – business live",
+      "summary": "UK service sector contracts in June amid Iran tensions and heatwave disruptions.",
+      "url": "https://www.theguardian.com/p/x5dt5g",
+      "thumbnail": "https://media.guim.co.uk/4ae4905cdb1017611a1c46e1db6128336686586b/94_0_4141_3315/500.jpg",
+      "published": "2026-07-03T09:15:21Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "us-news/ng-interactive/2026/jul/03/us-at-250-global-reputation",
+      "headline": "For allies and adversaries alike, America at 250 is a solid global citizen gone rogue",
+      "summary": "US allies and adversaries reassess America's global standing at 250th anniversary under Trump.",
+      "url": "https://www.theguardian.com/p/x5ddfb",
+      "thumbnail": "https://media.guim.co.uk/ea132bc4a14668cf1716b902084a5eddba19cb79/0_0_3000_2400/500.jpg",
+      "published": "2026-07-03T09:00:24Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
+    },
+    {
+      "id": "politics/2026/jul/03/council-houses-building-burnham-vision",
+      "headline": "A council housebuilding boom is central to Burnham’s vision. Can it be done?",
+      "summary": "Labour's council housebuilding boom faces challenges with 1.5m families awaiting social housing.",
+      "url": "https://www.theguardian.com/p/x5c8e7",
+      "thumbnail": "https://media.guim.co.uk/019fcadc6468fecf74effdb1c809a639806ca40b/0_0_5000_4000/500.jpg",
+      "published": "2026-07-03T09:00:24Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "football/2026/jul/03/lionel-messi-argentina-miami-world-cup",
+      "headline": "Lionel Messi makes his Miami homecoming with Argentina: ‘For us this is a chance to celebrate him’",
+      "summary": "Lionel Messi returns to Miami with Argentina for World Cup 2026 last-32 match vs Cape Verde.",
+      "url": "https://www.theguardian.com/p/x5dhah",
+      "thumbnail": "https://media.guim.co.uk/3fdcb6577c0cccdb1d6aa1dd0984fe921d176e29/604_0_5000_4000/500.jpg",
+      "published": "2026-07-03T09:00:24Z",
+      "location": {
+        "name": "Miami",
+        "lat": 25.7617,
+        "lng": -80.1918
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "politics/live/2026/jul/03/andy-burnham-says-labour-manifesto-has-room-for-movement-on-tax-uk-politics-live",
+      "headline": "Andy Burnham says Labour manifesto has room for ‘movement on tax’ – UK politics live",
+      "summary": "Andy Burnham hints Labour manifesto allows flexibility on taxes to aid high street businesses.",
+      "url": "https://www.theguardian.com/p/x5dtfj",
+      "thumbnail": "https://media.guim.co.uk/b2e08082a0623471f2bace43a8a801aff6b099ca/651_0_3747_2999/500.jpg",
+      "published": "2026-07-03T08:50:04Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 1,
+      "section": "politics"
+    },
+    {
+      "id": "music/2026/jul/03/2k88-lauren-duffus-rainy-miller-bianca-scout-everything-always-changes-for-were-truly-here-review-uk-poland-clan-create-murky-beauty",
+      "headline": "2K88, Lauren Duffus, Rainy Miller & Bianca Scout: Everything Always Changes, for We’re Truly Here review – UK-Poland clan create murky beauty",
+      "summary": "UK-Poland musical collaboration creates glacial sound design album with elegiac grandeur.",
+      "url": "https://www.theguardian.com/p/x5d25j",
+      "thumbnail": "https://media.guim.co.uk/4c4dc9a2279df38013ffdf135210bdd698dc050a/250_0_4373_3500/500.jpg",
+      "published": "2026-07-03T08:30:23Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "music"
     }
   ]
 }
