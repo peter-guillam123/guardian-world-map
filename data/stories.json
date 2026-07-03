@@ -1,28 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-07-03T20:13:36.996Z",
-    "story_count": 105,
-    "oldest_story": "2026-07-02T20:16:14Z",
-    "newest_story": "2026-07-03T19:41:08Z",
+    "generated_at": "2026-07-03T21:34:32.857Z",
+    "story_count": 104,
+    "oldest_story": "2026-07-02T21:37:36Z",
+    "newest_story": "2026-07-03T21:24:31Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "environment/2026/jul/02/heatwave-eastern-us",
-      "headline": "Brutal heatwave scorches eastern US ahead of Fourth of July weekend",
-      "summary": "Dangerous heatwave sweeps eastern US with heat index reaching 115F ahead of July 4th weekend.",
-      "url": "https://www.theguardian.com/p/x5de4m",
-      "thumbnail": "https://media.guim.co.uk/8664666f9475d717824398b8c184afc22e494e8a/458_0_4586_3668/500.jpg",
-      "published": "2026-07-02T20:16:14Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "climate",
-      "significance": 3,
-      "section": "environment"
-    },
     {
       "id": "australia-news/live/2026/jul/03/politics-anthony-albanese-labor-angus-taylor-liberal-party-coalition-antisemitism-royal-commission-nsw-victorian-alps-snow-weather-ntwnfb",
       "headline": "Australia news live: Deeming lodges legal suit against Victorian Liberal president; blizzard brings snow to NSW and Victorian alps",
@@ -38,70 +22,6 @@
       "category": "politics",
       "significance": 2,
       "section": "australia-news"
-    },
-    {
-      "id": "us-news/2026/jul/02/nancy-guthrie-fake-ransom-note",
-      "headline": "California man pleads guilty to faking Nancy Guthrie ransom note",
-      "summary": "California man pleads guilty to sending fake ransom note to Nancy Guthrie's family.",
-      "url": "https://www.theguardian.com/p/x5dg3z",
-      "thumbnail": "https://media.guim.co.uk/b08987c43397fe819e47585e02eb5371280f5494/250_0_2500_2000/500.jpg",
-      "published": "2026-07-02T21:34:23Z",
-      "location": {
-        "name": "California",
-        "lat": 36.1162,
-        "lng": -115.146
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "sport/2026/jul/02/england-south-africa-womens-t20-world-cup-2026-semi-final-cricket-match-report",
-      "headline": "England book final date with Australia as Sciver-Brunt and Knight sink South Africa",
-      "summary": "England beats South Africa in Women's T20 World Cup semi-final to reach final against Australia.",
-      "url": "https://www.theguardian.com/p/x5dekv",
-      "thumbnail": "https://media.guim.co.uk/7697165dd01044bd180b0c9e4b5e2fbce5de5eaf/333_0_3333_2666/500.jpg",
-      "published": "2026-07-02T21:13:20Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "sport"
-    },
-    {
-      "id": "australia-news/2026/jul/03/morning-mail-friday-ntwnfb",
-      "headline": "Morning Mail: AFP assesses Gaza war crimes allegation, median wealth falls, Socceroos aim to make history",
-      "summary": "AFP receives 61-page brief alleging Gaza war crimes by IDF battalion with Australian member.",
-      "url": "https://www.theguardian.com/p/x5ddb4",
-      "thumbnail": "https://media.guim.co.uk/06b8fe95767fb7c3c507f285a58cd5c9081dff8b/480_0_4800_3840/500.jpg",
-      "published": "2026-07-02T20:58:06Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "australia-news"
-    },
-    {
-      "id": "football/2026/jul/02/maddy-cusack-was-fearful-of-reporting-her-concerns-mother-tells-inquest",
-      "headline": "Maddy Cusack was fearful of reporting her concerns, mother tells inquest",
-      "summary": "Maddy Cusack inquest reveals Sheffield United player feared reporting concerns to hierarchy.",
-      "url": "https://www.theguardian.com/p/x5dfhg",
-      "thumbnail": "https://media.guim.co.uk/ea90f3cfa1a4325041059671a61bd86ba4eb2013/197_0_3288_2630/500.jpg",
-      "published": "2026-07-02T20:49:05Z",
-      "location": {
-        "name": "Sheffield",
-        "lat": 53.3811,
-        "lng": -1.4668
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
     },
     {
       "id": "football/2026/jul/02/usmnt-world-cup-most-watched-viewership-record",
@@ -1685,6 +1605,70 @@
       },
       "category": "sport",
       "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/jul/04/australia-egypt-player-ratings-world-cup-last-round-32",
+      "headline": "Australia 1-1 Egypt (2-4 on penalties): World Cup 2026 last 32 player ratings",
+      "summary": "Egypt defeats Australia 4-2 on penalties in World Cup 2026 last 32 shootout.",
+      "url": "https://www.theguardian.com/p/x5dc43",
+      "thumbnail": "https://media.guim.co.uk/6f8416ff2db0474101399352b3381af0a1a907fa/373_0_3661_2928/500.jpg",
+      "published": "2026-07-03T21:24:31Z",
+      "location": {
+        "name": "Dallas",
+        "lat": 32.7767,
+        "lng": -96.797
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/jul/04/australia-socceroos-egypt-world-cup-last-32-penalty-shootout-defeat",
+      "headline": "Shootout heartbreak leaves Socceroos still searching for elusive World Cup knockout win",
+      "summary": "Australia loses World Cup knockout match to Egypt despite goalkeeper substitution strategy.",
+      "url": "https://www.theguardian.com/p/x5dc4a",
+      "thumbnail": "https://media.guim.co.uk/800944b4e559006f9ba1bec975ef7162f6146d2b/194_0_5000_4000/500.jpg",
+      "published": "2026-07-03T21:17:22Z",
+      "location": {
+        "name": "Dallas",
+        "lat": 32.7767,
+        "lng": -96.797
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/jul/03/australia-egypt-world-cup-2026-last-32-match-report",
+      "headline": "Egypt reach World Cup last 16 in shootout as Australia’s goalkeeper gamble backfires",
+      "summary": "Egypt advances to World Cup last 16 after penalty shootout victory over Australia.",
+      "url": "https://www.theguardian.com/p/x5dkf6",
+      "thumbnail": "https://media.guim.co.uk/628104b8ff7e6deb930c87d27914945aba6643a6/138_0_3456_2766/500.jpg",
+      "published": "2026-07-03T21:03:29Z",
+      "location": {
+        "name": "Dallas",
+        "lat": 32.7767,
+        "lng": -96.797
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/jul/03/maddy-cusack-jonathan-morgan-womens-football-inquest",
+      "headline": "Concerns raised about Jonathan Morgan prior to Maddy Cusack’s death, inquest told",
+      "summary": "Inquest hears concerns raised about Sheffield United manager prior to player's death.",
+      "url": "https://www.theguardian.com/p/x5dyxk",
+      "thumbnail": "https://media.guim.co.uk/ea90f3cfa1a4325041059671a61bd86ba4eb2013/197_0_3288_2630/500.jpg",
+      "published": "2026-07-03T20:46:33Z",
+      "location": {
+        "name": "Sheffield",
+        "lat": 53.3811,
+        "lng": -1.4668
+      },
+      "category": "sport",
+      "significance": 2,
       "section": "football"
     }
   ]
