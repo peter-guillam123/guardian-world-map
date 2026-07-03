@@ -1,348 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-07-03T11:53:56.154Z",
-    "story_count": 114,
-    "oldest_story": "2026-07-02T12:02:04Z",
-    "newest_story": "2026-07-03T11:49:36Z",
+    "generated_at": "2026-07-03T14:09:15.710Z",
+    "story_count": 105,
+    "oldest_story": "2026-07-02T16:08:19Z",
+    "newest_story": "2026-07-03T14:06:20Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "world/2026/jul/02/monks-killed-thailand-mukdahan-crash-truck-procession",
-      "headline": "At least nine monks killed in Thailand after boy drives truck into procession",
-      "summary": "Truck driven by 11-year-old boy kills at least nine monks in Buddhist procession in Thailand.",
-      "url": "https://www.theguardian.com/p/x5dexh",
-      "thumbnail": "https://media.guim.co.uk/c1a05ba082404fcab16130678bb94e04c2a198e1/363_70_1664_1331/500.jpg",
-      "published": "2026-07-02T13:10:07Z",
-      "location": {
-        "name": "Mukdahan",
-        "lat": 16.5426,
-        "lng": 104.7473
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "sport/live/2026/jul/02/wimbledon-2026-swan-keys-swiatek-zverev-fritz-rybakina-day-four-live",
-      "headline": "Wimbledon 2026: Britain’s Fery into third round; Swan v Keys, plus Swiatek and Zverev in action – live",
-      "summary": "Wimbledon 2026 day four: British player Katie Swan faces Madison Keys; Sinner advances.",
-      "url": "https://www.theguardian.com/p/x5d8mf",
-      "thumbnail": "https://media.guim.co.uk/6473b32a8f2f812ded8881c2b429add2e3960c35/133_118_4754_3802/500.jpg",
-      "published": "2026-07-02T13:09:55Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "us-news/live/2026/jul/02/donald-trump-us-politics-250-anniversary-republicans-democrats-latest-news-updates",
-      "headline": "Anger as report says Trump hijacked US anniversary to serve own agenda – US politics live",
-      "summary": "Report alleges Trump hijacked US 250th anniversary celebration for political gain.",
-      "url": "https://www.theguardian.com/p/x5ddcz",
-      "thumbnail": "https://media.guim.co.uk/de54639c993c658ab7f2d1b1dea606a372368cce/1333_100_5155_4124/500.jpg",
-      "published": "2026-07-02T13:05:42Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "business/live/2026/jul/02/uk-cost-of-living-squeeze-diesel-record-fall-mortage-rates-stock-markets-us-jobs-report-live-news-updates",
-      "headline": "US economy added fewer jobs than expected in June as World Cup fails to boost hiring – business live",
-      "summary": "US non-farm payrolls increase only 57,000 in June; unemployment rate falls.",
-      "url": "https://www.theguardian.com/p/x5dafd",
-      "thumbnail": "https://media.guim.co.uk/7f6761a8af59fe9bbfd3c60bc793401f8f112756/333_0_3333_2667/500.jpg",
-      "published": "2026-07-02T13:05:40Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "politics/live/2026/jul/02/keir-starmer-apology-forced-adoption-labour-andy-burnham-uk-politics-latest-news-updates",
-      "headline": "‘Stain on our history’: Starmer issues government apology over forced adoption scandal – UK politics live",
-      "summary": "Starmer issues government apology for forced adoption scandal affecting 185,000 babies.",
-      "url": "https://www.theguardian.com/p/x5dcmg",
-      "thumbnail": "https://media.guim.co.uk/98c74c3d7c1290c31fa73946cbcd210e9c5f2ff3/1680_822_3543_2835/500.jpg",
-      "published": "2026-07-02T13:05:22Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "money/2026/jul/02/ministers-better-tracking-teenagers-risk-dropping-out-of-work-training-england",
-      "headline": "Ministers call for better tracking of teenagers at risk of dropping out of work or training in England",
-      "summary": "UK ministers call for better tracking of 32,100 teenage 'Neets' at risk of dropout.",
-      "url": "https://www.theguardian.com/p/x5ddt2",
-      "thumbnail": "https://media.guim.co.uk/19fb930af8fbc93669c404a12657e66dbc731343/1588_483_4349_3480/500.jpg",
-      "published": "2026-07-02T13:02:53Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "money"
-    },
-    {
-      "id": "us-news/2026/jul/02/fda-issues-potato-chip-recall-salmonella-risk",
-      "headline": "FDA issues most serious recall alert for potato chip brands over salmonella risk",
-      "summary": "FDA issues most serious recall for potato chips over salmonella risk affecting 650,000 bags.",
-      "url": "https://www.theguardian.com/p/x5de2h",
-      "thumbnail": "https://media.guim.co.uk/609253992201b3a0d2d80b76008c5a27851bf05c/469_0_4691_3753/500.jpg",
-      "published": "2026-07-02T13:00:51Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/ng-interactive/2026/jul/02/us-national-parks-history-censorship",
-      "headline": "‘A sanitized view of America’: inside Trump’s campaign to erase US history from national parks",
-      "summary": "Trump administration accused of erasing US history from national parks signage.",
-      "url": "https://www.theguardian.com/p/x4tz4a",
-      "thumbnail": "https://media.guim.co.uk/56898be4e6060fabc5d7b369cb7eba7b12e1dbb4/250_0_2500_2000/500.jpg",
-      "published": "2026-07-02T13:00:14Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "artanddesign/2026/jul/02/gillian-ayres-show-devon-plymouth-artist",
-      "headline": "‘Riot of colour’: Gillian Ayres show in Devon just the tonic for gloomy times",
-      "summary": "Gillian Ayres retrospective opens in Plymouth celebrating the artist's colorful legacy.",
-      "url": "https://www.theguardian.com/p/x5dcnm",
-      "thumbnail": "https://media.guim.co.uk/f5291ba1044e060204077c68ce200e05f1c38eef/163_0_2975_2380/500.jpg",
-      "published": "2026-07-02T13:00:13Z",
-      "location": {
-        "name": "Plymouth",
-        "lat": 50.3755,
-        "lng": -4.1427
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "artanddesign"
-    },
-    {
-      "id": "world/2026/jul/02/i-can-still-hear-the-children-canadas-residential-schools-survivors-welcome-chance-to-reclaim-sites",
-      "headline": "‘I can still hear the children’: Canada’s residential schools survivors welcome chance to reclaim sites",
-      "summary": "Mohawk Institute residential school becomes museum; survivors reclaim site to preserve history.",
-      "url": "https://www.theguardian.com/p/x3tycm",
-      "thumbnail": "https://media.guim.co.uk/062eb5b5b782c697c1732064a19a67acee46f3b8/277_0_4760_3808/500.jpg",
-      "published": "2026-07-02T13:00:13Z",
-      "location": {
-        "name": "Ontario",
-        "lat": 51.2538,
-        "lng": -85.3232
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "global-development/2026/jul/02/it-was-a-massacre-haiti-gangs-carry-out-mass-killings-across-the-country",
-      "headline": "‘It was a massacre’: Haiti gangs carry out mass killings across the country",
-      "summary": "Gang massacre in Haiti kills at least 70 civilians as security forces lose control.",
-      "url": "https://www.theguardian.com/p/x58ytg",
-      "thumbnail": "https://media.guim.co.uk/19239a1d5e3f4b9ffdf187af438d7194b15011c9/0_208_1200_960/500.jpg",
-      "published": "2026-07-02T13:00:13Z",
-      "location": {
-        "name": "Port-au-Prince",
-        "lat": 18.9712,
-        "lng": -72.2852
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "global-development"
-    },
-    {
-      "id": "world/live/2026/jul/02/russia-strikes-ukraine-war-kyiv-volodymyr-zelenskyy-europe-latest-news-updates",
-      "headline": "Kyiv attacks death toll rises to 20 as Russia warns it will ‘continue to increase pressure’ on Ukrainian capital – Europe live",
-      "summary": "Russian strikes on Kyiv kill 20; damage recorded across 30 locations in overnight attacks.",
-      "url": "https://www.theguardian.com/p/x5dczq",
-      "thumbnail": "https://media.guim.co.uk/91618da2ca0b829cf3c5add2c44d193045359fd9/1273_0_7919_6336/500.jpg",
-      "published": "2026-07-02T12:54:45Z",
-      "location": {
-        "name": "Kyiv",
-        "lat": 50.4501,
-        "lng": 30.5234
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "business/2026/jul/02/us-job-growth-slowed-june",
-      "headline": "US employers added 57,000 new jobs in June – less than what economists predicted ",
-      "summary": "US job growth slowed in June with only 57,000 new jobs added, below economist predictions.",
-      "url": "https://www.theguardian.com/p/x5d93g",
-      "thumbnail": "https://media.guim.co.uk/e610f8fd29f5aec29b2673147f869999a1ef177d/379_0_3790_3032/500.jpg",
-      "published": "2026-07-02T12:52:11Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "economy",
-      "significance": 3,
-      "section": "business"
-    },
-    {
-      "id": "us-news/2026/jul/02/first-thing-birth-tourism-trump-administration-supreme-court",
-      "headline": "First Thing: ‘Birth tourism’ in Trump administration’s sights after supreme court setback",
-      "summary": "Trump administration targets birth tourism despite court upholding constitutional birthright citizenship.",
-      "url": "https://www.theguardian.com/p/x5czzf",
-      "thumbnail": "https://media.guim.co.uk/96ba99ceb89e9c6ca46258cab7c89d471b78076f/189_0_4075_3262/500.jpg",
-      "published": "2026-07-02T12:47:17Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "tv-and-radio/2026/jul/02/mps-uk-broadcast-russian-cartoon-masha-and-the-bear",
-      "headline": "MPs seek to end UK broadcast of Russian cartoon Masha and the Bear",
-      "summary": "UK MPs seek to end broadcast of Russian cartoon Masha and the Bear over alleged propaganda content.",
-      "url": "https://www.theguardian.com/p/x5ddy6",
-      "thumbnail": "https://media.guim.co.uk/2cdcdf5a0f3a91f7ce2359fe2b6a7d421cb3c7ca/86_0_675_540/500.jpg",
-      "published": "2026-07-02T12:46:21Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "tv-and-radio"
-    },
-    {
-      "id": "uk-news/2026/jul/02/convicted-people-smuggler-uk-should-deported-tories",
-      "headline": "No 10 shares ‘public’s shock’ at reports of convicted people smuggler living in UK",
-      "summary": "Downing Street investigates reports of convicted people smuggler living in Leicestershire.",
-      "url": "https://www.theguardian.com/p/x5dd97",
-      "thumbnail": "https://media.guim.co.uk/7292a900023aa6b63cb74992c7e1d59518358aa6/0_0_3350_2680/500.jpg",
-      "published": "2026-07-02T12:41:16Z",
-      "location": {
-        "name": "Leicester",
-        "lat": 52.6369,
-        "lng": -1.1398
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "world/2026/jul/02/vatican-excommunicates-all-members-of-ultra-conservative-rebels-sspx",
-      "headline": "Vatican excommunicates all members of ultra-conservative rebel group SSPX",
-      "summary": "Vatican excommunicates ultra-conservative rebel group SSPX for ordaining bishops without papal consent.",
-      "url": "https://www.theguardian.com/p/x5dd6v",
-      "thumbnail": "https://media.guim.co.uk/edb4b263bc093ff63c3ddc36ad799ef3f5d5bc7b/417_0_4167_3333/500.jpg",
-      "published": "2026-07-02T12:32:56Z",
-      "location": {
-        "name": "Vatican City",
-        "lat": 41.9029,
-        "lng": 12.4534
-      },
-      "category": "culture",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "uk-news/2026/jul/02/release-rochdale-grooming-gang-leader-really-scary-whistleblower",
-      "headline": "Whistleblower ‘terrified’ as Rochdale grooming gang leader released",
-      "summary": "Whistleblower expresses fears about release of Rochdale grooming gang leader amid probation service concerns.",
-      "url": "https://www.theguardian.com/p/x5dd25",
-      "thumbnail": "https://media.guim.co.uk/afd84fb8080c45805367e9d88f402e54ce2dc125/0_501_1586_1267/500.jpg",
-      "published": "2026-07-02T12:25:50Z",
-      "location": {
-        "name": "Rochdale",
-        "lat": 53.6093,
-        "lng": -2.1567
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "lifeandstyle/2026/jul/02/june-weather-sweeter-uk-strawberries-gardens-rhs",
-      "headline": "June’s sunshine adds extra sweetness to bumper summer for UK strawberries",
-      "summary": "June sunshine produces bumper crop of sweeter UK strawberries, according to Royal Horticultural Society.",
-      "url": "https://www.theguardian.com/p/x5dddt",
-      "thumbnail": "https://media.guim.co.uk/0809b658ba61362e5e44fe15b8304944e629537f/559_0_4676_3743/500.jpg",
-      "published": "2026-07-02T12:10:33Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "lifeandstyle"
-    },
-    {
-      "id": "artanddesign/2026/jul/02/terence-gower-enemies-and-rascals-review-trump-carney-artangel",
-      "headline": "Terence Gower: Enemies and Rascals review – so was US freedom born bad?",
-      "summary": "Canadian artist Terence Gower's exhibition explores US expansionist history and threats to Canada.",
-      "url": "https://www.theguardian.com/p/x5d99x",
-      "thumbnail": "https://media.guim.co.uk/7e09c72c3659e8fbcd95f818f34b018ce2e076f5/1222_0_6880_5504/500.jpg",
-      "published": "2026-07-02T12:07:17Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "artanddesign"
-    },
-    {
-      "id": "politics/2026/jul/02/bitcoin-firm-advertised-by-nigel-farage-loses-15-percent-asset-value",
-      "headline": "Bitcoin firm advertised by Nigel Farage loses 15% of asset value ",
-      "summary": "Bitcoin firm Stack BTC, backed by Nigel Farage, loses 15% asset value, prompting investor warnings.",
-      "url": "https://www.theguardian.com/p/x5dd6d",
-      "thumbnail": "https://media.guim.co.uk/8af3280cb471ef74133f525cc543f81a15cf9ad6/426_0_4264_3411/500.jpg",
-      "published": "2026-07-02T12:02:04Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "politics"
-    },
     {
       "id": "sport/live/2026/jul/02/england-v-south-africa-womens-t20-cricket-world-cup-semi-final-live",
       "headline": "England v South Africa: Women’s T20 Cricket World Cup semi-final – live",
@@ -1830,6 +1494,198 @@
       "category": "sport",
       "significance": 3,
       "section": "football"
+    },
+    {
+      "id": "us-news/2026/jul/03/louisiana-criminal-indictment-halted-attorney-general-liz-murrill",
+      "headline": "Louisiana court halts criminal indictment against state attorney general",
+      "summary": "Louisiana court halts criminal indictment against Republican attorney general Liz Murrill for alleged intimidation.",
+      "url": "https://www.theguardian.com/p/x5djy5",
+      "thumbnail": "https://media.guim.co.uk/6e0403ab905683af34e3f3a93b1d4a3842e86b3c/1287_920_2863_2291/500.jpg",
+      "published": "2026-07-03T14:06:20Z",
+      "location": {
+        "name": "New Orleans",
+        "lat": 29.9511,
+        "lng": -90.2623
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "news/2026/jul/03/three-men-found-not-guilty-of-murdering-journalist-lyra-mckee",
+      "headline": "Three men found not guilty of murdering journalist Lyra McKee ",
+      "summary": "Three men acquitted in 2019 murder of journalist Lyra McKee during Derry riots.",
+      "url": "https://www.theguardian.com/p/x5dkv2",
+      "thumbnail": "https://media.guim.co.uk/2fc3f5f4c94187b6ad9478889a1ac3878451f04d/0_677_2667_2133/500.jpg",
+      "published": "2026-07-03T13:55:28Z",
+      "location": {
+        "name": "Derry",
+        "lat": 54.9973,
+        "lng": -7.1678
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "news"
+    },
+    {
+      "id": "world/2026/jul/03/deaths-france-surged-hottest-week-record-heatwave-june",
+      "headline": "Deaths in France surged 30% during hottest week of record June heatwave",
+      "summary": "Deaths in France surged 30% during record June heatwave; 2,025 excess deaths reported.",
+      "url": "https://www.theguardian.com/p/x5djkm",
+      "thumbnail": "https://media.guim.co.uk/5af1513125a706d2bc1bea28716cef48f6617dfa/844_0_4862_3889/500.jpg",
+      "published": "2026-07-03T13:51:24Z",
+      "location": {
+        "name": "Paris",
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "category": "climate",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "stage/2026/jul/03/320f-review-sadlers-wells-london--hideki-noda",
+      "headline": "–320°F review – join Cleopatra, Faust and the Pied Piper on a zany odyssey",
+      "summary": "Hideki Noda's –320°F theatrical production opens at Sadler's Wells with mixed reviews.",
+      "url": "https://www.theguardian.com/p/x5dj8k",
+      "thumbnail": "https://media.guim.co.uk/8a42f4a846534b9f8f845fda33e0b8e9a6468318/328_240_3422_2738/500.jpg",
+      "published": "2026-07-03T13:50:46Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "stage"
+    },
+    {
+      "id": "music/2026/jul/03/seasonal-quartet-ali-smith-new-european-ensemble-review-spitalfields-festival",
+      "headline": "Seasonal Quartet: Ali Smith and New European Ensemble review – words and music connect ",
+      "summary": "Seasonal Quartet featuring Ali Smith's works premieres at Spitalfields festival in London.",
+      "url": "https://www.theguardian.com/p/x5dj44",
+      "thumbnail": "https://media.guim.co.uk/2cb08be1e6a8eb13ef1261708297d2a28c77ce23/282_0_3126_2500/500.jpg",
+      "published": "2026-07-03T13:42:18Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "music"
+    },
+    {
+      "id": "artanddesign/2026/jul/03/alan-gignoux-homeland-lost-review-portraits-p21-gallery-london",
+      "headline": "Alan Gignoux: Homeland Lost review – a landscape as bereft as its people",
+      "summary": "Alan Gignoux's photography exhibition documents Palestinian refugees and displaced homes since 1948.",
+      "url": "https://www.theguardian.com/p/x5dtyd",
+      "thumbnail": "https://media.guim.co.uk/40a2f6c2ab4ee13772a7ee0abe9f1b4a747116ae/105_325_3794_3035/500.jpg",
+      "published": "2026-07-03T13:34:15Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "artanddesign"
+    },
+    {
+      "id": "stage/2026/jul/03/living-image-chapter-1-review-siobhan-davies-studios-london-sphinx",
+      "headline": "Living Image: Chapter 1 review – five days to reanimate a legendary show you’ve never seen",
+      "summary": "Living Image Chapter 1 at Siobhan Davies Studios reimagines 1977 classic Sphinx.",
+      "url": "https://www.theguardian.com/p/x5dj7c",
+      "thumbnail": "https://media.guim.co.uk/9d19cda89010f9cbc77232c90d22a2e2258634ac/310_0_3003_2402/500.jpg",
+      "published": "2026-07-03T13:19:38Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "stage"
+    },
+    {
+      "id": "music/2026/jul/03/taylor-swift-travis-kelce-wedding-new-york",
+      "headline": "Flowers, food and a fairytale castle: New York preparations point to giant Taylor Swift wedding",
+      "summary": "Taylor Swift wedding preparations underway at Madison Square Garden with fiancé Travis Kelce.",
+      "url": "https://www.theguardian.com/p/x5dtt5",
+      "thumbnail": "https://media.guim.co.uk/9cf5dc5447f2c9aa9021ec060ef5494698870d34/105_0_6880_5504/500.jpg",
+      "published": "2026-07-03T13:17:57Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "music"
+    },
+    {
+      "id": "sport/2026/jul/03/lewis-hamilton-ready-to-resume-silverstone-love-affair-after-finally-clicking-with-ferrari",
+      "headline": "Lewis Hamilton ready to resume Silverstone love affair after finally clicking with Ferrari",
+      "summary": "Lewis Hamilton returns to Silverstone for British Grand Prix with renewed Ferrari confidence.",
+      "url": "https://www.theguardian.com/p/x5djeq",
+      "thumbnail": "https://media.guim.co.uk/9bdd76f0e6704c9a8881a2b8a70127a429e7bce7/748_0_3751_3000/500.jpg",
+      "published": "2026-07-03T13:12:52Z",
+      "location": {
+        "name": "Silverstone",
+        "lat": 52.0786,
+        "lng": -1.0169
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "sport/2026/jul/03/super-league-rugby-summer-roadshow-magic-weekend-everton",
+      "headline": "Super League’s summer roadshow saves itself with Magic Weekend at Everton",
+      "summary": "Super League Magic Weekend returns to Merseyside with 80,000 expected for rugby league fixtures.",
+      "url": "https://www.theguardian.com/p/x5dj86",
+      "thumbnail": "https://media.guim.co.uk/cfdd31948bdbfd9299bf6795d11d4e3b4dd52ca0/80_144_3894_3115/500.jpg",
+      "published": "2026-07-03T13:01:19Z",
+      "location": {
+        "name": "Liverpool",
+        "lat": 53.4084,
+        "lng": -2.9916
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "us-news/2026/jul/03/250th-anniversary-readers-reflect",
+      "headline": "‘The wheels are coming off’: readers reflect on the 250th anniversary of the American experiment",
+      "summary": "Americans reflect on 250th anniversary amid concerns over civil rights rollbacks under Trump.",
+      "url": "https://www.theguardian.com/p/x5cpp6",
+      "thumbnail": "https://media.guim.co.uk/258fa4305f351d37fabd74fd2cd4d883b0283d28/358_0_3333_2667/500.jpg",
+      "published": "2026-07-03T13:00:29Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "business/2026/jul/03/uk-summer-bookings-jump-britons-ditch-overseas-holidays-for-staycations",
+      "headline": "UK summer bookings jump as Britons put off overseas holidays by travel fears",
+      "summary": "UK summer bookings surge as Britons opt for staycations due to travel fears and costs.",
+      "url": "https://www.theguardian.com/p/x5d7y7",
+      "thumbnail": "https://media.guim.co.uk/5cc1ce1d4fd3e5540cb7fa70e6f62455d8a2be49/409_0_4053_3241/500.jpg",
+      "published": "2026-07-03T13:00:28Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
     }
   ]
 }
