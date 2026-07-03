@@ -1,172 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-07-03T17:43:02.031Z",
-    "story_count": 115,
-    "oldest_story": "2026-07-02T17:43:30Z",
-    "newest_story": "2026-07-03T17:38:45Z",
+    "generated_at": "2026-07-03T18:52:51.363Z",
+    "story_count": 107,
+    "oldest_story": "2026-07-02T19:29:51Z",
+    "newest_story": "2026-07-03T18:15:02Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "politics/2026/jul/02/infrastructure-cuts-starmer-pay-defence-will-uk-10000-jobs-analysis-shows",
-      "headline": "Infrastructure cuts to pay for defence will cost UK 10,000 jobs, analysis shows",
-      "summary": "UK infrastructure cuts to fund defence will cost 10,000 jobs, analysis shows.",
-      "url": "https://www.theguardian.com/p/x5deyf",
-      "thumbnail": "https://media.guim.co.uk/2f5bfe40429cc4bce60a52c28797643f4febca6e/207_7_4009_3208/500.jpg",
-      "published": "2026-07-02T18:46:36Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "football/2026/jul/02/fa-reviewing-security-at-england-hotel-in-mexico-city-before-last-16-tie",
-      "headline": "FA reviewing security at England hotel in Mexico City before last-16 tie",
-      "summary": "FA reviews security at England hotel in Mexico City before World Cup last-16 tie.",
-      "url": "https://www.theguardian.com/p/x5df5k",
-      "thumbnail": "https://media.guim.co.uk/df823398d1e38addb87f5ec26f7116d98ef167c7/487_0_4870_3896/500.jpg",
-      "published": "2026-07-02T18:35:52Z",
-      "location": {
-        "name": "Mexico City",
-        "lat": 19.4326,
-        "lng": -99.1332
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "commentisfree/2026/jul/02/the-guardian-view-on-lessons-from-southport-people-fixated-on-violence-must-not-slip-through-the-system",
-      "headline": "The Guardian view on lessons from Southport: people fixated on violence must not slip through the system",
-      "summary": "UK government pledges to implement all 67 recommendations from Southport attack inquiry.",
-      "url": "https://www.theguardian.com/p/x5ddz5",
-      "thumbnail": "https://media.guim.co.uk/84442ed1327c1c829a99513c5adcd072c9604266/805_0_4026_3221/500.jpg",
-      "published": "2026-07-02T18:05:15Z",
-      "location": {
-        "name": "Southport",
-        "lat": 53.5895,
-        "lng": -3.008
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "commentisfree"
-    },
-    {
-      "id": "commentisfree/2026/jul/02/the-guardian-view-on-xenophobic-violence-in-south-africa-anti-migrant-politics-cant-fix-domestic-problems",
-      "headline": "The Guardian view on xenophobic violence in South Africa: anti-migrant politics can’t fix domestic problems",
-      "summary": "South Africa faces xenophobic violence; anti-migrant politics blamed for social tensions.",
-      "url": "https://www.theguardian.com/p/x5depf",
-      "thumbnail": "https://media.guim.co.uk/1187560bb2ad65bb8e552999e3527cfe4d8e7f06/41_0_4395_3517/500.jpg",
-      "published": "2026-07-02T18:01:47Z",
-      "location": {
-        "name": "Johannesburg",
-        "lat": -26.2023,
-        "lng": 28.0436
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "commentisfree"
-    },
-    {
-      "id": "politics/2026/jul/02/labour-mps-nec-andy-burnham-leadership-contest-no-10",
-      "headline": "Burnham ‘coronation’ will anger some Labour members, party bosses warned",
-      "summary": "Labour warned over Andy Burnham 'coronation' as leadership contest lacks party democracy.",
-      "url": "https://www.theguardian.com/p/x5demy",
-      "thumbnail": "https://media.guim.co.uk/d1f4607315f3436c71276292d0aa50df35707b3e/285_0_4839_3873/500.jpg",
-      "published": "2026-07-02T18:01:27Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "science/2026/jul/02/sitting-minutes-cancer-death-risk-study",
-      "headline": "Sitting for more than 30 minutes at a time linked to higher risk of cancer death",
-      "summary": "Study finds sitting over 30 minutes daily linked to higher cancer death risk.",
-      "url": "https://www.theguardian.com/p/x5de7f",
-      "thumbnail": "https://media.guim.co.uk/f773abbaf39d9f57da2f1901b0516005bbfd1703/388_0_5000_4000/500.jpg",
-      "published": "2026-07-02T18:00:07Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "science"
-    },
-    {
-      "id": "football/2026/jul/02/azteca-england-diego-maradona-handball-mexico-world-cup",
-      "headline": "Ghosts of the Azteca: England return to scene of infamous Maradona handball",
-      "summary": "England returns to Azteca Stadium in Mexico City for World Cup last-16 tie.",
-      "url": "https://www.theguardian.com/p/x5dfvx",
-      "thumbnail": "https://media.guim.co.uk/7a1180ba31f154c66dfb60fff29133c33c3bb39f/607_0_5785_4629/500.jpg",
-      "published": "2026-07-02T18:00:06Z",
-      "location": {
-        "name": "Mexico City",
-        "lat": 19.4326,
-        "lng": -99.1332
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/jul/02/tuchel-hits-out-at-fifa-as-rule-puts-england-at-huge-disadvantage",
-      "headline": "Thomas Tuchel claims Fifa rule puts England at ‘huge’ disadvantage in Mexico City altitude",
-      "summary": "Tuchel hits out at FIFA rule putting England at disadvantage in Mexico City altitude.",
-      "url": "https://www.theguardian.com/p/x5df9k",
-      "thumbnail": "https://media.guim.co.uk/a612f7d98bc09217581aa0a49b8c07438b5a2611/314_0_3242_2594/500.jpg",
-      "published": "2026-07-02T18:00:05Z",
-      "location": {
-        "name": "Mexico City",
-        "lat": 19.4326,
-        "lng": -99.1332
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "sport/2026/jul/02/anisimova-channels-her-inner-serena-to-fire-20-aces-past-kenin-and-reach-third-round",
-      "headline": "Anisimova channels her inner Serena to fire 20 aces past Kenin and reach third round",
-      "summary": "Anisimova fires 20 aces past Kenin to reach Wimbledon third round.",
-      "url": "https://www.theguardian.com/p/x5ddab",
-      "thumbnail": "https://media.guim.co.uk/bf5301aabb5ba226306168325d0117c5ff759058/333_0_3327_2661/500.jpg",
-      "published": "2026-07-02T17:55:56Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 1,
-      "section": "sport"
-    },
-    {
-      "id": "media/2026/jul/02/lisa-nandy-culture-social-media-x-abuse-misinformation",
-      "headline": "Lisa Nandy quits X over fears Musk-owned site pushes ‘abuse and misinformation’",
-      "summary": "UK culture secretary quits X over concerns about abuse and misinformation on platform.",
-      "url": "https://www.theguardian.com/p/x5df2h",
-      "thumbnail": "https://media.guim.co.uk/d7910fee2be333e8519832d795a27ed4ca929027/500_0_5000_4000/500.jpg",
-      "published": "2026-07-02T17:43:30Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "tech",
-      "significance": 2,
-      "section": "technology"
-    },
     {
       "id": "environment/2026/jul/02/heatwave-eastern-us",
       "headline": "Brutal heatwave scorches eastern US ahead of Fourth of July weekend",
@@ -1846,6 +1686,38 @@
       "category": "culture",
       "significance": 2,
       "section": "artanddesign"
+    },
+    {
+      "id": "uk-news/2026/jul/03/two-romanians-jailed-stabbing-iranian-journalist-in-london",
+      "headline": "Two Romanians jailed over stabbing of Iranian TV journalist in London",
+      "summary": "Two Romanians jailed for knife attack on Iranian journalist in London reportedly carried out on Tehran's behalf.",
+      "url": "https://www.theguardian.com/p/x5dyvz",
+      "thumbnail": "https://media.guim.co.uk/00aa4e37059affab3044bb863ef691ff9c5f5db0/28_0_5658_4529/500.jpg",
+      "published": "2026-07-03T18:15:02Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "uk-news"
+    },
+    {
+      "id": "football/2026/jul/03/england-mexico-world-cup-2026-azteca-stadium-diego-maradona-argentina",
+      "headline": "My Mexico 1986 memories of Maradona, the Azteca and a commentary faux pas",
+      "summary": "Retrospective on iconic 1986 World Cup England-Argentina match at Azteca Stadium featuring Maradona's controversial goal.",
+      "url": "https://www.theguardian.com/p/x5dj4k",
+      "thumbnail": "https://media.guim.co.uk/ea4e8e8b100fa5390a504628b2ade392304a36f8/82_0_4313_3450/500.jpg",
+      "published": "2026-07-03T18:00:35Z",
+      "location": {
+        "name": "Mexico City",
+        "lat": 19.4326,
+        "lng": -99.1332
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
     }
   ]
 }
