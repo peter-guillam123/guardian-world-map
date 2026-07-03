@@ -1,76 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-07-03T21:34:32.857Z",
-    "story_count": 104,
-    "oldest_story": "2026-07-02T21:37:36Z",
-    "newest_story": "2026-07-03T21:24:31Z",
+    "generated_at": "2026-07-03T22:39:56.929Z",
+    "story_count": 102,
+    "oldest_story": "2026-07-02T23:01:12Z",
+    "newest_story": "2026-07-03T22:39:27Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "australia-news/live/2026/jul/03/politics-anthony-albanese-labor-angus-taylor-liberal-party-coalition-antisemitism-royal-commission-nsw-victorian-alps-snow-weather-ntwnfb",
-      "headline": "Australia news live: Deeming lodges legal suit against Victorian Liberal president; blizzard brings snow to NSW and Victorian alps",
-      "summary": "Victorian MP Moira Deeming launches court challenge against her party over assault allegation.",
-      "url": "https://www.theguardian.com/p/x5dfzy",
-      "thumbnail": "https://media.guim.co.uk/1f4ea18c7bf1f6d88e8e43bea2eec6450abedbe8/1216_294_4747_3798/500.jpg",
-      "published": "2026-07-02T21:37:36Z",
-      "location": {
-        "name": "Victoria",
-        "lat": -37.8136,
-        "lng": 144.9631
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "football/2026/jul/02/usmnt-world-cup-most-watched-viewership-record",
-      "headline": "USMNT win smashes record for most-watched soccer broadcast with 33.5 million viewers",
-      "summary": "USMNT World Cup win sets record with 33.5 million viewers on Fox and Telemundo.",
-      "url": "https://www.theguardian.com/p/x5dg5n",
-      "thumbnail": "https://media.guim.co.uk/d40420c3413976057896c4f6f1d8e70c34d5f167/436_0_3807_3046/500.jpg",
-      "published": "2026-07-02T22:11:41Z",
-      "location": {
-        "name": "United States",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "us-news/2026/jul/02/tucker-carlson-new-political-party-idea-interview",
-      "headline": "Tucker Carlson floats idea of new political party in the US in interview",
-      "summary": "Tucker Carlson floats idea of new US political party, distances himself from Trump.",
-      "url": "https://www.theguardian.com/p/x5dftz",
-      "thumbnail": "https://media.guim.co.uk/ac36903d2558f0bb2c48800e9a785a7085c37f44/460_0_4598_3679/500.jpg",
-      "published": "2026-07-02T22:01:32Z",
-      "location": {
-        "name": "United States",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "football/2026/jul/02/mexico-city-world-cup-fever-el-tri-capture-imaginations-england",
-      "headline": "Mexico City swept up in World Cup fever as El Tri capture imaginations like never before",
-      "summary": "Mexico City gripped by World Cup fever as El Tri prepares for last-16 clash with England.",
-      "url": "https://www.theguardian.com/p/x5dfzb",
-      "thumbnail": "https://media.guim.co.uk/cad0a39c1cc6445713f500d4926253f2e535e7fa/371_0_2500_2000/500.jpg",
-      "published": "2026-07-02T21:43:17Z",
-      "location": {
-        "name": "Mexico City",
-        "lat": 19.4326,
-        "lng": -99.1332
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
     {
       "id": "us-news/2026/jul/02/trump-administration-wins-appeal-national-parks",
       "headline": "Trump administration can remove history and climate info from US parks, court says",
@@ -1670,6 +1606,38 @@
       "category": "sport",
       "significance": 2,
       "section": "football"
+    },
+    {
+      "id": "football/live/2026/jul/03/argentina-v-cape-verde-world-cup-2026-last-32-live",
+      "headline": "Argentina v Cape Verde: World Cup 2026 last 32 – live",
+      "summary": "Argentina faces Cape Verde in World Cup 2026 last 32 as tournament's surprise package chases upset.",
+      "url": "https://www.theguardian.com/p/x5djkq",
+      "thumbnail": "https://media.guim.co.uk/999b2e168a291759dfa995633ce88c0e0cc378bc/1003_0_6622_5297/500.jpg",
+      "published": "2026-07-03T22:39:27Z",
+      "location": {
+        "name": "Cape Verde",
+        "lat": 16.7796,
+        "lng": -23.0418
+      },
+      "category": "sport",
+      "significance": 4,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/jul/03/great-american-state-washington-dc",
+      "headline": "‘A total disappointment’: revelers face unbearable heat at Great American State Fair",
+      "summary": "Great American State Fair faces low attendance and intense heat despite Trump's promotional hyperbole.",
+      "url": "https://www.theguardian.com/p/x5dy2g",
+      "thumbnail": "https://media.guim.co.uk/a75996280ce9be99a806f875eead2656bcf3ba25/410_0_5000_4000/500.jpg",
+      "published": "2026-07-03T21:47:03Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
     }
   ]
 }
