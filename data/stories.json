@@ -1,28 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-07-04T15:49:28.885Z",
-    "story_count": 84,
-    "oldest_story": "2026-07-03T16:00:32Z",
-    "newest_story": "2026-07-04T15:49:03Z",
+    "generated_at": "2026-07-04T16:52:23.259Z",
+    "story_count": 87,
+    "oldest_story": "2026-07-03T16:55:03Z",
+    "newest_story": "2026-07-04T16:42:38Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "money/2026/jul/03/london-car-club-vehicles-zipcar-exit",
-      "headline": "London has lost ‘catastrophic’ 89% of car club vehicles since Zipcar exit",
-      "summary": "London car club vehicles plummet 89% after Zipcar's exit from UK market.",
-      "url": "https://www.theguardian.com/p/x5c87x",
-      "thumbnail": "https://media.guim.co.uk/27b7185ef5ff6b0cfad09bbb3640c8556b90ca00/577_92_3963_3172/500.jpg",
-      "published": "2026-07-03T16:00:32Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "money"
-    },
     {
       "id": "football/live/2026/jul/03/australia-v-egypt-world-cup-2026-last-32-live",
       "headline": "Australia v Egypt: World Cup 2026 last 32 – live",
@@ -1350,6 +1334,70 @@
       "category": "politics",
       "significance": 2,
       "section": "politics"
+    },
+    {
+      "id": "sport/2026/jul/04/british-grand-prix-f1-qualifying-report",
+      "headline": "Kimi Antonelli takes pole for British F1 Grand Prix with Hamilton third on grid",
+      "summary": "Kimi Antonelli takes pole position at British F1 Grand Prix with Hamilton third on grid.",
+      "url": "https://www.theguardian.com/p/x5dk5e",
+      "thumbnail": "https://media.guim.co.uk/1b8b8ee50b79260bb3f5b6955b83842722a20491/437_124_3318_2655/500.jpg",
+      "published": "2026-07-04T16:42:38Z",
+      "location": {
+        "name": "Silverstone",
+        "lat": 52.0787,
+        "lng": -1.0169
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "sport"
+    },
+    {
+      "id": "us-news/2026/jul/04/wisconsin-children-drown",
+      "headline": "Three children dead after boat capsizes during storm in Wisconsin",
+      "summary": "Three children dead after boat capsizes during storm on Wisconsin's Geneva Lake.",
+      "url": "https://www.theguardian.com/p/x5dpp6",
+      "thumbnail": "https://media.guim.co.uk/c5ab4d5b295e7cfd5be11f966d66ed08ff837ea6/1616_0_7724_6183/500.jpg",
+      "published": "2026-07-04T16:04:01Z",
+      "location": {
+        "name": "Geneva Lake",
+        "lat": 42.5904,
+        "lng": -88.4012
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/jul/04/us-independence-day-holidays-past",
+      "headline": "The US celebrated the end of a ‘long national nightmare’ as it turned 200. What about now?",
+      "summary": "Analysis of US bicentennial 250 years after independence and national trajectory.",
+      "url": "https://www.theguardian.com/p/x5dg8e",
+      "thumbnail": "https://media.guim.co.uk/8d0804f64b5656742a42b915551aa21fdc19e754/533_0_2850_2281/500.jpg",
+      "published": "2026-07-04T16:00:02Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "sport/2026/jul/04/fiji-wales-nations-championship-rugby-union-match-report",
+      "headline": "Jac Morgan double earns clinical Wales victory over Fiji in Nations Championship",
+      "summary": "Wales defeats Fiji 39-24 in Nations Championship rugby union match with Morgan double.",
+      "url": "https://www.theguardian.com/p/x5djcf",
+      "thumbnail": "https://media.guim.co.uk/711b4abcfb8bbf4a3104e98850968c0289b1c83b/55_0_6235_4989/500.jpg",
+      "published": "2026-07-04T15:57:12Z",
+      "location": {
+        "name": "Cardiff",
+        "lat": 51.4816,
+        "lng": -3.1791
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
     }
   ]
 }
