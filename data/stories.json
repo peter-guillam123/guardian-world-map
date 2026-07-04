@@ -1,156 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-07-04T13:11:09.379Z",
-    "story_count": 95,
-    "oldest_story": "2026-07-03T13:12:52Z",
-    "newest_story": "2026-07-04T13:05:34Z",
+    "generated_at": "2026-07-04T14:45:51.648Z",
+    "story_count": 93,
+    "oldest_story": "2026-07-03T14:53:58Z",
+    "newest_story": "2026-07-04T14:43:55Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "us-news/2026/jul/03/louisiana-criminal-indictment-halted-attorney-general-liz-murrill",
-      "headline": "Louisiana court halts criminal indictment against state attorney general",
-      "summary": "Louisiana court halts criminal indictment against Republican attorney general Liz Murrill for alleged intimidation.",
-      "url": "https://www.theguardian.com/p/x5djy5",
-      "thumbnail": "https://media.guim.co.uk/6e0403ab905683af34e3f3a93b1d4a3842e86b3c/1287_920_2863_2291/500.jpg",
-      "published": "2026-07-03T14:06:20Z",
-      "location": {
-        "name": "New Orleans",
-        "lat": 29.9511,
-        "lng": -90.2623
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "news/2026/jul/03/three-men-found-not-guilty-of-murdering-journalist-lyra-mckee",
-      "headline": "Three men found not guilty of murdering journalist Lyra McKee ",
-      "summary": "Three men acquitted in 2019 murder of journalist Lyra McKee during Derry riots.",
-      "url": "https://www.theguardian.com/p/x5dkv2",
-      "thumbnail": "https://media.guim.co.uk/2fc3f5f4c94187b6ad9478889a1ac3878451f04d/0_677_2667_2133/500.jpg",
-      "published": "2026-07-03T13:55:28Z",
-      "location": {
-        "name": "Derry",
-        "lat": 54.9973,
-        "lng": -7.1678
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "news"
-    },
-    {
-      "id": "world/2026/jul/03/deaths-france-surged-hottest-week-record-heatwave-june",
-      "headline": "Deaths in France surged 30% during hottest week of record June heatwave",
-      "summary": "Deaths in France surged 30% during record June heatwave; 2,025 excess deaths reported.",
-      "url": "https://www.theguardian.com/p/x5djkm",
-      "thumbnail": "https://media.guim.co.uk/5af1513125a706d2bc1bea28716cef48f6617dfa/844_0_4862_3889/500.jpg",
-      "published": "2026-07-03T13:51:24Z",
-      "location": {
-        "name": "Paris",
-        "lat": 48.8566,
-        "lng": 2.3522
-      },
-      "category": "climate",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "stage/2026/jul/03/320f-review-sadlers-wells-london--hideki-noda",
-      "headline": "–320°F review – join Cleopatra, Faust and the Pied Piper on a zany odyssey",
-      "summary": "Hideki Noda's –320°F theatrical production opens at Sadler's Wells with mixed reviews.",
-      "url": "https://www.theguardian.com/p/x5dj8k",
-      "thumbnail": "https://media.guim.co.uk/8a42f4a846534b9f8f845fda33e0b8e9a6468318/328_240_3422_2738/500.jpg",
-      "published": "2026-07-03T13:50:46Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "stage"
-    },
-    {
-      "id": "music/2026/jul/03/seasonal-quartet-ali-smith-new-european-ensemble-review-spitalfields-festival",
-      "headline": "Seasonal Quartet: Ali Smith and New European Ensemble review – words and music connect ",
-      "summary": "Seasonal Quartet featuring Ali Smith's works premieres at Spitalfields festival in London.",
-      "url": "https://www.theguardian.com/p/x5dj44",
-      "thumbnail": "https://media.guim.co.uk/2cb08be1e6a8eb13ef1261708297d2a28c77ce23/282_0_3126_2500/500.jpg",
-      "published": "2026-07-03T13:42:18Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "music"
-    },
-    {
-      "id": "artanddesign/2026/jul/03/alan-gignoux-homeland-lost-review-portraits-p21-gallery-london",
-      "headline": "Alan Gignoux: Homeland Lost review – a landscape as bereft as its people",
-      "summary": "Alan Gignoux's photography exhibition documents Palestinian refugees and displaced homes since 1948.",
-      "url": "https://www.theguardian.com/p/x5dtyd",
-      "thumbnail": "https://media.guim.co.uk/40a2f6c2ab4ee13772a7ee0abe9f1b4a747116ae/105_325_3794_3035/500.jpg",
-      "published": "2026-07-03T13:34:15Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "artanddesign"
-    },
-    {
-      "id": "stage/2026/jul/03/living-image-chapter-1-review-siobhan-davies-studios-london-sphinx",
-      "headline": "Living Image: Chapter 1 review – five days to reanimate a legendary show you’ve never seen",
-      "summary": "Living Image Chapter 1 at Siobhan Davies Studios reimagines 1977 classic Sphinx.",
-      "url": "https://www.theguardian.com/p/x5dj7c",
-      "thumbnail": "https://media.guim.co.uk/9d19cda89010f9cbc77232c90d22a2e2258634ac/310_0_3003_2402/500.jpg",
-      "published": "2026-07-03T13:19:38Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "stage"
-    },
-    {
-      "id": "music/2026/jul/03/taylor-swift-travis-kelce-wedding-new-york",
-      "headline": "Flowers, food and a fairytale castle: New York preparations point to giant Taylor Swift wedding",
-      "summary": "Taylor Swift wedding preparations underway at Madison Square Garden with fiancé Travis Kelce.",
-      "url": "https://www.theguardian.com/p/x5dtt5",
-      "thumbnail": "https://media.guim.co.uk/9cf5dc5447f2c9aa9021ec060ef5494698870d34/105_0_6880_5504/500.jpg",
-      "published": "2026-07-03T13:17:57Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "music"
-    },
-    {
-      "id": "sport/2026/jul/03/lewis-hamilton-ready-to-resume-silverstone-love-affair-after-finally-clicking-with-ferrari",
-      "headline": "Lewis Hamilton ready to resume Silverstone love affair after finally clicking with Ferrari",
-      "summary": "Lewis Hamilton returns to Silverstone for British Grand Prix with renewed Ferrari confidence.",
-      "url": "https://www.theguardian.com/p/x5djeq",
-      "thumbnail": "https://media.guim.co.uk/9bdd76f0e6704c9a8881a2b8a70127a429e7bce7/748_0_3751_3000/500.jpg",
-      "published": "2026-07-03T13:12:52Z",
-      "location": {
-        "name": "Silverstone",
-        "lat": 52.0786,
-        "lng": -1.0169
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
     {
       "id": "money/2026/jul/03/london-car-club-vehicles-zipcar-exit",
       "headline": "London has lost ‘catastrophic’ 89% of car club vehicles since Zipcar exit",
@@ -1526,6 +1382,118 @@
       "category": "politics",
       "significance": 3,
       "section": "world"
+    },
+    {
+      "id": "sport/live/2026/jul/04/south-africa-v-england-nations-championship-rugby-union-live",
+      "headline": "South Africa v England: Nations Championship rugby union – live",
+      "summary": "South Africa faces England in Nations Championship rugby at Ellis Park.",
+      "url": "https://www.theguardian.com/p/x5dkmb",
+      "thumbnail": "https://media.guim.co.uk/f5201689d7de8430401cfb25141a9a08179a9a92/199_0_4205_3364/500.jpg",
+      "published": "2026-07-04T14:43:55Z",
+      "location": {
+        "name": "Johannesburg",
+        "lat": -26.1917,
+        "lng": 28.0302
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "sport/live/2026/jul/04/tour-de-france-2026-stage-one-race-begins-with-team-time-trial-in-barcelona-live",
+      "headline": "Tour de France 2026 stage one: race begins with team time-trial in Barcelona – live",
+      "summary": "Tour de France 2026 begins with team time-trial in Barcelona.",
+      "url": "https://www.theguardian.com/p/x5dkg2",
+      "thumbnail": "https://media.guim.co.uk/ce9419baffaf114308f192b9dbcd1d70e5f3b7f0/477_0_2960_2368/500.jpg",
+      "published": "2026-07-04T14:42:03Z",
+      "location": {
+        "name": "Barcelona",
+        "lat": 41.3851,
+        "lng": 2.1734
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "sport"
+    },
+    {
+      "id": "uk-news/2026/jul/04/week-long-heatwave-due-in-england-with-34c-peak-in-south-east",
+      "headline": "Week-long heatwave due in England with 34C peak in south-east",
+      "summary": "Week-long heatwave with 34C peak forecast for England and Wales.",
+      "url": "https://www.theguardian.com/p/x5dp7x",
+      "thumbnail": "https://media.guim.co.uk/fdf469e511208c60a85e4e9924fdf20aed8a76d3/271_0_2708_2167/500.jpg",
+      "published": "2026-07-04T14:40:42Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "thefilter-us/2026/jul/04/best-hiking-daypacks-tested-reviewed",
+      "headline": "I tested 12 hiking daypacks on trails in Colorado and Peru. These five were the best",
+      "summary": "Product review tests 12 hiking daypacks in Colorado and Peru.",
+      "url": "https://www.theguardian.com/p/x5dapm",
+      "thumbnail": "https://media.guim.co.uk/18239aae9a0e119bec2a0f20e8fb910682d04e63/1_0_2999_2400/500.jpg",
+      "published": "2026-07-04T14:15:14Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "other",
+      "significance": 1,
+      "section": "thefilter-us"
+    },
+    {
+      "id": "us-news/2026/jul/04/trump-pardons-11-people-fourth-of-july",
+      "headline": "Trump pardons 11 people on eve of country’s Fourth of July celebrations",
+      "summary": "Trump pardons 11 people including Clean Air Act violators on July 4th.",
+      "url": "https://www.theguardian.com/p/x5dpfc",
+      "thumbnail": "https://media.guim.co.uk/f061cf0686485560574b845c14f05581d6e18079/0_0_4415_3535/500.jpg",
+      "published": "2026-07-04T14:13:50Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "environment/2026/jul/04/trump-national-parks",
+      "headline": "Overcrowded and underfunded: Trump’s cuts to national parks threaten the US’s ‘best idea’",
+      "summary": "Trump budget cuts threaten overcrowded US national parks this summer.",
+      "url": "https://www.theguardian.com/p/x5daq6",
+      "thumbnail": "https://media.guim.co.uk/1b9961a976f5d117f007ea7310c5490e5831d9bf/544_0_5435_4348/500.jpg",
+      "published": "2026-07-04T14:00:15Z",
+      "location": {
+        "name": "Yosemite National Park",
+        "lat": 37.8651,
+        "lng": -119.5383
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "environment"
+    },
+    {
+      "id": "politics/2026/jul/04/burnham-will-change-no-10-boys-club-briefing-culture-says-lucy-powell",
+      "headline": "Burnham will change No 10 ‘boys club’ briefing culture, says Lucy Powell ",
+      "summary": "Lucy Powell calls for Burnham to end No 10 'boys club' culture.",
+      "url": "https://www.theguardian.com/p/x5de2j",
+      "thumbnail": "https://media.guim.co.uk/d0498786f5484b7ff7ee82bd38a3ea65c0ea0c66/538_0_2917_2334/500.jpg",
+      "published": "2026-07-04T14:00:14Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
     }
   ]
 }
