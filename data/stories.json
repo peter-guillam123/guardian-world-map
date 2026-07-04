@@ -1,76 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-07-04T20:33:25.736Z",
+    "generated_at": "2026-07-04T21:36:14.371Z",
     "story_count": 84,
-    "oldest_story": "2026-07-03T20:46:33Z",
-    "newest_story": "2026-07-04T20:24:49Z",
+    "oldest_story": "2026-07-03T21:47:03Z",
+    "newest_story": "2026-07-04T21:30:08Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/2026/jul/04/australia-egypt-player-ratings-world-cup-last-round-32",
-      "headline": "Australia 1-1 Egypt (2-4 on penalties): World Cup 2026 last 32 player ratings",
-      "summary": "Egypt defeats Australia 4-2 on penalties in World Cup 2026 last 32 shootout.",
-      "url": "https://www.theguardian.com/p/x5dc43",
-      "thumbnail": "https://media.guim.co.uk/6f8416ff2db0474101399352b3381af0a1a907fa/373_0_3661_2928/500.jpg",
-      "published": "2026-07-03T21:24:31Z",
-      "location": {
-        "name": "Dallas",
-        "lat": 32.7767,
-        "lng": -96.797
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/jul/04/australia-socceroos-egypt-world-cup-last-32-penalty-shootout-defeat",
-      "headline": "Shootout heartbreak leaves Socceroos still searching for elusive World Cup knockout win",
-      "summary": "Australia loses World Cup knockout match to Egypt despite goalkeeper substitution strategy.",
-      "url": "https://www.theguardian.com/p/x5dc4a",
-      "thumbnail": "https://media.guim.co.uk/800944b4e559006f9ba1bec975ef7162f6146d2b/194_0_5000_4000/500.jpg",
-      "published": "2026-07-03T21:17:22Z",
-      "location": {
-        "name": "Dallas",
-        "lat": 32.7767,
-        "lng": -96.797
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/jul/03/australia-egypt-world-cup-2026-last-32-match-report",
-      "headline": "Egypt reach World Cup last 16 in shootout as Australia’s goalkeeper gamble backfires",
-      "summary": "Egypt advances to World Cup last 16 after penalty shootout victory over Australia.",
-      "url": "https://www.theguardian.com/p/x5dkf6",
-      "thumbnail": "https://media.guim.co.uk/628104b8ff7e6deb930c87d27914945aba6643a6/138_0_3456_2766/500.jpg",
-      "published": "2026-07-03T21:03:29Z",
-      "location": {
-        "name": "Dallas",
-        "lat": 32.7767,
-        "lng": -96.797
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/jul/03/maddy-cusack-jonathan-morgan-womens-football-inquest",
-      "headline": "Concerns raised about Jonathan Morgan prior to Maddy Cusack’s death, inquest told",
-      "summary": "Inquest hears concerns raised about Sheffield United manager prior to player's death.",
-      "url": "https://www.theguardian.com/p/x5dyxk",
-      "thumbnail": "https://media.guim.co.uk/ea90f3cfa1a4325041059671a61bd86ba4eb2013/197_0_3288_2630/500.jpg",
-      "published": "2026-07-03T20:46:33Z",
-      "location": {
-        "name": "Sheffield",
-        "lat": 53.3811,
-        "lng": -1.4668
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
     {
       "id": "football/live/2026/jul/03/argentina-v-cape-verde-world-cup-2026-last-32-live",
       "headline": "Argentina v Cape Verde: World Cup 2026 last 32 – live",
@@ -1350,6 +1286,70 @@
       "category": "conflict",
       "significance": 3,
       "section": "us-news"
+    },
+    {
+      "id": "society/2026/jul/04/nhs-ai-app-patients-appropriate-services-health",
+      "headline": "NHS to use AI on its app to direct patients to appropriate services ",
+      "summary": "NHS to deploy AI on its app to triage patients and direct them to appropriate healthcare services.",
+      "url": "https://www.theguardian.com/p/x5dp7m",
+      "thumbnail": "https://media.guim.co.uk/ff3edb27303ff3e647e27591d79ddbbba215afa9/311_0_3042_2435/500.jpg",
+      "published": "2026-07-04T21:30:08Z",
+      "location": {
+        "name": "England",
+        "lat": 52.3555,
+        "lng": -1.1743
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "society"
+    },
+    {
+      "id": "football/2026/jul/04/canada-world-cup-alphonso-davies-injury-management",
+      "headline": "Canada’s World Cup exit revives questions over Alphonso Davies injury management",
+      "summary": "Canada exits World Cup after 3-0 loss to Morocco with star player Alphonso Davies sidelined by injury.",
+      "url": "https://www.theguardian.com/p/x5dqqh",
+      "thumbnail": "https://media.guim.co.uk/379a4bf5d27b16279e0952872878f56b68c54595/827_97_6569_5255/500.jpg",
+      "published": "2026-07-04T21:23:43Z",
+      "location": {
+        "name": "Canada",
+        "lat": 56.1304,
+        "lng": -106.3468
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/jul/04/jesse-marsch-canada-morocco-world-cup",
+      "headline": "‘We were better than them’: Marsch bullish despite Canada’s World Cup exit to Morocco",
+      "summary": "Coach Jesse Marsch claims Canada controlled match despite 3-0 World Cup defeat to Morocco.",
+      "url": "https://www.theguardian.com/p/x5ev2k",
+      "thumbnail": "https://media.guim.co.uk/7c068969f7a3847554b75b9f2671fc099262e2e9/968_100_5763_4610/500.jpg",
+      "published": "2026-07-04T20:58:47Z",
+      "location": {
+        "name": "Canada",
+        "lat": 56.1304,
+        "lng": -106.3468
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "world/2026/jul/04/archaeologists-uncover-ancient-byzantine-city-in-egypts-western-desert",
+      "headline": "Archaeologists uncover ancient Byzantine city in Egypt’s western desert",
+      "summary": "Archaeologists uncover well-preserved fourth-century Byzantine city in Egypt's western desert.",
+      "url": "https://www.theguardian.com/p/x5dqnf",
+      "thumbnail": "https://media.guim.co.uk/143b8d47a8a54be65405a4fe6d0bb23cf02fe1f2/146_0_716_573/500.jpg",
+      "published": "2026-07-04T20:32:52Z",
+      "location": {
+        "name": "Dakhla Oasis, Egypt",
+        "lat": 25.4987,
+        "lng": 29.0193
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "world"
     }
   ]
 }
