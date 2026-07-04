@@ -1,140 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-07-04T08:04:12.262Z",
-    "story_count": 95,
-    "oldest_story": "2026-07-03T08:30:23Z",
-    "newest_story": "2026-07-04T08:00:08Z",
+    "generated_at": "2026-07-04T10:23:06.007Z",
+    "story_count": 96,
+    "oldest_story": "2026-07-03T10:43:57Z",
+    "newest_story": "2026-07-04T10:22:33Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "environment/2026/jul/03/weather-tracker-heatwave-breaks-june-temperature-records-across-europe",
-      "headline": "Weather tracker: Heatwave breaks June temperature records across Europe",
-      "summary": "UK heatwave breaks June temperature record at 37.7C; Germany hits all-time high of 41.7C.",
-      "url": "https://www.theguardian.com/p/x5dt58",
-      "thumbnail": "https://media.guim.co.uk/ee1eec52ee651f93c4f745fe81725e281ef6deaa/390_0_3610_2888/500.jpg",
-      "published": "2026-07-03T09:20:03Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "climate",
-      "significance": 3,
-      "section": "environment"
-    },
-    {
-      "id": "politics/2026/jul/03/keir-starmer-ally-hollie-ridley-step-down-labour-general-secretary",
-      "headline": "Keir Starmer ally Hollie Ridley to step down as Labour general secretary",
-      "summary": "Labour general secretary Hollie Ridley steps down after two years in role this autumn.",
-      "url": "https://www.theguardian.com/p/x5dty8",
-      "thumbnail": "https://media.guim.co.uk/9d929acfb70bff77fcee6e6d162e09bc1fb199a4/316_283_2297_1839/500.jpg",
-      "published": "2026-07-03T09:15:24Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "business/live/2026/jul/03/oil-price-fall-strait-of-hormuz-traffic-jumps-food-price-inflation-services-sector-live-news-updates",
-      "headline": "UK service sector shrinks amid Iran war disruption and heatwave – business live",
-      "summary": "UK service sector contracts in June amid Iran tensions and heatwave disruptions.",
-      "url": "https://www.theguardian.com/p/x5dt5g",
-      "thumbnail": "https://media.guim.co.uk/4ae4905cdb1017611a1c46e1db6128336686586b/94_0_4141_3315/500.jpg",
-      "published": "2026-07-03T09:15:21Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "us-news/ng-interactive/2026/jul/03/us-at-250-global-reputation",
-      "headline": "For allies and adversaries alike, America at 250 is a solid global citizen gone rogue",
-      "summary": "US allies and adversaries reassess America's global standing at 250th anniversary under Trump.",
-      "url": "https://www.theguardian.com/p/x5ddfb",
-      "thumbnail": "https://media.guim.co.uk/ea132bc4a14668cf1716b902084a5eddba19cb79/0_0_3000_2400/500.jpg",
-      "published": "2026-07-03T09:00:24Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "politics/2026/jul/03/council-houses-building-burnham-vision",
-      "headline": "A council housebuilding boom is central to Burnham’s vision. Can it be done?",
-      "summary": "Labour's council housebuilding boom faces challenges with 1.5m families awaiting social housing.",
-      "url": "https://www.theguardian.com/p/x5c8e7",
-      "thumbnail": "https://media.guim.co.uk/019fcadc6468fecf74effdb1c809a639806ca40b/0_0_5000_4000/500.jpg",
-      "published": "2026-07-03T09:00:24Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "football/2026/jul/03/lionel-messi-argentina-miami-world-cup",
-      "headline": "Lionel Messi makes his Miami homecoming with Argentina: ‘For us this is a chance to celebrate him’",
-      "summary": "Lionel Messi returns to Miami with Argentina for World Cup 2026 last-32 match vs Cape Verde.",
-      "url": "https://www.theguardian.com/p/x5dhah",
-      "thumbnail": "https://media.guim.co.uk/3fdcb6577c0cccdb1d6aa1dd0984fe921d176e29/604_0_5000_4000/500.jpg",
-      "published": "2026-07-03T09:00:24Z",
-      "location": {
-        "name": "Miami",
-        "lat": 25.7617,
-        "lng": -80.1918
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "politics/live/2026/jul/03/andy-burnham-says-labour-manifesto-has-room-for-movement-on-tax-uk-politics-live",
-      "headline": "Andy Burnham says Labour manifesto has room for ‘movement on tax’ – UK politics live",
-      "summary": "Andy Burnham hints Labour manifesto allows flexibility on taxes to aid high street businesses.",
-      "url": "https://www.theguardian.com/p/x5dtfj",
-      "thumbnail": "https://media.guim.co.uk/b2e08082a0623471f2bace43a8a801aff6b099ca/651_0_3747_2999/500.jpg",
-      "published": "2026-07-03T08:50:04Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 1,
-      "section": "politics"
-    },
-    {
-      "id": "music/2026/jul/03/2k88-lauren-duffus-rainy-miller-bianca-scout-everything-always-changes-for-were-truly-here-review-uk-poland-clan-create-murky-beauty",
-      "headline": "2K88, Lauren Duffus, Rainy Miller & Bianca Scout: Everything Always Changes, for We’re Truly Here review – UK-Poland clan create murky beauty",
-      "summary": "UK-Poland musical collaboration creates glacial sound design album with elegiac grandeur.",
-      "url": "https://www.theguardian.com/p/x5d25j",
-      "thumbnail": "https://media.guim.co.uk/4c4dc9a2279df38013ffdf135210bdd698dc050a/250_0_4373_3500/500.jpg",
-      "published": "2026-07-03T08:30:23Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "music"
-    },
     {
       "id": "sport/live/2026/jul/03/wimbledon-2026-djokovic-sabalenka-sinner-gauff-osaka-live",
       "headline": "Wimbledon 2026: Fonseca in action; Djokovic, Sabalenka and Sinner to come – live",
@@ -1526,6 +1398,150 @@
       "category": "sport",
       "significance": 3,
       "section": "football"
+    },
+    {
+      "id": "sport/live/2026/jul/04/australia-vs-ireland-wallabies-nations-championship-rugby-union-international-aus-v-ire-live-updates",
+      "headline": "Australia v Ireland: Nations Championship rugby union international – live",
+      "summary": "Australia faces Ireland in Nations Championship rugby union match in Sydney.",
+      "url": "https://www.theguardian.com/p/x5dc7b",
+      "thumbnail": "https://media.guim.co.uk/adfc56afd2e3c22f3bb0bc18e186189360a809a7/347_0_5356_4285/500.jpg",
+      "published": "2026-07-04T10:22:33Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "football/live/2026/jul/04/world-cup-2026-cape-verde-give-argentina-mighty-scare-last-16-mexico-v-england-fixture-chaos-morocco-canada-france-paraguay-live",
+      "headline": "World Cup 2026: England get hostile reception in Mexico City as last 16 begins; Cape Verde give huge scare to Argentina – live",
+      "summary": "World Cup 2026 last-16 begins with England facing hostile reception in Mexico City.",
+      "url": "https://www.theguardian.com/p/x5dj3h",
+      "thumbnail": "https://media.guim.co.uk/85ebf6b495aea2c3ce0eb3337c2af2791920f1a0/7_0_5209_4168/500.jpg",
+      "published": "2026-07-04T10:13:59Z",
+      "location": {
+        "name": "Mexico City",
+        "lat": 19.4326,
+        "lng": -99.1332
+      },
+      "category": "sport",
+      "significance": 4,
+      "section": "football"
+    },
+    {
+      "id": "politics/2026/jul/04/labour-win-next-election-under-burnham-keir-starmer",
+      "headline": "Labour should win next election under Burnham after work already done, Starmer says",
+      "summary": "Keir Starmer says Labour should win next election under Andy Burnham's likely succession.",
+      "url": "https://www.theguardian.com/p/x5dzga",
+      "thumbnail": "https://media.guim.co.uk/611248ebb3979c1426bc0e43a999fa5be52e3960/443_0_4144_3316/500.jpg",
+      "published": "2026-07-04T10:09:32Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "us-news/2026/jul/04/trump-accounts-savings",
+      "headline": "‘Trump accounts’: Wall Street-backed investment funds for children to go live",
+      "summary": "Trump-backed 'Trump accounts' savings funds for children launch amid Republican initiative.",
+      "url": "https://www.theguardian.com/p/x5dfdz",
+      "thumbnail": "https://media.guim.co.uk/e7276a11161e5a9c76ea3646d2da56d1737e82c3/567_0_5417_4335/500.jpg",
+      "published": "2026-07-04T10:00:10Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "lifeandstyle/2026/jul/04/rashid-sheriff-best-phone-picture",
+      "headline": "‘I filled a white ceramic bowl and carefully placed the fish inside’: Rashid Sheriff’s best phone picture",
+      "summary": "Indian photographer Rashid Sheriff captures underwater pet fish photo with iPhone technique.",
+      "url": "https://www.theguardian.com/p/x59bgg",
+      "thumbnail": "https://media.guim.co.uk/af6c61d72df4a46c646474aaa6ba6ea8ea3ff75b/0_35_2798_2239/500.jpg",
+      "published": "2026-07-04T10:00:10Z",
+      "location": {
+        "name": "Kerala",
+        "lat": 10.8505,
+        "lng": 76.2711
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "lifeandstyle"
+    },
+    {
+      "id": "society/2026/jul/04/british-medical-association-union-could-axe-staff-cash-crisis",
+      "headline": "British Medical Association could axe up to a third of its staff amid cash crisis",
+      "summary": "British Medical Association threatens redundancies for up to 200 staff amid financial crisis.",
+      "url": "https://www.theguardian.com/p/x5dkya",
+      "thumbnail": "https://media.guim.co.uk/e4eae3d477e5dbf5e6ef7cf0b135f4284da8d2a4/364_0_3746_2997/500.jpg",
+      "published": "2026-07-04T10:00:09Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "society"
+    },
+    {
+      "id": "football/2026/jul/04/england-mexico-hotel-world-cup-kick-off",
+      "headline": "England get hostile welcome on arrival at Mexico City hotel for World Cup showdown",
+      "summary": "England team receives hostile reception from Mexican fans at hotel during World Cup preparations.",
+      "url": "https://www.theguardian.com/p/x5dzh4",
+      "thumbnail": "https://media.guim.co.uk/eadbe75170721520f927a193fb42e4a0357212a9/0_0_4560_3648/500.jpg",
+      "published": "2026-07-04T09:58:50Z",
+      "location": {
+        "name": "Mexico City",
+        "lat": 19.4326,
+        "lng": -99.1332
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "world/2026/jul/04/crowds-gather-six-day-funeral-former-iranian-supreme-leader-ali-khamenei",
+      "headline": "Crowds gather as six-day funeral for former Iranian supreme leader begins",
+      "summary": "Six-day funeral begins for former Iranian supreme leader Ali Khamenei with massive crowds.",
+      "url": "https://www.theguardian.com/p/x5dz64",
+      "thumbnail": "https://media.guim.co.uk/70c8ca6c2b8cfa7e67bb92149d8182d7997e7535/500_0_5000_4000/500.jpg",
+      "published": "2026-07-04T09:43:04Z",
+      "location": {
+        "name": "Tehran",
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "us-news/2026/jul/04/trump-launches-americas-250th-birthday-celebrations-with-partisan-attack",
+      "headline": "Trump launches America’s 250th birthday celebrations with partisan attack",
+      "summary": "Trump launches America's 250th anniversary with partisan speech warning of 'communist menace'.",
+      "url": "https://www.theguardian.com/p/x5dmjy",
+      "thumbnail": "https://media.guim.co.uk/958eba49bdaab92e2ff9d8a76308d7bceef217b9/160_0_2070_1657/500.jpg",
+      "published": "2026-07-04T09:33:34Z",
+      "location": {
+        "name": "Mount Rushmore",
+        "lat": 43.8791,
+        "lng": -103.2549
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "us-news"
     }
   ]
 }
