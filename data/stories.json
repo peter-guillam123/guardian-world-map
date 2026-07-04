@@ -1,28 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-07-04T18:01:07.521Z",
-    "story_count": 77,
-    "oldest_story": "2026-07-03T18:15:02Z",
-    "newest_story": "2026-07-04T17:53:24Z",
+    "generated_at": "2026-07-04T19:33:40.684Z",
+    "story_count": 76,
+    "oldest_story": "2026-07-03T19:40:43Z",
+    "newest_story": "2026-07-04T19:09:06Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "uk-news/2026/jul/03/two-romanians-jailed-stabbing-iranian-journalist-in-london",
-      "headline": "Two Romanians jailed over stabbing of Iranian TV journalist in London",
-      "summary": "Two Romanians jailed for knife attack on Iranian journalist in London reportedly carried out on Tehran's behalf.",
-      "url": "https://www.theguardian.com/p/x5dyvz",
-      "thumbnail": "https://media.guim.co.uk/00aa4e37059affab3044bb863ef691ff9c5f5db0/28_0_5658_4529/500.jpg",
-      "published": "2026-07-03T18:15:02Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "uk-news"
-    },
     {
       "id": "business/2026/jul/03/peter-checkland-obituary",
       "headline": "Peter Checkland obituary",
@@ -54,38 +38,6 @@
       "category": "culture",
       "significance": 2,
       "section": "music"
-    },
-    {
-      "id": "sport/2026/jul/03/ever-improving-sabalenka-sees-off-ostapenko-to-move-into-third-round",
-      "headline": "Ever-improving Sabalenka sees off Ostapenko to move into third round",
-      "summary": "Aryna Sabalenka defeats Jelena Ostapenko 6-4, 6-4 to advance at Wimbledon 2026.",
-      "url": "https://www.theguardian.com/p/x5dj3z",
-      "thumbnail": "https://media.guim.co.uk/97d231454424c922b078cae35fc429b4cf257f81/365_0_3647_2917/500.jpg",
-      "published": "2026-07-03T19:29:07Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "football/2026/jul/03/folarin-balogun-red-card-suspension-belgium-world-cup",
-      "headline": "‘It’s been surreal’: USMNT’s Folarin Balogun moves on from controversial red card",
-      "summary": "Folarin Balogun accepts suspension after controversial red card; USMNT prepares for Belgium.",
-      "url": "https://www.theguardian.com/p/x5dy86",
-      "thumbnail": "https://media.guim.co.uk/6c355054b0b0060131b982f4f93789465b6c464f/732_0_4750_3803/500.jpg",
-      "published": "2026-07-03T19:15:13Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
     },
     {
       "id": "football/2026/jul/04/australia-egypt-player-ratings-world-cup-last-round-32",
@@ -1238,6 +1190,38 @@
       "category": "culture",
       "significance": 2,
       "section": "us-news"
+    },
+    {
+      "id": "world/2026/jul/04/ukrainian-drones-hit-st-petersburg-oil-terminal-and-nearby-port",
+      "headline": "Ukrainian drones hit St Petersburg oil terminal and nearby port",
+      "summary": "Ukraine launches large-scale drone attack on St Petersburg oil terminal and port infrastructure.",
+      "url": "https://www.theguardian.com/p/x5dqbn",
+      "thumbnail": "https://media.guim.co.uk/60ab448bfd1d6333266d1ae57bfaf59c47db7f6d/0_320_563_450/500.jpg",
+      "published": "2026-07-04T19:09:06Z",
+      "location": {
+        "name": "Saint Petersburg",
+        "lat": 59.9311,
+        "lng": 30.3609
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "sport/2026/jul/04/british-wildcard-arthur-fery-fights-back-to-beat-zizou-bergs-in-wimbledon-epic",
+      "headline": "British wildcard Arthur Fery fights back to beat Zizou Bergs in Wimbledon epic",
+      "summary": "British wildcard Arthur Fery defeats Zizou Bergs in five-set Wimbledon epic despite nosebleeds.",
+      "url": "https://www.theguardian.com/p/x5dqet",
+      "thumbnail": "https://media.guim.co.uk/7752f2ffaca6b2a4feb978b4500a7420a844ecae/557_103_3270_2615/500.jpg",
+      "published": "2026-07-04T18:48:11Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
     }
   ]
 }
