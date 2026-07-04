@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-04T11:51:11.492Z",
-    "story_count": 93,
-    "oldest_story": "2026-07-03T13:00:28Z",
-    "newest_story": "2026-07-04T11:46:59Z",
+    "generated_at": "2026-07-04T13:11:09.379Z",
+    "story_count": 95,
+    "oldest_story": "2026-07-03T13:12:52Z",
+    "newest_story": "2026-07-04T13:05:34Z",
     "window_hours": 24
   },
   "stories": [
@@ -150,54 +150,6 @@
       "category": "sport",
       "significance": 2,
       "section": "sport"
-    },
-    {
-      "id": "sport/2026/jul/03/super-league-rugby-summer-roadshow-magic-weekend-everton",
-      "headline": "Super League’s summer roadshow saves itself with Magic Weekend at Everton",
-      "summary": "Super League Magic Weekend returns to Merseyside with 80,000 expected for rugby league fixtures.",
-      "url": "https://www.theguardian.com/p/x5dj86",
-      "thumbnail": "https://media.guim.co.uk/cfdd31948bdbfd9299bf6795d11d4e3b4dd52ca0/80_144_3894_3115/500.jpg",
-      "published": "2026-07-03T13:01:19Z",
-      "location": {
-        "name": "Liverpool",
-        "lat": 53.4084,
-        "lng": -2.9916
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "us-news/2026/jul/03/250th-anniversary-readers-reflect",
-      "headline": "‘The wheels are coming off’: readers reflect on the 250th anniversary of the American experiment",
-      "summary": "Americans reflect on 250th anniversary amid concerns over civil rights rollbacks under Trump.",
-      "url": "https://www.theguardian.com/p/x5cpp6",
-      "thumbnail": "https://media.guim.co.uk/258fa4305f351d37fabd74fd2cd4d883b0283d28/358_0_3333_2667/500.jpg",
-      "published": "2026-07-03T13:00:29Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "business/2026/jul/03/uk-summer-bookings-jump-britons-ditch-overseas-holidays-for-staycations",
-      "headline": "UK summer bookings jump as Britons put off overseas holidays by travel fears",
-      "summary": "UK summer bookings surge as Britons opt for staycations due to travel fears and costs.",
-      "url": "https://www.theguardian.com/p/x5d7y7",
-      "thumbnail": "https://media.guim.co.uk/5cc1ce1d4fd3e5540cb7fa70e6f62455d8a2be49/409_0_4053_3241/500.jpg",
-      "published": "2026-07-03T13:00:28Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
     },
     {
       "id": "money/2026/jul/03/london-car-club-vehicles-zipcar-exit",
@@ -1494,6 +1446,86 @@
       "category": "sport",
       "significance": 3,
       "section": "football"
+    },
+    {
+      "id": "sport/live/2026/jul/04/england-v-india-second-t20-cricket-international-live",
+      "headline": "England v India: second men’s T20 cricket international – live",
+      "summary": "England faces India in second T20 cricket international at Old Trafford in Manchester.",
+      "url": "https://www.theguardian.com/p/x5dkhc",
+      "thumbnail": "https://media.guim.co.uk/2018705b6b5c568652bab12aa153b8ee0889b472/406_0_3997_3197/500.jpg",
+      "published": "2026-07-04T13:05:34Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "football/2026/jul/04/aramco-world-cup-fifa-port-arthur-texas-houston",
+      "headline": "‘This is a hellhole’: Aramco makes its presence hurt in the shadow of the World Cup",
+      "summary": "Aramco refinery in Texas exposes residents to poisonous gases amid World Cup sponsorship.",
+      "url": "https://www.theguardian.com/p/x5df94",
+      "thumbnail": "https://media.guim.co.uk/a197b6e55372d33f0d0b815edca8dd5e4c8083fa/542_0_4331_3465/500.jpg",
+      "published": "2026-07-04T13:00:13Z",
+      "location": {
+        "name": "Port Arthur",
+        "lat": 29.3927,
+        "lng": -93.925
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "sport/live/2026/jul/04/eclipse-stakes-day-horse-racing-from-sandown-live",
+      "headline": "Eclipse Stakes day: horse racing from Sandown – live",
+      "summary": "Eclipse Stakes day horse racing event at Sandown Park in Surrey.",
+      "url": "https://www.theguardian.com/p/x5dzy5",
+      "thumbnail": "https://media.guim.co.uk/ededb946dc947f2393804617f626d08e503a0985/1767_841_3501_2801/500.jpg",
+      "published": "2026-07-04T12:57:20Z",
+      "location": {
+        "name": "Sandown",
+        "lat": 51.3711,
+        "lng": -0.3525
+      },
+      "category": "sport",
+      "significance": 1,
+      "section": "sport"
+    },
+    {
+      "id": "uk-news/2026/jul/04/three-year-old-injured-cambridgeshire-crocodile-enclosure-long-rehabilitation",
+      "headline": "Three-year-old injured in UK crocodile enclosure faces ‘long rehabilitation’",
+      "summary": "Three-year-old faces long rehabilitation after crocodile enclosure incident at UK zoo.",
+      "url": "https://www.theguardian.com/p/x5dzna",
+      "thumbnail": "https://media.guim.co.uk/fa4fbc26ca10b8a0d80b5dd2a551ab308168eaa8/453_0_4549_3640/500.jpg",
+      "published": "2026-07-04T12:30:20Z",
+      "location": {
+        "name": "Cambridgeshire",
+        "lat": 52.2,
+        "lng": -0.1
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "world/2026/jul/04/german-riot-police-clash-protesters-block-far-right-afd-conference",
+      "headline": "German riot police clash with protesters hoping to block far-right AfD conference",
+      "summary": "German police clash with protesters blocking far-right AfD party conference in Erfurt.",
+      "url": "https://www.theguardian.com/p/x5dzqb",
+      "thumbnail": "https://media.guim.co.uk/a71ec38d3b30a97c4eed9682737ae9562c7a20e1/239_0_3824_3060/500.jpg",
+      "published": "2026-07-04T12:06:36Z",
+      "location": {
+        "name": "Erfurt",
+        "lat": 50.9785,
+        "lng": 11.034
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
     }
   ]
 }
