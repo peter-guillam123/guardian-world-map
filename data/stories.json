@@ -1,108 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-07-04T22:38:43.274Z",
-    "story_count": 85,
-    "oldest_story": "2026-07-03T22:39:27Z",
-    "newest_story": "2026-07-04T22:25:08Z",
+    "generated_at": "2026-07-04T23:44:11.405Z",
+    "story_count": 82,
+    "oldest_story": "2026-07-04T04:00:02Z",
+    "newest_story": "2026-07-04T23:43:13Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/live/2026/jul/03/argentina-v-cape-verde-world-cup-2026-last-32-live",
-      "headline": "Argentina v Cape Verde: World Cup 2026 last 32 – live",
-      "summary": "Argentina faces Cape Verde in World Cup 2026 last 32 as tournament's surprise package chases upset.",
-      "url": "https://www.theguardian.com/p/x5djkq",
-      "thumbnail": "https://media.guim.co.uk/999b2e168a291759dfa995633ce88c0e0cc378bc/1003_0_6622_5297/500.jpg",
-      "published": "2026-07-03T22:39:27Z",
-      "location": {
-        "name": "Cape Verde",
-        "lat": 16.7796,
-        "lng": -23.0418
-      },
-      "category": "sport",
-      "significance": 4,
-      "section": "football"
-    },
-    {
-      "id": "music/2026/jul/03/taylor-swift-travis-kelce-wedding-msg-new-york",
-      "headline": "Taylor Swift and Travis Kelce married at New York City’s Madison Square Garden",
-      "summary": "Taylor Swift and Travis Kelce married at Madison Square Garden with celebrity guests.",
-      "url": "https://www.theguardian.com/p/x5btz3",
-      "thumbnail": "https://media.guim.co.uk/38956b4d330d2d6af004e2278b5c872c51fe0ee6/106_0_4483_3586/500.jpg",
-      "published": "2026-07-03T23:42:53Z",
-      "location": {
-        "name": "New York City",
-        "lat": 40.758,
-        "lng": -73.9855
-      },
-      "category": "culture",
-      "significance": 3,
-      "section": "music"
-    },
-    {
-      "id": "football/2026/jul/03/england-mexico-match-timing",
-      "headline": "England’s game against Mexico to stay at 6pm local time, 1am UK on Monday",
-      "summary": "England's World Cup match against Mexico confirmed for 6pm local time despite thunderstorm warnings.",
-      "url": "https://www.theguardian.com/p/x5dy7f",
-      "thumbnail": "https://media.guim.co.uk/aa3d94e947918c3f6752976bd46d60eef6efb229/1113_0_6880_5504/500.jpg",
-      "published": "2026-07-03T23:26:43Z",
-      "location": {
-        "name": "Mexico City",
-        "lat": 19.4326,
-        "lng": -99.1332
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/jul/04/socceroos-australia-egypt-penalties-world-cup-last-32-reaction",
-      "headline": "‘We’re all here for him’: Socceroos rally around Lucas Herrington after last-32 shootout miss",
-      "summary": "Australia eliminated from World Cup 2026 after penalty shootout loss to Egypt in Dallas.",
-      "url": "https://www.theguardian.com/p/x5dc46",
-      "thumbnail": "https://media.guim.co.uk/084fe89903e53259aa0f9b0ea0cd73dcae5ffb74/441_0_2500_2000/500.jpg",
-      "published": "2026-07-03T22:53:18Z",
-      "location": {
-        "name": "Dallas",
-        "lat": 32.7767,
-        "lng": -96.797
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "politics/2026/jul/03/starmer-warns-burnham-he-cannot-spend-less-time-on-diplomacy",
-      "headline": "Starmer warns Burnham he cannot spend less time on diplomacy",
-      "summary": "PM Starmer warns successor Burnham diplomacy demands cannot be reduced in resignation interview.",
-      "url": "https://www.theguardian.com/p/x5dm4v",
-      "thumbnail": "https://media.guim.co.uk/40a9a3e7e235b5285d86ccc8a816cd2ae5a7fb31/723_0_5145_4115/500.jpg",
-      "published": "2026-07-03T22:52:59Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "australia-news/2026/jul/03/five-great-reads-polar-expedition-zohran-mamdani-david-sedaris",
-      "headline": "Five Great Reads: the polar expedition racing against time, David Sedaris freaks out about Duolingo, and a doom metal Orthodox priest",
-      "summary": "Guardian Australia's weekly curated selection of essential reads and feature articles.",
-      "url": "https://www.theguardian.com/p/x5d66z",
-      "thumbnail": "https://media.guim.co.uk/37bf0b3462075f4084c61d243c7c30181b562dfc/474_0_4152_3322/500.jpg",
-      "published": "2026-07-03T22:46:00Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "australia-news"
-    },
     {
       "id": "news/ng-interactive/2026/jul/04/us-250-britain-special-relationship",
       "headline": "As the US marks 250, does the special relationship still exist – or is the UK just irrelevant?",
@@ -1366,6 +1270,54 @@
       "category": "sport",
       "significance": 2,
       "section": "sport"
+    },
+    {
+      "id": "australia-news/live/2026/jul/05/australia-news-live-albanese-labor-nsw-h5-bird-flu-angus-taylor-liberal-coalition-pauline-hanson-ntwnfb",
+      "headline": "Australia news live: Dan Tehan says Liberals ‘not entertaining’ idea of coalition with One Nation; first east coast bird flu case confirmed",
+      "summary": "Liberal party rejects One Nation coalition; first east coast bird flu case confirmed in Australia.",
+      "url": "https://www.theguardian.com/p/x5evde",
+      "thumbnail": "https://media.guim.co.uk/ca9e18aa01860403e1969d948ade490aa9214d21/583_204_2260_1808/500.jpg",
+      "published": "2026-07-04T23:43:13Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "us-news/2026/jul/04/trump-speech-dc-evacuation-thunderstorm",
+      "headline": "Evacuation disrupts Trump’s planned DC speech after threat of thunderstorm",
+      "summary": "Trump's DC speech evacuated due to thunderstorm threat during 250th birthday celebration.",
+      "url": "https://www.theguardian.com/p/x5evjt",
+      "thumbnail": "https://media.guim.co.uk/ce8a4e6fcd753e5bb813fc80a23b6ec6fa5afcb3/208_0_7200_5760/500.jpg",
+      "published": "2026-07-04T23:38:25Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/jul/05/paraguay-france-last-16-world-cup-match-report",
+      "headline": "Mbappé spot-on to take France past stubborn Paraguay into World Cup quarter-finals",
+      "summary": "Mbappé scores penalty as France beats Paraguay 1-0 in World Cup last-16 match.",
+      "url": "https://www.theguardian.com/p/x5djg2",
+      "thumbnail": "https://media.guim.co.uk/83736c005bab1e2814bf911bbe957c2491d36c48/0_0_6254_5004/500.jpg",
+      "published": "2026-07-04T23:18:33Z",
+      "location": {
+        "name": "Philadelphia",
+        "lat": 39.9526,
+        "lng": -75.1652
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
     }
   ]
 }
