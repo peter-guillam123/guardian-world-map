@@ -1,236 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-07-04T10:23:06.007Z",
-    "story_count": 96,
-    "oldest_story": "2026-07-03T10:43:57Z",
-    "newest_story": "2026-07-04T10:22:33Z",
+    "generated_at": "2026-07-04T11:51:11.492Z",
+    "story_count": 93,
+    "oldest_story": "2026-07-03T13:00:28Z",
+    "newest_story": "2026-07-04T11:46:59Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "sport/live/2026/jul/03/wimbledon-2026-djokovic-sabalenka-sinner-gauff-osaka-live",
-      "headline": "Wimbledon 2026: Fonseca in action; Djokovic, Sabalenka and Sinner to come – live",
-      "summary": "Wimbledon 2026 continues with Djokovic, Sabalenka and Sinner competing at SW19.",
-      "url": "https://www.theguardian.com/p/x5dfxn",
-      "thumbnail": "https://media.guim.co.uk/e6036aaf6d86b51cc88d7e7d7d33d2c7aa6eae2e/238_0_2364_1892/500.jpg",
-      "published": "2026-07-03T11:49:36Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "sport"
-    },
-    {
-      "id": "fashion/2026/jul/03/all-those-lovely-floaty-clothes-how-penelope-keith-supercharged-70s-style-as-margo-leadbetter",
-      "headline": "‘All those lovely floaty clothes!’ How Penelope Keith supercharged 70s style as Margo Leadbetter",
-      "summary": "Penelope Keith, iconic 1970s sitcom star, dies at 86; remembered for role in The Good Life.",
-      "url": "https://www.theguardian.com/p/x5ddzy",
-      "thumbnail": "https://media.guim.co.uk/352e73a675b452a3bef050da313806878cb8b9ab/379_0_2093_1674/500.jpg",
-      "published": "2026-07-03T11:35:26Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "fashion"
-    },
-    {
-      "id": "world/2026/jul/03/spain-conservatives-pp-far-right-vox-party-andalucia-coalition-deal",
-      "headline": "Spain’s conservatives and far-right Vox increase ties with Andalucía coalition",
-      "summary": "Spain's conservatives and far-right Vox strengthen coalition ties in Andalucía, moving closer to national agreement.",
-      "url": "https://www.theguardian.com/p/x5dtce",
-      "thumbnail": "https://media.guim.co.uk/305ae688f225a5d7e8273a4677d28b6763f974bf/14_350_1092_874/500.jpg",
-      "published": "2026-07-03T11:34:42Z",
-      "location": {
-        "name": "Spain",
-        "lat": 40.4637,
-        "lng": -3.7492
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "uk-news/2026/jul/03/police-criticise-decision-allow-pubs-stay-open-england-match-world-cup",
-      "headline": "Police criticise decision to let pubs stay open until 5am for England match ",
-      "summary": "Police criticise decision to allow pubs open until 5am for England's World Cup match against Mexico.",
-      "url": "https://www.theguardian.com/p/x5dj8h",
-      "thumbnail": "https://media.guim.co.uk/5a53e36903f1151831e1166c40c765d9e2264130/829_0_4151_3321/500.jpg",
-      "published": "2026-07-03T11:34:17Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "business/2026/jul/03/starling-bank-cuts-130-jobs-boosts-ai-investment",
-      "headline": "Starling Bank to cut 130 jobs and boost investment in AI to reduce costs",
-      "summary": "Starling Bank cuts 130 jobs while increasing AI investment to reduce operational costs.",
-      "url": "https://www.theguardian.com/p/x5dtpn",
-      "thumbnail": "https://media.guim.co.uk/aabc8aa86d1c82de7141cddf79937a736d524b29/432_0_4320_3456/500.jpg",
-      "published": "2026-07-03T11:12:27Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "society/2026/jul/03/people-awaiting-hospital-treatment-three-weeks-notice-nhs-england",
-      "headline": "People awaiting hospital treatment to get three weeks’ notice under NHS England plans",
-      "summary": "NHS England plans to give hospital patients three weeks' notice of appointments, inspired by retail customer service.",
-      "url": "https://www.theguardian.com/p/x5dj2p",
-      "thumbnail": "https://media.guim.co.uk/434a1f8e6a22eb446c4c1c1643db3cdb817f71e2/521_0_6250_5000/500.jpg",
-      "published": "2026-07-03T11:09:08Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "society"
-    },
-    {
-      "id": "world/ng-interactive/2026/jul/03/international-rescuers-venezuela-earthquake-hellscape",
-      "headline": "‘I can only describe it as a war zone’: the rescuers navigating Venezuela’s post-quake hellscape",
-      "summary": "International rescue teams and thousands of volunteers search for survivors in Venezuela's post-earthquake ruins.",
-      "url": "https://www.theguardian.com/p/x5depz",
-      "thumbnail": "https://media.guim.co.uk/9cf96b47229f6cf4e1689db3553f3d757d420253/106_0_5842_4672/500.jpg",
-      "published": "2026-07-03T11:08:44Z",
-      "location": {
-        "name": "Venezuela",
-        "lat": 6.4238,
-        "lng": -66.5897
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "us-news/2026/jul/03/datacenter-recall-elections",
-      "headline": "US residents angry at datacenters ‘being shoved down our throats’ are recalling officials",
-      "summary": "US residents recall officials approving data centers, pushing for moratoriums amid community backlash.",
-      "url": "https://www.theguardian.com/p/x5d4v4",
-      "thumbnail": "https://media.guim.co.uk/ae2f775703d83c556943f025dda1fd97bfe3b4e5/64_0_3001_2400/500.jpg",
-      "published": "2026-07-03T11:00:27Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/jul/03/new-us-citizens-250th-anniversary",
-      "headline": "As the US turns 250, new citizens feel pride and unease: ‘It’s survival’",
-      "summary": "New US citizens express pride and unease as nation turns 250 amid Trump's immigration crackdown.",
-      "url": "https://www.theguardian.com/p/x5d94v",
-      "thumbnail": "https://media.guim.co.uk/06cbfea6d43ca0fffdc92755592761ea4e26ffa5/0_571_735_587/500.jpg",
-      "published": "2026-07-03T11:00:27Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "artanddesign/2026/jul/03/the-week-in-art",
-      "headline": "Seaside shenanigans, Newcastle grit and dinosaurs of the deep – the week in art",
-      "summary": "Weekly art roundup features seaside exhibitions, Leonora Carrington surrealism, and dinosaur displays.",
-      "url": "https://www.theguardian.com/p/x5d9af",
-      "thumbnail": "https://media.guim.co.uk/a2d0e335e80e8dea0c2dab4ca8f2bbc7d77a94bf/3103_1761_2357_1886/500.jpg",
-      "published": "2026-07-03T11:00:26Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "artanddesign"
-    },
-    {
-      "id": "commentisfree/2026/jul/03/patient-skin-colour-medical-care-ethnicity-pain-gap",
-      "headline": "This is how seriously a patient’s skin colour can affect the quality of medical care they receive",
-      "summary": "Guardian investigation reveals how patients' skin colour affects medical care quality amid ethnicity pain gap.",
-      "url": "https://www.theguardian.com/p/x5d2zt",
-      "thumbnail": "https://media.guim.co.uk/fcc69cdc63a552ef228828011ce409efcd46bc82/548_0_4406_3525/500.jpg",
-      "published": "2026-07-03T11:00:26Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "commentisfree"
-    },
-    {
-      "id": "music/2026/jul/03/add-to-playlist-the-high-camp-irish-trad-of-sexytadhg-and-the-weeks-best-new-tracks",
-      "headline": "Add to playlist: the high-camp Irish trad of SexyTadhg and the week’s best new tracks",
-      "summary": "Irish fiddler SexyTadhg blends traditional music with pop and disco in genre-fluid new tracks.",
-      "url": "https://www.theguardian.com/p/x5c2ny",
-      "thumbnail": "https://media.guim.co.uk/6d1cce82176f38ceb614d1eda612448be83ce60f/0_228_1365_1090/500.jpg",
-      "published": "2026-07-03T11:00:26Z",
-      "location": {
-        "name": "Carlow",
-        "lat": 52.8393,
-        "lng": -6.9271
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "music"
-    },
-    {
-      "id": "music/2026/jul/03/joan-jett-and-the-blackhearts-review-o2-academy-glasgow",
-      "headline": "Joan Jett and the Blackhearts review – rip-roaring rock history, but why is she playing Gary Glitter?",
-      "summary": "Joan Jett performs rip-roaring 45-year career retrospective in first UK headline show in 16 years.",
-      "url": "https://www.theguardian.com/p/x5djx7",
-      "thumbnail": "https://media.guim.co.uk/fcc33c079c2149ee7b7928a16dc3d6d6a7f95693/1274_0_6827_5464/500.jpg",
-      "published": "2026-07-03T10:49:08Z",
-      "location": {
-        "name": "Glasgow",
-        "lat": 55.8642,
-        "lng": -4.2518
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "music"
-    },
-    {
-      "id": "football/2026/jul/03/lamine-yamal-spain-world-cup-brother-keyne",
-      "headline": "Family ties and focus: Lamine Yamal carries burden of Spain’s World Cup dream",
-      "summary": "Lamine Yamal leads Spain's World Cup 2026 campaign with family support as the nation pursues a second title.",
-      "url": "https://www.theguardian.com/p/x5dhy4",
-      "thumbnail": "https://media.guim.co.uk/84bb331f9ef6ffdd6bcc6646bd37ee7377156dd8/270_481_2133_1705/500.jpg",
-      "published": "2026-07-03T10:43:57Z",
-      "location": {
-        "name": "Los Angeles",
-        "lat": 34.0522,
-        "lng": -118.2437
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
     {
       "id": "us-news/2026/jul/03/louisiana-criminal-indictment-halted-attorney-general-liz-murrill",
       "headline": "Louisiana court halts criminal indictment against state attorney general",
@@ -1542,6 +1318,182 @@
       "category": "politics",
       "significance": 3,
       "section": "us-news"
+    },
+    {
+      "id": "sport/live/2026/jul/04/wimbledon-2026-swiatek-rybakina-zverev-and-anisimova-in-action-on-day-six-live",
+      "headline": "Wimbledon 2026: Swiatek, Rybakina, Zverev and Anisimova in action on day six – live",
+      "summary": "Wimbledon 2026 day six: Swiatek, Rybakina, Zverev and Anisimova compete in third-round action.",
+      "url": "https://www.theguardian.com/p/x5dkex",
+      "thumbnail": "https://media.guim.co.uk/09b81861cac981440c16d34e2e1db47741a7fbe4/703_168_4243_3396/500.jpg",
+      "published": "2026-07-04T11:46:59Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "sport/live/2026/jul/04/british-grand-prix-sprint-race-qualifying-f1-formula-one-live",
+      "headline": "Kimi Antonelli wins British GP sprint race in front of Lewis Hamilton: F1 updates – live",
+      "summary": "Kimi Antonelli wins British GP sprint race with Lewis Hamilton finishing runner-up at Silverstone.",
+      "url": "https://www.theguardian.com/p/x5dkke",
+      "thumbnail": "https://media.guim.co.uk/aecbfc2028bb75a08e1a257c1e2cab6388a919d0/1279_0_6523_5219/500.jpg",
+      "published": "2026-07-04T11:43:31Z",
+      "location": {
+        "name": "Silverstone",
+        "lat": 52.0786,
+        "lng": -1.0169
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "world/2026/jul/04/el-obeid-aid-workers-sudan-war-drone-strikes",
+      "headline": "‘The situation is terrible’: aid workers on life in Sudanese city pummelled by drone strikes",
+      "summary": "El Obeid, Sudan becomes key battleground with drone strikes killing 20+ people including students.",
+      "url": "https://www.theguardian.com/p/x5dk3a",
+      "thumbnail": "https://media.guim.co.uk/44e2787e66b60b8c57b8311b2fe08158f3630873/289_0_4923_3939/500.jpg",
+      "published": "2026-07-04T11:28:18Z",
+      "location": {
+        "name": "El Obeid",
+        "lat": 13.185,
+        "lng": 25.216
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "world/2026/jul/03/pope-leo-lampedusa-visit-us-250th-anniversary-trump",
+      "headline": "Pope praises US history of welcoming migrants in implicit rebuke to Trump",
+      "summary": "Pope Leo praises US history of welcoming migrants in implicit rebuke to Trump policies.",
+      "url": "https://www.theguardian.com/p/x5dey8",
+      "thumbnail": "https://media.guim.co.uk/ed2884d55e646de8408862ed0e2501458ae55cf8/293_0_5906_4725/500.jpg",
+      "published": "2026-07-04T11:09:52Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "environment/2026/jul/04/merlin-app-birdsong-identification-ebird-biodiversity-conservation",
+      "headline": "Birdsong data from Merlin ID app to help global biodiversity project",
+      "summary": "Merlin bird ID app links to eBird platform to enhance global bird conservation monitoring.",
+      "url": "https://www.theguardian.com/p/x5cnk6",
+      "thumbnail": "https://media.guim.co.uk/6e44f8998787da0f2600cc4299b258c7085cb035/1068_305_2905_2325/500.jpg",
+      "published": "2026-07-04T11:00:13Z",
+      "location": {
+        "name": "Ithaca",
+        "lat": 42.4534,
+        "lng": -76.4735
+      },
+      "category": "tech",
+      "significance": 2,
+      "section": "environment"
+    },
+    {
+      "id": "football/2026/jul/04/wonderwall-england-world-cup-anthem",
+      "headline": "‘Emotional connection’: Wonderwall becomes England’s World Cup anthem ",
+      "summary": "Oasis 'Wonderwall' becomes England's World Cup anthem for Mexico 2026 tournament campaign.",
+      "url": "https://www.theguardian.com/p/x5djkc",
+      "thumbnail": "https://media.guim.co.uk/75b944995c46de6fd658bd774199cb95625a2867/660_0_3606_2884/500.jpg",
+      "published": "2026-07-04T11:00:12Z",
+      "location": {
+        "name": "Mexico City",
+        "lat": 19.4326,
+        "lng": -99.1332
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/jul/04/electric-cars-vehicles-united-states",
+      "headline": "As auto costs rise, will the US miss the golden age of electric vehicles?",
+      "summary": "Slate Auto, Bezos-backed EV startup launches affordable pickup truck at $24,950 base price.",
+      "url": "https://www.theguardian.com/p/x5d38p",
+      "thumbnail": "https://media.guim.co.uk/a7b9f674b601d40f35944d460de3f20c957d9d03/505_0_4511_3612/500.jpg",
+      "published": "2026-07-04T11:00:12Z",
+      "location": {
+        "name": "Detroit",
+        "lat": 42.3314,
+        "lng": -83.0458
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/jul/04/mexico-england-world-cup-2026-pace-football-altitude",
+      "headline": "Mexico’s slow football indicates England could join rare club of winners at the Azteca",
+      "summary": "Mexico's slow-tempo play suggests England could become rare winner at the Azteca stadium.",
+      "url": "https://www.theguardian.com/p/x5djqz",
+      "thumbnail": "https://media.guim.co.uk/cba5168a60316ab7413bfc6ca08e8197b973340e/500_0_5000_4000/500.jpg",
+      "published": "2026-07-04T11:00:12Z",
+      "location": {
+        "name": "Mexico City",
+        "lat": 19.4326,
+        "lng": -99.1332
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/jul/04/fourth-of-july-birthdays-250th-anniversary",
+      "headline": "Born on the Fourth of July: mixed feelings for people who share a birthday with the US’s 250th anniversary",
+      "summary": "US marks 250th independence anniversary while residents debate mixed feelings about July 4 birthdays.",
+      "url": "https://www.theguardian.com/p/x5d3jt",
+      "thumbnail": "https://media.guim.co.uk/afbda6d4eb2b2ad87a1df1239a6b2ec0272d892d/315_0_3151_2521/500.jpg",
+      "published": "2026-07-04T11:00:11Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "commentisfree/2026/jul/04/boris-johnson-my-levelling-up-idea-burnham-good-growth",
+      "headline": "Boris Johnson wasted my levelling up idea. Here’s how Burnham and his ‘good growth’ plan can do better ",
+      "summary": "Boris Johnson's levelling up idea could be better delivered through Burnham's 'good growth' plan.",
+      "url": "https://www.theguardian.com/p/x5dj6p",
+      "thumbnail": "https://media.guim.co.uk/d81491379d8007a3b793af5046a429830d68280d/64_0_3300_2640/500.jpg",
+      "published": "2026-07-04T11:00:11Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "commentisfree"
+    },
+    {
+      "id": "football/2026/jul/04/cape-verde-argentina-world-cup",
+      "headline": "Tiny Cape Verde steal the show against Argentina in a performance to last in World Cup lore",
+      "summary": "Cape Verde deliver heroic World Cup performance losing 3-2 to Argentina in memorable display.",
+      "url": "https://www.theguardian.com/p/x5dn8a",
+      "thumbnail": "https://media.guim.co.uk/102d95a44532e67a83ebfd27a96ef39cfabe6d1f/125_0_4164_3331/500.jpg",
+      "published": "2026-07-04T11:00:11Z",
+      "location": {
+        "name": "Mexico City",
+        "lat": 19.4326,
+        "lng": -99.1332
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
     }
   ]
 }
