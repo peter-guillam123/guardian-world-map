@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-04T21:36:14.371Z",
-    "story_count": 84,
-    "oldest_story": "2026-07-03T21:47:03Z",
-    "newest_story": "2026-07-04T21:30:08Z",
+    "generated_at": "2026-07-04T22:38:43.274Z",
+    "story_count": 85,
+    "oldest_story": "2026-07-03T22:39:27Z",
+    "newest_story": "2026-07-04T22:25:08Z",
     "window_hours": 24
   },
   "stories": [
@@ -22,22 +22,6 @@
       "category": "sport",
       "significance": 4,
       "section": "football"
-    },
-    {
-      "id": "us-news/2026/jul/03/great-american-state-washington-dc",
-      "headline": "‘A total disappointment’: revelers face unbearable heat at Great American State Fair",
-      "summary": "Great American State Fair faces low attendance and intense heat despite Trump's promotional hyperbole.",
-      "url": "https://www.theguardian.com/p/x5dy2g",
-      "thumbnail": "https://media.guim.co.uk/a75996280ce9be99a806f875eead2656bcf3ba25/410_0_5000_4000/500.jpg",
-      "published": "2026-07-03T21:47:03Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
     },
     {
       "id": "music/2026/jul/03/taylor-swift-travis-kelce-wedding-msg-new-york",
@@ -1350,6 +1334,38 @@
       "category": "culture",
       "significance": 2,
       "section": "world"
+    },
+    {
+      "id": "world/2026/jul/04/cricket-match-abandoned-after-charging-bull-stops-play",
+      "headline": "Cricket match abandoned after charging bull stops play",
+      "summary": "Cricket match abandoned after escaped 800kg bull charged playing field near Newcastle.",
+      "url": "https://www.theguardian.com/p/x5ev9n",
+      "thumbnail": "https://media.guim.co.uk/b65ce61243d5656834a1a7c217199432ab574e81/0_0_2148_1719/500.jpg",
+      "published": "2026-07-04T22:25:08Z",
+      "location": {
+        "name": "Newcastle",
+        "lat": 54.9783,
+        "lng": -1.6178
+      },
+      "category": "sport",
+      "significance": 1,
+      "section": "world"
+    },
+    {
+      "id": "sport/2026/jul/04/grigor-dimitrov-five-set-wimbledon-win-matteo-berrettini-tennis",
+      "headline": "Dimitrov ‘so happy’ to hold off Berrettini fightback in cathartic Wimbledon win",
+      "summary": "Dimitrov defeats Berrettini in five-set Wimbledon thriller to advance to fourth round.",
+      "url": "https://www.theguardian.com/p/x5dq8k",
+      "thumbnail": "https://media.guim.co.uk/efc2ba2196eb0909e61c357f039c5a6d1b3214ac/770_226_4481_3587/500.jpg",
+      "published": "2026-07-04T21:40:31Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
     }
   ]
 }
