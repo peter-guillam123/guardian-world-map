@@ -1,140 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-07-04T01:21:58.213Z",
-    "story_count": 102,
-    "oldest_story": "2026-07-03T01:33:50Z",
-    "newest_story": "2026-07-03T23:42:53Z",
+    "generated_at": "2026-07-04T05:06:32.120Z",
+    "story_count": 100,
+    "oldest_story": "2026-07-03T05:11:05Z",
+    "newest_story": "2026-07-04T05:00:07Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/live/2026/jul/03/fifa-world-cup-2026-live-switzerland-v-algeria-updates-sui-vs-alg-last-round-32-match-score-latest",
-      "headline": "Switzerland v Algeria: World Cup 2026 last 32 – live",
-      "summary": "Switzerland face Algeria in World Cup 2026 last-32 match in Vancouver.",
-      "url": "https://www.theguardian.com/p/x5bbb2",
-      "thumbnail": "https://media.guim.co.uk/23bed4c3599cd902eab0613eaccfba7535d31b31/175_0_2868_2294/500.jpg",
-      "published": "2026-07-03T02:03:45Z",
-      "location": {
-        "name": "Vancouver",
-        "lat": 49.2827,
-        "lng": -123.1207
-      },
-      "category": "sport",
-      "significance": 4,
-      "section": "football"
-    },
-    {
-      "id": "commentisfree/2026/jul/03/canberra-afghan-embassy-afghanistan-closure-ntwnfb",
-      "headline": "The closure of Canberra’s Afghan embassy is another blow to people on the brink of losing hope",
-      "summary": "Afghan embassy in Canberra closes following Taliban request, dimming resistance hub.",
-      "url": "https://www.theguardian.com/p/x5dc66",
-      "thumbnail": "https://media.guim.co.uk/c88ba5aa8ca48599556fbc480bdfcbc670bb102b/549_5_3143_2514/500.jpg",
-      "published": "2026-07-03T02:02:04Z",
-      "location": {
-        "name": "Canberra",
-        "lat": -35.2809,
-        "lng": 149.13
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "commentisfree"
-    },
-    {
-      "id": "football/ng-interactive/2026/jul/03/melting-hot-when-ireland-played-mexico-in-sweltering-1994-world-cup-clash",
-      "headline": "Melting hot! When Ireland played Mexico in 43C heat at 1994 World Cup",
-      "summary": "1994 World Cup Ireland-Mexico match played in extreme 43°C heat in Orlando.",
-      "url": "https://www.theguardian.com/p/x5deyj",
-      "thumbnail": "https://media.guim.co.uk/e27ed5b2dcda0714d9f6f56a697b1830bf1e150a/0_0_2500_2000/500.jpg",
-      "published": "2026-07-03T02:00:15Z",
-      "location": {
-        "name": "Orlando",
-        "lat": 28.5421,
-        "lng": -81.3723
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "football/blog/2026/jul/03/world-cup-japan-team-samurai-blue-losses-ange-postecoglou-comments",
-      "headline": "Postecoglou is exactly what Japan need after fifth-straight World Cup knockout loss",
-      "summary": "Japan loses fifth consecutive World Cup knockout game; coach change mooted.",
-      "url": "https://www.theguardian.com/p/x5dctx",
-      "thumbnail": "https://media.guim.co.uk/0a94bc4654f80c8b89c86c79ce059cd07b670305/457_0_2516_2013/500.jpg",
-      "published": "2026-07-03T01:59:37Z",
-      "location": {
-        "name": "Japan",
-        "lat": 36.2048,
-        "lng": 138.2529
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "world/2026/jul/03/bird-flu-australia-first-suspected-case-nsw-deadly-h5n1-virus",
-      "headline": "NSW records first suspected case of deadly H5 bird flu as virus reaches Australia’s east coast",
-      "summary": "NSW records first suspected H5N1 bird flu case in giant petrel near Newcastle.",
-      "url": "https://www.theguardian.com/p/x5dh3g",
-      "thumbnail": "https://media.guim.co.uk/344b059465e841130f939bdda72eefb9f48a63f8/0_0_5163_4131/500.jpg",
-      "published": "2026-07-03T01:52:00Z",
-      "location": {
-        "name": "Newcastle",
-        "lat": -32.9267,
-        "lng": 151.7841
-      },
-      "category": "health",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "football/live/2026/jul/02/portugal-v-croatia-world-cup-2026-last-32-live",
-      "headline": "Portugal 2-1 Croatia: World Cup 2026 last 32 – as it happened",
-      "summary": "Portugal beats Croatia 2-1 in World Cup last-32; VAR rules out late equaliser.",
-      "url": "https://www.theguardian.com/p/x5df6n",
-      "thumbnail": "https://media.guim.co.uk/cffcef1d697fe06d7d4d345602dce54db8e4d5a5/0_0_3373_2698/500.jpg",
-      "published": "2026-07-03T01:51:47Z",
-      "location": {
-        "name": "Toronto",
-        "lat": 43.6532,
-        "lng": -79.3832
-      },
-      "category": "sport",
-      "significance": 4,
-      "section": "football"
-    },
-    {
-      "id": "us-news/2026/jul/02/norovirus-cruise-ship-outbreak",
-      "headline": "More than 100 passengers on US cruise ship sick from suspected norovirus",
-      "summary": "Princess Cruises ship docked in San Francisco after 100+ passengers sicken from norovirus.",
-      "url": "https://www.theguardian.com/p/x5dh4v",
-      "thumbnail": "https://media.guim.co.uk/f9139d8bbe15c636ed3138c6470bbc155b738c06/29_0_4668_3734/500.jpg",
-      "published": "2026-07-03T01:42:35Z",
-      "location": {
-        "name": "San Francisco",
-        "lat": 37.7749,
-        "lng": -122.4194
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "music/2026/jul/03/dont-kill-music-anthony-albaneses-favourite-bands-beg-pm-to-stop-ai-companies-from-stealing-their-work",
-      "headline": "‘Don’t kill music’: Anthony Albanese’s favourite bands beg PM to stop AI companies from stealing their work",
-      "summary": "Australian musicians oppose government AI deal allowing tech firms to scrape creative work.",
-      "url": "https://www.theguardian.com/p/x5dbcv",
-      "thumbnail": "https://media.guim.co.uk/5abb683a03e205e76280796cc89ab5d1ba1d7071/0_451_2000_1599/500.jpg",
-      "published": "2026-07-03T01:33:50Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "tech",
-      "significance": 2,
-      "section": "music"
-    },
     {
       "id": "world/ng-interactive/2026/jul/03/kill-zones-drone-nets-journey-ukraine-fortress-belt",
       "headline": "Kill zones and drone nets: a journey through Ukraine’s fortress belt",
@@ -294,54 +166,6 @@
       "category": "sport",
       "significance": 2,
       "section": "football"
-    },
-    {
-      "id": "world/2026/jul/03/ukraine-war-briefing-both-sides-vow-to-escalate-fighting-after-russias-deadly-kyiv-barrage",
-      "headline": "Ukraine war briefing: Both sides vow to escalate fighting after Russia’s deadly Kyiv barrage",
-      "summary": "Russia's deadly Kyiv barrage kills 27 as Ukraine and Russia vow continued escalation after day 1,591.",
-      "url": "https://www.theguardian.com/p/x5dgay",
-      "thumbnail": "https://media.guim.co.uk/7cb4515ef77f5d32d1342fe08b2e7ca7b39323d3/419_0_4080_3264/500.jpg",
-      "published": "2026-07-03T05:05:04Z",
-      "location": {
-        "name": "Kyiv",
-        "lat": 50.4501,
-        "lng": 30.5234
-      },
-      "category": "conflict",
-      "significance": 4,
-      "section": "world"
-    },
-    {
-      "id": "world/2026/jul/03/spyware-used-against-mep-investigating-pegasus-abuses-report-finds",
-      "headline": "Spyware used against MEP investigating Pegasus abuses, report finds",
-      "summary": "NSO Group spyware used against EU parliament member investigating Pegasus abuses.",
-      "url": "https://www.theguardian.com/p/x5db7y",
-      "thumbnail": "https://media.guim.co.uk/fe9b4670444c5ad2040059d88e63f2b19d354f0c/289_0_2885_2308/500.jpg",
-      "published": "2026-07-03T05:00:20Z",
-      "location": {
-        "name": "Brussels",
-        "lat": 50.8503,
-        "lng": 4.3517
-      },
-      "category": "tech",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "world/2026/jul/03/norway-fans-viking-row-world-cup",
-      "headline": "‘Bigger than football’: Norway fans’ Viking row makes waves at World Cup",
-      "summary": "Norwegian fans' Viking rowing choreography becomes viral phenomenon at World Cup 2026.",
-      "url": "https://www.theguardian.com/p/x5d8nb",
-      "thumbnail": "https://media.guim.co.uk/94ee55855049ebfa96748d7f7ff688a09cde7b4b/351_0_3782_3025/500.jpg",
-      "published": "2026-07-03T05:00:19Z",
-      "location": {
-        "name": "Norway",
-        "lat": 60.472,
-        "lng": 8.4689
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "world"
     },
     {
       "id": "environment/2026/jul/03/weather-tracker-heatwave-breaks-june-temperature-records-across-europe",
@@ -1638,6 +1462,150 @@
       "category": "culture",
       "significance": 1,
       "section": "australia-news"
+    },
+    {
+      "id": "news/ng-interactive/2026/jul/04/us-250-britain-special-relationship",
+      "headline": "As the US marks 250, does the special relationship still exist – or is the UK just irrelevant?",
+      "summary": "Analysis of US-UK special relationship as America marks 250th anniversary amid Trump's criticisms.",
+      "url": "https://www.theguardian.com/p/x5df32",
+      "thumbnail": "https://media.guim.co.uk/2d17f770a6b21da6e3e86a73578eb7ec1cd96ede/660_156_3907_3123/500.jpg",
+      "published": "2026-07-04T05:00:07Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "news"
+    },
+    {
+      "id": "commentisfree/2026/jul/04/britain-stories-arts-funding-dear-england-sherwood",
+      "headline": "Britain has so many stories. The reason we fund the arts together is so we can tell them ",
+      "summary": "Playwright James Graham defends public arts funding as essential to British storytelling.",
+      "url": "https://www.theguardian.com/p/x5d94h",
+      "thumbnail": "https://media.guim.co.uk/372c92038b5b3c1e884a6ab98849fe4708a726b2/0_0_2500_2000/500.jpg",
+      "published": "2026-07-04T05:00:07Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "commentisfree"
+    },
+    {
+      "id": "uk-news/2026/jul/04/cornwall-van-dwellers-face-homelessness-council-crackdown",
+      "headline": "Cornwall van dwellers face homelessness amid council crackdown",
+      "summary": "Cornwall van dwellers face homelessness as council cracks down on caravan planning infringements.",
+      "url": "https://www.theguardian.com/p/x5d9v8",
+      "thumbnail": "https://media.guim.co.uk/b857eb4cfdc5fab68877fd5c69b899b4a4af8895/0_0_10459_8367/500.jpg",
+      "published": "2026-07-04T05:00:06Z",
+      "location": {
+        "name": "Cornwall",
+        "lat": 50.4857,
+        "lng": -4.7597
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "us-news/2026/jul/04/america-250-anniversary-photos-civil-rights-moon-landing-9-11-gold-rush",
+      "headline": "Burning flags, busty blondes and bison skulls: 48 photographs that capture America at 250",
+      "summary": "Photography exhibition showcases 48 images capturing America's 250-year history and mythology.",
+      "url": "https://www.theguardian.com/p/x58g6c",
+      "thumbnail": "https://media.guim.co.uk/faa71270552b7c9adbc84f337ecc491f242a93e6/0_22_3000_2399/500.jpg",
+      "published": "2026-07-04T05:00:04Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "environment/2026/jul/04/country-diary-our-pond-is-a-year-old-already-dragonflies-are-emerging",
+      "headline": "Country diary: Our pond is a year old – already dragonflies are emerging",
+      "summary": "Country diary notes dragonflies emerging from new pond in Hertfordshire after one year.",
+      "url": "https://www.theguardian.com/p/x5andm",
+      "thumbnail": "https://media.guim.co.uk/dc71983703a5ff009b50b5ad31e4eb0af005c310/0_155_1800_1440/500.jpg",
+      "published": "2026-07-04T04:30:03Z",
+      "location": {
+        "name": "Hitchin",
+        "lat": 51.8206,
+        "lng": -0.2791
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "environment"
+    },
+    {
+      "id": "football/2026/jul/04/cape-verde-argentina-world-cup-last-32-reaction-quotes",
+      "headline": "Cape Verde exit World Cup with heads held high: ‘We did our best and we did it with bravery’",
+      "summary": "Cape Verde exits World Cup with 3-2 defeat to Argentina in spirited Last 32 performance.",
+      "url": "https://www.theguardian.com/p/x5dkt4",
+      "thumbnail": "https://media.guim.co.uk/023bed6eded8fa1c08958944dfc41da6b67b68c5/539_0_5391_4313/500.jpg",
+      "published": "2026-07-04T04:19:33Z",
+      "location": {
+        "name": "Miami",
+        "lat": 25.7617,
+        "lng": -80.1918
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "australia-news/2026/jul/04/chris-minns-admits-nsw-labor-needs-to-climb-everest-to-stay-in-power-as-protesters-interrupt-state-conference-ntwnfb",
+      "headline": "Chris Minns admits NSW Labor needs to ‘climb Everest’ to stay in power as protesters interrupt state conference",
+      "summary": "NSW Premier Minns warns Labor must 'climb Everest' to retain power amid One Nation threat.",
+      "url": "https://www.theguardian.com/p/x5dt5t",
+      "thumbnail": "https://media.guim.co.uk/f701d4a39eb16fdd66224d12974c7a8be0e18828/15_0_4556_3646/500.jpg",
+      "published": "2026-07-04T04:15:38Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "world/2026/jul/04/malta-murder-trial-daphne-caruana-galizia-journalist",
+      "headline": "Malta’s ‘trial of the century’ revives interest in murder of Daphne Caruana Galizia",
+      "summary": "Malta's trial of century revives interest in 2017 murder of investigative journalist Caruana Galizia.",
+      "url": "https://www.theguardian.com/p/x5dj8y",
+      "thumbnail": "https://media.guim.co.uk/61012d78257a9bf34e983fa93c70bc8a78fad9c0/331_0_3158_2527/500.jpg",
+      "published": "2026-07-04T04:00:02Z",
+      "location": {
+        "name": "Valletta",
+        "lat": 35.8989,
+        "lng": 14.5146
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "commentisfree/2026/jul/04/fight-beaches-real-villain-europe-overtourism-big-business",
+      "headline": "Fight them for the beaches: the real villain of Europe’s overtourism is big business",
+      "summary": "Overtourism in Europe driven by big business privatizing coastlines, displacing local communities.",
+      "url": "https://www.theguardian.com/p/x5cntj",
+      "thumbnail": "https://media.guim.co.uk/8837cc615a1ae604578239c111702511054fbfa3/610_0_6139_4912/500.jpg",
+      "published": "2026-07-04T04:00:02Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "commentisfree"
     }
   ]
 }
