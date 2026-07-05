@@ -1,92 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-07-05T05:44:39.263Z",
-    "story_count": 84,
-    "oldest_story": "2026-07-04T07:00:06Z",
-    "newest_story": "2026-07-05T05:26:58Z",
+    "generated_at": "2026-07-05T08:33:05.602Z",
+    "story_count": 82,
+    "oldest_story": "2026-07-04T09:33:34Z",
+    "newest_story": "2026-07-05T08:20:29Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "global-development/2026/jul/04/overseas-education-project-for-women-and-girls-axed-by-uk-after-two-years",
-      "headline": "Overseas education project for women and girls axed by UK after two years ",
-      "summary": "UK government axes SHEFE programme aimed at keeping 1m girls in school across Africa, Asia, Middle East.",
-      "url": "https://www.theguardian.com/p/x5c74j",
-      "thumbnail": "https://media.guim.co.uk/8fe3bfd9209ce4fc803c25bb4ed0fe3aa3314837/0_0_2497_1996/500.jpg",
-      "published": "2026-07-04T08:00:08Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "global-development"
-    },
-    {
-      "id": "football/2026/jul/04/england-survival-mexico-world-cup-2026-thomas-tuchel",
-      "headline": "Survival is key for England in epic test or it will be a Mexican wave goodbye",
-      "summary": "England faces high-altitude challenge against Mexico at Azteca Stadium in World Cup 2026 knockout stage.",
-      "url": "https://www.theguardian.com/p/x5dka2",
-      "thumbnail": "https://media.guim.co.uk/a45332910ef1f8c0fa242252d85fab9db440c75e/132_0_6231_4985/500.jpg",
-      "published": "2026-07-04T07:00:08Z",
-      "location": {
-        "name": "Mexico City",
-        "lat": 19.4326,
-        "lng": -99.1332
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "sport/2026/jul/04/cycling-tour-de-france-paul-seixas-tadej-pogacar-jonas-vingegaard",
-      "headline": "Boy who would be king: Seixas carries weight of a nation at Tour de France",
-      "summary": "Teenage debutant Paul Seixas challenges Pogacar and Vingegaard at Tour de France 2026.",
-      "url": "https://www.theguardian.com/p/x5djap",
-      "thumbnail": "https://media.guim.co.uk/b89aabcd0690180a06394459466a8edd8608294e/677_1_3014_2411/500.jpg",
-      "published": "2026-07-04T07:00:07Z",
-      "location": {
-        "name": "France",
-        "lat": 46.2276,
-        "lng": 2.2137
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "sport/2026/jul/04/england-home-advantage-australia-t20-world-cup-final-cricket",
-      "headline": "England pin hopes on home advantage to beat Australia in T20 World Cup final ",
-      "summary": "England women's cricket team seek home advantage at Lord's to defeat Australia in T20 World Cup final.",
-      "url": "https://www.theguardian.com/p/x5dj69",
-      "thumbnail": "https://media.guim.co.uk/d59839c1ed217d6f088d881ced736b1809e834ea/793_0_3966_3173/500.jpg",
-      "published": "2026-07-04T07:00:07Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "sport"
-    },
-    {
-      "id": "football/2026/jul/04/brazil-carlo-ancelotti-world-cup",
-      "headline": "‘An incredible man’: how Carlo Ancelotti has turned Brazil into potential World Cup winners",
-      "summary": "Carlo Ancelotti's man-management transforms Brazil into World Cup 2026 contenders after managerial turmoil.",
-      "url": "https://www.theguardian.com/p/x5de5x",
-      "thumbnail": "https://media.guim.co.uk/af361441fbe8a8f82368ad5134dc1eada4a73a37/535_0_4203_3362/500.jpg",
-      "published": "2026-07-04T07:00:06Z",
-      "location": {
-        "name": "Brazil",
-        "lat": -14.235,
-        "lng": -51.9253
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
     {
       "id": "sport/live/2026/jul/04/australia-vs-ireland-wallabies-nations-championship-rugby-union-international-aus-v-ire-live-updates",
       "headline": "Australia v Ireland: Nations Championship rugby union international – live",
@@ -1350,6 +1270,54 @@
       "category": "economy",
       "significance": 2,
       "section": "environment"
+    },
+    {
+      "id": "world/2026/jul/05/why-viktor-orban-favourite-thinktank-is-in-crisis",
+      "headline": "‘Attack on civil society’: why Viktor Orbán’s favourite thinktank is in crisis",
+      "summary": "Hungary's new PM launches investigation into Orbán-linked Brussels thinktank MCC.",
+      "url": "https://www.theguardian.com/p/x5d36m",
+      "thumbnail": "https://media.guim.co.uk/df9f65875c6ff1e2af3b27a9e4bdd941155084d8/126_0_3780_3024/500.jpg",
+      "published": "2026-07-05T08:20:29Z",
+      "location": {
+        "name": "Brussels",
+        "lat": 50.8503,
+        "lng": 4.3517
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "culture/2026/jul/05/honest-playlist-leah-williamson-england-arsenal-norah-jones-lightning-seeds-luther-vandross",
+      "headline": "‘Justin Bieber was played so much in the changing room’: Leah Williamson’s honest playlist",
+      "summary": "England footballer Leah Williamson discusses her music playlist and childhood favourites.",
+      "url": "https://www.theguardian.com/p/x5at8a",
+      "thumbnail": "https://media.guim.co.uk/bc12ec0f465b5121fe8a3dc2248d2de32c5c70d5/1119_0_6475_5183/500.jpg",
+      "published": "2026-07-05T08:00:21Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "culture"
+    },
+    {
+      "id": "news/2026/jul/05/baptism-record-at-manchester-cathedral-offers-insight-into-black-mancunian-life-in-georgian-era-england",
+      "headline": "Baptism record at Manchester Cathedral offers insight into Black Mancunian life in Georgian-era England",
+      "summary": "Georgian-era baptism record reveals Black Mancunian life during abolitionist movement.",
+      "url": "https://www.theguardian.com/p/x5a6ep",
+      "thumbnail": "https://media.guim.co.uk/5902905e637137cbca04654eb30cf8baad419ca1/0_0_2866_2293/500.jpg",
+      "published": "2026-07-05T08:00:21Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "news"
     }
   ]
 }
