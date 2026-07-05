@@ -1,92 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-07-05T15:38:27.220Z",
-    "story_count": 82,
-    "oldest_story": "2026-07-04T15:49:03Z",
-    "newest_story": "2026-07-05T15:37:10Z",
+    "generated_at": "2026-07-05T16:44:41.322Z",
+    "story_count": 85,
+    "oldest_story": "2026-07-04T17:21:24Z",
+    "newest_story": "2026-07-05T16:38:03Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/live/2026/jul/04/canada-v-morocco-world-cup-2026-last-16-live",
-      "headline": "Canada v Morocco: World Cup 2026 last 16 – live",
-      "summary": "Canada faces Morocco in World Cup 2026 last 16 knockout match.",
-      "url": "https://www.theguardian.com/p/x5dkbq",
-      "thumbnail": "https://media.guim.co.uk/457f961475b69a7e1460fe9b5328166a7221e437/420_0_6851_5480/500.jpg",
-      "published": "2026-07-04T15:49:03Z",
-      "location": {
-        "name": "Canada",
-        "lat": 56.1304,
-        "lng": -106.3468
-      },
-      "category": "sport",
-      "significance": 4,
-      "section": "football"
-    },
-    {
-      "id": "sport/2026/jul/04/british-grand-prix-f1-qualifying-report",
-      "headline": "Kimi Antonelli takes pole for British F1 Grand Prix with Hamilton third on grid",
-      "summary": "Kimi Antonelli takes pole position at British F1 Grand Prix with Hamilton third on grid.",
-      "url": "https://www.theguardian.com/p/x5dk5e",
-      "thumbnail": "https://media.guim.co.uk/1b8b8ee50b79260bb3f5b6955b83842722a20491/437_124_3318_2655/500.jpg",
-      "published": "2026-07-04T16:42:38Z",
-      "location": {
-        "name": "Silverstone",
-        "lat": 52.0787,
-        "lng": -1.0169
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "sport"
-    },
-    {
-      "id": "us-news/2026/jul/04/wisconsin-children-drown",
-      "headline": "Three children dead after boat capsizes during storm in Wisconsin",
-      "summary": "Three children dead after boat capsizes during storm on Wisconsin's Geneva Lake.",
-      "url": "https://www.theguardian.com/p/x5dpp6",
-      "thumbnail": "https://media.guim.co.uk/c5ab4d5b295e7cfd5be11f966d66ed08ff837ea6/1616_0_7724_6183/500.jpg",
-      "published": "2026-07-04T16:04:01Z",
-      "location": {
-        "name": "Geneva Lake",
-        "lat": 42.5904,
-        "lng": -88.4012
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "us-news/2026/jul/04/us-independence-day-holidays-past",
-      "headline": "The US celebrated the end of a ‘long national nightmare’ as it turned 200. What about now?",
-      "summary": "Analysis of US bicentennial 250 years after independence and national trajectory.",
-      "url": "https://www.theguardian.com/p/x5dg8e",
-      "thumbnail": "https://media.guim.co.uk/8d0804f64b5656742a42b915551aa21fdc19e754/533_0_2850_2281/500.jpg",
-      "published": "2026-07-04T16:00:02Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "sport/2026/jul/04/fiji-wales-nations-championship-rugby-union-match-report",
-      "headline": "Jac Morgan double earns clinical Wales victory over Fiji in Nations Championship",
-      "summary": "Wales defeats Fiji 39-24 in Nations Championship rugby union match with Morgan double.",
-      "url": "https://www.theguardian.com/p/x5djcf",
-      "thumbnail": "https://media.guim.co.uk/711b4abcfb8bbf4a3104e98850968c0289b1c83b/55_0_6235_4989/500.jpg",
-      "published": "2026-07-04T15:57:12Z",
-      "location": {
-        "name": "Cardiff",
-        "lat": 51.4816,
-        "lng": -3.1791
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
     {
       "id": "sport/2026/jul/04/south-africa-england-nations-championship-rugby-union-match-report",
       "headline": "South Africa make statement with Nations Championship rout of England",
@@ -1318,6 +1238,134 @@
       "category": "conflict",
       "significance": 3,
       "section": "world"
+    },
+    {
+      "id": "politics/2026/jul/05/latest-allegations-nigel-farage-funding-reform",
+      "headline": "What are the latest allegations about Nigel Farage’s funding? ",
+      "summary": "Nigel Farage faces fresh funding allegations involving a convicted fraudster.",
+      "url": "https://www.theguardian.com/p/x5e43z",
+      "thumbnail": "https://media.guim.co.uk/1af3a0eb8900ed642af606ae52b7916276322998/829_106_4866_3893/500.jpg",
+      "published": "2026-07-05T16:38:03Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "us-news/2026/jul/05/fbi-seizes-600-drones-world-cup-games",
+      "headline": "FBI seized more than 600 drones flying over World Cup games in US cities",
+      "summary": "FBI seized over 600 drones flying over restricted World Cup airspace across US cities.",
+      "url": "https://www.theguardian.com/p/x5e4xz",
+      "thumbnail": "https://media.guim.co.uk/267a94e70e5680ca6119cc2a9d4faadacbbba722/20_0_7920_6336/500.jpg",
+      "published": "2026-07-05T16:36:15Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "football/2026/jul/05/freddy-the-german-world-cup-2026",
+      "headline": "Freddy the German: psyop, mirror to US rapacity or Tocqueville in a CR7 shirt?",
+      "summary": "World Cup breakout fan 'Freddy' identity debated as tournament's revealing character.",
+      "url": "https://www.theguardian.com/p/x5e47h",
+      "thumbnail": "https://media.guim.co.uk/1d5f5dc352c318ea00e70df1553a6e023143f09e/488_0_4885_3908/500.jpg",
+      "published": "2026-07-05T16:08:33Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "culture/2026/jul/05/a-richly-woven-tapestry-of-britains-medieval-heritage",
+      "headline": "A richly woven tapestry of Britain’s medieval heritage",
+      "summary": "Readers discuss Britain's medieval heritage beyond the Bayeux Tapestry.",
+      "url": "https://www.theguardian.com/p/x5d27g",
+      "thumbnail": "https://media.guim.co.uk/ced0a2f5fe9115d5d9589c308173af8cb60d8ec8/458_0_4583_3667/500.jpg",
+      "published": "2026-07-05T16:07:28Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "culture"
+    },
+    {
+      "id": "world/2026/jul/05/we-must-protect-palestinian-children-from-being-killed",
+      "headline": "We must protect Palestinian children from being killed",
+      "summary": "Unicef UK chief urges protection of Palestinian children from West Bank violence.",
+      "url": "https://www.theguardian.com/p/x5djk4",
+      "thumbnail": "https://media.guim.co.uk/65da59581ff744369089491a50a4b96d0b8d3eea/533_0_4583_3667/500.jpg",
+      "published": "2026-07-05T16:04:54Z",
+      "location": {
+        "name": "Ramallah",
+        "lat": 31.9454,
+        "lng": 35.1975
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "uk-news/2026/jul/05/raise-awareness-of-citizenship-for-children",
+      "headline": "Raise awareness of citizenship for children",
+      "summary": "UK citizenship rights awareness campaign needed following government policy changes.",
+      "url": "https://www.theguardian.com/p/x5d9gy",
+      "thumbnail": "https://media.guim.co.uk/bded3016cb1b831d5058bbcba40258e9d0a1dd72/393_0_3908_3127/500.jpg",
+      "published": "2026-07-05T16:04:24Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 1,
+      "section": "uk-news"
+    },
+    {
+      "id": "politics/2026/jul/05/keeping-it-clean-even-when-politics-is-dirty",
+      "headline": "Keeping it clean even when politics is dirty",
+      "summary": "Readers discuss ethics and accountability in political activism and governance.",
+      "url": "https://www.theguardian.com/p/x5e32a",
+      "thumbnail": "https://media.guim.co.uk/e6eb258f7b661c506018b58675abd6b0d44b7d46/0_0_4800_3840/500.jpg",
+      "published": "2026-07-05T16:04:10Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 1,
+      "section": "politics"
+    },
+    {
+      "id": "politics/2026/jul/05/problems-with-andy-burnhams-drive-for-devolution",
+      "headline": "Problems with Andy Burnham’s drive for devolution ",
+      "summary": "Andy Burnham's devolution plan faces criticism over NHS funding constraints.",
+      "url": "https://www.theguardian.com/p/x5deqm",
+      "thumbnail": "https://media.guim.co.uk/75fe3e78bf8d7438e444ae57b2fdf648894f821b/608_0_4236_3389/500.jpg",
+      "published": "2026-07-05T16:03:54Z",
+      "location": {
+        "name": "Manchester",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
     }
   ]
 }
