@@ -1,156 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-07-05T01:27:05.430Z",
+    "generated_at": "2026-07-05T05:44:39.263Z",
     "story_count": 84,
-    "oldest_story": "2026-07-04T04:00:02Z",
-    "newest_story": "2026-07-05T01:00:20Z",
+    "oldest_story": "2026-07-04T07:00:06Z",
+    "newest_story": "2026-07-05T05:26:58Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "news/ng-interactive/2026/jul/04/us-250-britain-special-relationship",
-      "headline": "As the US marks 250, does the special relationship still exist – or is the UK just irrelevant?",
-      "summary": "Analysis of US-UK special relationship as America marks 250th anniversary amid Trump's criticisms.",
-      "url": "https://www.theguardian.com/p/x5df32",
-      "thumbnail": "https://media.guim.co.uk/2d17f770a6b21da6e3e86a73578eb7ec1cd96ede/660_156_3907_3123/500.jpg",
-      "published": "2026-07-04T05:00:07Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "news"
-    },
-    {
-      "id": "commentisfree/2026/jul/04/britain-stories-arts-funding-dear-england-sherwood",
-      "headline": "Britain has so many stories. The reason we fund the arts together is so we can tell them ",
-      "summary": "Playwright James Graham defends public arts funding as essential to British storytelling.",
-      "url": "https://www.theguardian.com/p/x5d94h",
-      "thumbnail": "https://media.guim.co.uk/372c92038b5b3c1e884a6ab98849fe4708a726b2/0_0_2500_2000/500.jpg",
-      "published": "2026-07-04T05:00:07Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "commentisfree"
-    },
-    {
-      "id": "uk-news/2026/jul/04/cornwall-van-dwellers-face-homelessness-council-crackdown",
-      "headline": "Cornwall van dwellers face homelessness amid council crackdown",
-      "summary": "Cornwall van dwellers face homelessness as council cracks down on caravan planning infringements.",
-      "url": "https://www.theguardian.com/p/x5d9v8",
-      "thumbnail": "https://media.guim.co.uk/b857eb4cfdc5fab68877fd5c69b899b4a4af8895/0_0_10459_8367/500.jpg",
-      "published": "2026-07-04T05:00:06Z",
-      "location": {
-        "name": "Cornwall",
-        "lat": 50.4857,
-        "lng": -4.7597
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "uk-news"
-    },
-    {
-      "id": "us-news/2026/jul/04/america-250-anniversary-photos-civil-rights-moon-landing-9-11-gold-rush",
-      "headline": "Burning flags, busty blondes and bison skulls: 48 photographs that capture America at 250",
-      "summary": "Photography exhibition showcases 48 images capturing America's 250-year history and mythology.",
-      "url": "https://www.theguardian.com/p/x58g6c",
-      "thumbnail": "https://media.guim.co.uk/faa71270552b7c9adbc84f337ecc491f242a93e6/0_22_3000_2399/500.jpg",
-      "published": "2026-07-04T05:00:04Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "environment/2026/jul/04/country-diary-our-pond-is-a-year-old-already-dragonflies-are-emerging",
-      "headline": "Country diary: Our pond is a year old – already dragonflies are emerging",
-      "summary": "Country diary notes dragonflies emerging from new pond in Hertfordshire after one year.",
-      "url": "https://www.theguardian.com/p/x5andm",
-      "thumbnail": "https://media.guim.co.uk/dc71983703a5ff009b50b5ad31e4eb0af005c310/0_155_1800_1440/500.jpg",
-      "published": "2026-07-04T04:30:03Z",
-      "location": {
-        "name": "Hitchin",
-        "lat": 51.8206,
-        "lng": -0.2791
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "environment"
-    },
-    {
-      "id": "football/2026/jul/04/cape-verde-argentina-world-cup-last-32-reaction-quotes",
-      "headline": "Cape Verde exit World Cup with heads held high: ‘We did our best and we did it with bravery’",
-      "summary": "Cape Verde exits World Cup with 3-2 defeat to Argentina in spirited Last 32 performance.",
-      "url": "https://www.theguardian.com/p/x5dkt4",
-      "thumbnail": "https://media.guim.co.uk/023bed6eded8fa1c08958944dfc41da6b67b68c5/539_0_5391_4313/500.jpg",
-      "published": "2026-07-04T04:19:33Z",
-      "location": {
-        "name": "Miami",
-        "lat": 25.7617,
-        "lng": -80.1918
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "australia-news/2026/jul/04/chris-minns-admits-nsw-labor-needs-to-climb-everest-to-stay-in-power-as-protesters-interrupt-state-conference-ntwnfb",
-      "headline": "Chris Minns admits NSW Labor needs to ‘climb Everest’ to stay in power as protesters interrupt state conference",
-      "summary": "NSW Premier Minns warns Labor must 'climb Everest' to retain power amid One Nation threat.",
-      "url": "https://www.theguardian.com/p/x5dt5t",
-      "thumbnail": "https://media.guim.co.uk/f701d4a39eb16fdd66224d12974c7a8be0e18828/15_0_4556_3646/500.jpg",
-      "published": "2026-07-04T04:15:38Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "world/2026/jul/04/malta-murder-trial-daphne-caruana-galizia-journalist",
-      "headline": "Malta’s ‘trial of the century’ revives interest in murder of Daphne Caruana Galizia",
-      "summary": "Malta's trial of century revives interest in 2017 murder of investigative journalist Caruana Galizia.",
-      "url": "https://www.theguardian.com/p/x5dj8y",
-      "thumbnail": "https://media.guim.co.uk/61012d78257a9bf34e983fa93c70bc8a78fad9c0/331_0_3158_2527/500.jpg",
-      "published": "2026-07-04T04:00:02Z",
-      "location": {
-        "name": "Valletta",
-        "lat": 35.8989,
-        "lng": 14.5146
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "commentisfree/2026/jul/04/fight-beaches-real-villain-europe-overtourism-big-business",
-      "headline": "Fight them for the beaches: the real villain of Europe’s overtourism is big business",
-      "summary": "Overtourism in Europe driven by big business privatizing coastlines, displacing local communities.",
-      "url": "https://www.theguardian.com/p/x5cntj",
-      "thumbnail": "https://media.guim.co.uk/8837cc615a1ae604578239c111702511054fbfa3/610_0_6139_4912/500.jpg",
-      "published": "2026-07-04T04:00:02Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "commentisfree"
-    },
     {
       "id": "global-development/2026/jul/04/overseas-education-project-for-women-and-girls-axed-by-uk-after-two-years",
       "headline": "Overseas education project for women and girls axed by UK after two years ",
@@ -1350,6 +1206,150 @@
       "category": "sport",
       "significance": 3,
       "section": "football"
+    },
+    {
+      "id": "australia-news/2026/jul/05/nsw-labor-to-adopt-tougher-pokies-stance-as-sydney-inner-west-mayor-says-momentum-for-real-reform-unstoppable",
+      "headline": "NSW Labor toughens pokies stance as Sydney inner west mayor says ‘momentum for real reform unstoppable’",
+      "summary": "NSW Labor conference backs plan to remove 50% of poker machines within 10 years.",
+      "url": "https://www.theguardian.com/p/x5exfz",
+      "thumbnail": "https://media.guim.co.uk/904ec6763444d0e3730fae2ca4cb5642223b2ffe/666_0_4000_3200/500.jpg",
+      "published": "2026-07-05T05:26:58Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "food/2026/jul/05/appalachia-london-n1-restaurant-review-grace-dent",
+      "headline": "Appalachia, London N1: ‘The chicken is like Sunday dinner on performance steroids’ – restaurant review",
+      "summary": "New Appalachian restaurant near Old Street serves authentic regional American cooking.",
+      "url": "https://www.theguardian.com/p/x5c2j7",
+      "thumbnail": "https://media.guim.co.uk/43e19bac0d73bab76f344e338c68b379b3dd3490/285_0_6407_5126/500.jpg",
+      "published": "2026-07-05T05:00:18Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "food"
+    },
+    {
+      "id": "news/ng-interactive/2026/jul/05/nigel-farage-reform-uk-speculation-future",
+      "headline": "Could Farage quit? Questions swirl over Reform UK leader’s future",
+      "summary": "Nigel Farage faces pressure over funding, electoral losses, and potential leadership challenges.",
+      "url": "https://www.theguardian.com/p/x5dj5e",
+      "thumbnail": "https://media.guim.co.uk/a5912984d3c83fce8f075755256db7af119cff30/0_1182_4000_3200/500.jpg",
+      "published": "2026-07-05T05:00:18Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "news"
+    },
+    {
+      "id": "environment/2026/jul/05/europe-air-conditioning-culture-wars-heat-up",
+      "headline": "From ‘heat panic’ to ‘sacrificed at the altar’: Europe’s air conditioning culture wars heat up",
+      "summary": "Record European heatwave sparks political debate over air conditioning amid extreme temperatures.",
+      "url": "https://www.theguardian.com/p/x5df27",
+      "thumbnail": "https://media.guim.co.uk/dcadf3b03db59ef6f42f9705f1596f882d55f9f2/22_475_1907_1525/500.jpg",
+      "published": "2026-07-05T05:00:18Z",
+      "location": {
+        "name": "Berlin",
+        "lat": 52.52,
+        "lng": 13.405
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "environment"
+    },
+    {
+      "id": "business/2026/jul/05/make-ed-miliband-chancellor-ex-chief-treasury-adviser-nicholas-stern-tells-andy-burnham",
+      "headline": "Make Ed Miliband chancellor, ex-chief Treasury adviser tells Andy Burnham",
+      "summary": "Former Treasury adviser calls for Ed Miliband appointment as chancellor to revive economy.",
+      "url": "https://www.theguardian.com/p/x5czn8",
+      "thumbnail": "https://media.guim.co.uk/feb460fe605512da316ce9e02a8192b562564053/454_0_4164_3333/500.jpg",
+      "published": "2026-07-05T05:00:17Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "stage/2026/jul/05/older-generation-signing-up-for-circus-uk",
+      "headline": "Roll up, roll up! Older generation find joy and fearlessness in circus",
+      "summary": "Over-50s increasingly join circus schools for trapeze, juggling, and hula-hooping classes.",
+      "url": "https://www.theguardian.com/p/x5ddvq",
+      "thumbnail": "https://media.guim.co.uk/1b046b89e1cc92c40e463aaeb1a4b2e8ce1eb6f6/0_1175_5875_4700/500.jpg",
+      "published": "2026-07-05T05:00:17Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "stage"
+    },
+    {
+      "id": "environment/2026/jun/21/h5-bird-flu-australia-wildlife-emergency-explainer-h5n1",
+      "headline": "‘A genuine wildlife emergency’: everything you need to know about the arrival of H5 bird flu in Australia",
+      "summary": "H5N1 bird flu arrives on Australian mainland, raising concerns for wildlife and agriculture.",
+      "url": "https://www.theguardian.com/p/x5b53z",
+      "thumbnail": "https://media.guim.co.uk/097bd8c3d0042fd3eee4dcf63bdce122137d1f57/132_95_2334_1869/500.jpg",
+      "published": "2026-07-05T04:50:32Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "health",
+      "significance": 3,
+      "section": "environment"
+    },
+    {
+      "id": "australia-news/2026/jun/29/h5n1-bird-flu-australia-risk-to-pets",
+      "headline": "A deadly strain of bird flu has landed on Australian shores. Does it pose a risk to pets?",
+      "summary": "H5N1 bird flu poses potential risk to Australian pets; cases rare but may go undiagnosed.",
+      "url": "https://www.theguardian.com/p/x5ch88",
+      "thumbnail": "https://media.guim.co.uk/49c6a48237ef383b780ad0491d8002dcca17417a/867_695_2372_1898/500.jpg",
+      "published": "2026-07-05T04:49:15Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "environment/2026/jul/02/what-does-the-arrival-of-bird-flu-in-australia-mean-for-poultry-and-will-eggs-be-more-expensive",
+      "headline": "What does the arrival of bird flu in Australia mean for poultry and will eggs be more expensive?",
+      "summary": "H5N1 outbreak could push Australian egg prices above $10 per carton if poultry infected.",
+      "url": "https://www.theguardian.com/p/x5c6en",
+      "thumbnail": "https://media.guim.co.uk/a2f35406dac6d4d3723768f59946fd760217a7d3/0_0_2500_2000/500.jpg",
+      "published": "2026-07-05T04:45:36Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "environment"
     }
   ]
 }
