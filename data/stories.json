@@ -1,188 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-07-05T10:49:32.382Z",
-    "story_count": 78,
-    "oldest_story": "2026-07-04T11:00:11Z",
-    "newest_story": "2026-07-05T10:37:53Z",
+    "generated_at": "2026-07-05T12:08:33.176Z",
+    "story_count": 76,
+    "oldest_story": "2026-07-04T12:30:20Z",
+    "newest_story": "2026-07-05T12:04:17Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "sport/live/2026/jul/04/wimbledon-2026-swiatek-rybakina-zverev-and-anisimova-in-action-on-day-six-live",
-      "headline": "Wimbledon 2026: Swiatek, Rybakina, Zverev and Anisimova in action on day six – live",
-      "summary": "Wimbledon 2026 day six: Swiatek, Rybakina, Zverev and Anisimova compete in third-round action.",
-      "url": "https://www.theguardian.com/p/x5dkex",
-      "thumbnail": "https://media.guim.co.uk/09b81861cac981440c16d34e2e1db47741a7fbe4/703_168_4243_3396/500.jpg",
-      "published": "2026-07-04T11:46:59Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "sport/live/2026/jul/04/british-grand-prix-sprint-race-qualifying-f1-formula-one-live",
-      "headline": "Kimi Antonelli wins British GP sprint race in front of Lewis Hamilton: F1 updates – live",
-      "summary": "Kimi Antonelli wins British GP sprint race with Lewis Hamilton finishing runner-up at Silverstone.",
-      "url": "https://www.theguardian.com/p/x5dkke",
-      "thumbnail": "https://media.guim.co.uk/aecbfc2028bb75a08e1a257c1e2cab6388a919d0/1279_0_6523_5219/500.jpg",
-      "published": "2026-07-04T11:43:31Z",
-      "location": {
-        "name": "Silverstone",
-        "lat": 52.0786,
-        "lng": -1.0169
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "world/2026/jul/04/el-obeid-aid-workers-sudan-war-drone-strikes",
-      "headline": "‘The situation is terrible’: aid workers on life in Sudanese city pummelled by drone strikes",
-      "summary": "El Obeid, Sudan becomes key battleground with drone strikes killing 20+ people including students.",
-      "url": "https://www.theguardian.com/p/x5dk3a",
-      "thumbnail": "https://media.guim.co.uk/44e2787e66b60b8c57b8311b2fe08158f3630873/289_0_4923_3939/500.jpg",
-      "published": "2026-07-04T11:28:18Z",
-      "location": {
-        "name": "El Obeid",
-        "lat": 13.185,
-        "lng": 25.216
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "world/2026/jul/03/pope-leo-lampedusa-visit-us-250th-anniversary-trump",
-      "headline": "Pope praises US history of welcoming migrants in implicit rebuke to Trump",
-      "summary": "Pope Leo praises US history of welcoming migrants in implicit rebuke to Trump policies.",
-      "url": "https://www.theguardian.com/p/x5dey8",
-      "thumbnail": "https://media.guim.co.uk/ed2884d55e646de8408862ed0e2501458ae55cf8/293_0_5906_4725/500.jpg",
-      "published": "2026-07-04T11:09:52Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "environment/2026/jul/04/merlin-app-birdsong-identification-ebird-biodiversity-conservation",
-      "headline": "Birdsong data from Merlin ID app to help global biodiversity project",
-      "summary": "Merlin bird ID app links to eBird platform to enhance global bird conservation monitoring.",
-      "url": "https://www.theguardian.com/p/x5cnk6",
-      "thumbnail": "https://media.guim.co.uk/6e44f8998787da0f2600cc4299b258c7085cb035/1068_305_2905_2325/500.jpg",
-      "published": "2026-07-04T11:00:13Z",
-      "location": {
-        "name": "Ithaca",
-        "lat": 42.4534,
-        "lng": -76.4735
-      },
-      "category": "tech",
-      "significance": 2,
-      "section": "environment"
-    },
-    {
-      "id": "football/2026/jul/04/wonderwall-england-world-cup-anthem",
-      "headline": "‘Emotional connection’: Wonderwall becomes England’s World Cup anthem ",
-      "summary": "Oasis 'Wonderwall' becomes England's World Cup anthem for Mexico 2026 tournament campaign.",
-      "url": "https://www.theguardian.com/p/x5djkc",
-      "thumbnail": "https://media.guim.co.uk/75b944995c46de6fd658bd774199cb95625a2867/660_0_3606_2884/500.jpg",
-      "published": "2026-07-04T11:00:12Z",
-      "location": {
-        "name": "Mexico City",
-        "lat": 19.4326,
-        "lng": -99.1332
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "us-news/2026/jul/04/electric-cars-vehicles-united-states",
-      "headline": "As auto costs rise, will the US miss the golden age of electric vehicles?",
-      "summary": "Slate Auto, Bezos-backed EV startup launches affordable pickup truck at $24,950 base price.",
-      "url": "https://www.theguardian.com/p/x5d38p",
-      "thumbnail": "https://media.guim.co.uk/a7b9f674b601d40f35944d460de3f20c957d9d03/505_0_4511_3612/500.jpg",
-      "published": "2026-07-04T11:00:12Z",
-      "location": {
-        "name": "Detroit",
-        "lat": 42.3314,
-        "lng": -83.0458
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "football/2026/jul/04/mexico-england-world-cup-2026-pace-football-altitude",
-      "headline": "Mexico’s slow football indicates England could join rare club of winners at the Azteca",
-      "summary": "Mexico's slow-tempo play suggests England could become rare winner at the Azteca stadium.",
-      "url": "https://www.theguardian.com/p/x5djqz",
-      "thumbnail": "https://media.guim.co.uk/cba5168a60316ab7413bfc6ca08e8197b973340e/500_0_5000_4000/500.jpg",
-      "published": "2026-07-04T11:00:12Z",
-      "location": {
-        "name": "Mexico City",
-        "lat": 19.4326,
-        "lng": -99.1332
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "us-news/2026/jul/04/fourth-of-july-birthdays-250th-anniversary",
-      "headline": "Born on the Fourth of July: mixed feelings for people who share a birthday with the US’s 250th anniversary",
-      "summary": "US marks 250th independence anniversary while residents debate mixed feelings about July 4 birthdays.",
-      "url": "https://www.theguardian.com/p/x5d3jt",
-      "thumbnail": "https://media.guim.co.uk/afbda6d4eb2b2ad87a1df1239a6b2ec0272d892d/315_0_3151_2521/500.jpg",
-      "published": "2026-07-04T11:00:11Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "commentisfree/2026/jul/04/boris-johnson-my-levelling-up-idea-burnham-good-growth",
-      "headline": "Boris Johnson wasted my levelling up idea. Here’s how Burnham and his ‘good growth’ plan can do better ",
-      "summary": "Boris Johnson's levelling up idea could be better delivered through Burnham's 'good growth' plan.",
-      "url": "https://www.theguardian.com/p/x5dj6p",
-      "thumbnail": "https://media.guim.co.uk/d81491379d8007a3b793af5046a429830d68280d/64_0_3300_2640/500.jpg",
-      "published": "2026-07-04T11:00:11Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "commentisfree"
-    },
-    {
-      "id": "football/2026/jul/04/cape-verde-argentina-world-cup",
-      "headline": "Tiny Cape Verde steal the show against Argentina in a performance to last in World Cup lore",
-      "summary": "Cape Verde deliver heroic World Cup performance losing 3-2 to Argentina in memorable display.",
-      "url": "https://www.theguardian.com/p/x5dn8a",
-      "thumbnail": "https://media.guim.co.uk/102d95a44532e67a83ebfd27a96ef39cfabe6d1f/125_0_4164_3331/500.jpg",
-      "published": "2026-07-04T11:00:11Z",
-      "location": {
-        "name": "Mexico City",
-        "lat": 19.4326,
-        "lng": -99.1332
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
     {
       "id": "sport/live/2026/jul/04/england-v-india-second-t20-cricket-international-live",
       "headline": "England v India: second men’s T20 cricket international – live",
@@ -246,22 +70,6 @@
       "category": "health",
       "significance": 2,
       "section": "uk-news"
-    },
-    {
-      "id": "world/2026/jul/04/german-riot-police-clash-protesters-block-far-right-afd-conference",
-      "headline": "German riot police clash with protesters hoping to block far-right AfD conference",
-      "summary": "German police clash with protesters blocking far-right AfD party conference in Erfurt.",
-      "url": "https://www.theguardian.com/p/x5dzqb",
-      "thumbnail": "https://media.guim.co.uk/a71ec38d3b30a97c4eed9682737ae9562c7a20e1/239_0_3824_3060/500.jpg",
-      "published": "2026-07-04T12:06:36Z",
-      "location": {
-        "name": "Erfurt",
-        "lat": 50.9785,
-        "lng": 11.034
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "world"
     },
     {
       "id": "sport/live/2026/jul/04/south-africa-v-england-nations-championship-rugby-union-live",
@@ -1254,6 +1062,166 @@
       "category": "politics",
       "significance": 2,
       "section": "politics"
+    },
+    {
+      "id": "sport/live/2026/jul/05/tour-de-france-2026-stage-two-in-catalonia-cycling-live-updates",
+      "headline": "Tour de France 2026: stage two in Catalonia – live updates",
+      "summary": "Tour de France 2026 stage two: 168.5km coastal ride from Tarragona to Barcelona in Catalonia.",
+      "url": "https://www.theguardian.com/p/x5dkj8",
+      "thumbnail": "https://media.guim.co.uk/0eee25fd7850a0b51a6c66f4f4ce12b62c7096e9/0_0_5748_4597/500.jpg",
+      "published": "2026-07-05T12:04:17Z",
+      "location": {
+        "name": "Barcelona",
+        "lat": 41.3851,
+        "lng": 2.1734
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "sport"
+    },
+    {
+      "id": "us-news/2026/jul/05/republicans-democrats-party-colors",
+      "headline": "Why are Republicans red and Democrats blue?",
+      "summary": "Article explores origins of Republican red and Democratic blue party colors as surprisingly recent tradition.",
+      "url": "https://www.theguardian.com/p/x5df4n",
+      "thumbnail": "https://media.guim.co.uk/aca3cabcd6b1ce2200b321859222dfd43c74a4f9/0_0_3000_2400/500.jpg",
+      "published": "2026-07-05T12:00:27Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "science/2026/jul/05/majority-of-uk-smokers-wrongly-believe-vaping-is-as-harmful-as-cigarettes-experts-find",
+      "headline": "Majority of UK smokers wrongly believe vaping is as harmful as cigarettes, experts find",
+      "summary": "Study finds majority of UK smokers wrongly believe vaping is as harmful as cigarettes, hindering quit rates.",
+      "url": "https://www.theguardian.com/p/x5detx",
+      "thumbnail": "https://media.guim.co.uk/a8c083df952ff966868d4c06e9dd4da0fa335d1a/591_0_3661_2929/500.jpg",
+      "published": "2026-07-05T12:00:26Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "science"
+    },
+    {
+      "id": "us-news/2026/jul/05/ratepayer-protection-act-datacenters",
+      "headline": "Bipartisan bill fails to protect US consumers from datacenters’ true costs, critics warn",
+      "summary": "Bipartisan Ratepayer Protection Act fails to shield consumers from rising electricity costs from datacenters, critics warn.",
+      "url": "https://www.theguardian.com/p/x5de3e",
+      "thumbnail": "https://media.guim.co.uk/bcbf1fe4f8674605885b42ea37b0880b52aac717/624_0_4321_3456/500.jpg",
+      "published": "2026-07-05T12:00:26Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "sport/live/2026/jul/05/wimbledon-2026-djokovic-sabalenka-sinner-and-gauff-in-action-on-day-seven-live",
+      "headline": "Wimbledon 2026: Djokovic, Sabalenka, Sinner and Gauff in action on day seven – live",
+      "summary": "Wimbledon 2026 day seven: Djokovic, Sabalenka, Sinner and Gauff in action including Sabalenka vs Osaka on Centre Court.",
+      "url": "https://www.theguardian.com/p/x5dkje",
+      "thumbnail": "https://media.guim.co.uk/c40deb1acd7893cc0905cfc043ecc3d8c00ff9f8/415_0_4435_3550/500.jpg",
+      "published": "2026-07-05T11:59:08Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "sport"
+    },
+    {
+      "id": "stage/2026/jul/05/the-night-of-the-werewolves-live-review-fruit-market-hull",
+      "headline": "The Night of the Werewolves Live review – Traitors-esque immersive theatre is a lot of bawdy fun",
+      "summary": "The Night of the Werewolves immersive theatre at Fruit Market Hull offers audience-participation game of survival and smut.",
+      "url": "https://www.theguardian.com/p/x5e2pm",
+      "thumbnail": "https://media.guim.co.uk/751e8c73ab16318933b524a7d8b7a8bead048e40/856_0_4800_3840/500.jpg",
+      "published": "2026-07-05T11:23:59Z",
+      "location": {
+        "name": "Hull",
+        "lat": 53.743,
+        "lng": -0.337
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "stage"
+    },
+    {
+      "id": "us-news/2026/jul/05/micropenis-man-to-get-surgery",
+      "headline": "Man claiming world’s smallest penis says he’s booked enhancement surgery after public’s help",
+      "summary": "Man claiming world's smallest penis books enhancement surgery after successfully fundraising from online supporters.",
+      "url": "https://www.theguardian.com/p/x5dqk7",
+      "thumbnail": "https://media.guim.co.uk/ce2cd1b4737d069b71e929d5b10b91bf1600dafa/0_0_4367_3494/500.jpg",
+      "published": "2026-07-05T11:00:27Z",
+      "location": {
+        "name": "South Carolina",
+        "lat": 34.0007,
+        "lng": -81.1637
+      },
+      "category": "health",
+      "significance": 1,
+      "section": "us-news"
+    },
+    {
+      "id": "commentisfree/2026/jul/05/andy-burnham-polo-shirts-clarks-wallabees-style-prime-minister-manchester-no-10",
+      "headline": "Polo shirts, Clarks Wallabees, shorts: Burnham has finessed his style. Can he carry it to high office?",
+      "summary": "Andy Burnham's casual Manchester style may require wardrobe update if he becomes next UK prime minister.",
+      "url": "https://www.theguardian.com/p/x5ddnz",
+      "thumbnail": "https://media.guim.co.uk/f5362d5f69d92bfe46048e25b974070004c3c347/967_0_4847_3877/500.jpg",
+      "published": "2026-07-05T11:00:26Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "commentisfree"
+    },
+    {
+      "id": "environment/2026/jul/05/british-swallowtail-butterfly-distinct-subspecies-study-conservation",
+      "headline": "British swallowtail split from European cousins much earlier than thought, study finds",
+      "summary": "British swallowtail butterfly subspecies found distinct for 200,000 years, transforming Norfolk Broads conservation strategy.",
+      "url": "https://www.theguardian.com/p/x5bzjh",
+      "thumbnail": "https://media.guim.co.uk/f392dfa89d69539f01e8c6d70ab5de9751174a26/308_0_3135_2508/500.jpg",
+      "published": "2026-07-05T11:00:25Z",
+      "location": {
+        "name": "Norwich",
+        "lat": 52.6286,
+        "lng": 1.2973
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "environment"
+    },
+    {
+      "id": "lifeandstyle/2026/jul/05/dining-across-the-divide-david-janus",
+      "headline": "Dining across the divide: ‘I had an idea he was a Tommy Robinson fan and was thinking, Oh my God’",
+      "summary": "Dining across divide: English Democrats voter and retired tutor discuss political differences over flags and civic values.",
+      "url": "https://www.theguardian.com/p/x5avq3",
+      "thumbnail": "https://media.guim.co.uk/02d356a15880cda4702813f14a62e166b50d0bd1/1575_1972_4340_3472/500.jpg",
+      "published": "2026-07-05T11:00:25Z",
+      "location": {
+        "name": "York",
+        "lat": 53.9581,
+        "lng": -1.0873
+      },
+      "category": "politics",
+      "significance": 1,
+      "section": "lifeandstyle"
     }
   ]
 }
