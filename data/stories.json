@@ -1,76 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-07-05T12:08:33.176Z",
-    "story_count": 76,
-    "oldest_story": "2026-07-04T12:30:20Z",
-    "newest_story": "2026-07-05T12:04:17Z",
+    "generated_at": "2026-07-05T14:09:09.875Z",
+    "story_count": 82,
+    "oldest_story": "2026-07-04T14:13:50Z",
+    "newest_story": "2026-07-05T14:07:42Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "sport/live/2026/jul/04/england-v-india-second-t20-cricket-international-live",
-      "headline": "England v India: second men’s T20 cricket international – live",
-      "summary": "England faces India in second T20 cricket international at Old Trafford in Manchester.",
-      "url": "https://www.theguardian.com/p/x5dkhc",
-      "thumbnail": "https://media.guim.co.uk/2018705b6b5c568652bab12aa153b8ee0889b472/406_0_3997_3197/500.jpg",
-      "published": "2026-07-04T13:05:34Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4808,
-        "lng": -2.2426
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "football/2026/jul/04/aramco-world-cup-fifa-port-arthur-texas-houston",
-      "headline": "‘This is a hellhole’: Aramco makes its presence hurt in the shadow of the World Cup",
-      "summary": "Aramco refinery in Texas exposes residents to poisonous gases amid World Cup sponsorship.",
-      "url": "https://www.theguardian.com/p/x5df94",
-      "thumbnail": "https://media.guim.co.uk/a197b6e55372d33f0d0b815edca8dd5e4c8083fa/542_0_4331_3465/500.jpg",
-      "published": "2026-07-04T13:00:13Z",
-      "location": {
-        "name": "Port Arthur",
-        "lat": 29.3927,
-        "lng": -93.925
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "sport/live/2026/jul/04/eclipse-stakes-day-horse-racing-from-sandown-live",
-      "headline": "Eclipse Stakes day: horse racing from Sandown – live",
-      "summary": "Eclipse Stakes day horse racing event at Sandown Park in Surrey.",
-      "url": "https://www.theguardian.com/p/x5dzy5",
-      "thumbnail": "https://media.guim.co.uk/ededb946dc947f2393804617f626d08e503a0985/1767_841_3501_2801/500.jpg",
-      "published": "2026-07-04T12:57:20Z",
-      "location": {
-        "name": "Sandown",
-        "lat": 51.3711,
-        "lng": -0.3525
-      },
-      "category": "sport",
-      "significance": 1,
-      "section": "sport"
-    },
-    {
-      "id": "uk-news/2026/jul/04/three-year-old-injured-cambridgeshire-crocodile-enclosure-long-rehabilitation",
-      "headline": "Three-year-old injured in UK crocodile enclosure faces ‘long rehabilitation’",
-      "summary": "Three-year-old faces long rehabilitation after crocodile enclosure incident at UK zoo.",
-      "url": "https://www.theguardian.com/p/x5dzna",
-      "thumbnail": "https://media.guim.co.uk/fa4fbc26ca10b8a0d80b5dd2a551ab308168eaa8/453_0_4549_3640/500.jpg",
-      "published": "2026-07-04T12:30:20Z",
-      "location": {
-        "name": "Cambridgeshire",
-        "lat": 52.2,
-        "lng": -0.1
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "uk-news"
-    },
     {
       "id": "sport/live/2026/jul/04/south-africa-v-england-nations-championship-rugby-union-live",
       "headline": "South Africa v England: Nations Championship rugby union – live",
@@ -150,38 +86,6 @@
       "category": "politics",
       "significance": 2,
       "section": "us-news"
-    },
-    {
-      "id": "environment/2026/jul/04/trump-national-parks",
-      "headline": "Overcrowded and underfunded: Trump’s cuts to national parks threaten the US’s ‘best idea’",
-      "summary": "Trump budget cuts threaten overcrowded US national parks this summer.",
-      "url": "https://www.theguardian.com/p/x5daq6",
-      "thumbnail": "https://media.guim.co.uk/1b9961a976f5d117f007ea7310c5490e5831d9bf/544_0_5435_4348/500.jpg",
-      "published": "2026-07-04T14:00:15Z",
-      "location": {
-        "name": "Yosemite National Park",
-        "lat": 37.8651,
-        "lng": -119.5383
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "environment"
-    },
-    {
-      "id": "politics/2026/jul/04/burnham-will-change-no-10-boys-club-briefing-culture-says-lucy-powell",
-      "headline": "Burnham will change No 10 ‘boys club’ briefing culture, says Lucy Powell ",
-      "summary": "Lucy Powell calls for Burnham to end No 10 'boys club' culture.",
-      "url": "https://www.theguardian.com/p/x5de2j",
-      "thumbnail": "https://media.guim.co.uk/d0498786f5484b7ff7ee82bd38a3ea65c0ea0c66/538_0_2917_2334/500.jpg",
-      "published": "2026-07-04T14:00:14Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
     },
     {
       "id": "football/live/2026/jul/04/canada-v-morocco-world-cup-2026-last-16-live",
@@ -1222,6 +1126,198 @@
       "category": "politics",
       "significance": 1,
       "section": "lifeandstyle"
+    },
+    {
+      "id": "sport/live/2026/jul/05/british-grand-prix-formula-one-f1-silverstone-live-updates",
+      "headline": "British Grand Prix: Formula One – live updates",
+      "summary": "British Grand Prix F1 race underway at Silverstone with Antonelli on pole.",
+      "url": "https://www.theguardian.com/p/x5dkyt",
+      "thumbnail": "https://media.guim.co.uk/27ef51aa3f7897e5c5ebd5cbedb7eb4743bfcf33/1265_0_3771_3019/500.jpg",
+      "published": "2026-07-05T14:07:42Z",
+      "location": {
+        "name": "Silverstone",
+        "lat": 52.0786,
+        "lng": -1.0169
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "sport"
+    },
+    {
+      "id": "sport/live/2026/jul/05/england-v-australia-womens-t20-cricket-world-cup-final-live",
+      "headline": "England v Australia: Women’s T20 Cricket World Cup final – live",
+      "summary": "England face Australia in Women's T20 Cricket World Cup final at Lord's.",
+      "url": "https://www.theguardian.com/p/x5dky5",
+      "thumbnail": "https://media.guim.co.uk/01b5c9563c6cc46134a73aef951f41dec8113ae7/669_3260_4059_3247/500.jpg",
+      "published": "2026-07-05T14:03:02Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "sport"
+    },
+    {
+      "id": "society/2026/jul/05/autism-extreme-male-brain-simon-baron-cohen",
+      "headline": "Pioneer of ‘extreme male brain’ theory of autism now says phrase unhelpful",
+      "summary": "Prof Simon Baron-Cohen regrets 'extreme male brain' autism theory terminology.",
+      "url": "https://www.theguardian.com/p/x5dddy",
+      "thumbnail": "https://media.guim.co.uk/518019a3f318972b941454d422e1e39b901211db/2028_414_2306_1845/500.jpg",
+      "published": "2026-07-05T14:02:46Z",
+      "location": {
+        "name": "Cambridge",
+        "lat": 52.2043,
+        "lng": 0.1192
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "society"
+    },
+    {
+      "id": "australia-news/2026/jul/06/australian-aged-care-firm-accused-in-class-action-of-charging-residents-for-high-teas-and-classes-they-couldnt-use-ntwnfb",
+      "headline": "Australian aged care firm accused in class action of charging residents for high teas and classes they couldn’t use",
+      "summary": "Australian aged care firm Arcare faces class action over illegal resident fees.",
+      "url": "https://www.theguardian.com/p/x5dhag",
+      "thumbnail": "https://media.guim.co.uk/dc97bba51b9181fba50d8cb9c8438d9cc9c7424f/165_0_4100_3280/500.jpg",
+      "published": "2026-07-05T14:01:28Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "football/2026/jul/05/world-cup-schedule-today-how-to-watch-mexico-v-england-tv-channels-live-stream-sunday-july-5th",
+      "headline": "World Cup schedule today: How to watch Mexico v England, TV channels & live stream Sunday July 5th",
+      "summary": "Mexico face England in World Cup 2026 at Estadio Azteca today.",
+      "url": "https://www.theguardian.com/p/x5dmqq",
+      "thumbnail": "https://media.guim.co.uk/7b4bac7e75073bb97fac13e2e0175bb6d33890da/300_0_3000_2400/500.jpg",
+      "published": "2026-07-05T14:00:29Z",
+      "location": {
+        "name": "Mexico City",
+        "lat": 19.4326,
+        "lng": -99.1332
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "artanddesign/2026/jul/05/beth-mckillop-obituary",
+      "headline": "Beth McKillop obituary",
+      "summary": "Obituary of curator Beth McKillop, Korean art scholar and British Library fellow.",
+      "url": "https://www.theguardian.com/p/x5e3eh",
+      "thumbnail": "https://media.guim.co.uk/327f9d473f248205acae655d73ef29c769ca8135/0_42_479_383/master/479.jpg",
+      "published": "2026-07-05T13:49:10Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "artanddesign"
+    },
+    {
+      "id": "football/2026/jul/05/canada-co-hosted-the-world-cup-but-whose-party-was-it",
+      "headline": "Canada co-hosted the World Cup – but whose party was it?",
+      "summary": "Canada co-hosted World Cup 2026 but questions linger over domestic soccer future.",
+      "url": "https://www.theguardian.com/p/x5dn8e",
+      "thumbnail": "https://media.guim.co.uk/6e260ba278ec88369792e403663044013cac6cee/743_0_3750_3000/500.jpg",
+      "published": "2026-07-05T13:48:26Z",
+      "location": {
+        "name": "Toronto",
+        "lat": 43.6532,
+        "lng": -79.3832
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "music/2026/jul/05/kazuki-conducts-harmonium-review-john-adams-aaron-copland-joan-tower-florence-price-birmingham-symphony-hall",
+      "headline": "Kazuki conducts Harmonium review – John Adams’ wild ride centres an elegant showcase of US composers",
+      "summary": "Conductor Kazuki leads Harmonium at Birmingham Symphony Hall celebrating US composers.",
+      "url": "https://www.theguardian.com/p/x5e3a9",
+      "thumbnail": "https://media.guim.co.uk/331dbd930e873fc83b8e91cf9ddcda78381ff9f4/213_0_4320_3456/500.jpg",
+      "published": "2026-07-05T13:39:26Z",
+      "location": {
+        "name": "Birmingham",
+        "lat": 52.5099,
+        "lng": -1.8853
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "music"
+    },
+    {
+      "id": "us-news/2026/jul/05/gaza-protests-democrats-debate-on-tactics",
+      "headline": "Gaza protests against two Democrats spark outcry and debate on tactics",
+      "summary": "Gaza protests against Democratic candidates spark debate over activist tactics.",
+      "url": "https://www.theguardian.com/p/x5dyt3",
+      "thumbnail": "https://media.guim.co.uk/5ee57b17d2514957b4227c8ef736486e74d3c4a1/0_0_909_727/500.jpg",
+      "published": "2026-07-05T13:00:29Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "lifeandstyle/2026/jul/05/shot-by-a-robber-i-was-bleeding-out-on-the-way-to-hospital-and-terrified-the-doctors-would-leave-me-to-die",
+      "headline": "Shot by a robber, I was bleeding out on the way to hospital – and terrified the doctors would leave me to die",
+      "summary": "Venezuelan shooting victim recalls bleeding out after robbery in crisis-hit Caracas.",
+      "url": "https://www.theguardian.com/p/x57kea",
+      "thumbnail": "https://media.guim.co.uk/6e74a9559afbff17a57603563522b9319c26e627/250_0_3333_2667/500.jpg",
+      "published": "2026-07-05T13:00:29Z",
+      "location": {
+        "name": "Caracas",
+        "lat": 10.4806,
+        "lng": -66.9036
+      },
+      "category": "health",
+      "significance": 1,
+      "section": "lifeandstyle"
+    },
+    {
+      "id": "film/2026/jul/05/the-story-of-documentary-film-the-1980s-review-mark-cousins-educates-and-intrigues-once-more",
+      "headline": "The Story of Documentary Film (The 1980s) review – Mark Cousins educates and intrigues once more",
+      "summary": "Mark Cousins' documentary history traces 1980s filmmaking at Karlovy Vary festival.",
+      "url": "https://www.theguardian.com/p/x5ccpb",
+      "thumbnail": "https://media.guim.co.uk/2b89c5f6c346f9b29819438b601f6771e1de3c22/74_0_2634_2107/500.jpg",
+      "published": "2026-07-05T13:00:27Z",
+      "location": {
+        "name": "Karlovy Vary",
+        "lat": 50.2289,
+        "lng": 12.8702
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "film"
+    },
+    {
+      "id": "environment/2026/jul/05/readers-recall-heatwave-1976-uk-weather-climate",
+      "headline": "Empty reservoirs, ladybirds and sunstroke: remembering the UK heatwave of 1976",
+      "summary": "UK June record heat reaches 37.7C as readers recall devastating 1976 heatwave.",
+      "url": "https://www.theguardian.com/p/x5c35y",
+      "thumbnail": "https://media.guim.co.uk/6511e7402ab4119b967fc7a10f0c4589028ba722/45_0_421_337/master/421.jpg",
+      "published": "2026-07-05T13:00:27Z",
+      "location": {
+        "name": "United Kingdom",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "environment"
     }
   ]
 }
