@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-04T23:44:11.405Z",
-    "story_count": 82,
+    "generated_at": "2026-07-05T01:27:05.430Z",
+    "story_count": 84,
     "oldest_story": "2026-07-04T04:00:02Z",
-    "newest_story": "2026-07-04T23:43:13Z",
+    "newest_story": "2026-07-05T01:00:20Z",
     "window_hours": 24
   },
   "stories": [
@@ -1317,6 +1317,38 @@
       },
       "category": "sport",
       "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/jul/04/french-football-chief-condemns-chilaverts-remarks-that-les-bleus-are-a-squad-from-africa",
+      "headline": "French football chief condemns Chilavert’s remarks that Les Bleus are ‘a squad from Africa’",
+      "summary": "French football federation condemns ex-Paraguay goalkeeper's racist remarks about Les Bleus squad composition.",
+      "url": "https://www.theguardian.com/p/x5exv8",
+      "thumbnail": "https://media.guim.co.uk/a7ab14d9d507b83ae305fd1353ff023644ec4f7a/1256_205_4744_3795/500.jpg",
+      "published": "2026-07-05T01:00:20Z",
+      "location": {
+        "name": "France",
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/jul/05/england-mexico-world-cup-last-16-azteca-preview",
+      "headline": "England braced for a Mexican whirlwind as Tuchel strives for calm amid the chaos",
+      "summary": "England faces Mexico in World Cup last-16 clash at Azteca Stadium amid stormy weather conditions.",
+      "url": "https://www.theguardian.com/p/x5dzva",
+      "thumbnail": "https://media.guim.co.uk/96cb767d7dc6b2d60c81cf49260c6e26c6a5ffeb/649_320_1731_1384/500.jpg",
+      "published": "2026-07-05T00:55:11Z",
+      "location": {
+        "name": "Mexico City",
+        "lat": 19.4326,
+        "lng": -99.1332
+      },
+      "category": "sport",
+      "significance": 3,
       "section": "football"
     }
   ]
