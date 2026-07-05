@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-05T16:44:41.322Z",
-    "story_count": 85,
-    "oldest_story": "2026-07-04T17:21:24Z",
-    "newest_story": "2026-07-05T16:38:03Z",
+    "generated_at": "2026-07-05T17:51:53.436Z",
+    "story_count": 88,
+    "oldest_story": "2026-07-04T17:53:24Z",
+    "newest_story": "2026-07-05T17:39:30Z",
     "window_hours": 24
   },
   "stories": [
@@ -22,54 +22,6 @@
       "category": "sport",
       "significance": 3,
       "section": "sport"
-    },
-    {
-      "id": "world/2026/jul/04/tens-of-thousands-march-in-london-for-annual-pride-parade",
-      "headline": "Tens of thousands march in London for annual Pride parade",
-      "summary": "Over 35,000 people march through London for annual LGBT+ Pride parade.",
-      "url": "https://www.theguardian.com/p/x5dpp7",
-      "thumbnail": "https://media.guim.co.uk/4618756e96b1d1996e3fe7bed3d0b3911688294b/194_0_3628_2902/500.jpg",
-      "published": "2026-07-04T17:36:02Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "sport/2026/jul/04/england-men-india-second-t20-international-cricket-match-report",
-      "headline": "Bethell blasts England to T20 win over India after Sooryavanshi’s historic debut",
-      "summary": "England defeats India by 4 wickets in T20 cricket; Sooryavanshi makes historic debut at 15.",
-      "url": "https://www.theguardian.com/p/x5dj9m",
-      "thumbnail": "https://media.guim.co.uk/a349ef8dbc0fdd20f0a5628213393ccab3811291/738_191_2473_1979/500.jpg",
-      "published": "2026-07-04T17:26:46Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4808,
-        "lng": -2.2426
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
-    {
-      "id": "us-news/2026/jul/04/dc-state-fair-pickle-company-withdrawal",
-      "headline": "In a pickle: US pickle company pulls out of DC fair over Confederate flag",
-      "summary": "Mt Olive Pickle Company withdraws from DC state fair over Confederate flag in North Carolina booth.",
-      "url": "https://www.theguardian.com/p/x5dpme",
-      "thumbnail": "https://media.guim.co.uk/46576c06058ef568db216e369992e4440f9972c8/75_0_4716_3772/500.jpg",
-      "published": "2026-07-04T17:21:24Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "us-news"
     },
     {
       "id": "world/2026/jul/04/ukrainian-drones-hit-st-petersburg-oil-terminal-and-nearby-port",
@@ -1366,6 +1318,102 @@
       "category": "politics",
       "significance": 2,
       "section": "politics"
+    },
+    {
+      "id": "football/2026/jul/05/paraguay-france-morocco-world-cup-2026",
+      "headline": "Paraguay showed France can be stifled – Morocco will have taken note",
+      "summary": "France advances to World Cup quarter-finals with unconvincing win over Paraguay in Philadelphia.",
+      "url": "https://www.theguardian.com/p/x5e498",
+      "thumbnail": "https://media.guim.co.uk/b7244bbbbe21c8405fa3cab3f4a7c1364ce14b4b/393_0_6880_5504/500.jpg",
+      "published": "2026-07-05T17:39:30Z",
+      "location": {
+        "name": "Philadelphia",
+        "lat": 39.9526,
+        "lng": -75.1652
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "education/2026/jul/05/daphne-medley-obituary",
+      "headline": "Daphne Medley obituary",
+      "summary": "Daphne Medley, pioneering female mathematician at Cambridge, dies aged 105.",
+      "url": "https://www.theguardian.com/p/x58yf9",
+      "thumbnail": "https://media.guim.co.uk/f336e1246c6f7698f96ca066ca371d8718ae38e2/59_132_2436_1949/500.jpg",
+      "published": "2026-07-05T17:30:47Z",
+      "location": {
+        "name": "Cambridge",
+        "lat": 52.2053,
+        "lng": 0.1218
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "education"
+    },
+    {
+      "id": "business/2026/jul/05/anthony-kasozi-obituary",
+      "headline": "Anthony Kasozi obituary",
+      "summary": "EasyJet agrees to £5bn takeover by US investment firm Castlelake, going private.",
+      "url": "https://www.theguardian.com/p/x58gkb",
+      "thumbnail": "https://media.guim.co.uk/42316bf08f0b0f065f4b770c4d65d3db065cdbba/547_395_2766_2212/500.jpg",
+      "published": "2026-07-05T17:17:22Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "business/2026/jul/05/easyjet-agrees-to-5bn-takeover-by-us-investment-firm",
+      "headline": "EasyJet agrees to £5bn takeover by US investment firm",
+      "summary": "Anthony Kasozi, leadership coach and PwC consultant, dies of cancer aged 65.",
+      "url": "https://www.theguardian.com/p/x5e4g9",
+      "thumbnail": "https://media.guim.co.uk/8173aa246b68e236ca117d65ad04057fd2b25481/272_0_2451_1961/500.jpg",
+      "published": "2026-07-05T17:11:13Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 1,
+      "section": "business"
+    },
+    {
+      "id": "football/2026/jul/05/folarin-balogun-red-card-suspension-lifted-usmnt-belgium-world-cup",
+      "headline": "Folarin Balogun eligible to play for US v Belgium as Fifa rescinds suspension for red card",
+      "summary": "Fifa rescinds Folarin Balogun's suspension, allowing him to play for USA vs Belgium.",
+      "url": "https://www.theguardian.com/p/x5e4g2",
+      "thumbnail": "https://media.guim.co.uk/101942752f34779c056fcd9f6746b6befac1ac9f/421_0_2500_2000/500.jpg",
+      "published": "2026-07-05T17:04:15Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "sport/2026/jul/05/springbok-thrashing-leaves-england-praying-fiji-dont-topple-borthwick-project",
+      "headline": "Springbok thrashing leaves England praying Fiji don’t topple Borthwick project",
+      "summary": "England loses to world champion Springboks; faces Fiji test of Steve Borthwick's project.",
+      "url": "https://www.theguardian.com/p/x5e38z",
+      "thumbnail": "https://media.guim.co.uk/f8b1a7a887de9bb79bce4fdbbbaeaf508ed74d85/133_0_7200_5760/500.jpg",
+      "published": "2026-07-05T17:00:32Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
     }
   ]
 }
