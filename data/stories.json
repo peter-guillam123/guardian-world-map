@@ -1,172 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-07-05T19:17:45.748Z",
-    "story_count": 89,
-    "oldest_story": "2026-07-04T19:47:24Z",
-    "newest_story": "2026-07-05T19:13:05Z",
+    "generated_at": "2026-07-05T20:33:05.170Z",
+    "story_count": 83,
+    "oldest_story": "2026-07-04T20:58:47Z",
+    "newest_story": "2026-07-05T20:32:18Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/live/2026/jul/04/france-v-paraguay-world-cup-last-32-live",
-      "headline": "Paraguay v France: World Cup last 16 – live",
-      "summary": "France faces Paraguay in World Cup last-16 match in Philadelphia with Mbappé seeking quarter-final spot.",
-      "url": "https://www.theguardian.com/p/x5djy4",
-      "thumbnail": "https://media.guim.co.uk/9d51a9e31df16df86962bbe2298cd042c22c6e8d/605_0_4671_3737/500.jpg",
-      "published": "2026-07-04T20:24:49Z",
-      "location": {
-        "name": "Philadelphia",
-        "lat": 39.9526,
-        "lng": -75.1652
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "food/2026/jul/05/australias-best-pies-malaysian-prawn-curry-country-cob-bakery-springvale",
-      "headline": "Australia’s best pie has a Malaysian prawn curry filling – and its bakers have even bolder flavours in mind",
-      "summary": "Country Cob bakery in Melbourne wins acclaim for Malaysian prawn curry and Cambodian pork pies.",
-      "url": "https://www.theguardian.com/p/x5dvnk",
-      "thumbnail": "https://media.guim.co.uk/14b846ce6385596574d37f9891281939f74f6d32/0_840_2362_1890/500.jpg",
-      "published": "2026-07-04T20:00:08Z",
-      "location": {
-        "name": "Melbourne",
-        "lat": -37.8136,
-        "lng": 144.9631
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "food"
-    },
-    {
-      "id": "australia-news/2026/jul/04/reducing-speed-limits-in-cities-can-save-lives-why-is-australia-still-reluctant",
-      "headline": "Reducing speed limits in cities can save lives. Why is Australia still reluctant? ",
-      "summary": "NSW government accused of lagging on 30km/h speed limit zones despite rising city road deaths.",
-      "url": "https://www.theguardian.com/p/x5c53n",
-      "thumbnail": "https://media.guim.co.uk/bfc927b5f81cf43063ab514d4779c258219e3334/973_0_6440_5152/500.jpg",
-      "published": "2026-07-04T20:00:08Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "music/2026/jul/05/jessica-mauboy-interview-kookaburra-call-ellen-degeneres-10-chaotic-questions",
-      "headline": "Jessica Mauboy: ‘Why did I do a kookaburra call for Ellen DeGeneres? Did I think that was cool?’",
-      "summary": "Jessica Mauboy discusses her unconventional start singing karaoke at Darwin airport hotel.",
-      "url": "https://www.theguardian.com/p/x5dgnc",
-      "thumbnail": "https://media.guim.co.uk/71eca946a0b17229f8e9c9e28ef893358224b711/692_280_3095_2477/500.jpg",
-      "published": "2026-07-04T20:00:07Z",
-      "location": {
-        "name": "Darwin",
-        "lat": -12.4634,
-        "lng": 130.8456
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "music"
-    },
-    {
-      "id": "australia-news/2026/jul/05/norfolk-islands-unique-corals-under-triple-threat-from-disease-el-nino-and-now-government-approved-dredging",
-      "headline": "Norfolk Island’s unique corals under triple threat from disease, El Niño and now government-approved dredging ",
-      "summary": "Norfolk Island's unique undescribed corals face triple threat from disease, El Niño, and approved dredging.",
-      "url": "https://www.theguardian.com/p/x5dvga",
-      "thumbnail": "https://media.guim.co.uk/7ecbaea2a2abc0f96830f76a790d63fcd56a5a36/93_0_5000_4000/500.jpg",
-      "published": "2026-07-04T20:00:07Z",
-      "location": {
-        "name": "Norfolk Island",
-        "lat": -29.0408,
-        "lng": 167.9547
-      },
-      "category": "climate",
-      "significance": 3,
-      "section": "australia-news"
-    },
-    {
-      "id": "lifeandstyle/2026/jul/05/moment-i-knew-musician-helped-record-album",
-      "headline": "The moment I knew: I woke up and couldn’t see out of my right eye. Hours later, she helped me record an album",
-      "summary": "Musician Jack Ceriani meets partner Rebecca Ritchie after eye rupture, records album together.",
-      "url": "https://www.theguardian.com/p/x5dx2x",
-      "thumbnail": "https://media.guim.co.uk/ed640fd475e77d544c48b0095029e0546c8d0abf/0_0_2500_2000/500.jpg",
-      "published": "2026-07-04T20:00:07Z",
-      "location": {
-        "name": "Busselton",
-        "lat": -33.6456,
-        "lng": 115.3333
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "lifeandstyle"
-    },
-    {
-      "id": "tv-and-radio/ng-interactive/2026/jul/05/aussie-gold-hunters-outback-opal-scripted-tv-series-australian-documentary-government-funding-ntwnfb",
-      "headline": "‘It’s all a set-up’: the ‘fake’ Australian documentary TV series mining governments for millions",
-      "summary": "Reality TV shows Aussie Gold Hunters and Outback Opal Hunters accused of scripting drama while receiving documentary funding.",
-      "url": "https://www.theguardian.com/p/x5cx3m",
-      "thumbnail": "https://media.guim.co.uk/c784f38dcf60e7f9097dac185d24cc26c1326256/0_0_5297_4238/500.jpg",
-      "published": "2026-07-04T20:00:07Z",
-      "location": {
-        "name": "Western Australia",
-        "lat": -25.2744,
-        "lng": 133.7751
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "tv-and-radio"
-    },
-    {
-      "id": "australia-news/2026/jul/05/doctors-ai-scribes-australia-government-privacy-warning",
-      "headline": "Doctors’ soaring use of AI scribes prompts Australian government warning over privacy",
-      "summary": "Australian government warns doctors about AI scribe privacy risks as technology spreads in GP surgeries.",
-      "url": "https://www.theguardian.com/p/x5d5gd",
-      "thumbnail": "https://media.guim.co.uk/5338cbc67f70b23a5fdf94db237441d2c238cdfb/724_0_7240_5792/500.jpg",
-      "published": "2026-07-04T20:00:07Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "world/2026/jul/05/former-political-staffer-australia-workplace-complaint-parliamentary-watchdog-ntwnfb",
-      "headline": "Jail and a $10,000 fine: former political staffer shares fear over MP complaint system",
-      "summary": "Parliamentary watchdog's efficacy questioned by former staffer facing legal threats over workplace complaint disclosure.",
-      "url": "https://www.theguardian.com/p/x5dea5",
-      "thumbnail": "https://media.guim.co.uk/fccac6f0eafc18ec4a950ef586b854bff910d42f/0_0_5000_4000/500.jpg",
-      "published": "2026-07-04T20:00:06Z",
-      "location": {
-        "name": "Canberra",
-        "lat": -35.2809,
-        "lng": 149.13
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "us-news/2026/jul/04/neo-fascist-patriot-front-washington-dc",
-      "headline": "Neo-fascist group Patriot Front parades Confederate flag in Washington DC on Fourth of July",
-      "summary": "Neo-fascist Patriot Front marches through Washington DC on Fourth of July with Confederate flag.",
-      "url": "https://www.theguardian.com/p/x5dqk3",
-      "thumbnail": "https://media.guim.co.uk/e075691306395586c49495f543e0fba6a326874c/500_0_5000_4000/500.jpg",
-      "published": "2026-07-04T19:47:24Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "us-news"
-    },
     {
       "id": "society/2026/jul/04/nhs-ai-app-patients-appropriate-services-health",
       "headline": "NHS to use AI on its app to direct patients to appropriate services ",
@@ -214,22 +54,6 @@
       "category": "sport",
       "significance": 2,
       "section": "football"
-    },
-    {
-      "id": "world/2026/jul/04/archaeologists-uncover-ancient-byzantine-city-in-egypts-western-desert",
-      "headline": "Archaeologists uncover ancient Byzantine city in Egypt’s western desert",
-      "summary": "Archaeologists uncover well-preserved fourth-century Byzantine city in Egypt's western desert.",
-      "url": "https://www.theguardian.com/p/x5dqnf",
-      "thumbnail": "https://media.guim.co.uk/143b8d47a8a54be65405a4fe6d0bb23cf02fe1f2/146_0_716_573/500.jpg",
-      "published": "2026-07-04T20:32:52Z",
-      "location": {
-        "name": "Dakhla Oasis, Egypt",
-        "lat": 25.4987,
-        "lng": 29.0193
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "world"
     },
     {
       "id": "world/2026/jul/04/cricket-match-abandoned-after-charging-bull-stops-play",
@@ -1426,6 +1250,86 @@
         "name": "London",
         "lat": 51.5074,
         "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "football/live/2026/jul/05/brazil-v-norway-world-cup-2026-last-16-live",
+      "headline": "Brazil v Norway: World Cup 2026 last 16 – live",
+      "summary": "Brazil faces Norway in World Cup 2026 last-16 knockout match seeking quarter-final berth.",
+      "url": "https://www.theguardian.com/p/x5dknf",
+      "thumbnail": "https://media.guim.co.uk/562666d667065b07f6df6ba8f0672e4179a1bb5e/212_69_2178_1743/500.jpg",
+      "published": "2026-07-05T20:32:18Z",
+      "location": {
+        "name": "Brazil",
+        "lat": -14.235,
+        "lng": -51.9253
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/jul/05/usa-belgium-world-cup-folarin-balogun-replacement",
+      "headline": "USA v Belgium tactical analysis: what’s Pochettino’s plan with Balogun available?",
+      "summary": "USA prepares for Belgium World Cup quarter-final with Balogun available after suspension rescinded.",
+      "url": "https://www.theguardian.com/p/x5e3zj",
+      "thumbnail": "https://media.guim.co.uk/af2415af86334bbdeafbef8095cd6798ca669d2d/345_0_2125_1701/500.jpg",
+      "published": "2026-07-05T20:24:34Z",
+      "location": {
+        "name": "United States",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/jul/05/haitians-tps-republican-carlos-gimenez",
+      "headline": "Florida Republican says deporting Haitians with TPS would be ‘huge mistake’",
+      "summary": "Republican congressman opposes Trump administration plan to deport Haitian TPS holders.",
+      "url": "https://www.theguardian.com/p/x5e4jx",
+      "thumbnail": "https://media.guim.co.uk/2264b79b9425157f39e0961676cee0bac524b79e/292_0_2917_2333/500.jpg",
+      "published": "2026-07-05T19:54:38Z",
+      "location": {
+        "name": "Miami",
+        "lat": 25.7617,
+        "lng": -80.1918
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "sport/2026/jul/05/england-australia-womens-t20-world-cup-final-lords-cricket",
+      "headline": "England stifled by nerves and caution as Australia seize initiative and glory",
+      "summary": "Australia defeats England in Women's T20 World Cup final at Lord's cricket ground.",
+      "url": "https://www.theguardian.com/p/x5e35t",
+      "thumbnail": "https://media.guim.co.uk/0e066bdd442dfe4205d804cf334803ef21eaf849/500_0_5000_4000/500.jpg",
+      "published": "2026-07-05T19:42:48Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "sport"
+    },
+    {
+      "id": "sport/2026/jul/05/lewis-hamilton-ferrari-british-grand-prix-christian-horner-f1-formula-one",
+      "headline": "‘Pretty bad from the get-go’: Lewis Hamilton rues Ferrari’s decision at British Grand Prix",
+      "summary": "Hamilton frustrated by Ferrari's late strategy call at British Grand Prix costing potential second.",
+      "url": "https://www.theguardian.com/p/x5e38f",
+      "thumbnail": "https://media.guim.co.uk/5e61f2b7a26db3280257a67c51f7e646075ac24d/63_0_1233_986/500.jpg",
+      "published": "2026-07-05T19:24:31Z",
+      "location": {
+        "name": "Silverstone",
+        "lat": 52.0786,
+        "lng": -1.0169
       },
       "category": "sport",
       "significance": 2,
