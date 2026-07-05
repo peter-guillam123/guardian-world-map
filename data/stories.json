@@ -1,60 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-07-05T22:40:33.914Z",
-    "story_count": 86,
-    "oldest_story": "2026-07-04T23:18:33Z",
-    "newest_story": "2026-07-05T22:21:13Z",
+    "generated_at": "2026-07-05T23:46:18.688Z",
+    "story_count": 90,
+    "oldest_story": "2026-07-05T00:55:11Z",
+    "newest_story": "2026-07-05T23:01:40Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "australia-news/live/2026/jul/05/australia-news-live-albanese-labor-nsw-h5-bird-flu-angus-taylor-liberal-coalition-pauline-hanson-ntwnfb",
-      "headline": "Australia news live: Dan Tehan says Liberals ‘not entertaining’ idea of coalition with One Nation; first east coast bird flu case confirmed",
-      "summary": "Liberal party rejects One Nation coalition; first east coast bird flu case confirmed in Australia.",
-      "url": "https://www.theguardian.com/p/x5evde",
-      "thumbnail": "https://media.guim.co.uk/ca9e18aa01860403e1969d948ade490aa9214d21/583_204_2260_1808/500.jpg",
-      "published": "2026-07-04T23:43:13Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "us-news/2026/jul/04/trump-speech-dc-evacuation-thunderstorm",
-      "headline": "Evacuation disrupts Trump’s planned DC speech after threat of thunderstorm",
-      "summary": "Trump's DC speech evacuated due to thunderstorm threat during 250th birthday celebration.",
-      "url": "https://www.theguardian.com/p/x5evjt",
-      "thumbnail": "https://media.guim.co.uk/ce8a4e6fcd753e5bb813fc80a23b6ec6fa5afcb3/208_0_7200_5760/500.jpg",
-      "published": "2026-07-04T23:38:25Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "football/2026/jul/05/paraguay-france-last-16-world-cup-match-report",
-      "headline": "Mbappé spot-on to take France past stubborn Paraguay into World Cup quarter-finals",
-      "summary": "Mbappé scores penalty as France beats Paraguay 1-0 in World Cup last-16 match.",
-      "url": "https://www.theguardian.com/p/x5djg2",
-      "thumbnail": "https://media.guim.co.uk/83736c005bab1e2814bf911bbe957c2491d36c48/0_0_6254_5004/500.jpg",
-      "published": "2026-07-04T23:18:33Z",
-      "location": {
-        "name": "Philadelphia",
-        "lat": 39.9526,
-        "lng": -75.1652
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
     {
       "id": "football/2026/jul/04/french-football-chief-condemns-chilaverts-remarks-that-les-bleus-are-a-squad-from-africa",
       "headline": "French football chief condemns Chilavert’s remarks that Les Bleus are ‘a squad from Africa’",
@@ -1382,6 +1334,118 @@
       "category": "other",
       "significance": 2,
       "section": "uk-news"
+    },
+    {
+      "id": "uk-news/2026/jul/06/nepotism-bias-england-wales-police-leadership-report",
+      "headline": "‘Nepotism and bias’ rife in England and Wales police leadership, report finds",
+      "summary": "Report finds nepotism and bias rife in England and Wales police leadership.",
+      "url": "https://www.theguardian.com/p/x5e45p",
+      "thumbnail": "https://media.guim.co.uk/ebb67cd7f37e9c94aeed3d0e62a40e4fbb83fc65/203_30_4135_3308/500.jpg",
+      "published": "2026-07-05T23:01:40Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "politics/2026/jul/06/dan-jarvis-andy-burnham-uk-defence-spending",
+      "headline": "Minister calls on Burnham to show path to 3.5% target on UK defence spending",
+      "summary": "Defence secretary calls on Burnham to commit to 3.5% NATO spending target.",
+      "url": "https://www.theguardian.com/p/x5dkfq",
+      "thumbnail": "https://media.guim.co.uk/ad5427256445e12dbb0953ca000d6f92dcd69478/199_0_5041_4035/500.jpg",
+      "published": "2026-07-05T23:01:40Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "uk-news/2026/jul/06/public-transport-fully-accessible-boost-uk-economy",
+      "headline": "Making public transport fully accessible ‘could boost UK economy by £176bn’",
+      "summary": "Accessible UK transport could boost economy by £176bn and unlock workforce.",
+      "url": "https://www.theguardian.com/p/x5dj3q",
+      "thumbnail": "https://media.guim.co.uk/ae64350907aa6500800b3b0eeda6c0995b8dbea7/18_0_4264_3413/500.jpg",
+      "published": "2026-07-05T23:01:40Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "politics/2026/jul/06/political-donations-crackdown-nigel-farage-cottrell-gifts",
+      "headline": "Ministers to crack down on political donations as Farage faces calls for second inquiry",
+      "summary": "Government to crack down on political donations as Farage faces second inquiry.",
+      "url": "https://www.theguardian.com/p/x5e4eb",
+      "thumbnail": "https://media.guim.co.uk/0a5b75c62a2c021a670e16e34bd73adb03589b3b/0_0_5884_4707/500.jpg",
+      "published": "2026-07-05T23:01:40Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "money/2026/jul/06/mobile-internet-coverage-uk-worse-on-eu-g7",
+      "headline": "Mobile internet coverage in UK worse than any EU or G7 country, Which? says",
+      "summary": "UK mobile coverage ranks worst in EU and G7, despite cheaper services.",
+      "url": "https://www.theguardian.com/p/x5e3ga",
+      "thumbnail": "https://media.guim.co.uk/5636a0a08f8041fc09277bbfcda672593b53e9d6/560_0_5600_4480/500.jpg",
+      "published": "2026-07-05T23:01:39Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "tech",
+      "significance": 2,
+      "section": "money"
+    },
+    {
+      "id": "society/2026/jul/06/nhs-trusts-england-ratings-staff-wellbeing-violence-racism",
+      "headline": "NHS to rate English trusts on tackling violence and racism towards staff",
+      "summary": "NHS trusts to be rated on tackling violence and racism toward staff.",
+      "url": "https://www.theguardian.com/p/x5e2gh",
+      "thumbnail": "https://media.guim.co.uk/5e39cb327ece48e42546d4c8dbc4615694fd735c/57_0_4161_3327/500.jpg",
+      "published": "2026-07-05T23:01:39Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "society"
+    },
+    {
+      "id": "sport/2026/jul/05/coco-gauff-wimbledon-curfew-tennis-belinda-bencic",
+      "headline": "Coco Gauff beats race against curfew clock with late-night victory against Bencic",
+      "summary": "Coco Gauff beats Bencic at Wimbledon just before 11pm curfew.",
+      "url": "https://www.theguardian.com/p/x5e39f",
+      "thumbnail": "https://media.guim.co.uk/3f93cd00ac35fb0057a9d9965c16cf357c2a664e/692_0_5688_4551/500.jpg",
+      "published": "2026-07-05T22:40:23Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
     }
   ]
 }
