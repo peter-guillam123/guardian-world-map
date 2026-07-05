@@ -1,44 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-07-05T21:38:14.256Z",
+    "generated_at": "2026-07-05T22:40:33.914Z",
     "story_count": 86,
-    "oldest_story": "2026-07-04T21:40:31Z",
-    "newest_story": "2026-07-05T21:37:10Z",
+    "oldest_story": "2026-07-04T23:18:33Z",
+    "newest_story": "2026-07-05T22:21:13Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "world/2026/jul/04/cricket-match-abandoned-after-charging-bull-stops-play",
-      "headline": "Cricket match abandoned after charging bull stops play",
-      "summary": "Cricket match abandoned after escaped 800kg bull charged playing field near Newcastle.",
-      "url": "https://www.theguardian.com/p/x5ev9n",
-      "thumbnail": "https://media.guim.co.uk/b65ce61243d5656834a1a7c217199432ab574e81/0_0_2148_1719/500.jpg",
-      "published": "2026-07-04T22:25:08Z",
-      "location": {
-        "name": "Newcastle",
-        "lat": 54.9783,
-        "lng": -1.6178
-      },
-      "category": "sport",
-      "significance": 1,
-      "section": "world"
-    },
-    {
-      "id": "sport/2026/jul/04/grigor-dimitrov-five-set-wimbledon-win-matteo-berrettini-tennis",
-      "headline": "Dimitrov ‘so happy’ to hold off Berrettini fightback in cathartic Wimbledon win",
-      "summary": "Dimitrov defeats Berrettini in five-set Wimbledon thriller to advance to fourth round.",
-      "url": "https://www.theguardian.com/p/x5dq8k",
-      "thumbnail": "https://media.guim.co.uk/efc2ba2196eb0909e61c357f039c5a6d1b3214ac/770_226_4481_3587/500.jpg",
-      "published": "2026-07-04T21:40:31Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
     {
       "id": "australia-news/live/2026/jul/05/australia-news-live-albanese-labor-nsw-h5-bird-flu-angus-taylor-liberal-coalition-pauline-hanson-ntwnfb",
       "headline": "Australia news live: Dan Tehan says Liberals ‘not entertaining’ idea of coalition with One Nation; first east coast bird flu case confirmed",
@@ -1382,6 +1350,38 @@
       "category": "sport",
       "significance": 3,
       "section": "football"
+    },
+    {
+      "id": "sport/2026/jul/05/jannik-sinner-shintaro-mochizuki-wimbledon-quarter-finals",
+      "headline": "Jannik Sinner swats aside Mochizuki to reach Wimbledon quarter-finals",
+      "summary": "Sinner defeats Mochizuki 6-3, 7-6, 6-3 to reach Wimbledon quarter-finals in title defence.",
+      "url": "https://www.theguardian.com/p/x5e395",
+      "thumbnail": "https://media.guim.co.uk/4d2d48e759e782fcfae5b92e496231eb58303df1/485_0_4290_3432/500.jpg",
+      "published": "2026-07-05T22:21:13Z",
+      "location": {
+        "name": "Wimbledon, London",
+        "lat": 51.4345,
+        "lng": -0.205
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "sport"
+    },
+    {
+      "id": "uk-news/2026/jul/05/skydiver-dies-after-incident-near-nottinghamshire-airfield",
+      "headline": "Skydiver dies after incident near Nottinghamshire airfield",
+      "summary": "22-year-old skydiver dies after parachuting incident near Langar airfield in Nottinghamshire.",
+      "url": "https://www.theguardian.com/p/x5e5fa",
+      "thumbnail": "https://media.guim.co.uk/759bac697a82c9a9d4aaeca899dbc0c40e63b6d4/8_9_1748_1398/500.jpg",
+      "published": "2026-07-05T21:31:54Z",
+      "location": {
+        "name": "Nottinghamshire",
+        "lat": 52.8342,
+        "lng": -1.05
+      },
+      "category": "other",
+      "significance": 2,
+      "section": "uk-news"
     }
   ]
 }
