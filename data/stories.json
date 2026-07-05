@@ -1,60 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-07-05T20:33:05.170Z",
-    "story_count": 83,
-    "oldest_story": "2026-07-04T20:58:47Z",
-    "newest_story": "2026-07-05T20:32:18Z",
+    "generated_at": "2026-07-05T21:38:14.256Z",
+    "story_count": 86,
+    "oldest_story": "2026-07-04T21:40:31Z",
+    "newest_story": "2026-07-05T21:37:10Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "society/2026/jul/04/nhs-ai-app-patients-appropriate-services-health",
-      "headline": "NHS to use AI on its app to direct patients to appropriate services ",
-      "summary": "NHS to deploy AI on its app to triage patients and direct them to appropriate healthcare services.",
-      "url": "https://www.theguardian.com/p/x5dp7m",
-      "thumbnail": "https://media.guim.co.uk/ff3edb27303ff3e647e27591d79ddbbba215afa9/311_0_3042_2435/500.jpg",
-      "published": "2026-07-04T21:30:08Z",
-      "location": {
-        "name": "England",
-        "lat": 52.3555,
-        "lng": -1.1743
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "society"
-    },
-    {
-      "id": "football/2026/jul/04/canada-world-cup-alphonso-davies-injury-management",
-      "headline": "Canada’s World Cup exit revives questions over Alphonso Davies injury management",
-      "summary": "Canada exits World Cup after 3-0 loss to Morocco with star player Alphonso Davies sidelined by injury.",
-      "url": "https://www.theguardian.com/p/x5dqqh",
-      "thumbnail": "https://media.guim.co.uk/379a4bf5d27b16279e0952872878f56b68c54595/827_97_6569_5255/500.jpg",
-      "published": "2026-07-04T21:23:43Z",
-      "location": {
-        "name": "Canada",
-        "lat": 56.1304,
-        "lng": -106.3468
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/jul/04/jesse-marsch-canada-morocco-world-cup",
-      "headline": "‘We were better than them’: Marsch bullish despite Canada’s World Cup exit to Morocco",
-      "summary": "Coach Jesse Marsch claims Canada controlled match despite 3-0 World Cup defeat to Morocco.",
-      "url": "https://www.theguardian.com/p/x5ev2k",
-      "thumbnail": "https://media.guim.co.uk/7c068969f7a3847554b75b9f2671fc099262e2e9/968_100_5763_4610/500.jpg",
-      "published": "2026-07-04T20:58:47Z",
-      "location": {
-        "name": "Canada",
-        "lat": 56.1304,
-        "lng": -106.3468
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
     {
       "id": "world/2026/jul/04/cricket-match-abandoned-after-charging-bull-stops-play",
       "headline": "Cricket match abandoned after charging bull stops play",
@@ -1334,6 +1286,102 @@
       "category": "sport",
       "significance": 2,
       "section": "sport"
+    },
+    {
+      "id": "football/live/2026/jul/05/mexico-v-england-world-cup-2026-last-16-live",
+      "headline": "Mexico v England: World Cup 2026 last 16 tie hit by thunderstorm in buildup – live",
+      "summary": "Mexico faces England in World Cup 2026 last 16 amid thunderstorm at Azteca Stadium.",
+      "url": "https://www.theguardian.com/p/x5dknc",
+      "thumbnail": "https://media.guim.co.uk/d9f569f9531497558e3edc00fece9b5829e18f2b/397_0_3366_2693/500.jpg",
+      "published": "2026-07-05T21:37:10Z",
+      "location": {
+        "name": "Mexico City",
+        "lat": 19.4326,
+        "lng": -99.1332
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "us-news/2026/jul/05/mallory-mcmorrow-drops-out-senate-race-michigan",
+      "headline": "Michigan Democrat Mallory McMorrow ends US Senate primary campaign",
+      "summary": "Michigan Democrat Mallory McMorrow exits Senate primary, setting up progressive vs centrist battle.",
+      "url": "https://www.theguardian.com/p/x5e52j",
+      "thumbnail": "https://media.guim.co.uk/a2e3c7f08c6b66ba8ec95de2c41e02c2f517c2fa/210_34_2880_2304/500.jpg",
+      "published": "2026-07-05T21:34:28Z",
+      "location": {
+        "name": "Michigan",
+        "lat": 43.3266,
+        "lng": -84.5361
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "australia-news/live/2026/jul/06/australia-news-live-crisafulli-bail-laws-property-market-auction-clearance-tax-reform-prime-minister-albanese-fiji-treaty-royal-commission-meta-antisemitism-ntwnfb",
+      "headline": "Australia news live: Crisafulli promises harsher youth bail laws; auction clearances below 50% again",
+      "summary": "Queensland premier pledges harsher youth bail laws; auction clearances fall below 50%.",
+      "url": "https://www.theguardian.com/p/x5e5dt",
+      "thumbnail": "https://media.guim.co.uk/c45cea6b5babb201b424b065b116605ecc2f87a9/250_0_4178_3343/500.jpg",
+      "published": "2026-07-05T21:31:19Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "sport/2026/jul/05/nat-sciver-brunt-t20-world-cup-final-england-australia-womens-cricket",
+      "headline": "Nat Sciver-Brunt hopes World Cup career is not over after England heartbreak",
+      "summary": "England's Nat Sciver-Brunt tearful after T20 World Cup final loss to Australia at Lord's.",
+      "url": "https://www.theguardian.com/p/x5e35y",
+      "thumbnail": "https://media.guim.co.uk/6d37d43958b8ff3aad8a6b8d2d6a59f9ef3ac2d3/365_102_2889_2311/500.jpg",
+      "published": "2026-07-05T21:30:52Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "sport"
+    },
+    {
+      "id": "australia-news/2026/jul/06/morning-mail-monday-ntwnfb",
+      "headline": "Morning Mail: Aged care ‘signature’ fees trigger class action; McCartney’s gift to Taylor Swift; T20 glory for Australia",
+      "summary": "Aged care firm faces class action over illegal charges; Australia wins Women's T20 World Cup.",
+      "url": "https://www.theguardian.com/p/x5e4c6",
+      "thumbnail": "https://media.guim.co.uk/dc97bba51b9181fba50d8cb9c8438d9cc9c7424f/165_0_4100_3280/500.jpg",
+      "published": "2026-07-05T20:48:21Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "football/2026/jul/05/kill-me-23-years-cristiano-ronaldo-world-cup-last-portugal-spain",
+      "headline": "‘They’ve tried to kill me for 23 years’: Cristiano Ronaldo says this World Cup will be his last",
+      "summary": "Cristiano Ronaldo, 41, confirms World Cup 2026 will be his final tournament before retirement.",
+      "url": "https://www.theguardian.com/p/x5e59v",
+      "thumbnail": "https://media.guim.co.uk/41ab4020b9138b4e66ab99cd7e39fdbd4f2c02b6/599_0_4560_3648/500.jpg",
+      "published": "2026-07-05T20:41:28Z",
+      "location": {
+        "name": "Dallas",
+        "lat": 32.7767,
+        "lng": -96.797
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
     }
   ]
 }
