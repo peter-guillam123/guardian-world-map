@@ -1,300 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-07-06T11:01:58.552Z",
-    "story_count": 107,
-    "oldest_story": "2026-07-05T11:23:59Z",
-    "newest_story": "2026-07-06T11:00:03Z",
+    "generated_at": "2026-07-06T14:33:46.578Z",
+    "story_count": 97,
+    "oldest_story": "2026-07-05T14:50:09Z",
+    "newest_story": "2026-07-06T14:30:40Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "sport/live/2026/jul/05/tour-de-france-2026-stage-two-in-catalonia-cycling-live-updates",
-      "headline": "Tour de France 2026: stage two in Catalonia – live updates",
-      "summary": "Tour de France 2026 stage two: 168.5km coastal ride from Tarragona to Barcelona in Catalonia.",
-      "url": "https://www.theguardian.com/p/x5dkj8",
-      "thumbnail": "https://media.guim.co.uk/0eee25fd7850a0b51a6c66f4f4ce12b62c7096e9/0_0_5748_4597/500.jpg",
-      "published": "2026-07-05T12:04:17Z",
-      "location": {
-        "name": "Barcelona",
-        "lat": 41.3851,
-        "lng": 2.1734
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "sport"
-    },
-    {
-      "id": "us-news/2026/jul/05/republicans-democrats-party-colors",
-      "headline": "Why are Republicans red and Democrats blue?",
-      "summary": "Article explores origins of Republican red and Democratic blue party colors as surprisingly recent tradition.",
-      "url": "https://www.theguardian.com/p/x5df4n",
-      "thumbnail": "https://media.guim.co.uk/aca3cabcd6b1ce2200b321859222dfd43c74a4f9/0_0_3000_2400/500.jpg",
-      "published": "2026-07-05T12:00:27Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "science/2026/jul/05/majority-of-uk-smokers-wrongly-believe-vaping-is-as-harmful-as-cigarettes-experts-find",
-      "headline": "Majority of UK smokers wrongly believe vaping is as harmful as cigarettes, experts find",
-      "summary": "Study finds majority of UK smokers wrongly believe vaping is as harmful as cigarettes, hindering quit rates.",
-      "url": "https://www.theguardian.com/p/x5detx",
-      "thumbnail": "https://media.guim.co.uk/a8c083df952ff966868d4c06e9dd4da0fa335d1a/591_0_3661_2929/500.jpg",
-      "published": "2026-07-05T12:00:26Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "science"
-    },
-    {
-      "id": "us-news/2026/jul/05/ratepayer-protection-act-datacenters",
-      "headline": "Bipartisan bill fails to protect US consumers from datacenters’ true costs, critics warn",
-      "summary": "Bipartisan Ratepayer Protection Act fails to shield consumers from rising electricity costs from datacenters, critics warn.",
-      "url": "https://www.theguardian.com/p/x5de3e",
-      "thumbnail": "https://media.guim.co.uk/bcbf1fe4f8674605885b42ea37b0880b52aac717/624_0_4321_3456/500.jpg",
-      "published": "2026-07-05T12:00:26Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "sport/live/2026/jul/05/wimbledon-2026-djokovic-sabalenka-sinner-and-gauff-in-action-on-day-seven-live",
-      "headline": "Wimbledon 2026: Djokovic, Sabalenka, Sinner and Gauff in action on day seven – live",
-      "summary": "Wimbledon 2026 day seven: Djokovic, Sabalenka, Sinner and Gauff in action including Sabalenka vs Osaka on Centre Court.",
-      "url": "https://www.theguardian.com/p/x5dkje",
-      "thumbnail": "https://media.guim.co.uk/c40deb1acd7893cc0905cfc043ecc3d8c00ff9f8/415_0_4435_3550/500.jpg",
-      "published": "2026-07-05T11:59:08Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "sport"
-    },
-    {
-      "id": "stage/2026/jul/05/the-night-of-the-werewolves-live-review-fruit-market-hull",
-      "headline": "The Night of the Werewolves Live review – Traitors-esque immersive theatre is a lot of bawdy fun",
-      "summary": "The Night of the Werewolves immersive theatre at Fruit Market Hull offers audience-participation game of survival and smut.",
-      "url": "https://www.theguardian.com/p/x5e2pm",
-      "thumbnail": "https://media.guim.co.uk/751e8c73ab16318933b524a7d8b7a8bead048e40/856_0_4800_3840/500.jpg",
-      "published": "2026-07-05T11:23:59Z",
-      "location": {
-        "name": "Hull",
-        "lat": 53.743,
-        "lng": -0.337
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "stage"
-    },
-    {
-      "id": "sport/live/2026/jul/05/british-grand-prix-formula-one-f1-silverstone-live-updates",
-      "headline": "British Grand Prix: Formula One – live updates",
-      "summary": "British Grand Prix F1 race underway at Silverstone with Antonelli on pole.",
-      "url": "https://www.theguardian.com/p/x5dkyt",
-      "thumbnail": "https://media.guim.co.uk/27ef51aa3f7897e5c5ebd5cbedb7eb4743bfcf33/1265_0_3771_3019/500.jpg",
-      "published": "2026-07-05T14:07:42Z",
-      "location": {
-        "name": "Silverstone",
-        "lat": 52.0786,
-        "lng": -1.0169
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "sport"
-    },
-    {
-      "id": "sport/live/2026/jul/05/england-v-australia-womens-t20-cricket-world-cup-final-live",
-      "headline": "England v Australia: Women’s T20 Cricket World Cup final – live",
-      "summary": "England face Australia in Women's T20 Cricket World Cup final at Lord's.",
-      "url": "https://www.theguardian.com/p/x5dky5",
-      "thumbnail": "https://media.guim.co.uk/01b5c9563c6cc46134a73aef951f41dec8113ae7/669_3260_4059_3247/500.jpg",
-      "published": "2026-07-05T14:03:02Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "sport"
-    },
-    {
-      "id": "society/2026/jul/05/autism-extreme-male-brain-simon-baron-cohen",
-      "headline": "Pioneer of ‘extreme male brain’ theory of autism now says phrase unhelpful",
-      "summary": "Prof Simon Baron-Cohen regrets 'extreme male brain' autism theory terminology.",
-      "url": "https://www.theguardian.com/p/x5dddy",
-      "thumbnail": "https://media.guim.co.uk/518019a3f318972b941454d422e1e39b901211db/2028_414_2306_1845/500.jpg",
-      "published": "2026-07-05T14:02:46Z",
-      "location": {
-        "name": "Cambridge",
-        "lat": 52.2043,
-        "lng": 0.1192
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "society"
-    },
-    {
-      "id": "australia-news/2026/jul/06/australian-aged-care-firm-accused-in-class-action-of-charging-residents-for-high-teas-and-classes-they-couldnt-use-ntwnfb",
-      "headline": "Australian aged care firm accused in class action of charging residents for high teas and classes they couldn’t use",
-      "summary": "Australian aged care firm Arcare faces class action over illegal resident fees.",
-      "url": "https://www.theguardian.com/p/x5dhag",
-      "thumbnail": "https://media.guim.co.uk/dc97bba51b9181fba50d8cb9c8438d9cc9c7424f/165_0_4100_3280/500.jpg",
-      "published": "2026-07-05T14:01:28Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "football/2026/jul/05/world-cup-schedule-today-how-to-watch-mexico-v-england-tv-channels-live-stream-sunday-july-5th",
-      "headline": "World Cup schedule today: How to watch Mexico v England, TV channels & live stream Sunday July 5th",
-      "summary": "Mexico face England in World Cup 2026 at Estadio Azteca today.",
-      "url": "https://www.theguardian.com/p/x5dmqq",
-      "thumbnail": "https://media.guim.co.uk/7b4bac7e75073bb97fac13e2e0175bb6d33890da/300_0_3000_2400/500.jpg",
-      "published": "2026-07-05T14:00:29Z",
-      "location": {
-        "name": "Mexico City",
-        "lat": 19.4326,
-        "lng": -99.1332
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "artanddesign/2026/jul/05/beth-mckillop-obituary",
-      "headline": "Beth McKillop obituary",
-      "summary": "Obituary of curator Beth McKillop, Korean art scholar and British Library fellow.",
-      "url": "https://www.theguardian.com/p/x5e3eh",
-      "thumbnail": "https://media.guim.co.uk/327f9d473f248205acae655d73ef29c769ca8135/0_42_479_383/master/479.jpg",
-      "published": "2026-07-05T13:49:10Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "artanddesign"
-    },
-    {
-      "id": "football/2026/jul/05/canada-co-hosted-the-world-cup-but-whose-party-was-it",
-      "headline": "Canada co-hosted the World Cup – but whose party was it?",
-      "summary": "Canada co-hosted World Cup 2026 but questions linger over domestic soccer future.",
-      "url": "https://www.theguardian.com/p/x5dn8e",
-      "thumbnail": "https://media.guim.co.uk/6e260ba278ec88369792e403663044013cac6cee/743_0_3750_3000/500.jpg",
-      "published": "2026-07-05T13:48:26Z",
-      "location": {
-        "name": "Toronto",
-        "lat": 43.6532,
-        "lng": -79.3832
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "music/2026/jul/05/kazuki-conducts-harmonium-review-john-adams-aaron-copland-joan-tower-florence-price-birmingham-symphony-hall",
-      "headline": "Kazuki conducts Harmonium review – John Adams’ wild ride centres an elegant showcase of US composers",
-      "summary": "Conductor Kazuki leads Harmonium at Birmingham Symphony Hall celebrating US composers.",
-      "url": "https://www.theguardian.com/p/x5e3a9",
-      "thumbnail": "https://media.guim.co.uk/331dbd930e873fc83b8e91cf9ddcda78381ff9f4/213_0_4320_3456/500.jpg",
-      "published": "2026-07-05T13:39:26Z",
-      "location": {
-        "name": "Birmingham",
-        "lat": 52.5099,
-        "lng": -1.8853
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "music"
-    },
-    {
-      "id": "us-news/2026/jul/05/gaza-protests-democrats-debate-on-tactics",
-      "headline": "Gaza protests against two Democrats spark outcry and debate on tactics",
-      "summary": "Gaza protests against Democratic candidates spark debate over activist tactics.",
-      "url": "https://www.theguardian.com/p/x5dyt3",
-      "thumbnail": "https://media.guim.co.uk/5ee57b17d2514957b4227c8ef736486e74d3c4a1/0_0_909_727/500.jpg",
-      "published": "2026-07-05T13:00:29Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "lifeandstyle/2026/jul/05/shot-by-a-robber-i-was-bleeding-out-on-the-way-to-hospital-and-terrified-the-doctors-would-leave-me-to-die",
-      "headline": "Shot by a robber, I was bleeding out on the way to hospital – and terrified the doctors would leave me to die",
-      "summary": "Venezuelan shooting victim recalls bleeding out after robbery in crisis-hit Caracas.",
-      "url": "https://www.theguardian.com/p/x57kea",
-      "thumbnail": "https://media.guim.co.uk/6e74a9559afbff17a57603563522b9319c26e627/250_0_3333_2667/500.jpg",
-      "published": "2026-07-05T13:00:29Z",
-      "location": {
-        "name": "Caracas",
-        "lat": 10.4806,
-        "lng": -66.9036
-      },
-      "category": "health",
-      "significance": 1,
-      "section": "lifeandstyle"
-    },
-    {
-      "id": "film/2026/jul/05/the-story-of-documentary-film-the-1980s-review-mark-cousins-educates-and-intrigues-once-more",
-      "headline": "The Story of Documentary Film (The 1980s) review – Mark Cousins educates and intrigues once more",
-      "summary": "Mark Cousins' documentary history traces 1980s filmmaking at Karlovy Vary festival.",
-      "url": "https://www.theguardian.com/p/x5ccpb",
-      "thumbnail": "https://media.guim.co.uk/2b89c5f6c346f9b29819438b601f6771e1de3c22/74_0_2634_2107/500.jpg",
-      "published": "2026-07-05T13:00:27Z",
-      "location": {
-        "name": "Karlovy Vary",
-        "lat": 50.2289,
-        "lng": 12.8702
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "film"
-    },
-    {
-      "id": "environment/2026/jul/05/readers-recall-heatwave-1976-uk-weather-climate",
-      "headline": "Empty reservoirs, ladybirds and sunstroke: remembering the UK heatwave of 1976",
-      "summary": "UK June record heat reaches 37.7C as readers recall devastating 1976 heatwave.",
-      "url": "https://www.theguardian.com/p/x5c35y",
-      "thumbnail": "https://media.guim.co.uk/6511e7402ab4119b967fc7a10f0c4589028ba722/45_0_421_337/master/421.jpg",
-      "published": "2026-07-05T13:00:27Z",
-      "location": {
-        "name": "United Kingdom",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "environment"
-    },
     {
       "id": "artanddesign/2026/jul/05/paul-mccartney-i-want-to-hold-your-hand-taylor-swift-wedding",
       "headline": "Paul McCartney performs I Want to Hold Your Hand for first time in 60 years at Taylor Swift wedding",
@@ -1718,6 +1430,134 @@
       "category": "politics",
       "significance": 3,
       "section": "uk-news"
+    },
+    {
+      "id": "us-news/live/2026/jul/06/donald-trump-democrats-michigan-mallory-mcmorrow-us-politics-latest-news-updates",
+      "headline": "Democrats to choose between progressive and establishment candidate in Michigan as McMorrow drops out of race – US politics live ",
+      "summary": "Democrats choose between progressive and establishment candidates in Michigan after McMorrow withdraws from race.",
+      "url": "https://www.theguardian.com/p/x5e8bt",
+      "thumbnail": "https://media.guim.co.uk/a2e3c7f08c6b66ba8ec95de2c41e02c2f517c2fa/210_34_2880_2304/500.jpg",
+      "published": "2026-07-06T14:30:40Z",
+      "location": {
+        "name": "Michigan",
+        "lat": 43.3266,
+        "lng": -84.5361
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/jul/06/trump-accounts-trading-day-new-york-stock-exchange",
+      "headline": "Trump rings New York Stock Exchange bell to mark first trading day for ‘Trump accounts’",
+      "summary": "Trump rings NYSE bell to launch Trump accounts, giving children $1,000 investment accounts.",
+      "url": "https://www.theguardian.com/p/x5e94f",
+      "thumbnail": "https://media.guim.co.uk/390627cfcdcf9ce3b74408fdcae17a800dfb573b/519_0_4454_3562/500.jpg",
+      "published": "2026-07-06T14:27:42Z",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "world/2026/jul/06/british-charity-friends-of-yeshivat-shavei-illegal-settlement-hebron",
+      "headline": "UK charity funding school at heart of illegal Israeli settlement expansion",
+      "summary": "UK charity funds religious school in illegal Israeli settlement in Hebron with £200,000.",
+      "url": "https://www.theguardian.com/p/x5cnyc",
+      "thumbnail": "https://media.guim.co.uk/1dd31bdba0cd22f4fef18ae96cde7d115b614c85/0_0_2937_2350/500.jpg",
+      "published": "2026-07-06T14:10:08Z",
+      "location": {
+        "name": "Hebron",
+        "lat": 31.5433,
+        "lng": 35.2023
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "environment/2026/jul/06/gb-news-co-owner-cashing-in-on-climate-chaos-after-leap-in-fossil-fuel-investments-critics-say",
+      "headline": "GB News co-owner ‘cashing in on climate chaos’ after leap in fossil fuel investments, critics say",
+      "summary": "GB News co-owner's hedge fund triples fossil fuel investments to $2.8bn amid climate action attacks.",
+      "url": "https://www.theguardian.com/p/x5d247",
+      "thumbnail": "https://media.guim.co.uk/f47a54029c79b3b0f2374228b23de7e4e4fbfcbd/2381_1058_3951_3163/500.jpg",
+      "published": "2026-07-06T14:00:05Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "environment"
+    },
+    {
+      "id": "world/2026/jul/06/russia-launches-deadly-missile-drone-attacks-kyiv-ukraine",
+      "headline": "Russian strikes on Kyiv expose widening air defence gaps on eve of Nato summit",
+      "summary": "Russian missile and drone strikes kill 19 in Kyiv, exposing air defence gaps before NATO summit.",
+      "url": "https://www.theguardian.com/p/x5e6ft",
+      "thumbnail": "https://media.guim.co.uk/6a223a63c087885695dc55935514deff7f22268a/1000_0_5000_4002/500.jpg",
+      "published": "2026-07-06T13:57:48Z",
+      "location": {
+        "name": "Kyiv",
+        "lat": 50.4501,
+        "lng": 30.5234
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "culture/2026/jul/06/haircut-100-fantastic-day-nick-heyward",
+      "headline": "‘The song got us signed but I hated it’: how Haircut 100 made Fantastic Day",
+      "summary": "Arsenal signs German forward Selina Cerci from Hoffenheim; Chelsea's Kaneryd joins Lyon.",
+      "url": "https://www.theguardian.com/p/x5d3mn",
+      "thumbnail": "https://media.guim.co.uk/a90672c44debfb5db5f0416e1a968f5feb819704/728_258_2158_1727/500.jpg",
+      "published": "2026-07-06T13:56:08Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 1,
+      "section": "culture"
+    },
+    {
+      "id": "football/2026/jul/06/selina-cerci-signs-for-arsenal-womens-super-league",
+      "headline": "Arsenal sign prolific Hoffenheim forward Selina Cerci; Kaneryd leaves Chelsea for Lyonnes",
+      "summary": "Underground Monk Show becomes Edinburgh Fringe cult comedy favourite in Banshee Labyrinth venue.",
+      "url": "https://www.theguardian.com/p/x5e954",
+      "thumbnail": "https://media.guim.co.uk/1b91edd6482aad2aab2c612f58d4a399b09504b7/316_178_4439_3551/500.jpg",
+      "published": "2026-07-06T13:49:19Z",
+      "location": {
+        "name": "Edinburgh",
+        "lat": 55.9533,
+        "lng": -3.1883
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "football"
+    },
+    {
+      "id": "stage/2026/jul/06/underground-monk-show-edinburgh-fringe-cult-comedy",
+      "headline": "Underground Monk Show: inside Edinburgh fringe’s cult comedy of the highest order",
+      "summary": "Gaza doctor Hussam Abu Safiya reportedly severely injured after 18 months in Israeli detention without trial.",
+      "url": "https://www.theguardian.com/p/x5d89d",
+      "thumbnail": "https://media.guim.co.uk/3e3b5605837c14c414641f6dd7e76e5a4ed5537b/221_52_2282_1826/500.jpg",
+      "published": "2026-07-06T13:40:53Z",
+      "location": {
+        "name": "Gaza",
+        "lat": 31.9254,
+        "lng": 35.3369
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "stage"
     }
   ]
 }
