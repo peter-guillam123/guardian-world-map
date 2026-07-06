@@ -1,140 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-07-06T06:07:36.435Z",
-    "story_count": 93,
-    "oldest_story": "2026-07-05T08:00:21Z",
-    "newest_story": "2026-07-06T06:00:04Z",
+    "generated_at": "2026-07-06T11:01:58.552Z",
+    "story_count": 107,
+    "oldest_story": "2026-07-05T11:23:59Z",
+    "newest_story": "2026-07-06T11:00:03Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "world/2026/jul/05/why-viktor-orban-favourite-thinktank-is-in-crisis",
-      "headline": "‘Attack on civil society’: why Viktor Orbán’s favourite thinktank is in crisis",
-      "summary": "Hungary's new PM launches investigation into Orbán-linked Brussels thinktank MCC.",
-      "url": "https://www.theguardian.com/p/x5d36m",
-      "thumbnail": "https://media.guim.co.uk/df9f65875c6ff1e2af3b27a9e4bdd941155084d8/126_0_3780_3024/500.jpg",
-      "published": "2026-07-05T08:20:29Z",
-      "location": {
-        "name": "Brussels",
-        "lat": 50.8503,
-        "lng": 4.3517
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "culture/2026/jul/05/honest-playlist-leah-williamson-england-arsenal-norah-jones-lightning-seeds-luther-vandross",
-      "headline": "‘Justin Bieber was played so much in the changing room’: Leah Williamson’s honest playlist",
-      "summary": "England footballer Leah Williamson discusses her music playlist and childhood favourites.",
-      "url": "https://www.theguardian.com/p/x5at8a",
-      "thumbnail": "https://media.guim.co.uk/bc12ec0f465b5121fe8a3dc2248d2de32c5c70d5/1119_0_6475_5183/500.jpg",
-      "published": "2026-07-05T08:00:21Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "culture"
-    },
-    {
-      "id": "news/2026/jul/05/baptism-record-at-manchester-cathedral-offers-insight-into-black-mancunian-life-in-georgian-era-england",
-      "headline": "Baptism record at Manchester Cathedral offers insight into Black Mancunian life in Georgian-era England",
-      "summary": "Georgian-era baptism record reveals Black Mancunian life during abolitionist movement.",
-      "url": "https://www.theguardian.com/p/x5a6ep",
-      "thumbnail": "https://media.guim.co.uk/5902905e637137cbca04654eb30cf8baad419ca1/0_0_2866_2293/500.jpg",
-      "published": "2026-07-05T08:00:21Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4808,
-        "lng": -2.2426
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "news"
-    },
-    {
-      "id": "football/live/2026/jul/05/world-cup-2026-live-last-16-concludes-morocco-france-paraguay",
-      "headline": "World Cup 2026: Mexico v England buildup, France battle past Paraguay, Morocco march on – live",
-      "summary": "World Cup 2026 knockout stage continues with Mexico v England and France advancing past Paraguay.",
-      "url": "https://www.theguardian.com/p/x5dj4n",
-      "thumbnail": "https://media.guim.co.uk/2448745be882edff16edc000fa7a278f9e37a84d/825_0_4850_3880/500.jpg",
-      "published": "2026-07-05T10:37:53Z",
-      "location": {
-        "name": "Mexico",
-        "lat": 23.6345,
-        "lng": -102.5528
-      },
-      "category": "sport",
-      "significance": 4,
-      "section": "football"
-    },
-    {
-      "id": "politics/2026/jul/05/burnham-uk-transport-bee-network-manchester-buses-rail",
-      "headline": "‘Did Westminster just ignore buses?’ Burnham aims to shake up UK transport",
-      "summary": "Andy Burnham plans to expand Manchester's Bee Network model to revolutionize UK buses and rail transport.",
-      "url": "https://www.theguardian.com/p/x5de74",
-      "thumbnail": "https://media.guim.co.uk/ba31ac0964aa2707c7e33aca55f6365bca674c7e/0_0_5000_4000/500.jpg",
-      "published": "2026-07-05T10:00:23Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4808,
-        "lng": -2.2426
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "world/2026/jul/05/green-man-welsh-festival-celebrates-10-years-of-training-refugees",
-      "headline": "‘A big chunk of positive energy’: Green Man celebrates 10 years of training refugees",
-      "summary": "Green Man festival celebrates decade of training and supporting asylum seekers and refugees in Wales.",
-      "url": "https://www.theguardian.com/p/x5ddqx",
-      "thumbnail": "https://media.guim.co.uk/435453cd045010c0ab5a34b8e1b1cb774120bef6/755_0_3899_3119/500.jpg",
-      "published": "2026-07-05T10:00:23Z",
-      "location": {
-        "name": "Wales",
-        "lat": 52.1307,
-        "lng": -3.7837
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "stage/2026/jul/05/life-out-there-review-lowry-salford",
-      "headline": "Life Out There review – astronauts search for meaning in atmospheric space oddity",
-      "summary": "Theatre review of 'Life Out There' at Lowry explores existential themes through astronaut characters.",
-      "url": "https://www.theguardian.com/p/x5dp55",
-      "thumbnail": "https://media.guim.co.uk/ad797a7980676e54f8f06784c14a7c7a96103d30/737_293_3927_3143/500.jpg",
-      "published": "2026-07-05T09:56:42Z",
-      "location": {
-        "name": "Salford",
-        "lat": 53.4875,
-        "lng": -2.2901
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "stage"
-    },
-    {
-      "id": "politics/2026/jul/05/nigel-farage-did-not-declare-gifts-from-crypto-entrepreneur-george-cottrell-says-reform-uk",
-      "headline": "Nigel Farage did not declare gifts from crypto entrepreneur convicted of fraud",
-      "summary": "Nigel Farage failed to declare gifts from convicted crypto entrepreneur George Cottrell, Reform UK admits.",
-      "url": "https://www.theguardian.com/p/x5e2g3",
-      "thumbnail": "https://media.guim.co.uk/6504876f5591c52544310b10cbbd98c1301de664/117_0_3177_2543/500.jpg",
-      "published": "2026-07-05T09:40:48Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
     {
       "id": "sport/live/2026/jul/05/tour-de-france-2026-stage-two-in-catalonia-cycling-live-updates",
       "headline": "Tour de France 2026: stage two in Catalonia – live updates",
@@ -230,70 +102,6 @@
       "category": "culture",
       "significance": 1,
       "section": "stage"
-    },
-    {
-      "id": "us-news/2026/jul/05/micropenis-man-to-get-surgery",
-      "headline": "Man claiming world’s smallest penis says he’s booked enhancement surgery after public’s help",
-      "summary": "Man claiming world's smallest penis books enhancement surgery after successfully fundraising from online supporters.",
-      "url": "https://www.theguardian.com/p/x5dqk7",
-      "thumbnail": "https://media.guim.co.uk/ce2cd1b4737d069b71e929d5b10b91bf1600dafa/0_0_4367_3494/500.jpg",
-      "published": "2026-07-05T11:00:27Z",
-      "location": {
-        "name": "South Carolina",
-        "lat": 34.0007,
-        "lng": -81.1637
-      },
-      "category": "health",
-      "significance": 1,
-      "section": "us-news"
-    },
-    {
-      "id": "commentisfree/2026/jul/05/andy-burnham-polo-shirts-clarks-wallabees-style-prime-minister-manchester-no-10",
-      "headline": "Polo shirts, Clarks Wallabees, shorts: Burnham has finessed his style. Can he carry it to high office?",
-      "summary": "Andy Burnham's casual Manchester style may require wardrobe update if he becomes next UK prime minister.",
-      "url": "https://www.theguardian.com/p/x5ddnz",
-      "thumbnail": "https://media.guim.co.uk/f5362d5f69d92bfe46048e25b974070004c3c347/967_0_4847_3877/500.jpg",
-      "published": "2026-07-05T11:00:26Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "commentisfree"
-    },
-    {
-      "id": "environment/2026/jul/05/british-swallowtail-butterfly-distinct-subspecies-study-conservation",
-      "headline": "British swallowtail split from European cousins much earlier than thought, study finds",
-      "summary": "British swallowtail butterfly subspecies found distinct for 200,000 years, transforming Norfolk Broads conservation strategy.",
-      "url": "https://www.theguardian.com/p/x5bzjh",
-      "thumbnail": "https://media.guim.co.uk/f392dfa89d69539f01e8c6d70ab5de9751174a26/308_0_3135_2508/500.jpg",
-      "published": "2026-07-05T11:00:25Z",
-      "location": {
-        "name": "Norwich",
-        "lat": 52.6286,
-        "lng": 1.2973
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "environment"
-    },
-    {
-      "id": "lifeandstyle/2026/jul/05/dining-across-the-divide-david-janus",
-      "headline": "Dining across the divide: ‘I had an idea he was a Tommy Robinson fan and was thinking, Oh my God’",
-      "summary": "Dining across divide: English Democrats voter and retired tutor discuss political differences over flags and civic values.",
-      "url": "https://www.theguardian.com/p/x5avq3",
-      "thumbnail": "https://media.guim.co.uk/02d356a15880cda4702813f14a62e166b50d0bd1/1575_1972_4340_3472/500.jpg",
-      "published": "2026-07-05T11:00:25Z",
-      "location": {
-        "name": "York",
-        "lat": 53.9581,
-        "lng": -1.0873
-      },
-      "category": "politics",
-      "significance": 1,
-      "section": "lifeandstyle"
     },
     {
       "id": "sport/live/2026/jul/05/british-grand-prix-formula-one-f1-silverstone-live-updates",
@@ -1494,6 +1302,422 @@
       "category": "sport",
       "significance": 3,
       "section": "football"
+    },
+    {
+      "id": "world/2026/jul/06/turkey-crackdown-public-life-run-up-nato-summit-ankara",
+      "headline": "Turkey intensifies crackdown on public life in run-up to Nato summit in Ankara",
+      "summary": "Turkey intensifies crackdown on public life ahead of NATO summit with over 200 arrests and protests ban.",
+      "url": "https://www.theguardian.com/p/x5e3cq",
+      "thumbnail": "https://media.guim.co.uk/3849218ac533338eb5dfc487c3f08eef160e2da8/380_0_4654_3725/500.jpg",
+      "published": "2026-07-06T11:00:03Z",
+      "location": {
+        "name": "Ankara",
+        "lat": 39.9334,
+        "lng": 32.8597
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "global-development/2026/jul/06/burning-oil-well-niger-delta-awoye-nigeria",
+      "headline": "Smoke, soot and toxic fumes: Nigerian families living in shadow of burning oil well six years after blowout",
+      "summary": "Nigerian families near burning oil well in Niger Delta face six years of pollution, sickness and environmental destruction.",
+      "url": "https://www.theguardian.com/p/x574dv",
+      "thumbnail": "https://media.guim.co.uk/3dcabb773e7c953786f8b55c5af803a8952e0146/145_0_3000_2400/500.jpg",
+      "published": "2026-07-06T11:00:03Z",
+      "location": {
+        "name": "Awoye",
+        "lat": 5.3667,
+        "lng": 5.3667
+      },
+      "category": "climate",
+      "significance": 3,
+      "section": "global-development"
+    },
+    {
+      "id": "sport/live/2026/jul/06/tour-de-france-stage-three-goes-ahead-without-fans-amid-wildfire-threat-live",
+      "headline": "Tour de France 2026: stage three goes ahead without fans amid wildfire threat – live",
+      "summary": "Tour de France stage three proceeds without fans amid wildfire threat in Spanish Pyrenees region.",
+      "url": "https://www.theguardian.com/p/x5e879",
+      "thumbnail": "https://media.guim.co.uk/45ec7d67efb258db5fadc487b4b426f04fa14d95/594_0_3020_2416/500.jpg",
+      "published": "2026-07-06T11:00:02Z",
+      "location": {
+        "name": "Granollers",
+        "lat": 41.5934,
+        "lng": 2.2864
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "media/2026/jul/06/abc-license-renewals-fcc",
+      "headline": "Conservative fight against license renewals for ABC stations heats up",
+      "summary": "Conservative groups petition FCC to deny ABC license renewals citing political and bias allegations.",
+      "url": "https://www.theguardian.com/p/x5dg3d",
+      "thumbnail": "https://media.guim.co.uk/b8d27b89fd5c294749abff7d4185ee845fe5afc8/1005_44_3565_2852/500.jpg",
+      "published": "2026-07-06T11:00:02Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "media"
+    },
+    {
+      "id": "us-news/2026/jul/06/air-pollution-childhood-obesity-study",
+      "headline": "Air pollution may cause childhood obesity by disrupting impulse control, study finds",
+      "summary": "Study links air pollution exposure to childhood obesity through disruption of impulse control mechanisms.",
+      "url": "https://www.theguardian.com/p/x5d986",
+      "thumbnail": "https://media.guim.co.uk/5724e42a1ae8c0096546262b858bf7fab62609c6/805_903_2698_2159/500.jpg",
+      "published": "2026-07-06T11:00:02Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "commentisfree/2026/jul/06/king-charles-traitor-britain-religious-right-defender-of-all-faiths",
+      "headline": "He may be the king, but is Charles also a bit of a traitor? Dear reader, you decide",
+      "summary": "Opinion piece debates King Charles's proposed shift from defender of faith to defender of all faiths.",
+      "url": "https://www.theguardian.com/p/x5dy93",
+      "thumbnail": "https://media.guim.co.uk/0918d032057c79da1f2400e1ab3a63e5f8025e48/190_0_2047_1637/500.jpg",
+      "published": "2026-07-06T11:00:01Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 1,
+      "section": "commentisfree"
+    },
+    {
+      "id": "environment/2026/jul/06/workers-unions-trump-wind-energy",
+      "headline": "‘Why take those jobs away?’: the unionized workers decrying Trump’s war on wind",
+      "summary": "Unionized wind energy workers criticize Trump administration's campaign against renewable energy jobs.",
+      "url": "https://www.theguardian.com/p/x5cpz8",
+      "thumbnail": "https://media.guim.co.uk/90d611cad3f96c77832301a854115f068e733b9d/579_0_3122_2497/500.jpg",
+      "published": "2026-07-06T11:00:01Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "environment"
+    },
+    {
+      "id": "world/live/2026/jul/06/iran-middle-east-crisis-funeral-supreme-leader-ali-khamenei-tehran-latest-news-updates",
+      "headline": "Middle East crisis live: Funeral procession for supreme leader Ali Khamenei begins in Iran ",
+      "summary": "Millions attend funeral procession for Iranian supreme leader Ali Khamenei killed in February US-Israel airstrikes.",
+      "url": "https://www.theguardian.com/p/x5e7jh",
+      "thumbnail": "https://media.guim.co.uk/1f9581f0a6402e1827a05f15c4bd4167805c55e7/55_0_1881_1504/500.jpg",
+      "published": "2026-07-06T10:59:35Z",
+      "location": {
+        "name": "Tehran",
+        "lat": 35.6892,
+        "lng": 51.3895
+      },
+      "category": "conflict",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "film/2026/jul/06/robert-richardson-the-white-devil-review-legendary-cinematographer-tarantino-scorsese-stone",
+      "headline": "Robert Richardson: The White Devil review – tempestuous DoP’s relationship with A-list directors laid bare",
+      "summary": "Documentary on legendary cinematographer Robert Richardson screening at Karlovy Vary film festival.",
+      "url": "https://www.theguardian.com/p/x5dqgg",
+      "thumbnail": "https://media.guim.co.uk/c7e144b80f9fd0eecd71217fd0ddb8075470467f/348_0_1349_1080/500.jpg",
+      "published": "2026-07-06T10:58:20Z",
+      "location": {
+        "name": "Karlovy Vary",
+        "lat": 50.2246,
+        "lng": 12.8736
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "film"
+    },
+    {
+      "id": "uk-news/2026/jul/06/parents-children-paper-hedgehogs-pages-explicit-novel",
+      "headline": "Parents shocked after children’s paper hedgehogs found to contain pages from explicit novel",
+      "summary": "Parents shocked to find paper hedgehogs made from explicit novel pages distributed to children.",
+      "url": "https://www.theguardian.com/p/x5e85d",
+      "thumbnail": "https://media.guim.co.uk/9141a07853810b18bb44b305d53c43aa4fc683c9/0_196_684_547/500.jpg",
+      "published": "2026-07-06T10:58:16Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "other",
+      "significance": 1,
+      "section": "uk-news"
+    },
+    {
+      "id": "business/live/2026/jul/06/sky-takeover-itv-broadcasting-media-deal-business-live-news",
+      "headline": "Sky owner strikes £1.6bn ITV deal; easyJet shares hit four-year high after it agrees £5.5bn takeover ‘in principle’ - business live",
+      "summary": "Sky owner strikes £1.6bn ITV deal; easyJet agrees £5.5bn takeover in principle; Novartis buys Myricx Bio.",
+      "url": "https://www.theguardian.com/p/x5e7cq",
+      "thumbnail": "https://media.guim.co.uk/4474d3a3d2e56f0a9984cb709f7c873c9e0608a9/570_0_3347_2677/500.jpg",
+      "published": "2026-07-06T10:56:51Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "uk-news/2026/jul/06/buckingham-palace-denies-prince-harry-to-stay-royal-residence-uk-visit-row-duke-of-sussex",
+      "headline": "Buckingham Palace denies Prince Harry to stay at royal residence during UK visit",
+      "summary": "Buckingham Palace denies Prince Harry accommodation offer during UK visit amid renewed family row.",
+      "url": "https://www.theguardian.com/p/x5e88f",
+      "thumbnail": "https://media.guim.co.uk/69576fa2b81016d060b16e57c9dc0ed465441782/659_0_4369_3496/500.jpg",
+      "published": "2026-07-06T10:55:30Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "uk-news"
+    },
+    {
+      "id": "world/live/2026/jul/06/ukraine-russia-zelenskyy-nato-summit-strikes-kyiv-europe-latest-news-updates",
+      "headline": "Zelenskyy calls for ‘strong decisions’ at Nato summit after Russia kills 14 in overnight strikes on Kyiv – Europe live ",
+      "summary": "Zelenskyy calls for strong NATO decisions as Russia kills 14 in overnight strikes on Kyiv, injuring 117.",
+      "url": "https://www.theguardian.com/p/x5e7nf",
+      "thumbnail": "https://media.guim.co.uk/6c5e5f98fe260b1ad24f89038a58078eddc93c43/0_0_4904_3923/500.jpg",
+      "published": "2026-07-06T10:55:04Z",
+      "location": {
+        "name": "Kyiv",
+        "lat": 50.4501,
+        "lng": 30.5234
+      },
+      "category": "conflict",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "uk-news/2026/jul/06/jamaican-man-deportation-uk-immigration-bill",
+      "headline": "Jamaican man who has lived in UK for 26 years facing deportation",
+      "summary": "Jamaican man facing deportation after 26 years in UK under new immigration measures.",
+      "url": "https://www.theguardian.com/p/x5e86y",
+      "thumbnail": "https://media.guim.co.uk/2ae42b2a9e86efae54c2731246febfb8a695ede5/0_228_1500_1200/500.jpg",
+      "published": "2026-07-06T10:49:12Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 1,
+      "section": "uk-news"
+    },
+    {
+      "id": "guardian-clearing/2026/jul/06/how-to-use-ai-for-studying-without-breaking-the-rules",
+      "headline": "How AI can supercharge your studies – but don’t cross any red lines",
+      "summary": "University of Reading professor guides students on ethical AI use in studies.",
+      "url": "https://www.theguardian.com/p/x5d3xx",
+      "thumbnail": "https://media.guim.co.uk/6977c423e1ccfd4b99bd23dd133ddb8f169f511e/605_152_4369_3496/500.jpg",
+      "published": "2026-07-06T10:31:33Z",
+      "location": {
+        "name": "Reading",
+        "lat": 51.44,
+        "lng": -0.94
+      },
+      "category": "tech",
+      "significance": 2,
+      "section": "guardian-clearing"
+    },
+    {
+      "id": "politics/2026/jul/06/keir-starmer-nato-summit-us-rebuke-defence-spending",
+      "headline": "Starmer faces likely row at Nato summit after US rebuke on defence spending",
+      "summary": "UK PM Starmer faces NATO summit row over UK defence spending targets.",
+      "url": "https://www.theguardian.com/p/x5e862",
+      "thumbnail": "https://media.guim.co.uk/e33d0b077a620141d3e7df2c5f413e7577fb5374/508_0_4359_3487/500.jpg",
+      "published": "2026-07-06T10:28:31Z",
+      "location": {
+        "name": "Ankara",
+        "lat": 39.9334,
+        "lng": 32.8597
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "politics"
+    },
+    {
+      "id": "politics/live/2026/jul/06/nigel-farage-reform-unregistered-gift-crypto-christopher-harborne-keir-starmer-labour-andy-burnham-uk-politics-live",
+      "headline": "Farage warned attack against ‘establishment’ over unregistered gifts could lead to harsher punishment – UK politics live",
+      "summary": "Nigel Farage warns of parliamentary standards investigation into £5m donation.",
+      "url": "https://www.theguardian.com/p/x5e7yz",
+      "thumbnail": "https://media.guim.co.uk/f03bc8ea0fbab9b3078672004802079413952888/855_0_6240_4993/500.jpg",
+      "published": "2026-07-06T10:25:01Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "sport/2026/jul/06/why-willows-put-the-rest-in-the-shade-when-cricket-goes-planting-trees",
+      "headline": "Why willows put the rest in the shade when cricket goes planting trees ",
+      "summary": "Willow trees prove vital for cricket grounds during extreme heat wave.",
+      "url": "https://www.theguardian.com/p/x5dj6a",
+      "thumbnail": "https://media.guim.co.uk/6afa7539623d10ae1c0abf352822d6f87ad3818e/0_3214_5229_4183/500.jpg",
+      "published": "2026-07-06T10:03:51Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 1,
+      "section": "sport"
+    },
+    {
+      "id": "football/2026/jul/06/watch-mexico-england-world-cup-match",
+      "headline": "Did you watch Mexico v England at the World Cup? We’d like to hear from you",
+      "summary": "England beats Mexico 3-2 in World Cup quarter-final despite altitude challenge.",
+      "url": "https://www.theguardian.com/p/x5e82a",
+      "thumbnail": "https://media.guim.co.uk/f069e12c3688d203b0ad1d1d7569631c4403a466/1194_0_6352_5084/500.jpg",
+      "published": "2026-07-06T10:03:17Z",
+      "location": {
+        "name": "Mexico City",
+        "lat": 19.4326,
+        "lng": -99.1332
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "world/2026/jul/06/wildfires-southern-europe-evacuations-tour-de-france-portugal-spain-greece-heatwave",
+      "headline": "Wildfires rage across southern Europe, forcing thousands to flee homes",
+      "summary": "Wildfires rage across southern Europe, forcing evacuations and Tour de France spectator ban.",
+      "url": "https://www.theguardian.com/p/x5e7mc",
+      "thumbnail": "https://media.guim.co.uk/f1af44395682889c834753284802322041382037/500_0_5000_4000/500.jpg",
+      "published": "2026-07-06T10:01:31Z",
+      "location": {
+        "name": "France",
+        "lat": 46.2276,
+        "lng": 2.2137
+      },
+      "category": "climate",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "sport/live/2026/jul/06/wimbledon-2026-de-minaur-fery-and-keys-in-action-on-day-eight-live",
+      "headline": "Wimbledon 2026: De Minaur, Fery and Keys in action on day eight – live",
+      "summary": "Wimbledon 2026 day eight: De Minaur, Fery and Keys compete in second week.",
+      "url": "https://www.theguardian.com/p/x5e6vj",
+      "thumbnail": "https://media.guim.co.uk/587762a9e1e442a93e925d23a60bf69b9bbe52f3/443_126_3508_2806/500.jpg",
+      "published": "2026-07-06T10:00:54Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "commentisfree/2026/jul/06/trump-administration-democracy-resistance",
+      "headline": "Trump is a danger to US democracy. But the resistance is working",
+      "summary": "Trump threatens US democracy but checks and balances limit autocracy push.",
+      "url": "https://www.theguardian.com/p/x5dfta",
+      "thumbnail": "https://media.guim.co.uk/b6c9bdd0fce9877a23be1d58e5374470ad956fec/441_0_4408_3527/500.jpg",
+      "published": "2026-07-06T10:00:53Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "commentisfree"
+    },
+    {
+      "id": "us-news/2026/jul/06/ncaa-charlie-baker-trans-athlete-rules-supreme-court-ruling",
+      "headline": "NCAA president expects no changes to trans athlete rules after US supreme court ruling",
+      "summary": "NCAA expects no trans athlete rule changes after Supreme Court ruling.",
+      "url": "https://www.theguardian.com/p/x5e55k",
+      "thumbnail": "https://media.guim.co.uk/f37b6cf9f160fcf84ae505b230169f4b1279b4a3/671_0_4488_3590/500.jpg",
+      "published": "2026-07-06T10:00:52Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "us-news/2026/jul/06/no-country-for-mothers-film",
+      "headline": "‘Impossible to be a mom’: new film shines light on how America fails its mothers",
+      "summary": "Documentary 'No Country for Mothers' highlights US maternal support gaps.",
+      "url": "https://www.theguardian.com/p/x5d47z",
+      "thumbnail": "https://media.guim.co.uk/c6c1e9761bdf200a68817dc8228ca1c2b56ff97f/171_0_1705_1365/500.jpg",
+      "published": "2026-07-06T10:00:52Z",
+      "location": {
+        "name": "Minneapolis",
+        "lat": 44.9778,
+        "lng": -93.265
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "artanddesign/2026/jul/06/smithsonian-space-museum-exhibition",
+      "headline": "‘Flight originated from the imagination’: how artists have captured space travel",
+      "summary": "Smithsonian's National Air and Space Museum celebrates 50 years with art and space travel exhibition.",
+      "url": "https://www.theguardian.com/p/x5bq2x",
+      "thumbnail": "https://media.guim.co.uk/25d7be1f967c3eb98d31bd556e708d0b69125390/339_0_2436_1950/500.jpg",
+      "published": "2026-07-06T10:00:51Z",
+      "location": {
+        "name": "Washington, DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "artanddesign"
+    },
+    {
+      "id": "uk-news/2026/jul/06/pizza-express-inquiry-former-prince-andrew-visit-woking-branch",
+      "headline": "Pizza Express ‘held inquiry into former prince Andrew’s visit to Woking branch’",
+      "summary": "Pizza Express reportedly investigated Prince Andrew's alibi claim of visiting Woking branch.",
+      "url": "https://www.theguardian.com/p/x5e8xg",
+      "thumbnail": "https://media.guim.co.uk/22daf97c33e66bbb65204244fddb85b1a8c61fed/576_0_4922_3937/500.jpg",
+      "published": "2026-07-06T10:00:00Z",
+      "location": {
+        "name": "Woking",
+        "lat": 51.3109,
+        "lng": -0.5558
+      },
+      "category": "politics",
+      "significance": 3,
+      "section": "uk-news"
     }
   ]
 }
