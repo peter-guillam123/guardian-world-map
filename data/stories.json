@@ -1,44 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-07-05T23:46:18.688Z",
+    "generated_at": "2026-07-06T01:28:41.635Z",
     "story_count": 90,
-    "oldest_story": "2026-07-05T00:55:11Z",
-    "newest_story": "2026-07-05T23:01:40Z",
+    "oldest_story": "2026-07-05T04:45:36Z",
+    "newest_story": "2026-07-06T00:44:14Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/2026/jul/04/french-football-chief-condemns-chilaverts-remarks-that-les-bleus-are-a-squad-from-africa",
-      "headline": "French football chief condemns Chilavert’s remarks that Les Bleus are ‘a squad from Africa’",
-      "summary": "French football federation condemns ex-Paraguay goalkeeper's racist remarks about Les Bleus squad composition.",
-      "url": "https://www.theguardian.com/p/x5exv8",
-      "thumbnail": "https://media.guim.co.uk/a7ab14d9d507b83ae305fd1353ff023644ec4f7a/1256_205_4744_3795/500.jpg",
-      "published": "2026-07-05T01:00:20Z",
-      "location": {
-        "name": "France",
-        "lat": 48.8566,
-        "lng": 2.3522
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "football/2026/jul/05/england-mexico-world-cup-last-16-azteca-preview",
-      "headline": "England braced for a Mexican whirlwind as Tuchel strives for calm amid the chaos",
-      "summary": "England faces Mexico in World Cup last-16 clash at Azteca Stadium amid stormy weather conditions.",
-      "url": "https://www.theguardian.com/p/x5dzva",
-      "thumbnail": "https://media.guim.co.uk/96cb767d7dc6b2d60c81cf49260c6e26c6a5ffeb/649_320_1731_1384/500.jpg",
-      "published": "2026-07-05T00:55:11Z",
-      "location": {
-        "name": "Mexico City",
-        "lat": 19.4326,
-        "lng": -99.1332
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
     {
       "id": "australia-news/2026/jul/05/nsw-labor-to-adopt-tougher-pokies-stance-as-sydney-inner-west-mayor-says-momentum-for-real-reform-unstoppable",
       "headline": "NSW Labor toughens pokies stance as Sydney inner west mayor says ‘momentum for real reform unstoppable’",
@@ -1446,6 +1414,38 @@
       "category": "sport",
       "significance": 2,
       "section": "sport"
+    },
+    {
+      "id": "football/2026/jul/06/erling-haaland-one-of-the-sickest-days-norway-history-beating-brazil-world-cup",
+      "headline": "Erling Haaland hails ‘one of the sickest days’ in Norway’s history after beating Brazil",
+      "summary": "Norway beats Brazil in World Cup quarter-finals, historic first-time achievement in tournament.",
+      "url": "https://www.theguardian.com/p/x5e67h",
+      "thumbnail": "https://media.guim.co.uk/f78b6828c7c80d16aae48314cb6d81d8857af499/269_0_5328_4264/500.jpg",
+      "published": "2026-07-06T00:44:14Z",
+      "location": {
+        "name": "Norway",
+        "lat": 60.472,
+        "lng": 8.4689
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "stage/2026/jul/06/doubt-a-parable-review-sydney-theatre-company",
+      "headline": "Doubt: A Parable review – Sam Reid and Pamela Rabe go head-to-head in electrifying drama",
+      "summary": "Sydney Theatre Company's production of 'Doubt: A Parable' features Reid and Rabe in electrifying drama.",
+      "url": "https://www.theguardian.com/p/x5e6vn",
+      "thumbnail": "https://media.guim.co.uk/43da72a1c528c285027ff43100e089ce4c9d52b5/181_0_1600_1280/500.jpg",
+      "published": "2026-07-06T00:30:37Z",
+      "location": {
+        "name": "Sydney",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "stage"
     }
   ]
 }
