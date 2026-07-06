@@ -1,316 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-07-06T14:33:46.578Z",
-    "story_count": 97,
-    "oldest_story": "2026-07-05T14:50:09Z",
-    "newest_story": "2026-07-06T14:30:40Z",
+    "generated_at": "2026-07-06T17:24:27.258Z",
+    "story_count": 89,
+    "oldest_story": "2026-07-05T17:30:47Z",
+    "newest_story": "2026-07-06T17:18:10Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "artanddesign/2026/jul/05/paul-mccartney-i-want-to-hold-your-hand-taylor-swift-wedding",
-      "headline": "Paul McCartney performs I Want to Hold Your Hand for first time in 60 years at Taylor Swift wedding",
-      "summary": "Paul McCartney performs Beatles hit at Taylor Swift-Travis Kelce wedding.",
-      "url": "https://www.theguardian.com/p/x5e3zq",
-      "thumbnail": "https://media.guim.co.uk/9097cfc7eac65f56b6e3382f5d013d1f0637b588/1814_0_1736_1390/500.jpg",
-      "published": "2026-07-05T15:37:10Z",
-      "location": {
-        "name": "New York",
-        "lat": 40.758,
-        "lng": -73.9855
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "artanddesign"
-    },
-    {
-      "id": "football/2026/jul/05/football-daily-france-knockout-punch-paraguay-battle-of-philadelphia-world-cup",
-      "headline": "France deliver knockout punch to Paraguay in the Battle of Philadelphia ",
-      "summary": "France defeats Paraguay 1-0 in World Cup match in Philadelphia.",
-      "url": "https://www.theguardian.com/p/x5dqeh",
-      "thumbnail": "https://media.guim.co.uk/ee904ec7e56f99a242952269d710486ad0a82f47/893_0_5974_4780/500.jpg",
-      "published": "2026-07-05T15:15:40Z",
-      "location": {
-        "name": "Philadelphia",
-        "lat": 39.9526,
-        "lng": -75.1652
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "sport/blog/2026/jul/06/brayden-maynard-a-robust-afl-player-opposition-coaches-would-love-to-have",
-      "headline": "Brayden Maynard: a robust AFL player opposition coaches would love to have ",
-      "summary": "Analysis of Collingwood's Brayden Maynard ahead of AFL finals.",
-      "url": "https://www.theguardian.com/p/x5exap",
-      "thumbnail": "https://media.guim.co.uk/9dad68a4290b07b43a0b8de48cc56354b8244ad7/123_0_2781_2225/500.jpg",
-      "published": "2026-07-05T15:00:32Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "sport",
-      "significance": 1,
-      "section": "sport"
-    },
-    {
-      "id": "lifeandstyle/2026/jul/06/the-kindness-of-strangers-my-son-was-unconscious-and-i-frantically-called-out-for-help-then-five-teenagers-came-running",
-      "headline": "The kindness of strangers: My son was unconscious and I frantically called out for help – then five teenagers came running",
-      "summary": "Teenagers help unconscious child in Australian park, demonstrating kindness.",
-      "url": "https://www.theguardian.com/p/x5cmc3",
-      "thumbnail": "https://media.guim.co.uk/4286af5989c2935c55996e9e8f3bce1931202f0f/222_0_2985_2389/500.jpg",
-      "published": "2026-07-05T15:00:32Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "health",
-      "significance": 1,
-      "section": "lifeandstyle"
-    },
-    {
-      "id": "world/2026/jul/05/gazas-musicians-reopen-bomb-shattered-conservatory-in-tents",
-      "headline": "Gaza’s musicians reopen bomb-shattered conservatory – in tents",
-      "summary": "Gaza musicians reopen conservatory in tents despite war destruction.",
-      "url": "https://www.theguardian.com/p/x5d498",
-      "thumbnail": "https://media.guim.co.uk/65a5180baff96fe3d9d23264877a23377e4f9316/128_0_3840_3072/500.jpg",
-      "published": "2026-07-05T15:00:31Z",
-      "location": {
-        "name": "Gaza",
-        "lat": 31.9454,
-        "lng": 35.3475
-      },
-      "category": "culture",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "australia-news/2026/jul/06/sydney-spectacle-island-coming-up-for-sale",
-      "headline": "Off limits to Sydneysiders for more than a century, secretive Spectacle Island is coming up for sale",
-      "summary": "Sydney's secretive Spectacle Island put up for sale after 100+ years.",
-      "url": "https://www.theguardian.com/p/x5cvcg",
-      "thumbnail": "https://media.guim.co.uk/a80b2f22cf81a56e104b0692ba16f38ce6cc982c/255_0_3445_2756/500.jpg",
-      "published": "2026-07-05T15:00:31Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "australia-news/2026/jul/06/australiansuper-coal-investment-superannuation-net-zero-pledge-climate",
-      "headline": "Coal is back in AustralianSuper’s portfolio. What happened to that net zero pledge?",
-      "summary": "AustralianSuper becomes Whitehaven's largest investor despite net zero pledge.",
-      "url": "https://www.theguardian.com/p/x5cmcm",
-      "thumbnail": "https://media.guim.co.uk/0f84b37c3b417e13a4d2041f2b5c0939851d11ec/272_0_3750_3000/500.jpg",
-      "published": "2026-07-05T15:00:31Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "football/blog/2026/jul/06/tony-popovic-socceroos-australia-world-cup-analysis",
-      "headline": "Tony Popovic gets FA backing but is he is right man to take Socceroos forward?",
-      "summary": "Tony Popovic's Socceroos coaching future questioned after Egypt loss.",
-      "url": "https://www.theguardian.com/p/x5evnj",
-      "thumbnail": "https://media.guim.co.uk/b62fad685260be6d99e1870e80806f6026b3184b/453_0_4110_3290/500.jpg",
-      "published": "2026-07-05T15:00:30Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "australia-news/2026/jul/06/fears-queenslanders-could-be-forced-to-pay-for-mine-cleanup-as-lnp-reviews-environmental-red-tape",
-      "headline": "Fears Queenslanders could be forced to pay for mine cleanup as LNP reviews environmental ‘red tape’",
-      "summary": "Queensland LNP reviews mining regulations amid concerns over cleanup costs.",
-      "url": "https://www.theguardian.com/p/x5d6ze",
-      "thumbnail": "https://media.guim.co.uk/9be6aa11e69720a4fad01f21036f995b5a957e2a/1197_0_2835_2268/500.jpg",
-      "published": "2026-07-05T15:00:30Z",
-      "location": {
-        "name": "Brisbane",
-        "lat": -27.4698,
-        "lng": 153.0251
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "australia-news/2026/jul/06/fish-deaths-murray-darling-nsw-failed-funding-bid-better-water",
-      "headline": "Mass fish deaths feared as Minns government promise to restore Murray-Darling rivers in doubt",
-      "summary": "NSW Murray-Darling restoration plan in doubt after federal funding refusal.",
-      "url": "https://www.theguardian.com/p/x5dhnp",
-      "thumbnail": "https://media.guim.co.uk/3db0c535c6e3fcc4c8bec02808615102e26d3ed7/638_0_4560_3648/500.jpg",
-      "published": "2026-07-05T15:00:29Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "world/2026/jul/05/iran-control-strait-of-hormuz-ali-khamenei-funeral",
-      "headline": "Iran seeks to tighten control over strait of Hormuz alongside Khamenei funeral",
-      "summary": "Iran tightens Strait of Hormuz control amid Khamenei funeral ceremonies.",
-      "url": "https://www.theguardian.com/p/x5e366",
-      "thumbnail": "https://media.guim.co.uk/579e77d9e6a8b32a6be4e59986b07c50e08e7273/1104_0_7168_5735/500.jpg",
-      "published": "2026-07-05T14:50:09Z",
-      "location": {
-        "name": "Tehran",
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "politics/2026/jul/05/latest-allegations-nigel-farage-funding-reform",
-      "headline": "What are the latest allegations about Nigel Farage’s funding? ",
-      "summary": "Nigel Farage faces fresh funding allegations involving a convicted fraudster.",
-      "url": "https://www.theguardian.com/p/x5e43z",
-      "thumbnail": "https://media.guim.co.uk/1af3a0eb8900ed642af606ae52b7916276322998/829_106_4866_3893/500.jpg",
-      "published": "2026-07-05T16:38:03Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
-    {
-      "id": "us-news/2026/jul/05/fbi-seizes-600-drones-world-cup-games",
-      "headline": "FBI seized more than 600 drones flying over World Cup games in US cities",
-      "summary": "FBI seized over 600 drones flying over restricted World Cup airspace across US cities.",
-      "url": "https://www.theguardian.com/p/x5e4xz",
-      "thumbnail": "https://media.guim.co.uk/267a94e70e5680ca6119cc2a9d4faadacbbba722/20_0_7920_6336/500.jpg",
-      "published": "2026-07-05T16:36:15Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "us-news"
-    },
-    {
-      "id": "football/2026/jul/05/freddy-the-german-world-cup-2026",
-      "headline": "Freddy the German: psyop, mirror to US rapacity or Tocqueville in a CR7 shirt?",
-      "summary": "World Cup breakout fan 'Freddy' identity debated as tournament's revealing character.",
-      "url": "https://www.theguardian.com/p/x5e47h",
-      "thumbnail": "https://media.guim.co.uk/1d5f5dc352c318ea00e70df1553a6e023143f09e/488_0_4885_3908/500.jpg",
-      "published": "2026-07-05T16:08:33Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "culture/2026/jul/05/a-richly-woven-tapestry-of-britains-medieval-heritage",
-      "headline": "A richly woven tapestry of Britain’s medieval heritage",
-      "summary": "Readers discuss Britain's medieval heritage beyond the Bayeux Tapestry.",
-      "url": "https://www.theguardian.com/p/x5d27g",
-      "thumbnail": "https://media.guim.co.uk/ced0a2f5fe9115d5d9589c308173af8cb60d8ec8/458_0_4583_3667/500.jpg",
-      "published": "2026-07-05T16:07:28Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "culture"
-    },
-    {
-      "id": "world/2026/jul/05/we-must-protect-palestinian-children-from-being-killed",
-      "headline": "We must protect Palestinian children from being killed",
-      "summary": "Unicef UK chief urges protection of Palestinian children from West Bank violence.",
-      "url": "https://www.theguardian.com/p/x5djk4",
-      "thumbnail": "https://media.guim.co.uk/65da59581ff744369089491a50a4b96d0b8d3eea/533_0_4583_3667/500.jpg",
-      "published": "2026-07-05T16:04:54Z",
-      "location": {
-        "name": "Ramallah",
-        "lat": 31.9454,
-        "lng": 35.1975
-      },
-      "category": "conflict",
-      "significance": 3,
-      "section": "world"
-    },
-    {
-      "id": "uk-news/2026/jul/05/raise-awareness-of-citizenship-for-children",
-      "headline": "Raise awareness of citizenship for children",
-      "summary": "UK citizenship rights awareness campaign needed following government policy changes.",
-      "url": "https://www.theguardian.com/p/x5d9gy",
-      "thumbnail": "https://media.guim.co.uk/bded3016cb1b831d5058bbcba40258e9d0a1dd72/393_0_3908_3127/500.jpg",
-      "published": "2026-07-05T16:04:24Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 1,
-      "section": "uk-news"
-    },
-    {
-      "id": "politics/2026/jul/05/keeping-it-clean-even-when-politics-is-dirty",
-      "headline": "Keeping it clean even when politics is dirty",
-      "summary": "Readers discuss ethics and accountability in political activism and governance.",
-      "url": "https://www.theguardian.com/p/x5e32a",
-      "thumbnail": "https://media.guim.co.uk/e6eb258f7b661c506018b58675abd6b0d44b7d46/0_0_4800_3840/500.jpg",
-      "published": "2026-07-05T16:04:10Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 1,
-      "section": "politics"
-    },
-    {
-      "id": "politics/2026/jul/05/problems-with-andy-burnhams-drive-for-devolution",
-      "headline": "Problems with Andy Burnham’s drive for devolution ",
-      "summary": "Andy Burnham's devolution plan faces criticism over NHS funding constraints.",
-      "url": "https://www.theguardian.com/p/x5deqm",
-      "thumbnail": "https://media.guim.co.uk/75fe3e78bf8d7438e444ae57b2fdf648894f821b/608_0_4236_3389/500.jpg",
-      "published": "2026-07-05T16:03:54Z",
-      "location": {
-        "name": "Manchester",
-        "lat": 53.4808,
-        "lng": -2.2426
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "politics"
-    },
     {
       "id": "football/2026/jul/05/paraguay-france-morocco-world-cup-2026",
       "headline": "Paraguay showed France can be stifled – Morocco will have taken note",
@@ -342,70 +38,6 @@
       "category": "culture",
       "significance": 1,
       "section": "education"
-    },
-    {
-      "id": "business/2026/jul/05/anthony-kasozi-obituary",
-      "headline": "Anthony Kasozi obituary",
-      "summary": "EasyJet agrees to £5bn takeover by US investment firm Castlelake, going private.",
-      "url": "https://www.theguardian.com/p/x58gkb",
-      "thumbnail": "https://media.guim.co.uk/42316bf08f0b0f065f4b770c4d65d3db065cdbba/547_395_2766_2212/500.jpg",
-      "published": "2026-07-05T17:17:22Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "business/2026/jul/05/easyjet-agrees-to-5bn-takeover-by-us-investment-firm",
-      "headline": "EasyJet agrees to £5bn takeover by US investment firm",
-      "summary": "Anthony Kasozi, leadership coach and PwC consultant, dies of cancer aged 65.",
-      "url": "https://www.theguardian.com/p/x5e4g9",
-      "thumbnail": "https://media.guim.co.uk/8173aa246b68e236ca117d65ad04057fd2b25481/272_0_2451_1961/500.jpg",
-      "published": "2026-07-05T17:11:13Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "economy",
-      "significance": 1,
-      "section": "business"
-    },
-    {
-      "id": "football/2026/jul/05/folarin-balogun-red-card-suspension-lifted-usmnt-belgium-world-cup",
-      "headline": "Folarin Balogun eligible to play for US v Belgium as Fifa rescinds suspension for red card",
-      "summary": "Fifa rescinds Folarin Balogun's suspension, allowing him to play for USA vs Belgium.",
-      "url": "https://www.theguardian.com/p/x5e4g2",
-      "thumbnail": "https://media.guim.co.uk/101942752f34779c056fcd9f6746b6befac1ac9f/421_0_2500_2000/500.jpg",
-      "published": "2026-07-05T17:04:15Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "football"
-    },
-    {
-      "id": "sport/2026/jul/05/springbok-thrashing-leaves-england-praying-fiji-dont-topple-borthwick-project",
-      "headline": "Springbok thrashing leaves England praying Fiji don’t topple Borthwick project",
-      "summary": "England loses to world champion Springboks; faces Fiji test of Steve Borthwick's project.",
-      "url": "https://www.theguardian.com/p/x5e38z",
-      "thumbnail": "https://media.guim.co.uk/f8b1a7a887de9bb79bce4fdbbbaeaf508ed74d85/133_0_7200_5760/500.jpg",
-      "published": "2026-07-05T17:00:32Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
     },
     {
       "id": "sport/2026/jul/05/australia-england-womens-t20-world-cup-final-match-report-cricket",
@@ -1558,6 +1190,246 @@
       "category": "conflict",
       "significance": 3,
       "section": "stage"
+    },
+    {
+      "id": "politics/2026/jul/06/keir-starmer-intervened-oppose-fifa-plan-move-england-kick-off-time",
+      "headline": "Keir Starmer intervened to oppose Fifa’s plan to move England kick-off time ",
+      "summary": "PM Keir Starmer intervened diplomatically to oppose FIFA's plan to shift England's World Cup kick-off time.",
+      "url": "https://www.theguardian.com/p/x5eavh",
+      "thumbnail": "https://media.guim.co.uk/3a0bb78ce6fc7a3202e4701a895a2a4b247d9815/652_0_4436_3549/500.jpg",
+      "published": "2026-07-06T17:18:10Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "football/2026/jul/06/how-england-fans-coping-late-night-mexico-game",
+      "headline": "The happy hangover: how England fans are coping after late night watching Mexico game",
+      "summary": "England fans cope with exhaustion after late-night 4am finish watching England beat Mexico in World Cup.",
+      "url": "https://www.theguardian.com/p/x5e8td",
+      "thumbnail": "https://media.guim.co.uk/016ddca4611765fcd30ed5a4171c227025c4d765/727_0_3643_2915/500.jpg",
+      "published": "2026-07-06T17:17:46Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "football"
+    },
+    {
+      "id": "politics/2026/jul/06/nigel-farage-witch-hunt-reform-partygate-moment",
+      "headline": "Nigel Farage cries ‘witch-hunt’ – but this may be Reform’s Partygate moment",
+      "summary": "Nigel Farage claims 'witch-hunt' as Reform UK leader faces media scrutiny over personal financial support.",
+      "url": "https://www.theguardian.com/p/x5e9vd",
+      "thumbnail": "https://media.guim.co.uk/b8216c3ef9023f46e9197f1d6a163e9ca1141b05/291_0_3963_3171/500.jpg",
+      "published": "2026-07-06T17:12:05Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "business/nils-pratley-on-finance/2026/jul/06/streaming-storm-made-itv-sharing-a-roof-with-sky-sadly-inevitable",
+      "headline": "Streaming storm made ITV sharing a roof with Sky sadly inevitable",
+      "summary": "ITV's merger with Sky marks end of era as streaming competition from Netflix and Disney+ makes consolidation inevitable.",
+      "url": "https://www.theguardian.com/p/x5e896",
+      "thumbnail": "https://media.guim.co.uk/6a17a2f5f3eda1a100e0e066f7f7f7ea03056824/1263_167_3672_2938/500.jpg",
+      "published": "2026-07-06T16:57:09Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "uk-news/2026/jul/06/colin-perchard-obituary",
+      "headline": "Colin Perchard obituary",
+      "summary": "Colin Perchard, British Council official who served in India and Zimbabwe, dies aged 85.",
+      "url": "https://www.theguardian.com/p/x5def8",
+      "thumbnail": "https://media.guim.co.uk/170daa625cfa2d38a63600e8a0663c2c05727d2a/145_0_1918_1535/500.jpg",
+      "published": "2026-07-06T16:55:09Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "uk-news"
+    },
+    {
+      "id": "world/2026/jul/06/canada-buys-12-tkms-german-norwegian-submarines-after-bidding-war",
+      "headline": "Canada to buy 12 hi-tech German submarines after bidding war",
+      "summary": "Canada selects German consortium to build 12 hi-tech submarines in multibillion-dollar NATO-deepening defence contract.",
+      "url": "https://www.theguardian.com/p/x5e9cm",
+      "thumbnail": "https://media.guim.co.uk/ac2227e977f1fe31de4cb26ab33a750970eb0e42/405_0_2250_1800/500.jpg",
+      "published": "2026-07-06T16:41:47Z",
+      "location": {
+        "name": "Ottawa",
+        "lat": 45.4215,
+        "lng": -75.6972
+      },
+      "category": "economy",
+      "significance": 3,
+      "section": "world"
+    },
+    {
+      "id": "politics/2026/jul/06/angela-rayner-goes-full-beige-in-her-push-for-an-andy-burnham-promotion",
+      "headline": "Angela Rayner goes full beige in her push for an Andy Burnham promotion",
+      "summary": "Angela Rayner appears on LBC radio in cautious presenting effort, avoiding controversy in political career pivot.",
+      "url": "https://www.theguardian.com/p/x5e9tn",
+      "thumbnail": "https://media.guim.co.uk/0676cecbe34d795406dbcb22cf62fc4a80158994/1369_0_4631_3705/500.jpg",
+      "published": "2026-07-06T16:41:41Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 1,
+      "section": "politics"
+    },
+    {
+      "id": "business/2026/jul/06/easyjet-shares-jump-takeover-bid",
+      "headline": "EasyJet shares jump almost 10% after it agrees £5.5bn takeover bid",
+      "summary": "EasyJet shares surge nearly 10% after agreeing £5.5bn takeover from US private equity firm Castlelake.",
+      "url": "https://www.theguardian.com/p/x5e9jm",
+      "thumbnail": "https://media.guim.co.uk/cc8030f7ebde0558e52ab7701d81d92e27243336/1075_121_2084_1667/500.jpg",
+      "published": "2026-07-06T16:38:12Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "sport/2026/jul/06/kempton-park-future-uncertain-new-rules-bringing-wrecking-ball-closer-horse-racing",
+      "headline": "Kempton’s future uncertain with new rules bringing wrecking ball closer",
+      "summary": "Kempton Park racecourse faces uncertain future as government planning relaxation could threaten historic venue.",
+      "url": "https://www.theguardian.com/p/x5e994",
+      "thumbnail": "https://media.guim.co.uk/11093d65700e2765ea43d91e3a1f8a29459d586c/404_0_4493_3594/500.jpg",
+      "published": "2026-07-06T16:35:39Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 1,
+      "section": "sport"
+    },
+    {
+      "id": "books/2026/jul/06/inside-the-uks-first-romantasy-shop-bad-girl-books",
+      "headline": "‘It’s more than just fairy smut’: Inside the UK’s first romantasy bookshop",
+      "summary": "UK's first romantasy bookshop opens in Oxford, celebrating BookTok's spicy fantasy-romance genre popularity.",
+      "url": "https://www.theguardian.com/p/x5e8f8",
+      "thumbnail": "https://media.guim.co.uk/7119be2dccf967c752289b64496c9aa6f1240018/0_620_3866_3092/500.jpg",
+      "published": "2026-07-06T16:31:07Z",
+      "location": {
+        "name": "Oxford",
+        "lat": 51.752,
+        "lng": -1.2577
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "books"
+    },
+    {
+      "id": "fashion/2026/jul/06/jonathan-anderson-delivers-high-concept-dior-collection-that-celebrates-the-sculptural",
+      "headline": "Jonathan Anderson delivers high-concept Dior collection that celebrates the sculptural",
+      "summary": "Jonathan Anderson unveils high-concept sculptural Dior collection at Paris Fashion Week after designing Taylor Swift's wedding dress.",
+      "url": "https://www.theguardian.com/p/x5e9y2",
+      "thumbnail": "https://media.guim.co.uk/fe69547f468d903e8ca9537309665f57b1d77d90/655_0_3332_2666/500.jpg",
+      "published": "2026-07-06T16:25:00Z",
+      "location": {
+        "name": "Paris",
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "fashion"
+    },
+    {
+      "id": "politics/2026/jul/06/britains-defence-spending-plans-need-greater-scrutiny",
+      "headline": "Britain’s defence spending plans need greater scrutiny",
+      "summary": "Readers debate Britain's defence spending plans, questioning priority over domestic projects amid geopolitical tensions.",
+      "url": "https://www.theguardian.com/p/x5dkxg",
+      "thumbnail": "https://media.guim.co.uk/6e2ba0887b94223d80fe2236788a2d98ec0697fb/155_0_3393_2714/500.jpg",
+      "published": "2026-07-06T16:17:54Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
+    },
+    {
+      "id": "society/2026/jul/06/how-us-uk-drug-deal-will-benefit-patients",
+      "headline": "How US-UK drug deal will benefit patients",
+      "summary": "US-UK pharmaceutical agreement will increase NHS access to new medicines under reformed pricing arrangements.",
+      "url": "https://www.theguardian.com/p/x5dem3",
+      "thumbnail": "https://media.guim.co.uk/b974ca52879e21b9d9fd0c1249a9c4a16584b8f9/1118_0_5714_4572/500.jpg",
+      "published": "2026-07-06T16:17:11Z",
+      "location": {
+        "name": "United Kingdom",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "society"
+    },
+    {
+      "id": "music/2026/jul/06/the-stone-age-is-set-to-outlast-streaming",
+      "headline": "The Stone age is set to outlast streaming",
+      "summary": "Rolling Stones' enduring legacy across multiple music formats outlasts streaming era.",
+      "url": "https://www.theguardian.com/p/x5e46x",
+      "thumbnail": "https://media.guim.co.uk/014d85a155fb654a71f9cd8bcc78c50772cd1faf/182_0_2500_2000/500.jpg",
+      "published": "2026-07-06T16:15:24Z",
+      "location": {
+        "name": "United Kingdom",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "music"
+    },
+    {
+      "id": "environment/2026/jul/06/britain-and-other-countries-with-lower-emissions-must-not-pass-the-climate-buck",
+      "headline": "Britain and other countries with lower emissions must not pass the climate buck",
+      "summary": "UK and wealthy nations must commit to emissions reduction rather than claiming inability to prevent climate disasters.",
+      "url": "https://www.theguardian.com/p/x5d977",
+      "thumbnail": "https://media.guim.co.uk/f0f21d97a1c70817bc27eef5280e256c34631883/456_0_4560_3648/500.jpg",
+      "published": "2026-07-06T16:15:05Z",
+      "location": {
+        "name": "United Kingdom",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "climate",
+      "significance": 2,
+      "section": "environment"
     }
   ]
 }
