@@ -1,156 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-07-06T01:28:41.635Z",
-    "story_count": 90,
-    "oldest_story": "2026-07-05T04:45:36Z",
-    "newest_story": "2026-07-06T00:44:14Z",
+    "generated_at": "2026-07-06T06:07:36.435Z",
+    "story_count": 93,
+    "oldest_story": "2026-07-05T08:00:21Z",
+    "newest_story": "2026-07-06T06:00:04Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "australia-news/2026/jul/05/nsw-labor-to-adopt-tougher-pokies-stance-as-sydney-inner-west-mayor-says-momentum-for-real-reform-unstoppable",
-      "headline": "NSW Labor toughens pokies stance as Sydney inner west mayor says ‘momentum for real reform unstoppable’",
-      "summary": "NSW Labor conference backs plan to remove 50% of poker machines within 10 years.",
-      "url": "https://www.theguardian.com/p/x5exfz",
-      "thumbnail": "https://media.guim.co.uk/904ec6763444d0e3730fae2ca4cb5642223b2ffe/666_0_4000_3200/500.jpg",
-      "published": "2026-07-05T05:26:58Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "australia-news"
-    },
-    {
-      "id": "food/2026/jul/05/appalachia-london-n1-restaurant-review-grace-dent",
-      "headline": "Appalachia, London N1: ‘The chicken is like Sunday dinner on performance steroids’ – restaurant review",
-      "summary": "New Appalachian restaurant near Old Street serves authentic regional American cooking.",
-      "url": "https://www.theguardian.com/p/x5c2j7",
-      "thumbnail": "https://media.guim.co.uk/43e19bac0d73bab76f344e338c68b379b3dd3490/285_0_6407_5126/500.jpg",
-      "published": "2026-07-05T05:00:18Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "food"
-    },
-    {
-      "id": "news/ng-interactive/2026/jul/05/nigel-farage-reform-uk-speculation-future",
-      "headline": "Could Farage quit? Questions swirl over Reform UK leader’s future",
-      "summary": "Nigel Farage faces pressure over funding, electoral losses, and potential leadership challenges.",
-      "url": "https://www.theguardian.com/p/x5dj5e",
-      "thumbnail": "https://media.guim.co.uk/a5912984d3c83fce8f075755256db7af119cff30/0_1182_4000_3200/500.jpg",
-      "published": "2026-07-05T05:00:18Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "news"
-    },
-    {
-      "id": "environment/2026/jul/05/europe-air-conditioning-culture-wars-heat-up",
-      "headline": "From ‘heat panic’ to ‘sacrificed at the altar’: Europe’s air conditioning culture wars heat up",
-      "summary": "Record European heatwave sparks political debate over air conditioning amid extreme temperatures.",
-      "url": "https://www.theguardian.com/p/x5df27",
-      "thumbnail": "https://media.guim.co.uk/dcadf3b03db59ef6f42f9705f1596f882d55f9f2/22_475_1907_1525/500.jpg",
-      "published": "2026-07-05T05:00:18Z",
-      "location": {
-        "name": "Berlin",
-        "lat": 52.52,
-        "lng": 13.405
-      },
-      "category": "climate",
-      "significance": 2,
-      "section": "environment"
-    },
-    {
-      "id": "business/2026/jul/05/make-ed-miliband-chancellor-ex-chief-treasury-adviser-nicholas-stern-tells-andy-burnham",
-      "headline": "Make Ed Miliband chancellor, ex-chief Treasury adviser tells Andy Burnham",
-      "summary": "Former Treasury adviser calls for Ed Miliband appointment as chancellor to revive economy.",
-      "url": "https://www.theguardian.com/p/x5czn8",
-      "thumbnail": "https://media.guim.co.uk/feb460fe605512da316ce9e02a8192b562564053/454_0_4164_3333/500.jpg",
-      "published": "2026-07-05T05:00:17Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 2,
-      "section": "business"
-    },
-    {
-      "id": "stage/2026/jul/05/older-generation-signing-up-for-circus-uk",
-      "headline": "Roll up, roll up! Older generation find joy and fearlessness in circus",
-      "summary": "Over-50s increasingly join circus schools for trapeze, juggling, and hula-hooping classes.",
-      "url": "https://www.theguardian.com/p/x5ddvq",
-      "thumbnail": "https://media.guim.co.uk/1b046b89e1cc92c40e463aaeb1a4b2e8ce1eb6f6/0_1175_5875_4700/500.jpg",
-      "published": "2026-07-05T05:00:17Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "stage"
-    },
-    {
-      "id": "environment/2026/jun/21/h5-bird-flu-australia-wildlife-emergency-explainer-h5n1",
-      "headline": "‘A genuine wildlife emergency’: everything you need to know about the arrival of H5 bird flu in Australia",
-      "summary": "H5N1 bird flu arrives on Australian mainland, raising concerns for wildlife and agriculture.",
-      "url": "https://www.theguardian.com/p/x5b53z",
-      "thumbnail": "https://media.guim.co.uk/097bd8c3d0042fd3eee4dcf63bdce122137d1f57/132_95_2334_1869/500.jpg",
-      "published": "2026-07-05T04:50:32Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "health",
-      "significance": 3,
-      "section": "environment"
-    },
-    {
-      "id": "australia-news/2026/jun/29/h5n1-bird-flu-australia-risk-to-pets",
-      "headline": "A deadly strain of bird flu has landed on Australian shores. Does it pose a risk to pets?",
-      "summary": "H5N1 bird flu poses potential risk to Australian pets; cases rare but may go undiagnosed.",
-      "url": "https://www.theguardian.com/p/x5ch88",
-      "thumbnail": "https://media.guim.co.uk/49c6a48237ef383b780ad0491d8002dcca17417a/867_695_2372_1898/500.jpg",
-      "published": "2026-07-05T04:49:15Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "health",
-      "significance": 2,
-      "section": "world"
-    },
-    {
-      "id": "environment/2026/jul/02/what-does-the-arrival-of-bird-flu-in-australia-mean-for-poultry-and-will-eggs-be-more-expensive",
-      "headline": "What does the arrival of bird flu in Australia mean for poultry and will eggs be more expensive?",
-      "summary": "H5N1 outbreak could push Australian egg prices above $10 per carton if poultry infected.",
-      "url": "https://www.theguardian.com/p/x5c6en",
-      "thumbnail": "https://media.guim.co.uk/a2f35406dac6d4d3723768f59946fd760217a7d3/0_0_2500_2000/500.jpg",
-      "published": "2026-07-05T04:45:36Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "economy",
-      "significance": 2,
-      "section": "environment"
-    },
     {
       "id": "world/2026/jul/05/why-viktor-orban-favourite-thinktank-is-in-crisis",
       "headline": "‘Attack on civil society’: why Viktor Orbán’s favourite thinktank is in crisis",
@@ -1446,6 +1302,198 @@
       "category": "culture",
       "significance": 2,
       "section": "stage"
+    },
+    {
+      "id": "society/2026/jul/06/half-affordable-new-homes-rural-england-risk-planning-rules-relaxed-analysis",
+      "headline": "Half of affordable new homes in rural England could be at risk if planning rules relaxed, analysis shows",
+      "summary": "Relaxing planning rules could threaten 32,000 affordable homes in rural England over decade.",
+      "url": "https://www.theguardian.com/p/x5e334",
+      "thumbnail": "https://media.guim.co.uk/64e812a49d97a8a7b0059a23dfa5b8f18466f293/635_0_2733_2187/500.jpg",
+      "published": "2026-07-06T06:00:04Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "society"
+    },
+    {
+      "id": "film/2026/jul/06/a-place-in-the-sun-review-expose-of-the-canary-islands",
+      "headline": "A Place in the Sun review – subversive exposé of picture-postcard luxury in the Canary Islands",
+      "summary": "Documentary exposes contrast between luxurious tourist resorts and asylum seekers sustaining them.",
+      "url": "https://www.theguardian.com/p/x5djzt",
+      "thumbnail": "https://media.guim.co.uk/327792c3b9112d85dfe59dba048c994b08445342/24_0_2317_1855/500.jpg",
+      "published": "2026-07-06T06:00:04Z",
+      "location": {
+        "name": "Canary Islands",
+        "lat": 28.2915,
+        "lng": -16.6291
+      },
+      "category": "culture",
+      "significance": 2,
+      "section": "film"
+    },
+    {
+      "id": "travel/2026/jul/06/crete-treats-a-chefs-tour-of-her-favourite-greek-island",
+      "headline": "Crete treats: a chef’s tour of her favourite Greek island",
+      "summary": "Chef explores Crete's ancient culinary traditions through family-run tavernas and local produce.",
+      "url": "https://www.theguardian.com/p/x58kpe",
+      "thumbnail": "https://media.guim.co.uk/124f2763ee9733b61a2e1cbd13032d690ab53ada/1127_1354_3662_2930/500.jpg",
+      "published": "2026-07-06T06:00:03Z",
+      "location": {
+        "name": "Crete",
+        "lat": 35.3387,
+        "lng": 25.1358
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "travel"
+    },
+    {
+      "id": "money/2026/jul/06/john-lewis-dishwasher-leak-repairs-insurance",
+      "headline": "John Lewis dishwasher leak forced buyers into hotels for eight months",
+      "summary": "John Lewis dishwasher leak left elderly couple homeless for eight months without accountability.",
+      "url": "https://www.theguardian.com/p/x5bthf",
+      "thumbnail": "https://media.guim.co.uk/295762c7286b5bc06c3056c30c215e3562293cc9/202_0_5600_4480/500.jpg",
+      "published": "2026-07-06T06:00:03Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 1,
+      "section": "money"
+    },
+    {
+      "id": "football/live/2026/jul/06/world-cup-2026-england-set-up-norway-quarter-final-after-mexico-thriller-trump-lobbied-for-balogun-red-card-reversal-live",
+      "headline": "World Cup 2026: England set up Norway quarter-final after Mexico thriller; Trump lobbied for Balogun red-card reversal – live",
+      "summary": "England defeats Mexico 3-2 in World Cup thriller to face Norway in quarter-final.",
+      "url": "https://www.theguardian.com/p/x5ev4d",
+      "thumbnail": "https://media.guim.co.uk/1ee984c2dad6268b7dd10590b65fa5b940822948/427_0_5273_4218/500.jpg",
+      "published": "2026-07-06T05:56:36Z",
+      "location": {
+        "name": "Dallas",
+        "lat": 32.7767,
+        "lng": -96.797
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
+    },
+    {
+      "id": "sport/2026/jul/06/nathan-fitzgerald-epping-footballer-victoria-head-injury-aussie-rules-football-game",
+      "headline": "Melbourne teacher receiving end-of-life care after horror head clash during suburban football game ",
+      "summary": "Melbourne footballer Nathan Fitzgerald, 27, receiving end-of-life care after horror head injury.",
+      "url": "https://www.theguardian.com/p/x5e6b8",
+      "thumbnail": "https://media.guim.co.uk/d121aed2df0ff8174a874b63eed448ce6759e3f9/434_234_646_517/500.jpg",
+      "published": "2026-07-06T05:56:32Z",
+      "location": {
+        "name": "Melbourne",
+        "lat": -37.8136,
+        "lng": 144.9631
+      },
+      "category": "health",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "world/2026/jul/06/monday-briefing-who-are-the-people-trying-to-protect-our-right-to-protest",
+      "headline": "Monday briefing: Who are the people trying to protect our right to protest?",
+      "summary": "Elderly retired priest arrested in Gaza protest; Palestine Action proscription triggers moral duty.",
+      "url": "https://www.theguardian.com/p/x5djny",
+      "thumbnail": "https://media.guim.co.uk/1e07321e55ff0bcb35040caa49dbfc4829c071b7/437_0_5000_4000/500.jpg",
+      "published": "2026-07-06T05:48:34Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "world"
+    },
+    {
+      "id": "australia-news/2026/jul/06/mysterious-space-balls-queensland-beaches-origin-source-australia",
+      "headline": "Australian Space Agency reveals likely origin of mysterious ‘space balls’ found on Queensland beaches",
+      "summary": "Australian Space Agency confirms mysterious Queensland beach 'space balls' are foreign rocket debris.",
+      "url": "https://www.theguardian.com/p/x5e6qv",
+      "thumbnail": "https://media.guim.co.uk/4f306b17811ef4803c18edba89b91e28bda63076/741_276_1769_1414/500.jpg",
+      "published": "2026-07-06T05:42:30Z",
+      "location": {
+        "name": "Forrest Beach",
+        "lat": -17.9833,
+        "lng": 146.35
+      },
+      "category": "tech",
+      "significance": 2,
+      "section": "australia-news"
+    },
+    {
+      "id": "us-news/2026/jul/06/dont-mention-the-special-relationship-how-should-uks-next-pm-handle-donald-trump",
+      "headline": "‘Don’t mention the special relationship’: how should UK’s next PM handle Donald Trump?",
+      "summary": "UK's next PM Andy Burnham faces challenge managing relationship with unpredictable Trump.",
+      "url": "https://www.theguardian.com/p/x5djqk",
+      "thumbnail": "https://media.guim.co.uk/9a7a249a590b4ef37a12301407a34a24c51d478c/0_0_788_630/500.jpg",
+      "published": "2026-07-06T05:00:04Z",
+      "location": {
+        "name": "Washington DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "us-news"
+    },
+    {
+      "id": "business/2026/jul/06/bt-female-chief-executive-allison-kirkby",
+      "headline": "How BT’s ‘no nonsense’ first female chief helped turn company around",
+      "summary": "BT's first female CEO Allison Kirkby achieved 80% share price rise but faces growth pressure.",
+      "url": "https://www.theguardian.com/p/x5cn4x",
+      "thumbnail": "https://media.guim.co.uk/261014d4858e9029cbaceea86a11a6d4daf7698d/323_0_2986_2389/500.jpg",
+      "published": "2026-07-06T05:00:04Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "economy",
+      "significance": 2,
+      "section": "business"
+    },
+    {
+      "id": "science/2026/jul/06/starwatch-waning-crescent-moon-pairs-up-with-the-seven-sisters",
+      "headline": "Starwatch: Waning crescent moon pairs up with the Seven Sisters",
+      "summary": "Waning crescent moon pairs with Pleiades star cluster in early morning July 11 viewing.",
+      "url": "https://www.theguardian.com/p/x5acty",
+      "thumbnail": "https://media.guim.co.uk/fe3831c94c0e1f3efe5c7b1cb0bc8c21391411e8/304_6_657_526/500.jpg",
+      "published": "2026-07-06T05:00:02Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "culture",
+      "significance": 1,
+      "section": "science"
+    },
+    {
+      "id": "football/2026/jul/06/thomas-tuchel-england-mexico-world-cup-jarell-quansah-tactics",
+      "headline": "Clear-headed Thomas Tuchel engineers 10-man England’s defensive masterclass ",
+      "summary": "Thomas Tuchel's England executes defensive masterclass against Mexico in World Cup 2026 with 10 players.",
+      "url": "https://www.theguardian.com/p/x5e76q",
+      "thumbnail": "https://media.guim.co.uk/3088b947abad7f4500b54d9b3e8bca0041ad4e1f/0_0_1877_1501/500.jpg",
+      "published": "2026-07-06T04:58:37Z",
+      "location": {
+        "name": "Mexico City",
+        "lat": 19.4326,
+        "lng": -99.1332
+      },
+      "category": "sport",
+      "significance": 3,
+      "section": "football"
     }
   ]
 }
