@@ -1,108 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-07-06T17:24:27.258Z",
-    "story_count": 89,
-    "oldest_story": "2026-07-05T17:30:47Z",
-    "newest_story": "2026-07-06T17:18:10Z",
+    "generated_at": "2026-07-06T19:17:34.564Z",
+    "story_count": 86,
+    "oldest_story": "2026-07-05T19:24:31Z",
+    "newest_story": "2026-07-06T19:08:08Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/2026/jul/05/paraguay-france-morocco-world-cup-2026",
-      "headline": "Paraguay showed France can be stifled – Morocco will have taken note",
-      "summary": "France advances to World Cup quarter-finals with unconvincing win over Paraguay in Philadelphia.",
-      "url": "https://www.theguardian.com/p/x5e498",
-      "thumbnail": "https://media.guim.co.uk/b7244bbbbe21c8405fa3cab3f4a7c1364ce14b4b/393_0_6880_5504/500.jpg",
-      "published": "2026-07-05T17:39:30Z",
-      "location": {
-        "name": "Philadelphia",
-        "lat": 39.9526,
-        "lng": -75.1652
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "education/2026/jul/05/daphne-medley-obituary",
-      "headline": "Daphne Medley obituary",
-      "summary": "Daphne Medley, pioneering female mathematician at Cambridge, dies aged 105.",
-      "url": "https://www.theguardian.com/p/x58yf9",
-      "thumbnail": "https://media.guim.co.uk/f336e1246c6f7698f96ca066ca371d8718ae38e2/59_132_2436_1949/500.jpg",
-      "published": "2026-07-05T17:30:47Z",
-      "location": {
-        "name": "Cambridge",
-        "lat": 52.2053,
-        "lng": 0.1218
-      },
-      "category": "culture",
-      "significance": 1,
-      "section": "education"
-    },
-    {
-      "id": "sport/2026/jul/05/australia-england-womens-t20-world-cup-final-match-report-cricket",
-      "headline": "Mooney leads charge as Australia regain T20 World Cup and crush England’s dreams",
-      "summary": "Australia defeats England by 7 wickets to win T20 World Cup final.",
-      "url": "https://www.theguardian.com/p/x5e35g",
-      "thumbnail": "https://media.guim.co.uk/ea7ae8a3ac8d9ffc3b58f82f5e397b270316c38d/449_502_4078_3263/500.jpg",
-      "published": "2026-07-05T19:13:05Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "sport"
-    },
-    {
-      "id": "politics/2026/jul/05/ai-hiroshima-style-threat-humanity-global-rules-yvette-cooper",
-      "headline": "AI poses ‘Hiroshima’-style threat to humanity without global rules, says Cooper",
-      "summary": "UK Foreign Secretary warns AI poses 'Hiroshima-style' threat without global rules.",
-      "url": "https://www.theguardian.com/p/x5e4vy",
-      "thumbnail": "https://media.guim.co.uk/58eb5683fd870afe098aa0ea0fc182a651ee9634/698_0_6880_5504/500.jpg",
-      "published": "2026-07-05T19:00:34Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "politics",
-      "significance": 3,
-      "section": "politics"
-    },
-    {
-      "id": "us-news/2026/jul/05/heatwave-deaths-weather",
-      "headline": "At least 25 people die in US as record heatwave scorches swaths of country",
-      "summary": "Record US heatwave kills at least 25 people across 20+ states.",
-      "url": "https://www.theguardian.com/p/x5e4by",
-      "thumbnail": "https://media.guim.co.uk/b9ede89a0f8bb13b98da0ade36fb4c16b12f0e67/215_0_6463_5170/500.jpg",
-      "published": "2026-07-05T18:49:28Z",
-      "location": {
-        "name": "Washington DC",
-        "lat": 38.9072,
-        "lng": -77.0369
-      },
-      "category": "climate",
-      "significance": 3,
-      "section": "us-news"
-    },
-    {
-      "id": "sport/2026/jul/05/novak-djokovic-roman-safiullin-wimbledon-2026-last-16-match-report-tennis",
-      "headline": "Djokovic breaks Wimbledon record with win over Safiullin to reach quarter-finals",
-      "summary": "Djokovic achieves 106th Wimbledon victory, sets record en route to quarter-finals.",
-      "url": "https://www.theguardian.com/p/x5e39b",
-      "thumbnail": "https://media.guim.co.uk/77e451e2eb4e825b4cc52fb9fbf23ae7700953f7/416_248_1928_1543/500.jpg",
-      "published": "2026-07-05T18:18:59Z",
-      "location": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
-      "category": "sport",
-      "significance": 2,
-      "section": "sport"
-    },
     {
       "id": "football/live/2026/jul/05/brazil-v-norway-world-cup-2026-last-16-live",
       "headline": "Brazil v Norway: World Cup 2026 last 16 – live",
@@ -1430,6 +1334,54 @@
       "category": "climate",
       "significance": 2,
       "section": "environment"
+    },
+    {
+      "id": "sport/2026/jul/06/rising-star-alexandra-eala-wins-hearts-and-minds-but-falls-to-jasmine-paolini",
+      "headline": "Rising star Alexandra Eala wins hearts and minds but falls to Jasmine Paolini",
+      "summary": "Alexandra Eala loses Wimbledon last-16 to Jasmine Paolini 4-6, 6-4, 6-3.",
+      "url": "https://www.theguardian.com/p/x5e97h",
+      "thumbnail": "https://media.guim.co.uk/b738829f8f8ee2829b9ca0eef7626a1f719240d8/500_0_5000_4000/500.jpg",
+      "published": "2026-07-06T19:08:08Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "sport",
+      "significance": 2,
+      "section": "sport"
+    },
+    {
+      "id": "world/2026/jul/06/iran-tehran-ali-khamenei-funeral-day-four",
+      "headline": "‘We are Iran’s true missiles’: millions gather in Tehran for day four of Ali Khamenei’s funeral",
+      "summary": "Millions gather in Tehran for day four of Ali Khamenei's funeral amid revenge calls.",
+      "url": "https://www.theguardian.com/p/x5e9gh",
+      "thumbnail": "https://media.guim.co.uk/94bfbab75ede71fbf8e87600874ebe7030e419f1/1198_0_6002_4800/500.jpg",
+      "published": "2026-07-06T18:54:35Z",
+      "location": {
+        "name": "Tehran",
+        "lat": 35.6892,
+        "lng": 51.3889
+      },
+      "category": "politics",
+      "significance": 4,
+      "section": "world"
+    },
+    {
+      "id": "politics/2026/jul/06/reform-uk-nigel-farage-george-cottrell",
+      "headline": "Fraudster George Cottrell seen at numerous Reform events despite ‘no formal role’ in party",
+      "summary": "Convicted fraudster George Cottrell frequently seen at Reform UK events with Nigel Farage.",
+      "url": "https://www.theguardian.com/p/x5e8en",
+      "thumbnail": "https://media.guim.co.uk/6504876f5591c52544310b10cbbd98c1301de664/117_0_3177_2543/500.jpg",
+      "published": "2026-07-06T18:26:31Z",
+      "location": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "politics",
+      "significance": 2,
+      "section": "politics"
     }
   ]
 }
