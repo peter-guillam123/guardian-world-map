@@ -1,44 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-07-06T23:43:43.402Z",
-    "story_count": 81,
-    "oldest_story": "2026-07-06T00:30:37Z",
-    "newest_story": "2026-07-06T23:42:29Z",
+    "generated_at": "2026-07-07T01:27:19.747Z",
+    "story_count": 80,
+    "oldest_story": "2026-07-06T04:58:37Z",
+    "newest_story": "2026-07-07T01:08:15Z",
     "window_hours": 24
   },
   "stories": [
-    {
-      "id": "football/2026/jul/06/erling-haaland-one-of-the-sickest-days-norway-history-beating-brazil-world-cup",
-      "headline": "Erling Haaland hails ‘one of the sickest days’ in Norway’s history after beating Brazil",
-      "summary": "Norway beats Brazil in World Cup quarter-finals, historic first-time achievement in tournament.",
-      "url": "https://www.theguardian.com/p/x5e67h",
-      "thumbnail": "https://media.guim.co.uk/f78b6828c7c80d16aae48314cb6d81d8857af499/269_0_5328_4264/500.jpg",
-      "published": "2026-07-06T00:44:14Z",
-      "location": {
-        "name": "Norway",
-        "lat": 60.472,
-        "lng": 8.4689
-      },
-      "category": "sport",
-      "significance": 3,
-      "section": "football"
-    },
-    {
-      "id": "stage/2026/jul/06/doubt-a-parable-review-sydney-theatre-company",
-      "headline": "Doubt: A Parable review – Sam Reid and Pamela Rabe go head-to-head in electrifying drama",
-      "summary": "Sydney Theatre Company's production of 'Doubt: A Parable' features Reid and Rabe in electrifying drama.",
-      "url": "https://www.theguardian.com/p/x5e6vn",
-      "thumbnail": "https://media.guim.co.uk/43da72a1c528c285027ff43100e089ce4c9d52b5/181_0_1600_1280/500.jpg",
-      "published": "2026-07-06T00:30:37Z",
-      "location": {
-        "name": "Sydney",
-        "lat": -33.8688,
-        "lng": 151.2093
-      },
-      "category": "culture",
-      "significance": 2,
-      "section": "stage"
-    },
     {
       "id": "society/2026/jul/06/half-affordable-new-homes-rural-england-risk-planning-rules-relaxed-analysis",
       "headline": "Half of affordable new homes in rural England could be at risk if planning rules relaxed, analysis shows",
@@ -1301,6 +1269,22 @@
       },
       "category": "sport",
       "significance": 4,
+      "section": "football"
+    },
+    {
+      "id": "football/2026/jul/07/lionel-messi-mo-salah-egypt-argentina-world-cup",
+      "headline": "‘They have Messi, but we have Salah’: Egypt prepare to take on Argentina",
+      "summary": "Egypt prepares to face Argentina in World Cup 2026 match featuring Messi and Salah.",
+      "url": "https://www.theguardian.com/p/x5e9q6",
+      "thumbnail": "https://media.guim.co.uk/1abb31c3d0de741621513664d41ab1146afe140b/234_0_3403_2721/500.jpg",
+      "published": "2026-07-07T01:08:15Z",
+      "location": {
+        "name": "Dallas",
+        "lat": 32.7767,
+        "lng": -96.797
+      },
+      "category": "sport",
+      "significance": 3,
       "section": "football"
     }
   ]
